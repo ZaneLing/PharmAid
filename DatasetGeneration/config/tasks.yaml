@@ -1,0 +1,10 @@
+extract_patient_info_task:
+  description: >
+    Given a medical record text: {text}, extract the information into a structured JSON format.
+  expected_output: >
+    A structured JSON file containing two sections:
+    1. Basic Information: A list of key-value pairs for basic information of the patient.
+    2. Other Information: A list of key-value pairs for other relevant information before the admission. 
+    3. Symptoms: A list of symptoms described at the time of admission.
+  agent: data_cleaner
+  output_file: output/patient_description.json

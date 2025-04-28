@@ -1,0 +1,7 @@
+recommend_prescription_task:
+  description: >
+    Given a list of symptoms: {symptom}, recommend appropriate medications and generate a prescription.
+  expected_output: >
+    A structured prescription including the recommended medications, dosage, frequency, and any special instructions.
+  agent: prescription_doctor
+  output_file: output/prescription.json

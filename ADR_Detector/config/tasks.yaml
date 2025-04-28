@@ -1,0 +1,7 @@
+drug_adr_detector_task:
+  description: >
+    Given a drug name: {drug}, search the XML file for associated adverse drug reactions (ADRs).
+  expected_output: >
+    A structured JSON file containing the drug name, a list of associated ADRs, and the source of the data.
+  agent: drug_adr_detector
+  output_file: output/drug_adr.json

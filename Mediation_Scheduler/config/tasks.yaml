@@ -1,0 +1,7 @@
+medication_schedule_task:
+  description: >
+    Generate a personalized medication schedule and dosage recommendations for the drug: {drug} according to the patient's base information:{Base_Info}.
+  expected_output: >
+    A detailed medication schedule including dosage, timing, and any special instructions for the drug
+  agent: medication_schedule_recommender
+  output_file: output/medication_schedule.json

@@ -1,0 +1,7 @@
+drug_info_capture_task:
+  description: >
+    Given a drug name: {drug}, capture the information of the drug from the information website of the drug.
+  expected_output: >
+    The information of the drug, including the drug name, drug type, drug description, drug side effects, drug usage, and other information.
+  agent: drug_info_cpaturer
+  output_file: output/drug_info.json
