@@ -1,0 +1,46 @@
+{
+    "Patient_demographics": [
+        "Name: Not provided",
+        "Unit No: Not provided",
+        "Admission Date: Not provided",
+        "Discharge Date: Not provided",
+        "Date of Birth: Not provided",
+        "Sex: F",
+        "Service: MEDICINE"
+    ],
+    "Diagnoses": [
+        "Metastatic disease of unknown primary: Weakness and nausea likely from tumor burden"
+    ],
+    "Allergy_history_past_medical_history": [
+        "Allergies: Sulfa (Sulfonamide Antibiotics) / Codeine / Bactrim",
+        "PMH: # high grade SBO ___ s/p exploratory laparotomy, lysis of adhesions, and small bowel resection with enteroenterostomy, # carcinoid, # hyperlipidemia, # vitamin B12 deficiency, # cervical DJD, # osteoarthritis",
+        "PSH: s/p R lung resection, s/p hysterectomy, s/p R arm surgery",
+        "Family History: Mother - ___ cancer d. at ___, Father - ___ d. at ___"
+    ],
+    "Current_medications": [
+        "1. Albuterol Inhaler ___ PUFF IH Q6H:PRN SOB",
+        "2. BuPROPion 150 mg PO DAILY",
+        "3. Gabapentin 300 mg PO HS",
+        "4. Sertraline 200 mg PO DAILY",
+        "5. traZODONE 100 mg PO HS:PRN sleep",
+        "6. Ondansetron 4 mg PO Q8H:PRN nausea",
+        "7. Bisacodyl 10 mg PO/PR DAILY:PRN constipation",
+        "8. OxycoDONE (Immediate Release) 5 mg PO Q6H:PRN pain please hold for sedation, RR<10 RX *oxycodone 5 mg 1 tablet(s) by mouth every 6 hours Disp #*30 Tablet Refills:*0",
+        "9. Enoxaparin Sodium 40 mg SC DAILY"
+    ],
+    "History_of_present_illness": [
+        "This is a ___ yo f with h/o recently diagnosed metastatic cancer of unknown primary presenting with nausea, vomiting, and fever to 101 today.",
+        "Patient has been vomiting over the past 6 - 8 weeks, since before she was diagnosed with metastatic cancer.",
+        "She also reports pain over her upper abdomen and has very poor PO intake. She has been feeling weak and progressively weaker over time period.",
+        "Chronic non-productive cough, constipation, lower extremity edema for several weeks.",
+        "New left-sided opacity on CXR, pneumonia treated with vanc and cefepime."
+    ],
+    "Inspection_findings": [
+        "Admission Physical Exam: Obese woman, distant breath sounds, decreased on the right, markedly enlarged liver palpable.",
+        "Discharge Physical Exam: Alert, oriented, obese, decreased breath sound on the left lung field, no murmurs, rubs, or gallops."
+    ],
+    "Other_relevant_information_before_the_admission": [
+        "REVIEW OF SYSTEMS: (+) per HPI (history of present illness), (-) night sweats, headache, vision changes, no URI symptoms, no urinary complaints.",
+        "Previous biopsied postponed due to ibuprofen intake, significant labs included WBC elevation, ketones in UA, low albumin."
+    ]
+}

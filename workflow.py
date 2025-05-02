@@ -1,109 +1,137 @@
+import os
+from dotenv import load_dotenv
 
+from Patient_Info_Cleaner.Patient_info_cleaner import patient_info_clean_process
+from ADR_Detector.adr_detector import ADR_Detector
+from Diagnosis_Module.diagnosis import generate_diagnosis
+from Drug_Selection_Module.drug_selector import select_initial_drugs
+from Interaction_Check_Module.interaction_checker import check_drug_interactions
+from Patient_Conflict_Module.conflict_checker import check_patient_conflicts
+from ADE_Module.ade_retriever import retrieve_ade_reports
+from Dose_Recommendation_Module.dose_recommender import recommend_doses
 
-    # topic1["Topic: PatientInfoReady"]
-    # topic2["Topic: DiagnosisReady"]
-    # topic3["Topic: DrugCandidatesReady"]
-    # topic4["Topic: InteractionCheckReady"]
-    # topic5["Topic: PatientConflictReady"]
-    # topic6["Topic: ADEReportReady"]
-    # topic7["Topic: DoseRecommendationReady"]
+# 加载环境变量
+load_dotenv()
+oak = os.getenv("OPENAI_API_KEY")
+os.environ["OPENAI_API_KEY"] = oak
 
-
-class PubSubBroker:
+# 黑板实现
+class Blackboard:
     def __init__(self):
-        self.subscribers = {}
+        self.data = {}
 
-    def subscribe(self, topic, handler):
-        self.subscribers.setdefault(topic, []).append(handler)
+    def write(self, key, value):
+        print(f"[Blackboard] 写入: {key} -> {value}")
+        self.data[key] = value
 
-    def publish(self, topic, message):
-        print(f"[Broker] 发布到主题 '{topic}': {message}")
-        for handler in self.subscribers.get(topic, []):
-            handler(message)
+    def read(self, key):
+        value = self.data.get(key)
+        print(f"[Blackboard] 读取: {key} -> {value}")
+        return value
 
-# 初始化消息总线
-broker = PubSubBroker()
+# 初始化黑板
+blackboard = Blackboard()
 
 # 1. 信息处理 Agent
 def info_processing_agent(raw_text):
-    # 简单示例：解析字符串，生成 PatientInfo 字典
-    patient_info = {
-        'patientId': 'P001',
-        'age': 65,
-        'sex': 'M',
-        'history': ['HTN', 'T2DM'],
-        'labs': {'BP': '160/95', 'Cr': 2.1}
-    }
-    broker.publish('PatientInfoReady', patient_info)
+    try:
+        patient_info = clean_patient_info(raw_text)
+        blackboard.write('PatientInfo', patient_info)
+    except Exception as e:
+        print(f"[Info Processing Agent] 处理患者信息时出错: {e}")
 
 # 2. 诊断 Agent
-def diagnosis_agent(patient_info):
-    diagnoses = [
-        {'diag': 'Uncontrolled Hypertension', 'conf': 0.85},
-        {'diag': 'CKD Stage 3', 'conf': 0.75}
-    ]
-    broker.publish('DiagnosisReady', diagnoses)
+def diagnosis_agent():
+    try:
+        patient_info = blackboard.read('PatientInfo')
+        diagnoses = generate_diagnosis(patient_info)
+        blackboard.write('Diagnosis', diagnoses)
+    except Exception as e:
+        print(f"[Diagnosis Agent] 生成诊断时出错: {e}")
 
 # 3. 药物初选 Agent
-def drug_initial_selection_agent(diagnoses):
-    candidates = ['Lisinopril', 'Amlodipine']
-    broker.publish('DrugCandidatesReady', candidates)
+def drug_initial_selection_agent():
+    try:
+        diagnoses = blackboard.read('Diagnosis')
+        candidates = select_initial_drugs(diagnoses)
+        blackboard.write('DrugCandidates', candidates)
+    except Exception as e:
+        print(f"[Drug Initial Selection Agent] 药物初选时出错: {e}")
 
 # 4. 药物–药物交互 Agent
-def drug_interaction_check_agent(candidates):
-    report = [{'pair': ['Lisinopril', 'Amlodipine'], 'severity': 'low'}]
-    broker.publish('InteractionCheckReady', report)
+def drug_interaction_check_agent():
+    try:
+        candidates = blackboard.read('DrugCandidates')
+        interaction_report = check_drug_interactions(candidates)
+        blackboard.write('InteractionCheck', interaction_report)
+    except Exception as e:
+        print(f"[Drug Interaction Check Agent] 检查药物交互时出错: {e}")
 
 # 5. 药物–患者冲突 Agent
-def patient_conflict_check_agent(candidates):
-    # 假设无冲突
-    filtered = candidates
-    broker.publish('PatientConflictReady', filtered)
+def patient_conflict_check_agent():
+    try:
+        candidates = blackboard.read('DrugCandidates')
+        filtered_candidates = check_patient_conflicts(candidates)
+        blackboard.write('PatientConflict', filtered_candidates)
+    except Exception as e:
+        print(f"[Patient Conflict Check Agent] 检查患者冲突时出错: {e}")
 
 # 6. 不良反应检索 Agent
-def ade_retrieval_agent(candidates):
-    ade_report = [
-        {'drug': 'Lisinopril', 'ADEs': [{'event': 'Cough', 'prob': 0.2}]},
-        {'drug': 'Amlodipine', 'ADEs': [{'event': 'Peripheral edema', 'prob': 0.15}]}  
-    ]
-    broker.publish('ADEReportReady', ade_report)
+def ade_retrieval_agent():
+    try:
+        candidates = blackboard.read('DrugCandidates')
+        ade_report = retrieve_ade_reports(candidates)
+        blackboard.write('ADEReport', ade_report)
+    except Exception as e:
+        print(f"[ADE Retrieval Agent] 检索不良反应时出错: {e}")
 
 # 7. 剂量推荐 Agent
-def dose_recommendation_agent(data):
-    # data 包含 patient_conflicts 和 ade_reports
-    patient_conflicts, ade_reports = data
-    doses = [
-        {'drug': 'Lisinopril', 'dose': '10 mg QD'},
-        {'drug': 'Amlodipine', 'dose': '5 mg QD'}
-    ]
-    broker.publish('DoseRecommendationReady', doses)
+def dose_recommendation_agent():
+    try:
+        patient_conflicts = blackboard.read('PatientConflict')
+        ade_reports = blackboard.read('ADEReport')
+        doses = recommend_doses(patient_conflicts, ade_reports)
+        blackboard.write('DoseRecommendation', doses)
+    except Exception as e:
+        print(f"[Dose Recommendation Agent] 推荐剂量时出错: {e}")
 
 # 8. 协调器 Agent
-def orchestrator_agent(doses):
-    prescription = [f"{d['drug']} {d['dose']}" for d in doses]
-    notes = "监测咳嗽与血钾水平"
-    result = {'prescription': prescription, 'notes': notes}
-    print(f"[Orchestrator] 最终处方建议: {result}")
+def orchestrator_agent():
+    try:
+        doses = blackboard.read('DoseRecommendation')
+        prescription = [f"{d['drug']} {d['dose']}" for d in doses]
+        notes = "监测咳嗽与血钾水平"
+        result = {'prescription': prescription, 'notes': notes}
+        blackboard.write('FinalDecision', result)
+        print(f"[Orchestrator] 最终处方建议: {result}")
+    except Exception as e:
+        print(f"[Orchestrator Agent] 生成最终决策时出错: {e}")
 
-# 订阅主题
-broker.subscribe('PatientInfoReady', diagnosis_agent)
-broker.subscribe('DiagnosisReady', drug_initial_selection_agent)
-broker.subscribe('DrugCandidatesReady', drug_interaction_check_agent)
-broker.subscribe('DrugCandidatesReady', patient_conflict_check_agent)
-broker.subscribe('DrugCandidatesReady', ade_retrieval_agent)
-# 将 patient_conflict 和 ade_report 联合传入剂量推荐 agent
-# 简单实现：在两个结果均准备好后调用
-_ready = {}
-def _combine_and_publish(topic, payload, key):
-    _ready[key] = payload
-    if 'conflicts' in _ready and 'ades' in _ready:
-        dose_recommendation_agent((_ready['conflicts'], _ready['ades']))
-
-broker.subscribe('PatientConflictReady', lambda p: _combine_and_publish('PatientConflictReady', p, 'conflicts'))
-broker.subscribe('ADEReportReady', lambda p: _combine_and_publish('ADEReportReady', p, 'ades'))
-
-broker.subscribe('DoseRecommendationReady', orchestrator_agent)
-
+# 主流程
 if __name__ == '__main__':
     raw_text = "患者，男，65 岁，主诉乏力；既往高血压 10 年，2 型糖尿病 8 年；近期血压 160/95 mmHg，血肌酐 2.1 mg/dL。"
+
+    # 按顺序调用各个 Agent
+    print("---------Patient Information Extraction---------")
     info_processing_agent(raw_text)
+
+    print("---------Diagnosis---------")
+    diagnosis_agent()
+
+    print("---------Drug Initial Selection---------")
+    drug_initial_selection_agent()
+
+    print("---------Drug Interaction Check---------")
+    drug_interaction_check_agent()
+
+    print("---------Patient Conflict Check---------")
+    patient_conflict_check_agent()
+
+    print("---------ADE Retrieval---------")
+    ade_retrieval_agent()
+
+    print("---------Dose Recommendation---------")
+    dose_recommendation_agent()
+
+    print("---------Final Decision---------")
+    orchestrator_agent()

@@ -1,10 +1,20 @@
 patient_info_cleaner_task:
   description: >
-    Given a patient statement: {statement}, convert the statement into a list of the patient's
-    conditions, including name, age, gender, weight(cm), height(kg), bad habits, symptom, and
-    other information.
+     Please provide a free text clinical note of a patient: {statement}, which is a txt file.
+     You need to convert this free text into structured text, extract, summarize and refine the information, 
+     and summarize the free text into the following categories.
+      1. Patient Demographics:: A list of key-value pairs for basic information of the patient;
+      2. Diagnose Result: the diagnosis result of the patient;
+      3. Allergy history and past medical history;
+      4. Current medications;
+      5. History of present illness;
+      6. Inspection findings;
+      7. Other relevant information before the admission;
   expected_output: >
-    A list of the patient's conditions, including name, age,gender, weight(cm),
-    height(kg), symptom, and other information.
+      Patient_Demographics: list[str]
+      Allergy_history_past_medical_history: list[str]
+      Current_medications: list[str]
+      History_of_present_illness: list[str]
+      Other_relevant_information_before_the_admission: list[str]
   agent: patient_info_cleaner
   output_file: output/drug_info.json
