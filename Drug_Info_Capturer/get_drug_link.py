@@ -11,7 +11,7 @@ load_dotenv()
 oak = os.getenv("OPENAI_API_KEY")
 os.environ["OPENAI_API_KEY"] = oak
 
-# csv_file = 'fda_drugbank.csv'
+csv_file = 'fda_drugbank.csv'
 
 class Drug2WebLink():
     # 读取 CSV 文件

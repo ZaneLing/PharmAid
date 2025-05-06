@@ -1,0 +1,28 @@
+{
+    "Prescription": [
+        {
+            "DrugName": "Metoprolol",
+            "UsagePlan": "Take 25-100 mg orally once or twice daily as prescribed by the healthcare provider.",
+            "AdminstrationRoute": "Oral",
+            "Explanation": "Metoprolol is a beta-blocker commonly used to control heart rate and rhythm disturbances like supraventricular tachycardia. It helps in reducing the episodes of palpitations and maintaining a regular heart rhythm."
+        },
+        {
+            "DrugName": "Alendronate",
+            "UsagePlan": "Take 70 mg orally once a week on an empty stomach.",
+            "AdminstrationRoute": "Oral",
+            "Explanation": "Alendronate is a bisphosphonate medication used to treat or prevent osteoporosis, which can be associated with compression fractures. This drug can help improve bone density and reduce the risk of further fractures."
+        },
+        {
+            "DrugName": "Metformin",
+            "UsagePlan": "Start with 500 mg orally once daily with a meal, then gradually increase the dose based on blood sugar levels.",
+            "AdminstrationRoute": "Oral",
+            "Explanation": "Metformin is a first-line medication for managing type 2 diabetes mellitus. It helps lower blood glucose levels and improve insulin sensitivity, thus aiding in better control of diabetes."
+        },
+        {
+            "DrugName": "Amlodipine",
+            "UsagePlan": "Take 5-10 mg orally once daily, with or without food.",
+            "AdminstrationRoute": "Oral",
+            "Explanation": "Amlodipine is a calcium channel blocker commonly used to treat hypertension. By relaxing the blood vessels, it helps lower blood pressure levels and reduce the workload on the heart, which can be beneficial for patients with hypertension."
+        }
+    ]
+}

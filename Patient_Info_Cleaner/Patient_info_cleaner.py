@@ -19,9 +19,10 @@ input_data = "My name is Li Fang, 42 years old, teacher. In the past two months,
 # 定义输出数据模型
 class PatientInformation(BaseModel):
     Patient_demographics: list[str]
-    Diagnoses: list[str]
+    Chief_complaint_and_Discharge_Diagnoses: list[str]
     Allergy_history_past_medical_history: list[str]
     Current_medications: list[str]
+    Social_history_and_family_history: list[str]
     History_of_present_illness: list[str]
     Inspection_findings: list[str]
     Other_relevant_information_before_the_admission: list[str]
@@ -98,8 +99,45 @@ def patient_info_clean_process(folder_path):
             shutil.copy2(source_file, target_path)
             print(f"\n\nReport has been saved to {target_path}")
 
+            print(f"[INFO] 处理患者 ID: {base_name}")
+            #input_file = ".../Patient_Info_Cleaner/patient_info_reports/{patient_id}_patient_info.json"  # 替换为你的 JSON 文件路径
+            #input_file = ".../Patient_Info_Cleaner/patient_info_reports/1_patient_info.json"
+            in_file = f'patient_info_reports/{base_name}_patient_info.json'  # 替换为你的 JSON 文件路径
+            # 输出文件夹路径
+            output_folder = f'../BlackBoard/Contents/{base_name}/Patient_Info'  # 替换为你的输出文件夹路径
+            split_json_by_subtitles(in_file, output_folder)
+
     except Exception as e:
         print(f"[Error] 处理文件夹 {folder_path} 时出错: {e}")
+
+import os
+import json
+
+def split_json_by_subtitles(input_file, output_folder):
+    try:
+        # 读取输入 JSON 文件
+        with open(input_file, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+
+        # 确保输出文件夹存在
+        os.makedirs(output_folder, exist_ok=True)
+
+        # 遍历 JSON 数据的每个子标题
+        for subtitle, content in data.items():
+            # 构造输出文件路径
+            output_file = os.path.join(output_folder, f"{subtitle}.json")
+
+            # 将子标题内容写入单独的 JSON 文件
+            with open(output_file, 'w', encoding='utf-8') as outfile:
+                json.dump({subtitle: content}, outfile, ensure_ascii=False, indent=4)
+
+            print(f"[INFO] 已保存: {output_file}")
+
+    except Exception as e:
+        print(f"[ERROR] 处理文件时出错: {e}")
+
+
+    
 
 if __name__ == "__main__":
     # 示例：运行单个输入
@@ -108,3 +146,14 @@ if __name__ == "__main__":
     # 示例：从文件夹读取输入并运行
     folder_path = "../CCMDataset/L1"  # 替换为你的文件夹路径
     patient_info_clean_process(folder_path)
+
+    # patient_id = 1  # 替换为你的患者 ID
+    # print(f"[INFO] 处理患者 ID: {patient_id}")
+    
+    # #input_file = ".../Patient_Info_Cleaner/patient_info_reports/{patient_id}_patient_info.json"  # 替换为你的 JSON 文件路径
+    # #input_file = ".../Patient_Info_Cleaner/patient_info_reports/1_patient_info.json"
+    # input_file = '/Users/lingziyang/Desktop/PharmAid-main/Patient_Info_Cleaner/patient_info_reports/1_patient_info.json'  # 替换为你的 JSON 文件路径
+    # # 输出文件夹路径
+    # output_folder = f'.../BlackBoard/Contents/{patient_id}'  # 替换为你的输出文件夹路径
+
+    # split_json_by_subtitles(input_file, output_folder)

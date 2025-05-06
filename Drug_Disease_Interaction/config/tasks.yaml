@@ -1,0 +1,10 @@
+detect_conflict_task:
+  description: >
+    Given the patient's information: {patient_potrait} and the prescribed drugs: {prescription}, analyze the data to detect any potential conflicts between the drugs and the patient's conditions.
+  expected_output: >
+    A structured JSON file containing:
+    1. Conflict: A boolean indicating whether a conflict exists (true or false).
+    2. Explanation: A detailed explanation of the conflict, if any.
+    3. Alternative: A list of alternative drugs, if applicable.
+  agent: drug_disease_detector_agent
+  output_file: output/drug_disease_conflict.json

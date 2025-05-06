@@ -1,0 +1,11 @@
+drug_conflict_detector_task:
+  description: >
+    Given aprescribed drug list: {prescription} and a general information: {general_info},which including the allergy history, the current medictions and the past medications of the patient.
+    Your task is to analyze first, and you have to detect any potential drug-drug interactions (DDIs) or conflicts according to the given informations.
+  expected_output: >
+    Your output is a list of structured JSON file containing:
+    1. Conflict: A boolean indicating whether a conflict exists (true or false).
+    2. Explanation: A detailed explanation of the conflict, if any.
+    3. Alternative: A list of alternative drugs, if applicable.
+  agent: drug_conflict_detector
+  output_file: output/drug_conflict_analysis.json
