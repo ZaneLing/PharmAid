@@ -1,0 +1,13 @@
+perform_safety_check_task:
+  description: >
+    Given a final prescription: {prescription}, perform a comprehensive safety check.
+    Perform a safety check on the given prescription to ensure:
+    1. No drug-drug interactions (DDIs).
+    2. Dosages are within safe and recommended ranges.
+    3. No conflicts with patient-specific factors (e.g., allergies, medical history).
+  expected_output: >
+    A structured JSON file containing:
+    1. FinalPrescription: The final, safe prescription after resolving any conflicts.
+    2. SafetyCheck: A summary of the safety check, including detected conflicts and recommendations.
+  agent: safety_checker_agent
+  output_file: output/final_prescription.json
