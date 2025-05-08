@@ -1,0 +1,11 @@
+{
+    "Physical_Exam": [
+        "Vitals: T: 97.8 BP: 166/67 P: 75 R: 20 O2: 95% on 2L",
+        "HEENT: Sclera anicteric, MMM, oropharynx clear",
+        "Neck: supple, JVP not elevated, no LAD",
+        "Lungs: Clear to auscultation bilaterally, no wheezes, rales, ronchi",
+        "CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, gallops",
+        "Abdomen: soft, non-tender, non-distended, bowel sounds present, no rebound tenderness or guarding, no organomegaly",
+        "Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or edema"
+    ]
+}
