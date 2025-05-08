@@ -8,41 +8,70 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 import json
 
-# 加载环境变量
 load_dotenv()
 oak = os.getenv("OPENAI_API_KEY")
 os.environ["OPENAI_API_KEY"] = oak
 
-# 示例输入数据
-input_data = "My name is Li Fang, 42 years old, teacher. In the past two months, I have sustained back pain (aggravated by sitting/standing for a long time), stomach distension and acid reflux after meals, numbness in my right hand, and weight inexplicably dropped 3 kilograms. Irregular diet (often do not eat breakfast, dinner takeout greasy), lack of exercise, stay up late to prepare classes until 22 o 'clock, poor sleep (about 1 hour to sleep), 10 years of smoking history (now changed to electronic cigarettes). The mother suffers from diabetes, and the blood lipid in the physical examination last year has not been treated."
+from crewai_tools import (
+    DirectoryReadTool,
+    FileReadTool,
+    SerperDevTool,
+    WebsiteSearchTool,
+    TXTSearchTool,
+)
+
+# Instantiate tools
+# docs_tool = DirectoryReadTool(directory='../CCMDataset/L1/1058')
+# file_tool = FileReadTool()
+# file_search_tool = TXTSearchTool(txt='../CCMDataset/L1/1058.txt')
+
 
 # 定义输出数据模型
 class PatientInformation(BaseModel):
-    Patient_demographics: list[str]
-    Chief_complaint_and_Discharge_Diagnoses: list[str]
-    Allergy_history_past_medical_history: list[str]
-    Current_medications: list[str]
-    Social_history_and_family_history: list[str]
-    History_of_present_illness: list[str]
-    Inspection_findings: list[str]
-    Other_relevant_information_before_the_admission: list[str]
+    Chief_Complaint: str
+    Allergies: list[str]
+    History_of_Present_Illness: list[str]
+    Past_Medical_History: list[str]
+    Social_history: list[str]
+    Family_history: list[str]
+    Physical_Exam: list[str]
+    Medications_on_Admissions: list[str]
+    Discharge_Diagnose: list[str]
+    Discharge_Medications: list[str]
+    Other_Discharge_Information: list[str]
 
 @CrewBase
 class Patient_Info_Crew():
+    # @agent
+    # def patient_info_cleaner(self) -> Agent:
+    #     return Agent(
+    #         config=self.agents_config['patient_info_cleaner'],
+    #         tools=[file_search_tool],
+    #         verbose=True
+    #     )
+    
     @agent
-    def patient_info_cleaner(self) -> Agent:
+    def Medications_on_Admissions_finder(self) -> Agent:
         return Agent(
-            config=self.agents_config['patient_info_cleaner'],
+            config=self.agents_config['Medications_on_Admissions_finder'],
             verbose=True
         )
-
+    
     @task
-    def patient_info_cleaner_task(self) -> Task:
+    def Medications_on_Admissions_Find_Task(self) -> Task:
         return Task(
-            config=self.tasks_config['patient_info_cleaner_task'],
+            config=self.tasks_config['Medications_on_Admissions_Find_Task'],
             output_pydantic=PatientInformation,
             output_file="output/patient_info.json",
         )
+
+    # @task
+    # def patient_info_cleaner_task(self) -> Task:
+    #     return Task(
+    #         config=self.tasks_config['patient_info_cleaner_task'],
+    #         output_pydantic=PatientInformation,
+    #         output_file="output/patient_info.json",
+    #     )
 
     @crew
     def crew(self) -> Crew:
@@ -53,12 +82,34 @@ class Patient_Info_Crew():
             process=Process.sequential,
             verbose=True,
         )
-
+def load_input_text(file_path):
+    """
+    从指定文件路径读取文本内容。
+    :param file_path: 文本文件路径
+    :return: 文件内容字符串
+    """
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            content = file.read().strip()
+            print(f"[INFO] 成功读取文件内容: {file_path}")
+            return content
+    except Exception as e:
+        print(f"[ERROR] 无法读取文件 {file_path}: {e}")
+        return ""
+    
 def run():
-    inputs = {
-        'statement': input_data
-    }
+    input_text = load_input_text("../CCMDataset/L1/1058.txt")
 
+    if not input_text:
+        print("[ERROR] 输入文本为空，无法继续执行。")
+        return
+    
+    print("--------------------------")
+    print(input_text)
+
+    inputs = {
+        'text':input_text
+    }
     result = Patient_Info_Crew().crew().kickoff(inputs=inputs)
     
     print("\n\n=== FINAL REPORT ===\n\n")
@@ -66,7 +117,7 @@ def run():
 
     print("Over.")
 
-    source_file = 'output/patient_info.json'
+    
 
 def patient_info_clean_process(folder_path):
     #输入是一个文件夹路径
@@ -81,10 +132,12 @@ def patient_info_clean_process(folder_path):
             with open(file_path, 'r', encoding='utf-8') as file:
                 input_data = file.read().strip()  # 读取文件内容
 
-            print(f"\n[Processing File] {file_name}")
+            print(f"\n[---------Processing File----------] {file_name}")
 
-            # 执行 Crew
-            inputs = {'statement': input_data}
+            inputs = {
+                'text':input_data
+            }
+            #result = Patient_Info_Crew().crew().kickoff(inputs=inputs)
             result = Patient_Info_Crew().crew().kickoff(inputs=inputs)
 
             print("\n\n=== FINAL REPORT ===\n\n")
@@ -95,8 +148,10 @@ def patient_info_clean_process(folder_path):
             output_file_name = f"{base_name}_patient_info.json"
             source_file = 'output/patient_info.json'
             target_path = os.path.join('patient_info_reports', output_file_name)
+
             os.makedirs('patient_info_reports', exist_ok=True)
             shutil.copy2(source_file, target_path)
+            
             print(f"\n\nReport has been saved to {target_path}")
 
             print(f"[INFO] 处理患者 ID: {base_name}")
@@ -141,9 +196,9 @@ def split_json_by_subtitles(input_file, output_folder):
 
 if __name__ == "__main__":
     # 示例：运行单个输入
-    # run()
+    #run()
 
-    # 示例：从文件夹读取输入并运行
+    # # 示例：从文件夹读取输入并运行
     folder_path = "../CCMDataset/L1"  # 替换为你的文件夹路径
     patient_info_clean_process(folder_path)
 

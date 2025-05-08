@@ -1,24 +1,66 @@
-patient_info_cleaner_task:
+# patient_info_cleaner_task:
+#   description: >
+#      Provide a free text clinical note of a patient, which is a txt file.
+#      You need to convert this free texts into different structured parts, extract the accurate and full information that mentioned in the txt file, you can not omit any information.
+#      YOU CAN NOT use '...' to omit any information, I need the full txt contents.
+#      You can use txt_search_tool to get the content of the txt files.
+#      Here is the list of categories, Find the corresponding txt files one by one in sequence and extract the complete information from them.
+#       1. Patient_Demographics
+#       2. Chief_Complaint
+#       3. Allergies
+#       4. History_of_Present_Illness
+#       5. Past_Medical_History
+#       6. Social_history_and_family_history
+#       7. Physical_Exam
+#       8. Medications_on_Admissions
+#       9. Discharge_Diagnose
+#       10. Discharge_Medications
+#       11. Other_Discharge_Information
+
+#   expected_output: >
+#       Patient_Demographics: list[str]
+#       Chief_Complaint: str
+#       Allergies: list[str]
+#       History_of_Present_Illness: list[str]
+#       Past_Medical_History: list[str]
+#       Social_history_and_family_history: list[str]
+#       Physical_Exam: list[str]
+#       Medications_on_Admissions: list[str]
+#       Discharge_Diagnose: list[str]
+#       Discharge_Medications: list[str]
+#       Other_Discharge_Information: list[str]
+# #   agent: patient_info_cleaner
+#   output_file: output/drug_info.json
+
+Medications_on_Admissions_Find_Task:
   description: >
-     Please provide a free text clinical note of a patient: {statement}, which is a txt file.
-     You need to convert this free text into structured text, extract, summarize and refine the information, 
-     and summarize the free text into the following categories.
-      1. Patient Demographics:: A list of key-value pairs for basic information of the patient;
-      2. Chief complaint and Discharge Diagnose: the chief complaint and diagnosis result of the patient;
-      3. Allergy history and past medical history;
-      4. Current medications;
-      5. Social history and family history;
-      6. History of present illness;
-      7. Inspection findings;
-      8. Other relevant information before the admission;
+    Given a text about the patient, Please find the content of the following contents in the text.
+    You have to find it one by one. YOU CAN NOT use '...' to omit any information, I need the full txt contents.
+    Topic List:
+      Chief_Complaint
+      Allergies
+      History_of_Present_Illness
+      Past_Medical_History
+      Social_history
+      Family_history
+      Physical_Exam
+      Medications_on_Admissions
+      Discharge_Diagnose
+      Discharge_Medications
+      Other_Discharge_Information
+
+    Here is the text: {text}.
   expected_output: >
-      Patient_demographics: list[str]
-      Chief_complaint_and_Discharge_Diagnoses: list[str]
-      Allergy_history_past_medical_history: list[str]
-      Current_medications: list[str]
-      Social_history_and_family_history: list[str]
-      History_of_present_illness: list[str]
-      Inspection_findings: list[str]
-      Other_relevant_information_before_the_admission: list[str]
-  agent: patient_info_cleaner
-  output_file: output/drug_info.json
+      Chief_Complaint: str
+      Allergies: list[str]
+      History_of_Present_Illness: list[str]
+      Past_Medical_History: list[str]
+      Social_history: list[str]
+      Family_history: list[str]
+      Physical_Exam: list[str]
+      Medications_on_Admissions: list[str]
+      Discharge_Diagnose: list[str]
+      Discharge_Medications: list[str]
+      Other_Discharge_Information: list[str]
+  agent: Medications_on_Admissions_finder
+  output_file: output/info.json

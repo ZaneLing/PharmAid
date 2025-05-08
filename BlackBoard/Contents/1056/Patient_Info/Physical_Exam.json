@@ -1,0 +1,11 @@
+{
+    "Physical_Exam": [
+        "General appearance",
+        "HEENT findings",
+        "Cardiac assessment",
+        "Pulmonary examination",
+        "Abdominal assessment",
+        "Extremities examination",
+        "Neurological assessment"
+    ]
+}
