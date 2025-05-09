@@ -4,6 +4,7 @@ from crewai import Agent, Crew, Task, Process
 from crewai.project import CrewBase, agent, task, crew, before_kickoff, after_kickoff
 from langchain_openai import ChatOpenAI
 from textwrap import dedent
+import sys
 from pydantic import BaseModel
 from dotenv import load_dotenv
 import json
@@ -159,7 +160,7 @@ def patient_info_clean_process(folder_path):
             #input_file = ".../Patient_Info_Cleaner/patient_info_reports/1_patient_info.json"
             in_file = f'patient_info_reports/{base_name}_patient_info.json'  # 替换为你的 JSON 文件路径
             # 输出文件夹路径
-            output_folder = f'../BlackBoard/Contents/{base_name}/Patient_Info'  # 替换为你的输出文件夹路径
+            output_folder = f'./BlackBoard/Contents/{base_name}/Patient_Info'  # 替换为你的输出文件夹路径
             split_json_by_subtitles(in_file, output_folder)
 
     except Exception as e:
@@ -198,8 +199,15 @@ if __name__ == "__main__":
     # 示例：运行单个输入
     #run()
 
+    if len(sys.argv) != 2:
+        print("[Error] 请提供Dataset参数，例如: python prescription.py ./dataset/1058.txt")
+        sys.exit(1)
+
+    folder_path = sys.argv[1]
+    
+
     # # 示例：从文件夹读取输入并运行
-    folder_path = "../CCMDataset/L1"  # 替换为你的文件夹路径
+    #folder_path = "../CCMDataset/L1"  # 替换为你的文件夹路径
     patient_info_clean_process(folder_path)
 
     # patient_id = 1  # 替换为你的患者 ID

@@ -21,8 +21,11 @@ analyze_drug_patient_interaction_task:
     Level B: Moderate risk. It may cause some adverse reactions, but the dosage can usually be adjusted for management.
     Level C: Low risk. It usually does not cause serious adverse reactions and does not require special intervention.
 
-    Finally, based on the two conflict detections you provided, please give your revised suggestions.
-    According to the conflicts and suggestions above, you have to give the revised prescription.
+    Finally, based on the two conflict detections you provided, please give your revised suggestions and revised prescription:
+    1. RevisedReason: A detailed explanation of the conflict, if exists.
+    2. RevisedSuggestion: A suggestion for the revised prescription based on the conflicts detected.
+    3. RevisedPrescription: A revised prescription based on the conflicts detected.
+    
     If no conflicts are detected, please provide the initial prescription as the final prescription.
 
     Here is the output json form:
@@ -38,8 +41,9 @@ analyze_drug_patient_interaction_task:
     SocialFamilyConflict: A boolean indicating whether a conflict exists (true or false) between the social and family history and the initial prescription.
     SocialFamilyExplanation: A detailed explanation of the conflict, if exists.
     SocialFamilyRiskLevel: A single letter: A or B or C, which represent the risk level of the conflict between social and family history and the initial prescription, if applicable.
+    RevisedReason: A detailed explanation of the conflict, if exists.
     RevisedSuggestion: A suggestion for the revised prescription based on the conflicts detected.
-    RevisedPrescription: A list of alternative drugs, if applicable.
+    RevisedPrescription: A revised prescription based on the conflicts detected.
   expected_output: >
     A structured JSON file containing:
       AllergyConflict: bool
@@ -54,6 +58,7 @@ analyze_drug_patient_interaction_task:
       SocialFamilyConflict: bool
       SocialFamilyExplanation: str
       SocialFamilyRiskLevel: str
+      RevisedReason: str
       RevisedSuggestion: str
       RevisedPrescription: list[str]
   agent: drug_patient_interaction_analyzer

@@ -23,7 +23,7 @@ drug_patient_interaction_analyzer:
     Level B: Moderate risk. It may cause some adverse reactions, but the dosage can usually be adjusted for management.
     Level C: Low risk. It usually does not cause serious adverse reactions and does not require special intervention.
 
-    Finally, based on the two conflict detections you provided, please give your revised suggestions and the revised prescription.
+    Finally, based on the two conflict detections you provided, please give your revised reason, revised suggestions and the revised prescription.
     If no conflicts are detected, please provide the initial prescription as the final prescription.
   backstory: >
     You are a highly skilled pharmacologist specializing in drug-patient interactions. 

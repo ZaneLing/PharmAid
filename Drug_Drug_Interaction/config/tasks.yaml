@@ -6,39 +6,71 @@ drug_conflict_detector_task:
     Then provide the patient's medication information:
     1: Past medication history(PMH): {pmh}.
     2: Medications on admissions(MOA): {moa}. 
-
-    Now you need to analyze step by step: 
-    1: Do MOA and the initial prescription have any drug conflicts? If not, then no explanation is required. If so, a risk level and an explanation need to be provided. 
-    2: Is there any conflict between PMH and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
     
+    You MUST do the confliction detecting one pair by one pair. For example there are 4 drugs in prescription and 4 drugs in MOA, then you need to do 4*4=16 times conflict detections.
+    Output one pair by one pair then I can check the results:
+        MOAAnalysisStep:
+        1. [MOA Drug Name 1]-[Prescription Drug 1] : conflict detection result(true/false)
+        2. [MOA Drug Name 2]-[Prescription Drug 1] : conflict detection result(true/false)
+        3. ...
+        ...
+        n. [MOA Drug Name n]-[Prescription Drug m] : conflict detection result(true/false)
+
+        PMHAnalysisStep:
+        1. [PMH Drug Name 1]-[Prescription Drug 1] : conflict detection result(true/false)
+        2. [PMH Drug Name 2]-[Prescription Drug 1] : conflict detection result(true/false)
+        3. ...
+        ...
+        n. [PMH Drug Name n]-[Prescription Drug m] : conflict detection result(true/false)
+
     The risk level can be classified into three levels(Gold Standard Classification):
     Level A: High risk. It may cause serious adverse reactions and the drug regimen needs to be adjusted.
     Level B: Moderate risk. It may cause some adverse reactions, but the dosage can usually be adjusted for management.
     Level C: Low risk. It usually does not cause serious adverse reactions and does not require special intervention.
 
-    Finally, based on the two conflict detections you provided, please give your revised suggestions.
-    According to the conflicts and suggestions above, you have to give the revised prescription.
+    Finally, based on the two conflict detections you provided, please give following contents:
+    1. RevisedReason: A detailed explanation of the conflict, if exists.
+    2. RevisedSuggestion: A suggestion for the revised prescription based on the conflicts detected.
+    3. RevisedPrescription: A revised prescription based on the conflicts detected.
+
     If no conflicts are detected, please provide the initial prescription as the final prescription.
 
-    Here is the output json form:
+    Here is the structured output json form:
     MoaConflict: A boolean indicating whether a conflict exists (true or false) between the medications on admission (MOA) and the initial prescription.
     MoaExplanation: A detailed explanation of the conflict, if exists.
     MoaRiskLevel: A single letter: A or B or C, which represent the risk level of the conflict between MOA and the initial prescription, if applicable.
     PmhConfliect: A boolean indicating whether a conflict exists (true or false) between the past medication history (PMH) and the initial prescription.
     PmhExplanation: A detailed explanation of the conflict, if exists.
     PmhRiskLevel: A single letter: A or B or C, which represent the risk level of the conflict between PMH and the initial prescription, if applicable.
+    RevisedReason: A detailed explanation of the conflict, if exists.
     RevisedSuggestion: A suggestion for the revised prescription based on the conflicts detected.
     RevisedPrescription: A list of alternative drugs, if applicable.
 
   expected_output: >
-    A structured JSON file containing:
-      MoaConflict: bool
-      MoaExplanation: str
-      MoaRiskLevel: str
-      PmhConfliect: bool
-      PmhExplanation: str
-      PmhRiskLevel: str
-      RevisedSuggestion: str
-      RevisedPrescription: list[str]
+      MOAAnalysisStep:
+        1. [MOA Drug Name 1]-[Prescription Drug 1] : conflict detection result(true/false)
+        2. [MOA Drug Name 2]-[Prescription Drug 1] : conflict detection result(true/false)
+        3. ...
+        ...
+        n. [MOA Drug Name n]-[Prescription Drug m] : conflict detection result(true/false)
+
+      PMHAnalysisStep:
+        1. [PMH Drug Name 1]-[Prescription Drug 1] : conflict detection result(true/false)
+        2. [PMH Drug Name 2]-[Prescription Drug 1] : conflict detection result(true/false)
+        3. ...
+        ...
+        n. [PMH Drug Name n]-[Prescription Drug m] : conflict detection result(true/false)
+
+
+      A final structured JSON file containing:
+        MoaConflict: bool
+        MoaExplanation: str
+        MoaRiskLevel: str
+        PmhConfliect: bool
+        PmhExplanation: str
+        PmhRiskLevel: str
+        RevisedReason: str
+        RevisedSuggestion: str
+        RevisedPrescription: list[str]
   agent: drug_conflict_detector
   output_file: output/drug_conflict_analysis.json

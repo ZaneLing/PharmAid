@@ -1,0 +1,125 @@
+[
+    {
+        "timestamp": "2025-05-09 16:16:17",
+        "Prescription": [
+            {
+                "DrugName": "Furosemide",
+                "UsagePlan": "Take orally once a day in the morning. Dosage to be determined by the doctor based on your condition.",
+                "AdminstrationRoute": "Oral",
+                "Explanation": "Furosemide is a diuretic that helps in reducing excess fluid in the body, which is beneficial for hypervolemic hyponatremia by promoting water excretion. This can help in managing the fluid overload associated with hyponatremia."
+            },
+            {
+                "DrugName": "Iron supplement (e.g., Ferrous sulfate)",
+                "UsagePlan": "Take orally with a glass of water on an empty stomach. It is usually recommended to be taken once or twice daily as prescribed.",
+                "AdminstrationRoute": "Oral",
+                "Explanation": "Iron deficiency anemia can be treated with iron supplements to replenish the iron stores in the body. Ferrous sulfate is commonly used for this purpose to help improve iron levels and alleviate anemia symptoms."
+            },
+            {
+                "DrugName": "Stool softener (e.g., Docusate sodium)",
+                "UsagePlan": "Take orally as directed by your doctor, usually once or twice daily. It is important to drink plenty of water when using this medication.",
+                "AdminstrationRoute": "Oral",
+                "Explanation": "Constipation can be managed with stool softeners like Docusate sodium to help soften the stool and make bowel movements easier. This can provide relief from constipation symptoms."
+            },
+            {
+                "DrugName": "Antifungal cream (e.g., Clotrimazole)",
+                "UsagePlan": "Apply topically to the affected area according to the instructions provided. Wash hands before and after application.",
+                "AdminstrationRoute": "Topical",
+                "Explanation": "Vaginal candidiasis can be treated with antifungal creams like Clotrimazole. It helps in combating the fungal infection and relieving the associated symptoms like itching and discomfort."
+            }
+        ]
+    },
+    {
+        "timestamp": "2025-05-09 16:16:51",
+        "ConflictionType": "DPI",
+        "RevisedReason": "",
+        "RevisedSuggestion": "",
+        "RevisedPrescription": [
+            "Furosemide - Take orally once a day in the morning. Dosage to be determined by the doctor based on your condition.",
+            "Iron supplement (e.g., Ferrous sulfate) - Take orally with a glass of water on an empty stomach. It is usually recommended to be taken once or twice daily as prescribed.",
+            "Stool softener (e.g., Docusate sodium) - Take orally as directed by your doctor, usually once or twice daily. It is important to drink plenty of water when using this medication.",
+            "Antifungal cream (e.g., Clotrimazole) - Apply topically to the affected area according to the instructions provided. Wash hands before and after application."
+        ]
+    },
+    {
+        "timestamp": "2025-05-09 16:17:16",
+        "ConflictionType": "DDI",
+        "RevisedReason": "",
+        "RevisedSuggestion": "",
+        "RevisedPrescription": [
+            "Fursemide: Take orally once a day in the morning. Dosage to be determined by the doctor based on your condition.",
+            "Iron supplement (e.g., Ferrous sulfate): Take orally with a glass of water on an empty stomach. It is usually recommended to be taken once or twice daily as prescribed.",
+            "Stool softener (e.g., Docusate sodium): Take orally as directed by your doctor, usually once or twice daily. It is important to drink plenty of water when using this medication.",
+            "Antifungal cream (e.g., Clotrimazole): Apply topically to the affected area according to the instructions provided. Wash hands before and after application."
+        ]
+    },
+    {
+        "timestamp": "2025-05-09 16:21:56",
+        "ConflictionType": "DDI",
+        "RevisedReason": "The interaction between Hydrochlorothiazide and Furosemide should be addressed to prevent serious adverse reactions like dehydration and electrolyte imbalances.",
+        "RevisedSuggestion": "Consider discontinuing Hydrochlorothiazide or replacing it with a different medication to avoid the potential harmful effects of combining two diuretics.",
+        "RevisedPrescription": [
+            "Hydrochlorothiazide 12.5 mg PO DAILY",
+            "Levothyroxine Sodium 175 mcg PO DAILY",
+            "MetFORMIN (Glucophage) 1000 mg PO BID",
+            "Losartan Potassium 25 mg PO DAILY",
+            "LevETIRAcetam 1000 mg PO BID",
+            "Fluticasone Propionate NASAL 1 SPRY NU BID",
+            "Albuterol Inhaler 2 PUFF IH Q4H:PRN sob",
+            "Pravastatin 40 mg PO QPM",
+            "Gabapentin 600 mg PO TID",
+            "Metoprolol Succinate XL 25 mg PO DAILY",
+            "Omeprazole 40 mg PO DAILY",
+            "glimepiride 2 mg oral BID",
+            "Aspirin 81 mg PO DAILY"
+        ]
+    },
+    {
+        "timestamp": "2025-05-09 18:13:36",
+        "ConflictionType": "DDI",
+        "RevisedReason": "There is a high-risk conflict between Hydrochlorothiazide and Furosemide due to their potential additive effects as diuretics, increasing the risk of electrolyte imbalances and dehydration.",
+        "RevisedSuggestion": "Adjust the prescription by discontinuing either Hydrochlorothiazide or Furosemide to avoid the risk of serious adverse reactions.",
+        "RevisedPrescription": [
+            "Furosemide",
+            "Iron supplement (e.g., Ferrous sulfate)",
+            "Stool softener (e.g., Docusate sodium)",
+            "Antifungal cream (e.g., Clotrimazole)"
+        ]
+    },
+    {
+        "timestamp": "2025-05-09 18:21:20",
+        "ConflictionType": "DDI",
+        "RevisedReason": "Potential drug interactions between Furosemide and multiple drugs from MOA identified, indicating a moderate risk of adverse effects.",
+        "RevisedSuggestion": "Adjust the prescription by considering alternative medications to avoid or minimize the interactions.",
+        "RevisedPrescription": [
+            "Substitute Furosemide with an alternative diuretic that has minimal interactions with the medications from MOA."
+        ]
+    },
+    {
+        "timestamp": "2025-05-09 18:25:42",
+        "ConflictionType": "DDI",
+        "RevisedReason": "Conflicts exist between Hydrochlorothiazide, Losartan Potassium, and Metoprolol Succinate with Furosemide, indicating a risk of additive diuretic effects and electrolyte imbalances.",
+        "RevisedSuggestion": "Consider adjusting the prescription to avoid the interactions identified.",
+        "RevisedPrescription": []
+    },
+    {
+        "timestamp": "2025-05-09 18:29:02",
+        "ConflictionType": "DDI",
+        "RevisedReason": "No conflicts found in the analysis.",
+        "RevisedSuggestion": "No changes needed in the initial prescription.",
+        "RevisedPrescription": [
+            "Furosemide",
+            "Iron supplement (e.g., Ferrous sulfate)",
+            "Stool softener (e.g., Docusate sodium)",
+            "Antifungal cream (e.g., Clotrimazole)"
+        ]
+    },
+    {
+        "timestamp": "2025-05-09 18:31:26",
+        "ConflictionType": "DDI",
+        "RevisedReason": "The current prescription of Furosemide interacts with MetFORMIN and glimepiride from MOA, as well as with IDDM from PMH, posing significant risks.",
+        "RevisedSuggestion": "Consider alternative diuretics or adjust the dosage of MetFORMIN and glimepiride. Monitor blood sugar levels closely and consider additional diabetic management.",
+        "RevisedPrescription": [
+            "Consider replacing Furosemide with a different diuretic like hydrochlorothiazide, and adjust MetFORMIN and glimepiride dosages under close monitoring."
+        ]
+    }
+]

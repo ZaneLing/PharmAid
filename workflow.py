@@ -2,81 +2,86 @@ import os
 import subprocess
 
 # 定义文件路径
-CCM_DATASET_PATH = "../CCMDataset/L1"
-PATIENT_INFO_CLEANER_SCRIPT = "Patient_Info_Cleaner/Patient_info_cleaner.py"
-PRESCRIPTION_SCRIPT = "Prescription/prescription.py"
-DRUG_INTERACTION_SCRIPT = "Drug_Interaction_Checker/drug_drug_interaction.py"
+CCM_DATASET_PATH = "./CCMDataset/L1"
 
-def run_patient_info_cleaner(patient_id):
+# 定义各脚本的路径
+PATIENT_INFO_CLEANER_SCRIPT = "./Patient_Info_Cleaner/Patient_info_cleaner.py"  # 替换为实际路径
+PRESCRIPTION_SCRIPT = "./Prescription/prescription.py"  # 替换为实际路径
+DRUG_DRUG_INTERACTION_SCRIPT = "./Drug_Drug_Interaction/drug_drug_detector.py"  # 替换为实际路径
+DRUG_PATIENT_INTERACTION_SCRIPT = "./Drug_Patient_Interaction/drug_patient_detector.py"  # 替换为实际路径
+
+def run_patient_info_cleaner(ds_path):
     """
     运行 Patient_Info_Cleaner 脚本，处理患者信息。
-    :param patient_id: 病人编号
     """
-    input_file = os.path.join(CCM_DATASET_PATH, f"{patient_id}.txt")
-    if not os.path.exists(input_file):
-        print(f"[ERROR] 输入文件 {input_file} 不存在。")
-        return False
-
-    print(f"[INFO] 正在运行 Patient_Info_Cleaner，处理文件: {input_file}")
+    print(f"[INFO] 正在运行 Patient_Info_Cleaner 脚本...")
     try:
-        subprocess.run(["python", PATIENT_INFO_CLEANER_SCRIPT, input_file], check=True)
-        print(f"[INFO] Patient_Info_Cleaner 运行完成。")
-        return True
+        subprocess.run(["python", PATIENT_INFO_CLEANER_SCRIPT, ds_path], check=True)
+        print(f"[INFO] Patient_Info_Cleaner 脚本运行完成。")
     except subprocess.CalledProcessError as e:
-        print(f"[ERROR] 运行 Patient_Info_Cleaner 时出错: {e}")
-        return False
+        print(f"[ERROR] 运行 Patient_Info_Cleaner 脚本时出错: {e}")
+        raise
 
-def run_prescription():
+def run_prescription(patient_id):
     """
     运行 Prescription 脚本，生成处方。
-    """
-    print(f"[INFO] 正在运行 Prescription 脚本...")
-    try:
-        subprocess.run(["python", PRESCRIPTION_SCRIPT], check=True)
-        print(f"[INFO] Prescription 脚本运行完成。")
-        return True
-    except subprocess.CalledProcessError as e:
-        print(f"[ERROR] 运行 Prescription 脚本时出错: {e}")
-        return False
-
-def run_drug_interaction_checker():
-    """
-    运行 Drug_Interaction_Checker 脚本，检查药物相互作用。
-    """
-    print(f"[INFO] 正在运行 Drug_Interaction_Checker 脚本...")
-    try:
-        subprocess.run(["python", DRUG_INTERACTION_SCRIPT], check=True)
-        print(f"[INFO] Drug_Interaction_Checker 脚本运行完成。")
-        return True
-    except subprocess.CalledProcessError as e:
-        print(f"[ERROR] 运行 Drug_Interaction_Checker 脚本时出错: {e}")
-        return False
-
-def main(patient_id):
-    """
-    主流程函数，按顺序运行所有步骤。
     :param patient_id: 病人编号
     """
-    print(f"[INFO] 开始处理病人编号: {patient_id}")
+    print(f"[INFO] 正在运行 Prescription 脚本，处理病人编号: {patient_id}")
+    try:
+        subprocess.run(["python", PRESCRIPTION_SCRIPT, str(patient_id)], check=True)
+        print(f"[INFO] Prescription 脚本运行完成。")
+    except subprocess.CalledProcessError as e:
+        print(f"[ERROR] 运行 Prescription 脚本时出错: {e}")
+        raise
 
+def run_drug_interaction_checker(patient_id):
+    """
+    运行 Drug_Interaction_Checker 脚本，检查药物相互作用。
+    :param patient_id: 病人编号
+    """
+    print(f"[INFO] 正在运行 Drug_Interaction_Checker 脚本，处理病人编号: {patient_id}")
+    try:
+        subprocess.run(["python", DRUG_DRUG_INTERACTION_SCRIPT, str(patient_id)], check=True)
+        print(f"[INFO] Drug_Interaction_Checker 脚本运行完成。")
+    except subprocess.CalledProcessError as e:
+        print(f"[ERROR] 运行 Drug_Interaction_Checker 脚本时出错: {e}")
+        raise
+
+def run_drug_patient_interaction_checker(patient_id):
+    """
+    运行 Drug_Patient_Interaction 脚本，检查药物与患者的交互。
+    :param patient_id: 病人编号
+    """
+    print(f"[INFO] 正在运行 Drug_Patient_Interaction 脚本，处理病人编号: {patient_id}")
+    try:
+        subprocess.run(["python", DRUG_PATIENT_INTERACTION_SCRIPT, str(patient_id)], check=True)
+        print(f"[INFO] Drug_Patient_Interaction 脚本运行完成。")
+    except subprocess.CalledProcessError as e:
+        print(f"[ERROR] 运行 Drug_Patient_Interaction 脚本时出错: {e}")
+        raise
+
+def main():
+    """
+    主流程函数，按顺序运行所有步骤。
+    """
+    print(f"[INFO] 开始执行工作流...")
+    patient_id = 1057  # 示例病人编号
+    output_patient_folder = f"./BlackBoard/Contents/{patient_id}"
+    os.makedirs(output_patient_folder, exist_ok=True)
     # Step 1: 运行 Patient_Info_Cleaner
-    if not run_patient_info_cleaner(patient_id):
-        print("[ERROR] Patient_Info_Cleaner 运行失败，流程终止。")
-        return
+    run_patient_info_cleaner(CCM_DATASET_PATH)
 
-    # Step 2: 运行 Prescription
-    if not run_prescription():
-        print("[ERROR] Prescription 脚本运行失败，流程终止。")
-        return
+    # Step 3: 运行 Prescription
+    run_prescription(patient_id)
 
-    # Step 3: 运行 Drug_Interaction_Checker
-    if not run_drug_interaction_checker():
-        print("[ERROR] Drug_Interaction_Checker 脚本运行失败，流程终止。")
-        return
+    # Step 4: 运行 Drug_Interaction_Checker
+    run_drug_interaction_checker(patient_id)
 
-    print(f"[INFO] 病人编号 {patient_id} 的流程全部完成。")
+    # Step 5: 运行 Drug_Patient_Interaction
+    run_drug_patient_interaction_checker(patient_id)
+
+    print(f"[INFO] 工作流执行完成。")
 
 if __name__ == "__main__":
-    # 示例病人编号
-    patient_id = 1055
-    main(patient_id)
+    main()
