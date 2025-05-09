@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "pharmaid"
+version = "0.1.0"
+description = ""
+authors = ["ZaneLing"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = ">=3.11,<3.13"
+python-dotenv = "^1.1.0"
+crewai = "^0.119.0"
+langchain-openai = "0.2.14"
+crewai-tools = "^0.44.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
+package-mode = false
