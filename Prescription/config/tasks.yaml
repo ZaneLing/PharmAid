@@ -1,11 +1,12 @@
 generate_prescription_task:
   description: >
-    Given the patient's chief complaint and diagnosis: {statement}, generate a prescription that includes:
+    Given the patient's chief complaint:{cc} and diagnosis: {diagnoses}, generate a prescription that includes:
     1. A list of recommended drugs.
     2. A detailed usage plan for each drug.
+    3. An administration route for each drug.
     3. An explanation for why each drug was chosen.
   expected_output: >
-    A list of structured JSON file containing:
+    A list of structured prescription: list[dict] file containing:
     1. DrugName: The name of recommended drug.
     2. UsagePlan: The usage plans of the drug.
     3. AdminstrationRoute: The administration route of the drug.

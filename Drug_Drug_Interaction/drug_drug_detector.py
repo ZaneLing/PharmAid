@@ -35,13 +35,14 @@ from crewai_tools import CSVSearchTool, JSONSearchTool
 input_data = "Lepirudin" 
 
 class DrugConflictDetector(BaseModel):
-    # DrugName: str
-    # Drug_Explanation: str
-    # Drug_Interactions_List: list[str]
-    # Other_Information: str
-    Conflict: bool  # 是否存在冲突
-    Explanation: str  # 冲突的解释
-    Alternative: list[str]  # 替代方案
+    MoaConflict: bool  # 是否存在冲突
+    MoaExplanation: str  # 冲突的解释
+    MoaRiskLevel: str  # 风险等级
+    PmhConfliect: bool  # 是否存在冲突
+    PmhExplanation: str  # 冲突的解释
+    PmhRiskLevel: str  # 风险等级
+    RevisedSuggestion: str  # 替代方案
+    RevisedPrescription: list[str]  # 替代方案
 
 @CrewBase
 class Drug_Conflict_Detector_Crew():
@@ -81,21 +82,32 @@ def load_json_as_text(file_path):
         return ""
     
 def run():
-        patient_id = "1058"
+        patient_id = "1055"
 
-        input_ahhm_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Allergy_history_past_medical_history.json"
-        input_cm_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Current_medications.json"
-        general_info = load_json_as_text(input_ahhm_file) + load_json_as_text(input_cm_file)
+        input_moa_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Medications_on_Admissions.json"
+        
+        input_pmh_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Past_Medical_History.json"
+        moa_file = load_json_as_text(input_moa_file)
+        pmh_file = load_json_as_text(input_pmh_file)
+        general_info = load_json_as_text(input_moa_file) + load_json_as_text(input_pmh_file)
         
         input_prescription_file = f"../BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
         prescription = load_json_as_text(input_prescription_file)
-        
-        print("--------------------------")
-        print(general_info)
+        input_diagnosis_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
+        diagnoses = load_json_as_text(input_diagnosis_file)
+
+        print(f"-----------{patient_id}---------------")
+        print(diagnoses)
         print(prescription)
+        print(f"-----------{patient_id}---------------")
+        print(moa_file)
+        print(pmh_file)
+
         inputs = {
+            'moa': moa_file,
+            'pmh': pmh_file,
+            'diagnose': diagnoses,
             'prescription': prescription,
-            'general_info':general_info
         }
 
         result = Drug_Conflict_Detector_Crew().crew().kickoff(inputs=inputs)
@@ -104,6 +116,10 @@ def run():
         print(result.raw)
 
         print("Over.")
+
+        # 创建目标文件夹
+        target_folder = os.path.join(f"../Blackboard/Contents/{patient_id}/Drug_Drug_Interaction")
+        os.makedirs(target_folder, exist_ok=True)
 
         output_file_name = "DDI.json"
         source_file = 'output/drug_drug_interaction.json'

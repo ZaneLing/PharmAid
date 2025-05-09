@@ -55,21 +55,30 @@ def load_json_as_text(file_path):
         return ""
 
 def run():
-    patient_id = "1058"
+    patient_id = "1055"
     # 构造输入文件路径
-    input_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint_and_Discharge_Diagnoses.json"
+    #input_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint_and_Discharge_Diagnoses.json"
+    chief_complaint_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint.json"
+    diagnoses_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
 
-    # 将 JSON 文件内容加载为文本
-    input_text = load_json_as_text(input_file)
-    print("---------Prescription----------")
-    print(input_text)
+    cc_content = load_json_as_text(chief_complaint_file)
+    diagnoses_content = load_json_as_text(diagnoses_file)
 
-    if not input_text:
-        print("[Error] 输入数据为空，无法继续执行。")
+    if not cc_content:
+        print("[Error] cc为空，无法继续执行。")
         return
     
+    if not diagnoses_content:
+        print("[Error] diagnose为空，无法继续执行。")
+        return
+
+    print("------------------")
+    print(cc_content)
+    print(diagnoses_content)
+    
     inputs = {
-        'statement': input_text,
+        'cc': cc_content,
+        'diagnoses': diagnoses_content,
     }
 
     # 执行 Crew
@@ -78,6 +87,10 @@ def run():
 
     print("\n\n=== FINAL REPORT ===\n\n")
     print(result)
+
+    # 创建目标文件夹
+    target_folder = os.path.join(f"../Blackboard/Contents/{patient_id}/Prescription")
+    os.makedirs(target_folder, exist_ok=True)
 
     output_file_name = "Prescription.json"
     source_file = 'output/prescription.json'

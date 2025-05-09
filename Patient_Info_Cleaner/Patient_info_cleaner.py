@@ -28,17 +28,17 @@ from crewai_tools import (
 
 # 定义输出数据模型
 class PatientInformation(BaseModel):
-    Chief_Complaint: str
-    Allergies: list[str]
-    History_of_Present_Illness: list[str]
-    Past_Medical_History: list[str]
-    Social_history: list[str]
-    Family_history: list[str]
-    Physical_Exam: list[str]
-    Medications_on_Admissions: list[str]
-    Discharge_Diagnose: list[str]
-    Discharge_Medications: list[str]
-    Other_Discharge_Information: list[str]
+    Chief_Complaint: str    #用于产生initial prescription
+    Allergies: list[str]      #DPI
+    History_of_Present_Illness: list[str]   #DPI
+    Past_Medical_History: list[str]  #DDI
+    Social_history: list[str]   #DPI
+    Family_history: list[str]   #DPI
+    Physical_Exam: list[str]    #DPI
+    Medications_on_Admissions: list[str]   #DDI
+    Discharge_Diagnose: list[str]       #用于产生initial prescription
+    Discharge_Medications: list[str]     #暂时不用，retro用的
+    Other_Discharge_Information: list[str]     #暂时不用，retro用的
 
 @CrewBase
 class Patient_Info_Crew():
@@ -151,7 +151,7 @@ def patient_info_clean_process(folder_path):
 
             os.makedirs('patient_info_reports', exist_ok=True)
             shutil.copy2(source_file, target_path)
-            
+
             print(f"\n\nReport has been saved to {target_path}")
 
             print(f"[INFO] 处理患者 ID: {base_name}")

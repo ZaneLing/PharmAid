@@ -13,24 +13,23 @@ load_dotenv()
 oak = os.getenv("OPENAI_API_KEY")
 os.environ["OPENAI_API_KEY"] = oak
 
-# 示例输入数据
-patient_info = {
-    "Name": "John Doe",
-    "Age": 45,
-    "Gender": "Male",
-    "MedicalHistory": ["Hypertension", "Diabetes"],
-    "CurrentConditions": ["Kidney dysfunction"]
-}
-
-drug_list = {
-    "ibuprofen","aspirin", "lisinopril"
-}
 
 # 定义输出数据模型
 class InteractionAnalysis(BaseModel):
-    ConflictionOrNot: bool
-    InteractionAnalysis: dict  # 包含是否有冲突、冲突原因和替代药物
-    DrugList: list[str]  # 药物列表
+    AllergyConflict: bool
+    AllergyExplanation: str
+    AllergyRiskLevel: str
+    PhysicalExamConflict: bool
+    PhysicalExamExplanation: str
+    PhysicalExamRiskLevel: str
+    HPIConflict: bool
+    HPIExplanation: str
+    HPIRiskLevel: str
+    SocialFamilyConflict: bool
+    SocialFamilyExplanation: str
+    SocialFamilyRiskLevel: str
+    RevisedSuggestion: str
+    RevisedPrescription: list[str]
 
 @CrewBase
 class Drug_Patient_Interaction_Crew():
@@ -72,24 +71,41 @@ def load_json_as_text(file_path):
 
 def run():
 
-    patient_id = "1058"
-
-    input_patient_demo_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Patient_demographics.json"
-    input_patient_sf_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Social_history_and_family_history.json"
-    input_patient_hpi_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/History_of_present_illness.json"
-    input_patient_other_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Other_relevant_information_before_the_admission.json"
-    input_ins_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Inspection_findings.json"
-    patient_info = load_json_as_text(input_patient_demo_file) + load_json_as_text(input_patient_other_file) + load_json_as_text(input_patient_sf_file)+ load_json_as_text(input_ins_file)+load_json_as_text(input_patient_hpi_file)
-    
+    patient_id = "1055"    
     input_prescription_file = f"../BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
     prescription = load_json_as_text(input_prescription_file)
     
+    input_diagnose_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
+    diagnoses_content = load_json_as_text(input_diagnose_file)
+
+    input_allergy_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Allergies.json"
+    input_physical_exam_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Physical_Exam.json"
+    input_social_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Social_history.json"
+    input_hpi_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/History_of_Present_Illness.json"
+    input_family_file = f"../Blackboard/Contents/{patient_id}/Patient_Info/Family_history.json"
+
+    allergy_content = load_json_as_text(input_allergy_file)
+    physical_exam_content = load_json_as_text(input_physical_exam_file)
+    social_family_content = load_json_as_text(input_social_file) + load_json_as_text(input_family_file)
+    hpi_content = load_json_as_text(input_hpi_file)
+
+
     print("--------------------------")
-    print(patient_info)
+    print(diagnoses_content)
     print(prescription)
+    print(f"----------{patient_id}----------")
+    print(allergy_content)
+    print(physical_exam_content)
+    print(social_family_content)
+    print(hpi_content)
+
     inputs = {
-        'patient_info': patient_info,
-        'prescription': prescription
+        'diagnoses': diagnoses_content,
+        'prescription': prescription,
+        'allergy': allergy_content,
+        'physical_exam': physical_exam_content,
+        'social_family': social_family_content,
+        'hpi': hpi_content,
     }
     # 执行 Crew
     result = Drug_Patient_Interaction_Crew().crew().kickoff(inputs=inputs)
@@ -98,6 +114,10 @@ def run():
     print(result.raw)
 
     print("Over.")
+    
+    # 创建目标文件夹
+    target_folder = os.path.join(f"../Blackboard/Contents/{patient_id}/Drug_Patient_Interaction")
+    os.makedirs(target_folder, exist_ok=True)
 
     output_file_name = "DPI.json"
     source_file = 'output/drug_patient_interaction.json'

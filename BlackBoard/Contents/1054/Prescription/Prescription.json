@@ -1,0 +1,22 @@
+{
+    "Prescription": [
+        {
+            "DrugName": "Mesalamine",
+            "UsagePlan": "Take 800mg orally three times a day with food",
+            "AdminstrationRoute": "Oral",
+            "Explanation": "Mesalamine is a first-line treatment for Ileitis as it helps reduce inflammation in the intestines. The recommended dosage helps to control symptoms and promote healing in cases of mild to moderate ileitis."
+        },
+        {
+            "DrugName": "Antibiotics (Ciprofloxacin or Metronidazole)",
+            "UsagePlan": "Follow the specific dosage instructions provided by your healthcare provider",
+            "AdminstrationRoute": "Oral",
+            "Explanation": "Antibiotics like Ciprofloxacin or Metronidazole may be prescribed to treat any underlying bacterial infections that could be contributing to ileitis. They are commonly used in the treatment of inflammatory bowel diseases like ileitis."
+        },
+        {
+            "DrugName": "Pain Relievers (Acetaminophen)",
+            "UsagePlan": "Take 500mg to 1000mg every 6 hours as needed for pain relief",
+            "AdminstrationRoute": "Oral",
+            "Explanation": "Acetaminophen is recommended for managing abdominal pain associated with ileitis as it is less likely to aggravate inflammation in the intestines compared to nonsteroidal anti-inflammatory drugs (NSAIDs). It helps in providing relief from pain without irritating the gut."
+        }
+    ]
+}

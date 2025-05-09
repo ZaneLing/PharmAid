@@ -1,11 +1,44 @@
 drug_conflict_detector_task:
   description: >
-    Given aprescribed drug list: {prescription} and a general information: {general_info},which including the allergy history, the current medictions and the past medications of the patient.
-    Your task is to analyze first, and you have to detect any potential drug-drug interactions (DDIs) or conflicts according to the given informations.
+    Given the following contents:
+    1: The diagnosis for this patient is: {diagnose}.
+    2: The initial prescription for this patient is: {prescription}. 
+    Then provide the patient's medication information:
+    1: Past medication history(PMH): {pmh}.
+    2: Medications on admissions(MOA): {moa}. 
+
+    Now you need to analyze step by step: 
+    1: Do MOA and the initial prescription have any drug conflicts? If not, then no explanation is required. If so, a risk level and an explanation need to be provided. 
+    2: Is there any conflict between PMH and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
+    
+    The risk level can be classified into three levels(Gold Standard Classification):
+    Level A: High risk. It may cause serious adverse reactions and the drug regimen needs to be adjusted.
+    Level B: Moderate risk. It may cause some adverse reactions, but the dosage can usually be adjusted for management.
+    Level C: Low risk. It usually does not cause serious adverse reactions and does not require special intervention.
+
+    Finally, based on the two conflict detections you provided, please give your revised suggestions.
+    According to the conflicts and suggestions above, you have to give the revised prescription.
+    If no conflicts are detected, please provide the initial prescription as the final prescription.
+
+    Here is the output json form:
+    MoaConflict: A boolean indicating whether a conflict exists (true or false) between the medications on admission (MOA) and the initial prescription.
+    MoaExplanation: A detailed explanation of the conflict, if exists.
+    MoaRiskLevel: A single letter: A or B or C, which represent the risk level of the conflict between MOA and the initial prescription, if applicable.
+    PmhConfliect: A boolean indicating whether a conflict exists (true or false) between the past medication history (PMH) and the initial prescription.
+    PmhExplanation: A detailed explanation of the conflict, if exists.
+    PmhRiskLevel: A single letter: A or B or C, which represent the risk level of the conflict between PMH and the initial prescription, if applicable.
+    RevisedSuggestion: A suggestion for the revised prescription based on the conflicts detected.
+    RevisedPrescription: A list of alternative drugs, if applicable.
+
   expected_output: >
-    Your output is a list of structured JSON file containing:
-    1. Conflict: A boolean indicating whether a conflict exists (true or false).
-    2. Explanation: A detailed explanation of the conflict, if any.
-    3. Alternative: A list of alternative drugs, if applicable.
+    A structured JSON file containing:
+      MoaConflict: bool
+      MoaExplanation: str
+      MoaRiskLevel: str
+      PmhConfliect: bool
+      PmhExplanation: str
+      PmhRiskLevel: str
+      RevisedSuggestion: str
+      RevisedPrescription: list[str]
   agent: drug_conflict_detector
   output_file: output/drug_conflict_analysis.json
