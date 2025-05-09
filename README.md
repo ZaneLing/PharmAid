@@ -1,6 +1,6 @@
 # PRISMATIC: ***P***rescription ***R***isk ***I***nspection ***S***ystem for ***M***ulti-***A***gent ***T***actical ***I***nteraction in ***C***linical Decision
 
-![](./resources/workflow.png)
+![](./resources/Prismatic_framework.jpg)
 
 ## A multi-agent architecture leveraging patient statements and clinical knowledge for prescription risk inspection. 
 
