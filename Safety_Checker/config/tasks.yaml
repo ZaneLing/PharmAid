@@ -1,13 +1,62 @@
-perform_safety_check_task:
+evaluate_prescription_safety_task:
   description: >
-    Given a final prescription: {prescription}, perform a comprehensive safety check.
-    Perform a safety check on the given prescription to ensure:
-    1. No drug-drug interactions (DDIs).
-    2. Dosages are within safe and recommended ranges.
-    3. No conflicts with patient-specific factors (e.g., allergies, medical history).
+    Given some contents that you need to use for the evaluation:
+      1. Prescription: {prescription}
+      2. Diagnosis: {diagnosis}
+      3. Patient information: {patient_info}
+      4. Physical examination: {physical_exam}
+      and you need to perform a comprehensive safety evaluation.
+    Your evaluation should be scored based on the following six assessment items, and the score for each item is 100 points.
+    1. Conflict_score:  Are there any drug conflicts among the drugs in the prescription?
+      - If there is no conflict, then it is 100 points
+      - If there is a serious conflict, it will be 60 points
+      - For other minor conflicts, points will be deducted as appropriate.
+    2. Dosage_score: Is the dosage of the medicine in the prescription appropriate?
+      - If the dosage is appropriate, it will be 100 points
+      - If the dosage is inappropriate, points will be deducted as appropriate.
+    3. Duplication_score: Is there any situation where the same ingredient drug is repeatedly prescribed in the prescription?
+      - If not, it will be 100 points
+      - If there is, it will be 60 points
+    4. Context_score: Is there any conflict between the patient info and the prescription?
+      - If there is no conflict, it will be 100 points
+      - In case of conflict, points will be deducted as appropriate
+    5. Physical_score: Is there any conflict between the patient's physical examination and the prescription?
+      - If there is no conflict, it will be 100 points
+      - In case of conflict, points will be deducted as appropriate
+    6. Coverage_score: The matching degree between the prescribed medication and the diagnosis
+      - If all abnormal disease manifestations/indicators are covered, it will score 100 points
+      - Other points will be deducted as appropriate based on the degree of matching.
+    
+    Finally, please give your final score and a brief summary of the evaluation.
+
+    Your output form should be a structured JSON file that includes:
+    1. Conflict_score: A numerical score representing the conflict level (0-100).
+    2. Reasons for the conflict score: A detailed explanation of the conflict, if exists.
+    3. Dosage_score: A numerical score representing the dosage appropriateness (0-100).
+    4. Reasons for the dosage score: A detailed explanation of the dosage appropriateness, if exists.
+    5. Duplication_score: A numerical score representing the duplication level (0-100).
+    6. Reasons for the duplication score: A detailed explanation of the duplication, if exists.
+    7. Context_score: A numerical score representing the context appropriateness (0-100).
+    8. Reasons for the context score: A detailed explanation of the context appropriateness, if exists.
+    9. Physical_score: A numerical score representing the physical appropriateness (0-100).
+    10. Reasons for the physical score: A detailed explanation of the physical appropriateness, if exists.
+    11. Coverage_score: A numerical score representing the coverage degree (0-100).
+    12. Reasons for the coverage score: A detailed explanation of the coverage degree, if exists.
+    13. EvaluationSummary: A summary of the safety evaluation, including detected risks and recommendations.
   expected_output: >
     A structured JSON file containing:
-    1. FinalPrescription: The final, safe prescription after resolving any conflicts.
-    2. SafetyCheck: A summary of the safety check, including detected conflicts and recommendations.
+    1. Conflict_score: int
+    2. ConflictReason: str
+    3. Dosage_score: int
+    4. DosageReason: str
+    5. Duplication_score: int
+    6. DuplicationReason: str
+    7. Context_score: int
+    8. ContextReason: str
+    9. Physical_score: int
+    10. PhysicalReason: str
+    11. Coverage_score: int
+    12. CoverageReason: str
+    13. EvaluationSummary: str
   agent: safety_checker_agent
-  output_file: output/final_prescription.json
+  output_file: output/prescription_safety.json

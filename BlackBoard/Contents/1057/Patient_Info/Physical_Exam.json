@@ -1,13 +1,14 @@
 {
     "Physical_Exam": [
-        "Vitals: Temp-96.7, BP-112/64, HR-64, RR-16, O2-94RA",
+        "Vitals: Temp-96.7, BP-112/64, HR-64, RR-16, Pulse Ox-94%",
         "Gen: NAD, AOX3",
-        "HEENT: MMM, sclera anicteric",
-        "Cardiovascular: RRR normal s1, s2",
-        "Respiratory: Clear bilaterally, no wheezes, rales, or rhonchi",
-        "Abd: Soft, non-tender, non-distended",
-        "Extremities: No edema, 2+ DP pulses",
-        "Integument: Warm, moist, no rash or ulceration",
+        "HEENT: Normal",
+        "Neck: no LAD",
+        "Cardiovascular: RRR normal s1, s2, no murmurs",
+        "Respiratory: Clear bilaterally, no wheezes/rales/rhonchi",
+        "Abd: Soft, non-tender, normoactive bowel sounds",
+        "Ext: No edema, 2+ DP pulses",
+        "Integument: Warm, moist, no rash/ulceration",
         "Psychiatric: appropriate, pleasant, not anxious"
     ]
 }

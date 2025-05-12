@@ -11,6 +11,14 @@ from dotenv import load_dotenv
 import shutil
 from datetime import datetime
 
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+#retro_json_path = os.path.join(PROJECT_ROOT, "BlackBoard/Contents/Retro.json")# Guidances from iteration
+from crewai.knowledge.source.json_knowledge_source import JSONKnowledgeSource
+
+json_source = JSONKnowledgeSource(
+    file_paths=["Retro.json"]
+)
+
 # 加载环境变量
 load_dotenv()
 oak = os.getenv("OPENAI_API_KEY")
@@ -26,6 +34,7 @@ class PrescriptionCrew():
     def doctor_pharmacist_agent(self) -> Agent:
         return Agent(
             config=self.agents_config['doctor_pharmacist_agent'],
+            knowledge_sources=[json_source],
             verbose=True
         )
 
@@ -101,9 +110,16 @@ def run(id):
     #input_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint_and_Discharge_Diagnoses.json"
     chief_complaint_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint.json"
     diagnoses_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
+    previous_prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
+    DDI_file = f"./BlackBoard/Contents/{patient_id}/Drug_Drug_Interaction/DDI.json"
+    DPI_file = f"./BlackBoard/Contents/{patient_id}/Drug_Patient_Interaction/DPI.json"
+
 
     cc_content = load_json_as_text(chief_complaint_file)
     diagnoses_content = load_json_as_text(diagnoses_file)
+    previous_prescription = load_json_as_text(previous_prescription_file)
+    DDI = load_json_as_text(DDI_file)
+    DPI = load_json_as_text(DPI_file)
 
     if not cc_content:
         print("[Error] cc为空，无法继续执行。")
@@ -119,7 +135,10 @@ def run(id):
     
     inputs = {
         'cc': cc_content,
-        'diagnoses': diagnoses_content,
+        'diagnosis': diagnoses_content,
+        'previous_prescription': previous_prescription,
+        'DDI': DDI,
+        'DPI': DPI,
     }
 
     # 执行 Crew
