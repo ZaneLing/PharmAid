@@ -10,8 +10,6 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 import shutil
 from datetime import datetime
-
-PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 #retro_json_path = os.path.join(PROJECT_ROOT, "BlackBoard/Contents/Retro.json")# Guidances from iteration
 from crewai.knowledge.source.json_knowledge_source import JSONKnowledgeSource
 
@@ -142,7 +140,7 @@ def run(id):
     }
 
     # 执行 Crew
-    print(f"[Prescription] 处理患者ID: {patient_id}")
+    print(f"[Prescription] patient processing...: {patient_id}")
     result = PrescriptionCrew().crew().kickoff(inputs=inputs)
 
     print("\n-------FINAL REPORT------\n")

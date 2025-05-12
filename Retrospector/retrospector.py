@@ -96,9 +96,9 @@ def extract_retro(input_file, output_folder):
 def run(id):
     patient_id = str(id)
     # 输入文件路径
-    standard_prescription_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Medications.json"
-    final_prescription_file = f"../BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
-    diagnosis_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
+    standard_prescription_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Medications.json"
+    final_prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
+    diagnosis_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
     # 加载标准处方和最终处方
     standard_prescription = load_prescription(standard_prescription_file)
     final_prescription = load_prescription(final_prescription_file)
@@ -125,21 +125,21 @@ def run(id):
     print("\n\n=== FINAL REPORT ===\n\n")
     print(result)
 
-    # 创建目标文件夹
-    target_folder = os.path.join(f"../Blackboard/Contents/{patient_id}/Retro")
+    # # 创建目标文件夹
+    target_folder = os.path.join(f"./BlackBoard/Contents/{patient_id}/Retro")
     os.makedirs(target_folder, exist_ok=True)
 
     output_file_name = "Retro.json"
     source_file = 'output/prescription_guidance.json'
-    target_path = os.path.join(f"../Blackboard/Contents/{patient_id}/Retro", output_file_name)
+    target_path = os.path.join(f"./BlackBoard/Contents/{patient_id}/Retro", output_file_name)
 
     shutil.copy2(source_file, target_path)
-    print(f"\n\nReport has been saved to {target_path}")
+    print(f"\nReport has been saved to {target_path}")
 
-    retro_folder = os.path.join(f"../Blackboard/Retrospection")
+    retro_folder = os.path.join(f"./knowledge")
     os.makedirs(retro_folder, exist_ok=True)
     
-    retro_file = f"../Blackboard/Contents/{patient_id}/Retro/Retro.json"
+    retro_file = f"./knowledge/Retro.json"
     extract_retro(retro_file, retro_folder)
 
 if __name__ == "__main__":

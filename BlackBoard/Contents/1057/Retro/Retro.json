@@ -1,0 +1,72 @@
+{
+  "Differences": [
+    {
+      "Added medications": [
+        {
+          "DrugName": "Piperacillin/Tazobactam",
+          "UsagePlan": "Administer 4.5g IV every 6 hours",
+          "AdminstrationRoute": "Intravenous",
+          "Explanation": "Piperacillin/Tazobactam is chosen to treat the primary diagnosis of ARDS and Pneumonia, providing broad-spectrum coverage against various bacteria commonly implicated in these conditions."
+        },
+        {
+          "DrugName": "Metronidazole",
+          "UsagePlan": "Start with 500mg IV every 8 hours",
+          "AdminstrationRoute": "Intravenous",
+          "Explanation": "Metronidazole is recommended for the treatment of Duodenal Perforation, offering anaerobic bacterial coverage and aiding in the management of this condition."
+        },
+        {
+          "DrugName": "Fluconazole",
+          "UsagePlan": "Initiate with 200-400mg IV/PO on day 1, then 100-200mg IV/PO daily",
+          "AdminstrationRoute": "Oral or Intravenous",
+          "Explanation": "Fluconazole is selected for the treatment of Oral Thrush, providing antifungal activity against Candida species commonly responsible for this condition."
+        }
+      ],
+      "Modified fields": [
+        {
+          "DrugName": "Heparin",
+          "Before": "5000 (5000) units Injection TID (3 times a day)",
+          "After": "Start with 80 units/kg IV bolus, then 18 units/kg/hour",
+          "Field": "Dosage and Frequency",
+          "Explanation": "Optimization based on weight-based dosing for LUE DVT management."
+        }
+      ]
+    },
+    {
+      "Removed medications": [
+        {
+          "DrugName": "white petrolatum-mineral oil",
+          "Details": "Ointment for Ophthalmic use",
+          "Reason": "Not directly addressing any of the primary or secondary diagnoses."
+        },
+        {
+          "DrugName": "chlorhexidine gluconate",
+          "Details": "Mouthwash for mucous membrane",
+          "Reason": "Not directly addressing any of the primary or secondary diagnoses."
+        },
+        {
+          "DrugName": "fluticasone",
+          "Details": "Aerosol for Inhalation",
+          "Reason": "Not directly addressing any of the primary or secondary diagnoses."
+        },
+        {
+          "DrugName": "albuterol sulfate",
+          "Details": "HFA Aerosol Inhaler",
+          "Reason": "Not directly addressing any of the primary or secondary diagnoses."
+        }
+      ]
+    }
+  ],
+  "Reflections": "The differences observed in the prescriptions stem from tailoring the medication regimen to directly target and manage the patient's specific diagnosed conditions. By adding, modifying, and removing medications, the final prescription aims to optimize therapeutic outcomes based on the clinical presentation.",
+  "Guidance": [
+    {
+      "Trigger condition": "Presence of specific diagnoses",
+      "Recommended action": "Tailor the medication regimen to address the diagnosed conditions",
+      "Expected outcome": "Improved therapeutic efficacy and targeted management of the patient's health issues"
+    },
+    {
+      "Trigger condition": "Weight-based dosing considerations for anticoagulation",
+      "Recommended action": "Utilize weight-based dosing for Heparin in conditions such as DVT",
+      "Expected outcome": "Optimal dosing according to patient's weight, improving safety and efficacy"
+    }
+  ]
+}

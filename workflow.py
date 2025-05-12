@@ -3,23 +3,34 @@ import subprocess
 
 from Safety_Checker.safety_score import calculate_safety_score
 
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "."))
+
 # 定义文件路径
-CCM_DATASET_PATH = "./CCMDataset/L1"
+CCM_DATASET = "CCMDataset/L1"
+CCM_DATASET_PATH = os.path.join(PROJECT_ROOT, CCM_DATASET)
 
 # 定义各脚本的路径
 
-SAFETY_CHECKER_SCRIPT = "./Safety_Checker/safety_checker.py"  # 替换为实际路径
-SAFETY_SCORE_SCRIPT = "./Safety_Checker/safety_score.py" 
-PATIENT_INFO_CLEANER_SCRIPT = "./Patient_Info_Cleaner/Patient_info_cleaner.py"  # 替换为实际路径
-PRESCRIPTION_SCRIPT = "./Prescription/prescription.py"  # 替换为实际路径
-DRUG_DRUG_INTERACTION_SCRIPT = "./Drug_Drug_Interaction/drug_drug_detector.py"  # 替换为实际路径
-DRUG_PATIENT_INTERACTION_SCRIPT = "./Drug_Patient_Interaction/drug_patient_detector.py"  # 替换为实际路径
-RETROSPECTION_SCRIPT = "./Retrospection/retrospection.py"  # 替换为实际路径
+SAFETY_CHECKER_SCRIPT = os.path.join(PROJECT_ROOT, "Safety_Checker/safety_checker.py")
+SAFETY_SCORE_SCRIPT = os.path.join(PROJECT_ROOT, "Safety_Checker/safety_score.py")
+PATIENT_INFO_CLEANER_SCRIPT = os.path.join(PROJECT_ROOT, "Patient_Info_Cleaner/Patient_info_cleaner.py")
+PRESCRIPTION_SCRIPT = os.path.join(PROJECT_ROOT, "Prescription/prescription.py")
+DRUG_DRUG_INTERACTION_SCRIPT = os.path.join(PROJECT_ROOT, "Drug_Drug_Interaction/drug_drug_detector.py")
+DRUG_PATIENT_INTERACTION_SCRIPT = os.path.join(PROJECT_ROOT, "Drug_Patient_Interaction/drug_patient_detector.py")
+RETROSPECTION_SCRIPT = os.path.join(PROJECT_ROOT, "Retrospector/retrospector.py")
+
+# SAFETY_SCORE_SCRIPT = "./Safety_Checker/safety_score.py" 
+# PATIENT_INFO_CLEANER_SCRIPT = "./Patient_Info_Cleaner/Patient_info_cleaner.py"  # 替换为实际路径
+# PRESCRIPTION_SCRIPT = "./Prescription/prescription.py"  # 替换为实际路径
+# DRUG_DRUG_INTERACTION_SCRIPT = "./Drug_Drug_Interaction/drug_drug_detector.py"  # 替换为实际路径
+# DRUG_PATIENT_INTERACTION_SCRIPT = "./Drug_Patient_Interaction/drug_patient_detector.py"  # 替换为实际路径
+# RETROSPECTION_SCRIPT = "./Retrospector/retrospector.py"  
+
+
 def run_patient_info_cleaner(ds_path):
-    """
-    运行 Patient_Info_Cleaner 脚本，处理患者信息。
-    """
     print(f"[INFO] 正在运行 Patient_Info_Cleaner 脚本...")
+    print(f"[INFO] Project Path: {PROJECT_ROOT}")
+    print(f"[INFO] 数据集路径: {ds_path}")
     try:
         subprocess.run(["python", PATIENT_INFO_CLEANER_SCRIPT, ds_path], check=True)
         print(f"[INFO] Patient_Info_Cleaner 脚本运行完成。")
@@ -112,17 +123,18 @@ def main():
     """
     主流程函数，按顺序运行所有步骤。
     """
-    print(f"[INFO] 开始执行工作流...")
+    print(f"[INFO] Start...")
     patient_id = 1057  # 示例病人编号
-    output_patient_folder = f"./BlackBoard/Contents/{patient_id}"
+    output_patient_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}")
     os.makedirs(output_patient_folder, exist_ok=True)
+
+    print(f"[INFO] 正在运行 Patient_Info_Cleaner 脚本...")
+    print(f"[INFO] ds Path: {CCM_DATASET_PATH}")
+    run_patient_info_cleaner(CCM_DATASET_PATH)
 
     patient_prescription_score = 0
     while patient_prescription_score < 85:
         print(f"[INFO] 处方评分: {patient_prescription_score}，iteration continue。")
-    # Step 1: 运行 Patient_Info_Cleaner
-        run_patient_info_cleaner(CCM_DATASET_PATH)
-
         # Step 3: 运行 Prescription
         run_prescription(patient_id)
 
@@ -133,7 +145,7 @@ def main():
         run_drug_patient_interaction_checker(patient_id)
 
         run_safety_checker(patient_id)
-        safety_score_file = f"./Blackboard/Contents/{patient_id}/Safety_Check/safety_check.json"
+        safety_score_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Safety_Check/safety_check.json")
         patient_prescription_score = calculate_safety_score(safety_score_file)
         print(f"[INFO] 处方评分: {patient_prescription_score}")
 

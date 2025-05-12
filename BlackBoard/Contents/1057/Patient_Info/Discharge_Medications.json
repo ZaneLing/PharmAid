@@ -1,17 +1,9 @@
 {
     "Discharge_Medications": [
-        "1. white petrolatum-mineral oil 56.8-42.5% Ointment Q6H",
-        "2. chlorhexidine gluconate 0.12% Mouthwash BID",
-        "3. heparin 5,000 units Injection TID",
-        "4. fluticasone 110 mcg Inhalation BID",
-        "5. albuterol sulfate 90 mcg Inhaler Q4H",
-        "6. ipratropium bromide Inhaler Q4H",
-        "7. acetaminophen 500 mg Tablet Q6H",
-        "8. polyvinyl alcohol-povidone Ophthalmic PRN",
-        "9. ranitidine HCl 15 mg/mL Syrup BID",
-        "10. diazepam 5 mg Tablet QHS",
-        "11. olanzapine 5 mg Tablet, Rapid Dissolve BID",
-        "12. polyethylene glycol 3350 17 gram/dose Powder Daily",
-        "13. sulfamethoxazole-trimethoprim 200-40 mg/5 mL Suspension TID for 8 days"
+        "1. white petrolatum-mineral oil 56.8-42.5 % Ointment Sig: One (1) Appl Ophthalmic Q6H (every 6 hours).",
+        "2. chlorhexidine gluconate 0.12 % Mouthwash Sig: Fifteen (15) ML Mucous membrane BID (2 times a day).",
+        "3. heparin (porcine) 5,000 unit/mL Solution Sig: 5000 (5000) units Injection TID (3 times a day).",
+        "4. fluticasone 110 mcg/Actuation Aerosol Sig: Two (2) Puff Inhalation BID (2 times a day).",
+        "5. albuterol sulfate 90 mcg/Actuation HFA Aerosol Inhaler Sig: ___ Puffs Inhalation Q4H (every 4 hours) as needed for wheezing. ..."
     ]
 }

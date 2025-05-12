@@ -1,10 +1,10 @@
 {
     "Discharge_Diagnose": [
-        "ARDS",
+        "Primary: ARDS",
         "Pneumonia",
         "Choledocholithiasis",
         "Duodenal Perforation",
-        "Oral thrush",
+        "Secondary: Oral thrush",
         "LUE DVT"
     ]
 }
