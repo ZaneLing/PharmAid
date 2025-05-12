@@ -120,9 +120,15 @@ def run_retrospection(patient_id):
         raise
 
 def main():
-    """
-    主流程函数，按顺序运行所有步骤。
-    """
+    print(f"[INFO] Set OpenAi Key...")
+
+    # oak = os.getenv("OPENAI_API_KEY")
+
+    # if not oak:
+    #     raise EnvironmentError("Environment variable OPENAI_API_KEY is not set. Please set it before running the script.")
+
+    # os.environ["OPENAI_API_KEY"] = oak
+
     print(f"[INFO] Start...")
 
     #set retro database
