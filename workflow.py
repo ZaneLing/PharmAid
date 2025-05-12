@@ -124,6 +124,12 @@ def main():
     主流程函数，按顺序运行所有步骤。
     """
     print(f"[INFO] Start...")
+
+    #set retro database
+    print(f"[INFO] Set retro guidance database...")
+    # knowledge_path = os.path.join(PROJECT_ROOT, "knowledge")
+    # os.makedirs(knowledge_path, exist_ok=True); open("knowledge/Retro.json", "w", encoding="utf-8").write("{}")
+
     patient_id = 1057  # 示例病人编号
     output_patient_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}")
     os.makedirs(output_patient_folder, exist_ok=True)

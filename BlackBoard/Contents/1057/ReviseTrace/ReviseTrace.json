@@ -1,159 +1,50 @@
 [
     {
-        "timestamp": "2025-05-12 16:25:44",
+        "timestamp": "2025-05-12 23:12:56",
         "Prescription": [
             {
-                "DrugName": "Ursodeoxycholic acid",
-                "UsagePlan": "Take 300mg orally three times a day with food. It is important to follow the prescribed schedule consistently.",
+                "DrugName": "Aspirin",
+                "UsagePlan": "Take 325mg immediately, then continue with 81mg daily for antiplatelet effects to reduce the risk of further cardiac events.",
                 "AdminstrationRoute": "Oral",
-                "Explanation": "Ursodeoxycholic acid is chosen to help dissolve gallstones and reduce cholesterol production in the liver, which can be beneficial for treating choledocholithiasis."
+                "Explanation": "Aspirin is a vital medication in the management of acute myocardial infarction. It helps prevent blood clot formation in the arteries, reducing the risk of further complications."
             },
             {
-                "DrugName": "Piperacillin/tazobactam",
-                "UsagePlan": "Administer 4.5g intravenously every 6 hours. Complete the full course as prescribed.",
-                "AdminstrationRoute": "Intravenous",
-                "Explanation": "Piperacillin/tazobactam is included to cover potential infections associated with choledocholithiasis, especially if there are signs of sepsis or biliary tract infection."
+                "DrugName": "Clopidogrel",
+                "UsagePlan": "Take 300mg loading dose, followed by 75mg daily to prevent blood clots. Continue for at least 1 year unless contraindicated.",
+                "AdminstrationRoute": "Oral",
+                "Explanation": "Clopidogrel is recommended as it is an antiplatelet medication that can be used in conjunction with aspirin to reduce the risk of clot formation in the coronary arteries."
+            },
+            {
+                "DrugName": "Atorvastatin",
+                "UsagePlan": "Start with 80mg for lipid-lowering effects to lower LDL cholesterol levels and reduce inflammation in the arteries.",
+                "AdminstrationRoute": "Oral",
+                "Explanation": "Atorvastatin is crucial in the treatment post-myocardial infarction to reduce the risk of recurrent events by lowering cholesterol levels and stabilizing plaque in the arteries."
+            },
+            {
+                "DrugName": "Metoprolol",
+                "UsagePlan": "Begin with 25-50mg orally every 6 hours to control heart rate, blood pressure, and reduce the workload on the heart.",
+                "AdminstrationRoute": "Oral",
+                "Explanation": "Metoprolol is a beta-blocker that helps protect the heart after a myocardial infarction by reducing the workload on the heart, controlling blood pressure, and improving survival rates."
             }
         ]
     },
     {
-        "timestamp": "2025-05-12 16:25:57",
+        "timestamp": "2025-05-12 23:13:05",
         "ConflictionType": "DDI",
-        "RevisedReason": "The conflicts identified pose high risks of adverse reactions and reduced efficacy.",
-        "RevisedSuggestion": "Revise the prescription by considering alternative antibiotics for choledocholithiasis and reassessing the treatment plan for patients with contraindications to Ursodeoxycholic acid.",
+        "RevisedReason": "The use of Aspirin and Metformin together can increase the risk of lactic acidosis due to their combined effects on kidney function.",
+        "RevisedSuggestion": "Consider replacing Metformin with an alternative medication that does not increase the risk of lactic acidosis in combination with Aspirin.",
         "RevisedPrescription": []
     },
     {
-        "timestamp": "2025-05-12 16:26:06",
+        "timestamp": "2025-05-12 23:13:13",
         "ConflictionType": "DPI",
-        "RevisedReason": "The initial prescription may worsen the patient's diarrhea and epigastric pain due to the medications' side effects.",
-        "RevisedSuggestion": "Consider a review of the medication choices to reduce gastrointestinal symptoms and ensure optimal treatment outcomes.",
+        "RevisedReason": "There is a potential conflict between the patient's elevated blood pressure and tachycardia and the use of Metoprolol in the initial prescription. Adjustments may be needed to mitigate this risk.",
+        "RevisedSuggestion": "Consider starting Metoprolol at a lower dosage and monitor the patient closely for any adverse effects on blood pressure and heart rate.",
         "RevisedPrescription": [
-            "Consider adjusting the prescription to manage gastrointestinal symptoms and improve patient comfort."
-        ]
-    },
-    {
-        "timestamp": "2025-05-12 16:34:15",
-        "Prescription": [
-            {
-                "DrugName": "Ceftriaxone",
-                "UsagePlan": "Administer 1-2 grams intravenously once a day. Dosage adjustments may be necessary based on the severity of the infection and renal function.",
-                "AdminstrationRoute": "Intravenous",
-                "Explanation": "Ceftriaxone is recommended as an alternative antibiotic for the treatment of choledocholithiasis-associated infections, considering the DDI conflict with Piperacillin/tazobactam and DPI risk for worsening gastrointestinal symptoms."
-            },
-            {
-                "DrugName": "Metronidazole",
-                "UsagePlan": "Give 500 mg intravenously every 8 hours. Adjust doses based on renal function and clinical response.",
-                "AdminstrationRoute": "Intravenous",
-                "Explanation": "Metronidazole is included to cover anaerobic infections that may arise in choledocholithiasis cases, avoiding the DDI conflict and potential exacerbation of gastrointestinal symptoms."
-            }
-        ]
-    },
-    {
-        "timestamp": "2025-05-12 16:34:30",
-        "ConflictionType": "DDI",
-        "RevisedReason": "No conflicts were found in the analysis.",
-        "RevisedSuggestion": "No changes needed in the prescription.",
-        "RevisedPrescription": [
-            "Ceftriaxone: Administer 1-2 grams intravenously once a day. Dosage adjustments may be necessary based on the severity of the infection and renal function.",
-            "Metronidazole: Give 500 mg intravenously every 8 hours. Adjust doses based on renal function and clinical response."
-        ]
-    },
-    {
-        "timestamp": "2025-05-12 16:34:44",
-        "ConflictionType": "DPI",
-        "RevisedReason": "",
-        "RevisedSuggestion": "",
-        "RevisedPrescription": [
-            "Ceftriaxone",
-            "Metronidazole"
-        ]
-    },
-    {
-        "timestamp": "2025-05-12 16:40:36",
-        "Prescription": [
-            {
-                "DrugName": "Ursodeoxycholic Acid",
-                "UsagePlan": "Start with 300 mg orally twice a day. Adjust dosage based on response and liver function tests. May increase up to 600 mg orally twice a day for larger stones.",
-                "AdminstrationRoute": "Oral",
-                "Explanation": "Ursodeoxycholic Acid is chosen as it helps dissolve cholesterol stones in the gallbladder and is effective in treating choledocholithiasis. It can prevent stone formation and reduce the size of existing stones, promoting bile flow and reducing the risk of complications."
-            },
-            {
-                "DrugName": "Chenodeoxycholic Acid",
-                "UsagePlan": "Initiate with 250 mg orally two or three times a day. Dosage adjustments based on response and liver function. Maximum dose can reach 750 mg per day.",
-                "AdminstrationRoute": "Oral",
-                "Explanation": "Chenodeoxycholic Acid is another option for treating choledocholithiasis by promoting the dissolution of bile stones. It helps to improve bile flow and prevent the recurrence of stones, especially in patients who cannot tolerate or have contraindications to ursodeoxycholic acid."
-            }
-        ]
-    },
-    {
-        "timestamp": "2025-05-12 16:41:04",
-        "ConflictionType": "DDI",
-        "RevisedReason": "No conflicts detected between MOA and the initial prescription, as well as between PMH and the initial prescription.",
-        "RevisedSuggestion": "No changes required.",
-        "RevisedPrescription": [
-            "Ursodeoxycholic Acid - Start with 300 mg orally twice a day. Adjust dosage based on response and liver function tests. May increase up to 600 mg orally twice a day for larger stones.",
-            "Chenodeoxycholic Acid - Initiate with 250 mg orally two or three times a day. Dosage adjustments based on response and liver function. Maximum dose can reach 750 mg per day."
-        ]
-    },
-    {
-        "timestamp": "2025-05-12 16:41:10",
-        "ConflictionType": "DPI",
-        "RevisedReason": "The initial prescription is not aligned with the current symptoms of the patient provided in the history of present illness.",
-        "RevisedSuggestion": "Reevaluate the need for choledocholithiasis treatment considering the patient's current clinical presentation and recent sphincterotomy.",
-        "RevisedPrescription": []
-    },
-    {
-        "timestamp": "2025-05-12 16:58:18",
-        "Prescription": [
-            {
-                "DrugName": "Piperacillin/Tazobactam",
-                "UsagePlan": "Administer 4.5g IV every 6 hours.",
-                "AdminstrationRoute": "Intravenous",
-                "Explanation": "Piperacillin/Tazobactam is chosen to treat the primary diagnosis of ARDS and Pneumonia, providing broad-spectrum coverage against various bacteria commonly implicated in these conditions."
-            },
-            {
-                "DrugName": "Metronidazole",
-                "UsagePlan": "Start with 500mg IV every 8 hours.",
-                "AdminstrationRoute": "Intravenous",
-                "Explanation": "Metronidazole is recommended for the treatment of Duodenal Perforation, offering anaerobic bacterial coverage and aiding in the management of this condition."
-            },
-            {
-                "DrugName": "Fluconazole",
-                "UsagePlan": "Initiate with 200-400mg IV/PO on day 1, then 100-200mg IV/PO daily.",
-                "AdminstrationRoute": "Oral or Intravenous",
-                "Explanation": "Fluconazole is selected for the treatment of Oral Thrush, providing antifungal activity against Candida species commonly responsible for this condition."
-            },
-            {
-                "DrugName": "Heparin",
-                "UsagePlan": "Start with 80 units/kg IV bolus, then 18 units/kg/hour.",
-                "AdminstrationRoute": "Intravenous",
-                "Explanation": "Heparin is recommended for the management of LUE DVT to prevent clot propagation and embolization, considering the patient's condition and risk factors."
-            }
-        ]
-    },
-    {
-        "timestamp": "2025-05-12 16:59:25",
-        "ConflictionType": "DDI",
-        "RevisedReason": "No conflicts detected between MOA, PMH, and the initial prescription.",
-        "RevisedSuggestion": "No changes needed.",
-        "RevisedPrescription": [
-            "Piperacillin/Tazobactam - Administer 4.5g IV every 6 hours.",
-            "Metronidazole - Start with 500mg IV every 8 hours.",
-            "Fluconazole - Initiate with 200-400mg IV/PO on day 1, then 100-200mg IV/PO daily.",
-            "Heparin - Start with 80 units/kg IV bolus, then 18 units/kg/hour."
-        ]
-    },
-    {
-        "timestamp": "2025-05-12 16:59:40",
-        "ConflictionType": "DPI",
-        "RevisedReason": "The patient's recent ERCP procedure may impact the efficacy of the initial prescription.",
-        "RevisedSuggestion": "Consider monitoring drug levels or adjusting dosages based on the recent ERCP procedure.",
-        "RevisedPrescription": [
-            "Piperacillin/Tazobactam",
-            "Metronidazole",
-            "Fluconazole",
-            "Heparin"
+            "Aspirin - 325mg immediately, then 81mg daily",
+            "Clopidogrel - 300mg loading dose, then 75mg daily",
+            "Atorvastatin - 80mg",
+            "Metoprolol - Start with a lower dosage and monitor closely"
         ]
     }
 ]

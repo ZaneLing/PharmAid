@@ -10,6 +10,8 @@ from pydantic import BaseModel
 
 from dotenv import load_dotenv
 
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
 load_dotenv()
 oak = os.getenv("OPENAI_API_KEY")
 os.environ["OPENAI_API_KEY"] = oak
@@ -125,16 +127,21 @@ def extract_revised_trace(input_file, output_folder):
 def run(id):
         patient_id = str(id)
 
-        input_moa_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Medications_on_Admissions.json"
+        input_moa_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Medications_on_Admissions.json")
+        input_pmh_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Past_Medical_History.json")
+        input_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
+        input_diagnosis_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
         
-        input_pmh_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Past_Medical_History.json"
+        # f"./Blackboard/Contents/{patient_id}/Patient_Info/Medications_on_Admissions.json"
+        
+        # input_pmh_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Past_Medical_History.json"
         moa_file = load_json_as_text(input_moa_file)
         pmh_file = load_json_as_text(input_pmh_file)
         general_info = load_json_as_text(input_moa_file) + load_json_as_text(input_pmh_file)
         
-        input_prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
+        # input_prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
         prescription = load_json_as_text(input_prescription_file)
-        input_diagnosis_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
+        # input_diagnosis_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
         diagnoses = load_json_as_text(input_diagnosis_file)
 
         print(f"-----------{patient_id}---------------")
@@ -159,20 +166,20 @@ def run(id):
         print("Over.")
 
         # 创建目标文件夹
-        target_folder = os.path.join(f"./Blackboard/Contents/{patient_id}/Drug_Drug_Interaction")
+        target_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Drug_Drug_Interaction")
         os.makedirs(target_folder, exist_ok=True)
 
         output_file_name = "DDI.json"
-        source_file = 'output/drug_drug_interaction.json'
-        target_path = os.path.join(f"./Blackboard/Contents/{patient_id}/Drug_Drug_Interaction", output_file_name)
+        source_file = os.path.join(PROJECT_ROOT, "output/drug_drug_interaction.json")#'output/drug_drug_interaction.json'
+        target_path = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Drug_Drug_Interaction", output_file_name)
 
         shutil.copy2(source_file, target_path)
         print(f"\n\nReport has been saved to {target_path}")
 
-        trace_folder = os.path.join(f"./Blackboard/Contents/{patient_id}/ReviseTrace")
+        trace_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/ReviseTrace")
         os.makedirs(trace_folder, exist_ok=True)
 
-        DDI_file = f"./Blackboard/Contents/{patient_id}/Drug_Drug_Interaction/DDI.json"
+        DDI_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Drug_Drug_Interaction/DDI.json") # f"./Blackboard/Contents/{patient_id}/Drug_Drug_Interaction/DDI.json"
         extract_revised_trace(DDI_file, trace_folder)
 
 if __name__ == "__main__":

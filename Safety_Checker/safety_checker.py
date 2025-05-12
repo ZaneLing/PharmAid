@@ -10,6 +10,9 @@ load_dotenv()
 oak = os.getenv("OPENAI_API_KEY")
 os.environ["OPENAI_API_KEY"] = oak
 
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
+
 # 定义输出数据模型
 class PrescriptionSafetyOutput(BaseModel):
     Conflict_score: int
@@ -66,10 +69,14 @@ def load_prescription(file_path):
 def run(id):
     patient_id = str(id)
     # 输入文件路径
-    prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/prescription.json"
-    diagnosis_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
-    patient_info_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Allergies.json"
-    physical_exam_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Physical_Exam.json"
+    prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
+    diagnosis_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
+    patient_info_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Allergies.json")
+    physical_exam_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Physical_Exam.json")
+
+    # diagnosis_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
+    # patient_info_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Allergies.json"
+    # physical_exam_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Physical_Exam.json"
 
     # 加载处方数据
     prescription = load_prescription(prescription_file)
@@ -95,17 +102,17 @@ def run(id):
     print("\n\n=== FINAL REPORT ===\n\n")
     print(result)
 
-    target_folder = os.path.join(f"./Blackboard/Contents/{patient_id}/Safety_Check")
+    target_folder = os.path.join(PROJECT_ROOT,f"Blackboard/Contents/{patient_id}/Safety_Check")
     os.makedirs(target_folder, exist_ok=True)
 
     output_file_name = "safety_check.json"
-    source_file = 'output/prescription_safety_evaluation.json'
-    target_path = os.path.join(f"./Blackboard/Contents/{patient_id}/Safety_Check", output_file_name)
+    source_file = os.path.join(PROJECT_ROOT, "output/prescription_safety_evaluation.json")
+    target_path = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Safety_Check", output_file_name)
 
     shutil.copy2(source_file, target_path)
     print(f"\n\nReport has been saved to {target_path}")
 
-    safe_check_folder = os.path.join(f"./Blackboard/Contents/{patient_id}/Safety_Check")
+    safe_check_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Safety_Check")
     os.makedirs(safe_check_folder, exist_ok=True)
 
     # DDI_file = f"./Blackboard/Contents/{patient_id}/Drug_Drug_Interaction/DDI.json"

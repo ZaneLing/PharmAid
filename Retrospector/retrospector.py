@@ -7,7 +7,9 @@ import sys
 from dotenv import load_dotenv
 import shutil
 from datetime import datetime
-# 加载环境变量
+
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
 load_dotenv()
 oak = os.getenv("OPENAI_API_KEY")
 os.environ["OPENAI_API_KEY"] = oak
@@ -22,7 +24,7 @@ class PrescriptionGuidanceOutput(BaseModel):
 class RetrospectorCrew():
     @agent
     def retrospector_agent(self) -> Agent:
-        """分析和反思 Agent"""
+
         return Agent(
             config=self.agents_config['retrospector_agent'],
             verbose=True
@@ -30,7 +32,7 @@ class RetrospectorCrew():
 
     @task
     def compare_prescriptions_task(self) -> Task:
-        """任务：对比处方并生成指导"""
+
         return Task(
             config=self.tasks_config['compare_prescriptions_task'],
             output_pydantic=PrescriptionGuidanceOutput,
@@ -39,7 +41,7 @@ class RetrospectorCrew():
 
     @crew
     def crew(self) -> Crew:
-        """创建分析和反思的 Crew"""
+
         return Crew(
             agents=self.agents,
             tasks=self.tasks,
@@ -48,11 +50,6 @@ class RetrospectorCrew():
         )
 
 def load_prescription(file_path):
-    """
-    从 JSON 文件中加载处方数据。
-    :param file_path: JSON 文件路径
-    :return: 处方数据
-    """
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
             return json.load(file)
@@ -66,12 +63,27 @@ def extract_retro(input_file, output_folder):
         with open(input_file, 'r', encoding='utf-8') as file:
             data = json.load(file)
         
-        # 提取 RevisedSuggestion 和 RevisedPrescription
+        # 检查 data 的类型
+        if isinstance(data, list):
+            # 如果 data 是列表，提取每个元素中的 "Guidance"
+            guidance_list = []
+            for item in data:
+                if isinstance(item, dict) and "Guidance" in item:
+                    guidance_list.extend(item["Guidance"])
+        elif isinstance(data, dict):
+            # 如果 data 是字典，直接提取 "Guidance"
+            guidance_list = data.get("Guidance", [])
+        else:
+            raise ValueError("Unsupported data format in input file.")
+        
+        if not isinstance(guidance_list, list):
+            raise ValueError("Guidance 数据格式错误，预期为 list[str]。")
+        # 创建 revised_trace 数据
         revised_trace = {
             "timestamp": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
-            "Retro": data.get("Guidance", [])
+            "Guidance": guidance_list
         }
-        
+        print(f"----------Extracted guidance: {revised_trace}------------")
         # 确定 ReviseTrace.json 的路径
         output_file = os.path.join(output_folder, "Retro.json")
         
@@ -79,6 +91,8 @@ def extract_retro(input_file, output_folder):
         if os.path.exists(output_file):
             with open(output_file, 'r', encoding='utf-8') as outfile:
                 existing_data = json.load(outfile)
+                if isinstance(existing_data, dict):
+                    existing_data = [existing_data]
         else:
             existing_data = []
         
@@ -96,9 +110,12 @@ def extract_retro(input_file, output_folder):
 def run(id):
     patient_id = str(id)
     # 输入文件路径
-    standard_prescription_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Medications.json"
-    final_prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
-    diagnosis_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
+    standard_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Medications.json")
+    final_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
+    diagnosis_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
+
+    # final_prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
+    # diagnosis_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
     # 加载标准处方和最终处方
     standard_prescription = load_prescription(standard_prescription_file)
     final_prescription = load_prescription(final_prescription_file)
@@ -126,20 +143,21 @@ def run(id):
     print(result)
 
     # # 创建目标文件夹
-    target_folder = os.path.join(f"./BlackBoard/Contents/{patient_id}/Retro")
+    target_folder = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Retro")
     os.makedirs(target_folder, exist_ok=True)
 
     output_file_name = "Retro.json"
-    source_file = 'output/prescription_guidance.json'
-    target_path = os.path.join(f"./BlackBoard/Contents/{patient_id}/Retro", output_file_name)
+    source_file = os.path.join(PROJECT_ROOT, "output/prescription_guidance.json")
+    target_path = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Retro", output_file_name)
 
     shutil.copy2(source_file, target_path)
     print(f"\nReport has been saved to {target_path}")
 
-    retro_folder = os.path.join(f"./knowledge")
+    retro_folder = os.path.join(PROJECT_ROOT, f"knowledge")
     os.makedirs(retro_folder, exist_ok=True)
     
-    retro_file = f"./knowledge/Retro.json"
+    retro_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Retro/Retro.json")
+    # retro_file = f"./knowledge/Retro.json"
     extract_retro(retro_file, retro_folder)
 
 if __name__ == "__main__":

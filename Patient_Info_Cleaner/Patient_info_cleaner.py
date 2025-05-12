@@ -9,6 +9,9 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 import json
 
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
+
 load_dotenv()
 oak = os.getenv("OPENAI_API_KEY")
 os.environ["OPENAI_API_KEY"] = oak
@@ -52,16 +55,16 @@ class Patient_Info_Crew():
     #     )
     
     @agent
-    def Medications_on_Admissions_finder(self) -> Agent:
+    def Patient_Info_Cleaner(self) -> Agent:
         return Agent(
-            config=self.agents_config['Medications_on_Admissions_finder'],
+            config=self.agents_config['Patient_Info_Cleaner'],
             verbose=True
         )
     
     @task
-    def Medications_on_Admissions_Find_Task(self) -> Task:
+    def Patient_Info_Clean_Task(self) -> Task:
         return Task(
-            config=self.tasks_config['Medications_on_Admissions_Find_Task'],
+            config=self.tasks_config['Patient_Info_Clean_Task'],
             output_pydantic=PatientInformation,
             output_file="output/patient_info.json",
         )
@@ -99,6 +102,7 @@ def load_input_text(file_path):
         return ""
     
 def run():
+    CCMDATA_PATH = os.path.join(PROJECT_ROOT, "CCMDataset/L1/1058.txt")
     input_text = load_input_text("../CCMDataset/L1/1058.txt")
 
     if not input_text:

@@ -11,9 +11,9 @@
 #     to be converted into structured data for further analysis.
 #   llm: openai/gpt-3.5-turbo
 
-Medications_on_Admissions_finder:
+Patient_Info_Cleaner:
   role: >
-    Medications on Admissions finder
+    Patient information cleaner
   goal: >
     Given a text about the patient, Please find the content of the following topic in the text.
       YOU CAN NOT use '...' to omit any information, I need the full txt contents.

@@ -1,5 +1,8 @@
 import json
 import sys
+import os
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
 def calculate_safety_score(json_file_path):
     # 读取JSON文件
     with open(json_file_path, 'r') as file:
@@ -35,6 +38,6 @@ def calculate_safety_score(json_file_path):
     return total_score
 
 if __name__ == "__main__":
-    json_path = "./output/prescription_safety_evaluation.json"
+    json_path = os.path.join(PROJECT_ROOT, "output/prescription_safety_evaluation.json")
     safety_score = calculate_safety_score(json_path)
-    print(f"总安全评估分数: {safety_score}")
+    print(f"Final Evaluation Score: {safety_score}")

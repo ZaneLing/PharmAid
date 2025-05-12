@@ -1,18 +1,11 @@
 [
+    {},
     {
-        "timestamp": "2025-05-10 11:46:59",
-        "Retro": [
-            "Trigger Condition: Patient diagnosed with conditions requiring specific medications (e.g., choledocholithiasis, pneumonia).",
-            "Recommended Action: Ensure appropriate medications are included in the prescription to address the diagnosed conditions.",
-            "Expected Outcome: Improved symptom management and targeted treatment for the patient's primary and secondary diagnoses."
-        ]
-    },
-    {
-        "timestamp": "2025-05-10 11:50:30",
-        "Retro": [
-            "For patients with multiple comorbidities and complex diagnoses, ensure prescriptions are aligned with the primary diagnosis and target the key conditions for optimized treatment outcomes. This may lead to improved patient adherence, better management of specific conditions, and reduced potential for adverse drug interactions.",
-            "For patients with hypervolemic hyponatremia and associated secondary diagnoses, tailor medication selection to address the primary diagnosis along with the pertinent comorbidities to provide holistic care. This approach can lead to enhanced therapeutic effectiveness, reduced symptom burden, and improved patient quality of life.",
-            "For comprehensive care considering multiple conditions, regularly review and adjust prescriptions based on the evolving clinical status and prioritize therapies that directly impact the primary and secondary diagnoses. This can result in optimized treatment plans, minimized medication burden, and enhanced patient safety and satisfaction."
+        "timestamp": "2025-05-12 23:13:29",
+        "Guidance": [
+            "If the patient has a cardiac condition such as acute myocardial infarction, ensure to include Aspirin in the prescription for its antiplatelet effects unless contraindicated.",
+            "When making changes to medication dosage or frequency, document the reasons for modification to ensure clarity and continuity of care.",
+            "Always review the patient's condition and guidelines to ensure that the medication plan is in line with the recommended standards for the specific diagnosis."
         ]
     }
 ]
