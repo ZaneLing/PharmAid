@@ -1,50 +1,19 @@
 [
     {
-        "timestamp": "2025-05-12 23:12:56",
+        "timestamp": "2025-05-13 10:26:01",
         "Prescription": [
             {
-                "DrugName": "Aspirin",
-                "UsagePlan": "Take 325mg immediately, then continue with 81mg daily for antiplatelet effects to reduce the risk of further cardiac events.",
+                "DrugName": "Acetaminophen",
+                "UsagePlan": "Take 500mg-1000mg every 4-6 hours as needed for pain relief. Do not exceed 4g (4000mg) in a 24-hour period.",
                 "AdminstrationRoute": "Oral",
-                "Explanation": "Aspirin is a vital medication in the management of acute myocardial infarction. It helps prevent blood clot formation in the arteries, reducing the risk of further complications."
+                "Explanation": "Acetaminophen is chosen for pain relief in the headache. It is effective in managing mild to moderate pain without affecting platelet function, which is crucial in cases of intra-parenchymal hemorrhage."
             },
             {
-                "DrugName": "Clopidogrel",
-                "UsagePlan": "Take 300mg loading dose, followed by 75mg daily to prevent blood clots. Continue for at least 1 year unless contraindicated.",
-                "AdminstrationRoute": "Oral",
-                "Explanation": "Clopidogrel is recommended as it is an antiplatelet medication that can be used in conjunction with aspirin to reduce the risk of clot formation in the coronary arteries."
-            },
-            {
-                "DrugName": "Atorvastatin",
-                "UsagePlan": "Start with 80mg for lipid-lowering effects to lower LDL cholesterol levels and reduce inflammation in the arteries.",
-                "AdminstrationRoute": "Oral",
-                "Explanation": "Atorvastatin is crucial in the treatment post-myocardial infarction to reduce the risk of recurrent events by lowering cholesterol levels and stabilizing plaque in the arteries."
-            },
-            {
-                "DrugName": "Metoprolol",
-                "UsagePlan": "Begin with 25-50mg orally every 6 hours to control heart rate, blood pressure, and reduce the workload on the heart.",
-                "AdminstrationRoute": "Oral",
-                "Explanation": "Metoprolol is a beta-blocker that helps protect the heart after a myocardial infarction by reducing the workload on the heart, controlling blood pressure, and improving survival rates."
+                "DrugName": "Fentanyl",
+                "UsagePlan": "Administer as a continuous intravenous infusion at a initial rate of 25-50 mcg/hour. Titrate to achieve adequate pain control.",
+                "AdminstrationRoute": "Intravenous",
+                "Explanation": "Fentanyl is a potent opioid used for severe pain management. In the case of acute pain from intra-parenchymal hemorrhage, intravenous fentanyl can provide effective analgesia with close monitoring for respiratory depression."
             }
-        ]
-    },
-    {
-        "timestamp": "2025-05-12 23:13:05",
-        "ConflictionType": "DDI",
-        "RevisedReason": "The use of Aspirin and Metformin together can increase the risk of lactic acidosis due to their combined effects on kidney function.",
-        "RevisedSuggestion": "Consider replacing Metformin with an alternative medication that does not increase the risk of lactic acidosis in combination with Aspirin.",
-        "RevisedPrescription": []
-    },
-    {
-        "timestamp": "2025-05-12 23:13:13",
-        "ConflictionType": "DPI",
-        "RevisedReason": "There is a potential conflict between the patient's elevated blood pressure and tachycardia and the use of Metoprolol in the initial prescription. Adjustments may be needed to mitigate this risk.",
-        "RevisedSuggestion": "Consider starting Metoprolol at a lower dosage and monitor the patient closely for any adverse effects on blood pressure and heart rate.",
-        "RevisedPrescription": [
-            "Aspirin - 325mg immediately, then 81mg daily",
-            "Clopidogrel - 300mg loading dose, then 75mg daily",
-            "Atorvastatin - 80mg",
-            "Metoprolol - Start with a lower dosage and monitor closely"
         ]
     }
 ]

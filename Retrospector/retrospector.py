@@ -16,7 +16,7 @@ os.environ["OPENAI_API_KEY"] = oak
 
 # 定义输出数据模型
 class PrescriptionGuidanceOutput(BaseModel):
-    Differences: list[dict]  # 标准处方和最终处方的差异
+    Differences: list[str]  # 标准处方和最终处方的差异
     Reflections: str  # 对差异的反思
     Guidance: list[str]  # 改进未来处方的建议
 

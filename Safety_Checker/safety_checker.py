@@ -1,4 +1,5 @@
 import os
+import sys
 import json
 from crewai.project import CrewBase, agent, task, crew, before_kickoff, after_kickoff
 from crewai import Agent, Task, Crew, Process
@@ -119,5 +120,9 @@ def run(id):
     # extract_revised_trace(DDI_file, trace_folder)
 
 if __name__ == "__main__":
-    patient_id = 1057
-    run(patient_id)
+    if len(sys.argv) != 2:
+        print("[Error] 请提供病人编号作为参数，例如: python prescription.py 1055")
+        sys.exit(1)
+
+    id = sys.argv[1]
+    run(id)

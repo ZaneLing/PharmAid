@@ -136,39 +136,39 @@ def main():
     # knowledge_path = os.path.join(PROJECT_ROOT, "knowledge")
     # os.makedirs(knowledge_path, exist_ok=True); open("knowledge/Retro.json", "w", encoding="utf-8").write("{}")
 
-    patient_id = 1057  # 示例病人编号
-    output_patient_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}")
-    os.makedirs(output_patient_folder, exist_ok=True)
+    for patient_id in range(1030, 1035):  # 示例病人编号
+        output_patient_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}")
+        os.makedirs(output_patient_folder, exist_ok=True)
 
-    print(f"[INFO] 正在运行 Patient_Info_Cleaner 脚本...")
-    print(f"[INFO] ds Path: {CCM_DATASET_PATH}")
-    run_patient_info_cleaner(CCM_DATASET_PATH)
+        print(f"[INFO] 正在运行 Patient_Info_Cleaner 脚本...")
+        print(f"[INFO] ds Path: {CCM_DATASET_PATH}")
+        run_patient_info_cleaner(CCM_DATASET_PATH)
 
-    patient_prescription_score = 0
-    while patient_prescription_score < 85:
-        print(f"[INFO] 处方评分: {patient_prescription_score}，iteration continue。")
-        # Step 3: 运行 Prescription
-        run_prescription(patient_id)
+        patient_prescription_score = 0
+        while patient_prescription_score < 85:
+            print(f"[INFO] 处方评分: {patient_prescription_score}，iteration continue。")
+            # Step 3: 运行 Prescription
+            run_prescription(patient_id)
 
-        # Step 4: 运行 Drug_Interaction_Checker
-        run_drug_interaction_checker(patient_id)
+            # Step 4: 运行 Drug_Interaction_Checker
+            run_drug_interaction_checker(patient_id)
 
-        # Step 5: 运行 Drug_Patient_Interaction
-        run_drug_patient_interaction_checker(patient_id)
+            # Step 5: 运行 Drug_Patient_Interaction
+            run_drug_patient_interaction_checker(patient_id)
 
-        run_safety_checker(patient_id)
-        safety_score_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Safety_Check/safety_check.json")
-        patient_prescription_score = calculate_safety_score(safety_score_file)
-        print(f"[INFO] 处方评分: {patient_prescription_score}")
+            run_safety_checker(patient_id)
+            safety_score_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Safety_Check/safety_check.json")
+            patient_prescription_score = calculate_safety_score(safety_score_file)
+            print(f"[INFO] 处方评分: {patient_prescription_score}")
 
-    else:
-        print(f"[INFO] Prescription score: {patient_prescription_score}，iteration over。")    
+        else:
+            print(f"[INFO] Prescription score: {patient_prescription_score}，iteration over。")    
 
-    print(f"[INFO] 工作流执行完成。")
+        print(f"[INFO] 工作流执行完成。")
 
-    print(f"[INFO] Retrospection start...")
-    run_retrospection(patient_id)
-    print(f"[INFO] Retrospection over.")
+        print(f"[INFO] Retrospection start...")
+        run_retrospection(patient_id)
+        print(f"[INFO] Retrospection over.")
 
     print("----------Over---------")
 

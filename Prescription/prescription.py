@@ -155,7 +155,7 @@ def run(id):
 
     output_file_name = "Prescription.json"
     source_file = os.path.join(PROJECT_ROOT, "output/prescription.json")
-    target_path = os.path.join(PROJECT_ROOT, f"./Blackboard/Contents/{patient_id}/Prescription", output_file_name)
+    target_path = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Prescription", output_file_name)
 
     shutil.copy2(source_file, target_path)
     print(f"\n---------Report has been saved to {target_path}-------\n")    
