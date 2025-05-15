@@ -31,8 +31,7 @@
 #       Other_Discharge_Information: list[str]
 # #   agent: patient_info_cleaner
 #   output_file: output/drug_info.json
-
-Medications_on_Admissions_Find_Task:
+Patient_Info_Clean_Task:
   description: >
     Given a text about the patient, Please find the content of the following contents in the text.
     You have to find it one by one. YOU CAN NOT use '...' to omit any information, I need the full txt contents.
@@ -62,5 +61,5 @@ Medications_on_Admissions_Find_Task:
       Discharge_Diagnose: list[str]
       Discharge_Medications: list[str]
       Other_Discharge_Information: list[str]
-  agent: Medications_on_Admissions_finder
+  agent: Patient_Info_Cleaner
   output_file: output/info.json

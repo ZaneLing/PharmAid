@@ -10,6 +10,15 @@ from pydantic import BaseModel
 from dotenv import load_dotenv
 import shutil
 from datetime import datetime
+#retro_json_path = os.path.join(PROJECT_ROOT, "BlackBoard/Contents/Retro.json")# Guidances from iteration
+from crewai.knowledge.source.json_knowledge_source import JSONKnowledgeSource
+
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
+
+json_source = JSONKnowledgeSource(
+    file_paths=["Retro.json"]
+)
 
 # 加载环境变量
 load_dotenv()
@@ -26,6 +35,7 @@ class PrescriptionCrew():
     def doctor_pharmacist_agent(self) -> Agent:
         return Agent(
             config=self.agents_config['doctor_pharmacist_agent'],
+            knowledge_sources=[json_source],
             verbose=True
         )
 
@@ -99,51 +109,61 @@ def run(id):
     patient_id = str(id)
     # 构造输入文件路径
     #input_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint_and_Discharge_Diagnoses.json"
-    chief_complaint_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint.json"
-    diagnoses_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
-
+    chief_complaint_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint.json")
+    diagnoses_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
     cc_content = load_json_as_text(chief_complaint_file)
     diagnoses_content = load_json_as_text(diagnoses_file)
 
-    if not cc_content:
-        print("[Error] cc为空，无法继续执行。")
-        return
+    previous_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
+    DDI_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Drug_Drug_Interaction/DDI.json")
+    DPI_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Drug_Patient_Interaction/DPI.json")   
     
-    if not diagnoses_content:
-        print("[Error] diagnose为空，无法继续执行。")
-        return
+    previous_prescription = load_json_as_text(previous_prescription_file) if os.path.exists(previous_prescription_file) else ""
+    DDI = load_json_as_text(DDI_file) if os.path.exists(DDI_file) else ""
+    DPI = load_json_as_text(DPI_file) if os.path.exists(DPI_file) else ""
+
+    # previous_prescription = load_json_as_text(previous_prescription_file)
+    # DDI = load_json_as_text(DDI_file)
+    # DPI = load_json_as_text(DPI_file
+    
 
     print(f"--------{patient_id}---------")
     print(cc_content)
     print(diagnoses_content)
-    
+    print(previous_prescription)
+    print(DDI)
+    print(DPI)
+
     inputs = {
         'cc': cc_content,
-        'diagnoses': diagnoses_content,
+        'diagnosis': diagnoses_content,
+        'previous_prescription': previous_prescription,
+        'DDI': DDI,
+        'DPI': DPI,
     }
 
     # 执行 Crew
-    print(f"[Prescription] 处理患者ID: {patient_id}")
+    print(f"[Prescription] patient processing...: {patient_id}")
     result = PrescriptionCrew().crew().kickoff(inputs=inputs)
 
     print("\n-------FINAL REPORT------\n")
     print(result)
 
     # 创建目标文件夹
-    target_folder = os.path.join(f"./Blackboard/Contents/{patient_id}/Prescription")
+    target_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Prescription")
     os.makedirs(target_folder, exist_ok=True)
 
     output_file_name = "Prescription.json"
-    source_file = 'output/prescription.json'
-    target_path = os.path.join(f"./Blackboard/Contents/{patient_id}/Prescription", output_file_name)
+    source_file = os.path.join(PROJECT_ROOT, "output/prescription.json")
+    target_path = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Prescription", output_file_name)
 
     shutil.copy2(source_file, target_path)
     print(f"\n---------Report has been saved to {target_path}-------\n")    
 
-    trace_folder = os.path.join(f"./Blackboard/Contents/{patient_id}/ReviseTrace")
+    trace_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/ReviseTrace")
     os.makedirs(target_folder, exist_ok=True)
 
-    prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
+    prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
     extract_revised_trace(prescription_file, trace_folder)
     print(f"\n---------Revise Trace has been saved to {trace_folder}-------\n") 
 

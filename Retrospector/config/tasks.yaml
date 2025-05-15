@@ -1,0 +1,40 @@
+compare_prescriptions_task:
+  description: >
+    Given the diagnosis: {diagnosis} and two prescriptions.
+    1.The given standard correct prescription by the hospital:
+    {standard_prescription} 
+    2.The final output prescription by the system:
+    {final_prescription}.
+    Identify any differences between the two prescriptions, including changes in drug names, dosages, and any additional notes or recommendations.
+    Reflect on the reasons for these differences and generate a prescription guidance report or rules to improve future prescriptions.
+
+    Your Tasks:
+    1. Compare Prescriptions
+      - Identify three categories of differences between the two prescriptions: 
+        a) Added medications  
+        b) Removed medications  
+        c) Modified fields (dose, frequency, route, notes)  
+      - For each difference, specify which field changed and show “before” vs. “after” values.
+
+    2. Deep Reflection
+      - For each identified difference, analyze the most likely reason (e.g., guideline deviation, patient‐specific customization, risk mitigation, system heuristic, etc.).
+      - For any high‐risk or guideline‐noncompliant change, provide a brief context or safety note.
+
+    3. Derive Guidance Rules
+      - Extract actionable if-then rules that would improve future prescriptions.  
+      - Each rule must include:  
+        • Trigger condition  
+        • Recommended action  
+        • Expected outcome 
+    Your output format should be a structured JSON file containing:
+     - Differences: Differences between the standard prescription and the final output prescription.
+     - Reflections: The reasons for the differences observed.
+     - Guidance Rules: A list of actionable rules or guidelines to improve future prescriptions.
+
+  expected_output: >
+    A structured JSON file containing:
+      Differences: list[dict]
+      Reflections: str
+      Guidance: list[str]
+  agent: retrospector_agent
+  output_file: output/prescription_guidance.json

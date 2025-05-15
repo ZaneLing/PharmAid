@@ -10,6 +10,9 @@ from datetime import datetime
 import json
 from dotenv import load_dotenv
 
+PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
+
+
 # 加载环境变量
 load_dotenv()
 oak = os.getenv("OPENAI_API_KEY")
@@ -111,17 +114,23 @@ def extract_revised_trace(input_file, output_folder):
 def run(id):
 
     patient_id = str(id) 
-    input_prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
-    prescription = load_json_as_text(input_prescription_file)
+    input_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
+    input_diagnose_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
+    input_allergy_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Allergies.json")
+    input_physical_exam_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Physical_Exam.json")
+    input_social_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Social_history.json")
+    input_hpi_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/History_of_Present_Illness.json")
+    input_family_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Family_history.json")
     
-    input_diagnose_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
+    prescription = load_json_as_text(input_prescription_file)
+    # input_diagnose_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
     diagnoses_content = load_json_as_text(input_diagnose_file)
 
-    input_allergy_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Allergies.json"
-    input_physical_exam_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Physical_Exam.json"
-    input_social_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Social_history.json"
-    input_hpi_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/History_of_Present_Illness.json"
-    input_family_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Family_history.json"
+    # input_allergy_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Allergies.json"
+    # input_physical_exam_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Physical_Exam.json"
+    # input_social_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Social_history.json"
+    # input_hpi_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/History_of_Present_Illness.json"
+    # input_family_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Family_history.json"
 
     allergy_content = load_json_as_text(input_allergy_file)
     physical_exam_content = load_json_as_text(input_physical_exam_file)
@@ -155,20 +164,20 @@ def run(id):
     print("Over.")
     
     # 创建目标文件夹
-    target_folder = os.path.join(f"./Blackboard/Contents/{patient_id}/Drug_Patient_Interaction")
+    target_folder = os.path.join(PROJECT_ROOT,f"Blackboard/Contents/{patient_id}/Drug_Patient_Interaction")
     os.makedirs(target_folder, exist_ok=True)
 
     output_file_name = "DPI.json"
-    source_file = 'output/drug_patient_interaction.json'
-    target_path = os.path.join(f"./Blackboard/Contents/{patient_id}/Drug_Patient_Interaction", output_file_name)
+    source_file = os.path.join(PROJECT_ROOT, "output/drug_patient_interaction.json")#'output/drug_patient_interaction.json'
+    target_path = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Drug_Patient_Interaction", output_file_name)
 
     shutil.copy2(source_file, target_path)
     print(f"\n\nReport has been saved to {target_path}")
 
-    trace_folder = os.path.join(f"./Blackboard/Contents/{patient_id}/ReviseTrace")
+    trace_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/ReviseTrace")
     os.makedirs(trace_folder, exist_ok=True)
 
-    DPI_file = f"./Blackboard/Contents/{patient_id}/Drug_Patient_Interaction/DPI.json"
+    DPI_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Drug_Patient_Interaction/DPI.json")
     extract_revised_trace(DPI_file, trace_folder)
 
 if __name__ == "__main__":

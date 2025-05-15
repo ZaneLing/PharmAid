@@ -1,0 +1,346 @@
+ 
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weight loss, fatigue, dizziness
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a ___ diastolic CHF 
+(likely related to HTN), HTN, HLD, T2DM, and recent ___ 
+admission for CHF exacerbation discharged ___, who presented to 
+clinic today with 2 days of presyncope, fatigue, and weight 
+loss.
+
+The patient initially presented to ___ ___ and was diagnosed 
+with heart failure. She was diuresed, but did not reliably take 
+her diuretics post-discharge per chart review. Per patient she 
+says she was unhappy with the care she was receiving there. She 
+then presented to ___ with a repeat heart failure exacerbation 
+___. Cardiac MRI showed dilated cardiomyopathy with no 
+evidence of infiltrative disease, and TTE showed preserved 
+ejection fraction. She was treated with a Lasix drip, and 
+transitioned to torsemide. She was discharged on torsemide 80 mg 
+BID with a discharge weight of 106.5 kg/234.8 lbs and creatinine 
+2.1. Of note, that hospitalization was complicated by type II 
+NSTEMI, secondary to demand from volume overload. Aspirin and 
+atorvastatin were initiated. Her discharge medication regimen 
+also included lisinopril 10 mg daily, amlodipine 10 mg daily, 
+and Imdur 30 mg daily.
+
+The patient presented to her appointment today, and was 
+complaining of dizziness. She reported that two days she had an 
+episode dizziness when using the bathroom. She describes this as 
+feeling like the room was spinning around her and she was off 
+balance. She fell off of the toilet, but did not lose 
+consciousness. She shares that actually since the day after 
+leaving the hospital she had been experiencing intermittent 
+dizziness, worse with standing and walking. She occasionally 
+would also have shortness of breath and hot flashes. She has 
+been taking her medication as prescribed, and her blood sugars 
+have been in the 100s. She has not been eating or drinking much 
+since leaving the hospital, which she attributes to generally 
+feeling poorly. She denies any post-discharge depression or 
+anxiety. 
+
+In clinic her vitals were notable for weight 224 lbs, HR 79, BP 
+106/65 (despite not taking BP meds today), HR 79, T97.3. Labs 
+were notable for Cr 2.8, K 5.3, and glucose 304.She was sent to 
+the CDACU, where here initial BP was 90/60. The BP improved to 
+135 systolic with 500cc of IV fluids. The decision was made to 
+transfer the patient from the CDACU to CHF service.
+
+Upon arrival to the floor, the patient gives the above history. 
+She says she is feeling somewhat better since getting IV fluid, 
+but is still a little dizzy. She adds she had some diffuse 
+abdominal two days ago, but this improved after having a bowel 
+movement. 
+ 
+Past Medical History:
+- Diastolic CHF, LVEF 55% ___, possibly related to HTN. 
+Diagnosed ___ at ___. 
+- History of CVA - treated at ___, left sided hemiparesis, ___, 
+no residual deficits
+- Diabetes mellitus, A1C 7.2% on admission (___), complicated 
+
+by neuropathy 
+- Hypertension
+- Hyperlipidemia
+- R foot ulcer, followed by podiatry
+- S/p tubal ligation ___ years ago
+ 
+Social History:
+___
+Family History:
+Mother with T2DM and ESRD on HD. Mother has been on HD since 
+about age ___. Maternal uncle also with T2DM and ESRD on HD.
+Children health, 1 son with autism.
+ 
+Physical Exam:
+ADMISSION EXAM
+====================
+VS: T98.1 BP/HR sitting 119/71 81 BP/HR standing 86/56 96 RR 
+O296 RA  
+GENERAL: Well developed, well nourished woman in NAD. Oriented 
+x3. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. 
+No xanthelasma.  
+NECK: Supple. JVP flat.  
+CARDIAC: RRR, normal S1, S2; S4; systolic murmur loudest at LSB.
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.  
+EXTREMITIES: No lower extremity edema. Right foot wrapped in 
+gauze.  
+NEURO: grossly intact, moving all extremities, finger to nose 
+test intact.
+
+DISCHARGE EXAM
+===================
+VS: 98.2, HR 60-70's, BP 151/82 (SBP range 128-160's), RR 18, 
+98% RA
+Weight:  102.1kg (103kg)
+I/O:  ___
+GENERAL: Well developed, well nourished woman in NAD. Oriented 
+x3.
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI
+NECK: Supple. JVP flat.  
+CARDIAC: RRR, normal S1, S2, systolic murmur loudest at LSB.
+LUNGS: Respiration is unlabored with no accessory muscle use. No 
+crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.  
+EXTREMITIES: Trace lower extremity edema with venous stasis 
+changes. Right foot dressed
+NEURO: grossly intact, moving all extremities
+ 
+Pertinent Results:
+ADMISSION LABS
+=====================
+___ 07:12PM BLOOD WBC-8.3 RBC-4.16 Hgb-11.3 Hct-35.9 MCV-86 
+MCH-27.2 MCHC-31.5* RDW-13.8 RDWSD-42.9 Plt ___
+___ 07:12PM BLOOD Neuts-57.8 ___ Monos-6.9 Eos-2.7 
+Baso-0.4 Im ___ AbsNeut-4.80 AbsLymp-2.66 AbsMono-0.57 
+AbsEos-0.22 AbsBaso-0.03
+___ 10:50AM BLOOD Glucose-304* UreaN-60* Creat-2.8* Na-134 
+K-5.3* Cl-96 HCO3-29 AnGap-14
+___ 07:12PM BLOOD ALT-19 AST-13 AlkPhos-126* TotBili-0.2
+___ 07:12PM BLOOD CK-MB-2 cTropnT-0.06* proBNP-338*
+___ 05:30AM BLOOD CK-MB-2 cTropnT-0.04*
+___ 07:12PM BLOOD Albumin-2.8* Calcium-8.9 Phos-4.0 Mg-1.8
+___ 07:12PM BLOOD TSH-3.0
+___ 07:12PM BLOOD T4-8.1
+___ 07:12PM BLOOD CRP-3.8
+___ 08:33PM URINE Blood-TR Nitrite-NEG Protein-300 
+Glucose-300 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 08:33PM URINE RBC-5* WBC-3 Bacteri-NONE Yeast-NONE 
+Epi-2
+___ 08:33PM URINE Hours-RANDOM UreaN-644 Creat-112 Na-61 
+TotProt-411 Prot/Cr-3.7*
+
+DISCHARGE LABS
+====================
+___ 07:25AM BLOOD WBC-6.0 RBC-4.03 Hgb-11.0* Hct-35.0 
+MCV-87 MCH-27.3 MCHC-31.4* RDW-13.7 RDWSD-42.7 Plt ___
+___ 07:25AM BLOOD Glucose-146* UreaN-45* Creat-2.0* Na-137 
+K-5.6* Cl-104 HCO3-25 AnGap-14
+___ 07:25AM BLOOD Calcium-9.2 Phos-4.7* Mg-2.0
+
+REPORTS
+====================
+CXR ___
+No acute change.
+
+CT Head ___
+Right frontal lobe low-attenuation change at the vertex, with 
+associated 
+volume loss, likely sequela of chronic infarct.  Small focus of 
+cortical and subcortical low-attenuation left parietal lobe may 
+represent subacute or chronic infarct, consider MRI if 
+clinically indicated..  Chronic bilateral lacunar infarcts basal 
+ganglia. 
+
+Renal US with Doppler ___
+Normal renal ultrasound.  Mildly elevated resistive indices of 
+the intrarenal arteries but no sonographically specific evidence 
+of renal artery stenosis.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a PMH diastolic CHF 
+(likely related to HTN), HTN, HLD, T2DM, and recent ___ 
+admission for CHF exacerbation discharged ___, who presents 
+with presyncope, orthostasis, and ___, likely in the setting of 
+overdiuresis. 
+
+# Dizziness, Orthostasis:
+Patient presented with dizziness and presyncope leading to fall, 
+likely secondary to over-diuresis. After receiving 1L IVF, she 
+felt improved and is no longer orthostatic.  After holding, 
+Torsemide was resumed at a lower dose, 60mg daily, from prior 
+80mg BID.  Amlodipine and Imdur and Lisinopril were all 
+initially held.  Imdur and Amlodipine were resumed prior to 
+discharge.  Lisinopril was held on discharge due to mild 
+hyperkalemia, and can be restarted as an outpatient.
+
+#Acute Kidney Injury on stage III-IV CKD 
+Improved from Cr 2.8 to Cr 2.0 with IVF and diuretic cessation, 
+c/w discharge Cr from last hospitalization. ___ likely related 
+to overdiuresis. CKD likely due to longstanding diabetes and 
+HTN. Renal u/s was normal with elevated resistive indices of the 
+intrarenal arteries but no renal artery stenosis. Should 
+follow-up outpatient non-urgently with a Nephrologist.
+
+#Chronic Diastolic CHF:  
+Most likely diastolic CHF secondary to hypertension, workup for 
+other causes negative last admission. She was admitted at 10 lbs 
+below her prior dry weight. Torsemide reduced from 80mg BID to 
+60mg once daily.
+
+# Prior CVA: CT head was done on admission because of report of 
+a fall with headstrike. This showed findings concerning for 
+sequela of chronic infarct. At this point more history was 
+gathered and the patient endorsed a prior stroke, treated and 
+diagnosed at ___, with no residual deficits. An MRI was ordered 
+to evaluate this further, but the patient declined getting the 
+study due to anxiety and fatigue. She had no active neurologic 
+issues and a normal Neuro exam, so decision was made to defer 
+MRI to outpatient setting.
+
+#Type 2 Diabetes, insulin dependent:
+- Continue home Lantus
+- Continue home Humalog sliding scale
+- Continue home Gabapentin for diabetic nephropathy
+
+#Iron deficiency:  Received IV iron last admission.
+- EGD and ___ as outpatient
+- Continue home ferrous sulfate
+
+#HLD/CAD
+Patient with no diagnosed structural ischemic disease, but 
+suffered from demand ischemia at last admission. 
+- Continue home Atorvastatin, ASA
+
+#Diabetic foot ulcer:  Seen by podiatry last admission, and as 
+an outpatient earlier this week
+- Continue dressing changes per Podiatry notes
+
+TRANSITIONAL ISSUES
+===================
+- Discharge weight: 102.1kg
+- Discharge diuretic: Torsemide 60mg once daily (prior dose 80mg 
+BID)
+- Please check electrolytes and renal function at upcoming 
+primary care and cardiology visits this week. If potassium has 
+normalized, can restart Lisinopril (prior dose was 40mg once 
+daily)
+- Have emailed ___ clinic scheduling department to arrange a 
+clinic visit with a Nurse Practitioner this week. Unable to be 
+arranged over weekend. Long term, she will follow-up with Dr. 
+___ CHF as well.
+- Should non-urgently see a Nephrologist for CKD
+- Recommend outpatient ___ to evaluate iron deficiency 
+anemia
+- She has never had a mammogram
+- Outpatient Endocrine follow up for thyroiditis (noted on 
+ultrasound during prior admission) has already been scheduled
+- Consider MRI Brain as outpatient to better evaluate prior CVA
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ferrous Sulfate 325 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Gabapentin 100 mg PO TID 
+5. Lisinopril 40 mg PO DAILY 
+6. amLODIPine 10 mg PO DAILY 
+7. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+8. Torsemide 80 mg PO BID 
+9. Glargine 28 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1.  Lidocaine 5% Patch 1 PTCH TD QAM 
+RX *lidocaine 5 % apply to painful area once daily in the 
+morning Disp #*15 Patch Refills:*0 
+2.  Torsemide 60 mg PO DAILY 
+RX *torsemide 20 mg 3 tablet(s) by mouth once daily Disp #*90 
+Tablet Refills:*0 
+3.  amLODIPine 10 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 40 mg PO QPM  
+6.  Ferrous Sulfate 325 mg PO DAILY  
+7.  Gabapentin 100 mg PO TID  
+8.  Glargine 28 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+9.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY  
+10. HELD- Lisinopril 40 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until you get labs rechecked at your 
+PCP or ___ visit
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute kidney injury on chronic kidney disease
+Pre-syncope due to overdiuresis
+Volume depletion
+
+Chronic diastolic CHF
+Type 2 diabetes
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted because of dizziness and lightheadedness.  
+Your blood pressure was low.  Based on our test results, this 
+was likely because the dose of your diuretic (water pill - 
+Torsemide) was too high.  We gave you intravenous fluids and 
+your blood pressure, kidney function, and symptoms all improved.
+
+Your Torsemide (water pill) dose is now 60mg, only ONCE PER DAY.
+
+Also, your potassium level was mildly high.  Your Lisinopril can 
+make this worse.  Thus please DO NOT TAKE YOUR LISINOPRIL until 
+your potassium is rechecked by either your new PCP or your 
+___.
+
+Please be sure to see all your doctors, including your new PCP, 
+___.  The Cardiology department will call you on ___ 
+to schedule the next appointment with the heart failure team.
+
+It was a pleasure, we wish you all the best.
+
+- ___ Cardiology Team
+ 
+Followup Instructions:
+___
