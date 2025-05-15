@@ -7,3 +7,9 @@
 __pycache__/
 
 db/
+
+BlackBoard/Contents
+
+output/
+
+patient_info_reports/
