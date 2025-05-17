@@ -1,0 +1,14 @@
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Cyclobenzaprine 5 mg PO TID:PRN Spasm  
+3.  Docusate Sodium 100 mg PO BID  
+4.  Enoxaparin Sodium 40 mg SC DAILY 
+RX *enoxaparin 40 mg/0.4 mL 1 syringe subcutaneous daily Disp 
+#*28 Syringe Refills:*0 
+5.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Partial fill ok 
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth every 4 
+hours Disp #*30 Tablet Refills:*0 
+6.  Loratadine 10 mg PO DAILY  
+7.  Senna 8.6 mg PO BID

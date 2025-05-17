@@ -1,0 +1,252 @@
+[
+  {
+    "subject_id": 11862289,
+    "drugs": "{\"Sodium Chloride 0.9%  Flush\",\"Influenza Vaccine Quadrivalent\",Acetaminophen,Ramelteon,\"Polyethylene Glycol\",Senna,Ramelteon,Acetaminophen,\"Sodium Chloride 0.9%  Flush\",Heparin}",
+    "ndcs": "{0,49281042088,00904673061,00591219101,00904642281,00904652261,64764080510,00904673061,0,00641040012}"
+  },
+  {
+    "subject_id": 11862744,
+    "drugs": "{DiphenhydrAMINE,\"Nitroglycerin SL\",amLODIPine,TiCAGRELOR,Acetaminophen,Lisinopril,Lisinopril,\"Sodium Chloride 0.9%\",\"Sodium Chloride 0.9%  Flush\",Heparin,Aspirin,\"Aluminum-Magnesium Hydrox.-Simethicone\",\"Polyethylene Glycol\",\"PNEUMOcoccal 23-valent polysaccharide vaccine\",Atorvastatin,TraZODone,\"Metoprolol Tartrate\",\"Metoprolol Tartrate\",Omeprazole,Simethicone}",
+    "ndcs": "{00904530661,00071041724,68084025901,00186077739,00904198261,51079098320,51079098320,00338004904,0,63323026201,00904404073,00121176130,11523726808,00006494300,00071015892,00904399061,51079025520,51079025520,63739035810,37205011278}"
+  },
+  {
+    "subject_id": 11872207,
+    "drugs": "{Acetaminophen,Acetaminophen-Caff-Butalbital,\"Influenza Vaccine Quadrivalent\",Ondansetron,\"Iso-Osmotic Sodium Chloride\",Famotidine,Acetaminophen,\"Levothyroxine Sodium\",Senna,\"OxyCODONE (Immediate Release)\",Heparin,\"Sodium Chloride 0.9%\",Bisacodyl,Bisacodyl,Aspirin,\"Docusate Sodium\",Clopidogrel,Acetaminophen}",
+    "ndcs": "{00904677361,68084039665,19515090641,67457044022,0,00338519741,00904677361,00378180377,00904652261,00406055262,00641040012,00338004904,00574705012,00904640761,66553000101,00904645561,00904629461,00904198861}"
+  },
+  {
+    "subject_id": 11873753,
+    "drugs": "{\"Influenza Vaccine Quadrivalent\",\"Morphine Sulfate\",\"Artificial Tears\",Acetaminophen,\"Sodium Chloride 0.9%  Flush\",TraMADol,\"Ciprofloxacin HCl\",\"Lactated Ringers\",Ondansetron}",
+    "ndcs": "{19515090941,00641612525,00023050601,00904198261,0,00904636561,68084007001,00338011704,70860077602}"
+  },
+  {
+    "subject_id": 11874178,
+    "drugs": "{\"OLANZapine (Disintegrating Tablet)\",Acetaminophen,OLANZapine,Guaifenesin-Dextromethorphan,OLANZapine,\"Nicotine Patch\",OLANZapine,\"Influenza Vaccine Quadrivalent\",\"Nicotine Patch\",OLANZapine}",
+    "ndcs": "{50268061513,00904198261,00904628361,00121063810,00904637661,00536589588,00904637761,49281041688,00536589588,00904637761}"
+  },
+  {
+    "subject_id": 11877512,
+    "drugs": "{Ondansetron,Heparin,\"OxyCODONE (Immediate Release)\",\"Sodium Chloride 0.9%  Flush\",Ketorolac,Ibuprofen,\"HYDROmorphone (Dilaudid)\",\"Docusate Sodium\",Acetaminophen,D5LR,Hydrochlorothiazide,\"Sodium Chloride 0.9%  Flush\",\"Lactated Ringers\",\"Metoprolol Succinate XL\"}",
+    "ndcs": "{00641607825,63323026201,00904644461,0,00409379301,00904585461,61553020648,00904224461,00904198861,00338012504,00603385521,0,00338011704,68084066601}"
+  },
+  {
+    "subject_id": 11878331,
+    "drugs": "{Acetaminophen,HydrALAZINE,\"OxyCODONE--Acetaminophen (5mg-325mg)\",HydrALAZINE,Heparin,Senna,\"Docusate Sodium\",Labetalol,Acetaminophen,\"OxyCODONE (Immediate Release)\",\"Sodium Chloride 0.9%  Flush\",Senna}",
+    "ndcs": "{00904198861,62584073301,00904643761,63323061401,63323026201,00904516561,57896042101,00185001001,00121197100,00904644461,0,57896045208}"
+  },
+  {
+    "subject_id": 11878959,
+    "drugs": "{Warfarin,Bisacodyl,HydrALAZINE,Warfarin,\"Sodium Chloride 0.9%\",\"Metoprolol Tartrate\",Lisinopril,\"Metoprolol Tartrate\",Senna,Atorvastatin,Hydrochlorothiazide,Hydrochlorothiazide,Acetaminophen-Caff-Butalbital,\"Docusate Sodium\",Lisinopril,Acetaminophen,\"Sodium Chloride 0.9%  Flush\",\"Sodium Chloride 0.9%\",Ondansetron}",
+    "ndcs": "{00056017275,00536338101,63323061401,00056017275,00338004904,00904634161,51079098320,00904634161,00904516561,51079021020,16729018201,16729018201,00591336901,00904224461,51079098320,00904198261,0,00338004904,00641607825}"
+  },
+  {
+    "subject_id": 11881010,
+    "drugs": "{\"Sodium Chloride 0.9%  Flush\",Acetaminophen,\"Lactated Ringers\",\"Morphine Sulfate\",\"OxyCODONE--Acetaminophen (5mg-325mg)\",Heparin}",
+    "ndcs": "{0,00904198261,00338011704,00409189001,00406051262,63323026201}"
+  },
+  {
+    "subject_id": 11884326,
+    "drugs": "{Glucagon,\"OxyCODONE (Immediate Release)\",Acetaminophen,\"0.9% Sodium Chloride\",\"Morphine Sulfate\",Ondansetron,Lisinopril,\"Bacitracin Ointment\",\"Sodium Chloride 0.9%  Flush\",\"Glucose Gel\",D5LR,Senna,Lisinopril,Atorvastatin,\"Dextrose 50%\",\"MetFORMIN (Glucophage)\",\"Docusate Sodium\",Heparin}",
+    "ndcs": "{00597026010,00406055262,00904677361,00338004938,00409113403,67457044022,68084019601,54162001715,0,38396055018,00338012504,00904652261,68084019601,68084009801,00409751716,60687014301,00904645561,00641040012}"
+  },
+  {
+    "subject_id": 11894769,
+    "drugs": "{\"Sodium Chloride 0.9%  Flush\",Apixaban,Hydrochlorothiazide,Senna,Pravastatin,\"Metoprolol Succinate XL\",Acetaminophen,\"Polyethylene Glycol\",Ramelteon,\"Losartan Potassium\",amLODIPine}",
+    "ndcs": "{0,00003089431,63739012810,00904652261,51079045820,00904632261,00904677361,00904642281,00591219101,68084034701,50268008415}"
+  },
+  {
+    "subject_id": 11896699,
+    "drugs": "{Amitriptyline,Gabapentin,Guaifenesin-Dextromethorphan,Levofloxacin,\"Polyethylene Glycol\",\"Sodium Chloride 0.9%\",Ondansetron,\"Zolpidem Tartrate\",\"Levothyroxine Sodium\",Rifaximin,\"Sodium Chloride 0.9%\",Amitriptyline,Lorazepam,\"PNEUMOcoccal 23-valent polysaccharide vaccine\",\"Sodium Chloride 0.9%\",Acetaminophen,Acetaminophen,Gabapentin}",
+    "ndcs": "{51079013120,68084007965,00121063810,68084048301,11523726808,00338004904,00409475503,60505260400,24090049684,65649030303,00338004904,51079010720,00904598061,00006494300,00338004904,00904198861,00904198861,68084007965}"
+  },
+  {
+    "subject_id": 11899166,
+    "drugs": "{Heparin,\"Docusate Sodium\",Aspirin,\"Sodium Chloride 0.9%  Flush\",Aspirin,\"Clopidogrel 75 mg\",HydrALAZINE,\"Readi-Cat 2 (Barium Sulfate 2% Suspension)\",Atorvastatin,D5NS,Acetaminophen,\"Iso-Osmotic Dextrose\",CefTRIAXone,\"0.9% Sodium Chloride (Mini Bag Plus)\",CefTRIAXone}",
+    "ndcs": "{63323026201,00904224461,00904404073,0,00904404073,63653117103,63323061401,32909071503,68084009901,00338008904,00904198261,0,00338500241,00338055318,00409733201}"
+  },
+  {
+    "subject_id": 11899907,
+    "drugs": "{Omeprazole,\"Cepacol (Sore Throat Lozenge)\",\"Sodium Chloride 0.9%  Flush\",\"OxyCODONE (Immediate Release)\",\"Lactated Ringers\",\"Lactated Ringers\",\"Sodium Chloride 0.9%  Flush\",\"Nicotine Patch\",Ketorolac,Acetaminophen,Ondansetron,Heparin}",
+    "ndcs": "{63739035810,63824072283,0,00904644461,00338011704,00338011704,0,00536110888,63323016201,00904198261,00409475503,63323026201}"
+  },
+  {
+    "subject_id": 11900173,
+    "drugs": "{\"Influenza Vaccine Quadrivalent\",\"Vitamin D\",Acetaminophen,Acetaminophen,\"OxyCODONE (Immediate Release)\",Senna,\"Docusate Sodium\",\"Docusate Sodium\",Ursodiol,Senna,Senna,Cetirizine,\"OxyCODONE (Immediate Release)\",Heparin,\"Docusate Sodium\",\"Sodium Chloride 0.9%\",\"Sodium Chloride 0.9%  Flush\",\"Mesalamine DR\",\"Mesalamine DR\"}",
+    "ndcs": "{19515090941,00904582461,00121197100,00904198861,68084035401,54162000708,00904645561,00121054410,60687010001,00904652261,00904652261,51079059720,00121483940,63323026201,00904645561,00338004904,0,00023585318,00023585318}"
+  },
+  {
+    "subject_id": 15799189,
+    "drugs": "{\"Lidocaine 5% Patch\",Heparin,\"Docusate Sodium\",\"Lactated Ringers\",\"Influenza Vaccine Quadrivalent\",\"Sodium Chloride 0.9%  Flush\",\"Polyethylene Glycol\",Ibuprofen,Senna,Acetaminophen}",
+    "ndcs": "{00591352530,63323026201,00904645561,00338011704,19515090941,0,11523726808,68084065801,00904652261,00904198861}"
+  },
+  {
+    "subject_id": 11916981,
+    "drugs": "{Phenazopyridine,Ketorolac,\"0.9% Sodium Chloride (Mini Bag Plus)\",CefTRIAXone,Ondansetron,\"Influenza Vaccine Quadrivalent\",\"Sodium Chloride 0.9%  Flush\",Tamsulosin,\"Lactated Ringers\",\"HYDROmorphone (Dilaudid)\",Oxybutynin,Acetaminophen,\"Lactated Ringers\"}",
+    "ndcs": "{51293080101,00409379301,00338055318,00781320895,00641607825,49281041550,0,00781207601,00338011704,00409128331,68084040001,00904198261,00338011704}"
+  },
+  {
+    "subject_id": 11921205,
+    "drugs": "{Glucagon,\"Glucose Gel\",Insulin,\"Dextrose 50%\",Insulin,Atorvastatin,Glucagon,Hydrochlorothiazide,\"Glucose Gel\",Insulin,\"Sodium Chloride 0.9%\",\"Lactated Ringers\",Warfarin,amLODIPine,\"Sodium Chloride 0.9%  Flush\",\"Dextrose 50%\",\"Sodium Chloride 0.9%  Flush\"}",
+    "ndcs": "{00597026010,38396055018,00002751001,00409490234,00002821501,68084009701,00597026010,63739012810,38396055018,00002751001,00338004904,00338011704,00056016975,50268008415,0,00409490234,0}"
+  },
+  {
+    "subject_id": 11921337,
+    "drugs": "{\"Docusate Sodium\",\"Influenza Vaccine Quadrivalent\",\"0.9% Sodium Chloride (Mini Bag Plus)\",CefTRIAXone,\"Milk of Magnesia\",\"Sodium Chloride 0.9%  Flush\",\"Ciprofloxacin HCl\",\"Polyethylene Glycol\",Acetaminophen,Senna,Venlafaxine,Heparin}",
+    "ndcs": "{00904224461,49281041688,00338055318,60505075204,00121043130,0,68084007001,11523726808,00904198261,00904516561,00093738201,63323026201}"
+  },
+  {
+    "subject_id": 11925563,
+    "drugs": "{\"OxycoDONE (Immediate Release) \",Sertraline,Heparin,\"Polyethylene Glycol\",\"Lactated Ringers\",\"Sodium Chloride 0.9%  Flush\",TraZODone,\"Lactated Ringers\",Acetaminophen,\"HYDROmorphone (Dilaudid)\",Ondansetron,\"Ciprofloxacin HCl\",\"MetRONIDAZOLE (FLagyl)\",\"TraMADOL (Ultram)\",\"Docusate Sodium\"}",
+    "ndcs": "{68084035401,68084018101,63323026201,11523726808,00338011704,0,00904399061,00338011704,00904198861,00409128331,00641607825,68084006901,68084096601,57664037708,00904224461}"
+  },
+  {
+    "subject_id": 11925648,
+    "drugs": "{PARoxetine,\"OxyCODONE (Immediate Release)\",Ondansetron,Acetaminophen,Multivitamins,\"Iohexol 240 (Omnipaque 240)\",\"Sodium Chloride 0.9%  Flush\",\"Zolpidem Tartrate\",\"Zolpidem Tartrate\",ClonazePAM,\"Influenza Vaccine Quadrivalent\",PARoxetine}",
+    "ndcs": "{51079077420,00406055262,67457044022,00904673061,00904053061,00407141229,0,00904608261,00904608261,43547040610,19515090641,68084004401}"
+  },
+  {
+    "subject_id": 11929269,
+    "drugs": "{\"Lidocaine 5% Patch\",\"Influenza Vaccine Quadrivalent\",\"OxyCODONE (Immediate Release)\",Acetaminophen,\"OxyCODONE (Immediate Release)\",Finasteride,Ondansetron,Acetaminophen,\"OxyCODONE (Immediate Release)\",Simvastatin,Lisinopril,\"D5 1/2NS\",Heparin,\"Docusate Sodium\",\"Sodium Chloride 0.9%  Flush\"}",
+    "ndcs": "{00591352530,49281041688,00904644461,00904198861,00904644461,50268032315,00641607825,00904198261,00904644461,00904580061,68084019801,00338008504,63323026201,63739047810,0}"
+  },
+  {
+    "subject_id": 11930011,
+    "drugs": "{\"Levothyroxine Sodium\",Loratadine,Heparin,Acetaminophen,\"Levothyroxine Sodium\",\"Sodium Chloride 0.9%  Flush\"}",
+    "ndcs": "{24090049684,68084024801,63323026201,00904198261,00074662411,0}"
+  },
+  {
+    "subject_id": 11935229,
+    "drugs": "{CloniDINE,HydrALAZINE,Acetaminophen-Caff-Butalbital,LevETIRAcetam,Acetaminophen,Gabapentin,ClonazePAM,\"Sodium Chloride 0.9%\",\"BuPROPion (Sustained Release)\",\"Sodium Chloride 0.9%\",Promethazine}",
+    "ndcs": "{51079029920,63323061401,00591336901,50474059540,00904198261,60505011400,51079088220,00338004904,00591354060,00338004904,51079089520}"
+  },
+  {
+    "subject_id": 11935843,
+    "drugs": "{Ketorolac,\"HYDROmorphone (Dilaudid)\",Ibuprofen,ARIPiprazole,Ondansetron,\"Sodium Chloride 0.9%  Flush\",\"OxycoDONE (Immediate Release) \",\"Erythromycin 0.5% Ophth Oint\",\"Artificial Tears\",\"Lactated Ringers\",Citalopram,Acetaminophen,\"Artificial Tears Preserv. Free\"}",
+    "ndcs": "{00409379301,00409128331,00904585461,13811068030,00641607825,0,00406055262,24208091019,00536197072,00338011704,60505251903,00904198861,00023050601}"
+  },
+  {
+    "subject_id": 11936294,
+    "drugs": "{Senna,\"Diazepam - CIWA protocol\",\"Influenza Vaccine Quadrivalent\",Acetaminophen,\"0.9% Sodium Chloride\",Thiamine,Ondansetron,Heparin,\"Docusate Sodium\",Multivitamins,\"Sodium Chloride 0.9%\",\"Sodium Chloride 0.9%  Flush\",\"FoLIC Acid\"}",
+    "ndcs": "{00904652261,51079028620,49281041688,00904198261,00338004911,63323001302,00641607825,63323026201,63739047810,00904053061,00338004904,0,51079010520}"
+  },
+  {
+    "subject_id": 11939105,
+    "drugs": "{Acetaminophen,\"Sodium Chloride 0.9%  Flush\",Omeprazole,\"Metoprolol Tartrate\",\"Influenza Vaccine Quadrivalent\",Amiodarone,\"Lactated Ringers\",Omeprazole,Ondansetron,Vial,Pantoprazole,Atorvastatin}",
+    "ndcs": "{00904677361,0,00904568461,00904634061,19515090941,00904655661,00338011704,00904568461,70860077602,0,00008092355,00904629061}"
+  },
+  {
+    "subject_id": 11945336,
+    "drugs": "{Multivitamins,\"Sodium Chloride 0.9%  Flush\",Acetaminophen,amLODIPine,\"Docusate Sodium\",Acetaminophen,\"Vitamin D\",Neutra-Phos,Senna,\"Sodium Chloride 0.9%\",\"Metoprolol Tartrate\",\"Losartan Potassium\",\"Metoprolol Succinate XL\",\"Docusate Sodium\",Rivaroxaban,\"Calcium Carbonate\",Senna,Torsemide}",
+    "ndcs": "{00904053061,0,00121197100,50268008415,00904645561,00904198261,10432017002,60258000601,00904652261,00338004904,51079025520,68084034701,68084066601,57896042101,50458057810,66553000401,54162000708,00004026249}"
+  },
+  {
+    "subject_id": 11957937,
+    "drugs": "{Captopril,\"Sodium Chloride 0.9%\",HydrALAZINE,Lisinopril,Captopril,Captopril,Captopril,Captopril,\"0.83% Sodium Chloride\",\"NiCARdipine IV\",Captopril,Captopril,HydrALAZINE,Lisinopril,\"Influenza Vaccine Quadrivalent\",\"Gastroview (Diatrizoate Meglumine & Sodium)\",Captopril,Acetaminophen,Hydrochlorothiazide,Hydrochlorothiazide}",
+    "ndcs": "{51079086420,00338004904,63323061401,60687033301,51079086420,51079086420,51079086420,51079086420,0,10122032510,51079086420,51079086420,63323061401,60687033301,19515090941,00019481604,51079086420,00904677361,16729018201,16729018201}"
+  },
+  {
+    "subject_id": 11958864,
+    "drugs": "{Aspirin,Furosemide,\"Sodium Chloride 0.9%  Flush\",Lisinopril,Senna,Apixaban,Warfarin,Heparin,Apixaban,Heparin,\"5% Dextrose\",\"Heparin Sodium\",\"Sodium Chloride 0.9%  Flush\",\"Influenza Vaccine Quadrivalent\",Multivitamins,Warfarin}",
+    "ndcs": "{00904628889,00409610202,0,51079098120,00904652261,00003089431,00056017275,63323026201,00003089431,63323026201,0,00264958720,0,49281041688,00904053061,00056016975}"
+  },
+  {
+    "subject_id": 11964270,
+    "drugs": "{Cephalexin,Acetaminophen,\"Fluticasone-Salmeterol Diskus (250/50) \",\"PNEUMOcoccal 23-valent polysaccharide vaccine\",Simvastatin,\"Sodium Chloride 0.9%  Flush\",\"Lactated Ringers\",\"Calcium Carbonate\",\"Doxycycline Hyclate\",\"Iso-Osmotic Dextrose\",Vancomycin,Montelukast,Heparin}",
+    "ndcs": "{00143989701,00904198861,00173069604,00006494300,51079045420,0,00338011704,66553000401,00069095050,0,00338355248,68084062001,63323026201}"
+  },
+  {
+    "subject_id": 11965443,
+    "drugs": "{Heparin,Senna,Warfarin,\"Influenza Vaccine Quadrivalent\",Tamsulosin,\"5% Dextrose\",\"Heparin Sodium\",Heparin,\"Sodium Chloride 0.9%  Flush\",\"Polyethylene Glycol\",\"5% Dextrose\",\"Heparin Sodium\",Finasteride,\"Enoxaparin Sodium\"}",
+    "ndcs": "{63323026201,00904516561,00056017275,49281041688,00904640161,0,00264958720,63323026201,0,11523726808,0,00264958720,51079052020,63323056984}"
+  },
+  {
+    "subject_id": 11967128,
+    "drugs": "{Acetaminophen,\"Sodium Chloride 0.9%  Flush\",MoviPrep,Golytely,\"Magnesium Citrate\"}",
+    "ndcs": "{00904198261,0,65649020175,52268010001,00363069338}"
+  },
+  {
+    "subject_id": 11969607,
+    "drugs": "{\"Sodium Chloride 0.9%  Flush\",\"Witch Hazel 50% Pad\",MetroNIDAZOLE,\"Levothyroxine Sodium\",\"Lactated Ringers\",\"Lactated Ringers\",\"Potassium Chloride\",\"Dextrose 50%\",Glucagon,\"Ciprofloxacin HCl\",Insulin,Acetaminophen,\"Iso-Osmotic Sodium Chloride\",Famotidine,\"Glucose Gel\"}",
+    "ndcs": "{0,12547015040,42292000120,00378180977,00338011704,00338011704,66758016013,00409490234,00597026010,68084007001,00002751001,00904198261,0,00338519741,38396055018}"
+  },
+  {
+    "subject_id": 11970871,
+    "drugs": "{\"Iso-Osmotic Dextrose\",CeFAZolin,\"Losartan Potassium\",Pantoprazole,\"Morphine Sulfate\",Gabapentin,\"Docusate Sodium\",Ketorolac,\"Topiramate (Topamax)\",\"OxyCODONE (Immediate Release)\",\"Lactated Ringers\",LORazepam,\"Enoxaparin Sodium\",Senna,Acetaminophen,Furosemide,\"Sodium Chloride 0.9%  Flush\",CARVedilol,Multivitamins}",
+    "ndcs": "{0,00264310511,68084034701,00904647461,00641612525,68084076201,00904645561,00409379301,68382013814,68084035401,00338011704,00409198530,63323056883,00904652261,00904198861,51079007220,0,51079093120,00904053061}"
+  },
+  {
+    "subject_id": 11970928,
+    "drugs": "{\"Influenza Vaccine Quadrivalent\",HydrOXYzine,\"Milk of Magnesia\",FLUoxetine,Acetaminophen}",
+    "ndcs": "{19515090641,63739048610,00121043130,50268033415,00904677361}"
+  },
+  {
+    "subject_id": 11975768,
+    "drugs": "{Senna,\"0.45% Sodium Chloride\",Acetaminophen,\"HYDROmorphone (Dilaudid)\",\"Lactated Ringers\",\"OxyCODONE (Immediate Release)\",\"Morphine Sulfate\",Ondansetron,Omeprazole,\"0.45% Sodium Chloride\",Ramelteon,\"Polyethylene Glycol\",\"Influenza Vaccine Quadrivalent\",\"Sodium Chloride 0.9%  Flush\",Simethicone,\"0.45% Sodium Chloride\",\"Polyethylene Glycol\"}",
+    "ndcs": "{00904652261,00338004304,00904677361,76045000910,00338011704,00406055262,00409189001,67457044022,00904568461,00338004304,64764080510,00904642281,19515090641,0,57896079101,00338004304,00904642281}"
+  },
+  {
+    "subject_id": 11975871,
+    "drugs": "{\"Docusate Sodium\",\"Sodium Chloride 0.9%  Flush\",\"Sodium Chloride 0.9%\",Bisacodyl,Bisacodyl,Acetaminophen,HydrALAZINE,\"Sodium Chloride 0.9%\",Senna,Captopril,Heparin,Aspirin,\"Sodium Chloride 0.9%\",HydrALAZINE,Captopril,\"Sodium Chloride 0.9%\",Clopidogrel,Atorvastatin,\"Sarna Lotion\"}",
+    "ndcs": "{00904645561,0,00338004904,00713010950,00536338101,00904198261,63323061401,00338004904,00904652261,51079086420,63323026201,00904628889,00338004904,63323061401,51079086320,00338004904,00904629461,51079021103,54162055007}"
+  },
+  {
+    "subject_id": 11979319,
+    "drugs": "{\"Sodium Chloride 0.9%  Flush\",\"Sodium Chloride 0.9%  Flush\",\"Milk of Magnesia\",LORazepam,\"Aluminum-Magnesium Hydrox.-Simethicone\",LORazepam,LORazepam,LORazepam,Acetaminophen,LORazepam,\"Lithium Carbonate SR (Lithobid)\",\"Ondansetron ODT\",\"Lithium Carbonate SR (Lithobid)\",LORazepam}",
+    "ndcs": "{0,0,00121043130,63739050010,00121176130,63739050010,63739050010,63739050010,00904198261,63739050010,00054002125,68462015713,00054002125,63739050010}"
+  },
+  {
+    "subject_id": 11983400,
+    "drugs": "{\"Latanoprost 0.005% Ophth. Soln.\",Aspirin,\"PNEUMOcoccal 23-valent polysaccharide vaccine\",Heparin,Lorazepam,\"Polyethylene Glycol\",Tamsulosin,\"Sodium Chloride 0.9%  Flush\",Pantoprazole,Lorazepam,Acetaminophen,\"Influenza Vaccine Quadrivalent\",Simvastatin,Pentoxifylline}",
+    "ndcs": "{00517083001,00904404073,00006494300,63323026201,00409198530,11523726808,00781207601,0,00904623561,00904598061,00904198261,49281041550,51079045420,00039007810}"
+  },
+  {
+    "subject_id": 11985668,
+    "drugs": "{\"Lidocaine 5% Patch\",Lisinopril,Bisacodyl,Atorvastatin,Heparin,Baclofen,Acetaminophen,\"Sodium Chloride 0.9%\",Atorvastatin,D5NS,Senna,Atenolol,\"Sodium Chloride 0.9%  Flush\",ClonazePAM,TraZODone,Aspirin,\"5% Dextrose\",\"Heparin Sodium\"}",
+    "ndcs": "{00591352530,60687033301,00536338101,68084009801,00641040012,68084085501,00904677361,00338004904,00904629261,00338008904,00904652261,51079075920,0,43547040610,00904655461,00536100836,0,00409779362}"
+  },
+  {
+    "subject_id": 11985678,
+    "drugs": "{Vial,Pantoprazole,FLUoxetine,\"Sodium Chloride 0.9%  Flush\",\"Potassium Chloride\",\"0.9% Sodium Chloride\",\"Ferric Gluconate\",Propranolol,Sucralfate,\"Potassium Chloride\",Pantoprazole,\"0.9% Sodium Chloride (Mini Bag Plus)\",CefTRIAXone,Propranolol,Acetaminophen,\"Influenza Vaccine Quadrivalent\",\"0.9% Sodium Chloride\",\"Octreotide Acetate\"}",
+    "ndcs": "{0,00008092360,65862019301,0,66758016013,00338004938,00591014987,00904041161,51079075320,00603155404,00904647461,00338055318,60505075204,00904041161,00904198261,49281041688,00338004938,63323037701}"
+  },
+  {
+    "subject_id": 11986449,
+    "drugs": "{\"Influenza Vaccine Quadrivalent\",\"Albuterol Inhaler\",\"Docusate Sodium\",Ondansetron,\"OxyCODONE (Immediate Release)\",TraZODone,\"Sumatriptan Succinate\",Acetaminophen,D5LR,ClonazePAM,\"MethylPHENIDATE (Ritalin)\",\"BuPROPion XL (Once Daily)\",\"Iso-Osmotic Dextrose\",CeFAZolin}",
+    "ndcs": "{49281041688,00173068224,00904224461,00641607825,00406055262,50111043301,00093022390,00904198261,00338012504,51079088120,59630076210,10370010103,0,00338350341}"
+  },
+  {
+    "subject_id": 11992279,
+    "drugs": "{\"Sodium Chloride 0.9%  Flush\",HydrALAZINE,\"Influenza Vaccine Quadrivalent\",\"Sodium Chloride 0.9%\",\"Docusate Sodium\",Atorvastatin,Senna,Heparin,Acetaminophen}",
+    "ndcs": "{0,63323061401,19515090941,00338004904,00904645561,68084009801,00904652261,63323026201,00904198261}"
+  },
+  {
+    "subject_id": 11994050,
+    "drugs": "{TraZODone,\"Lactated Ringers\",\"Sodium Chloride 0.9%  Flush\",Ramelteon,Senna,\"5% Dextrose\",\"Heparin Sodium\",LORazepam,\"Docusate Sodium\",\"OxyCODONE (Immediate Release)\",\"Acetaminophen IV\",TraZODone,\"Enoxaparin Sodium\",ALPRAZolam,Heparin,Acetaminophen,Ramelteon,ALPRAZolam}",
+    "ndcs": "{00904655461,00338011704,0,64764080530,00904652261,0,00264958720,63739049910,00904645561,00904644461,43825010201,00904655461,63323056890,00904585861,63323026201,00904198261,64764080530,00904585861}"
+  },
+  {
+    "subject_id": 11996307,
+    "drugs": "{Bisacodyl,\"Sodium Chloride 0.9%  Flush\",Allopurinol,\"5% Dextrose\",\"Heparin Sodium\",\"Polyethylene Glycol\",Heparin,Multivitamins,\"5% Dextrose\",\"Heparin Sodium\",Acetaminophen,\"Levothyroxine Sodium\",Heparin,\"Fluticasone Propionate 110mcg\",amLODIPine,Senna,Apixaban}",
+    "ndcs": "{00536338101,0,62584098801,0,00409779362,00904642281,63323026201,00904053061,0,00409779362,00904673061,00378181377,63323026201,00173071920,00904636961,00904652261,00003089431}"
+  },
+  {
+    "subject_id": 12001360,
+    "drugs": "{Acetaminophen,Phenazopyridine,\"Influenza Vaccine Quadrivalent\",\"Belladonna & Opium (16.2/30mg)\",Ondansetron,\"OxyCODONE (Immediate Release)\",Acetaminophen,\"Lidocaine Jelly 2% (Glydo)\",\"Docusate Sodium\",Senna,\"Sodium Chloride 0.9%  Flush\",\"Sodium Chloride 0.9%\"}",
+    "ndcs": "{00904198861,75826011410,19515090941,00574704512,70860077602,68084035401,00904198861,25021067376,00904645561,00904652261,0,00338004904}"
+  },
+  {
+    "subject_id": 16239863,
+    "drugs": "{\"Mesalamine DR\",Benzonatate,\"MethylPREDNISolone Sodium Succ\",Heparin,\"Sodium Chloride 0.9%\",\"0.9% NaCl (EXCEL/ViaFLO BAG)\",InFLIXimab,\"Sodium Chloride 0.9%\",\"Sodium Chloride 0.9%  Flush\",\"Sodium Chloride 0.9%\",\"Influenza Vaccine Quadrivalent\",Phytonadione,\"Lactated Ringers\",\"MethylPREDNISolone Sodium Succ\",GuaiFENesin,PredniSONE,\"Cepacol (Sore Throat Lozenge)\",Acetaminophen,\"Gastroview (Diatrizoate Meglumine & Sodium)\"}",
+    "ndcs": "{00023585318,67877010501,00009003928,63323026201,00338004904,00409798325,57894003001,00338004904,0,00338004904,49281041688,00187170405,00338011704,00009003928,00121174410,00054001820,63824072283,00904198261,00019481604}"
+  },
+  {
+    "subject_id": 12008114,
+    "drugs": "{TraZODone,FLUoxetine,\"Rosuvastatin Calcium\",\"Influenza Vaccine Quadrivalent\",\"BuPROPion (Sustained Release)\"}",
+    "ndcs": "{00904399061,65862019301,00310075239,49281041688,00591354060}"
+  },
+  {
+    "subject_id": 12009773,
+    "drugs": "{\"Docusate Sodium\",Acetaminophen,Ondansetron,\"Morphine Sulfate\",\"Iso-Osmotic Dextrose\",CeFAZolin,Senna,\"Enoxaparin Sodium\",\"OxyCODONE (Immediate Release)\"}",
+    "ndcs": "{00904224461,00904198861,00409475503,00409189001,0,00338350841,00904516561,63323056887,00904644461}"
+  }
+]

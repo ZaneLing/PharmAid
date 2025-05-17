@@ -1,13 +1,13 @@
-import os
+import os, json
 import subprocess
 
 from Safety_Checker.safety_score import calculate_safety_score
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "."))
 
-# 定义文件路径
-CCM_DATASET = "CCMDataset/L1"
-CCM_DATASET_PATH = os.path.join(PROJECT_ROOT, CCM_DATASET)
+# # 定义文件路径
+# CCM_DATASET = "CCMDataset/L1"
+# CCM_DATASET_PATH = os.path.join(PROJECT_ROOT, CCM_DATASET)
 
 # 定义各脚本的路径
 
@@ -110,6 +110,16 @@ def run_safety_score(patient_id):
         print(f"[ERROR] 无法解析 Safety_Score 脚本输出的分数: {e}")
         raise
 
+
+def extract_drug_names(input_json):
+    """
+    从 input_json 中提取所有 Prescription 条目的 DrugName，
+    返回一个 {"DrugName": [...]} 结构。
+    """
+    prescriptions = input_json.get("Prescription", [])
+    drug_list = [item.get("DrugName") for item in prescriptions if "DrugName" in item]
+    return {"DrugName": drug_list}
+
 def run_retrospection(patient_id):
     print(f"[INFO] 正在运行 Retrospection 脚本，处理病人编号: {patient_id}")
     try:
@@ -121,54 +131,70 @@ def run_retrospection(patient_id):
 
 def main():
     print(f"[INFO] Set OpenAi Key...")
-
-    # oak = os.getenv("OPENAI_API_KEY")
-
-    # if not oak:
-    #     raise EnvironmentError("Environment variable OPENAI_API_KEY is not set. Please set it before running the script.")
-
-    # os.environ["OPENAI_API_KEY"] = oak
-
     print(f"[INFO] Start...")
-
-    #set retro database
     print(f"[INFO] Set retro guidance database...")
-    # knowledge_path = os.path.join(PROJECT_ROOT, "knowledge")
-    # os.makedirs(knowledge_path, exist_ok=True); open("knowledge/Retro.json", "w", encoding="utf-8").write("{}")
+   
+    dataset_path = os.path.join(PROJECT_ROOT, "CCMDataset/CCMD")
+    patient_folders = [f for f in os.listdir(dataset_path) if os.path.isdir(os.path.join(dataset_path, f))]
 
-    for patient_id in range(1030, 1035):  # 示例病人编号
-        output_patient_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}")
-        os.makedirs(output_patient_folder, exist_ok=True)
+    for patient_id in patient_folders:
+        try:
+            patient_id = int(patient_id)  # 确保 patient_id 是整数
 
-        print(f"[INFO] 正在运行 Patient_Info_Cleaner 脚本...")
-        print(f"[INFO] ds Path: {CCM_DATASET_PATH}")
-        run_patient_info_cleaner(CCM_DATASET_PATH)
+            output_patient_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}")
+            os.makedirs(output_patient_folder, exist_ok=True)
 
-        patient_prescription_score = 0
-        while patient_prescription_score < 85:
-            print(f"[INFO] 处方评分: {patient_prescription_score}，iteration continue。")
-            # Step 3: 运行 Prescription
-            run_prescription(patient_id)
+            print(f"[INFO] 正在运行 Patient_Info_Cleaner 脚本...")
+            print(f"[INFO] ds Path: {dataset_path}")
+            
 
-            # Step 4: 运行 Drug_Interaction_Checker
-            run_drug_interaction_checker(patient_id)
+            patient_prescription_score = 0
+            while patient_prescription_score < 85:
+                print(f"[INFO] 处方评分: {patient_prescription_score}，iteration continue。")
+                try:
+                    run_prescription(patient_id)
 
-            # Step 5: 运行 Drug_Patient_Interaction
-            run_drug_patient_interaction_checker(patient_id)
+                    # Step 4: 运行 Drug_Interaction_Checker
+                    run_drug_interaction_checker(patient_id)
 
-            run_safety_checker(patient_id)
-            safety_score_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Safety_Check/safety_check.json")
-            patient_prescription_score = calculate_safety_score(safety_score_file)
-            print(f"[INFO] 处方评分: {patient_prescription_score}")
+                    # Step 5: 运行 Drug_Patient_Interaction
+                    run_drug_patient_interaction_checker(patient_id)
 
-        else:
-            print(f"[INFO] Prescription score: {patient_prescription_score}，iteration over。")    
+                    run_safety_checker(patient_id)
+                    safety_score_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Safety_Check/safety_check.json")
+                    patient_prescription_score = calculate_safety_score(safety_score_file)
+                    print(f"[INFO] 处方评分: {patient_prescription_score}")
+                except RuntimeError as e:
+                    print(f"[ERROR] 子流程失败: {e}")
+                    print(f"[INFO] 跳过病人 {patient_id} 的当前迭代。")
+                    break  # 跳出当前患者的迭代循环
 
-        print(f"[INFO] 工作流执行完成。")
+            else:
+                print(f"[INFO] Prescription score: {patient_prescription_score}，iteration over。")    
 
-        print(f"[INFO] Retrospection start...")
-        run_retrospection(patient_id)
-        print(f"[INFO] Retrospection over.")
+                prescription_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Prescription/Prescription.json")
+                with open(prescription_file, "r") as f:
+                    prescription_data = json.load(f)
+                drug_names = extract_drug_names(prescription_data)
+                # 将药物名称保存到 JSON 文件
+                output_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Prescription/output_drugname.json")
+                with open(output_file, "w") as f:
+                    json.dump(drug_names, f)
+
+                print(f"[INFO] 药物名称: {drug_names}")
+
+                print(f"[INFO] 工作流执行完成。")
+
+                print(f"[INFO] Retrospection start...")
+                run_retrospection(patient_id)
+                print(f"[INFO] Retrospection over.")
+        except ValueError:
+            print(f"[ERROR] 无效的病人编号: {patient_id}，跳过该病人。")    
+            continue
+        except Exception as e:
+            print(f"[ERROR] 处理病人 {patient_id} 时发生错误: {e}")
+            print(f"[INFO] 跳过病人 {patient_id}。")
+            continue
 
     print("----------Over---------")
 

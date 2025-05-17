@@ -1,0 +1,26 @@
+1.  Bisacodyl ___AILY:PRN constipation  
+RX *bisacodyl 10 mg 1 suppository(s) rectally daily as needed 
+Disp #*50 Suppository Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+3.  Ramelteon 8 mg PO QHS:PRN insomnia 
+RX *ramelteon [Rozerem] 8 mg 1 tablet(s) by mouth at night as 
+needed Disp #*30 Tablet Refills:*0 
+4.  RisperiDONE 0.5 mg PO BID 
+RX *risperidone 0.5 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+5.  DICYCLOMine 10 mg PO QID 
+RX *dicyclomine 10 mg 1 capsule(s) by mouth four times a day 
+Disp #*120 Capsule Refills:*0 
+6.  Excedrin Migraine (aspirin-acetaminophen-caffeine) unknown  
+oral Q8H:PRN headache  
+7.  Hydrochlorothiazide 25 mg PO DAILY  
+8.  Linzess (linaCLOtide) 145 mcg oral DAILY  
+9.  Lisinopril 20 mg PO DAILY  
+10.  LORazepam 1 mg PO Q6H:PRN anxiety   
+11.  Polyethylene Glycol 17 g PO DAILY  
+12.  Rifaximin 550 mg PO TID 
+RX *rifaximin [Xifaxan] 550 mg 1 tablet(s) by mouth three times 
+a day Disp #*14 Tablet Refills:*0 
+13.  Simethicone 40-80 mg PO QID:PRN bloating

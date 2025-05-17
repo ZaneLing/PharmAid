@@ -21,15 +21,9 @@ os.environ["OPENAI_API_KEY"] = oak
 
 # 定义输出数据模型
 class InteractionAnalysis(BaseModel):
-    AllergyConflict: bool
-    AllergyExplanation: str
-    AllergyRiskLevel: str
     PhysicalExamConflict: bool
     PhysicalExamExplanation: str
     PhysicalExamRiskLevel: str
-    HPIConflict: bool
-    HPIExplanation: str
-    HPIRiskLevel: str
     SocialFamilyConflict: bool
     SocialFamilyExplanation: str
     SocialFamilyRiskLevel: str
@@ -115,16 +109,17 @@ def run(id):
 
     patient_id = str(id) 
     input_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
-    input_diagnose_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
-    input_allergy_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Allergies.json")
-    input_physical_exam_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Physical_Exam.json")
-    input_social_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Social_history.json")
-    input_hpi_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/History_of_Present_Illness.json")
-    input_family_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Family_history.json")
-    
-    prescription = load_json_as_text(input_prescription_file)
-    # input_diagnose_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
-    diagnoses_content = load_json_as_text(input_diagnose_file)
+    prescription = load_json_as_text(input_prescription_file) if os.path.exists(input_prescription_file) else ""
+   
+    input_diagnose_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/discharge_diagnosis.txt")
+    diagnosis = open(input_diagnose_file, 'r', encoding='utf-8').read() if os.path.exists(input_diagnose_file) else ""
+
+
+    input_demo_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/social_history_and_family_history.txt")
+    demo_content = open(input_demo_file, 'r', encoding='utf-8').read() if os.path.exists(input_demo_file) else ""
+
+    input_pysical_exam_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/physical_exam.txt")
+    physical_exam_content = open(input_pysical_exam_file, 'r', encoding='utf-8').read() if os.path.exists(input_pysical_exam_file) else ""
 
     # input_allergy_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Allergies.json"
     # input_physical_exam_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Physical_Exam.json"
@@ -132,28 +127,24 @@ def run(id):
     # input_hpi_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/History_of_Present_Illness.json"
     # input_family_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Family_history.json"
 
-    allergy_content = load_json_as_text(input_allergy_file)
-    physical_exam_content = load_json_as_text(input_physical_exam_file)
-    social_family_content = load_json_as_text(input_social_file) + load_json_as_text(input_family_file)
-    hpi_content = load_json_as_text(input_hpi_file)
+    # allergy_content = load_json_as_text(input_allergy_file)
+    #physical_exam_content = load_json_as_text(input_physical_exam_file)
+    # social_family_content = load_json_as_text(input_social_file) + load_json_as_text(input_family_file)
+    # hpi_content = load_json_as_text(input_hpi_file)
 
 
     print("--------------------------")
-    print(diagnoses_content)
+    print(diagnosis)
     print(prescription)
     print(f"----------{patient_id}----------")
-    print(allergy_content)
     print(physical_exam_content)
-    print(social_family_content)
-    print(hpi_content)
+    print(demo_content)
 
     inputs = {
-        'diagnoses': diagnoses_content,
+        'diagnosis': diagnosis,
         'prescription': prescription,
-        'allergy': allergy_content,
         'physical_exam': physical_exam_content,
-        'social_family': social_family_content,
-        'hpi': hpi_content,
+        'social_family': demo_content,
     }
     # 执行 Crew
     result = Drug_Patient_Interaction_Crew().crew().kickoff(inputs=inputs)

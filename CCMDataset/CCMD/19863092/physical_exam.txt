@@ -1,0 +1,26 @@
+ADMISSION PHYSICAL EXAM
+=======================
+GENERAL: Alert, NAD, appears stated age
+HEENT: atraumatic, normocephalic, EOMI, PERRL, MMM 
+CARDIAC: RRR, no m/r/g
+LUNGS: CTAB, no wheezes, ronchi or crackles
+ABDOMEN: NABS, soft, NT to deep palpation in all 4 quadrants, no
+rebound or guarding
+EXTREMITIES: wwp, no edema
+NEUROLOGIC: AAOx3, CN grossly intact, moving all 4 extremities
+spontaneously and with purpose.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VITALS: 24 HR Data (last updated ___ @ 1524)
+    Temp: 98.4 (Tm 98.4), BP: 108/73 (108-136/60-76), HR: 80 
+(64-80), RR: 18, O2 sat: 94% (94-99), O2 delivery: Ra, Wt: 149.1 
+lb/67.63 kg  
+GENERAL: Alert, NAD, appears stated age
+HEENT: atraumatic, normocephalic, EOMI, PERRL, MMM 
+CARDIAC: RRR, no m/r/g
+LUNGS: CTAB, no wheezes, ronchi or crackles
+ABDOMEN: NABS, soft, mild TTP ___, no rebound or guarding
+EXTREMITIES: wwp, no edema
+NEUROLOGIC: AAOx3, CN grossly intact, moving all 4 extremities 
+spontaneously and with purpose.

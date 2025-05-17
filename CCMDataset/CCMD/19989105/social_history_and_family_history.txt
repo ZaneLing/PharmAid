@@ -1,0 +1,21 @@
+___
+Brother  CAD/PVD 
+Daughter  Cancer - ___ 
+Father  CAD/PVD 
+Mother  Cancer - ___ 
+ 
+Physical Exam:
+ADMISSION EXAM
+================
+VITALS:
+24 HR Data (last updated ___ @ 213)
+    Temp: 97.8 (Tm 97.8), BP: 117/56 (84-117/46-61), HR: 53, RR:
+16, O2 sat: 93%, O2 delivery: RA, Wt: 167.99 lb/76.2 kg  
+GENERAL:     Alert and interactive. In no acute distress.
+HEENT:       PERRL, EOMI. MMM.
+CARDIAC:     RRR no m/r/g appreciated
+LUNGS:       CTAB no r/r/w
+ABDOMEN:     Soft, NT, ND, +BS
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN:        Warm. No rashes.
+NEUROLOGIC:  AOx3. Grossly intact.

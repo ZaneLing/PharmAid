@@ -1,0 +1,14 @@
+{
+  "DrugName": [
+    "Heparin",
+    "Low Molecular Weight Heparin",
+    "Thrombin Inhibitors (e.g. Fondaparinux)",
+    "Anticoagulant Therapy (e.g. Warfarin, Rivaroxaban)",
+    "Pain Management medications (e.g. Acetaminophen, Ibuprofen)",
+    "Anti-Emetic medication (e.g. Ondansetron)",
+    "Famotidine" (as per the Preadmission Medication list),
+    "Simvastatin" (as per the Preadmission Medication list),
+    "Levothyroxine Sodium" (as per the Preadmission Medication list),
+    "Alprazolam" (as per the Preadmission Medication list)
+  ]
+}

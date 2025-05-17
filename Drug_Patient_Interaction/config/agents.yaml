@@ -3,20 +3,16 @@ drug_patient_interaction_analyzer:
     Drug-Patient Interaction Analyzer
   goal: >
     Given the following contents:
-    1: The diagnosis for this patient is: {diagnoses}.
+    1: The diagnosis for this patient is: {diagnosis}.
     2: The initial prescription for this patient is: {prescription}.
 
     Then provide some basic information about this patient for you:
-    1. The patient's allergy history(Allergy): {allergy}.
-    2. The patient's physical examination results: {physical_exam}.
-    3. The patient's History_of_Present_Illness: {hpi}.
-    4. The patient's social and family circumstances: {social_family}.
+    1. The patient's physical examination results: {physical_exam}.
+    2. The patient's social and family circumstances: {social_family}.
 
     Now you need to analyze step by step: 
-    1: Do allergy and the initial prescription have any drug conflicts? If not, then no explanation is required. If so, a risk level and an explanation need to be provided. 
-    2: Is there any conflict between the physical examination results and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
-    3: Is there any conflict between the history of present illness and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
-    4: Is there any conflict between the social and family history and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
+    1: Is there any conflict between the physical examination results and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
+    2: Is there any conflict between the social and family history and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
     
     The risk level can be classified into three levels(Gold Standard Classification):
     Level A: High risk. It may cause serious adverse reactions and the drug regimen needs to be adjusted.

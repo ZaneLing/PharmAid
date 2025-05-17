@@ -59,6 +59,16 @@ class SafetyCheckerCrew():
             verbose=True,
         )
 
+def load_json_as_text(file_path):
+    try:
+        with open(file_path, 'r', encoding='utf-8') as file:
+            data = json.load(file)
+            return json.dumps(data, ensure_ascii=False, indent=4)  # 将 JSON 转换为格式化的字符串
+    except Exception as e:
+        print(f"[Error] 无法加载输入文件 {file_path}: {e}")
+        return ""
+
+
 def load_prescription(file_path):
     try:
         with open(file_path, 'r', encoding='utf-8') as file:
@@ -69,33 +79,37 @@ def load_prescription(file_path):
 
 def run(id):
     patient_id = str(id)
-    # 输入文件路径
-    prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
-    diagnosis_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
-    patient_info_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Allergies.json")
-    physical_exam_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Physical_Exam.json")
+    input_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
+    prescription = load_json_as_text(input_prescription_file) if os.path.exists(input_prescription_file) else ""
+   
+    input_diagnose_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/discharge_diagnosis.txt")
+    diagnosis = open(input_diagnose_file, 'r', encoding='utf-8').read() if os.path.exists(input_diagnose_file) else ""
 
-    # diagnosis_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
-    # patient_info_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Allergies.json"
-    # physical_exam_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Physical_Exam.json"
 
-    # 加载处方数据
-    prescription = load_prescription(prescription_file)
-    diagnosis = load_prescription(diagnosis_file)
-    patient_info = load_prescription(patient_info_file)
-    physical_exam = load_prescription(physical_exam_file)
+    input_demo_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/social_history_and_family_history.txt")
+    demo_content = open(input_demo_file, 'r', encoding='utf-8').read() if os.path.exists(input_demo_file) else ""
+
+    input_pysical_exam_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/physical_exam.txt")
+    physical_exam_content = open(input_pysical_exam_file, 'r', encoding='utf-8').read() if os.path.exists(input_pysical_exam_file) else ""
+
+
+    print("--------------------------")
+    print(diagnosis)
+    print(prescription)
+    print(f"----------{patient_id}----------")
+    print(physical_exam_content)
+    print(demo_content)
+
+    inputs = {
+        'diagnosis': diagnosis,
+        'prescription': prescription,
+        'physical_exam': physical_exam_content,
+        'social_family': demo_content,
+    }
 
     if not prescription:
         print("[Error] 输入处方数据为空，无法继续执行。")
         return
-
-    # 构造输入
-    inputs = {
-        'prescription': prescription,
-        'diagnosis': diagnosis,
-        'patient_info': patient_info,
-        'physical_exam': physical_exam
-    }
 
     # 执行 Crew
     result = SafetyCheckerCrew().crew().kickoff(inputs=inputs)

@@ -1,0 +1,41 @@
+ADMISSION EXAM
+================
+VITALS:
+24 HR Data (last updated ___ @ 213)
+    Temp: 97.8 (Tm 97.8), BP: 117/56 (84-117/46-61), HR: 53, RR:
+16, O2 sat: 93%, O2 delivery: RA, Wt: 167.99 lb/76.2 kg  
+GENERAL:     Alert and interactive. In no acute distress.
+HEENT:       PERRL, EOMI. MMM.
+CARDIAC:     RRR no m/r/g appreciated
+LUNGS:       CTAB no r/r/w
+ABDOMEN:     Soft, NT, ND, +BS
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN:        Warm. No rashes.
+NEUROLOGIC:  AOx3. Grossly intact.
+
+DISCHARGE EXAM
+===============
+24 HR Data (last updated ___ @ 1154)
+    Temp: 97.7 (Tm 97.8), BP: 127/66 (84-127/46-74), HR: 69
+(53-69), RR: 16, O2 sat: 95% (93-96), O2 delivery: Ra, Wt: 
+167.99
+lb/76.2 kg  
+
+Fluid Balance (last updated ___ @ 839) 
+  Last 8 hours  Total cumulative -374.2ml
+    IN: Total 75.8ml, IV Amt Infused 75.8ml
+    OUT:  Total 450ml, Urine Amt 450ml, Emesis 0ml
+  Last 24 hours  Total cumulative 125.8ml
+    IN: Total 575.8ml, IV Amt Infused 575.8ml
+    OUT:  Total 450ml, Urine Amt 450ml, Emesis 0ml 
+ 
+Weight:  76.2kg
+Weight on admission: unknown
+  
+Telemetry:  NSR
+General:  Ill appearing, tremulous, pale
+HEENT:  +JVD up to 8cm, no masses or thyromegaly. 
+Lungs:  +bibasilar crackles, no wheezes
+CV:  RRR no m/r/g. 2+ radial and dp pulses
+Abdomen:  Soft, NTND. Normoactive BS
+Ext:  Trace edema b/l.

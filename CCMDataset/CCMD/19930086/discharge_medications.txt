@@ -1,0 +1,16 @@
+1.  Acetaminophen 650 mg PO Q8H:PRN Pain - Mild 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every 6 hours 
+Disp #*50 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+3.  Ibuprofen 400 mg PO Q8H:PRN Pain - Mild 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*40 Tablet Refills:*0 
+4.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every ___ hours Disp 
+#*30 Tablet Refills:*0 
+5.  Aspirin 81 mg PO DAILY  
+6.  Loratadine 10 mg PO DAILY  
+7.  Pravastatin 20 mg PO QPM  
+8.  Ranitidine 75 mg PO DAILY

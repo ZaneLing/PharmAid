@@ -1,20 +1,16 @@
 analyze_drug_patient_interaction_task:
   description: >
     Given the following contents:
-    1: The diagnosis for this patient is: {diagnoses}.
+    1: The diagnosis for this patient is: {diagnosis}.
     2: The initial prescription for this patient is: {prescription}.
 
     Then provide some basic information about this patient for you:
-    1. The patient's allergy history(Allergy): {allergy}.
-    2. The patient's physical examination results: {physical_exam}.
-    3. The patient's History_of_Present_Illness: {hpi}.
-    4. The patient's social and family circumstances: {social_family}.
+    1. The patient's physical examination results: {physical_exam}.
+    2. The patient's social and family circumstances: {social_family}.
 
     Now you need to analyze step by step: 
-    1: Do allergy and the initial prescription have any drug conflicts? If not, then no explanation is required. If so, a risk level and an explanation need to be provided. 
-    2: Is there any conflict between the physical examination results and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
-    3: Is there any conflict between the history of present illness and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
-    4: Is there any conflict between the social and family history and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
+    1:  Is there any conflict between the physical examination results and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
+    2: Is there any conflict between the social and family history and the initial prescription? If not, then no explanation is required. If so, a risk level and an explanation need to be provided.
     
     The risk level can be classified into three levels(Gold Standard Classification):
     Level A: High risk. It may cause serious adverse reactions and the drug regimen needs to be adjusted.
@@ -29,15 +25,9 @@ analyze_drug_patient_interaction_task:
     If no conflicts are detected, please provide the initial prescription as the final prescription.
 
     Here is the output json form:
-    AllergyConflict: A boolean indicating whether a conflict exists (true or false) between the allergy history and the initial prescription.
-    AllergyExplanation: A detailed explanation of the conflict, if exists.
-    AllergyRiskLevel: A single letter: A or B or C, which represent the risk level of the conflict between allergy and the initial prescription, if applicable.
     PhysicalExamConflict: A boolean indicating whether a conflict exists (true or false) between the physical examination results and the initial prescription.
     PhysicalExamExplanation: A detailed explanation of the conflict, if exists.
     PhysicalExamRiskLevel: A single letter: A or B or C, which represent the risk level of the conflict between physical examination results and the initial prescription, if applicable.
-    HPIConflict: A boolean indicating whether a conflict exists (true or false) between the history of present illness and the initial prescription.
-    HPIExplanation: A detailed explanation of the conflict, if exists.
-    HPIRiskLevel: A single letter: A or B or C, which represent the risk level of the conflict between history of present illness and the initial prescription, if applicable.
     SocialFamilyConflict: A boolean indicating whether a conflict exists (true or false) between the social and family history and the initial prescription.
     SocialFamilyExplanation: A detailed explanation of the conflict, if exists.
     SocialFamilyRiskLevel: A single letter: A or B or C, which represent the risk level of the conflict between social and family history and the initial prescription, if applicable.
@@ -46,15 +36,9 @@ analyze_drug_patient_interaction_task:
     RevisedPrescription: A revised prescription based on the conflicts detected.
   expected_output: >
     A structured JSON file containing:
-      AllergyConflict: bool
-      AllergyExplanation: str
-      AllergyRiskLevel: str
       PhysicalExamConflict: bool
       PhysicalExamExplanation: str
       PhysicalExamRiskLevel: str
-      HPIConflict: bool
-      HPIExplanation: str
-      HPIRiskLevel: str
       SocialFamilyConflict: bool
       SocialFamilyExplanation: str
       SocialFamilyRiskLevel: str

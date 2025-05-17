@@ -109,17 +109,15 @@ def extract_retro(input_file, output_folder):
 
 def run(id):
     patient_id = str(id)
-    # 输入文件路径
-    standard_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Medications.json")
-    final_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
-    diagnosis_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
 
-    # final_prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
-    # diagnosis_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
-    # 加载标准处方和最终处方
-    standard_prescription = load_prescription(standard_prescription_file)
-    final_prescription = load_prescription(final_prescription_file)
-    diagnosis_contents = load_prescription(diagnosis_file)
+    standard_prescription_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/discharge_medications.txt")
+    standard_prescription = open(standard_prescription_file, 'r', encoding='utf-8').read() if os.path.exists(standard_prescription_file) else ""
+    
+    final_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
+    final_prescription = load_prescription(final_prescription_file) if os.path.exists(final_prescription_file) else ""
+
+    input_diagnose_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/discharge_diagnosis.txt")
+    diagnosis = open(input_diagnose_file, 'r', encoding='utf-8').read() if os.path.exists(input_diagnose_file) else ""
 
     if not standard_prescription:
         print("[Error] 标准处方数据为空，无法继续执行。")
@@ -129,9 +127,16 @@ def run(id):
         print("[Error] 最终处方数据为空，无法继续执行。")
         return
 
+    print("--------------------------")
+    print("standard prescription")
+    print(standard_prescription)
+    print("final prescription")
+    print(final_prescription)
+    print("--------------------------")
+
     # 构造输入
     inputs = {
-        'diagnosis': diagnosis_contents,
+        'diagnosis': diagnosis,
         'standard_prescription': standard_prescription,
         'final_prescription': final_prescription
     }

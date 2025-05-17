@@ -1,0 +1,38 @@
+===============================
+ADMISSION PHYSICAL EXAMINATION:
+===============================
+
+VS: Temp 98.4  BP 105/70  HR 76  RR 18  SaO2 96% RA 
+GENERAL: Pleasant, well-appearing, in no apparent distress. 
+HEENT: normocephalic, atraumatic, mouth appears dry, scleral 
+icterus is present  
+HEART: RRR, normal S1/S2, soft systolic murmur heard at ___, no 
+rubs or gallops 
+LUNGS: Clear to auscultation bilaterally, without wheezes or 
+rhonchi. 
+ABDOMEN: Normal bowel sounds, soft, non-tender, non-distended, 
+no organomegaly.  
+EXTREMITIES: Warm, well-perfused, no cyanosis, clubbing or 
+edema.
+SKIN: Jaundice. No spider angioma. No palmar erythema 
+NEUROLOGIC: A&Ox3, CN II-XII normal, normal sensation, with
+strength ___ throughout.
+
+===============================
+DISCHARGE PHYSICAL EXAMINATION:
+===============================
+
+VS: Temp 98.0  BP 105/71  HR 82  RR 18  SaO2 95% RA 
+GENERAL: Pleasant, well-appearing, in no apparent distress. 
+HEENT: normocephalic, atraumatic, mouth appears dry, scleral 
+icterus is present  
+HEART: RRR, normal S1/S2, soft systolic murmur heard at ___, no 
+rubs or gallops 
+LUNGS: Clear to auscultation bilaterally, without wheezes or 
+rhonchi. 
+ABDOMEN: Normal bowel sounds, soft, non-tender, non-distended, 
+no organomegaly. Biopsy site is clean/dry/intact with dressing 
+present, no ecchymoses or tenderness.
+EXTREMITIES: Warm, well-perfused, no cyanosis, clubbing or 
+edema.
+SKIN: Jaundice. No spider angioma. No palmar erythema

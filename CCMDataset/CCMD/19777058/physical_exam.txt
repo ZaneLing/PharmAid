@@ -1,0 +1,16 @@
+Admission Physical Exam:
+Temp: 97.6 HR: 70 BP: 165/80 Resp: 16 O(2)Sat: 96 Normal
+Constitutional:   Constitutional: No fever, no
+chills
+Head / Eyes: No diplopia
+ENT: no earache
+Resp: No cough
+Cards: No chest pain
+Abd: No abdominal pain
+Flank: No dysuria
+Skin: No rash
+Ext: No back pain
+Neuro: No headache
+Psych: No depression
+
+Discharge Physical Exam:

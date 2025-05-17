@@ -1,22 +1,30 @@
 generate_prescription_task:
   description: >
+    You are a clinical physician prescribing medications for a patient based on their diagnosis.
     In view of the following information:
-    1. Chief Complaint: {cc}
-    2. Doctor's Diagnosis: {diagnosis}
-    3. Previous prescription: {previous_prescription}
-    4. DDI Feedback: {DDI}
-    5. DPI Feedback: {DPI}
+    1. Doctor's Diagnosis: {diagnosis}
+    2. Previous prescription: {previous_prescription}
+    3. DDI Feedback: {DDI}
+    4. DPI Feedback: {DPI}
 
-    Please analysis the chief complaint and diagnosis, and take the DDI, DPI into account, and then generate a drug prescription.
-    There is a knowledge database that contains the guidances and retrospections of the previous prescriptions, which can be used as a reference for the current prescription.
+    Please analysis the diagnosis, and take the DDI, DPI into account, and then generate a drug prescription.
+    You MUST generate at least five drugs in the prescription.
+
+    Please follow these principles:
+    1. Consider all comorbidities and ensure existing medications are continued unless contraindicated.
+    2. Add medications targeting the acute diagnosis (e.g., pain control, anticoagulation, infection, etc.).
+    3. Add medications to preventing complications.
+    4. The prescription needs to maintain the patient's previous medication for chronic diseases.
     
+    There is a knowledge database that contains the guidances and retrospections of the previous prescriptions, which can be used as a reference for the current prescription.
     If there is a previous prescription, please analyze it and take DDI conflicts and DPI conflicts into account.
-    provide a revised prescription if necessary.
-    The final output prescription includes:
-    1. Drug prescription list.
-    2. Detailed usage plans for each drug.
-    3. Route of administration of the drug.
-    4. The reasons for the selection of each drug
+
+    Here is your output format:
+    A list of structured prescription: list[dict] file containing:
+    1. DrugName: The name of recommended drug.
+    2. UsagePlan: The usage plans of the drug.
+    3. AdminstrationRoute: The administration route of the drug.
+    4. Explanation: The reason for choosing the drug and the explanation for the usage plan.
   expected_output: >
     A list of structured prescription: list[dict] file containing:
     1. DrugName: The name of recommended drug.

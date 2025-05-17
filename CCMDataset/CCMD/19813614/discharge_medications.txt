@@ -1,0 +1,23 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*100 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain - Moderate 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*60 Tablet Refills:*1 
+4.  Milk of Magnesia 30 mL PO Q12H:PRN Constipation - First Line 
+ 
+5.  albuterol sulfate 90 mcg/actuation inhalation Q4H:PRN 
+wheezing  
+6.  Aspirin 81 mg PO DAILY 
+Start ___  
+7.  Calcitrate-Vitamin D (calcium citrate-vitamin D3) 315-250 
+mg-unit oral DAILY  
+8.  Levothyroxine Sodium 112 mcg PO DAILY  
+9.  Multivitamins W/minerals 1 TAB PO DAILY  
+10.  Omeprazole 20 mg PO QPM  
+11.  Rosuvastatin Calcium 10 mg PO QPM  
+12.  tiotropium bromide 1.25 mcg/actuation inhalation DAILY  
+13.  Vitamin D ___ UNIT PO DAILY

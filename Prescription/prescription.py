@@ -107,12 +107,24 @@ def load_json_as_text(file_path):
 
 def run(id):
     patient_id = str(id)
+
+    input_diagnose_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/discharge_diagnosis.txt")
+    # input_diagnose_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
+    # input_demo_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/social_history_and_family_history.txt")
+    # input_moa_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/medications_on_admission.txt")
+    # input_pmh_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/past_medical_history.txt")
+
+    diagnosis = open(input_diagnose_file, 'r', encoding='utf-8').read() if os.path.exists(input_diagnose_file) else ""
+    # demo_info = open(input_demo_file, 'r', encoding='utf-8').read()
+    # medications_on_admission = open(input_moa_file, 'r', encoding='utf-8').read()
+    # past_medical_history = open(input_pmh_file, 'r', encoding='utf-8').read()
+
     # 构造输入文件路径
     #input_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint_and_Discharge_Diagnoses.json"
-    chief_complaint_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint.json")
-    diagnoses_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
-    cc_content = load_json_as_text(chief_complaint_file)
-    diagnoses_content = load_json_as_text(diagnoses_file)
+    #chief_complaint_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint.json")
+    # diagnoses_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
+    # #cc_content = load_json_as_text(chief_complaint_file)
+    # diagnoses_content = load_json_as_text(diagnoses_file)
 
     previous_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
     DDI_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Drug_Drug_Interaction/DDI.json")
@@ -128,15 +140,15 @@ def run(id):
     
 
     print(f"--------{patient_id}---------")
-    print(cc_content)
-    print(diagnoses_content)
+    print("diagnosis: ",diagnosis)
+
+    print("----------Previous Prescription----------")
     print(previous_prescription)
     print(DDI)
     print(DPI)
 
     inputs = {
-        'cc': cc_content,
-        'diagnosis': diagnoses_content,
+        'diagnosis': diagnosis,
         'previous_prescription': previous_prescription,
         'DDI': DDI,
         'DPI': DPI,

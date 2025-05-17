@@ -126,35 +126,37 @@ def extract_revised_trace(input_file, output_folder):
 
 def run(id):
         patient_id = str(id)
+        
+        input_diagnose_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/discharge_diagnosis.txt")
+        input_moa_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/medications_on_admission.txt")
+        input_pmh_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/past_medical_history.txt")
 
-        input_moa_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Medications_on_Admissions.json")
-        input_pmh_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Past_Medical_History.json")
+
+        diagnosis = open(input_diagnose_file, 'r', encoding='utf-8').read() if os.path.exists(input_diagnose_file) else ""
+        medications_on_admission = open(input_moa_file, 'r', encoding='utf-8').read() if os.path.exists(input_moa_file) else ""
+        past_medical_history = open(input_pmh_file, 'r', encoding='utf-8').read() if os.path.exists(input_pmh_file) else ""
+
+
+        #input_moa_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Medications_on_Admissions.json")
+        #input_pmh_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Patient_Info/Past_Medical_History.json")
+
         input_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
-        input_diagnosis_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
-        
-        # f"./Blackboard/Contents/{patient_id}/Patient_Info/Medications_on_Admissions.json"
-        
-        # input_pmh_file = f"./Blackboard/Contents/{patient_id}/Patient_Info/Past_Medical_History.json"
-        moa_file = load_json_as_text(input_moa_file)
-        pmh_file = load_json_as_text(input_pmh_file)
-        general_info = load_json_as_text(input_moa_file) + load_json_as_text(input_pmh_file)
-        
-        # input_prescription_file = f"./BlackBoard/Contents/{patient_id}/Prescription/Prescription.json"
-        prescription = load_json_as_text(input_prescription_file)
+        prescription = load_json_as_text(input_prescription_file) if os.path.exists(input_prescription_file) else ""
         # input_diagnosis_file = f"./BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json"
-        diagnoses = load_json_as_text(input_diagnosis_file)
+        #diagnoses = load_json_as_text(input_diagnosis_file)
 
         print(f"-----------{patient_id}---------------")
-        print(diagnoses)
+        print(diagnosis)
         print(prescription)
         print(f"-----------{patient_id}---------------")
-        print(moa_file)
-        print(pmh_file)
+        print(medications_on_admission)
+        print("-----------pmh---------------")
+        print(past_medical_history)
 
         inputs = {
-            'moa': moa_file,
-            'pmh': pmh_file,
-            'diagnose': diagnoses,
+            'moa': medications_on_admission,
+            'pmh': past_medical_history,
+            'diagnose': diagnosis,
             'prescription': prescription,
         }
 

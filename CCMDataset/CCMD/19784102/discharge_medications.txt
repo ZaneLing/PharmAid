@@ -1,0 +1,16 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*45 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*30 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe 
+RX *oxycodone [Oxaydo] 5 mg 1 tablet(s) by mouth Q4H: PRN Disp 
+#*30 Tablet Refills:*0 
+4.Outpatient Occupational Therapy
+Start OT ___ days post surgery
+S/P Zone 1 flex tendon repair on ___ and ___ ___
+Modified Duran
+Place & Hold
+Progress to gentle passive
+Make Dorsal splint to fingers

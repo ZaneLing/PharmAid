@@ -3,8 +3,8 @@ evaluate_prescription_safety_task:
     Given some contents that you need to use for the evaluation:
       1. Prescription: {prescription}
       2. Diagnosis: {diagnosis}
-      3. Patient information: {patient_info}
-      4. Physical examination: {physical_exam}
+      3. Physical examination: {physical_exam}
+      4. Social and family history: {social_family}
       and you need to perform a comprehensive safety evaluation.
     Your evaluation should be scored based on the following six assessment items, and the score for each item is 100 points.
     1. Conflict_score:  Are there any drug conflicts among the drugs in the prescription?

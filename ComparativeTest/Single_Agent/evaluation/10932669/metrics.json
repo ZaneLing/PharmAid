@@ -1,0 +1,8 @@
+{
+    "precision": 0.3333333333333333,
+    "recall": 0.125,
+    "f1_score": 0.18181818181818182,
+    "true_positives": 1,
+    "false_positives": 2,
+    "false_negatives": 7
+}
