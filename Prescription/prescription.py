@@ -1,10 +1,11 @@
 import os
 import json
 from crewai.project import CrewBase, agent, task, crew, before_kickoff, after_kickoff
-from crewai import Agent, Task, Crew, Process
+from crewai import Agent, Task, Crew, Process, LLM
 from langchain_openai import ChatOpenAI
 from textwrap import dedent
 import sys
+
 
 from pydantic import BaseModel
 from dotenv import load_dotenv
@@ -20,7 +21,13 @@ json_source = JSONKnowledgeSource(
     file_paths=["Retro.json"]
 )
 
-# 加载环境变量
+import warnings
+warnings.filterwarnings(
+    "ignore",
+    message="Use 'content=<...>' to upload raw bytes/text content",
+    category=DeprecationWarning,
+    module="httpx._models"
+)
 load_dotenv()
 oak = os.getenv("OPENAI_API_KEY")
 os.environ["OPENAI_API_KEY"] = oak
@@ -35,8 +42,9 @@ class PrescriptionCrew():
     def doctor_pharmacist_agent(self) -> Agent:
         return Agent(
             config=self.agents_config['doctor_pharmacist_agent'],
-            knowledge_sources=[json_source],
+            #knowledge_sources=[json_source],
             verbose=True
+            # llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434")
         )
 
     @task

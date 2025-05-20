@@ -1,1 +1,53 @@
-{"Differences":["Added medications: Rivaroxaban (20mg, Daily, Oral, Monitor for signs of bleeding), Tiotropium (Spiriva) (1 puff, Daily, Inhalation, Rinse mouth after use to reduce the risk of oral thrush)","Removed medications: Warfarin","Modified fields: Atorvastatin (Dosage changed from 40 mg to 40 mg, No change in dosage), Fluticasone-Salmeterol Diskus (Administration Route changed from Inhalation BID to Inhalation IH BID, Changed from Salmeterol/Fluticasone to Tiotropium due to medical conflict)"],"Reflections":"The differences in prescriptions reflect a tailored approach to optimize therapy based on the patient's condition and potential drug interactions. The changes aim to enhance the management of the patient's complex medical history while ensuring efficacy and safety.","Guidance":["Trigger condition: Presence of atrial fibrillation and AAA, Recommended action: Consider switching from warfarin to Rivaroxaban for anticoagulation, Expected outcome: Improved anticoagulation management with reduced bleeding risk","Trigger condition: Conflict detected in medical history with Salmeterol/Fluticasone, Recommended action: Switch to Tiotropium for COPD management, Expected outcome: Improved lung function without exacerbating COPD"]}
+{
+  "Differences": [
+    {
+      "category": "Added medications",
+      "field": "DrugName",
+      "before": "Buprenorphine-Naloxone Film (8mg-2mg)",
+      "after": "Lorazepam"
+    },
+    {
+      "category": "Added medications",
+      "field": "DrugName",
+      "before": "",
+      "after": "Fluoxetine"
+    },
+    {
+      "category": "Modified fields",
+      "field": "Dosage",
+      "before": "100 mg PO BID",
+      "after": "Take as prescribed by your doctor to help manage seizure activity. Monitor for any side effects and report them promptly."
+    },
+    {
+      "category": "Added medications",
+      "field": "DrugName",
+      "before": "",
+      "after": "Cognitive Behavioral Therapy (CBT)"
+    },
+    {
+      "category": "Modified fields",
+      "field": "Dosage",
+      "before": "60 mg PO TID",
+      "after": ""
+    },
+    {
+      "category": "Added medications",
+      "field": "DrugName",
+      "before": "",
+      "after": "Physical Therapy"
+    },
+    {
+      "category": "Modified fields",
+      "field": "Dosage",
+      "before": "100 mcg PO DAILY",
+      "after": ""
+    }
+  ],
+  "Reflections": "The differences between the standard prescription and the final output prescription are likely due to patient-specific customization, risk mitigation, or system heuristic. The addition of Lorazepam may be necessary to manage non-epileptic seizures more effectively. Fluoxetine is added to treat underlying mood disorders contributing to seizures. Cognitive Behavioral Therapy (CBT) and Physical Therapy are added as part of the treatment plan to address psychological factors and improve overall physical health, respectively.",
+  "Guidance": [
+    "If a patient has psychogenic non-epileptic seizures, consider adding Lorazepam or Fluoxetine to their medication regimen based on individualized needs.",
+    "Regular therapy sessions with CBT may be necessary to address underlying psychological stressors and improve coping mechanisms.",
+    "Physical Therapy should be considered as part of the treatment plan to improve overall physical health and reduce stress levels.",
+    "For patients taking antiepileptic medications like Levetiracetam, close medical supervision is recommended to monitor for any side effects and adjust dosages accordingly."
+  ]
+}

@@ -1,0 +1,17 @@
+1.  Acetaminophen 650 mg PO TID:PRN Pain - Mild/Fever 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth three times a day 
+Disp #*50 Tablet Refills:*0 
+2.  CARVedilol 3.125 mg PO BID 
+RX *carvedilol 3.125 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+3.  Hydrochlorothiazide 25 mg PO DAILY 
+RX *hydrochlorothiazide 25 mg 2 tablet(s) by mouth once a day, 
+in the morning Disp #*60 Tablet Refills:*0 
+4.  Valsartan 160 mg PO BID 
+RX *valsartan 160 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+5.  Vitamin D ___ UNIT PO DAILY 
+RX *ergocalciferol (vitamin D2) 50 mcg (2,000 unit) 1 capsule(s) 
+by mouth once a day Disp #*60 Capsule Refills:*0 
+6.  Allopurinol ___ mg PO DAILY Gout  
+7.  Cyanocobalamin 1000 mcg PO DAILY

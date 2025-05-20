@@ -1,0 +1,31 @@
+ADMISSION PHYSICAL EXAM
+======================
+Vital Signs:  T 98.5 BP 102 / 69 HR 91 RR 88 99% room air
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.
+
+DISCHARGE PHYSICAL EXAM
+======================
+Vital Signs: ___ 1210 Temp: 98.2 PO BP: 98/66 HR: 91 RR: 16
+O2 sat: 99% O2 delivery: Ra 
+General: Alert, oriented, no acute distress  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, 
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema

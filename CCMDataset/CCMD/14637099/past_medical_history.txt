@@ -1,0 +1,17 @@
+CAROTID OBSTRUCTION                                             
+COLONIC POLYPS                                                  
+CORONARY ARTERY DISEASE                                         
+DERMATOLOGIC                                                    
+ED                                                              
+ELEVATED BLOOD PRESSURE                                         
+ELEVATED CHOLESTEROL                                            
+HEALTH MAINTENANCE                                              
+HEARING LOSS                                                    
+LISTERIOSIS                                                     
+MITRAL REGURGITATION                                            
+MUSCULOSKELETAL                                                 
+PSYCHOSOCIAL                                                    
+SYNCOPE                                                         
+CORNEAL OPACITY                                                 
+NEPHROLITHIASIS                                                 
+TONSILLECTOMY

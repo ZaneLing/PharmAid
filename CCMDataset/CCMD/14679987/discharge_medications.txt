@@ -1,0 +1,20 @@
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+2.  Atorvastatin 20 mg PO QPM 
+RX *atorvastatin 20 mg 1 tablet(s) by mouth QPM Disp #*30 Tablet 
+Refills:*0 
+3.  Escitalopram Oxalate 10 mg PO DAILY 
+RX *escitalopram oxalate 10 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+4.  Levothyroxine Sodium 150 mcg PO DAILY 
+RX *levothyroxine 150 mcg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+5.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+6.  rivastigmine 4.6 mg/24 hr transdermal Q24H 
+RX *rivastigmine 4.6 mg/24 hour appl q24h Disp #*30 Patch 
+Refills:*0 
+7.Outpatient Occupational Therapy
+Referral for occupational therapy for cognition therapy 
+Date: ___
+Referring physician: ___

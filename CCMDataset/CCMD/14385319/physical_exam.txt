@@ -1,0 +1,28 @@
+ROS:
+ GEN: - fevers, - Chills, - Weight Loss
+ EYES: - Photophobia, - Visual Changes
+ HEENT: - Oral/Gum bleeding
+ CARDIAC: - Chest Pain, - Palpitations, - Edema
+ GI: - Nausea, - Vomitting, - Diarhea, - Abdominal Pain, - 
+Constipation, - Hematochezia
+ PULM: + Dyspnea, - Cough, - Hemoptysis
+ HEME: - Bleeding, - Lymphadenopathy
+ GU: - Dysuria, - hematuria, - Incontinence
+ SKIN: - Rash
+ ENDO: - Heat/Cold Intolerance
+ MSK: - Myalgia, - Arthralgia, - Back Pain
+ NEURO: - Numbness, - Weakness, - Vertigo, - Headache
+ Remainder of 10-point ROS negative except as above
+ 
+
+PHYSICAL EXAM:
+
+VSS: 97.9, 119/77, 88, 18, 96%
+ GEN: NAD, speaking in complete sentences
+ Pain: ___
+ HEENT: EOMI, MMM, - OP Lesions , -stridor
+ PUL: B/L EE Wheezes
+ COR: RRR, S1/S2, - MRG
+ ABD: NT/ND, +BS, - CVAT
+ EXT: - CCE
+ NEURO: CAOx3, Non-Focal

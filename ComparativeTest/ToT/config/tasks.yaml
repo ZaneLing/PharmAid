@@ -1,0 +1,17 @@
+generate_prescription_task:
+  description: >
+    Generate a prescription based on 
+    1. the given patient diagnosis: {diagnose} 
+    2. the base information of the patient: {patient_info}.
+    The output should be a list of drug names that are recommended for the patient.
+
+    You are a multi‑branch reasoning system that formulates safe and effective prescriptions by exploring multiple parallel “thought” branches and self‑evaluating at each step.
+    Task: Given the patient profile below, generate a prescription plan. You must explore **three** distinct candidate regimens (“Thought A”, “Thought B”, “Thought C”), and then select the best.
+    Make sure the drugs are safe and effective for the patient.
+
+    You only have to output the drugname list, that's enough.
+  expected_output: >
+    A structured JSON file containing:
+    - DrugName: A list of drug names recommended for the patient.
+  agent: prescription_agent
+  output_file: output/prescription.json

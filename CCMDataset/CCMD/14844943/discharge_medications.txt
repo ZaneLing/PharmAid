@@ -1,0 +1,19 @@
+1.  Verapamil SR 240 mg PO Q24H 
+RX *verapamil 240 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  abaloparatide 80 mcg (3,120 mcg/1.56 mL) subcutaneous DAILY  
+
+3.  Acetaminophen 1000 mg PO BID  
+4.  Acyclovir 400 mg PO Q8H WHEN NEEDED  
+5.  Allopurinol ___ mg PO DAILY  
+6.  ALPRAZolam 1 mg PO QHS:PRN SLEEP  
+7.  Aspirin 81 mg PO DAILY  
+8.  bimatoprost 0.03 % ophthalmic (eye) DAILY  
+9.  Diclofenac Sodium ___ 75 mg PO BID  
+10.  Fish Oil (Omega 3) 1000 mg PO TID  
+11.  Gabapentin 300 mg PO QHS  
+12.  Multivitamins 1 TAB PO DAILY  
+13.  Omeprazole 20 mg PO DAILY  
+14.  turmeric root extract 10 units oral DAILY 
+"10 units" entered as placeholder because system will not accept 
+unknown dose.

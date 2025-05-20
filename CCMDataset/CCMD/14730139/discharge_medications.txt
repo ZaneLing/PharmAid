@@ -1,0 +1,9 @@
+1.  Lithium Carbonate 600 mg PO QHS 
+RX *lithium carbonate 600 mg 1 capsule(s) by mouth nightly Disp 
+#*7 Capsule Refills:*0 
+2.  LORazepam 1 mg PO TID 
+RX *lorazepam [Ativan] 1 mg 1 tablet by mouth three times a day 
+Disp #*21 Tablet Refills:*0 
+3.  LORazepam 1 mg PO DAILY:PRN anxiety 
+RX *lorazepam [Ativan] 1 mg 1 tablet by mouth daily as needed 
+Disp #*7 Tablet Refills:*0

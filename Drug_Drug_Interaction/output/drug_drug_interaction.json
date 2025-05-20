@@ -1,1 +1,277 @@
-{"MOAAnalysisStep":["Losartan Potassium-Furosemide: false","Losartan Potassium-Spironolactone: false","Lorazepam-Furosemide: false","Lorazepam-Spironolactone: false"],"PMHAnalysisStep":["HTN-Furosemide: false","HTN-Spironolactone: false","Hypercholesterolemia-Furosemide: false","Hypercholesterolemia-Spironolactone: false","C-section-Furosemide: false","C-section-Spironolactone: false","Hysterectomy-Furosemide: false","Hysterectomy-Spironolactone: false","Tubal ligation-Furosemide: false","Tubal ligation-Spironolactone: false"],"MoaConflict":false,"MoaExplanation":"","MoaRiskLevel":"","PmhConfliect":false,"PmhExplanation":"","PmhRiskLevel":"","RevisedReason":"No conflicts were detected between the Medication on Admission (MOA), Past Medication History (PMH), and the initial prescription.","RevisedSuggestion":"No changes needed based on the current information.","RevisedPrescription":["Furosemide - Take 20-80 mg orally once daily in the morning. Dosage may be adjusted based on response. Monitor electrolytes and renal function regularly.","Spironolactone - Start with 25 mg orally once daily, may increase up to 100 mg daily. Monitor potassium levels due to the risk of hyperkalemia."]}
+{
+  "MOAAnalysisStep": [
+    {
+      "[MOA Drug Name 1]-[Prescription Drug 1]": true,
+      "[Explanation]": "High risk of sedation and respiratory depression due to concurrent use of lorazepam and phenobarbital.",
+      "RiskLevel": "A"
+    },
+    {
+      "[MOA Drug Name 2]-[Prescription Drug 1]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 3]-[Prescription Drug 1]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 4]-[Prescription Drug 1]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 5]-[Prescription Drug 1]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 1]-[Prescription Drug 2]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 2]-[Prescription Drug 2]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 3]-[Prescription Drug 2]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[MOA Drug Name 4]-[Prescription Drug 2]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 5]-[Prescription Drug 2]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 1]-[Prescription Drug 3]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[MOA Drug Name 2]-[Prescription Drug 3]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 3]-[Prescription Drug 3]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 4]-[Prescription Drug 3]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 5]-[Prescription Drug 3]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 1]-[Prescription Drug 4]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[MOA Drug Name 2]-[Prescription Drug 4]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 3]-[Prescription Drug 4]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[MOA Drug Name 4]-[Prescription Drug 4]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 5]-[Prescription Drug 4]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 1]-[Prescription Drug 5]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[MOA Drug Name 2]-[Prescription Drug 5]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 3]-[Prescription Drug 5]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[MOA Drug Name 4]-[Prescription Drug 5]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[MOA Drug Name 5]-[Prescription Drug 5]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    }
+  ],
+  "PMHAnalysisStep": [
+    {
+      "[PMH Drug Name 1]-[Prescription Drug 1]": true,
+      "[Explanation]": "High risk of sedation and respiratory depression due to concurrent use of lorazepam and phenobarbital.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 2]-[Prescription Drug 1]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 3]-[Prescription Drug 1]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 4]-[Prescription Drug 1]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 5]-[Prescription Drug 1]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 1]-[Prescription Drug 2]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 2]-[Prescription Drug 2]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 3]-[Prescription Drug 2]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 4]-[Prescription Drug 2]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 5]-[Prescription Drug 2]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 1]-[Prescription Drug 3]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 2]-[Prescription Drug 3]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 3]-[Prescription Drug 3]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 4]-[Prescription Drug 3]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 5]-[Prescription Drug 3]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 1]-[Prescription Drug 4]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 2]-[Prescription Drug 4]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 3]-[Prescription Drug 4]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 4]-[Prescription Drug 4]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 5]-[Prescription Drug 4]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 1]-[Prescription Drug 5]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 2]-[Prescription Drug 5]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 3]-[Prescription Drug 5]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    },
+    {
+      "[PMH Drug Name 4]-[Prescription Drug 5]": true,
+      "[Explanation]": "High risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+      "RiskLevel": "A"
+    },
+    {
+      "[PMH Drug Name 5]-[Prescription Drug 5]": false,
+      "[Explanation]": "",
+      "RiskLevel": ""
+    }
+  ],
+  "MoaConflict": true,
+  "MoaExplanation": "High risk of sedation and respiratory depression due to concurrent use of lorazepam and phenobarbital, or high risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+  "MoaRiskLevel": "A",
+  "PmhConfliect": true,
+  "PmhExplanation": "High risk of sedation and respiratory depression due to concurrent use of lorazepam and phenobarbital, or high risk of serotonin syndrome due to concurrent use of fluoxetine and mirtazapine.",
+  "PmhRiskLevel": "A",
+  "RevisedReason": "To avoid the risks associated with the concurrent use of these medications, consider replacing lorazepam with a different benzodiazepine or using a different antidepressant that does not interact with mirtazapine.",
+  "RevisedSuggestion": [
+    "Replace lorazepam with a different benzodiazepine.",
+    "Use a different antidepressant that does not interact with mirtazapine."
+  ],
+  "RevisedPrescription": [
+    {
+      "Alternative Drug Name": "Alprazolam",
+      "Dose": "2-4 mg, as needed"
+    },
+    {
+      "Alternative Drug Name": "Escitalopram",
+      "Dose": "10-20 mg, once daily"
+    }
+  ]
+}

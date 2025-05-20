@@ -65,10 +65,6 @@ def run_drug_interaction_checker(patient_id):
         raise
 
 def run_drug_patient_interaction_checker(patient_id):
-    """
-    运行 Drug_Patient_Interaction 脚本，检查药物与患者的交互。
-    :param patient_id: 病人编号
-    """
     print(f"[INFO] 正在运行 Drug_Patient_Interaction 脚本，处理病人编号: {patient_id}")
     try:
         subprocess.run(["python", DRUG_PATIENT_INTERACTION_SCRIPT, str(patient_id)], check=True)
@@ -87,11 +83,6 @@ def run_safety_checker(patient_id):
         raise
 
 def run_safety_score(patient_id):
-    """
-    运行 Safety_Score 脚本并返回生成的分数。
-    :param patient_id: 病人编号
-    :return: 生成的分数
-    """
     print(f"[INFO] 正在运行 Safety_Score 脚本，处理病人编号: {patient_id}")
     try:
         result = subprocess.run(
@@ -121,12 +112,12 @@ def extract_drug_names(input_json):
     return {"DrugName": drug_list}
 
 def run_retrospection(patient_id):
-    print(f"[INFO] 正在运行 Retrospection 脚本，处理病人编号: {patient_id}")
+    print(f"[INFO]  {patient_id}")
     try:
         subprocess.run(["python", RETROSPECTION_SCRIPT, str(patient_id)], check=True)
-        print(f"[INFO] Retrospection 脚本运行完成。")
+        print(f"[INFO] Retrospection over。")
     except subprocess.CalledProcessError as e:
-        print(f"[ERROR] 运行 Retrospection 脚本时出错: {e}")
+        print(f"[ERROR] Retrospection error: {e}")
         raise
 
 def main():
@@ -144,30 +135,29 @@ def main():
             output_patient_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}")
             os.makedirs(output_patient_folder, exist_ok=True)
 
-            print(f"[INFO] 正在运行 Patient_Info_Cleaner 脚本...")
+            print(f"[INFO] Patient_Info_Cleaner ...")
             print(f"[INFO] ds Path: {dataset_path}")
             
 
             patient_prescription_score = 0
             while patient_prescription_score < 85:
-                print(f"[INFO] 处方评分: {patient_prescription_score}，iteration continue。")
+                print(f"[INFO] score: {patient_prescription_score}，iteration continue。")
                 try:
                     run_prescription(patient_id)
 
-                    # Step 4: 运行 Drug_Interaction_Checker
                     run_drug_interaction_checker(patient_id)
 
-                    # Step 5: 运行 Drug_Patient_Interaction
                     run_drug_patient_interaction_checker(patient_id)
 
                     run_safety_checker(patient_id)
+
                     safety_score_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Safety_Check/safety_check.json")
                     patient_prescription_score = calculate_safety_score(safety_score_file)
-                    print(f"[INFO] 处方评分: {patient_prescription_score}")
+                    print(f"[INFO] Score: {patient_prescription_score}")
                 except RuntimeError as e:
-                    print(f"[ERROR] 子流程失败: {e}")
-                    print(f"[INFO] 跳过病人 {patient_id} 的当前迭代。")
-                    break  # 跳出当前患者的迭代循环
+                    print(f"[ERROR] sub-process fail: {e}")
+                    print(f"[INFO] Pass {patient_id} iteration")
+                    break 
 
             else:
                 print(f"[INFO] Prescription score: {patient_prescription_score}，iteration over。")    
@@ -181,19 +171,19 @@ def main():
                 with open(output_file, "w") as f:
                     json.dump(drug_names, f)
 
-                print(f"[INFO] 药物名称: {drug_names}")
+                print(f"[INFO] Drug names: {drug_names}")
 
-                print(f"[INFO] 工作流执行完成。")
+                print(f"[INFO] Over Iteration.")
 
                 print(f"[INFO] Retrospection start...")
-                run_retrospection(patient_id)
+                #run_retrospection(patient_id)
                 print(f"[INFO] Retrospection over.")
         except ValueError:
-            print(f"[ERROR] 无效的病人编号: {patient_id}，跳过该病人。")    
+            print(f"[ERROR] invalid {patient_id} patient")    
             continue
         except Exception as e:
-            print(f"[ERROR] 处理病人 {patient_id} 时发生错误: {e}")
-            print(f"[INFO] 跳过病人 {patient_id}。")
+            print(f"[ERROR]  {patient_id} error: {e}")
+            print(f"[INFO] Pass {patient_id}。")
             continue
 
     print("----------Over---------")

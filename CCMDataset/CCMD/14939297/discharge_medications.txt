@@ -1,0 +1,15 @@
+1. Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg one tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+2. Atorvastatin 20 mg PO QPM 
+RX *atorvastatin 20 mg one tablet(s) by mouth qpm Disp #*30 
+Tablet Refills:*0
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg one tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+4. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+RX *nitroglycerin 0.4 mg one tablet(s) sublingually q5min-prn 
+Disp #*30 Tablet Refills:*0
+5. Furosemide 20 mg PO ONCE PRN SOB Duration: 1 Dose 
+RX *furosemide 20 mg 1 tablet(s) by mouth PRN Disp #*15 Tablet 
+Refills:*0

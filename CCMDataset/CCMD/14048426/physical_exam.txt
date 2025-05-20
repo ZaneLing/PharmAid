@@ -1,0 +1,31 @@
+ADMISSION EXAM
+==============
+VITALS: T 98.4, BP 149/73, HR 69, RR 18, O2  
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, JVP not elevated, no LAD  
+CV: RRR, ___ systolic murmur
+Lungs: CTAB, no wheezes or crackles
+Abdomen: Soft, non-tender, non-distended, BS+, no rebound or
+guarding  
+BACK: Mild L sided CVA tenderness
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no edema  
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: AOx3, CN grossly intact
+
+DISCHARGE EXAM
+==============
+24 HR Data (last updated ___ @ 133)
+    Temp: 98.2 (Tm 98.5), BP: 145/79 (127-153/74-79), HR: 67
+(66-67), RR: 18, O2 sat: 98% (94-99), O2 delivery: RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, JVP not elevated, no LAD  
+CV: RRR, ___ systolic murmur
+Lungs: CTAB, no wheezes or crackles
+Abdomen: Soft, non-tender, non-distended, BS+, no rebound or
+guarding  
+BACK: No CVA tenderness 
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no edema  
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: AOx3, CN grossly intact

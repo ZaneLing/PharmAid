@@ -1,0 +1,22 @@
+PHYSICAL EXAM AT DISCHARGE
+==========================
+Vitals
+24 HR Data (last updated ___ @ 434)
+    Temp: 97.9 (Tm 97.9), BP: 109/66 (109-128/66-84), HR: 72
+(72-75), RR: 18, O2 sat: 99% (99-100), O2 delivery: ra
+
+Fluid Balance (last updated ___ @ 607)
+  Last 8 hours  Total cumulative 53ml
+    IN: Total 878ml, PO Amt 360ml, IV Amt Infused 518ml
+    OUT:  Total 825ml, Urine Amt 825ml
+  Last 24 hours  Total cumulative 53ml
+    IN: Total 878ml, PO Amt 360ml, IV Amt Infused 518ml
+    OUT:  Total 825ml, Urine Amt 825ml
+
+General: NAD, A&Ox3
+CV: RRR, no m/r/g
+RESP: CTAB, no respiratory distress, normal work of breathing
+Abd: soft, non-tender, no rebound or guarding
+GU: scant spotting
+Extremities: no calf tenderness, wwp, pboots on and active
+bilaterally

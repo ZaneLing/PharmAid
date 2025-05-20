@@ -1,0 +1,18 @@
+1.  Bacitracin Ointment 1 Appl TP QID  
+2.  cefaDROXil 500 mg oral BID Duration: 3 Days 
+RX *cefadroxil 500 mg 1 capsule(s) by mouth twice a day Disp #*6 
+Capsule Refills:*0 
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain - Mild  
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg 1 tablet(s) by mouth every ___ hours Disp 
+#*15 Tablet Refills:*0 
+5.  Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing, sob  
+6.  Atorvastatin 20 mg PO QPM  
+7.  Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+8.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+9.  Ipratropium Bromide Neb 1 NEB IH Q6H:PRN wheezing, sob  
+10.  Lisinopril 5 mg PO QHS  
+11.  Pantoprazole 40 mg PO Q24H

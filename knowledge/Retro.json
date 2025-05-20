@@ -1,3 +1,200 @@
 [
-    {}
+    {},
+    {
+        "timestamp": "2025-05-18 00:44:43",
+        "Guidance": [
+            "Trigger Condition: Presence of CHF exacerbation and viral URI. Recommended Action: Consider adding Enalapril for CHF management and Oseltamivir for viral URI, while avoiding unnecessary antibiotics and corticosteroids. Expected Outcome: Improved symptom control and reduced risk of exacerbation due to inappropriate medications.",
+            "Trigger Condition: Exacerbation of reactive airway disease. Recommended Action: Adjust Albuterol frequency to every 4-6 hours as needed for wheezing or shortness of breath. Expected Outcome: Better management of bronchospasm and improved airflow in reactive airway disease.",
+            "Trigger Condition: Prescription given by the hospital deviates from guideline recommendations. Recommended Action: Regularly review prescriptions to align with current guidelines and evidence-based practices. Expected Outcome: Enhanced patient safety and improved therapeutic outcomes."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 00:45:53",
+        "Guidance": [
+            "Trigger condition: Diagnosis of psychogenic non-epileptic seizures",
+            "Recommended action: Consider a multidisciplinary approach involving psychosocial interventions, cognitive-behavioral therapy, and physical therapy alongside pharmacological treatments.",
+            "Expected outcome: Improved management of psychogenic non-epileptic seizures, addressing underlying psychological factors and improving overall well-being of the patient."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 00:47:25",
+        "Guidance": [
+            "Consider the addition of muscle relaxants, nerve pain medications, and topical agents along with pain relievers for a comprehensive approach when prescribing for low back pain. This can lead to improved pain control and targeted relief for specific pain mechanisms, potentially reducing the need for higher doses of painkillers.",
+            "Adjust the dosage of acetaminophen to the specified range (500mg-1000mg every 4-6 hours) to ensure pain control while staying within the safe daily limit of 4g when prescribing acetaminophen. This can result in optimal pain relief with reduced risk of exceeding the maximum recommended dose.",
+            "Consider starting with 50 mg doses of tramadol for better pain relief, especially for moderate to severe pain, when prescribing tramadol. This adjustment can lead to improved pain management with more effective dosing, potentially reducing the need for frequent dosing."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 00:49:56",
+        "Guidance": [
+            "Trigger Condition: Diagnosis of acute hepatitis",
+            "Recommended Action: Consider hepatoprotective agents like Ursodiol and Ribavirin, vitamin supplementation, and medications for symptom management directly related to hepatitis.",
+            "Expected Outcome: Improved patient outcomes with tailored treatment for acute hepatitis, addressing symptoms and potential complications effectively."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 00:52:49",
+        "Guidance": [
+            "Trigger condition: Diagnosis of drug-induced liver injury and thyroiditis, Recommended action: Select medications that directly target the underlying conditions and support liver function, Expected outcome: Improved management of the primary diagnoses with reduced potential for drug interactions or unnecessary medications",
+            "Trigger condition: Need for intravenous administration in liver injury cases, Recommended action: Consider medications like N-acetylcysteine (NAC) for intravenous use to provide quick and effective liver support, Expected outcome: Enhanced efficacy in preventing hepatotoxicity and improving liver function in acute liver injury"
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 00:54:11",
+        "Guidance": [
+            "Consider adding medications such as famotidine, metoclopramide, sucralfate, and simethicone for a more holistic treatment approach. Improved symptom control and potentially enhanced healing and protection of the gastrointestinal system.",
+            "Regularly review and optimize the medication regimen based on patient response and symptom management. Tailored treatment plan addressing individual needs and optimizing therapeutic outcomes."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 00:55:19",
+        "Guidance": [
+            "Trigger: Diagnosis of suspected molar pregnancy. Action: Consider treatment with Methotrexate and supportive medications as per standard protocols. Outcome: Targeted therapy addressing the condition and associated symptoms.",
+            "Trigger: Need for symptom management. Action: Ensure appropriate medications are selected based on the diagnosis. Outcome: Enhanced patient care with treatment targeting the underlying cause.",
+            "Trigger: Prescription customization for molar pregnancy. Action: Carefully adjust medication plans to reflect the treatment requirements for this condition. Outcome: Improved adherence to evidence-based practices in managing suspected molar pregnancies."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 00:56:28",
+        "Guidance": [
+            "Trigger condition: When transitioning between care settings or when multiple providers are involved.",
+            "Recommended action: Ensure clear communication and documentation of reasons for medication changes to prevent omissions or duplications.",
+            "Expected outcome: Improved continuity of care and patient safety through accurate medication reconciliation and optimized therapy based on current guidelines and patient condition."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 00:57:31",
+        "Guidance": [
+            "Trigger condition: Diagnosis of diverticulitis\nRecommended action: Include appropriate antibiotics as per standard guidelines for the treatment of diverticulitis.\nExpected outcome: Ensure effective targeting and elimination of bacterial infection.\n",
+            "Trigger condition: Symptomatic pain\nRecommended action: Consider adding acetaminophen for pain relief as needed.\nExpected outcome: Improved management of discomfort associated with diverticulitis.\n",
+            "Trigger condition: Constipation risk\nRecommended action: Prescribe fiber supplements and stool softeners to prevent constipation.\nExpected outcome: Reduction in constipation-related complications and promotion of regular bowel movements."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 00:58:40",
+        "Guidance": [
+            "Trigger condition: Diagnosis of Orthostatic Hypotension\nRecommended action: Consider medications specifically targeting orthostatic hypotension such as Fludrocortisone, Midodrine, Droxidopa, Pyridostigmine, or Ephedrine.\nExpected outcome: Improvement in symptoms and better management of Orthostatic Hypotension.",
+            "Trigger condition: Need for Hormone Replacement Therapy\nRecommended action: Ensure appropriate monitoring of hormonal levels and symptom response when prescribing Levothyroxine Sodium, proGESTerone micronized, and Vivelle-Dot (estradiol).\nExpected outcome: Optimized hormone replacement therapy with effective symptom control.",
+            "Trigger condition: Vitamin D Deficiency\nRecommended action: Assess and address Vitamin D deficiency with appropriate dosing and monitoring.\nExpected outcome: Correction of Vitamin D levels and potential improvement in overall health."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:00:00",
+        "Guidance": [
+            "Trigger condition: Diagnosis of colitis with partial large bowel obstruction",
+            "Recommended action: Consider Mesalamine as first-line treatment for mild to moderate colitis before initiating antibiotic therapy, unless clinically indicated",
+            "Expected outcome: Reduced unnecessary antibiotic use and potential adverse effects",
+            "Trigger condition: Presence of nausea and vomiting in colitis with partial bowel obstruction patients",
+            "Recommended action: Add Ondansetron for nausea and vomiting management",
+            "Expected outcome: Improved symptom control without promoting constipation",
+            "Trigger condition: Diagnosis of partial large bowel obstruction with risk of dehydration",
+            "Recommended action: Administer Fluid Replacement Solution intravenously to maintain hydration",
+            "Expected outcome: Prevention of dehydration and support during obstruction",
+            "Trigger condition: Need for rapid anti-inflammatory effects in colitis with obstruction",
+            "Recommended action: Consider Dexamethasone for its anti-inflammatory properties",
+            "Expected outcome: Reduction of inflammation and symptom management with caution due to potential side effects"
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:01:50",
+        "Guidance": [
+            "Trigger condition: Diagnosis of symptomatic fibroid uterus. Recommended action: Prescribe medications like Tranexamic acid, Iron supplement, and Eszopiclone in addition to pain relief options. Expected outcome: Improved management of symptoms related to fibroid uterus including heavy menstrual bleeding, anemia prevention, and sleep disturbances.",
+            "Trigger condition: Need for pain relief in symptomatic fibroid uterus. Recommended action: Consider prescribing Ibuprofen within the appropriate dosage range for pain control. Expected outcome: Effective pain relief and reduction of inflammation associated with fibroid-related menstrual cramps.",
+            "Trigger condition: Diagnosis of heavy menstrual bleeding due to fibroids. Recommended action: Initiate treatment with Tranexamic acid to reduce blood loss during menstrual periods. Expected outcome: Reduced heavy menstrual bleeding and improved quality of life for patients with fibroids.",
+            "Trigger condition: Risk of anemia due to chronic blood loss. Recommended action: Prescribe Iron supplement to prevent or treat anemia resulting from heavy menstrual bleeding. Expected outcome: Prevention and treatment of anemia, improving overall iron levels in the body.",
+            "Trigger condition: Patient reporting sleep disturbances affected by fibroid-related discomfort. Recommended action: Consider Eszopiclone for addressing sleep disturbances due to fibroid symptoms. Expected outcome: Improved quality of sleep and overall well-being for patients experiencing sleep disturbances related to fibroids."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:02:48",
+        "Guidance": [
+            "Trigger condition: When managing fractures and pain control, Recommended action: Consider using Acetaminophen and Oxycodone for pain management, Expected outcome: Improved pain control with appropriate use of analgesics",
+            "Trigger condition: When addressing bone health in fracture patients, Recommended action: Prescribe Vitamin D at a dosage of 1000 to 2000 IU daily, Expected outcome: Enhanced support for bone healing and maintenance",
+            "Trigger condition: When managing alcohol use disorder, Recommended action: Include Disulfiram under strict supervision, Expected outcome: Support for sobriety maintenance by discouraging alcohol consumption"
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:05:36",
+        "Guidance": [
+            "- Trigger condition: Diagnosis of chest pain of possible cardiac origin\n  Recommended action: Prescribe a combination regimen including nitroglycerin, aspirin, atorvastatin, metoprolol, and omeprazole as appropriate\n  Expected outcome: Optimal management of chest pain and reduction of cardiovascular risk factors\n\n- Trigger condition: History of acid reflux or gastritis symptoms\n  Recommended action: Consider adding omeprazole to the prescription for gastroprotection\n  Expected outcome: Prevention of potential complications due to acid-related issues\n\n- Trigger condition: Lack of relief with nitroglycerin\n  Recommended action: Advise seeking immediate medical assistance\n  Expected outcome: Prompt evaluation and management of acute coronary symptoms"
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:07:20",
+        "Guidance": [
+            "Trigger condition: Diagnosis of Herpes Zoster, Recommended action: Consider including specific antiviral medications like Acyclovir, Famciclovir, or Valacyclovir in the treatment plan., Expected outcome: Optimal management of Herpes Zoster infection.",
+            "Trigger condition: Pain management in Herpes Zoster, Recommended action: Prescribe appropriate analgesics such as Ibuprofen based on pain intensity and inflammation., Expected outcome: Effective pain relief and inflammation control.",
+            "Trigger condition: Thyroid condition in Down's syndrome, Recommended action: Evaluate the need for Levothyroxine Sodium based on individual thyroid function assessment., Expected outcome: Optimal management of thyroid function in patients with Down's syndrome."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:08:51",
+        "Guidance": [
+            "Trigger condition: Diagnosis of orthostatic hypotension, CKD, and asymptomatic bacteriuria\nRecommended action: Include medications like Midodrine, Desmopressin, Nitrofurantoin, Furosemide, and Calcitriol in the treatment regimen.\nExpected outcome: Improved management of orthostatic hypotension, CKD, and asymptomatic bacteriuria with targeted therapy.",
+            "Trigger condition: Prescription review for optimization\nRecommended action: Regularly review and update the medication regimen to align with the current guidelines and the patient's clinical condition.\nExpected outcome: Enhanced medication management with a focus on relevant and effective therapies."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:11:43",
+        "Guidance": [
+            "Upon initial diagnosis of pulmonary emboli, start anticoagulation therapy with Heparin and transition to oral Warfarin while monitoring INR levels to prevent clot propagation.",
+            "If constipation is present, consider adding a suitable laxative for management to improve gastrointestinal symptoms.",
+            "For unnecessary medications for the primary diagnosis, review and streamline the medication list to focus on essential treatments for reduced polypharmacy and better treatment optimization.",
+            "When pain management is required, prescribe Acetaminophen with clear dosing instructions for effective pain control without the need for unnecessary NSAIDs."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:13:20",
+        "Guidance": [
+            "Trigger condition: Prescription for herniated nucleus pulposus, spinal cord compression, and nerve root compression.",
+            "Recommended action: Consider a holistic approach incorporating medications for pain relief, inflammation reduction, muscle relaxation, and gastrointestinal protection.",
+            "Expected outcome: Improved symptom management, enhanced patient comfort, and better overall treatment outcomes."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:14:18",
+        "Guidance": [
+            "Trigger Condition: Presence of multiple diagnoses including lung nodule, iron deficiency anemia, pneumothorax, and urinary retention.",
+            "Recommended Action: Tailor the prescription to address each diagnosis and manage symptoms effectively. Consider potential drug interactions and relevance to the patient's conditions.",
+            "Expected Outcome: Improved patient outcomes, better symptom management, reduced risk of complications, and enhanced treatment adherence."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:15:13",
+        "Guidance": [
+            "Consider adding Nitroglycerin for coronary vasospasm, Metoprolol for hypertension",
+            "Focus on essential medications over multivitamins unless specific deficiencies are identified",
+            "Simplify medication instructions for better adherence"
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:16:47",
+        "Guidance": [
+            "Trigger condition: When prescribing for abdominal pain, lung nodule, or endometrial polyp\nRecommended action: Consider adding medications targeting specific conditions such as inflammation, polyp management, and symptom relief.\nExpected outcome: Improved symptom management and targeted treatment for the underlying conditions.",
+            "Trigger condition: When adjusting pain management strategies\nRecommended action: Choose analgesics based on pain severity and consider gastrointestinal tolerability.\nExpected outcome: Effective pain relief with minimal gastrointestinal side effects.",
+            "Trigger condition: When addressing gastrointestinal symptoms associated with abdominal pain\nRecommended action: Include anti-foaming agents like simethicone for gas and bloating relief.\nExpected outcome: Reduction of gastrointestinal discomfort and improved overall symptom management."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 01:17:46",
+        "Guidance": [
+            "Prescribing for abdominal stab wounds and rectus sheath hematoma: Consider a comprehensive approach to pain management, infection prophylaxis, thrombosis prevention, and stress ulcer prevention. Expected outcome: Improved patient outcomes through targeted and effective medication regimen.",
+            "Presence of rectus sheath hematoma: Initiate thrombosis prevention with appropriate anticoagulant therapy such as Warfarin. Expected outcome: Reduction in the risk of complications related to clot formation in the hematoma.",
+            "Assessment of pain severity: Use a combination of opioid and non-opioid analgesics for effective pain management. Expected outcome: Optimal pain relief with reduced risk of adverse effects."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 04:15:47",
+        "Guidance": [
+            "Prescribing for abdominal stab wounds and rectus sheath hematoma: Consider a comprehensive approach to pain management, infection prophylaxis, thrombosis prevention, and stress ulcer prevention. Expected outcome: Improved patient outcomes through targeted and effective medication regimen.",
+            "Presence of rectus sheath hematoma: Initiate thrombosis prevention with appropriate anticoagulant therapy such as Warfarin. Expected outcome: Reduction in the risk of complications related to clot formation in the hematoma.",
+            "Assessment of pain severity: Use a combination of opioid and non-opioid analgesics for effective pain management. Expected outcome: Optimal pain relief with reduced risk of adverse effects."
+        ]
+    },
+    {
+        "timestamp": "2025-05-18 07:17:48",
+        "Guidance": [
+            "[\"If a patient has diverticulitis and renal cyst, consider adding Torsemide to manage fluid overload.\", \"When modifying medications for patients with diverticulitis, prioritize reducing inflammation and controlling pain and infection with Prednisone and Meloxicam.\", \"For patients with renal cysts, ensure that kidney function is protected by maintaining Lisinopril therapy at 10 mg orally once a day.\"]"
+        ]
+    }
 ]

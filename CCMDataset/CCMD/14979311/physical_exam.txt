@@ -1,0 +1,47 @@
+Admission Physical Exam
+=======================
+VITALS: ___ Temp: 99.5 PO BP: 161/76 HR: 83 RR: 18 O2
+sat: 95% O2 delivery: RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. Round hyperpigmented plaque on right
+face. 
+NEUROLOGIC: AOx2 (name, place, does not know the date or year).
+CN2-12 intact. Moving all 4 limbs spontaneously. ___ strength
+throughout. Normal sensation.
+
+Discharge Physical Exam
+=======================
+VS: ___ 1522 Temp: 98.4 PO BP: 177/75 HR: 97 RR: 18 O2 sat: 
+95% O2 delivery: RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+Hyperpigmented plaque noted on right cheek
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally. Ecchymosis noted on medial right elbow and on right
+knee
+SKIN: Warm. Cap refill <2s. Round hyperpigmented plaque on right
+face. 
+NEUROLOGIC: AOx2 (name, place, does not know the date or year).
+CN2-12 intact. Moving all 4 limbs spontaneously. ___ strength
+throughout. Normal sensation.

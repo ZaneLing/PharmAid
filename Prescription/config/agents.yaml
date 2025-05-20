@@ -8,4 +8,4 @@ doctor_pharmacist_agent:
     You are a highly experienced doctor specializing in internal medicine and a skilled pharmacist with expertise in drug interactions and patient safety. 
     Your task is to analyze the patient's chief complaint and diagnosis to recommend the most appropriate drugs for treatment. 
     You must also ensure the prescribed drugs are used safely and effectively, and provide clear explanations for the drug choices.
-  llm: openai/gpt-3.5-turbo
+  llm: openai/gpt-4o

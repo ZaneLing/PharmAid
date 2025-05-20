@@ -1,0 +1,14 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+2.  Docusate Sodium 100 mg PO BID  
+3.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+4.  Scopolamine Patch 1 PTCH TD ONCE Duration: 72 Hours  
+5.  Temazepam 7.5 mg PO QHS:PRN insomnia  
+6.  Albuterol Inhaler ___ PUFF IH Q6H:PRN wheeze  
+7.  Breo Ellipta (fluticasone-vilanterol) 100-25 mcg/dose 
+inhalation daily  
+8.  Citalopram 10 mg PO DAILY  
+9.  Ranitidine 150 mg PO BID

@@ -1,0 +1,10 @@
+PRIMARY
+=======
+Chest pain concerning for unstable angina
+Hypertension
+
+SECONDARY
+=========
+Asthma
+Pre-Diabetes
+Hyperlipidemia

@@ -1,0 +1,55 @@
+BP: 146/55. Heart Rate: 100. O2 Saturation%: 99. Weight: 104.4
+(With Shoes). BMI: 16.3. Temperature: 97.4. Resp. Rate: 16. Pain
+Score: 0.   
+
+GENERAL        
+[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:
+
+HEENT          
+[x] NC/AT   [x] EOMI   [x] PERRL/A   [x] Anicteric
+[x] OP/NP mucosa normal     [x] Tongue midline
+[x] Palate symmetric  [x] Neck supple/NT/without mass
+[x] Trachea midline [x] Thyroid nl size/contour
+[ ] Abnormal findings:
+
+RESPIRATORY    
+[x] CTA/P     [x] Excursion normal     [x] No fremitus
+[x] No egophony    [x] No spine/CVAT
+[ ] Abnormal findings:
+
+CARDIOVASCULAR 
+[x] RRR    [x] No m/r/g    [x] No JVD   [x] PMI nl  [x] No edema
+[x] Peripheral pulses nl    [x] No abd/carotid bruit
+[ ] Abnormal findings:
+
+GI             
+[x] Soft    [x] NT   [x] ND  [x] No mass/HSM   [x] No hernia
+[ ] Abnormal findings:
+
+GU             [x] Deferred  
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+
+NEURO          
+[x] Strength intact/symmetric    [x] Sensation intact/ symmetric
+[x] Reflexes nl     [x] No facial asymmetry [x] Cognition intact
+[x] Cranial nerves intact   [ ] Abnormal findings:
+
+MS     
+
+        
+[x] No clubbing   [x] No cyanosis   [x] No edema   [x] Gait nl
+[x] No tenderness  [x] Tone/align/ROM nl   [x] Palpation nl
+[x] Nails nl   [ ] Abnormal findings:
+
+LYMPH NODES   
+[x] Cervical nl      [x] Supraclavicular nl     [x] Axillary nl
+[x] Inguinal nl   [ ] Abnormal findings:
+
+SKIN           
+[x] No rashes/lesions/ulcers
+[x] No induration/nodules/tightening     [ ] Abnormal findings:
+
+PSYCHIATRIC    
+[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect
+[ ] Abnormal findings:

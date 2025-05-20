@@ -1,0 +1,44 @@
+1.  Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing, 
+shortness of breath 
+RX *albuterol sulfate 2.5 mg/3 mL (0.083 %) 1 vial neb every 
+four (4) hours Disp #*30 Vial Refills:*1 
+2.  Omeprazole 20 mg PO DAILY 
+Take this medication as long as you are on prednisone. 
+RX *omeprazole 20 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*1 
+3.  PredniSONE 50 mg PO DAILY Duration: 3 Doses 
+Start: ___, First Dose: First Routine Administration Time 
+This is dose # 1 of 6 tapered doses
+RX *prednisone 10 mg ___ tablet(s) by mouth once a day Disp #*45 
+Tablet Refills:*0 
+4.  PredniSONE 40 mg PO DAILY Duration: 3 Doses 
+Start: After 50 mg DAILY tapered dose 
+This is dose # 2 of 6 tapered doses 
+5.  PredniSONE 30 mg PO DAILY Duration: 3 Doses 
+This is dose # 3 of 6 tapered doses 
+6.  PredniSONE 20 mg PO DAILY Duration: 3 Doses 
+This is dose # 4 of 6 tapered doses 
+7.  PredniSONE 20 mg PO DAILY Duration: 3 Doses 
+This is dose # 5 of 6 tapered doses 
+8.  PredniSONE 10 mg PO DAILY Duration: 3 Doses 
+Start: After 20 mg DAILY tapered dose 
+This is dose # 6 of 6 tapered doses 
+9.  Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath 
+RX *albuterol sulfate [ProAir HFA] 90 mcg 2 puffs inhaled every 
+four (4) hours Disp #*1 Inhaler Refills:*0 
+10.  Aspirin 81 mg PO DAILY  
+11.  Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*90 Capsule Refills:*0 
+12.  Fluticasone Propionate 110mcg 2 PUFF IH BID 
+RX *fluticasone [Flovent HFA] 110 mcg/actuation 2 puffs inhaled 
+twice a day Disp #*1 Inhaler Refills:*0 
+13.  Guaifenesin-CODEINE Phosphate ___ mL PO Q6H:PRN cough  
+14.  MetFORMIN XR (Glucophage XR) 500 mg PO DAILY  
+15.  Multivitamins 1 TAB PO DAILY  
+16.  Vitamin D ___ UNIT PO DAILY  
+17.Nebulizer
+Nebulizer
+Dx: 493.9 (ICD-9) / J45.9 (ICD-10)
+Prognosis: good
+Length of need: 12 months

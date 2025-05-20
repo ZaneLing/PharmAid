@@ -1,0 +1,49 @@
+PE: 
+VS98.1 Temp, BP104/65 HR87 RR18 O2sats93 Ra 
+
+NAD, A&Ox4
+nl resp effort
+RRR
+Incision: dsg c/d/I, HVAC removed
+  
+Sensory:
+UE 
+       C5         C6           C7        C8           T1
+     (lat arm)  (thumb)     (mid fing) (sm finger)  (med arm)
+R     SILT       SILT        SILT        SILT         SILT
+L     SILT       SILT        SILT        SILT         SILT
+
+T2-L1 (Trunk) 
+       SILT
+
+___    
+     L2     L3      L4         L5        S1          S2
+   (Groin) (Knee) (Med Calf) (Grt Toe) (Sm Toe) (Post Thigh)
+R    SILT   SILT    SILT       SILT     SILT       SILT 
+L    SILT   SILT    SILT       SILT     SILT       SILT 
+
+Motor:
+UE   Dlt(C5) Bic(C6) WE(C6) Tri(C7) WF(C7) FF(C8)FinAbd(T1)
+R      5       5       5      5       5      5     5
+L      5       5       5      5       5      5     5
+
+___  Flex(L1) Add(L2) Quad(L3)  TA(L4) ___ ___
+R      5       5       5         5      5      5         5      
+L      5       5       5         5      5      5         5
+
+Labs:
+___: WBC: 14.8*
+___: HGB: 13.6*
+___: HCT: 40.2
+___: Plt Count: 196
+___: Neuts%: 67.8
+___: Na: 141 (New reference range as of ___: K: 4.6
+___: Cl: 104
+___: CO2: 25
+___: Glucose: 158* (If fasting, 70-100 normal, >125
+provisional diabetes)
+___: BUN: 12
+___: Creat: 0.7
+___: ___: 11.4
+___: INR: 1.1
+___: PTT: 29.3

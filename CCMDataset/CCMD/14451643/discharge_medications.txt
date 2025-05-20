@@ -1,0 +1,12 @@
+1.  Albuterol Inhaler 2 PUFF IH Q6H:PRN dyspnea  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain - Moderate 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*40 Tablet Refills:*0 
+4.  Tamsulosin 0.4 mg PO QHS 
+RX *tamsulosin [Flomax] 0.4 mg 1 capsule(s) by mouth daily Disp 
+#*30 Capsule Refills:*1 
+5.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+RX *tramadol 50 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*40 Tablet Refills:*0 
+6.Restart home medications

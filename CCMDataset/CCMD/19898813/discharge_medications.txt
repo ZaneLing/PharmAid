@@ -1,9 +1,0 @@
-1.  Acetaminophen 650 mg PO TID 
-RX *acetaminophen 500 mg ___ tablet(s) by mouth q6h PRN Disp 
-#*240 Tablet Refills:*0 
-2.  Aspirin 81 mg PO DAILY 
-RX *aspirin [Adult Aspirin Regimen] 81 mg 1 tablet(s) by mouth 
-once a day Disp #*30 Tablet Refills:*0 
-3.  Colchicine 0.6 mg PO DAILY 
-RX *colchicine 0.6 mg 1 tablet(s) by mouth once a day Disp #*30 
-Capsule Refills:*0

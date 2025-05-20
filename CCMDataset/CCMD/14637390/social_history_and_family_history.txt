@@ -1,0 +1,29 @@
+Lives with several of her daughters on different days of the 
+week
+while in the ___.  She spends half the year in ___ and 
+plans
+to go back in ___.  She uses a cane, but otherwise is
+independent and cooks and cleans on her own.  When in ___
+she is the sole caretaker of her husband.  
+ 
+- Modified Rankin Scale:
+[] 0: No symptoms
+[] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+[x] 3: Moderate disability: requires some help but able to walk
+unassisted
+[] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+[] 6: Dead
+Unknown 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Orthostatics:
+Supine: HR 58, BP 135/57 
+Sitting: HR 63, BP 141/68 
+Standing: HR 63, BP 134/68

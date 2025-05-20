@@ -1,7 +1,7 @@
 import os
 import shutil
 from crewai.project import CrewBase, agent, task, crew, before_kickoff, after_kickoff
-from crewai import Agent, Task, Crew, Process
+from crewai import Agent, Task, Crew, Process, LLM
 from langchain_openai import ChatOpenAI
 import sys
 from textwrap import dedent
@@ -12,11 +12,18 @@ from dotenv import load_dotenv
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
+import warnings
+warnings.filterwarnings(
+    "ignore",
+    message="Use 'content=<...>' to upload raw bytes/text content",
+    category=DeprecationWarning,
+    module="httpx._models"
+)
 
-# 加载环境变量
-load_dotenv()
-oak = os.getenv("OPENAI_API_KEY")
-os.environ["OPENAI_API_KEY"] = oak
+# # 加载环境变量
+# load_dotenv()
+# oak = os.getenv("OPENAI_API_KEY")
+# os.environ["OPENAI_API_KEY"] = oak
 
 
 # 定义输出数据模型
@@ -38,7 +45,9 @@ class Drug_Patient_Interaction_Crew():
         """Agent 用于分析药物与患者之间的交互"""
         return Agent(
             config=self.agents_config['drug_patient_interaction_analyzer'],
-            verbose=True
+            verbose=True,
+            llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434")
+
         )
     
     @task

@@ -1,0 +1,10 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet by mouth once a day Disp #*28 Tablet 
+Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*50 Tablet Refills:*0

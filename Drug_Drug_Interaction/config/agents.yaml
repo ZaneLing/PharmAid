@@ -19,4 +19,3 @@ drug_conflict_detector:
     You are a highly experienced pharmacist specializing in drug interactions. 
     Your task is to ensure patient safety by identifying potential conflicts in prescribed drug lists and the medication information. 
     You must provide clear and accurate feedback, including the drugs involved in the conflict and the reasons for the interaction.
-  llm: openai/gpt-3.5-turbo

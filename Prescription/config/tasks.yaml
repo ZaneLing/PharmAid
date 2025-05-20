@@ -8,7 +8,7 @@ generate_prescription_task:
     4. DPI Feedback: {DPI}
 
     Please analysis the diagnosis, and take the DDI, DPI into account, and then generate a drug prescription.
-    You MUST generate at least five drugs in the prescription.
+    You MUST generate at least FIVE drugs in the prescription.
 
     Please follow these principles:
     1. Consider all comorbidities and ensure existing medications are continued unless contraindicated.
@@ -16,7 +16,6 @@ generate_prescription_task:
     3. Add medications to preventing complications.
     4. The prescription needs to maintain the patient's previous medication for chronic diseases.
     
-    There is a knowledge database that contains the guidances and retrospections of the previous prescriptions, which can be used as a reference for the current prescription.
     If there is a previous prescription, please analyze it and take DDI conflicts and DPI conflicts into account.
 
     Here is your output format:

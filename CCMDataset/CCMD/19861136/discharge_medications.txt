@@ -1,9 +1,0 @@
-1.  Colchicine 0.6 mg PO BID 
-RX *colchicine 0.6 mg 1 tablet(s) by mouth Twice daily Disp 
-#*180 Tablet Refills:*0 
-2.  Ibuprofen 600 mg PO Q8H Duration: 1 Week 
-RX *ibuprofen 600 mg 1 tablet(s) by mouth Three times daily Disp 
-#*21 Tablet Refills:*0 
-3.  Omeprazole 20 mg PO DAILY Duration: 1 Week 
-RX *omeprazole 20 mg 1 capsule(s) by mouth Daily Disp #*7 
-Capsule Refills:*0

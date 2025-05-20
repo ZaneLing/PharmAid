@@ -1,0 +1,41 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: 24 HR Data (last updated ___ @ 1617)
+    Temp: 99.1 (Tm 99.1), BP: 107/69, HR: 92, RR: 17, O2 sat:
+97%, O2 delivery: Ra  
+GENERAL: Alert and interactive. In significant discomfort
+initially, though becomes much more subdued after administration
+of IV Dilaudid
+EYES: NCAT. PERRL, EOMI. Sclera anicteric and without injection.
+ENT: MMM. No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender.
+MSK: No spinous process tenderness. Erythema and edema inferior
+to left knee, anterior to patella. Pustule present anterior to
+patella. No crepitus. Pain with active and passive flexion
+extension of knee. R knee without erythema or edema, normal ROM.
+No discomfort with dorsi/plantarflexion. 
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: AOx3. CN2-12 grossly intact
+PSYCH: appropriate mood and affect, in significant pain
+
+DISCHARGE EXAM
+===============
+VSS
+GENERAL: Alert and interactive. In significant discomfort this 
+AM
+writhing and screaming in pain. 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender.
+MSK:  Erythema and edema inferior to left knee, anterior to 
+patella.  R knee without erythema or edema, normal ROM. No 
+discomfort with dorsi/plantarflexion. 
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: AOx3. CN2-12 grossly intact
+PSYCH: appropriate mood and affect, in significant pain

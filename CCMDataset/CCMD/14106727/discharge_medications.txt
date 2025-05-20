@@ -1,0 +1,20 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+3.  Lisinopril 2.5 mg PO DAILY 
+RX *lisinopril 2.5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+5.  Polyethylene Glycol 17 g PO BID:PRN Constipation - Third 
+Line 
+RX *polyethylene glycol 3350 [Miralax] 17 gram/dose 1 dose by 
+mouth once a day Refills:*0 
+6.  TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+7.  Istalol (timolol maleate) 0.5 % ophthalmic (eye) BID

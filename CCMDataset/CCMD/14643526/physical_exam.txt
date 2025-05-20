@@ -1,0 +1,26 @@
+Admission Physical Exam: 
+==========================
+98.2 66 175/108 16 100% RA 
+GEN: A&Ox3, NAD
+HEENT: NCAT, EOMI, anicteric
+CV: RRR
+PULM: no respiratory distress, unlabored respirations
+ABD: soft, non-distended, incarcerated hernia superior to the
+umbilicus, no overlying skin changes
+PELVIS: deferred
+EXT: WWP, no edema
+NEURO: A&Ox3, no focal neurologic deficits
+DERM: no rashes/lesions/ulcers
+
+Discharge Physical Exam: 
+==========================
+VS: 97.___
+GEN: A&Ox3, NAD
+HEENT: NCAT, EOMI, anicteric
+CV: RRR
+PULM: no respiratory distress, unlabored respirations
+ABD: soft, non-distended, repaired hernia superior to the
+umbilicus, dressings CDI
+EXT: WWP, no edema
+NEURO: A&Ox3, no focal neurologic deficits
+DERM: no rashes/lesions/ulcers

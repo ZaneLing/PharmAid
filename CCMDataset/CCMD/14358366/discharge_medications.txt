@@ -1,0 +1,18 @@
+1.  Acetaminophen 650 mg PO Q4H:PRN Pain - Mild/Fever  
+2.  Ciprofloxacin HCl 500 mg PO BID 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*4 Tablet Refills:*0 
+3.  Culturelle (Lactobacillus rhamnosus GG) 10 billion cell oral 
+DAILY 
+RX *Lactobacillus rhamnosus GG [Culturelle] 10 billion cell 1 
+capsule(s) by mouth once a day Disp #*30 Capsule Refills:*0 
+4.  MetroNIDAZOLE 500 mg PO Q8H 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*6 Tablet Refills:*0 
+5.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals  1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+6.  Vancomycin Oral Liquid ___ mg PO QID 
+RX *vancomycin 125 mg 1 capsule(s) by mouth four times a day 
+Disp #*49 Capsule Refills:*0 
+7.  Ranitidine 150 mg PO DAILY

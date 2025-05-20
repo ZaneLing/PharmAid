@@ -1,0 +1,60 @@
+generate_prescription_task:
+  description: >
+    Generate a prescription based on 
+    1. the given patient diagnosis: {diagnose} 
+    2. the base information of the patient: {patient_info}.
+    The output should be a list of drug names that are recommended for the patient.
+
+    Here are some examples:
+    1 Patient Information:
+    - Age: 68 years old
+    - Gender: Male
+    - Weight: 75 kg
+    - Allergies: None
+    - Past Medical History: Hypertension, Type 2 diabetes mellitus
+    - Current Diagnosis: Exacerbation of chronic heart failure, viral upper respiratory infection
+
+    Medication Prescription:
+    - Furosemide 40 mg oral once daily
+    - Enalapril 5 mg oral twice daily
+    - Metoprolol 25 mg oral twice daily
+    - Dextromethorphan 30 mg oral every 6 hours as needed for cough
+    - Acetaminophen 500 mg oral every 6 hours as needed for fever or pain
+
+    2 Patient Information:
+    - Age: 72 years old
+    - Gender: Female
+    - Weight: 65 kg
+    - Allergies: Penicillin
+    - Past Medical History: Hypertension, Osteoarthritis, Hyperlipidemia
+    - Current Diagnosis: Acute exacerbation of COPD, Gastroesophageal reflux disease (GERD)
+
+    Medication Prescription:
+    - Prednisone 40 mg oral once daily for 5 days
+    - Albuterol inhaler 2 puffs every 4-6 hours as needed
+    - Omeprazole 20 mg oral once daily
+    - Gabapentin 300 mg oral at bedtime
+    - Simvastatin 40 mg oral at bedtime
+
+    3 Patient Information:
+    - Age: 60 years old
+    - Gender: Male
+    - Weight: 70 kg
+    - Allergies: None
+    - Past Medical History: Hypertension, Type 2 diabetes mellitus, Chronic kidney disease stage 3
+    - Current Diagnosis: Poorly controlled diabetes, Hyperlipidemia
+
+    Medication Prescription:
+    - Metformin 1000 mg oral twice daily
+    - Glimepiride 2 mg oral once daily
+    - Lisinopril 10 mg oral once daily
+    - Amlodipine 5 mg oral once daily
+    - Atorvastatin 20 mg oral at bedtime
+    - Acetaminophen 500 mg oral every 6 hours as needed for pain
+
+    You only have to output the drugname list, that's enough.
+  expected_output: >
+    A structured JSON file containing:
+    - DrugName: A list of drug names recommended for the patient.
+  agent: prescription_agent
+  output_file: output/prescription.json

@@ -1,0 +1,46 @@
+Admission Physical Exam:
+=======================
+VS: ___ 0121 Temp: 98.2 PO BP: 149/68 HR: 97 RR: 18 O2 sat:
+99% O2 delivery: RA 
+___ 0152 Dyspnea: 0 RASS: 0 Pain Score: ___ 
+GEN: Delightful male, alert and interactive, comfortable, no
+acute distress
+HEENT: PERRL, anicteric, conjunctiva pink, oropharynx without
+lesion or exudate, moist mucus membranes
+LYMPH: no anterior/posterior cervical, supraclavicular 
+adenopathy
+CARDIOVASCULAR: Regular rate and rhythm without murmurs, rubs, 
+or
+gallops
+LUNGS: clear to auscultation bilaterally without rhonchi,
+wheezes, or crackles
+GI: soft, firm LUQ mass is tender to palpation, without
+rebounding or guarding, nondistended with normal active bowel
+sounds, liver margin palpated 2 cm below costal margin
+EXTREMITIES: LLE nonpitting edema with calf TTP without palpable
+cord
+GU: no foley, no inguinal lymphadenopathy
+SKIN: bilateral LEs with scaling, dry skin
+NEURO: alert and interactive, cranial nerves II-XII grossly
+intact, strength and sensation grossly intact
+PSYCH: normal mood and affect
+
+Discharge Physical Exam
+=======================
+24 HR Data (last updated ___ @ 737)
+Temp: 98.0 (Tm 99.1), BP: 136/72 (113-136/68-73), HR: 82 
+(82-90),
+RR: 18, O2 sat: 98%, O2 delivery: Ra  
+GEN: Sitting up in bed, pleasant, NAD.
+HEENT: MMM, OP clear
+CARDIOVASCULAR: RRRR, nl S1, S2, no m/r/g
+LUNGS: CTAB, no accessory muscle use
+GI: soft, firm LUQ mass is tender to palpation, without
+rebounding or guarding, nondistended with normal active bowel
+sounds
+EXTREMITIES: trace LLE nonpitting edema with calf TTP without
+palpable cord
+SKIN: bilateral LEs with scaling, dry skin
+NEURO: AOx3, cranial nerves II-XII grossly intact, strength and
+sensation grossly intact
+PSYCH: normal mood and affect

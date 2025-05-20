@@ -1,0 +1,11 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*3 
+2.  Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*3 
+3.  Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN wheezing  
+4.  Atorvastatin 20 mg PO QPM  
+5.  Celecoxib 200 mg oral PRN ankle pain  
+6.  ClonazePAM 0.5 mg PO TID:PRN anxiety  
+7.  Ferrous Sulfate 325 mg PO DAILY

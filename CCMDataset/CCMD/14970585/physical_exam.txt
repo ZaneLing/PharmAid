@@ -1,0 +1,26 @@
+ADMISSION Physical:
+===================
+VITALS: 97.9 131/75 90 18 98% RA  
+GENERAL: pleasant, well appearing in no acute distress
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no 
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: No elevated JVP  
+CARDIAC: RRR. S1, S2. No mrg. No tenderness to palpation
+LUNGS: CTA B/l
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: Warm, well perfused. No ___ edema 
+NEURO: AOx3. CN II-XII grossly intact. Moving all 4 extremities 
+spontaneously
+
+DISCHARGE Physical:
+==================
+VITALS: 97.9 131/75 90 18 98% RA  
+GENERAL: pleasant, well appearing in no acute distress
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. 
+NECK: No elevated JVP  
+CARDIAC: RRR. S1, S2. No mrg. No tenderness to palpation
+LUNGS: CTA B/l, noisy upper airway sounds.
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: Warm, well perfused. No ___ edema 
+NEURO: AOx3. CN II-XII grossly intact. Moving all 4 extremities
+spontaneously

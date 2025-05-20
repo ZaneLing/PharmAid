@@ -1,0 +1,38 @@
+ADMISSION PHYSICAL EXAM:
+============================
+VS: ___ 0422 Temp: 97.4 PO BP: 111/72 R Sitting HR: 48 RR:
+17 O2 sat: 99% O2 delivery: Ra 
+GENERAL: NAD
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, no JVD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, mild ttp in RLQ, no rebound/guarding, no
+hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DISCHARGE PHYSICAL EXAM:
+=============================
+VS: 24 HR Data (last updated ___ @ 2349)
+    Temp: 97.8 (Tm 98.8), BP: 96/58 (93-109/56-68), HR: 46
+(46-55), RR: 20 (___), O2 sat: 98% (97-98)  
+GENERAL: NAD
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, no JVD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, mild ttp in RLQ, no rebound/guarding, no
+hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes

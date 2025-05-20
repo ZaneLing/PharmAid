@@ -1,0 +1,23 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*180 Tablet Refills:*0 
+2.  Creon 12 3 CAP PO TID W/MEALS 
+RX *lipase-protease-amylase [Creon] 12,000 unit-38,000 
+unit-60,000 unit 3 capsule(s) by mouth three times a day Disp 
+#*270 Capsule Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+4.  Fentanyl Patch 100 mcg/h TD Q72H 
+RX *fentanyl 100 mcg/hour Apply 1 patch q72h Disp #*2 Patch 
+Refills:*0 
+5.  Senna 8.6 mg PO BID 
+RX *sennosides 8.6 mg 1 tablet by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+6.  Citalopram 20 mg PO DAILY 
+RX *citalopram [Celexa] 10 mg 2 tablet(s) by mouth once daily 
+Disp #*60 Tablet Refills:*0 
+7.  OxyCODONE (Immediate Release) 15 mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 15 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0

@@ -1,0 +1,22 @@
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  Docusate Sodium 100 mg PO BID:PRN Constipation - First Line 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*10 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - Severe 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*10 Tablet Refills:*0 
+4.  Magnesium Oxide 000 mg PO DAILY  
+5.  Albuterol Inhaler ___ PUFF IH ASDIR  
+6.  BuPROPion 200 mg PO DAILY  
+7.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*10 Tablet Refills:*0 
+8.  cyanocobalamin (vitamin B-12) 1,000 mcg sublingual DAILY  
+9.  Diltiazem Extended-Release 180 mg PO DAILY  
+10.  Ferrous Sulfate 18 mg oral DAILY  
+11.  FLUoxetine 60 mg PO DAILY  
+12.  MetroNIDAZOLE 500 mg PO TID 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*15 Tablet Refills:*0 
+13.  Multivitamins W/minerals 1 TAB PO BID  
+14.  TraZODone 75 mg PO QHS

@@ -1,0 +1,26 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Do not exceed 4000 mg in a day 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth Q6HR Disp #*20 
+Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+Hold for loose stools 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*15 Capsule Refills:*0 
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Take with food. Do not exceed 2400 mg in a day  
+RX *ibuprofen 600 mg 1 tablet(s) by mouth Q6HR Disp #*30 Tablet 
+Refills:*1 
+4.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe 
+Do not drink and drive. ___ cause sedation. Partial fill upon 
+request  
+RX *oxycodone 5 mg 1 tablet(s) by mouth Q4HR Disp #*10 Tablet 
+Refills:*0 
+5.  BuPROPion 75 mg PO DAILY  
+6.  ClonazePAM 1 mg PO Q12H:PRN anxiety   
+7.  DULoxetine 60 mg PO AM  
+8.  DULoxetine 30 mg PO ___  
+9.  Gabapentin 1200 mg PO TID

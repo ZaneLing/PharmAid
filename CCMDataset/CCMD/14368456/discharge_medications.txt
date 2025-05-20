@@ -1,0 +1,21 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO
+RX *acetaminophen [Acetaminophen Pain Relief] 500 mg ___ 
+tablet(s) by mouth every 6 hours as needed Disp #*50 Tablet 
+Refills:*1 
+2.  Ascorbic Acid ___ mg PO BID 
+take along with iron supplement 
+RX *ascorbic acid (vitamin C) 500 mg 1 tablet(s) by mouth twice 
+per day Disp #*60 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice per day 
+Disp #*30 Capsule Refills:*1 
+4.  Ferrous Sulfate 325 mg PO BID 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+twice per day Disp #*60 Tablet Refills:*0 
+5.  Citalopram 40 mg PO DAILY  
+6.  Diazepam 5 mg PO DAILY  
+7.  Levothyroxine Sodium 112 mcg PO DAILY  
+8.  Omeprazole 40 mg PO BID  
+9.  Topiramate (Topamax) 200 mg PO DAILY

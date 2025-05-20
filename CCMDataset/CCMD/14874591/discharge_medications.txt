@@ -1,0 +1,20 @@
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Naproxen 500 mg PO Q12H:PRN Pain - Moderate Duration: 4 Days 
+
+RX *naproxen 500 mg 1 tablet(s) by mouth BID PRN Disp #*8 Tablet 
+Refills:*0 
+4.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth daily Disp #*10 
+Capsule Refills:*0 
+5.  Senna 8.6 mg PO DAILY  
+6.  Simethicone 40-80 mg PO QID:PRN gas pain  
+7.  TraMADol ___ mg PO Q4H:PRN Pain - Moderate 
+RX *tramadol 50 mg ___ tablet(s) by mouth q6h PRN Disp #*16 
+Tablet Refills:*0 
+8.  amLODIPine 5 mg PO DAILY  
+9.  Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP RIGHT EYE BID  
+10.  Latanoprost 0.005% Ophth. Soln. 1 DROP RIGHT EYE QHS  
+11.Outpatient Physical Therapy
+ICD: M51.27. Pediatric rolling walker. Duration: 13 months, 
+Prognosis: good

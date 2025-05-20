@@ -1,0 +1,29 @@
+generate_prescription_task:
+  description: >
+    Generate a prescription based on 
+    1. the given patient diagnosis: {diagnose} 
+    2. the base information of the patient: {patient_info}.
+    The output should be a list of drug names that are recommended for the patient.
+
+    You are a multi‑branch reasoning system that formulates safe and effective prescriptions.
+    Reasoning and Action:
+    1. **Set the objective**:
+      - Manage the exacerbation of chronic heart failure and provide symptomatic relief for the viral upper respiratory infection.
+    2. **Identify key factors**:
+      - The patient's age, weight, and comorbidities such as hypertension and diabetes.
+      - The current diagnoses and the need to avoid unnecessary antibiotics.
+    3. **Determine the appropriate medications**:
+      - For heart failure: Furosemide, enalapril, and metoprolol.
+      - For symptomatic relief of viral URI: Dextromethorphan and acetaminophen.
+    4. **Consider drug interactions and precautions**:
+      - Check for potential interactions between the medications.
+      - Ensure appropriate dosing based on the patient's renal function and other health conditions.
+    5. **Take action**:
+   - Prescribe the selected medications with clear instructions and dosing schedules.
+
+    You only have to output the drugname list, that's enough.
+  expected_output: >
+    A structured JSON file containing:
+    - DrugName: A list of drug names recommended for the patient.
+  agent: prescription_agent
+  output_file: output/prescription.json

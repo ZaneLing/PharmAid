@@ -1,0 +1,9 @@
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  TraMADol 50 mg PO Q8H 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *tramadol 50 mg 1 tablet(s) by mouth three times a day Disp 
+#*5 Tablet Refills:*0 
+3.  ALPRAZolam 0.25 mg PO QHS:PRN Anxiety  
+4.  olopatadine 0.1 % ophthalmic (eye) BID  
+5.  Ranitidine 300 mg PO QHS

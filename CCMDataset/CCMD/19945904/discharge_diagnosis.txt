@@ -1,8 +1,0 @@
-PRIMARY:
-- Urinary tract infection
-- Mechanical fall
-
-SECONDARY:
-- History of deep vein thrombosis
-- History of cerebral vascular accident
-- Depression

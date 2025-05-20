@@ -1,0 +1,40 @@
+ADMISSION PHYSICAL EXAM:  
+========================
+VITALS:  ___ 2241 Temp: 97.7 PO BP: 139/74 HR: 78 RR: 18 O2
+sat: 95% O2 delivery: Ra 
+
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Both lower extremities with diffuse, slight erythema, tight
+1+ pitting edema. LLE > RLE, negative ___ sign
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally.
+
+DISCHARGE PHYSICAL EXAM: 
+========================
+24 HR Data (last updated ___ @ 805)
+    Temp: 97.8 (Tm 98.1), BP: 141/82 (131-146/68-84), HR: 78
+(55-78), RR: 18 (___), O2 sat: 96% (94-99), O2 delivery: Ra,
+Wt: 266.53 lb/120.9 kg  
+General: Alert, oriented, no acute distress  
+HEENT: MMM, JVP not elevated 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops, heaves
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound or guarding  
+GU: No foley  
+Ext: Both lower extremities with diffuse, slight erythema, tight
+1+ pitting edema LLE > RLE
+Skin: Warm, dry, no rashes or notable lesions. 
+Neuro: AAOx3

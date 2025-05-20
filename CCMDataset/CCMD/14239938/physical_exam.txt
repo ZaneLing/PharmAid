@@ -1,0 +1,35 @@
+ADMISSION PHYSICAL EXAM:
+========================
+Vitals: 
+HR: 57 BP: 152/83 RR: 16 SpO2: 98
+General: Awake, cooperative, NAD. ___ speaking only
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no nuchal rigidity
+Pulmonary: cta bilaterally 
+Cardiac: warm and well perfused
+Abdomen: soft, NT/ND, no masses or organomegaly noted.
+Extremities: No cyanosis, clubbing or edema bilaterally
+Skin: no rashes or lesions noted.
+Neuro: CN II-XII grossly in tact. ___ strength in BLE and BUE,
+DTR 2+ at biceps, DP, ___
+
+DISCHARGE PHYSICAL EXAM:
+========================
+PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 1113)
+    Temp: 98.2 (Tm 98.3), BP: 130/80 (124-155/67-80), HR: 78
+(52-78), RR: 18 (___), O2 sat: 97% (94-97), O2 delivery: RA,
+Wt: 179.01 lb/81.2 kg   
+General: Awake, cooperative, NAD. ___ speaking only
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no nuchal rigidity
+Pulmonary: cta bilaterally 
+Cardiac: warm and well perfused, rrr, soft systolic murmur
+appreciated
+Abdomen: soft, NT/ND, no masses or organomegaly noted.
+Extremities: No cyanosis, clubbing or edema bilaterally
+Skin: no rashes or lesions noted.
+Neuro: CN II-XII grossly in tact. ___ strength in BLE and BUE,
+DTR 2+ at biceps, DP, ___

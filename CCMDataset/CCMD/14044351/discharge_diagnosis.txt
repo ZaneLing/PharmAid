@@ -1,0 +1,7 @@
+PRIMARY:
+- Upper gastrointestinal bleed
+- Acute blood loss anemia
+
+SECONDARY:
+- Rib fracture
+- Asthma

@@ -1,0 +1,49 @@
+___
+non-contributory
+ 
+Physical Exam:
+Examination on discharge:
+alert and oriented x3 
+ambulatory
+  D B T Gr IP Q H AT ___ G
+R ___   5
+L ___   5
+ 
+Pertinent Results:
+___ 08:40AM   GLUCOSE-102* UREA N-9 CREAT-0.8 SODIUM-135 
+POTASSIUM-4.7 CHLORIDE-103 TOTAL CO2-23 ANION GAP-14
+___ 02:20AM   GLUCOSE-130* UREA N-9 CREAT-0.8 SODIUM-134 
+POTASSIUM-4.3 CHLORIDE-95* TOTAL CO2-18* ANION GAP-25*
+___ 02:20AM   estGFR-Using this
+___ 02:20AM   WBC-10.9* RBC-3.54* HGB-12.6 HCT-36.6 
+MCV-103* MCH-35.6* MCHC-34.4 RDW-11.9 RDWSD-45.7
+___ 02:20AM   NEUTS-84.9* LYMPHS-9.0* MONOS-5.2 EOS-0.1* 
+BASOS-0.2 IM ___ AbsNeut-9.22* AbsLymp-0.98* AbsMono-0.57 
+AbsEos-0.01* AbsBaso-0.02
+___ 02:20AM   PLT COUNT-122*
+___ 02:20AM   ___ PTT-30.4 ___
+ 
+Brief Hospital Course:
+The patient presented to the hospital on ___ after a fall with 
+headstrike in the setting of drinking alcohol. She was found to 
+have a trace SDH and small front SDH. She was neurologically 
+intact. She had a repeat head CT which showed that the bleeds 
+were stable. She was admitted to the neurosurgery service for 24 
+hour observation. On ___, she remained neurologically stable. 
+She was also seen by ___ and OT who cleared her for safe 
+discharge home.
+ 
+Medications on Admission:
+Metformin
+Toprol XL
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO TID 
+2. LeVETiracetam 500 mg PO BID 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice daily Disp 
+#*12 Tablet Refills:*0
+3. MetFORMIN (Glucophage) 500 mg PO BID 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. TraMADOL (Ultram) 25 mg PO Q6H:PRN pain 
+RX *tramadol 50 mg 0.5 (One half) tablet(s) by mouth every 6 
+hours only as needed for pain Disp #*20 Tablet Refills:*0

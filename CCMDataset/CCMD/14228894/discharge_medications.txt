@@ -1,0 +1,25 @@
+1.  Insulin  Pump SC (Self Administering Medication)Insulin 
+Aspart (Novolog) (non-formulary)
+Basal rate minimum: 1 units/hr
+Basal rate maximum: 7.5 units/hr
+Bolus minimum: 0.7 units
+Bolus maximum: 5 units
+Target glucose: ___
+Fingersticks: QAC and HS
+MD has ordered ___ consult
+Use of ___ medical equipment: Insulin pump
+Reason for use: medically necessary and justified as ___ 
+cannot provide this type of equipment or suitable alternative 
+not appropriate.
+Provider acknowledges patient competent
+ 
+2.  Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -200 unit oral TID  
+3.  cromolyn 4 % ophthalmic (eye) Q4H  
+4.  Ferrous GLUCONATE 65 mg PO DAILY  
+5.  Hydroxychloroquine Sulfate 200 mg PO EVERY OTHER DAY  
+6.  Hydroxychloroquine Sulfate 400 mg PO EVERY OTHER DAY  
+7.  Levothyroxine Sodium 175 mcg PO DAILY  
+8.  lifitegrast 5 % ophthalmic (eye) BID  
+9.  Linzess (linaCLOtide) 290 mcg oral DAILY  
+10.  triamcinolone acetonide 0.1 % dental QHS

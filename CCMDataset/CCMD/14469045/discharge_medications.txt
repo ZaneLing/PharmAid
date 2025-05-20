@@ -1,0 +1,15 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen [Acetaminophen Extra Strength] 500 mg 2 
+tablet(s) by mouth Every 8 hours Disp #*60 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth Every 12 hours 
+Disp #*30 Tablet Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Every ___ hours Disp 
+#*30 Tablet Refills:*0 
+4.  Senna 8.6 mg PO BID:PRN Constipation - First Line 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth Every 12 hours Disp 
+#*30 Tablet Refills:*0 
+5.  Thiamine 100 mg PO DAILY Duration: 8 Days 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth Daily 
+Disp #*7 Tablet Refills:*0

@@ -1,0 +1,25 @@
+1. Acetaminophen ___ mg PO Q6H pain 
+Do not take >4000mg acetaminophen in 24h. 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every 6 hours 
+Disp #*60 Tablet Refills:*1
+2. Docusate Sodium 100 mg PO BID 
+Hold for loose stools. 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice daily to 
+prevent constipation. Disp #*60 Tablet Refills:*0
+3. Ibuprofen 600 mg PO Q6H:PRN Pain 
+Take with food to avoid GI upset. 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*60 Tablet Refills:*1
+4. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+___ cause sedation. Do not drive or combine with alcohol. 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every ___ hours Disp 
+#*45 Tablet Refills:*0
+5. Ferrous Sulfate 325 mg PO DAILY 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+twice a day Disp #*60 Tablet Refills:*2
+6. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+RX *polyethylene glycol 3350 [Miralax] 17 gram/dose 17 g by 
+mouth once ___ Refills:*1
+7. Senna 8.6 mg PO BID:PRN constipation 
+RX *sennosides [Senna-Gen] 8.6 mg 1 tablet by mouth twice a day 
+Disp #*60 Tablet Refills:*1

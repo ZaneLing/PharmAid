@@ -1,0 +1,35 @@
+ADMISSION:
+==========
+VITALS: T 98.3, BP 108/75, HR 72, O298% on RA
+GENERAL: Alert and interactive, NAD
+CARDIAC: RRR, no m/r/g
+LUNGS: CTAB, no wheezes or crackles
+ABDOMEN: Soft, non distended, slightly tender to deep palpation,
+no rebound or guarding
+EXTREMITIES: No cyanosis or edema
+SKIN: No rashes
+NEUROLOGIC: AOx3, CNII-XII grossly intact, moving all 
+extremities
+
+DISCHARGE:
+==========
+VITALS: 24 HR Data (last updated ___ @ 2346)
+    Temp: 98.3 (Tm 98.9), BP: 94/61 (94-104/52-71), HR: 62
+(62-89), RR: 16 (___), O2 sat: 100% (98-100), O2 delivery: Ra  
+
+
+GENERAL: Well-appearing young woman in no acute distress, seated
+comfortably on bed.
+HEENT: Sclerae anicteric. MMM.
+CARDIAC: Normal rate and rhythm. Normal S1 and S2. No murmurs,
+rubs, or gallops appreciated.
+LUNGS: Clear to auscultation bilaterally, without wheezes,
+crackles, or rhonchi. No increased work of breathing.
+ABDOMEN: NABS. Soft, non distended. Mildly tender to palpation 
+in
+RUQ and epigastric region. No hepatosplenomegaly. 
+EXTREMITIES: No cyanosis or edema, warm and well perfused. 
+SKIN: No rashes
+NEUROLOGIC: AOx3, CNII-XII grossly intact, moving all 
+extremities
+equally antigravity.

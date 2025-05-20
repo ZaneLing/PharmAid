@@ -1,0 +1,10 @@
+___
+Lung cancer: father
+- ___: father and mother
+- ___ disorders (DVT): mother
+- Heart disease: mother and maternal uncles
+- HTN: brother
+- ___: mother (___)
+- ITP: brother (family tested negative)
+- Denies any genetic testing for a cancer causing mutation 
+ - No known family history of breast, uterine or ovarian cancer

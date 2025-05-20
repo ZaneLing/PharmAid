@@ -1,0 +1,26 @@
+generate_prescription_task:
+  description: >
+    Generate a prescription based on 
+    1. the given patient diagnosis: {diagnose} 
+    2. the base information of the patient: {patient_info}.
+    The output should be a list of drug names that are recommended for the patient.
+
+    Medication Prescription Thought Process:
+    1. **Exacerbation of chronic heart failure**:
+      - The patient is experiencing an exacerbation of chronic heart failure, so a diuretic is needed to alleviate edema, with furosemide being the first choice.
+      - Also, to improve cardiac function, an ACE inhibitor such as enalapril is required.
+      - Considering the patient's history of hypertension, a beta-blocker like metoprolol is necessary, but the initial dose should be low and gradually adjusted.
+    2. **Viral upper respiratory infection**:
+      - The patient has symptoms of a viral upper respiratory infection, but there's no clear evidence of a bacterial infection, so antibiotics are not recommended.
+      - For symptomatic relief, medications like dextromethorphan for cough suppression and acetaminophen for fever and pain can be considered.
+    3. **Drug interactions and precautions**:
+   - Check for potential drug interactions between the prescribed medications.
+   - Ensure that the medications are appropriate for the patient's age, renal function, and other comorbidities.
+
+    Make sure the drugs are safe and effective for the patient.
+    You only have to output the drugname list, that's enough.
+  expected_output: >
+    A structured JSON file containing:
+    - DrugName: A list of drug names recommended for the patient.
+  agent: prescription_agent
+  output_file: output/prescription.json

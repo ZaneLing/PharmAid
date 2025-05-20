@@ -1,0 +1,11 @@
+___
+NC
+ 
+Physical Exam:
+At admission:
+Gen: [X] NAD, [] AAOx3
+CV: [X] RRR, [] murmur
+Resp: [X] breaths unlabored, [] CTAB, [] wheezing, [] rales
+Abdomen: [X] soft, [] distended, [] tender [] rebound/guarding
+Wound: [] incisions clean, dry, intact
+Ext: [X] warm, [X] LLE tender, [] edema

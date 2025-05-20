@@ -1,0 +1,12 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*5 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*5 
+3.  Clopidogrel 75 mg PO DAILY 
+Take for 3 months in addition to aspirin, then stop and take 
+only aspirin. 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*2 
+4.  amLODIPine 5 mg PO DAILY

@@ -1,0 +1,19 @@
+Admission Physical Exam:
+
+Vitals: 99.5/99.5, 111, 134/65, 19, 99%RA
+General: AAOx3
+Cardiac: Normal S1, S2
+Respiratory: RA, equal breath sounds
+Abdomen: Soft, tender RLQ, LLQ, no hernias, no skin changes, no
+rebound or guarding
+
+Discharge Physical Exam:
+Vitals: 24 HR Data (last updated ___ @ 2245)
+    Temp: 98.7 BP: 109 / 71 HR: 83 RR: 20 SpO2: 97 2L NC
+ Gen: [x] NAD, [] AAOx3
+ CV: [x] RRR, [] murmur
+ Resp: [x] breaths unlabored, [] CTAB, [] wheezing, [] rales
+ Abdomen: [x] soft, [] distended, [x] mildly tender []
+rebound/guarding
+ Wound: [x] incisions clean, dry, intact
+ Ext: [x] warm, [] tender, [] edema

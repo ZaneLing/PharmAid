@@ -1,0 +1,6 @@
+primary:
+chest pain, back pain
+.
+secondary:
+hypertension
+hyperlipidemia

@@ -1,0 +1,27 @@
+ADMISSION EXAM:
+===============
+VITALS: Temp: 97.6 (Tm 98.1), BP: 146/89 (145-168/78-92), HR: 84 
+(71-94), RR: 18, O2 sat: 96% (95-98), O2 delivery: Ra
+GENERAL: Alert and interactive. Pleasant and conversant. NAD.
+HEENT: NCAT. PERRL, EOMI. 
+CARDIAC: RRR. no m/r/g.
+LUNGS: CTAB. No wheezes, rhonchi or rales. No increased work of 
+breathing. 
+ABDOMEN: Normal bowel sounds, non distended, non-tender to 
+palpation. 
+NEUROLOGIC: AOx3. CNII-XII intact. Face symmetric. ___ strength 
+throughout. Sensation intact.
+
+DISCHARGE EXAM:
+===============
+VITALS: Temp: 97.6 (Tm 98.1), BP: 146/89 (145-168/78-92), HR: 84
+(71-94), RR: 18, O2 sat: 96% (95-98), O2 delivery: Ra
+GENERAL: Alert and interactive. Pleasant and conversant. NAD.
+HEENT: NCAT. PERRL, EOMI. No bruising or hematoma.
+CARDIAC: RRR. no m/r/g.
+LUNGS: CTAB. No wheezes, rhonchi or rales. No increased work of
+breathing. 
+ABDOMEN: Normal bowel sounds, non distended, non-tender to
+palpation. 
+NEUROLOGIC: AOx3. CNII-XII intact. Face symmetric. ___ strength
+throughout. Sensation intact.

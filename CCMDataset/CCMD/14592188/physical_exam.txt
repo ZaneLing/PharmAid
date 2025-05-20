@@ -1,0 +1,36 @@
+BP: 132/67. Heart Rate: 68. Temperature: 98.1. Resp. Rate: 16. 
+O2 Saturation%: 98.
+GENERAL        
+[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:
+
+HEENT          
+[x] Trachea midline [x] Thyroid nl size/contour
+[ ] Abnormal findings:
+
+RESPIRATORY    
+[x] CTA/P     [x] Excursion normal    
+[ ] Abnormal findings:
+
+CARDIOVASCULAR 
+[x] RRR    [x] No m/r/g    
+[ ] Abnormal findings:
+
+GI             
+[x] Soft    [x] NT   [x] ND  [x] No mass
+[ ] Abnormal findings:
+
+GU             [x] Deferred  
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+
+LYMPH NODES   
+[x] Cervical nl      [x] Supraclavicular nl 
+[ ] Abnormal findings:
+
+SKIN           
+[x] No rashes/lesions/ulcers
+[x] No induration/nodules/tightening     [ ] Abnormal findings:
+
+PSYCHIATRIC    
+[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect
+[ ] Abnormal findings:
