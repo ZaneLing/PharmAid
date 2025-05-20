@@ -1,0 +1,8 @@
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild 
+Do not take more than 4000mg in 24 hours.   
+2.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Do not drink alcohol or drive while taking narcotics.   
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain 
+take with food.

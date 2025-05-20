@@ -1,0 +1,42 @@
+ADMISSION PHYSICAL EXAMINATION:
+===============================
+GENERAL: NAD, only oriented to self
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: no JVD 
+CV: RRR, no murmurs or gallops
+PULM: CTAB
+GI: abdomen soft, nondistended, nontender
+EXTREMITIES: no cyanosis, clubbing, or edema. No bruising or
+edema at right knee, full ROM on exam
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DISCHARGE PHYSICAL EXAMINATION:
+===============================
+24 HR Data (last updated ___ @ 1201)
+    Temp: 98 (Tm 98.3), BP: 112/76 (112-162/76-89), HR: 82
+(79-82), RR: 18 (___), O2 sat: 98% (96-100), O2 delivery: RA,
+Wt: 185.85 lb/84.3 kg  
+Fluid Balance (last updated ___ @ 1202) 
+  Last 8 hours  Total cumulative 340ml
+    IN: Total 340ml, PO Amt 340ml
+    OUT:  Total 0ml, Urine Amt 0ml
+  Last 24 hours  Total cumulative 340ml
+    IN: Total 340ml, PO Amt 340ml
+    OUT:  Total 0ml, Urine Amt 0ml  
+GENERAL: Lying in bed in no apparent distress confabulated 
+speech
+HEENT: PERRLA, MMM
+NECK: no JVD 
+CV: RRR, no murmurs or gallops
+PULM: CTAB
+GI: abdomen soft, nondistended, nontender
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes

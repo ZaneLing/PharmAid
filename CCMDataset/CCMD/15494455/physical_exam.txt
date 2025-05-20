@@ -1,0 +1,30 @@
+ADMISSION PHYSICAL EXAM
+======================
+ VS: 98.2 PO 159 / 84 L Sitting 62 18 97 RA  
+ GENERAL: Pleasant, NAD, appears well but moves gingerly  
+ HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM  
+ NECK: supple  
+ HEART: RRR, S1/S2, ___ murmur heard best at apex  
+ LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ ABDOMEN: nondistended, markedly tender in epigastrium, soft  
+ EXTREMITIES: no cyanosis, clubbing, or edema  
+ NEURO: A&Ox3, moving all 4 extremities with purpose  
+ SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+DISCHARGE PHYSICAL EXAM
+======================
+VS: 98.2 PO 159 / 84 L Sitting 62 18 97 RA  
+GENERAL: Pleasant, NAD, appears well but moves gingerly  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM  
+NECK: supple  
+HEART: RRR, S1/S2, ___ murmur heard best at apex  
+LUNGS: CTAB
+ABDOMEN:  tender in epigastrium, soft  
+EXTREMITIES: no cyanosis, clubbing, or edema  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes

@@ -1,0 +1,4 @@
+Unable to perform formal medication reconciliation as patient 
+left before I could call the pharmacy. The following medications 
+were what we believe he was on based on medication labels in his 
+med bag.

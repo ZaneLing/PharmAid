@@ -1,0 +1,33 @@
+ON DISCHARGE
+============
+Opens eyes: [X]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [X]Person [X]Place [X]Time
+
+Follows commands: [ ]Simple [X]Complex [ ]None
+
+Pupils:  Right: 3-2mm      Left: 3-2mm
+
+EOM: [X]Full [ ]Restricted
+
+Face Symmetric: [X]Yes [ ]NoTongue Midline: [X]Yes [ ]No
+
+Pronator Drift [ ]Yes [X]No     Speech Fluent: [X]Yes [ ]No
+
+Comprehension intact [X]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[X]Sensation intact to light touch
+
+Angio Groin Site: 
+Patient with oozing right groin overnight, lido/epi and 
+surgiflow
+used overnight with good effect. Groin with slight redness noted
+around dressing. 
+[X]Dressing CDI.
+[X]Soft, no hematoma  
+[X]Palpable pulses

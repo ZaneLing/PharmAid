@@ -1,0 +1,25 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VS: 24 HR Data (last updated ___ @ 341)
+    Temp: 98.2 (Tm 98.2), BP: 101/67, HR: 69, RR: 18, O2 sat:
+96%, O2 delivery: RA, Wt: 221.78 lb/100.6 kg  
+Gen: NAD, lying flat in bed, fatigued
+HEENT: dry lips
+CV: RRR, S1/S2, no murmurs
+PULM: CTAB
+GI: obese, soft, NT/ND
+Ext: wwp, no cyanosis, clubbing, or edema
+Pulses: 2+ radial pulses bilaterally
+Neuro: Alert, moving all 4 extremities with purpose, face
+symmetric
+
+DISCHARGE PHYSICAL EXAM:
+========================
+Gen: NAD, sitting on her bed, resting comfortably
+CV: RRR, S1/S2, no murmurs
+PULM: normal work of breathing, CTAB
+GI: obese, soft, NT/ND
+Ext: wwp, no cyanosis, clubbing, or edema
+Pulses: 2+ radial pulses bilaterally
+Neuro: Alert, moving all 4 extremities with purpose, face
+symmetric

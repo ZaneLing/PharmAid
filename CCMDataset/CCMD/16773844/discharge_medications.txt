@@ -1,0 +1,17 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*2 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth nightly Disp #*30 
+Tablet Refills:*2 
+3.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*2 
+4.  MetFORMIN (Glucophage) 1000 mg PO BID 
+RX *metformin 1,000 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*2 
+5.  Ranitidine 150 mg PO BID  
+6.Outpatient Occupational Therapy
+I63.9
+7.Outpatient Physical Therapy
+___.9

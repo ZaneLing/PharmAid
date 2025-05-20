@@ -1,0 +1,14 @@
+1.  Sucralfate 1 gm PO QID:PRN abdominal pain 
+RX *sucralfate [Carafate] 1 gram/10 mL 10 mL suspension(s) by 
+mouth QID PRN Refills:*0 
+2.  Albuterol Inhaler ___ PUFF IH Q6H:PRN shortness of breath  
+3.  Ascorbic Acid ___ mg PO DAILY  
+4.  azelastine 137 mcg (0.1 %) nasal BID:PRN  
+5.  Fish Oil (Omega 3) 1000 mg PO BID  
+6.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+7.  LORazepam 1 mg PO BID:PRN anxiety  
+8.  Omeprazole 40 mg PO DAILY  
+9.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+10.  rizatriptan 10 mg oral ONCE:PRN migraine  
+11.  Tretinoin 0.05% Cream 1 Appl TP QHS  
+12.  Vitamin D 1000 UNIT PO DAILY

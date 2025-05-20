@@ -1,0 +1,18 @@
+1. LaMOTrigine 100 mg PO BID 
+RX *lamotrigine 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*30 Tablet Refills:*0
+2. Lorazepam 0.5 mg PO TID:PRN anxiety 
+RX *lorazepam 0.5 mg 1 tab by mouth three times a day Disp #*20 
+Tablet Refills:*0
+3. Quetiapine Fumarate 300 mg PO QHS 
+RX *quetiapine 300 mg 1 tablet(s) by mouth at bedtime Disp #*15 
+Tablet Refills:*0
+4. Quetiapine Fumarate 25 mg PO QID:PRN anxiety 
+RX *quetiapine 25 mg 1 tablet(s) by mouth four times a day Disp 
+#*60 Tablet Refills:*0
+5. Venlafaxine XR 150 mg PO DAILY 
+RX *venlafaxine 150 mg 1 tablet(s) by mouth once a day Disp #*15 
+Tablet Refills:*0
+6. HydrOXYzine 25 mg PO BID:PRN severe anxiety 
+RX *hydroxyzine HCl 25 mg 1 tab by mouth twice a day Disp #*30 
+Tablet Refills:*0

@@ -1,0 +1,11 @@
+PMH:
+-Gout
+-BPH
+-Arthritis
+-GERD
+-UTI
+
+PSH:
+___ herniorrhaphy
+Hemorrhoidectomy
+Excision of scrotal cyst

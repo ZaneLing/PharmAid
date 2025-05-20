@@ -1,0 +1,9 @@
+1.  Colchicine 0.6 mg PO BID 
+RX *colchicine 0.6 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Capsule Refills:*2 
+2.  Indomethacin 50 mg PO TID 
+RX *indomethacin 25 mg 2 capsule(s) by mouth three times a day 
+Disp #*120 Capsule Refills:*0 
+3.  Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0

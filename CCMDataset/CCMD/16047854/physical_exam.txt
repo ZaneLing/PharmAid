@@ -1,0 +1,9 @@
+VS:  98, 111/66, 70, 18, 96%RA
+ GEN: Alert, lying in bed, no acute distress  
+ HEENT: MMM, anicteric sclera, no conjunctival pallor  
+ NECK: Supple without LAD  
+ PULM: Clear, no wheeze, rales, or rhonchi  
+ COR: RRR, normal S1/S2, no murmurs  
+ ABD: Soft, NT ND, normal BS  
+ EXTREM: Warm, no edema  
+ NEURO: CN II-XII grossly intact, motor function grossly normal

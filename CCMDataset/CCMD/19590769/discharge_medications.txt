@@ -1,0 +1,21 @@
+1. Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*90 Tablet Refills:*0
+2. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+3. Enoxaparin Sodium 40 mg SC DAILY Duration: 2 Weeks 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+RX *enoxaparin 30 mg/0.3 mL 1 once a day Disp #*14 Syringe 
+Refills:*0
+4. HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN pain 
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth every 
+four (4) hours Disp #*80 Tablet Refills:*0
+5. LORazepam 0.5 mg PO Q8H:PRN Anxiety 
+RX *lorazepam [Ativan] 0.5 mg 1 by mouth every eight (8) hours 
+Disp #*60 Tablet Refills:*0
+6. OXcarbazepine 150 mg PO BID 
+7. Propranolol 10 mg PO BID 
+8. QUEtiapine Fumarate 25 mg PO QHS 
+9. Bisacodyl 10 mg PO/PR DAILY:PRN Constipation

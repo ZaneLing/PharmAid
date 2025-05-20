@@ -1,0 +1,38 @@
+Admission:
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Oropharynx without visible lesion, erythema or exudate
+CV: Heart irregular, III/VI blowing systolic murmur, no JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation. Bowel
+sounds present. 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength tested and
+grossly full and symmetric bilaterally in all limbs; no weakness
+appreciated
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Pleasant, appropriate affect
+
+Discharge:
+VITALS: ___: Afebrile, BP 151/71-178/78, HR ___, RR ___, 
+95% on room air
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, EOMI
+ENT: Oropharynx without visible lesion, erythema or exudate
+CV: Heart irregular rhythm, normal rate, III/VI blowing systolic 
+murmur heard throughout
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally. Breathing is non-labored on room air.
+GI: Abdomen soft, non-distended, non-tender to palpation. Bowel 
+sounds present. 
+GU: No suprapubic fullness or tenderness to palpation. No foley
+MSK: Moves all extremities, no edema
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric,  speech fluent, moves 
+all limbs
+PSYCH: Pleasant, appropriate affect, calm, cooperative

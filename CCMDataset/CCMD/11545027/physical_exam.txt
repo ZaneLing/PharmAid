@@ -1,0 +1,39 @@
+Admission physical exam
+97.4 PO 167 / 85 88 20 97 RA 2  
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils pinpoint and reactive
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+Mucous membranes very dry
+CV: Heart irregular, tachycardiac, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally, no respiratory distress
+GI: Abdomen soft, non-distended, non-tender to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, ___ strength in upper and lower
+extremities, no tremor
+PSYCH: pleasant, appropriate affect
+
+Discharge exam
+VITALS: Per flowsheet in medical records (HR in 70-80s)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, EOMI
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+Mucous membranes moist
+CV: Heart irregular with rate ~80s, no murmur, rubs or gallops
+RESP: Lungs clear to auscultation with good air movement
+bilaterally, no respiratory distress
+GI: Abdomen soft, non-distended, non-tender to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, ___ strength in upper and lower
+extremities, no tremor
+PSYCH: pleasant, appropriate affect

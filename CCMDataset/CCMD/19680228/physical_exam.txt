@@ -1,0 +1,35 @@
+On Discharge:
+-------------
+General:
+
+VS: T 97.6F, HR 81, BP 122/49, RR 16, O2Sat 98% on room air
+
+Exam:
+
+Opens Eyes: [x]Spontaneous [ ]To voice [ ]To noxious [ ]None
+Orientation: [x]Person [x]Place [x]Time
+Follows Commands: [ ]Simple [x]Complex [ ]None
+Pupils: PERRL
+EOMs: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+Drift: [ ]Yes [x]No
+Speech Fluent: [x]Yes [ ]No
+Comprehension Intact: [x]Yes [ ]No
+
+Motor:
+
+        Trap   Deltoid   Biceps   Triceps   Grip
+Right5      5         5        5         5
+Left5      5         5        5         5
+
+        IP   Quad   Ham   AT   ___   ___
+Right5    5      5     5    5     5
+Left5    5      5     5    5     5
+
+Sensation: Intact to light touch.
+
+Puncture Site:
+- Dressing clean, dry, intact
+- Soft, no hematoma
+- Palpable pulses

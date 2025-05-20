@@ -1,0 +1,27 @@
+___
+FH:
+Diabetes: Grandmother
+CAD: ___
+HTN: uncle, grandmother
+___
+Breast CA: Denies
+Gyn CA: Denies
+Other CA: melanoma. mother
+___
+ 
+Physical Exam:
+Discharge physical exam
+Vitals: VSS
+Gen: NAD, A&O x 3
+CV: RRR
+Resp: no acute respiratory distress
+Abd: soft, appropriately tender, no rebound/guarding, incision 
+c/d/i
+Pelvis: foley in place 
+Ext: no TTP
+ 
+Brief Hospital Course:
+On ___, Ms. ___ was admitted to the gynecology service 
+after undergoing a total laparoscopic hysterectomy, bilateral 
+salpingectomy, mini-laparotomy, cystoscopy, primary bladder 
+repair. Please see the operative report for full details.

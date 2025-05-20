@@ -1,0 +1,9 @@
+1.  Apixaban 2.5 mg PO BID 
+RX *apixaban [Eliquis] 2.5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*3 
+2.  Atorvastatin 10 mg PO QPM 
+RX *atorvastatin 10 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*3 
+3.  Atenolol 25 mg PO DAILY  
+4.  NIFEdipine (Extended Release) 30 mg PO DAILY  
+5.  Sertraline 50 mg PO DAILY

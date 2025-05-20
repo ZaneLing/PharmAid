@@ -1,0 +1,15 @@
+1. Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+2. Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+3. Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+RX *nitroglycerin [Nitrostat] 0.3 mg 1 tablet(s) sublingually Q5 
+minutes PRN Disp #*30 Tablet Refills:*0
+4. TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [BRILINTA] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*3
+5. Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0

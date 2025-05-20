@@ -1,0 +1,113 @@
+Admission:
+Vitals: 
+T 97.9 HR: 83  BP: 122/96 RR:18 O2 96% RA 
+ 
+
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, small tongue laceration
+Neck: Supple, no nuchal rigidity
+Pulmonary: breathing non labored on room air 
+Cardiac: warm and well perfused
+Extremities: No cyanosis, clubbing or edema bilaterally
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Awake, alert, oriented to self, place, time and
+situation. Able to relate history without difficulty. Attentive.
+Language is fluent with intact repetition and comprehension.
+Normal prosody. There were no paraphasic errors. Pt was able to
+name both high and low frequency objects. Speech was not
+dysarthric. Able to follow both midline and appendicular
+commands. Pt was able to register 3 objects and recall ___ at 5
+minutes. There was no evidence of apraxia or neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 6 to 4mm and brisk. VFF to confrontation. 
+III, IV, VI: EOMI without nystagmus. Normal saccades.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. No adventitious movements, such as tremor, noted. 
+No
+asterixis noted.
+  Delt Bic Tri WrE FFl  FE  IO  IP   Quad  Ham TA   ___
+L  5    ___   5    ___     5    5   5      5     5
+R  5    ___   5    ___     5    5   5      5     5
+
+-Sensory: No deficits to light touch or cold sensation
+throughout. No extinction to DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   1
+R  2  2    2    2   1
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF bilaterally.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Romberg absent.
+
+=
+================================================================
+
+Discharge:
+24 HR Data (last updated ___ @ 752)
+    Temp: 97.5 (Tm 97.9), BP: 86/54 (86-115/54-74), HR: 54 
+(54-73), RR: 18, O2 sat: 99% (96-99), O2 delivery: RA, Wt: 182.4 
+lb/82.74 kg  
+
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, tongue laceration
+Neck: Supple, no nuchal rigidity
+Pulmonary: breathing non labored on room air 
+Cardiac: warm and well perfused, no murmur
+
+Neurologic:
+-Mental Status: Awake, alert, oriented to self, place, time and
+situation. Able to relate history without difficulty. Attentive.
+Language is fluent. Difficulties with repeating a simple 
+sentence. 
+There were no paraphasic errors. Able to name low and high 
+frequency objects though with mistakes: ___. Able to follow 
+both midline and appendicular
+commands. 
+
+-Cranial Nerves:
+II: PERRL 5 to 3mm and brisk. VFF to confrontation. 
+III, IV, VI: EOMI without nystagmus. Normal saccades.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+but subtle R pronation. No adventitious movements, such as 
+tremor, noted. No
+asterixis noted.
+
+  Delt Bic Tri WrE FFl  FE  IO  IP   Quad  Ham TA   ___
+L  5    ___   5    ___     5    5   5      5     5
+R  5    ___   5    ___     5    5   5      5     5
+
+-Sensory: No deficits to light touch or cold sensation
+throughout. No extinction to DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   1
+R  2  2    2    2   1
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF bilaterally.
+
+-Gait: Deferred.

@@ -1,0 +1,28 @@
+ADMISSION:
+VITALS: 98.9PO 136 / 82 72 18 95 RA  
+GENERAL: well-appearing, laying in bed, in NAD
+EYES: no scleral icterus, no conjunctival injection
+ENT: MMM, clear OP, normal hearing
+NECK: Supple, no appreciable LAD
+RESP: CTA b/l, no w/r/r, non-labored breathing
+CV: RRR, no m/r/g
+GI: Soft, mildly TTP in epigastric region, non-distended,
+normoactive BS
+GU: no foley
+EXT: wwp, no edema
+SKIN: no lesions, no rashes
+NEURO: AOx3, moving all extremities purposefully
+PSYCH: normal mood and affect
+
+DISCHARGE:
+VITALS: ___ Temp: 99.0 PO BP: 139/88 HR: 71 RR: 18 O2
+sat: 98% O2 delivery: RA 
+GENERAL: well-appearing, laying in bed, in NAD
+EYES: no scleral icterus, no conjunctival injection
+ENT: MMM, clear OP, normal hearing
+NECK: Supple, no appreciable LAD
+GI: Soft, nontender to palpation, non-distended, normoactive BS
+GU: no foley
+SKIN: no lesions, no rashes
+NEURO: AOx3, moving all extremities purposefully
+PSYCH: normal mood and affect

@@ -1,0 +1,22 @@
+1.  Acetaminophen 1000 mg PO Q6H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every six (6) 
+hours Disp #*30 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*14 Capsule Refills:*0 
+3.  Milk of Magnesia 30 mL PO QHS:PRN constipation  
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: .
+RX *oxycodone 5 mg ___ tablets tablet(s) by mouth every 6 hours 
+prn Disp #*20 Tablet Refills:*0 
+5.  calcium citrate-vitamin D3 200 mg calcium -250 unit oral TID 
+ 
+6.  Enalapril Maleate 10 mg PO BID  
+7.  Levothyroxine Sodium 100 mcg PO 5X/WEEK (___)  
+8.  Levothyroxine Sodium 50 mcg PO 1X/WEEK (SA)  
+9.  NIFEdipine (Extended Release) 30 mg PO DAILY  
+10.  Pantoprazole 40 mg PO Q24H  
+11.  PredniSONE 5 mg PO DAILY 
+You take this as needed for flares.  
+12.  Vitamin D ___ UNIT PO QHS

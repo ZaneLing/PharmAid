@@ -1,0 +1,25 @@
+PE on admission:
+VS: 99.0  168/100  69  18  100% RA 
+GEN: Alert, lying in bed, no acute distress  
+HEENT: Moist MM, anicteric sclerae 
+NECK: Supple without LAD  
+PULM: CTAB, no wheezes or rhonchi  
+COR: RRR, normal S1/S2, no m/r/g  
+ABD: +BS Soft, non-distended, mild tenderness to palpation in 
+epigastrium, substantial tenderness to palpation in the RUQ, 
+___ negative
+EXTREM: Warm, well-perfused, no edema  
+NEURO: CN II-XII grossly intact, motor function grossly normal  
+
+PE on discharge:
+VS: 97.9  105/69  66  20  99% RA
+GEN: Alert, lying in bed, no acute distress  
+HEENT: MMM, anicteric sclerae
+NECK: Supple without LAD  
+PULM: CTAB, no wheezes or rhonchi  
+COR: RRR, normal S1/S2, no m/r/g
+ABD: +BS, soft, non-distended, mild epigastric TTP and moderate 
+TTP in RUQ, stable to slightly improved, no 
+rebound/guarding/shake tenderness
+EXTREM: Warm, well-perfused, no edema  
+NEURO: CN II-XII grossly intact, motor function grossly normal

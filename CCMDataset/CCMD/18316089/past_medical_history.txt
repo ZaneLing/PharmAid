@@ -1,0 +1,12 @@
+ADD                                                 
+DISORDER, DEPRESSIVE NEC                                        
+ENVIRONMENTAL ALLERGY                                           
+ESOPHAGEAL SPASM                                                
+GRAVE'S DISEASE                                                 
+HYPOTHYROIDISM                                                  
+SLEEP APNEA                                                     
+HYPERTENSION                                                    
+HYPERTRIGLYCERIDEMIA                                            
+IGG4 RELATED DISEASE                                            
+OSTEOPENIA                                                      
+ANXIETY

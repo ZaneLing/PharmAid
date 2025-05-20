@@ -1,0 +1,27 @@
+ADMISSION PHYSICAL EXAM:
+GEN: NAD, sitting upright in bed
+vitals: T 97.9 BP 150/90 HR 90 RR 18 sat 98% on RA
+HEENT: MMM, EOMI, Oropharynx clear
+NECK: Supple
+CV: RRR
+RESP: CTAB
+ABD: +BS, Soft, tender to palpation in the epigastric and RUQ, 
+no guarding or rebound
+GU: No foley
+SKIN: warm and dry
+EXT: no ___ pitting edema
+NEURO: Speech fluent
+PSYCH: normal affect
+
+DISCHARGE PHYSICAL EXAM:
+GEN: NAD, sitting upright in bed
+vitals: T 98.2 BP 143/78 HR 71 RR 18 sat 96% on RA
+HEENT: MMM, EOMI, Oropharynx clear
+NECK: Supple
+CV: RRR
+RESP: CTAB
+ABD: +BS, soft, nontender throughout, no guarding or rebound
+SKIN: warm and dry
+EXT: no ___ pitting edema
+NEURO: Speech fluent
+PSYCH: normal affect

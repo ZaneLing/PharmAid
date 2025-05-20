@@ -1,0 +1,22 @@
+1.  Albuterol Inhaler 1 PUFF IH Q6H:PRN shortness of breath 
+RX *albuterol sulfate [ProAir HFA] 90 mcg 1 puff IH Q6H:PRN Disp 
+#*1 Inhaler Refills:*0 
+2.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+3.  Benzonatate 100 mg PO TID 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*45 Capsule Refills:*0 
+4.  PredniSONE 40 mg PO DAILY Duration: 4 Days 
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*4 Tablet 
+Refills:*0 
+5.  Tamsulosin 0.4 mg PO DAILY 
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth at bedtime Disp #*30 
+Capsule Refills:*0 
+6.  amLODIPine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+7.  Famotidine 20 mg PO BID  
+8.  Lisinopril 40 mg PO DAILY 
+RX *lisinopril 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0

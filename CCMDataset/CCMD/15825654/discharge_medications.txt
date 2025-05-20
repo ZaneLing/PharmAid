@@ -1,0 +1,14 @@
+1.  Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*10 Capsule Refills:*0 
+2.  Guaifenesin-Dextromethorphan ___ mL PO Q6H:PRN Cough 
+RX *dextromethorphan-guaifenesin [Adult Robitussin Peak Cold DM] 
+100 mg-10 mg/5 mL 1 cup by mouth three times a day Refills:*0 
+3.  Levofloxacin 750 mg PO Q24H Duration: 5 Days 
+last day ___ 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth once a day Disp #*5 
+Tablet Refills:*0 
+4.Outpatient ___ Work
+DATE: ___ ICD10: J18.9, E87.1 LABS: CBC, CMP
+SEND TO: ATTN: Rean ___
+Phone: ___ Fax: ___

@@ -1,0 +1,32 @@
+Admission:
+VITALS:24 HR Data (last updated ___ @ 2158)
+    Temp: 99.4 (Tm 99.4), BP: 129/82, HR: 78, RR: 18, O2 sat:
+96%, O2 delivery: RA  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP 2+
+bilaterally.
+NEUROLOGIC: Face symmetric, moving all extremities 
+spontaneously,
+AOx3.
+
+Discharge:
+___ ___ Temp: 98.5 PO BP: 135/78 R Lying HR: 94 RR: 18 O2
+sat: 96% O2 delivery: RA 
+GEN: Well appearing, in no acute distress
+HEENT: Conjunctiva clear, PERRL, MMM
+NECK: No JVD.
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. No m/r/g.
+ABD: NT/ND, normal bowel sounds.
+EXTREMITIES: No edema.
+SKIN: No rashes.
+NEURO: AOx3.

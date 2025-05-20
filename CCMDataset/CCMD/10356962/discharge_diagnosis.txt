@@ -1,0 +1,2 @@
+PRIMARY: infectious colitis
+SECONDARY: acute kidney injury

@@ -1,0 +1,22 @@
+ADMISSION PHYSICAL EXAM:
+===================
+24 HR Data (last updated ___ @ 041)
+    Temp: 98.0 (Tm 98.0), BP: 158/88, HR: 79, RR: 20, O2 sat:
+94%, O2 delivery: 2L  
+
+Gen: appears well, comfortable
+CV: RRR, normal s1/s2, holosystolic murmur
+Pulm: clear to auscultation bilaterally, comfortable, dry cough
+GI: soft, nontender, nondistended
+Ext: warm, well perfused, no edema
+
+DISCHARGE PHYSICAL EXAM:
+===================
+___ Temp: 98.3 PO BP: 129/86 L Lying HR: 75 RR: 18 O2
+sat: 93% O2 delivery: 2L 
+Gen: appears well, comfortable, in NAD, on RA now
+CV: RRR, normal s1/s2, holosystolic murmur
+Pulm: clear to auscultation bilaterally, comfortable, no
+increased work of breathing, dry cough
+GI: soft, nontender, nondistended
+Ext: warm, well perfused, no edema

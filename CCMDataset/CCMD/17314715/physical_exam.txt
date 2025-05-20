@@ -1,0 +1,38 @@
+On admission:
+GCS at the scene: 3
+GCS upon Neurosurgery Evaluation: 3t  Time of evaluation: ___
+
+Airway: [x]Intubated   [ ]Not intubated
+
+Eye Opening: 
+ [x]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [ ]4 Opens eyes spontaneously
+
+Verbal:
+ [x]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [x]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [ ]6 Obeys commands
+
+Exam:
+
+Gen: Elderly male lying on stretcher intubated with large right
+occipital hematoma, right eye ecchymosis/edema. 
+
+Neuro: Intubated, sedation held. No eye opening. No corneals.
+Left pupil 2mm NR, Right pupil 1mm NR. No cough, no gag. No
+motor.
+
+On discharge:
+Expired

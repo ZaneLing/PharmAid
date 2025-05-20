@@ -1,0 +1,26 @@
+1.  Acetaminophen-Caff-Butalbital ___ TAB PO Q6H:PRN Pain - Mild 
+
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg 1 tablet(s) 
+by mouth every 6 hours as needed Disp #*40 Tablet Refills:*0 
+2.  Bisacodyl 10 mg PO DAILY:PRN Constipation - First Line  
+3.  Docusate Sodium 100 mg PO BID  
+4.  LevETIRAcetam 500 mg PO BID Duration: 1 Week 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*5 Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six hours as 
+needed Disp #*30 Tablet Refills:*0 
+6.  Senna 8.6 mg PO BID:PRN Constipation - First Line 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+7.  Atorvastatin 40 mg PO QPM  
+8.  Furosemide 40 mg PO DAILY  
+9.  LamoTRIgine 200 mg PO BID  
+10.  Lisinopril 20 mg PO DAILY  
+11.  Lithium Carbonate SR (Lithobid) 600 mg PO DAILY 
+Lithobid SR  
+12.  PARoxetine 20 mg PO DAILY  
+13.  Tamsulosin 0.4 mg PO DAILY

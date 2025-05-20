@@ -1,0 +1,11 @@
+Primary
+---------
+Abdominal pain
+Fever
+Cholelithiasis
+Alcohol cirrhosis
+
+Secondary
+-----------
+Macrocytic anemia
+Gastric ulcers

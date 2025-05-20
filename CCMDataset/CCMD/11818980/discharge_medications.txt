@@ -1,0 +1,16 @@
+1.  Bisacodyl ___AILY 
+RX *bisacodyl 10 mg 1 suppository(s) rectally as needed for 
+constipation Disp #*12 Suppository Refills:*0 
+2.  Cyanocobalamin 500 mcg PO DAILY 
+RX *cyanocobalamin (vitamin B-12) 500 mcg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*3 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*1 
+4.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3 
+5.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth daily Disp #*90 Tablet 
+Refills:*3 
+6.  Doxycycline Hyclate 50 mg PO DAILY

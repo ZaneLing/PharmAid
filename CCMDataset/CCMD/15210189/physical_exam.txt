@@ -1,0 +1,71 @@
+VITALS: ___ 0549 Temp: 97.8 PO BP: 113/73 R Lying HR: 64 
+RR:
+10 O2 sat: 98% O2 delivery: RA 
+
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, tender to palpation all over 
+but
+more in the RLQ.  Bowel sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation. Per
+surgery exam tenderness in pouch in DRE
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, 
+PSYCH: pleasant, appropriate but sad affect
+
+Discharge exam:
+
+24 HR Data (last updated ___ @ 751)
+    Temp: 98.1 (Tm 98.4), BP: 102/60 (102-113/60-67), HR: 64
+(64-75), RR: 16 (___), O2 sat: 97% (97-98), O2 delivery: RA   
+ 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended. Non tender today
+. Bowel sounds present in RLQ.  No HSM
+Rectal tube draining dark liquid stools
+GU: No suprapubic fullness or tenderness to palpation.
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, 
+PSYCH: pleasant, appropriate but sad affect
+
+Dc Exam:
+24 HR Data (last updated ___ @ 751)
+    Temp: 98.1 (Tm 98.4), BP: 102/60 (102-113/60-67), HR: 64 
+(64-75), RR: 16 (___), O2 sat: 97% (97-98), O2 delivery: RA
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended. Non tender today
+. Bowel sounds present in RLQ.  No HSM
+Rectal tube absent
+GU: No suprapubic fullness or tenderness to palpation.
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, 
+PSYCH: pleasant, appropriate but sad affect

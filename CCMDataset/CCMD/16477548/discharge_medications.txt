@@ -1,0 +1,7 @@
+1. RISperidone 0.5 mg PO QAM 
+RX *risperidone [Risperdal] 0.5 mg 1 tablet(s) by mouth every 
+morning Disp #*30 Tablet Refills:*0
+2. RISperidone 1 mg PO QHS 
+RX *risperidone [___] 1 mg 1 tablet(s) by mouth at bedtime 
+Disp #*30 Tablet Refills:*0
+3. TraZODone 25 mg PO QHS:PRN insomnia/anxiety

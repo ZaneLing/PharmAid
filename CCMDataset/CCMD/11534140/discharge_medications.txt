@@ -1,0 +1,29 @@
+1.  Acetaminophen 650 mg PO Q6H 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth q6hr Disp #*80 
+Tablet Refills:*0 
+2.  Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth daily Disp #*28 Tablet 
+Refills:*0 
+3.  Calcium Carbonate 1250 mg PO TID 
+RX *calcium carbonate 500 mg calcium (1,250 mg) 1 tablet(s) by 
+mouth three times a day Disp #*90 Tablet Refills:*0 
+4.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*60 Capsule Refills:*0 
+5.  Ibuprofen 400 mg PO Q8H:PRN Pain - Mild 
+RX *ibuprofen 400 mg 1 tablet(s) by mouth q8hr Disp #*60 Tablet 
+Refills:*0 
+6.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth q4hr Disp #*20 
+Tablet Refills:*0 
+7.  Senna 8.6 mg PO DAILY 
+RX *sennosides 8.6 mg 1 tablet by mouth daily Disp #*30 Tablet 
+Refills:*0 
+8.  Vitamin D 800 UNIT PO DAILY 
+RX *ergocalciferol (vitamin D2) 400 unit 2 tablet(s) by mouth 
+daily Disp #*60 Tablet Refills:*0 
+9.Rolling Walker
+Rx: Rolling Walker
+Dx: Left ankle fracture
+Px: Good
+___: 13 months

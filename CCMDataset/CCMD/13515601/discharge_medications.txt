@@ -1,0 +1,15 @@
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth every eight (8) 
+hours Disp #*60 Tablet Refills:*0 
+2.  Benzonatate 100 mg PO TID 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*21 Capsule Refills:*0 
+3.  Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+RX *fluticasone 50 mcg/actuation 2 sprays nasal once daily Disp 
+#*1 Spray Refills:*0 
+4.  GuaiFENesin ___ mL PO Q6H 
+RX *guaifenesin 100 mg/5 mL ___ mL by mouth every 6 hours 
+Refills:*0 
+5.  Atorvastatin 40 mg PO QPM  
+6.  Lisinopril 15 mg PO DAILY  
+7.  Pantoprazole 40 mg PO Q24H

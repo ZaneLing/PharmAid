@@ -1,0 +1,18 @@
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+2.  Cephalexin 500 mg PO Q6H 
+RX *cephalexin 500 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*24 Tablet Refills:*0 
+3.  Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+RX *chlorhexidine gluconate [Peridex] 0.12 % Mouth rinse twice 
+daily twice a day Refills:*0 
+4.  Ibuprofen 800 mg PO Q8H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+take lowest effective dose. Wean. 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*36 Tablet Refills:*0 
+6.  Atorvastatin 40 mg PO QPM  
+7.  glimepiride 2 mg oral DAILY  
+8.  Lisinopril 10 mg PO DAILY

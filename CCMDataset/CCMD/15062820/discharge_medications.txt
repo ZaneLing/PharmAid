@@ -1,0 +1,15 @@
+1.  Acetaminophen (Liquid) 975 mg PO Q6H 
+RX *acetaminophen 500 mg/15 mL 30 ml by mouth every six (6) 
+hours Disp #*1 Ounce Refills:*0 
+2.  Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
+RX *chlorhexidine gluconate 0.12 %  twice a day Refills:*0 
+3.  Docusate Sodium (Liquid) 100 mg PO BID 
+RX *docusate sodium [Docu] 50 mg/5 mL 10 ml by mouth twice a day 
+Refills:*0 
+4.  Ibuprofen Suspension 600 mg PO Q6H 
+RX *ibuprofen 100 mg/5 mL 25 ml by mouth every six (6) hours 
+Refills:*0 
+5.  OxycoDONE Liquid 5 mg PO Q4H:PRN Pain - Severe 
+  Reason for PRN duplicate override: DC dilaudid
+RX *oxycodone 5 mg/5 mL 1 ml by mouth every four (4) hours 
+Refills:*0

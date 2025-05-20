@@ -1,0 +1,18 @@
+1.  Acetaminophen 650 mg PO Q4H:PRN Pain - Mild 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth every four (4) 
+hours Disp #*180 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+3.  LORazepam 0.5 mg PO Q8H:PRN nausea, anxiety 
+RX *lorazepam 0.5 mg 1 tablet by mouth every eight (8) hours 
+Disp #*45 Tablet Refills:*0 
+4.  Ondansetron ODT ___ mg PO Q8H:PRN nausea  
+RX *ondansetron 4 mg 1 to 2 tablet(s) by mouth every eight (8) 
+hours Disp #*180 Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*90 Tablet Refills:*0 
+6.  Senna 8.6 mg PO BID Constipation 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*60 Tablet Refills:*0

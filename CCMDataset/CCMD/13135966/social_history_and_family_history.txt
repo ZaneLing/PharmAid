@@ -1,0 +1,33 @@
+___
+-Brother-alive
+-Father-deceased at age ___, heart disease
+-Mother-thyroid disorder
+-___ uncle-breast cancer
+-Sister-ovarian cancer, thyroid disorder
+ 
+Physical Exam:
+GEN: NAD
+HENT: palpable R mandibular mass, non-tender, no drainage,
+unremarkable oropharynx
+CV: RRR, no murmurs, no JVD
+RESP: non-labored, good air entry, no crackles, no wheezes
+GI: soft, non-distended, non-tender, normal bowel sounds
+GU: no suprapubic tenderness
+EXT: no edema
+SKIN: no rash
+NEURO: alert, oriented x4
+PSYCH: calm
+ 
+Pertinent Results:
+___ 07:20AM BLOOD WBC-11.4* RBC-3.87* Hgb-11.5 Hct-35.8 
+MCV-93 MCH-29.7 MCHC-32.1 RDW-12.0 RDWSD-40.9 Plt ___
+___ 07:20AM BLOOD Glucose-66* UreaN-17 Creat-0.7 Na-139 
+K-3.9 Cl-100 HCO3-22 AnGap-___ yo F with hx of pAfib, HTN, Sjogren's, presented with right 
+submandibular abscess (confirmed on outpt MRI), which had been 
+present for 12 days. She had outpatient aspiration by ENT (Dr. 
+___, who removed 5cc brown fluid for culture. She was 
+then sent to the hospital for antibiotics. The patient received 
+2 days ceftriaxone and metronidazole (multiple drug allergies 
+considered). The patient stated that her right submandibular 
+mass was slightly smaller and less painful. She did not have 
+signs of sepsis. CXR noted possible right lower lobe 7mm nodule.

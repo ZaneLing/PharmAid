@@ -1,0 +1,21 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin ___ Chewable Aspirin] 81 mg 1 tablet(s) by mouth 
+once a day Disp #*30 Tablet Refills:*3 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*3 
+3.  Clopidogrel 75 mg PO DAILY 
+Take this medication with Aspirin for 30 days, that only take 
+aspirin  
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  HydrOXYzine 50 mg PO DAILY  
+5.  Multivitamins 1 TAB PO DAILY  
+6.  Tamsulosin 0.4 mg PO QHS  
+7.Outpatient Physical Therapy
+right cerebellar infarct.
+ICD 10 G46.4
+8.Outpatient Occupational Therapy
+Right Cerebellar infarct
+
+ICD 10 Code ___.4

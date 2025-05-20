@@ -1,0 +1,33 @@
+___
+___ disease Maternal Grandmother    
+ Colon cancer Father    
+ Hypertension Father    
+ Coronary artery disease Father  
+ ___ disease Paternal Grandfather    
+ Colon cancer Paternal Grandmother    
+ Diabetes Paternal Grandmother    
+ Hypertension Maternal Grandfather    
+ Ovarian cancer Maternal Aunt    
+ Diabetes Maternal Aunt    
+ Breast cancer Paternal Aunt    
+ Hypertension Paternal Aunt    
+ Coronary artery disease Paternal Aunt    
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+===========================
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL.  
+Neck: Supple. JVP not elevated. no LAD  
+CV: Regular rate and rhythm. Normal S1+S2, no murmurs, rubs, 
+gallops.  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.

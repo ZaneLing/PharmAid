@@ -1,0 +1,20 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Aspir-81] 81 mg 1 tablet(s) by mouth once a day 
+Disp #*90 Tablet Refills:*3 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*90 
+Tablet Refills:*3 
+3.  Hydrochlorothiazide 12.5 mg PO DAILY 
+Primary Care provider should taper, previously taking 
+RX *hydrochlorothiazide 12.5 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Capsule Refills:*1 
+4.  MetFORMIN (Glucophage) 500 mg PO BID 
+Have your primary care provider increase to previous dose  
+RX *metformin 500 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*1 
+5.Outpatient Physical Therapy
+ICD-10-CM I6___.81  acute Ischemic stroke
+Evaluation and Treatment.
+6.Outpatient Occupational Therapy
+ICD-10-CM I6___.81  acute Ischemic stroke
+Evaluation and Treatment.

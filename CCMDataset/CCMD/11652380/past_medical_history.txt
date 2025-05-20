@@ -1,0 +1,7 @@
+PMH:
+-T2DM 
+-HTN
+-HLD
+                             
+PSH:
+-Dental surgery only

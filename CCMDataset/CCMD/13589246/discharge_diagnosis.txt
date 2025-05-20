@@ -1,0 +1,7 @@
+Primary:
+- Hyponatremia 
+- Hypokalmeia
+- Psychosis NOS
+
+Secondary:
+- Sinus bradycardia

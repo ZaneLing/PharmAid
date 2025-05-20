@@ -1,0 +1,19 @@
+UPON DISCHARGE: 
+General: No acute distress
+Pulmonary: Breathing comfortably on room air. 
+Neuro: 
+ Patient is oriented to person, place and date. 
+ Opening eyes spontaneously and interacting with exam. 
+ Following complex commands.
+ Speech fluent and comprehension intact. 
+
+Motor:
+TrapDeltoidBicepTricepGrip
+Right555       5       5 
+Left555       5       5 
+
+IPQuadHamATEHLGast
+Right322       0       0       3
+Left3       2       2       0       0       3
+
+Wound: [x] Clean, dry, intact

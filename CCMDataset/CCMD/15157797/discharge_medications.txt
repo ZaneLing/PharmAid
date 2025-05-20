@@ -1,0 +1,21 @@
+1.  Albuterol Inhaler ___ PUFF IH Q6H:PRN Short of breath 
+RX *albuterol sulfate [Ventolin HFA] 90 mcg ___ puff Q6H PRN 
+Disp #*1 Inhaler Refills:*0 
+2.  Doxycycline Hyclate 100 mg PO Q12H 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth twice a day 
+Disp #*6 Tablet Refills:*0 
+3.  Naproxen 500 mg PO Q12H:PRN Pain - Moderate 
+RX *naproxen 500 mg 1 tablet(s) by mouth twice a day Disp #*12 
+Tablet Refills:*0 
+4.  OSELTAMivir 75 mg PO Q12H 
+RX *oseltamivir 75 mg 1 capsule(s) by mouth twice a day Disp #*6 
+Capsule Refills:*0 
+5.  Citalopram 40 mg PO DAILY  
+6.  ClonazePAM 1 mg PO TID:PRN anxiety  
+7.  Levothyroxine Sodium 100 mcg PO DAILY  
+8.  Losartan Potassium 50 mg PO DAILY  
+9.  lurasidone 60 mg oral DAILY  
+10.  MetFORMIN XR (Glucophage XR) 1500 mg PO DAILY  
+11.  Perphenazine 16 mg PO BID  
+12.  Propranolol 20 mg PO BID  
+13.  Verapamil SR 80 mg PO Q24H

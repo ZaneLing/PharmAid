@@ -1,0 +1,13 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*40 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*20 Capsule Refills:*0 
+3.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth every 
+four (4) hours Disp #*40 Tablet Refills:*0 
+4.  LevETIRAcetam 500 mg PO BID Duration: 7 Days 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*7 Tablet Refills:*0 
+5.  Senna 8.6 mg PO BID:PRN constipation

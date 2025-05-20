@@ -1,0 +1,42 @@
+ADMISSION PHYSICAL EXAM:
+========================
+___ 1512 Temp: 98.0 PO BP: 131/73 HR: 58 RR: 16 O2 
+sat: 97%
+O2 delivery: Ra  
+GENERAL: ___, obese woman lying in bed, alert and
+interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Distant heart sounds. Regular rhythm, normal rate. Soft
+but audible S1 and S2, no S3 appreciated. No
+murmurs/rubs/gallops. No JVD appreciated. 
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, 1+ BLE edema. Right ankle
+effusion TTP. Pulses DP/Radial 2+ bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+___ 1521 Temp: 98.5 PO BP: 124/67 R Lying HR: 57 RR: 
+16 O2 sat: 96% O2 delivery: Ra
+GENERAL: ___, obese woman lying in bed, alert and
+interactive
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy.
+CARDIAC: Distant heart sounds. Regular rhythm, normal rate. Soft
+but audible S1 and S2
+LUNGS: Clear to auscultation bilaterally. No wheezes
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.
+EXTREMITIES: No clubbing, cyanosis, 1+ BLE edema. No ankle 
+effusion
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. Gait normal.

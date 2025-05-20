@@ -1,0 +1,35 @@
+ADMISSION
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4. 
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. No increased work of breathing.
+GI: Abdomen soft, mild tenderness to palpation in LUQ and
+epigastrum, no rebound or guarding. Bowel sounds present. Not
+distended.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities.
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric.
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE
+VITALS: Afebrile and vital signs stable
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4. 
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. No increased work of breathing.
+GI: Abdomen soft, mild tenderness to palpation in LUQ and
+epigastrum, no rebound or guarding. Bowel sounds present. Not
+distended.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities.
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric.
+PSYCH: pleasant, appropriate affect

@@ -1,0 +1,48 @@
+ADMISSION PHYSICAL EXAMINATION:  
+===============================
+VS: T98.3  BP 156/75   HR 74   RR 22   O2SAT 95%RA  
+GENERAL: Well developed, well nourished middle aged male in NAD.
+Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: Supple. JVP of 6 cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. Regular rate and irregular rhythm with a pause after third
+beat. Normal S1, S2. No murmurs, rubs, or gallops. No thrills or
+lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. Wheezes throughout, no
+crackles or rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.
+
+DISCHARGE PHYSICAL EXAMINATION:  
+===============================
+VS: 24 HR Data (last updated ___ @ 447)
+    Temp: 97.9 (Tm 98.3), BP: 136/85 (125-156/75-85), HR: 62
+(62-74), RR: 18 (___), O2 sat: 96% (93-96), O2 delivery: Ra,
+Wt: 228.2 lb/103.51 kg    
+GENERAL: Well developed, well nourished middle aged male in NAD.
+Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: Supple. JVP of 6 cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. Regular rate and irregular rhythm with a pause after third
+beat. Normal S1, S2. No murmurs, rubs, or gallops. No thrills or
+lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. Wheezes throughout, no
+crackles or rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.

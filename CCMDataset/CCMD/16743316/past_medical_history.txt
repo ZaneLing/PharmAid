@@ -1,0 +1,17 @@
+PMHx:
+#Inherited muscle disorder, mild muscular dystrophy causing
+"hyperCKemia" --has followed with neurology for this, and
+previously been treated with methotrexate in ___, as well as
+IVIG
+#Transaminitis-attributed to myopathy
+#Dermatitis-treated with cream with some success
+#Allergic rhinitis
+#History of rotator cuff syndrome
+#Debridement of R second metatarsal head focal keratoma
+#Previous extensive use of testosterone, and human growth
+hormone, for which she was advised to stop
+#History of Chlamydia
+#History of acrochordon
+
+PSHx:
+#R orchiectomy for benign mass with R testicular prosthesis

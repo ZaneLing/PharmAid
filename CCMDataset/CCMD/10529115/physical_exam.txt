@@ -1,0 +1,25 @@
+Vital signs: ___ Temp: 99.1 PO BP: 137/75 R Lying HR:
+77 RR: 16 O2 sat: 95% O2 delivery: RA 
+___ 2327 Temp: 99.0 PO BP: 102/69 HR: 78 RR: 18 O2 sat: 95%
+O2 delivery: ra 
+___ 0330 Temp: 98.1 PO BP: 155/80 HR: 70 RR: 18 O2 sat: 95%
+O2 delivery: ra 
+Ins:
+ > Last day: ___ Total Intake: 2697ml PO Amt: 700ml IV Amt
+Infused: 1997ml 
+ > Since ___ Total Intake: 1240ml PO Amt: 240ml IV Amt
+Infused: 1000ml 
+Outs: 
+ > Last day: ___ Total Output: 1610ml Urine Amt: 1610ml 
+___
+pad: 0ml 
+ > Since ___ Total Output: 625ml Urine Amt: 625ml 
+General: NAD, comfortable
+CV: RRR, normal s1 and s2, no m/r/g
+Lungs: normal work of breathing, CTAB
+Abdomen: soft, non-distended, nontender to palpation without
+rebound or guarding
+GU: vaginal packing in place with moderate amount of thin,
+serosanguinous discharge on pad; foley in place draining clear
+yellow urine
+Extremities: no edema, no TTP, pneumoboots in place bilaterally

@@ -1,0 +1,13 @@
+1.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth TWICE DAILY 
+Disp #*60 Tablet Refills:*0
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth TWICE DAILY 
+Disp #*90 Tablet Refills:*12 
+2.  Atorvastatin 20 mg PO QPM 
+RX *atorvastatin 20 mg 1 tablet(s) by mouth DAILY Disp #*90 
+Tablet Refills:*3 
+3.  Metoprolol Tartrate 50 mg PO BID 
+RX *metoprolol tartrate 50 mg 1 tablet(s) by mouth TWICE DAILY 
+Disp #*120 Tablet Refills:*3 
+4.  Fexofenadine 60 mg PO DAILY  
+5.  Ranitidine 75 mg PO DAILY

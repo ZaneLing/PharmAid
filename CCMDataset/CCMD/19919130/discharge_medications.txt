@@ -1,0 +1,39 @@
+1.  Docusate Sodium 100 mg PO BID:PRN constipation 
+RX *docusate sodium 50 mg/5 mL 10 ml by mouth twice a day 
+Refills:*0 
+2.  OxycoDONE Liquid 5 mg PO Q4H:PRN Pain - Moderate 
+RX *oxycodone 5 mg/5 mL 5 mg by mouth every four (4) hours 
+Refills:*0 
+3.  Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *acetaminophen 650 mg/20.3 mL 20 ml by mouth every six (6) 
+hours Disp #*300 Milliliter Refills:*0 
+4.  albuterol sulfate 90 mcg/actuation inhalation ASDIR  
+5.  amLODIPine 5 mg PO DAILY  
+6.  Aspirin 81 mg PO DAILY  
+7.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  Furosemide 20 mg PO BID  
+10.  Lisinopril 40 mg PO DAILY  
+11.  Meclizine 25 mg PO ASDIR  
+12.  Multivitamins 1 TAB PO BID  
+13.  omega 3-dha-epa-fish oil ___ mg oral BID  
+14.  Omeprazole 20 mg PO DAILY 
+Open capsule; sprinkle contents onto applesauce, swallow whole.  
+
+15.  Vitamin D ___ UNIT PO ASDIR  
+16. HELD- adalimumab 40 mg/0.8 mL subcutaneous ASDIR  This 
+medication was held. Do not restart adalimumab until you discuss 
+with Dr. ___ at your ___ appointment.
+17. HELD- metHOTREXate sodium 2.5 mg oral 1X/WEEK  This 
+medication was held. Do not restart metHOTREXate sodium until 
+you discuss with Dr. ___ at your ___ visit.
+18. HELD- metHOTREXate sodium 25 mg/mL injection 1X/WEEK  This 
+medication was held. Do not restart metHOTREXate sodium until 
+you discuss with Dr. ___ at your ___ visit.
+
+Please notify your primary care provider and rheumatologist of 
+this medication change immediately.  
+19. HELD- TraMADol 50 mg PO ASDIR  This medication was held. Do 
+not restart TraMADol until you are no longer taking oxycodone.

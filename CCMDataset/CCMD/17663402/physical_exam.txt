@@ -1,0 +1,30 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: ___ 2211 Temp: 97.8 PO BP: 117/71 HR: 91 RR: 18 O2
+sat: 97% O2 delivery: Ra 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: Normocephalic and atraumatic. Sclera anicteric and 
+without
+injection. 
+CARDIAC: Regular rhythm, mildly tachycardic. Audible S1 and S2.
+No murmurs/rubs/gallops.
+LUNGS: Breathing comfortably on room air.  Scattered wheezes. 
+Crackles at right lung base.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: Warm and well perfused.  No lower extremity edema.
+NEUROLOGIC: AOx3. 
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: 24 HR Data (last updated ___ @ 2325)
+    Temp: 98 (Tm 100.2), BP: 114/75 (114-147/75-86), HR: 69
+(69-102), RR: 18 (___), O2 sat: 96% (93-97)  
+GENERAL: NAD. 
+CARDIAC: RRR, nml s1 s2, no mrg. 
+LUNGS: On RA. Diminished breath sounds R side up to mid-lung 
+with
+fine crackles. Faint expiratory wheeze most notable at the bases
+ABDOMEN: Soft, nd, nt. 
+EXTREMITIES: Warm, no ___. 
+NEURO: AOx4. No focal neurologic deficits.

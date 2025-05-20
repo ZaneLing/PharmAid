@@ -1,0 +1,14 @@
+___
+Mother     
+      HYPERTENSION       
+      DIABETES MELLITUS       
+      CHOLESTEROL       
+      GOUT           
+Father ___    
+      LUPUS       
+      HYPERTENSION       
+      HIGH CHOLESTEROL       
+       
+Sister     
+      BREAST CANCER       
+      RENAL CANCER

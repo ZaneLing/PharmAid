@@ -1,0 +1,14 @@
+===================
+PRIMARY DIAGNOSES
+===================
+Saddle Pulmonary Embolism
+Pancreatic Mass
+Splenic Vein Thrombosis
+Hepatic Vein Thrombosis
+Splenic Infarct
+Pneumonia
+
+===================
+SECONDARY DIAGNOSES
+===================
+Hypertension

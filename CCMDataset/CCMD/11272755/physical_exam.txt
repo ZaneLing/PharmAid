@@ -1,0 +1,103 @@
+ON ADMISSION:
+************
+Physical Exam:
+
+O:  T: 98.4   BP: 117/84  HR: 61  RR: 15 O2 Sat: 94% RA
+
+GCS at the scene: unknown
+
+GCS upon Neurosurgery Evaluation: 15  Time of evaluation: 20:40
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [x]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam:
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: L ear ecchymosis, laceration over right eyebrow
+Neck:  Supple
+Extrem: warm and well perfused
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to person, place, and date.
+
+Language: Speech is fluent with good comprehension. 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3mm to
+2mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+Imaging:
+NCHCT ___ 17:21 (OSH)
+IMPRESSION:
+1. Small right parietal subdural acute hyperdense hematoma
+measuring 7mm in thickness
+2. Mild cerebral atrophy and mild periventricular cerebral white
+matter chronic small vessel ischemic changes. 
+
+ON DISCHARGE:
+************
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  ___ bilat
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]No Tongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [x]Yes [ ]No
+
+ Motor:
+     Trap Deltoid Bicep Tricep Grip
+Right 5   5       5     5      5
+Left  5   5       5     5      5  
+
+     IP Quad Ham AT ___
+Right 5 5    ___   5
+Left  5 5    ___   5
+
+[x]Sensation intact to light touch

@@ -1,0 +1,14 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every 6 hours 
+Disp #*50 Tablet Refills:*1 
+2.  Ibuprofen 600 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*50 Tablet Refills:*1 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Severe 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*15 Tablet Refills:*0

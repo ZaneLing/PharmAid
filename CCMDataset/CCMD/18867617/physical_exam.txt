@@ -1,0 +1,27 @@
+Admission Physical Exam:
+Vitals: 97.9, 118/74, 90, 18, 100%RA
+Gen: NAD, lying in bed
+Eyes: EOMI, sclerae anicteric
+ENT: MMM, OP clear
+CV: RRR, no murmur
+PULM: normal effort, no accessory muscle use, lungs CTA ___.
+GI: soft, NT, ND, BS+
+MSK: No significant kyphosis. No palpable synovitis.
+Skin: No visible rash. No jaundice.
+Neuro: AAOx3. Fluent speech, no facial droop.
+Psych: Full range of affect
+
+Discharge Physical Exam:
+Vitals: 97.8, 123/63, 80, 18, 98%RA
+Gen: NAD, lying in bed and walking around the room
+Eyes: EOMI, sclerae anicteric
+ENT: MMM, OP clear
+CV: RRR, no murmur
+PULM: normal effort, no accessory muscle use, lungs CTA ___.
+GI: soft, NT, ND, BS+
+MSK: No significant kyphosis. No palpable synovitis.
+Skin: No visible rash. No jaundice.
+Neuro: AAOx3. Fluent speech, no facial droop. ___ strength in 
+the upper and lower extremities proximal and distal muscle 
+groups in flexion and extension. 
+Psych: Full range of affect

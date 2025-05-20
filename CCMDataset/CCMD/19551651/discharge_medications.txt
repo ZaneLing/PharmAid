@@ -1,0 +1,16 @@
+1.  Acetaminophen 650 mg PO Q6H  
+2.  Ibuprofen 800 mg PO Q8H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO
+RX *ibuprofen 800 mg 1 tablet(s) by mouth every 8 hours Disp 
+#*20 Tablet Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Severe 
+RX *oxycodone 5 mg 1 - 2 tablet(s) by mouth every 6 horus Disp 
+#*15 Tablet Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Fenofibrate 40 mg PO DAILY  
+6.  Gabapentin 200 mg PO BID  
+7.  MetFORMIN (Glucophage) 500 mg PO DAILY  
+8.  Metoprolol Succinate XL 50 mg PO DAILY  
+9.  olmesartan-amLODIPin-hcthiazid ___ mg oral DAILY

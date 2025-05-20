@@ -1,0 +1,6 @@
+PRIMARY:
+-C.difficile infection
+-Ulcerative colitis
+
+SECONDARY:
+-Vulvovaginal candidiasis

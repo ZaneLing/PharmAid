@@ -1,0 +1,30 @@
+Admission Physical Exam:
+========================
+VITALS: Afebrile, SBP 122-131/66-70, HR 65-69, RR 20, SpO2 95 on
+RA
+GENERAL: Alert and in no apparent distress
+EYES: No conjunctival icterus, EOMI
+ENT: No sublingual jaundice. OP clear. No cervical LAD
+CV: S1, S2, RRR, no mrg
+RESP: CTAB, no wheezes
+GI: Abdomen soft, with no tenderness to light or deep palpation
+in all four quadrants. No rebound. Normal liver span. Spleen is
+not ballotable.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Moving all extremities
+SKIN: No jaundice. No spiders. No palmar erythema. No ___
+nails.
+NEURO: No asterixis on exam, CN II-XII intact.
+PSYCH: pleasant, appropriate affect
+
+Discharge Physical Exam:
+========================
+VS: 97.3, 139/83, 57, 18, 96 Ra
+Gen: [X] NAD, [] AAOx3
+CV: [X] RRR, [] murmur
+Resp: [X] breaths unlabored, [] CTAB, [] wheezing, [] rales
+Abdomen: [X] soft, [] distended, [X] tender, mild tenderness 
+with
+deep palpation in RUQ [] rebound/guarding
+Wound: [x] incisions clean, dry, intact
+Ext: [X] warm, [] tender, [] edema

@@ -1,0 +1,17 @@
+1.  CloNIDine 0.1 mg PO TID 
+RX *clonidine HCl 0.1 mg 1 tablet(s) by mouth three times a day 
+Disp #*42 Tablet Refills:*0 
+2.  Gabapentin 100 mg PO TID 
+RX *gabapentin 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*42 Capsule Refills:*0 
+3.  LORazepam 1 mg PO Q6H:PRN Anxiety 
+RX *lorazepam 1 mg 1 tablet(s) by mouth twice daily Disp #*12 
+Tablet Refills:*0 
+4.  Naloxone Nasal Spray 4 mg IH ONCE MR1 Duration: 1 Dose 
+RX *naloxone [Narcan] 4 mg/actuation 4 mg intranasal ONCE MR1 
+Disp #*2 Spray Refills:*0 
+5.  Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+6.  HydrOXYzine 50 mg PO Q6H:PRN Anxiety  
+7.  Sertraline 200 mg PO QAM

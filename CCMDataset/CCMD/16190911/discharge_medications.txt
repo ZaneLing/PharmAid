@@ -1,0 +1,17 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every 6 hours 
+Disp #*30 Tablet Refills:*0 
+2.  Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*30 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN BREAKTHROUGH 
+PAIN 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every ___ hours Disp 
+#*12 Tablet Refills:*0 
+4.  amLODIPine 5 mg PO DAILY  
+5.  Apixaban 5 mg PO BID  
+6.  Gabapentin 300 mg PO QHS  
+7.  Lisinopril 10 mg PO DAILY  
+8.  MetFORMIN (Glucophage) 500 mg PO BID  
+9.  Pantoprazole 40 mg PO Q12H  
+10.  Sertraline 100 mg PO DAILY

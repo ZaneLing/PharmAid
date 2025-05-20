@@ -1,0 +1,27 @@
+1.  Albuterol 0.083% Neb Soln 1 NEB IH Q2H:PRN dyspnea 
+RX *albuterol sulfate 2.5 mg/3 mL (0.083 %) 1 unit as needed 
+Disp #*3 Vial Refills:*0 
+2.  budesonide 180 mcg/actuation inhalation BID 
+RX *budesonide [Pulmicort Flexhaler] 180 mcg/actuation (160 mcg 
+delivered) 2 puffs twice a day Disp #*3 Inhaler Refills:*0 
+3.  DiphenhydrAMINE 25 mg PO QHS:PRN insomnia 
+RX *diphenhydramine HCl [Allergy (diphenhydramine)] 25 mg 0.5 
+(One half) capsule(s) by mouth at night PRN for insomnia Disp 
+#*30 Capsule Refills:*0 
+4.  PredniSONE 40 mg PO DAILY Duration: 1 Day 
+treat to SOB 
+RX *prednisone 20 mg 2 tablet(s) by mouth tomorrow morning Disp 
+#*1 Tablet Refills:*0 
+5.  Ibuprofen 800 mg PO TID:PRN Pain - Moderate  
+6.  Naproxen 500 mg PO Q12H:PRN Pain - Moderate 
+RX *naproxen 500 mg 1 tablet(s) by mouth twice a day as needed 
+for pain Disp #*60 Tablet Refills:*0 
+7.  PARoxetine 30 mg PO QHS 
+RX *paroxetine HCl 30 mg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*0 
+8.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 2 
+puffs Q4-6H 
+RX *albuterol sulfate [ProAir HFA] 90 mcg 1 puff as needed for  
+shortness of breath Disp #*3 Inhaler Refills:*0 
+9.nebulizer
+___.___ Unspecified asthma with (acute) exacerbation

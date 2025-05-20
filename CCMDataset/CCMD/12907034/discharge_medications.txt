@@ -1,0 +1,25 @@
+1.  Acetaminophen 1000 mg PO TID 
+please limit to 4000mg in 24 hour period.  
+2.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - First Line 
+  Reason for PRN duplicate override: Discontinuing Colace 
+3.  Heparin 5000 UNIT SC TID 
+may discontinue when ambulating frequently.  
+4.  Lidocaine 5% Patch 1 PTCH TD QAM 
+place x 12 hours, remove x 12 hours  
+5.  Polyethylene Glycol 17 g PO DAILY 
+hold for loose stool. may discontinue when bowel pattern 
+normalizes.  
+6.  Senna 8.6 mg PO BID 
+hold for loose stool. may discontinue when bowel pattern 
+normalizes.  
+7.  TraMADol 50 mg PO Q4H:PRN pain 
+medication may cause drowsiness 
+RX *tramadol 50 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*5 Tablet Refills:*0 
+8.  Atenolol 25 mg PO DAILY  
+9.  amLODIPine 5 mg PO DAILY  
+10.  Atorvastatin 10 mg PO QPM  
+11.  Famotidine 20 mg PO BID  
+12.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+13.  Furosemide 40 mg PO DAILY  
+14.  Levothyroxine Sodium 88 mcg PO DAILY

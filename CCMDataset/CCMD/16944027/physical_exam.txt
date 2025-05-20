@@ -1,0 +1,24 @@
+ON DISCHARGE: 
+=================
+Exam:
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  PERRL                
+EOM: [x]Full [ ]Restricted
+
+Speech Fluent: [x]Yes [ ]No   
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+Right5---------------->        4+     4+
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+Wound: 
+          [x]Clean, dry, intact

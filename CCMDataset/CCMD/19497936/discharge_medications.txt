@@ -1,0 +1,12 @@
+1.  Benzonatate 100 mg PO TID 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*30 Capsule Refills:*0 
+2.  Meclizine 12.5 mg PO TID 
+RX *meclizine 12.5 mg 1 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*0 
+3.  Hydrochlorothiazide 12.5 mg PO DAILY  
+4.  Multivitamins 1 TAB PO DAILY  
+5.  Vitamin D 1000 UNIT PO DAILY  
+6.Outpatient Physical Therapy
+___ and Physical Therapy
+ICD-10 Code: ___ Benign paroxysmal vertigo, unspecified ear

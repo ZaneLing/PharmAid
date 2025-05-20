@@ -1,0 +1,28 @@
+AT DISCHARGE:
+************
+Exam:
+
+Opens eyes: [X]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Face Symmetric: [x]Yes [ ]No
+
+Speech Fluent: [x]Yes [ ]No
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+Right 5         5      5       5      5
+Left 5         5      5       5      5
+
+IPQuadHamATEHLGast
+Right5         5      5      5        5       5
+Left5         5      5      5        5       5
+
+No hofffmans/clonus
+
+C/o tingling at left knee, down left foot (baseline). right foot
+tingling milder today.
+
+Wound - dressing with mild serosanguinous staining

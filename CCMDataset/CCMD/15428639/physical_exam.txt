@@ -1,0 +1,32 @@
+ADMISSION PHYSICAL EXAM
+=========================
+VITALS:  ___ 0250 Temp: 98.5 PO BP: 149/70 HR: 83 RR: 18 O2
+sat: 95% O2 delivery: Ra 
+General: Alert, oriented only to self, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple, 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, no rebound or guarding 
+
+Ext: Warm, well perfused 
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: CNII-XII intact 
+
+DISCHARGE PHYSICAL EXAM
+=========================
+VITALS: 24 HR Data (last updated ___ @ 059)
+    Temp: 98.5 (Tm 99.1), BP: 112/60 (112-163/60-77), HR: 75
+(72-89), RR: 18 (___), O2 sat: 96% (94-97), O2 delivery: Ra  
+General: In NAD  
+HEENT: Sclerae anicteric, PERRL, MMM, oropharynx clear
+CV: RRR, no murmurs/gallops/rubs
+Lungs: CTAB, no crackles/wheezing/rhonchi
+Abdomen: Soft, non-tender, non-distended
+Ext: Warm, well perfused, no ___ edema 
+Skin: No visible rashes 
+Neuro: A&Ox1, answers questions appropriately but very 
+forgetful,
+CNII-XII intact, motor and sensation grossly intact

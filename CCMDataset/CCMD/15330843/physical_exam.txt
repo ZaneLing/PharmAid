@@ -1,0 +1,27 @@
+ADMISSION PHYSICAL EXAM:
+======================
+VITALS: T 98.0, BP 132/81, HR 98, RR 18, O2 sat 98 RA 
+GEN: In NAD.
+HEENT: PERRL, moist mucous membranes, oropharynx clear without
+exudates.
+NECK: No JVD, no cervical lymphadenopathy.
+CV: RRR, no murmurs/gallops/rubs.
+PULM: CTAB, no wheezing/crackles/rhonchi.
+ABD: Soft, non tender, non distended.
+EXTREM: No ___ edema. Pulses +2 ___P, ___ bilaterally.
+SKIN: No rashes.
+NEURO: A&Ox3, CN II-XII intact, motor and sensation grossly
+intact. 
+PSYCH: Cooperative, "good" mood, flattened affect, linear 
+thought
+process, no current SI/HI, no current visual/auditory
+hallucinations.
+
+DISCHARGE PHYSICAL EXAM:
+======================
+VITALS: 24 HR Data (last updated ___ @ 1209)
+    Temp: 96.6 (Tm 98.0), BP: 118/79 (101-132/58-81), HR: 86
+(86-98), RR: 18, O2 sat: 97% (96-98), O2 delivery: RA  
+GEN: In NAD. Lying in bed
+
+Pt refused exam

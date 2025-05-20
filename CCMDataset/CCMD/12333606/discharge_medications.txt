@@ -1,0 +1,15 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*3 
+2.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*3 
+3.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*3 
+4.  Losartan Potassium 100 mg PO DAILY  
+5.  Metoprolol Succinate XL 100 mg PO DAILY  
+6.  Sertraline 50 mg PO DAILY  
+7.  Vitamin D ___ UNIT PO DAILY  
+8.Outpatient Physical Therapy
+ICD-10: I63.9.

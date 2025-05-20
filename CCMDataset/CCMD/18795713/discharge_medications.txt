@@ -1,0 +1,14 @@
+1. Gabapentin 600 mg PO TID 
+2. Glargine 36 Units Breakfast
+Humalog 8 Units Breakfast
+Humalog 8 Units Lunch
+Humalog 8 Units Dinner
+RX *insulin glargine [Lantus] 100 unit/mL 36 units sc 36 Units 
+before BKFT; Disp #*1 Vial Refills:*0
+RX *insulin lispro [Humalog] 100 unit/mL 8 units sc 8 Units 
+before BKFT; 8 Units before LNCH; 8 Units before DINR; Disp #*1 
+Vial Refills:*0
+3. Lisinopril 40 mg PO DAILY 
+4. Metoprolol Tartrate 25 mg PO BID 
+5. Nortriptyline 25 mg PO QHS 
+6. Atorvastatin 40 mg PO QPM

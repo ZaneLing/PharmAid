@@ -1,0 +1,19 @@
+1.  Benzonatate 100 mg PO TID 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*21 Capsule Refills:*0 
+2.  GuaiFENesin ___ mL PO Q4H:PRN cough 
+RX *guaifenesin 1,200 mg 1 tab by mouth BID:PRN Disp #*20 Tablet 
+Refills:*0 
+3.  OSELTAMivir 75 mg PO Q12H 
+RX *oseltamivir 75 mg 1 capsule(s) by mouth twice a day Disp #*7 
+Capsule Refills:*0 
+4.  Aspirin 81 mg PO DAILY:PRN primary prevention 
+if you take a daily aspirin, would recommend 81 mg instead of 
+325 mg.  
+5.  BuPROPion XL (Once Daily) 450 mg PO DAILY  
+6.  Rosuvastatin Calcium 20 mg PO QPM  
+7.  tadalafil 10 mg oral PRN erectile dysfunction  
+8.Outpatient Lab Work
+Chem-10 
+
+ICD-10 R19.7 Diarrhea

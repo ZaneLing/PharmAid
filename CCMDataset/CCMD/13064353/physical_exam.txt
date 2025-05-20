@@ -1,0 +1,44 @@
+admission
+
+VITALS: 
+T 97.3F PO BP 141/84 HR75 RR 18 O2 97 RA
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+No rashes, no vesicles
+NECK: Neck is supple
+CHEST: Vesicular rash extends across the left side of the chest,
+just above the nipple, up to and not past the midline. In ED,
+cardiac exam had regular rate and rhythm, normal ___ and ___
+heart sounds, no ___ heart sound. Cardiac exam not performed
+because patient wanted to shower.
+LUNGS: No increased work of breathing. Im ED, lung sounds were
+clear. Again, lung exam not performed because patient wanted to
+shower.
+BACK: Vesicular rash extends across the left side of the back,
+wrapping around from the front at level just above the nipple, 
+up
+to and not passed the midline
+ABDOMEN: Non distended, non-tender to palpation.
+EXTREMITIES: No clubbing, cyanosis. 
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+Discharge
+
+24 HR Data (last updated ___ @ 432)
+    Temp: 98.5 (Tm 98.5), BP: 139/78 (126-164/77-92), HR: 61
+(61-74), RR: 18, O2 sat: 96% (96-99), O2 delivery: RA    
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+No rashes, no vesicles
+NECK: Neck is supple
+CHEST: Vesicular rash extends across the left side of the chest,
+just above the nipple, up to and not past the midline, fluid
+filled vesicles present. 
+LUNGS: No increased work of breathing. No crackles. CTAB 
+ABDOMEN: Non distended, non-tender to palpation.
+EXTREMITIES: No clubbing, cyanosis. 
+SKIN: Warm. Cap refill <2s. rash as above
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.

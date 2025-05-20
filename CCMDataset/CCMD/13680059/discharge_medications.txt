@@ -1,0 +1,12 @@
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Apixaban 10 mg PO BID Duration: 7 Days  
+3.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*2 
+4.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+RX *tramadol 50 mg 1 tablet(s) by mouth Every 12 hours Disp #*7 
+Tablet Refills:*0 
+5.Home oxygen
+___ Dx: Pulmonary embolism, I26
+2L Concentrator and portable tanks via NC for ___% room air
+Ambulation 85% room air; 92% on 2L

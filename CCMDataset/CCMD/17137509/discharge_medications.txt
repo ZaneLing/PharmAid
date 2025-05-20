@@ -1,0 +1,21 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every 6 hours Disp 
+#*60 Tablet Refills:*2 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice daily 
+Disp #*60 Capsule Refills:*2 
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain 
+take with food 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*60 Tablet Refills:*2 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Severe 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+do not drive or drink alcohol, may cause sedation 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*40 Tablet Refills:*0 
+5.  Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing, shortness of 
+breath  
+6.  Citalopram 40 mg PO DAILY  
+7.  Loratadine 10 mg PO DAILY

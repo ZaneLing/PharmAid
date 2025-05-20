@@ -1,0 +1,15 @@
+1.  Rivaroxaban 15 mg PO BID 
+with food 
+RX *rivaroxaban [___] 15 mg 1 tablet(s) by mouth twice a day 
+Disp #*42 Tablet Refills:*0 
+2.  Rivaroxaban 20 mg PO DAILY 
+take with food 
+RX *rivaroxaban [___] 20 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*2 
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 20 mg PO QPM  
+5.  Diltiazem Extended-Release 240 mg PO DAILY  
+6.  Lisinopril 40 mg PO DAILY  
+7.  Potassium Chloride 20 mEq PO DAILY 
+Hold for K >  
+8.  Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY

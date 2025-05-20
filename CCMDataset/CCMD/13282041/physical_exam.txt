@@ -1,0 +1,39 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: ___ 1740 Temp: 97.2 PO BP: 135/88 HR: 62 RR: 18 O2
+sat: 99% O2 delivery: Ra 
+GENERAL: in no acute distress, sitting up in bed, alert
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+DISCHARGE EXAM:
+===============
+24 HR Data (last updated ___ @ 939)
+    Temp: 97.7 (Tm 98.0), BP: 107/71 (107-135/69-88), HR: 76
+(58-90), RR: 16 (___), O2 sat: 99% (97-100), O2 delivery: RA,
+Wt: 109.9 lb/49.85 kg  
+GENERAL: in no acute distress, sitting up in chair and eating
+breakfast, alert
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing on room air.
+ABDOMEN: non distended, non-tender to deep palpation in all four
+quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. No rashes.

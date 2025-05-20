@@ -1,0 +1,13 @@
+1.  Cepacol (Sore Throat Lozenge) 1 LOZ PO Q6H:PRN sore throat 
+RX *dextromethorphan-benzocaine [Cepacol Sorethroat-Cough] 5 
+mg-7.5 mg 1 lozenge(s) by mouth QID:PRN Disp #*32 Lozenge 
+Refills:*0 
+2.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+3.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+4.  Magnesium Oxide 400 mg PO DAILY  
+5.  Vitamin B Complex 1 CAP PO DAILY  
+6.  Vitamin D 800 UNIT PO DAILY  
+7.  Ascorbic Acid ___ mg PO BID  
+8.  Multivitamins 1 TAB PO DAILY

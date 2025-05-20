@@ -1,0 +1,33 @@
+ON DISCHARGE:
+[ ]AVSS 
+___ 0726 Temp: 98.0 PO BP: 128/83 HR: 80 RR: 18 O2 sat: 98%
+O2 delivery: Ra 
+
+Bowel Regimen: [x]Yes [ ]No    Last BM: PTA
+
+Exam:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+BUE: 4+/5 throughout except deltoids ___ bilaterally. Limited by
+effort per exam. 
+
+IPQuadHamATEHLGast
+Right5        5       5      5        5       5
+Left5        5       5      5        5       5
+
+[+]Clonus - positive 2 beats bilateral 
+___ - positive on R, negative on L
+[x]Sensation intact to light touch
+
+Wound: 
+[x]Clean, dry, intact 
+[x]Dermabond

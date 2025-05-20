@@ -1,0 +1,24 @@
+PMH:
+CONGENITAL HEART DISEASE                                        
+HEART ATTACK                                                    
+COAGULATION  DISORDER                                           
+HISTORY OF BLOOD TRANSFUSSIONS                                  
+ANEMIA                                                          
+PSORIASIS                                                       
+HYPTONIC BLADDER                                                
+PELVIC CYST                                                     
+ARTIFICIAL HEART VALVE                                          
+SEASONAL ALLERGIES                                              
+HYPOTHYROIDISM                                                  
+NEUPATHIC BLADDER                                               
+LIPOPROTEIN DISORDERS                                           
+IRON DEFICIENCY ANEMIA                                          
+HEMORRHOIDS                                                     
+ALLERGIC RHINITIS                                               
+CARDIAC VALVE REPLACEMENT (MECHANICAL)                          
+AVR             
+
+PSH:
+ENDOMETRIAL ABLATION  ___   
+CARDIAC VALVE REPLACEMENT (MECHANICAL) ___
+ANKLE REPAIR, left

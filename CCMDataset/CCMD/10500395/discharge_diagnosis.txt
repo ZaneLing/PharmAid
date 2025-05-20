@@ -1,0 +1,11 @@
+PRIMARY
+========
+Helicobacter pylori infection
+Peptic ulcer disease
+Gastroesophageal reflux disease
+
+SECONDARY
+==========
+Tension headache
+Hypertension
+Hyperbilirubinemia

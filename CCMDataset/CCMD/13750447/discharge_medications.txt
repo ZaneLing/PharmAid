@@ -1,0 +1,18 @@
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*0 
+3.  Enoxaparin Sodium 40 mg SC DAILY 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+RX *enoxaparin 40 mg/0.4 mL 40 mg SC daily Disp #*28 Syringe 
+Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*70 Tablet Refills:*0 
+5.  amLODIPine 5 mg PO DAILY  
+6.  Aspirin 81 mg PO DAILY  
+7.  Loratadine 10 mg PO DAILY  
+8.  Omeprazole 20 mg PO BID  
+9.  Venlafaxine 37.5 mg PO BID  
+10.  Vitamin D 1000 UNIT PO DAILY

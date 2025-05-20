@@ -1,0 +1,35 @@
+ADMISSION PHYSICAL EXAM
+===========================
+VITALS: T 98.0F PO BP 107/67 HR 57 RR 20 O2 99 Ra 
+___: Alert and interactive. In no acute distress.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. No cervical,
+axillary lymphadenopathy. 
+SKIN: Warm.  Faint erythematous rash on volar surface of right
+forearm with one area of nodularity.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. 
+
+DISCHARGE PHYSICAL EXAM
+============================
+24 HR Data (last updated ___ @ 555)
+    Temp: 98.0 (Tm 98.0), BP: 107/67, HR: 57, RR: 20, O2 sat:
+99%, O2 delivery: Ra, Wt: 140 lb/63.5 kg  
+___: Alert and interactive. In no acute distress.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. No cervical,
+axillary, or forearm lymphadenopathy.
+SKIN: Warm.  2 very small spots of faint erythematous rash 
+within
+the borders of previously marked areas.
+NEUROLOGIC: AOx3. Moving all 4 limbs spontaneously.

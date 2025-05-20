@@ -1,0 +1,12 @@
+1.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+2.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+3.  Multivitamins W/minerals 1 TAB PO DAILY  
+4.Outpatient Lab Work
+D64.9:  Anemia
+Please check CBC on ___.  Please fax results to Pt's PCP 
+___, fax ___ and cardiologist ___ 
+___, ___.

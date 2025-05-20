@@ -1,0 +1,20 @@
+Discharge Physical Exam 
+=======================
+T98.1 HR81 sinus rhythm RR20 O2sat 97%-CPAP2L 
+GEN: NAD, A&Ox3
+CV: Regular rate 
+PULM: Non-labored breathing 
+ABD: soft, non-distended.  Surgical dressings c/d/I.  Minimal
+tenderness noted to epigastrium.  
+EXT:  WWP 
+
+Admission Physical Exam 
+=======================
+Post-op check 
+T97  BP142/68 SpO2 95% on CPAP  RR16  HR73
+GEN: NAD, A&Ox3
+CV: Regular rate 
+PULM: Non-labored breathing 
+ABD: soft, non-distended.  Surgical dressings c/d/I, no
+strikethrough. 
+EXT:  WWP

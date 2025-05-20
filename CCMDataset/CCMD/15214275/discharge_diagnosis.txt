@@ -1,0 +1,10 @@
+PRIMARY: 
+Flash pulmonary edema 
+Severe aortic stenosis 
+AFIB 
+CAD 
+HTN 
+CVA 
+
+SECONDARY:
+s/p L lobectomy

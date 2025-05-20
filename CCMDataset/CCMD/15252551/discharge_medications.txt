@@ -1,0 +1,12 @@
+1.Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.Ibuprofen 800 mg PO Q8H:PRN Pain - Moderate  
+3.Albuterol Inhaler ___ PUFF IH Q6H:PRN SOB  
+___ 105 mg PO DAILY  
+5.Crutches
+DX: Fracture of pelvis ICD9: 808
+PX: good
+___: 13 months
+6.Wheeled Walker
+DX: Fracture of pelvis ICD9: 808
+PX: good
+___: 9 months

@@ -1,0 +1,10 @@
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  Senna 8.6 mg PO BID  
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 80 mg PO QPM  
+5.  Diltiazem Extended-Release 360 mg PO DAILY  
+6.  Hydrochlorothiazide 25 mg PO DAILY  
+7.  Metoprolol Tartrate 100 mg PO BID  
+8.  Multivitamins 1 TAB PO DAILY  
+9. HELD- Warfarin 0.5 mg PO DAILY16  This medication was held. 
+Do not restart Warfarin until ___.

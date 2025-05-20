@@ -1,0 +1,3 @@
+Patient has not seen physician in ___ years.  In the past he
+would receive injections in his hands for arthritis. 
+?GERD, RA per medication list review

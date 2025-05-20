@@ -1,0 +1,33 @@
+ADMISSION PHYSICAL EXAM 
+=======================
+VS - T98.4, BP 131/60, HR 51, RR 18, SaO2 95%RA
+GENERAL: elderly gentleman lying in bed in NAD
+HEENT: AT/NC, EOMI, PERRL, icteric sclera, pink conjunctiva, dry 
+mucous membranes, good dentition
+NECK: nontender supple neck
+CARDIAC: regular, S1/S2, ___ systolic murmur at ___, no gallops 
+or rubs  
+LUNG: CTAB, normal work of breathing on RA
+ABDOMEN: mildly distended, +BS, nontender in all quadrants, no 
+rebound/guarding, no CVA or suprapubic tenderess
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose; osteoarthritic changes in DIP and MIP 
+of both hands
+NEURO: AOx3, CN II-XII intact
+
+DISCHARGE PHYSICAL EXAM 
+=======================
+VS - T98.6F , BP 124/68, HR 52, RR 16, SaO2 98%RA
+GENERAL: elderly gentleman lying in bed in NAD
+HEENT: NCAT, EOMI, PERRL, icteric sclera, pink conjunctiva, dry 
+mucous membranes, good dentition
+NECK: nontender, supple neck
+CARDIAC: regular, S1/S2, ___ systolic murmur at ___, no gallops 
+or rubs  
+LUNG: CTAB, normal work of breathing on RA
+ABDOMEN: mildly distended, +BS, nontender in all quadrants, no 
+rebound/guarding, no CVA or suprapubic tenderess
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose; osteoarthritic changes in DIP and MIP 
+of both hands
+NEURO: AOx3, CN II-XII intact, strength ___ ___, gait normal

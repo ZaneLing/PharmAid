@@ -1,0 +1,31 @@
+ADMISSION PHYSICAL:
+===================
+GENERAL: Well appearing woman lying on her side in bed. Oriented
+x3. Mood, affect appropriate.  
+HEENT: PERRL, EOMI, sclera anicteric, MMM no lesions, good
+dentition.    
+CARDIAC: tachycardic with regular rhythm. Normal S1, S2. No
+murmurs, rubs, or gallops. No thrills or lifts.  
+LUNGS: CTAB without wheeze or crackles   
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL:
+======================
+VS: T 98.5 BP 92-123/45-72 HR ___ SaO2 97% RA  
+GENERAL: Well appearing woman lying on her side in bed. Oriented
+x3. Mood, affect appropriate.  
+HEENT: PERRL, EOMI, sclera anicteric, MMM no lesions, good
+dentition.    
+CARDIAC: regular rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. No thrills or lifts.  
+LUNGS: CTAB without wheeze or crackles   
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.

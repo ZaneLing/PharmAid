@@ -1,0 +1,12 @@
+1.  Acetaminophen 1000 mg PO TID 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth every six (6) 
+hours Disp #*50 Tablet Refills:*0 
+2.  Ibuprofen 600 mg PO TID 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth three times a day Disp 
+#*21 Tablet Refills:*0 
+3.  Atorvastatin 10 mg PO QPM  
+4.  BuPROPion (Sustained Release) 150 mg PO QAM  
+5.  LamoTRIgine 100 mg PO QPM  
+6.  Methadone 85 mg PO DAILY  
+7.  Methocarbamol 500 mg PO QPM:PRN muscle tightness  
+8.  Topiramate (Topamax) 100 mg PO BID

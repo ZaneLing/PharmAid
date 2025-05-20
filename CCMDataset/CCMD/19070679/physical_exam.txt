@@ -1,0 +1,38 @@
+ON ADMISSION:
+=============
+VS: ___ 0543 Temp: 97.6 PO BP: 130/77 L Sitting HR: 78 RR:
+18 O2 sat: 98% O2 delivery: RA 
+GENERAL: NAD  
+HEENT: AT/NC, anicteric sclera, MMM  
+NECK: supple, no LAD  
+CV: irregularly irregular rhythm, S1/S2, no murmurs, gallops, or
+rubs  
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: trace lower extremity edema, no asterixis 
+PULSES: 2+ radial pulses bilaterally  
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric  
+DERM: warm and well perfused, no jaundice
+
+ON DISCHARGE:
+=============
+24 HR Data (last updated ___ @ 1133)
+Temp: 97.5 (Tm 97.6), BP: 142/80 (118-142/77-80), HR: 84 
+(78-84),
+RR: 17 (___), O2 sat: 100% (98-100), O2 delivery: Ra, Wt:
+170.19 lb/77.2 kg  
+GENERAL: NAD  
+HEENT: AT/NC, anicteric sclera, MMM
+CV: irregularly irregular rhythm, S1/S2, no murmurs/rubs/gallops 
+
+PULM: CTAB, no wheezes/crackles/rhonchi,breathing comfortably
+without use of accessory muscles  
+GI: Abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no palpable hepatosplenomegaly, normoactive BS
+EXTREMITIES: Warm and well perfused, no edema 
+PULSES: 2+ radial pulses bilaterally  
+NEURO: A&Ox3, Alert, moving all 4 extremities with purpose, face
+symmetric

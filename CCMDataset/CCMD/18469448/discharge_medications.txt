@@ -1,0 +1,12 @@
+1. ClonazePAM 1 mg PO QHS 
+RX *clonazepam 1 mg 1 (One) tablet(s) by mouth every night Disp 
+#*14 Tablet Refills:*0
+2. Prazosin 1 mg PO QHS 
+RX *prazosin 1 mg 1 (One) capsule(s) by mouth every night Disp 
+#*14 Capsule Refills:*0
+3. ARIPiprazole 15 mg PO QHS
+RX *aripiprazole 15 mg (one) tablet  by mouth every night Disp 
+#*30 Tablet Refills:*0
+4. Levothyroxine Sodium 75 mcg PO DAILY 
+RX *levothyroxine 75 mcg 1 (One) tablet(s) by mouth every 
+morning Disp #*14 Tablet Refills:*0

@@ -1,0 +1,16 @@
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever 
+RX *acetaminophen 500 mg/15 mL ___ tablet(s) by mouth every six 
+(6) hours Disp #*60 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain - Mild/Fever NOT relieved 
+by Acetaminophen 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*60 Tablet Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*10 Tablet Refills:*0

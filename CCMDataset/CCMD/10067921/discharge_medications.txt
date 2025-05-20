@@ -1,0 +1,13 @@
+1.  Acetaminophen-Caff-Butalbital ___ TAB PO Q6H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Do not exceed 6 tablets/day 
+RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg ___ 
+capsule(s) by mouth every 6 hours as needed Disp #*30 Capsule 
+Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  LamoTRIgine 200 mg PO QAM  
+4.  LamoTRIgine 100 mg PO QPM  
+5.  Pantoprazole 40 mg PO Q24H  
+6.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate

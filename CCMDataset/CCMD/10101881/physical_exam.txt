@@ -1,0 +1,44 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: ___ 2356 Temp: 97.9 PO BP: 136/72 L Lying HR: 68 
+RR:
+18 O2 sat: 94% O2 delivery: Ra FSBG: 92 
+GENERAL: Alert and interactive. In no acute distress.
+EYES: NCAT. PERRL, EOMI. Sclera anicteric and without injection. 
+
+ENT: MMM. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+RECTAL: Normal rectal tone. Enlarged prostate with smooth
+borders. No nodules palpated.
+MSK: No CVA tenderness. No clubbing, cyanosis, or edema. 
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal. AOx3.
+PSYCH: appropriate mood and affect
+
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 1659)
+Temp: 99.1 (Tm 99.1), BP: 132/81 (132-139/72-87), HR: 65 
+(65-86), RR: 18 (___), O2 sat: 95% (91-95), O2 delivery: Ra, 
+Wt: 192.1 lb/87.14 kg
+GENERAL: Continues alert and interactive. In no acute distress.
+EYES: NCAT. EOMI. Sclera anicteric and without injection. 
+ENT: MMM. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+GU: Foley in place without trauma or bleeding around meatus
+MSK: No CVA tenderness. No clubbing, cyanosis, or edema. 
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal. AOx3.
+PSYCH: appropriate mood and affect

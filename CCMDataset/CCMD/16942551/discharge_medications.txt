@@ -1,0 +1,9 @@
+1.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 13 Days 
+end ___ 
+RX *ciprofloxacin HCl [___] 500 mg 1 tablet(s) by mouth twice 
+a day Disp #*14 Tablet Refills:*0 
+2.  MetroNIDAZOLE 500 mg PO Q8H Duration: 13 Days 
+end ___ 
+RX *metronidazole 500 mg 1 tablet(s) by mouth every eight (8) 
+hours Disp #*21 Tablet Refills:*0 
+3.  Atenolol 25 mg PO QHS

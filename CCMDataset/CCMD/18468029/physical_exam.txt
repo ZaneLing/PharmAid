@@ -1,0 +1,22 @@
+Admission:
+___ 1139 Temp: 98.1 PO BP: 114/71 R Lying HR: 82 RR: 18 O2
+sat: 100% O2 delivery: Ra 
+GEN: Well appearing, in no acute distress
+HEENT: Conjunctiva clear, PERRL, MMM
+NECK: No JVD.
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. No m/r/g.
+ABD: NT/ND, normal bowel sounds. 
+EXTREMITIES: No edema. 
+SKIN: No rashes. Sacral ulcer on left, 4cm, down to bone, beefy
+red granulation tissue present, no purulence.
+NEURO: AOx3. Paraplegia, with ___ strength in UE and normal CN. 
+
+Discharge Exam:
+T 97.9 PO BP 108 / 67 HR 83 RR 18 ___ 99 Ra 
+Gen: Well appearing, AOX3
+CV: RRR, no r/m/g
+Pulm: CTAB 
+Abdomen: soft NTND, no organomegaly
+Skin: Left ischium with decubitus ulcer without bone exposed, 
+clean base without any evidence of infection

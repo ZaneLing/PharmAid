@@ -1,0 +1,15 @@
+___
+Comments: Asthma runs in his family. Reports that his brother   
+          died at the age of ___, possible from an acute asthma  
+          flare. 
+ 
+Physical Exam:
+___ ___ Temp: 98.2 PO BP: 139/74 R Lying HR: 65 RR: 18 O2
+sat: 93% O2 delivery: RA 
+Fluid Balance (last updated ___ @ 922) 
+  Last 8 hours  Total cumulative -175ml
+    IN: Total 100ml, PO Amt 100ml
+    OUT:  Total 275ml, Urine Amt 275ml
+  Last 24 hours  Total cumulative 496ml
+    IN: Total 1431ml, PO Amt 820ml, IV Amt Infused 611ml
+    OUT:  Total 935ml, Urine Amt 935ml

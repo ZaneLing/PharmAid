@@ -1,0 +1,22 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+PACU ONLY
+RX *acetaminophen 500 mg ___ tablet(s) by mouth Q6-8H:PRN Disp 
+#*50 Tablet Refills:*0 
+2.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*14 Tablet Refills:*0 
+3.  Diazepam 2 mg PO Q8H:PRN anxiety 
+RX *diazepam 2 mg 1 by mouth Q8H:PRN Disp #*12 Tablet Refills:*0 
+
+4.  Doxycycline Hyclate 100 mg PO Q12H 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth twice a day 
+Disp #*14 Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: One order is PACU only
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q4-6H:PRN Disp #*20 
+Tablet Refills:*0 
+6.  Aspirin 325 mg PO DAILY Duration: 30 Days 
+RX *aspirin 325 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+7.  FLUoxetine 20 mg PO DAILY

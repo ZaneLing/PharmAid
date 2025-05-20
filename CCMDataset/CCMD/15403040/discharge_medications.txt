@@ -1,0 +1,15 @@
+1.  Acetaminophen 500 mg PO Q6H  
+2.  Cephalexin 500 mg PO Q12H 
+RX *cephalexin 500 mg 1 tablet(s) by mouth Every 12 hours Disp 
+#*10 Tablet Refills:*0 
+3.  Ibuprofen 400 mg PO Q8H  
+4.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg 1 tablet(s) by mouth Every 4 hours as needed 
+Disp #*25 Tablet Refills:*0 
+5.  amLODIPine 10 mg PO DAILY  
+6.  Pyridostigmine Bromide 60 mg PO Q8H  
+7.  Rosuvastatin Calcium 20 mg PO QPM  
+8.  Zolpidem Tartrate 5 mg PO QHS:PRN for insomnia

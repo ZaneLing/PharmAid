@@ -1,0 +1,41 @@
+Temp  98   BP  100/60  HR  80  RR 16  RA sat 97%
+
+GENERAL        
+[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:
+
+HEENT          
+[x] NC/AT   [x] EOMI   [x] Anicteric
+[ ] Abnormal findings:
+
+RESPIRATORY    
+[x] CTA/P     [x] Excursion normal     [ ] Abnormal findings:
+
+CARDIOVASCULAR 
+[x] RRR    [x] No m/r/g    [x] No JVD   [x] No edema
+[ ] Abnormal findings:
+
+GI             
+[x] Soft    [x] NT   [x] ND [ ] Abnormal findings:
+
+GU             [x] Deferred  
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+
+NEURO          
+[x] No facial asymmetry [x] Cognition intact [ ] Abnormal
+findings:
+
+MS         
+[x] No clubbing   [x] No cyanosis   [x] No edema  [x] Nails nl  
+[ ] Abnormal findings:
+
+LYMPH NODES   
+ [x] Supraclavicular nl      [ ] Abnormal findings:
+
+SKIN           
+[x] No rashes/lesions/ulcers
+[x] No induration/nodules/tightening     [ ] Abnormal findings:
+
+PSYCHIATRIC    
+[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect
+[ ] Abnormal findings:

@@ -1,0 +1,36 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS:
+24 HR Data (last updated ___ @ 2325)
+    Temp: 99.2 (Tm 99.2), BP: 130/69 (130-142/69-71), HR: 77
+(77-85), RR: 16 (___), O2 sat: 98% (97-98), O2 delivery: RA,
+Wt: 136.46 lb/61.9 kg  
+GENERAL:     Alert and interactive. In no acute distress.
+HEENT:       PERRL, EOMI. MMM.
+CARDIAC:     RRR no m/r/g
+LUNGS:       Decreased breath sound on the left in the upper 
+             lung lobe. Otherwise CTAB no r/r/w.
+ABDOMEN:     Soft, NT, ND, +BS
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN:        Warm. No rashes.
+NEUROLOGIC:  AOx3. CN2-12 intact. Moving all 4 limbs 
+             spontaneously. 
+
+DISCHARGE PHYSICAL EXAM:
+========================
+___ Temp: 97.8BP: 127/70, HR: 74, RR: 18, O2 sat: 96%, O2 
+delivery: Ra  
+GENERAL: NAD 
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: decrease breath sounds lower lobes, no wheezes, rales, 
+rhonchi,
+breathing comfortably without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: Warm and well perfused, no excoriations or lesions, no
+rashes

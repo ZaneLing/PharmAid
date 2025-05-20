@@ -1,0 +1,9 @@
+Physical Exam:    ___:
+
+Gen: [x] NAD, [] AAOx3, facial edema and periorbital ecchymosis,
+Subconjunctival hemorrhages, EOMI.
+CV: [x] RRR, [] murmur
+Resp: [x] breaths unlabored, [] CTAB, [] wheezing, [] rales
+Abdomen: [x] soft, [] distended, [] tender, [] rebound/guarding
+Wound: [] incisions clean, dry, intact
+Ext: [x] warm, [] tender, [] edema

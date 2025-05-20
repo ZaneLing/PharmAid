@@ -1,0 +1,8 @@
+1.  Ondansetron ODT 4 mg PO Q8H:PRN NAUSEA 
+RX *ondansetron 4 mg 1 tablet(s) by mouth every ___ hours Disp 
+#*30 Tablet Refills:*0 
+2.  DICYCLOMine ___ mg PO TID  
+3.  Multivitamins 1 TAB PO DAILY  
+4.  Omeprazole 20 mg PO DAILY  
+5.  Pravastatin 20 mg PO QPM  
+6.  TraZODone 50 mg PO QHS:PRN insomnia

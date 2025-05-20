@@ -1,0 +1,20 @@
+24 HR Data (last updated ___ @ 350)
+    Temp: 98.1 (Tm 98.5), BP: 98/63 (91-106/53-66), HR: 66
+(58-72), RR: 18 (___), O2 sat: 93% (90-93), O2 delivery: 1l
+(1l-2l)
+___: BMI: 31.2
+Fluid Balance (last updated ___ @ 100)
+  Last 8 hours  Total cumulative 60ml
+    IN: Total 60ml,  PO amount 60ml
+    OUT:  Total 0ml, Urine amount 0ml
+  Last 24 hours  Total cumulative 1000ml
+    IN: Total 1000ml,  PO amount 1000ml
+    OUT:  Total 0ml, Urine amount 0ml, L chest 0ml
+
+Gen: [X] NAD, [X] AAOx3
+CV: [X] RRR, [] murmur
+Resp: [X] breaths unlabored, [X] CTAB, [] wheezing, [] rales -
+currently saturating 95% on room air
+Abdomen: [X] soft, [] distended, [] tender, [] rebound/guarding
+Wound: [X] incisions clean, dry, intact
+Ext: [X] warm, [] tender, [] edema

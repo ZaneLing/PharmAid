@@ -1,0 +1,12 @@
+1. Acetaminophen 1000 mg PO Q8H 
+2. Ibuprofen 600 mg PO Q8H:PRN pain 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*30 Tablet Refills:*0
+3. Levothyroxine Sodium 125 mcg PO DAILY 
+RX *levothyroxine 125 mcg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*3
+4. Loratadine 10 mg PO DAILY 
+5. OxyCODONE (Immediate Release) ___ mg PO Q3H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every three (3) hours 
+Disp #*20 Tablet Refills:*0

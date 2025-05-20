@@ -1,0 +1,13 @@
+1.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+2.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+3.  Glargine 60 Units Bedtime 
+4.  Atorvastatin 80 mg PO QPM  
+5.  Bydureon (exenatide microspheres) 2 mg/0.65 mL subcutaneous 
+QWEEKLY  
+6.  glimepiride 2 mg oral DAILY  
+7.  Losartan Potassium 100 mg PO DAILY  
+8.  MetFORMIN (Glucophage) 1000 mg PO BID

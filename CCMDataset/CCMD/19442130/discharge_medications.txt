@@ -1,0 +1,16 @@
+1. Stribild 1 TAB PO DAILY 
+RX *elviteg-cobi-emtric-tenofo dis [Stribild] 150 mg-150 mg-200 
+mg-300 mg 1 tablet(s) by mouth once daily Disp #*30 Tablet 
+Refills:*0
+2. Sulfameth/Trimethoprim DS 2 TAB PO TID 
+RX *sulfamethoxazole-trimethoprim [Bactrim DS] 800 mg-160 mg 2 
+tablet(s) by mouth three times a day Disp #*108 Tablet 
+Refills:*0
+3. Nystatin Oral Suspension 10 mL PO QID:PRN thrush 
+RX *nystatin 100,000 unit/mL 1 by mouth QID:PRN Refills:*0
+4. PredniSONE 40 mg PO BID Duration: 5 Days 
+RX *prednisone 20 mg 1 tablet(s) by mouth daily Disp #*23 Tablet 
+Refills:*0
+5. Azithromycin 1200 mg PO 1X/WEEK (MO) 
+RX *azithromycin 600 mg 1 tablet(s) by mouth once weekly Disp 
+#*12 Tablet Refills:*0

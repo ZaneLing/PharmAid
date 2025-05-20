@@ -1,0 +1,93 @@
+PHYSICAL EXAMINATION ON ADMISSION:
+Temp: 98.2. Pulse: 60. RR: 16. BP: 174/94 O2: 92% RA 
+
+GCS at the scene: unknown
+
+GCS upon Neurosurgery Evaluation: 15        
+Time of evaluation: ___, 00:01
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [x]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam:
+
+Gen: WD/WN, comfortable, NAD.
+
+HEENT:
+Pupils: PERRL 
+EOMs: Intact 
+
+Extrem: warm and well perfused
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to person, place, and date.
+
+Language: Speech is fluent with good comprehension. 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 2 to 1
+mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+PHYSICAL EXAMINATION ON DISCHARGE:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  Right 3-2mm     Left 3-2mm
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift: [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact: [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+Right    5         5      5       5      5
+Left     5         5      5       5      5
+
+IPQuadHamATEHLGast
+Right5        5       5      5        5       5
+Left5        5       5      5        5       5
+
+[x]Sensation intact to light touch

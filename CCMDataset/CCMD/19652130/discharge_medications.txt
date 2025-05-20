@@ -1,0 +1,22 @@
+1.  Acetaminophen 650 mg PO TID  
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*30 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Mild 
+RX *oxycodone [Oxaydo] 5 mg 1 tablet(s) by mouth q8 hr Disp #*8 
+Tablet Refills:*0 
+4.  Tamsulosin 0.4 mg PO QHS stent pain  
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth daily Disp #*20 
+Capsule Refills:*0 
+5.  amLODIPine 10 mg PO DAILY  
+6.  Ascorbic Acid ___ mg PO BID  
+7.  Aspirin 81 mg PO DAILY  
+8.  Atorvastatin 20 mg PO QPM  
+9.  Fish Oil (Omega 3) 1000 mg PO BID  
+10.  Hydrochlorothiazide 12.5 mg PO DAILY  
+11.  IMatinib Mesylate 400 mg PO DAILY  
+12.  Lisinopril 5 mg PO DAILY  
+13.  MetFORMIN (Glucophage) 1500 mg PO DAILY  
+14.  Metoprolol Tartrate 25 mg PO BID  
+15.  Multivitamins 1 TAB PO DAILY  
+16.  Vitamin D 1000 UNIT PO DAILY

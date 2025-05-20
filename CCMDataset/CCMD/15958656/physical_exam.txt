@@ -1,0 +1,15 @@
+Temp: 98.2 PO BP: 156/79 R Lying HR: 82 RR: 18 O2
+sat: 97% O2 delivery: RA 
+VS: Refer to flowsheet
+GEN: AOx3 WN, WD in NAD
+HEENT: NCAT, EOMI, anicteric
+CV: RRR
+PULM: unlabored breathing with symmetric chest rise, no
+respiratory distress
+EXT: 
+
+Right lower extremity:
+- Right lower extremity in hinged knee brace
+- ___ fire
+- SILT SPN/DPN/TN/saphenous/sural distributions
+- foot warm and well-perfused

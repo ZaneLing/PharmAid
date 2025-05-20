@@ -1,0 +1,18 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Allopurinol ___ mg PO DAILY  
+3.  Aspirin 81 mg PO DAILY  
+4.  Cyanocobalamin 1000 mcg IM/SC MONTHLY  
+5.  Gabapentin 100 mg PO QHS  
+6.  Meclizine 25 mg PO DAILY:PRN dizziness  
+7.  Methocarbamol 750 mg PO TID  
+8.  Metoprolol Tartrate 100 mg PO BID  
+9.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+10.  Pantoprazole 40 mg PO Q12H  
+11.  QuiNINE Sulfate 324 mg PO QHS  
+12.  Sumatriptan Succinate 50 mg PO DAILY:PRN migraine  
+13.  Topiramate (Topamax) 25 mg PO QHS  
+14.  Verapamil SR 300 mg PO Q24H  
+15.Outpatient Physical Therapy
+ICD10 S93.401A; right ankle sprain.
+
+Evaluate and treat for right ankle pain and falls.

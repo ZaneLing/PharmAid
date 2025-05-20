@@ -1,0 +1,78 @@
+1.  Acetaminophen 1000 mg PO TID 
+RX *acetaminophen 500 mg 2 capsule(s) by mouth q8hr Disp #*60 
+Capsule Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+3.  Lidocaine 5% Patch 1 PTCH TD QAM To L leg 
+RX *lidocaine [Lidoderm] 5 % Apply to leg and ribs daily Disp 
+#*30 Patch Refills:*0 
+4.  Senna 8.6 mg PO BID:PRN constipation 
+RX *sennosides [Senna-Gen] 8.6 mg 1 by mouth daily Disp #*30 
+Tablet Refills:*0 
+5.  Ferrous Sulfate As directed mg PO DAILY  
+6.  olmesartan As Directed mg oral DAILY  
+7.  Omeprazole As directed mg PO DAILY  
+8.  risedronate As Directed mg oral ASDIR  
+9.  Simvastatin As directed mg PO QPM  
+10.  Aspirin 81 mg PO DAILY  
+11.  Levothyroxine Sodium 100 mcg PO DAILY  
+12.  Vitamin D 5000 UNIT PO DAILY  
+13.Outpatient Physical Therapy
+icd10 S22 rib fracture
+
+Pt is a ___ F who presents to
+physical therapy during hospitalization for the management of
+syncopal fall. Pt continues to demonstrate steady gait with ___
+but does not own correct size ___ and will need to be issued one.
+Despite S level here, anticipate indep within own home if niece
+is able to verify that ___ will fit through doorways which the
+patient is concerned about. Pt states she will have S-CGA for
+stairs to enter her home. Recommend home ___ services at time of
+d/c. If ___ is able to be issued and will fit through doorways, 
+pt
+will be safe for home. However, if unable to occur today,
+recommend ___ more visits to ensure safety at home. Will 
+continue
+to follow to progress as able. 
+
+Recommended Discharge: ( )rehab (X)home with ___ services with
+pedi ___ and after niece ensures ___ will fit through doorways
+
+PLAN: 
+Progress functional mobility including bed mobility, transfers,
+gait and stairs as tolerated.
+Balance training
+Therex
+Pt/caregiver education RE: fall risk
+D/C planning
+
+Recommendations for Nursing:
+Pt is at high risk for deconditioning please encourage frequent
+mobility and maximize independence in ADLs.
+Amb with ___ and S 3x/day.
+Assist of 1 for out of bed to chair with ___ 3x/day.
+Please use chair alarm when out of bed.
+Normalize sleep-wake cycle to decrease risk of delirium.
+
+14.Outpatient Occupational Therapy
+ICD 10  S22 & R55
+
+___ year old female s/p syncopal event now presenting as 
+mentioned above. When medically stable
+the patient will be safe for home d/c with home OT ___ ___ bath/
+dress limitations. Recommending continued homemaker services and
+meals on wheels. 
+
+Current/ Goal/ Discharge Status:
+___ Self Care 
+AM-PAC raw score: 22
+Based on the results of the AM-PAC, the patient presents with 
+CMS severity: 1%<20%  impaired (CI)
+
+Goals:               Time Frame: Time of eval
+- Min assist ___ ADL
+- ___ tests of attention in 1 minute
+- Supervised sit to stand
+
+Anticipated Discharge: home with home OT

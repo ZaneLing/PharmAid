@@ -1,0 +1,47 @@
+ADMISSION: 
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs diminished at bilateral bases, otherwise clear to 
+auscultation with good air movement bilaterally.  Breathing is 
+non-labored
+GI: Abdomen soft, non-distended, mildly tender to palpation in 
+upper quadrants and epigastric region.  Bowel sounds hypoactive. 
+
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted; tattoos on upper 
+extremities
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE: 
+VS: Temp: 98.3 PO BP: 136/70 L Sitting HR: 71 RR: 18 O2 sat: 93% 
+RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs diminished at bilateral bases, otherwise clear to 
+auscultation with good air movement bilaterally.  Breathing is 
+non-labored
+GI: Abdomen soft, non-distended, mildly tender to palpation in 
+upper quadrants and epigastric region.  Bowel sounds hypoactive. 
+
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted; tattoos on upper
+extremities
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly
+intact throughout
+PSYCH: pleasant, appropriate affect

@@ -1,0 +1,13 @@
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  cefaDROXil 500 mg oral BID 
+RX *cefadroxil 500 mg 1 capsule(s) by mouth twice a day Disp 
+#*10 Capsule Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*30 Capsule Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*40 Tablet Refills:*0 
+5.  anagrelide 1 mg oral Q24H  
+6.  Aspirin 81 mg PO DAILY

@@ -1,0 +1,33 @@
+1. Amlodipine 5 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Finasteride 5 mg PO DAILY 
+4. PredniSONE 50 mg PO ONCE Duration: 1 Dose 
+This is dose # 1 of 5 tapered doses
+RX *prednisone 10 mg 5 tablet(s) by mouth once ___ Disp #*5 
+Tablet Refills:*0
+5. PredniSONE 40 mg PO ONCE Duration: 1 Dose 
+Start: After 50 mg ONCE tapered dose 
+This is dose # 2 of 5 tapered doses
+RX *prednisone 10 mg 4 tablet(s) by mouth once ___ Disp #*4 
+Tablet Refills:*0
+6. PredniSONE 30 mg PO ONCE Duration: 1 Dose 
+Start: After 40 mg ONCE tapered dose 
+This is dose # 3 of 5 tapered doses
+RX *prednisone 10 mg 3 tablet(s) by mouth once ___ Disp #*3 
+Tablet Refills:*0
+7. PredniSONE 20 mg PO ONCE Duration: 1 Dose 
+Start: After 30 mg ONCE tapered dose 
+This is dose # 4 of 5 tapered doses
+RX *prednisone 10 mg 2 tablet(s) by mouth once ___ Disp #*2 
+Tablet Refills:*0
+8. PredniSONE 10 mg PO ONCE Duration: 1 Dose 
+Start: After 20 mg ONCE tapered dose 
+This is dose # 5 of 5 tapered doses
+RX *prednisone 10 mg 1 tablet(s) by mouth once ___ Disp #*1 
+Tablet Refills:*0
+9. MetRONIDAZOLE (FLagyl) 500 mg PO TID 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*40 Tablet Refills:*0
+10. Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tab by mouth 
+twice a day Disp #*27 Tablet Refills:*0

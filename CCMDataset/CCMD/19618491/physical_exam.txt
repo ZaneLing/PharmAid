@@ -1,0 +1,29 @@
+ADMISSION:
+S: 97.7 126 80 89 20 95% RA  
+ GENERAL: NAD  
+ HEENT: AT/NC, EOMI, PERRL, anicteric sclera, MMM  
+ NECK: supple, no LAD, no JVD  
+ HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+ LUNGS: CTAB, no wheezes, rales, rhonchi  
+ ABDOMEN: soft, nondistended, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+ EXTREMITIES: WWP, no cyanosis, clubbing, or edema  
+ PULSES: 2+ DP pulses bilaterally  
+ NEURO: A&Ox3, moving all 4 extremities with purpose  
+ SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+DISCHARGE:
+VITALS: 97.7127 / ___    
+GENERAL: Alert, oriented, no acute distress  
+CARDIOVASCULAR: Regular rate and rhythm, normal S1 + S2, no 
+murmurs, rubs, gallops  
+LUNGS: Clear to auscultation bilaterally without wheezes, rales, 
+rhonchi
+ABDOMEN: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+EXTREMITIES: Warm, well perfused, 2+ pulses, no clubbing, 
+cyanosis or edema  
+NEURO: Face grossly symmetric. Moving all limbs with purpose 
+against gravity. Speech fluent.

@@ -1,0 +1,5 @@
+1.  Acetaminophen 650 mg PO Q6H  
+2.  Lidocaine 5% Patch 1 PTCH TD QAM  
+3.  TraMADol 50 mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity

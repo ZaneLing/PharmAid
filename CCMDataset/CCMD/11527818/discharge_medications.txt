@@ -1,0 +1,25 @@
+1.  amLODIPine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  FreeStyle Lancets (lancets) 28 gauge miscellaneous 1X:ASDIR 
+RX *lancets [FreeStyle Lancets] 28 gauge use one lancet twice 
+daily Disp #*100 Each Refills:*0 
+3.  FreeStyle Lite Meter (blood-glucose meter) 1 meter 
+miscellaneous ASDIR 
+RX *blood-glucose meter [FreeStyle Lite Meter]  1 kit dispense 1 
+kit Disp #*1 Kit Refills:*0 
+4.  FreeStyle Lite Strips (blood sugar diagnostic) 1 strip 
+miscellaneous as directed 
+RX *blood sugar diagnostic [FreeStyle Test]  1 strip twice daily 
+Disp #*100 Strip Refills:*0 
+5.  Insulin Syringe (insulin syringe-needle U-100) 0.5 mL 29 
+gauge x ___ miscellaneous 1X:ASDIR  
+6.  Glargine 10 Units Breakfast
+RX *insulin glargine [Lantus] 100 unit/mL 10 U subcutaneosu qAM 
+Disp #*1 Vial Refills:*0 
+7.  Labetalol 100 mg PO Q8H 
+RX *labetalol 100 mg 1 tablet(s) by mouth q8 hours Disp #*90 
+Tablet Refills:*0 
+8.  PredniSONE 80 mg PO DAILY Duration: 14 Doses 
+RX *prednisone 20 mg 4 tablet(s) by mouth daily Disp #*48 Tablet 
+Refills:*0

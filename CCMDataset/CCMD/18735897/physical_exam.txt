@@ -1,0 +1,17 @@
+Discharge exam
+Vitals: 24 HR Data (last updated ___ @ 018)
+    Temp: 98.4 (Tm 98.4), BP: 139/84, HR: 98, RR: 18, O2 sat:
+96%, O2 delivery: 2L
+Fluid Balance (last updated ___ @ 2336)
+  Last 8 hours  Total cumulative 2100ml
+    IN: Total 2200ml, IV Amt Infused 2200ml
+    OUT:  Total 100ml, Urine Amt 100ml
+  Last 24 hours  Total cumulative 2100ml
+    IN: Total 2200ml, IV Amt Infused 2200ml
+    OUT:  Total 100ml, Urine Amt 100ml
+Physical exam:
+Gen: NAD, AxOx3
+Card: RRR, no m/r/g
+Pulm: CTAB, no respiratory distress
+Abd: Soft, non-tender, non-distended, normal bs.  
+Ext: No edema, warm well-perfused

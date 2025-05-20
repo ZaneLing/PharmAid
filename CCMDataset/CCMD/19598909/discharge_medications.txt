@@ -1,0 +1,17 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth five times daily 
+Disp #*60 Tablet Refills:*0 
+2.  Cephalexin 500 mg PO Q12H Duration: 5 Days 
+RX *cephalexin 500 mg 1 tablet(s) by mouth twice daily Disp #*10 
+Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice daily Disp 
+#*50 Tablet Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg 1 to 2 tablet(s) by mouth every 4 hours Disp 
+#*36 Tablet Refills:*0 
+5.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth daily Disp #*40 
+Tablet Refills:*0 
+6.  Lisinopril 20 mg PO DAILY  
+7.  Simvastatin 20 mg PO QPM

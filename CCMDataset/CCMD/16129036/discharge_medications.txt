@@ -1,0 +1,15 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY to prevent stent thrombosis 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+5.  dulaglutide 0.75 mg/0.5 mL subcutaneous 1X/WEEK  
+6.  Lisinopril 20 mg PO DAILY  
+7.  MetFORMIN XR (Glucophage XR) 500 mg PO BID

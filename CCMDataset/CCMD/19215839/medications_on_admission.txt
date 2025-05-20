@@ -1,0 +1,7 @@
+All: NKDA  
+ Medications:  
+ Vagifem  
+ Omeprazole 20 mg PO daily  
+ Codeine-Guaifenesin  
+ Fluticasone inhaler  
+ Fluconazole

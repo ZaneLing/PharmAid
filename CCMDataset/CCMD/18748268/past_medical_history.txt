@@ -1,0 +1,12 @@
+[ ] HIV/Aids                         [ ] Stroke
+[ ] Skin cancer                      [ ] Hepatitis
+[ ] Rheumatic fever                  [ ] Bleeding problem  
+[ ] Tuberculosis                     [ ] Blood transfusion
+[ ] Diabetes                         [ ] Cancer
+[ ] Asthma                           [ ] Arthritis   
+[ ] Heart murmur                     [ X] High blood pressure
+[ ] Anemia                           [ ] Heart disease 
+[ ] Mitral valve prolapse            [ ] Kidney disease 
+[ X] Thyroid disease                  [ ] Glaucoma   
+[ ] History of DVT/blood clots       [ X] History of 
+miscarriages

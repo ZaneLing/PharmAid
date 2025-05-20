@@ -1,0 +1,17 @@
+1.  Acetaminophen 1000 mg PO Q6H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every six (6) 
+hours Disp #*30 Tablet Refills:*0 
+2.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*8 Tablet Refills:*0 
+3.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram 1 packet(s) by mouth once a 
+day Disp #*20 Packet Refills:*0 
+4.  Senna 8.6 mg PO DAILY  
+5.  Amphetamine-Dextroamphetamine XR 20 mg PO DAILY  
+6.  Amphetamine-Dextroamphetamine XR 10 mg PO DAILY  
+7.  FLUoxetine 60 mg PO DAILY  
+8.  Omeprazole 20 mg PO BID

@@ -1,0 +1,20 @@
+Admission Physical Exam: 
+========================
+Vitals: 96.1 87 106/79 (on pressors) 100% on ___ 
+GENERAL: Unresponsive on ventilator, e/o poor self-care  
+HEENT: Sclera anicteric, MMM, oropharynx clear ETT in place  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: RRR, normal S1 S2, no murmurs, rubs, gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: WWP 2+ pulses, no clubbing, cyanosis or edema  
+SKIN: No rashes/lesions  
+NEURO: AAOx0 GCS: 3, pupils are fixed and dilated, no 
+occulocranial reflexes. No gag or cough. No corneal reflexes. No 
+response to noxious stimuli  
+
+Discharge Physical Exam: 
+=========================
+Patient expired.

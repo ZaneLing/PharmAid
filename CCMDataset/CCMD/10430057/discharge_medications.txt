@@ -1,0 +1,13 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain  Mild,  HA, T>100 
+degrees  
+RX *acetaminophen 325 mg ___ tablet(s) by mouth every six (6) 
+hours Disp #*30 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*14 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg ___ tablet(s) by mouth Every ___ hours Disp 
+#*5 Tablet Refills:*0

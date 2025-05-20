@@ -1,0 +1,12 @@
+___
+Patient denies family history of strokes. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+==========================
+Vitals: 
+Temperature: 98.5 
+Blood pressure: 138/83 
+Heart rate: 67 
+Respiratory rate: 16 
+Oxygen saturation: 100%

@@ -1,0 +1,20 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 325 mg 2 capsule(s) by mouth every 6 hours 
+Disp #*112 Capsule Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth every 
+12 hours as needed Disp #*20 Capsule Refills:*0 
+3.  Enoxaparin Sodium 40 mg SC DAILY 
+RX *enoxaparin 40 mg/0.4 mL 40 mg subcutaneous daily Disp #*28 
+Syringe Refills:*0 
+4.  Gabapentin 100 mg PO TID 
+RX *gabapentin 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*42 Capsule Refills:*0 
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every ___ hours as 
+needed for pain Disp #*60 Tablet Refills:*0 
+6.  Senna 8.6 mg PO BID 
+RX *sennosides [Evac-U-Gen (sennosides)] 8.6 mg 1 tablet by 
+mouth every 12 hours as needed for constipation Disp #*20 Tablet 
+Refills:*0 
+7.  Lidocaine 5% Ointment 1 Appl TP DAILY

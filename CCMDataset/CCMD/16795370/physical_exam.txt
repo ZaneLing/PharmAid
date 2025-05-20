@@ -1,0 +1,19 @@
+Admission physical exam:
+He is awake, alert, oriented x 3.  Cranial nerves II through XII 
+within normal limits.  Good strength in both upper extremities 
+except left arm triceps is ___.  Negative ___.  Negative 
+Babinski.  Both legs are full bilaterally with ___.  Reflex is 
+symmetric except absence of the left triceps reflex.  Range of 
+motion of the shoulder is fine.
+
+Discharge physical exam:
+Sensation intact in the bilateral C6-t1 nerve root 
+distributions. 
+Motor:
+TrapDeltoidBicepTricepGrip
+___
+
+IPQuadHamATEHLGast
+Right___
+
+No clonus. Negative ___.

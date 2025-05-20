@@ -1,0 +1,40 @@
+ADMISSION PHYSICAL EXAM:
+===============================
+VITALS: 98.1 | 115/73 | 79 | 16 | 97%Ra 
+GENERAL: Alert and interactive. In no acute distress, nontoxic.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs. Slight gallop at apex. 
+LUNGS: Right lung has rhonci from base to mid-lung; otherwise
+clear to auscultation. No increased WOB.
+BACK: Right-sided chest tube with dressing c/d/I. 
+GU: No foley.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm. No rash on face, arms, abdomen, back.
+NEUROLOGIC: CN2-12 grossly intact. Moving all limbs with purpose
+against gravity.
+
+DISCHARGE PHYSICAL EXAM:
+===============================
+VITALS:24 HR Data (last updated ___ @ 744)
+    Temp: 97.9 (Tm 98.5), BP: 115/75 (115-128/68-76), HR: 74
+(74-94), RR: 20 (___), O2 sat: 97% (95-97), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress, nontoxic.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs. Slight gallop at apex. 
+LUNGS: Right lung has rhonci from base to mid-lung; otherwise
+clear to auscultation. No increased WOB.
+BACK: Right-sided chest tube with dressing c/d/I. 
+GU: No foley.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm. No rash on face, arms, abdomen, back.
+NEUROLOGIC: CN2-12 grossly intact. Moving all limbs with purpose
+against gravity.

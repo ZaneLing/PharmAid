@@ -1,0 +1,23 @@
+___
+Mother: breast CA
+___: prostate CA
+MGm: DM type 2
+Brother: (older) healthy
+Sister: (older) healthy
+No family history of thrombosis, coagulopathy, or miscarriages 
+known to pt.
+ 
+Physical Exam:
+=======================
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals: T:  P:  R: 16  BP:  SaO2:
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in 
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, normal. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND.
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.

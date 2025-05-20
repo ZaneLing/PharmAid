@@ -1,0 +1,124 @@
+Medical ROS: 12 pt ROS negative except for: chronic, untreated
+but currently ___ back pain.
+
+Data reviewed:
+Labs:
+ ___: Na: 140
+ ___: K: 4.1
+ ___: Cl: 103
+ ___: CO2: 24
+ ___: BUN: 23*
+ ___: Creat: 1.2
+ ___: Glucose: 92
+
+___: WBC: 6.4
+ ___: HGB: 14.6
+ ___: HCT: 44.5
+ ___: Plt Count: 203
+
+ ___: Urine Glucose (Hem): NEG
+ ___: Urine Protein (Hem): 100
+ ___: Urine Bilirubin (Hem): NEG
+ ___: Urobilinogen: 2*
+ ___: Urine Ketone (Hem): NEG
+ ___: Urine Blood (Hem): NEG
+ ___: Urine Nitrite (Hem): NEG
+ ___: Urine Leuks (Hem): NEG
+Urine RBC 3, urine mucous: many
+ 
+Serum toxicology: negative
+ Urine toxicology: negative
+
+Other results: none
+ Releases obtained/outside records reviewed: none
+
+Admission Physical Examination:
+VS:  T 98.7, P 73, BP 143/86, O2 Sat 100% RA 
+Gen: NAD, thin, sitting comfortably.
+HEENT: PERRLA, EOMI, MMM, no carotid bruits, no JVD
+Ht: RRR, no MRG
+Lungs: CTAB, symmetric chest wall motion, no increased work of
+breathing
+Abd: Soft, scaphoid, nontender, nondistended
+Ext: No leg tenderness, edema or erythema bilaterally, 2+
+bilateral ___ pulses
+Neuro-
+Cranial ___ intact.  
+Motor:
+Moving all extremities, ___ proximal and distal bilateral arm 
+and
+leg strength
+2+ biceps and patellar reflexes bilaterally
+
+Sensation: Normal light touch sensation of proximal and distal
+extremities bilaterally
+Coordination:
+     ___: intact
+     Fine finger tapping: intact
+     Heel to shin: intact
+Gait/Romberg: Normal
+Neurological:
+    *station and gait: WNL  
+    *tone and strength: Moving all extremities.
+    cranial nerves: CN ___ intact
+    abnormal movements: No tremors, tics or dyskinesias, no
+psychomotor agitation or retardation.
+    frontal release: None 
+
+  *Appearance: Patient is a young, thin Asian gentleman who
+appears stated age, hygiene and grooming is good, found in
+hospital gown.  
+  Behavior: Patient able to have calm and cooperative
+conversation with examiner.  He has serious and somber
+manneurisms.  
+  *Mood and Affect: stated mood is "tired, hungry, and thirsty,
+still sad"; appears generally quite somber, with intermittent
+superficial brightening, mood congruent, not labile, 
+appropriate.
+  *Thought process: Linear, logical, ___.  No LOA.  
+  *Thought Content: Denies current SI, but had suicidal thoughts
+earlier today, at midnight this morning was walking in direction
+of a bridge with intent and plan to jump off, but changed his
+mind before going through with it.  Denies HI. Denies AH or VH. 
+Denies paranoia.  
+  *Judgment and Insight: ___ went to jump off
+bridge, stopped at last second, knows he needs help
+    Cognition:
+    *Attention, *orientation, and executive function: A and Ox3,
+attends to interview, MOYB x 12.  
+    *Memory: ___ registration, ___ recall
+    *Fund of knowledge: Knows the president, ___ wrote
+___,
+    Abstraction: "apples/oranges"- fruits, "don't judge a book 
+by
+it's cover" means "know people's inside story"
+    Calculation: $1.75 has 7 quarters
+    
+    *Speech: Regular rate, rhythm, tone, prosody and volume 
+    *Language: Fluent ___
+
+Discharge Physical Exam
+
+     Exam:
+ *VS: ___ RA
+
+Neurological:
+    *station and gait: WNL  
+    *tone and strength: Moving all extremities.
+    cranial nerves: CN ___ intact
+    abnormal movements: No tremors, tics or dyskinesias, no
+psychomotor agitation or retardation.
+    frontal release: None 
+
+  *Appearance: Patient is a young, thin Asian gentleman who
+appears stated age, hygiene and grooming is good.  
+  Behavior: Patient able to have calm and cooperative
+conversation with examiner.  He has serious and somber
+manneurisms.  
+  *Mood and Affect: stated mood is "feeling better", mood 
+congruent, not labile, appropriate.
+  *Thought process: Linear, logical, ___.  No LOA.  
+  *Thought Content: Denies current SI.  Denies HI. Denies AH or 
+VH. 
+Denies paranoia.  
+  *Judgment and Insight: fair/fair

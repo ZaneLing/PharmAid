@@ -1,0 +1,12 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*3 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*90 
+Tablet Refills:*3 
+3.  Atenolol 50 mg PO DAILY  
+4.  Citalopram 20 mg PO DAILY  
+5.  Fenofibrate 200 mg PO DAILY  
+6.  GlipiZIDE XL 5 mg PO DAILY  
+7.  Lisinopril 5 mg PO DAILY  
+8.  MetFORMIN (Glucophage) 1000 mg PO BID

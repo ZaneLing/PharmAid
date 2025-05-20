@@ -1,0 +1,44 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: 98.5 PO 126 / 82 L Sitting 81 17 94 Ra 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. TTP
+in left temple.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Soft ejection murmur on
+left sternal border
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.
+EXTREMITIES: No clubbing, cyanosis, or edema. Mild TTP in left
+calf, DIP joint slightly swollen, no warmth or tenderness
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM
+======================
+VITALS: 24 HR Data (last updated ___ @ 800)
+    Temp: 98.1 (Tm 98.7), BP: 109/63 (105-129/54-76), HR: 79
+(76-87), RR: 16 (___), O2 sat: 98% (95-98), O2 delivery: Ra,
+Wt: 105.38 lb/47.8 kg  
+
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. TTP
+in left temple. 
+NECK/SHOULDER: Slightly tender clavicles bilaterally. No 
+cervical
+lymphadenopathy.
+CARDIAC: Regular rhythm, normal rate. Healing incision on
+anterior chest w/out surrounding erythema or tenderness
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.
+EXTREMITIES: No clubbing, cyanosis, or edema. Mild TTP in left
+calf, DIP joint slightly swollen, no warmth or tenderness, no
+___ lesion, no splinter hemorrhages
+SKIN: Warm. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.

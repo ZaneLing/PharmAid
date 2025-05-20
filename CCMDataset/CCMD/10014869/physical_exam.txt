@@ -1,0 +1,33 @@
+ADMISSION PHYSICAL EXAM
+=======================
+VITALS:  24 HR Data (last updated ___ @ 1420)
+    Temp: 97.7 (Tm 97.7), BP: 143/84, HR: 82, RR: 18, O2 sat:
+96%, O2 delivery: RA  
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple with JVP not noted at 90 degrees
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. 
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VITALS: ___ 0949 Temp: 98.0 PO BP: 120/79 L Sitting HR: 73
+RR: 18 O2 sat: 97% O2 delivery: RA 
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. EOMI. MMM.
+NECK: Supple, no JVD
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. 
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. 
+EXTREMITIES: No edema

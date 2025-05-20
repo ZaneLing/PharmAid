@@ -1,0 +1,20 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*30 Tablet Refills:*0 
+2.  Cyclobenzaprine 5 mg PO TID:PRN Muscle spasm 
+RX *cyclobenzaprine 5 mg 1 tablet(s) by mouth Q8H PRN Disp #*15 
+Tablet Refills:*0 
+3.  LORazepam 0.5 mg PO Q4H:PRN Anxiety 
+RX *lorazepam 0.5 mg 1 tablet by mouth BID PRN Disp #*10 Tablet 
+Refills:*0 
+4.  Naproxen 500 mg PO Q12H:PRN Breakthrough pain 
+RX *naproxen 250 mg 1 tablet(s) by mouth Q12H PRN Disp #*10 
+Tablet Refills:*0 
+5.  Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+Take scheduled 1 tablet TID for 2 days, then take only as needed 
+
+RX *ondansetron 4 mg 1 tablet(s) by mouth Q8H PRN Disp #*15 
+Tablet Refills:*0 
+6.  Ranitidine 150 mg PO BID 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth twice a day Disp 
+#*20 Tablet Refills:*0

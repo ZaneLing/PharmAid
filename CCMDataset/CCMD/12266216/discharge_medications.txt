@@ -1,0 +1,6 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*12 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day at 
+bedtime Disp #*30 Tablet Refills:*12

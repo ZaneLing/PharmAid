@@ -1,0 +1,29 @@
+=======================
+ADMISSION PHYSICAL EXAM
+=======================
+VS: T 98.5F BP 164/97 mmHg P 64-67 RR 16 O2 98% RA
+General: Well-appearing black man, in NAD.
+HEENT: MMM, OP clear. Anicteric sclerae. EOMs intact.
+Neck: Supple, no JVD.
+CV: RRR, no MRGs. Normal S1/S2.
+Pulm: CTA b/l; no wheezes, rhonchi or rales.
+Abd: Soft, non-tender, non-distended. NABS.
+Ext: Warm and well-perfused. No edema. R TR band in place; no 
+oozing. 
+Neuro: A&Ox3. CNs II-XII grossly intact. Gait deferred.
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+Weight: 85.2 kg
+VS: T 98.1-100.1 F BP 130-160/80-107 mmHg P ___ RR ___ O2 
+98-100% RA
+General: Well-appearing black man, in NAD.
+HEENT: MMM, OP clear. Anicteric sclerae. EOMs intact.
+Neck: Supple, no JVD.
+CV: RRR, no MRGs. Normal S1/S2.
+Pulm: CTA b/l; no wheezes, rhonchi or rales.
+Abd: Soft, non-tender, non-distended. NABS.
+Ext: Warm and well-perfused. No edema. R radial dressing in 
+place; no oozing. 
+Neuro: A&Ox3. CNs II-XII grossly intact. Gait deferred.

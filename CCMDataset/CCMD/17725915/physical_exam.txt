@@ -1,0 +1,59 @@
+ADMISSION PHYSICAL EXAMINATION:  
+============================
+VS:  24 HR Data (last updated ___ @ 1732)
+    Temp: 98.7 (Tm 99.0), BP: 132/84 (124-132/84-85), HR: 91
+(91-113), RR: 16 (___), O2 sat: 94% (94-97), O2 delivery: Ra,
+Wt: 145.5 lb/66 kg  
+
+GENERAL: Well developed, well nourished noin NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: Supple. JVP of 10 cm.  
+CARDIAC: Tachycardic rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. No thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, moderately distended. No 
+hepatomegaly.
+No splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis with
+trace
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL EXAMINATION:  
+============================
+VS: 
+24 HR Data (last updated ___ @ 845)
+    Temp: 97.6 (Tm 98.7), BP: 111/71 (94-115/56-77), HR: 58
+(55-68), RR: 18 (___), O2 sat: 91% (91-100), O2 delivery: Ra,
+Wt: 145.72 lb/66.1 kg  
+
+Fluid Balance (last updated ___ @ 321) 
+  Last 8 hours  Total cumulative -600ml
+    IN: Total 0ml
+    OUT:  Total 600ml, Urine Amt 600ml
+  Last 24 hours  Total cumulative -1120ml
+    IN: Total 1030ml, PO Amt 1030ml
+    OUT:  Total 2150ml, Urine Amt 2150ml  
+
+GENERAL: Well developed, well nourished noin NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: Supple. JVP of 9-10 cm.  
+CARDIAC: Tachycardic rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. No thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, mildly distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis with
+trace edema
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.

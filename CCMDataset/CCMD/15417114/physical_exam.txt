@@ -1,0 +1,34 @@
+ADMISSION EXAM
+==============
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and
+without injection. MMM.
+NECK: No JVD appreciated. 
+CARDIAC: Irregularly irregular rhythm, normal rate. Audible S1
+and S2. No murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowel sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+1+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation.
+
+DISCHARGE EXAM
+==============
+24 HR Data (last updated ___ @ 1144)
+    Temp: 98.1 (Tm 98.5), BP: 146/91 (146-184/84-112), HR: 86
+(81-98), RR: 20 (___), O2 sat: 94% (93-96), O2 delivery: Ra    
+
+
+GENERAL: Well appearing laying in bed, NAD
+HEENT: Supple, no JVD
+CV: irregularly irregular, normal rate, no murmurs rubs or
+gallops
+PULM: mild referred upper airway sounds but otherwise CTAB
+GI: Obese, soft, non tender, non distended
+EXTREMITIES: Warm and well perfused, no edema
+NEURO: oriented to person, year, and month but not day or place.

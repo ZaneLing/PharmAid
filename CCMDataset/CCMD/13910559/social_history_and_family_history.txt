@@ -1,0 +1,29 @@
+___
+Per chart review:
+PGM: Breast cancer
+Mother: DM2, hypothyroidism, CABG, colon cancer    
+Brother: colon cancer, CAD                                    
+Brother: HTN                                
+Brother: kidney stones                        
+Sister: ___ disease   
+Father: OA, RA, CVA, prostate cancer, HTN   
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: T 98.1, HR 84, BP 101/65, RR 18, SO2 99% RA 
+General: Alert, oriented, no acute distress 
+HEENT: Sclerae anicteric, MMM, oropharynx non-erythematous and 
+non-exudative, EOMI, neck supple, JVP not elevated, no cervical 
+LAD 
+CV: RRR, normal S1/S2, no murmurs, rubs, gallops 
+Lungs: CTAB - no wheezes, rales, or rhonchi 
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding 
+GU: No foley 
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+Skin: Warm, dry, no rashes or notable lesions.
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation. No signs of meningismus. 
+Breast: No erythema, discharge, or masses appreciated

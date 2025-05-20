@@ -1,0 +1,14 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+Do not drive or combine with alcohol. 
+RX *acetaminophen 500 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*60 Tablet Refills:*1 
+2.  Ibuprofen 600 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO
+Take with food to avoid GI upset. 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*60 Tablet Refills:*1 
+3.  TraMADol 25 mg PO Q4H:PRN Pain - Moderate 
+___ cause sedation. Do not drive or combine with alcohol. 
+RX *tramadol 50 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*25 Tablet Refills:*0

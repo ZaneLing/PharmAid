@@ -1,0 +1,104 @@
+___
+- Father had bypass surgery in his ___ and died at age ___ after
+suffering a stroke. 
+- Mother died of lung cancer at age ___.  
+- He has a few paternal uncles who have coronary artery disease.
+ 
+Physical Exam:
+ADMISSION EXAM
+==================================
+VS: T-97.9, BP- 137/91, HR-69, RR- 18, O2- 95 RA
+General: Resting comfortably in bed in NAD. 
+HEENT: Moist mucous membranes. PERRLA, EOMI. 
+NECK: Difficult to assess JVP, no carotid bruits, no LAD.
+CHEST: Clear to auscultation, no crackles or rhonchi.
+HEART: Regular rate and rhythm. No murmur, gallops, or rubs. 
+ABDOMEN: Obese. Soft, non-tender. +Bowel Sounds. 
+EXTREMITIES: Warm and well perfused. 2+ pulses at DP and ___. No
+peripheral pedal edema.  
+NEURO: A&O X 3
+SKIN: No rash on exposed skin. 
+ 
+DISCHARGE EXAM
+==================================
+___ 0927 Temp: 97.9 PO BP: 123/67 L Lying HR: 72 RR: 18 O2
+sat: 98% O2 delivery: RA Dyspnea: 0 RASS: 0 Pain Score: ___ 
+General: Resting comfortably in NAD. 
+HEENT: Moist mucous membranes. PERRLA, EOMI. 
+NECK: Difficult to assess JVP, no carotid bruits, no LAD.
+CHEST: Clear to auscultation, no crackles or rhonchi.
+HEART: Regular rate and rhythm. No murmur, gallops, or rubs. 
+ABDOMEN: Obese. Soft, non-tender. +Bowel Sounds. 
+EXTREMITIES: Warm and well perfused. 2+ pulses at DP and ___. No
+peripheral pedal edema.  
+NEURO: A&O X 3
+SKIN: No rash on exposed skin. 
+ 
+Pertinent Results:
+ADMISSION LABS
+==================================
+___ 08:40PM BLOOD WBC-7.3 RBC-4.86 Hgb-14.2 Hct-43.7 MCV-90 
+MCH-29.2 MCHC-32.5 RDW-12.4 RDWSD-40.6 Plt ___
+___ 08:40PM BLOOD Neuts-41.8 ___ Monos-8.5 Eos-6.6 
+Baso-0.7 Im ___ AbsNeut-3.06 AbsLymp-3.07 AbsMono-0.62 
+AbsEos-0.48 AbsBaso-0.05
+___ 08:40PM BLOOD ___ PTT-34.6 ___
+___ 08:40PM BLOOD Glucose-98 UreaN-19 Creat-1.0 Na-141 
+K-4.2 Cl-104 HCO3-26 AnGap-11
+___ 08:40PM BLOOD cTropnT-<0.01
+___ 08:40PM BLOOD proBNP-9
+___ 08:40AM BLOOD %HbA1c-5.6 eAG-114
+ 
+PERTINENT LABS
+==================================
+___ 08:40PM BLOOD cTropnT-<0.01
+___ 08:40PM BLOOD proBNP-9
+___ 08:40AM BLOOD %HbA1c-5.6 eAG-114
+ 
+DISCHARGE LABS
+==================================
+___ 07:31AM BLOOD WBC-7.8 RBC-5.05 Hgb-15.1 Hct-45.6 MCV-90 
+MCH-29.9 MCHC-33.1 RDW-12.5 RDWSD-41.0 Plt ___
+___ 07:31AM BLOOD Glucose-91 UreaN-16 Creat-0.9 Na-143 
+K-4.4 Cl-107 HCO3-22 AnGap-14
+___ 07:31AM BLOOD Calcium-8.9 Phos-2.7 Mg-2.___ man with history of HLD, OSA, and prior tobacco use 
+who initially presented to his cardiologist with subacute 
+symptoms of chest pain. Transferred to ___ for diagnostic 
+coronary angiogram without evidence of obstructive CAD. 
+Medically optimized and discharged home.
+ 
+# CHEST PAIN
+Initially presented to his cardiologist on ___ with progressive 
+dyspnea. TTE demonstrated hypokinetic inferior septum and mid 
+inferior wall. Transferred to ___ for coronary catheterization 
+which did not demonstrate any obstructive CAD. His symptoms 
+remained stable throughout hospitalization and he was otherwise 
+feeling well. Medically optimized and discharged home with plan 
+for PCP and cardiology follow up if ongoing symptoms.
+ 
+CHRONIC ISSUES
+===========================
+ 
+# HYPERTENSION 
+- continue metoprolol
+ 
+# HYPERLIPIDEMIA 
+- high intensity statin
+ 
+# OSA 
+Not on CPAP at home.
+ 
+TRANSITIONAL ISSUES
+===========================
+ 
+[ ] Outpatient follow up if symptoms of chest pain or shortness 
+of breath persist.
+ 
+CONTACT: ___ (wife: ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Tartrate 25 mg PO BID 
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB, wheezing  
+3. Atorvastatin 40 mg PO QPM 
+4. Aspirin 81 mg PO DAILY

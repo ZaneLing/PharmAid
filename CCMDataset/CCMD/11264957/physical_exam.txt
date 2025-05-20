@@ -1,0 +1,32 @@
+On admission:
+
+Physical Exam
+ VS: HR 63  104/40  14  100% RA 
+ Gen: Alert, oriented, in NAD
+ HEENT: EOMI, no palpable LAD  
+ CV: irregular irregular, no m/r/g
+ Resp: CTAB, no inc WOB
+ Abd: Soft, NT, ND. 
+ Extrem: 
+- RUE: palpable brachial pulse, no dopperable R radial or ulnar.
+Poor grip strength. limited sensation. cool to touch. 
+- LUE: palpable brachial, radial, and ulnar pulse. sensation and
+grip strength intact. 
+ Psyc: Appropriate mood/affect 
+
+At  discharge:
+
+Objective
+Vitals: 24 HR Data (last updated ___ @ 859)
+    Temp: 97.9 (Tm 99.4), BP: 153/57 (110-153/57-67), HR: 61
+(61-71), RR: 18, O2 sat: 98% (94-98), O2 delivery: RA
+
+GENERAL: [x]NAD  [x]A/O x 3  []intubated/sedated []abnormal
+CV: [x]RRR  [] irregularly irregular []no MRG  []Nl S1S2
+[]abnormal
+PULM: [x]CTA b/l  [x]no respiratory distress  []abnormal
+ABD: [x]soft  [x]Nontender  []appropriately tender 
+[x]nondistended  []no rebound/guarding  []abnormal
+WOUND: [x]CD&I  []no erythema/induration []abnormal
+EXTREMITIES: [x]no CCE []abnormal
+PULSES: RUE: P/P/P

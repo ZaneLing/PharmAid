@@ -1,0 +1,45 @@
+ADMISSION PHYSICAL EXAMINATION:  
+===============================  
+24 HR Data (last updated ___ @ 1751)
+    BP: 99/67 (89-99/55-67), HR: 82 (74-82), RR: 22, O2 sat: 95%
+(95-97), O2 delivery: 2L  
+GENERAL: Well developed, well nourished, not in acute distress.
+Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. Conjunctiva
+were pink. No pallor or cyanosis of the oral mucosa. No
+xanthelasma.  
+NECK: JVP not visible.  
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. 
+LUNGS: Tachypneic. No chest wall deformities. No accessory 
+muscle
+use. No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused. No cyanosis or peripheral
+edema.  
+SKIN: Diffuse maculopapular rash involving hands and feet, back,
+arms. 
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL EXAMINATION
+=================================
+24 HR Data (last updated ___ @ 1505)
+    Temp: 98.0 (Tm 99.5), BP: 101/66 (86-101/46-66), HR: 69 
+(67-75), RR: 22 (___), O2 sat: 98% (86-99), O2 delivery: 2L, 
+Wt: 166.01 lb/75.3 kg  
+GENERAL: Well developed, well nourished, not in acute distress. 
+Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. Conjunctiva 
+were pink. No pallor or cyanosis of the oral mucosa. No 
+xanthelasma.  
+NECK: JVP not visible.  
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops. 
+LUNGS: Tachypneic. No chest wall deformities. No accessory 
+muscle use. No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused. No cyanosis or peripheral 
+edema.  
+SKIN: no significant rashes, urticaria. +dressing over fem 
+access c/d/I. no bruits. 
+PULSES: Distal pulses palpable and symmetric.

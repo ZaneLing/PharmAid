@@ -1,0 +1,26 @@
+ADMISSION: 
+ VS: 97.4 PO, 120/87, 79, 18, 100% RA  
+ GEN: Alert, lying in bed, no acute distress  
+ HEENT: EOMI, PERRL, Moist MM, clear posterior oropharynx 
+without exudate, lesion or erythema, no LAD, anicteric sclerae, 
+no conjunctival pallor  
+ PULM: CTA b/l without wheeze or rhonchi  
+ COR: irregular rhythm, normal rate, normal S1/S2 no m/r/g  
+ ABD: Soft, non-tender, non-distended, no HSM, normal BS  
+ EXTREM: Warm, well-perfused, no edema no rash or stigmata of 
+endocarditis.  
+ NEURO: CN II-XII grossly intact, motor function grossly normal  
+
+
+DISCHARGE:
+Vital Signs: 97.6 104 / 65  72 16 100 ra  
+GEN: Alert, lying in bed, no acute distress  
+HEENT: EOMI, PERRL, Moist MM, clear posterior oropharynx without 
+exudate, lesion or erythema, no LAD, anicteric sclerae, no 
+conjunctival pallor  
+PULM: CTA b/l without wheeze, crackles or rhonchi  
+COR: RRR, normal S1/S2 no m/r/g  
+ABD: Soft, non-tender, non-distended, no HSM, normal BS  
+EXTREM: Warm, well-perfused, no edema no rash or stigmata of 
+endocarditis.  
+NEURO: CN II-XII grossly intact, motor function grossly normal

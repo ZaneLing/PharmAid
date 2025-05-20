@@ -1,0 +1,29 @@
+ADMISSION PHYSICAL EXAM:
+24 HR Data (last updated ___ @ ___
+    Temp: 98.3 (Tm 98.3), BP: 128/73, HR: 88, RR: 18, O2 sat:
+98%, O2 delivery: Ra  
+GENERAL: Pleasant, lying in bed comfortably  
+HEENT: NCAT PEERLA 
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly  
+EXT: Warm, well perfused, no lower extremity edema    
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact  
+SKIN: No significant rashes
+
+DISCHARGE PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 1231)
+    Temp: 98.8 (Tm 98.8), BP: 118/63 (118-128/63-80), HR: 92
+(80-92), RR: 18 (___), O2 sat: 94% (94-98), O2 delivery: Ra  
+GENERAL: Pleasant, lying in bed comfortably  
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly  
+EXT: Warm, well perfused, no lower extremity edema    
+NEURO: Alert, oriented, 
+SKIN: No significant rashes

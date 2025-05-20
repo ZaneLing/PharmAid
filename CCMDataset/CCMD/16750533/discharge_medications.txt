@@ -1,0 +1,12 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth three times a day 
+Disp #*60 Tablet Refills:*0 
+2.  Ibuprofen 400 mg PO Q8H Duration: 10 Days 
+RX *ibuprofen 400 mg 1 tablet(s) by mouth three times a day Disp 
+#*60 Tablet Refills:*0 
+3.  Lidocaine 5% Patch 1 PTCH TD QAM 
+RX *lidocaine 5 % 1 patch over chest wall every day Disp #*10 
+Patch Refills:*0 
+4.  Methocarbamol 750 mg PO TID  
+5.  Aspirin 81 mg PO DAILY  
+6.  Atorvastatin 40 mg PO QPM

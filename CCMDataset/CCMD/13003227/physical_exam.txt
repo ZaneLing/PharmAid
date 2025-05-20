@@ -1,0 +1,44 @@
+Admission exam:
+===============
+ Gen: pleasant, cooperative, in NAD
+ HEENT: NCAT, neck supple
+ ___: RRR
+ Pulmonary: no tachypnea or increased WOB
+ Abdomen: ND
+ Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Able to relate
+history without difficulty. Attentive, able to name ___ backward
+without difficulty. Speech is fluent with full sentences, intact
+repetition, and intact verbal comprehension. Naming intact. No
+dysarthria. Able to follow both midline and appendicular
+commands.
+
+- Cranial Nerves: PERRL (3 to 2 mm ___. Left-sided superior and
+inferior visual field deficit, more prominent in left eye than
+right. V1-V3 without deficits to light touch bilaterally. No
+facial movement asymmetry. Hearing intact to conversation
+bilaterally. Palatal elevation symmetric. Trapezius strength ___
+bilaterally. Tongue midline.
+
+- Motor:  Normal bulk and tone. No drift.
+   [Delt][Bic][Tri][ECR][FEx][IP][Quad][Ham][TA]
+ L   5     5    5    5    5   5    5     5   5  
+ R   5     5    5    5    5   5    5     5   5  
+  
+- Reflexes: 
+    [Bic] [Tri] [___] [Quad] [Gastroc]
+  L  2+    2+     2+      2+       1+
+  R  2+    2+     2+      2+       1+ 
+
+- Sensory: No deficits to light touch or pinprick bilaterally. 
+No extinction to DSS.
+
+- Coordination: No dysmetria with finger to nose or heel to shin
+testing bilaterally.
+
+- Gait: Narrow-based and steady.
+
+================
+Discharge exam: unchanged from admission

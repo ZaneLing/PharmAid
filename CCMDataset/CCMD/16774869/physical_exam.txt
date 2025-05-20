@@ -1,0 +1,68 @@
+ON ADMISSION
+============
+Vitals:  T: 97.8  HR: 72  BP: 137/95  RR: 20  SpO2: 100% RA
+ General:  Alert, cooperative, in NAD
+ HEENT: NCAT, no oropharyngeal lesions, neck supple
+ ___: RRR
+ Pulmonary: No tachypnea or increased WOB
+ Abdomen: Soft, NT, ND
+ Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Unable to name days
+of week backwards. Speech is fluent with full sentences, intact
+repetition, and intact verbal comprehension. No dysarthria. Able
+to follow both midline and appendicular commands.
+- Cranial Nerves: PERRL 4->2 mm and brisk. EOMI, no nystagmus.
+V1-V3 without deficits to light touch bilaterally. Slight R 
+NLFF.
+Hearing intact to finger rub bilaterally.  Palate elevation
+symmetric. Trapezius strength ___ bilaterally. Tongue midline.
+- Motor:  Normal bulk and tone. No pronator drift. No tremor or
+asterixis.
+   [Delt][Bic][Tri][ECR][FEx][IO][IP][Quad][Ham][TA][Gas]
+ L   5     5    5    5    ___    5     5   5    5  
+ R   5     5    5    5    ___    5     5   5    5  
+- Reflexes: 
+    [Bic] [Tri] [___] [Quad] [Gastroc]
+  L  2+    2+     2+      2+       1
+  R  2+    2+     2+      2+       1  
+ Plantar response withdrawal bilaterally. 
+- Sensory: No deficits to light touch or pinprick bilaterally. 
+No extinction to DSS.
+- Coordination: No dysmetria with finger to nose testing
+bilaterally. Subtle DDK on R.
+- Gait: Deferred.
+
+ON DISCHARGE
+============
+Vitals: Tm 98.3, BP 117/63-148/84, HR 55-81, RR ___, SpO2 100%
+ General:  Alert, cooperative, in NAD
+ HEENT: NCAT, no oropharyngeal lesions, neck supple
+ ___: RRR
+ Pulmonary: No tachypnea or increased WOB
+ Abdomen: Soft, NT, ND
+ Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Attentive to
+interview. Speech is fluent with full sentences, intact
+repetition, and intact verbal comprehension. No dysarthria. Able
+to follow both midline and appendicular commands.
+- Cranial Nerves: PERRL 4->2 mm and brisk. EOMI, no nystagmus.
+V1-V3 without deficits to light touch bilaterally. Slight R 
+NLFF.
+Hearing intact to finger rub bilaterally.  Palate elevation
+symmetric. Trapezius strength ___ bilaterally. Tongue midline.
+- Motor:  Normal bulk and tone. Slightly exaggerated rebound
+bilaterally. No pronator drift. No tremor or
+asterixis.
+   [Delt][Bic][Tri][ECR][FEx][IO][IP][Quad][Ham][TA][Gas]
+ L   5     5    5    5    ___    5     5   5    5  
+ R   5     5    5    5    ___    5     5   5    5  
+- Reflexes: deferred.
+- Sensory: No deficits to light touch or pinprick bilaterally. 
+No extinction to DSS.
+- Coordination: No dysmetria with finger to nose testing
+bilaterally. 
+- Gait: Deferred.

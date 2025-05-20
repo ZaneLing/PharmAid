@@ -1,0 +1,122 @@
+ON ADMISSION: 
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: R>L ___    EOMs: Intact.
+Neck: Supple.
+Extrem: Warm and well-perfused.
+
+Date and Time of evaluation: ___ 0350am
+
+___ Coma Scale:
+ [X]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [X]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [X]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [X]6 Obeys commands
+
+ _13_ Total
+
+ICH Score:
+
+GCS
+     [ ]2     GCS ___
+     [ ]1     GCS ___
+     [X]0     GCS ___
+     
+ICH Volume 
+     [ ]1     30 mL or Greater
+     [X]0     Less than 30 mL
+
+Intraventricular Hemorrhage
+     [ ]1     Present
+     [X]0     Absent
+
+Infratentorial ICH
+     [ ___     Yes
+     [X]0     No
+
+Age
+     [X]1     ___ years old or greater
+     [ ]0     Less than ___ years old
+
+Total Score: ___1___
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Unable to appropriately assess due to expressive
+aphasia. Unable to state name/place or date.
+Language: Expressive aphasia with slight receptive aphasia.
+Unable to name objects.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils R>L. Right 3mm, left 2mm, bilaterally reactive to
+light.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift.
+
+Sensation: Intact to light touch.
+
+Coordination: normal on finger-nose-finger. 
+
+Patient able to follow simple commands only. 
+
+AT DISCHARGE: 
+*************
+PHYSICAL EXAMINATION:
+
+24 HR Data (last updated ___ @ 1214)
+    Temp: 97.9 (Tm 98.2), BP: 129/65 (129-145/60-70), HR: 71 
+(71-78), RR: 16 (___), O2 sat: 96% (92-99), O2 delivery: RA  
+
+GEN: This is a well-developed, well nourished woman who appears
+stated age.
+HEENT:  Unremarkable.
+NECK: Neck movements are full range, non-tender.
+HEART: WWP
+RESP: no increased WOB, breathing comfortably on room air
+NEURO: 
+Mental status: Awake, alert, oriented to self, hospital, 
+___ but not date. 
+
+Non-fluent aphasia, responds appropriately to questions. 
+Difficulty saying "no if ands or buts", able to say "it's a 
+sunny day outside", naming improved, able to name watch, thumb, 
+but unable to name ring and key.
+
+Motor: 
+Right upper: antigravity at shoulder. Wrist extension 4+, finger 
+extension 4+, triceps 3 
+Left upper: antigravity, spontaneous 
+Right ___: IP antigravity, Quad 4+, Ham 4+, TA 1, ___ 3
+Left ___: antigravity, spontaneous movement
+
+Sensory: Intact to light touch throughout .
+
+Gait: Deferred

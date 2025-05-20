@@ -1,0 +1,35 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+RX *acetaminophen [8 Hour Pain Reliever] 650 mg 1 tablet(s) by 
+mouth every six (6) hours Disp #*15 Tablet Refills:*0 
+2.  Bisacodyl 10 mg PO/PR DAILY:PRN Constipation - Second Line  
+3.  Docusate Sodium 100 mg PO BID:PRN Constipation - First Line 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*6 Capsule Refills:*0 
+4.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*15 Tablet Refills:*0 
+5.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation  
+RX *polyethylene glycol 3350 [ClearLax] 17 gram/dose 1 dose by 
+mouth once a day Disp #*3 Packet Refills:*0 
+6.  Senna 8.6 mg PO BID:PRN Constipation - First Line 
+RX *sennosides [Evac-U-Gen (sennosides)] 8.6 mg 1 tablet(s) by 
+mouth twice a day Disp #*6 Tablet Refills:*0 
+7.  Aspirin 81 mg PO DAILY  
+8.  Breo Ellipta (fluticasone furoate-vilanterol) 100-25 
+mcg/dose inhalation daily  
+9.  Combigan (brimonidine-timolol) 0.2-0.5 % ophthalmic (eye) 
+daily  
+10.  Dorzolamide 2% Ophth. Soln. 1 DROP BOTH EYES BID  
+11.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+12.  Levothyroxine Sodium 50 mcg PO DAILY  
+13.Outpatient Lab Work
+807.0
+Please check CBC with differential and Chem10 in a week after 
+discharge. 
+Please fax result to patient's PCP: ___.
+___

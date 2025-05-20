@@ -1,0 +1,12 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+2.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain - Mild  
+4.  Topiramate (Topamax) 100 mg PO QHS  
+5.  BuPROPion XL (Once Daily) 300 mg PO DAILY  
+6.  Gabapentin 400 mg PO BID  
+7.  Topiramate (Topamax) 25 mg PO QAM  
+8.  TraZODone 50 mg PO QHS:PRN sleep

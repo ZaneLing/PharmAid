@@ -1,0 +1,29 @@
+ADMISSION PHYSICAL EXAM 
+=======================  
+VITALS:  T 99.1, BP 149/76, HR 98, RR 18, O2 95RA
+GENERAL: Well appearing, sitting up on side of bed speaking to 
+me
+HEENT: Pupils equal and reactive, moist mucous membranes, no 
+scleral icterus
+CARDIAC:  S1/S2 regular with no murmurs, rubs or S3/S4
+LUNGS:  Clear bilaterally, pain on R side with deep inspiration 
+ABDOMEN: Soft, non-tender, non-distended
+EXTREMITIES: No lower extremity swelling, warm extemities
+NEUROLOGIC: A+Ox3, grossly intact strength and sensation 
+
+DISCHARGE PHYSICAL EXAM 
+=======================  
+VITALS:  24 HR Data (last updated ___ @ 425)
+    Temp: 99.0 (Tm 99.4), BP: 116/44 (99-120/44-70), HR: 95
+(76-95), RR: 18, O2 sat: 96% (95-97), O2 delivery: RA, Wt: 
+146.16
+lb/66.3 kg  
+GENERAL: Well appearing, sitting up on side of bed speaking to 
+me
+HEENT: Pupils equal and reactive, moist mucous membranes, no
+scleral icterus
+CARDIAC:  S1/S2 regular with no murmurs, rubs or S3/S4
+LUNGS:  Clear bilaterally, pain on R side with deep inspiration 
+ABDOMEN: Soft, non-tender, non-distended
+EXTREMITIES: No lower extremity swelling, warm extemities
+NEUROLOGIC: A+Ox3, grossly intact strength and sensation

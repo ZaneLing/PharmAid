@@ -1,0 +1,9 @@
+___:
+- anastrozole 1 qid
+- lantus 100 qpm
+- losartan 25 bid
+- metformin 500 qid
+- ibuprofen 200 tid
+- loratadine 10 qid
+- magnesium oxide 400 qid
+- vit B6 100 qid

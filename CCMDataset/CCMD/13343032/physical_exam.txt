@@ -1,0 +1,30 @@
+ADMISSION:
+
+General:  NAD
+HEENT: NCAT, intubated 
+___: RRR, no M/R/G
+Pulmonary: CTAB
+Abdomen: Soft, NT, ND, +BS, no guarding
+Extremities: Warm, mild pitting  edema
+
+Neurologic Examination:
+- Mental status: Intubated and sedated, does not respond to name
+or sternal rub.
+- Cranial Nerves: PERRL 1->0.5 mm symmetric, sluggish. No 
+obvious
+facial asymmetry. 
+- Motor:  Normal bulk and tone. No movements in his UE. Triple
+flexion in Left > right to noxious b/l
+
+- Reflexes: 
+   [Bic]  [___]     [Quad] [Gastroc]
+ L  1+       1+     2+      2+       1
+ R  1+       1+     2+      2+       1  
+
+Plantar response extensor bilaterally 
+
+- Sensory: withdraws to noxious in ___ but not in UE.
+
+****************
+DISCHARGE:
+expired

@@ -1,0 +1,8 @@
+1.  Hydrochlorothiazide 12.5 mg PO DAILY 
+RX *hydrochlorothiazide 12.5 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*3
+RX *hydrochlorothiazide 12.5 mg 1 capsule(s) by mouth DAILY Disp 
+#*90 Capsule Refills:*3 
+2.  amLODIPine 10 mg PO DAILY  
+3.  FoLIC Acid 1 mg PO DAILY  
+4.  Thiamine 100 mg PO DAILY

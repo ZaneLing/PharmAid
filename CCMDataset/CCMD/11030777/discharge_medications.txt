@@ -1,0 +1,22 @@
+1.  Acetaminophen 650 mg PO TID 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every 8 hours Disp 
+#*100 Tablet Refills:*1 
+2.  Docusate Sodium 100 mg PO BID 
+This is a new medication to prevent constipation. please hold 
+for loose stools. 
+RX *docusate sodium 100 mg 2 capsule(s) by mouth twice per day 
+Disp #*80 Capsule Refills:*0 
+3.  Enoxaparin Sodium 40 mg SC Q24H 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+RX *enoxaparin 40 mg/0.4 mL 1 syringe subc every day Disp #*26 
+Syringe Refills:*0 
+4.  OxyCODONE (Immediate Release) 2.5 mg PO Q4H:PRN pain 
+wean as pain improves 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours for 
+severe pain Disp #*80 Tablet Refills:*0 
+5.  Senna 8.6 mg PO QHS 
+This is a new medication to prevent constipation. please hold 
+for loose stools. 
+RX *sennosides [senna] 8.6 mg 2 tablets by mouth at bedtime Disp 
+#*40 Tablet Refills:*0

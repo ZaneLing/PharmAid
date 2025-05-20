@@ -1,0 +1,23 @@
+1.  Acetaminophen 650 mg PO TID 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth three times a day 
+Disp #*30 Tablet Refills:*1 
+2.  Cefpodoxime Proxetil 200 mg PO BID UTI 
+Please complete your 7 day course of antibiotics.  
+RX *cefpodoxime 200 mg 1 tablet(s) by mouth twice a day Disp 
+#*14 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*30 Capsule Refills:*1 
+4.  Ibuprofen 400 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Take with food. Do not exceed 2400 mg in a day.  
+RX *ibuprofen 400 mg 1 tablet(s) by mouth Q8HR Disp #*40 Tablet 
+Refills:*1 
+5.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q4HR Disp #*20 
+Tablet Refills:*0 
+6.  Atenolol 25 mg PO DAILY  
+7.  Citalopram 10 mg PO DAILY

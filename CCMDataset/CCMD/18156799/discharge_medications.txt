@@ -1,0 +1,11 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
+Daily Disp #*30 Tablet Refills:*0 
+2.  Bisacodyl 10 mg PO/PR DAILY:PRN constipation  
+3.  Docusate Sodium 100 mg PO BID  
+4.  TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+5.  Hydrochlorothiazide 25 mg PO DAILY  
+6.  Lisinopril 20 mg PO DAILY  
+7.  Simvastatin 20 mg PO QPM

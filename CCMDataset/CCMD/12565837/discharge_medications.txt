@@ -1,0 +1,16 @@
+1.  Acetaminophen 650 mg PO TID 
+Do not exceed 4000mg in 24 hours. 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth q6h prn Disp 
+#*60 Tablet Refills:*0 
+2.  OxyCODONE (Immediate Release) 2.5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+___ cause drowsiness. Partial fill on request. 
+RX *oxycodone 5 mg 0.5 (One half) tablet(s) by mouth q4h prn 
+Disp #*6 Tablet Refills:*0 
+3.  ALPRAZolam 0.25 mg PO TID:PRN anxiety  
+4.  Aspirin 81 mg PO DAILY  
+5.  Calcium Carbonate 500 mg PO QID:PRN heartburn  
+6.  Losartan Potassium 25 mg PO DAILY  
+7.  Metoprolol Tartrate 25 mg PO DAILY

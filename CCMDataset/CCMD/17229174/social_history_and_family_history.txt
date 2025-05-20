@@ -1,0 +1,22 @@
+___
+Family History: Father had lung cancer
+ 
+Physical Exam:
+Vitals: 24 HR Data (last updated ___ @ 1134)
+    Temp: 98.0 (Tm 98.0), BP: 152/82 (152-154/76-82), HR: 76
+(73-76), RR: 18, O2 sat: 95% (94-95)
+Fluid Balance (last updated ___ @ 1127)
+  Last 8 hours  Total cumulative 350ml
+    IN: Total 360ml, PO Amt 360ml
+    OUT:  Total 10ml, Urine Amt 10ml
+  Last 24 hours  Total cumulative 350ml
+    IN: Total 360ml, PO Amt 360ml
+    OUT:  Total 10ml, Urine Amt 10ml
+Physical exam:
+Gen: NAD, AxOx3
+Card: Regular rate
+Pulm: No respiratory distress
+Abd: Soft, appropriately tender at laparoscopic incision sites,
+which are covered in dermabond with no surrounding erythema or
+active drainage, bleeding
+Ext: No edema, warm well-perfused

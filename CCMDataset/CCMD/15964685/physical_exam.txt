@@ -1,0 +1,25 @@
+Physical exam at discharge
+============================
+Vitals
+24 HR Data (last updated ___ @ 458)
+    Temp: 98.2 (Tm 98.8), BP: 132/78 (124-136/69-79), HR: 68
+(64-72), RR: 18 (___), O2 sat: 94% (93-94), O2 delivery: Ra
+
+Fluid Balance (last updated ___ @ 459)
+  Last 8 hours  Total cumulative 335ml
+    IN: Total 600ml, PO Amt 600ml
+    OUT:  Total 265ml, Urine Amt 265ml
+  Last 24 hours  Total cumulative -1170ml
+    IN: Total 720ml, PO Amt 720ml
+    OUT:  Total 1890ml, Urine Amt 1590ml, trial void back fill
+300ml
+
+General: NAD, A&Ox3
+CV: RRR, no m/r/g
+RESP: CTAB, no respiratory distress, normal work of breathing
+Abd: normoactive bowel sounds, soft, mildly distended,
+appropriately tender, no rebound or guarding
+Incision/Dressings: clean, dry, and intact, no drainage
+Foley: In place, draining clear yellow urine 
+Extremities: no calf tenderness, wwp, pboots on and active
+bilaterally

@@ -1,0 +1,20 @@
+PE: 
+VS ___ 2312 Temp: 98.4 PO BP: 129/74 L Lying HR: 75 RR: 18
+O2 sat: 94% O2 delivery: Ra 
+
+NAD, A&Ox4
+nl resp effort
+RRR
+dressing c/d/I
+hemovac output 50 cc
+  
+___    
+     L2     L3      L4         L5        S1          S2
+   (Groin) (Knee) (Med Calf) (Grt Toe) (Sm Toe) (Post Thigh)
+R    SILT   SILT    SILT       SILT     SILT       SILT 
+L    SILT   SILT    SILT       SILT     SILT       SILT 
+
+Motor:
+___  Flex(L1) Add(L2) Quad(L3)  TA(L4) ___ ___
+R      5       5       5         5      5      5         5      
+L      5       5       5         5      5      5         5

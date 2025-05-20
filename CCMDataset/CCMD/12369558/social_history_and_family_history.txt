@@ -1,0 +1,43 @@
+___
+non-contributory
+ 
+Physical Exam:
+Discharge physical exam
+Vitals: VSS
+Gen: NAD, A&O x 3
+CV: RRR
+Resp: no acute respiratory distress
+Abd: soft, appropriately tender, no rebound/guarding, incision 
+c/d/i
+Ext: no TTP
+ 
+Pertinent Results:
+___ 09:41PM URINE  HOURS-RANDOM
+___ 09:41PM URINE  HOURS-RANDOM
+___ 09:41PM URINE  UCG-NEGATIVE
+___ 09:41PM URINE  GR HOLD-HOLD
+___ 09:41PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 09:41PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 09:41PM URINE  RBC-1 WBC-0 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 09:41PM URINE  MUCOUS-RARE
+___ 08:31PM   LACTATE-1.2
+___ 08:31PM   HGB-8.5* calcHCT-26
+___ 08:21PM   GLUCOSE-127* UREA N-17 CREAT-0.6 SODIUM-134 
+POTASSIUM-3.9 CHLORIDE-105 TOTAL CO2-20* ANION GAP-13
+___ 08:21PM   estGFR-Using this
+___ 08:21PM   CALCIUM-7.3* PHOSPHATE-2.4* MAGNESIUM-1.6
+___ 08:21PM   WBC-14.3* RBC-2.60* HGB-7.9* HCT-23.9* MCV-92 
+MCH-30.4 MCHC-33.1 RDW-12.6 RDWSD-42.0
+___ 08:21PM   NEUTS-89.0* LYMPHS-6.7* MONOS-3.8* EOS-0.0* 
+BASOS-0.1 IM ___ AbsNeut-12.69* AbsLymp-0.95* AbsMono-0.54 
+AbsEos-0.00* AbsBaso-0.01
+___ 08:21PM   PLT COUNT-162
+___ 08:21PM   ___ PTT-29.2 ___
+ 
+Brief Hospital Course:
+On ___, Ms. ___ was admitted to the gynecology 
+service after being transferred to ___ from ___ 
+for hemoperitoneum but overall stable condition.

@@ -1,0 +1,36 @@
+On Discharge
+------------
+General:
+VS:
+24 HR Data (last updated ___ @ 755)
+    Temp: 97.5 (Tm 98.3), BP: 125/80 (95-125/56-80), HR: 63
+(61-64), RR: 18 (___), O2 sat: 95% (95-98), O2 delivery: Ra  
+
+Bowel Regimen: [x]Yes [ ]No    Last BM: PTA
+
+Exam:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  PERRL 3-2mm
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [x]No   - Notable RUE tremor, worst at the
+hand  
+
+Speech Fluent: [x]Yes [ ]No
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+Wound: 
+          [x]Clean, dry, intact

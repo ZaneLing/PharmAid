@@ -1,0 +1,7 @@
+1.  Acetaminophen w/Codeine 1 TAB PO Q6H:PRN Pain - Severe 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+take only as directed. 
+RX *acetaminophen-codeine 300 mg-30 mg 1 tablet(s) by mouth 
+every 6 hours Disp #*10 Tablet Refills:*0 
+2.  Diphenoxylate-Atropine 1 TAB PO Q6H:PRN diarrhea

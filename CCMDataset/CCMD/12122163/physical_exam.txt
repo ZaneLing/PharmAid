@@ -1,0 +1,27 @@
+Admission Physical Exam
+Temp:97.5       HR: 68    BP:144/82       RR:16     O2 Sat:98%RA
+
+GEN: Well appearing, no acute distress
+ HEENT: NCAT, EOMI, sclera anicteric
+ CV: HDS, RRR
+ PULM: No signs of respiratory distress. CTAB. No crepitus in 
+the
+neck/ chest appreciated
+ ABD: Soft, nontender, nondistended
+ EXT: Warm, well-perfused, no edema, no tenderness 
+ NEURO: A&Ox3, no focal neurologic deficits
+
+Discharge physical exam
+
+ Vitals:
+    Temp: 98.3 BP: 135/76 HR: 86  RR: 18, O2 sat: 99%  Ra
+
+GEN: Well appearing, no acute distress
+ HEENT: NCAT, EOMI, sclera anicteric
+ CV: HDS, RRR
+ PULM: No signs of respiratory distress. CTAB. No crepitus in 
+the
+neck/ chest appreciated
+ ABD: Soft, nontender, nondistended
+ EXT: Warm, well-perfused, no edema, no tenderness 
+ NEURO: A&Ox3, no focal neurologic deficits

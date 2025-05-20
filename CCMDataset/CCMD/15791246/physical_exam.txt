@@ -1,0 +1,26 @@
+GENERAL        
+[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:
+
+HEENT          
+[x] NC/AT   [x] EOMI   [x] PERRL/A   [x] Anicteric
+[x] OP/NP mucosa normal     [x] Tongue midline
+[x] Palate symmetric  [x] Trachea midline [ ] Abnormal findings:
+
+RESPIRATORY    
+[ ] CTA/P     [x] Excursion normal     [x] No fremitus
+[x] No egophony    [x] No spine/CVAT
+[x] Abnormal findings: faint crackles at bases R>L. Incision 
+c/d/i
+
+CARDIOVASCULAR 
+[] RRR    [x] No m/r/g    [x] No JVD   [x] PMI nl  [x] No edema
+[x] Peripheral pulses nl    [x] No abd/carotid bruit
+[ ] Abnormal findings:
+
+GI             
+[x] Soft    [x] NT   [x] ND  [x] No mass/HSM   [x] No hernia
+[ ] Abnormal findings:
+
+GU             [x] Deferred  
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:

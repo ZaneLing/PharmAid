@@ -1,0 +1,14 @@
+___
+Liver cancer - maternal aunt
+ 
+Physical ___:
+24 HR Data (last updated ___ @ 318)
+    Temp: 98.3 (Tm 98.8), BP: 133/82 (133-134/82-85), HR: 71
+(71-99), RR: 18, O2 sat: 98% (96-98), O2 delivery: RA
+Fluid Balance (last updated ___ @ 515)
+  Last 8 hours  Total cumulative 643ml
+    IN: Total 1803ml, PO Amt 600ml, IV Amt Infused 1203ml
+    OUT:  Total 1160ml, Urine Amt 1160ml
+  Last 24 hours  Total cumulative 643ml
+    IN: Total 1803ml, PO Amt 600ml, IV Amt Infused 1203ml
+    OUT:  Total 1160ml, Urine Amt 1160ml

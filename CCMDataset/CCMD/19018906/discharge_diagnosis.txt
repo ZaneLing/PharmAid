@@ -1,0 +1,3 @@
+PRIMARY: Urinary tract infection, toxic metabolic encephalopathy
+SECONDARY: Hyperlipidemia, hypothyroidism, mild cognitive 
+impairment

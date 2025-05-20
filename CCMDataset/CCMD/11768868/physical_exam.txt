@@ -1,0 +1,63 @@
+ON ADMISSION
+============
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: ___  EOMs intact
+Neck: Supple.
+Lungs: CTA bilaterally.
+Cardiac: RRR. S1/S2.
+Abd: Soft, NT, BS+
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, to
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch, propioception, pinprick and
+vibration bilaterally.
+
+Toes downgoing bilaterally
+
+Coordination: normal on finger-nose-finger, rapid alternating
+movements, heel to shin
+
+ON DISCHARGE
+============
+Exam:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+Pupils:  PERRL 3-2mm bilaterally 
+EOM: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+___
+
+IPQuadHamATEHLGast
+Right___
+Left5       5       5       5       5       5
+
+[x]Sensation intact to light touch
+
+Angio Groin Site: 
+R groin [x]Soft, no hematoma  [x]Palpable pulses

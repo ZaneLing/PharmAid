@@ -1,0 +1,9 @@
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild Duration: 14 
+Days 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO 
+2.  Ibuprofen 400 mg PO Q8H:PRN Pain - Moderate  
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth ___ hours Disp #*12 
+Tablet Refills:*0

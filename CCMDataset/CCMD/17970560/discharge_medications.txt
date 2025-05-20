@@ -1,0 +1,15 @@
+1.  Benztropine Mesylate 1 mg PO BID 
+RX *benztropine 1 mg one tablet(s) by mouth twice daily Disp 
+#*28 Tablet Refills:*0 
+2.  LORazepam 1 mg PO BID PRN anxiety 
+RX *lorazepam [Ativan] 1 mg one tablet by mouth twice daily PRN 
+anxiety Disp #*10 Tablet Refills:*0 
+3.  Nicotine Patch 7 mg TD DAILY:PRN smoking sessation 
+RX *nicotine [Nicoderm CQ] 7 ___ patch once daily 
+Disp #*14 Patch Refills:*0 
+4.  RisperiDONE 1 mg PO DAILY 
+RX *risperidone 1 mg one tablet(s) by mouth twice daily (total 
+daily dose 6mg) Disp #*28 Tablet Refills:*0 
+5.  RisperiDONE 5 mg PO QHS psychosis 
+RX *risperidone 4 mg one tablet(s) by mouth at bedtime Disp #*14 
+Tablet Refills:*0

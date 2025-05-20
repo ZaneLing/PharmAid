@@ -1,0 +1,6 @@
+Active: 
+- Syncope
+  
+Chronic:
+- Hypertension
+- Hyperlipidemia

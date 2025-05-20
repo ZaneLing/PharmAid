@@ -1,0 +1,12 @@
+Primary Diagnoses:
+=================
+Acute Bronchitis
+Sinus bradycardia
+Hypertension
+Acute Kidney Injury
+
+Secondary Diagnoses:
+====================
+Benign Prostatic Hyperplasia
+Obstructive Sleep Apnea
+Atrial Fibrillation

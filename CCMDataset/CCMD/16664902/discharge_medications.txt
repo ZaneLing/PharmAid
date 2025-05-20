@@ -1,0 +1,15 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every 8 hours Disp 
+#*100 Tablet Refills:*0 
+2.  Enoxaparin Sodium 40 mg SC Q12H 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+RX *enoxaparin 40 mg/0.4 mL 1 syringe subc daily Disp #*28 
+Syringe Refills:*0 
+3.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q4H:PRN Pain 
+wean as pain improves  
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 4 hours Disp #*80 
+Tablet Refills:*0 
+4.  Polyethylene Glycol 17 g PO DAILY to prevent constipation  
+RX *polyethylene glycol 3350 [Miralax] 17 gram 1 packet by mouth 
+every day Disp #*50 Packet Refills:*0

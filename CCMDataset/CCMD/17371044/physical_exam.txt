@@ -1,0 +1,39 @@
+Admission Physical Exam, as taken by Dr. ___ on ___:
+"Neurological:  
+ *station and gait: not able to assess 
+ *tone and strength: Patient moves all 4 extremities
+symmetrically, full apparent strength
+ cranial nerves: CN II-XII grossly normal 
+ abnormal movements: no tics, tremors, evidence of EPS
+ frontal release: not assessed 
+
+Cognition: 
+ Wakefulness/alertness: drowsy, frequently closes eyes
+ *Attention (MOYB): unable to state MYOB 
+ *Orientation: states her name and that she is in a hospital but
+not which hospital, does not know day, or date, and states that
+it is ___ or ___ 
+ Executive function (go-no go, Luria, trails, FAS): not assessed 
+
+ *Memory: patient unable to recall events of past 24 hours 
+ *Fund of knowledge:  difficult to assess, able to state
+president, unable to state presidential candidates then later
+states ___" when speaking about another subject
+ Calculations: unable to assess 
+ Abstraction:  unable to assess 
+ Visuospatial: no gross deficits 
+ *Speech: soft, slurred, slow 
+ *Language: fluent ___ 
+ 
+Mental Status:
+Appearance: lying in bed, appropriate hygiene, wearing hospital
+gown, well healed scars on bilateral lower extremities 
+Behavior: somewhat cooperative but cooperation limited due to
+sedation, mild psychomotor agitation
+Mood and Affect: "..." / slightly irritable 
+Thought Process: mostly linear and goal-directed but difficult 
+to
+assess due to drowsiness. No LOA.
+Thought Content: denies SI/HI/AH/VH, no evidence of delusions or
+paranoia
+Judgment and Insight: poor/poor"

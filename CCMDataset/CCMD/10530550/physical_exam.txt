@@ -1,0 +1,22 @@
+PE: VS97.9 PO 93 / 53 L Lying 60 18 100 2lnc  
+
+NAD, A&Ox4
+nl resp effort
+RRR
+Incision c/d/I
+HVAC 75cc since midnight. 
+  
+Sensory:
+___    
+     L2     L3      L4         L5        S1          S2
+   (Groin) (Knee) (Med Calf) (Grt Toe) (Sm Toe) (Post Thigh)
+R    SILT   SILT    SILT       SILT     SILT       SILT 
+L    SILT   SILT    SILT       SILT     SILT       SILT 
+
+Motor:
+___  Flex(L1) Add(L2) Quad(L3)  TA(L4) ___ ___
+R      5       5       5         5      5      5         5      
+L      5       5       5         5      5      5         5
+
+              
+Clonus: No beats

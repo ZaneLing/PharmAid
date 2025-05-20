@@ -1,0 +1,2 @@
+PRIMARY: Acute coronary syndrome 
+SECONDARY: Tobacco abuse

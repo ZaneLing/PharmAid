@@ -1,0 +1,21 @@
+Admission Physical Exam:
+Physical Exam:
+Vitals:
+99.3F, 86, 112/75, 14, 96% Nasal Cannula 
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+Neck: Posterior neck tenderness to palpation 
+CV: RRR 
+PULM: No respiratory distress
+ABD: S/NT/ND
+Ext: No ___ edema, ___ warm and well perfused
+
+Discharge Physical Exam:
+VS: VSS, afebrile
+Gen: A&O x3, lying comfortably in NAD
+HEENT: forehead lac sutured, CDI
+Neck: in hard collar
+CV: RRR 
+PULM: No respiratory distress
+ABD: S/NT/ND
+Ext: No ___ edema, ___ warm and well perfused

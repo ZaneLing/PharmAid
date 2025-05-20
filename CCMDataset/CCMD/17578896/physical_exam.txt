@@ -1,0 +1,11 @@
+GEN: NAD
+HENT: MMM
+CV: RRR, no murmurs, no JVD
+RESP: non-labored on room air, good air entry, no crackles or
+wheezes
+GI: soft, non-distended, non-tender, normal bowel sounds
+GU: no suprapubic tenderness
+EXT: no edema
+SKIN: no jaundice
+NEURO: alert, oriented x4
+PSYCH: calm

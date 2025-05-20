@@ -1,0 +1,28 @@
+ADMISSION EXAM
+==============
+VITALS:98.8, 154/101, 105, 18, 96%Ra
+GENERAL: AAOx3, NAD
+HEENT: NC/AT, PERRL, EOMI, Sclera anicteric, MMM
+NECK: supple, no elevation in JVD 
+CARDIAC: RRR, +S1/2, no murmurs, rubs, gallops
+LUNGS: CTAB, no wheezing, rales, rhonchi
+ABDOMEN: soft, obese, NTND, +BS
+EXTREMITIES: no ___ edema
+SKIN: Warm, tattoos
+NEUROLOGIC: CN2-12 intact, ___ strength throughout, Normal
+sensation, normal gait
+
+DISCHARGE EXAM
+==============
+24 HR Data (last updated ___ @ 836)
+    Temp: 98.6 (Tm 99.5), BP: 136/89 (108-147/70-108), HR: 81
+(81-105), RR: 18 (___), O2 sat: 93% (93-97), O2 delivery: Ra  
+GENERAL: AAOx3, NAD, mildly diaphoretic
+HEENT: NC/AT, PERRL, EOMI, Sclera anicteric, no nystagmus, MMM
+CARDIAC: RRR, +S1/2, no murmurs, rubs, gallops
+LUNGS: diffuse wheezes bilaterally, no rales, no rhonchi
+ABDOMEN: soft, obese, NT, mild distention, +BS. 
+EXTREMITIES: no ___ edema, no tremor
+SKIN: Warm, damp
+NEUROLOGIC: CN2-12 intact, ___ strength throughout, Normal
+sensation, normal gait

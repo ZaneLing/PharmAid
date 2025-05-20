@@ -1,0 +1,11 @@
+1.  Acetaminophen 650 mg PO Q8H 
+RX *acetaminophen 325 mg 2 capsule(s) by mouth three times a day 
+Disp #*60 Capsule Refills:*0 
+2.  Naproxen 500 mg PO Q12H 
+RX *naproxen 500 mg 1 tablet(s) by mouth twice a day Disp #*20 
+Tablet Refills:*0 
+3.  Aspirin 81 mg PO DAILY  
+4.  FoLIC Acid 1 mg PO DAILY  
+5.  Methotrexate ___ mg PO QSUN  
+6.  Simvastatin 20 mg PO QPM  
+7.  Vitamin D 1000 UNIT PO DAILY

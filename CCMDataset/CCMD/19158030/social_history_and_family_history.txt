@@ -1,0 +1,39 @@
+___
+No seizures or strokes.
+ 
+Physical Exam:
+PE (admit):
+General: Awake, thin, appears older than stated age, 
+cooperative,
+anxious appearing.
+HEENT: No scleral icterus, large ulcerated lesion on left lower
+lip
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Normal work of breathing
+Cardiac: RRR, no murmurs appreciated, warm, well-perfused
+Abdomen: soft, non-distended
+Extremities: No ___ edema.
+Skin: no rashes noted
+ 
+Neurologic:  
+The NIHSS was performed: 
+Date: ___
+Time: 11:50 AM
+(within 6 hours of patient presentation or neurology consult) 
+ 
+___ Stroke Scale score was : 2
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0
+2. Best gaze: 0
+3. Visual fields: 0
+4. Facial palsy: 1
+5a. Motor arm, left: 0
+5b. Motor arm, right: 0
+6a. Motor leg, left: 0
+6b. Motor leg, right: 0
+7. Limb Ataxia: 0
+8. Sensory: 0
+9. Language: 0
+10. Dysarthria: 1
+11. Extinction and Neglect: 0

@@ -1,0 +1,19 @@
+1.  Acetaminophen 650 mg PO TID 
+RX *acetaminophen [Acetaminophen Pain Relief] 500 mg ___ 
+tablet(s) by mouth every 8 hours Disp #*50 Tablet Refills:*1 
+2.  Docusate Sodium 100 mg PO BID:PRN constipation 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+per day Disp #*50 Capsule Refills:*1 
+3.  Enoxaparin Sodium 40 mg SC DAILY 
+Start: ___, First Dose: Next Routine Administration Time 
+RX *enoxaparin 40 mg/0.4 mL 40 mg subcutaneous daily Disp #*28 
+Syringe Refills:*0 
+4.  Ibuprofen 400 mg PO Q6H:PRN Pain - Moderate 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*50 Tablet Refills:*1 
+5.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every 4 hours Disp 
+#*30 Tablet Refills:*0 
+6.  ClonazePAM 2 mg PO TID  
+7.  Gabapentin 100 mg PO BID  
+8.  Levothyroxine Sodium 175 mcg PO DAILY

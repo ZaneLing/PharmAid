@@ -1,0 +1,11 @@
+___
+Father CORONARY ARTERY DISEASE            
+Mother COLON CANCER, HYPERTENSION, HYPERLIPIDEMIA, DIABETES TYPE 
+II, MYOCARDIAL INFARCTION    
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: T99.1, BP 148/100, HR 90, RR 18, PO2 97  
+GENERAL: Alert and interactive. In no acute distress.
+EYES: NCAT. PERRL, EOMI. Sclera anicteric and without injection.

@@ -1,0 +1,23 @@
+Physical exam on discharge:
+Exam:
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [ ]Place [ ]Time
+
+Follows commands: [ ]Simple [x]Complex [x]None
+
+Face Symmetric: [x]Yes [ ]No  Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+Wound: 
+          [x]Clean, dry, intact, staples intact. drain site with
+gauze, CDI.

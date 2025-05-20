@@ -1,0 +1,24 @@
+ADMISSION PHYSICAL EXAM:
+===============================
+VS: 98.8F, HR 80, BP 120/85, 100% intubated
+GEN: intubated, sedated
+EYES: 2-->1.5mm b/l PERRL
+HENNT: OGT
+CV: RRR
+RESP: CTAB anteriorly
+GI: S/NT/ND
+MSK: no bony deformity
+SKIN: no visible rash
+NEURO: does not respond to voice
+
+DISCHARGE PHYSICAL EXAM:
+=============================
+VS: T 98.4F, HR 84, BP 103/70, RR 13, 100% on RA
+GEN: intubated, awake and alert --> extubated, AOx3
+EYES: 2-->1.5mm b/l PERRL
+HENNT: NCAT
+CV: RRR
+RESP: CTAB anteriorly
+GI: S/NT/ND
+SKIN: no visible rash
+NEURO: responds to voice, following commands

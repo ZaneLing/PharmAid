@@ -1,0 +1,10 @@
+PRIMARY
+=======
+Acute Myocardial Infarction
+Heart Failure with Reduced Ejection Fraction
+Paroxysmal Atrial Fibrillation
+
+SECONDARY
+=========
+Depression
+Hypothyroidism

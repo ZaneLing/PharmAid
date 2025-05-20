@@ -1,0 +1,10 @@
+denies
+
+## MEDICATIONS including vitamins, herbs, supplements, OTC:
+
+Pharmacy:
+
+only OCP (trade name ___
+
+uses a MVI
+occasionally tylenol or ibuprofen if she has a HA

@@ -1,0 +1,80 @@
+ADMISSION PHYSICAL EXAM 
+VS T: HR:64 BP:159/93 RR:16 SaO2:100
+GEN - well appearing, well developed
+HEENT - NC/AT, MMM
+NECK - full ROM, no meningismus
+CV - RRR
+RESP - normal WOB
+ABD - soft, NT, ND
+EXTR - atraumatic, WWP
+
+___ Stroke Scale - Total [2]
+1a. Level of Consciousness - 0
+1b. LOC Questions - 0
+1c. LOC Commands - 0
+2. Best Gaze - 0
+3. Visual Fields - 0
+4. Facial Palsy - 1
+5a. Motor arm, left - 0
+5b. Motor arm, right - 0
+6a. Motor leg, left - 0
+6b. Motor leg, right - 0
+7. Limb Ataxia - 0
+8. Sensory - 1
+9. Language - 0
+10. Dysarthria - 0
+11. Extinction and Neglect - 0
+
+NEUROLOGICAL EXAMINATION:
+MS - Awake, alert, oriented x 3. Attention to examiner easily
+attained and maintained. Family at bedsides assists with
+translation. Recalls a coherent history. Structure of speech
+demonstrates fluency with full sentences, and normal prosody. No
+paraphasic errors. Intact repetition, naming, reading, and
+comprehension. No evidence of apraxia or neglect.
+
+CN - [II] PERRL 3->2 brisk. VF full to number counting. [III, 
+IV,
+VI] EOMI, no nystagmus. [V] Reports sensation "98%" of normal to
+LT and PP over left hemiface. [VII] Very mild decreased
+activation of L corner of the mouth, improved later in the
+examination. [VIII] Subjectively decreased hearing out of L ear,
+but no deficits to whispered numbers. [IX, X] Palate elevation
+symmetric. No dysarthria. [XI] SCM/Trapezius strength ___
+bilaterally. [XII] Tongue midline with full ROM.
+
+MOTOR - Normal bulk and tone. No pronation, no drift. No 
+orbiting
+with arm roll. No tremor or asterixis.
+=[Delt] [Bic] [Tri] [ECR] [IO] [IP] [Quad] [Ham] [TA] [Gas]
+  [C5]  [C5]  [C7]  [C6]  [T1] [L2]  [L3]  [L5]  [L4] [S1] 
+L  5      5     5     5     5    4+   5      5     5    5
+R  5      5     5     5     5    4+   5      5     5    5
+
+SENSORY - Reports "98%" of normal over LUE and LLE to PP and LT.
+No extinction to DSS.
+
+REFLEXES - 
+=[Bic] [Tri] [___] [Quad] [Gastroc]
+L 3      3      3      2        2
+R 3      3      3      2        2
+Plantar response mute bilaterally.
+
+COORD - No dysmetria with finger to nose or heel-shin testing.
+Good speed and intact cadence with rapid alternating movements. 
+
+GAIT - Normal initiation. Narrow base. Normal stride length and
+arm swing. Stable without sway. Continues to feel subjectively
+clumsy with the LLE.
+
+DISCHARGE PHYSICAL EXAM 
+Vitals: BP 130/70, HR 60, Spo2 97%RA
+gen: NAD
+CAD: RRR
+Pulm: breathing comfortably on RA
+GI:NT/ND
+Extremities: no edema
+
+Neuro: A&O x3. PERRLA, EOMI, language intact, no dysarthria, ___ 
+strength throughout, sensation intact throughout, no dysmetria, 
+gait deferred

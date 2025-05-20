@@ -1,0 +1,9 @@
+1.  Nicotine Patch 14 mg TD DAILY:PRN nicotine craving 
+RX *nicotine 14 ___ one patch on skin once a day 
+Disp #*7 Patch Refills:*0 
+2.  OLANZapine 5 mg PO QAM 
+RX *olanzapine 5 mg 1 tablet(s) by mouth Every Morning Disp #*10 
+Tablet Refills:*0 
+3.  OLANZapine 10 mg PO QHS 
+RX *olanzapine 10 mg 1 tablet(s) by mouth at bedtime Disp #*10 
+Tablet Refills:*0

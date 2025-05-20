@@ -1,0 +1,15 @@
+1.  Acetaminophen 650 mg PO TID 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth every 8 hours Disp 
+#*40 Tablet Refills:*1 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*1 
+3.  Ibuprofen 400 mg PO Q8H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *ibuprofen 400 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*40 Tablet Refills:*1 
+4.  Artificial Tears GEL 1% 1 DROP BOTH EYES TID  
+5.  GlipiZIDE 10 mg PO BID  
+6.  Hydrochlorothiazide 25 mg PO DAILY  
+7.  MetFORMIN (Glucophage) 1000 mg PO BID

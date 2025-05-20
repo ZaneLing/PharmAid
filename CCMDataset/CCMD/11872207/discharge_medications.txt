@@ -1,0 +1,15 @@
+1.  Acetaminophen-Caff-Butalbital ___ TAB PO Q6H:PRN Headache 
+RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg ___ 
+tablet(s) by mouth Q6H PRN Disp #*12 Capsule Refills:*0 
+2.  Acetaminophen 325-650 mg PO Q6H:PRN fever or pain  
+3.  Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*2 
+4.  Clopidogrel 75 mg PO/NG DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*2 
+5.  Docusate Sodium 100 mg PO BID  
+6.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Q4H PRN Disp #*10 Tablet 
+Refills:*0 
+7.  Levothyroxine Sodium 50 mcg PO DAILY

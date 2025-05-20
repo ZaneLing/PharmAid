@@ -1,0 +1,33 @@
+Admission Physical Exam:
+========================
+Vitals: T: 98.1 BP: 186/81 P: 94 R: 16 O2: 95% on RA  
+GEN: Alert, oriented to name, place and situation. Fatigued
+appearing but comfortable, no acute signs of distress.  Obese. 
+HEENT: NCAT, Pupils equal and reactive, sclerae anicteric, OP
+clear, MMM.  
+Neck: Supple, no JVD
+Lymph nodes: No cervical, supraclavicular LAD.  
+CV: S1S2, reg rate and rhythm, no murmurs, rubs or gallops.  
+RESP: Good air movement bilaterally, no rhonchi or wheezing.  
+ABD: Soft, non-tender, non-distended, + bowel sounds.  
+EXTR: No lower leg edema, no clubbing or cyanosis  
+DERM: No active rash.  
+Neuro: moving all four extremities purposefully, non-focal.  
+PSYCH: Appropriate and calm. 
+
+Discharge Physical Exam:
+========================
+Vitals: see Eflowsheets  
+GEN: Alert, oriented to name, place and situation. Fatigued
+appearing but comfortable, no acute signs of distress.  Obese. 
+HEENT: NCAT, Pupils equal and reactive, sclerae anicteric, OP
+clear, MMM.  
+Neck: Supple, no JVD
+Lymph nodes: No cervical, supraclavicular LAD.  
+CV: S1S2, reg rate and rhythm, no murmurs, rubs or gallops.  
+RESP: Breathing non-labored 
+ABD: Soft, non-tender, non-distended  
+EXTR: No lower leg edema, no clubbing or cyanosis  
+DERM: No active rash.  
+Neuro: moving all four extremities purposefully, non-focal.  
+PSYCH: Appropriate and calm.

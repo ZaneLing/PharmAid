@@ -1,0 +1,38 @@
+ADMISSION PHYSICAL EXAMINATION:  
+ ===============================  
+ VITALS:  T98.1F BP 144 / 88 HR76 RR20  
+ GENERAL: Well-developed, well-nourished. NAD. 
+ PSYCH: Mood, affect appropriate.
+ MENTAL STATUS: AO x 3 
+ HEENT: NCAT. EOMI.  
+ CARDIAC:RRR, normal S1, S2. No murmurs/rubs/gallops. Point
+tenderness to palpation of left lower chest wall.
+ LUNGS:  Resp were unlabored, no accessory muscle use. No
+crackles, wheezes or rhonchi.  
+ EXTREMITIES: No peripheral edema.   
+ SKIN: No stasis dermatitis, ulcers, scars, or xanthomas. 
+
+ DISCHARGE PHYSICAL EXAMINATION:  
+ ===============================  
+24 HR Data (last updated ___ @ 1510)
+    Temp: 98.3 (Tm 98.3), BP: 118/68 (95-144/60-88), HR: 72
+(63-77), RR: 18 (___), O2 sat: 93% (92-96%), O2 delivery: RA,
+Wt: 174.8 lb/79.29 kg (174.8-177.69) 
+Fluid Balance (last updated ___ @ 1155)
+  Last 8 hours  Total cumulative 240ml
+    IN: Total 240ml, PO Amt 240ml
+    OUT:  Total 0ml, Urine Amt 0ml
+  Last 24 hours  Total cumulative 1110ml
+    IN: Total 1110ml, PO Amt 1110ml
+    OUT:  Total 0ml, Urine Amt 0ml
+
+GENERAL: Lying in bed. Speaking to me in no acute distress. 
+HEENT: NCAT. EMOI.
+NECK: No JVD.
+CARDIAC: S1/S2, regular, ___ systolic murmur at RUSB. No
+carotid bruits. Brisk and strong carotid upstrokes. No carotid
+bruits. 
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+EXTREMITIES: No lower extremity edema. Extremities are warm. 
+SKIN: Warm. Dry.

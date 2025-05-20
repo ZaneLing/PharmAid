@@ -1,0 +1,40 @@
+ADMISSION EXAM:
+===============
+VITALS: ___ T:98.4 HR:76 BP:135/87  RR:18 O2SAT: 100% RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and with injection 
+due
+to lake of sleep. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal. AOx3.
+
+DISCHARGE EXAM:
+===============
+VITALS: 24 HR Data (last updated ___ @ 427)
+    Temp: 100.1 (Tm 100.1), BP: 108/62 (108-134/62-83), HR: 95
+(71-95), RR: 16 (___), O2 sat: 91% (91-97), O2 delivery: Ra,
+Wt: 145.5 lb/66 kg  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. Sclera anicteric. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Normal rate and rhythm. Normal S1 and S2. Grade ___
+systolic ejection murmur heard at base. No rubs or gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales.
+ABDOMEN: Soft, nontender, nondistended. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+NEUROLOGIC: AAOx3. No asterixis. Motor and sensory function
+grossly intact throughout.

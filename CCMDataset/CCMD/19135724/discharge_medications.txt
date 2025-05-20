@@ -1,0 +1,13 @@
+1.  LACOSamide 200 mg PO BID 
+RX *lacosamide [Vimpat] 200 mg 1 tablet(s) by mouth twice daily 
+Disp #*60 Tablet Refills:*0 
+2.  LevETIRAcetam 1000 mg PO BID 
+RX *levetiracetam [Keppra] 1,000 mg 1 tablet(s) by mouth twice 
+daily Disp #*60 Tablet Refills:*0 
+3.  Tamsulosin 0.4 mg PO QHS 
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+4.Outpatient Occupational Therapy
+ICD 10 S06.2X9D 
+Outpatient script for occupational therapy for history of TBI 
+and associated short term memory issues

@@ -1,0 +1,27 @@
+ADMISSION PHYSICAL EXAM 
+=====================  
+___ 2100 BP: 137/75 HR: 60 RR: 20 O2 sat: 96% O2 delivery:
+RA 
+GEN: Well appearing, NAD
+HEENT: Conjunctiva clear, PERRL, MMM
+NECK: No JVD. 
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. I/VI SEM.  Pacemaker site C/D/I
+ABD: NT/ND, normal bowel sounds. 
+EXTREMITIES: No edema. WWP.
+SKIN: No rashes.
+NEURO: AOx3
+
+DISCHARGE PHYSICAL EXAM
+=======================
+24 HR Data (last updated ___ @ 725)
+    Temp: 97.9 (Tm 98.5), BP: 160/87 (135-160/75-90), HR: 60, 
+RR:
+18 (___), O2 sat: 95% (94-96), O2 delivery: Ra, Wt: 184
+lb/83.46 kg  
+ GEN: Well appearing, NAD
+NECK: No JVD. 
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. I/VI SEM.  Pacemaker site C/D/I
+EXTREMITIES: No edema. WWP.
+NEURO: AOx3

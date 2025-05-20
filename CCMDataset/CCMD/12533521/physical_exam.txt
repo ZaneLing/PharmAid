@@ -1,0 +1,69 @@
+PHYSICAL EXAMINATION ON ADMISSION:
+Physical Exam:
+T 98.3, HR 72, BP 140/70, RR 16, 95% RA 
+
+GCS at the scene: 15
+GCS upon Neurosurgery Evaluation: 15
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [x]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam:
+Gen: NAD, resting comfortable with C-collar in place
+HEENT: R eyebrow with laceration, R periorbital edema and
+ecchymosis
+Neck: C-collar in place
+Extrem: warm and well perfused, no edema. C/o R hip pain on
+palpation
+
+Neuro:
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to person, place, and date.
+
+Language: Speech is fluent with good comprehension. 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 2.5-2mm
+bilaterally, brisk. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Slight R droop, sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift.
+
+Sensation: Intact to light touch.
+
+PHYSICAL EXAMINATION ON DISCHARGE:
+Alert and oriented x3. Speech fluent and clear. Comprehension 
+intact.
+PERRL 3-2mm bilaterally. Right orbital edema and ecchymosis. 
+CN II-XII grossly intact.
+Motor examination ___ throughout all four extremities.
+Sensation intact in all four extremities.

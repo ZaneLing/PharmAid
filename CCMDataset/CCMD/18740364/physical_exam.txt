@@ -1,0 +1,33 @@
+==========================
+ADMISSION PHYSICAL EXAM:  
+Vital Signs: 98.4 145/74 96 18 99RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: obese, soft, NTND, NABS  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities  
+Skin: acanthosis nigricans on neck  
+
+==========================
+DISCHARGE EXAM:
+VITALS: 98.5, HR 95, BP 140/87, RR 20, SpO2 99% RA 
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear  
+NECK: Supple, + acanthosis nigricans 
+RESP: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+ABD: +BS, soft, nondistended, nontender to palpation.  
+GU: no foley  
+EXT: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+NEURO: CNs2-12 intact, motor function grossly normal 
+==========================

@@ -1,0 +1,43 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: T 98.3, BP 161/88, HR 62, RR 18, SPO2 95% RA
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Bibasilar crackles. No rhonchi or wheezes. No increased
+work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Obese. Normal bowels sounds, non distended, non-tender
+to deep palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing or cyanosis. Trace edema to knees.
+Pulses DP/Radial 2+ bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+Discharge Physical
+====================
+24 HR Data (last updated ___ @ 1730)
+    Temp: 98.6 (Tm 99.1), BP: 158/91 (138-160/73-96), HR: 66 
+(58-68), RR: 18, O2 sat: 95% (88-95), O2 delivery: Ra, Wt: 
+321.65 lb/145.9 kg   
+
+Fluid: -1700cc 24 hours
+
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Bibasilar crackles have now cleared. No rhonchi or
+wheezes. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Obese. Normal bowels sounds, non distended, non-tender
+to deep palpation in all four quadrants. No organomegaly.
+EXTREMITIES: trace edema to shins. Pulses DP/Radial 2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.

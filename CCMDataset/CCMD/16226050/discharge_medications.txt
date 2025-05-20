@@ -1,0 +1,13 @@
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Enoxaparin Sodium 30 mg SC Q24H 
+RX *enoxaparin 30 mg/0.3 mL 1 syringe subcutaneous nightly Disp 
+#*28 Syringe Refills:*0 
+4.  OxyCODONE (Immediate Release) 2.5-5 mg PO Q4H:PRN Pain 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four to six 
+hours Disp #*20 Tablet Refills:*0 
+5.  Senna 8.6 mg PO BID  
+6.  Aspirin 81 mg PO DAILY  
+7.  Donepezil 10 mg PO QHS  
+8.  Sertraline 50 mg PO DAILY  
+9.  TraZODone 50 mg PO QHS:PRN Insomnia

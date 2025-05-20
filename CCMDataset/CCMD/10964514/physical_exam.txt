@@ -1,0 +1,73 @@
+ON ADMISSION:
+************
+
+Vital Signs: T 98.6F, HR 84, BP 142/75, RR 16, O2Sat 100% on 
+room
+air
+
+General: Well appearing adult male. Comfortable appearing. No
+acute distress.
+Head, Eyes, Ears, Nose, Throat: Normocephalic. Atruamatic.
+Extremities: Warm and well perfused.
+
+Neurologic:
+Mental Status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and time.
+
+        Trapezius   Deltoid   Biceps   Triceps   Grip
+Right   5           5         5        5         5
+Left    5           5         5        5         5
+
+        Wrist Flexion   Wrist Extension
+Right   5               5
+Left    5               5
+
+        IP   Quadriceps   Hamstring   AT   ___   Gastrocnemius
+Right   5    5            5           1    2     5
+Left    5    5            5           5    5     5
+
+Sensation: Intact to light touch. 
+
+No ankle clonus noted on the right. 3 beats of ankle clonus 
+noted
+on the left.
+
+Post void residual 359mL. Repeat post void residual 0mL.
+
+Perianal sensation intact. Rectal tone intact.
+
+Imaging:
+
+MRI of the Lumbar Spine With and Without Contrast (From ___ on ___:
+
+Impression:
+1. At T12-L1, there is a large disc protrusion, causing severe
+spinal canal narrowing with subsequent spinal cord compression
+and T2 and STIR hyperintensity, likely representing spinal cord
+edema versus myelomalacia. 
+2. Multilevel degenerative changes as above.
+
+ON DISCHARGE:
+**************
+
+General:
+___ 0401 Temp: 98.2 PO BP: 131/85 HR: 87 RR: 17 O2 sat: 98% 
+O2 delivery: Ra 
+
+Bowel Regimen: [x]Yes [ ]No    Last BM: PTA
+
+Exam:
+
+Opens eyes: [x]Spontaneous [ ]To voice [ ]To noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Motor:
+TrapDeltoidBicepTricepGrip
+IPQuadHamATEHLGast
+Right5       5       5       0       1       5
+
+[+]Sensation intact to light touch

@@ -1,0 +1,78 @@
+ADMISSION EXAM:
+===============
+GCS upon Neurosurgery Evaluation: 14    Time of evaluation: 0800
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [x]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam: 
+
+Gen: Thin elderly woman in no distress, appears comfortable.
+HEENT: laceration at posterior head with staples in place
+Neck: supple
+Extrem: warm and well perfused
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to self, DOB and her family members.
+Overall confused, unable to report location or date. (Family
+reports that at baseline, she would be able to report her
+location but would not know the date)
+
+Language: Speech is clear and fluent.
+
+Cranial Nerves:
+I: Not tested
+II: Anisicoria L>R. L pupil 4-3mm, R pupil 3-2mm. Visual fields
+are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus. At rest, patient has dysconjugate gaze, L ___ nerve
+palsy (which is her baseline per family at bedside)
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hard of hearing.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Generalized weakness, no focal deficits. No abnormal movements,
+tremors. No pronator drift
+
+Sensation: Intact to light touch
+
+DISCHARGE EXAM:
+===============
+GENERAL: Sitting up in bed, conversational, in NAD
+HEENT: staples removed from posterior scalp. Anicteric sclera, 
+MMM
+CARDIAC: RRR, S1, S2, no murmurs/rubs/gallops
+LUNG: CTAB, no wheezes or rales, breathing comfortably on room 
+air  
+ABDOMEN: Soft, non-distended, non-tender to palpation in all 
+quadrants
+NEURO: Oriented to self, recognizes this is a hospital and that 
+we are in ___ but could not identify ___, not oriented to 
+time even with prompting
+EXTREMITIES: No ___ edema
+SKIN: Warm, well-perfused, no rashes or lesions

@@ -1,0 +1,25 @@
+1.  Acetaminophen 650 mg PO TID 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every six (6) 
+hours Disp #*56 Tablet Refills:*1 
+2.  Calcitriol 0.25 mcg PO BID 
+RX *calcitriol 0.25 mcg 1 capsule(s) by mouth twice a day Disp 
+#*60 Capsule Refills:*2 
+3.  Calcium Carbonate 2500 mg PO TID W/MEALS 
+Your endocrinologist will adjust the dosing of this medication 
+as needed.  
+RX *calcium carbonate 500 mg calcium (1,250 mg) 2 tablet(s) by 
+mouth TID with meals Disp #*180 Tablet Refills:*2 
+4.  Levothyroxine Sodium 112 mcg PO DAILY 
+Your endocrinologist will adjust the dose of this medication as 
+needed 
+RX *levothyroxine [Levo-T] 112 mcg 1 tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*11 
+5.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO
+RX *tramadol 50 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*30 Tablet Refills:*0 
+6.  Atorvastatin 20 mg PO QPM  
+7.  DULoxetine 60 mg PO BID  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  Omeprazole 20 mg PO QHS

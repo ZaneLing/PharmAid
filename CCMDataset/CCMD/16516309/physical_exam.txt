@@ -1,0 +1,21 @@
+Admission: 
+Vitals-  99    70    123/70     16    98% RA 
+GEN: NAD, very thin appearing male lying in bed
+HEENT: EOMI, no scleral icterus
+CV: RRR
+PULM: non-labored breathing
+ABD: soft, NT/ND
+EXT: no edema
+NEURO: A&Ox3
+PSYCH: appropriate mood, appropriate affect
+
+Discharge: 
+Vitals: T 98.2 BP 130/70 HR 66 RR 18 O2Sat 96RA
+GEN: NAD, very thin appearing sitting in chair
+HEENT: EOMI, no scleral icterus, 
+CV: RRR
+PULM: non-labored breathing, mild TTP right rib fractures
+ABD: soft, NT/ND
+EXT: no edema
+NEURO: A&Ox3
+PSYCH: appropriate mood, appropriate affect

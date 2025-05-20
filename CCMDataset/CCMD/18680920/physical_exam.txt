@@ -1,0 +1,37 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: T99.1, BP 148/100, HR 90, RR 18, PO2 97  
+GENERAL: Alert and interactive. In no acute distress.
+EYES: NCAT. PERRL, EOMI. Sclera anicteric and without injection. 
+
+ENT: MMM. No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended; TTP diffusely, no
+rebound tenderness
+MSK: No spinous process tenderness. No CVA tenderness. 
+EXT: No clubbing, cyanosis, or edema. Pulses DP/Radial 2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VITALS: 24 HR Data (last updated ___ @ 705)
+    Temp: 98.4 (Tm 99.9), BP: 108/67 (108-129/67-84), HR: 79
+(79-87), RR: 18 (___), O2 sat: 97% (94-97), O2 delivery: Ra,
+Wt: 245.59 lb/111.4 kg  
+GENERAL: Alert and interactive. In no acute distress.
+EYES: NCAT. PERRL, EOMI. Sclera anicteric and without injection. 
+
+HEENT: MMM. 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended; no tenderness to
+palpation, no rebound tenderness or guarding 
+EXT: No clubbing, cyanosis, or edema. Pulses DP/Radial 2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.

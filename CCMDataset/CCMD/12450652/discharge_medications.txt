@@ -1,0 +1,16 @@
+1.  Cefpodoxime Proxetil 100 mg PO Q12H 
+RX *cefpodoxime 100 mg 1 tablet(s) by mouth twice daily Disp 
+#*10 Tablet Refills:*0 
+2.  Escitalopram Oxalate 10 mg PO DAILY 
+RX *escitalopram oxalate [Lexapro] 10 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+3.  QUEtiapine Fumarate 12.5 mg PO QHS:PRN agitation 
+RX *quetiapine [Seroquel] 25 mg 0.5 (One half) tablet(s) by 
+mouth Take 12.5  tablet at night as needed for agitation Disp 
+#*30 Tablet Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Atenolol 50 mg PO DAILY  
+6.  Clopidogrel 75 mg PO DAILY  
+7.  Lisinopril 40 mg PO DAILY  
+8.  Simvastatin 40 mg PO QPM  
+9.  Tamsulosin 0.4 mg PO QHS

@@ -1,0 +1,22 @@
+GOITER                                                          
+THYROID NODULE                                                  
+HYPOTHYROIDISM                                                  
+NEPHROPATHY                                                     
+RENAL CYST                                                      
+PULMONARY NODULE                                                
+HYPERLIPIDEMIA                                                  
+INSOMNIA                                                        
+OBESITY                                                         
+TOBACCO ABUSE                                                   
+COLONIC POLYPS                                                  
+AORTIC CALCIFICTIONS                                            
+GASTRITIS                                                       
+PAD                                                             
+CORONARY ARTERY DISEASE                                         
+TONGUE LESION                                                   
+UMBILICAL HERNIA                                                
+VITAMIN D DEFICIENCY                                            
+BENIGN PROSTATIC HYPERTROPHY                                    
+PERIPHERAL VASCULAR DISEASE                                     
+HYPERTENSION                                                    
+SPINAL STENOSIS

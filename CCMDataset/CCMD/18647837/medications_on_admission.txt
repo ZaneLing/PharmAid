@@ -1,0 +1,27 @@
+The patient's OMR Medication list (as of ___: 
+   amitriptyline 
+amitriptyline 50 mg tablet 
+1 tablet(s) by mouth every night 
+ (Prescribed by Other Provider)  
+   atorvastatin 
+atorvastatin 20 mg tablet 
+1 tablet(s) by mouth once a day 
+ (Prescribed by Other Provider)  
+   insulin aspart [Novolog] 
+Novolog 100 unit/mL subcutaneous solution 
+ insulin pump 
+ (Prescribed by Other Provider)  
+   lisinopril 
+lisinopril 5 mg tablet 
+1 tablet(s) by mouth once a day 
+ (Prescribed by Other Provider)  
+   tamsulosin 
+tamsulosin 0.4 mg capsule 
+1 capsule(s) by mouth twice a day 
+ (Prescribed by Other Provider)  
+   aspirin [Adult Low Dose Aspirin] 
+Adult Low Dose Aspirin 81 mg tablet,delayed release 
+1 tablet(s) by mouth once a day 
+ (Prescribed by Other Provider)  
+ 
+a  This medication list has been confirmed with the patient

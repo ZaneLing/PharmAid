@@ -1,0 +1,6 @@
+Primary:
+-Unstable Angina with known CAD
+
+Secondary:
+-Hypertension 
+-Hyperlipidemia

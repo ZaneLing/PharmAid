@@ -1,0 +1,10 @@
+___ 1149 Temp: 98.4 PO BP: 115/78 HR: 65 RR: 16 O2 sat: 94% 
+O2 delivery: Ra 
+
+Gen: [X] NAD, [x] AAOx3
+CV: [X] RRR, [] murmur
+Resp: [X] breaths unlabored, [x] CTAB, [] wheezing, [] rales
+Abdomen: [X] soft, [] distended, [x] minimally tender, [] 
+rebound/guarding
+Wound: [X] incisions clean, dry, intact
+Ext: [X] warm, [] tender, [] edema

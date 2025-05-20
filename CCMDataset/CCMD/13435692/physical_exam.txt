@@ -1,0 +1,36 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: ___ 0010 Temp: 97.4 PO BP: 136/83 HR: 61 RR: 18 O2
+sat: 99% O2 delivery: RA 
+GENERAL: Lying in bed, writhing in pain.
+HEENT: Sclera anicteric and without injection. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowel sounds. Soft. Diffusely tender to light
+palpation, worst in lower abdomen. No rebound or guarding. 
+EXTREMITIES: Warm. No clubbing, cyanosis, or edema. 
+NEUROLOGIC: AAOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+PHYSICAL EXAM:
+VS: 24 HR Data (last updated ___ @ 805)
+    Temp: 97.8 (Tm 987.2), BP: 128/75 (106-132/68-79), HR: 61
+(54-77), RR: 18 (___), O2 sat: 99% (97-99), O2 delivery: Ra   
+GENERAL: NAD
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender, no rebound/guarding,
+no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial/DP pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: Warm and well perfused, no excoriations or lesions, no
+rashes

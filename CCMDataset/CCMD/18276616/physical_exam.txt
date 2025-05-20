@@ -1,0 +1,27 @@
+Admission Exam
+================
+VITALS: 98.0 91/61 102 16 16 100% on 2L  
+GENERAL: ill-appearing, elderly, no acute distress  
+HEENT: NC/AT, no scleral icterus  
+NECK: Supple, no LAD  
+CARDIAC: irregular, tachycardic, no murmurs appreciated  
+PULMONARY: clear anteriorly, no wheezing  
+ABDOMEN: hypoactive bowel sounds, soft, non-distended, patient 
+points to abdomen but no rebound tenderness or guarding  
+EXTREMITIES: warm, no ___ edema  
+NEUROLOGIC: non-verbal during interview and partially responsive 
+to commands (e.g. squeezed hands when asked but did not smile), 
+awake, moving all extremities with purpose 
+
+Discharge Exam
+================= 
+Vital Signs:  T 97.5, BP 101/77 P 93-107 RR 18 O2 98% RA
+GENERAL: ill-appearing, elderly, no acute distress  
+HEENT: NC/AT, no scleral icterus  
+NECK: Supple, no LAD  
+CARDIAC: irregular, tachycardic, no murmurs appreciated  
+PULMONARY: clear anteriorly, no wheezing  
+ABDOMEN: hypoactive bowel sounds, soft, non-distended, no 
+tenderness to palpation. EXTREMITIES: warm, no ___ edema  
+NEUROLOGIC: Oriented to self and hospital. alert, responds to 
+questions appropriately, following commands.

@@ -1,0 +1,24 @@
+ADMISSION PHYSICAL EXAM:  
+========================  
+24 HR Data (last updated ___ @ ___)
+    Temp: 98.7 (Tm 98.7), BP: 116/78, HR: 74, RR: 18, O2 sat:
+96%, O2 delivery: Ra, Wt: 173.7 lb/78.79 kg   
+
+Gen: appears well, comfortable
+CV: RRR, normal s1/s2, no murmurs
+Pulm: clear to auscultation 
+GI: soft, nontender, nondistended, no CVA tenderness, no
+suprapubic tenderness
+Ext: warm, well perfused, no edema
+
+DISCHARGE PHYSICAL EXAM:
+===================
+___ ___ Temp: 98.1 PO BP: 113/76 L Lying HR: 68 RR: 18 O2
+sat: 95% O2 delivery: Ra FSBG: 141 
+Gen: appears well, comfortable
+CV: RRR, normal s1/s2, no murmurs
+Pulm: clear to auscultation 
+GI: soft, nontender, nondistended, no CVA tenderness on exam 
+this
+AM, no suprapubic tenderness
+Ext: warm, well perfused, no edema

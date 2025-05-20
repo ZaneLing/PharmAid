@@ -1,0 +1,6 @@
+PRIMARY:
+- Atrial fibrillation/atrial flutter
+
+SECONDARY:
+- Anxiety
+- Gastroesophageal reflux

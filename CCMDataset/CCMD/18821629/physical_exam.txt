@@ -1,0 +1,21 @@
+ADMISSION PHYSICAL EXAM:
+========================
+GEN: well appearing, NAD
+HEENT: MMM
+CV: RRR, faint I/VI diastolic murmur LUSB
+PULM: CTA b/l
+GI: S/ND/NT
+EXT: WWP non-edematous
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+GEN: No apparent distress.
+NECK: No apparent JVD.
+CV: Bradycardic, regular rhythm. Normal S1/S2. Pronounced S2 at
+RUSB. Soft diastolic murmur heard best along left sternal 
+border.
+RESP: No increased work of breathing. Clear to auscultation to
+bilaterally.
+GI: Normal bowel sounds. Non-tender, non-distended.
+EXT: No ___ edema. Palpable radial and DP pulses bilaterally.
+Normal capillary refill.

@@ -1,0 +1,16 @@
+1.  Acetaminophen 1000 mg PO Q6H 
+Do not exceed 4,000mg in 24 hours. 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every 6 hours 
+Disp #*50 Tablet Refills:*1 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+daily Disp #*60 Capsule Refills:*0 
+3.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+Do not drink alcohol or drive.  
+RX *hydromorphone [Dilaudid] 2 mg ___ tablet(s) by mouth every 4 
+hours Disp #*40 Tablet Refills:*0 
+4.  Ibuprofen 600 mg PO Q6H:PRN Pain 
+Take with food or milk. 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*50 Tablet Refills:*1 
+5.  LORazepam 0.5 mg PO TID:PRN anxiety

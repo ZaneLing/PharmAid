@@ -1,0 +1,17 @@
+BREAST CANCER                                                   
+ANXIETY                                                         
+HYPERTENSION                                                    
+HYPOTHYROIDISM                                                  
+CHEST PAIN                                                      
+OSTEOARTHRITIS                                                  
+GOUT                                                            
+HYPERTRIGLYCERIDEMIA                                            
+IRRITABLE BOWEL SYNDROME                                        
+LYMPHADENOPATHY                                                 
+MIGRAINE HEADACHES                                              
+OSTEOPOROSIS                                                    
+NEPHROLITHIASIS                                                 
+HEARING LOSS                                                    
+SKIN CANCERS                                                    
+LUNG NODULE                                                     
+H/O SQUAMOUS CELL CARCINOMA

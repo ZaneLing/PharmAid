@@ -1,0 +1,19 @@
+Based on OMR note ___
+Vitals: 24 HR Data (last updated ___ @ ___)
+    Temp: 98.3 (Tm 98.3), BP: 153/79 (137-153/79-84), HR: 79
+(60-79), RR: 18, O2 sat: 94% (92-94), O2 delivery: 3 NC
+Fluid Balance (last updated ___ @ 230)
+  Last 8 hours  Total cumulative 55ml
+    IN: Total 780ml, IV Amt Infused 780ml
+    OUT:  Total 725ml, Urine Amt 725ml
+  Last 24 hours  Total cumulative 55ml
+    IN: Total 780ml, IV Amt Infused 780ml
+    OUT:  Total 725ml, Urine Amt 725ml
+Physical exam:
+Gen: NAD, AxOx3
+Card: RRR, no m/r/g
+Pulm: CTAB, no respiratory distress
+Abd: Soft, mildly-distended, normal BS.  Tender to palpation
+around incision sites
+Wounds: c/d/i
+Ext: No edema, warm well-perfused

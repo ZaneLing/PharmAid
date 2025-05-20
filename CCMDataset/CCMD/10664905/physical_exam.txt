@@ -1,0 +1,32 @@
+Admission Physical Exam
+VITALS: 97.8 191/100 63 20 97 RA
+GENERAL: Older appearing woman in no acute distress. 
+Comfortable.
+NEURO: AAOx3. CNII-XII grossly intact. Motor strength ___ in
+upper and lower extremities bilaterally. Sensation grossly
+intact. Speech normal.
+HEENT: NCAT. EOMI. MMM.
+CARDIAC: Regular rate & rhythm. Normal S1/S2. No murmurs, rubs,
+or gallops.
+PULMONARY: Clear to auscultation bilaterally. Breathing
+comfortably on room air.
+ABDOMEN: Soft, non-tender, non-distended. No hepatosplenomegaly.
+EXTREMITIES: Warm, well perfused, non-edematous. 
+
+Discharge Physical Exam
+VS:
+24 HR Data (last updated ___ @ 713)
+    Temp: 98.4 (Tm 98.7), BP: 158/80 (138-179/80-92), HR: 57
+(57-70), RR: 18 (___), O2 sat: 95% (93-96), O2 delivery: Ra  
+GENERAL: Older appearing woman in no acute distress. 
+Comfortable.
+HEENT: NCAT. EOMI. MMM.
+CARDIAC: Regular rate & rhythm. Normal S1/S2. No murmurs, rubs,
+or gallops.
+PULMONARY: Clear to auscultation bilaterally. Breathing
+comfortably on room air.
+ABDOMEN: Soft, non-tender, non-distended. No hepatosplenomegaly.
+EXTREMITIES: Warm, well perfused, non-edematous. 
+NEURO: AAOx3. CNII-XII grossly intact. Motor strength ___ in
+upper and lower extremities bilaterally. Sensation grossly
+intact. Speech normal.

@@ -1,0 +1,42 @@
+ADMISSION:
+==========
+VITALS: 98.5 115/72 56 18 96 RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation. 
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs; left calf symmetric with
+right, no tenderness or edema
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Very pleasant, appropriate affect
+
+DISCHARGE:
+===========
+24 HR Data (last updated ___ @ 809)
+Temp: 97.9 (Tm 98.2), BP: 108/70 (108-122/70-72), HR: 74 
+(60-74),
+RR: 16 (___), O2 sat: 98% (97-98), O2 delivery: RA  
+GENERAL: NAD, lying comfortably in bed
+EYES: PERRL, anicteric sclerae
+ENT: OP clear
+NODES: No cervical, clavicular, axillary, inguinal LAD
+CV: RRR, nl S1, S2, no M/R/G, no JVD
+RESP: CTAB, no crackles, wheezes, or rhonchi
+GI: + BS, soft, NT, ND, no rebound/guarding, no HSM
+GU: No suprapubic fullness or tenderness to palpation
+SKIN: No rashes or ulcerations noted
+MSK: Lower ext warm without appreciable edema; no significant 
+TTP
+L gastrocnemius 
+NEURO: AOx3, CN II-XII intact, ___ strength in all extremities,
+sensation grossly intact throughout, gait testing deferred
+PSYCH: pleasant, appropriate affect

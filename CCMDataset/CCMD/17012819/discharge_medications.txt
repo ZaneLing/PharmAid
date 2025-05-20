@@ -1,0 +1,22 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *acetaminophen 500 mg ___ tablet(s) by mouth 6 hours Disp 
+#*40 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID:PRN constipation 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*30 Capsule Refills:*0 
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 6 hours Disp 
+#*40 Tablet Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg ___ tablet(s) by mouth every ___ hours Disp 
+#*40 Tablet Refills:*0 
+5.  Albuterol Inhaler ___ PUFF IH Q6H:PRN wheezing, SOB  
+6.  norethindrone acetate 5 mg oral BID 
+RX *norethindrone acetate 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*90 Tablet Refills:*0 
+7.  Venlafaxine XR 150 mg PO DAILY

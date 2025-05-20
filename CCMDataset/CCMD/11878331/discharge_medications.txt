@@ -1,0 +1,7 @@
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *acetaminophen 500 mg 1 capsule(s) by mouth every six (6) 
+hours Disp #*28 Capsule Refills:*0 
+2.  HydrALAZINE 25 mg PO TID  
+3.  Labetalol 300 mg PO BID

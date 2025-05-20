@@ -1,0 +1,26 @@
+___
+non-contributory
+ 
+Physical Exam:
+gen: No acute distress, alert & oriented
+HEENT: Extraocular movements intact, face symmetric
+CHEST: Warm and well-perfused
+BACK: Non-labored breathing, no CVA tenderness bilaterally
+ABD: Soft, non-tender, non-distended, no guarding or rebound
+EXT: Moves all extremities well
+PSY: Appropriately interactive
+ 
+Pertinent Results:
+___ 06:50AM BLOOD WBC-7.6 RBC-4.72 Hgb-13.5* Hct-40.6 
+MCV-86 MCH-28.6 MCHC-33.3 RDW-13.5 RDWSD-42.2 Plt ___
+___ 01:52AM BLOOD WBC-10.1* RBC-5.24 Hgb-14.7 Hct-44.7 
+MCV-85 MCH-28.1 MCHC-32.9 RDW-13.3 RDWSD-41.1 Plt ___
+___ 01:52AM BLOOD Neuts-78.0* Lymphs-9.6* Monos-10.8 
+Eos-0.9* Baso-0.4 Im ___ AbsNeut-7.84* AbsLymp-0.97* 
+AbsMono-1.09* AbsEos-0.09 AbsBaso-0.04
+___ 06:50AM BLOOD Glucose-104* UreaN-19 Creat-1.9* Na-140 
+K-4.4 Cl-105 HCO3-25 AnGap-10
+___ 10:00AM BLOOD Glucose-100 UreaN-19 Creat-1.6* Na-140 
+K-4.7 Cl-108 HCO3-22 AnGap-10
+___ 01:52AM BLOOD Glucose-108* UreaN-20 Creat-1.4* Na-139 
+K-4.4 Cl-104 HCO3-22 AnGap-13

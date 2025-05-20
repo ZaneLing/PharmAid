@@ -1,0 +1,15 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth three times a day 
+Disp #*30 Tablet Refills:*0 
+2.  Ibuprofen 400 mg PO Q6H:PRN Pain - Mild 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth three times a day Disp 
+#*30 Tablet Refills:*0 
+3.  LORazepam 0.5 mg PO Q8H:PRN muscle stiffness 
+ONLY use this medication if ice packs, heating pads and physical 
+therapy are insufficient. 
+RX *lorazepam [Ativan] 0.5 mg 1 tablet by mouth twice a day Disp 
+#*8 Tablet Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every six (6) hours 
+Disp #*30 Tablet Refills:*0

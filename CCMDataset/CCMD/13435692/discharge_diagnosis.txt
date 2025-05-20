@@ -1,0 +1,6 @@
+PRIMARY:
+# Acute on chronic abdominal pain
+# Constipation
+
+SECONDARY:
+# Irritable bowel syndrome, diarrhea predominant

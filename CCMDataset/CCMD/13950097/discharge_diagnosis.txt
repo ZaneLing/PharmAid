@@ -1,0 +1,6 @@
+PRIMARY DIAGNOSIS
+#Esophageal Carcinoma, Squamous or Adenocarcinoma
+
+SECONDARY DIAGNOSIS
+#COPD
+#Alcohol Use

@@ -1,0 +1,28 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Bacitracin Ointment 1 Appl TP TID  
+3.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 2 Doses 
+take am and pm, 12hrs apart, on date of void trial/foley removal 
+
+RX *ciprofloxacin HCl 500 mg ONE tablet(s) by mouth twice a day 
+Disp #*2 Tablet Refills:*0 
+4.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg ONE capsule(s) by mouth 
+twice a day Disp #*60 Capsule Refills:*0 
+5.  Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+RX *ibuprofen 600 mg ONE tablet(s) by mouth Q8hrs Disp #*20 
+Tablet Refills:*0 
+6.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg ONE tablet(s) by mouth Q4hrs Disp #*30 Tablet 
+Refills:*0 
+7.  Senna 8.6 mg PO BID Duration: 4 Doses  
+8.  Aspirin 81 mg PO DAILY 
+Resume 5 days after surgery.  
+9.  Lisinopril 2.5 mg PO DAILY  
+10.  MetFORMIN (Glucophage) 500 mg PO DAILY  
+11.  Simvastatin 20 mg PO QPM  
+12. HELD- Acetaminophen w/Codeine 1 TAB PO Q6H:PRN Pain - 
+Moderate  This medication was held. Do not restart Acetaminophen 
+w/Codeine until while using oxycodone and acetaminophen

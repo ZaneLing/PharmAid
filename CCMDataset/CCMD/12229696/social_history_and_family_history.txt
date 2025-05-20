@@ -1,0 +1,9 @@
+___
+noncontributory
+ 
+Physical Exam:
+T: 99.0
+HR: 83
+BP: 107/67
+RR: 16
+O2: 98%

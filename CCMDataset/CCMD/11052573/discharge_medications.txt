@@ -1,0 +1,29 @@
+1.  Acetaminophen 1000 mg PO Q6H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every 6 hours Disp 
+#*80 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*30 Capsule Refills:*0 
+3.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram 1 powder(s) by 
+mouth daily Disp #*24 Packet Refills:*0 
+4.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*30 Tablet Refills:*0 
+5.  TraMADol 50 mg PO Q4H:PRN pain 
+RX *tramadol [Ultram] 50 mg 1 tablet(s) by mouth every 4 hours 
+Disp #*45 Tablet Refills:*0 
+6.  aMILoride 5 mg PO DAILY  
+7.  Atorvastatin 20 mg PO QPM  
+8.  FLUoxetine 20 mg PO DAILY  
+9.  Omeprazole 20 mg PO DAILY  
+10.  OXcarbazepine 75 mg PO BID  
+11.  Potassium Chloride 20 mEq PO DAILY 
+Hold for K >  
+12.  Ranitidine 150 mg PO BID  
+13. HELD- Hydrochlorothiazide 50 mg PO DAILY  This medication 
+was held. Do not restart Hydrochlorothiazide until you see your 
+PCP
+14.Outpatient Physical Therapy
+Outpatient Physical Therapy after mechanical fall with rib 
+fractures

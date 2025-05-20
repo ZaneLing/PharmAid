@@ -1,0 +1,23 @@
+ADMISSION PHYSICAL EXAM
+=======================
+PHYSICAL EXAM:  
+VITALS: 97.4 PO 141 / 87  Lying 56 18 97 RA  
+GEN: NAD, sitting up in bed
+HEENT: PERRL, EOMI, OP clear, MMM, no scleral icterus
+NECK: Supple  
+CARD: RRR, S1 + S2 present, no mrg
+RESP: CTAB, no wheezes/crackles, breathing comfortably RA
+ABD: SNTND, +BS, no rebound/guarding
+EXT: WWP, no ___ edema
+NEURO: AOx3, ___ strength in ___
+
+DISCHARGE PHYSICAL EXAM
+=======================
+GEN: NAD, sitting up in bed
+HEENT: PERRL, EOMI, OP clear, MMM, no scleral icterus
+NECK: Supple  
+CARD: RRR, S1 + S2 present, no mrg
+RESP: CTAB, no wheezes/crackles, breathing comfortably RA
+ABD: SNTND, +BS, no rebound/guarding
+EXT: WWP, no ___ edema
+NEURO: AOx3, ___ strength in ___

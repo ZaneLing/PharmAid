@@ -1,0 +1,27 @@
+=======================
+ADMISSION PHYSICAL EXAM
+=======================
+VS:  98.3, 138/85, 100, 17, 94%RA 
+GEN: well appearing, NAD
+HEENT: MMM
+CV: Pulsus 7, JVP 6, regular, no mrg
+PULM: Absent breathsounds to left mid lung field, mild insp
+crackles RLL, no ronchi, no egophony
+GI: Midline epigastric scar well healed, soft, mildly distended,
+non-tender
+EXT: WWP, non-edematous
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+VS: 24 HR Data (last updated ___ @ 741)
+    Temp: 98.1 (Tm 98.5), BP: 109/70 (109-158/70-88), HR: 75
+(75-88), RR: 18 (___), O2 sat: 96% (95-98), O2 delivery: RA  
+GEN: well appearing, NAD
+HEENT: NC/AT, sclera anicteric
+NECK: JVP not appreciably elevated
+CV: regular rhythm, normal rate, normal S1 and S2, no m/r/g
+PULM: Breathing comfortably on room air. Crackles at the left
+lung base
+GI: soft, non-distended, non-tender
+EXT: WWP, non-edematous

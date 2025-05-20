@@ -1,0 +1,18 @@
+OBJECTIVE: 
+Vitals: 24 HR Data (last updated ___ @ 2215)
+    Temp: 97.9 (Tm 97.9), BP: 100/64, HR: 82, RR: 18, O2 sat:
+94%, O2 delivery: RA
+Fluid Balance (last updated ___ @ 2236)
+  Last 8 hours  Total cumulative 2669.9ml
+    IN: Total 3069.9ml, IV Amt Infused 3069.9ml
+    OUT:  Total 400ml, Urine Amt 400ml
+  Last 24 hours  Total cumulative 2669.9ml
+    IN: Total 3069.9ml, IV Amt Infused 3069.9ml
+    OUT:  Total 400ml, Urine Amt 400ml
+Physical exam:
+Gen: NAD, AxOx3
+Card: RRR, no m/r/g
+Pulm: CTAB, no respiratory distress
+Abd: Soft, non-distended, appropriately tender  
+Wounds: c/d/i
+Ext: No edema, warm well-perfused

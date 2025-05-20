@@ -1,0 +1,6 @@
+PMH:
+hypertension, myocardial infarction, cerebrovascular disease,
+pancreatitis, liver disease, cholecystitis.
+
+PSH:
+R breast excisional biopsy, parathyroidectomy, T&A, ERCP

@@ -1,0 +1,7 @@
+PRIMARY
+Acute renal failure
+
+SECONDARY
+Anemia
+Viral infection
+Hypertension

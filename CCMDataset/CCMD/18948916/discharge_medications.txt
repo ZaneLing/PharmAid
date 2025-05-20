@@ -1,0 +1,6 @@
+1.  Albuterol Inhaler 2 PUFF IH Q6H:PRN dyspnea 
+RX *albuterol sulfate 90 mcg 2 puff inh every six (6) hours Disp 
+#*1 Inhaler Refills:*0 
+2.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0

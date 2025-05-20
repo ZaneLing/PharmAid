@@ -1,0 +1,18 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Aspirin Regimen] 81 mg 1 tablet(s) by mouth 
+once a day Disp #*90 Tablet Refills:*0 
+2.  Meclizine 12.5 mg PO ONCE MR1:PRN as needed for vertigo 
+Duration: 2 Doses 
+Take one dose, if effective can repeat dose when symptoms return 
+
+RX *meclizine 12.5 mg 1 tablet(s) by mouth once a day Disp #*3 
+Tablet Refills:*0 
+3.  amLODIPine 2.5 mg PO DAILY  
+4.  Atorvastatin 20 mg PO QPM  
+5.  Calcium Carbonate 500 mg PO DAILY  
+6.  Docusate Sodium 100 mg PO DAILY  
+7.  Losartan Potassium 25 mg PO DAILY  
+8.  Pantoprazole 40 mg PO Q24H  
+9.  Vitamin D 1000 UNIT PO DAILY  
+10.Outpatient Physical Therapy
+home physical therapy for cervicalgia

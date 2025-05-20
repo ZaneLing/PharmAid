@@ -1,0 +1,18 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth daily Disp #*40 
+Tablet Refills:*3 
+3.  albuterol sulfate 90 mcg/actuation inhalation QID:PRN  
+4.  Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID  
+5.  MetFORMIN (Glucophage) 1000 mg PO QAM  
+6.  MetFORMIN (Glucophage) 500 mg PO QPM  
+7.  Omeprazole 20 mg PO DAILY  
+8.  Sildenafil 100 mg PO DAILY:PRN as needed  
+9.  Temazepam ___ mg PO QHS:PRN insomnia  
+10.  Vitamin D ___ UNIT PO DAILY  
+11.Outpatient Physical Therapy
+ICD: ___.9 stroke
+PCP: ___ ___ group
+P: ___ F: ___

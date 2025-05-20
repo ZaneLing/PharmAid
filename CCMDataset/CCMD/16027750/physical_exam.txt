@@ -1,0 +1,29 @@
+ADMISSION PHYSICAL EXAM:
+============================
+VITALS: 24 HR Data (last updated ___ @ 1524)
+    Temp: 97.9 (Tm 97.9), BP: 115/76, HR: 68, RR: 18, O2 sat:
+96%, O2 delivery: RA, Wt: 237.5 lb/107.73 kg
+GENERAL: Alert, diaphoretic
+HEENT: atraumatic, normocephalic, EOMI, PERRL, scleral icterus
+CARDIAC:  RRR, no m/r/g
+LUNGS: CTAB, no wheezes, ronchi or crackles
+ABDOMEN: NABS, soft, mildly tender to palpation in RUQ, negative
+___ sign, no rebound or guarding
+EXTREMITIES: wwp, no edema
+SKIN: jaundice, no rashes appreciated
+NEUROLOGIC: AAOx3, CN grossly intact, moving all 4 extremities
+spontaneously and with purpose, gait normal, speech fluent, no
+asterixis. 
+
+DISCHARGE PHYSICAL EXAM:
+==========================
+VITALS:24 HR Data (last updated ___ @ 907)
+    Temp: 97.8 (Tm 98), BP: 118/76 (115-128/72-80), HR: 74
+(62-74), RR: 16 (___), O2 sat: 98% (95-98), O2 delivery: Ra,
+Wt: 239.7 lb/108.73 kg (237.5-239.7)  
+GENERAL: Alert, NAD, sitting up in bed
+HEENT: scleral icterus
+PULM: breathing comfortably, symmetric chest rise
+SKIN: jaundice, no rashes appreciated
+NEUROLOGIC: AAOx3, grossly intact, moving all 4 extremities,
+speech fluent

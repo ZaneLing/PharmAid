@@ -1,0 +1,20 @@
+1.  Aspirin 650 mg PO TID 
+RX *aspirin 325 mg 2 tablet(s) by mouth once a day Disp #*60 
+Tablet Refills:*0 
+2.  Colchicine 0.6 mg PO BID 
+RX *colchicine 0.6 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*2 
+3.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*0 
+5.  TraMADol 25 mg PO QHS:PRN Pain - Moderate Duration: 7 Doses 
+RX *tramadol 50 mg ___ tablet(s) by mouth at bedtime Disp #*7 
+Tablet Refills:*0 
+6. Medical marijuana
+7. HELD- Amphetamine-Dextroamphetamine Dose is Unknown  PO 
+Frequency is Unknown  This medication was held. Do not restart 
+Amphetamine-Dextroamphetamine until you discuss this medication 
+with your primary care provider.

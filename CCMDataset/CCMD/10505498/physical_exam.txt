@@ -1,0 +1,30 @@
+Admission Physical Exam:
+========================
+GEN: NAD
+EYES: anicteric
+HENT: MMM
+CV: RRR, no murmurs, no JVD
+RESP: non-labored on RA, good air entry b/l, no crackles, no
+wheezes
+GI: soft, non-distended, non-tender, no hepatomegaly, normal
+bowel sounds
+GU: no suprapubic tenderness
+EXT: no edema
+SKIN: no rash
+NEURO: alert, oriented x4
+PSYCH: calm
+
+Discharge Physical Exam:
+========================
+Vitals: see Eflowsheets
+GEN: NAD
+EYES: anicteric
+HENT: MMM
+CV: RRR, no murmurs, no JVD
+RESP: non-labored on RA
+GI: soft, non-distended
+GU: no foley
+EXT: no edema
+SKIN: no rash
+NEURO: AAO X 3
+PSYCH: calm

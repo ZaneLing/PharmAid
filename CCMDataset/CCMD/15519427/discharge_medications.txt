@@ -1,0 +1,9 @@
+1.  Aquaphor Ointment 1 Appl TP BID  
+2.  Carvedilol 6.25 mg PO BID 
+RX *carvedilol 6.25 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*0 
+3.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals  1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+4.  Apixaban 2.5 mg PO BID  
+5.  Atorvastatin 80 mg PO QPM

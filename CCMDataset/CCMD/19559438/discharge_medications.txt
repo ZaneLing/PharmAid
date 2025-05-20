@@ -1,0 +1,18 @@
+1. Chloraseptic Throat Spray 1 SPRY PO Q6H:PRN sore throat 
+RX *phenol [Chloraseptic] 0.5 % 1 spray every 6 hours Disp #*1 
+Bottle Refills:*0
+2. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+RX *fluticasone-salmeterol [Advair Diskus] 250 mcg-50 mcg/dose 1 
+puff INH twice daily Disp #*1 Disk Refills:*3
+3. Guaifenesin ___ mL PO Q6H:PRN cough 
+RX *guaifenesin 100 mg/5 mL 5 liquid(s) by mouth every 6 hours 
+Disp ___ Milliliter Milliliter Refills:*2
+4. Guaifenesin-CODEINE Phosphate ___ mL PO HS:PRN cough 
+RX *codeine-guaifenesin 100 mg-10 mg/5 mL 5 ml by mouth bedtime 
+Refills:*0
+5. PredniSONE 60 mg PO DAILY 
+RX *prednisone 20 mg 3 tablet(s) by mouth daily Disp #*15 Tablet 
+Refills:*0
+6. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing 
+RX *albuterol sulfate [ProAir HFA] 90 mcg 2 puff INH every 6 
+hours Disp #*1 Inhaler Refills:*3

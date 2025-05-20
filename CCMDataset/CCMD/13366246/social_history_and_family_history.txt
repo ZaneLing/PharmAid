@@ -1,0 +1,18 @@
+___
+Denies any positives.  
+ 
+Physical Exam:
+ADMIT PHYSICAL
+=============
+ Vital Signs: 97.9, 109 / 57, 57, 18, 96 RA  
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclera anicteric, MMM, oropharynx clear. Pupils 4mm and 
+reactive bilaterally.  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs  
+ Lungs: Clear to auscultation bilaterally, no resp distress  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, no edema  
+ Neuro: CNII-XII intact grossly, gait intact, answers questions 
+appropriately

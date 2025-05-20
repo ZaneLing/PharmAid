@@ -1,0 +1,7 @@
+#Pneumonia, recurrent
+#Parapneumonic effusion
+#Anemia
+#Leukocytosis
+
+Secondary Diagnoses:
+#Asthma

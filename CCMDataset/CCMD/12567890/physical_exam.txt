@@ -1,0 +1,24 @@
+Admission Exam:
+===============
+VS: 98.1 123/82 69 18 98 RA 
+GENERAL: AOx3, in no acute distress
+HEENT: PERRL, EOMI, anicteric sclerae, MMM.  
+NECK: Supple. JVP of 5 cm.  
+CARDIAC: RRR. Normal S1, S2. No murmurs, rubs, or gallops.
+LUNGS: CTAB, no w/r/r
+ABDOMEN: BS+, soft, NTND  
+EXTREMITIES: Warm, well perfused. No peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.
+
+Discharge Exam:
+===============
+___ 0346 Temp: 98.1 PO BP: 106/69 R Lying HR: 52 RR: 17 O2
+sat: 98% O2 delivery: Ra  
+GENERAL: AOx3, in no acute distress   
+CARDIAC: RRR. Normal S1, S2. No murmurs, 
+LUNGS: CTAB, no w/r/r
+ABDOMEN: BS+, soft, NTND  
+EXTREMITIES: Warm, well perfused. No peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.

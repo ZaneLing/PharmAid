@@ -1,0 +1,15 @@
+T: 99.0
+HR: 83
+BP: 107/67
+RR: 16
+O2: 98%
+
+Gen: A&O, comfortable
+CV: RRR
+PULM: CTAB, nonlabored breathing
+Breast: L breast without erythema, soft, appropriately tender to
+palpation, R breast with focal area of 7cm erythema in 9PM
+position, palpable mass ~10cm fluctuant under area of erythema,
+tenderness to palpation
+Abd: soft, nontender
+Ext: no calf tenderness

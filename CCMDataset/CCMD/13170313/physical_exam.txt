@@ -1,0 +1,29 @@
+Admission Exam:
+-------------------
+Vitals:98.3 140/78 99 16 99%RA  
+General:  WNWD, looks younger than stated age; NAD
+HEENT:  PERRL, EOMI, mucus membranes moist
+Neck:  Supple, no JVD
+CV:  RRR, no mrg
+Lungs:  CTAB, no crackles or wheezes
+Abdomen:  Soft, non-tender, non-distended.
+Extr:  no c/e/e; extremities warm, distal pulses intact
+Neuro:  Alert and orientedx3; moving all extremities.
+Skin:  Intact, no stasis dermatitis.
+
+Discharge Exam:
+-------------------
+Vitals:98.1 115/79 81 18 98% RA
+Telemetry: HR 75-105; NSR; long PR
+I/O: not recorded.
+Weight: ___
+Admit weight: 77kg
+General:  WNWD, looks younger than stated age; NAD
+HEENT:  PERRL, EOMI, mucus membranes moist
+Neck:  Supple, no JVD
+CV:  RRR, no mrg
+Lungs:  CTAB, no crackles or wheezes
+Abdomen:  Soft, non-tender, non-distended.
+Extr:  no c/e/e; extremities warm, distal pulses intact
+Neuro:  Alert and orientedx3; moving all extremities.
+Skin:  Intact, no stasis dermatitis.

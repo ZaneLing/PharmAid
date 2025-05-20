@@ -1,0 +1,15 @@
+1.  ClonazePAM 0.5 mg PO DAILY:PRN vertigo 
+RX *clonazepam 0.5 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+2.  Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth Daily 
+Disp #*30 Tablet Refills:*2 
+3.  Rosuvastatin Calcium 20 mg PO QPM 
+RX *rosuvastatin [Crestor] 20 mg 1 tablet(s) by mouth Every 
+evening Disp #*30 Tablet Refills:*2 
+4.  Aspirin 81 mg PO DAILY  
+5.Outpatient Physical Therapy
+6.Rolling Walker
+Dx: Gait Ataxia
+Prognosis: Pt to recover over months
+Length of need: 1 ___ year

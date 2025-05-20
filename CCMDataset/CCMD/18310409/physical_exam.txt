@@ -1,0 +1,82 @@
+PHYSICAL EXAMINATION:
+
+Vitals: T: 97.6   BP: 169/84  P: 58    RR: 16 99% RA
+
+General: AAOx3, NAD, C-collar in place
+Heart: RRR peripherally
+Lungs: Breathing comfortably on RA
+  
+Spine exam: Tenderness over midline C-spine. 
+  
+-Motor Exam: (0=total paralysis, 1=palpable contraction 2=AROM, 
+not against gravity, 3=AROM against gravity, 4=AROM against 
+gravity +some resistance, 5=AROM against full resistance)
+  
+ Motor Upper Extremities:
+C5 (shoulder abduction, elbow flex palm up): R ___    L ___ 
+C6 (elbow flexion w/thumbs up, wrist ext):   R ___    L ___ 
+C7 (elbow extension, wrist flexion):         R ___    L ___ 
+C8 (finger flexion):                         R ___    L ___ 
+T1 (finger abduction):                       R ___    L ___ 
+  
+ Motor Lower Extremities
+L2/L3 (hip flexion, hip adduction - IO):   R ___    L ___ 
+L3/L4 (knee extension - Quads):            R ___    L ___ 
+L4/L5 (ankle dorsiflexion - TA):           R ___    L ___ 
+L5 (great toe extension - ___:            R ___    L ___ 
+S1 (ankle plantarflexion - GSC):           R ___    L ___ 
+S2 (toe flexion - FHL, FDL):               R ___    L ___
+  
+  
+-Sensory: (0=absent, 1=impaired,  2= intact)
+ Sensory Upper Extremities
+C5 (Ax):            R  2  L 2
+C6 (MC):            R  2  L 2
+C7 (Mid finger):    R  1  L 1 
+C8 (MACN):          R  2  L 2
+T1 (MBCN):          R  2  L 2
+T2-L2 Trunk:        R  2  L 2
+  
+ Sensory Lower Extremities
+L2 (Groin):          R 2   L 2
+L3 (Leg)             R 2   L 2
+L4 (Knee)            R 2   L 2
+L5 (Grt Toe):        R 2   L 2
+S1 (Sm toe):         R 2   L 2
+S2 (Post Thigh):     R 2   L 2
+
+Deep Tendon Reflexes: (0=absent, 1=trace, 2=normal, 3=brisk, 
+4=non-sustained clonus, 5=sustained clonus)
+
+Reflexes
+
+Bic(C4-5)         R 3    L 3
+BR(C5-6)          R 3    L 3
+Tri(C6-7)         R 3    L 3
+Pat(L3-4)         R 3    L 3
+Ach(L5-S1)        R 3    L 3
+
+___: Negative
+Babinski: downgoing
+Clonus: none
+Perianal sensation: intact 
+Rectal tone: Deferred
+  
+Orthopaedic Specific imaging:
+CT L-Spine and C-Spine: No acute fracture or traumatic 
+subluxation
+CT-Tspine: Pending
+
+Discharge Physical Exam
+ AVSS
+ CV:RRR
+ Resp:CTAB
+ Abd:soft,ntnd,+bs's
+ Well appearing, NAD, comfortable
+ BUE: SILT C5-T1 dermatomal distributions
+ LUE: 4+/5 Del/Tri/Bic/WE/WF/FF/IO, 4+RUE Del/Tri/Bic/WE/WF/IO, 
+___ RUE FF
+ All fingers WWP, brisk capillary refill, 2+ distal pulses
+ BLE: SILT L1-S1 dermatomal distributions
+ BLE: ___ ___
+ All toes WWP, brisk capillary refill, 2+ distal pulses

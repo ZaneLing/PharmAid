@@ -1,0 +1,31 @@
+ADMISSION PHYSICAL EXAM
+========================
+VITALS:  24 HR Data (last updated ___ @ 217)
+    Temp: 98.3 (Tm 98.3), BP: 141/91, HR: 82, RR: 18, O2 sat:
+96%, O2 delivery: Ra, Wt: 174.9 lb/79.33 kg  
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva pink MMM
+NECK: Supple, JVP not elevated  
+CARDIAC: irregular rhythm, no M/R/G
+LUNGS: normal WOB, CTAB
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: WWP, no ___  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE PHYSICAL EXAM
+========================
+24 HR Data (last updated ___ @ 217)
+    Temp: 98.3 (Tm 98.3), BP: 141/91, HR: 82, RR: 18, O2 sat:
+96%, O2 delivery: Ra, Wt: 174.9 lb/79.33 kg   
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva pink MMM
+NECK: Supple, JVP not elevated  
+CARDIAC: irregular rhythm, soft systolic murmur appreciated 
+LUNGS: normal WOB, CTAB
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: WWP, no ___  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric

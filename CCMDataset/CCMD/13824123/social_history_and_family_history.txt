@@ -1,0 +1,38 @@
+___
+Denies any FH of breast, ovarian, uterine or colon cancer.   
+ 
+Physical Exam:
+VS: Please see flowsheets in POE  
+ GEN: WD, WN in NAD  
+ HEENT: NCAT, EOMI, anicteric  
+ CV: RRR  
+ PULM: normal excursion, no respiratory distress  
+ ABD: soft, appropriately tender, moderately distended, 
+incisions c/d/I, no rebound or guarding  
+ EXT: WWP, no CCE, no tenderness  
+ NEURO: A&Ox3, no focal neurologic deficits  
+ PSYCH: normal judgment/insight, normal memory, normal 
+mood/affect  
+ WOUND:  
+ [ ] foley ___________  
+ [ ] ostomy ___________  
+ [ ] surgical drain ___________  
+ [ ] prevena ___________  
+ 
+Pertinent Results:
+___ 07:22AM BLOOD WBC-12.7* RBC-4.28 Hgb-11.9 Hct-36.8 
+MCV-86 MCH-27.8 MCHC-32.3 RDW-14.1 RDWSD-43.9 Plt ___
+___ 07:22AM BLOOD Glucose-107* UreaN-8 Creat-0.5 Na-141 
+K-4.5 Cl-105 HCO3-26 AnGap-10
+___ 07:22AM BLOOD Calcium-8.8 Phos-4.4 Mg-2.___ is a ___ year-old woman with a history of 
+diverticulitis who was underwent a laparoscopic sigmoid 
+colectomy on ___. The patient tolerated the procedure 
+without complications. On POD#1, the patient's foley was 
+removed. The patient was advanced to a regular diet, and IV 
+fluids were discontinued. On POD#1 the patient was transitioned 
+to PO pain medications, including oxycodone and tylenol. On 
+POD#2 the patient was tolerating a regular diet, pain was well 
+controlled on an oral pain regimen, and they had regular 
+flatus/BMs. The patient was discharged from the hospital in 
+stable condition with 30 days of lovenox to home on POD#2 with 
+follow up in clinic in ___ weeks.

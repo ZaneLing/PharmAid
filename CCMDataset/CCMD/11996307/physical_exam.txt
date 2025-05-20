@@ -1,0 +1,31 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: ___ Temp: 98.2 PO BP: 165/91 L Lying HR: 79 
+RR:
+18 O2 sat: 94% O2 delivery: RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: Sclera anicteric and without injection. MMM.
+NECK: No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+EXTREMITIES: R forearm with cast in place. No clubbing, 
+cyanosis,
+or edema.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. Moving all 4 limbs spontaneously.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: 24 HR Data (last updated ___ @ 1123)
+    Temp: 98.2 (Tm 99.0), BP: 131/80 (131-167/74-92), HR: 90
+(84-116), RR: 20 (___), O2 sat: 96% (92-97%), O2 delivery: Ra  
+
+
+GENERAL: Sitting up in bed, NAD
+PULM: Breathing comfortably. Crackles auscultated in R middle
+lung field.
+CARDIAC: RRR. Audible S1/S2.
+EXTREMITIES: R forearm in cast.
+NEURO: A&Ox3

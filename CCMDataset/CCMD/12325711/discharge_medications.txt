@@ -1,0 +1,20 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+3.  TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+4.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+5.  GuaiFENesin ___ mL PO Q6H:PRN cough  
+6.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild/Fever  
+7.  Calcium Carbonate 500 mg PO DAILY  
+8.  Cetirizine 10 mg PO DAILY  
+9.  Cyanocobalamin 500 mcg PO DAILY  
+10.  Dextromethorphan Polistirex ___ mg PO Q12H:PRN cough  
+11.  Ketoconazole 2%  1 Appl TP QHS seborrhaic dermatitis  
+12.  Vitamin D 400 UNIT PO DAILY

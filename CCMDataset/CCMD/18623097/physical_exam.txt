@@ -1,0 +1,27 @@
+ADMISSION PHYSICAL EXAM:  
+========================  
+24 HR Data (last updated ___ @ 112)
+    Temp: 97.7 (Tm 97.7), BP: 149/71, HR: 62, RR: 20, O2 sat:
+97%, Wt: 176.8 lb/80.2 kg  
+
+Constitutional: Older woman in no acute distress
+HEENT: eyes anicteric, slightly hard of hearing.
+CV: RRR, mild holosystolic murmur, JVP flat.
+Resp: Lungs clear to auscultation bilaterally 
+GI: Soft nontender nondistended
+Ext: No peripheral edema lower extremities.
+Neuro: A&O grossly, MAEE, no facial droop
+
+DISCHARGE PHYSICAL EXAM
+=======================
+24 HR Data (last updated ___ @ 844)
+    Temp: 97.9 (Tm 98.6), BP: 139/77 (122-139/65-77), HR: 60
+(60-65), RR: 18, O2 sat: 97% (95-97), O2 delivery: RA  
+Exam:
+Constitutional: Older woman in no acute distress
+HEENT: eyes anicteric, slightly hard of hearing.
+CV: RRR, mild holosystolic murmur, JVP flat.
+Resp: Lungs clear to auscultation bilaterally 
+GI: Soft nontender nondistended
+Ext: No peripheral edema lower extremities.
+Neuro: A&O grossly, MAEE, no facial droop

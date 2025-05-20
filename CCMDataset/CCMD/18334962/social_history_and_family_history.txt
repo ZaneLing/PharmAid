@@ -1,0 +1,32 @@
+No smoking.  Very rare EtOH.  Lives in ___ but is here in
+___ visiting family.  All of his medical care is in ___. 
+Patient had been planning on returning to ___ on a flight 
+later
+this evening.
+                          
+- Modified ___ Scale:
+[x] 0: No symptoms
+[] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+[] 3: Moderate disability: requires some help but able to walk
+unassisted
+[] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+[] 6: Dead
+Father died from heart attack
+No family history of stroke
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION: 
+Vitals: T: 98.4 BP: 148/93 HR: 86 RR: 17 SaO2: 98
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted
+Pulmonary: Normal work of breathing.
+Cardiac: Warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.

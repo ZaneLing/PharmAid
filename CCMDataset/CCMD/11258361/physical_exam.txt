@@ -1,0 +1,31 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITAL SIGNS:  97.8 PO 127 / 66 59 18 98 ra
+General:  NAD, Resting in bed comfortably
+HEENT:  MMM, no OP lesions 
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, NTND, no peritoneal signs 
+LIMBS: WWP, no ___, no tremors
+SKIN:  No notable rashes on trunk nor extremities
+NEURO: CN III-XII intact, strength b/l ___ intact
+PSYCH: Thought process logical, linear, future oriented
+ACCESS: PIV
+SKIN: Rash improved 
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITAL SIGNS: ___ 0726 Temp: 97.6 PO BP: 125/62 HR: 56 RR: 
+18
+O2 sat: 99% O2 delivery: RA 
+General:  NAD, Resting in bed comfortably
+HEENT:  MMM, no OP lesions 
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, NTND, no peritoneal signs 
+LIMBS: WWP, no ___, no tremors
+SKIN:  No notable rashes on trunk nor extremities
+NEURO: CN III-XII intact, strength b/l ___ intact
+PSYCH: Thought process logical, linear, future oriented
+ACCESS: PIV
+SKIN: Rash improved

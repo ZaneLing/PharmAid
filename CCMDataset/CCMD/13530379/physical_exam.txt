@@ -1,0 +1,39 @@
+Admission Physical Exam:
+===========================
+VITALS:  98.8 58 169/89 14 98%
+GENERAL: Alert, oriented x3, no acute distress
+HEENT: R pupil > L pupil (chronic), sclera anicteric, MMM, 
+oropharynx clear, 
+NECK: submandibular swelling with mild tenderness most focal 
+under angle of mandible b/l, no lymphadenopathy, 
+LUNGS: Clear to auscultation bilaterally, no stridor, no 
+wheezes, rales, rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: no rash 
+NEURO: full strength in all extremities
+ACCESS:  PIV
+
+Discharge Physical Exam:
+===========================
+GENERAL: Alert, oriented x3, no acute distress
+HEENT: R pupil > L pupil (chronic) both reactive to light, 
+sclera anicteric, MMM, oropharynx clear, tongue appears 
+minimally larger in size on L
+NECK: submandibular swelling with mild tenderness most focal 
+under angle of mandible b/l, no lymphadenopathy, 
+LUNGS: Clear to auscultation bilaterally, no stridor, no 
+wheezes, rales, rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: no rash 
+NEURO: full strength in all extremities
+ACCESS:  PIV

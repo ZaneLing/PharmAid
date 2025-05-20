@@ -1,0 +1,21 @@
+___
+Denies family history of heart disease. 
+ 
+Physical Exam:
+============================
+ADMISSION PHYSICAL EXAMINATION
+============================
+___: T: 98.0 BP: 145/94 L Lying HR: 73 O2 sat: 99% FSBG: L 
+arm 
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding   
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: grossly intact

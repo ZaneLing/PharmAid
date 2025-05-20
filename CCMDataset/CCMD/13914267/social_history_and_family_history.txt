@@ -1,0 +1,38 @@
+___
+Mother, deceased, hypertension
+Father, deceased, MI at age ___
+Brother, healthy
+Sister, healthy
+ 
+Physical Exam:
+Vital Signs: 97.8 PO 144 / 85 64 18 99 RA  
+General: Thin appearing gentleman, lying in bed in NAD 
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Decreased air movement throughout, no wheeze  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding
+MSK: No rib tenderness with palpation  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Neuro: Alert and oriented x3  
+ 
+Pertinent Results:
+___ 09:43PM   cTropnT-<0.01
+___ 03:25PM   LACTATE-1.2
+___ 01:00PM   GLUCOSE-101* UREA N-19 CREAT-0.8 SODIUM-136 
+POTASSIUM-4.4 CHLORIDE-98 TOTAL CO2-28 ANION GAP-14
+___ 01:00PM   estGFR-Using this
+___ 01:00PM   cTropnT-<0.01
+___ 01:00PM   proBNP-224
+___ 01:00PM   D-DIMER-445
+___ 01:00PM   WBC-15.6*# RBC-4.06* HGB-13.2* HCT-41.4 
+MCV-102* MCH-32.5* MCHC-31.9* RDW-12.4 RDWSD-46.5*
+___ 01:00PM   NEUTS-79.3* LYMPHS-10.7* MONOS-7.9 EOS-1.4 
+BASOS-0.1 IM ___ AbsNeut-12.37* AbsLymp-1.67 AbsMono-1.23* 
+AbsEos-0.22 AbsBaso-0.02
+___ 01:00PM   PLT COUNT-161
+___ 01:00PM   ___ PTT-29.5 ___

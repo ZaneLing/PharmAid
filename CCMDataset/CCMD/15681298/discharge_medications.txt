@@ -1,0 +1,6 @@
+1.  Acetaminophen 1000 mg PO Q6H  
+2.  Ibuprofen 600 mg PO Q6H  
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity

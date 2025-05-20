@@ -1,0 +1,39 @@
+Admission PE
+98.6 76 116/65 18 100% RA 
+
+RUE
+Motor    ___ C5 Deltoid        ___ C6 Wrist Extension     ___ C7 
+Triceps    ___ C8 Finger Flexion   ___ T1 Finger Abduction
+SILT  C5-T1
+___ negative
+
+LUE
+Motor    ___ C5 Deltoid        ___ C6 Wrist Extension     ___ C7 
+Triceps    ___ C8 Finger Flexion   ___ T1 Finger Abduction
+SILT  C5-T1
+___ negative
+
+RLE
+Motor   ___ L2 Hip flexion/adduction   ___ L3 Knee Extension   
+___ L4 Tib Ant   ___ L5 ___  ___ S1 ___    ___ S2 Toe Flexion
+SILT    L2-S2
+Babinski down going
+Clonus no beats
+
+LLE
+Motor   ___ L2 Hip flexion/adduction   ___ L3 Knee Extension   
+___ L4 Tib Ant   ___ L5 ___  ___ S1 ___    ___ S2 Toe Flexion
+SILT    L2-S2
+Babinski down going
+Clonus no beats 
+
+Discharge Physical Exam:
+General:Well appearing sitting up in bed, some discomfort to 
+surgical site, pleasant
+CV:RRR
+Resp:CTAB
+ABd:soft,ntnd,+bs's
+Extremities:wwp,2+distal pulses
+___ LUE: throughout, RUE: 4+/5 Grip, ___ 
+Del/EF/EE/WF/WE/IO
++SILT BUE's

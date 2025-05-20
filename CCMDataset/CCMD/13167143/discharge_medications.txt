@@ -1,0 +1,26 @@
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every 8 hours Disp 
+#*60 Tablet Refills:*0 
+2.  Ciprofloxacin HCl 500 mg PO Q12H 
+for 4 days 
+RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth every 
+12 hours Disp #*8 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*30 Capsule Refills:*0 
+4.  MetroNIDAZOLE 500 mg PO Q8H 
+RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth every 8 
+hours Disp #*12 Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 4 hours Disp #*30 
+Tablet Refills:*0 
+6.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*30 Tablet Refills:*0 
+7.  albuterol sulfate 90 mcg/actuation inhalation DAILY:PRN  
+8.  Fluticasone Propionate NASAL 1 SPRY NU DAILY

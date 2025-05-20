@@ -1,0 +1,46 @@
+___: Weight: 168 (Estimated) (Entered in Nursing IPA)
+___: Height: 68 (Patient Reported) (Entered in Nursing IPA)
+___: BMI: 25.5
+*VS:  BP: 155/76    HR: 68    temp: 98.5  resp: 18  O2 sat: 100 
+height: ___
+weight: 199 lbs
+  
+Neurological:
+    *station and gait: Both WNL, narrow-based
+    *tone and strength: Normal tone; strength grossly WNL, 
+moving
+all 4 extremities freely anti-gravity
+    cranial nerves: PER, EOMI, face grossly symmetrical, moves
+facial musculature grossly symmetrically, not drooling nor
+dysarthric, hearing grossly intact, voice not hoarse, turns 
+heads
+and shrugs shoulders freely
+    abnormal movements: No abnormal movements noted, no tremor
+
+Mental Status Exam:
+  *Appearance: tall well-built ___ male, calm and
+polite with good eye contact. Cooperative behavior and linear
+historian. Well groomed. 
+  * Behavior: Cooperative, well-related, appropriate eye 
+contact;
+no notable PMR or PMA
+  * Speech: Normal rate/tone/volume; prosody intact
+  * Mood: "normal, a little anxious"
+  * Affect: Flat
+  * Thought process: linear
+  * Thought Content: +paranoia as per HPI ("that people are
+thinking something negative"). Denies SI/HI/AVH/IOP/TC/TP
+  *Judgment/Insight: poor / fair
+
+Cognition:
+    *Arousal level & orientation: A&O x 3 to name, date, place
+    *Memory: ___ immed recall, ___ delayed recall 
+    *Attention: Intact to MOYB
+    *Calculations: $1.75= 7 quarters 
+    *Language: Fluent, no paraphasic errors, prosody intact
+
+Gen: NAD
+Cardiac: RRR
+Chest: CTAB, normal work of breathing
+Abdom: soft, non-tender
+Extremities: warm and dry

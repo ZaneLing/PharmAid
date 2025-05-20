@@ -1,0 +1,13 @@
+___
+- Mother: stroke
+- Father: MI
+- Grandfather: stroke      
+ 
+Physical ___:
+Admission Exam: 
+Vitals: 
+T: 98.2
+HR: 88
+BP: 176/90
+RR: 21
+SpO2: 98% NC

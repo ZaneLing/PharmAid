@@ -1,0 +1,8 @@
+Primary: 
+# Acute toxic metabolic encephalopathy
+
+Secondary:
+# Audiovisual hallucinations
+# HTN
+# HLD
+# OSA

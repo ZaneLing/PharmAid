@@ -1,0 +1,59 @@
+ON ADMISSION: 
+
+PHYSICAL EXAM:
+**With ___ interpreter via phone
+O: T: 98.3  BP: 167/83   HR: 90    R: 18   O2Sats: 100% RA
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: PERRL         EOMs Full
+Neck: Supple.
+Lungs: No resp distress
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension. No dysarthria 
+or
+paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4mm to
+3mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Slight R facial asymmetry. 
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+==================================================
+
+ON DISCHARGE:
+
+Exam:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+Pupils:  PERRL 3-2mm
+EOM: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [ ]Yes [x]No - deviates to R 
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+___
+
+IPQuadHamATEHLGast
+Right55___
+Left5       5       5       5       5       5
+
+[x]Sensation intact to light touch

@@ -1,0 +1,6 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO 
+2.  Cephalexin 500 mg PO Q6H Duration: 5 Days 
+RX *cephalexin 500 mg 1 capsule(s) by mouth every six (6) hours 
+Disp #*20 Capsule Refills:*0

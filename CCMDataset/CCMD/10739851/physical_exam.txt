@@ -1,0 +1,33 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: T: 99.2, BP: 136 / 73, P: 86, R: 18, O2 Sat: 98% on RA
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: +LLQ>LUQ/RLQ tenderness, no rebound tenderness.
+Otherwise non-tender, abdomen non-distended. Normal bowels
+sounds.
+EXTREMITIES: No ___ edema.
+SKIN: Warm. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM
+========================
+PHYSICAL EXAM:
+VS:
+24 HR Data (last updated ___ @ 829)
+    Temp: 98.0 (Tm 98.8), BP: 126/76 (108-126/67-78), HR: 74
+(71-81), RR: 18 (___), O2 sat: 99% (97-99), O2 delivery: Ra   
+
+GENERAL: Sitting up in bed, eating breakfast, NAD
+PULM: Breathing comfortably. Clear to auscultation in posterior
+and anterior fields.
+CARDIAC: RRR. Audible S1/S2.
+ABD: Soft, tenderness to palpation in epigastrium/LLQ/LUQ, no
+rebound, active bowel sounds.
+NEURO: A&Ox3

@@ -1,0 +1,11 @@
+1.  Albuterol Inhaler ___ PUFF IH QID:PRN sob 
+RX *albuterol sulfate [ProAir HFA] 90 mcg ___ puffs inhaled four 
+times a day Disp #*1 Inhaler Refills:*0 
+2.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+RX *fluticasone-salmeterol [Advair Diskus] 250 mcg-50 mcg/dose 1 
+puff inhaled twice a day Disp #*1 Disk Refills:*0 
+3.  Levofloxacin 750 mg PO DAILY 
+take one dose on ___ 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth once a day Disp #*1 
+Tablet Refills:*0 
+4.  Aspirin 325 mg PO OCCASIONALLY:PRN pain

@@ -1,0 +1,97 @@
+___
+Mother - ___
+Father - ___ infarction, Lung cancer
+Cousin - ___
+ 
+Physical ___:
+Exam on admission:
+======================
+VS: T 98.3, HR 92, BP 131/83, RR 18, spO2 98RA
+GEN: Alert, lying in bed, no acute distress  
+HEENT: MMM, anicteric sclerae, no conjunctival pallor  
+NECK: Supple without LAD  
+PULM: CTAB, no wheezes or crackles
+COR: RRR (+)S1/S2 no m/r/g  
+ABD: Soft, non-tender, non-distended  
+EXTREM: Warm, well-perfused, no edema  
+NEURO: CN II-XII grossly intact, motor function grossly normal  
+RECTAL (in ED): heme positive
+.
+Exam on discharge:
+======================
+Vitals: T 98.2, HR 73, BP 109/71, RR 16, O2 97RA
+GEN: Alert, lying in bed, no acute distress  
+HEENT: MMM, anicteric sclerae, no conjunctival pallor  
+NECK: Supple, no LAD  
+PULM: CTAB, no wheezes or crackles
+COR: RRR (+)S1/S2 no m/r/g  
+ABD: S/NT/ND 
+EXTREM: WWP, no edema  
+NEURO: CN II-XII grossly intact, motor function grossly normal  
+RECTAL (in ED): heme positive
+ 
+Pertinent Results:
+Labs on admission:
+====================
+___ 12:35PM BLOOD WBC-10.0# RBC-2.04*# Hgb-6.3*# Hct-19.4*# 
+MCV-95 MCH-30.9 MCHC-32.5 RDW-13.3 RDWSD-44.8 Plt ___
+___ 12:35PM BLOOD ___ PTT-22.6* ___
+___ 12:35PM BLOOD Glucose-109* UreaN-34* Creat-0.9 Na-133 
+K-4.9 Cl-99 HCO3-23 AnGap-16
+___ 12:35PM BLOOD ALT-12 AST-21 AlkPhos-23* TotBili-0.2
+___ 12:35PM BLOOD Albumin-3.5
+.
+Microbiology:
+====================
+___ 12:40 pm URINE
+ **FINAL REPORT ___
+URINE CULTURE (Final ___:    NO GROWTH. 
+.
+___ 7:09 am SEROLOGY/BLOOD      CHEM 60727K ___. 
+**FINAL REPORT ___
+HELICOBACTER PYLORI ANTIBODY TEST (Final ___: 
+POSITIVE BY EIA. 
+(Reference Range-Negative). 
+.
+Imaging/reports:
+====================
+Stomach biopsy:
+a. Chronic mildly active gastritis.
+b. Organisms morphologically compatible with H. pylori.
+.
+EGD:Impression: Ulcer in the duodenal bulb
+Normal mucosa in the stomach (biopsy)
+Otherwise normal EGD to third part of the duodenum 
+.
+Labs on discharge:
+====================
+___ 12:45PM BLOOD WBC-6.3 RBC-2.46* Hgb-7.7* Hct-23.0* 
+MCV-94 MCH-31.3 MCHC-33.5 RDW-14.4 RDWSD-46.3 Plt ___
+___ 12:45PM BLOOD Plt ___
+___ 06:24AM BLOOD Glucose-100 UreaN-17 Creat-0.9 Na-132* 
+K-4.4 Cl-100 HCO3-25 AnGap-11
+___ 06:24AM BLOOD Calcium-8.4 Phos-2.9 Mg-2.___ h/o GERD, HTN, p/w 6d of dark tarry stools and fatigue found 
+to be acutely anemic (Hgb 6.3 on admission), found to have 2cm 
+clean based ulcer in duodenum that had stopped bleeding by time 
+of EGD on ___, and post-transfusion of 2u pRBC, patient with 
+stable H/H (discharge Hgb of 7.7). GI recommended treatment with 
+PPI, following up biopsies, and repeating H/H post-EGD, which 
+was stable. 
+.
+After discharge, h. pylori antigen is positive, and stomach 
+biopsies with organisms compatible with H. pylori.
+.
+Transitional issues:
+- Please re-check CBC at next appointment. Discharge Hgb was 
+7.7, stable
+- Please assess for further GI bleed symptoms
+- STARTED on omeprazole 40mg BID for 8 weeks, to be continued at 
+20mg once a day after 8 weeks per GI
+- Patient will require treatment for H. pylori given positive 
+biopsies/serologies, and bleeding. We will coordinate with 
+GI/primary care team
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. Omeprazole 40 mg PO DAILY:PRN reflux

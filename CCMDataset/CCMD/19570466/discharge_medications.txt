@@ -1,0 +1,17 @@
+1.  Cephalexin 500 mg PO Q6H Duration: 7 Days 
+RX *cephalexin 500 mg ONE tablet(s) by mouth four times a day 
+Disp #*28 Tablet Refills:*0 
+2.  Nicotine Patch 14 mg TD DAILY 
+RX *nicotine 14 mg/24 hour ONE PATCH Q24hrs Disp #*1 Patch 
+Refills:*3 
+3.  Tamsulosin 0.4 mg PO QHS 
+RX *tamsulosin 0.4 mg ONE capsule(s) by mouth Daily Disp #*30 
+Capsule Refills:*0 
+4.  TraMADol 50 mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *tramadol 50 mg HALF to ONE FULL tab by mouth Q4-6hrs Disp 
+#*15 Tablet Refills:*0 
+5.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+6.  Escitalopram Oxalate 10 mg PO DAILY  
+7.  Simvastatin 40 mg PO QPM

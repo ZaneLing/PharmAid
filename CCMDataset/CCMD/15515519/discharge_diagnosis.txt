@@ -1,0 +1,2 @@
+Primary: chest pain
+Secondary: hypertension, hyperlipidemia

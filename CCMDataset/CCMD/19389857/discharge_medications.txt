@@ -1,0 +1,14 @@
+1.  Acetaminophen 650 mg PO TID  
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+3.  TraMADol 25 mg PO Q6H:PRN pain 
+RX *tramadol 50 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*20 Tablet Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Cetirizine 10 mg PO DAILY  
+6.  esomeprazole magnesium 20 mg oral daily  
+7.  Lisinopril 5 mg PO DAILY  
+8.  oxybutynin chloride 5 mg oral daily once  
+9.  Simvastatin 20 mg PO QPM  
+10.  Tamsulosin 0.4 mg PO QHS

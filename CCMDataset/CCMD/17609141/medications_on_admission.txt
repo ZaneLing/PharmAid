@@ -1,0 +1,4 @@
+- metformin,
+- simvastatin 
+- lisinopril
+- glyburide

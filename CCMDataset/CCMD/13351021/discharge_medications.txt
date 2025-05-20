@@ -1,0 +1,15 @@
+1.  Docusate Sodium 100 mg PO BID:PRN constipation 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*30 Tablet Refills:*0 
+2.  Famotidine 20 mg PO BID 
+please crush 
+RX *famotidine 20 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+3.  HYDROcodone-Acetaminophen (5mg-325mg) ___ TAB PO Q4H:PRN 
+Pain - Moderate 
+  Reason for PRN duplicate override: change of meds
+RX *hydrocodone-acetaminophen 5 mg-300 mg ___ tablet(s) by mouth 
+every four (4) hours Disp #*30 Tablet Refills:*0 
+4.  ferrous sulfate 134 mg (27 mg iron) oral DAILY  
+5.  Multivitamins 1 TAB PO DAILY  
+6.  Vitamin D 1000 UNIT PO DAILY

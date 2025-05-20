@@ -1,0 +1,10 @@
+___
+None
+ 
+Physical Exam:
+ADMISSION
+=========
+PHYSICAL EXAM:   Height: 1.65 m    Weight: 68.039 kg
+Temp: 97.8   HR: 98   BP: 141/74    RR: 19  O2 Sat: 96% RA
+GENERAL        
+[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:

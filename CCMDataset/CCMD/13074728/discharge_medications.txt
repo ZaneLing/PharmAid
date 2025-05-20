@@ -1,0 +1,17 @@
+1.  Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea/wheezing 
+RX *albuterol sulfate [ProAir HFA] 90 mcg 2 puff inh every four 
+(4) hours Disp #*1 Inhaler Refills:*0 
+2.  Anoro Ellipta (umeclidinium-vilanterol) 62.5-25 
+mcg/actuation inhalation DAILY 
+RX *umeclidinium-vilanterol [Anoro Ellipta] 62.5 mcg-25 
+mcg/actuation 1 puff inh daily Disp #*1 Disk Refills:*0 
+3.  Clotrimazole Cream 1 Appl TP BID Duration: 7 Days 
+RX *clotrimazole 1 % Apply to rash twice a day Refills:*0 
+4.Home Oxygen
+Conc & portable
+2L via n/c
+___: 99 mo
+Dx: Emphysema, J43
+Rest on RA: 86%
+Amb on RA: 79%
+Amb on 2L: 93%

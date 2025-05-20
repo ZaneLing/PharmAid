@@ -1,0 +1,28 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg ONE capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+3.  Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+RX *ibuprofen 600 mg ONE tablet(s) by mouth Q8hrs Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Tartrate 50 mg PO BID 
+RX *metoprolol tartrate 50 mg ONE tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg one tablet(s) by mouth Q4hrs Disp #*25 Tablet 
+Refills:*0 
+6. HELD- Ferrous Sulfate 325 mg PO DAILY  This medication was 
+held. Do not restart Ferrous Sulfate until ___ days after 
+discharge unless otherwise advised by your PCP/endocrinologist. 
+7. HELD- Potassium Chloride 20 mEq PO BID  This medication was 
+held. Do not restart Potassium Chloride until advised by your 
+endocrinologist
+8. HELD- potassium gluconate (bulk) 595 mg PO BID  This 
+medication was held. Do not restart potassium gluconate (bulk) 
+until advised by your endocrinologist
+9. HELD- Spironolactone 25 mg PO BID  This medication was held. 
+Do not restart Spironolactone until advised by your 
+endocrinologist

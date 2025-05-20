@@ -1,0 +1,16 @@
+1.  Acetaminophen 500 mg PO Q6H  
+2.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate [Augmentin] 875 mg-125 mg 1 
+tablet(s) by mouth every twelve (12) hours Disp #*14 Tablet 
+Refills:*0 
+3.  Gabapentin 300 mg PO QHS 
+RX *gabapentin 300 mg 1 capsule(s) by mouth at bedtime Disp #*30 
+Capsule Refills:*0 
+4.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg ___ tablet(s) by mouth q4-6h Disp #*50 Tablet 
+Refills:*0 
+5.  ClonazePAM 0.5 mg PO BID:PRN anxiety  
+6.  Venlafaxine XR 150 mg PO DAILY

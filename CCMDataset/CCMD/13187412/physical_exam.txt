@@ -1,0 +1,33 @@
+Upon discharge: 
+
+Opens eyes: [X]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [X]Person [X]Place [X]Time
+
+Follows commands: [ ]Simple [X]Complex [ ]None
+
+Pupils: 2.5 Bilaterally equal and reactive 
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+Right 5          5     5        5      5      
+Left 5          5     5        5      5
+
+Right upper extremity tremor   
+
+IPQuadHamATEHLGast
+Right 5        5      5       5       5        5
+Left 5        5      5       5       5        5 
+
+[x]Sensation intact to light touch
+
+Angio Groin Site: [x]Soft, no hematoma  [x]Palpable pulses
+Left groin

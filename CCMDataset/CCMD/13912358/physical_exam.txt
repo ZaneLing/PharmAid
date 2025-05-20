@@ -1,0 +1,14 @@
+General:
+Skin: Cold
+HEENT: Minimally reactive pupils
+Chest: Diminished breath sounds
+Heart: Heart sounds absent
+Abdomen: Firm, distended, absent bowel sounds
+Extremities: cold[], well-perfused []  Edema [x] __2+___
+Varicosities: None [x]
+Neuro: Intubated, sedated
+Pulses:
+Femoral      Right: absent  Left: absent
+DP           Right:  absent   Left: absent  
+___           Right: absent    Left: absent  
+Radial       Right: absent    Left: absent

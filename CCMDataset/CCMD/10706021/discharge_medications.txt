@@ -1,0 +1,10 @@
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Aspirin Regimen] 81 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*3 
+2.  Atorvastatin 40 mg PO QAM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*3 
+3.  Amphetamine-Dextroamphetamine 30 mg PO TID PRN for ADD  
+4.  Fluticasone Propionate NASAL 1 SPRY NU PRN sinus congestion  
+
+5.  Sertraline 50 mg PO DAILY for sleep

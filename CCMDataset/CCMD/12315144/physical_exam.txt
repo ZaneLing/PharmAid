@@ -1,0 +1,55 @@
+PHYSICAL EXAMINATION (Initial exam @ 21:00)
+T:97.2  BP: 167/92   HR:54    R:18       O2Sats:96%
+General:  NAD
+HEENT: NCAT
+___: Well perfused. 
+Pulmonary: Breathing comfortably on room air. 
+Abdomen: Soft, NT, ND
+Extremities: Warm, no edema
+
+Neurologic Examination: 
+___ Stroke Scale - Total [12]
+1a. Level of Consciousness - 1
+1b. LOC Questions - 1
+1c. LOC Commands - 0
+2. Best Gaze - 2
+3. Visual Fields - ?
+4. Facial Palsy - 2
+5a. Motor arm, left - 0
+5b. Motor arm, right - 2
+6a. Motor leg, left - 0
+6b. Motor leg, right - 2
+7. Limb Ataxia - ?
+8. Sensory - 0
+9. Language - ? (followed commands and stated age)
+10. Dysarthria - 2
+11. Extinction and Neglect - ?
+
+- Mental status: Eyes open to voice. Follows commands to
+open/close eyes and grip/release hands bilaterally. Answered age
+"___" though with severe dysarthria. 
+
+- Cranial Nerves: Right pupil 2->1.5mm sluggish. Left pupil 6mm
+non-reactive (not surgical). Left gaze deviation, unable to 
+cross
+midline to right. Near total paralysis of right lower face.
+Hearing intact to speech. 
+
+- Motor:  Normal bulk and tone. No tremor or asterixis.
+  [___]
+L         5    5                 5    5     5   ___nd RLE antigravity to noxious
+ 
+- Reflexes: 
+   [Bic] [Tri] [___] [Quad] [Gastroc]
+ L  2+    2+     2+      2+       1
+ R  2+    2+     2+      2+       1  
+Plantar response flexor bilaterally 
+
+- Sensory: Grimaced to pinch of all 4 extremities. 
+
+- Coordination: Unable to test. 
+
+- Gait: Deferred. 
+
+DISCHARGE EXAM: 
+**deceased**

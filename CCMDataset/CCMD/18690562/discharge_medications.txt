@@ -1,0 +1,14 @@
+1.  Aspirin 81 mg PO DAILY 
+we would like you to stay on this for life. 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*12 
+2.  Rivaroxaban 15 mg PO BID Duration: 21 Days 
+on day # 22 start 20mg po daily for the remaining 9 days. 
+RX *rivaroxaban [___] 15 mg 1 tablet(s) by mouth twice a day 
+Disp #*42 Tablet Refills:*0 
+3.  Rivaroxaban 20 mg PO DAILY Duration: 9 Days 
+this is for days 22 - 30 / then you can stop  
+RX *rivaroxaban [Xarelto] 20 mg 1 tablet(s) by mouth once a day 
+Disp #*9 Tablet Refills:*0 
+4.  BuPROPion (Sustained Release) 150 mg PO QAM  
+5.  Loratadine 10 mg PO DAILY

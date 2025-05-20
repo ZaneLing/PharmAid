@@ -1,0 +1,36 @@
+ADMISSION PHYSICAL EXAM:  
+___ 2353 Temp: 97.8 PO BP: 115/83 HR: 136 RR: 18 O2 sat: 
+94%
+O2 delivery: ra Dyspnea: 0 RASS: 0 Pain Score: ___ 
+General: Lying in bed comfortably with wife at beside. 
+HEENT: MMM, EOMI, PERRL. 
+Neck: JVP difficult to appreciate given habitus, appears mildly
+elevated to 11-12cm. No LAD. 
+CV: Tachycardic. Regular rhythm. Normal S1, S2. +S3. No rubs or
+murmurs. 
+Lungs: No rales, rhonchi, or wheezes.   
+Abdomen: Obese. Soft, non-tender, non-distended. 
+Ext: Warm, well perfused. 2+ pulses. Trace edema. 
+Neuro: CNII-XII intact, ___ strength upper/lower extremities.
+Appears anxious.
+
+DISCHARGE PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 623)
+    Temp: 98.6 (Tm 99.0), BP: 111/73 (111-126/69-76), HR: 87 
+(87-94), RR: 20 (___), O2 sat: 97% (94-97), O2 delivery: RA  
+Fluid Balance (last updated ___ @ 2246) 
+  Last 8 hours No data found
+  Last 24 hours  Total cumulative 760ml
+    IN: Total 1160ml, PO Amt 1160ml
+    OUT:  Total 400ml, Urine Amt 400ml  
+
+General: Lying in bed comfortably with wife at beside. 
+HEENT: MMM, EOMI, PERRL. 
+Neck: JVP not appreciable at 30 degrees. No LAD. 
+CV: RRR. No rubs or murmurs. 
+Lungs: CTAB, no rales, rhonchi, or wheezes. Normal work of 
+breathing.
+Abdomen: Obese. Soft, non-tender, non-distended. 
+Ext: Warm, well perfused. 2+ pulses. Trace edema.
+Neuro: CNII-XII intact, ___ strength upper/lower extremities. 
+Appears anxious.

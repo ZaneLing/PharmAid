@@ -1,0 +1,23 @@
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever 
+Do not take more than 4000mg in 24 hours 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every six (6) 
+hours Disp #*60 Tablet Refills:*2 
+2.  Docusate Sodium 100 mg PO BID 
+Hold for loose stools 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth two (2) times a 
+day Disp #*60 Capsule Refills:*2 
+3.  HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+___ cause sedation. Do not drink or drive while taking. 
+RX *hydromorphone 2 mg ___ tablet(s) by mouth every four (4) 
+hours Disp #*20 Tablet Refills:*0 
+4.  Ibuprofen 600 mg PO Q6H:PRN Pain - Mild/Fever NOT relieved 
+by Acetaminophen 
+Take with food to avoid upset stomach. Do not take more than 
+2400mg in 24 hours 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*60 Tablet Refills:*2 
+5.  FLUoxetine 20 mg PO DAILY  
+6.  Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+7.  Lisinopril 40 mg PO DAILY

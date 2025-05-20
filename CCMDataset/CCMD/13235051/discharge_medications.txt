@@ -1,0 +1,17 @@
+1.  Acetaminophen 650 mg PO TID 
+RX *acetaminophen 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*90 Tablet Refills:*0 
+2.  DULoxetine ___ 20 mg PO DAILY 
+RX *duloxetine 20 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*0 
+3.  Lidocaine 5% Patch 1 PTCH TD QAM 
+RX *lidocaine 5 % 1 PATCH QAM Disp #*30 Patch Refills:*0 
+4.  Ondansetron ODT 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+
+RX *ondansetron 4 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*21 Tablet Refills:*0 
+5.  Diltiazem ___ 180 mg PO DAILY 
+RX *diltiazem HCl 180 mg 1 capsule(s) by mouth once a day Disp 
+#*30 Capsule Refills:*0 
+6.  Levothyroxine Sodium 112 mcg PO DAILY  
+7.  Tizanidine ___ mg PO QHS:PRN sleep/spasm

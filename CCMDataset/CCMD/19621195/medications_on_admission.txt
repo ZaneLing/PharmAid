@@ -1,0 +1,11 @@
+The patient's OMR Medication list (as of ___: 
+   sulfamethoxazole-trimethoprim [Bactrim DS] 
+Bactrim DS 800 mg-160 mg tablet 
+ONE tablet(s) by mouth twice a day 
+ (Prescribed by Other Provider)  
+   acetaminophen [Acetaminophen Extra Strength] 
+Acetaminophen Extra Strength 500 mg tablet 
+2 tablet(s) by mouth three times a day as needed 
+ (Prescribed by Other Provider)  
+ 
+a  This medication list has been confirmed with the patient

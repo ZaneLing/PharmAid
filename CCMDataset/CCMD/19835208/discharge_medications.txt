@@ -1,0 +1,8 @@
+1.  LORazepam 0.5 mg PO TID:PRN anxiety 
+RX *lorazepam 0.5 mg 1 tablet by mouth three times a day Disp 
+#*21 Tablet Refills:*0 
+2.  Amphetamine-Dextroamphetamine 30 mg PO TID  
+3.  ARIPiprazole 10 mg PO DAILY  
+4.  FLUoxetine 20 mg PO DAILY  
+5.  Methadone 50 mg PO DAILY  
+6.  Omeprazole 20 mg PO DAILY

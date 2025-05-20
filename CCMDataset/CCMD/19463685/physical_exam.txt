@@ -1,0 +1,31 @@
+ADMISSION PHYSICAL EXAMINATION:  
+=======================  
+T 97.5 BP 168/95 HR 81 RR 20 Sat 99%RA
+GENERAL: WDWN woman, Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+MMM 
+NECK: JVP below clavicle  
+CARDIAC: Irregularly irregular, Normal S1, S2. No murmurs, rubs,
+or gallops.
+LUNGS: Respiration is unlabored with no accessory muscle use.
+Bilateral course crackles at the bases   
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.   
+PULSES: Distal pulses palpable and symmetric.
+
+DISCHARGE PHYSICAL EXAM
+24 HR Data (last updated ___ @ 1251)
+    Temp: 97.9 (Tm 98.3), BP: 153/69 (98-154/55-86), HR: 91
+(65-120), RR: 18, O2 sat: 95% (91-97), O2 delivery: Ra, Wt: 
+142.3
+lb/64.55 kg    
+ Weight on admission: 64.82 kg / 142.9 lb 
+ Telemetry:  afib
+ General:  Pleasant older woman laying in bed, NAD.
+ HEENT:  JVP 6
+ Lungs:  CTAB, no wrr
+ CV:  RRR normal S1S2
+ Abdomen:  NABS, ND, soft NTTP, no grm
+ Ext:  palpable pulses radial and DP bilaterally.

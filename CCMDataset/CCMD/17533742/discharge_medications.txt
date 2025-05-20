@@ -1,0 +1,13 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Ibuprofen 400 mg PO Q6H:PRN Pain - Mild  
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*20 Tablet Refills:*0 
+4.  amLODIPine 5 mg PO DAILY  
+5.  CARVedilol 37.5 mg PO DAILY  
+6.  HydrALAZINE 37.5 mg PO TID  
+7.  Lisinopril 40 mg PO DAILY  
+8.  Torsemide 40 mg PO DAILY

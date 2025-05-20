@@ -1,0 +1,17 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+Do not take more than 4000mg in 24 hours 
+RX *acetaminophen 500 mg ___ capsule(s) by mouth q6h PRN Disp 
+#*60 Capsule Refills:*0 
+2.  HYDROmorphone (Dilaudid) 2 mg PO Q4H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+___ cause drowsiness. Do not drive or drink alcohol while 
+taking.  
+RX *hydromorphone 2 mg ___ tablet(s) by mouth q4h prn Disp #*20 
+Tablet Refills:*0 
+3.  Ibuprofen 600 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Take with food 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth q6h prn Disp #*60 
+Tablet Refills:*0

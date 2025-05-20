@@ -1,0 +1,4 @@
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  TraMADol 50-100 mg PO Q6H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity

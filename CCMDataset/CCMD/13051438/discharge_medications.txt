@@ -1,0 +1,19 @@
+1.  Acetaminophen 1000 mg PO Q6H 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every six (6) 
+hours Disp #*60 Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*30 Capsule Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every six (6) hours 
+Disp #*30 Tablet Refills:*0 
+5.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram 1 dose by mouth once a day 
+Disp #*30 Packet Refills:*0 
+6.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*30 Tablet Refills:*0

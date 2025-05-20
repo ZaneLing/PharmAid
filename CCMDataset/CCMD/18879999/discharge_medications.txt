@@ -1,0 +1,9 @@
+1. Aspirin 81 mg PO DAILY 
+RX *aspirin [Aspir-81] 81 mg 1 tablet(s) by mouth Daily Disp 
+#*30 Tablet Refills:*0
+2. Verapamil SR 120 mg PO Q24H 
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth Daily Disp 
+#*30 Tablet Refills:*0
+4. Cyanocobalamin Dose is Unknown  PO DAILY 
+5. Lithium Carbonate 150 mg PO QAM

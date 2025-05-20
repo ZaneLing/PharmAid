@@ -1,0 +1,38 @@
+===============================
+ADMISSSION PHYSICAL EXAMINATION  
+===============================
+Temp: 99.0 (Tm 99.0), BP: 130/72, HR: 76, RR: 18, O2 sat: 96%, 
+O2 delivery: RA 
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect 
+appropriate, very pleasant.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no 
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple with JVP of 7cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills, 
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric 
+
+===============================
+DISCHARGE PHYSICAL EXAMINATION  
+===============================
+T:98.4 BP:121/73 HR:70 RR:16 SaO2:99 RA 
+GENERAL: Well appearing man sitting up in bed and speaking to me 
+in no apparent distress.
+HEENT: Pupils equal and reactive. No scleral icterus or 
+injection.
+NECK: No JVD.   
+CARDIAC: S1/S2 regular with no murmurs, rubs, or S3/S4.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric

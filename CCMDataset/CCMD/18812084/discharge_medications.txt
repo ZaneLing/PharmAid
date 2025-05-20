@@ -1,0 +1,21 @@
+1.  Eplerenone 25 mg PO EVERY OTHER DAY 
+RX *eplerenone 25 mg 1 tablet(s) by mouth every other day Disp 
+#*15 Tablet Refills:*0 
+2.  Rivaroxaban 20 mg PO DINNER 
+RX *rivaroxaban [Xarelto] 20 mg 1 tablet(s) by mouth daily with 
+dinner Disp #*30 Tablet Refills:*0 
+3.  Carvedilol 25 mg PO BID 
+RX *carvedilol 25 mg 1 tablet(s) by mouth twice daily Disp #*60 
+Tablet Refills:*0 
+4.  Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath  
+5.  Allopurinol ___ mg PO DAILY  
+6.  Colchicine 1.2 mg PO PRN gout flare  
+7.  Furosemide 40 mg PO DAILY  
+8.  Magnesium Oxide 420 mg PO DAILY  
+9.  Sacubitril-Valsartan (24mg-26mg) 1 TAB PO BID  
+10.Outpatient Lab Work
+I50.2 
+Lab Test: Basic Metabolic Profile, Calcium, Magnesium, PO4
+
+Fax results to:    ___.  ___ fax number: 
+___

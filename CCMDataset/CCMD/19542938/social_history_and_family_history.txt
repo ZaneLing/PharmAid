@@ -1,0 +1,60 @@
+___
+NC
+ 
+Physical Exam:
+Discharge physical exam
+Vitals: stable and within normal limits
+Gen: no acute distress; alert and oriented to person, place, and 
+date
+CV: regular rate and rhythm; no murmurs, rubs, or gallops
+Resp: no acute respiratory distress, clear to auscultation 
+bilaterally
+Abd: soft, appropriately tender, no rebound/guarding; incision 
+clean, dry, intact
+Ext: no tenderness to palpation
+ 
+Pertinent Results:
+___ 03:10AM BLOOD WBC-22.2* RBC-5.39* Hgb-14.2 Hct-44.2 
+MCV-82 MCH-26.3 MCHC-32.1 RDW-15.9* RDWSD-45.1 Plt ___
+___ 04:45PM BLOOD WBC-19.8* RBC-5.00 Hgb-13.6 Hct-40.8 
+MCV-82 MCH-27.2 MCHC-33.3 RDW-15.5 RDWSD-44.6 Plt ___
+___ 07:00AM BLOOD WBC-13.4* RBC-4.53 Hgb-12.4 Hct-37.5 
+MCV-83 MCH-27.4 MCHC-33.1 RDW-15.6* RDWSD-46.1 Plt ___
+___ 03:00PM BLOOD WBC-14.9* RBC-4.39 Hgb-11.8 Hct-36.3 
+MCV-83 MCH-26.9 MCHC-32.5 RDW-15.5 RDWSD-45.8 Plt ___
+___ 03:10AM BLOOD Neuts-83.6* Lymphs-9.7* Monos-4.5* 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-18.56* AbsLymp-2.15 
+AbsMono-1.00* AbsEos-0.02* AbsBaso-0.07
+___ 07:00AM BLOOD Neuts-78.3* Lymphs-13.5* Monos-6.5 
+Eos-0.0* Baso-0.4 Im ___ AbsNeut-10.46* AbsLymp-1.80 
+AbsMono-0.87* AbsEos-0.00* AbsBaso-0.05
+___ 03:00PM BLOOD Neuts-78.7* Lymphs-13.1* Monos-6.7 
+Eos-0.0* Baso-0.3 Im ___ AbsNeut-11.71* AbsLymp-1.95 
+AbsMono-1.00* AbsEos-0.00* AbsBaso-0.04
+___ 03:10AM BLOOD ___ PTT-25.3 ___
+___ 03:10AM BLOOD Glucose-126* UreaN-20 Creat-1.1 Na-135 
+K-4.3 Cl-103 HCO3-17* AnGap-15
+___ 04:45PM BLOOD Glucose-131* UreaN-22* Creat-1.1 Na-138 
+K-4.1 Cl-104 HCO3-23 AnGap-11
+___ 07:00AM BLOOD Glucose-118* UreaN-18 Creat-0.8 Na-137 
+K-4.2 Cl-104 HCO3-25 AnGap-8*
+___ 03:00PM BLOOD Glucose-102* UreaN-15 Creat-0.8 Na-136 
+K-4.8 Cl-103 HCO3-24 AnGap-9*
+___ 03:10AM BLOOD ALT-39 AST-26 AlkPhos-74 TotBili-0.5
+___ 04:45PM BLOOD ALT-46* AST-34
+___ 07:00AM BLOOD ALT-49* AST-39
+___ 03:10AM BLOOD Albumin-3.1* Calcium-7.9* Phos-3.8 Mg-1.7
+___ 04:45PM BLOOD Calcium-8.0* Phos-2.8 Mg-2.0
+___ 07:00AM BLOOD Calcium-8.0* Phos-2.1* Mg-2.0
+___ 03:00PM BLOOD Calcium-8.1* Phos-2.1* Mg-2.0
+___ 03:23AM BLOOD Lactate-2.0
+___ 06:24PM URINE Color-Yellow Appear-Hazy* Sp ___
+___ 06:24PM URINE Blood-NEG Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-10* Bilirub-SM* Urobiln-8* pH-6.0 Leuks-LG*
+___ 06:24PM URINE RBC-0 WBC-33* Bacteri-FEW* Yeast-NONE 
+Epi-4
+___ 06:24PM URINE CastHy-2*
+___ 06:24PM URINE Mucous-MANY*
+___ 06:24PM URINE UCG-NEGATIVE
+___ 04:03PM ASCITES TNC-306* ___ Polys-59* Lymphs-6* 
+Monos-33* Mesothe-2*

@@ -1,0 +1,8 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*30 Tablet Refills:*0 
+3.  Simethicone 120 mg PO QID:PRN Gas 
+RX *simethicone 125 mg 1 tablet by mouth four times a day Disp 
+#*60 Tablet Refills:*0 
+4.  Omeprazole 20 mg PO DAILY

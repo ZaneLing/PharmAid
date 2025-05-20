@@ -1,0 +1,29 @@
+ADMISSION PHYSICAL EXAM
+=======================
+General: Alert, oriented, no acute distress
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+Abdomen: Soft, LUQ tenderness, mildly distended, bowel sounds 
+present, no organomegaly, no rebound or guarding
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro: Grossly nonfocal
+
+DISCHARGE PHYSICAL EXAM
+========================
+General: Alert, oriented, no acute distress
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+Abdomen: Soft, nontender, not distended, bowel sounds present, 
+no organomegaly, no rebound or guarding
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro: motor and sensory grossly intact

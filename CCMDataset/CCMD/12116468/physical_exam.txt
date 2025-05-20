@@ -1,0 +1,141 @@
+ON ADMISSION:
+============
+
+Physical Exam:
+
+O:  T: 97.2  HR:102  BP: 187/98  RR:16  Sat:97% RA   
+GCS at the scene: 14
+
+GCS upon Neurosurgery Evaluation:14   Time of evaluation:11:00
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [x]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam:
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: Normocephalic, no lacerations or hematomas
+Neck: supple, no midline spinal tenderness
+Extrem: warm and well perfused; Right knee, upper leg and hip
+pain with palpation, right shoulder and upper arm pain with
+palpation
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to person only. Responds "I don't know to
+other orientation questions, states ___ for year.
+
+Language: Speech is fluent. 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4 to 3
+mm bilaterally. Visual fields appear full but patient has
+difficulty following.
+III, IV, VI: Extraocular movements with limited upgaze
+bilaterally without nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+decreased bulk and normal bilaterally. No abnormal movements,
+tremors. 
+
+No Drift
+Motor:
+      Trap Deltoid Bicep Tricep Grip
+Right  5    4      5     4+     5
+Left   5    4+     5     4+     5  
+
+       IP Quad Ham AT ___
+Right  4+  5   4+  ___
+Left   4+  5   4+  ___
+
+Sensation: Intact to light touch
+
+ON DISCARGE:
+============
+
+EXAM
+
+GCS: 13
+Time of evaluation: 08:00AM
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [x]3 Opens eyes to voice (sleeping) 
+ [ ]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [x]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+GCS Total: 13
+
+Exam:
+
+*Per patient's daughter, patient is at her baseline
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious [ ]None
+
+Orientation: [x]Person [ ]Place [ ]Time  [ ]None
+
+Follows commands: [x]Simple [ ]Complex [ ]None
+
+Pupils:  PERRL 3-2mm 
+
+EOM: [ ]Full [ ]Restricted  [x]Tacks examiner in all directions 
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [ ]No - UTA, patient will not participate  
+
+
+Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [ ]Yes [x]No - dementia and confused at
+baseline 
+
+Motor:
+Patient will not participate in full motor exam, but moves
+everything to command antigravity.

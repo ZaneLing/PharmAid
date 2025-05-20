@@ -1,0 +1,16 @@
+1.  Acetaminophen 650 mg PO Q4H:PRN Pain - Mild  
+2.  Diazepam - CIWA protocol 10 mg PO Q2H:PRN CIWA > or = 10  
+3.  Docusate Sodium 100 mg PO BID  
+4.  Enoxaparin Sodium 40 mg SC QHS  
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*36 Tablet Refills:*0 
+6.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+7.  Senna 8.6 mg PO BID:PRN Constipation - First Line  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  Thiamine 100 mg PO DAILY  
+10.  TraZODone 25 mg PO QHS:PRN insomnia

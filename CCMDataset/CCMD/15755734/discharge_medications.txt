@@ -1,0 +1,16 @@
+1.  Oxymetazoline 1 SPRY NU BID:PRN recurrent nosebleed 
+Duration: 3 Days 
+RX *oxymetazoline 0.05 % 2 SPRY intranasally BID:PRN Disp #*1 
+Spray Refills:*0 
+2.  MetFORMIN (Glucophage) 500 mg PO BID 
+RX *metformin 500 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+3.  AcetaZOLamide 250 mg PO QPM 
+RX *acetazolamide 250 mg 1 tablet(s) by mouth QPM Disp #*30 
+Tablet Refills:*0 
+4.  amLODIPine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth DAILY Disp #*30 Tablet 
+Refills:*0 
+5.  Lisinopril 10 mg PO DAILY 
+RX *lisinopril 10 mg 1 tablet(s) by mouth DAILY Disp #*30 Tablet 
+Refills:*0

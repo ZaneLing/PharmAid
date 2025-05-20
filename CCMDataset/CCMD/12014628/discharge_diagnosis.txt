@@ -1,0 +1,10 @@
+PRIMARY:
+-Fever
+-Leukocytosis
+-Transaminitis
+-Abdominal pain
+-Nausea
+
+SECONDARY:
+-Ear pain
+-Anemia

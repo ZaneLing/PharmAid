@@ -1,0 +1,14 @@
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Finasteride 5 mg PO DAILY 
+4. Rivaroxaban 20 mg PO DAILY 
+5. Sotalol 120 mg PO BID 
+6. Albuterol Inhaler 2 PUFF IH Q4H:PRN SOB, wheezing 
+7. Aspirin 81 mg PO DAILY 
+8. PredniSONE 40 mg PO DAILY 
+Start: ___, First Dose: Next Routine Administration Time 
+This is dose # 1 of 2 tapered doses
+9. PredniSONE 20 mg PO DAILY 
+Start: After 40 mg DAILY tapered dose 
+This is dose # 2 of 2 tapered doses

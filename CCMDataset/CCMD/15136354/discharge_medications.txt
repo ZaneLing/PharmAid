@@ -1,0 +1,8 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+2.  Levothyroxine Sodium 125 mcg PO DAILY 
+RX *levothyroxine 125 mcg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*3 
+3.  Calcium Carbonate 500 mg PO TID  
+4.  Ranitidine 150 mg PO DAILY

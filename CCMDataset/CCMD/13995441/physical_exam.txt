@@ -1,0 +1,31 @@
+=======================
+Admission Physical Exam
+=======================
+GENERAL:  NAD, well-appearing woman laying back in bed
+HEENT:  AT/NC, EOMI, no JVD, no LAD, no tracheal deviation, neck 
+supple 
+CARDIAC: RRR, s1+s2 normal, no m/g/r appreciated
+LUNGS: CTAB
+ABDOMEN: +BS, non-tender, non-distended, soft without abdnormal 
+contours, no organomegaly appreciated
+EXTREMITIES: Pulses present, no edema
+NEUROLOGIC: AAOx3, CN II-XII grossly intact, no indications of 
+active tremors or coordination deficiencies, no gait 
+abnormalities, no motor/sensory deficits elicited
+SKIN: No active lesions identified
+
+=======================
+Discharge Physical Exam
+=======================
+GENERAL:  NAD, well-appearing woman laying back in bed
+HEENT:  AT/NC, EOMI, no JVD, no LAD, no tracheal deviation, neck
+supple 
+CARDIAC: RRR, s1+s2 normal, no m/g/r appreciated
+LUNGS: CTAB
+ABDOMEN: +BS, non-tender, non-distended, soft without abdnormal
+contours, no organomegaly appreciated
+EXTREMITIES: Pulses present, no edema
+NEUROLOGIC: AAOx3, CN II-XII grossly intact, no indications of
+active tremors or coordination deficiencies, no gait
+abnormalities, no motor/sensory deficits elicited
+SKIN: No active lesions identified

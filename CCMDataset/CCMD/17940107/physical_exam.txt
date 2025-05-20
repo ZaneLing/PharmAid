@@ -1,0 +1,28 @@
+ADMISSION EXAM
+==============
+VS:97.8 103/60 59 16 100% RA
+GEN: WDWN thin female in NAD
+HEENT: NC/AT, anicteric sclera, PERRL, EOMI, MOM, OP clear 
+NECK: supple, non-tender, no JVD or LAD
+CV: RRR, normal S1 loud S2, no M/R/G
+PULM: NLB on RA, CTAB, no W/R/R
+ABD: soft, flat, minimal tenderness to deep palpation LLQ, no
+rebound/guarding, no HSM, NABS
+GU: no Foley, no flank pain, no CVAT
+EXT: cool, dry, no cyanosis or edema
+SKIN: warm, dry no rashes or lesions
+NEURO: A&O, CN II-XII intact, SILT, ___ strength BUE/BLE
+ 
+DISCHARGE EXAM
+==============
+VS: 97.9 137/77 57 18 100% RA
+GEN: WDWN thin female in NAD
+HEENT: anicteric sclera, EOMI, MOM, OP clear 
+NECK: supple, non-tender, no JVD or LAD
+CV: RRR, normal S1 loud S2, no M/R/G
+PULM: NLB on RA, CTAB, no W/R/R
+ABD: soft, flat, non-tender, no rebound/guarding, no HSM, NABS
+GU: no Foley, otherwise deferred
+EXT: cool, dry, no cyanosis or edema
+SKIN: warm, dry no rashes or lesions
+NEURO: A&O, SILT, MAE

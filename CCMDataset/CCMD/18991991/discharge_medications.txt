@@ -1,0 +1,12 @@
+1.  Acetaminophen 650 mg PO Q6H 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth every 6h Disp 
+#*120 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*30 Capsule Refills:*1 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 4h Disp #*40 
+Tablet Refills:*0 
+4.  Amitriptyline 50 mg PO QHS  
+5.  Levothyroxine Sodium 50 mcg PO DAILY  
+6.  Simvastatin 10 mg PO QPM

@@ -1,0 +1,15 @@
+1.  Acetaminophen ___ mg PO Q6H:PRN Mild Pain 
+RX *acetaminophen 500 mg ___ tablet(s) by mouth every six (6) 
+hours Disp #*30 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID:PRN Constipation 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+3.  HYDROmorphone (Dilaudid) ___ mg PO Q4H:PRN Pain - Moderate 
+RX *hydromorphone [Dilaudid] 2 mg 1 tablet(s) by mouth every six 
+(6) hours Disp #*10 Tablet Refills:*0 
+4.  Ibuprofen 600 mg PO Q6H:PRN Moderate Pain 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*40 Tablet Refills:*0 
+5.  NIFEdipine (Extended Release) 30 mg PO DAILY 
+RX *nifedipine 30 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*1

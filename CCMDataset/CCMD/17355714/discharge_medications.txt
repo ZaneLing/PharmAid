@@ -1,0 +1,16 @@
+1.  Amoxicillin 1000 mg PO Q12H 
+RX *amoxicillin 500 mg 2 capsule(s) by mouth Twice a day Disp 
+#*12 Capsule Refills:*0 
+2.  Azithromycin 500 mg PO Q24H 
+RX *azithromycin 500 mg 1 tablet(s) by mouth Daily Disp #*3 
+Tablet Refills:*0 
+3.  Amphetamine-Dextroamphetamine XR 10 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.Outpatient Lab Work
+CBC, ___, PTT, INR
+
+Name: ___ 
+Location: ___ 
+Address: ___ 
+Phone: ___ 
+Fax: ___

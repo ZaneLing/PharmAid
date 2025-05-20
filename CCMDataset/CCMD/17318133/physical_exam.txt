@@ -1,0 +1,115 @@
+ON ADMISSION
+============
+T: 98.3  BP: 156/72  HR: 90  R: 20  O2Sats: 100% RA
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils:  4-3mm bilaterally    
+EOMs: Intact, no nystagmus
+Extrem: Warm and well-perfused.
+
+Date and Time of evaluation: ___ 1745
+
+___ Coma Scale:
+  [ ]Intubated   [X]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [X]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [X]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [X]6 Obeys commands
+
+ __15__ Total
+
+ICH Score:
+
+GCS
+     [ ]2     GCS ___
+     [ ]1     GCS ___
+     [X]0     GCS ___
+     
+ICH Volume 
+     [ ]1     30 mL or Greater
+     [X]0     Less than 30 mL
+
+Intraventricular Hemorrhage
+     [ ]1     Present
+     [X]0     Absent
+
+Infratentorial ICH
+     ___     Yes
+     [ ]0     No
+
+Age
+     [ ]1     ___ years old or greater
+     [X]0     Less than ___ years old
+
+Total Score: ___1___
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4 to
+3mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+noted. 
+
+Sensation: Intact to light touch. 
+
+Coordination: normal on finger-nose-finger, rapid alternating
+movements, heel to shin
+
+Handedness Right
+
+ON DISCHARGE
+============
+Exam:
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  Right  4-3mm             Left 4-3mm
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [x]Yes [ ]No
+
+Motor: MAE ___
+
+Angio site: R wrist. No edema, +CSM, palpable distal pulses

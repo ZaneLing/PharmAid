@@ -1,0 +1,15 @@
+1.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tab-cap by mouth once a day Disp #*30 Tablet 
+Refills:*0 
+3.  Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth once a 
+day Disp #*30 Tablet Refills:*0 
+4.  Albuterol Inhaler 2 PUFF IH Q4H:PRN sob 
+RX *albuterol sulfate 90 mcg 2 PUFF IH every four (4) hours Disp 
+#*1 Inhaler Refills:*3 
+5.  Tiotropium Bromide 1 CAP IH DAILY 
+RX *tiotropium bromide [Spiriva Respimat] 1.25 mcg/actuation 1 
+IH once a day Disp #*1 Inhaler Refills:*3

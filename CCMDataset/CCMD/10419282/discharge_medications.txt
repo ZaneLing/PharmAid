@@ -1,0 +1,25 @@
+1.  Acetaminophen 650 mg PO Q6H  
+2.  Cephalexin 500 mg PO Q6H 
+RX *cephalexin 500 mg 1 capsule(s) by mouth every 6 hours Disp 
+#*56 Capsule Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+4.  Ibuprofen 600 mg PO Q8H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *ibuprofen 600 mg 1 tablet(s) by mouth every 8 hours Disp 
+#*42 Tablet Refills:*0 
+5.  Linezolid ___ mg PO Q12H 
+RX *linezolid ___ mg 1 tablet(s) by mouth every 12 hours Disp 
+#*24 Tablet Refills:*0 
+6.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 capsule(s) by mouth ___ tablets every 4 
+hours for pain as needed Disp #*42 Capsule Refills:*0 
+7.  Simvastatin 40 mg PO QPM  
+8.  Warfarin 5 mg PO DAILY16  
+9.Outpatient Physical Therapy
+weight bearing as tolerated right upper extremity
+range of motion as tolerated right upper extremity
+2-3/week

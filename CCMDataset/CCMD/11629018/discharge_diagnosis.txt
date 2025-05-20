@@ -1,0 +1,6 @@
+PRIMARY
+- coronary artery disease 
+- chest pain
+
+SECONDARY
+- hypertension

@@ -1,0 +1,16 @@
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*30 Tablet Refills:*0 
+2.  Cyclobenzaprine 5 mg PO TID:PRN back spasm 
+RX *cyclobenzaprine 5 mg 1 tablet(s) by mouth three times a day 
+Disp #*15 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*20 Capsule Refills:*0 
+4.  Lidocaine 5% Patch 1 PTCH TD QAM LBP  
+5.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*40 Tablet Refills:*0 
+6.  Polyethylene Glycol 17 g PO DAILY  
+7.  TraZODone 50 mg PO QHS

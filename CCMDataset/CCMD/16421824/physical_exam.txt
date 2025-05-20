@@ -1,0 +1,26 @@
+admission: 
+========
+VITALS - 98.0 129/83 72 20 99%RA
+GENERAL - NAD
+HEENT - anicteric sclera, EOMI
+NECK - no JVD elevation
+CARDIAC - RRR, no murmurs
+PULMONARY - CTAB anteriorly
+ABDOMEN - soft, NT/ND with +BS
+EXTREMITIES - WWP, no edema, R. femoral access site bandage 
+c/d/I, + femoral pulse
+SKIN - intact, no rash
+
+discharge: 
+========
+Vitals: 98.4 ___ 16 97%RA
+Exam:
+GENERAL - NAD
+HEENT - anicteric sclera, EOMI
+NECK - no JVD elevation
+CARDIAC - RRR, no murmurs
+PULMONARY - CTAB anteriorly
+ABDOMEN - soft, NT/ND with +BS
+EXTREMITIES - WWP, no edema, R. femoral access site bandage 
+c/d/I, + femoral pulse
+SKIN - intact, no rash

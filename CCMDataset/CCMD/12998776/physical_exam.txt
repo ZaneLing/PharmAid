@@ -1,0 +1,27 @@
+ADMISSION PHYSICAL EXAM
+ Gen: NAD, lying in bed, obese
+ Eyes: EOMI, sclerae anicteric  
+ ENT: MMM, Mallampatti score of 4, tongue occluded almost all of 
+the oral cavity while coughing
+ Cardiovasc: RRR, no MRG, full pulses, no edema  
+ Resp: normal effort, no accessory muscle use, lungs CTA ___.
+ GI: soft, obese, NT, ND, BS+
+ MSK: No significant kyphosis. No palpable synovitis.
+ Skin: No visible rash. No jaundice.
+ Neuro: AAOx3. No facial droop.
+ Psych: Full range of affect
+============================
+DISCHARGE PHYSICAL EXAM
+ Vitals:97.7
+PO 127 / 78 72 18 97 Ra 
+ Gen: obese, NAD, lying in bed, obese
+ Eyes: EOMI, sclerae anicteric  
+ ENT: MMM, Mallampatti score of 4
+ Cardiovasc: RRR, no MRG, full pulses, no edema  
+ Resp: normal effort, no accessory muscle use, lungs CTA 
+bilaterally
+ GI: soft, NT, ND, BS+
+ MSK: No significant kyphosis. No palpable synovitis.
+ Skin: No visible rash. No jaundice.
+ Neuro: AAOx3. No facial droop.
+ Psych: Full range of affect

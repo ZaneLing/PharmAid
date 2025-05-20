@@ -1,0 +1,15 @@
+1. Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*90 
+Tablet Refills:*0
+2. Atorvastatin 10 mg PO QPM 
+RX *atorvastatin 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+3. Glargine 25 Units Bedtime
+RX *insulin glargine [Lantus Solostar] 100 unit/mL (3 mL) AS DIR 
+25 Units before BED; Disp #*3 Syringe Refills:*0
+4. Amlodipine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+5. GlipiZIDE 10 mg PO BID 
+RX *glipizide 10 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0

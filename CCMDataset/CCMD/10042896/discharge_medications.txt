@@ -1,0 +1,17 @@
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth every 6 hours Disp 
+#*60 Tablet Refills:*0 
+2.  Rivaroxaban 15 mg PO BID Duration: 21 Days 
+Dose #1 of 2: Please take 15mg twice daily for 3 weeks, then 
+switch to Dose #2 of 2  
+RX *rivaroxaban [___] 15 mg 1 tablet(s) by mouth twice daily 
+Disp #*42 Tablet Refills:*0 
+3.  Rivaroxaban 20 mg PO DAILY 
+Dose #2 of 2: Please start 20mg daily after ___ complete 3 weeks 
+of 15mg twice daily 
+RX *rivaroxaban [___] 20 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+4.  ALPRAZolam 0.25 mg PO QHS:PRN anxiety, insomnia  
+5.  Famotidine 20 mg PO DAILY  
+6.  Levothyroxine Sodium 125 mcg PO DAILY  
+7.  Simvastatin 10 mg PO QPM

@@ -1,0 +1,92 @@
+ADMISSION PHYSICAL EXAM:
+VS T97.8 HR72 BP186/100 RR16 Sat100RA 
+GEN - elderly F, anxious, cooperative
+HEENT - NC/AT, MMM
+NECK - full ROM, no meningismus
+CV - RRR
+RESP - normal WOB
+ABD - soft, NT, ND
+EXTR - atraumatic, WWP
+
+___ Stroke Scale - Total [5]
+1a. Level of Consciousness - 0
+1b. LOC Questions - 0
+1c. LOC Commands - 0
+2. Best Gaze - 0
+3. Visual Fields - 0
+4. Facial Palsy - 0
+5a. Motor arm, left - 0
+5b. Motor arm, right - 1
+6a. Motor leg, left - 0
+6b. Motor leg, right - 1
+7. Limb Ataxia - 0
+8. Sensory - 1
+9. Language - 0
+10. Dysarthria - 1
+11. Extinction and Neglect - 1
+
+NEUROLOGICAL EXAMINATION:
+MS - Awake, alert, oriented x3. Attention to examiner easily
+attained and maintained. Concentration maintained when recalling
+months backwards. Recalls a coherent history. Speech is fluent
+with normal prosody and paraphasic errors. There is mild,
+variable dysarthria over the course of the examination. Naming,
+repetition, and comprehension are all intact. No evidence of
+hemineglect. No left-right agnosia.
+
+CN - [II] PERRL 3->2 brisk. VF full to number counting. [III, 
+IV,
+VI] EOMI, no nystagmus. [V] Reports decreased sensation to LT
+over R V1 (80%), V2 (70%), V3 (50%). Reports decreased sensation
+to PP over R V1 (85%) and V3 (70%). Splits midline to PP and
+vibration over forehead.  [VII] No facial movement asymmetry 
+with
+forced eyelid closure or volitional smile. [VIII] Hearing intact
+to voice. [IX, X] Palate elevation symmetric. [XI] SCM/Trapezius
+strength ___ bilaterally. [XII] Tongue midline with full ROM.
+
+MOTOR - Normal bulk and tone. No pronation, no drift. No 
+orbiting
+with arm roll. No tremor or asterixis.
+=[Delt] [Bic] [Tri] [ECR] [IO] [IP] [Quad] [Ham] [TA] [Gas] 
+[___]
+  [C5]  [C5]  [C7]  [C6]  [T1] [L2]  [L3]  [L5]  [L4] [S1]  [L5]
+L  5      5     5     5     5    5    5      5     5    5     5
+R  5      5     5     5     5    5    5      5     5    5     5
+*There is diffuse give-way weakness through the RUE and RLE,
+though strength is essentially full.
+
+SENSORY - Reports variable patches of pins and needles (over R
+cheek, R ___ and ___ toes) that wax and wane over the course of
+hours. Reports decrement to LT, PP, and vibration over RUE.
+Reports decreased proprioception at the RLE. No sensory level
+over the back or chest. After the completion of the interview 
+and
+examination, reports that her sensory complaints have 
+essentially
+resolved
+
+REFLEXES - 
+=[Bic] [Tri] [___] [Quad] [Gastroc]
+L 2+     2+     2+     2+       2+
+R 2+     2+     2+     2+       2+
+Bilateral pectoral jerks.
+Plantar response mute on the R, up on the L
+
+COORD - No dysmetria with finger to nose or heel-shin testing.
+Good speed and intact cadence with rapid alternating movements.
+
+GAIT - Deferred.
+=========================================================
+
+DISCHARGE PHYSICAL EXAM:
+MS: Alert, interactive, speech fluent, comprehension intact, no 
+dysarthria
+CN: II-XII intact
+MOTOR: full strength in upper and lower extremities with much 
+coaching, give away weakness prevelant otherwise
+Sensory: Intact to light touch in face, arms, legs. Pin prick 
+intact in all extremities except circumferentially around the 
+right ankle
+Coordination: No dysmetria on FNF
+Gait: Normal stride

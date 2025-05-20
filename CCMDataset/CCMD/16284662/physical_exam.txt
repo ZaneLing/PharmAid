@@ -1,0 +1,7 @@
+Vitals: T97.9 PO BP111 / 65 HR59 RR18 94% RA (ambulatory)
+Gen: [X] NAD, [] AAOx3
+CV: [X] RRR, [] murmur
+Resp: [X] breaths unlabored, [X] CTAB, [] wheezing, [] rales
+Abdomen: [X] soft, [] distended, [] tender, [] rebound/guarding
+Wound: [X] incisions clean, dry, intact
+Ext: [X] warm, [] tender, [] edema

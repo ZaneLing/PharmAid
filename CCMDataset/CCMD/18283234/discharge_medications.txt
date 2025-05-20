@@ -1,0 +1,39 @@
+1.  PredniSONE 20 mg PO DAILY Duration: 7 Doses 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+Please take 20 mg prednisone daily, then taper weekly by 5 mg to 
+a 5 mg total daily dose.  
+This is dose # 1 of 4 tapered doses
+RX *prednisone [Deltasone] 20 mg 1 tablet(s) by mouth once a day 
+Disp #*7 Tablet Refills:*0 
+2.  PredniSONE 15 mg PO DAILY Duration: 7 Doses 
+Start: After 20 mg DAILY tapered dose 
+Please take 20 mg prednisone daily, then taper weekly by 5 mg to 
+a 5 mg total daily dose.  
+This is dose # 2 of 4 tapered doses
+RX *prednisone 5 mg 3 tablet(s) by mouth once a day Disp #*7 
+Tablet Refills:*0 
+3.  PredniSONE 10 mg PO DAILY Duration: 7 Doses 
+Start: After 15 mg DAILY tapered dose 
+Please take 20 mg prednisone daily, then taper weekly by 5 mg to 
+a 5 mg total daily dose.  
+This is dose # 3 of 4 tapered doses
+RX *prednisone 10 mg 1 tablet(s) by mouth once a day Disp #*7 
+Tablet Refills:*0 
+4.  PredniSONE 5 mg PO DAILY Duration: 7 Doses 
+Start: After 10 mg DAILY tapered dose 
+Please take 20 mg prednisone daily, then taper weekly by 5 mg to 
+a 5 mg total daily dose.  
+This is dose # 4 of 4 tapered doses
+RX *prednisone 5 mg 1 tablet(s) by mouth once daily Disp #*30 
+Tablet Refills:*0 
+5.  PredniSONE 5 mg PO DAILY 
+Start: After last tapered dose completes 
+Please take 20 mg prednisone daily, then taper weekly by 5 mg to 
+a 5 mg total daily dose.  
+This is the maintenance dose to follow the last tapered dose 
+6.  Aspirin 81 mg PO DAILY  
+7.  Atorvastatin 40 mg PO QPM  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  Mercaptopurine 100 mg PO DAILY  
+10.  Metoprolol Succinate XL 25 mg PO DAILY

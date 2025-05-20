@@ -1,0 +1,12 @@
+___
+[] Nephrolithiasis
+[] Malignant Hyperthermia
+[] Renal Cell CA
+[] Testisa CA
+[+] Prostate CA 
+[] Bladder CA
+ 
+Physical Exam:
+24 HR Data (last updated ___ @ 1110)
+    Temp: 98.7 (Tm 99.8), BP: 121/78 (106-126/65-82), HR: 64
+(57-64), RR: 18, O2 sat: 95% (95-100), O2 delivery: Ra (2LNC-3L)

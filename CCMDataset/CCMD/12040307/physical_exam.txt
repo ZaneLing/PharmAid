@@ -1,0 +1,31 @@
+=========================
+ADMISSION PHYSICAL EXAM: 
+=========================
+ 
+VS:  98.2, 131/76, HR 100, RR 20, 96 RA
+GENERAL: NAD, pleasant
+HEENT: AT/NC, anicteric sclera, no pallor
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, breathing comfortably
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: no rashes, poor skin turgor 
+
+=========================
+DISCHARGE PHYSICAL EXAM: 
+=========================
+Vitals: T 98.9 BP 124/81 HR 85 RR 18 O2 98% on RA
+Orthostatic BP: 116/79 lying -> 122/80 sitting -> 116/81 
+standing
+GENERAL: NAD, pleasant
+HEENT: AT/NC, anicteric sclera, no pallor
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, breathing comfortably
+ABDOMEN: soft, non-tender, non-distended 
+EXTREMITIES: no cyanosis, clubbing, or edema. Good pulses. 
+NEURO: A&Ox3
+SKIN: no rashes, improved skin turgor

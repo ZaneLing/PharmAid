@@ -1,0 +1,26 @@
+On Discharge
+Opens eyes: [X]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [X]Person [X]Place [X]Time
+
+Follows commands: [ ]Simple [X]Complex [ ]None
+
+Pupils:  PERRL 2mm
+
+EOM: [X]Full [ ]Restricted
+
+Face Symmetric: [ ]Yes [X]No secondary to severe facial
+ecchymosis
+
+Tongue Midline: [X]Yes [ ]No
+
+Pronator Drift [ ]Yes [X]No     Speech Fluent: [X]Yes [ ]No
+
+Comprehension intact [X]Yes [ ]No
+
+Motor:
+Deltoid  Bicep  TricepGrip
+Right5  5       5             4 
+Left5         5       5             5
+
+IPQuadHamATEHLGast

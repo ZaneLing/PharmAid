@@ -1,0 +1,19 @@
+1.  Aspirin 81 mg PO DAILY  
+2.  Hydrocortisone Cream 2.5% 1 Appl TP BID 
+RX *hydrocortisone 2.5 % Appl twice a day Refills:*0 
+3.  BuPROPion XL (Once Daily) 300 mg PO DAILY  
+4.  Meclizine 12.5 mg PO Q8H:PRN dizziness  
+5.  MethylPHENIDATE (Ritalin) 10 mg PO BID  
+6.  Ondansetron 4 mg PO Q8H:PRN nausea  
+7.  TraZODone 150 mg PO QHS:PRN sleep  
+8.  Trulicity (dulaglutide) 1.5 mg/0.5 mL subcutaneous 1X/WEEK  
+9.rolling walker
+ICD-10 G11.0
+Dx: ataxia
+Rolling walker 
+Length of need: ongoing
+10.Outpatient Physical Therapy
+ICD-10 G11.0
+Dx: ataxia
+Outpatient ___ rehab
+Length of need: ongoing

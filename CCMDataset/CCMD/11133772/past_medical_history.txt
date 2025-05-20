@@ -1,0 +1,14 @@
+OBHx:
+G1 - as above
+
+GYNHx: denies h/o STIs, h/o abnl pap smears, or GYN surgeries
+
+MedHx:
+- Chronic HepC
+- Migraines
+- PTSD
+- h/o IVDU 
+- Anemia
+- Bipolar Disorder 
+
+SurgHx: C/S as above

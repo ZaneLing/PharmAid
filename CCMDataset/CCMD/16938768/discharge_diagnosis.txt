@@ -1,0 +1,11 @@
+PRIMARY:
+-Anorexia nervosa
+-Weight Loss
+-Malnutrition
+-Bradycardia
+
+SECONDARY:
+-Transaminitis 
+-Leukopenia
+-Osteopenia
+-Prolactinoma

@@ -1,0 +1,11 @@
+PRIMARY DIAGNOSIS/ES:
+=====================
+#Complete heart block
+
+SECONDARY DIAGNOSIS/ES:
+======================
+#Hypertension
+#Hyperlipidemia 
+#History of prior transient ischemic attack 
+#Hypothyroidism 
+#Major depressive disorder, chronic

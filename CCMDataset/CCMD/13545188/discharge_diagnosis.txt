@@ -1,0 +1,9 @@
+PRIMARY DIAGNOSES
+# Presumed tick-borne infection
+# Hypoxic respiratory failure
+# Microscopic hematuria
+
+SECONDARY DIAGNOSES
+# Urinary retention secondary to BPH
+# HLD
+# Hypothyroidism

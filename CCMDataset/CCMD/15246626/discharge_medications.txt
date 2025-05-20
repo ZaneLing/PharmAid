@@ -1,0 +1,16 @@
+1.  Albuterol 0.083% Neb Soln 1 NEB IH Q4H Bronchospasm 
+RX *albuterol sulfate [ProAir HFA] 90 mcg 1 NEB by mouth every 4 
+hours Disp #*1 Inhaler Refills:*5 
+2.  DICYCLOMine 20 mg PO QID:PRN for stomach cramps 
+RX *dicyclomine 20 mg 1 tablet(s) by mouth every 4 hours Disp 
+#*20 Tablet Refills:*0 
+3.  Ipratropium Bromide Neb 1 NEB IH Q6H 
+RX *Atrovent HFA 17 mcg/actuation 1 NEB by mouth every 6 hours 
+Disp #*1 Inhaler Refills:*5 
+4.  PredniSONE 40 mg PO DAILY 
+RX *prednisone 20 mg 2 tablet(s) by mouth every morning Disp #*8 
+Tablet Refills:*0 
+5.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+6.  Ibuprofen 400 mg PO Q8H:PRN Pain - Moderate  
+7.  Levothyroxine Sodium 88 mcg PO DAILY  
+8.  Vitamin D 1000 UNIT PO DAILY

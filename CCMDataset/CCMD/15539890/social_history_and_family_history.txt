@@ -1,0 +1,65 @@
+___
+Father and mother both died of cancer: colon (F), bladder (M)
+ 
+Physical Exam:
+ADMISSION EXAM:
+================
+VS: 97.9 PO 124 / 77 103   98 Ra 
+GEN: sitting in bed in NAD
+HEENT: NC/AT, MMM, OP clear, anicteric sclera
+NECK: supple no LAD full ROM
+CV: tachy no mrg
+PULM: CTAB no wheezes or crackles
+GI: soft NT/ND +BS no rebound or guarding
+GU: no CVA tenderness.  Prostate enlarged and firm not boggy, 
+and not tender to palpation
+EXT: warm well perfused no pitting edema
+SKIN: no rashes or bruising noted
+NEURO: no focal deficits. awake and alert with fluent speech
+PSYCH: pleasant with good eye contact
+.
+.
+DISCHARGE EXAM:
+================
+VS: 24 HR Data (last updated ___ @ 1532)
+Temp: 97.7 (Tm 98.0), BP: 128/86 (117-128/75-86), HR: 86 
+(86-98), RR: 18 (___), O2 sat: 96% (94-98), O2 delivery: RA  
+Gen: NAD, well-appearing
+HEENT: EOMI, anicteric, OP clear w/o erythema or tonsillar 
+exudates, nares patent, no drainage from ears or nose
+Neck: no LAD appreciated on palpation, no JVD or elevated JVP
+Cards: RR, no m/r/g, 2+ DP and radial pulses, good capillary 
+refill in b/l hands and feet, no peripheral edema
+Chest: CTAB, normal WOB, normal percussion
+Abd: S, ND, no tenderness to deep palpation of the epigastrium 
+today; no tenderness to palpation in any quadrant; BS+; no 
+rebound or guarding
+Ext: WWP, no cyanosis or clubbing, no stigmata of endocarditis 
+in b/l fingers/toes; no swelling or erythema or tenderness to 
+palpation of any joints of upper or lower extremities
+Neuro: AAOx4, clear speech, no facial droop, conversant, normal 
+attention, no resting tremor, normal coordination
+Psych: calm, cooperative
+ 
+Pertinent Results:
+ADMISSION LABS:
+=================
+___ 08:44PM BLOOD WBC-10.5* RBC-4.35* Hgb-14.1 Hct-40.2 
+MCV-92 MCH-32.4* MCHC-35.1 RDW-13.1 RDWSD-44.9 Plt ___
+___ 08:44PM BLOOD Neuts-94* Bands-1 Lymphs-3* Monos-1* 
+Eos-0 Baso-1 ___ Myelos-0 AbsNeut-9.98* 
+AbsLymp-0.32* AbsMono-0.11* AbsEos-0.00* AbsBaso-0.11*
+___ 08:44PM BLOOD Glucose-155* UreaN-22* Creat-1.0 Na-139 
+K-4.0 Cl-102 HCO3-20* AnGap-17
+___ 08:44PM BLOOD ALT-18 AST-21 AlkPhos-58 TotBili-0.8
+___ 08:44PM BLOOD Lipase-11
+___ 08:44PM BLOOD cTropnT-<0.01
+___ 08:44PM BLOOD Albumin-3.9
+___ 10:56PM BLOOD Lactate-1.4
+.
+.
+.
+.
+MICRO:
+======
+-___ BCx: Klebsiella pneumoniae (pan-sensitive)

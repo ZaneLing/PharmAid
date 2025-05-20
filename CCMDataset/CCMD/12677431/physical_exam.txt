@@ -1,0 +1,29 @@
+ADMISSION PHYSICAL EXAM:
+========================
+VS: 97.5PO 165/80L Lying 82 17 96 Ra 
+GENERAL: Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor
+or cyanosis of the oral mucosa. Hard of hearing L>R ear.   
+NECK: Supple. No carotid bruits. JVP 8cmh20 at 45 degrees.   
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. 
+LUNGS: Respirations labored. Bibasilar crackles. 
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL EXAM: 
+========================
+VITALS: 97.6PO 135/82 L Lying 83 18 99 Ra  
+GENERAL: Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. Conjunctiva were pink, no pallor 
+or cyanosis of the oral mucosa. Hard of hearing L>R ear.   
+NECK: Supple. No carotid bruits. JVP 7cmh20 at 45 degrees.   
+CARDIAC: RRR, normal S1, S2. ___ systolic murmur, loudest at 
+apex. 
+LUNGS: Respirations nonlabored. Clear to auscultation 
+bilaterally. 
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric.

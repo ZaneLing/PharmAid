@@ -1,0 +1,45 @@
+ADMISSION:
+===========
+VITALS: 
+98.8 ___
+GENERAL: Alert and in ___ apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, ___ murmur, ___ S3, ___ S4.  ___ JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  ___ HSM
+GU: ___ suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+___ with increased calf diameter and erythema compared to L
+SKIN: ___ rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE:
+==========
+24 HR Data (last updated ___ @ 1540)
+Temp: 98.6 (Tm 98.8), BP: 135/84 (127-154/80-94), HR: 76 
+(62-76),
+RR: 18, O2 sat: 96% (94-96%), O2 delivery: RA, Wt: 239.64
+lb/108.7 kg  
+Orthostatics negative
+94% on RA with ambulation
+GENERAL: NAD, lying comfortably in bed in NAD
+EYES: PERRL, anicteric sclerae
+ENT: OP clear
+CV: RRR, nl S1, S2, ___ M/R/G, ___ JVD
+RESP: CTAB, ___ crackles, wheezes, or rhonchi
+GI: + BS, soft, NT, ND, ___ rebound/guarding, ___ HSM
+GU: ___ suprapubic fullness or tenderness to palpation
+SKIN: ___ rashes or ulcerations noted
+MSK: ___ pitting edema ___ with superimposed erythema
+NEURO: AOx3, CN II-XII intact, ___ strength in all extremities,
+sensation grossly intact throughout, gait nl
+PSYCH: pleasant, appropriate affect

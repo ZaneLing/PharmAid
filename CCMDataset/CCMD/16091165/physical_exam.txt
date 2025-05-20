@@ -1,0 +1,23 @@
+ADMISSION PHYSICAL EXAM:
+===========================
+VS: 98.2 117 131/87 19 99% RA
+GEN: Alert, lying in bed, no acute distress  
+HEENT: Moist MM, anicteric sclerae, no conjunctival pallor  
+NECK: Supple without LAD  
+PULM: CTAB without wheeze or rhonchi, shallow breaths  
+COR: Tachycardic, (+)S1/S2, no m/r/g  
+ABD: Soft, non-tender, non-distended  
+EXTREM: Warm, well-perfused, no edema  
+NEURO: CN II-XII grossly intact, motor function grossly normal
+
+DISCHARGE PHYSICAL EXAM:
+============================
+Vitals: 98.3 106 114/67 18 98% RA
+GEN: Alert, lying in bed, no acute distress  
+HEENT: Moist MM, anicteric sclerae, no conjunctival pallor  
+NECK: Supple without LAD
+PULM: CTAB without wheeze or rhonchi, shallow breaths  
+COR: Tachycardic, (+)S1/S2, no m/r/g  
+ABD: Soft, non-tender, non-distended  
+EXTREM: Warm, well-perfused, no edema  
+NEURO: CN II-XII grossly intact, motor function grossly normal

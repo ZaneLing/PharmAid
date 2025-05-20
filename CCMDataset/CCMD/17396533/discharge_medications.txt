@@ -1,0 +1,9 @@
+1.  Acetaminophen ___ mg PO Q8H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+2.  Ondansetron ODT 4 mg PO Q8H:PRN nausea  
+3.  Omeprazole 20 mg PO Q12H 
+RX *omeprazole 20 mg 1 capsule(s) by mouth every twelve (12) 
+hours Disp #*60 Capsule Refills:*1 
+4.  Ranitidine 300 mg PO DAILY  
+5.  Verapamil SR 240 mg PO Q24H

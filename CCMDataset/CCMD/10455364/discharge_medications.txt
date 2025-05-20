@@ -1,0 +1,12 @@
+1.  Acetaminophen 1000 mg PO Q6H 
+RX *acetaminophen 500 mg 1 tablet(s) by mouth every six (6) 
+hours Disp #*28 Tablet Refills:*0 
+2.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO
+RX *oxycodone 5 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*20 Tablet Refills:*0 
+3.  Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+RX *polyethylene glycol 3350 [Miralax] 17 gram 1 packet by mouth 
+every eight (8) hours Disp #*20 Packet Refills:*0

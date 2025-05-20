@@ -1,0 +1,23 @@
+Per PRS Post Op Check note on ___:
+.
+Gen: [x] NAD, [x] AAOx3
+CV: [x] RRR, [] murmur
+Resp: [x] breaths unlabored, [x] CTAB, [] wheezing, [] rales
+Abdomen: soft, non distended, appropriately tender, w/o 
+rebound/guarding
+Wounds: -Left breast: incisions clean, dry, intact, flap looks 
+viable, vioptix on 46% signal quality 88. Left axillary drain 
+insertion points looks c/d/I, drains(x2) are in place, holding 
+suction.
+        -Right breast: incisions clean, dry, intact, flap looks 
+viable, vioptix on 66% signal quality 99. Right axillary drain 
+insertion points looks c/d/I, drains(x2) are in place, holding 
+suction.
+        -Abdomen: Incision looks clean, dry, and intact, both 
+drains holding suction, no sing of infection. 
+Ext: [x] warm, [] tender, [] edema
+Foley: [x] Yes    [] No
+.
+VITALS:
+___: Weight: 246 (Patient Reported)
+BP: 110/70 HR: 99 RR: 14 SaO2 95%

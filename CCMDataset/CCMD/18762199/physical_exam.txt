@@ -1,0 +1,65 @@
+ON ADMISSION:
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: PERRL     EOMs Intact
+Neck: Supple.
+Lungs: Normal RR, no SOB
+Cardiac: RRR
+Extrem: Warm and well-perfused.
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Recall: ___ objects at 5 minutes.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 2.5mm to
+2mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Not tested
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. LUE/LLE full strength. Very trace weakness of RUE/RLE
+4+/5, barely noticeable, only when comparing to left side it can
+be appreciated.  No pronator drift
+
+Sensation: Intact to light touch, propioception, pinprick and
+vibration bilaterally.
+
+ON DISCHARGE:
+
+Opens eyes: [x]Spontaneous [ ]To voice [ ]To noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils: PERRL 2.5-2mm bilaterally 
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift: [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+
+Comprehension Intact: [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+Wound: 
+L crani incision x2 closed with staples. Open to air. No 
+redness, swelling or drainage. 
+L post-drain site: closed with 4 staples.

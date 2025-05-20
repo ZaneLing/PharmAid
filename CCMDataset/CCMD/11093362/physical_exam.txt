@@ -1,0 +1,79 @@
+=======================
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals: T: 98.2  HR: 93  BP: 102/71  RR: 18  SpO2: 95% 2L NC
+General: NAD
+HEENT: NCAT, no oropharyngeal lesions, neck supple
+___: warm, well-perfused
+Pulmonary: no tachypnea or increased WOB
+Abdomen: soft, NT
+Extremities: warm, symmetric
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Attentive, able to
+name ___ backward without difficulty. Speech is fluent with full
+sentences, intact repetition, and intact verbal comprehension.
+Naming intact aside from "hammock" on stroke card. No 
+dysarthria.
+Able to follow both midline and appendicular commands.
+
+- Cranial Nerves: PERRL (3 to 2 mm ___. VF full to number
+counting. EOMI, no nystagmus. V1-V3 without deficits to light
+touch or PP bilaterally. No facial movement asymmetry. Hearing
+largely intact to conversation.  Palate elevation symmetric.
+Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor:  No pronator drift.
+  [Delt][Bic][Tri][ECR][FEx][IP][Quad][Ham][TA]
+L   5     5    5    5    4+  5    5     5   5  
+R   5     5    4+   5    1   5    5     5   5  
+ 
+- Reflexes: 
+   [Bic] [Tri] [___] [Quad] [Gastroc]
+ L  3+    3+     3+      0        1+
+ R  3+    3+     3+      1+       1+ 
+ Plantar response extensor bilaterally. 
+
+- Sensory: Slight hyperesthesia to PP in palmar fingertips on
+left, otherwise symmetric to LT and PP. No extinction to DSS.
+
+- Coordination: No dysmetria with finger-to-nose testing
+bilaterally.
+
+- Gait: Deferred.
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+General: NAD
+HEENT: NCAT, no oropharyngeal lesions, neck supple
+___: warm, well-perfused
+Pulmonary: no tachypnea or increased WOB
+Abdomen: soft, NT
+Extremities: warm, symmetric
+
+Neurologic Examination:
+- Mental status: Awake, alert, cooperative. Speech is fluent 
+with full
+sentences and intact verbal comprehension. No dysarthria. Able 
+to follow both midline and appendicular commands.
+
+- Cranial Nerves: PERRL (3 to 2 mm ___. EOMI, no nystagmus. 
+V1-V3 without deficits to light touch bilaterally. No facial 
+movement asymmetry. Hearing
+largely intact to conversation.  Palate elevation symmetric. 
+Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor:  No pronator drift.
+  [Delt][Bic][Tri][ECR][FEx][IP][Ham][TA]
+L   5     5    4+   5    4+  5    5   5  
+R   4+    5-   4    4    2   5    5   5  
+ 
+- Reflexes: Deferred.
+
+- Sensory: Symmetric to LT and PP. No extinction to DSS.
+
+- Coordination: No dysmetria with finger-to-nose testing 
+bilaterally.
+
+- Gait: Deferred.

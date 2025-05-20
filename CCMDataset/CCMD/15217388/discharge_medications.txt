@@ -1,0 +1,19 @@
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild Duration: 3 
+Days  
+2.  LevETIRAcetam 500 mg PO BID Duration: 7 Days 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*14 Tablet Refills:*0 
+3.  Albuterol Inhaler 2 PUFF IH Q4H:PRN SOB, wheezing  
+4.  Atorvastatin 20 mg PO QPM  
+5.  Finasteride 5 mg PO DAILY  
+6.  PredniSONE 40 mg PO DAILY 
+Start: ___, First Dose: Next Routine Administration Time 
+This is dose # 1 of 2 tapered doses 
+7.  PredniSONE 20 mg PO DAILY Duration: 3 Days 
+Start: After 40 mg DAILY tapered dose 
+This is dose # 2 of 2 tapered doses 
+8.  Sotalol 120 mg PO BID  
+9. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until ___
+10. HELD- Rivaroxaban 20 mg PO DAILY  This medication was held. 
+Do not restart Rivaroxaban until ___

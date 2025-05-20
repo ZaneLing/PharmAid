@@ -1,0 +1,15 @@
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*2 
+3.  Docusate Sodium 100 mg PO BID  
+4.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO
+RX *oxycodone [Oxaydo] 5 mg 1 tablet(s) by mouth every six (6) 
+hours Disp #*5 Tablet Refills:*0 
+5.  Digoxin 0.375 mg PO DAILY  
+6.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+7.  Metoprolol Tartrate 100 mg PO BID  
+8.  Warfarin ___  mg PO DAILY16

@@ -1,0 +1,57 @@
+Physical Exam on Admission: 
+PHYSICAL EXAMINATION: 
+Vitals: 98.3 65 134/69 16 95% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted
+Pulmonary: Normal work of breathing.
+Cardiac: Warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented to self, ___, hospital. 
+Attentive.  Language is fluent with intact comprehension.  Able
+to name all pictures on the ___ stroke card with the exception 
+of
+cactus.  Able to describe cookie picture.  Able to name pen,
+paper, but not knuckles or thumb.  Able to read ___ stroke card
+without difficulty.  No dysarthria.  Able to follow midline and
+appendicular commands.  Able to register 3 objects, but not able
+to recall any of them after 10 minutes.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to conversation.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. 
+
+-Motor: Normal bulk and tone throughout. No pronator drift.  
+With
+arms outstretched, there was very fine tremor of the right hand. 
+
+ [Delt][Bic][Tri][ECR][FEx][IO][IP][Quad][Ham][TA][Gas]
+L    5    5    5    5    5    5   5    5    5   5    5    
+R    5    5    5    5    5    5   5    5    5   5    5    
+
+-Sensory: No deficits to light touch, pinprick, temperature, 
+vibration throughout. No extinction to DSS. 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     -
+R   2     2      2      2     -
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. No dysmetria on FNF
+bilaterally.
+
+-Gait: Deferred
+
+Exam at Discharge:
+Physical Exam in unchanged at time of discharge with only 
+changes significant  for improvement in short tern recall.

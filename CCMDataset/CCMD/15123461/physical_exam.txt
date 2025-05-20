@@ -1,0 +1,31 @@
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals: 98.3 114/64 67 16 98 RA
+GEN: Well appearing man in no acute distress. Well groomed,
+appears stated age.
+NEURO: AAOx3. CNII-XII grossly intact. Strength 5+ in all
+extremities. No sensory deficits. Gait normal. Finger-to-nose
+normal.
+HEENT: No evidence of head trauma. EOMI. PERRL. Anicteric.
+CARD: Regular rate & rhythm. No appreciable murmurs.
+PULM: Lung fields clear to auscultation bilaterally. Breathing
+comfortably on room air.
+ABD: Soft, non-tender, non-distended.
+EXT: Warm, well perfused. No rashes, effusions, or evidence of
+trauma.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals: T 97.8 BP 129/65 P 54 R 20 O2 98% RA
+GEN: Well appearing man in no acute distress. Well groomed,
+appears stated age.
+NEURO: AAOx3. CNII-XII grossly intact. Strength 5+ in all
+extremities. No sensory deficits. Gait normal. Finger-to-nose
+normal.
+HEENT: No evidence of head trauma. EOMI. PERRL. Anicteric.
+CARD: Regular rate & rhythm. No appreciable murmurs.
+PULM: Lung fields clear to auscultation bilaterally. Breathing
+comfortably on room air.
+ABD: Soft, non-tender, non-distended.
+EXT: Warm, well perfused. No rashes, effusions, or evidence of
+trauma.

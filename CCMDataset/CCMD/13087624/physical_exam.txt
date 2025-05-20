@@ -1,0 +1,34 @@
+admission exam:
+VS: 97.9  53  124/64 18 96/RA 
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva
+NECK: supple, no LAD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs   
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, mild epigastric tenderness, 
+norebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, CN ___ intact, strength ___ and sensation intact 
+proximally and distally throughout
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+
+discharge exam: 
+VS: 97.9 106/60 52 18 98% Ra   
+GENERAL: Appears comfortable. Alert, cooperative, and
+interactive. No acute distress. 
+HEENT: PERRL. No lesions of oral mucosa.
+NECK: supple, no LAD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs   
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: soft, nondistended, nontender, no rebound/guarding, no
+hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, CN ___ intact, strength ___ and sensation intact
+proximally and distally throughout
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes

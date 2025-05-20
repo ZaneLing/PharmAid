@@ -1,0 +1,18 @@
+Patient lives alone in a home.  Patient's husband lives in a
+nursing home and has severe alzheimer's disease.  Patient has no
+children and no other family.  
+
+Modified Rankin Scale:
+[x] 0: No symptoms
+[] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+[] 3: Moderate disability: requires some help but able to walk
+unassisted
+[] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+[] 6: Dead
+Neighbor does not know, not pertinent to this admission.

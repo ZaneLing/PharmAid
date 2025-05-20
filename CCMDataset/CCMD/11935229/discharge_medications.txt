@@ -1,0 +1,12 @@
+1. Acetaminophen-Caff-Butalbital ___ TAB PO Q8H:PRN headache 
+RX *butalbital-acetaminophen-caff 50 mg-325 mg-40 mg ___ 
+capsule(s) by mouth Q8H PRN Disp #*40 Capsule Refills:*0
+2. Amphetamine-Dextroamphetamine 30 mg PO TID 
+3. BuPROPion (Sustained Release) 200 mg PO BID 
+4. ClonazePAM 1 mg PO TID 
+5. CloniDINE 0.1 mg PO TID 
+6. Gabapentin 800 mg PO TID 
+7. LevETIRAcetam 500 mg PO BID 
+RX *levetiracetam [Keppra] 500 mg 1 tablet(s) by mouth twice a 
+day Disp #*14 Tablet Refills:*0
+8. Promethazine 50 mg PO Q8H:PRN Nausea

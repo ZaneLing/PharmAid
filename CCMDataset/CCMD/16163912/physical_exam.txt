@@ -1,0 +1,35 @@
+ADMISSION PHYSICAL EXAM
+=======================
+VITALS:  98.2PO, 115 / 73, 73,   93  
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, protuberant umbilical hernia without
+incarceration, nontender to palpation throughout 
+GU: No foley  
+Ext: Warm, well perfused, no ___  
+___: Warm, dry, no rashes or notable lesions.  
+Neuro: no facial droop, ___ strength upper/lower extremities,
+grossly normal sensation, steady gait 
+
+DISCHARGE PHYSICAL EXAM
+========================
+VITALS: BP 100s-110s/60s HR ___ RR 18 SpO2 96% on RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, protuberant umbilical hernia without
+incarceration, nontender to palpation throughout 
+GU: No foley  
+Ext: Warm, well perfused, no ___  
+___: Warm, dry, no rashes or notable lesions.  
+Neuro: no facial droop, ___ strength upper/lower extremities,
+grossly normal sensation, steady gait

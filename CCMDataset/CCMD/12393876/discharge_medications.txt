@@ -1,0 +1,11 @@
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Cyclobenzaprine 5 mg PO TID:PRN Muscle spasm 
+RX *cyclobenzaprine 5 mg 1 tablet by mouth three times a day 
+Disp #*30 Tablet Refills:*0 
+3.  Lidocaine 5% Patch 1 PTCH TD QAM 
+RX *lidocaine [Aspercreme (lidocaine)] 4 % apply 1 patch to 
+affected area once a day Disp #*30 Patch Refills:*0 
+4.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+5.  Zolpidem Tartrate 10 mg PO QHS

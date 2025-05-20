@@ -1,0 +1,36 @@
+ADMISSION PHYSICAL EXAMINATION:
+===============================
+VITALS: temp 97.6, BP 113/71, HR 79
+GENERAL: NAD
+HEENT: AT/NC, EOMI, PERRL, jaundice sclera b/l
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DICHARGE PHYSICAL EXAM:
+========================
+VITALS: 24 HR Data (last updated ___ @ 1541)
+    Temp: 97.9 (Tm 98.4), BP: 106/70 (100-117/63-71), HR: 73
+(73-80), RR: 18 (___), O2 sat: 100%, O2 delivery: Ra, Wt: 
+154.2
+lb/69.95 kg  
+GENERAL: NAD
+HEENT: AT/NC, EOMI, PERRL, jaundice sclera b/l
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs, jaundice under
+tongue 
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes

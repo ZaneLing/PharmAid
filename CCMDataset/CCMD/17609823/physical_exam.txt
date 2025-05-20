@@ -1,0 +1,43 @@
+Admission Physical Exam:
+VS: 24 HR Data (last updated ___ @ 957)
+    Temp: 98.5 (Tm 98.5), BP: 109/61, HR: 66, RR: 18, O2 sat:
+95%, O2 delivery: RA, Wt: 150.0 lb/68.04 kg
+Gen: NAD, well appearing laying in bed
+HEENT: EOMI, anicteric sclera, slightly dry MM, +apthous ulcer 
+on
+posterior right hard palate, none others visualized, tongue
+appears normal
+Neck:  no cervical or supraclavicular LAD
+Chest: CTAB, normal WOB
+Cardiovasc: RR, S1 S2 present, no m/r/g appreciated
+Abd: soft, not distended, bowel sounds present in all quadrants,
+is not tender to moderate palpation throughout
+GU: no suprapubic fullness or tenderness to palpation, no CVA
+tenderness
+MSK: grossly normal strength in b/l arms & legs
+Skin: no jaundice, has erythematous changes to the skin over his
+upper anterior chest in pattern that looks like it could have
+been from clothing which he reports is "not a rash" (unclear
+chronicity); has multiple tattoos; has left nipple piercing with
+hardware in place; otherwise no large rashes, lesions, or ulcers
+appreciated
+Neuro: AAOx4, conversant w/ clear speech, normal coordination, 
+no
+tremor at rest or with intention
+Psych: calm, cooperative, pleasant
+
+Discharge Physical Exam
+98.3 PO 107 / 56 51 18 96 RA 
+Gen: NAD, well appearing laying in bed
+HEENT: EOMI, anicteric sclera, MMM
+Chest: CTAB, normal WOB
+Cardiovasc: RR, S1 S2 present, no m/r/g appreciated
+Abd: soft, not distended, bowel sounds present in all quadrants,
+is not tender to moderate palpation throughout
+Skin: no jaundice, multiple tattoos; has left nipple piercing
+with hardware in place; otherwise no large rashes, lesions, or
+ulcers appreciated
+Neuro: AAOx4, conversant w/ clear speech, normal coordination, 
+no
+tremor at rest or with intention
+Psych: calm, cooperative, pleasant

@@ -1,0 +1,39 @@
+1.  Artificial Tear Ointment 1 Appl BOTH EYES QPM:PRN dry eye 
+RX *white petrolatum-mineral oil [Artificial Tears ___ 
+15 %-83 % 1 dab eye at bedtime Refills:*0 
+2.  Artificial Tears ___ DROP BOTH EYES PRN dry eyes 
+RX *dextran 70-hypromellose [Artificial Tears (PF)]  1 drop eye 
+twice a day Disp #*1 Bottle Refills:*3 
+3.  PredniSONE 60 mg PO DAILY Duration: 13 Doses 
+Start: Today - ___, First Dose: First Routine 
+Administration Time 
+See discharge instructions for taper 
+This is dose # 1 of 6 tapered doses
+RX *prednisone 10 mg ___ tablet(s) by mouth daily Disp #*100 
+Tablet Refills:*0 
+4.  PredniSONE 50 mg PO DAILY Duration: 1 Dose 
+Start: After 60 mg DAILY tapered dose 
+See discharge instructions for taper 
+This is dose # 2 of 6 tapered doses 
+5.  PredniSONE 40 mg PO DAILY Duration: 1 Dose 
+Start: After 50 mg DAILY tapered dose 
+See discharge instructions for taper 
+This is dose # 3 of 6 tapered doses 
+6.  PredniSONE 30 mg PO DAILY Duration: 1 Dose 
+Start: After 40 mg DAILY tapered dose 
+See discharge instructions for taper 
+This is dose # 4 of 6 tapered doses 
+7.  PredniSONE 20 mg PO DAILY Duration: 1 Dose 
+Start: After 30 mg DAILY tapered dose 
+See discharge instructions for taper 
+This is dose # 5 of 6 tapered doses 
+8.  PredniSONE 10 mg PO DAILY Duration: 1 Dose 
+See discharge instructions for taper 
+This is dose # 6 of 6 tapered doses 
+9.  ValACYclovir 500 mg PO Q12H Duration: 7 Days 
+RX *valacyclovir 500 mg 1 tablet by mouth twice a day Disp #*14 
+Tablet Refills:*0 
+10.  alfuzosin 10 mg oral DAILY  
+11.  Esomeprazole 40 mg Other DAILY  
+12.  Levothyroxine Sodium 50 mcg PO DAILY  
+13.  Pravastatin 20 mg PO QPM

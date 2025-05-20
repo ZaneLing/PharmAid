@@ -1,0 +1,91 @@
+================================
+ADMISSION PHYSICAL EXMAMINATION:
+================================
+Temp: 98.0 (Tm 98.0), BP: 122/77, HR: 74, RR: 17, O2 sat: 99%  
+General: Young male, healthy appearing, and looks his age. 
+Head: No irritation/exudate from eyes, nose, throat 
+Cardio: Regular rate and rhythm, warm, no peripheral edema 
+Lungs: Unlabored breathing 
+Abdomen: Soft, non tender, non distended 
+Skin: No rashes or lesions 
+ 
+Neurological:
+Cranial Nerves:
+I: Not tested.
+II: PERRL.
+III, IV, VI: EOMI intact ___ without nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to finger rub bilaterally.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline.
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+no tremor. Strength: full power ___ throughout. Coordination:
+Normal on finger to nose test. DTRs: 2+ and symmetrical
+throughout. Sensation: Intact to light touch throughout. 
+Gait: Steady. Normal stance and posture. No truncal ataxia.
+Romberg: Negative.
+
+Cognition: 
+Wakefulness/alertness: awake and alert
+Attention: intact to interview
+Orientation: oriented to person, time, place, situation
+Executive function: Luria without error 
+Memory: intact to recent and past history
+Fund of knowledge: consistent with education
+Calculations: Intact, can complete complex arithmetic 
+Abstraction: Intact, can come to rational conclusions 
+Visuospatial: Intact, can catch keys tossed to him  
+Speech: Pressured speech
+Language: Intact, no neologisms, paraphasias
+
+Mental Status:
+Appearance: No apparent distress, appears stated age, well
+groomed, appropriately dressed
+Behavior: Calm, cooperative, engaged, friendly, pleasant,
+appropriate eye contact, no psychomotor agitation or retardation
+Mood and Affect: Appropriate to situation, congruent with mood
+Thought Process: Linear, coherent, ___. No LOA.
+Thought Content: Denies SI/HI/AH/VH, no evidence of delusions or
+paranoia
+Judgment and Insight: Intact, appreciates need for 
+hospitalization
+
+===============================
+DISCHARGE PHYSICAL EXAMINATION:
+===============================
+Vital signs:
+Temp: 98.2 (Tm 98.5) 
+BP: 113/65 (___) 
+HR: 61 (___) 
+RR: 18 (___) 
+O2 sat: 97% (___) 
+
+General: Young male, healthy appearing, and looks his age. 
+Head: No irritation/exudate from eyes, nose, throat 
+Cardio: Regular rate and rhythm, warm, no peripheral edema 
+Lungs: Unlabored breathing 
+Abdomen: Soft, non tender, non distended 
+Skin: No rashes or lesions 
+
+Cognition: 
+Wakefulness/alertness: Awake and alert
+Attention: Intact to interview
+Orientation: Oriented to person, time, place, situation
+Memory: Intact to recent and past history
+Fund of knowledge: Consistent with education
+Abstraction: Intact, can come to rational conclusions 
+Speech: Normal, non pressured.
+Language: Intact, no neologisms, paraphasias
+
+Mental Status:
+Appearance: No apparent distress, appears stated age, well
+groomed, appropriately dressed
+Behavior: Calm, cooperative, engaged, friendly, pleasant,
+appropriate eye contact, no psychomotor agitation or retardation
+Mood and Affect: Appropriate to situation, congruent with mood
+Thought Process: Linear, coherent, ___. No LOA.
+Thought Content: Denies SI/HI/AH/VH, no evidence of delusions or 
+paranoia 
+Judgment and Insight: Intact, appreciates need for 
+hospitalization

@@ -1,0 +1,15 @@
+1. ClonazePAM 1 mg PO BID:PRN anxiety 
+RX *clonazepam 1 mg 1 tablet by mouth twice a day Disp #*6 
+Tablet Refills:*0
+2. Fluoxetine 30 mg PO DAILY 
+RX *fluoxetine 10 mg 3 tablets by mouth daily Disp #*45 Tablet 
+Refills:*0
+3. TraZODone 50 mg PO QHS 
+RX *trazodone 50 mg 1 tablet(s) by mouth at bedtime Disp #*15 
+Tablet Refills:*0
+4. ARIPiprazole 10 mg PO DAILY 
+RX *aripiprazole 10 mg 1 tablet(s) by mouth Daily Disp #*15 
+Tablet Refills:*0
+5. Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet by mouth twice a day Disp #*60 
+Tablet Refills:*0

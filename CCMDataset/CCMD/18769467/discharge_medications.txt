@@ -1,0 +1,13 @@
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild/Fever 
+Do not exceed 4 grams in 24 hours  
+2.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*20 Tablet Refills:*0 
+3.  Atorvastatin 10 mg PO QPM  
+4.  CarBAMazepine 200 mg PO TID  
+5.  ClonazePAM 1 mg PO BID  
+6.  Ranitidine 150 mg PO BID:PRN heartburn  
+7.  Vitamin D 1000 UNIT PO DAILY
