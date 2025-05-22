@@ -1,0 +1,230 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HMED INITIAL NOTE
+
+PCP:
+Name: ___. 
+Location: ___. 
+Address: ___, ___ 
+Phone: ___ 
+Fax: ___ 
+
+HPI:
+History taken with interpreter and daughter in law at bedside.  
+Mr. ___ is a ___ ___ speaking man with h/o varicose veins s/p 
+Radiofrequency ablation of the right greater saphenous vein on 
+___ who presents with days of sharp chest/side pain and back 
+pain worse with inspiration and SOB.  He otherwise was in his 
+usual state of health.  He denies f/c, HA, cough, CP.  He feels 
+dizzy.  He denies palps, n/v/d.  He also endorses feeling of 
+food getting stuck in esophagus for the last few months.  He had 
+an EGD ___ yr ago that was negative. He denies and bloody or black 
+stool.  He denies any new leg pain or swelling since his 
+procedure.  He denies recent travel.
+
+ED course reviewed.  Patient found to have DVT at site of 
+ablation and bilateraly PE. He was initiated on IV heparin.
+
+10 point review of systems reviewed and otherwise negative 
+except as listed above
+ 
+Past Medical History:
+Varicose veins
+ 
+Social History:
+___
+Family History:
+Denies history of blood clots
+ 
+Physical Exam:
+VS: 98.3 PO 135 / 79 R Lying 61 16 98 RA 
+GEN: lying in bed in NAD
+HEENT: NC/AT MMM OP clear anicteric sclera
+NECK: supple no LAD
+CV; RRR no mrg
+PULM:  Crackles at L base, and subtely on the R no wheeze good 
+expansion
+GI: soft NT/ND +BS no rebound or guarding
+EXT: warm perfused no edema or TTP of muscle.  Ablation
+DERM: patchy ecchymosis noted over LLE
+NEURO: fluent speech, moving all extremities, no focal deficits 
+appreciated
+ 
+Pertinent Results:
+___ 04:25AM BLOOD WBC-4.9 RBC-4.07* Hgb-13.0* Hct-38.1* 
+MCV-94 MCH-31.9 MCHC-34.1 RDW-11.5 RDWSD-39.7 Plt ___
+___ 10:28AM BLOOD ___ PTT-34.4 ___
+___ 04:25AM BLOOD Glucose-106* UreaN-18 Creat-0.8 Na-140 
+K-3.8 Cl-102 HCO3-28 AnGap-10
+___ 04:25AM BLOOD cTropnT-<0.01
+___ 04:25AM BLOOD D-Dimer-1465*
+
+EKG, my review: sinus with PVCs, nl intervals, no clear signs of 
+R heart strain or ACS
+
+CXR, my review:
+IMPRESSION:  
+  
+Small, left pleural effusion with associated consolidation at 
+the left lung 
+base, which may represent atelectasis or pneumonia. 
+
+CTA CHEST:
+IMPRESSION:  
+  
+1.  Extensive bilateral pulmonary emboli. 
+2.  Volume loss and consolidation at the left lung base.  A 
+component of 
+pulmonary infarction is not excluded. 
+3.  Apical-predominant minimal ground-glass opacities, may be 
+inflammatory in 
+nature. 
+
+___:
+IMPRESSION:  
+  
+Long segment of echogenic thrombus is seen in the right greater 
+saphenous vein 
+extending close to the junction with the common femoral vein.  
+Otherwise, no 
+evidence of deep venous thrombosis in the right or left lower 
+extremity veins. 
+
+ECHO:
+The left atrial volume index is normal. No atrial septal defect 
+is seen by 2D or color Doppler. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size and global 
+systolic function (LVEF>70%). Doppler parameters are most 
+consistent with normal left ventricular diastolic function. 
+There is no ventricular septal defect. Right ventricular chamber 
+size and free wall motion are normal. The aortic root is mildly 
+dilated at the sinus level. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis. Trace aortic regurgitation is seen. The mitral valve 
+appears structurally normal with trivial mitral regurgitation. 
+There is no mitral valve prolapse. There is mild pulmonary 
+artery systolic hypertension. There is no pericardial effusion. 
+
+ IMPRESSION: Normal right ventricular chamber size and systolic 
+function. Mild pulmonary hypertension. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo M with recent varicose vein ablation who 
+presented with several days of pleuritic chest pain and SOB, 
+found to have RLE DVT and extensive submassive PE without signs 
+for R heart strain, stabilized and improved on therapy. 
+
+Acute submassive PE:  
+Acute RLE DVT:  
+Lightheadedness
+Given location of DVT and recent ablation procedure, the 
+patient's PE appeared provoked. Underlying malignancy can also 
+be considered (see below). He had no signs for R heart strain. 
+BNP, trop wnl.  Echo with mild pulm HTN Clinically he responded 
+to anticoagulation.  his lightheadedness was subjective and 
+likely related to PE effects and should improve as well.  He did 
+have small amount of hemoptysis likely related to his PE and 
+infarct but had no evidence of respiratory effects.  He was 
+initially placed on IV heparin and then transitioned to 
+Rivaroxaban, 15mg BID x21 days and then 20mg daily therafter.  
+Recommended 6 months of treatment.  Counseled in detail on this 
+medication and importance of taking and side effects.
+- Re-assess at 6 months of treatment
+- consider repeat echo to assess pulm HTN
+- monitor for signs of ongoing hemoptysis
+- short course of oxycodone and senna given, PMP reviewed
+
+Dysphagia:  
+Patient reported dysphagia with solids for several months. He 
+has had and EGD and colonoscopy in ___ respectively. This 
+did make me concerned for an underlying pathology (ie 
+malignancy) 
+- I discussed GI follow up with patient and daughter in law. He 
+will need repeat EGD as soon as it is safe to do so from a PE 
+perspective, likely in ___ months. They expressed good 
+understanding about need for follow up of this.
+
+Lightheadedness:
+no focal deficits.  This appeared to be related to his PE.  
+Monitor on follow up
+
+Varicose Veins:
+He has vascular surgery follow up
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe 
+do not take with alcohol or while driving 
+RX *oxycodone 5 mg 1 tablet(s) by mouth four times a day Disp 
+#*20 Tablet Refills:*0 
+3.  Rivaroxaban 15 mg PO BID Duration: 20 Days 
+with food.  take twice daily through ___ 
+RX *rivaroxaban [___] 15 mg (42)- 20 mg (9) ___ tablets(s) 
+by mouth As directed Disp #*1 Dose Pack Refills:*0 
+4.  Rivaroxaban 20 mg PO DAILY 
+after 21 day load, start on ___.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute submasssive PE
+Acute DVT
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with chest pain and found to have a blood clot 
+in your lungs and leg.  You required blood thinning medication 
+and you will continue on discharge.  As we discussed, please 
+continue this medication as prescribed and follow up closely 
+with your PCP.
+
+You will be prescribed Xarelto, to take 15mg twice daily through 
+___, then start 20mg daily on ___.  Please see your PCP to 
+have your prescription for 20mg daily refilled after the first 
+month.
+
+Please avoid heavy lifting, activity that could cause trauma, 
+and call your doctor with any new or increase in bleeding or any 
+other concerning symptoms.
+
+Also as we discussed, please see your gastroenterologist to 
+discuss your swallowing discomfort.  I recommend that you have a 
+repeat endoscopy.
+ 
+Followup Instructions:
+___

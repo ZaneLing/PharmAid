@@ -1,0 +1,226 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+seizures
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with prior left temporal CVA
+with residual fluent aphasia and vascular dementia who is here
+for new onset seizure. He is unable to provide a history, and
+there was no family at bedside. Information obtained from 
+records
+only.
+
+He was healthy yesterday. This morning, ___ found him seizing.
+EMS was called, and on arrival to ___, he had a
+GTC that lasted for 1min. He received 1mg Ativan, and seizure
+stopped. He was then post-ictal. Had another seizure at CT scan,
+given Ativan again. Received 1500mg keppra and transferred to ___
+because his troponins were elevated to 0.14.
+
+On arrival, he was protecting his airway, and he was grimacing
+and opening his eyes to voice but not following commands.
+Troponin neg. Neurology was consulted for seizures.  
+
+ 
+Past Medical History:
+arthritis, back pain, cataracts, depression, DM, GERD,
+HLD, HTN, hyperopia, migraine, stroke, with residual aphasia,
+vascular dementia
+
+ 
+Social History:
+___
+Family History:
+unknown
+
+ 
+Physical Exam:
+EXAM ON DISCHARGE:
+
+General: Lying comfortably in bed, smile on face.
+HEENT: laceration on left lower lip unchanged from admission,
+poor  dentition
+CV: Well-perfused
+Pulm: Breathing comfortably on room air
+Abd: non-distended
+Ext: non-edematous
+
+Neuro:
+MS: Oriented to self. Can follow commands by mimic and by 
+request
+in 
+    broken ___. 
+CN: 1.5>1 mm pupils, minimally reactive. Face symmetric. EOMI.
+End gaze nystagmus that fatigue on either side. VFF to
+confrontation.
+Motor: at least 3 throughout. No PD. No asterixis. No tremor.
+Sensation: intact to light touch.
+Coordination: FNF intact.
+Gait: Slightly wide based with left leg extension and subtle 
+      circumvention. 
+Labs:
+ 
+Pertinent Results:
+___ 10:05AM BLOOD WBC-6.3 RBC-4.63 Hgb-12.5* Hct-38.3* 
+MCV-83 MCH-27.0 MCHC-32.6 RDW-13.3 RDWSD-40.1 Plt ___
+___ 05:38AM BLOOD WBC-7.1 RBC-4.23* Hgb-11.3* Hct-34.7* 
+MCV-82 MCH-26.7 MCHC-32.6 RDW-13.5 RDWSD-40.3 Plt ___
+___ 10:05AM BLOOD Glucose-177* UreaN-17 Creat-1.0 Na-141 
+K-4.4 Cl-102 HCO3-19* AnGap-20*
+___ 05:38AM BLOOD Glucose-116* UreaN-17 Creat-1.0 Na-141 
+K-4.1 Cl-105 HCO3-24 AnGap-12
+___ 05:38AM BLOOD ALT-25 AST-32
+___ 09:10AM BLOOD CK(CPK)-378*
+___ 04:35PM BLOOD ALT-26 AST-31 CK(CPK)-185 AlkPhos-142* 
+TotBili-0.2
+___ 05:38AM BLOOD Calcium-9.3 Phos-3.8
+___ 06:46PM BLOOD %HbA1c-6.5* eAG-140*
+___ 04:35PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+IMAGES:
+___ MRI Brain/MRA:
+
+IMPRESSION: 
+  
+  
+1. Motion limited exam. 
+2. No evidence for acute infarction or intracranial mass. 
+3. Large chronic left MCA territory infarction. 
+4. Stenosis of the mid to distal portion of the left M1 segment, 
+with 
+attenuation of the more distal left MCA vasculature in the area 
+of infarct.  
+Otherwise, patent intracranial vasculature. 
+5. Nonvisualization of flow at the origin of the non dominant 
+left vertebral 
+artery could be secondary to technical factors, but stenosis 
+cannot be 
+excluded.  This could be better assessed by CTA if clinically 
+warranted. 
+6. No cervical carotid stenosis by NASCET criteria. 
+7. Unremarkable brain MRA. 
+
+ 
+Brief Hospital Course:
+This is a ___ years-old man with a prior left MCA stroke (___) 
+with residual fluent aphasia who was admitted for work-up of 
+new-onset seizures. On the day of admission he suffered 3 GTC 
+seizures. Etiology of current seizures unclear. Toxic-metabolic 
+work-up was negative, no clear source of infection was found in 
+his urine, blood, or chest XRAY. EEG was negative for 
+electrographic discharges. MRI brain showed attenuation of left 
+MCA vasculature in area of old infarct but was negative for 
+acute infarct or obvious focus to suggest seizure trigger. 
+
+He was started on keppra 1000mg BID and returned to his baseline 
+condition (mild expressive aphasia with subtle right-sided 
+weakness) within 2 days. 
+
+Transitional issues:
+[ ] Continue keppra 1000mg BID
+
+# Seizures: Likely exacerbation from prior left MCA stroke. 
+Trigger unclear.
+- continue keppra 1000mg BID on discharge (new medication)
+- no electrographic seizures while on cvEEG ___.
+- f/u MRI brain with and without contrast
+- nursing to walk to assess mobility at home
+- Ativan prn for GTC>3min
+- dispo: home with ___ (as prior to admission)
+
+# prior L MCA with residual fluent aphasia
+- continue home ASA 81mg po qd, atorvastatin 80mg 
+
+# Dementia
+- continue donepezil 5mg 
+- continue sertraline 50mg po qd
+
+# DM2
+- continue home metformin on discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Oxybutynin 10 mg PO DAILY 
+2. MetFORMIN (Glucophage) 500 mg PO BID 
+3. Atorvastatin 80 mg PO QPM 
+4. Donepezil 5 mg PO QHS 
+5. Senna 8.6 mg PO BID:PRN Constipation 
+6. Tamsulosin 0.4 mg PO BID 
+7. Sertraline 50 mg PO DAILY 
+8. Aspirin 81 mg PO DAILY 
+9. Finasteride 5 mg PO DAILY 
+10. Terbinafine 1% Cream 1 Appl TP BID 
+
+ 
+Discharge Medications:
+1.  LevETIRAcetam 1000 mg PO BID 
+RX *levetiracetam [Keppra] 1,000 mg 1 tablet(s) by mouth twice a 
+day Disp #*60 Tablet Refills:*6 
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 80 mg PO QPM  
+4.  Donepezil 5 mg PO QHS  
+5.  Finasteride 5 mg PO DAILY  
+6.  MetFORMIN (Glucophage) 500 mg PO BID  
+7.  Oxybutynin 10 mg PO DAILY  
+8.  Senna 8.6 mg PO BID:PRN Constipation  
+9.  Sertraline 50 mg PO DAILY  
+10.  Tamsulosin 0.4 mg PO BID  
+11.  Terbinafine 1% Cream 1 Appl TP BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because you had two seizures. 
+Seizures occur as a result of abnormal electrical activity in 
+your brain. Yours seizures were most likely caused by your prior 
+history of stroke.
+
+Follow-up with your PCP and with ___ Neurology as directed. We 
+started you on KEPPRA, which is a medicine for seizures. Your 
+symptoms of confusion began to improve within one day. We 
+monitored your brain activity while you were in the hospital and 
+found no evidence of further seizures.
+
+MEDICATION CHANGES ON THIS ADMISSION:
+Please continue to take your new medication, KEPPRA, as 
+instructed. 
+Please resume all medications as prior to discharge. 
+
+Thank you for allowing us to participate in your care.
+
+___ Neurology Team
+ 
+Followup Instructions:
+___

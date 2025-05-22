@@ -1,0 +1,280 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+bradycardia
+ 
+Major Surgical or Invasive Procedure:
+None this hospitalization
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with h/o throat cancer (s/p radiation 
+___, hyperlipidemia, prolonged PR interval, bradycardia 
+(___), and BPH who presents as instructed by his cardiologist 
+for concerning findings on recent holter monitor and ETT.  
+He recently underwent holter monitoring that showed several 
+periods of Wenckebach block, as well as sinus pauses up to 2 
+seconds. He had a period during a nap of multiple blocked P 
+waves, that occured during sinus slowing and PR prolongation. He 
+also underwent ETT (most likely ETT-MIBI based on pt's 
+description) 2 weeks with ? poor chronotropic response. We do 
+not have records of his recent ETT.  
+On interview, pt states that he's been told by his cardiologist 
+over the past ___ years that he needs a pacemaker but he has 
+been avoiding one until now. He endorses fatigue x4-5 months, 
+requiring frequent naps during the day. He reports vague 
+unsteadiness, describing as "imbalance" but no lightheadedness 
+or vertigo. No recent syncope or presyncope. However, he reports 
+an incidence many years ago where he was swimming in the ocean 
+and as he was walking out towards the beach, a big wave hit him 
+and he lost consciousness for a short period of time. He was 
+taken to the hospital and his HR was noted to be in the 20's.  
+He is very active and surfs/swims on a regular basis with mild 
+dyspnea but no chest pain, palpitation, or lightheadedness. No 
+orthopnea, PND, ___ edema. No weight loss, fever, chills, 
+recent illness, changes in BM, N/V, or abd pain. Endorses 
+nocturnal polyuria (2x/night).  
+In the ED initial vitals were: 98 60 130/81 16 99%.  
+- Labs were significant for negative trops, normal CBC, chem7, 
+and coags.  
+Vitals prior to transfer were: 97.7 66 118/68 20 97% RA.  
+On the floor, VS are: 97.4 119/67 18 69 96% on RA. Pt is in no 
+acute distress.  
+Review of Systems:  
+(+) per HPI  
+
+ 
+Past Medical History:
+hyperlipidemia  
+s/p appendectomy  
+longstanding hx of prolonged AV conduction  
+bradycardia  
+BPH  
+throat cancer s/p radiation in ___  
+
+ 
+Social History:
+___
+Family History:
+children with HTN and DM  
+mom and dad died of old age  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Vitals - 97.4 119/67 18 69 96% on RA.  
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+patent nares, MMM, good dentition  
+NECK: nontender supple neck, no LAD, no JVD  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: moving all extremities well, no cyanosis, clubbing 
+or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+DISCHARGE PHYSICAL EXAM:
+========================
+Vitals: T=97.7, 90-124/50-70, RR16, pulse 52-57, 97% on room air
+75.6kg
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+patent nares, MMM, good dentition  
+NECK: nontender supple neck, no LAD, no JVD  
+CARDIAC: Bradycardic on exam to 50, regular S1/S2, no murmurs, 
+gallops, or rubs. 2+ radial and 2+DP/PTs, regular bradycardic.
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: moving all extremities well, no cyanosis, clubbing 
+or edema  
+PULSES: See CV
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+ 
+Pertinent Results:
+PERTINENT LABS:
+===============
+___ 07:52AM BLOOD WBC-5.1 RBC-4.72 Hgb-15.3 Hct-46.3 MCV-98 
+MCH-32.3* MCHC-33.0 RDW-12.6 Plt ___
+___ 07:00PM BLOOD WBC-7.4 RBC-4.87 Hgb-16.6 Hct-48.9 
+MCV-100* MCH-34.0* MCHC-33.8 RDW-13.2 Plt ___
+___ 07:52AM BLOOD Plt ___
+___ 07:00PM BLOOD Plt ___
+___ 07:00PM BLOOD ___ PTT-28.3 ___
+___ 07:52AM BLOOD Glucose-112* UreaN-17 Creat-0.9 Na-140 
+K-4.5 Cl-104 HCO3-29 AnGap-12
+___ 07:00PM BLOOD Glucose-91 UreaN-16 Creat-0.8 Na-139 
+K-4.2 Cl-103 HCO3-26 AnGap-14
+___ 07:52AM BLOOD Calcium-9.4 Phos-3.6 Mg-2.0
+
+METABOLIC/VITAMIN LABS:
+=======================
+___ 07:52AM BLOOD Vit___-___
+___ 07:52AM BLOOD TSH-2.6
+
+TROPONIN:
+=========
+___ 07:00PM BLOOD cTropnT-<0.01
+
+IMAGING/STUDIES:
+================
+
+FROM OUTSIDE CARDIOLOGIST:
+ETT ___:  
+METS 10.5 with no ischemic EKG changes or angina like symptoms.  
+ 
+
+ETT ___
+METS 10.1 on ___ with no ischemic changes or angina like sx. 
+LV size normal, sigmoid shaped septum with focal hypertrophy 
+basal septum. EF 60-65%, mild aortic valve sclerosis NO 
+stenosis, mild AR, normal stress echo. Was able to achieve 87% 
+of max heart rate with exercise with a resting heart rate at 
+exam of 63.  
+ 
+___ monitor: Periods of ___ periodicity noted. During 
+sleep a sinus pause of 2 sec, as well as period of three blocked 
+p waves, preceeded by sinus slowing and PR invterval 
+prolongation 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ y/o M with h/o throat cancer (s/p radiation 
+___, hyperlipidemia, prolonged PR interval for many years, 
+bradycardia (___'s), and BPH who presents as instructed by his 
+cardiologist, Dr. ___ concerning findings on recent 
+holter monitor and ETT. Holter monitor revealed AV nodal 
+Wenckebach, sinus pauses up to 2 seconds, and blocked p waves 
+during sleep. On ETT on ___ was unable to complete test, but 
+did achieve ___ METS w/no ischemic signs and with appropriate 
+pulse rise with exercise. Given the asymptomatic nature of his 
+heart block, long hx of heart block, and appropriate pulse rise 
+on recent ETT, no pacemaker placement is indicated for this 
+patient at this time.
+
+# Type 2 Heart Block: Mobitz 1
+Patient has Type 1 heartblock with prolonged PR, seguing into 
+Type 2, Mobitz 1 (___) block. Has known hx of heart block, 
+and remains asymptomatic w/no presyncopal sx. Continues to 
+remain active. He does note some fatigue with extreme exercise, 
+but this is not an abnormal response. Because he remains 
+asymptomatic at this time, pacemaker placement is not indicated. 
+Patient is also very hesitant regarding placement of a pacer, 
+and if possible would like to defer as he has for the past ___ 
+years with Dr. ___. This plan of care was explained to the 
+patient, and the patient was asked to immediately seek medical 
+attention for pre-syncope or syncopal episodes, along with 
+avoiding exercises with which a syncopal episode would place him 
+at additional risk. This includes swimming in the ocean, or 
+straining/lifting heavy items. All questions were answered, and 
+team spoke with a colleague of Dr. ___ to further discuss 
+the patient's management and explain reasons for no pacer 
+placement this hospitalization. As an outpatient he should 
+follow up regularly with his cardiologist, and the question of 
+pacemaker placement can be re-evaluated in the future if 
+necessary.
+
+# Fatigue/Unsteadiness:
+Unclear etiology. Occurs intermittently, and has been slow and 
+progressive. Patient has no endocrine sx suggestive of 
+hypothyroidism. In addition, TSH was WNL. Vitamin B12 also 
+measured, which was WNL. Patient not anemic. These sx may be 
+suggestive of normal aging, or may represent other underlying 
+process. Patient should follow up with his primary care 
+physician to further investigate this issue.
+
+TRANSITIONAL ISSUES:
+- Patient has 1st degree AV block, and at times 2nd degree AV 
+block, Mobitz 1. Asymptomatic at this time, but known 
+bradycardia to the ___. Very athletic, and may have high vagal 
+resting tone.
+- Needs continued cardiology and PCP follow up, if becomes 
+symptomatic of heart block then may need to revisit pacer issue 
+at later time
+- Please avoid beta blockers or other medications that can 
+worsen heart block
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 40 mg PO DAILY 
+2. Aspirin 325 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Finasteride 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Atorvastatin 40 mg PO DAILY 
+3. Finasteride 5 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+2nd Degree AV Block, Mobitz 1 ___
+
+Secondary:
+1st Degree AV Block 
+Bradycardia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+
+You came to ___ at the direction of your cardiologist, Dr. 
+___ due to continuing "heart block" where your heart beats 
+slower than normal and the conduction of electrical signals from 
+your sinus node are delayed before they reach the ventricles. 
+For the most part you have 1st degree AV block, which is the 
+mildest form of heart block. At times you experience 2nd degree 
+AV block (Mobitz Type 1, ___). If asymptomatic, both of 
+these types of heart block do not require a pacemaker. However, 
+heart block can progress over time, and if you begin to 
+experience severe lightheadedness, or lose consciousness, then 
+you should be re-assessed as this could indicate progression of 
+your heart block.
+
+You have likely had your heart block for many years, and 
+although you cannot "fix" heart block (without a pacemaker), it 
+will be important for you to tell your physicians that you have 
+this condition so that they avoid medicines such as beta 
+blockers.
+
+It has been a pleasure caring for you here at ___, and we wish 
+you all the best. 
+
+Kind Regards,
+Your ___ Team
+ 
+Followup Instructions:
+___

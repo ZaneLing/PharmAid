@@ -1,0 +1,317 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+pneumococcal vaccine / fluconazole
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Diarrhea, C.diff
+ 
+Major Surgical or Invasive Procedure:
+Flexible sigmoidoscopy ___
+
+ 
+History of Present Illness:
+___ with PMH of UC on budesonide presenting with diarrhea since
+___, found to have c. diff. 
+
+The patient has a diagnosis of ulcerative colitis, and developed
+a UC flare at the beginning of ___.
+
+She was given the Pneumovax vaccine on ___.  She was
+seen by her PCP on ___ after developing left arm
+cellulitis. She was prescribed a 10 day supply of keflex, which
+finished on ___. Diarrhea worsened ___ night.  She was
+originally having diarrhea 10 times a day for the last month
+since she is in the middle of a UC flare.  Now she reports
+diarrhea 20 times per day.  She further reports decreased fluid
+intake, abdominal cramping, which is worse with bowel movements. 
+
+Also endorses bloody bowel movements.
+
+Regarding her ulcerative colitis history, the patient is seen by
+the ___ department at ___.   Her ulcerative colitis
+was diagnosed approximately ___ year ago.  She had a diarrhea 
+flare
+___, and then in ___ when she was diagnosed
+with UC.  She had another flare ___, which was treated
+with prednisone.  She was originally on mesalamine daily for
+treatment of her UC. However, she developed neck stiffness, and
+did not tolerate the medication well.  
+
+In ___, she started having increased bowel movements.  She
+was originally on hydrocortisone enemas for 2 weeks.  That did
+not help, so that is why she was transitioned to budesonide this
+past ___. Her GI doctor intends to start her on
+Entyvio for her ulcerative colitis, which is why she got the
+pneumonia vaccine initially.
+
+Vital signs in the ED were notable for heart rate of 105.  Blood
+pressures were stable.
+
+Labs notable for a white blood cell count 12.2, hemoglobin 11. 
+Lactate 0.8.  Chem-7 within normal limits.
+
+The patient was given 1 L normal saline, and 125 mg of oral
+vancomycin.
+
+On arrival to the floor, patient reports that she is feeling a
+little bit better after the IV fluids.  She reports that she has
+not been able to tolerate much p.o. over the past month 
+secondary
+to her UC flare.  However, over the past several days, she is
+barely been able to eat or drink anything at all secondary to
+worsening abdominal pain when she eats.  Reports fevers when she
+originally was diagnosed with cellulitis, but they have subsided
+since initiation of antibiotics.
+
+Denies urinary symptoms, chest pain, shortness of breath.
+
+ 
+Past Medical History:
+Ulcerative colitis 
+Anxiety
+Recurrent vulvovaginal candidiasis
+ 
+Social History:
+___
+Family History:
+Notable for bipolar disorder in brother, and hypertension in
+father.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: 98.1PO, BP 107/69, HR 69, RR 16, 97% RA.
+GENERAL: NAD
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: Mild tenderness to palpation diffusely in the abdomen.
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: T 97.7F, HR 73, BP 106/68, RR 16, 98% on RA.
+GENERAL: sitting up in bed, NAD
+HEENT: AT/NC, anicteric sclera, MMM
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: soft, ND, NT
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 08:38PM BLOOD WBC-12.2* RBC-3.87* Hgb-11.0* Hct-35.2 
+MCV-91 MCH-28.4 MCHC-31.3* RDW-12.5 RDWSD-41.2 Plt ___
+___ 08:38PM BLOOD Neuts-71.1* Lymphs-18.2* Monos-8.0 
+Eos-2.0 Baso-0.4 Im ___ AbsNeut-8.68* AbsLymp-2.22 
+AbsMono-0.98* AbsEos-0.25 AbsBaso-0.05
+___ 08:38PM BLOOD Glucose-88 UreaN-8 Creat-0.5 Na-140 K-3.9 
+Cl-101 HCO3-24 AnGap-15
+___ 08:38PM BLOOD ALT-8 AST-14 AlkPhos-67 TotBili-0.2
+___ 08:38PM BLOOD Lipase-19
+___ 08:45PM BLOOD Lactate-0.8
+
+PERTINENT LABS/MICRO/IMAGING:
+=============================
+___ 07:10AM BLOOD CRP-32.8*
+
+SED RATE BY MODIFIED          22  H               < OR = 20 mm/h
+___                                        
+
+___ 08:22AM BLOOD HBsAg-NEG HBsAb-POS HBcAb-NEG
+
+FLEX SIG ___:
+Findings: diffuse, continuous erythema, friability, and contact 
+bleeding from rectum to sigmoid colon. ___ score: 2. 
+Biopsies pending.
+
+DISCHARGE LABS:
+===============
+___ 06:12AM BLOOD WBC-10.0 RBC-3.59* Hgb-10.5* Hct-32.8* 
+MCV-91 MCH-29.2 MCHC-32.0 RDW-12.7 RDWSD-42.3 Plt ___
+___ 06:12AM BLOOD Glucose-94 UreaN-5* Creat-0.5 Na-143 
+K-4.6 Cl-106 HCO3-26 AnGap-11
+___ 06:12AM BLOOD Calcium-9.5 Phos-4.0 Mg-1.9
+ 
+Brief Hospital Course:
+PATIENT SUMMARY:
+================
+This is a ___ female with a past medical history of 
+ulcerative colitis on budesonide and hydrocortisone enemas, who 
+is presenting with worsening diarrhea in the setting of a 
+presumed UC flare, found to also have C. difficile. Flex sig 
+showed changes consistent with ___ 2 ulcerative 
+proctosigmoiditis. She was started on prednisone, was briefly on 
+IV solumedrol, and then switched back to prednisone on 
+discharge.
+
+ACUTE ISSUES:
+=============
+#C. difficile:
+#Abdominal pain:
+Patient reports 20 medium-volume bowel movements per day up from 
+10 bowel movements a day during her ulcerative colitis flare, 
+accompanied by abdominal pain. History notable for recent 
+antibiotic use (Keflex) for left upper extremity cellulitis 
+after vaccine administration. Found to be C.diff positive and 
+started on PO vancomycin. No history of c. diff, but sent to 
+hospital because she could not tolerate PO due to 
+nausea/diarrhea. She also endorsed having lightheadedness and 
+palpitations concerning for hypovolemia, and in that setting 
+received IV fluids. The IV fluids were stopped once the patient 
+was able to tolerate PO. She has clinically improved and is 
+reporting a few BMs a day that are somewhat formed, and is no 
+longer having abdominal pain. She will continue PO vancomycin 
+125mg q6h for a total of 14-day course to be completed on ___.
+
+#Ulcerative colitis:
+Patient with history of ulcerative colitis, in middle of flare 
+treated with budesonide and hydrocortisone enemas. She was 
+unable to tolerate mesalamine in the past. Previous flares were 
+treated with prednisone, hydrocortisone enemas, and budesonide, 
+without much success. Flex sig done on ___ showed "diffuse, 
+continuous erythema, friability, and contact bleeding from 
+rectum to sigmoid colon. ___ Score 2." In that setting, she was 
+started on prednisone 40mg daily, but then patient had explosive 
+bloody diarrheal episode and in that setting was switched to IV 
+solumedrol 20mg IV q8h for 2 days. She was discharged on 
+prednisone 40mg daily, which she will need to take for at least 
+___ weeks and then start a taper.
+
+#Acute-on-chronic ___ vulvovaginitis:
+Patient describes vaginal discomfort this morning which she 
+recognizes as a yeast infection, irritation but no discharge. 
+She gets frequent yeast infections that are timed with menstrual 
+periods. ___ have been exacerbated in setting of receiving 
+steroids. Patient describes adverse reactions to both topical 
+and oral -azoles. Pharmacy recommends vaginal nystatin, however 
+not on formulary or available at local pharmacies. Found a 
+compound pharmacy that will make nystatin vaginal suppositories 
+___ that patient will pick 
+up on discharge.
+
+CHRONIC ISSUES:
+===============
+#Anxiety:
+Continued home citalopram 10 mg daily.
+
+TRANSITIONAL ISSUES:
+====================
+[] PO vancomycin 125mg q6h for a total of 14-day course to be 
+completed on ___.
+[] Started on prednisone 40mg daily for at least ___ weeks. 
+Outpatient GI will determine when to start taper.
+[] Not discharged on any prophylaxis (PPI, PJP, etc.) - can 
+start as outpatient if prolonged steroid course and deemed 
+appropriate.
+[] Given 8-day prescription for trazodone to help with 
+steroid-induced insomnia. Re-assess outpatient.
+
+#CODE: Full (presumed)
+#CONTACT: ___ (boyfriend) ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 10 mg PO DAILY 
+2. Budesonide 9 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  PredniSONE 40 mg PO DAILY 
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*28 Tablet 
+Refills:*0 
+2.  TraZODone 25 mg PO QHS:PRN insomnia 
+RX *trazodone 50 mg 0.5 (One half) tablet(s) by mouth at bedtime 
+Disp #*4 Tablet Refills:*0 
+3.  Vancomycin Oral Liquid ___ mg PO QID 
+RX *vancomycin 125 mg 1 capsule(s) by mouth four times a day 
+Disp #*41 Capsule Refills:*0 
+4.  Citalopram 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+-C.difficile infection
+-Ulcerative colitis
+
+SECONDARY:
+-Vulvovaginal candidiasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+You were admitted to the hospital because you were found to have 
+an infection in your gut (C.diff) during an Ulcerative Colitis 
+flare, and as a result you were having a lot of diarrhea and 
+were not able to eat much.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+-You were given IV fluids because you were dehydrated and not 
+able to eat much.
+-You were started on an antibiotic (vancomycin) to treat your 
+C.diff infection. You will continue to take this at home.
+-You had a flexible sigmoidoscopy on ___ to get a better look 
+at the distal part of your colon. It showed that you are 
+currently in a UC flare.
+-You were started on oral steroids (prednisone), which was then 
+switched to IV steroids (solumedrol). You will be discharged on 
+oral steroids, which you will take for a few weeks.
+-You were prescribed nystatin vaginal suppositories that you 
+will pick up from the outside pharmacy.
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+-Continue to take all of your medications as prescribed.
+-Please attend all ___ clinic appointments.
+-If you would like to follow up with our ___ clinic here at 
+___, you can call ___.
+-For help with sleep while on steroids, try to use melatonin 
+(which you can get over-the-counter). If that does not work, 
+then try the trazodone.
+-Please look out for the following warning signs that your UC is 
+getting worse - if you experience any of these, please call your 
+gastroenterologist:
+--bowel movements > 6x/day
+--increased blood in your bowel movements
+--inability to tolerate food.
+
+We wish you all the best,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

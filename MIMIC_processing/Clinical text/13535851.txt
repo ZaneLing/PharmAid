@@ -1,0 +1,275 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Double vision
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old male with type 2 DM, no medical care in ___ years, 
+who  with ~10 days of double vision and inability to abduct left 
+eye. Also found to have BS > 300, hypertensive to SBP 200.
+
+Wife noticed that patient's eye was looking inward on last 
+___, about one week ago. In retrospect, patient thinks that 
+his vision was off (requiring him to close his left eye) 
+beginning perhaps the ___ before, about 12 days ago. Then on 
+___, he had a car accident because of these vision issues.
+
+Endorses horizontal diplopia. Also has noted that his depth 
+perception is off. 
+
+ROS: On neurologic review of systems, the patient denies 
+headache, lightheadedness, or confusion. Denies difficulty with 
+producing or comprehending speech. Denies dysarthria, difficulty 
+chewing, or dysphagia. Denies focal muscle weakness, numbness, 
+parasthesia. Denies loss of sensation. Denies bowel or bladder 
+incontinence or retention. Denies difficulty with gait (other 
+than baseline arthritis).
+
+On general review of systems, the patient endorses recent 
+congestion, cough, and subjective fevers, in setting of 
+suspected viral illness. No nausea, vomiting, diarrhea. 
+ 
+Past Medical History:
+Type 2 DM
+HTN
+Last saw a doctor in ___
+ 
+Social History:
+___
+Family History:
+Mother - ___, skin and breast cancer
+Father - COPD, CHF
+Brother - similar cranial nerve abnormality - told it was due to 
+high blood pressure
+Sister - stroke
+ 
+Physical ___:
+EXAM ON ADMISSION:
+==========
+Vitals:  T: 98.2  HR: 77  BP: 202/89  RR: 18  SaO2: 98% RA
+General:  NAD, obese
+HEENT: NCAT,  no oropharyngeal lesions, neck supple
+___: warm and well-perfused
+Pulmonary: breathing comfortably in room air
+Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Able to relate 
+history without difficulty. Attentive, able to name ___ backward 
+without difficulty. Speech is fluent with full sentences, intact 
+repetition, and intact verbal comprehension. Naming intact.  No
+paraphasias.  No dysarthria. Normal prosody. Able to follow both 
+midline and appendicular commands.
+
+- Cranial Nerves: PERRL 4->2 brisk with physiologic hippus. No 
+RAPD. Left esotropia; cannot abduct left eye past midline. Full 
+horizontal EOM on the right. Endorses horizontal diplopia 
+throughout. Full vertical EOM bilaterally, with reported 
+vertical diplopia on down-gaze. V1-V3 without deficits to light 
+touch bilaterally. No facial movement asymmetry with full 
+strength of facial musculature. Palate elevation symmetric. 
+SCM/Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor:  Normal bulk and tone. No drift. No tremor or 
+asterixis.
+
+  [Delt] [Bic] [Tri] [ECR] [IO] [IP] [Quad] [Ham] [TA] [Gas]
+   [C5]  [C5]  [C7]  [C6]  [T1] [L2]  [L3]  [L5]  [L4] [S1]
+L   5     5     5     5     5    4*    5     5     5    5 
+R   5     5     5     5     5    4*    5     5     5    5
+
+*Pain-limited due to hip arthritis.
+
+No weakness with repetitive movement at the deltoid.
+ 
+- Reflexes: 
+      [Bic] [Quad] [Gastroc]
+ L     1+     0        0      
+ R     1+     0        0      
+
+- Sensory: No deficits to light touch.
+
+- Coordination: No dysmetria with finger to nose testing
+bilaterally. 
+
+=======================
+DISCHARGE
+Unchanged from admission except vitals:
+T 98.4 BP 184 / 95 HR 80 RR 20 O2 94 Ra 
+ 
+Pertinent Results:
+PERTINENT LABS:
+==============
+___ 07:54PM BLOOD WBC-10.5* RBC-5.17 Hgb-15.4 Hct-46.7 
+MCV-90 MCH-29.8 MCHC-33.0 RDW-12.8 RDWSD-43.2 Plt ___
+___ 07:54PM BLOOD Glucose-304* UreaN-15 Creat-0.9 Na-139 
+K-4.5 Cl-101 HCO3-24 AnGap-14
+___ 07:54PM BLOOD ALT-29 AST-29 LD(LDH)-204 AlkPhos-65 
+TotBili-0.4
+___ 07:54PM BLOOD Calcium-9.9 Phos-3.3 Mg-1.7
+___ 07:54PM BLOOD %HbA1c-10.5* eAG-255*
+___ 07:54PM BLOOD TSH-5.8*
+___ 07:54PM BLOOD CRP-33.5*
+___ 05:25AM BLOOD WBC-9.9 RBC-4.70 Hgb-14.1 Hct-43.1 MCV-92 
+MCH-30.0 MCHC-32.7 RDW-12.9 RDWSD-43.0 Plt ___
+___ 05:25AM BLOOD Glucose-289* UreaN-16 Creat-1.0 Na-139 
+K-4.7 Cl-102 HCO3-28 AnGap-9*
+___ 05:25AM BLOOD Triglyc-267* HDL-43 CHOL/HD-3.6 
+LDLcalc-58
+___ 05:25AM BLOOD T4-7.0 Free T4-1.2
+
+IMAGING:
+========
+Non-Con CT Head ___: No acute intracranial process.
+
+Chest Xray ___: Mild enlargement of the cardiac silhouette 
+though likely accentuated by low lung volumes.
+
+MRI BRAIN/ORBITS ___:
+
+MRI BRAIN: There is no evidence of restricted diffusion to 
+suggest acute infarction. No evidence of acute intracranial 
+hemorrhage. Mild prominence of the ventricles and sulci is 
+suggestive of involutional changes. There is no mass effect or 
+midline shift. Additionally, there are prominent CSF spaces 
+along the bifrontal and biparietal cerebral convexities. 
+Moreover, a CSF space in the left frontal parafalcine region may 
+represent an arachnoid cyst (image 21 of series 15). There is a 
+small chronic infarct in the anterior limb of the right internal 
+capsule. Dilated perivascular spaces. There is no abnormal 
+enhancement after contrast administration. The major 
+intracranial arterial flow voids are preserved. The dural venous 
+sinuses are patent. Mild-to-moderate mucosal thickening of the 
+paranasal sinuses. Mastoid air cells are grossly clear.
+ 
+MRI ORBITS: The bony orbits and preseptal soft tissues are 
+normal. The globes are intact and normal in appearance. The 
+optic nerves and complex are normal, without edema or abnormal 
+enhancement. The extraocular muscles are uniform in size and 
+normal in signal. The lacrimal apparatus is normal. Retrobulbar 
+soft tissues are normal. 
+
+IMPRESSION: 
+1. No evidence of abnormal enhancement of the optic nerves and 
+complexes. 
+2. No evidence of acute infarction or intracranial hemorrhage. 
+3. Small chronic infarct in the right internal capsule anterior 
+limb. 
+4. Mild parenchymal volume loss. 
+5. Paranasal sinus disease. 
+
+ 
+Brief Hospital Course:
+___ year old male with type 2 DM, no medical care in ___ years, 
+who presents with ~10 days of double vision and inability to 
+abduct left eye. Also found to have BS > 300, hypertensive to 
+SBP 200.
+
+#CN VI Palsy
+No evidence of any other cranial nerve abnormalities to suggest 
+cavernous sinus pathology (III->V) or a larger brainstem 
+infarction. Overall, most likely diagnosis is idiopathic ___ 
+nerve palsy, which is often associated with poorly controlled 
+diabetes, consistent with this patient's presentation. MRI 
+negative for stroke, lesion or any other intracranial 
+abnormality. MRI orbits showed no evidence of nerve/muscle 
+inflammation. No signs/symptoms on exam to suggest myasthenia 
+___. 
+
+#Hypertension: 
+likely chronic. Started chlorthalidone 25 mg daily then 
+increased to 50mg daily. Will need further up-titration 
+outpatient.
+
+#Type 2 diabetes: 
+- HbA1c 10.5 on admission. ___ consulted who recommended 
+starting on 10U lantus. They will follow-up with him in one 
+week.
+
+#Elevated TSH
+- normal fT4, so most likely reactive (CRP also elevated)
+
+==========================
+Transitional Issues:
+-F/u with PCP for hypertension
+-___ with ___ for DM management
+-F/u with neuro-ophthalmology
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN (Glucophage) 500 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Chlorthalidone 50 mg PO DAILY 
+RX *chlorthalidone 50 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*3 
+2.  Glargine 10 Units Bedtime
+RX *blood sugar diagnostic ___ Aviva Plus test strp]   
+every morning when you wake up Disp #*30 Strip Refills:*0
+RX *insulin glargine [Lantus Solostar U-100 Insulin] 100 unit/mL 
+(3 mL) AS DIR 10 Units before BED; Disp #*30 Syringe Refills:*0
+RX *blood-glucose meter   use every morning Disp #*1 Kit 
+Refills:*0
+RX *lancets ___ Safe-T-Pro] 23 gauge  every morning Disp 
+#*1 Package Refills:*0 
+3.  MetFORMIN (Glucophage) 500 mg PO DAILY 
+Each week, increase your dose by 500mg until you get to 1000mg 
+twice a day 
+RX *metformin 500 mg 1 tablet(s) by mouth daily Disp #*60 Tablet 
+Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Sixth nerve palsy
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ from 
+___ until ___ because you were having difficulty 
+moving your left eye. While hospitalized, you were found to have 
+a condition called cranial nerve 6 palsy. Your blood pressure 
+and blood sugar were also found to be elevated. While in the 
+hospital, you had MRI of your brain that was normal. The blood 
+vessels that supply your brain and eyes look normal.
+
+After you leave the hospital, please follow up with a neuro 
+ophthalmologist in clinic. You should also follow up with your 
+PCP to ensure proper control of your diabetes and high blood 
+pressure. You also have an appointment scheduled with the ___ 
+Diabetes clinic.
+
+Thank you for allowing us to take part in your care. It was our 
+pleasure to care for you.
+
+Sincerely,
+
+___ Neurology
+ 
+Followup Instructions:
+___

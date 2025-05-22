@@ -1,0 +1,103 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+azithromycin
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+none 
+attach
+ 
+Pertinent Results:
+___ 02:02PM BLOOD WBC-22.9* RBC-3.89* Hgb-12.1 Hct-36.7 
+MCV-94 MCH-31.1 MCHC-33.0 RDW-12.9 RDWSD-44.4 Plt ___
+___ 05:40AM BLOOD WBC-8.3 RBC-3.21* Hgb-9.7* Hct-30.1* 
+MCV-94 MCH-30.2 MCHC-32.2 RDW-12.6 RDWSD-43.6 Plt ___
+___ 12:33PM BLOOD CRP-235.7*
+___ 05:40AM BLOOD CRP-131.1*
+___ 02:16PM BLOOD Lactate-1.1 K-3.6
+
+Shoulder xray no gas 
+ 
+Brief Hospital Course:
+___ yo F PMHx moderate intermittent asthma who is presenting from
+___ clinic with fevers, myalgias and pain/redness/swelling in L
+arm, found to have sepsis, suspected to be ___ cellulitis after
+recent outpatient vaccination
+
+ACUTE/ACTIVE PROBLEMS:
+# Sepsis ___ cellulitis
+
+Patient presented with sepsis with leukocytosis, fever. She had 
+erythema and tenderness of her left upper arm and shoulder. 
+This all occurred after she received vaccines in both her 
+shoulders. 
+
+She was initially started on vancomycin in the ED, but erythema 
+reportedly worsened. She was then broadened to ceftriaxone and 
+clindamycin. 
+Since then her WBC and physical exam have resolved. She still 
+has some mild erythema on her arm. 
+She had an xray of her shoulder that was done to look for gas 
+and was normal. 
+She did not have any palpable collections on exam, so US was 
+deferred. 
+
+She was discharged on clindamycin and cefpodoxime to complete a 
+7 day course. 
+
+Patient received several liters of NS in the ED. All of her cell 
+counts went down during hospital course. Her Hgb came down to 9 
+without signs of bleeding. She should follow up with her PCP to 
+recheck her CBC in ___ weeks. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing 
+2. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+
+ 
+Discharge Medications:
+1.  Cefpodoxime Proxetil 400 mg PO Q12H cellulitis  Duration: 6 
+Days 
+RX *cefpodoxime 200 mg 2 tablet(s) by mouth twice a day Disp 
+#*24 Tablet Refills:*0 
+2.  Clindamycin 300 mg PO Q6H cellulitis  Duration: 6 Days 
+RX *clindamycin HCl 300 mg 1 capsule(s) by mouth four times a 
+day Disp #*24 Capsule Refills:*0 
+3.  Albuterol Inhaler ___ PUFF IH Q4H:PRN wheezing  
+4.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+sepsis 
+cellulitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with sepsis secondary to cellulitis in your 
+left upper arm triggered by a vaccination. You were treated with 
+vancomycin, clindamycin and ceftriaxone here. Your vitals and 
+white blood cell count normalized and you were discharged on 
+clindamycin and cefpodoxime to complete a ___s 
+discussed, let your PCP know if you experience more than 3 loose 
+stools per day. 
+ 
+Followup Instructions:
+___

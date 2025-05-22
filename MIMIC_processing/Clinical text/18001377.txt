@@ -1,0 +1,255 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Headache and diplopia
+ 
+Major Surgical or Invasive Procedure:
+___: Cerebral angiogram for pipeline embolization of right 
+ICA aneurysm
+
+ 
+History of Present Illness:
+___ year old female transferred from ___ to ___ ED for 
+further management of right ICA aneurysm discovered on CTA done 
+at ___ for workup of ongoing headache and double vision.
+ 
+Past Medical History:
+Colonic adenoma 
+Diverticulosis 
+Dysthymia 
+Osteoporosis 
+right macular degeneration 
+ 
+Social History:
+___
+Family History:
+Father: ___ at age ___ CAD/PVD 
+Mother: ___ at age ___ Cancer 
+Paternal Grandfather:  Cancer 
+Sister:  COPD, Breast Cancer 
+Son:  Cancer
+ 
+Physical ___:
+ON ADMISSION:
+___
+=======================
+PHYSICAL EXAM:
+Temp: 98.3. Pulse: 70. RR: 16. BP: 147/98 O2 sat: 98.0 Room Air
+
+Gen: WD/WN, comfortable, NAD.
+
+HEENT: 
+Pupils:  PERRL        
+EOMs: Intact 
+
+Extrem: Warm and well-perfused.
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 2 to 1mm
+bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+Coordination: normal on finger-nose-finger
+
+ON DISCHARGE:
+============================
+Opens eyes: [X]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [X]Person [X]Place [X]Time
+
+Follows commands: [ ]Simple [X]Complex [ ]None
+
+Pupils:  Right: 4-2mm   Left: 4-2mm
+
+EOM: [X]Full [ ]Restricted dysconjugate gaze, L eye deviates
+inward
+
+Face Symmetric: [X]Yes [ ]NoTongue Midline: [X]Yes [ ]No
+
+Pronator Drift [ ]Yes [X]No     Speech Fluent: [X]Yes [ ]No
+
+Comprehension intact [X]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[X]Sensation intact to light touch
+
+Angio Groin Site: 
+[X]Soft, no hematoma, area of outlined staining on dressing
+unchanged. 
+[X]Palpable pulses
+
+ 
+Pertinent Results:
+Please see OMR for pertinent lab and imaging results. 
+ 
+Brief Hospital Course:
+Mrs. ___ presented to ___ as a transfer from ___ 
+due to complaints of 4 days of headaches and diplopia. While at 
+___ was negative however CTA revealed a right ICA 
+aneurysm for which she was transferred to ___ for further 
+neurosurgical intervention/management. 
+
+#Right ICA aneurysm
+Patient was transferred to ___ due to findings on CTA of a 
+right ICA aneurysm. Patient was brought to the angio suite on 
+___ for pipeline embolization of the right ICA. Please see OMR 
+for intra-operative details. Her right groin was perclosed and 
+she remained on bedrest for 2 hrs post-op. Patient was extubated 
+in the OR and brought to the PACU post-operatively for close 
+monitoring and anesthesia clearance. Once recovered from 
+anesthesia patient was transferred to the ___ for close 
+neurological monitoring. Her groin was mildly oozy and pressure 
+was held for 10 minutes with good effect. She continued with 
+diplopia and otherwise remained neurologically intact. Her foley 
+and A-line were d/c'd and she mobilized without difficulty. She 
+was tolerating a PO diet as well as aspirin and brilinta. 
+
+#Depression
+Patients home citalopram was decreased to 20mg daily as it 
+interacts with antiplatelet therapy and can increase risk of 
+bleeding. She was advised to ___ with her PCP.
+
+#UTI
+Patient's urinalysis was concerning for UTI. Patient reported 
+she has had UTIs previously. She was afebrile with normal WBC. 
+She was discharged home on a course of macrobid. 
+
+#Disposition
+Patient's insurance did not cover her Brilinta and her co-pay 
+was $347.00 a month. The pharmacy dispensed her first month with 
+a coupon and the patient was advised to ___ in the 
+___ clinic to discuss a trial of Plavix to see if she 
+is a responder. She was discharged home with instructions for 
+___. 
+
+ 
+Medications on Admission:
+Citalopram 30mg daily, OMEGA-3/DHA/EPA/FISH OIL otc, VITAMIN D-3 
+400units daily, CALCIUM CARBONATE 1000 MG daily, MULTIVITAMIN 
+daily
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild/Fever 
+Do not exceed 4GM acetaminophen in 24 hours.   
+2.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+3.  Nitrofurantoin Monohyd (MacroBID) 100 mg PO Q12H Duration: 5 
+Days 
+RX *nitrofurantoin monohyd/m-cryst 100 mg 1 capsule(s) by mouth 
+every twelve (12) hours Disp #*10 Capsule Refills:*0 
+4.  TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+5.  Citalopram 20 mg PO DAILY 
+Decreased to 20mg discussed with pt d/t increased bleeding risk 
+w ASA & Brilinta  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right Internal Carotid Aneurysm
+UTI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Pipeline Embolization 
+
+Activity
+You may gradually return to your normal activities, but we 
+recommend you take it easy for the next ___ hours to avoid 
+bleeding from your groin.
+Heavy lifting, running, climbing, or other strenuous exercise 
+should be avoided for ten (10) days. This is to prevent bleeding 
+from your groin.
+You make take leisurely walks and slowly increase your 
+activity at your own pace. ___ try to do too much all at once.
+Do not go swimming or submerge yourself in water for five (5) 
+days after your procedure.
+You make take a shower.
+
+Medications
+Resume your normal medications and begin new medications as 
+directed.
+You have been instructed by your doctor to take one ___ a 
+day and Brilinta. Do not take any other products that have 
+aspirin in them. If you are unsure of what products contain 
+Aspirin, as your pharmacist or call our office.
+You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+If you take Metformin (Glucophage) you may start it again 
+three (3) days after your procedure.
+
+Care of the Puncture Site
+You will have a small bandage over the site.
+Remove the bandage in 24 hours by soaking it with water and 
+gently peeling it off.
+Keep the site clean with soap and water and dry it carefully.
+You may use a band-aid if you wish.
+
+What You ___ Experience:
+Mild tenderness and bruising at the puncture site (groin).
+Soreness in your arms from the intravenous lines.
+Mild to moderate headaches that last several days to a few 
+weeks.
+Fatigue is very normal
+Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the puncture 
+site. 
+Fever greater than 101.5 degrees Fahrenheit
+Constipation
+Blood in your stool or urine
+Nausea and/or vomiting
+Extreme sleepiness and not being able to stay awake
+Severe headaches not relieved by pain relievers
+Seizures
+Any new problems with your vision or ability to speak
+Weakness or changes in sensation in your face, arms, or leg
+ 
+Followup Instructions:
+___

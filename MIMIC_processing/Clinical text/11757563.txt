@@ -1,0 +1,197 @@
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+___ liver biopsy ___
+attach
+ 
+Pertinent Results:
+___ 07:40PM   ALT(SGPT)-128* AST(SGOT)-271* LD(LDH)-183 ALK 
+PHOS-370* AMYLASE-119* TOT BILI-9.1*
+___ 07:40PM   LIPASE-149*
+___ 07:40PM   ALBUMIN-2.8*
+___ 07:40PM   WBC-5.0 RBC-4.24* HGB-12.4* HCT-36.7* MCV-87 
+MCH-29.2 MCHC-33.8 RDW-16.4* RDWSD-48.4*
+___ 04:40AM   HCV Ab-POS*
+___ 04:40AM   HBsAg-NEG HBs Ab-POS HBc Ab-POS* HAV Ab-POS* 
+IgM HBc-NEG IgM HAV-NEG
+
+Discharge labs:
+WBC 3.4, hgb 12.2, plt 292
+INR 1,1
+CD4 count 125 on ___
+creatinine 1.1, K 4.6
+
+ALT 81
+AST 168
+AP 378
+Tbili 2.7 (from peak of 9.1)
+
+HBsAg neg, HbsAb pos, HBcAb pos, HAV Ab pos (IgM neg), IgM HBc 
+neg; HCV Ab pos, 
+AMA, ___, anti-LMK neg neg
+IGs WNL
+ceruloplasmin WNL
+
+chlamydia, gonorrhea neg
+
+stool cultures ___: cyclospora, cryptosporidium, giardia neg
+
+MRCP ___:
+Enlargement of the pancreas.  Restricted diffusion in the liver 
+and pancreas.  
+Possibility of autoimmune pancreatitis/IgG4 disease should be 
+considered.  No 
+biliary dilatation, strictures, or filling defects.  Evidence 
+for sclerosing 
+cholangitis is generally lacking aside from mild wall thickening 
+of 
+extrahepatic biliary ducts.  Possible bone marrow abnormality. 
+
+Liver or gallbladder US ___:
+  
+1. Mild intrahepatic biliary duct dilation. 
+2. Contracted gallbladder with pericholecystic fluid.  No 
+evidence of 
+cholelithiasis or cholecystitis. 
+3. Borderline splenomegaly. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with HIV, recent treatment for 
+pancolitis attributed to shigella infection who now presents 
+with painless jaundice.  RUQUS without evidence of extrahepatic 
+biliary ductal dilatation; no clinical findings (fever, 
+abdominal pain) to suggest ascending cholangitis.
+
+ACUTE/ACTIVE PROBLEMS:
+# Painless jaundice
+# Prior shigella infection with co-existing transaminitis
+
+Review of outside hospital ___) notable for 
+transaminitis evident at time of prior admission for pancolitis. 
+ Though pancolitis eventually attributed to Shigella infection 
+(and resolved with ciprofloxacin), the etiology of his abnormal 
+LFTs remained uncertain and he was advised to monitor for 
+worsening jaundice.  He presented to ___ after his 
+friends noticed such jaundice, in absence of any pain, fever, 
+nausea/vomiting, or recurrent diarrheal syndrome.  MRCP without 
+evidence of ductal dilatation, stricture, or filling defects, 
+but notable for enlarged pancreas.  Hepatology consult 
+recommended ___ liver biopsy for tissue diagnosis, which 
+was performed on ___ without apparent complication. Laboratory 
+workup for liver abnormalities was notable only for evidence of 
+prior (cleared) hep B infection, and a positive HCV Ab
+
+CHRONIC/STABLE PROBLEMS:
+# HIV
+# Prior history of syphilis
+# Prior history of cryptosporidium infection
+# Prior history of zoster infection
+# Prior history of genital HSV infection
+# ___'s sarcoma
+
+Patient was continued on outpatient regimen of 
+Bictegrav-Emtricit-Tenofov.  Once his ciprofloxacin dose was 
+completed, he was resumed on Bactrim for PJP prophylaxis per ID 
+recs.  He was also continued on acyclovir (therapeutic 
+substitution for valacyclovir, which he takes at home) for 
+genital HSV suppression.  ID consult recommended follow-up with 
+Oncology regarding ongoing evaluation of his Kaposi's sarcoma.
+########################
+>30 minutes spent on discharge planning and care coordination on 
+the day of discharge
+########################
+TRANSITIONAL ISSUES:
+[ ] please encourage pt to go to his hepatology follow up on 
+___ for follow up of liver biopsy results
+[ ] pt will need hep C viral load, and possible treatment 
+thereof
+[ ] pt should see oncology in the outpatient setting for further 
+management of his Kaposi sarcoma
+[ ] f/u IgG sbuclasses
+
+ 
+ 
+ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ValACYclovir 500 mg PO Q24H 
+2. Tamsulosin 0.4 mg PO QHS 
+3. Ciprofloxacin HCl 500 mg PO Q12H 
+4. Bictegrav-Emtricit-Tenofov Ala 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Nicotine Patch 14 mg/day TD DAILY 
+RX *nicotine [Nicoderm CQ] 14 mg/24 hour 1 patch once a day Disp 
+#*30 Patch Refills:*0 
+2.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+RX *sulfamethoxazole-trimethoprim [Bactrim] 400 mg-80 mg 1 
+tablet(s) by mouth once a day Disp #*30 Tablet Refills:*0 
+3.  Bictegrav-Emtricit-Tenofov Ala 1 TAB PO DAILY  
+4.  Tamsulosin 0.4 mg PO QHS  
+5.  ValACYclovir 500 mg PO Q24H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+jaundice
+hepatitis C
+HIV
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+DISCHARGE EXAM:
+GENERAL: Alert and in no apparent distress
+HEENT: Still with mild scleral icterus and mild icterus 
+underneath tongue
+COR: RRR, no m/r/g
+LUNGS: CTAB w/o c/r/w
+GI: Abdomen soft, non-distended, non-tender to palpation.  
+EXTREM: no ___ edema
+SKIN: KS lesions L lower leg stable w/o fluctuance
+NEURO: Alert, interactive, detailed and fluent historian.  No
+asterixis.
+PSYCH: Calm, pleasant, appropriate affect
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because of jaundice. You were 
+evaluated by the liver doctors (___). You had a workup 
+that showed that you have hepatitis C, and that you had a prior 
+hepatitis B infection. You had a liver biopsy on ___, the 
+results of which we do not yet have.
+Your liver tests were improving by the day of discharge.
+
+You were set up with an appointment with a hepatologist to 
+follow up on the liver biopsy on ___. It is VERY 
+important that you go to this appointment even though it is far.
+
+Please continue to take Bactrim once a day for prophylaxis. 
+
+It was a pleasure taking care of you!
+
+Your ___ Care team
+ 
+Followup Instructions:
+___

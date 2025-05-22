@@ -1,0 +1,233 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+CC: abdominal pain/fever
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+ Mr. ___ is a ___ male with pmhx of ___ and ___
+who presented to the ___ ED on ___ with 1 day of intermittent
+right upper quadrant pain.
+
+He reports that starting ___ morning, noticed pain that was 
+in
+a band from his right upper to left upper quadrants of his
+abdomen. No radiation elsewhere. Associated with some nausea, 
+but
+not vomiting. Always has some loose stools from ___, but no 
+change
+in bowel habits recently. Improved during the day, then happened
+again overnight ___ night. Also noted a fever to 100.2
+Called and spoke to office of Dr. ___, referred in to ED for
+concern for obstruction.
+
+ED course: Initial VS T 97.7 (Tmax 99.5 at 12:22pm on ___ HR 86
+BP 121/74 RR 20 sat 98% on room air. ERCP team consulted,
+recommended MRCP which did show intra- and extra-hepatic biliary
+dilatation without stones/obstruction. Also had RUQUs.
+Recommending admission to medicine for IV antibiotics and
+hydration, and they will follow. No plan for ERCP procedure at
+this time. Received IV Zosyn and IV fluids. Also received home
+mesalamine and ursodiol.
+
+Patient is very active, currently feeling quite well and is
+itching to get up and move (bike or run). Denying any pain at 
+the
+time of our interview. 
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+Ulcerative colitis
+PSC
+ 
+Social History:
+___
+Family History:
+Patient denies any family
+history of liver problems, UC, PSC, Crohn's. Several 
+grandparents
+died of "heart attacks" but were elderly at the time.
+ 
+Physical Exam:
+VITALS: T 97.9 BP 124/79 HR 99 RR 8 Sat 95% on room air
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+Exam on discharge
+BP: 120 / 81 HR:68 R:18O2:96ra
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel 
+sounds present.  No HSM
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+___ 11:30AM BLOOD WBC-11.2* RBC-4.63 Hgb-13.8 Hct-42.3 
+MCV-91 MCH-29.8 MCHC-32.6 RDW-14.2 RDWSD-47.4* Plt ___
+
+___ 11:30AM BLOOD ALT-218* AST-141* AlkPhos-794* 
+TotBili-4.6* DirBili-3.8* IndBili-0.8
+___ 11:30AM BLOOD Albumin-4.2 Calcium-10.0 Phos-3.6 Mg-1.8
+
+Labs on discharge:
+
+___ 05:45AM BLOOD ALT-274* AST-167* AlkPhos-798* 
+TotBili-3.1*
+___ 05:45AM BLOOD WBC-6.2 RBC-4.24* Hgb-12.8* Hct-39.4* 
+MCV-93 MCH-30.2 MCHC-32.5 RDW-14.5 RDWSD-49.3* Plt ___
+
+___ RUQUS:
+1. No evidence of acute cholecystitis or significant biliary
+ductal dilatation.  Apparent intraluminal echogenicity within 
+the
+non-dilated common bile duct may be due to sludge which is
+otherwise not seen within the gallbladder. 
+2. Coarsened hepatic echotexture, similar to prior, without 
+focal
+liver lesion. No ascites. 
+
+___ MRCP
+Worsening extrahepatic biliary stricturing, otherwise unchanged
+findings including extensive severe central strictures involving
+essentially all of the sectoral and proximal segmental
+intrahepatic biliary ducts.  No definite specific evidence for
+active infection although some of the sequences are 
+limited. No evidence of abscess. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with history of UC and PSC 
+who presents for abdominal pain and
+elevated temperature, with imaging findings of worsening biliary 
+dilatation and labs consistent with increased cholestasis. 
+Concerning for possible infection (cholangitis) but no 
+obstruction seen, also overall concerning for progression of PSC 
+or new intra-hepatic process.
+
+#Borderline fever:
+#Abdominal pain:
+#Cholestasis:
+#History of PSC/UC:
+Patient has known history of UC with PSC, treated with 
+mesalamine. Now has abdominal pain, subjective fever (w/ 
+objective temporal temperature of 100.2 at home). MRCP with 
+increased biliary dilation, and labs w/ increased bilirubin 
+concerning for cholestasis. Referred in for possible ERCP given 
+concern for obstruction, however no stones/obstruction seen on 
+MRCP.  It is also possible that this presentation represents 
+progression of disease. The patient was initially on Zosyn which 
+was transitioned to IV Ceftraixone/PO Flagyl. He was seen by 
+hepatology and the advanced endoscopy team and LFTs were trended 
+and remained stable. The patient was discharged home on oral 
+antibiotics (Cipro/Flagyl) to complete a 10 day course. He will 
+have labs next week and follow up with his hepatologist Dr. 
+___ 2 weeks of discharge. The patient was counseled on 
+warning signs  such has fever, abdominal pain and jaundice that 
+would prompt him to call hepatology or return to the hospital. 
+
+#Vitamin D deficiency:
+-continued home supplementation
+
+Transitional issues:
+- Patient discharged on Cipro/Flagyl for a 10 day course
+- He will follow with hepatology and have repeat labs as an 
+outpatient
+
+Patient seen and examined on day of discharge. >30 minutes on 
+discharge activities. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Asacol HD (mesalamine) 2.4 gram oral DAILY 
+2. Ursodiol 500 mg PO BID 
+3. Vitamin D 400 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth Q12hours Disp 
+#*16 Tablet Refills:*0 
+2.  MetroNIDAZOLE 500 mg PO TID 
+RX *metronidazole 500 mg 1 tablet(s) by mouth Q8hours Disp #*24 
+Tablet Refills:*0 
+3.  Asacol HD (mesalamine) 2.4 gram oral DAILY  
+4.  Ursodiol 500 mg PO BID  
+5.  Vitamin D 400 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cholangitis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure taking care of you during your admission to 
+___. You were admitted with abdominal pain and found to have 
+elevated liver function tests. You had an MRCP which showed 
+dilation of your bile ducts but no clear area that could be 
+stented. You were seen by the advanced endoscopy team and by the 
+hepatology team who recommended treatment with antibiotics and 
+outpatient follow up. 
+
+Please call ___ in Dr. ___ and schedule an 
+appointment to be seen in the next 2 weeks.  Please have lab 
+testing next week with results sent to Dr. ___.
+
+If you develop fever, increased abdominal pain, yellowing of 
+your eyes or dark urine, please call your liver doctor.
+
+We wish you the best,
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

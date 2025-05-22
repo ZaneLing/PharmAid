@@ -1,0 +1,191 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+pain killers / lidocaine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+: ___ with hx of HTN on enalapril who is presenting after being 
+found down
+outside of his apartment complex. He was found by apartment 
+staff on the
+ground outside of his apartment complex, unknown downtime, with 
+head
+laceration and confusion. He was next to his vehicle that was 
+perfectly parked
+in a parking spot but had obvious front end damage. He was 
+alert, but confused
+and had no recollection of the event. He was endorsing some pain 
+with
+inspiration and pain in his head, otherwise was able to move all 
+extremities and
+not endorsing other symptoms including fevers, chills, cough, 
+URI symptoms,
+vomiting or diarrhea. He did also endorse nausea on arrival
+ 
+Past Medical History:
+PMH: HTN
+
+PSH: cataract surgery
+
+ 
+Social History:
+SH: occ etoh only, denies other drug usage 
+ 
+Physical Exam:
+Admission:
+
+Constitutional: Comfortable
+HEENT: occipital abrasion
+Chest: Clear to auscultation, bilateral breath sounds, no 
+crepitus, pain on palpation R chest
+Cardiovascular: Regular Rate and Rhythm
+Abdominal: Soft, Nontender, Nondistended
+Extr/Back: No cyanosis, clubbing or edema
+Neuro: awake, alert, confused, GCS 14, non focal exam
+
+Discharge
+
+Constitutional: Comfortable
+HEENT: occipital abrasion with dressing c/d/i
+Chest: CTAB
+Cardiovascular: Regular Rate and Rhythm
+Abdominal: Soft, Nontender, Nondistended
+Extr/Back: No cyanosis, clubbing or edema
+Neuro: grossly normal
+ 
+Pertinent Results:
+Admission
+========
+
+___ 09:11AM BLOOD WBC-7.4 RBC-4.72 Hgb-14.5 Hct-43.3 MCV-92 
+MCH-30.7 MCHC-33.5 RDW-13.4 RDWSD-45.6 Plt ___
+___ 09:11AM BLOOD Neuts-55.7 ___ Monos-8.7 Eos-5.0 
+Baso-0.7 Im ___ AbsNeut-4.11 AbsLymp-2.10 AbsMono-0.64 
+AbsEos-0.37 AbsBaso-0.05
+___ 09:11AM BLOOD ___ PTT-25.9 ___
+___ 09:11AM BLOOD Glucose-112* UreaN-15 Creat-0.8 Na-138 
+K-4.6 Cl-100 HCO3-28 AnGap-10
+___ 09:11AM BLOOD ALT-29 AST-39 LD(LDH)-305* AlkPhos-46 
+TotBili-0.5
+___ 09:11AM BLOOD Lipase-42
+___ 09:11AM BLOOD cTropnT-<0.01
+___ 09:11AM BLOOD Albumin-4.2 Phos-3.0 Mg-2.2
+___ 09:11AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 09:17AM BLOOD ___ pO2-36* pCO2-50* pH-7.38 
+calTCO2-31* Base XS-2 Intubat-NOT INTUBA
+___ 09:17AM BLOOD Glucose-117* Lactate-1.8 Na-139 K-4.1 
+Cl-97 calHCO3-29
+___ 09:17AM BLOOD freeCa-1.21
+
+Imaging
+======
+
+___ CT HEAD W/O CONTRAST
+1. No Acute large territorial infarction or intracranial 
+hemorrhage.
+2. A 1.4 cm posterior fossa extra-axial mass with peripheral 
+calcifications,
+likely a meningioma.
+
+___ CT C-SPINE W/O CONTRAST
+1.  No acute fracture traumatic malalignment.
+2.  Small apical right pneumothorax.
+3.  7 mm right upper lobe nodule, may be related to underlying 
+scarring,
+however recommend follow up chest CT per the ___ criteria 
+(see below)
+or comparison to prior imaging if available.
+ 
+
+___ #3 (PORT CHEST)
+The lungs are clear.  There is no consolidation.  No obvious 
+effusion or
+pneumothorax on this supine film.  The cardiomediastinal 
+silhouette is within
+normal limits.  No displaced fractures.
+
+___ SERIES COMPLETE
+Bilateral less than 40% carotid stenosis.
+
+___ Report
+Good image quality. Mild symmetric left ventricular hypertrophy 
+with normal cavity
+sizes and regional/global biventricular systolic function. Mild 
+aortic stenosis.
+
+ 
+Brief Hospital Course:
+___ year old man with past medical history notable for 
+hypertension who presented after a fall outside car. He was 
+found to have a small right apical pneumothorax and a posterior 
+head abrasion his repeat CXR was notable for stability of small 
+pneumothorax. He underwent a syncopal evaluation. His 
+echocardiography showed a normal cardiac function. The final 
+reading of the carotid series is still pending at the moment of 
+discharge and results will be follow up with his PCP. Patient 
+was seen by ___ who did not identify acute needs. Patient was 
+discharge home.
+
+Transitional Issues:
+-Please consider further syncope workup
+-Imaging of his brain was notable for a 1.4 cm posterior fossa 
+mass with peripheral calcifications, likely a meningioma, for 
+which he will have outpatient follow-up. 
+ 
+Medications on Admission:
+___: enalapril 5mg qd
+ 
+Discharge Medications:
+1.  Enalapril Maleate 5 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Posterior head abrasion
+-Small right apical pneumothorax
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to the hospital after you were found on the 
+ground next to a car. In the hospital, we found that you had a 
+posterior head abrasion and small accumulation of air in your 
+lungs. Neither of these injuries required surgical management. 
+While you were in the hospital we did an imaging of your heart 
+and the arteries of your neck to rule the cause of your loss of 
+consciousness. These studies were both normal. You need to 
+follow up with you primary care doctor to decide if further 
+studies are necessary. Please avoid to drive until you are 
+cleared by your primary care doctor. 
+
+Please call your doctor or return to the ED if you have any 
+symptoms that concern you such as headache, loss of 
+consciousness, shortness of breath, chest pain or any symptoms 
+that concern you.
+
+Your ___ team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,284 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr ___ is a ___ retired surgeon with PMHx of CAD c/b
+MI ___ s/p PCI on DAPT, HTN, hypothyroidism, urolithiasis who
+presents after episode of syncope
+
+Patient reports that he was working in the garden outside when 
+he
+started to feel lightheaded and dizzy. He reports this is
+relatively common for him while working outdoors in the ___
+time. He usually rests with relief of symptoms. However, this
+time as he was climbing over fence he felt more lightheadedness
+and lost consciousness with head strike. Episode was not
+witnessed. EMS was called by bystander who found him. In
+ambulance pt was reportedly awake but unable to recall events as
+he was given versed out of cf seizure activity. He remembers
+waking up in the ED, likely when versed wore off. 
+
+In the ED: afebrile, HR 88, BP 138/74, RA 96% on RA in trauma
+room
+Labs: wbc 7.2, hgb 14.5, trop neg. Gluc 114, Cr 1.5 (bl 1.3),
+bicarb 18 and lactic acid 6.8 -> 1.6 after 1L LR. UTox +benzo
+(from EMS)
+CTH neg for bleed and CT c spine with degenerative disease, no
+fracture
+CXR without PNA, e/o old rib fractures 
+Neuro consulted for ?seizure: felt more c/w syncope and less 
+with
+seizure even in setting of elev lactic acid. Recommended follow
+up in neuro urgent care clinic
+
+Patient reports similar episode ~ ___ y ago for which he was
+admitted to ___ for syncopal episode after
+working outdoors in ___. He reports having CTH, MRI of
+brain, EEG, and stress test at that time that were all negative. 
+
+
+Pt reports walking around in the ED without any
+lightheadedness/dizziness since the incident. He also denies any
+other presyncopal symptoms of CP, SOB, palpitations, n/v,
+diaphoresis. Denies recent f/c, dysuria, diarrhea or poor PO
+intake. 
+
+ 
+Past Medical History:
+CAD status post stents, on aspirin and Plavix
+Mild CKD [baseline creatinine 1.2
+Hyperlipidemia
+Gout
+
+ 
+Social History:
+___
+Family History:
+Negative for sudden cardiac death , negative for
+seizures, +glioblastoma in maternal uncle
+
+ 
+Physical ___:
+PHYSICAL EXAM ON ADMISSION:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: alert, awake, NAD. 
+EYES: Anicteric, PERRL
+ENT: Bruise on L forehead. Ears and nose without visible
+erythema, masses, or trauma.  MMM
+CV: RRR, no m/r/g.  No JVD.
+RESP: no increased wob, lungs clear to auscultation in all 
+fields
+GI: +BS, abd soft, ND. no tenderness to palpation 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+PHYSICAL EXAM ON DISCHARGE:
+VITALS: Orthostatics negative
+GENERAL: alert, awake, NAD. 
+EYES: Anicteric, PERRL
+ENT: Bruise on L forehead. Ears and nose without visible
+erythema, masses, or trauma.  MMM
+CV: RRR, no m/r/g.  No JVD. No carotid bruit.
+RESP: no increased wob, lungs clear to auscultation in all 
+fields
+GI: +BS, abd soft, ND. no tenderness to palpation 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Pleasant, appropriate affect, no SI or HI
+
+ 
+Pertinent Results:
+LAB RESULTS ON ADMISSION:
+=========================
+___ 09:40AM BLOOD WBC-7.2 RBC-4.48* Hgb-14.5 Hct-43.4 
+MCV-97 MCH-32.4* MCHC-33.4 RDW-13.3 RDWSD-47.5* Plt ___
+___ 09:40AM BLOOD Glucose-114* UreaN-27* Creat-1.5* Na-141 
+K-3.9 Cl-108 HCO3-18* AnGap-15
+___ 09:40AM BLOOD CK(CPK)-208
+___ 09:40AM BLOOD cTropnT-<0.01
+___ 09:31PM BLOOD cTropnT-<0.01
+___ 07:00AM BLOOD Mg-2.0
+___ 09:40AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 09:53AM BLOOD ___ pO2-140* pCO2-36 pH-7.31* 
+calTCO2-19* Base XS--7
+___ 09:53AM BLOOD Lactate-6.8*
+
+LAB RESULTS ON DISCHARGE:
+=========================
+___ 07:00AM BLOOD WBC-6.9 RBC-4.39* Hgb-14.3 Hct-42.8 
+MCV-98 MCH-32.6* MCHC-33.4 RDW-13.2 RDWSD-47.4* Plt ___
+___ 07:00AM BLOOD Glucose-102* UreaN-24* Creat-1.2 Na-144 
+K-4.2 Cl-111* HCO3-23 AnGap-10
+___ 07:00AM BLOOD Glucose-102* UreaN-24* Creat-1.2 Na-144 
+K-4.2 Cl-111* HCO3-23 AnGap-10
+___ 09:31PM BLOOD cTropnT-<0.01
+___ 12:13PM BLOOD Lactate-1.6
+
+IMAGING:
+========
+CT HEAD WITHOUT CONTRAST ___:
+1. Mildly motion limited exam without evidence for acute 
+intracranial 
+abnormalities or calvarial fracture. 
+2. Extensive supratentorial white matter hypodensities are 
+nonspecific but 
+likely sequela of chronic small vessel ischemic disease, given 
+the patient's age and known cardiovascular disease. 
+
+CT C-SPINE WITHOUT CONTRAST ___:
+1. No evidence for a fracture.  No subluxation. 
+2. Multilevel degenerative disease.  Spinal canal stenosis 
+appears moderate on the right at C6-C7, and mild at several 
+other levels. 
+
+CXR ___:
+1. No acute cardiopulmonary process. 
+2. No acute fracture or dislocation in the pelvis. 
+3. Remote right posterior rib fractures and status post ORIF of 
+a right 
+midclavicular fracture. 
+ 
+
+ 
+Brief Hospital Course:
+Dr. ___ is a ___ year old retired ___ with history of 
+inferior STEMI s/p ___ ___ and syncope (with negative work 
+up in past) who presents with syncope.
+
+# Syncope
+Patient presented with syncope with prodromal 
+lightheadedness/dizziness while moving rocks in yard, no 
+associated chest pain, palpitations, shortness of breath. 
+Reports prior history of syncope with extensive work up at ___ 
+including EEG, MRI head, stress head, all of which were negative 
+(not available for review). 
+
+Lactic acid elevated to 6.8 on arrival, quickly resolving to 1.6 
+with 1L fluids. He was seen by neurology, who had low suspicion 
+for seizure history. CTH and CT C-spine only notable for small 
+vessel ischemic disease. EKG with old inferior MI, no acute 
+ischemic changes, troponin negative x 2. Orthostatics were 
+negative, although this was performed after receiving IVF. 
+Overall, could be consistent with vasovagal cause (although 
+elevated lactic acid not c/w this) or orthostasis/dehydration 
+given mild ___ and repetitive activity of bending/lifting. 
+
+Given cardiac history, we had planned for further work up with 
+TTE and consideration of event monitor, however Dr. ___ 
+___ prefers for this to be done with his cardiologist at 
+___. Reviewed prior TTE from ___, at that time with normal 
+left ventricular size with mildly impaired systolic function, 
+ejection fraction 50% with inferior hypokinesis; minimally 
+thickened aortic valve; mild mitral regurgitation. Note that 
+while patient is beta-blocked, he was able to augment HR while 
+ambulating. 
+
+At time of discharge, he was ambulating independently without 
+difficulties. He will follow up with his outpatient cardiologist 
+as well as neuro urgent care clinic. 
+
+# ___: On admission, Cr elevated to 1.5 from baseline 1.0-1.2, 
+resolved with IVF to 1.2 on discharge.
+
+CHRONIC/STABLE PROBLEMS:
+# Urolithiasis: Continue home allopurinol ___
+- CAD c/b MI s/p PCI: Continue DAPT (although DES in ___, per 
+outpatient cardiology note plan to continue indefinitely), 
+statin, metop 50 daily
+- Hypothyroidism: c/h Synthroid ___ 
+
+TRANSITIONAL ISSUES:
+[] Follow up with outpatient cardiology; consider TTE +/- event 
+monitor
+[] Follow up with neurology urgent care clinic
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Clopidogrel 75 mg PO DAILY 
+3. Metoprolol Succinate XL 50 mg PO DAILY 
+4. Atorvastatin 40 mg PO QPM 
+5. Allopurinol ___ mg PO DAILY 
+6. Levothyroxine Sodium 125 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Allopurinol ___ mg PO DAILY  
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 40 mg PO QPM  
+4.  Clopidogrel 75 mg PO DAILY  
+5.  Levothyroxine Sodium 125 mcg PO DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Syncope
+Acute kidney injury, pre-renal
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Dr. ___,
+
+___ was a pleasure taking care of you at ___!
+
+You came to us after syncopal episode after moving rocks in your 
+yard. While you were here you were evaluated by our neurology 
+team, who had low concern for new onset seizures. Telemetry did 
+not reveal any arrhythmias, and blood work was only notable for 
+mild kidney injury, which resolved with fluids. Given your 
+history of cardiac disease, and episodes of pre-syncope we had 
+planned for further work up with echocardiogram and 
+consideration of event monitor, however, you preferred to have 
+this done at ___ with your cardiologist.
+
+Please continue to take your medications as prescribed, and 
+follow up with your cardiologist and the neurology team.
+
+Please take care, we wish you the very best!
+
+Sincerely,
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,296 @@
+Name:  ___                        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms ___ is a ___ year old woman with SLE (currently on no
+medications for SLE) who presents with shortness of breath after
+plane flight from ___ on ___. 
+
+Her dyspnea on exertion started acutely after she deplaned in
+___. She was pulling her suitcase and suddenly felt so
+dyspneic and fatigued that she had to have her friend help her
+with her luggage. She has an iWatch and said she was watching 
+her
+heart rates alternate between the ___ and 140s. She said they
+were generally elevated to the 110s on the flight from ___ 
+to
+___. She went home on ___, and on ___ she continued to feel
+short of breath even with walking her dog. 
+
+She presented to urgent care clinic on ___ with dyspnea on
+exertion. and was found to have elevated d-dimer. She was
+referred to the ED and CTA revealed segmental pulmonary emboli
+affecting all lobes of the lung. She received Lovenox 60mg
+subcutaneously at the urgent care at 8 pm. 
+
+To clarify her SLE history: 
+She was initially diagnosed "years ago" after returning from a
+ski trip with malar rash and chest pain. She sees a
+rheumatologist at ___ (Dr ___. She has had off and on chest
+pain for years, which she says no one could explain. She has
+previously on Plaquenil, Imuran, and Cytoxan. 
+
+She experienced chest pain and some dyspnea on exertion in 
+___.
+She reports having labs done at her rheumatologist's office and
+she says her rheumatologist said her SLE was not active at that
+time. They had debated whether or not she would restart 
+treatment
+for SLE and decided against it. She had TTE in ___ at ___ which
+revealed "leaky valve" and is scheduled to see a cardiologist in
+___. 
+
+She says she also did 23 and Me and she reports that this told
+her she may have a propensity for blood clots, but she didn't
+remember what it was. 
+
+- In the ED, initial vitals were:
+T 97.9 HR 84 BP 112/82 RR 18 100% RA
+
+- Labs were notable for:
+Trop-T: <0.01 
+D-Dimer: 59___
+
+- Studies were notable for:
+CTA Chest
+Segmental pulmonary emboli affecting all lobes of the lung. No
+secondary right heart strain or evidence of pulmonary infarct.
+A 4 mm right lower lobe pulmonary nodule. Optional one year
+followup chest CT can be performed in a patient with risk
+factors.
+
+- The patient was given: Lovenox 60mg sq at 20:20
+
+ 
+Past Medical History:
+Systemic Lupus Erythematosus
+History of lupus cerebritis
+GERD
+Endometriosis
+Bilateral salpingo-oophorectomy
+Cholecystectomy
+Hernia repair as an infant
+ 
+Social History:
+___
+Family History:
+Mother with blood clot
+Mother with AML, breast cancer
+Father with pancreatitis, DM, stroke
+Sister with ___ esophagus
+Sister and brother with HLD
+ 
+Physical Exam:
+ADMISSION EXAM:
+=================
+VITALS: ___ 2308 Temp: 97.4 PO BP: 121/72 L Lying HR: 82 
+RR:
+18 O2 sat: 99% O2 delivery: Ra 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: 24 HR Data (last updated ___ @ 1505)
+    Temp: 98.1 (Tm 98.8), BP: 104/69 (96-115/58-80), HR: 73
+(64-82), RR: 18 (___), O2 sat: 99% (96-100), O2 delivery: RA  
+GENERAL: Alert and interactive. In no acute distress.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. No calf 
+tenderness.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 06:00PM BLOOD WBC-6.2 RBC-4.03 Hgb-13.2 Hct-38.6 MCV-96 
+MCH-32.8* MCHC-34.2 RDW-13.0 RDWSD-45.6 Plt ___
+___ 06:00PM BLOOD Neuts-58.5 ___ Monos-6.1 Eos-2.4 
+Baso-0.5 Im ___ AbsNeut-3.62 AbsLymp-2.00 AbsMono-0.38 
+AbsEos-0.15 AbsBaso-0.03
+___ 06:00PM BLOOD Glucose-100 UreaN-12 Creat-0.9 Na-141 
+K-4.3 Cl-106 HCO3-27 AnGap-8*
+___ 11:50PM BLOOD Calcium-8.9 Phos-3.5 Mg-2.2
+___ 11:50PM BLOOD C3-117 C4-30
+
+DISCHARGE LABS:
+===============
+___ 11:50PM BLOOD WBC-5.8 RBC-3.88* Hgb-12.4 Hct-36.7 
+MCV-95 MCH-32.0 MCHC-33.8 RDW-13.2 RDWSD-45.2 Plt ___
+___ 11:50PM BLOOD Glucose-112* UreaN-11 Creat-0.9 Na-143 
+K-4.0 Cl-105 HCO3-25 AnGap-13
+___ 11:50PM BLOOD C3-117 C4-30
+
+IMAGING:
+=========
+CTA CHEST ___:
+1. Segmental pulmonary emboli affecting all lobes of the lung. 
+No secondary 
+right heart strain or evidence of pulmonary infarct. 
+2. A 4 mm right lower lobe pulmonary nodule. 
+  
+RECOMMENDATION(S):  For incidentally detected single solid 
+pulmonary nodule smaller than 6 mm, no CT follow-up is 
+recommended in a low-risk patient, and an optional CT in 12 
+months is recommended in a high-risk patient. 
+
+BILATERAL ___ US ___:
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+  
+
+ 
+Brief Hospital Course:
+___ with history of SLE and was taking vaginal estradiol who 
+presents with segmental PEs after flight from ___. 
+
+ACUTE/ACTIVE ISSUES:
+====================
+# Bilateral pulmonary emboli
+Provoked PE in the setting of flight from ___, likely some 
+baseline midly hypercoagulable state from SLE (although does not 
+appear to be active at this time) and was taking Yuvafem 
+(vaginal estradiol). S/p Lovenox 60 mg sc at 8 pm on ___, 
+then initiated on Apixaban 10mg BID x 7 days then 5mg BID. 
+Hemodynamically stable and comfortable on room air, troponins 
+and BNP are normal. She does have a family history of blood 
+clots in her mother, and may have a genetic propensity for clots 
+based on her 23 and me test. She has been taking vaginal 
+estrogen as well. She will need at least 3 months of 
+anticoagulation, and given possible baseline hypercoagulability, 
+suspect she will need longer term AC. ___, Anti-DsDNA, 
+Anti-Cardiolipin Ab pending at time of discharge. Plan for 
+outpatient hematology referral for hypercoagulable work up. Can 
+follow up with PCP to ensure she is up to date on cancer 
+screening.
+
+# SLE: 
+Not on current therapy as discussed above. A lupus anticoagulant 
+may predispose to VTE; unclear if she has had this tested before 
+if she has not had VTE before. Active SLE and a generalized 
+inflammatory state could contribute as well, although complement 
+within normal limits. Patient can follow up with outpatient 
+Rheumatologist, Dr. ___.
+
+CHRONIC/STABLE ISSUES:
+======================
+# OSA: not on home CPAP. Offered here, was seen by respiratory, 
+pt declined
+
+# Chronic nasal congestion: Continue intranasal steroids
+
+# GERD: no longer taking omeprazole. 
+
+TRANSITIONAL ISSUES:
+=======================
+- Initiated on Apixaban 10mg BID x 7 days then 5mg BID. Duration 
+of anticoagulation to be determined in the outpatient setting. 
+- Plan for outpatient hematology referral for hypercoagulable 
+work up. 
+- ___, Anti-DsDNA, Anti-Cardiolipin pending at time of 
+discharge.
+- Can follow up with PCP to ensure she is up to date on cancer 
+screening.
+- Stop Yuvafem as concern this may have provoked PE
+- Patient can follow up with outpatient Rheumatologist, Dr. 
+___.
+- Can consider CPAP initiation if patient has OSA.
+- Incidental finding of 4 mm right lower lobe pulmonary nodule. 
+Per Radiology: For incidentally detected single solid pulmonary 
+nodule smaller than 6 mm, no CT follow-up is recommended in a 
+low-risk patient, and an optional CT in 12 months is recommended 
+in a high-risk patient. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Yuvafem (estradiol) 10 mcg vaginal DAILY 
+2. Vitamin B Complex 1 CAP PO DAILY 
+3. Vitamin D 1000 UNIT PO DAILY 
+4. Mometasone Nasal Spray  (*NF*) 1 mg Other DAILY 
+5. Co Q-10 (coenzyme Q10) 0 unknown oral DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID 
+Take the 10mg twice daily thru ___, then 5mg twice daily, as 
+outlined in the starter pack.  
+2.  Co Q-10 (coenzyme Q10) 10 unknown oral DAILY  
+3.  Mometasone Nasal Spray  (*NF*) 1 mg Other DAILY  
+4.  Vitamin B Complex 1 CAP PO DAILY  
+5.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: Bilateral segmental PEs
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___.
+
+Why you were here?
+-You came to the hospital because you were having difficulty 
+breathing.
+
+What we did while you were here?
+- We found that you have blood clots in your lungs called 
+Pulmonary Embolisms. 
+- We started you on a new medication called Eliquis to treat 
+your blood clots.
+
+What you should do when you go home?
+- Please take your Eliquis as prescribed.
+- Please follow up with your PCP, ___ and 
+Hematologist.
+
+Your ___ Team
+ 
+Followup Instructions:
+___

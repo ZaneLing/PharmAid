@@ -1,0 +1,328 @@
+Name:  ___              ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+cardiac catheterization (___)
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o man with a PMH of hypertension, who 
+presented to ___ with hypertensive urgency and chest 
+tightness last night, and was found to have NSTEMI with troponin 
+of 3.24. According to the patient he was having some chest 
+tightness at home which was mild. He subsequently went 
+downstairs to open the door and when he came upstairs his chest 
+tightness appears to worsen. He initially thought this could be 
+due to the cold however his chest tightness persisted for about 
+an hour at which time he decided to come to the hospital by 
+ambulance. He had mild headache but no blurred vision or 
+diaphoresis. He was also slightly short of breath. No nausea no 
+vomiting no weakness in his arm. He was recently started on 
+Norvasc but ran out a month ago and did not go for refill. In 
+the ED he was noted to have a blood pressure of 230/147. He was 
+started on labetalol IV 20 mg and nitro paste. His blood 
+pressure improved. His chest tightness has also improved. 
+Troponins were initially negative. EKG did show sinus rhythm at 
+80 beats per minute with ST depression in the lateral leads 
+consistent with possible LVH and a strain pattern. He was 
+admitted overnight for blood pressure control, which improved, 
+however his troponins rose to 3.24. He was started on heparin 
+gtt, atorvastatin 80 mg, aspirin 325 mg, and oral labetalol, and 
+transferred to ___ cath lab. 
+
+Labs at ___ were notable for initial troponin at 9 ___ on 
+___ of <0.01, with subsequent check at 0500 ___ of 3.24. 
+Chemistries with Na 143, K 3.8, Cl 103, HCO3 28, BUN 22, Cr 1.3, 
+Gluc 101. Ca 8.4, Mg 1.9, Phos 3.9. CBC with WBC 5.0, H/H 
+13.4/39.3, PLT 201. Pt 1.11, PTT 30.0. 
+
+He underwent cardiac catheterization with a radial approach, and 
+was found to have proximal and mid 80% stenosis of his ___ 
+diagonal branch of his LAD, and underwent successful PCI with 
+DESx1.
+
+REVIEW OF SYSTEMS: On review of systems, denies any prior 
+history of stroke, TIA, deep venous thrombosis, pulmonary 
+embolism, bleeding at the time of surgery, myalgias, joint 
+pains, cough, hemoptysis, black stools or red stools. Denies 
+recent fevers, chills or rigors. Denies exertional buttock or 
+calf pain. All of the other review of systems were negative.  
+
+Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope or presyncope.  
+
+ 
+Past Medical History:
+- hypertension
+ 
+Social History:
+___
+Family History:
+Both father and mother are in their ___ and healthy. He reports 
+that there is a family history of hypertension on his father's 
+side. 
+ 
+Physical Exam:
+=======================
+ADMISSION PHYSICAL EXAM
+=======================
+VS: T 98.5F BP 164/97 mmHg P 64-67 RR 16 O2 98% RA
+General: Well-appearing black man, in NAD.
+HEENT: MMM, OP clear. Anicteric sclerae. EOMs intact.
+Neck: Supple, no JVD.
+CV: RRR, no MRGs. Normal S1/S2.
+Pulm: CTA b/l; no wheezes, rhonchi or rales.
+Abd: Soft, non-tender, non-distended. NABS.
+Ext: Warm and well-perfused. No edema. R TR band in place; no 
+oozing. 
+Neuro: A&Ox3. CNs II-XII grossly intact. Gait deferred.
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+Weight: 85.2 kg
+VS: T 98.1-100.1 F BP 130-160/80-107 mmHg P ___ RR ___ O2 
+98-100% RA
+General: Well-appearing black man, in NAD.
+HEENT: MMM, OP clear. Anicteric sclerae. EOMs intact.
+Neck: Supple, no JVD.
+CV: RRR, no MRGs. Normal S1/S2.
+Pulm: CTA b/l; no wheezes, rhonchi or rales.
+Abd: Soft, non-tender, non-distended. NABS.
+Ext: Warm and well-perfused. No edema. R radial dressing in 
+place; no oozing. 
+Neuro: A&Ox3. CNs II-XII grossly intact. Gait deferred. 
+
+ 
+Pertinent Results:
+==============
+ADMISSION LABS
+==============
+___ 01:45PM BLOOD WBC-6.6 RBC-4.05* Hgb-12.0* Hct-35.7* 
+MCV-88 MCH-29.6 MCHC-33.6 RDW-13.6 RDWSD-43.8 Plt ___
+___ 01:45PM BLOOD ___ PTT-71.1* ___
+___ 01:45PM BLOOD Glucose-92 UreaN-19 Creat-1.4* Na-140 
+K-3.7 Cl-104 HCO3-25 AnGap-15
+___ 10:52AM BLOOD CK(CPK)-1818*
+___ 10:52AM BLOOD cTropnT-5.05*
+___ 01:45PM BLOOD CK-MB-151*
+___ 01:45PM BLOOD Calcium-8.5 Phos-3.9 Mg-1.9
+
+==============
+DISCHARGE LABS
+==============
+
+___ 06:40AM BLOOD WBC-6.2 RBC-4.15* Hgb-12.4* Hct-36.7* 
+MCV-88 MCH-29.9 MCHC-33.8 RDW-13.5 RDWSD-43.4 Plt ___
+___ 06:40AM BLOOD Glucose-91 UreaN-27* Creat-1.5* Na-139 
+K-4.3 Cl-103 HCO3-25 AnGap-15
+___ 06:40AM BLOOD Calcium-8.9 Phos-3.4 Mg-2.2
+
+===============
+IMAGING/STUDIES
+===============
+CARDIAC CATH (___):
+Coronary anatomy
+Dominance: Right
+*Left Main Coronary Artery
+The LMCA is normal.
+
+*Left Anterior Descending
+The LAD is normal.
+The ___ Diagonal has a proximal 80% stenosis and a mid 80% 
+stenosis.
+
+*Circumflex
+The Circumflex has mild disease.
+
+* Right Coronary Artery
+The RCA has mild diffuse disease.
+
+Impressions:
+Successful PCI of single vessel disease involving first diagonal 
+with 2.5 by 38 Promus with good result.
+
+Recommendations
+ASA 81 mg daily
+Brillinta 90 BID
+Post MI care, echo, BP control  
+
+US RENAL ARTERY DOPPLER (___):
+FINDINGS:  
+The right kidney measures 10.2 cm. The left kidney measures 9.9 
+cm. There is no hydronephrosis, stones, or masses bilaterally.  
+Normal cortical 
+echogenicity and corticomedullary differentiation are seen 
+bilaterally. 
+  
+Renal Doppler:  The right and left intrarenal arteries 
+demonstrate sharp 
+systolic upstrokes and continuous antegrade diastolic flow.  The 
+resistive 
+indices of the right intrarenal arteries range from 0.61-0.73.  
+The resistive indices on the left range from 0.65-0.72. 
+  
+Bilaterally, the main renal arteries are patent with normal 
+waveforms. The 
+peak systolic velocity on the right is 55.5 centimeters/second. 
+The peak 
+systolic velocity on the left is 42.5 centimeters/second. Main 
+renal veins are patent bilaterally with normal waveforms.  Small 
+left upper pole renal cyst is incidentally noted. 
+  
+IMPRESSION:  
+Normal Doppler examination of the kidneys. 
+
+ECHO (___):
+Conclusions   
+ The left atrium is mildly dilated. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size and global 
+systolic function (LVEF>55%). There is mild regional left 
+ventricular systolic dysfunction with focal hypokinesis of the 
+mid inferior wall (clip 44). The remaining segments contract 
+normally (LVEF = 50-55 %) Tissue Doppler imaging suggests an 
+increased left ventricular filling pressure (PCWP>18mmHg). Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters ascending aorta and arch are mildly dilated. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve leaflets are structurally 
+normal. There is no mitral valve prolapse. Mild (1+) mitral 
+regurgitation is seen. The estimated pulmonary artery systolic 
+pressure is normal. There is no pericardial effusion. 
+
+ IMPRESSION: Symmetric left ventricular hypertrophy with focal 
+hypokinesis in an atypical distribution and suggestive of 
+possible myocarditis or Takotsubo cardiomyopathy. Mildly dilated 
+thoracic aorta. Mild mitral regurgitation with normal valve 
+morphology.
+
+ CLINICAL IMPLICATIONS: 
+ The patient has a mildly dilated ascending aorta. Based on ___ 
+ACCF/AHA Thoracic Aortic Guidelines, a follow-up echocardiogram 
+is suggested in ___ years.   
+
+ 
+Brief Hospital Course:
+Mr. ___ is a pleasant ___ y/o man with a PMH of HTN (currently 
+not taking medications), who presented with ___ with 
+hypertensive emergency and STEMI, s/p DESx1 to D1. 
+.
+# NSTEMI. Troponins peaked at 5.05. No further chest pain. No 
+shortness of breath or evidence of heart failure on examination. 
+HbA1c 5.7%. Last lipid panel with Tc 249, Trig 153, HDL 54, LDL 
+164. He was started on ticagrelor 90 mg bid and aspirin 81 mg 
+daily, as well as carvedilol 25 mg bid, and atorvastatin 80 mg 
+daily. Post-MI TTE demonstrated LVEF >55% with symmetric left 
+ventricular hypertrophy and focal hypokinesis in atypical 
+distribution, with mildly dilated thoracic aorta (3.6 cm). 
+.
+# Hypertension. His SBP was 230 mmHg at ___, which was slowly 
+downtitrated to SBPs 130s-160s with lisinopril 5 mg daily and 
+carvedilol 25 mg bid. Renal artery ultrasound was normal, and he 
+had no headaches or blurry vision. Renin/aldosterone levels were 
+normal. 
+.
+===================
+TRANSITIONAL ISSUES
+===================
+# Discharge weight: 85.2 kg
+# Discharge Cr: 1.5
+# Medication changes. Started lisinopril 5 mg daily, carvedilol 
+25 mg bid, atorvastatin 80 mg daily, aspirin 81 mg daily, and 
+ticagrelor 90 mg bid. Will require ___ year of dual anti-platelet 
+therapy.
+# Dilated ascending aorta. The patient has a mildly dilated 
+ascending aorta (3.6 cm). Based on ___ ACCF/AHA Thoracic Aortic 
+Guidelines, a follow-up echocardiogram is suggested in ___ 
+years. 
+# CODE: FULL
+# CONTACT: ___, sister ___ ___, mother, 
+___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [BRILINTA] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+2. Aspirin EC 81 mg PO DAILY 
+RX *aspirin 81 mg 1 (one) tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+3. Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 (one) tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0
+4. Carvedilol 25 mg PO BID 
+RX *carvedilol 25 mg 1 (one) tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+5. Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 (one) tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+=================
+PRIMARY DIAGNOSES
+=================
+- ST-elevation myocardial infarction
+- hypertension
+- chronic kidney disease, stage II
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___. 
+
+You were admitted because you had a heart attack. You underwent 
+cardiac catheterization which revealed a blockage in one of your 
+coronary arteries. You had 1 stent placed. 
+
+It is very important to take all of your heart healthy 
+medications. 
+
+You are now on aspirin. You need to take aspirin everyday. If 
+you stop taking aspirin, you risk the stent clotting and death. 
+Do not stop taking aspirin unless you are told by your 
+cardiologist. No other doctor can tell you to stop taking this 
+medication. 
+
+You are now on Brillinta (also known as ticagrelor). This 
+medication helps keep your stent open. Do not stop taking 
+Brillinta unless you are told by your cardiologist. No other 
+doctor can tell you to stop taking this medication. 
+
+We wish you all the best, 
+
+Your ___ Cardiology team
+
+ 
+Followup Instructions:
+___

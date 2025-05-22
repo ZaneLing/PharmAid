@@ -1,0 +1,323 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain/STEMI Transfer
+ 
+Major Surgical or Invasive Procedure:
+Coronary angiography ___
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo M with ___ CVA and HTN initially 
+presenting with chest pain to ___. He described intermittent 
+exertional chest pain one month prior to admission. Around 
+midnight ___, patient experienced sudden onset chest pain with 
+radiation to bilateral shoulders, awakening him from sleep.  He 
+denied any pleuritic discomfort, leg swelling, orthopnea, or 
+PND. He subsequently presented to ___ ED for further 
+evaluation.
+
+At ___ ED, he continued to experience constant chest pain and 
+had EKG demonstrating STE I, aVL with reciprocal changes STD II, 
+III, aVF and TWI V3-V4; troponin 0.1. He received full dose 
+aspirin, 180mg Ticagrelor, 4000U heparin and Nitroglycerin SL x 
+3, followed by Fentanyl 50mg x 2 for persistent pain. Case was 
+discussed with ___ interventional cardiology and patient was
+soon transferred to ___ with cardiac catheterization lab 
+activated. Cath was done via R radial. Diag and LAD occluded.
+
+Diag opened first and stented, but developed chest pain and ST 
+elevations, so LAD thought to be acute and was also stented. 2 
+stents in ___ diag, 1 in LAD, circ and RCA patent. He was loaded 
+with Ticagrelor at OSH. TR band was place and heparin was off 
+prior to transfer to CCU. He was loaded with ASA. 130cc dye
+given, also received fluids in procedure. 
+
+On arrival to the CCU, he is still having some dull residual 
+chest pain.  He denies any shortness of breath, n/v, 
+palpitations.
+ 
+Past Medical History:
+- CVA ___ years ago 
+- HTN, not on medications for 6 months
+- HLD
+- Hernia repair
+ 
+Social History:
+___
+Family History:
+Mother and father - HTN
+Mother - ___ stenosis
+Father - ___ dependent
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION  
+==============================
+VS:  REVIEWED IN METAVISION
+GENERAL: Well developed, well nourished in NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL. EOMI. 
+
+NECK: Supple. JVP not elevated.  
+CARDIAC: Normal rate, regular rhythm. Grade ___ holosystolic 
+murmur in apex, rubs, or gallops.  
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. No adventitious breath 
+sounds.  
+ABDOMEN: Soft, non-tender, non-distended. No palpable 
+hepatomegaly or splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.  Right TR band in place without hematoma. Good 
+distal pulses
+SKIN: No significant lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+NEURO: AAOx3 
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VS: T 98.8F, HR 75, RR 20, O2 sat 96% on RA, BP 123/78
+Weight: 123/78
+General: well appearing elderly gentleman, siting up in bed and 
+ambulating hallways steadily, NAD
+Neuro: A&O x3, grossly intact
+CV: S1, S2, no JVP noted 
+Resp: LSCTB, non-labored
+GI: +BS, soft, NT, ND
+Extremities: WWP, no edema, +2 palpable peripheral pulses.
+Access site: RRA with dsg CDI, no hematoma, no oozing.
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 06:12AM BLOOD WBC-10.1* RBC-4.90 Hgb-15.2 Hct-43.9 
+MCV-90 MCH-31.0 MCHC-34.6 RDW-12.8 RDWSD-41.6 Plt ___
+___ 06:12AM BLOOD Neuts-84.4* Lymphs-10.1* Monos-4.4* 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-8.49* AbsLymp-1.02* 
+AbsMono-0.44 AbsEos-0.01* AbsBaso-0.03
+___ 06:12AM BLOOD ___ PTT-150* ___
+___ 06:12AM BLOOD Glucose-188* UreaN-9 Creat-0.8 Na-140 
+K-4.1 Cl-104 HCO3-18* AnGap-18
+___ 06:12AM BLOOD ALT-54* AST-178* AlkPhos-45 TotBili-0.9
+___ 06:12AM BLOOD cTropnT-3.60*
+___ 11:25AM BLOOD cTropnT-3.71*
+___ 06:12AM BLOOD Calcium-8.9 Phos-2.2* Mg-1.9
+
+REPORTS
+=======
+Cardiac catheterization ___
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the Left Anterior 
+Descending and Left Circumflex systems.
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel. There is a 100% stenosis in the 
+proximal segment.
+The Septal Perforator, arising from the proximal segment, is a 
+very small caliber vessel. The Diagonal, arising from the 
+proximal segment, is a medium caliber vessel. There is a 100% 
+stenosis in the ostium.
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber vessel. The ___ Obtuse Marginal, arising from the 
+proximal segment, is a medium caliber vessel. The ___ Obtuse 
+Marginal, arising from the mid segment, is a medium caliber 
+vessel.
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a large caliber vessel. The Right Posterior Descending Artery, 
+arising from the distal segment, is a medium caliber vessel. The 
+Right Posterolateral Artery, arising from the distal segment, is 
+a medium caliber vessel.
+- DES x2 to D1
+- DES to LAD
+
+TTE ___
+The left atrial volume index is normal. There is mild symmetric 
+left ventricular hypertrophy with a normal cavity size. There is 
+mild regional left ventricular systolic dysfunction with 
+hypokinesis of the distal anterior wall and apex (see schematic) 
+and preserved/normal contractility of the remaining segments. No 
+thrombus or mass is seen in the left ventricle. Quantitative 3D 
+volumetric left ventricular ejection fraction is 68 % (normal 
+54-73%). Left ventricular cardiac index is normal (>2.5
+L/min/m2). There is no resting left ventricular outflow tract 
+gradient. Tissue Doppler suggests a normal left ventricular 
+filling pressure (PCWP less than 12mmHg). Normal right 
+ventricular cavity size with normal free wall motion. Tricuspid 
+annular plane systolic excursion (TAPSE) is normal. The aortic 
+sinus is mildly dilated with moderately dilated ascending aorta. 
+The aortic arch is mildly dilated with a mildly dilated 
+descending aorta. The aortic valve leaflets (3) appear 
+structurally normal. There is no aortic valve stenosis. There is 
+trace aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with no mitral valve prolapse. There is 
+trivial mitral regurgitation. The pulmonic valve leaflets are
+normal. The tricuspid valve leaflets appear structurally normal. 
+There is mild [1+] tricuspid regurgitation. The estimated 
+pulmonary artery systolic pressure is high normal. There is no 
+pericardial effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+mild regional systolic dysfunction most consistent with single 
+vessel coronary artery disease (distal LAD distribution). 
+Dilated thoracic aorta.
+CLINICAL IMPLICATIONS: The patient has a moderately dilated 
+ascending aorta. Based on ___ ACCF/AHA Thoracic Aortic 
+Guidelines, if not previously known or a change, a follow-up 
+echocardiogram is suggested in 6 months; if previously known and 
+stable, a follow-up echocardiogram is suggested in ___ year.
+ 
+Brief Hospital Course:
+___ year old M with PMH CVA and HTN initially presenting with 
+chest pain, found to have anterior STEMI s/p DES x2 to D1 and 
+DES to LAD.
+
+#CORONARIES:  100% occlusion diag, LAD s/p stenting. RCA and 
+Circ patent
+#PUMP:  LVEF 68%. 
+#RHYTHM:  Sinus
+
+ACUTE ISSUES:  
+=============  
+#STEMI
+Patient presented with exertional chest pain which ultimately 
+progressed to chest pain at rest. He presented to OSH, was found 
+to have STEMI (STE I, aVL with reciprocal changes STD II, III, 
+aVF and TWI V3-V4), and was transferred here for angiography. 
+Cor angio showed 100% occluded D1 and LAD s/p DES x2 to D1 and 
+DES to LAD. Troponins peak 3.71, ECG without ischemia prior to 
+discharge.
+Had been prescribed Rosuvastatin, HCTZ, Spironolactone at home, 
+though had not taking for past 6 months. Here, he was started on 
+ASA 81mg daily, loaded on ticagrelor and continued on 90mg BID, 
+atorvastatin 80mg QHS, metoprolol tartrate 12.5mg q6h, which was 
+transitioned to metoprolol succinate 50mg daily on discharge, 
+and lisinopril 5mg daily. TTE was obtained which showed EF 68%, 
+mild LVH with mild regional systolic dysfunction consistent with 
+single vessel (distal LAD distribution) CAD. Patient 
+hemodynamics remained stable, without arrhythmia on telemetry, 
+ambulatory without any symptoms.
+- ___ consulted: Outpatient cardiac rehab referral on discharge, 
+once medically cleared by Cardiologist
+- Follow up with PCP ___ next week, per office, 
+will need PCP referral to see local Cardiologist. Patient would 
+prefer in current office or ___, closer to home. 
+
+CHRONIC ISSUES:
+===============
+#HTN
+Started metoprolol and ACEi, as above
+
+#GERD
+Continued home PPI 
+
+TRANSITIONAL ISSUES
+===================
+[ ] Follow with PCP, ___, next week on ___ 
+[ ] The patient has a moderately dilated ascending aorta. Based 
+on ___
+ACCF/AHA Thoracic Aortic Guidelines, if not previously known or 
+a change, a follow-up echocardiogram is suggested in 6 months; 
+if previously known and stable, a follow-up echocardiogram is 
+suggested in ___ year.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 80 mg PO QPM  
+3.  Lisinopril 5 mg PO DAILY  
+4.  Metoprolol Succinate XL 50 mg PO DAILY  
+5.  TiCAGRELOR 90 mg PO BID to prevent stent thrombosis  
+6.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+STEMI
+Coronary artery disease s/p PCI x 3
+Hypertension
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were found to have a heart attack (ST elevation Myocardial 
+Infarction). You were admitted following your cardiac 
+catheterization in which three drug coated stents were placed to 
+open blockages in your Left anterior descending (LAD) and 
+Diagonal coronary arteries. You had an echocardiogram, which 
+showed that your heart pump function was normal. 
+
+Instructions regarding activity restrictions and care of the 
+right wrist access site are included with your discharge 
+information.  
+
+You will be started on 5 new medications after your heart 
+attack. You should not stop any of these medications, without 
+talking to your heart doctor first. If you are getting low on a 
+supply, please call your Primary Doctor or your Cardiologist's 
+office for refills.  
+- START Aspirin 81mg daily, lifelong.  
+- START Ticagrelor (Brilinta) 90mg twice a day, you should take 
+this for a minimum of one year and ONLY stop when told by a 
+cardiologist specifically.  
+- START Atorvastatin 80mg daily (best absorbed when taken in the 
+evening), this medication not only reduces cholesterol, but has 
+been shown to help decrease risk of heart attack in the future 
+for people who have coronary artery (heart) disease.  
+- START Metoprolol succinate 50mg once daily. This medication 
+slows the heart down and can lower blood pressure. It helps 
+reduce the amount of work the heart has to do, and can help to 
+reduce risk of future heart attack.  
+- START Lisinopril 5mg daily. This medication helps to reduce 
+blood pressure and decrease the amount of resistance that the 
+heart needs to pump against, which decreases strain on the heart 
+muscle.
+
+It is very important to take all of your heart healthy 
+medications. In particular, Aspirin and Ticagrelor (Brilinta) 
+keep the stents in the vessels of the heart open and help reduce 
+your risk of having a future heart attack. If you stop these 
+medications or miss ___ dose, a blood clot could form in your 
+heart stent which could cause a life threatening heart attack. 
+Please do not stop taking either medication without taking to 
+your heart doctor, even if another doctor tells you to stop the 
+medications.
+  
+It is strongly recommended that you attend a cardiac rehab 
+program in the near future. A referral form was provided to you 
+that lists the locations of these programs. Please bring this 
+with you to your follow up visit with your cardiologist, and 
+they will inform you when it is safe to begin a program.  
+ 
+If you have any urgent questions that are related to your 
+recovery from your hospitalization or are experiencing any 
+symptoms that are concerning to you and you think you may need 
+to return to the hospital, please call the ___ HeartLine at 
+___ to speak to a cardiologist or cardiac nurse 
+practitioner. If you develop any chest pain that does not go 
+away with rest, please call ___.  
+
+Your ___ Cardiac Care Team  
+
+ 
+Followup Instructions:
+___

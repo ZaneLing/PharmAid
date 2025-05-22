@@ -1,0 +1,173 @@
+Name:  ___.                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old female with PMH of hypothyroidism and mitral valve 
+prolapse presenting with worsening abdominal pain.  She reports 
+over the last ___ months she has been having diffuse abdominal 
+pain worst in the epigastric region, the pain is intermittent 
+and worsened with eating.  She denies any diarrhea, change in 
+bowel movements.  She thinks a few weeks ago she had a small 
+amount of bright red blood in the stool that she attributes to 
+hemorrhoids but otherwise denies blood in stool or black stool.  
+She had 1 episode of vomiting yesterday but otherwise denies 
+vomiting.  She has been having some mild chills the last few 
+days.  She has not told her doctors about the ___, the only 
+medication she tried for it was Pepto-Bismol yesterday without 
+relief.  She denies weight loss.  She denies recent changes in 
+diet, raw or undercooked foods (she eats a low gluten and low 
+dairy diet).  She traveled to ___ in ___ and ___ in 
+___.  The pain was worse this morning and she came to the ED.  
+In the ED she had a lowgrade fever to 99.7, labs were 
+unremarkable, CT A/P showed non-specific transverse colitis and 
+possible enteritis.  Surgery was consulted, she was given IV 
+cipro, Flagyl, IV fluids, morphine, Tylenol, Ibuprofen and 
+Zofran.
+
+Currently she reports her pain is mild, ___.  Along with 
+epigastric abdominal pain also having some burning sensation 
+going to throat, says it feels like acid reflux.  She denies any 
+nausea.  She reports her last BM was 2 days ago and was normal, 
+solid brown stool.  She reports she had a colonoscopy ___ years 
+ago that showed a few polyps but was otherwise unremarkable.  
+She denies any CP, SOB, cough, dysuria, rash, joint pains.
+
+ROS: as above, ten point ROS otherwise negative
+ 
+Past Medical History:
+Hypothyroidism
+Mitral Valve prolapse
+C-section x2
+Endometrial ablation for heavy periods
+ 
+Social History:
+___
+Family History:
+Father had DM ___ and had diverticulitis, mother passed away from 
+pancreatic cancer.  Denies any family history of IBD.
+ 
+Physical Exam:
+PE:
+VS: 97.8 94/60 68 18 97 RA 
+Gen: NAD, resting comfortably in bed
+HEENT: EOMI, PERRLA, MMM, OP clear
+CV: RRR nl s1s2 no m/r/g
+Resp: CTAB no w/r/r
+Abd: Soft, mild epigastric tenderness, ND +BS
+Ext: no c/c/e
+GU: no foley
+Skin: warm, dry no rashes
+Neuro: CN ___ intact, ___ strength throughout
+Psych: pleasant, normal affect
+ 
+Pertinent Results:
+___ 05:12AM   LACTATE-0.8
+___ 11:35PM URINE  RBC-<1 WBC-1 BACTERIA-FEW YEAST-NONE 
+EPI-1 TRANS EPI-<1
+___ 09:02PM   GLUCOSE-127* UREA N-22* CREAT-1.0 SODIUM-137 
+POTASSIUM-3.7 CHLORIDE-99 TOTAL CO2-27 ANION GAP-15
+___ 09:02PM   ALT(SGPT)-31 AST(SGOT)-21 ALK PHOS-73 TOT 
+BILI-0.5
+___ 09:02PM   LIPASE-29
+___ 09:02PM   ALBUMIN-4.2
+___ 09:02PM   WBC-7.7 RBC-4.73 HGB-13.9 HCT-42.7 MCV-90 
+MCH-29.4 MCHC-32.6 RDW-13.1 RDWSD-43.3
+___ 09:02PM   NEUTS-90.0* LYMPHS-5.2* MONOS-3.3* EOS-0.9* 
+BASOS-0.3 IM ___ AbsNeut-6.93* AbsLymp-0.40* AbsMono-0.25 
+AbsEos-0.07 AbsBaso-0.02
+
+CT A/P ___:
+
+IMPRESSION:    
+1.  Bowel wall thickening and edema involves the mid to distal 
+transverse 
+colon and is associated with pericolonic stranding.  Findings 
+are nonspecific and include infectious, inflammatory, and 
+ischemic etiologies.  Minimally dilated and fluid filled loops 
+of small bowel likely reflect reactive changes and/or enteritis. 
+
+  
+2.  Multiple hepatic hypodensities scattered throughout the 
+liver measure up to 5.7 cm, likely hepatic cysts. 
+  
+3.  Sigmoid diverticular disease without evidence of 
+diverticulitis. 
+
+ 
+Brief Hospital Course:
+___ year old female with PMH of hypothyroidism and mitral valve 
+prolapse presenting with worsening abdominal pain.
+
+#Abdominal pain
+#Colitis, possible enteritis
+#GERD
+She is reporting 3 months of abdominal pain worse with eating.  
+CT scan showing non-specific colitis and possible enteritis.  
+She is not dehydrated, denies weight loss, diarrhea, significant 
+blood in stool.  No concerning lab findings.  She was given 
+cipro/flagyl in ED but given lack of diarrhea and infectious 
+signs/symptoms unlikely to be a bacterial infection.  Given her 
+chronic symptoms and abnormal CT findings she should have a GI 
+evaluation and possible repeat colonoscopy but given her 
+stability this can be pursued as an outpatient.  She wishes to 
+go home with outpatient follow-up.  In addition to her abdominal 
+pain also having symptoms consistent with GERD.
+-D/c antibiotics as low suspicion for bacterial infection
+-F/u with PCP, recommend referral to GI.  
+-Starting ranitidine
+
+#Hypothyroidism: Continue levothyroxine
+
+#FEN/PPX: regular, ambulatory
+
+Full code
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 100 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ranitidine 150 mg PO DAILY 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*0 
+2.  Levothyroxine Sodium 100 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Non-specific colitis
+GERD
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted with worsening abdominal pain.  You had a CT 
+scan which showed inflammation in your colon. Your pain was 
+stable and you were able to eat and drink.  We recommend 
+following up with your PCP and following up with a 
+gastroenterologist.
+ 
+Followup Instructions:
+___

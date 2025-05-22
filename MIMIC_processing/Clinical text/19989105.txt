@@ -1,0 +1,297 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain, shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ year old female with PMH of HTN, HLD, 
+LVH,
+COPD, and CKD III who was transferred from ___ with
+non-exertional chest pain.
+
+Patient reports that she has been having chest pain for several
+months. Of note she had an outpatient stress test performed last
+week which she reports was 'abnormal.' She was scheduled to see
+cardiology tomorrow but this morning developed worsening of her
+chest pain. She describes it as a midsternal chest pressure with
+no radiation. She reports that she took 4 chewable aspirin at
+home and this resulted in resolution of her symptoms. Her
+symptoms then returned several hours later and her pain has been
+constant since this afternoon. Her EKG at ___ was reportedly
+concerning for ischemia and she was transferred to ___ for
+urgent cardiology consult and likely cath. 
+Report of the EKG at ___:
+ECG Impression : Sinus rhythm
+ECG Impression : Short PR interval
+ECG Impression : Borderline ST depression, lateral leads
+ECG Impression : Minimal ST elevation, inferior leads
+
+Troponin-T at ___ was <0.010 at 18:35
+
+*Of note was only able to access the report of the EKG and 
+images
+of the EKG were not sent with the patient.* EKG done at ___ 
+was negative for ischemic changes. Patient was given SL nitro 
+with no relief of her pain and started on a heparin gtt prior to 
+transfer to ___. 
+
+ 
+Past Medical History:
+- Wegener's granulomatosis 
+- OSTEOARTHRITIS - MULT JOINTS 
+- Kidney, horseshoe 
+- Esophageal reflux 
+- Hyperlipidemia 
+- Basal cell carcinoma 
+- Diverticulosis 
+- Impaired fasting glucose 
+- Microalbuminuria 
+- Mitral regurgitation 
+- LVH (left ventricular hypertrophy) 
+- Pulmonary hypertension 
+- Kidney disease, chronic, stage III (___ ___ ml/min) 
+- Raynaud disease 
+- COPD (chronic obstructive pulmonary disease) 
+- Gastritis 
+- Gastroparesis 
+- Non-rheumatic tricuspid valve insufficiency 
+- Lung nodule, multiple 
+- Lung mass-lung biopsy, giant cell vasculitis 
+ 
+Social History:
+___
+Family History:
+Brother  CAD/PVD 
+Daughter  Cancer - ___ 
+Father  CAD/PVD 
+Mother  Cancer - ___ 
+ 
+Physical Exam:
+ADMISSION EXAM
+================
+VITALS:
+24 HR Data (last updated ___ @ 213)
+    Temp: 97.8 (Tm 97.8), BP: 117/56 (84-117/46-61), HR: 53, RR:
+16, O2 sat: 93%, O2 delivery: RA, Wt: 167.99 lb/76.2 kg  
+GENERAL:     Alert and interactive. In no acute distress.
+HEENT:       PERRL, EOMI. MMM.
+CARDIAC:     RRR no m/r/g appreciated
+LUNGS:       CTAB no r/r/w
+ABDOMEN:     Soft, NT, ND, +BS
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN:        Warm. No rashes.
+NEUROLOGIC:  AOx3. Grossly intact.
+
+DISCHARGE EXAM
+===============
+24 HR Data (last updated ___ @ 1154)
+    Temp: 97.7 (Tm 97.8), BP: 127/66 (84-127/46-74), HR: 69
+(53-69), RR: 16, O2 sat: 95% (93-96), O2 delivery: Ra, Wt: 
+167.99
+lb/76.2 kg  
+
+Fluid Balance (last updated ___ @ 839) 
+  Last 8 hours  Total cumulative -374.2ml
+    IN: Total 75.8ml, IV Amt Infused 75.8ml
+    OUT:  Total 450ml, Urine Amt 450ml, Emesis 0ml
+  Last 24 hours  Total cumulative 125.8ml
+    IN: Total 575.8ml, IV Amt Infused 575.8ml
+    OUT:  Total 450ml, Urine Amt 450ml, Emesis 0ml 
+ 
+Weight:  76.2kg
+Weight on admission: unknown
+  
+Telemetry:  NSR
+General:  Ill appearing, tremulous, pale
+HEENT:  +JVD up to 8cm, no masses or thyromegaly. 
+Lungs:  +bibasilar crackles, no wheezes
+CV:  RRR no m/r/g. 2+ radial and dp pulses
+Abdomen:  Soft, NTND. Normoactive BS
+Ext:  Trace edema b/l. 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==================
+___ 09:36PM BLOOD WBC-5.4 RBC-3.15* Hgb-10.0* Hct-29.4* 
+MCV-93 MCH-31.7 MCHC-34.0 RDW-12.8 RDWSD-43.6 Plt ___
+___ 09:36PM BLOOD Neuts-64.6 ___ Monos-11.7 
+Eos-0.9* Baso-0.6 Im ___ AbsNeut-3.47 AbsLymp-1.18* 
+AbsMono-0.63 AbsEos-0.05 AbsBaso-0.03
+___ 09:36PM BLOOD Glucose-120* UreaN-21* Creat-0.9 Na-131* 
+K-5.7* Cl-92* HCO3-23 AnGap-16
+___ 09:36PM BLOOD Calcium-9.3 Phos-4.0 Mg-1.8
+
+DISCHARGE LABS
+====================
+___ 07:07AM BLOOD WBC-6.4 RBC-3.05* Hgb-9.7* Hct-29.1* 
+MCV-95 MCH-31.8 MCHC-33.3 RDW-12.8 RDWSD-43.9 Plt ___
+___ 07:07AM BLOOD Glucose-128* UreaN-16 Creat-0.7 Na-131* 
+K-3.9 Cl-95* HCO3-25 AnGap-11
+
+CARDIAC CATH ___
+=================
+Mild coronary coronary artery, mild 30% stenosis in the LAD
+ 
+Brief Hospital Course:
+HOSPITAL COURSE:
+====================
+Ms. ___ is an ___ year old female with PMH of HTN, HLD, 
+LVH, COPD, and CKD III who was transferred from ___ 
+with non-exertional chest pain.
+
+Patient reports that she has been having chest pain for several 
+months. Of note she had an outpatient stress test performed last 
+week which she reports was 'abnormal.' She was scheduled to see 
+cardiology tomorrow but on the morning of presentation developed 
+worsening of her chest pain. She describes it as a midsternal 
+chest pressure with no radiation. She reports that she took 4 
+chewable aspirin at home and this resulted in resolution of her 
+symptoms. Her symptoms then returned several hours later and her 
+pain has been constant since this afternoon. Her EKG at ___ 
+was reportedly concerning for ischemia and she was transferred 
+to ___ for urgent cardiology consult and likely cath. 
+
+Report of the EKG at ___:
+ECG Impression : Sinus rhythm
+ECG Impression : Short PR interval
+ECG Impression : Borderline ST depression, lateral leads
+ECG Impression : Minimal ST elevation, inferior leads
+
+Troponin-T at ___ was <0.010 at 18:35
+
+*Of note was only able to access the report of the EKG and 
+images
+of the EKG were not sent with the patient.* EKG done at ___ 
+was negative for ischemic changes. Patient was given SL nitro 
+with no relief of her pain and started on a heparin gtt prior to 
+transfer to ___. 
+
+TRANSITIONAL ISSUES 
+==================== 
+[ ] Ongoing management of CAD risk factors
+[ ] Further treatment of noncardiac chest pain
+[ ] Further work up of her hyponatremia
+
+ACUTE/ACTIVE ISSUES:
+====================
+#Chest Pain
+#Unstable Angina 
+Stress test from At___ last week showed mild to moderate 
+ischemia at ___. Unable to review EKG from OSH but no ST 
+elevations seen on EKG done in the ED. Troponin negative at OSH 
+and repeat negative here as well. Cardiac cath performed today 
+showed only non obstructive disease with ___ in LAD, nothing 
+on RCA or LCx as previously suspected. We increased the dose of 
+her atorvastatin to 80mg daily.
+
+#Hyponatremia
+Given not volume overloaded and not in acute heart failure, 
+euvolemic causes including SIADH are high on the differential, 
+given her medications. Her Na 131 is unchanged from OSH records 
+last week, so it is possible this is her baseline. Did not 
+replete prior to discharge
+
+CHRONIC/STABLE ISSUES:
+======================
+#HTN
+- Continue home antihypertensive regimen
+
+#HLD
+- Increased atorvastatin to 80mg
+
+#GERD
+- Continued pantoprazole, Ativan for nausea
+
+#COPD
+- Albuterol nebulizer PRN
+- Pts inhalers not formulary; did not stay inpatient long enough 
+for family to bring them in
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. Atorvastatin 40 mg PO QPM 
+2. Atenolol 25 mg PO DAILY 
+3. Losartan Potassium 25 mg PO DAILY 
+4. Pantoprazole 40 mg PO Q12H 
+5. LORazepam 0.5 mg PO Q8H:PRN anxiety 
+6. Hydrochlorothiazide 25 mg PO DAILY 
+7. Incruse Ellipta (umeclidinium) 62.5 mcg/actuation inhalation 
+DAILY 
+8. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+9. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN SOB 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+2.  Atenolol 25 mg PO DAILY  
+3.  Hydrochlorothiazide 25 mg PO DAILY  
+4.  Incruse Ellipta (umeclidinium) 62.5 mcg/actuation inhalation 
+DAILY  
+5.  LORazepam 0.5 mg PO Q8H:PRN anxiety  
+6.  Losartan Potassium 25 mg PO DAILY  
+7.  Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Unstable angina 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+ It was a pleasure taking care of you at the ___ 
+___!  
+
+ WHY WAS I IN THE HOSPITAL?  
+ ==========================  
+ - You were admitted because you had worsening chest pain and an 
+abnormal stress test result. 
+
+ WHAT HAPPENED IN THE HOSPITAL?  
+ ==============================  
+ -  In the hospital, we obtained further tests to look for 
+performed a cardiac cath to assess for possible blockage in the 
+vessels of your heart that could explain the cause of your chest 
+pain, which was negative. 
+- We increased the dose of your statin to 80 mg.
+
+ WHAT SHOULD I DO WHEN I GO HOME?  
+ ================================  
+- Please continue to take your medications as prescribed
+- Please follow up with your cardiologist in ___ weeks for 
+further management. 
+
+ Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+ Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

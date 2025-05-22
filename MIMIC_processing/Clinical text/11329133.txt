@@ -1,0 +1,191 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Patient is a ___ F with chronic abdominal pain who presents with
+abdominal pain. She reports typically she has pain in her
+bilateral hips, right lower quadrant, and right upper quadrant.
+The quality of the pain is unchanged but it has gotten worse 
+over
+the last 2 weeks particularly in the left upper quadrant. The
+pain is sharp and worse with deep breathing. It is associated
+with some nausea but no vomiting. She denies any fevers or 
+cough.
+She denies any history of blood clots, lower extremity pain,
+recent travel, recent surgery, OCPs, or cigarettes. She denies
+any falls or trauma to the area. No constipation, diarrhea,
+hematochezia, or melena. No vaginal bleeding, dysuria, or
+hematuria. No history of kidney stones. She is currently on her
+period.
+
+ 
+Past Medical History:
+Recently diagnosed with chronic abd pain (negative MRI abd
+pelvis, negative CT abd pelvis, negative TV ultrasound) followed
+by GI
+
+ 
+Social History:
+___
+Family History:
+Maternal GF with colorectal CA
+No blood malignancies
+No other ___
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+=================
+General: Appearing stated age
+HEENT: NCAT, PEERL, MMM 
+Neck: Supple, trachea midline
+Heart: RRR, no MRG. No peripheral edema. 
+Lungs: CTAB. No wheezes, rales, or rhonchi.
+Abd: Soft, NTND. 
+GU: No CVA tenderness
+MSK: No obvious limb deformities.
+Derm: Skin warm and dry. There is a patchy, macular rash that is
+blanching on her chest and upper back. It is not itchy or 
+raised.
+Neuro: Awake, alert, moves all extremities.
+Psych: Appropriate affect and behavior
+
+DISCHARGE EXAM:
+=================
+General: Appearing stated age
+HEENT: NCAT, PEERL, MMM 
+Neck: Supple, trachea midline
+Heart: RRR, no MRG. No peripheral edema. 
+Lungs: CTAB. No wheezes, rales, or rhonchi.
+Abd: Soft, NTND. 
+GU: No CVA tenderness
+MSK: No obvious limb deformities.
+Derm: Skin warm and dry. There is a patchy, macular rash that is
+blanching on her chest and upper back. It is not itchy or 
+raised.
+Neuro: Awake, alert, moves all extremities.
+Psych: Appropriate affect and behavior
+
+ 
+Pertinent Results:
+ADMISSION EXAM:
+===============
+___ 10:30PM BLOOD WBC-11.2* RBC-4.42 Hgb-12.9 Hct-40.3 
+MCV-91 MCH-29.2 MCHC-32.0 RDW-12.9 RDWSD-43.5 Plt ___
+___ 10:30PM BLOOD Neuts-25* Bands-1 Lymphs-67* Monos-3* 
+Eos-0* Baso-0 Atyps-4* AbsNeut-2.91 AbsLymp-7.95* AbsMono-0.34 
+AbsEos-0.00* AbsBaso-0.00*
+___ 10:30PM BLOOD Plt Smr-NORMAL Plt ___
+___ 10:30PM BLOOD D-Dimer-1225*
+___ 10:30PM BLOOD Glucose-98 UreaN-10 Creat-0.9 Na-139 
+K-3.8 Cl-102 HCO3-24 AnGap-13
+___ 01:45AM BLOOD ALT-313* AST-328* AlkPhos-262* 
+TotBili-0.5
+___ 10:30PM BLOOD Albumin-4.1 Calcium-9.3 Phos-3.6 Mg-2.0
+
+DISCHARGE LABS:
+================
+___ 10:30PM BLOOD WBC-11.2* RBC-4.42 Hgb-12.9 Hct-40.3 
+MCV-91 MCH-29.2 MCHC-32.0 RDW-12.9 RDWSD-43.5 Plt ___
+___ 10:30PM BLOOD Neuts-25* Bands-1 Lymphs-67* Monos-3* 
+Eos-0* Baso-0 Atyps-4* AbsNeut-2.91 AbsLymp-7.95* AbsMono-0.34 
+AbsEos-0.00* AbsBaso-0.00*
+___ 10:30PM BLOOD Plt Smr-NORMAL Plt ___
+___ 10:30PM BLOOD D-Dimer-1225*
+___ 10:30PM BLOOD Glucose-98 UreaN-10 Creat-0.9 Na-139 
+K-3.8 Cl-102 HCO3-24 AnGap-13
+___ 01:45AM BLOOD ALT-313* AST-328* AlkPhos-262* 
+TotBili-0.5
+___ 10:30PM BLOOD Albumin-4.1 Calcium-9.3 Phos-3.6 Mg-2.___ F with chronic abdominal pain who presents with 2 weeks of 
+new
+LUQ abdominal pain, recent history of sore throat found to have
+lymphocytosis, transaminitis, lymphadenopathy on CT, and 
+positive
+monospot consistent with EBV mononucleosis.
+
+ACUTE/ACTIVE ISSUES:
+====================
+#EBV mononucleosis
+#LUQ abdominal pain
+#Transaminitis
+Findings extremely typical for infectious mononucleosis with LUQ 
+pain likely due to splenomegaly, recent history of sore throat, 
+mildly elevated WBC, lymphocytic predominance on differential, 
+and transaminitis confirmed with positive monospot. Treatment 
+consists of supportive therapy, and laboratory abnormalities
+should be expected to self-resolve. Other etiologies for 
+hepatocellular pattern transaminitis unlikely, no culprit meds 
+or substance use. Can see this degree of transaminitis with 
+acute mono so would recommend trending at upcoming GI apt on 
+___.
+
+TRANSITIONAL ISSUES:
+====================
+[] Please repeat LFTs at first follow up to ensure downtrending
+[] Avoid contact sports for ___ weeks
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Omeprazole 20 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Omeprazole 20 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Infectious mononucleosis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Why was I admitted to the hospital:
+You were admitted to the hospital when your abdominal pain 
+became worse.  You had lab testing done in the emergency 
+department which showed elevated liver tests.  You had an 
+imaging test to rule out a blood clot in your lungs, and this 
+showed that you had an enlarged spleen.  You had blood testing 
+and you tested positive for mono.
+
+What was done while I was here:
+You are given some pain meds through your IV.  We confirmed that 
+your liver tests were not continuing to rise.  He were 
+discharged home with a plan to follow-up with your GI doctor on 
+___.
+
+What should I do and I go home:
+Please avoid taking Tylenol until your liver tests are checked 
+at your GI appointment.  Please avoid playing any contact sports 
+for the next 4 to 6 weeks.  Please attend your follow-up 
+appointment with GI on ___.
+ 
+Followup Instructions:
+___

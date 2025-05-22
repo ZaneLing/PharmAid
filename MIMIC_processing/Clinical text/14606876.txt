@@ -1,0 +1,473 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Rocephin / Doxycycline / Penicillins / Prochlorperazine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Monocular painless left eye vision loss
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ M with h/o HTN, HLD, , Crohn's
+disease, diverticulitis, GERD, who presents with L-sided
+mono-ocular painless visual loss.  Patient states that symptoms
+of started 5 days ago (on ___, when he first noted that his
+left eye was teary, noted that his vision has worsened out of 
+the
+left eye.  His vision got progressively worse over the next 
+days.
+On day 3 of symptoms (___) he was seen at the urgent care
+clinic and was diagnosed w/ conjunctivits and given erythromycin
+drops; however, that did not improve symptoms.  The following 
+day
+she had some pain around the left cheek, and thought that his
+sinus issues have recurred, and 3 presented to urgent care 
+clinic
+on ___.  He recalls that the provider noted some swelling
+around the left cheek area. He was started on prednisone burst
+and azithromycin which she took for 1 day only.  The following
+day, she was able to drive his cousin to her doctor's 
+appointment
+in the morning, things was as blurry as the day prior, but he
+could still see out of the left eye.  At 4 ___ he had an
+appointment at ___ and during the evaluation by
+his doctor he first realized that he is ubable to see ouf of the
+L eye. His vision out of that eye was moslty dark, he could only
+see bright light and shade. He reports a few associated flashes
+and possibly floaters. He denies any associated eye pain, pain
+with eye movements, headaches, scalp and temporal tenderness. No
+recent fevers, chills, weight loss, joint pains. He denies focal
+numbness, tingling or weakness. He has never had similar
+symptoms.
+
+He was sent to ___ ED from ___ further
+evaluation. Here he was evaluated by Ophthalmology who
+recommended further evaluation by Neurology due to concern for
+CRAO vs. GCA. 
+
+NIHSS completed by ED provider at time of presentation: 0.
+
+ROS:
+10-point review of systems negative, except for HPI
+ 
+Past Medical History:
+Myopia
+HTN
+HLD
+GERD
+Chron's disease
+Diverticulitis
+Hypothyroidism
+Gallbladder removal
+Appendicitis
+ 
+Social History:
+___
+Family History:
+Patient denies any significant family history, including of 
+stroke, clots, or heart disease (except for father who passed 
+away at age ___ of complications from rheumatic heart disease).
+ 
+Physical Exam:
+Exam on Admission:
+==================
+VS: 97.6 HR: 86 BP: 100/69 Resp: 18 O2 Sat: 100
+
+General:  NAD
+ HEENT: NCAT,  no oropharyngeal lesions, neck supple
+ ___: RRR, no M/R/G
+ Pulmonary: CTAB, no crackles or wheezes
+ Abdomen: Soft, NT, ND, +BS, no guarding
+ Extremities: Warm, no edema
+ Musk: No scalp tendrness
+
+Neurologic Examination:
+ - Mental status: Awake, alert, oriented x 3. Able to relate
+history without difficulty. Attentive, able to name ___ backward
+without difficulty. Speech is fluent with full sentences, intact
+repetition, and intact verbal comprehension. Naming intact.  No
+paraphasias.  No dysarthria. Normal prosody. Able to register 3
+objects and recall ___ at 5 minutes. No apraxia. No evidence of
+hemineglect. No left-right confusion. Able to follow both 
+midline
+and appendicular commands.
+
+- Cranial Nerves: PERRL 3->2 brisk. VF full to number counting 
+on
+the R. Visual acuity ___ on the R, only sees light and shadow
+when examiner < 6in away from his face. EOMI, no nystagmus. 
+V1-V3
+without deficits to light touch bilaterally. No facial movement
+asymmetry. Hearing intact to finger rub bilaterally.  Palate
+elevation symmetric. SCM/Trapezius strength ___ bilaterally.
+Tongue midline.
+
+- Motor:  Normal bulk and tone. No drift. No tremor or 
+asterixis.
+   [___]
+ L   5     5    5    5    ___    5     5   5    5    5
+ R   5     5    5    5    ___    5     5   5    5    5  
+  
+ - Reflexes: 
+    [Bic] [Tri] [___] [Quad] [Gastroc]
+  L  2+    2+     2+      2+       1
+  R  2+    2+     2+      2+       1  
+
+Plantar response flexor bilaterally 
+
+- Sensory: No deficits to light touch, pin, or proprioception
+bilaterally.  No extinction to DSS.
+
+- Coordination: No dysmetria with finger to nose testing
+bilaterally. Good speed and intact cadence with rapid 
+alternating
+movements.
+
+- Gait: Normal initiation. Narrow base. Normal stride length and
+arm swing. Stable without sway. Negative Romberg.
+
+Exam on Discharge:
+
+No changes noted, except for movement and shadows reported being 
+visible in left eye.
+
+Exam on Discharge:
+==================
+VS: Temp: 97.9 PO BP: 144/95 HR: 79 RR: 16 O2 sat: 96% O2
+delivery: Ra FSBG: 110 
+
+Exam
+General: NAD
+HEENT: NCAT,  no oropharyngeal lesions, neck supple
+___: RRR, no M/R/G
+Pulmonary: CTAB, no crackles or wheezes
+Abdomen: Soft, NT, ND, +BS, no guarding
+Extremities: Warm, no edema
+Musk: No scalp tenderness
+
+Neurologic Examination:
+
+Mental status: Awake, alert, oriented x 3. Able to relate 
+history
+without difficulty. Fluent speech, no errors. 
+
+Cranial Nerves: 
+- Right pupil 3.5->2 briskly reactive. 
+- Left afferent pupillary defect. 
+- VF full to number counting on the R. 
+- On the left, he is able to recognize movement of hand in
+periphery, but cannot count numbers. 
+- EOMI bilaterally 
+- V1-V3 without deficits to light touch bilaterally. 
+- No facial movement asymmetry. 
+- Hearing intact to finger rub bilaterally.  
+- Palate elevation symmetric. 
+- SCM/Trapezius strength ___ bilaterally. 
+- Tongue midline.
+
+Motor: Normal bulk and tone. No drift. No tremor. ___ strength
+throughout 
+
+Reflexes: 
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     2
+R   2     2      2      2     2 
+
+Plantar response was flexor bilaterally.
+
+Sensory: No deficits to light touch.
+
+Gait: Steady, narrow based, normal arm swing.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 09:41AM   GLUCOSE-104* UREA N-19 CREAT-1.1 SODIUM-142 
+POTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-23 ANION GAP-14
+___ 09:41AM   CALCIUM-8.9 PHOSPHATE-3.9 MAGNESIUM-1.9 
+CHOLEST-189
+___ 09:41AM   TRIGLYCER-145 HDL CHOL-39* CHOL/HDL-4.8 
+LDL(CALC)-121
+___ 09:41AM   TSH-5.4*
+___ 09:41AM   WBC-11.8* RBC-4.59* HGB-14.0 HCT-40.3 MCV-88 
+MCH-30.5 MCHC-34.7 RDW-13.2 RDWSD-42.3
+___ 09:41AM   PLT COUNT-235
+___ 08:47PM   %HbA1c-6.0 eAG-126
+___ 08:36PM   GLUCOSE-109* UREA N-16 CREAT-1.2 SODIUM-142 
+POTASSIUM-4.1 CHLORIDE-103 TOTAL CO2-25 ANION GAP-14
+___ 08:36PM   estGFR-Using this
+___ 08:36PM   ALT(SGPT)-21 AST(SGOT)-21 ALK PHOS-131* TOT 
+BILI-0.4
+___ 08:36PM   CK-MB-2 cTropnT-<0.01
+___ 08:36PM   ALBUMIN-4.7 CALCIUM-10.0 PHOSPHATE-3.5 
+MAGNESIUM-2.0
+___ 08:36PM   ___
+___ 08:36PM   CRP-3.2
+___ 08:36PM URINE  HOURS-RANDOM
+___ 08:36PM URINE  HOURS-RANDOM
+___ 08:36PM URINE  HOURS-RANDOM
+___ 08:36PM URINE  UHOLD-HOLD
+___ 08:36PM URINE  GR HOLD-HOLD
+___ 08:36PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 08:36PM   WBC-17.5* RBC-4.56* HGB-14.1 HCT-40.2 MCV-88 
+MCH-30.9 MCHC-35.1 RDW-13.3 RDWSD-42.6
+___ 08:36PM   NEUTS-70.1 ___ MONOS-5.9 EOS-0.1* 
+BASOS-0.5 IM ___ AbsNeut-12.28* AbsLymp-4.02* AbsMono-1.03* 
+AbsEos-0.02* AbsBaso-0.08
+___ 08:36PM   PLT COUNT-238
+
+PENDING:
+========
+___ 01:06PM BLOOD ProtSFn-PND
+___ 01:06PM BLOOD Lupus-PND
+___ 01:06PM BLOOD BETA-2-GLYCOPROTEIN 1 ANTIBODIES (IGA, 
+IGM, IGG)-PND
+___ 01:06PM BLOOD CARDIOLIPIN ANTIBODIES (IGG, IGM)-PND
+___ 08:36PM BLOOD SED RATE-Test    
+
+IMAGING:
+========
+___ CHEST (PA & LAT): PA and lateral views of the chest 
+provided.  Lungs are clear. There is no focal consolidation, 
+effusion, or pneumothorax.  There are no signs ofcongestion or 
+edema.  The  cardiomediastinal silhouette is normal. Imaged 
+osseous structures are intact.  No free air below the right 
+hemidiaphragm is seen. 
+Impression: no acute intrathoracic process.
+
+___ CTA HEAD AND CTA NECK: 
+CT Head: No acute large vascular territorial infarction or 
+intracranial
+hemorrhage.
+
+CT Head and Neck: There are mild atherosclerotic calcifications 
+along
+bilateral carotid bulbs. The carotid and vertebral arteries are 
+patent
+without flow-limiting stenosis, occlusion, or dissection. The 
+principal
+vessels of the circle of ___ and their primary intracranial 
+branches are
+patent without flow-limiting stenosis, occlusion, or aneurysm 
+greater than 3 mm.
+
+___ MRI BRAIN AND ORBITS: 
+MRI Brain: There is no evidence of hemorrhage, edema, masses, 
+mass effect,
+midline shift orinfarction.  Hyperdense DWI lesion most likely 
+represent T2
+shine through given corresponding lesions on the T2/FLAIR 
+sequences and no ADC correlate. There are scattered T2/FLAIR 
+hyperintensities in the cerebral hemispheres bilaterally, a 
+nonspecific finding and likely related to chronic small vessel 
+ischemic changes. There is no abnormal enhancement after 
+contrast administration.
+ 
+There is generalized parenchymal volume loss, likely age related 
+but more than expected for the patient's age group.  Prominence 
+of the ventricular system and extra-axial CSF spaces is 
+consistent with the previously mentioned parenchymal volume 
+loss. Major vascular flow voids are preserved.  Major dural 
+venous sinuses are patent.
+ 
+There is mucosal thickening in the right frontal sinus and along 
+the ethmoid air cells.  A mucous retention seen in the right 
+sphenoid sinus.  The mastoid air cells are clear.  The orbits 
+appear unremarkable.
+ 
+MRI Orbits: Examination of the orbits is limited due to motion 
+artifact. 
+Allowing for this limitation, the bony orbits and preseptal soft 
+tissues are normal. The globes are intact and normal in 
+appearance. The optic nerves and complex are normal, without 
+edema or abnormal enhancement. The extraocular muscles are 
+uniform in size and normal in signal. The lacrimal apparatus is 
+normal. Retrobulbar soft tissues are normal. Please note that 
+the central retinal artery cannot be visualized by MRI. Usually, 
+the of ophthalmic artery is seen, however, due to the motion 
+artifact the bilateral tonic arteries also not visualized.
+
+Impression: 
+1. Unremarkable MRI of the brain without evidence of acute 
+infarction,
+hemorrhage or mass. 
+2. Nonspecific and nonenhancing white matter lesions in the 
+cerebral
+hemispheres bilaterally likely represent sequela of chronic 
+small vessel
+ischemic changes.
+3. Limited evaluation of the orbits due to motion artifact. 
+Allowing for this limitation, no orbital pathology identified.
+4. Please note that MRI does not visualize the central retinal 
+artery and is therefore not the appropriate exam for detection 
+of central retinal artery occlusions.
+
+___ TRANSTHORACIC ECHOCARDIOGRAM:
+The left atrial volume index is normal. There is no evidence for 
+a right-to-left shunt with agitated saline at rest and with 
+maneuvers. There is normal left ventricular wall thickness with 
+a normal cavity size. There is normal regional left ventricular 
+systolic function. Overall left ventricular systolic function is 
+hyperdynamic. Quantitative biplane left ventricular ejection 
+fraction is 75 %. Left ventricular cardiac index is normal (>2.5 
+L/min/m2). There is no resting left ventricular outflow tract 
+gradient. Normal right ventricular cavity size with normal free 
+wall motion. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal. There is no evidence for an aortic arch 
+coarctation. The aortic valve leaflets (?#) appear structurally 
+normal. There is no aortic valve stenosis. There is no aortic 
+regurgitation. The mitral valve leaflets appear structurally 
+normal with no mitral valve prolapse. There is trivial mitral 
+regurgitation. The tricuspid valve leaflets appear structurally 
+normal. There is physiologic tricuspid regurgitation. The 
+estimated pulmonary artery systolic pressure is high normal. 
+There is no pericardial effusion.
+
+Impression: Normal biventricular cavity sizes, and regional 
+systolic function with hyperdynamic global systolic function. No 
+valvular pathology or pathologic flow identified. High normal 
+estimated pulmonary artery systolic pressure. No definite 
+structural cardiac source of embolism identified.
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with a history of HTN, HLD, 
+Crohn's disease, diverticulitis, and GERD, whom presented with 
+left-sided monocular painless visual loss. His exam was notable 
+for left eye vision loss but is otherwise non-focal. His 
+presentation was most concerning for CRAO, and no classic 
+features of GCA were present; additionally, ESR/CRP were 
+negative. Other stroke risk factors included LDL (121) and A1c 
+(6). 
+
+# Central Retinal Artery Occlusion: Given the patient's 
+presentation, a workup was conducted to assess the potential 
+etiologies for ischemic stroke. CTA head yielded no evidence of 
+acute large vascular territorial infarctions or intracranial
+hemorrhages. No persistent occlusion of the retinal artery was 
+appreciated. CT Head and Neck showed mild atherosclerotic 
+calcifications along bilateral carotid bulbs, but both carotids 
+and both vertebral arteries were patent, without flow-limiting 
+stenosis, occlusion, or dissection. The circle of ___ and 
+it's primary intracranial branches were also patent without 
+flow-limiting stenosis, occlusion, or notable aneurysms. An MRI 
+brain with orbits, though not appropriate for visualizing the 
+central retinal artery, yielded no evidence of hemorrhage, 
+edema, masses, mass effect, midline shift or infarction. 
+
+A TTE with bubble study conducted to determine if any 
+cardioembolic etiology resulting from anatomical abnormalities 
+(i.e. PFO) was present; this was negative.
+
+Stroke labs; ESR and CRP were negative, and D-dimer was normal, 
+however. A1c was 6%. LDL was 121, and Increased LDL post-stroke 
+was identified as a risk factor for future stroke. A 
+hypercoaguable workup including anti-phospholipid antibodies 
+(results pending) and Factor V Leiden prothrombin mutation 
+analysis (___ mutation; ordered for outpatient) was also 
+explored. 
+
+Aspirin at 81 mg daily and Atorvastatin were initiated. ___ 
+were consulted. Upon passing swallow test, the patient was 
+written for a general diet. The patient was kept on VTE 
+prophylaxis via Heparin SC.
+
+Upon discharge, the patient reported no changes in left 
+monocular visual loss. 
+
+# Headache: The patient also reported a headache beginning 
+___ afternoon, originating in the left occiput, and 
+radiating globally. He was initiated on Tylenol PO, which 
+palliated the pain. On ___ evening, he was given Tramadol x1 
+for increased pain. Upon discharge, his pain was managed with 
+Tylenol PO.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 137 mcg PO DAILY 
+2. amLODIPine 2.5 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth QPM Disp #*30 Tablet 
+Refills:*3 
+3.  amLODIPine 2.5 mg PO DAILY  
+4.  Levothyroxine Sodium 137 mcg PO DAILY  
+5.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Central retinal artery occlusion
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ You were hospitalized due to symptoms of visual loss resulting 
+from an CENTRAL RETINAL ARTERY OCCLUSION, which is condition 
+where a blood vessel providing oxygen and nutrients to the 
+retina is blocked by a clot. The retina is the part of your eye 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms.  
+ Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+ - High cholesterol
+ - High blood pressure (hypertension)
+ - Evidence of prior stroke on MRI
+ 
+ We are changing your medications as follows:  
+ - Start taking aspirin 81mg daily
+ - Start taking atorvastatin 40mg daily
+  
+ Please take your other medications as prescribed.  
+ Please follow up with Neurology and your primary care physician 
+as listed below.  
+ If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+ Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

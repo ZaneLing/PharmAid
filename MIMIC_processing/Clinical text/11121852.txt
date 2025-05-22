@@ -1,0 +1,283 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amoxicillin / Fosamax / Penicillins / Sulfa (Sulfonamide 
+Antibiotics) / amitriptyline
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest tightness
+ 
+Major Surgical or Invasive Procedure:
+Coronary angiography ___
+ 
+History of Present Illness:
+___ year old woman with ___ transferred from ___ 
+___ with exertional chest tightness and dyspnea x4 days.
+
+She states that on ___, she was in ___ at a ___ 
+service for her mother (who passed recently from an MI at age 
+___. There, she was ambulating and felt sudden onset tightening 
+in her chest that lasted approximately 5 minutes. She also had 
+associated shortness of breath. Over the weekend, she continued 
+to feel tired. On ___, she felt short of breath going up 3 
+flights of stairs carrying her luggage. On ___, she 
+felt a "fluttering" in her chest that was intermittent. She 
+initially thought it was heartburn, but took 3 Tums, which did 
+not resolve the sensation. She also had some radiation possibly 
+of this sensation down her left arm.
+
+For this, she went to her PCP's office on ___ and then was 
+referred her to ___ due to anterior T wave inversions on 
+ECG. At ___, troponin-T was 0.056 with MB 4.7, then 
+repeated at troponin-T 0.051 with MB 4.3. CXR was performed but 
+no report. Due to concern for NSTEMI and ? ___ pattern, the 
+patient was transferred to to ___ for coronary angiography. 
+She received full-dose ASA and was started on heparin drip prior 
+to transfer. She says she has not had any chest discomfort since 
+yesterday at ___ pm. 
+
+In the ___ ED, initial vitals were: T 98.5 HR 76 BP 154/94 RR 
+16 SaO2 97% on RA. EKG showed biphasic T waves in  V2-V4, new 
+from EKG in ___. Labs/studies notable for troponin-T 0.03, 
+normal CBC, normal chemistry panel (Cr 0.7), PTT 110.2 on 
+heparin gtt. Vitals on transfer: T 98.9 HR 72 BP 100/46 RR 16 
+SaO2 100% on RA.
+
+After arrival to the cardiology ward, the patient denied any 
+chest pain or tightness, shortness of breath, orthopnea, 
+paroxysmal nocturnal dyspnea, lower extremity swelling, syncopal 
+episodes, nausea, vomiting, diaphoresis. She says that she takes 
+some intermittent propranolol for anxiety from public speaking.
+
+REVIEW OF SYSTEMS: Positive per HPI.
+On further review of systems, she denied fevers or chills. She 
+denied any prior history of stroke, TIA, deep venous thrombosis, 
+pulmonary embolism, bleeding at the time of surgery, myalgias, 
+joint pains, cough, hemoptysis, black stools or red stools. She 
+denied exertional buttock or calf pain. All of the other review 
+of systems were negative.
+ 
+Past Medical History:
+1. CAD RISK FACTORS  
+- Diabetes (-)
+- Hypertension (-)
+- Dyslipidemia (+)
+2. CARDIAC HISTORY h/o normal echo in ___  
+3. OTHER PAST MEDICAL HISTORY
+-Dysthymic disorder
+-Palpitations (during public speaking)
+-GERD
+-Osteopenia
+-Colonic adenoma
+-Bilateral sensorineural hearing loss
+ 
+Social History:
+___
+Family History:
+Her mother passed away at age ___ recently of MI. Her maternal 
+grandmother also had angina and passed away from MI at age ___.
+ 
+Physical Exam:
+On admission
+GENERAL: Well developed, well nourished late middle aged white 
+woman in NAD. Oriented x3. Mood, affect appropriate.
+VS: T 97.9 BP 124/86 HR 77 RR 18 SaO2 98% on RA
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. 
+No xanthelasma.
+NECK: Supple. JVP flat.
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops.
+LUNGS: No chest wall deformities or tenderness. No crackles, 
+wheezes or rhonchi.
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.
+SKIN: No significant skin lesions or rashes.
+PULSES: Distal pulses palpable and symmetric.
+
+At discharge
+GENERAL: Well developed, well nourished woman in NAD. Oriented 
+x3. Mood, affect appropriate.
+Vitals: T 98.0, BP 100/42 (87-120 systolic), HR 66-78, SPO2 95% 
+on RA
+HEENT: Normocephalic atraumatic. Sclera anicteric. Conjunctiva 
+were pink. No pallor or cyanosis of the oral mucosa. No 
+xanthelasma.
+NECK: Supple. JVP flat.
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops.
+LUNGS: No chest wall deformities or tenderness. No crackles, 
+wheezes or rhonchi.
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.
+SKIN: No significant skin lesions or rashes.
+PULSES: Distal pulses palpable and symmetric.
+ 
+Pertinent Results:
+___ 03:35AM BLOOD WBC-7.9 RBC-4.14 Hgb-12.6 Hct-38.7 MCV-94 
+MCH-30.4 MCHC-32.6 RDW-13.9 RDWSD-46.7* Plt ___
+___ 03:35AM BLOOD Neuts-52.1 ___ Monos-6.2 Eos-3.3 
+Baso-0.6 Im ___ AbsNeut-4.10 AbsLymp-2.97 AbsMono-0.49 
+AbsEos-0.26 AbsBaso-0.05
+___ 03:35AM BLOOD ___ PTT-110.2* ___
+
+___ 03:35AM BLOOD Glucose-127* UreaN-10 Creat-0.7 Na-143 
+K-3.8 Cl-105 HCO3-23 AnGap-19
+___ 03:35AM BLOOD cTropnT-0.03*
+
+___ 06:08AM BLOOD WBC-5.8 RBC-4.03 Hgb-12.2 Hct-38.0 MCV-94 
+MCH-30.3 MCHC-32.1 RDW-14.0 RDWSD-48.1* Plt ___
+___ 06:08AM BLOOD Glucose-105* UreaN-9 Creat-0.8 Na-138 
+K-4.0 Cl-102 HCO3-25 AnGap-15
+___ 06:08AM BLOOD Calcium-9.5 Phos-4.1 Mg-2.2
+
+ECG ___ 2:53:20 AM
+Sinus rhythm with first degree A-V conduction delay. 
+Non-specific ST-T wave abnormalities. No previous tracing 
+available for comparison.
+
+Echocardiogram ___
+The left atrium and right atrium are normal in cavity size. No 
+atrial septal defect is seen by 2D or color Doppler. Left 
+ventricular wall thicknesses and cavity size are normal. There 
+is mild regional left ventricular systolic dysfunction with 
+hypokinesis of the distal left ventricle and apex. The remaining 
+segments contract normally (LVEF = 45-50%). No masses or thrombi 
+are seen in the left ventricle. Tissue Doppler imaging suggests 
+an increased left ventricular filling pressure (PCWP>18mmHg). 
+Right ventricular chamber size and free wall motion are normal. 
+The diameters of aorta at the sinus, ascending and arch levels 
+are normal. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion. There is no aortic valve 
+stenosis. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. There is no mitral valve 
+prolapse. Mild (1+) mitral regurgitation is seen. The pulmonary 
+artery systolic pressure could not be determined. There is an 
+anterior space which most likely represents a prominent fat pad. 
+A trivial circumferential pericardial effusion is seen.
+IMPRESSION: Distal left ventricular dysfunction c/w stress 
+cardiomyopathy, but cannot exclude CAD (eg distal LAD disease), 
+with mildly reduced ejection fraction. Mild mitral 
+regurgitation. 
+
+Coronary angiography ___
+Coronary Anatomy
+Dominance: Right
+* Left Main Coronary Artery: The LMCA is free of angiographic 
+CAD.
+* Left Anterior Descending: The LAD is free of angiographic CAD.
+* Circumflex: The Circumflex is free of angiographic CAD.
+* Right Coronary Artery: The RCA is free of angiographic CAD.
+Intra-procedural Complications: None
+Impressions:
+1. No obstructive CAD.
+ 
+Brief Hospital Course:
+___ y/o woman with hyperlipidemia and family history of ___ 
+transferred from ___ with anginal symptoms, EKG 
+concerning for ___ sign, and mild troponin elevation 
+consistent with a NSTEMI.
+
+ACTIVE ISSUES
+# Takotsubo's cardiomyopathy: Patient was transferred from 
+___ after having episodes of chest tightness on exertion 
+and associated shortness of breath. She was found to have 
+troponin-T to 0.05 ___nd normal CK-MB. EKG concerning 
+for ___ criteria suggestive of proximal LAD disease, so she 
+was transferred to ___ on ___ after receiving full dose ASA 
+and started on heparin gtt. Notably, her mother passed away in 
+___ from MI and she had these symptoms at her mother's ___ 
+service on ___. Echocardiogram showed LVEF 45-50% and distal LV 
+dysfunction consistent with stress cardiomyopathy. Coronary 
+angiography showed no flow-limiting CAD, consistent with 
+Takotsubo stress-induced cardiomyopathy. She was started on 
+metoprolol succinate 25 mg daily. She was not started on an ACE 
+inhibitor due to lower blood pressures. She will follow-up with 
+cardiology as an outpatient and have a repeat TTE to assess 
+recovery of LVEF.
+
+CHRONIC ISSUES
+# Hyperlipidemia: She was started on atorvastatin 40 mg instead 
+of her home simvastatin given evidence of myocardial necrosis.
+
+TRANSITIONAL ISSUES
+# Patient discharged on metoprolol succinate 25 mg daily. She 
+did not require diuretics. Unable to start ACE-inhibitor due to 
+low blood pressure 
+# Please check metabolic panel at primary care follow-up 
+appointment to monitor renal function.
+# Repeat TTE in ___ weeks to assess LVEF. 
+
+# CODE: Full
+# CONTACT: daughter (___) ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 10 mg PO QPM 
+2. Calcium Carbonate 500 mg PO QID:PRN heartburn 
+3. Aspirin 81 mg PO DAILY 
+ 
+Discharge Medications:
+1.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+2.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+3.  Aspirin 81 mg PO DAILY  
+4.  Calcium Carbonate 500 mg PO QID:PRN heartburn
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Stress induced (Takotsubo's) cardiomyopathy, with
+# Myocardial necrosis
+# Hyperlipidemia
+# Gastroesophageal reflux disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you during your hospitalization 
+at ___. You were admitted after having chest tightness and a 
+concerning EKG. You had an echocardiogram, which showed a 
+decrease in your heart pumping function, in a pattern consistent 
+with "stress cardiomyopathy" or dysfunction in the main heart 
+muscle due to severe stress. You also had a cardiac 
+catheterization, which fortunately did not show coronary artery 
+disease. We believe that your symptoms and testing are 
+consistent with stress cardiomyopathy (also known as 
+broken-heart syndrome). For this, we have placed you on heart 
+medications and we anticipate that this condition should improve 
+over time. You have an appointment scheduled with a cardiologist 
+after you return from your ___ vacation and you should have 
+a follow-up echocardiogram as an outpatient.
+
+You are also scheduled to see your primary care doctor in one 
+week. Please keep this appointment to make sure you are doing 
+well after discharge.  
+
+We wish you the best,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

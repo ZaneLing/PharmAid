@@ -1,0 +1,273 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Diarrhea
+ 
+Major Surgical or Invasive Procedure:
+n/a
+ 
+History of Present Illness:
+Mr. ___ is an ___ man with history of HTN, hypothyroidism, 
+RBBB who presented with diarrhea that developed while completing 
+an outpatient course of clindamycin/amoxicillin for recent 
+dental infection/root canal. 
+
+Initial WBC 24, started PO vanco empirically while awaiting 
+stool studies. 
+
+He was a little confused about exact dates but states that 
+sometime in late ___, he had the root canal and afterwards was 
+prescribed clindamycin. he completed the clindamycin course 
+("maybe 6 days or so") then still felt some pain in his tooth, 
+told his doctor that he still thought there was some infection 
+there, so was prescribed a second course of antibiotic, this 
+time amoxicillin. 2 days prior to completing his amoxicillin 
+course (several days prior to admission), he started developing 
+diarrhea. He completed the amoxicillin course anyway but the 
+diarrhea persisted. He also noted feeling generally unwell and 
+notes ongoing nausea and poor PO intake during this time. Mild 
+vague adominal pain but not worse in any specific quadrant. 
+
+No prior history of cdiff. no sick contacts. no recent travel 
+out of the country or state. After I noticed thrush in his 
+mouth, he did note some pain with swallowing yesterday, which 
+has resolved today however. 
+
+Vitals on arrival to the ED were: temp 98.2, HR 85, BP 96/53, 
+100% RA. He was found to have leukocytosis to 24.2 (82% polys, 
+6% bands). He also had ___ with Cr 1.9, BUN 74, bicarb 18 (no 
+gap), and K 5.5.
+
+He was given IVF and admitted to medicine for suspected C diff. 
+
+ROS:  
+(+)cough (nonproductive "ever since I started the antibiotic"
+(-)chest pain, shortness of breath, leg swelling
+Remainder of comprehensive 10 point ROS it otherwise negative.
+ 
+Past Medical History:
+Recent dental infection
+HTN
+HLD
+RBBB
+Hypothyroidism
+ 
+Social History:
+___
+Family History:
+mother-had DM type 2
+ 
+Physical Exam:
+Vitals: 97.5 PO 136 / 72 73 18 96 RA 
+Gen: ambulating around the room in no apparent distress
+HEENT: AT, NC, PERRL, EOMI, MMM, hearing grossly intact
+GI: soft, NT, ND, no HSM 
+MSK: No edema
+Skin: No rashes or ulcerations evident
+Neuro: A+O x4, speech fluent, face symmetric, moving all
+extremities, stable gait
+Psych: calm mood, appropriate affect
+
+ 
+ 
+Pertinent Results:
+ADMISSION LABS: 
+___ 12:32AM BLOOD WBC-24.4*# RBC-4.23* Hgb-12.4* Hct-37.1* 
+MCV-88 MCH-29.3 MCHC-33.4 RDW-13.7 RDWSD-43.7 Plt ___
+___ 12:32AM BLOOD Neuts-82* Bands-6* Lymphs-5* Monos-4* 
+Eos-0 Baso-0 ___ Myelos-3* AbsNeut-21.47* 
+AbsLymp-1.22 AbsMono-0.98* AbsEos-0.00* AbsBaso-0.00*
+___ 12:32AM BLOOD Glucose-131* UreaN-74* Creat-1.9* Na-135 
+K-5.5* Cl-102 HCO3-18* AnGap-21*
+___ 12:32AM BLOOD ALT-43* AST-37 AlkPhos-137* TotBili-0.3
+___ 12:32AM BLOOD Albumin-3.0*
+___ 12:42AM BLOOD ___ Comment-GREEN TOP/
+___ 12:42AM BLOOD Lactate-1.6 K-5.4*
+
+=
+================================================================
+IMAGING: 
+CXR ___:   
+IMPRESSION:  
+  
+Streaky left retrocardiac airspace opacity likely represents 
+atelectasis.  
+However, superimposed infection cannot be fully excluded. 
+  
+AXR ___: 
+IMPRESSION:  
+  
+Thumbprinting of the transverse colon compatible with known 
+history C diff 
+colitis.  No evidence of megacolon. 
+
+=
+================================================================
+ **FINAL REPORT ___
+
+   C. difficile DNA amplification assay (Final ___: 
+      Reported to and read back by ___ (___) @ 2200 ON 
+___. 
+      CLOSTRIDIUM DIFFICILE. 
+         Positive for toxigenic C difficile by the Cepheid 
+nucleic
+         amplification assay.            (Reference 
+Range-Negative). 
+
+=
+=
+=
+=
+=
+=
+=
+=
+================================================================
+Discharge Labs: 
+___ 07:20AM BLOOD WBC-13.3* RBC-3.74* Hgb-10.8* Hct-32.3* 
+MCV-86 MCH-28.9 MCHC-33.4 RDW-13.2 RDWSD-41.2 Plt ___
+___ 07:20AM BLOOD Glucose-96 UreaN-12 Creat-0.9 Na-136 
+K-3.8 Cl-104 HCO3-21* AnGap-15
+___ 07:20AM BLOOD Calcium-7.6* Phos-2.8 Mg-1.6
+ 
+Brief Hospital Course:
+Summary: Mr. ___ is an ___ man with history of HTN, 
+hypothyroidism, RBBB who presented with diarrhea that developed 
+while completing an outpatient course of clindamycin/amoxicillin 
+for recent dental infection/root canal. Initial WBC 24 (6% 
+bands), started PO vanco empirically while awaiting stool 
+studies, which later confirmed +cdiff. Overall clinically 
+improved, renal failure and diarrhea resolved prior to 
+discharge. 
+
+#Sepsis (WBC 24 with evidence of end organ involvement (renal 
+failure)) due to 
+#Cdiff infection, severe
+He was started PO vancomycin empirically given highly convincing 
+history for cdiff, which was later confirmed on stool testing. 
+Given rising WBC on hospital day 2, AXR and serum lactate were 
+checked and were reassuringly normal. He was briefly hypotensive 
+on ___ as well, which corrected with IV fluids. AXR done ___ 
+showed thumbprinting consistent with cdiff colitis but no 
+evidence of megacolon. He was initiated on vancomycin 125 mg po 
+qid for a planned 14-day course to complete on ___. On the 
+day of discharge, his diarrhea had resolved. 
+
+#Acute renal failure: 
+#HTN: 
+Cr on admission 1.9 (from baseline 1.1) likely prerenal azotemia 
+in setting of dehydration/diarrhea given highly elevated BUN. 
+Resolved after IVF. In the setting of ___, his valsartan/HCTZ 
+was held. His BP remained well controlled off this medication. 
+He was instructed to hold off resuming the med until seen in his 
+follow-up appointment with his PCP.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. valsartan-hydrochlorothiazide 160-12.5 mg oral DAILY 
+2. Fluocinonide 0.05% Cream 1 Appl TP BID:PRN as necessary daily 
+
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+4. Simvastatin 20 mg PO QPM 
+5. Aspirin 81 mg PO DAILY 
+6. Levothyroxine Sodium 50 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Vancomycin Oral Liquid ___ mg PO Q6H 
+you are to complete a total of 2 weeks of oral vancomycin. last 
+day is ___ 
+RX *vancomycin 125 mg 1 capsule(s) by mouth every 6 hours Disp 
+#*48 Capsule Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Fluocinonide 0.05% Cream 1 Appl TP BID:PRN as necessary 
+daily  
+4.  Levothyroxine Sodium 50 mcg PO DAILY  
+5.  Metoprolol Succinate XL 25 mg PO DAILY  
+6.  Simvastatin 20 mg PO QPM  
+7. HELD- valsartan-hydrochlorothiazide 160-12.5 mg oral DAILY  
+This medication was held. Do not restart 
+valsartan-hydrochlorothiazide until you see your primary care 
+physician.
+8.Outpatient Physical Therapy
+diagnosis: M17.10
+Evaluate and Treat
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-clostridium difficile colitis
+-dehydration
+-acute kidney injury
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+ You were hospitalized at ___. 
+
+ 
+
+Why were you in the hospital?
+ =======================
+-clostridium difficile colitis
+-dehydration
+-acute renal failure
+
+ 
+
+ 
+
+What did we do for you?
+ =======================
+ -we gave you an antibiotic for your gastrointestinal infection, 
+called oral vancomycin. You will need to complete a 2 week 
+course (see medication list for details)
+ -you were also given intravenous fluid to help your dehydration 
+and your kidneys
+
+ 
+
+ 
+
+What do you need to do?
+ =======================
+ - complete your vancomycin course
+ - do NOT restart your blood pressure medication valsartan/HCTZ 
+until you are seen by your primary care physician. Your blood 
+pressure has remained well controlled off this medication during 
+your hospital stay.
+
+ 
+
+ 
+
+ Please follow up with your primary care doctor.
+
+ 
+
+It was a pleasure taking care of you. We wish you the best!
+
+Sincerely,
+ Your ___ Medicine Team 
+ 
+Followup Instructions:
+___

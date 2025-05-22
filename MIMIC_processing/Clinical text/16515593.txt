@@ -1,0 +1,259 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+BRBPR
+ 
+Major Surgical or Invasive Procedure:
+___ - Colonoscopy
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with PMHx of MS who presents for DOE from 
+her PCP office for anemia.  She notes that over the past two 
+weeks she has had SOB with usual activities without evidence of 
+chest pain. She notes that she has had increasing BRBPR as well. 
+She has a history of internal hemorroidal bleeding, s/p banding 
+previously.  She does note some palpitations throughout this 
+time.  She also carries a diagnosis of MS, and has been using 
+NSAIDs at home, though not with any regularity. She denies any 
+abd pain, nausea, vomiting, hematemesis or melena. 
+ 
+Past Medical History:
+Tobacco dependence 
+Myelitis 
+Multiple sclerosis 
+Leiomyoma of uterus 
+Acne 
+Eczema 
+Hypertension, essential 
+Rectal bleeding 
+Hematuria 
+Fibroids 
+Internal hemorrhoids 
+Herpes progenitalis 
+Spasticity 
+Arthritis of left shoulder region 
+IMMUNOSUPPRESSED STATE DUE TO MEDICATION 
+Optic neuritis 
+Umbillical hernia repair with mesh
+ 
+Social History:
+___
+Family History:
+No family history of IBD
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+======================
+VS:  98.6 PO 145/67 L Lying 90 18 100 RA 
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, conjunctiva pale, 
+MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+RECTAL: Large hemorrhoid at anal verge, deferred internal exam, 
+bright red blood in bedpan
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose, notes 
+decreased sensation to light touch in bilateral hands and feet 
+(baseline)
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes
+
+DISCHARGE PHYSICAL EXAM
+======================
+VS:  97.8PO 133 / 66 78 18 100 RA
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, conjunctiva pale, 
+MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB  
+ABDOMEN: nondistended, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+RECTAL: deferred
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose, notes 
+decreased sensation to light touch in bilateral hands and feet 
+(baseline)
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+ 
+Pertinent Results:
+ADMISSION LAB RESULTS
+===================
+___ 09:15PM BLOOD WBC-8.0 RBC-2.48* Hgb-7.8* Hct-23.9* 
+MCV-96 MCH-31.5 MCHC-32.6 RDW-12.9 RDWSD-45.5 Plt ___
+___ 09:15PM BLOOD Glucose-88 UreaN-7 Creat-0.7 Na-139 K-3.9 
+Cl-104 HCO3-20* AnGap-15
+___ 09:15PM BLOOD ___
+
+DISCHARGE LAB RESULTS
+====================
+___ 07:10AM BLOOD WBC-7.9 RBC-2.59* Hgb-8.0* Hct-24.9* 
+MCV-96 MCH-30.9 MCHC-32.1 RDW-13.5 RDWSD-47.9* Plt ___
+___ 07:10AM BLOOD Glucose-84 UreaN-6 Creat-0.6 Na-142 K-4.2 
+Cl-112* HCO3-15* AnGap-15
+
+IMAGING/STUDIES
+==============
+___ Colonoscopy:
+Internal hemorrhoids
+Normal mucosa in the whole colon
+Normal mucosa in the terminal ileum
+Semi-solid and liquid stool was noted scattered in the whole 
+colon. This was copiously irrigated and the patient was 
+re-positioned to improve mucosal visualization. Despite these 
+measures, small size pathology may have been missed.
+Otherwise normal colonoscopy to cecum
+
+ 
+Brief Hospital Course:
+___ is a ___ with PMHx of MS and hemorrhoids 
+presenting with two weeks of anemia and bright red blood per 
+rectum.
+
+#Acute Blood Loss and ___ Deficiency Anemia secondary to 
+internal hemorrhoids. 
+She presented with two weeks of bright red blood per rectum with 
+each bowel movement. She received a blood transfusion with 1U 
+pRBCs. She had a colonoscopy on ___ which showed internal 
+hemorrhoids. No intervention was done. The patient remained 
+hemodynamically stable. She should follow-up with Colorectal 
+surgery for banding of internal hemorrhoids. Of note, she was 
+found to be ___ deficient. She should receive IV ___ infusions 
+as PO ___ can worsen her constipation and thus worsen the 
+hemorrhoids. She should also ensure that she has ___ soft bowel 
+movements per day. 
+
+#MS
+___ home glatiramer. Continued home baclofen prn.
+
+#HTN
+Held home labetalol in setting of GI bleed and normotension. 
+
+#H/o HSV
+Continued home acyclovir
+
+TRANSITIONAL ISSUES
+===================
+- Patient should follow-up with ___ Colorectal Surgery for 
+expedited appointment
+- She was found to be ___ deficient. She should have IV ___ 
+infusions as PO ___ supplementation will worsen constipation 
+and worsen internal hemorrhoids. 
+- Labetalol held at discharge as patient was normotensive. 
+Please restart as needed.
+- Patient should have ___ soft bowel movements per day. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. glatiramer 40 mg/mL subcutaneous 3X/WEEK 
+2. Acyclovir 400 mg PO Q12H 
+3. Gabapentin 300 mg PO QHS 
+4. Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+5. Tretinoin 0.025% Cream 1 Appl TP QHS 
+6. Hydrocortisone Acetate Suppository ___ID 
+7. Triamcinolone Acetonide 0.1% Cream 1 Appl TP BID 
+8. Fluocinolone Acetonide 0.025% Cream 1 Appl TP BID 
+9. clindamycin-benzoyl peroxide 1.2 %(1 % base) -5 % topical QHS 
+
+10. Baclofen 10 mg PO TID:PRN Muscle Spasms 
+11. Labetalol 200 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Acyclovir 400 mg PO Q12H  
+2.  Baclofen 10 mg PO TID:PRN Muscle Spasms  
+3.  clindamycin-benzoyl peroxide 1.2 %(1 % base) -5 % topical 
+QHS  
+4.  Fluocinolone Acetonide 0.025% Cream 1 Appl TP BID  
+5.  Gabapentin 300 mg PO QHS  
+6.  glatiramer 40 mg/mL subcutaneous 3X/WEEK  
+7.  Hydrocortisone Acetate Suppository ___ID  
+8.  Tretinoin 0.025% Cream 1 Appl TP QHS  
+9.  Triamcinolone Acetonide 0.1% Cream 1 Appl TP BID  
+10. HELD- Ibuprofen 600 mg PO Q8H:PRN Pain - Mild  This 
+medication was held. Do not restart Ibuprofen until your 
+bleeding stops. 
+11. HELD- Labetalol 200 mg PO BID  This medication was held. Do 
+not restart Labetalol until you are told to do so by your 
+primary care doctor
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+- Internal hemorrhoids
+
+Secondary Diagnosis:
+- Multiple sclerosis
+- Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+You were hospitalized at ___. 
+
+Why did you come to the hospital?
+=================================
+- You came to the hospital because you were having bright red 
+blood from your rectum.
+
+What did we do for you?
+=======================
+- We gave you a blood transfusion
+- You had a colonoscopy. The colonoscopy showed internal 
+hemorrhoids. 
+- Your blood count remained stable. 
+
+What do you need to do?
+=======================
+- Please continue to make sure that you have ___ soft bowel 
+movements per day. You can take Senna, Colace, Miralax, OR fiber 
+supplementation. 
+- Please follow-up with your primary care doctor on ___, ___
+- Please follow-up with ___ Colorectal surgery. Please call 
+them on ___ at ___ and ask for an expedited 
+appointment. 
+- If you have worsening bleeding from your rectum, or feel more 
+dizzy or lightheaded, please go back to urgent care or come back 
+to the emergency room.
+- Please stop taking your labetalol until you are told to 
+restart it by your primary care doctor.  
+- Talk to your primary care doctor ___ infusions. 
+- Do not take Advil. If you have a headache, please take 
+Tylenol. 
+
+It was a pleasure caring for you. We wish you the best!
+
+Sincerely,
+Your ___ Medicine Team
+ 
+Followup Instructions:
+___

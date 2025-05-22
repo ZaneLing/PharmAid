@@ -1,0 +1,281 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Visual hallucinations
+ 
+Major Surgical or Invasive Procedure:
+N/A
+
+ 
+History of Present Illness:
+___ male with ___ disease, dyslipidemia, and a
+history of prostate cancer (s/p prostatectomy) who was referred
+to the ED by his neurologist for worsening gait, falls, and
+visual hallucinations. 
+
+The following history is taken from chart review: 
+
+The patient was seen by his neurologist on ___ at which time he
+was noted to have visual hallucinations and worsening gait
+freezing. For his gait freezing, his mirapex was increased by
+0.125 mg every week to a goal dose of 0.75 mg t.i.d. He
+successfully up-titrated the medicine to 0.75/0.625/0.625 but
+began to have visual hallucinations and confusion so on ___ his
+neurologist recommended decreasing the dose to 0.625 TID. 
+Despite
+the changes to his Mirapex, the patient's daughter has noted
+progressive gait stiffness and increased difficulty standing.
+This has resulted in difficulty with simply getting to the
+bathroom leading to episodes of incontinence. A UA performed on
+___ was reassuring. 
+
+On the day of presentation to the hospital, the patient began to
+experience visual hallucinations of a motor cross race in his
+backyard. He subsequently had a fall while transferring from the
+couch to a chair. His wife was unable to get him off the floor.
+The fall was witnessed and there was no head strike. Per the
+patient's wife, his gait has acutely worsened over the past 24
+hours to the point where he has been unable to ambulate on his
+own. The patient's daughter called his neurologist who
+recommended presentation to the ED. 
+
+In the ED, the patient was afebrile, HRs ___, normotensive, and
+SpO2 100% RA. On exam he was noted to have cogwheeling of upper
+extremities and decrease ___ strength. Labs were remarkable for a
+negative urine and serum tox, Na 132, K 5.8 (hemolyzed and no 
+EKG
+changes), negative troponin, normal LFTs, unremarkable CBC. 
+Chest
+Xray showed no acute process and CTH was reassuring. He was
+evaluated by neurology who recommended admission to medicine for
+failure to thrive, to continue the patient's home medications,
+and complete a toxo-metabolic workup. The patient was given his
+home pramipexole and pravastatin before he was admitted.  
+
+On arrival to the floor, the patient is comfortable in bed. He 
+is
+not accompanied by family on my interview. He knows that he is 
+in
+the hospital and that it is ___. He is not sure why he is here
+and begins to tell me about a party in his house with a motor
+cross race in his backyard. When I asked him about his fall, he
+mentions that he has not had a fall for ___ years. He denies any
+fevers, chills, cough, chest pain, abdominal pain, nausea,
+diarrhea, or dysuria. 
+
+REVIEW OF SYSTEMS:
+==================
+Per HPI, otherwise, 10-point review of systems was within normal
+limits.
+
+ 
+Past Medical History:
+___ disease
+___ Body Dementia 
+dyslipidemia 
+prostate cancer (s/p prostatectomy)
+ 
+Social History:
+___
+Family History:
+His mother died at age ___ of "old age."
+His father died of prostate cancer at ___.  He has an older 
+sister
+(age ___ and a younger sister (age ___.  He has a younger 
+brother
+(age ___.  As noted, he has 2 daughters.  There is no family
+history of neurologic illness or dementia.  There is no family
+history of neurodevelopmental mental disorders such as learning
+disability or ADHD.  There is no family history of psychiatric
+problems.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: reviewed in OMR 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. cogwheel UE b/l. Increased tone
+in LEs, ___ strength b/l ___. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM
+======================
+24 HR Data (last updated ___ @ 2340)
+    Temp: 97.7 (Tm 98.4), BP: 130/80 (130-153/80-90), HR: 80
+(80-104), RR: 18 (___), O2 sat: 100% (95-100), O2 delivery: Ra 
+
+
+GENERAL: In no acute distress. Talking very quietly.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm.
+NEUROLOGIC: AOx3. CN2-12 intact. cogwheel UE b/l. Increased tone
+in LEs, ___ strength b/l ___. Normal sensation.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 10:30PM BLOOD WBC-8.6 RBC-4.03* Hgb-12.8* Hct-38.2* 
+MCV-95 MCH-31.8 MCHC-33.5 RDW-13.0 RDWSD-45.2 Plt ___
+___ 10:30PM BLOOD Neuts-48.1 ___ Monos-15.9* 
+Eos-2.0 Baso-0.6 Im ___ AbsNeut-4.13 AbsLymp-2.86 
+AbsMono-1.36* AbsEos-0.17 AbsBaso-0.05
+___ 10:30PM BLOOD ___ PTT-23.4* ___
+___ 10:30PM BLOOD Glucose-100 UreaN-17 Creat-0.8 Na-132* 
+K-5.8* Cl-98 HCO3-19* AnGap-15
+___ 10:30PM BLOOD ALT-18 AST-38 AlkPhos-39* TotBili-0.4
+___ 10:30PM BLOOD Lipase-47
+___ 10:30PM BLOOD cTropnT-<0.01
+___ 10:30PM BLOOD Albumin-4.0 Calcium-9.9 Phos-3.7 Mg-2.0
+___ 10:30PM BLOOD VitB12-570
+___ 10:30PM BLOOD TSH-1.4
+___ 07:00AM BLOOD Trep Ab-NEG
+___ 10:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+IMAGING:
+========
+___ Imaging CT HEAD W/O CONTRAST  
+FINDINGS:  
+There is no evidence of infarction, hemorrhage, edema, or mass.  
+There is 
+prominence of the ventricles and sulci suggestive of 
+involutional changes. 
+There is no evidence of fracture.  The visualized portion of the 
+remaining 
+paranasal sinuses and middle ear cavities are clear.  The 
+visualized portion of the orbits are unremarkable apart from 
+bilateral lens replacements. 
+IMPRESSION: 
+1. No acute intracranial abnormality.  No hydrocephalus. 
+
+___ Imaging CHEST (PA & LAT) 
+IMPRESSION:  
+Mild atelectasis in the lung bases without focal consolidation.  
+
+Age-indeterminate moderate to severe compression deformity of a 
+low thoracic vertebral body. 
+
+DISCHARGE LABS:
+===============
+___ 06:21AM BLOOD WBC-7.0 RBC-4.02* Hgb-12.9* Hct-38.1* 
+MCV-95 MCH-32.1* MCHC-33.9 RDW-12.8 RDWSD-44.4 Plt ___
+___ 06:21AM BLOOD Glucose-88 UreaN-10 Creat-0.7 Na-140 
+K-4.0 Cl-104 HCO3-24 AnGap-12
+___ 06:21AM BLOOD Calcium-9.5 Phos-3.2 Mg-1.___ male with ___ disease, dyslipidemia, and a
+history of prostate cancer (s/p prostatectomy) who was referred
+to the ED by his neurologist for worsening gait, falls, and
+visual hallucinations concerning for progression of his
+neurologic disorder. 
+
+ACUTE/ACTIVE ISSUES:
+====================
+___ disease
+___ Body Dementia 
+#Visual Hallucinations 
+The patient appears to have acute on chronic progression of his
+___ disease. Unclear if this is disease progression or
+underlying medical cause. Continued mirapex, rasagiline, and 
+rivastigmine. Neurology recommended started Seroquel for his 
+hallucinations.
+
+He was evaluated by physical therapy who recommended rehab. This 
+recommendation was discussed with the family who opted for 
+discharge to home with home physical therapy as this was in line 
+with the patient's goals of care.
+
+TRANSITIONAL ISSUES:
+[] f/u visual hallucination symptoms on Seroquel
+[] f/u physical therapy at home
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Rasagiline 1 mg PO DAILY 
+2. Pramipexole 0.625 mg PO TID 
+3. rivastigmine 9.5 mg/24 hr transdermal DAILY 
+4. Pravastatin 40 mg PO QPM 
+5. Cyanocobalamin Dose is Unknown  PO DAILY 
+6. Loratadine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  QUEtiapine Fumarate 25 mg PO QHS 
+RX *quetiapine 25 mg 1 tablet(s) by mouth AT NIGHT Disp #*30 
+Tablet Refills:*0 
+2.  Loratadine 10 mg PO DAILY  
+3.  Pramipexole 0.625 mg PO TID  
+4.  Pravastatin 40 mg PO QPM  
+5.  Rasagiline 1 mg PO DAILY  
+6.  rivastigmine 9.5 mg/24 hr transdermal DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+___ Dementia
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a privilege caring for you at ___. 
+
+WHY WAS I IN THE HOSPITAL? 
+- You were sent to the emergency room by your neurologist who 
+was concerned that you were having visual hallucinations.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL? 
+- You were started on a new medication to help treat your 
+symptoms.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL? 
+- Continue to take all your medicines and keep your 
+appointments. 
+
+We wish you the best! 
+
+Sincerely, 
+Your ___ Team 
+ 
+Followup Instructions:
+___

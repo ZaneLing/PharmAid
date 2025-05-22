@@ -1,0 +1,134 @@
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Demerol
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+none
+
+attach
+ 
+Pertinent Results:
+Labs:
+=====
+___ 01:52AM BLOOD WBC-6.0 RBC-4.24 Hgb-12.5 Hct-38.3 MCV-90 
+MCH-29.5 MCHC-32.6 RDW-13.3 RDWSD-43.6 Plt ___
+___ 01:52AM BLOOD Neuts-55.2 ___ Monos-10.2 Eos-1.5 
+Baso-0.5 Im ___ AbsNeut-3.30 AbsLymp-1.93 AbsMono-0.61 
+AbsEos-0.09 AbsBaso-0.03
+___ 01:52AM BLOOD Glucose-139* UreaN-7 Creat-0.6 Na-141 
+K-3.6 Cl-99 HCO3-29 AnGap-13
+___ 01:52AM BLOOD ALT-20 AST-20 AlkPhos-65 TotBili-0.6
+___ 01:52AM BLOOD Albumin-4.1 Calcium-9.6 Phos-3.5 Mg-2.1 
+UricAcd-5.1
+
+Imaging:
+========
+Atrius CT Neck/Torso:
+CT NECK:
+IMPRESSION:
+Approximate 17 mm spiculated nodule right upper lobe most
+consistent with primary lung neoplasm/carcinoma with mediastinal
+heterogeneous lymph nodes measuring up to 16 mm and right
+supraclavicular soft tissue mass as well as additional right
+supraclavicular and lower neck lymph nodes most consistent with
+metastatic adenopathy although some may be reactive. Multiple
+bilateral subcentimeter pulmonary nodules of relative low 
+density
+and ___ opacity which are nonspecific and could be
+inflammatory or metastatic. The right supraclavicular
+heterogeneous presumed malignant mass measuring approximately 
+5.1
+cm x 3.5 cm does cause displacement of adjacent structures
+including vascular structures, the thyroid gland and trachea 
+with
+compression of the right jugular vein although the right jugular
+vein does appear to be patent. Chronic changes with scarring and
+left granuloma. Heterogeneous uterus with multiple masses
+including calcified masses most consistent with myomas. Renal 
+and
+hepatic hypodensities most consistent with cysts. Hepatic
+calcified granulomas.
+ 
+Brief Hospital Course:
+___ with a history of HL, T2DM, paroxysmal SVT and palpitations, 
+who presented due to a right-sided neck mass.
+
+# Neck mass: developed swelling in the right base of 
+neck/supraclavicular area
+starting five days prior to admission. CT at urgent care 
+revealed a heterogeneous right supraclavicular mass along with a 
+17mm spiculated lung nodule concerning for primary lung cancer. 
+She has no smoking history.
+She had no stridor, dysphagia, or shortness of breath. Uric acid 
+level was normal.
+She was referred for admission in order to undergo biopsy given 
+concern for rapid growth of mass, and concern for compression of 
+nearby structures.
+Case was discussed with ___ but biopsy not able to be performed 
+over the long weekend. Per ___, there is a significant cystic 
+component of the supraclavicular mass which they felt was most 
+likely responsible for the rapid enlargement. The solid 
+component appeared small. They did not feel that there was 
+evidence of airway involvement or compression (Atrius radiology 
+report noted some concern for tracheal displacement). Patient 
+preferred to go home and return for an outpatient biopsy. She 
+was instructed to return to the ED immediately if she developed 
+any shortness of breath, dysphagia, or any other concerning 
+symptoms.
+
+> 30 minutes spent on discharge coordination and planning
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 25 mg PO DAILY 
+2. Simvastatin 20 mg PO QPM 
+3. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 25 mg PO DAILY  
+2.  Simvastatin 20 mg PO QPM  
+3.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Neck mass
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came in with a mass on your neck. You will need to have this 
+mass biopsied but unfortunately this was not able to be 
+performed over the weekend.
+We are working on setting up an outpatient biopsy with the 
+radiologists. Someone should call you with an appointment. If 
+you do not hear from anyone by ___ of next week, please 
+call ___.
+
+If you develop any shortness of breath, difficulty swallowing, 
+or fevers, please return to the emergency room immediately.
+
+It was pleasure taking care of you.
+ 
+Followup Instructions:
+___

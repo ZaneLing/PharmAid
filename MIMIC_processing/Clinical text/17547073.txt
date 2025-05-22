@@ -1,0 +1,280 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is an ___
+year old male with a history ___ body dementia, HTN,
+hyperlidemia, history of prostate cancer and melanoma who
+presents following a fall found to have an elevated troponin.
+
+Patient is a resident at ___. He was noted
+to have 3 falls in the last 2 days prompting transfer to ___. The first fall happened in the setting of using the
+restroom and reportedly his knees buckled. He previously a
+possible head strike in the setting of falls and right knee pain
+following.
+
+At ___ head was negative for acute intracranial
+process or fracture seen. CT of the C spine also was without
+fracture or traumatic injury. He denies any chest pain however
+troponin was checked while at ___ (Troponin I) which
+increased from 0.015 to 0.023 and patient transferred to ___
+for cardiac evaluation. 
+
+In the ED
+- Initial vitals: T98.3 HR78 BP157/95 97% RA
+- EKG: Sinus rhythm, no ST changes appreciated
+- Labs/studies notable for: 
+Hemolyzed specimen:
+Na 140 K 5.7, Cl 104, BUN 19 Sr Cr 0.9
+Troponin 0.03, MB 4
+CBC: WBC 9.3 Hgb 12.7 Plt 237
+INR 1.1
+- Patient was given: No medications administered
+- Vitals on transfer: T98.3 HR80 BP154/84 98% RA
+
+On the floor, Mr. ___ is able to provide limited history.
+He was unable to recount recent falls and denies any current 
+knee
+or chest pain. The remaining history was obtained via his
+daughter ___ and his caregiver. In discussion with his
+daughter ___, he has baseline aphasia and is at times
+difficult to understand. He has difficult with memory recall and
+difficulty dissociating dreams from reality. She was not with 
+him
+during recent falls but notes that falls have been an
+intermittent issue over the past few months and that orthostatic
+hypotension was one of the presenting symptoms for his dementia
+diagnosis. 
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS
+- Hypertension
+- Dyslipidemia
+
+2. CARDIAC HISTORY
+- CABG: None
+- PERCUTANEOUS CORONARY INTERVENTIONS: None
+- PACING/ICD: None
+
+3. OTHER PAST MEDICAL HISTORY
+Obesity 
+Hernia, inguinal 
+History of herniorrhaphy 
+Hypertension, essential 
+Hypercholesterolemia 
+Keratosis, actinic 
+Cancer of prostate 
+Mitral valve prolapse 
+MELANOMA - TRUNK, .4mm, level II., ___ 
+___ (squamous cell carcinoma), scalp/neck 
+Health Care Proxy 
+___ positional vertigo 
+Parkinsonism 
+Dementia with ___ bodies
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+===============================
+GENERAL: NAD, only oriented to self
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: no JVD 
+CV: RRR, no murmurs or gallops
+PULM: CTAB
+GI: abdomen soft, nondistended, nontender
+EXTREMITIES: no cyanosis, clubbing, or edema. No bruising or
+edema at right knee, full ROM on exam
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DISCHARGE PHYSICAL EXAMINATION:
+===============================
+24 HR Data (last updated ___ @ 1201)
+    Temp: 98 (Tm 98.3), BP: 112/76 (112-162/76-89), HR: 82
+(79-82), RR: 18 (___), O2 sat: 98% (96-100), O2 delivery: RA,
+Wt: 185.85 lb/84.3 kg  
+Fluid Balance (last updated ___ @ 1202) 
+  Last 8 hours  Total cumulative 340ml
+    IN: Total 340ml, PO Amt 340ml
+    OUT:  Total 0ml, Urine Amt 0ml
+  Last 24 hours  Total cumulative 340ml
+    IN: Total 340ml, PO Amt 340ml
+    OUT:  Total 0ml, Urine Amt 0ml  
+GENERAL: Lying in bed in no apparent distress confabulated 
+speech
+HEENT: PERRLA, MMM
+NECK: no JVD 
+CV: RRR, no murmurs or gallops
+PULM: CTAB
+GI: abdomen soft, nondistended, nontender
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 05:49AM   GLUCOSE-96 UREA N-18 CREAT-0.9 SODIUM-143 
+POTASSIUM-4.3 CHLORIDE-107 TOTAL CO2-27 ANION GAP-9*
+___ 05:49AM   CK-MB-4 cTropnT-0.03*
+___ 05:49AM   CALCIUM-9.3 PHOSPHATE-2.8 MAGNESIUM-2.0
+___ 05:49AM   WBC-8.3 RBC-3.84* HGB-11.7* HCT-36.4* MCV-95 
+MCH-30.5 MCHC-32.1 RDW-13.1 RDWSD-45.0
+___ 05:49AM   PLT COUNT-216
+___ 05:49AM   ___ PTT-29.3 ___
+___ 04:00AM   K+-4.7
+___ 01:58AM   GLUCOSE-98 UREA N-19 CREAT-0.9 SODIUM-140 
+POTASSIUM-5.7* CHLORIDE-104 TOTAL CO2-25 ANION GAP-11
+___ 01:58AM   CK(CPK)-200
+___ 01:58AM   cTropnT-0.03*
+___ 01:58AM   CK-MB-4
+___ 01:58AM   WBC-9.3 RBC-4.21* HGB-12.7* HCT-40.5 MCV-96 
+MCH-30.2 MCHC-31.4* RDW-13.1 RDWSD-46.1
+___ 01:58AM   NEUTS-63.7 ___ MONOS-8.2 EOS-1.1 
+BASOS-0.4 IM ___ AbsNeut-5.94 AbsLymp-2.46 AbsMono-0.77 
+AbsEos-0.10 AbsBaso-0.04
+___ 01:58AM   PLT COUNT-237
+___ 01:58AM   ___ PTT-28.0 ___
+
+STUDIES:
+========
+EKG: Sinus rhythm, left axis deviation, no acute ST changes.
+Early R wave progression. 
+
+DISCHARGE LABS:
+===============
+___ 05:49AM BLOOD WBC-8.3 RBC-3.84* Hgb-11.7* Hct-36.4* 
+MCV-95 MCH-30.5 MCHC-32.1 RDW-13.1 RDWSD-45.0 Plt ___
+___ 05:49AM BLOOD Plt ___
+___ 05:49AM BLOOD ___ PTT-29.3 ___
+___ 05:49AM BLOOD Glucose-96 UreaN-18 Creat-0.9 Na-143 
+K-4.3 Cl-107 HCO3-27 AnGap-9*
+___ 05:49AM BLOOD CK-MB-4 cTropnT-0.03*
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES
+====================
+[] Patient exhibiting signs of worsening of his ___ Body 
+Dementia. Patient may benefit from transfer of care to assisted 
+living. 
+
+SUMMARY STATEMENT
+=================
+Mr. ___ is an ___ year old male with a history ___ 
+body dementia, HTN, hyperlidemia, history of prostate cancer and 
+melanoma who presents following a fall found to have an elevated 
+troponin. Troponins plateaued, and EKG was without ischemic 
+changes. The patient was discharged back to ___ on the 
+___ with home ___. He was encouraged to follow-up with 
+his neurologist.
+
+# ___: 
+Troponin elevation likely secondary to cardiac stress in the 
+setting of recent traumatic falls leading to demand ischemia. 
+EKG without significant ST changes. Troponins stabilized at 
+0.03. Patient received aspirin load. Metoprolol and a statin 
+were deferred given the patient's other comorbidities. 
+
+# Recurrent Falls: 
+Notably 3 falls prior to admission, no evidence of trauma on OSH 
+CT head or CT neck. Regarding etiology, first event happened in 
+the setting of micturition and standing hich raises the 
+possibility of a vasovagal event which is further compounded by 
+likely underlying autonomic dysfunction from ___ Body dementia. 
+Additionally gait instability a common feature ___ Body 
+dementia and in review of ___ records has had issues with 
+falls dating back to ___. Patient was discharged with 
+home ___ Therapy.
+
+# ___ Body Dementia: 
+Follows with Dr. ___ through ___. Held 
+Rivastigmine patch as it was non-formulary. 
+
+# Nutritional Supplements: 
+Continued MVI.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. rivastigmine 13.3 mg/24 hour transdermal daily 
+3. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Multivitamins 1 TAB PO DAILY  
+3.  rivastigmine 13.3 mg/24 hour transdermal daily  
+4.Outpatient Physical Therapy
+Diagnosis: ___ Body Dementia, ICD 10: G31.83. Gait instability, 
+ICD 10: R26.89. Please evaluate and treat. 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Type 2 ___ Body Dementia
+HTN
+HL
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ ___ 
+___. 
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were transferred here from ___ because you 
+had an elevated cardiac enzyme in your blood. 
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- We continued to monitor the cardiac enzyme, and it was stable. 
+We looked at your EKG, and it did not show any evidence of 
+problems with your heart. 
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- You should continue to take your medications as prescribed. 
+
+We wish you the best!
+Your ___ Care Team 
+
+ 
+Followup Instructions:
+___

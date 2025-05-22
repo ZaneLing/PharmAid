@@ -1,0 +1,180 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Hyponatremia
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ year old female with hypothyroidism and hyperlipidemia and 
+being treated for pneumonia who presents with hyponatremia found 
+on outpatient labs.  She was diagnosed with CAP on ___ after 
+presenting with cough and fever. She was prescribed levofloxacin 
+that day, but had significant emesis after starting and was 
+recommended to switch to azithromycin.  She reportedly has not 
+stopped the levofloxacin and has not started the Zithromax.  
+Patient's previously noted sodium baseline is 133 in ___.  
+Sodium was checked as an outpatient and was noted to be 113.  
+The lab finding was incidental, with patient not complaining of 
+lightheadedness, dizziness, headaches, confusion or seizure 
+activity initially.  Now when seen, she does report some 
+lightheadedness when all of this has been going on.
+
+In the ED, initial vitals were 98.7 65 148/79 15 100% RA.  WBC 
+was 3.2K, sodium 118, urine sodium 24, urine osmolality 366.  
+Sodium was rechecked 22 hours after initial low sodium and was 
+found to be 124.  She received 2 liters NS and acetaminophen 650 
+mg x 1.  CXR showed no acute process.  UA was unremarkable, with 
+urine culture sent.
+
+Currently, she reports no vision changes, weakness or numbness, 
+headache or seizure activity.  She has a mild cough.  There are 
+no current fevers or chills.
+
+ 
+Review of systems:  
+10 pt ROS negative other than noted
+ 
+Past Medical History:
+Pancreatitis with pancreas enlargement noted at ___ 
+___ ___ years ago
+Cervical spine osteoarthritis
+Peptic ulcer disease
+ 
+Social History:
+___
+Family History:
+Mother with stroke in ___
+Brother with stomach cancer
+Sister with rheumatoid arthritis
+ 
+Physical Exam:
+ADMISSION EXAM:
+=============
+Vitals: 98.5PO 145/90 65 16 95% on RA 
+GEN: Alert, oriented to name, place and time. Fatigued appearing 
+but comfortable, no acute signs of distress.  
+HEENT: NCAT, Pupils equal and reactive, sclerae anicteric, OP 
+clear, MMM.  
+Neck: Supple, no JVD
+Lymph nodes: No cervical, supraclavicular LAD.  
+CV: S1S2, reg rate and rhythm, no murmurs, rubs or gallops.  
+RESP: Good air movement bilaterally, no rhonchi or wheezing.  
+ABD: Soft, non-tender, non-distended, + bowel sounds.  
+EXTR: No lower leg edema, no clubbing or cyanosis  
+DERM: No active rash.  
+Neuro: EOMI, muscle strength ___ in all major muscle groups, 
+sensation to light touch intact, non-focal.  
+PSYCH: Appropriate and calm.  
+
+DISCHARGE EXAM essentially unchanged from admission exam.
+ 
+Pertinent Results:
+ADMISSION LABS:
+=============
+___ 03:20PM BLOOD WBC-3.9* RBC-4.28 Hgb-13.0 Hct-36.7 
+MCV-86# MCH-30.4 MCHC-35.4 RDW-11.9 RDWSD-37.2 Plt ___
+___ 03:20PM BLOOD UreaN-11 Creat-0.8 Na-113* K-4.7 Cl-80* 
+HCO3-22 AnGap-16
+___ 03:20PM BLOOD Iron-31 Cholest-226*
+___ 03:20PM BLOOD Triglyc-82 HDL-108 CHOL/HD-2.1 
+LDLcalc-102
+___ 03:20PM BLOOD Ferritn-217*
+___ 09:20AM BLOOD Osmolal-250*
+___ 03:20PM BLOOD TSH-5.4*
+___ 08:41PM BLOOD Na-128*
+
+DISCHARGE LABS:
+=============
+___ 07:00AM BLOOD WBC-3.4* RBC-4.00 Hgb-12.4 Hct-34.2 
+MCV-86 MCH-31.0 MCHC-36.3 RDW-12.0 RDWSD-38.0 Plt ___
+___ 07:00AM BLOOD Glucose-98 UreaN-9 Creat-0.7 Na-131* 
+K-4.0 Cl-97 HCO3-23 AnGap-15
+___ 03:04AM BLOOD Calcium-8.3* Phos-2.9 Mg-2.___ year old female with hypothyroidism and hyperlipidemia and 
+being treated for pneumonia who presents with hyponatremia found 
+on outpatient labs.
+
+# Hyponatremia: Na: 113 on admission, prior Na's have been in 
+130's range.  Given recent pna and elevated urine osm, likely a 
+component of SIADH.  However, pt was also noted to be 
+orthostatic and corrected 11mEq in 24 hours with IVF's 
+suggesting also related to hypovolemia.  Pt also reported 
+drinking a lot of tea and water in s/o poor PO intake from 
+recent illness so possible low solute intake.  Nephrology was 
+consulted given rapid overcorrection and was given 1 liter D5W 
+to counteract this.  Her Na improved to 131 on day of discharge 
+and pt no longer felt orthostatic when ambulating.
+ 
+# Possible pneumonia: patient recently treated with 
+levofloxacin, switched to azithromycin due to having nausea with 
+vomiting.  Apparently, she did not stop taking the levofloxacin 
+however.  On CXR in the ED, she was found to have no evidence of 
+pneumonia so was not treated with further abx while inpatient.  
+ 
+Biling: greater than 30 minutes spent on discharge counseling 
+and coordination of care.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fish Oil (Omega 3) 1000 mg PO BID 
+2. Multivitamins 1 TAB PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Cal-Citrate (calcium citrate-vitamin D2) 315/200 mg/units 
+oral Q8H 
+5. Glucosamine 1500 Complex (glucosamine-chondroit-vit C-Mn) 
+500-400 mg oral Q24H 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Cal-Citrate (calcium citrate-vitamin D2) 315/200 mg/units 
+oral Q8H  
+3.  Fish Oil (Omega 3) 1000 mg PO BID  
+4.  Glucosamine 1500 Complex (glucosamine-chondroit-vit C-Mn) 
+500-400 mg oral Q24H  
+5.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hyponatremia
+Community acquired pneumonia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came in with low sodium levels.  We think that this was 
+related to your pneumonia and low oral intake due to your recent 
+illness.  We gave you some fluids and your sodium levels 
+improved.
+
+Please continue to stay hydrated and eat as much as you can 
+tolerate after discharge.  Please call your PCP if you 
+experience any dizziness, nausea, vomiting, fevers, or if you 
+have any other concerns.
+
+It was a pleasure taking care of you at ___ 
+___.
+ 
+Followup Instructions:
+___

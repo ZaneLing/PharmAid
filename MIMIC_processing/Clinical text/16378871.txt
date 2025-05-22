@@ -1,0 +1,295 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers and chills
+ 
+Major Surgical or Invasive Procedure:
+ERCP ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with a history of
+end-stage ___ and dysphagia with PEG placement, chronic
+anticoagulation, who was transferred to ___ from an outside
+hospital with a presumed diagnosis of cholangitis. Mr. ___
+was in his normal state of health until yesterday, when he felt
+that he had a fever. Otherwise, he endorsed no other symptoms --
+denied abdominal pain, diarrhea, though he did endorse an
+unspecified amount of weight loss. Per chart review, his main
+symptom was decreased consciousness.  He was brought to ___. There his temp was 102.1 and he required 3 L
+O2. A bedside ultrasound showed a dilated CBD. A CXR was read as
+concerning for PNA, and he was started on levofloxacin and
+vancomycin, as well as clindamycin. He received a CT which 
+showed
+mildly dilated intrahepatic, CBD, and pancreatic ducts. GI at 
+___ was consulted, who recommended transfer to ___ for ERCP.
+Otherwise, he had a run of NSVT. Labs at OS___ showed BUN/Cr
+___, Na 133, Cl 91, WBC 10.3, Hgb 11.6, Plt 156. INR 7.8.
+Trop negative. Lactic acid 1.3. In our ED, AVSS.  UA negative,
+BMP notable for K of 3.1, ALP 720, T Bili 4.6, D Bili 3.8,
+ALT/AST 91/149, WBC 10.2 with a Hgb of 11.5. INR 8.1. Due to 
+this
+elevated INR, he was given FFP and IV vitamin K. He had an ERCP,
+with a plastic stent placed through a stricture. Brushings were
+taken. No sphincterotomy was performed d/t anticoagulation. He
+was then admitted to medicine.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative.
+ 
+Past Medical History:
+End stage Parkinsons
+Dysphagia requiring PEG tube placement with tube feedings
+Atrial fibrillation on chronic anticoagulation
+History of PE
+CHF, presumed preserved ejection fraction
+DJD
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS: 98.1 PO 147 / 71  L Lying 60 20 92 RA 
+GENERAL: Alert and in no apparent distress with bilateral
+tremors. He is A+O x 3
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: irreg irreg, no mrg
+RESP: Coarse BS in BLE bilaterally.  Breathing is non-labored
+GI: S/NT/ND, +BS, PEG tube in place
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Moving extremities independently
+SKIN: No rashes or ulcerations noted
+NEURO: Bilateral pill rolling tremor and masked facies
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM:
+VITALS: reviewed 
+GENERAL: Alert and in no apparent distress with bilateral
+tremors. He is A+O x 3
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: irreg irreg, no mrg
+RESP: Coarse BS in BLE bilaterally.  Breathing is non-labored
+GI: S/NT/ND, +BS, PEG tube in place
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Moving extremities independently
+SKIN: No rashes or ulcerations noted
+NEURO: Bilateral pill rolling tremor and masked facies
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+___ 06:30AM BLOOD WBC-10.2* RBC-3.41* Hgb-11.5* Hct-34.3* 
+MCV-101* MCH-33.7* MCHC-33.5 RDW-14.4 RDWSD-52.5* Plt ___
+___ 06:30AM BLOOD Neuts-82.6* Lymphs-9.7* Monos-6.4 
+Eos-0.7* Baso-0.2 Im ___ AbsNeut-8.40* AbsLymp-0.99* 
+AbsMono-0.65 AbsEos-0.07 AbsBaso-0.02
+___ 06:30AM BLOOD ___ PTT-64.3* ___
+___ 06:30AM BLOOD Glucose-79 UreaN-21* Creat-0.6 Na-137 
+K-3.1* Cl-98 HCO3-28 AnGap-11
+___ 06:30AM BLOOD ALT-91* AST-149* AlkPhos-720* 
+TotBili-4.6* DirBili-3.8* IndBili-0.8
+___ 06:30AM BLOOD Albumin-3.0* Calcium-8.5 Phos-3.0 Mg-1.7
+___ 06:35AM BLOOD Lactate-1.0
+
+IMAGING
+-------
+ERCP ___:
+The scout film was normal. 
+Dark bile was draining from the major papilla. 
+The CBD was successfully cannulated using a Rx sphincterotome 
+preloaded with 0.035in guidewire. 
+Contrast injection revealed a 1cm mid-upper CBD stricture with 
+dilation of the upper CBD at approximately 15mm in diameter. 
+Given the anticoagulation status of the patient the decision 
+was made not to perform biliary sphincterotomy. 
+Multiple brushings were obtained from the stricture and sent 
+for cytology. 
+A ___ x 7cm straight plastic CBD stent was successfully placed 
+in the CBD across the stricture. 
+There was excellent bile and contrast drianage at the end of 
+the procedure. 
+
+CTA pancreas ___:
+1. Suspected 1.5 x 1.3 cm hypoenhancing pancreatic head mass 
+abutting the CBD stent and portal vein.  There is mild 
+dilatation of the main pancreatic duct, measuring up to 0.5 cm 
+with relative atrophy of the more distal pancreas.  Correlation 
+with cytology from the CBD brushings is recommended. 
+2. There is moderate intrahepatic biliary dilatation and a new 
+CBD stent.  The gallbladder is diffusely dilated, measuring up 
+to 11.7 x 8.5 cm, previously 11.6 x 7.3 cm. 
+3. Unchanged left lower lobe ground-glass opacity and 
+consolidation, 
+concerning for aspiration or pneumonia in the correct clinical 
+setting. 
+4. The rectum and sigmoid colon are diffusely distended with 
+stool.
+
+MICROBIOLOGY
+------------
+Blood culture ___: pending, NGTD
+Urine culture ___: negative
+
+DISCHARGE EXAM
+--------------
+___ 06:05AM BLOOD WBC-4.0 RBC-3.08* Hgb-10.3* Hct-31.1* 
+MCV-101* MCH-33.4* MCHC-33.1 RDW-14.9 RDWSD-55.8* Plt ___
+___ 06:05AM BLOOD ___ PTT-33.3 ___
+___ 06:05AM BLOOD Glucose-119* UreaN-22* Creat-0.6 Na-142 
+K-3.2* Cl-102 HCO3-29 AnGap-11
+___ 06:05AM BLOOD ALT-53* AST-151* LD(LDH)-162 AlkPhos-816* 
+TotBili-3.1*
+ 
+Brief Hospital Course:
+___ male with end-stage ___ disease requiring 
+tube feeding, atrial fibrillation and pulmonary embolism on 
+chronic anticoagulation, who presented with cholangitis and 
+found to have a stricture and pancreatic head mass, concerning 
+for pancreatic cancer.
+
+ACUTE/ACTIVE PROBLEMS:
+# Cholangitis
+# Bile duct obstruction
+# Pancreatic duct stricture, concerning for cancer: presented 
+with fevers and chills, evidence of cholangitis, and underwent 
+ERCP which revealed stricture with plastic stent placed.  
+Discussed with oncology who recommended CTA pancreas to further 
+evaluate.  LFTs downtrended after ERCP, and patient was placed 
+on five days of ciprofloxaxcin.  CTA pancreas revealed a 
+pancreatic head mass.  Brushings taken during ERCP are pending 
+pathological analysis.  Pancreas Care was e-mailed and will 
+contact the patient's health care proxy to schedule a 
+multidisciplinary meeting.  He will require repeat ERCP in four 
+weeks and will need to be off anticoagulation for this, to be 
+scheduled by ERCP team.
+
+# Atrial fibrillation on chronic anticoagulation
+# History of pulmonary embolism: s/p FFP and Vit K for INR 8.1 
+on admission. Repeat INR 1.5.  Warfarin 5 mg daily was started 
+following ERCP.  INR was 1.6 on the day of discharge.  Warfarin 
+should be continued and INR rechecked on ___ to assure INR 
+goal of ___.
+
+# End stage ___. Home Sinemet, gabapentin, and trazodone 
+were continued.
+
+# Depression. Home paroxetine was continued.
+
+# Gout. Home colchicine was continued.
+
+# GERD. Home famotidine was continued.
+
+# Nutrition/Hydration: Tube feeds, 1.5 Jevity  240 mL QID, soft
+foods for palliation
+
+TRANSITIONS OF CARE
+-------------------
+# Follow-up: Brushings were taken during ERCP are pending 
+pathological analysis, which will need to be followed up.  
+Pancreas Care was e-mailed and will contact the patient's health 
+care proxy to schedule a multidisciplinary meeting after 
+discharge.  He will require repeat ERCP in four weeks and will 
+need to be off anticoagulation for this, to be scheduled by ERCP 
+team.  INR should be rechecked on ___.
+
+# Contacts/HCP/Surrogate and Communication: ___
+___, discussed on ___
+# Code Status/Advance Care Planning: FULL confirmed with patient
+and on MOLST from ___ (please also see current POE order)
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Colchicine 0.6 mg PO DAILY 
+2. Famotidine 20 mg PO/NG DAILY 
+3. Furosemide 20 mg PO/NG EVERY OTHER DAY 
+4. Ocuvite (vit C-vit E-lutein-min-om-3) 150-30-5-150 
+mg-unit-mg-mg oral DAILY 
+5. PARoxetine 20 mg PO/NG DAILY 
+6. Acetaminophen 1000 mg PO/NG Q6H:PRN Pain - Mild 
+7. Gabapentin 300 mg PO/NG TID 
+8. Carbidopa-Levodopa (___) 3 TAB PO/NG QID 
+9. TraZODone 12.5 mg PO/NG QHS:PRN insomnia, restlessness 
+10. Warfarin Dose is Unknown  PO DAILY16 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 3 Days 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*6 Tablet Refills:*0 
+2.  Warfarin 5 mg PO DAILY16  
+3.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild  
+4.  Carbidopa-Levodopa (___) 3 TAB PO QID  
+5.  Colchicine 0.6 mg PO DAILY  
+6.  Famotidine 20 mg PO DAILY  
+7.  Furosemide 20 mg PO EVERY OTHER DAY  
+8.  Gabapentin 300 mg PO TID  
+9.  Ocuvite (vit C-vit E-lutein-min-om-3) 150-30-5-150 
+mg-unit-mg-mg oral DAILY  
+10.  PARoxetine 20 mg PO DAILY  
+11.  TraZODone 12.5 mg PO QHS:PRN insomnia, restlessness  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___. 
+ 
+Discharge Diagnosis:
+Cholangitis
+Bile duct obstruction and stricture
+Pancreas head mass
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you during your recent stay at 
+___.  You came for further evaluation of fevers and chills, 
+and were found to have blockage of your common bile duct and 
+subsequent infection.  An ERCP was performed and noted a mass on 
+the head of your pancreas, and this was confirmed with a CT 
+scan.  A stent was placed during your ERCP to relieve the 
+obstruction.  Your infection improved with this intervention and 
+with antibiotics.
+
+It will be very important for you to follow up with our Pancreas 
+Care center after your discharge, to follow up the biopsy that 
+was taken of your pancreas, and for further planning for your 
+care.
+
+It is also important for you to take all medications as 
+prescribed.
+
+Good luck!
+ 
+Followup Instructions:
+___

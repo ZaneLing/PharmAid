@@ -1,0 +1,383 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abd pain, fevers/chills, constipation
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS:
+Mr. ___ is a ___ with no significant past medical history who
+presents as a referral from urgent care with constipation and
+ketonuria. 
+
+He reports 3d constipation with associated diffuse abdominal
+pain. He tried eating something yesterday but had an episode of
+emesis 2hrs later, and has not tried eating again since. 
+Endorses
+subjective fevers, chills, and sweats at home. Denies any sick
+contacts or recent travels. He attempted OTC laxatives at home
+and had a small amount of non-bloody, watery stool after. He was
+seen at urgent care today where they obtained urine and basic
+labs. Patient was discharged with Miralax, decusate and senna,
+but was then called from the urgent care to be seen in the ED 
+due
+to ketones in his urine.
+
+In the ED, initial vital signs were: T 98.2, HR 88, BP 153/92, 
+O2
+sat 100% RA
+
+Labs were notable for:
+WBC 31.2 (86.4% N)
+HCO3 21
+UA: 3 WBCs, neg nitrites, neg leuk esterase, large blood, 40
+ketones
+
+Studies performed include:
+CT A&P with contrast:
+1. Sigmoid colon diverticulitis. No drainable fluid collection 
+or
+extraluminal gas.
+2. Fat stranding around the decompressed bladder, may relate to
+the acute diverticulitis, but correlate with urinalysis to 
+assess
+for infection. Recommend correlation with urinalysis.
+
+Patient was given:
+- 1L NS
+- 500 mg IV metronidazole
+- 750 mg IV levofloxacin
+- 4 mg IV morphine
+
+Vitals on transfer: T 98.5 HR 76 BP 137/54 RR 14 O2 99% RA
+
+Upon arrival to the floor, patient endorses the above history 
+and
+adds that he has never had issues with constipation, but had an
+episode of bloody diarrhea for which he underwent colonoscopy at
+___. He believes this showed diverticulosis only. He has been
+passing gas and reports that his abdominal pain has improved
+since receiving morphine in the ED. 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:
+Diverticulosis
+Tobacco abuse
+Hematuria
+
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:
+No family history of IBD or colon cancer. No known family 
+history
+of MI, CVA, or cancer.
+ 
+Physical Exam:
+PHYSICAL EXAM:  
+Vitals: 
+___ 0739 Temp: 98.0 PO BP: 143/91 HR: 58 RR: 18 O2 sat: 98%
+O2 delivery: Ra 
+General: Obese, sleeping comfortably, readily roused,
+appropriately interactive, in no acute distress. 
+HEENT: Normocephalic, PERRL, EOMI, oropharynx clear, MMM. 
+Neck: No cervical lymphadenopathy. 
+Lungs: Breathing comfortably on room air, clear to auscultation
+bilaterally. 
+CV: Regular rate and rhythm, no murmurs
+GI: Obese, non-distended, soft, minimally tender to palpation in
+lower abdomen. No masses or hepatosplenomegaly appreciated 
+Ext: No cyanosis or edema. Spatulate-shaped nails, patient
+reports they have been that shape since childhood. 
+Neuro: Alert, orientedx3. Able to readily discuss recent and
+remote details of history. CN II-XII intact. Strength ___ in 
+arms
+and legs. Sensation intact to light touch in hands and feet. 
+ 
+Pertinent Results:
+==============
+Admission Labs
+==============
+___ 02:53PM BLOOD WBC-31.2* RBC-4.98 Hgb-14.1 Hct-42.5 
+MCV-85 MCH-28.3 MCHC-33.2 RDW-14.3 RDWSD-44.4 Plt ___
+___ 02:53PM BLOOD Neuts-86.4* Lymphs-4.6* Monos-7.7 
+Eos-0.2* Baso-0.2 Im ___ AbsNeut-26.94* AbsLymp-1.44 
+AbsMono-2.40* AbsEos-0.07 AbsBaso-0.06
+___ 02:53PM BLOOD Glucose-95 UreaN-10 Creat-0.9 Na-137 
+K-3.8 Cl-98 HCO3-21* AnGap-18
+___ 06:25AM BLOOD ALT-6 AST-8 LD(LDH)-159 AlkPhos-66 
+TotBili-0.9
+___ 06:25AM BLOOD Albumin-3.5 Calcium-8.8 Phos-2.9 Mg-1.8
+___ 03:20PM URINE Color-Yellow Appear-Hazy* Sp ___
+___ 03:20PM URINE Blood-LG* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-40* Bilirub-SM* Urobiln-4* pH-6.0 Leuks-NEG
+___ 03:20PM URINE RBC-61* WBC-3 Bacteri-FEW* Yeast-NONE 
+Epi-1
+
+==============
+Discharge Labs
+==============
+___ 06:30AM BLOOD WBC-13.4* RBC-4.24* Hgb-12.1* Hct-36.7* 
+MCV-87 MCH-28.5 MCHC-33.0 RDW-14.2 RDWSD-44.9 Plt ___
+___ 06:30AM BLOOD Neuts-75.9* Lymphs-11.0* Monos-9.2 
+Eos-2.8 Baso-0.5 Im ___ AbsNeut-10.18* AbsLymp-1.48 
+AbsMono-1.24* AbsEos-0.38 AbsBaso-0.07
+___ 06:30AM BLOOD Glucose-84 UreaN-4* Creat-0.9 Na-141 
+K-3.5 Cl-102 HCO3-18* AnGap-21*
+___ 06:30AM BLOOD ALT-10 AST-17 AlkPhos-78 TotBili-0.4
+___ 06:30AM BLOOD Albumin-3.4* Calcium-8.7 Phos-3.4 Mg-1.9
+
+==============
+Microbiology
+==============
+___ Urine Culture
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT
+      WITH SKIN AND/OR GENITAL CONTAMINATION. 
+ 
+___ 3:59 pm BLOOD CULTURE      #2. 
+   Blood Culture, Routine (Pending):    No growth to date. 
+ 
+___ 2:30 pm BLOOD CULTURE      #1. 
+   Blood Culture, Routine (Pending):    No growth to date. 
+ 
+___ 11:58 am STOOL     CONSISTENCY: WATERY
+      Source: Stool. 
+                            **FINAL REPORT ___
+   C. difficile PCR (Final ___: 
+      NEGATIVE. 
+           (Reference Range-Negative). 
+      The C. difficile PCR is highly sensitive for toxigenic
+      strains of C. difficile and detects both C. difficile
+      infection (CDI) and asymptomatic carriage. 
+      A negative C. diff PCR test indicates a low likelihood of
+      CDI or carriage. 
+
+==============
+Imaging
+==============
+CT ABDOMEN/PELVIS WITH CONTRAST ___
+1. Sigmoid colon diverticulitis.  No drainable fluid collection 
+or 
+extraluminal gas. 
+2. Fat stranding around the decompressed bladder, may relate to 
+the acute 
+diverticulitis, but correlate with urinalysis to assess for 
+infection.  
+Recommend correlation with urinalysis. 
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE
+=====================
+___ yo M with hx of diverticulosis who presents from urgent care 
+with ketonuria and complaint of 3d of abd pain, poor PO intake, 
+and constipation with fevers/chills, found to have sigmoid 
+diverticulitis with significant leukocytosis. Patient responded 
+well to medical management and was tolerating PO by discharge. 
+
+=============
+ACUTE ISSUES:
+=============
+# Uncomplicated sigmoid colon diverticulitis
+The patient presented with 3d LLQ abdominal pain associated with 
+subjective fevers/chills/sweats. Found to have possible sigmoid 
+diverticulitis without CT evidence of perforation or abscess. He 
+was treated for this diverticulitis as an inpatient given 
+significant leukocytosis to 31 on admission. His abdominal exam 
+was benign throughout his stay and he remained hemodynamically 
+stable. He was initially kept NPO but his diet was advanced to 
+regular diet by discharge and tolerated well. He received 
+maintenance IV fluids until he was drinking sufficient fluids. 
+His pain was well-controlled with just Tylenol while on the 
+floor. He was initially started on IV antiobiotics, but 
+transitioned to PO ciprofloxacin/flagyl for a 10d course: 
+___. Of note, his ___ records were obtained and his 
+colonoscopy report from ___ showed extensive diverticulosis and 
+6 polyps, 3 of which were adenomas. He was set up with a PCP and 
+outpatient GI f/u for colonoscopy. 
+
+# Leukocytosis
+The patient had significant leukocytosis to 31 on admission, 
+higher than usually expected for diverticulitis. There was no hx 
+of diarrhea, he was never toxic-appearing, and he had no other 
+clear sources of infection. Cdiff PCR, blood and urine cultures 
+were negative. He also reported significant night sweats, but 
+these were contemporaneous with his abdominal sx and resolved 
+with treatment. His leukocytosis declined rapidly during his 
+stay, and was 13.4 on discharge. 
+
+# Ketonuria, fasting ketosis
+Patient with 40 ketones on admission, likely in the setting of 
+poor PO over days prior to admission. This improved with IVF and 
+advancing diet, with reduction in ketones to 10 from 40 on day 
+of discharge. Patient with no history of diabetes, fasting 
+sugars while in house 80-90, unlikely DKA. Alcoholic ketosis on 
+differential, as patient stopped drinking >48 hours prior to 
+admission although no recent binging episodes.
+
+# Microsopic hematuria
+Etiology unclear. No signs/symptoms of UTI. Patient does have 
+punctate renal stone in the interpolar region of the left kidney 
+seen on CT. No evidence suggesting glomerular bleeding. Per 
+patient he has history of hematuria s/p cystoscopy at ___ in 
+___. However, he denies noticing any blood in his urine 
+recently. Note that he is age >___ and patient has had history of 
+smoking (25 pack years). The patient's ___ cystoscopy report of 
+___ was obtained and was unremarkable, the report also 
+alludes to CTU with no abnormalities. His urine culture showed 
+mixed flora consistent with contamination. The decision on 
+whether to arrange new urology f/u was deferred to his new PCP.
+
+# EtOH use
+Patient reporting ___ mixed drinks/day for past few months, on 
+prior baseline of 1/wk. Reports this is in setting of a new 
+relationship. No hx of withdrawal or complications thereof. No 
+evidence of withdrawal during his stay. 
+
+# Elevated BP without diagnosis of hypertension 
+Note that while inpatient, the patient's SBP ranged into the 
+150s; however this was in the setting of diverticulitis. Will 
+need to recheck as outpatient once abdominal pain improved.
+
+# Constipation (resolved)
+Presenting complaint, but per patient actually had very small 
+liquid stools ___ and ___, was passing flatus throughout his 
+stay, and had poor PO during this time. There was never signs of 
+ileus/obstruction on exam or imaging. Used miralax PRN and was 
+having regular BMs by discharge. 
+
+===============
+CHRONIC ISSUES:
+===============
+# Obesity, BMI 42
+We note that patient enjoys the finer foods in life, including 
+grilled cheese and fries instead of vegetables (does not like to 
+eat salads). In this setting he may benefit from further 
+discussion of diet and lifestyle modifications as an outpatient.
+
+# Tobacco use. 1ppd, ___ yrs
+- Patient offered nicotine patch but declined
+
+===================
+TRANSITIONAL ISSUES
+===================
+# Uncomplicated sigmoid colon diverticulitis
+# History of colon polyps (___)
+[] Ciprofloxacin 500 mg BID + metronidazole 500 mg PO Q8H x 10 
+days ending ___
+[] Please help the patient arrange a ___ colonoscopy as an 
+outpatient in ___ weeks after episode of diverticulitis
+
+# Leukocytosis
+[] Please recheck CBC one week after discharge to ensure 
+leukocytosis resolved
+
+# Fasting ketosis
+[] Please recheck chem-7 in one week after discharge to make 
+sure anion gap has closed
+
+# Microsopic hematuria
+[] Please check UA one week after discharge
+[] Please consider urology ___ as outpatient
+
+# EtOH use
+[] Please counsel patient on cessation of alcohol and connect 
+with resources as appropriate
+
+# Elevated BP without diagnosis of hypertension 
+[] Please re-check BP at PCP ___ visit
+
+# Obesity
+[] Please counsel patient regarding lifestyle interventions
+
+#Code: Full 
+#CONTACT: ___
+ Relationship: SISTER
+ Phone: ___
+
+ 
+___ on Admission:
+None
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H  
+2.  MetroNIDAZOLE 500 mg PO Q8H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Uncomplicated sigmoid colon diverticulitis
+Ketonuria, fasting ketosis
+Microsopic hematuria
+Elevated BP without diagnosis of hypertension
+Obesity
+EtOH use
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+
+Dear Mr. ___,  
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I IN THE HOSPITAL?  
+You were in the hospital because you had 3 days of abdominal 
+pain, fevers/chills, inability to eat or drink, and 
+constipation. You went to an urgent care clinic and were told to 
+come to the hospital because your lab values were unusual.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+While you were in the hospital your blood and urine were tested. 
+These tests showed signs of inflammation and of not eating much 
+in the past few days. You got a CT scan of your abdomen which 
+showed diverticulitis.  This is a condition in which small 
+pouches form in your colon (large intestine) and become inflamed 
+or infected. You were given IV fluids and antibiotics to help 
+you stay hydrated and treat this infection. By the time you were 
+discharged you were eating, drinking, and taking antibiotics by 
+mouth. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+You should continue to take both of the antibiotics you were 
+prescribed (ciprofloxacin and metronidazole) for another 7 days. 
+It is also important that you ___ with your new PCP as 
+well as with the GI (gastroenterology) doctor. We have already 
+made the appointments for you.
+
+We wish you the best!
+
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

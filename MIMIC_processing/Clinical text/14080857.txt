@@ -1,0 +1,288 @@
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+almond / lisinopril / pecan nut
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+Thoracentesis ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with the past medical history
+relevant for R apical lung nodule (with recent ___ guided biopsy
+___, HTN, stroke who represented to the ED with dyspnea,
+with CT significant for large bilateral pleural effusions.
+
+She was initially evaluated on ___, after being sent in 
+from
+thoracic surgery clinic with a small pneumothorax and pleural
+effusion. At that time, she reported being symptom free at rest,
+however, with dyspnea on exertion. She was observed in the ED 
+and
+subsequently discharged with follow up.
+
+She represented on ___ with shortness as breath and
+inability to take a deep inspiration. She described the 
+shortness
+of breath as worse with exertion and without associated pain. 
+She
+otherwise denies fevers, chills, cough, sputum production, chest
+pain, abdominal pain, myalgia, or arthralgias.
+
+In the ED, initial VS were 97.4 108 108/66 22 98% RA.
+Labs notable for CBC WNL, BMP with HCO3 of 21, BUN/CR of ___.
+___ WNL. Troponin negative x 2. 
+CTA negative for pulmonary embolus but significant for new
+bilateral pleural effusions moderate to large in size and
+unchanged right apical mass. 
+She was found to have increased work of breathing and
+subsequently admitted to medicine.
+
+Upon arrival to the floor the patient appears tachypnea.  She is
+able to converse but only in shortened sentences.  She reports
+that ever since her biopsy, she has had very significant 
+coughing
+spells.  Following coughing spells, she reports she is unable to
+catch her breath and she is gasping for air.  She denies any
+escalation in her symptoms over the last few days, but reports
+that her dyspnea is very significant, especially in the presence
+of her coughing following exertion.  She otherwise denies 
+fevers,
+chills, chest pain, abdominal pain, dysuria.  She endorses
+nausea, but denies vomiting.  She reports decreased appetite.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+- R apical lung nodule (s/p ___ biopsy ___ -> mucinous 
+adenocarcinoma 
+- Hypertension
+- Hearing loss
+- HLD
+- H/o stroke - right posterior cerebral artery distribution
+infarct in the right occipital lobe as well as medial temporal
+region.    
+- Fatty liver disease
+- h/o depression
+- Prior hysterectomy
+ 
+Social History:
+___
+Family History:
+Mother with history of MI at ___, father with history of HTN,
+denies FH of lung disease
+ 
+Physical Exam:
+Admission physical exam
+========================
+
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert, tachypnea when speaking
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+Mucous membranes moist
+CV: Heart regular, no S3, no S4.  No JVD.
+RESP: Lungs with decreased breath sounds in the bilateral bases,
+no crackles or wheezes
+GI: Abdomen soft, non-distended, non-tender to palpation
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+EXT: warm, well perfused
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+
+Discharge physical exam
+========================
+
+VITALS: Afebrile and vital signs stable (see eFlowsheet) 
+Notably, no longer requires O2
+GENERAL: Alert and in no apparent distress
+CV: Heart regular, II/VI murmur heard throughout the precordium
+but best at apex .
+RESP: R base with diminished air movement, L base with minimal
+inspiratory crackles. 
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  
+MSK: No ___ edema
+SKIN: No rashes or ulcerations noted 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 03:10PM BLOOD WBC-5.6 RBC-3.68* Hgb-11.4 Hct-35.0 
+MCV-95 MCH-31.0 MCHC-32.6 RDW-14.3 RDWSD-50.2* Plt ___
+___ 03:10PM BLOOD Neuts-69.6 Lymphs-13.6* Monos-9.8 Eos-6.3 
+Baso-0.5 Im ___ AbsNeut-3.90 AbsLymp-0.76* AbsMono-0.55 
+AbsEos-0.35 AbsBaso-0.03
+___ 03:10PM BLOOD ___ PTT-30.3 ___
+___ 03:10PM BLOOD Glucose-95 UreaN-16 Creat-0.9 Na-142 
+K-4.5 Cl-107 HCO3-21* AnGap-14
+___ 03:10PM BLOOD cTropnT-<0.01
+___ 09:24PM BLOOD cTropnT-<0.01
+
+PERTINENT LABS:
+===============
+
+___ 12:50PM BLOOD proBNP-2582*
+___ 07:25AM BLOOD TotProt-5.8* Albumin-3.6 Globuln-2.2 
+Calcium-8.8 Phos-4.2 Mg-2.1 Iron-47 Cholest-124
+___ 07:25AM BLOOD calTIBC-233* Ferritn-109 TRF-179*
+___ 07:25AM BLOOD %HbA1c-5.1 eAG-100
+___:25AM BLOOD Triglyc-67 HDL-64 CHOL/HD-1.9 LDLcalc-47
+___ 07:25AM BLOOD TSH-1.3
+___ 05:26PM BLOOD pH-7.37 Comment-PLEURAL FL
+
+PERTINENT STUDIES:
+==================
+
+Cardiac perfusion nuclear pharmacologic stress ___:
+IMPRESSION:
+ 1. Fixed, medium sized, moderate severity perfusion defect 
+involving the LAD territory.
+ 2. Fixed, medium sized, moderate severity perfusion defect 
+involving the RCA territory.
+ 3. Normal left ventricular cavity size.  Severe systolic 
+dysfunction with regional dysfunction of the LAD and RCA 
+territories.  
+
+INTERPRETATION: This ___ year old woman with h/o HTN, HL, stroke 
+and
+CHF with LVEF of 30% was referred to the lab for evaluation. She 
+was
+infused with 0.142 mg/kg/min of dipyridamole over 4 minutes. No 
+chest,
+arm, neck or back discomfort reported. No significant ST segment 
+changes
+noticed. Rhythm was sinus with rare isolated APBs and VPBs. 
+Appropriate
+hemodynamic response to the infusion. Aminophylline 125 mg IV 
+given to
+the patient 2 minutes post-infusion.
+IMPRESSION : No anginal symptoms or ST segment changes. Nuclear 
+report
+sent separately.
+
+TTE ___:
+Conclusions
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. Left ventricular wall thicknesses 
+are normal. The left ventricular cavity size is normal. Overall 
+left ventricular systolic function is moderately depressed 
+(LVEF= 30%) with global hypokinesis and regional inferior 
+akinesis. No masses or thrombi are seen in the left ventricle. 
+There is no ventricular septal defect. Right ventricular chamber 
+size is normal with borderline normal free wall function. The 
+ascending aorta is mildly dilated. The aortic valve leaflets (3) 
+are mildly thickened. There is probably moderate (low gradient) 
+aortic valve stenosis (valve area 1.0-1.2cm2). Mild (1+) aortic 
+regurgitation is seen. The mitral valve leaflets are mildly 
+thickened. Moderate (2+) mitral regurgitation is seen. The 
+tricuspid valve leaflets are mildly thickened. There is mild 
+pulmonary artery systolic hypertension. There is a very small 
+pericardial effusion. There are no echocardiographic signs of 
+tamponade. 
+
+ 
+Brief Hospital Course:
+___ with history of HTN/HLD, prior stroke and recent diagnosis 
+of an apical mucinous lung adenocarcinoma admitted with 
+shortness of breath found to have large bilateral pleural 
+effusions. Symptoms improved markedly with a therapeutic 
+thoracentesis and gentle diuresis. Effusions were transudative 
+by Light's criteria, but the amount of blood was more consistent 
+with an exudate. TTE revealed new LVEF of 30%, so cardiology was 
+consulted and a pMIBI was performed, which revealed 2 fixed 
+perfusion defects, indicating ischemic cardiomyopathy. Her 
+cardiac regimen was optimized and she was discharged home.
+
+TRANSITIONAL ISSUES:
+====================
+- Pleural fluid cytology pending at the time of discharge, 
+results may affect treatment planning for CyberKnife vs. 
+conventional radiation. Dr. ___, will follow-up on 
+cytology results.
+- Patient's cardiac medical regimen at the time of discharge: 
+Metoprolol 25 mg XL QD, Atorvastatin 40 mg QHS, Losartan 12.5 mg 
+QD, Aspirin 325 mg QD. 
+- The patient had several nocturnal desaturations during this 
+admission and endorsed daytime somnolence. An outpatient sleep 
+study to exclude OSA could be pursued as an outpatient. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 40 mg PO QPM 
+2. Dexamethasone 4 mg PO ASDIR cyberknife treatment 
+3. LORazepam 0.5 mg PO ASDIR cyberknife treatment 
+4. Losartan Potassium 12.5 mg PO DAILY 
+5. Mirtazapine 7.5 mg PO QHS 
+6. Sertraline 25 mg PO DAILY 
+7. Aspirin 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*3 
+2.  Aspirin 325 mg PO DAILY  
+3.  Atorvastatin 40 mg PO QPM  
+4.  Dexamethasone 4 mg PO ASDIR cyberknife treatment  
+5.  LORazepam 0.5 mg PO ASDIR cyberknife treatment  
+6.  Losartan Potassium 12.5 mg PO DAILY  
+7.  Mirtazapine 7.5 mg PO QHS  
+8.  Sertraline 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY: Pleural effusion
+Acute systolic congestive heart failure, Ischemic cardiomyopathy 
+
+SECONDARY: History of stroke, mucinous adenocarcinoma of the 
+lung, hypertension, hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was our pleasure caring for you at ___ 
+___.  You were admitted to the hospital with fluid in 
+the lungs. You had this fluid drained and your symptoms 
+improved. Additionally you had an ultrasound of your heart and a 
+stress test performed, which showed diminished cardiac function. 
+We believe this is due to having had a "silent" heart attack at 
+some point in the past.  Our cardilogists evaluated you and you 
+were started on new medications to protect your heart.  You will 
+need to follow-up with a cardiologist in the clinic. 
+
+It was a pleasure participating in your care.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,220 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Patient is ___ gentleman with no past medical history 
+who
+presents to the emergency department from PCPs office with
+abnormal EKG and concern for STEMI. One week ago, pt first
+noticed some left lower chest discomfort which he felt was
+similar to muscle strains he has had in the past. He plays 
+tennis
+multiple times per week and frequently strains muscles. This 
+pain
+resolved without intervention, but then migrated to his anterior
+chest wall.  He did not try any medications to improved his 
+chest
+pain.  This then migrated to his left shoulder. It was sharp in
+nature, did not worsen with physical activity, and did get worse
+with deep breaths. It was not associated with any dyspnea,
+nausea, vomiting or diaphoresis. On the day of admission, he 
+woke
+up this morning and went to see his PCP and had ___ EKG done which
+show elevations in V3 V6, so he was transferred here for 
+concerns
+of STEMI. Received 324 mg aspirin prior to arrival to the ED.
+
+On arrival in the ED, patient states he is asymptomatic. Denies
+any chest discomfort, shortness of breath. No nausea or 
+vomiting.
+He otherwise denies any recent illness, fevers or chills. No
+recent travels or surgeries. Never had any cardiac problems in
+the past. Not a smoker.
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+non contributory 
+ 
+Physical Exam:
+ADMISSION EXAM:
+===============
+VITALS:  ___ 1628 Temp: 98.3 PO BP: 121/73 L Sitting HR: 86
+RR: 16 O2 sat: 97% O2 delivery: Ra 
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate. Lying comfortably in bed.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple with JVP of 7 cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills,
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric 
+
+DISCHARGE EXAM:
+===============
+VITALS:  ___ 0444 Temp: 98.0 PO BP: 133/75 L Lying HR: 81
+RR: 18 O2 sat: 94% O2 delivery: Ra  
+GENERAL: Lying comfortably in bed.  NAD 
+NECK: Supple with JVP of 7 cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills,
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+PULSES: Distal pulses palpable and symmetric  
+ 
+ 
+Pertinent Results:
+ADMISSION LABS:
+=============
+___ 09:13AM BLOOD WBC-8.9 RBC-4.35* Hgb-13.8 Hct-42.4 
+MCV-98 MCH-31.7 MCHC-32.5 RDW-12.1 RDWSD-43.8 Plt ___
+___ 09:13AM BLOOD Neuts-80.6* Lymphs-6.2* Monos-11.5 
+Eos-1.0 Baso-0.2 Im ___ AbsNeut-7.15* AbsLymp-0.55* 
+AbsMono-1.02* AbsEos-0.09 AbsBaso-0.02
+___ 09:13AM BLOOD Glucose-135* UreaN-26* Creat-1.0 Na-140 
+K-4.7 Cl-101 HCO3-28 AnGap-11
+___ 07:30AM BLOOD ALT-16 AST-20 LD(LDH)-249 AlkPhos-73 
+TotBili-0.9
+___ 07:30AM BLOOD Albumin-3.7 Calcium-8.8 Phos-2.7 Mg-1.8
+___ 09:13AM BLOOD CRP-136.1*
+
+DISCHARGE LABS:
+==============
+___ 07:30AM BLOOD WBC-9.4 RBC-4.43* Hgb-14.1 Hct-43.3 
+MCV-98 MCH-31.8 MCHC-32.6 RDW-12.2 RDWSD-44.5 Plt ___
+___ 07:30AM BLOOD Neuts-79.7* Lymphs-6.4* Monos-9.7 Eos-3.6 
+Baso-0.3 Im ___ AbsNeut-7.44* AbsLymp-0.60* AbsMono-0.91* 
+AbsEos-0.34 AbsBaso-0.03
+___ 07:30AM BLOOD Glucose-93 UreaN-22* Creat-1.0 Na-141 
+K-5.0 Cl-101 HCO3-27 AnGap-13
+
+TTE:
+===
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+nromal cavity size and regional/ global systolic function. Mild 
+aortic regurgitation. Mild mitral regurgitation. Moderate 
+tricuspid regurgitation. Mild pulmonary artery systolic 
+hypertension.
+
+ 
+Brief Hospital Course:
+___ gentleman with no past medical history who presents 
+to the emergency department from ___ office with EKG findings 
+concerning for STE in V4-6, found to have diffuse ST elevations 
+and likely pericarditis.
+
+#Acute pericarditis: Pleuritic chest pain, sharp in nature with 
+diffuse ST elevations on EKG not in vascular territory very 
+consistent with acute pericarditis, with CRP elevated to 100s 
+supporting this diagnosis as well. Given non-exertional 
+symptoms, no risk factors for CAD, negative trops x 2, very low 
+concern for ischemic etiology of chest pain. Unclear as to the 
+etiology of the pericarditis. No recent viral infectious 
+symptoms whatsoever on review of systems. Even so, most likely 
+etiology is indolent viral infection. Nothing to suggest lupus, 
+autoimmune or
+other infectious cause. Diagnostically, TTE with no effusion. 
+Therapeutically, will start colchicine 0.5mg PO BID for 3 
+months, as well as Ibuprofen 600mg TID for 2 weeks. Will need a 
+follow up TTE in one week.
+
+Transitional issues:
+====================
+[] Please get follow up TTE in one to two weeks to ensure no 
+accumulation of effusion
+[] Discharged on Colchicine 0.6mg PO BID for 3 months, Ibuprofen 
+600mg PO TID for one week
+[] Omeprazole 20mg PO daily for one week for GI prophylaxis (no 
+need to continue when not on NSAID any longer)
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Colchicine 0.6 mg PO BID 
+RX *colchicine 0.6 mg 1 tablet(s) by mouth Twice daily Disp 
+#*180 Tablet Refills:*0 
+2.  Ibuprofen 600 mg PO Q8H Duration: 1 Week 
+RX *ibuprofen 600 mg 1 tablet(s) by mouth Three times daily Disp 
+#*21 Tablet Refills:*0 
+3.  Omeprazole 20 mg PO DAILY Duration: 1 Week 
+RX *omeprazole 20 mg 1 capsule(s) by mouth Daily Disp #*7 
+Capsule Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pericarditis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because:
+- You were having some chest pain at home
+- You went to your primary care office and your EKG was 
+concerning 
+- In the ED, you were thought to have pericarditis and you were 
+started on 
+
+While you were here:
+- You had an echocardiogram which did not show any fluid around 
+the heart
+- You had lab work which did not show any damage to the heart 
+muscle
+- You were diagnosed with acute pericarditis the cause of which 
+is unclear
+- You were started on medications to help resolve the 
+pericarditis
+
+When you leave:
+- Please take all of your medications as prescribed
+- Please attend all of your follow up appointments as arranged 
+for you
+
+It was a pleasure to care for you during your hospitalization!
+
+- Your ___ care team
+ 
+Followup Instructions:
+___

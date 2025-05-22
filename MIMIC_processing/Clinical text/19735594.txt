@@ -1,0 +1,210 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Cipro / sertraline
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Foul smelling urine
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: Mr. ___ is a ___ male with a past medical 
+history
+of metastatic bladder cancer and bilateral nephrostomy tubes who
+presented with abdominal pain.
+
+He has been having suprapubic abdominal pain over the past two
+weeks or so, first thought to be secondary to constipation since
+it improved initially with a bowel movement. His ___ then 
+noticed
+foul smelling urine. He has been increasingly fatigued. He is
+voiding both through the nephrostomy tubes and his penis.
+Sometimes all of his urine is through the nephrostomy tubes but
+this varies. He has had no known fevers at home.
+
+He was sent to urgent care where a urine specimen obtained from
+his nephrostomy tubes was notable for ___ WBCs and positive
+nitrites. Due to cipro allergy, decision was made to admit for 
+IV
+antibiotics to treat for complicated UTI.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+PAST MEDICAL/SURGICAL HISTORY:
+Metastatic bladder cancer - chemotherapy on hold; providers are 
+at ___
+Prostate cancer
+Atrial fibrillation
+Depression
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY: Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+
+ 
+Physical Exam:
+EXAM
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation
+GU: No suprapubic fullness or tenderness to palpation. Bilateral
+nephrostomy tubes in place draining yellow urine.  No flank 
+tenderness.
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+___ 02:50PM BLOOD WBC-7.5# RBC-2.62* Hgb-8.9* Hct-27.2* 
+MCV-104*# MCH-34.0* MCHC-32.7 RDW-15.9* RDWSD-60.8* Plt ___
+___ 05:44AM BLOOD WBC-8.6 RBC-2.84* Hgb-9.4* Hct-29.2* 
+MCV-103* MCH-33.1* MCHC-32.2 RDW-15.7* RDWSD-59.7* Plt ___
+___ 02:50PM BLOOD Glucose-88 UreaN-20 Creat-1.1 Na-136 
+K-3.5 Cl-104 HCO3-22 AnGap-10
+___ 05:44AM BLOOD Glucose-81 UreaN-17 Creat-1.1 Na-141 
+K-4.4 Cl-107 HCO3-22 AnGap-12
+___ 02:50PM BLOOD Albumin-2.7*
+
+Urine culture
+URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   0.5 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+ 
+Brief Hospital Course:
+SUMMARY/ASSESSMENT: Mr. ___ is a ___ male with a past
+medical history of metastatic bladder cancer and bilateral
+nephrostomy tubes who presented with abdominal pain and foul 
+smelling urine
+
+ACUTE/ACTIVE PROBLEMS:
+# ? Complicated UTI.  Patient without fevers, flank pain, 
+constitutional symptoms, leukocytosis.    His abdominal pain 
+improved when he was standing.    However, given his history of 
+chemotherapy, malignancy and instrumentation with PCN tubes, it 
+was decided to complete a week course of treatment (he had 
+received ceftriaxone while hospitalized) and he was discharged 
+on cefpodoxime.   His foul smelling urine may be due to not 
+emptying nephrostomy tube frequently enough.   He was encouraged 
+to empty bags more frequently.  I discussed his case with ___ 
+staff who noted that there was no indication to change the date 
+of changing his nephrostomy tubes. 
+
+# Abdominal pain:   Worse at night, improves when he stands up, 
+no tenderness to palpation.   Very mild, at most a ___.  Will 
+monitor for now.  
+
+CHRONIC/STABLE PROBLEMS:
+
+# Metastatic bladder cancer:
+- continue fentanyl patch
+- continue home megestrol
+
+# pAF:
+- continue home metoprolol 25mg BID
+- continue home apixaban 2.5mg BID (meets criteria for higher
+dose but says this dose was agreed upon by his cardiologist and
+oncologist)
+
+# GERD:
+- continue home omeprazole
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. Fentanyl Patch 25 mcg/h TD Q72H 
+3. Apixaban 2.5 mg PO BID 
+4. Megestrol Acetate 400 mg PO DAILY 
+5. Ondansetron 4 mg PO Q8H:PRN nausea 
+6. Metoprolol Tartrate 25 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Cefpodoxime Proxetil 400 mg PO Q12H 
+Take for five additional days  
+2.  Apixaban 2.5 mg PO BID  
+3.  Fentanyl Patch 25 mcg/h TD Q72H  
+4.  Megestrol Acetate 400 mg PO DAILY  
+5.  Metoprolol Tartrate 25 mg PO BID  
+6.  Omeprazole 20 mg PO DAILY  
+7.  Ondansetron 4 mg PO Q8H:PRN nausea  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1.  Urinary tract infection
+2.  Metastatic bladder cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with foul smelling urine and some abdominal 
+pain.  There is bacteria growing in the urine so these symptoms 
+may be from a urinary tract infection.  Please complete an 
+additional five days of antibiotics for this.   Please drain 
+your nephrostomy tubes frequently to prevent the foul smell from 
+recurring.    I have faxed a prescription for the antibiotic 
+cefpodoxime to the ___ in ___ for you.  Please take 400 mg twice 
+a day for 5 days.
+ 
+Followup Instructions:
+___

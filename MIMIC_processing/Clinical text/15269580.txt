@@ -1,0 +1,223 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever, neck pain, body aches
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is a ___ year old female who presents to ___ for fever, 
+neck pain and general malaise. She reports a history of recent 
+travel to ___ approximately ___ weeks ago, after which she 
+developed blisters on her feet from bug bites, which has been 
+treated with Bactrim (11 day course, finished yesterday). She 
+also reports having traveled to ___ earlier this week, 
+which was uneventful. 
+
+Her symptoms of fever, neck pain and malaise began on ___ 
+(2 days before presentation to ___, when she felt swelling on 
+her left neck, as well as achiness of her whole body. On 
+___ she then subjectively felt febrile, and on ___ she 
+went to see her PCP who referred her to the ED for suspected 
+neck infection. 
+
+In the ED she was found to be febrile to 101.2 and tachycardic 
+to 112, and CT scan showed edema with questionable deep space 
+neck infection, for which she is admitted. 
+
+She reports no dysphagia, no odynophagia, no dental infection, 
+no sinus infection, no sick contacts, no history of trauma or 
+injury to the neck. Also denies pain with flexion of the neck. 
+She does complain of tenderness along her neck, especially on 
+the left, and she reports feeling itchy, along with complaints 
+of a fever. No CP, SOB, n/v/d, rashes (aside from skin 
+lesions/blisters from bug bites), or chills. Rest ROS negative 
+unless stated above. 
+ 
+Past Medical History:
+Type 1 diabetes
+ 
+Social History:
+___
+Family History:
+Mother - diabetes (type 2)
+ 
+Physical Exam:
+Vitals: In ED, T 101.2, HR 112
+On medical floor, T 97.7, HR 74, BP 107/70, RR 16, O2 99% RA
+
+General - no distress, resting in bed and appears comfortable
+HEENT - nc/at, eomi, perrla, moist mucous membranes without any 
+lesions
+Neck - Left side of face appeared more swollen than right; ++ 
+exquisite tenderness to palpation submandibular areas 
+bilaterally; palpable LN on left that was very tender.
+Oropharynx:  Clear, no erythema or exudates, no obvious 
+periodontal disease
+___ - rrr, s1/2, no m/r/g
+Lungs - cta b/l, no w/r/r
+Abd - soft nt nd +BS
+Ext - no cyanosis/edema
+Skin - multiple small healing blisters over dorsal surface of 
+both feet, no drainage or purulence noted, otherwise no lesions 
+or rashes of skin
+Psych - calm and cooperative
+
+97.2 ___ 16 98 RA 
+Gen:  NAD, very pleasant
+Lung:  CtA B
+Facial swelling largely resolved
+Neck:  Much decreased tenderness to palpation below left and 
+right mandible
+CV RRR
+Abd Nabs, soft
+Ext:  Multiple circular areas of excoriation - site of 
+previously healed blisters.  
+ 
+Pertinent Results:
+___ 12:50PM   GLUCOSE-188* UREA N-10 CREAT-0.7 SODIUM-128* 
+POTASSIUM-3.9 CHLORIDE-95* TOTAL CO2-17* ANION GAP-20
+___ 12:50PM   WBC-4.0 RBC-5.07 HGB-15.4 HCT-44.1 MCV-87 
+MCH-30.4 MCHC-34.9 RDW-11.9 RDWSD-37.6
+___ 12:50PM   PLT COUNT-101*
+
+Discharge Labs
+___ 06:08AM BLOOD WBC-4.3 RBC-4.21 Hgb-12.4 Hct-36.7 MCV-87 
+MCH-29.5 MCHC-33.8 RDW-12.0 RDWSD-38.5 Plt ___
+___ 06:08AM BLOOD Glucose-158* UreaN-10 Creat-0.5 Na-136 
+K-3.6 Cl-103 HCO3-24 AnGap-13
+___ 06:10AM BLOOD ALT-33 AST-40 AlkPhos-34* TotBili-<0.2
+___ 06:08AM BLOOD Calcium-8.1* Phos-3.4
+
+Monospot negative
+Blood cultures NGTD
+Urine Cx:  Gram positive cocci
+Throat cultures pending
+
+CT scan
+The salivary glands enhance normally and are without mass or 
+adjacent fat 
+stranding.  The thyroid gland appears normal.Prominent lymph 
+nodes are seen bilaterally deep to and inferior to the parotid 
+glands measuring up to 1.3 cm on the right (02:51), likely 
+reactive.The neck vessels are patent.  There is edema tracking 
+along the neck including along the carotid 
+space/jugulodiagastric regions and inferior, mild on the left 
+and minimal on the right, deep to the platysma which may 
+represent deep space infection. No drainable fluid collection.  
+No retropharyngeal edema. 
+  
+The imaged portion of the lung apices are clear and there are no 
+concerning pulmonary nodules. There are no osseous lesions. 
+  
+IMPRESSION: 
+  
+  
+1. Edema tracking along the neck including along the carotid 
+space/jugulodiagastric regions and inferior, mild on the left 
+and minimal on the right, deep to the platysma which may 
+represent deep space infection.  No drainable fluid collection. 
+2. Prominent lymph nodes are seen bilaterally deep to and 
+inferior to the 
+parotid glands measuring up to 1.3 cm on the right, likely 
+reactive. 
+  
+
+ 
+Brief Hospital Course:
+A/P
+
+___ with history of DM1 presents to ___ with 2 day history of 
+malaise/generalized body aches, fever, and neck pain. 
+
+#Neck pain
+#Fever
+Her symptoms started as she was finishing her course of Bactrim 
+for cellulitis. 
+Patient was not febrile during hospitalization (despite having 
+fevers at home), and anterior neck was quite tender on arrival, 
+more so on left than right, and she had focal tenderness over 
+lymph nodes; none over parotid glands or mastoid bones.  
+Reviewed case with ENT who noted no clear evidence of deep space 
+infection on imaging.  She had no signs or symptoms of 
+pharyngtitis on exam, so unclear why she developed isolated 
+cervical painful ___ with fevers.  Monospot was negative, and 
+throat culture sent for strep/viral etiologies, pending at time 
+of discharge.
+Her symptoms improved markedly over her hospitalization, with 
+dramatic decrease in neck pain and painful ___.  She was started 
+on clindamycin given her penicillin allergy.  Unclear if patient 
+had reactive ___ to viral infection vs bacterial infection.  
+Given her improvement on clindamycin, she will continue a one 
+week course.  
+
+#Thrombocytopenia - new per patient, etiology may be related to 
+infection, repeat on AM labs and monitor.  Stable on discharge, 
+near 101; PCP should ___.  
+
+#Blisters on feet - improving after 11 day course of Bactrim, do 
+not appear infected as possible etio of fever. 
+
+#DM - c/w novolog 70/30 21 units BID, diabetic diet; last A1c is 
+8, she has not seen her ___ endocrinologist in some time and I 
+encouraged her to ___
+
+#Hyponatremia - Na 128 - resolved.
+
+# Pruritus:  ON hands and feet and chest; no rash; no 
+eosinophilia on labs; treated with antihistamine and saran
+
+# Hypocalcemia:  Ca 8.1 with normal albumin.  Unclear etiology; 
+pcp should recheck
+
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. NovoLIN 70/30 (insulin NPH and regular human) 21 units 
+subcutaneous Q12H 
+2. Altavera (28) (levonorgestrel-ethinyl estrad) 0.15-0.03 mg 
+oral DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1.  Painful cervical lymphadenopathy
+2.  Diabetes Mellitus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with neck swelling and pain and were found to 
+have enlarged painful lymph nodes in your neck.  These appear to 
+have grown due to either a bacterial or viral infection.  You 
+improved significantly while taking clindamycin.   We have 
+ordered various tests to see if a particular virus caused your 
+symptoms, and these are still pending.  
+Please continue the clindamycin for the next five days.  If you 
+develop diarrhea while taking this medication, please contact 
+your PCP.  Also, I have prescribed hydroxyzine should you have 
+itching.  I have sent the prescriptions to the ___ in ___. 
+ 
+ 
+Followup Instructions:
+___

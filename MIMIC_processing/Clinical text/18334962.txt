@@ -1,0 +1,483 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left hand weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+NIHSS performed within 6 hours of presentation at: ___
+
+NIHSS Total: 0
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0 
+2.  Best gaze: 0
+3.  Visual fields: 0
+4.  Facial palsy: 0
+5a. Motor arm, left: 0
+5b. Motor arm, right: 0
+6a. Motor leg, left: 0
+6b. Motor leg, right: 0
+7.  Limb Ataxia: 0
+8.  Sensory: 0
+9.  Language: 0
+10. Dysarthria: 0
+11. Extinction and Neglect: 0
+
+HPI: 
+___ right-handed with PMH of SDH s/p fall in ___, HTN who
+presented to the ED after transient episode of left hand
+weakness.
+
+Patient states that he was in his usual state of health and was
+feeling fine when he woke up this morning.  Around 6:45 AM, he
+was brushing his teeth, washing his hands under the sink, when 
+he
+noticed that his left hand felt weak and he had trouble moving 
+it
+under the water.  He denied numbness, tingling, weakness 
+anywhere
+else, double vision, trouble speaking, or any other symptoms.  
+No
+issues with his arm or with his right hand.  This episode lasted
+about 15 minutes, after which it resolved.
+
+He states that he had an episode this past ___ when he felt 
+that
+he had difficulty bringing his fingers close to each other.  He
+was seen by physician in ___ who told him that there may be an
+issue with his ulnar nerve, and recommended exercises.  He 
+states
+that this episode lasted for a few weeks, after which it 
+resolved
+with exercise.
+
+He states that in ___, he was found to have a subdural
+hemorrhage and had surgery in ___.  He states that he fell in
+___, after which he developed progressively worsened headaches
+over the ensuing months.  Eventually, he sought medical care and
+was found to have the SDH.  He states that headache was the only
+symptom at the time.  He states that he had surgery on his right
+side for the SDH.
+
+ROS: positive per HPI
+ 
+Past Medical History:
+Hypertension
+___ in ___
+ 
+Social History:
+No smoking.  Very rare EtOH.  Lives in ___ but is here in
+___ visiting family.  All of his medical care is in ___. 
+Patient had been planning on returning to ___ on a flight 
+later
+this evening.
+                          
+- Modified ___ Scale:
+[x] 0: No symptoms
+[] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+[] 3: Moderate disability: requires some help but able to walk
+unassisted
+[] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+[] 6: Dead
+ 
+Family History:
+Father died from heart attack
+No family history of stroke
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION: 
+Vitals: T: 98.4 BP: 148/93 HR: 86 RR: 17 SaO2: 98
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted
+Pulmonary: Normal work of breathing.
+Cardiac: Warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, Able to relate history without 
+difficulty.
+Attentive. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands. There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+
+VII: No facial droop, facial musculature symmetric.
+
+VIII: Hearing intact to conversation.
+
+IX, X: Palate elevates symmetrically.
+
+XI: ___ strength in trapezii bilaterally.
+
+XII: Tongue protrudes in midline with good excursions.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+  [Delt][Bic][Tri][ECR][FEx][IO][IP][Quad][Ham][TA][Gas]
+L    5    5    5    5    5    5   5    5    5   5    5   
+R    5    5    5    5    5    5   5    5    5   5    5   
+
+-Sensory: No deficits to light touch, pinprick, temperature, 
+vibration. No extinction to DSS.
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   1   1        2    1       0 
+R   1      1      2      1      0 
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF .
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  
+
+DISCHARGE PHYSICAL EXAM
+Vitals: T: 98.1 BP: 131/76 HR: 74 RR: 18 SaO2: 97% on RA
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted
+Pulmonary: Normal work of breathing.
+Cardiac: Warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema. Negative Tinel and Phalen's signs. No 
+wasting of thenar eminence. 
+Skin: No rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, Able to relate history without 
+difficulty.
+Attentive. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+No dysarthria. Able to follow both midline and appendicular 
+commands. 
+There was no evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. 
+
+V: Facial sensation intact to light touch.
+
+VII: No facial droop, facial musculature symmetric.
+
+VIII: Hearing intact to conversation.
+
+IX, X: Palate elevates symmetrically.
+
+XI: ___ strength in trapezii bilaterally.
+
+XII: Tongue protrudes in midline with good excursions.
+
+-Motor: Normal bulk and tone throughout. No pronator drift or 
+orbiting. No
+adventitious movements, such as tremor or asterixis noted.
+  [Delt][Bic][Tri][ECR][FEx][IO][IP][Quad][Ham][TA][Gas]
+L    5    5    5    5    5    5   5    5    5   5    5   
+R    5    5    5    5    5    5   5    5    5   5    5   
+
+-Sensory: No deficits to light touch. No extinction to DSS.
+
+-Reflexes: deferred.  
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. 
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  
+
+ 
+Pertinent Results:
+___ 12:09PM BLOOD %HbA1c-6.5* eAG-140*
+___ 08:19AM BLOOD Triglyc-87 HDL-55 CHOL/HD-3.5 LDLcalc-119
+___ 08:19AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 08:19AM BLOOD cTropnT-<0.01
+___ 08:19AM BLOOD Albumin-4.6 Calcium-9.2 Phos-3.5 Mg-2.1 
+Cholest-191
+___ 08:19AM BLOOD ALT-22 AST-24 AlkPhos-49 TotBili-0.9
+___ 08:19AM BLOOD Glucose-131* UreaN-18 Creat-0.9 Na-142 
+K-3.8 Cl-106 HCO3-25 AnGap-11
+___ 08:19AM BLOOD ___ PTT-29.0 ___
+___ 08:19AM BLOOD Neuts-58.7 ___ Monos-11.9 Eos-4.9 
+Baso-0.5 Im ___ AbsNeut-3.35 AbsLymp-1.35 AbsMono-0.68 
+AbsEos-0.28 AbsBaso-0.03
+___ 08:19AM BLOOD WBC-5.7 RBC-4.61 Hgb-13.5* Hct-39.7* 
+MCV-86 MCH-29.3 MCHC-34.0 RDW-13.1 RDWSD-40.9 Plt ___
+___ 05:40AM BLOOD Calcium-9.2 Phos-3.7 Mg-2.1
+___ 05:40AM BLOOD Glucose-113* UreaN-18 Creat-0.8 Na-145 
+K-4.1 Cl-106 HCO3-23 AnGap-16
+___ 05:40AM BLOOD WBC-5.1 RBC-4.57* Hgb-13.5* Hct-40.0 
+MCV-88 MCH-29.5 MCHC-33.8 RDW-13.2 RDWSD-41.4 Plt ___
+___ 08:46AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 08:46AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+
+___ Urine culture final no growth. 
+
+IMAGING: 
+CXR ___
+No acute cardiopulmonary process.
+
+CTA ___
+Wet Read by ___ on TUE ___ 12:14 ___ 
+CT HEAD WITHOUT CONTRAST: 
+The patient is status post right parietal craniectomy. There is 
+no evidence of 
+acute infarction,hemorrhage,edema,ormass. The ventricles and 
+sulci are normal 
+in size and configuration. 
+  
+The visualized portion of the paranasal sinuses, mastoid air 
+cells,and middle 
+ear cavities are clear. The patient is status post right lens 
+replacement. 
+  
+CTA HEAD: 
+The vessels of the circle of ___ and their principal 
+intracranial branches 
+appear normal without stenosis, occlusion, or aneurysm. The 
+dural venous 
+sinuses are patent. 
+  
+CTA NECK: 
+Bilateral carotid and vertebral artery origins are patent. The 
+carotidandvertebral arteries and their major branches appear 
+normal with no 
+evidence of stenosis or occlusion. 
+  
+OTHER: 
+The adenoids are enlarged and the right tonsillar region is 
+fuller than the 
+left. Recommend direct visualization and outpatient ENT consult. 
+There are 
+multiple enlarged cervical and paratracheal lymph nodes. The 
+visualized 
+portion of the lungs are clear. 
+  
+Final report pending 3D reconstructions and reformats. 
+
+MRI ___. No evidence of acute intracranial hemorrhage or infarction. 
+2. Postsurgical changes following right parietal craniectomy are 
+
+redemonstrated. 
+
+ECG ___: sinus rhythm, no ST/T wave changes
+
+TTE ___
+IMPRESSION: Normal biventricular cavity sizes and 
+regional/global biventricular systolic function (LVEF 61%). No 
+valvular pathology or pathologic flow identified. Normal 
+estimated pulmonary artery systolic
+pressure. No structural cardiac source of embolism (e.g. patent 
+foramen ovale/atrial septal defect, intracardiac thrombus, or 
+vegetation) seen. No prior study available for comparison.
+
+ 
+Brief Hospital Course:
+Patient Summary: Mr. ___ is a ___ year-old male with past 
+medical history of R SDH s/p fall in ___, HTN who is admitted 
+to the Neurology stroke service after a transient episode of 
+left hand weakness secondary to transient ischemic attack (TIA). 
+His TIA was most likely secondary to an embolic event given the 
+distal location (small area of cortex). He was started on ASA 81 
+mg and Plavix 75mg (without a Plavix load) with a plan to 
+continue dual antiplatelet therapy for a total of 21 days and 
+then continue ASA 81 mg daily thereafter. His deficits resolved 
+completely prior to discharge. He will be discharged to home.
+
+His stroke risk factors include the following:
+1) Most likely cardioembolic based on localization of deficit 
+but an echocardiogram did not show a PFO, vegetation or other 
+obvious cardiac source of embolism 
+2) DM: A1c 6.5%
+3) Hyperlipidemia: LDL 119
+4) Hypertension
+
+Transitional Issues
+1) Started on ASA 81 mg daily (to be continued indefinitely) and 
+Plavix (clopidogrel) 75 mg daily (to be continued for a total of 
+21 days). 
+2) Started on a statin (atorvastatin 40mg daily) for an LDL of 
+119 at discharge 
+3) Will need neurology/stroke ___ in ___ months 
+4) Will need PCP ___ for diabetes, hyperlipidemia and 
+hypertension
+5) He will need 2 weeks of ambulatory cardiac rhythm monitoring 
+for atrial fibrillation (not done here as he plans to travel 
+back to ___ in a week). 
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed () No. If no, reason why:
+2. DVT Prophylaxis administered? (x) Yes - () No. If no, why not 
+(I.e. bleeding risk, hemorrhage, etc.)
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No. If not, why not? (I.e. bleeding risk, 
+hemorrhage, etc.)
+4. LDL documented? (x) Yes (LDL = 119) - () No
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) (x) Yes - () No [if LDL 
+>70, reason not given:
+[ ] Statin medication allergy
+[ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ] LDL-c less than 70 mg/dL
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given in written 
+form? (x) Yes - () No
+8. Assessment for rehabilitation or rehab services considered? 
+() Yes - (x) No. If no, why not? Patient at baseline functional 
+status
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >70, 
+reason not given:
+[ ] Statin medication allergy
+[ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ] LDL-c less than 70 mg/dL
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - If no, why not (I.e. 
+bleeding risk, etc.) (x) N/A
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 50 mg PO BID 
+2. amLODIPine 5 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+You will need to continue taking this medication for life 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
+once a day Disp #*30 Tablet Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+Please continue taking this medication as directed. 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY 
+You will need to take this medication for a total of 21 days 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*21 
+Tablet Refills:*0 
+4.  amLODIPine 5 mg PO BID  
+5.  Losartan Potassium 50 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Transient ischemic attack
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were hospitalized due to symptoms of left hand weakness 
+resulting from a TRANSIENT ISCHEMIC ATTACK, a condition where a 
+blood vessel providing oxygen and nutrients to the brain is 
+temporarily blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms.
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+1) Most likely cause is an abnormal heart rhythm causing a blood 
+clot that spread to your brain. We monitored your heart rhythm 
+in the hospital and did not see any evidence of an abnormal 
+heart rhythm, and an echocardiogram (ultrasound of the heart) 
+did not show a PFO (shunt or connection between the right and 
+left sides of the heart) or a large blood clot in the heart. 
+However, this does not mean that an abnormal rhythm does not 
+exist at other times, just that it was not present when we were 
+looking for it. 
+2) Diabetes. Your A1c (the number that suggests how good your 
+blood sugar control was over the last 3 months) was 6.5% - this 
+can be improved by working with your primary care doctor. 
+3) High cholesterol. Your LDL (low density lipoprotein) or "bad 
+cholesterol" number was 119. 
+4) High blood pressure. 
+
+We are changing your medications as follows:
+1) We started you on aspirin 81 mg daily (to be continued 
+indefinitely) and clopidogrel (also known as Plavix) 75 mg daily 
+(to be continued for a total of 21 days). This is to prevent 
+future strokes. 
+2) We started you on a statin (atorvastatin 40mg daily, also 
+called Lipitor) to lower your cholesterol and reduce your risk 
+of strokes 
+3) You will need to follow up with a neurologist who specializes 
+in stroke in the next ___ months. 
+4) You will need to ___ with your primary care doctor in 
+the next ___ weeks for your diabetes, high cholesterol and high 
+blood pressure. 
+5) You will need to wear a heart monitor for 2 weeks to look for 
+an abnormal rhythm called atrial fibrillation (please ask your 
+primary care doctor about this - you may need to see a 
+cardiologist to set this up). 
+
+Please take your other medications as prescribed.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (while in the ___., by dialing 911). In particular, 
+since stroke can recur, please pay attention to the sudden onset 
+and persistence of these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+
+ 
+Followup Instructions:
+___

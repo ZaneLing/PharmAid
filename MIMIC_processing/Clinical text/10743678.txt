@@ -1,0 +1,252 @@
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Asthma Exacerbation
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old Male with a history of chronic stable Asthma  who 
+presents with 24 hours of progressive dyspnea and wheezing.  The 
+patient notes the day prior to presentation he started to 
+develop URI symptoms including cough, rhinorrhea and 
+odynophagia. He went to work at ___ (he is a ___) on 
+the day of admission and experienced progressive dyspnea and 
+wheezing. He attempted mitigation with his rescue inhaler 
+without relief, and so called EMS as he began to have 
+respiratory distress. By report he was breathing in the ___ with 
+a SAO2 in the ___. The patient denies any chest pain or 
+pressure. The patient denies accompanying fever or chills. The 
+patient reports he has never been intubated but has been 
+admitted for his asthma before. His last exacerbation was ___ 
+years prior to this admission.
+
+Of note the patient is on a DOAC (rivaroxiban) for atrial 
+fibrillation.
+
+Initial vitals in the ED were 98.4, 102, 147/97, 34, 98%. 
+Patient was triggered in the ED for respiratory distress. 
+Initial peak flow was 170 (although on ED dash somewhat 
+confusing that the pre-treatment is displayed at 150 after the 
+post which was 170). The patient received multiple doses of 
+albuterol, Magnesium sulfate and ipratropium along with 1L of 
+NS.
+
+patient reports his baseline Peak Flow is ~250.
+ 
+Past Medical History:
+Atrial Fibrillation
+Chronic Stable ASthma
+Primary Hypertension
+Hyperlipidemia
+ 
+Social History:
+___
+Family History:
+Mother: DM, CVA, HTN
+Father: ___, CAD
+ 
+Physical Exam:
+ROS:
+ GEN: - fevers, - Chills, - Weight Loss
+ EYES: - Photophobia, - Visual Changes
+ HEENT: - Oral/Gum bleeding, + Odynophagia
+ CARDIAC: - Chest Pain, - Palpitations, - Edema
+ GI: - Nausea, - Vomiting, - Diarrhea, - Abdominal Pain, - 
+Constipation, - Hematochezia
+ PULM: + Dyspnea, + Cough, - Hemoptysis
+ HEME: - Bleeding, - Lymphadenopathy
+ GU: - Dysuria, - hematuria, - Incontinence
+ SKIN: - Rash
+ ENDO: - Heat/Cold Intolerance
+ MSK: - Myalgia, - Arthralgia, - Back Pain
+ NEURO: - Numbness, - Weakness, - Vertigo, - Headache
+Remainder of 10-point ROS negative except as above
+ 
+
+PHYSICAL EXAM:
+
+VSS: 98, 155/83, 97, 20, 93%1LNC
+ GEN: NAD
+ Pain: ___
+ HEENT: EOMI, MMM, - OP Lesions
+ PUL: B/L Diffuse wheezes, able to speak in complete sentences
+ COR: RRR, S1/S2, - MRG
+ ABD: NT/ND, +BS, - CVAT
+ EXT: - CCE
+ NEURO: CAOx3, Motor ___ ___ flex/ext
+
+Discharge Physical Exam: 
+VITALS: Peak flow 200-285. 
+99.2 PO 106 / 72 L Sitting 97 24 97 RA 
+GENERAL: Alert, sitting up in bed, no respiratory distress
+CV: RRR, no murmur
+RESP: Poor aeration, scattered expiratory wheezing, mild use of
+accessory muscles
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+NEURO: Fluent speech, no facial droop, moving all extremities
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+___ 03:55PM BLOOD WBC-16.1* RBC-4.41* Hgb-13.5* Hct-39.4* 
+MCV-89 MCH-30.6 MCHC-34.3 RDW-12.9 RDWSD-42.4 Plt ___
+___ 03:55PM BLOOD Neuts-90.2* Lymphs-3.7* Monos-5.5 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-14.51* AbsLymp-0.60* 
+AbsMono-0.88* AbsEos-0.00* AbsBaso-0.03
+___ 03:55PM BLOOD Glucose-105* UreaN-13 Creat-0.6 Na-139 
+K-4.1 Cl-103 HCO3-24 AnGap-12
+___ 04:06PM BLOOD ___ pO2-96 pCO2-41 pH-7.40 
+calTCO2-26 Base XS-0
+___ 04:06PM BLOOD Lactate-1.2
+___ 04:06PM BLOOD O2 Sat-96
+___ 3:55 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+ 
+ECG Study Date of ___  4:01:29 ___ 
+  Intervals     Axes 
+Rate PR QRS QT QTc (___)    P QRS T 
+___     -17 43 
+ 
+
+CHEST (PORTABLE AP) Study Date of ___ 3:59 ___  
+IMPRESSION:
+No acute intrathoracic process 
+
+Last PFTs ___: Impression:
+Moderately severe obstructive ventilatory defect. The reduced 
+FVC is likely due to gas trapping given the normal TLC measured 
+on ___ and compared to that study the FVC has increased by 
+0.76 L (+32%). Compared to the prior study of ___ the FVC 
+has increased by 0.67 L (+27%) and the FEV1 has increased by 
+0.40 L (+28%).
+
+___:
+FVC: 2.07, percent predicted 45%
+FEV1: 1.37, percent predicted 41%
+FEV1/FVC percent 66
+
+Discharge Labs:
+___ 08:11AM BLOOD WBC-9.3 RBC-4.26* Hgb-12.8* Hct-38.0* 
+MCV-89 MCH-30.0 MCHC-33.7 RDW-12.9 RDWSD-42.1 Plt ___
+___ 08:11AM BLOOD Glucose-116* UreaN-16 Creat-0.6 Na-140 
+K-3.8 Cl-101 HCO3-25 AnGap-___ year old Male with a history of chronic stable Asthma  who 
+presents with 24 hours of progressive dyspnea and wheezing 
+consistent with an asthma exacerbation.
+
+Assessment and Plan:
+# Chronic Stable Asthma with severe acute exacerbation: Patient 
+presents with shortness of breath, and significant wheezing with 
+accessory muscle use consistent with an acute asthma 
+exacerbation. Patient meets criteria for a severe exacerbation 
+due to RR>30 in the ED, and patient required a 100% NRB mask 
+during transport.  Given the patient's symptoms likely 
+represents a viral bronchitis type trigger. He was started on 
+Prednisone 60 mg p.o. daily and standing nebs until his 
+breathing improved and will taper his predniosone 10mg every 
+other day on discharge. HIs peakflows improved to 220-285 (at or 
+above baseline per patient) and he had spirometry while in the 
+hospital as well. He will follow up with his pulmonologist and 
+PCP as an outpatient. 
+
+# HTN: 
+- Continued amlodipine
+
+# Atrial Fibrillation: Patient is not on a rate control agent. 
+He presented with RVR in the setting of nebs but that resolved 
+with improved respiroaty status. Continued rivoroxaban
+
+# Hyperlipidemia
+- Continued Pravachol
+
+# QT Prolongation: Resolved. Note patient has a QTc > 500 on EKG 
+in ED. His baseline on prior EKGs is normal at 430.  He was 
+monitored on telemetry and repeat EKGs over the following 2 days 
+showed a reduction in his QTC down to 450. Bupropion is a QT
+prolonging agent, but wish to avoid stopping this in the setting 
+of increased anxiety with steroids.  He should have follow-up 
+EKGs as an outpatient to continue to monitor his QTC but 
+discharge QTc 450. 
+
+Transitional Issues:
+[] Follow up QTc on EKG as an outpatient. 
+[] Evaluate for the need to prolong his steroid course. 
+
+Greater than 30 minutes spent in care coordination and 
+counseling on the day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1 anaphylaxis 
+2. mepolizumab 100 mg subcutaneous Q28 Days 
+3. BuPROPion XL (Once Daily) 450 mg PO DAILY 
+4. ClonazePAM 0.5 mg PO BID:PRN anxiety 
+5. amLODIPine 5 mg PO DAILY 
+6. Rivaroxaban 20 mg PO DAILY 
+7. Pravastatin 40 mg PO QPM 
+8. Montelukast 10 mg PO DAILY 
+9. budesonide-formoterol 160-4.5 mcg/actuation inhalation DAILY 
+10. Omeprazole 20 mg PO BID 
+11. albuterol sulfate 90 mcg/actuation inhalation TID:PRN 
+dyspnea 
+
+ 
+Discharge Medications:
+1.  PredniSONE 60 mg PO DAILY 
+Than taper down 10mg every 2 days.
+60mg x2 day then
+50mg x2 days ect until complete.  
+Tapered dose - DOWN 
+RX *prednisone 10 mg 6 tablet(s) by mouth Daily Disp #*42 Tablet 
+Refills:*0 
+2.  albuterol sulfate 90 mcg/actuation inhalation TID:PRN 
+dyspnea  
+3.  amLODIPine 5 mg PO DAILY  
+4.  budesonide-formoterol 160-4.5 mcg/actuation inhalation DAILY 
+ 
+5.  BuPROPion XL (Once Daily) 450 mg PO DAILY  
+6.  ClonazePAM 0.5 mg PO BID:PRN anxiety  
+7.  mepolizumab 100 mg subcutaneous Q28 Days  
+8.  Montelukast 10 mg PO DAILY  
+9.  Pravastatin 40 mg PO QPM  
+10.  Rivaroxaban 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute Asthma Exacerbation
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Mr ___,
+
+It was a pleasure taking care of you while you were in the 
+hosptial. You were admitted with shortness of breath and found 
+to have an asthma exacerbation. You were treated with steroids 
+and nebulizers and your breathing slowly improved. Please take 
+your medications as directed and follow up as noted below. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,309 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Confusion, weakness
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ y/o man with HTN, HLD, obesity, and sleep
+apnea who presented to OSH with complaints of 2 weeks of
+headache, with new confusion, right leg weakness, and urinary
+incontinence day of admission transferred to ___ after head CT
+there revealed left subdural hematoma.
+
+His wife reported that he awoke around 0600 ___ and called her
+to the room where he was sitting on the side of his bed stating
+he couldn't move his right leg well. He tried to use the 
+bathroom
+but was incontinent. They presented to OSH where he became
+progressively more confused and continued to complain of R leg
+weakness. He was transferred to ___ for neurosurgical
+evaluation.
+
+Pertinent ED course: He was evaluated by both neurosurgery and
+neurology. Repeat head CT 6 hours after initial CT showed stable
+hematoma with minimal midline shift. UA was concerning for
+infection and he was given ceftriaxone. He continued to be
+confused with unsteady gait, neurology felt R leg weakness was
+improving and that his confusion was likely toxic metabolic
+encephalopathy from a UTI. He was admitted to medicine for
+further treatment and monitoring.
+ 
+Upon arrival to the floor, he and his wife reported he has been
+frequently hitting his head due to his height but approximately 
+a
+week ago he hit it on the car door, and for the pain his wife
+gave him multiple aspirin. Otherwise he states he still doesn't
+feel himself and is very concerned about his leg and if he'll be
+able to walk out of here "like a normal person." He states the
+distal half of all his toes on both feet feel numb. He has been
+having several days of dysuria, but denies any fevers, chills,
+chest pain, dyspnea, abdominal pain, nausea, vomiting. diarrhea.
+ 
+ 
+Past Medical History:
+-HTN
+-HLD
+-OSA on CPAP
+-Allergic rhinitis
+-Obesity
+-Osteoarthritis 
+-R knee replacement ___
+-Left hip replacement ___
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY: Per OMR
+Mother, deceased @ ___; CHF, CVA, HTN, aortic stenosis
+Father deceased @ ___: DM, HTN
+Brother deceased @ ___ of MI
+ 
+Physical Exam:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout except numb below right knee. CN2-11 intact.
+Strength in upper and lower extremities ___, except right hip,
+knee, foot ___.
+PSYCH: pleasant, appropriate affect
+
+Discharge exam:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout except numb below right knee. CN2-11 intact.
+Strength in upper and lower extremities ___
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+___ 07:15AM BLOOD WBC-6.8 RBC-4.91 Hgb-15.6 Hct-45.8 MCV-93 
+MCH-31.8 MCHC-34.1 RDW-11.9 RDWSD-41.0 Plt ___
+___ 06:00AM BLOOD WBC-6.8 RBC-4.48* Hgb-14.1 Hct-42.0 
+MCV-94 MCH-31.5 MCHC-33.6 RDW-11.9 RDWSD-41.1 Plt ___
+___ 07:55AM BLOOD WBC-6.5 RBC-4.47* Hgb-14.2 Hct-41.9 
+MCV-94 MCH-31.8 MCHC-33.9 RDW-11.9 RDWSD-41.2 Plt ___
+___ 09:30AM BLOOD WBC-9.9 RBC-4.70 Hgb-15.0 Hct-44.2 MCV-94 
+MCH-31.9 MCHC-33.9 RDW-11.9 RDWSD-41.1 Plt ___
+___ 06:00AM BLOOD Neuts-66.3 Lymphs-17.2* Monos-13.0 
+Eos-2.5 Baso-0.6 Im ___ AbsNeut-4.47 AbsLymp-1.16* 
+AbsMono-0.88* AbsEos-0.17 AbsBaso-0.04
+___ 09:30AM BLOOD Neuts-83.6* Lymphs-7.3* Monos-8.0 
+Eos-0.3* Baso-0.3 Im ___ AbsNeut-8.25* AbsLymp-0.72* 
+AbsMono-0.79 AbsEos-0.03* AbsBaso-0.03
+___ 07:15AM BLOOD Glucose-106* UreaN-16 Creat-0.9 Na-140 
+K-4.5 Cl-102 HCO3-25 AnGap-13
+___ 06:00AM BLOOD Glucose-108* UreaN-15 Creat-0.8 Na-142 
+K-4.2 Cl-106 HCO3-24 AnGap-12
+___ 07:55AM BLOOD Glucose-105* UreaN-19 Creat-0.9 Na-140 
+K-4.3 Cl-104 HCO3-23 AnGap-13
+___ 09:30AM BLOOD Glucose-148* UreaN-24* Creat-1.0 Na-140 
+K-4.7 Cl-104 HCO3-22 AnGap-14
+___ 07:15AM BLOOD Phos-4.1 Mg-2.2
+
+CT head ___:
+IMPRESSION:  
+Minimal change in previously seen left subdural hematoma, 
+measuring up to 7 mm in greatest dimension (previously 6 mm).  
+Expected evolution of hematoma density with 2 remaining areas of 
+persistently increased density to suggest acute components of 
+hemorrhage.  Minimal to no mass effect. Motion artifact limits 
+remaining study.  Within these limitations, no evidence of 
+infarction or new hemorrhage. 
+
+UCx:
+                  **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------     4 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+Bcx:
+
+ 
+ 
+___ 10:30 am BLOOD CULTURE
+
+   Blood Culture, Routine (Preliminary): 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE. 
+         Isolated from only one set in the previous five days. 
+         SENSITIVITIES PERFORMED ON REQUEST.. 
+      CORYNEBACTERIUM SPECIES (DIPHTHEROIDS). 
+         Isolated from only one set in the previous five days. 
+
+   Anaerobic Bottle Gram Stain (Final ___: 
+      Reported to and read back by ___. ___ ON ___ AT 
+0500. 
+      GRAM POSITIVE COCCI IN CLUSTERS. 
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      GRAM POSITIVE ROD(S) CONSISTENT WITH CORYNEBACTERIUM OR    
+          
+                          PROPIONIBACTERIUM SPECIES. 
+      Reported to and read back by ___ (___) AT 10:00 
+AM
+      ___.
+
+___: BCX: NGTD
+
+  
+ 
+Brief Hospital Course:
+___ y/o man with HTN, HLD, obesity, and sleep
+apnea who presented with confusion and R leg weakness found to
+have left sided subdural hematoma with R leg weakness and UTI. 
+
+ACUTE/ACTIVE PROBLEMS:
+#SUBDURAL HEMATOMA, R LEG WEAKNESS: Suspect traumatic from
+hitting head in setting of aspirin use, possibly on car door or
+other instance as reports frequent occurrences. Location of
+hematoma correlates with right leg weakness on exam. Per
+neurosurgery no need for surgical intervention. Neurology was 
+consulted. Pt's RLE weakness improved during hospitalization. 
+Aspirin was placed on hold likely for a few more weeks until 
+neurology and neurosurgery f/u. Plan for outpt neuro and 
+neurosurg f/u with repeat CT.  Neurology f/u arranged. Neurosurg 
+f/u pending. Will need repeat head CT prior to visit.
+
+#UTI: UA with positive nitrites, 39 WBCs, moderate bacteria, 0
+epis consistent with UTI. Episode of urinary incontinence also
+likely in setting of UTI. Urine culture-pan ___. Treated 
+with IV ceftriaxone starting ___ through ___ which was 
+converted to PO Bactrim to complete a 7 day course to end ___. 
+
+
+#ENCEPHALOPATHY: Improved. Suspect toxic metabolic in setting of
+UTI as below. At baseline normal mental status and high
+functioning. Treated for UTI. 
+
+CHRONIC/STABLE PROBLEMS:
+#OSA: Has CPAP at home but reports inconsistent usage as it
+bothers him. Declined usage here. 
+
+#HYPERTENSION: Continued home amlodipine
+
+#HYPERLIPIDEMIA: Continued home pravastatin
+
+GENERAL/SUPPORTIVE CARE:
+# DIET: Regular
+# LINES/TUBES/DRAINS: PIV
+# VTE PROPHYLAXIS: Pneumoboots
+# HCP/EMERGENCY CONTACT: Wife ___ (c) ___ (h)
+___. Son ___ ___ updated 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Pravastatin 40 mg PO QPM 
+4. Cyanocobalamin 500 mcg PO DAILY 
+5. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 3 Days 
+Through ___.  amLODIPine 5 mg PO DAILY  
+3.  Cyanocobalamin 500 mcg PO DAILY  
+4.  Pravastatin 40 mg PO QPM  
+5.  Vitamin D 1000 UNIT PO DAILY  
+6. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until it is ok by neurology and neurosurgery
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+subdural hematoma 
+urinary tract infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted for evaluation of confusion and found to have 
+a bleed in your brain called a subdural hematoma as well as a 
+urinary tract infection. For the subdural hematoma, you were 
+evaluated by neurology and neurosurgery who recommended 
+monitoring and outpatient follow up and to hold your aspirin for 
+at least a few weeks. For your urinary tract infection, you were 
+treated with antibiotics which will need to continue for a few 
+more days after discharge. 
+ 
+Followup Instructions:
+___

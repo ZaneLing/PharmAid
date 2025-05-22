@@ -1,0 +1,295 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right flank pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with a history of
+CKDIII and kidney stones, who presented with acute onset of 
+right
+flank pain consistent with a kidney stone, admitted for
+management of ___. The patient was in his normal state of health
+until late ___ night, when he was awoken with severe right
+flank pain radiating to his groin -- so severe that he vomited
+several times. This was the same pain as the previous kidney
+stone (also in the right). He denies fevers and chills, other
+urinary symptoms, chest pain, shortness of breath. He did not
+have any diarrhea. The pain was colicky in nature, though never
+fully went away. He presented to the emergency room; shortly
+after presenting to the ED, his pain had resolved. Of note,
+furosemide was recently started in the past two weeks by his 
+PCP.
+
+In the ED, SBP elevated from the 150s-180s. Otherwise vital 
+signs
+were stable.  CT urogram was performed whih showed:
+
+ 
+1. New mild right hydroureteronephrosis without urolithiasis
+detected. 
+Differential considerations include a recently passed calculus,
+but other 
+obstructing processes are not excluded including malignancy.
+Recommend urology 
+consultation, correlation with urine cytology and consider
+follow-up CTU with 
+intravenous contrast or MRU to further assess for source of an
+obstructing 
+process if needed. 
+2. Asymmetric perinephric fat stranding on the right may be
+related to the 
+right-sided hydroureteronephrosis, but the possibility of
+pyelonephritis. 
+Recommend correlation with urinalysis to exclude infection. 
+3. Possible partially calcified 2 cm lesion at the
+gastroesophageal junction. 
+Recommend correlation with nonemergent endoscopy. 
+4. Additional incidental findings include cholelithiasis,
+diverticulosis, a 
+small bowel containing right inguinal hernia without 
+obstruction,
+moderate 
+prostatomegaly, and a possible chronic appearing short-segment
+left common 
+iliac artery dissection. 
+
+1. Recommend urology consultation, correlation with urine
+cytology and 
+consider follow-up CT or MR urography to assess for the source 
+of
+the 
+right-sided hydroureteronephrosis if needed. 
+2. Correlation with urinalysis. 
+3. Non-emergent endoscopy for further assessment of partly
+calcified lesion at 
+the gastroesophageal junction. 
+
+A renal ultrasound was performed, which showed:
+
+1.  Increased echogenicity of the renal cortices and loss of
+corticomedullary 
+differentiation bilaterally compatible with medical renal
+disease.  No 
+hydronephrosis on either side. 
+2.  Interval enlargement of a right lower pole simple appearing
+renal cyst. 
+3.  Post void residual insignificant. 
+
+BMP was notable for a creatinine of 2.5 (1.9 at PCP follow up
+last week). 
+
+Of note, vascular surgery was consulted because of an
+incidentally found left iliac artery dissection -- they
+recommended long term (not acute) blood pressure management to
+target SBP < 140, initiation of aspirin and statin, and CT
+angiogram when his kidneys have improved.
+
+Because creatinine did not improve, he was admitted to medicine.
+
+ 
+Past Medical History:
+1. CKD3
+2. HTN
+3. Left iliac artery dissection
+4. Previous right kidney stone
+ 
+Social History:
+___
+Family History:
+No family history of kidney stones.
+ 
+Physical Exam:
+ADMISSION EXAM:
+
+VITALS: Afebrile, SBP 166/91, HR 98, RR 17 (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD. 
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No pain over bladder, no CVA tenderness.
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+Patient examined on day of discharge. SBP ranging between 114 
+and 133/71-81. Otherwise VSS. Clear yellow urine, with absent 
+back pain.
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 08:33PM BLOOD WBC-8.5 RBC-4.81 Hgb-14.9 Hct-45.4 MCV-94 
+MCH-31.0 MCHC-32.8 RDW-13.2 RDWSD-45.6 Plt ___
+___ 08:33PM BLOOD Neuts-92.3* Lymphs-5.2* Monos-2.0* 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-7.80* AbsLymp-0.44* 
+AbsMono-0.17* AbsEos-0.00* AbsBaso-0.01
+___ 08:33PM BLOOD Glucose-134* UreaN-41* Creat-2.5* Na-141 
+K-4.9 Cl-106 HCO3-19* AnGap-16
+___ 01:35PM URINE Hours-RANDOM Creat-281 Na-<20
+___ 08:25PM URINE RBC-2 WBC-<1 Bacteri-NONE Yeast-NONE 
+Epi-0
+___ 08:25PM URINE Blood-MOD* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+
+DISCHARGE LABS:
+
+___ 07:15AM BLOOD Glucose-81 UreaN-78* Creat-2.9* Na-134* 
+K-4.4 Cl-103 HCO3-17* AnGap-14
+
+IMAGING:
+
+Renal ultrasound:
+
+1. Redemonstration of mild hydronephrosis of the right kidney 
+which is new 
+compared to the prior study of ___.  No etiology for 
+obstruction 
+identified.  No left hydronephrosis. 
+2. No significant change in appearance of the renal parenchyma, 
+including 
+increased echogenicity of the renal cortices and loss of 
+corticomedullary 
+differentiation, compatible with medical renal disease. 
+3. Slight interval enlargement of 7.4 cm simple cyst arising 
+from the lower 
+pole right kidney. 
+4. 1.4 cm cortical cyst within the posterior upper pole of the 
+right kidney.  
+Adjacent punctate echogenic focus could represent wall 
+calcification although 
+this is not clearly corroborated on the recent CT. 
+
+CTU:
+
+1. Recommend urology consultation, correlation with urine 
+cytology and 
+consider follow-up CT or MR urography to assess for the source 
+of the 
+right-sided hydroureteronephrosis if needed. 
+2. Correlation with urinalysis. 
+3. Non-emergent endoscopy for further assessment of partly 
+calcified lesion at 
+the gastroesophageal junction. 
+  
+
+ 
+Brief Hospital Course:
+On admission, the patient's flank pain had passed. However, his 
+creatinine continued to climb, from a baseline creatinine of 
+1.9, to a maximum of 3.3 on HD#3. A repeat renal ultrasound was 
+obtained, which showed only continued mild hydronephrosis and 
+hydroureter, consistent with a passed stone. His lisinopril and 
+furosemide were held, and he was started on amlodipine 10 mg. 
+His metoprolol was held as well, and he was placed on labetalol 
+to target an SBP < 130. Because of his continuously rising 
+creatinine, nephrology was consulted, who spun his urine and saw 
+muddy brown casts, consistent with ATN -- likely in the setting 
+of ACE-I and loop diuretic use, hydronephrosis from the stone, 
+underlying CKD, and contrast administration. On day of 
+discharge, his creatinine downtrended. Therefore, he will follow 
+up with Dr. ___ a week and recheck his BMP at that time; 
+if his creatinine has resolved, he will stop amlodipine and 
+restart his lisinopril. Non-urgent renal consultation for 
+recurrent kidney stones is recommended as well.
+
+HOSPITAL COURSE BY PROBLEM:
+
+# Suspect left iliac artery aneurysm. This was potentially seen 
+on the CT urogram in the ED; vascular was consulted. They did 
+not think that a CTU was an ideal study to assess, and 
+recommended a CTA of the LLE. This was deferred given his kidney 
+injury and lack of symptoms. He would have a non-urgent CTA of 
+the LLE as an outpatient after his kidney injury resolves. In 
+the meantime, he was started on ASA 81 mg and atorvastatin 40. 
+These can be stopped if the CT scan is negative.
+
+# HTN.
+- amlodipine 10 mg daily
+- continue home metoprolol
+- HOLD lisinopril and furosemide until follow up with Dr. ___
+
+___ ISSUES
+- follow up BMP; if creatinine returns to ___, STOP 
+amlodipine and RESTART lisinopril and furosemide
+- non-urgent renal referral for recurrent stones
+- non-urgent CTA of LLE when kidney injury resolves; can stop 
+ASA and statin if not aneurysm
+
+> 30 minutes spent on discharge activities.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Furosemide 20 mg PO DAILY 
+2. Lisinopril 20 mg PO DAILY 
+3. Metoprolol Succinate XL 50 mg PO DAILY 
+4. Cyanocobalamin 1000 mcg PO DAILY 
+5. Vitamin D 400 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Cyanocobalamin 1000 mcg PO DAILY  
+5.  Metoprolol Succinate XL 50 mg PO DAILY  
+6.  Vitamin D 400 UNIT PO DAILY  
+7. HELD- Furosemide 20 mg PO DAILY  This medication was held. Do 
+not restart Furosemide until you see Dr. ___
+8. HELD- Lisinopril 20 mg PO DAILY  This medication was held. Do 
+not restart Lisinopril until you see Dr ___
+
+ 
+___ Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute kidney injury due to ATN
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with a kidney stone, and 
+kidney injury after. This was due to "acute tubular necrosis." 
+You were monitored until your kidney injury improved. You will 
+have to HOLD your lisinopril and furosemide until your kidney 
+improves completely. In the meantime, you will take a new type 
+of blood pressure medication called amlodipine. However, when 
+your kidney is better you should switch back to lisinopril; you 
+will see Dr. ___ week to go over this.
+ 
+Followup Instructions:
+___

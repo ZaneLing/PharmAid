@@ -1,0 +1,307 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with history of hypertension 
+and dementia, who was transferred from ___ after a fall 
+with ___ pelvic fracture. Patient lives in an assisted living 
+at ___. On the day of presentation she was attempting to 
+stand up from the couch, but slipped and slid to the floor. She 
+experienced sudden onset of pain in her L groin and was unable 
+to get up after the fall due to weakness and pain. She denied 
+dizziness, lightheadedness, chest pain, or palpitations prior to 
+the fall. No head strike or LOC. She was brought to ___ 
+where CT pelvis showed inferior and superior ___ pubic rami 
+fractures extending into the acetabulum, unlikely to be 
+displaced. Labs at OSH were remarkable for WBC 14.5, UA w/4+ 
+bacteria, 14 WBC's and moderate leuks. She received Cefpodoxime 
+for UTI and was transferred to ___ for evaluation by 
+orthopedics.  
+ 
+In the ED at ___, initial VS were: T 98.6 P 93 BP 196/74 
+(improved to 160/94 prior to transfer) RR 18 O2 99% RA.  
+Exam was notable for: intact skin, no visible deformity. Slight 
+pain at L proximal fibula, full ROM, 1+ distal pulses.  
+No labs were drawn, but multiple imaging studies were performed. 
+CT head showed no intracranial hemorrhage and incidental finding 
+of 1.0 cm osteoma or calcified meningioma anterior to the right 
+temporal lobe. CT c spine showed no fracture and pain films of L 
+femur/knee/ankle shoed no acute fractures, although subacute 
+proximal L fibular fracture was identified.  
+ 
+Ortho and physical therapy (___) were consulted. Ortho 
+recommended ___ baring as tolerated. ___ recommended rehab, 
+but because of patient's insurance she requires 3 inpatient 
+nights before she can go to rehab. Patient was given 1g Tylenol 
+and admitted to medicine for further management of hip fracture 
+and likely urinary tract infection (UTI).  
+ 
+On arrival to the floor, patient had no pain. On ROS she 
+reported recent urinary urgency/frequency and occasional 
+episodes of incontinence. No headache, vision changes, fevers, 
+chills, chest pain, SOB, abdominal pain, nausea, vomiting or 
+diarrhea.  
+ 
+REVIEW OF SYSTEMS:  
+10 point ROS reviewed and negative except as per HPI.  
+ 
+
+ 
+Past Medical History:
+Dementia  
+Hypertension
+Anemia  
+
+ 
+Social History:
+___
+Family History:
+No known family history of dementia
+ 
+Physical Exam:
+PHYSICAL EXAM ON ADMISSION:
+===========================
+VS: 97.8 177 / 89 90 18 91 Ra 
+GENERAL: alert. Oriented to self only.
+HEENT: EOMI, MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs 
+LUNGS: CTAB, anteriorly  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding
+EXTREMITIES: warm, trace pedal edema b/l. Mild TTP over L hip.
+PULSES: 1+ DP pulses bilaterally  
+NEURO: non focal  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+
+PHYSICAL EXAM ON DISCHARGE:
+===========================
+VS:  97.5 PO 176 / 82 102 18 95 Ra 
+GENERAL: Alert. Oriented to self only.
+HEENT: EOMI, MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs 
+LUNGS: CTAB, anteriorly  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding
+EXTREMITIES: warm, trace pedal edema b/l. Mild TTP over L hip.
+PULSES: 1+ DP pulses bilaterally  
+NEURO: non focal  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+==================
+___ 08:50AM BLOOD ___ 
+___ Plt ___
+___ 08:50AM BLOOD Plt ___
+___ 08:50AM BLOOD ___ 
+___
+___ 08:50AM BLOOD ___
+
+LABS ON DISCHARGE:
+==================
+___ 05:31AM BLOOD ___ 
+___ Plt ___
+___ 05:31AM BLOOD Plt ___
+___ 05:31AM BLOOD ___ 
+___
+___ 05:31AM BLOOD ___
+
+MICRO:
+======
+___ 8:23 pm URINE
+
+   URINE CULTURE (Preliminary): 
+      GRAM NEGATIVE ROD(S).    ___ CFU/mL. 
+
+___ Urine Culture at ___:
+SPEC #: ___      ___      RECD: 
+___   ___ #: ___
+
+SOURCE: URINE                         
+SPDESC: RANDOM                        
+
+ORDERED:  URINE CULTURE                                          
+                 
+
+  URINE CULTURE  Final                                           
+                      
+     Organism 1                     ESCHERICHIA COLI
+        COLONY COUNT:               >100,000 CFU/ML
+
+     1. ESCHERICHIA COLI
+                                      ___ M.I.C. 
+                                      ------ ------ 
+       AMIKACIN                         S       <=2 
+       AMPICILLIN                       S         8 
+       CEFAZOLIN                        S       <=4 
+       GENTAMICIN                       S       <=1 
+       IMIPENEM                         S    <=0.25 
+       ERTAPENEM                        S     <=0.5 
+       LEVOFLOXACIN                     R       >=8 
+       NITROFURANTOIN                   S      <=16 
+       PIPERACILLIN/TAZOBACTAM          S       <=4 
+       TOBRAMYCIN                       S       <=1 
+       TRIMETHOPRIM/SULFA               S      <=20 
+
+IMAGING:
+========
+___ DX FEMUR & KNEE ___:
+Subacute ___ proximal fibula fracture.  No other fractures.
+
+___ ANKLE (AP, MORTISE & ___:
+No comparison.  No periarticular soft tissue swelling.  No 
+erosions.  There is symmetrical narrowing of the joint space at 
+the level of the mortise, but no evidence of dislocation and no 
+cortical disruption indicative of fracture.
+
+___ CT ___ W/O CONTRAST:
+1. No fracture. 
+2. 3 mm of anterolisthesis of C4 on C5 is likely degenerative.  
+Given absence 
+of prior imaging studies, clinical correlation is advised. 
+3. Multilevel degenerative changes, as described. 
+
+___ CT HEAD W/O CONTRAST:
+1. No gross intracranial hemorrhage or fracture. 
+2. Probable calcified meningioma measuring up to 1 cm within the 
+right middle 
+cranial fossa abutting the anterior right temporal lobe. 
+
+CR PELVIS: Performed at ___ HIP: Performed at ___ PELVIS: Performed at ___  
+
+ 
+___ ___ Course:
+___ year old woman with history of hypertension and dementia, who 
+was transferred from ___ after fall with ___ pelvic 
+fracture, incidentally found to have subacute L proximal fibular 
+fracture and UTI. 
+
+ACUTE ISSUES:
+=============
+#Mechanical Fall:
+___ pelvic fracture:
+#Subacute ___ proximal fibular fracture: 
+Patient had a mechanical fall with subsequent ___ pelvic 
+fracture. She was also found to have subacute ___ proximal 
+fibular fracture. Per orthopedics, there was no need for 
+surgical intervention. Physical therapy recommended rehab. Pain 
+was controlled with Tylenol. 
+
+#Urinary tract infection: 
+Patient reported urinary symptoms of dysuria and frequency. She 
+was initially started on ceftriaxone (day ___. ___ 
+cultures grew E.coli sensitive to Bactrim. Ceftriaxone was 
+switched to Bactrim. Patient's urinary symptoms resolved.
+
+#Hypertension: The blood pressure was elevated to ___ 
+systolic throughout the hospital stay. Patient is not on any 
+blood pressure lowering meds. She was started on amlodipine 5 
+mg.
+
+CHRONIC ISSUES:
+=============== 
+#Dementia: Mental status appeared to be at baseline per niece.
+
+***TRANSITIONAL ISSUES:***
+- ___ in orthopedics trauma clinic in 2 weeks
+- Weight baring activity as tolerated, may get aircast boot for 
+LLE if patient feels it would be helpful
+- Continue Bactrim for a total duration of 5 days (day 1 = 
+___ day 5 = ___
+- Patient was started on amlodipine for hypertension (SBP in 
+170's); monitor blood pressure and adjust blood pressure 
+lowering medications as needed
+- Physical therapy at rehab
+
+#CODE: DNR/Okay to intubate
+#CONTACT: ___ (niece, HCP) ___
+
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pantoprazole 40 mg PO Q24H 
+2. Ferrous Sulfate 325 mg PO DAILY 
+3. Mirtazapine 7.5 mg PO QHS 
+4. Docusate Sodium 100 mg PO BID:PRN constipation 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO TID  
+2.  amLODIPine 5 mg PO DAILY  
+3.  Sulfameth/Trimethoprim DS 1 TAB PO BID  
+4.  Docusate Sodium 100 mg PO BID:PRN constipation  
+5.  Ferrous Sulfate 325 mg PO DAILY  
+6.  Mirtazapine 7.5 mg PO QHS  
+7.  Pantoprazole 40 mg PO Q24H  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+Mechanical Fall
+___ pelvic fracture
+Subacute ___ proximal fibular fracture 
+Urinary tract infection
+
+SECONDARY DIAGNOSES:
+Hypertension
+Dementia
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear ___,
+
+___ was a pleasure taking care of you at ___ 
+___. You came here because you had a fall and was 
+found to have a pelvic fracture. The orthopedics team evaluated 
+you and there was no indication for any surgery. The physical 
+therapy recommended you go to rehab to regain your strength.
+
+You were also found to have a urinary tract infection which was 
+treated with antibiotics.
+
+What should you do when you leave the hospital?
+- Work with the physical therapy at your facility
+- Follow up with orthopedics clinic as scheduled
+- Your facility will arrange for an appointment with your 
+primary care provider
+- ___ as needed for pain
+- Take the blood pressure medication amlodipine
+
+We wish you all the best in health.
+
+Your ___ TEAM
+
+ 
+Followup Instructions:
+___

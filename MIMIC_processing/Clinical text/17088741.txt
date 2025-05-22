@@ -1,0 +1,344 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / iv contrast
+ 
+Attending: ___
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old man with PMH of congenital bicuspid valve and aortic 
+aneurysm s/p bovine aortic valve replacement and Ascending aorta 
+replacement, Multiple sclerosis, Chronic back pain s/p multiple 
+surgeries, presenting with 3 days of shortness of breath. A week 
+ago, Mr. ___ started feeling chest pressure in his chest. 
+He felt like fluid was filling up in his lungs. Thought it was 
+secondary to an URI. Also had one day of nausea, chills and 
+diarrhea, which have since resolved. Over the past few nights, 
+his wife noticed that he was making wheezing and crackling 
+noises from his lungs when he slept. Stable on 1 pillow. He went 
+to a walk in clinic day before presentation, noted to have 
+bilateral pleural effusions on CXR
+.  
+ In the ED, initial vital signs were: 97.8, 65, 120/44, 22, 98% 
+RA  
+ - Exam was notable for: clear lungs, positive JVD, no lower 
+extremity swelling, loud systolic and diastolic murmur  
+ - Labs were notable for: wbc 7.5, H/H 11.9/35.3, plt 208, 
+proBNP 1697, trop <0.01, CHEM notable for Na 139, K 4.4, BUN 21, 
+Cr 1.  
+ - Imaging: CXR with trace bilateral pleural effusions  
+ - Consults: seen by cardiology in the ED, with ___ diastolic 
+murmur  
+ - The patient was given: 1L NS prior to seeing cardiology, then 
+given a 20mg IV lasix  
+
+ - Vitals prior to transfere were: 98.6, 62, 115/44, 19, 94% RA 
+ 
+ Upon arrival to the floor, patient is lying in bed, 
+comfortable. Asking for home medications of Ativan and 
+gabapentin. Says that he has been followed closely by his 
+PCP/cardiologist for his aortic valve. He gets yearly ECHOs that 
+have shown some aortic insufficiency with possible mitral 
+regurgitation, but nothing that was significant. He also notes, 
+that he is supposed to be flying out this morning for a 5 day 
+vacation in ___ that he does not want to miss. Denies 
+chest pain.  
+
+ REVIEW OF SYSTEMS:  
+ [+] per HPI  
+ [-] Denies headache, visual changes, pharyngitis, rhinorrhea, 
+nasal congestion, cough, fevers, chills, sweats, weight loss, 
+dyspnea, chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, hematochezia, dysuria, rash, paresthesias, 
+weakness  
+
+ 
+Past Medical History:
+ Bicuspid Aortic valve s/p Aortic Valve replacement in ___  
+ Aortic Aneurysm, s/p Ascending aorta replacement  
+ Multiple sclerosis  
+ Chronic Back pain s/p multiple back surgeries  
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+=======================
+ADMISSION PHYSICAL EXAM
+=======================
+ VITALS - 98.4, 106/38, 53, 18, 97RA  
+ GENERAL - pleasant, well-appearing, in no apparent distress  
+ HEENT - normocephalic, atraumatic, no conjunctival pallor or 
+scleral icterus, PERRLA, EOMI, OP clear  
+ NECK - supple, JVP to mandible, left side higher than right  
+ CARDIAC - regular rate & rhythm, IV/VI systolic murmur 
+throughout the precordium, loudest at RUSB; V/VI 
+decrescendo-crescendo diastolic murmur along left sternal border 
+ 
+ PULMONARY - clear to auscultation bilaterally, without wheezes 
+or rhonchi  
+ ABDOMEN - normal bowel sounds, soft, non-tender, non-distended, 
+no organomegaly  
+ EXTREMITIES - warm, well-perfused, no cyanosis, clubbing or 
+edema  
+ SKIN - without rash  
+ NEUROLOGIC - A&Ox3, CN II-XII grossly normal, no focal 
+neurologic deficits. Gait assessment deferred  
+ PSYCHIATRIC - listen & responds to questions appropriately, 
+pleasant  
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+Weight: 77.3 kg
+VS: T 98.4F BP 111/43 mmHg P 59 RR 18 O2 97% RA
+General: Well appearing, pleasant man, in NAD.
+HEENT: EOMs intact, anicteric sclerae.
+Neck: JVP to midneck at 15 degrees. 
+CV: RRR, harsh, systolic IV/VI murmur best heard over RUSB, V/VI 
+decrescendo-crescendo diastolic murmur over left sternal border.
+Pulm: CTA b/l; no wheezes, rhonchi, or rales.
+Abd: Soft, non-tender, non-distended. NABS.
+Ext: Warm, well-perfused, no edema.
+Neuro: A&Ox3. CNs grossly II-XII. No focal neurologic signs.
+ 
+Pertinent Results:
+==============
+ADMISSION LABS
+==============
+___ 05:30PM BLOOD WBC-7.5 RBC-3.95* Hgb-11.9*# Hct-35.3* 
+MCV-89 MCH-30.1 MCHC-33.7 RDW-13.1 RDWSD-42.7 Plt ___
+___ 05:30PM BLOOD ___ PTT-29.2 ___
+___ 05:30PM BLOOD Neuts-52.4 ___ Monos-10.5 Eos-4.1 
+Baso-1.2* NRBC-0.9* Im ___ AbsNeut-3.94 AbsLymp-2.37 
+AbsMono-0.79 AbsEos-0.31 AbsBaso-0.09*
+___ 05:30PM BLOOD Glucose-87 UreaN-21* Creat-1.0 Na-139 
+K-4.4 Cl-103 HCO3-25 AnGap-15
+___ 05:30PM BLOOD proBNP-1697*
+___ 05:30PM BLOOD cTropnT-<0.01
+___ 06:23PM BLOOD pO2-66* pCO2-39 pH-7.41 calTCO2-26 Base 
+XS-0
+
+==============
+DISCHARGE LABS
+==============
+___ 04:35AM BLOOD WBC-6.7 RBC-3.69* Hgb-11.2* Hct-33.3* 
+MCV-90 MCH-30.4 MCHC-33.6 RDW-13.2 RDWSD-43.1 Plt ___
+___ 04:35AM BLOOD Glucose-85 UreaN-23* Creat-1.1 Na-139 
+K-4.3 Cl-103 HCO3-27 AnGap-13
+___ 04:35AM BLOOD ALT-24 AST-26 LD(LDH)-390* AlkPhos-51 
+TotBili-0.5
+___ 04:35AM BLOOD CK-MB-3 cTropnT-<0.01
+___ 04:35AM BLOOD Albumin-3.8 Calcium-9.2 Phos-4.1 Mg-2.0
+
+===============
+IMAGING/STUDIES
+===============
+CHEST (PA & LAT) (___)
+ 
+FINDINGS:  
+The patient is status post median sternotomy and aortic valve 
+replacement.  Heart size is top normal, decreased in size 
+compared to the previous study.  The aorta is tortuous.  
+Pulmonary vasculature is not engorged.  Lungs are hyperinflated. 
+ Minimal patchy atelectasis is noted in the lung bases without 
+focal consolidation.  Small bilateral pleural effusions are 
+likely present. No acute osseous abnormalities detected. 
+  
+IMPRESSION:  
+Minimal bibasilar atelectasis and probable trace bilateral 
+pleural effusions. 
+
+ECHO (___):
+Findings   
+ Multiplanar reconstructions were generated and confirmed on an 
+independent workstation.   
+
+LEFT ATRIUM: Mild ___. 
+
+RIGHT ATRIUM/INTERATRIAL SEPTUM: Normal RA size. Normal IVC 
+diameter (<=2.1cm) with >50% decrease with sniff (estimated RA 
+pressure ___ mmHg). 
+
+LEFT VENTRICLE: Normal LV wall thickness. Moderately dilated LV 
+cavity. Normal regional LV systolic function. [Intrinsic LV 
+systolic function likely depressed given the severity of 
+valvular regurgitation.] Estimated cardiac index is high 
+(>4.0L/min/m2). False LV tendon (normal variant). TDI E/e' >13, 
+suggesting PCWP>18mmHg. No resting LVOT gradient. 
+
+RIGHT VENTRICLE: Normal RV chamber size and free wall motion. 
+
+AORTA: Mildly dilated aortic root. Normal ascending aorta 
+diameter. 
+
+AORTIC VALVE: Bioprosthetic aortic valve prosthesis (AVR). 
+Thickened AVR leaflets. Increased AVR gradient. Mild AS (area 
+1.2-1.9cm2). Moderate to severe (3+) AR. Eccentric AR jet. 
+
+MITRAL VALVE: Mildly thickened mitral valve leaflets. No MVP. 
+Mild to moderate (___) MR. 
+
+___ VALVE: Normal tricuspid valve leaflets with trivial 
+TR. Mild PA systolic hypertension. 
+
+PULMONIC VALVE/PULMONARY ARTERY: Normal pulmonic valve leaflet. 
+No PS. Physiologic PR. 
+
+PERICARDIUM: No pericardial effusion. 
+
+GENERAL COMMENTS: Echocardiographic results were reviewed by 
+telephone with the houseofficer caring for the patient.   
+Conclusions   
+ The left atrium is mildly dilated. The estimated right atrial 
+pressure is ___ mmHg. Left ventricular wall thicknesses are 
+normal. The left ventricular cavity is moderately dilated. 
+Regional left ventricular wall motion is normal. Quantitative 
+(3D) LVEF = 66 %. [Intrinsic function may be depressed given the 
+severity of aortic regurgitation.]. The estimated cardiac index 
+is high (>4.0L/min/m2). Tissue Doppler imaging suggests an 
+increased left ventricular filling pressure (PCWP>18mmHg). Right 
+ventricular chamber size and free wall motion are normal. The 
+aortic root is mildly dilated at the sinus level. The aortic 
+valve bioprosthesis is well seated with moderately thickened 
+leaflets. There is mild aortic valve stenosis (valve area 1.6 
+cm2 - high velocity is related to aortic regurgitation). An 
+eccentric jet of moderate to severe (3+) aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. There is 
+no mitral valve prolapse. Mild to moderate (___) mitral 
+regurgitation is seen. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion. 
+
+ IMPRESSON: Well seated aortic valve bioprosthesis with moderate 
+to severe aortic regurgitation and mild stenosis. Mild left 
+ventricular cavity dilation with preserved regional/global 
+biventricular systolic function. Pulmonary artery systolic 
+hypertension. Mild-moderate mitral regurgitation. Increased 
+PCWP.  
+
+ 
+Brief Hospital Course:
+___ is a pleasant ___ y/o man with a PMH of multiple 
+sclerosis, congenital bicuspid valve and aortic aneurysm s/p 
+bovine AVR and ascending aorta replacement, who presented with 
+three days of shortness of breath and was found to have ___ 
+pleural effusions and grade IV diastolic murmur. Bovine AVR in 
+___, with close follow-up by PCP/cardiologist and annual 
+echocardiograms. Reported notation of minimal AV regurgitation 
+and possible MR. ___ onset of dyspnea and chest tightness, with 
+CXR showing bilateral pleural effusions. Harsh and loud systolic 
+murmur, as well as ___ diastolic murmur, with was consistent 
+with ___ aortic regurgitation causing acute congestive heart 
+failure with JVD to mandible and elevated proBNP. Symptoms 
+improved with 20 mg IV Lasix. Troponins negative, no chest pain, 
+no oxygen requirement. TTE performed at ___ demonstrated LVEF 
+55% with moderate to severe aortic valve regurgitation and LV 
+dilation. Cardiac surgery consulted, patient left against 
+medical advice prior to their evaluation. Discharged on 10 mg PO 
+furosemide daily. He was continued on lorazepam and gabapentin. 
+He did not receive natalizumab while in the hospital. 
+
+===================
+TRANSITIONAL ISSUES
+===================
+# Medication changes. Started on 10 mg PO Lasix daily.
+
+# Aortic valve regurgitation. Will follow-up with cardiology and 
+cardiac surgery as an outpatient for possible aortic valve 
+replacement. 
+
+# CONTACT: ___ (wife/HCP) c: ___ 
+# CODE STATUS: Full code 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lorazepam 2 mg PO QHS:PRN insomnia 
+2. Gabapentin 300 mg PO BID 
+3. ZyrTEC-D (cetirizine-pseudoephedrine) ___ mg oral QHS:PRN 
+nasal congestion 
+4. Aspirin 81 mg PO DAILY 
+5. Vitamin D Dose is Unknown  PO DAILY 
+6. Tysabri (natalizumab) 300 mg/15 mL injection q 6 weeks 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Gabapentin 300 mg PO BID 
+3. Lorazepam 2 mg PO QHS:PRN insomnia 
+4. Tysabri (natalizumab) 300 mg/15 mL injection q 6 weeks 
+5. Vitamin D 1000 UNIT PO DAILY 
+6. ZyrTEC-D (cetirizine-pseudoephedrine) ___ mg oral QHS:PRN 
+nasal congestion 
+7. Furosemide 10 mg PO DAILY 
+RX *furosemide 20 mg 0.5 (One half) tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+=================
+PRIMARY DIAGNOSES
+=================
+- ___ onset subacute diastolic heart failure
+- Subacute aortic valve insufficiency
+
+===================
+SECONDARY DIAGNOSES
+===================
+- multiple sclerosis
+- chronic pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___ 
+___. You were admitted for shortness of breath and a 
+___ murmur. We were concerned that you developed ___ heart 
+failure from degeneration of your heart valve. You underwent an 
+echocardiogram of your heart, which showed "regurgitation" 
+(backward flow) through your aortic valve. 
+
+We consulted cardiac surgery to evaluate your case and see if 
+you need urgent surgery but you left before that could be 
+arranged. 
+
+Please follow up with cardiac surgery and your cardiologist as 
+soon as possible for completion of your evaluation. You may need 
+surgery for replacement of your valve. 
+
+You have been started on a ___ medication, Lasix, to prevent 
+fluid from building up in your lungs. Please continue to take 
+all medications as prescribed. Your discharge follow-up 
+appointments are outlined below.
+
+We wish you the very best!
+
+Warmly,
+Your ___ Team
+ 
+Followup Instructions:
+___

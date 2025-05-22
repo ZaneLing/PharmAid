@@ -1,0 +1,316 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+___ 03:02AM BLOOD WBC-10.6* RBC-3.95* Hgb-12.5* Hct-36.9* 
+MCV-93 MCH-31.6 MCHC-33.9 RDW-13.3 RDWSD-45.4 Plt ___
+___ 06:45AM BLOOD WBC-11.6* RBC-4.24* Hgb-13.5* Hct-39.6* 
+MCV-93 MCH-31.8 MCHC-34.1 RDW-13.4 RDWSD-45.7 Plt ___
+___ 03:02AM BLOOD Glucose-94 UreaN-14 Creat-1.1 Na-140 
+K-4.3 Cl-101 HCO3-24 AnGap-15
+___ 06:45AM BLOOD Glucose-115* UreaN-17 Creat-1.0 Na-143 
+K-4.4 Cl-103 HCO3-27 AnGap-13
+___ 06:13AM BLOOD Calcium-9.4 Phos-5.2* Mg-2.0
+___ 06:45AM BLOOD Phos-5.2* Mg-2.2
+___ 03:00PM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG
+___ 03:02AM BLOOD CRP-4.9
+___ 03:00PM BLOOD QUANTIFERON-TB GOLD-PND
+___ 03:00PM BLOOD THIOPURINE METHYLTRANSFERASE (TPMT), 
+ERYTHROCYTES-PND
+
+EXAMINATION:  SECOND OPINION CT ABD/PELVIS 
+  
+INDICATION:  ___ year old man with crohns and partial sbos, 
+presenting with 
+?recurrent sbo// eval for evidence of crohns flare 
+  
+TECHNIQUE:  Single phase contrast: MDCT axial images were 
+acquired through the 
+abdomen and pelvis following intravenous contrast 
+administration. 
+Oral contrast was administered. 
+Coronal and sagittal reformations were performed and reviewed on 
+PACS. 
+  
+DOSE:  Found no primary dose record and no dose record stored 
+with the sibling 
+of a split exam. 
+!If this Fluency report was activated before the completion of 
+the dose 
+transmission, please reinsert the token called CT DLP Dose to 
+load new data. 
+  
+COMPARISON:  MRI dated ___. 
+  
+FINDINGS:  
+  
+LOWER CHEST: Visualized lung fields are within normal limits 
+apart from 
+dependent atelectasis.  There is no evidence of pleural or 
+pericardial 
+effusion. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout.  
+There is no evidence of focal lesions. There is no evidence of 
+intrahepatic or 
+extrahepatic biliary dilatation.  The gallbladder is within 
+normal limits. 
+  
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of 
+focal lesions or pancreatic ductal dilatation.  There is no 
+peripancreatic 
+stranding. 
+  
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without 
+evidence of focal lesions. 
+  
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.  
+2.7 cm midpole and lower pole 0.7 cm simple cysts are noted in 
+the right 
+kidney.  Left renal lower pole 1.9 mm simple cyst is noted as 
+well.  There is 
+no perinephric abnormality. 
+  
+GASTROINTESTINAL: The stomach is unremarkable.  The terminal 
+ileum appears 
+unremarkable.  There is abnormal wall thickening and hyperemia 
+of the distal 
+ileum spanning approximately 7 cm with areas of a submucosal fat 
+deposition, 
+and a similar distribution to the prior MRI.  Additionally, in 
+the right lower 
+quadrant are tethered loops of adjacent small and large bowel 
+likely 
+reflecting chronic adhesions or healed fistulae.  There are no 
+adjacent 
+inflammatory changes or vascular engorgement to suggest an acute 
+flare.  At 
+the proximal aspect of the disease segment of ileum, there 
+appears to be a 
+bowel within bowel configuration suggesting intussusception with 
+upstream 
+small bowel fecalization and dilatation.  There is no evidence 
+of acutely 
+diseased segments of small bowel.  The colon is unremarkable.  
+The appendix is 
+not visualized. 
+  
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no 
+free fluid in the pelvis. 
+  
+REPRODUCTIVE ORGANS: The prostate is enlarged, otherwise the 
+reproductive 
+organs are unremarkable. 
+  
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There 
+is no pelvic or inguinal lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease 
+is noted. 
+  
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture. 
+  
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits.  Small 
+fat containing left inguinal hernia. 
+  
+IMPRESSION:  
+  
+Chronic Crohn's disease affecting the distal ileum with new 
+upstream small 
+bowel distension consistent with obstruction either secondary to 
+focal 
+stricturing or intussusception.  No evidence of active disease. 
+
+KUB ___
+Top-normal air-filled loops of small bowel clustered within the 
+right upper 
+and mid abdomen with air-fluid levels are consistent with small 
+bowel 
+obstruction. 
+
+MICRO: none
+
+IMAGING/STUDIES: 
+CT abd/pelvis at ___ - image in LifeImage 
+1. Abnormal wall thickening and hyperemic segments of terminal
+ileum and distal ileum with adhesions between small bowel and
+sigmoid colon in the upper right side of the pelvis, with an
+overall appearance suggestive of chronic changes related to
+Crohns disease. 
+2. Distention of portions of distal ileum up to 4.2 cm and
+decompressed state of the terminal ileum consistent with small
+bowel obstruction due to ileal wall thickening approximately
+20-30 cm proximal to the ileocecal valve. 
+3. Additional findings of coronary artery calcifications, mild
+fatty infiltration of the liver, benign-appearing renal cysts,
+and prostatomegaly. 
+
+EKG from ___:
+No acute ischemic changes
+NSR at 63, RBBB, question of brugada pattern (reports no history
+of syncope). 
+
+CXR at ___ - clear
+
+EKG (interpreted by me): NSR, rate 65, normal axis, normal
+intervals, RBBB
+ 
+Brief Hospital Course:
+# Partial small bowel obstruction
+# Crohn's colitis
+# Mild leukocytosis
+Patient's symptoms are consistent with prior episodes of partial
+small bowel obstruction and KUB as well as CT abd/pelvis shows 
+evidence of SBO.
+Likely partial SBO is due to a flare of Crohn's given his 
+symptoms, though CRP is
+only 4.___/P showed no signs of active disease. He is 
+currently comfortable and has minimal pain, so does not require 
+NG decompression. He was treated with conservative therapy - IV 
+fluids, ADAT, antiemetics, pain meds as needed. 
+For his Crohn's he had been on mercaptopurine and has never been 
+on
+biologic therapy. His last colonoscopy in ___ showed some
+evidence of cryptitis on biopsy involving the cecum and sigmoid
+colon. GI team will discuss potential initiation of biologics
+with patient as outpatient. Pt was transitioned to a full liquid 
+diet on the day of discharge and was tolerating it well with no 
+pain, despite some evidence of residual SBO on KUB. He still 
+felt he was well enough to leave today and understood that he 
+should advance his liquid diet slowly at home. 
+
+TRANSITIONAL ISSUES
+[ ] Ordered TPMT activity, full hepatitis B serologies and
+quantiferon gold for possible anti-TNF therapy as outpatient
+[ ] discharging on steroid taper with plan for GI follow up. OK 
+to continue ___ while on steroids
+
+CHRONIC/STABLE PROBLEMS:
+
+# CAD
+Coronary artery calcs seen on Ct A/P
+H/o MI s/p stent placement in ___.
+ - Continue home aspirin, atorvastatin, and metoprolol
+
+GENERAL/SUPPORTIVE CARE:
+# Nutrition/Hydration: Sips, IV fluids
+# Lines/Tubes/Drains: PIV
+# Precautions: Standard
+# VTE prophylaxis: Heparin sq
+# Contacts/HCP/Surrogate and Communication: Wife, ___
+___
+# Code Status/ACP: (please also see current POE order) Full 
+code,
+confirmed with patient
+# Disposition: 
+- Anticipate discharge to: Home
+- Anticipated discharge date: ___
+
+>30 min spent on discharge planning including face to face time. 
+
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. FoLIC Acid 1 mg PO DAILY 
+3. Mercaptopurine 100 mg PO DAILY 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. Atorvastatin 40 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  PredniSONE 20 mg PO DAILY Duration: 7 Doses 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+Please take 20 mg prednisone daily, then taper weekly by 5 mg to 
+a 5 mg total daily dose.  
+This is dose # 1 of 4 tapered doses
+RX *prednisone [Deltasone] 20 mg 1 tablet(s) by mouth once a day 
+Disp #*7 Tablet Refills:*0 
+2.  PredniSONE 15 mg PO DAILY Duration: 7 Doses 
+Start: After 20 mg DAILY tapered dose 
+Please take 20 mg prednisone daily, then taper weekly by 5 mg to 
+a 5 mg total daily dose.  
+This is dose # 2 of 4 tapered doses
+RX *prednisone 5 mg 3 tablet(s) by mouth once a day Disp #*7 
+Tablet Refills:*0 
+3.  PredniSONE 10 mg PO DAILY Duration: 7 Doses 
+Start: After 15 mg DAILY tapered dose 
+Please take 20 mg prednisone daily, then taper weekly by 5 mg to 
+a 5 mg total daily dose.  
+This is dose # 3 of 4 tapered doses
+RX *prednisone 10 mg 1 tablet(s) by mouth once a day Disp #*7 
+Tablet Refills:*0 
+4.  PredniSONE 5 mg PO DAILY Duration: 7 Doses 
+Start: After 10 mg DAILY tapered dose 
+Please take 20 mg prednisone daily, then taper weekly by 5 mg to 
+a 5 mg total daily dose.  
+This is dose # 4 of 4 tapered doses
+RX *prednisone 5 mg 1 tablet(s) by mouth once daily Disp #*30 
+Tablet Refills:*0 
+5.  PredniSONE 5 mg PO DAILY 
+Start: After last tapered dose completes 
+Please take 20 mg prednisone daily, then taper weekly by 5 mg to 
+a 5 mg total daily dose.  
+This is the maintenance dose to follow the last tapered dose 
+6.  Aspirin 81 mg PO DAILY  
+7.  Atorvastatin 40 mg PO QPM  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  Mercaptopurine 100 mg PO DAILY  
+10.  Metoprolol Succinate XL 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Partial Small Bowel Obstruction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital due to a small bowel 
+obstruction. This was treated conservatively, by allowing your 
+bowels to rest. We would like you to start on a full liquid diet 
+on discharge and advance your diet slowly, as tolerated. You 
+should also start taking a prednisone taper daily, and follow up 
+at your outpatient GI appointment. It is ok to continue taking 
+your ___. 
+ 
+Followup Instructions:
+___

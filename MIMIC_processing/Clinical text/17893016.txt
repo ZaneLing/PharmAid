@@ -1,0 +1,221 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right upper quadrant abdominal pain 
+ 
+Major Surgical or Invasive Procedure:
+ERCP: ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year-old female with a past medical 
+history
+of hypertension, status post cholecystectomy who presents to the
+emergency department for evaluation of right upper quadrant
+abdominal pain. 
+
+The patient had a cholecystectomy about ___ years ago at ___ for abdominal pain in her right upper quadrant area. 
+She
+states that over the past few months she has developed a similar
+abdominal pain in her right upper quadrant. 
+
+Patient describes that she has experienced intermittent right
+upper quadrant abdominal pain for the past few months. Over the
+past 2 days, she has experienced worsening pain in the right
+upper quadrant associated with nausea but no emesis. Pain is
+crampy, constant and worse with food intake. She says she at a
+cheeseburger last night and her pain began afterwards and was
+worse this time. She says that over the past month her pain 
+would
+last a few minutes to 30 minutes and then would remit. However
+after eating her cheeseburger last night her pain was more 
+severe
+and lasted all night in the early morning prompting her to come
+to PCP who then told her to go to the ED for further evaluation.
+This was not associated with any fevers or chills. Not 
+associated
+with any chest pain or pressure. No dyspnea. No dysuria
+hematuria. Here for further eval. 
+
+Of note, patient was seen by her primary care who was concerns
+for possible retained stone and sent her here for further eval.
+ 
+Past Medical History:
+- HTN
+- prior Cholecystectomy ___ years ago  
+ 
+Social History:
+___
+Family History:
+Father with history of MI at age ___. No history of gastric 
+cancer
+or colon cancer. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VITALS: Temp 97.8 BP 103/58  HR 54 RR ___ Ra   
+GENERAL: middle aged appearing overweight female lying in bed
+comfortable   
+HEENT: Sclera anicteric and without injection, moist mucous
+membranes   
+NECK:  No JVD.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.  
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.  
+BACK: No spinous process tenderness. No CVA tenderness.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.   
+EXTREMITIES: No edema 
+SKIN: Warm. No rash.  
+NEUROLOGIC:  AOx3. 
+
+DISCHARGE PHYSICAL EXAM
+=======================
+GENERAL: middle aged appearing lying in bed
+HEENT: Sclera anicteric and without injection, moist mucous
+membranes   
+CARDIAC: Regular rhythm, normal rate. 
+LUNGS: Clear to auscultation bilaterally.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.   
+EXTREMITIES: No edema 
+SKIN: Warm. No rash.  
+NEUROLOGIC:  AOx3.  
+ 
+Pertinent Results:
+ADMISSION LAB RESULTS
+=====================
+___ 02:30PM BLOOD WBC-8.9 RBC-4.06 Hgb-12.5 Hct-37.2 MCV-92 
+MCH-30.8 MCHC-33.6 RDW-12.7 RDWSD-42.8 Plt ___
+___ 02:30PM BLOOD Glucose-106* UreaN-14 Creat-0.6 Na-137 
+K-6.4* Cl-105 HCO3-19* AnGap-13
+___ 02:30PM BLOOD ALT-249* AST-313* AlkPhos-232* 
+TotBili-1.6*
+
+DISCHARGE LAB RESULTS
+======================
+___ 06:50AM BLOOD WBC-4.7 RBC-3.54* Hgb-10.7* Hct-32.4* 
+MCV-92 MCH-30.2 MCHC-33.0 RDW-12.7 RDWSD-42.5 Plt ___
+___ 06:50AM BLOOD Glucose-89 UreaN-11 Creat-0.6 Na-139 
+K-4.0 Cl-103 HCO3-24 AnGap-12
+___ 06:50AM BLOOD ALT-125* AST-52* AlkPhos-201* TotBili-0.4
+
+IMAGING
+=======
+RUQ US: ___
+1. Moderate intrahepatic biliary dilatation with a dilated 
+common
+hepatic duct measuring 1.5 cm status post cholecystectomy. No
+obstructing lesions are visualized, however the distal CBD is 
+not
+well evaluated on this examination. MRCP is recommended for
+further evaluation.
+2. Echogenic liver consistent with steatosis. Other forms of
+liver disease and more advanced liver disease including
+steatohepatitis or significant hepatic fibrosis/cirrhosis cannot
+be excluded on this study.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year-old female with a past medical 
+history of hypertension, status post cholecystectomy who 
+presented to the emergency department for evaluation of right 
+upper quadrant abdominal pain. Her liver enzymes and bilirubin 
+were elevated in a cholestatic pattern. RUQ ultrasound with 
+dilated bile duct. ERCP was consulted, who performed an ERCP 
+with sphincterotomy. No stones were seen, but there was sludge. 
+The patient was monitored overnight, and her diet was advanced 
+as tolerated. 
+
+# Cholestasis
+# Elevated LFTs, Hyperbilirubinemia
+Her liver enzymes and bilirubin were elevated in a cholestatic 
+pattern. RUQ ultrasound with dilated bile duct. ERCP was 
+consulted, who performed an ERCP with sphincterotomy on ___. 
+No stones were seen, but there was sludge. The patient was 
+monitored overnight, and her diet was advanced as tolerated. 
+
+# HTN: 
+Her home losartan was held inpatient as patient was 
+normotensive. It was restarted on discharge. 
+
+# GERD: 
+Patient was continued on PPI as inpatient. 
+
+TRANSITIONAL ISSUES
+===================
+- Please check LFTs one week after discharge to ensure that they 
+are continuing to downtrend. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 50 mg PO DAILY 
+2. Esomeprazole 40 mg Other DAILY 
+
+ 
+Discharge Medications:
+1.  Esomeprazole 40 mg Other DAILY  
+2.  Losartan Potassium 50 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+- Cholestasis
+
+Secondary
+- Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+
+Dear Ms. ___,  
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I IN THE HOSPITAL?  
+- You came to the hospital because you were having abdominal 
+pain, and your liver enzymes were elevated.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- While you were in the hospital, you had a procedure called an 
+ERCP with sphincterotomy. That means that the GI team made a 
+small cut in your bile duct so that the bile would flow more 
+easily into the GI tract. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medicines and please call your PCP 
+to schedule ___ follow-up appointment to have your labs checked. 
+- Please adhere to a low-fat diet
+- It is important that you try to exercise when you can. 
+
+We wish you the best!
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___

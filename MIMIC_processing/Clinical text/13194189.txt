@@ -1,0 +1,184 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ampicillin / Macrodantin / Hishtron / latex
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 12:20PM BLOOD ___ 
+___ Plt ___
+___ 12:20PM BLOOD ___ 
+___ Im ___ 
+___
+___ 12:20PM BLOOD ___ ___
+___ 12:20PM BLOOD ___ 
+___
+
+DISCHARGE LABS:
+===============
+___ 04:34AM BLOOD ___ 
+___
+___ 04:34AM BLOOD ___ 
+___ Plt ___
+
+RELEVANT IMAGING:
+=================
+___  UNILAT LOWER EXT VEINS LEFT 
+1. Deep venous thrombosis within the left common femoral and 
+femoral veins 
+which demonstrates some color Doppler flow, likely reflecting 
+nonocclusive 
+thrombus. 
+2. Deep venous thrombosis within the left popliteal, posterior 
+tibial, and one  out of the two peroneal veins with minimal 
+color Doppler flow, concerning for  occlusive thrombus. 
+  
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE:
+======================
+___ w/ Hx provoked (___) DVT ___ years ago, Right hand 
+surgery 1 week prior p/w LLE DVT. She was started on a heparin 
+drip with transition to apixaban to complete at least a ___CUTE ISSUES:
+===============
+#Left ___ DVT: US findings with occlusive thrombus of popliteal,
+posterior tibial and one of two peroneal veins. AC with heparin
+gtt, with plans to switch to DOAC with vascular surgery and hand
+surgery approval. Vascular surgery recommended no thrombectomy 
+at this time. Duration of AC is under question if this was a
+truly provoked DVT. Recent hand surgery is a minor procedure 
+that
+is unlikely to be the precipitant. Has a large clot burden that
+is unlikely to have developed in the 5 days since her surgery.
+History of distant provoked DVT after ___ also in the LLE
+likely increases recurrence risk given change of venous
+architecture however, has been ___ years without AC that pt has
+not had additional DVTs. No recent immobilization, plane travel
+to ___ however patient is quite active at baseline. We would
+recommend 6 months of apixaban with consideration of continuing
+indefinitely. She will be discharged on apixaban 10mg BID for 7 
+days then 5mg BID for at least 6 months (end date ___ with 
+considerations to extend indefinitely per her outpatient 
+provider. For pain, she will be on Tylenol 1g q8H in addition to 
+her home oxycodone 5mg as needed.
+
+#Right DRUJ arthrodesis surgery ___: 
+She was seen by orthopedic hand surgery and her surgical 
+incision wound was evaluated daily. On day of discharge, 
+surgical site appeared to be healing well without signs of 
+bleeding after being anticoagulated. Pain control as above.
+
+#Hyperkalemia, resolved
+On admission, K 5.7 in a hemolyzed sample; EKG reassuring 
+without T wave changes. Recheck of K 4.1, likely spurious error. 
+
+
+CHRONIC ISSUES:
+===============
+# Depression: continued home escitalopram.
+
+# Insomnia: continued home trazodone. 
+
+TRANSITIONAL ISSUES: 
+====================
+[] started on apixaban ___, plan for 6 months, consider 
+extending indefinitely due to question of provoked vs. 
+unprovoked event (please see discussion above)
+[] hypercoagulability workup ___ (in OMR) negative for 
+Factor V, prothrombin, protein C&S, ___ IgM 
+borderline high 13.9 [normal ___, consider further workup of 
+cardiolipin
+
+====================
+#CODE: Full code (presumed)
+#CONTACT: Name of health care proxy: ___ 
+___: husband 
+Phone number: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Escitalopram Oxalate 5 mg PO DAILY 
+2. TraZODone 25 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID Duration: 6 Days  
+2.  Apixaban 5 mg PO BID 
+please start after finishing 7 days of apixaban 10mg twice a day 
+  
+3.  Escitalopram Oxalate 5 mg PO DAILY  
+4.  TraZODone 25 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+Deep venous thromboses
+
+SECONDARY DIAGNOSIS
+===================
+Right DRUJ arthrodesis surgery ___
+Depression
+Osteoporosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a privilege taking care of you at ___ 
+___.  
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+===================================
+- You were having calf pain and swelling and were found to have 
+blood clots in your leg veins
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+==========================================
+- You were started on blood thinners to treat your blood clots
+- You were seen by our vascular surgeons who did not think they 
+needed to perform a procedure to remove the blood clots
+- You were seen by our orthopedic hand surgeons who checked your 
+right hand surgical wound  to make sure there was not additional 
+bleeding after starting blood thinners
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+============================================  
+- You will be starting a new medication called apixaban 
+(Eliquis), please take apixaban 10mg twice a day for 7 days 
+total, then apixaban 5mg twice a day for at least 6 months until 
+advised by your primary care provider
+- ___ continue to take all your medications and follow up 
+with your doctors at your ___ appointments.  
+
+We wish you all the best!
+
+Sincerely,  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

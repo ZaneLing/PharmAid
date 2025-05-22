@@ -1,0 +1,291 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Sulfa (Sulfonamide Antibiotics) / aspirin / 
+Iodinated Contrast Media - IV Dye
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Unable to ambulate
+Pre-syncope
+Anxiety
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This patient is a ___ year old female who complains of Anxiety. 
+BIBA from ___
+building. Pt arrives teary eyed and anxious,and told she has 
+tumors in her
+thyroid at an endocrinologist appt. Blood sugar 136 ___ PMH 
+___
+syndrome, toxic multinodular goiters, P/W anxiety. Patient was 
+scheduled to
+have an endocrinology appointment today, however felt like she 
+was going to
+pass out, was in extremis, and was endorsing anxiety. For the 
+past 6 months
+has had skin/nail changes, hair falling out, rapid weight 
+gain/weight loss,
+increased bowel movements, periods of feeling like she was 
+having seizures.
+There is a strong family history of thyroid cancer.
+ 
+Past Medical History:
+___ syndrome 
+toxic multinodular goiter 
+? bipolar disorder 
+s/p 5 spinal fusion surgeries 
+s/p 2 hip replacements 
+ 
+Social History:
+___
+Family History:
+Patient reports strong family history of thyroid problems and 
+cancers. Mother had thyroid cancer and a partial thyroidectomy. 
+Grandmother had hypothyroidism. Brother has MEN ___.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: 98.1PO,110 / 74R Lying,77,20,98RA
+GENERAL: Alert and interactive. In no acute distress. 
+EYES: NCAT. EOMI. Sclera anicteric and without injection. 
+ENT: supple 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+MSK: no ___ 
+SKIN: Warm.  No rash.
+NEUROLOGIC: AAOX3. moving all extremities. 
+PSYCH: anxious, somewhat pressured speech, fixating on
+metabolic/chemical health issues, occasionally tearful, 
+otherwise
+cooperative 
+
+DISCHARGE PHYSICAL EXAM:
+VITALS: T 98|HR 62|RR 16| SpO2 97% RA
+GENERAL: Alert and interactive. In no acute distress. 
+EYES: NCAT. EOMI. Sclera anicteric and without injection. 
+ENT: supple 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+MSK: no ___ 
+SKIN: Warm.  No rash.
+NEUROLOGIC: AAOX3. moving all extremities. 
+PSYCH: anxious, somewhat pressured speech, fixating on
+metabolic/chemical health issues, occasionally tearful, 
+otherwise
+cooperative 
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+            10.7  
+14.3  >-----< 287 
+           34.0 
+
+130  97    7      AGap=11 
+------------< 138 
+4.4  22  0.6 
+
+TSH:0.65, T4: 6.2, T3: 88
+UCG: Negative
+UA clean 
+
+RELEVANT INPATIENT LABS:
+======================
+CBC w/ diff:
+___ 12:05PM BLOOD WBC-14.3* RBC-4.15 Hgb-10.7* Hct-34.0 
+MCV-82 MCH-25.8* MCHC-31.5* RDW-15.9* RDWSD-46.3 Plt ___
+___ 12:05PM BLOOD Neuts-83.8* Lymphs-10.0* Monos-5.7 
+Eos-0.1* Baso-0.1 Im ___ AbsNeut-11.97* AbsLymp-1.43 
+AbsMono-0.82* AbsEos-0.02* AbsBaso-0.02
+
+BMP:
+___ 06:05AM BLOOD Glucose-98 UreaN-12 Creat-0.7 Na-143 
+K-4.9 Cl-109* HCO3-23 AnGap-11
+
+CK:
+___ 12:05PM BLOOD CK(CPK)-90
+
+A1c:
+___ 06:20AM BLOOD %HbA1c-5.3 eAG-105
+___ 06:05AM BLOOD WBC-10.3* RBC-4.29 Hgb-11.0* Hct-36.0 
+MCV-84 MCH-25.6* MCHC-30.6* RDW-16.4* RDWSD-49.3* Plt ___
+
+EKG:
+=====
+___ 11:54:56
+Sinus rhythm
+Inferolateral infarct, old
+
+___ 22:17:58
+Sinus bradycardia sinus arrhythmia 
+Cannot rule out Inferior MI - indeterminate age 
+Otherwise normal ECG 
+When compared with ECG of ___ 11:54, No significant 
+change was found
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+===============
+___ year old woman with a history of thyroid nodule and anxiety 
+admitted to hospital medicine after c/f syncopal event outside 
+of ED with difficulty ambulating diagnosed with neurologic 
+symptom disorder in setting of multiple stressors.
+
+ACUTE ISSUES
+============
+#c/f syncope
+#Difficulty ambulating
+#Conversion Disorder/Neurologic Symptom disorder
+Patient initially presented with c/f syncope outside of ED. 
+Initially history resembled orthostasis, however orthostatic 
+vital signs were unremarkable. Interview with patient revealed 
+extensive history of anxiety as well as multiple recent 
+stressors including thyroid nodule of unknown etiology 
+(scheduled for FNA), recent death of pet cat, and multiple 
+interpersonal stressors. Psychiatric evaluation concluded most 
+likely diagnosis conversion disorder/neurologic symptom disorder 
+manifesting as presyncope and difficulty ambulating. She was 
+seen by ___ multiple times who recommended a rolling walker. She 
+was able to ambulate with the walker at time of discharge.
+
+#Anxiety
+Patient with history of anxiety in the past. Expressed extensive 
+anxiety surrounding eating food, and concern about thyroid 
+function and diabetes. TSH and A1c wnl during admission. 
+Reassurance and explanation of medical tests provided multiple 
+times during admission, as well as TID Ativan and gabapentin TID 
+per psychiatry recommendations. Anxiety in general improved at 
+time of discharge and she will follow up with her regular 
+therapist.
+
+#MSK chest pain
+Patient reported left sided chest pain exagerated by movement of 
+left extremity during admission. EKG obtained unremarkable with 
+no evidence of ischemia. Reassurance was provided as well as PO 
+tylenol resulting in improvement of pain. 
+
+#Leukocytosis
+Patient with recent dental infection on last day of azithromycin 
+on admission combined with severe psychological stress believed 
+to be most likely cause of elevated WBC. Downtrended during 
+admission. 
+
+#Hyponateremia
+Sodium 130 on admission, though normalized immediately the next 
+day. Remained normal throughout rest of admission.  
+
+CHRONIC ISSUES
+==============
+#Multiple thyroid nodules
+Known since ___, s/p insufficient FNA at ___. Outpatient f/u 
+arranged. 
+
+TRANSITIONAL ISSUES
+===================
+[ ] f/u with thyroid clinic outpatient for repeat FNA of thyroid 
+nodule and to establish care with endocrinology, an appointment 
+she missed due to this admission
+[ ] she will need close follow up with PCP and her therapist to 
+continue working on anxiety, which we believe is contributing to 
+her difficulty ambulating
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LORazepam 1 mg PO Q8H:PRN anxiety 
+2. Soma (carisoprodol) 250 mg oral BID:PRN 
+3. Azithromycin 250 mg PO Q24H 
+
+ 
+Discharge Medications:
+1.  Gabapentin 300 mg PO TID  
+2.  Lidocaine 5% Patch 1 PTCH TD QAM torso/shoulder pain  
+3.  LORazepam 1 mg PO Q8H:PRN anxiety  
+4.  Soma (carisoprodol) 250 mg oral BID:PRN  
+5.___
+ICD Diagnosis Code ___ 
+___ 
+Prognosis: good
+Time: 12mo
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Conversion disorder
+Neurologic symptom disorder 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a privilege taking care of you at ___ 
+___.  
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+===================================
+- You were admitted to the hospital because you were having 
+trouble standing and walking on your own. You were also found to 
+have a slightly decreased sodium level. 
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+==========================================
+- We performed a number of lab tests, including a measure of 
+thyroid function, diabetes status, urine analysis, electrolyte 
+levels, and kidney function. These were all normal.
+- We performed a test called orthostatics where we tested your 
+body's blood pressure response to different positions including 
+when you are lying, sitting, and standing. This test was normal.
+- We obtained an electrocardiogram to assess your heart health, 
+which was normal.
+- We had consultants with the social work, nutrition, and 
+psychiatry services assess you and formulate your care plan 
+together.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+============================================  
+- Please continue to take all your medications and follow up 
+with your doctors at your ___ appointments.  
+
+We wish you all the best!
+
+Sincerely,  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

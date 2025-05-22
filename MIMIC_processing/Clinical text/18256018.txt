@@ -1,0 +1,180 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Brief HPI: This ___ who has a h/o depression, anxiety, and 
+psoriatic arthritis, was watching television tonight and had 
+sharp L sided chest pain. It was constant and she presented to 
+___ where she was given ASA 325 and Plavix 600 mg. 
+The pain subsided after 1.5 hours and she was transferred to 
+___ ___. She was put on an heparin gtt. Her EKG revealed SR @ 
+78, ___levations in 2, 3, and AVF. A bedside echo 
+revealed mild RV dilatation with vigorous LV function and 
+without focal WMA. 
+ 
+Past Medical History:
+PMH:  
+ -Psoriatic arthritis  
+ -Depression  
+ -Anxiety  
+ 
+ PSH: colonoscopy  
+ 
+ 
+Social History:
+___
+Family History:
+ FAMILY HISTORY: Father had ___ MIs and had the first one in his
+___.
+Brother had a CABG in his ___. 
+ 
+Physical Exam:
+Physical Exam:  
+ Gen: WDWF in NAD 
+ Neuro: A+Ox3, nonfocal 
+ Neck/JVP: supple, FROM, no JVD 
+ CV: RRR without R/G/M 
+ Chest: Clear to A+P 
+ ABD: + BS, soft, nontender without masses or hepatospenomegaly 
+ Extr: without C/C/E, pulses 2+= throughout 
+ Skin: C/D/I 
+
+ 
+Pertinent Results:
+___ 01:26AM BLOOD WBC-8.2 RBC-4.30 Hgb-12.8 Hct-39.3 MCV-91 
+MCH-29.8 MCHC-32.6 RDW-12.9 RDWSD-42.9 Plt ___
+___ 01:26AM BLOOD Neuts-36.8 ___ Monos-6.2 Eos-6.2 
+Baso-0.5 Im ___ AbsNeut-3.02 AbsLymp-4.13* AbsMono-0.51 
+AbsEos-0.51 AbsBaso-0.04
+___ 03:47PM BLOOD PTT-28.0
+___ 06:18AM BLOOD PTT-60.1*
+___ 01:26AM BLOOD Plt ___
+___ 01:26AM BLOOD ___ PTT-144.3* ___
+___ 01:26AM BLOOD Glucose-99 UreaN-15 Creat-0.5 Na-141 
+K-3.6 Cl-105 HCO3-23 AnGap-13
+___ 01:26AM BLOOD ALT-9 AST-14 AlkPhos-59 TotBili-0.2
+___ 06:18AM BLOOD cTropnT-<0.01
+___ 01:26AM BLOOD cTropnT-<0.01
+___ 06:18AM BLOOD Cholest-174
+___ 01:26AM BLOOD Albumin-4.0
+___ 06:18AM BLOOD Triglyc-107 HDL-64 CHOL/HD-2.7 LDLcalc-89
+___ 01:26AM BLOOD CRP-1.6
+___ 04:05AM URINE Color-Straw Appear-Clear Sp ___
+___ 04:05AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-MOD*
+___ 04:05AM URINE RBC-1 WBC-1 Bacteri-FEW* Yeast-NONE Epi-1
+___ 04:05AM URINE Mucous-RARE*
+
+ Diagnostic testing:  
+ 
+ TTE (Complete) Done ___  
+ The left atrium and right atrium are normal in cavity size. No 
+atrial septal defect is seen by 2D or color Doppler. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). The estimated cardiac 
+index is normal (>=2.5L/min/m2). Doppler parameters are 
+indeterminate for left ventricular diastolic function. Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) appear structurally normal 
+with good leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve leaflets are mildly thickened. 
+Mild (1+) mitral regurgitation is seen. The estimated pulmonary 
+artery systolic pressure is normal. There is a 
+trivial/physiologic pericardial effusion.  
+ IMPRESSION: Normal biventricular cavity sizes with preserved 
+global and regional biventricular systolic function. Mild mitral 
+regurgitation.  
+ Exercise Stress Study Date of ___  
+ IMPRESSION: No anginal type symptoms or objective evidence of 
+myocardial ischemia to achieved workload. Average functional 
+capacity. Nuclear report sent separately.  
+ CARDIAC PERFUSION Study Date of ___  
+ IMPRESSION:  
+ 1. Normal myocardial perfusion.  
+ 2. Normal left ventricular cavity size and systolic function.  
+
+ 
+Brief Hospital Course:
+#Chest Pain: Pt. had 1.5 hours of sharp L sided chest pain which 
+resolved after 325 mg ASA and 600 mg Plavix. Echo today shows 
+normal biventricular cavity sizes with preserved global and 
+regional biventricular systolic function. Mild mitral 
+regurgitation. Nuclear exercise stress test normal myocardial 
+perfusion. Normal left ventricular cavity size and systolic 
+function.   
+ - continue aspirin 81mg daily  
+ - No indication for BB, statin  
+ - re-establish outpatient cardiology care  
+
+#Depression: continue Effexor  
+ 
+#Psoriatic arthritis: continue gabapentin  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Venlafaxine XR 150 mg PO DAILY 
+2. Gabapentin 400 mg PO BID 
+3. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+4. Naproxen 500 mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Aspirin EC 81 mg PO DAILY  
+2.  Gabapentin 400 mg PO BID  
+3.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+4.  Venlafaxine XR 150 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Chest pain 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were transferred to ___ for further evaluation after you 
+experienced chest discomfort. You underwent testing including 
+echocardiogram and nuclear stress test which were reassuring 
+that there is no cardiac damage or cardiac problem that caused 
+your pain. 
+
+You should continue to take 81mg aspirin daily given your family 
+history of cardiac problems and your older age. You can buy this 
+medicine at any drug store. Your outpatient doctors ___ further 
+discuss aspirin risks and benefits, and can decide the duration 
+of your aspirin therapy. 
+
+You expressed interest in establishing regular cardiology care 
+as an outpatient. We recommend the cardiology group at ___ 
+___. Please call ___ to make a new 
+cardiology patient appointment. 
+
+  
+ 
+Followup Instructions:
+___

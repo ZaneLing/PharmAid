@@ -1,0 +1,253 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Sore throat, hoarse voice
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ history of daily alcohol use, HTN who presents with two 
+weeks of sore throat and hoarse voice. 
+
+He has been experiencing a change in his voice ("lost his 
+voice") for approximately two weeks. He acutely presented after 
+having an episode of choking when laying flat. 
+
+In terms of his bowel movements, he does have a history of 
+hemorrhoids but in past has only had blood on toilet paper. Had 
+two episodes of BRBPR with significant amount (~200cc) of blood 
+in toilet bowel, first time this has happened. Has been having 
+diarrhea x ___ weeks. 
+
+In the ED, initial vitals were:  
+98.9 116 150/90 18 96% RA 
+- Exam notable for: Lungs CTAB, heart RRR, no throat pain, white 
+coating on the tongue. 
+- Labs notable for: Stable Hb/Hct at 15.4/43.5. K initially low 
+and then repleted. 
+- Imaging was notable for: none
+- Consults: ENT consulted, thought bacterial vs fungal 
+pharyngitis, recommended fluconazole and levofloxacin x 14 days 
+with PPI. GI curbsided, no plans to scope at this point.
+- Events: patient had two episodes of BRBPR, stable Hb/Hct, 
+tachycardic to 160s with ambulation. 
+- Patient was given:  IV thiamine, LR, potassium/magnesium 
+repletion, diazepam for CIWA, fluconazole 200mg per ENT recs, 
+levofloxacin 750mg. 
+
+Upon arrival to the floor, patient reports that his two main 
+complaints are:
+- Change in voice, hoarse voice that occurred abruptly ~13 days 
+ago associated with minor soreness of throat. 
+- Bloody bowel movements. Has a history of hemorrhoids but in 
+past only had blood on toilet paper; significantly more blood on 
+this occasion.
+- He also notes that for weeks he has been having night sweats, 
+where he wakes up with varying degrees of sweat soaking in his 
+shirt in the AM. 
+
+Otherwise has intermittent chills, denies fevers, nausea, 
+vomiting, shortness of breath, chest pain.  
+
+ 
+Past Medical History:
+- Hypertension
+- Alcohol use disorder
+ 
+Social History:
+___
+Family History:
+Mother has DM, father has HTN. 
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals:  98.5 156 / 84 92 18 98 RA  
+General: alert, oriented, no acute distress  
+HEENT: sclera anicteric, MMs slightly dry. Large amount of white 
+plaque covering the tongue and in the oropharynx. 
+Neck: supple, JVP not elevated, no LAD  
+Lungs: clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+
+DISCHARGE EXAM:
+98.2 PO 148 / 82 83 20 98 ra  
+ General: alert, oriented, no acute distress  
+ HEENT: sclera anicteric, MMs slightly dry. Large amount of 
+white plaque covering the tongue and in the oropharynx.  
+ Neck: supple, no LAD  
+ Lungs: clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+ CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+ Abdomen: soft, non-tender, non-distended, no rebound tenderness 
+or guarding, no organomegaly  
+ GU: no foley  
+ Ext: warm, well perfused, no edema  
+
+ 
+Pertinent Results:
+================
+ADMISSION LABS
+================
+
+___ 09:27PM BLOOD WBC-8.8 RBC-4.58* Hgb-15.5 Hct-44.3 
+MCV-97 MCH-33.8* MCHC-35.0 RDW-13.0 RDWSD-46.6* Plt ___
+___ 09:27PM BLOOD Neuts-72.8* Lymphs-14.9* Monos-10.6 
+Eos-0.5* Baso-0.7 Im ___ AbsNeut-6.39* AbsLymp-1.31 
+AbsMono-0.93* AbsEos-0.04 AbsBaso-0.06
+___ 09:27PM BLOOD Plt ___
+___ 07:55AM BLOOD ___ PTT-27.4 ___
+___ 09:27PM BLOOD Glucose-126* UreaN-10 Creat-0.7 Na-138 
+K-3.0* Cl-96 HCO3-24 AnGap-21*
+___ 03:20PM BLOOD ALT-88* AST-155* AlkPhos-115 TotBili-1.7* 
+DirBili-PND
+___ 09:27PM BLOOD Mg-1.8
+
+=================
+DISCHARGE LABS
+=================
+
+___ 06:50AM BLOOD WBC-6.8 RBC-4.47* Hgb-15.5 Hct-43.7 
+MCV-98 MCH-34.7* MCHC-35.5 RDW-12.5 RDWSD-45.3 Plt ___
+___ 07:55AM BLOOD Neuts-68.1 ___ Monos-10.2 
+Eos-0.9* Baso-0.6 NRBC-0.2* Im ___ AbsNeut-5.49 
+AbsLymp-1.55 AbsMono-0.82* AbsEos-0.07 AbsBaso-0.05
+___ 06:50AM BLOOD Plt ___
+___ 07:55AM BLOOD ___ PTT-27.4 ___
+___ 06:50AM BLOOD Glucose-87 UreaN-10 Creat-0.6 Na-136 
+K-3.8 Cl-96 HCO3-25 AnGap-19
+___ 06:50AM BLOOD ALT-73* AST-87* AlkPhos-110 TotBili-1.4
+
+==================
+IMAGING
+==================
+RUQ Ultrasound ___: Echogenic liver consistent with 
+steatosis. Other forms of liver disease including 
+steatohepatitis, hepatic fibrosis, or cirrhosis cannot be 
+excluded on the basis of this examination. 
+
+ 
+Brief Hospital Course:
+SUMMARY: ___ history of daily alcohol use, HTN who presents with 
+pharyngitis and BRBPR. 
+
+ACUTE ISSUES:
+# Pharyngitis: Patient presents with white plaque on tongue and 
+in mouth consistent with pharyngitis, fungal vs bacterial. 
+Underlying malignancy cannot be excluded and patient does have a 
+significant smoking history. Likely source of patient's symptoms 
+including sore throat and hoarse voice. Will assess for HIV 
+given findings of pharyngitis, night sweats, and diarrhea. ENT 
+was consulted and recommended levofloxacin 750mg, fluconazole 
+200mg daily x 14 days (d1 = ___. HIV testing was negative. 
+Patient will f/u with ENT as outpatient. 
+
+# BRBPR: History of hemorrhoids, has not bled for months. In ED 
+had two episodes of BRBPR (200cc in toilet bowl) with 
+tachycardia on ambulation to the 160s. Patient was admitted and 
+subsequently hemodynamically stable with stable Hb/Hct. He was 
+discharged with plan to f/u as outpatient. 
+
+# Transaminitis: Patient was found to have elevated ALT/AST with 
+elevated Tbili in the setting of extensive alcohol use. RUQ 
+ultrasound showed steatisus. Hepatitis serologies were sent and 
+showed negative HepC and HBs-Ab positive with HBs-Ag negative.
+
+# Alcohol use: Daily EtOH use with ___ drinks per day. 
+Connected in the ED with social work who provided with 
+outpatient resources. Patient was kept on CIWA scale with 
+diazepam PRN
+
+CHRONIC ISSUES:
+# HTN: Continue home amlodipine
+
+TRANSITIONAL ISSUES:
+- Will complete 14-day course of fluconazole 200mg daily and 
+levofloxacin 750mg daily (last day ___
+- F/u with ENT in clinic for scope to assess for malignancy
+- Consider referral to GI for scope to assess cause of BRBPR
+- HIV and hepatitis serologies pending, consider referral to 
+hepatology
+- Patient counseled on importance of alcohol cessation
+# Code status: Full
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. TraZODone 50 mg PO QHS 
+3. Tretinoin 0.025% Cream 1 Appl TP QHS 
+
+ 
+Discharge Medications:
+1.  Fluconazole 200 mg PO Q24H Duration: 13 Days 
+RX *fluconazole 200 mg 1 tablet(s) by mouth daily Disp #*11 
+Tablet Refills:*0 
+2.  Levofloxacin 750 mg PO Q24H Duration: 13 Days 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth daily Disp #*11 
+Tablet Refills:*0 
+3.  amLODIPine 10 mg PO DAILY  
+4.  TraZODone 50 mg PO QHS  
+5.  Tretinoin 0.025% Cream 1 Appl TP QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Pharyngitis
+Gastrointestinal bleed
+Alcohol use disorder
+
+SECONDARY DIAGNOSIS:
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ due to a change in your voice. You 
+were found to have an infection in your throat with either 
+bacteria or fungus. You were seen by our ENT doctors and started 
+on both antifungal and antibiotic medications. 
+
+After you leave the hospital:
+- Please take all your doses of the new medications as 
+prescribed
+- It is very important that you follow up with your PCP and with 
+the ENT doctors in ___. Appointments are listed below. 
+- You will need further testing for your liver, throat, and for 
+your GI tract. Please work with your outpatient doctors to get 
+these tests
+
+We wish you all the best!
+- Your ___ care team
+ 
+Followup Instructions:
+___

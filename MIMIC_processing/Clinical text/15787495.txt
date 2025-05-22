@@ -1,0 +1,203 @@
+Name:  ___               ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Celexa / erythromycin base / Zocor
+ 
+Attending: ___.
+ 
+Chief Complaint:
+CC: dyspnea 
+ 
+Major ___ or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+HPI(4): Ms. ___ is a ___ female with the past
+medical history of generalized anxiety disorder, vitamin D
+deficiency, and is s/p same-day laparoscopic epigastric and
+umbilical hernia repair ___ who presents with dyspnea and was
+found to have PE.  She and her husband noted after surgery that
+her activity has "massively decreased" because she was trying to
+recover.  She noted dyspnea initially that was mild and
+exacerbated by climbing a flight of stairs.  This progressed, 
+and
+over the past few days, she noted dyspnea while talking on the
+phone. It became moderate to severe in character.  There is
+associated chest "heaviness" for days, but no radiation,
+pressure, associated nausea (though she has had intermittent
+nausea since the surgery), lightheadedness, or dizziness.  She
+went to her surgeon's office for a regular follow-up appointment
+in ___.  When hypoxemia was discovered, she had a CTPA at
+___ which showed multiple PEs by report.  She was then
+transferred to the ___ ER where she received IV heparin with a
+bolus.  She has no history of previous blood clots nor did her
+parents or siblings.  Her mother did have a miscarriage, but she
+has not.  She does not smoke, but she has been on birth control
+for decades of her life and not had any previous problems and 
+has
+no current hot flashes that could be consistent with menopause. 
+She is up to date with cancer screenings and has no weight loss
+or fatigue prior to her surgery.    
+
+Vitals in the ER: 
+Today 21:40: 98.8  70  ___  95% 2L NC (previously 92-93%
+on RA) 
+
+There, the patient received: 
+___ 19:02 IV Heparin 5200 UNIT ___  
+___ 19:02 IV Heparin  ___ Started 1200 
+units/hr
+
+ROS: Positive for some banding pain at the area of her surgery
+but is currently treated with Tylenol.  Pertinent positives and
+negatives as noted in the HPI.  All other systems were reviewed
+and are negative. 
+
+ 
+Past Medical History:
+PMH: generalized anxiety disorder, vitamin D deficiency,
+hyperlipidemia, h/o epigastric and umbilical hernia, colon 
+polyp,
+internal hemorrhoids, hematic hemangioma on MRI (no
+f/u needed)
+
+ 
+Social History:
+___
+Family History:
+FH: No known family history of blood clots 
+ 
+Physical Exam:
+VITALS: (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular rate; normal perfusion, no appreciable JVD
+RESP: Symmetric breathing pattern with no stridor. Breathing is
+non-labored
+GI: Abdomen soft, non-distended, no tenderness, no
+hepatosplenomegaly appreciated.  
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, normal muscle bulk and tone 
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+
+ 
+Pertinent Results:
+___ 06:10AM BLOOD WBC-6.4 RBC-4.54 Hgb-13.3 Hct-40.2 MCV-89 
+MCH-29.3 MCHC-33.1 RDW-13.4 RDWSD-43.6 Plt ___
+___ 06:10AM BLOOD Plt ___
+___ 06:10AM BLOOD Glucose-88 UreaN-14 Creat-0.7 Na-143 
+K-5.0 Cl-104 HCO3-23 AnGap-16
+___ 06:02PM BLOOD proBNP-504*
+___ 06:02PM BLOOD cTropnT-<0.01
+
+Lower Extremity Ultrasound 
+  
+IMPRESSION:  
+  
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins 
+
+CT done at ___ found to have multiple PEs 
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with the
+past medical history of generalized anxiety disorder, vitamin D
+deficiency, and is s/p same-day laparoscopic epigastric and
+umbilical hernia repair ___ who presents with dyspnea and was
+found to have bilateral PEs
+
+#Acute pulmonary emboli 
+Likely provoked in the setting of surgery and limited mobility.
+Her EKG did not show right heart strain. Her troponin was
+negative. Her BNP was slightly elevated. Initially was treated 
+with lovenox and was switched to rivaroxaban on discharge. She 
+will need anticoagulation for at least 6 months. She was weaned 
+from oxygen. Although this was likely provoked in the setting of 
+surgery and OCPs her PCP can consider ___ hypercoaguable workup as 
+an outpatient. 
+
+#Birth control for family planning (not needed for other GYN
+reasons) 
+I stated that if she and her provider think that
+___ pill or IUD would be acceptable alternatives,
+then these can be pursued over her current method given above 
+PEs. 
+
+#s/p bilateral small hernia repairs - per surgery, healing well
+and no need for further intervention and no contraindication for
+anticoagulation. Will have follow up with her surgery team.  
+
+#Anxiety and depression - cont SSRI
+
+#Vitamin D deficiency - cont home med 
+
+>30 minutes spent on complex discharge 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sertraline 25 mg PO DAILY 
+2. Nortrel 0.5/35 (28) (norethindrone-ethin estradiol) 0.5-35 
+mg-mcg oral DAILY 
+3. Vitamin D 1000 UNIT PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Rivaroxaban 15 mg PO BID 
+with food 
+RX *rivaroxaban [___] 15 mg (42)- 20 mg (9) 1 tablets(s) by 
+mouth twice a day Disp #*1 Dose Pack Refills:*0 
+2.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+3.  Multivitamins 1 TAB PO DAILY  
+4.  Nortrel 0.5/35 (28) (norethindrone-ethin estradiol) 0.5-35 
+mg-mcg oral DAILY  
+5.  Sertraline 25 mg PO DAILY  
+6.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#PE 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after you were found to have 
+blood clots in your lungs called pulmonary embolisms. You 
+initially required oxygen. You were treated with blood thinners 
+and with this you improved. 
+
+These clots were likely provoked in the setting of surgery. You 
+will need to remain on blood thinner for at least 3 months. You 
+are being discharged on rivaroxaban. It is important to take 
+this medication exactly as directed and not to miss any doses. 
+
+It was a pleasure caring for you, 
+Your ___ Team 
+
+ 
+Followup Instructions:
+___

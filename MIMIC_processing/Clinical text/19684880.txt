@@ -1,0 +1,361 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ___
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fevers
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ female with past medical history of ESRD secondary 
+to IgA nephropathy who had a living unrelated kidney transplant 
+in ___ p/w intermittent fevers and generalized malaise.
+
+On ___, 4 days prior to presentation, she developed fever to 
+104.7, chills, myalgias, and a lack of taste to food. On 
+___, she presented to her PCP who did blood work and told 
+her that her Cr was 1.2 but there was no signs of any infection. 
+However, ___ night she was again febrile to 102.7 so she 
+called Dr. ___ today and was referred into the ED. 
+Also notes foul smelling urine x 10 days. Denies cough, CP, SOB, 
+sore throat, vomiting. She has had ___ loose stools yesterday, 
+no blood. She returned from a six month visit to her mother's in 
+___, ___ two weeks ago. Her husband has been ill with URI 
+symptoms, but he became ill after she did.  
+  
+-In the ED initial vital signs: T 98.3 (Tm 100.4) P 88 BP 132/82 
+R 16 O2 Sat 100% RA. 
+-Labs notable for wbc 8.6, H/H 10.0/31/1, BUN 18, Cr 1.2 
+(baseline 0.9-1.1), UA sm Leuk, sm bld, neg nitrites, few 
+bacteria, trace protein. Flu A, B negative. Lacte 1.8. 
+-CXR showed no acute cardiopulmonary process. 
+-Renal transplant was consulted and recommended holind 
+antibiotics, f/u EBV and CMV viral loads, and admitting to 
+___
+-The patient received Tacrolimus 3.5 mg and was admitted to the 
+floor.
+
+On the floor, she is asymptomatic.
+  
+ROS: per HPI, denies night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena, hematochezia, dysuria, hematuria.
+  
+ 
+Past Medical History:
+1.HTN 
+2.hypercholesterolemia 
+3.IgA nephropathy
+4.+PPD
+5. s/p renal tx living unrelated donor (___)
+6. s/p renal UVJ stent
+7. s/p perc neph placement and subsequent removal
+
+ 
+Social History:
+___
+Family History:
+CAD, HTN
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+==================
+Vital Signs: 98.0  126/82  100  18  98%RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley, no tenderness over transplant
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: moving all extremities equally 
+
+DISCHARGE PHYSICAL EXAM:
+==================
+Vital Signs: 98.6, 116/67-137/84, 75-85, 18, 98-100%RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding. renal transplanted 
+kidney in left iliac fossa nontender to palpation   
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: moving all extremities equally 
+
+ 
+Pertinent Results:
+ADMISSION LAB VALUES:
+===============
+
+___ 05:10PM OTHER BODY FLUID  FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+___ 11:34AM   GLUCOSE-113* UREA N-18 CREAT-1.2* SODIUM-134 
+POTASSIUM-4.5 CHLORIDE-100 TOTAL CO2-21* ANION GAP-18
+___ 11:34AM   estGFR-Using this
+___ 11:34AM   WBC-8.6 RBC-3.44* HGB-10.0* HCT-31.1* MCV-90 
+MCH-29.1 MCHC-32.2 RDW-13.5 RDWSD-44.6
+___ 11:34AM   NEUTS-65.0 LYMPHS-15.9* MONOS-16.8* EOS-1.0 
+BASOS-0.3 IM ___ AbsNeut-5.57 AbsLymp-1.36 AbsMono-1.44* 
+AbsEos-0.09 AbsBaso-0.03
+___ 11:34AM   PLT COUNT-188
+___ 11:34AM   ___ PTT-30.5 ___
+___ 11:34AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 11:34AM URINE  BLOOD-SM  NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-SM 
+___ 11:34AM URINE  RBC-2 WBC-3 BACTERIA-FEW YEAST-NONE 
+EPI-2
+___ 11:30AM   LACTATE-1.8
+
+DISCHARGE LAB VALUES:
+===============
+___ 05:00AM BLOOD WBC-8.1 RBC-3.28* Hgb-9.7* Hct-30.4* 
+MCV-93 MCH-29.6 MCHC-31.9* RDW-13.7 RDWSD-47.0* Plt ___
+___ 05:00AM BLOOD Glucose-121* UreaN-15 Creat-0.8 Na-139 
+K-4.8 Cl-105 HCO3-24 AnGap-15
+___ 05:00AM BLOOD ALT-90* AST-37 LD(LDH)-200 CK(CPK)-28* 
+AlkPhos-180* TotBili-0.2
+___ 05:00AM BLOOD Albumin-3.3* Calcium-9.2 Phos-5.1* Mg-1.9
+___ 05:00AM BLOOD tacroFK-4.6*
+___ 04:40AM BLOOD HBsAg-Negative HBsAb-Positive IgM 
+HBc-Negative IgM HAV-Negative
+___ 04:40AM BLOOD HCV Ab-Negative
+
+MICROBIOLOGY:
+==========
+___ CULTURE-FINAL {ENTEROCOCCUS SP.}
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ENTEROCOCCUS SP..    >100,000 ORGANISMS/ML.. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |   
+AMPICILLIN------------   <=2 S
+NITROFURANTOIN--------  <=16 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------     1 S
+
+___ (CMV)CMV Viral Load-FINAL
+                            **FINAL REPORT ___
+
+   CMV Viral Load (Final ___: 
+      CMV DNA not detected. 
+      Performed by Cobas Ampliprep / Cobas Taqman CMV Test. 
+      Linear range of quantification: 137 IU/mL - 9,100,000 
+IU/mL. 
+      Limit of detection 91 IU/mL. 
+      This test has been verified for use in the ___ patient 
+population
+
+___ 05:50  EBV PCR, Quantitative **************
+
+PERTINENT IMAGING/STUDIES:
+===================
+___ (PA & LAT)
+IMPRESSION: 
+ 
+No acute cardiopulmonary process.
+
+___ TRANSPLANT U.S.
+FINDINGS: 
+ 
+The right lower quadrant transplant renal morphology is normal.  
+Specifically,
+the cortex is of normal thickness and echogenicity, pyramids are 
+normal, there
+is no urothelial thickening, and renal sinus fat is normal.  
+There is no
+hydronephrosis and no perinephric fluid collection.
+ 
+The resistive index of intrarenal arteries ranges from 0.68 to 
+0.72, within
+the normal range.  The main renal artery shows a normal 
+waveform, with prompt
+systolic upstroke and continuous antegrade diastolic flow, with 
+peak systolic
+velocity of 54 cm/sec. Vascularity is symmetric throughout 
+transplant. The
+transplant renal vein is patent and shows normal waveform.
+ 
+IMPRESSION: 
+ 
+Normal renal transplant ultrasound.
+
+___ US (COMPLETE ST
+IMPRESSION:
+ 
+ 
+1. Mildly prominent CBD measuring up to 1 cm, though given 
+gradual taper noted
+distally, findings are likely normal.
+2. Contracted gallbladder, without sonographic evidence of acute
+cholecystitis.
+
+ 
+Brief Hospital Course:
+___ female with past medical history of ESRD secondary 
+to IgA nephropathy who had a living unrelated kidney transplant 
+in ___ p/w intermittent fevers to 104 max ___ and 100s 
+the last 3 days, now intermittently febrile ___ found to have 
+enterococcus UTI. 
+
+# Fevers: 
+# Urinary Tract Infection 
+Pt reported 2 week hx foul smelling urine with possible light 
+hematuria. Also concurrent watery diarrhea which had since 
+resolved(below). Patient initially started broadly on Vancomycin 
+and amoxicillin. Continued on vancomycin alone following dual 
+sensitivities while until afebrile x48 hours. Transitioned to PO 
+amoxicillin 875 BID with ___nding evening of ___. 
+
+
+# Diarrhea
+Likely due to viral process given generalized malaise, similar 
+symptoms in her husband. Given concurrent history of watery 
+diarrhea this also suggests certain etiologies such as norovirus 
+or adenovirus, cmv less likely, but concerning in transplant pts 
+on tacro and AZA. She developed no further episodes on diarrhea 
+while admitted. CMV viral load negative and EBV viral load 
+pending on discharge. 
+
+# Transaminitis:
+Differential is broad in immunosuppressed patient but concerned 
+for viral infection given normal abdominal ultrasound on ___. 
+Statin was held and viral loads as above. Further hepatitis 
+workup revealed HepB immunization without active Hepatitis A, B, 
+or C infection. Trending down on discharge. Discharged with 
+repeat labs in one week and nephrology follow up. Instructed to 
+call PCP for follow up within 2 weeks.
+
+#ESRD s/p LURT in ___. Renal function at baseline (0.8-0.9). 
+Renal US on ___ normal. Follow up scheduled with nephrology 
+upon discharge. 
+
+#Immunosuppression: continued home tacrolimus and azathioprine. 
+Daily tacrolimus trough was consistently within goal ___. 
+
+# HLD: held statin in setting of elevated LFTs, CK checked ___ 
+was low normal. To restart statin as outpatient when LFTs 
+normalize. 
+
+*****TRANSITIONAL ISSUES*****
+# CODE: Full 
+# CONTACT: ___ (husband) ___ 
+# Follow up fevers after discharge and completion of antibiotics 
+course
+# Discharged on: amoxicillin 875 BID for 14 days, last dose 
+___
+# Follow up LFTs and labs as outpatient (repeat labs ordered for 
+1 week post-discharge, to be faxed to, nephrologist, Dr. 
+___ and restart pravastatin as indicated.
+# EBV viral load pending on discharge, please follow up at next 
+outpatient appointment. 
+# Discharge BUN/Cr: ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. AzaTHIOprine 50 mg PO DAILY 
+2. Pravastatin 20 mg PO QPM 
+3. Tacrolimus 3.5 mg PO BID 
+4. Calcium 500 (calcium carbonate) 500 mg calcium (1,250 mg) 
+oral uncertain 
+
+ 
+Discharge Medications:
+1. amoxicillin 875 mg oral BID Duration: 12 Days 
+Treatment of complicated UTI, last dose ___ 
+RX *amoxicillin 875 mg 1 tablet(s) by mouth twice a day Disp 
+#*24 Tablet Refills:*0
+2. AzaTHIOprine 50 mg PO DAILY 
+3. Tacrolimus 3.5 mg PO BID 
+4. Calcium 500 (calcium carbonate) 500 mg calcium (1,250 mg) 
+oral uncertain 
+5. Outpatient Lab Work
+Diagnosis: Transaminitis (R74.8), Renal transplant (Z94.0), 
+Complicated urinary tract infection (N39.0)
+Labs: CBC, Na+, K+, Cl-, HCO3, BUN, Cr, Tacrolimus level, AST, 
+ALT, Alk phos, T-Bili. 
+Fax results to: ___ - Attn: Dr. ___: ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Urinary Tract Infection
+
+Secondary: living unrelated kidney transplant 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+ You were admitted to the ___ 
+after having fevers at home for the last week. We were able to 
+identify the source of your fevers as an infection in your 
+urine. You were treated with antibiotics and you recovered 
+nicely. 
+
+ You were monitored in the hospital and upon time of discharge 
+you transitioned from IV to oral antibiotics. You were 
+discharged on the following medication:
+
+- Amoxicillin 875 mg twice daily. 
+
+Please continue to take this medication until your last dose on 
+the evening of ___.
+
+You will have close follow up with Dr. ___ should call 
+your PCP to schedule an appointment within 2 weeks of discharge 
+or sooner if needed. 
+
+You were provided with a prescription for lab work in one week. 
+Please take this to your nearest insurance approved lab to 
+complete. Your results will be faxed to Dr. ___ they 
+___ follow up with you. 
+
+It was a pleasure taking part in your care, Ms. ___.
+
+Best,
+Your ___ and ___ 
+Teams
+ 
+ 
+Followup Instructions:
+___

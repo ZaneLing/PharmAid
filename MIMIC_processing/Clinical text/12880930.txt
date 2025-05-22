@@ -1,0 +1,213 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+NAC
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+___ 10:00PM BLOOD WBC-7.0 RBC-4.71 Hgb-16.0 Hct-46.5 
+MCV-99* MCH-34.0* MCHC-34.4 RDW-13.7 RDWSD-49.7* Plt ___
+___ 04:00PM BLOOD WBC-11.1* RBC-4.55* Hgb-15.1 Hct-45.4 
+MCV-100* MCH-33.2* MCHC-33.3 RDW-14.6 RDWSD-54.0* Plt ___
+___ 10:00PM BLOOD Neuts-45 Bands-1 ___ Monos-22* 
+Eos-0* Baso-0 Plasma-1* AbsNeut-3.22 AbsLymp-2.17 AbsMono-1.54* 
+AbsEos-0.00* AbsBaso-0.00*
+___ 10:00PM BLOOD ___ PTT-45.0* ___
+___ 04:00PM BLOOD ___ PTT-33.8 ___
+___ 10:00PM BLOOD Glucose-85 UreaN-11 Creat-0.8 Na-135 
+K-4.1 Cl-106 HCO3-18* AnGap-11
+___ 04:00PM BLOOD Glucose-112* UreaN-12 Creat-0.9 Na-138 
+K-4.7 Cl-100 HCO3-29 AnGap-9*
+___ 10:00PM BLOOD ALT-9420* AST-2507* LD(LDH)-5195* 
+CK(CPK)-86 AlkPhos-160* TotBili-2.1*
+___ 04:00PM BLOOD ALT-4375* AST-1779* LD(LDH)-298* 
+TotBili-6.3*
+___ 10:00PM BLOOD Albumin-3.0* Calcium-7.1* Phos-2.6* 
+Mg-1.6
+___ 04:00PM BLOOD Calcium-8.6 Phos-3.8 Mg-2.1
+___ 10:00PM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG IgM 
+HAV-POS*
+___ 06:45AM BLOOD IgM HBc-NEG
+___ 06:45AM BLOOD AMA-NEGATIVE Smooth-NEGATIVE
+___ 06:45AM BLOOD ___
+___ 06:45AM BLOOD IgG-1631*
+___ 06:45AM BLOOD EBV IgG-POS* EBNA-POS* EBV IgM-NEG 
+EBVI-Results in
+___ 06:45AM BLOOD HIV Ab-NEG
+___ 10:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 10:00PM BLOOD HCV Ab-NEG
+___ 10:00PM BLOOD HBV VL-NOT DETECT HCV VL-NOT DETECT
+___ 06:45AM BLOOD CMV VL-NOT DETECT
+
+IMAGING
+___ DUPLEX DOPP ABD/PEL; ABDOMEN US (COMPLETE STUDY)
+FINDINGS:  
+  
+LIVER: The hepatic parenchyma appears within normal limits. The 
+contour of the 
+liver is smooth. There is no focal liver mass.There is no 
+ascites. 
+BILE DUCTS: There is no intrahepatic biliary dilation. 
+  CHD: Not clearly visualized.  No evidence of extrahepatic 
+biliary 
+dilatation. 
+GALLBLADDER: A dependent mobile echogenic focus measuring up to 
+1 cm likely 
+represents a calculus versus tumefactive sludge.  There is no 
+gallbladder wall 
+thickening. 
+PANCREAS: Only the pancreatic head was seen due to bowel gas 
+obscuring 
+visualization of the more distal pancreas.  Imaged portion of 
+the pancreas 
+appears within normal limits, without masses or pancreatic 
+ductal dilation. 
+SPLEEN: Surgically absent. 
+KIDNEYS: Limited views of the kidneys show no hydronephrosis. 
+  Right kidney: 13.7 cm 
+  Left kidney: 13.4 cm 
+  
+RETROPERITONEUM: Visualized portions of aorta and IVC are within 
+normal 
+limits. 
+  
+DOPPLER EVALUATION: 
+  
+The main portal vein is patent, with flow in the appropriate 
+direction. 
+Main portal vein velocity is 13.9 cm/sec. 
+Right and left portal veins are patent, with antegrade flow. 
+  
+The main hepatic artery is patent, with appropriate waveform. 
+Right, middle and left hepatic veins are patent, with 
+appropriate waveforms. 
+The truncated partially visualized splenic vein, and superior 
+mesenteric vein 
+are patent, with antegrade flow. 
+  
+IMPRESSION:  
+  
+1.  Patent hepatic vasculature. 
+2.  Cholelithiasis without evidence of acute cholecystitis. 
+
+ 
+Brief Hospital Course:
+___ male PMH A. flutter on apixaban, HTN who presented 
+to
+OSH with abdominal pain and weakness. Found to have severe
+transaminitis and transferred for further work-up. Diagnosed 
+with hepatitis A. LFTs and T ___. Patient was recommended to continue being monitored 
+in hospital in setting of liver injury.
+However, he decide to leave against medical advice.
+
+Transitional Issues:
+[] Statin held in setting of liver injury, f/u for restart when 
+appropriate
+[] Apixaban held in setting of liver injury, f/u for restart 
+when appropriate
+[] Please follow-up AST, ALT and T ___ for resolution of liver 
+injury, as patient at high risk for continued liver damage. 
+Please follow up within 24 hours.
+[] Patient needs hepatitis B vaccine when appropriate.
+
+ACUTE ISSUES:
+=============
+# Transaminitis
+No reported history of liver issues. Given severity of
+transaminitis (LFTs to ___, DDx includes viral
+hepatitis, Budd-Chiari syndrome, ischemic hepatitis, toxic
+exposure, and medications. APAP level negative. OSH RUQ U/S
+showed patent portal vein, no comment on hepatic vein. Patient 
+diagnosed with hepatitis A, LFTs and T ___ were downtrending. 
+Apixban was held. Patient was explained the risks and benefits 
+of
+leaving against medical advice, including liver injury and 
+death,
+but decided to leave against medical advice.
+
+# Coagulopathy: Medication v. hepatic dysfunction. Will hold
+apixaban while inpatient given concurrent hepatocellular injury.
+
+# A. flutter: Recently cardioverted at ___ on ___. 
+- continued to hold apixaban at this time
+- Continued Metoprolol Succinate XL 50 mg PO daily 
+- Held Atorvastatin while inpatient given transaminitis 
+
+CHRONIC ISSUES:
+===============
+# HLD: Held atorvastatin given transaminitis 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 50 mg PO DAILY 
+2. Apixaban 5 mg PO BID 
+3. Atorvastatin 40 mg PO QPM 
+4. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 50 mg PO DAILY  
+2.  Omeprazole 20 mg PO DAILY  
+3. HELD- Apixaban 5 mg PO BID  This medication was held. Do not 
+restart Apixaban until PCP ___
+4. HELD- Atorvastatin 40 mg PO QPM  This medication was held. Do 
+not restart Atorvastatin until hold until pcp approves and liver 
+recovers
+5.Outpatient Lab Work
+CBC, LFTs, T ___, direct ___
+
+ 
+___ Disposition:
+Home
+ 
+Discharge Diagnosis:
+hepatitis A
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+Dear Mr. ___,
+
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You had hepatitis A
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You're liver was monitored
+- You were given medications to help your symptoms
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+-Please continue to take all of your medications and follow-up 
+with your appointments as listed below.  
+
+We wish you the best! 
+ 
+Sincerely,  
+
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

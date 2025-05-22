@@ -1,0 +1,336 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old male with PMH of Hodgkin's lymphoma
+who is presenting with chest pain and concern for PE. 
+Patient reports that he suddenly developed left-sided chest pain
+that started while picking up his baby. It was initially severe,
+has come and gone throughout the day, and overall improved since
+this morning. Worse with movement and deep breaths. He reported
+no shortness of breath, nausea or vomiting, no diaphoresis. 
+The patient went to urgent care, where he was found to have an
+elevated dimer greater than 900. He underwent a CTA of his 
+chest.
+This was inconclusive due to motion artifact, but was notable 
+for
+a wedge-shaped opacification in the left long which is 
+consistent
+with atelectasis versus infarction. Therefore, patient was
+referred to the ED for further workup of possible pulmonary
+embolism. 
+
+Regarding his non-Hodgkin's lymphoma, patient states that he was
+initially diagnosed with this in ___.  He went to a
+dermatologist for sunburn, was found to have lumps on his left
+shoulder.  Thinking these were possible lipomas, they were
+removed, with path showing non-Hodgkin lymphoma.  Patient
+underwent chemotherapy and radiation to the left shoulder area. 
+This was done in ___.  He states that following this
+treatment, he was initially monitored every year for the first ___
+years and then every other year with blood tests.  He states it
+has been a few years since he was last monitored.  He denies any
+fevers at home or weight loss.  He does state that around once a
+week he will have drenching night sweats that wake him from 
+sleep
+and drench his clothes and sheets.  He has attributed this to 
+the
+___ climate, which is more humid than he is used to.
+
+ 
+In the ED, initial vitals: T 98.5, HR 111, BP 167/110, RR 20, 
+95%
+RA
+  
+Labs were significant for  
+- CBC: WBC 7.5, Hgb 15.2, Plt 249
+
+- Lytes:
+142 / 101 / 11  
+-------------- 97 
+3.7 \ 27 \ 1.0 
+
+- ___: 12.2  PTT: 29.1  INR: 1.1  
+ 
+- ddimer 993
+- trop <0.01
+
+Imaging was significant for: LENIs with no DVT 
+
+In the ED, pt was started on a heparin gtt. 
+
+Vitals prior to transfer: T 97.8, HR 99, BP 152/92, RR 20, 95% 
+RA
+
+  
+Currently, patient states that his chest pain has improved,
+though does remain.  He recounts story as above.  Discussed his
+concerns about recurrence of lymphoma given the findings in the
+imaging.  Patient is understandably anxious.
+ 
+ROS: Positive as noted above. Negative for: No fevers, chills, 
+or
+weight changes. No changes in vision or hearing, no changes in
+balance. No cough, no shortness of breath, no dyspnea on
+exertion. No nausea or vomiting. No diarrhea or constipation. No
+dysuria or hematuria. No hematochezia, no melena. No numbness or
+weakness, no focal deficits.  
+ 
+ 
+Past Medical History:
+- History of Hodgkin's lymphoma, treated with radiation and
+chemotherapy
+- Eczema  
+- appendectomy 
+Obesity
+Hypertension
+ 
+Social History:
+___
+Family History:
+No family history of PE or DVT
+- maternal grandmother - arthritis, diabetes
+- mother - thyroid disease 
+ 
+Physical Exam:
+Admission exam
+VITALS: T 99.4, HR 100, BP 153/101, RR 18, 95% RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, tachycardic, no murmur, no S3, no S4.  No 
+JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs. No edema
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+Discharge exam
+Gen: Lying in bed in no apparent distress
+Vitals: ___ 1140 Temp: 98.3 PO BP: 161/112 HR: 106 RR: 18 
+O2
+sat: 95% O2 delivery: RA 
+HEENT: Anicteric, eyes conjugate, MMM, no JVD
+Cardiovascular: RRR no MRG, nl. S1 and S2
+Pulmonary: Lung fields clear to auscultation throughout
+Gastroinestinal: Soft, non-tender, non-distended, bowel sounds
+present, no HSM
+MSK: No edema
+Skin: No rashes or ulcerations evident
+Neurological: Alert, interactive, speech fluent, face symmetric,
+moving all extremities
+Psychiatric: pleasant, appropriate affect
+ 
+Pertinent Results:
+Admission labs
+___ 03:49PM   D-DIMER-993*
+___ 03:49PM   PLT COUNT-249
+___ 03:49PM   NEUTS-73.7* LYMPHS-12.1* MONOS-10.4 EOS-2.7 
+BASOS-0.8 IM ___ AbsNeut-5.54 AbsLymp-0.91* AbsMono-0.78 
+AbsEos-0.20 AbsBaso-0.06
+___ 03:49PM   WBC-7.5 RBC-5.72 HGB-15.2 HCT-46.4 MCV-81* 
+MCH-26.6 MCHC-32.8 RDW-13.5 RDWSD-39.5
+___ 03:49PM   cTropnT-<0.01
+___ 03:49PM   estGFR-Using this
+___ 03:49PM   GLUCOSE-97 UREA N-11 CREAT-1.0 SODIUM-142 
+POTASSIUM-3.7 CHLORIDE-101 TOTAL CO2-27 ANION GAP-14
+___ 11:45PM   ___ PTT-29.1 ___
+___ 06:25AM   ___ PTT-46.4* ___
+___ 06:25AM   PLT COUNT-260
+___ 06:25AM   WBC-8.0 RBC-5.69 HGB-15.0 HCT-46.1 MCV-81* 
+MCH-26.4 MCHC-32.5 RDW-13.3 RDWSD-38.9
+___ 06:25AM   ALBUMIN-4.8 CALCIUM-9.4 PHOSPHATE-4.6* 
+MAGNESIUM-2.0 URIC ACID-7.7*
+___ 06:25AM   ALT(SGPT)-30 AST(SGOT)-22 LD(LDH)-236 ALK 
+PHOS-74 TOT BILI-0.5
+___ 06:25AM   GLUCOSE-100 UREA N-11 CREAT-0.9 SODIUM-145 
+POTASSIUM-3.8 CHLORIDE-104 TOTAL CO2-25 ANION GAP-16
+___ 03:23PM   ___ PTT-59.2* ___
+___ 10:44PM   ___ PTT-75.3* ___
+
+Imaging
+Urgent Care Imaging:
+- ___ CTA: 
+1.  Limited evaluation of the subsegmental pulmonary arteries 
+due
+to respiratory motion and contrast timing.  Within this
+limitation, no evidence of pulmonary embolism in the main, lobar
+or segmental pulmonary arteries. 
+2.  Small peripheral wedge-shaped opacity in the superior 
+segment
+of the left lower lobe.  Findings are favored to represent
+atelectasis, although developing pneumonia or a pulmonary 
+infarct
+could have a similar appearance. 
+3.  Ovoid, intermediate density lesion of right cardiophrenic
+angle, which is incompletely characterized.  Differential
+diagnosis includes a pericardial cyst or epicardial lymph node. 
+Please see recommendation section below. 
+4.  Low attenuating lobular lesion along the left cardiophrenic
+angle, which most likely represents a pericardial cyst or
+esophageal/foregut duplication cyst. 
+RECOMMENDATION(S):  Correlation with outside imaging is
+recommended to assess for stability of the right cardiophrenic
+lesion. Otherwise, nonemergent PET-CT or MRI chest with contrast
+is recommended for further evaluation. 
+
+___ Imaging:
+___ LENIs
+1. No evidence of deep venous thrombosis in the right or left
+lower extremity veins. 
+2. Necrotic appearing left inguinal lymph nodes, possibly the
+sequela of therapy for Hodgkin's. Recommend correlation with
+Hodgkin's therapy time course and other potential etiologies. 
+
+___ TTE --mild symmetric left ventricular hypertrophy with 
+normal cavity size and regional/global biventricular systolic 
+function (EF 58%)
+
+___ VQ scan -- IMPRESSION: 1. There is decreased perfusion 
+and ventilation in the medial portion of the superior segment of 
+the left lower lobe in the area of the chest x-ray opacity.  
+Lung scan is indeterminate in that region. 2. No evidence of 
+pulmonary embolism in the remainder of the bilateral lungs.
+
+Discharge labs
+
+___ 09:00AM BLOOD WBC-9.2 RBC-5.98 Hgb-16.1 Hct-48.6 
+MCV-81* MCH-26.9 MCHC-33.1 RDW-13.3 RDWSD-39.1 Plt ___
+___ 09:00AM BLOOD Glucose-175* UreaN-13 Creat-1.0 Na-142 
+K-3.6 Cl-103 HCO3-22 AnGap-17
+___ 06:25AM BLOOD ALT-30 AST-22 LD(LDH)-236 AlkPhos-74 
+TotBili-0.5
+___ 09:00AM BLOOD Calcium-9.7 Phos-3.1 Mg-2.1
+___ 09:00AM BLOOD Calcium-9.7 Phos-3.1 Mg-2.___ man w/PMHx non-Hodgkin's lymphoma treated between ___ and
+___ in ___, otherwise feeling well recently, who 
+developed
+sudden onset left-sided chest/back pain pleuritic in nature, 
+with
+elevated d-dimer and sinus tachycardia.  CTA inconclusive due to
+motion artifact, V/Q equivocal for the area of concern, Doppler
+ultrasound of legs shows no clot but did show necrotic left
+inguinal lymph node. 
+
+PLAN by PROBLEMS
+
+#Possible pulmonary embolism
+patient presented with elevated d-dimer, tachycardia, and chest
+pain concerning for PE especially in the setting of prior cancer
+history.  He underwent a CTA which given motion artifact was
+unable to rule out a PE.  He subsequently underwent a VQ scan
+which was intermediate in one area for possible PE.  He then 
+underwent a third CT scan which was unable given body size to 
+definitely rule out PE, it did show an enlarging wedge shaped 
+area that is likely an infarct. It was read as infarct vs 
+infection vs atelectasis. He did not have any infectious 
+symptoms no cough, no fever, chills, sick contacts, no sputum 
+production. He had ongoing pleuritic pain while admitted. Given 
+the area was most likely an infarct and history and symptoms 
+chose to treat for likely PE. He was initially on a heparin ggt 
+and transitioned to rivaroxaban. He will need repeat imaging in 
+4 weeks to make sure pulmonary infarct is resolving. 
+
+#History of non-Hodgkin's lymphoma treated between ___ and ___
+in ___
+#Left inguinal necrotic lymph node incidentally found on Doppler
+of the lower extremities
+Found to have a necrotic lymph node incidentally on lower 
+extremity doppler. His LDH was not elevated. Called the on call 
+___ attending Dr. ___ who recommended close 
+outpatient follow up. She will help facilitate a outpatient 
+PET-CT and link him with an oncologist. He denies any weight 
+loss, night sweats. Expressed to him the importance of close 
+follow up. 
+
+#Low Grade Fever 
+had one isolated fever to 100.4. Offered patient to stay for 
+further workup but he declined. Could be from his pulmonary 
+infarct 
+
+#Morbid obesity, BMI 40
+-outpatient followup 
+
+#Hypertension
+-working on lifestyle modifications. Previously on ___
+-continue to monitor, outpatient followup 
+
+#Elevated uric acid
+-No other concerning lab findings, this could easily be a 
+chronic
+problem
+-Suggest transitional issue for PCP
+
+>30 minutes spent on complex discharge 
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Possible pulmonary embolism
+Pulmonary infarct
+Necrotic lymph node
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted with acute onset of chest pain. We were 
+concerned about a pulmonary embolism (clot on the lung), and you 
+underwent several imaging tests to try to diagnose this.  You 
+had a VQ scan and multiple CT scans. None could say for certain 
+if you had a pulmonary embolism but did show a likely lung 
+infarct which was very concerning for pulmonary embolism. We 
+discussed this ___ and given the risks of an untreated 
+blood clot were so high we chose to treat. Due to this you were 
+started on anticoagulation. You should take rivaroxban 15 mg 
+twice a day for 21 days then switch to 20mg a day. You will need 
+close follow up with your primary care office. Their office is 
+closed today but you should can them on ___ as soon as they 
+open.  
+
+We also discovered a "necrotic lymph node" in your left groin 
+region. Called and spoke with the oncologist and they 
+recommended you have an outpatient consultation with an 
+oncologist they should be calling you on ___, if you don't 
+hear from them please call their office. You will need further 
+imaging to determine the significance of this lymph node and 
+further workup. 
+
+It was a pleasure caring for you,
+Your medical team
+ 
+Followup Instructions:
+___

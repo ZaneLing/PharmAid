@@ -1,0 +1,146 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Thrombocytopenia
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo M past medical history significant for colon cancer, 
+hyperlipidemia and benign prostatic hypertrophy who is sent to 
+the ED by his PCP for routine outpatient labs showing 
+thrombocytopenia.
+
+Patient reports bruises on his right elbow after a fall several 
+weeks ago (when getting off a lobster boat), left forearm and 
+leg.  Otherwise denies any other rashes on body.  Denies any 
+fatigue.  Very active, does 30 sit ups per day, 15 push ups, and 
+lifts 20 lbs weights in each hand with 30 reps daily.  Denies 
+any hematuria or bleeding in gums.  No brbpr or melena.  No 
+recent illness, denies sore throat, rhinorrhea or cough.  No 
+fever or chills.  No weight loss or nightsweats.  Takes a full 
+strength aspirin daily.  No new medications.  Had recent 
+physical with routine blood work showing platelets of 10,000.    
+
+
+Of note patient reports recent gout attack in left great toe 
+treated with OTC topical cream (does not recall the name).     
+
+ED: 97.8  78P  135/54  15  98%RA; cbc significant for platelets 
+14k and negative hemolysis labs; heme reviewed smear - no 
+schistocytes
+
+ROS: 
+- General: No fevers, chills, sweats, weight loss
+- HEENT: no changes in vision or hearing, no rhinorrhea, nasal 
+congestion, headaches, sore throat
+- Lungs: no cough, shortness of breath, dyspnea on exertion
+- Cardiac: no chest pain, pressure, palpitations, orthopnea, PND
+- GI: no abdominal pain, nausea, vomiting, diarrhea, 
+constipation, BRBPR, melena
+- GU: no dysuria, hematuria, urgency, frequncey
+- MSK: no arthralgias or myalgias
+- Neuro: no weakness, numbness, seizures, difficulty speaking, 
+changes in memory. 
+- Skin: no rash or pruritis
+- Psychiatry: no depression or suicidal ideation
+
+ 
+Past Medical History:
+Colon cancer s/p colectomy ___
+Hyperlipidemia
+BPH
+ 
+Social History:
+___
+Family History:
+mother - deceased from PE
+father - deceased from ___ accident
+unclear if history of cancer
+ 
+Physical Exam:
+VS 96.8  76P  143/81  18RR  98%RA
+Gen: alert, NAD, pleasant, talkative, resting comfortably in bed
+Heent: anicteric, eomi, perrl, op clear s lesions, mmm
+Neck: supple, no LAD, no JVD
+Cv: +s1, s2  -m/r/g
+Pulm: clear bilaterally
+Abd: soft, nt, nd, +bs; ? splenomegaly - difficult to assess due 
+to abdominal obesity
+Extr: no edema, 2+ dp/pt, toes with dusky appearance but warm to 
+touch
+Neuro: cn ___ grossly intact, no focal deficits
+Skin: + bruise right elbow, left forearm and left leg
+Rectal: guaiac negative in ED
+ 
+Pertinent Results:
+___ 08:50PM BLOOD WBC-5.2 RBC-3.79* Hgb-11.8* Hct-34.4* 
+MCV-91 MCH-31.2 MCHC-34.3 RDW-14.0 Plt Ct-14*#
+___ 04:40AM BLOOD WBC-4.9 RBC-3.58* Hgb-11.6* Hct-33.1* 
+MCV-92 MCH-32.2* MCHC-34.9 RDW-13.6 Plt Ct-11*
+___ 06:55AM BLOOD WBC-4.0 RBC-3.94* Hgb-12.7* Hct-36.3* 
+MCV-92 MCH-32.3* MCHC-35.0 RDW-13.6 Plt Ct-18*#
+ 
+Brief Hospital Course:
+1. Thrombocytopenia / likely ITP: Hematology recommended bone 
+marrow biopsy to further characterize but patient refused. If 
+this is ITP, an underlying cause is not clear though patient 
+attributed to aspirin therapy. Started prednisone inpatient with 
+plan to see hematology <1 week after discharage. 
+
+2. Chronic kidney disease, stage 3: Stable
+3. Hyperlipidemia: Continued atorvastatin 
+
+ 
+Medications on Admission:
+ASA 325mg daily
+Lipitor 10mg daily
+Flomax 0.4mg daily - self d/c'ed
+ 
+Discharge Medications:
+1. atorvastatin 10 mg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+2. prednisone 20 mg Tablet Sig: Four (4) Tablet PO DAILY 
+(Daily): 90 mg total.
+Disp:*28 Tablet(s)* Refills:*0*
+3. prednisone 10 mg Tablet Sig: One (1) Tablet PO once a day: 90 
+mg total.
+Disp:*10 Tablet(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Thrombocytopenia, likely ITP
+2. Anemia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted with thrombocytopenia (low platelets). This is 
+likely due something called ITP. 
+
+While your platelets remain low, you are at increased risk for 
+bleeding. The predisone medication your have been prescribed may 
+help increase your platelet numbers. This should be taken every 
+day, as prescribed, until you follow-up with the hematology 
+doctors.
+ 
+Followup Instructions:
+___

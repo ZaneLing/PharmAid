@@ -1,0 +1,210 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+Pleuritic Pain  
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old gentleman who is presenting with persistent 
+pleuritic pain in the context of a recent diagnosis of 
+pericarditis three weeks ago. He also has a 2 week history of 
+fevers, night sweats, and lethargy. Currently the patient is 
+pain free laying in bed but pain returns with deep inspiration 
+during exam. He had an episode of night sweats last night. He 
+was in afib with RVR last night but denies having any previous 
+history. No TB risk factors. No tick bites. No rash. Per his 
+PCP, he was started on ibuprofen 600 qid on ___ with minimal 
+improvement in symptoms. He's had myalgias and mild dry cough 
+for past few days only. No weight loss. 
+.
+REVIEW OF SYSTEMS  
+On review of systems, he denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, hemoptysis, black stools or red stools. He 
+denies exertional buttock or calf pain. All of the other review 
+of systems were negative.  
+.  
+Cardiac review of systems is notable for absence of ankle edema, 
+palpitations, syncope or presyncope. 
+ 
+Past Medical History:
+HTN  
+Hyperlipidemia  
+BPH  
+Erectile dysfunction  
+ 
+Social History:
+___
+Family History:
+Daughter-type 1 diabetes  
+ 
+Physical Exam:
+On Admission:
+VS: 99.2 ___ 16
+Gen: Pleasant, Caucasian male in no apparent distress  
+Cardiac: Friction rub apparent on inspiration, no murmurs  
+Pulm: clear bilaterally throughout  
+Abd: obese, but otherwise contender with no palpable masses  
+Ext: no edema notable  
+ 
+Pertinent Results:
+___ 08:35PM BLOOD WBC-6.3 RBC-3.63* Hgb-10.4* Hct-30.9* 
+MCV-85 MCH-28.6 MCHC-33.6 RDW-11.4 Plt ___
+___ 06:11AM BLOOD WBC-5.8 RBC-3.44* Hgb-10.0* Hct-29.7* 
+MCV-86 MCH-29.2 MCHC-33.8 RDW-11.4 Plt ___
+___ 08:35PM BLOOD Neuts-78.7* Lymphs-14.1* Monos-6.1 
+Eos-0.8 Baso-0.3
+___ 06:11AM BLOOD Neuts-72.8* Lymphs-17.5* Monos-8.1 
+Eos-1.5 Baso-0.1
+___ 06:11AM BLOOD ___ PTT-27.1 ___
+___ 03:15PM BLOOD ESR-88*
+___ 06:11AM BLOOD Ret Aut-1.3
+___ 06:11AM BLOOD Glucose-105* UreaN-15 Creat-1.0 Na-139 
+K-4.5 Cl-102 HCO3-29 AnGap-13
+___ 03:15PM BLOOD ALT-32 AST-26 AlkPhos-78 TotBili-0.4
+___ 08:35PM BLOOD LD(LDH)-242
+___ 06:11AM BLOOD Calcium-8.8 Phos-4.3 Mg-2.4
+___ 08:35PM BLOOD Iron-23*
+___ 08:35PM BLOOD calTIBC-212* Ferritn-1038* TRF-163*
+___ 08:35PM BLOOD TSH-0.48
+___ 08:35PM BLOOD RheuFac-PND
+.
+CT Chest ___: Diffuse pericardial enhancement + small 
+effusion c/w pericarditis- etiology thought to be viral per 
+discussion w/ MD. ___ reactive lymph nodes. Scattered 
+areas of subpleural scarring/nodularity. Nonspecific hepatic 
+hypodensities.  
+.  
+2d Echo ___: The left atrium is mildly dilated. The right 
+atrium is moderately dilated. Left ventricular wall thicknesses 
+and cavity size are normal. Left ventricular systolic function 
+is hyperdynamic (EF>75%). Right ventricular chamber size and 
+free wall motion are normal. The diameters of aorta at the 
+sinus, ascending and arch levels are normal. The aortic valve 
+leaflets (3) are mildly thickened but aortic stenosis is not 
+present. No masses or vegetations are seen on the aortic valve. 
+There is no valvular aortic stenosis. The increased transaortic 
+velocity is likely related to high cardiac output. No aortic 
+regurgitation is seen. The mitral valve leaflets are 
+structurally normal. No mass or vegetation is seen on the mitral 
+valve. Physiologic mitral regurgitation is seen (within normal 
+limits). There is moderate pulmonary artery systolic 
+hypertension. There is a small pericardial effusion.  
+IMPRESSION: No evidence of endocarditis. Hyperdynamic left 
+ventricular function. Normal valvular function. Small 
+pericardial effusion. Moderate pulmonary hypertension.  
+.  
+EKG: T wave inversions noted V1-V5  
+
+ 
+Brief Hospital Course:
+Primary Reason for Hospitalization:
+===================================
+Mr. ___ is a ___ year old male with three weeks of persistent 
+pleuritic chest pain, fevers over 1 week, night sweats, T wave 
+inversions on EKG all consistent with pericarditis.
+.
+# Pericarditis - there was little in the patient's history or 
+exam to suggest a specific diagnosis. Most cases of idiopathic 
+pericarditis resolve within 1 week of NSAID therapy however 
+NSAIDs were initiated 2 weeks after diagnosis and patient has 
+had only 4 days of therapy. He was instructed to take ibuprofen 
+for one additional week and ___ with his primary care 
+provider. If no improvement in symptoms and nothing remarkable 
+in workup then could consider adding colchicine. Many lab tests 
+were sent prior to discharge with most results still pending. 
+The patient will ___ with his primary care provider in one 
+week and results should be followed-up by PCP at that time.  
+.  
+# Normocytic Anemia - Most likely this is secondary to 
+inflammation (ESR was 88 and CRP 101.3) and iron studies 
+consistent with AOCD. Had normal colonoscopy in ___. This 
+should be followed for resolution as outpatient. 
+.  
+Hypertension - Continue lisinopril  
+.  
+Hyperlipidemia - Continue simvastatin  
+.  
+BPH - Continue flomax  
+.
+TRANSITIONAL ISSUES:
+--------------------
+- Labs pending at the time of discharge: TSH, RPR, HIV, Lyme 
+serologies, ___, ANCA, RF, LDH, Histoplasmosis urine antigen, 
+blood cultures
+- PCP should ___ on labs above and discuss any pertinent 
+results with patient
+- Patient needs to have PPD 
+ 
+Medications on Admission:
+1. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+2. simvastatin 20 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+3. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) 
+Capsule, Ext Release 24 hr PO HS (at bedtime).  
+4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+5. ibuprofen 600 mg ___ times daily with food
+ 
+Discharge Medications:
+1. lisinopril 5 mg Tablet Sig: One (1) Tablet PO DAILY (Daily).  
+
+2. simvastatin 20 mg Tablet Sig: One (1) Tablet PO at bedtime.  
+3. tamsulosin 0.4 mg Capsule, Ext Release 24 hr Sig: One (1) 
+Capsule, Ext Release 24 hr PO HS (at bedtime).  
+4. aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day.  
+5. ibuprofen 400 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 
+hours).  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+- Pericarditis
+- Fever of Unknown Origin
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, it was a pleasure taking care of you here at ___.
+
+You were admitted because you were having fevers and chest pain 
+from your pericarditis. An ultra-sound of your heart (an 
+echocardiogram) was performed which showed a small amount of 
+fluid around your heart (a pericardial effusion). Most cases of 
+pericarditis are caused by viruses and slowly get better on 
+their own after several weeks. We sent some tests for other 
+causes of pericarditis that would require treatment. Many of 
+these tests take time to process therefore you will be able to 
+obtain the results when you see your primary care doctor next 
+week. 
+
+No changes were made to your medications. You should continue 
+taking ibuprofen as you have been doing for 1 more week. If your 
+chest pains do not improve after that you should call your 
+doctor.
+ 
+Followup Instructions:
+___

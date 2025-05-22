@@ -1,0 +1,374 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Atrial Fibrillation, DOE
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o male without significant PMHx referred
+from urgent care with new atrial fibrillation.
+
+He states that he was in his USOH until 3 weeks ago when he
+started to notice new onset tremors in his extremities. Then,
+about 2 weeks ago, he noted intermittent symmetric bilateral leg
+swelling, which seemed to come and go. About 1 week ago, he
+notices dyspnea on exertion, only able to walk 2 miles instead 
+of
+his usual 4 miles. Over this 3 week time frame, he has also
+experienced unintentional weight loss of ___ lbs, heart 
+racing,
+generalized weakness, fatigue, difficulty swallowing, voice
+hoarseness, diarrhea and heat intolerance. He has also noticed
+pain in the back of his R lung, which he believes is a pulled
+muscle from playing golf. He has not taken any long trips, aside
+from a 3 hour car ride to ___. He further denies chest 
+pain,
+fevers, chills, dysuria.
+
+These symptoms prompted him to present to ___ urgent care where
+he was noted to be in Afib with HR 100s, concern for s/sx CHF 
+and
+referred to the ED for further evaluation.
+ 
+Past Medical History:
+=====================
+PAST MEDICAL HISTORY:
+=====================
+Hypertension
+Anemia
+Chronic sinusitis
+Osteoarthritis of hips
+Nasal polyposis
+Colorectal polyps
+Dupuytren's contracture
+ 
+Social History:
+___
+Family History:
+==============
+FAMILY HISTORY:
+===============
+Strong family history of hyperthyroidism (brother, father,
+sister).
+No history of DM, CAD.
+ 
+Physical Exam:
+========================
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: 98.4 147/76 105 20 95 Ra 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. No ophthalmopathy. Sclera anicteric 
+and
+without injection. MMM. No stridor.
+NECK: Thyroid is normal in size and texture, no nodules. No
+cervical lymphadenopathy. JVP difficult to appreciate, estimated
+~10.
+CARDIAC: Irregularly irregular rhythm. Tachycardic. Audible S1
+and S2. No murmurs/rubs/gallops.
+LUNGS: Faint crackles at bilateral bases.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. A&Ox3. MAE with purpose.
+
+DISCHARGE PHYSICAL:
+PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 1232)
+    Temp: 98.2 (Tm 98.2), BP: 137/81 (108-137/57-81), HR: 62
+(62-98), RR: 18 (___), O2 sat: 98% (93-98), O2 delivery: ra  
+
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. No ophthalmopathy. Sclera anicteric 
+and
+without injection. MMM. No stridor.
+NECK: Thyroid is normal in size and texture, no nodules. No
+cervical lymphadenopathy. 
+CARDIAC: Irregularly irregular rhythm. Tachycardic. Audible S1
+and S2. No murmurs/rubs/gallops.
+LUNGS: CTAB, no increased work of breathing, no murmurs rubs or
+gallops. No Stridor
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. A&Ox3. MAE with purpose. ___ strength
+in shoulders,biceps, triceps, grip, hip flexion, leg flexion, 
+leg
+extension, dorsi/plantar flexion. 
+
+ 
+Pertinent Results:
+Admission Labs:
+
+___ 03:43PM BLOOD WBC-5.6 RBC-3.60* Hgb-11.2* Hct-34.1* 
+MCV-95 MCH-31.1 MCHC-32.8 RDW-12.8 RDWSD-44.9 Plt ___
+___ 03:43PM BLOOD Neuts-62.3 ___ Monos-15.4* 
+Eos-1.8 Baso-0.4 Im ___ AbsNeut-3.52 AbsLymp-1.12* 
+AbsMono-0.87* AbsEos-0.10 AbsBaso-0.02
+___ 03:43PM BLOOD ___ PTT-29.4 ___
+___ 03:43PM BLOOD Glucose-109* UreaN-13 Creat-0.8 Na-144 
+K-4.9 Cl-106 HCO3-22 AnGap-16
+___ 03:43PM BLOOD cTropnT-<0.01 proBNP-3413*
+___ 02:10AM BLOOD Albumin-3.8 Calcium-9.2 Phos-5.9* Mg-1.6 
+Iron-60
+___ 06:31PM BLOOD D-Dimer-1596*
+___ 03:43PM BLOOD T4-12.8* T3-467*
+___ 02:10AM BLOOD antiTPO-91*
+
+Pertinent Interval Labs/Results
+
+___:16AM BLOOD WBC-5.4 RBC-3.24* Hgb-10.0* Hct-30.8* 
+MCV-95 MCH-30.9 MCHC-32.5 RDW-12.9 RDWSD-44.7 Plt ___
+___ 06:16AM BLOOD Glucose-110* UreaN-18 Creat-0.9 Na-143 
+K-4.9 Cl-106 HCO3-26 AnGap-11
+___ 02:10AM BLOOD calTIBC-242* Ferritn-599* TRF-186*
+___ 06:16AM BLOOD T4-11.0 T3-393*
+___ 06:16AM BLOOD Calcium-9.6 Phos-4.6* Mg-1.9
+
+V/Q Scan ___
+
+IMPRESSION:  Normal lung scan.  A normal lung scan rules out 
+recent pulmonary
+embolism.
+ 
+Thyroid Scan ___:
+
+Final Report
+HISTORY:  ___ male with history of primary 
+hyperthyroidism.  Evaluate
+for etiology.
+ 
+COMPARISON:  No prior studies available for comparison.
+ 
+TECHNIQUE:  ISOTOPE DATA: (___) 10.0 mCi Tc-99m 
+Pertechnetate; 
+ 
+FINDINGS:  Diffuse increased radiotracer uptake in the thyroid 
+compared to the
+salivary glands, consistent with Graves disease.
+ 
+IMPRESSION:  Diffuse increased radiotracer uptake in the thyroid 
+compared to the
+salivary glands, consistent with Graves disease.
+
+Thyroid Ultrasound ___:
+
+IMPRESSION: 
+ 
+Hypervascular and heterogeneous thyroid, consistent with 
+thyroiditis.  No
+discrete nodule identified.  Follow-up with ultrasound in ___ year 
+is
+recommended.
+
+TE Echo ___:
+The left atrial volume index is SEVERELY increased. The right 
+atrium is moderately enlarged. There is mild
+symmetric left ventricular hypertrophy with a normal cavity 
+size. There is normal regional and global left
+ventricular systolic function. The visually estimated left 
+ventricular ejection fraction is 70%. There is no resting
+left ventricular outflow tract gradient. Mildly dilated right 
+ventricular cavity with normal free wall motion. The
+aortic sinus is mildly dilated with mildly dilated ascending 
+aorta. The aortic arch is mildly dilated. The aortic
+valve leaflets (?#) are mildly thickened. There is mild aortic 
+valve stenosis (valve area 1.5-1.9 cm2). There is
+no aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with no mitral valve prolapse.
+There is trivial mitral regurgitation. The tricuspid valve 
+leaflets appear structurally normal. There is mild [1+]
+tricuspid regurgitation. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion.
+ 
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY STATEMENT 
+
+Mr. ___ is a ___ w/ PMHx of HTN and a FH of Grave's disease
+who is presenting with new atrial fibrillation weight loss,
+tremor, heat intolerance and dyspnea on exertion, low TSH, high 
+T3/T4 consistent with hyperthryoidism causing Atrial 
+Fibrillation and high output HF. 
+
+=============
+ACUTE ISSUES:
+=============
+#Hyperthyroidism
+Patient presented with 2 week history of weight loss, tremor, 
+heat intolerance was found to have low TSH, high T3/T4 on 
+admission and a FH of Grave's Disease. Workup included 
+TSH,T3,T4, TPO (+) TSI antibody is pending. Thyroid ultrasound 
+was performed did not reveal any nodules. Thyroid technitium 
+scan showed increased uptake diffusely in thyroid consistent 
+with Graves' disease. Endocrine was consulted and the Patient 
+was started on propanolol 20 mg 3 times a day (switched to ER 
+60mg daily) and methimazole 10 mg twice daily. Patient is to 
+follow-up with endocrinology in 2 weeks and have lab work drawn 
+before
+
+#New onset Atrial fibrillation ___ hyperthyroidism
+New diagnosis of A-fib. CHADS-Vasc score is 2 (HTN and CHF). 
+Etiology likely due to hyperthyroidism, however, also checked 
+V/Q scan which was negative for PE. Patient was rate controlled 
+with propranolol 20 mg 3 times a day. Anticoagulation was 
+started with apixaban 5 mg twice daily. Once hyperthyroidism 
+resolved, should have repeat EKG to evaluate for persistence of 
+atrial fibrillation.
+
+#c/f High Output Heart Failure
+Presented with 1 week history of dyspnea on exertion and 
+decreased exercise tolerance with elevated BNP in setting of new 
+onset Afib. Lower on DDx was physical pulmonary embolism as 
+wells Score 1.5 (tachycardia), and d-dimer was elevated a PE was 
+ruled out with a VQ scan. Echocardiogram showed severely dilated 
+left atrium increased pulmonary artery pressures, dilated 
+SVC/right atrium. Ejection fraction was 70%. Should have repeat 
+TTE once acute hyperthyroidism is resolved. 
+
+#Normocytic Anemia: likely anemia of chronic disease with high
+ferritin, low transferin and low TIBC.
+-Hgb 11.2 from baseline ___. Last colonoscopy ___ with 2
+polyps identified, recommended ___ year follow up.
+
+===============
+CHRONIC ISSUES:
+===============
+
+#Hypertension
+- Not on home meds patient remained normotensive throughout 
+admission
+
+#Other home meds
+- Continue ASA 81 mg
+
+=============
+CORE MEASURES
+=============
+#CONTACT: ___ (wife) ___
+#Code: Full
+
+==================
+TRANSITIONAL ISSUES
+===================
+[]F/u with PCP ___ ___ for further management of new onset 
+atrial fibrillation. Patient on propranolol for rate control 
+instead of conventional metoprolol because of concurrent 
+hyperthyroidism. Once thyroid hormones normalize consider 
+switching to metoprolol. 
+[]Please repeat TTE in 1 month or hyperthyroidism normalized to 
+follow-up once high output state has resolved.
+[] Started on apixaban for atrial fibrillation. Please continue 
+to assess the need for anticoagulation as atrial fibrillation 
+may resolve with normalization of thyroid hormones.
+[] Patient's aspirin for primary prophylaxis was discontinued as 
+started on apixaban and not felt to be worth increase risk in 
+bleeding. 
+[]F/u with endocrinology for further management of new Dx 
+Grave's Disease. 
+[]Discharged on methimazole 10mg BID. Will need CBC and LFTs 
+monitored while on this medication given risk of agranulocytosis 
+and transaminitis. 
+
+#CODE: Full (presumed)
+#CONTACT: ___ (wife) ___
+
+>30 minute spent on complex discharge 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Fluticasone Propionate NASAL 1 SPRY NU DAILY:PRN allergies 
+
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID  
+2.  Methimazole 10 mg PO BID 
+RX *methimazole 10 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+3.  Propranolol 20 mg PO TID 
+RX *propranolol 60 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*0 
+4.  Fluticasone Propionate NASAL 1 SPRY NU DAILY:PRN allergies  
+5.Outpatient Lab Work
+ICD-10: ___.00
+Please have labs drawn ___ days prior to appointment with 
+endocrinologist
+LAB TEST: CBC w/ diff, basic metabolic profile, Liver function 
+tests, T3, T4, TSH
+Please fax results to: ___ ___
+___: ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Grave's Disease
+New Onset Atrial Fibrillation ___ Hyperthyroidism
+High Output Heart Failure
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___, 
+
+It was a pleasure taking care of you while you are at ___ 
+___,
+
+Why was admitted to the hospital?
+Your heart had an irregular rhythm called atrial fibrillation 
+you are also having symptoms of shortness of breath this was 
+concerning that there was an abnormality was your thyroid.
+
+What happened while I was in the hospital?
+-We diagnosed you with hyperthyroidism through blood test and 
+scans.
+-We started you on medications to lower your thyroid hormones.
+-We started you on a medication to control the rate of your 
+hear.
+-We started you on an anticoagulant or to prevent your "blood 
+thinner" blood from clotting. 
+
+What should I do when only the hospital?
+- Please be aware that this puts you at higher risk for 
+bleeding.  If you fall and hit her head please seek emergent 
+medical care as you are at increased risk of bleeding in his 
+brain.
+-Stop taking aspirin for now and discuss with PCP if needed to 
+be restarted. This can also increase your risk of bleeding.
+Take all your medications as prescribed
+See your primary care provider ___ 1 week.
+Follow-up with endocrinology in 2 weeks
+-___ days prior to seeing the endocrinologist have lab work 
+performed.  Your endocrinologist will want to see the results of 
+that lab work at the appointment.
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,250 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+All allergies / adverse drug reactions previously recorded have 
+been deleted
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Acute kidney injury
+Recent fevers
+Flank pain
+Malaise
+Nausea
+Thrombocytopenia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with the past medical
+history of GERD who presents with back/flank pain and found to
+have ___. He was traveling in ___ recently, and after went
+swimming, developed an ear ache.  He went to his PCP ___ ___ who
+gave him Keflex ___ PO BID.  He took it regularly the first 2
+days, but only took it daily on days ___ because of GERD.  
+Later,
+he developed pleuritic left-sided chest pain as well as neck
+pain. He said that he went to the hospital ___ where he had a
+blood test for PE which was negative, was told the pain was
+caused by inflammation, and given "Ibuprofen through the IV"
+(presumably Toradol).  On ___, he describes pain in his lower
+back/right flank.  The pain was ___, burning and sharp, acute,
+and accompanied by fever of 101.5. He did not have any urinary
+frequency, hematuria, dysuria, cough, URI symptoms, or diarrhea. 
+
+He went to ___ where he had a UA that showed RBCs and
+Protein, but CT scan looking for renal stones that was
+unrevealing.  His Cr was noted to be 1.2 and presumed to be from
+dehydration.  He states that he received "IV Ibuprofen" and was
+discharged.  On ___, he noted that the same pain occurred
+whenever he urinated, and that in the car, with every bump 
+caused
+the same pain.  He presented to the ER at ___. 
+ 
+Past Medical History:
+GERD
+ 
+Social History:
+___
+Family History:
+No known family history of kidney disease.
+ 
+Physical Exam:
+VITALS: Afebrile and vital signs stable
+24 HR Data (last updated ___ @ 707)
+Temp: 99.2 (Tm 99.2), BP: 136/83 (127-136/81-83), HR: 80 
+(79-80),
+RR: 18 (___), O2 sat: 97% (96-97), O2 delivery: RA, Wt: 169.75
+lb/77 kg  
+GENERAL: Pleasant young man seated in hospital room, in no
+apparent distress.
+EYES: PERRL, EOMI, anicteric sclerae. 
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx clear, without visible lesion, erythema or exudate.
+CV: Regular rate and rhythm. Normal S1 S2, no S3, no S4. No
+murmur. No JVD.
+PULM: Breathing comfortably on room air. Lungs clear to
+auscultation with good air movement bilaterally. No wheezes or
+crackles.
+GI: Bowel sounds present. Abdomen non-distended, soft, 
+non-tender
+to palpation. No HSM appreciated.
+GU: No suprapubic fullness or tenderness to palpation.
+MSK: R flank tenderness (very mild). Neck supple, moves all
+extremities, strength grossly full and symmetric bilaterally in
+all limbs.
+SKIN: No rashes or ulcerations noted.
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout.
+PSYCH: Pleasant, appropriate affect.
+
+ 
+Pertinent Results:
+LABS
+___ (___): Cr 0.85, BUN 13
+___ (___): Cr 1.28, BUN 11
+___: Cr 1.4
+___: Cr 1.4->1.4
+
+___ 
+WBC: 5.7 RBC: 4.75 Hgb: 14.1 Hct: 40.5 MCV: 85 MCH: 29.7 MCHC:
+34.8 RDW: 11.6 RDWSD: 35.___* 
+
+___ 
+Neuts: 70.9 Lymphs: 18.2* Monos: 9.4 Eos: 1.0 Baso: 0.2 Im ___:
+0.3 AbsNeut: 4.06 AbsLymp: 1.04* AbsMono: 0.54 AbsEos: 0.06
+AbsBaso: 0.01 
+
+___ 
+CK(CPK): 89 
+Urine Prot/Cr: 0.4* 
+
+URINE ANALYSES
+___ UA (___)- notable for bleed (25), protein (75) 
+___ UA- all wnl
+___ UA- all wnl
+
+MICRO
+___ UCx - negative
+
+IMAGING/STUDIES
+
+___ 21:10   Ctu (Abd/Pel) W/&W/O Contrast
+Final Report
+In the absence of evidence of obstruction, heterogeneous
+enhancement of the bilateral kidneys is nonspecific but could be
+infectious or indicate entity such as interstitial nephritis or
+parenchymal disease. In conjunction with rising creatinine and
+normal urinalysis, NEPHROLOGY consult recommended. 
+
+ 
+Brief Hospital Course:
+# Acute renal dysfunction
+# Flank pain
+New flank pain and nausea/malaise and found to have new drop in 
+renal function (baseline Cr 0.8-0.9, presents with 1.28 [gets 
+more NSAID and cephalosporin in ED then] and plateaus at 1.4), 
+initial UA with microscopic blood and protein (subsequent UAs 
+wnl), and contrast CT showing uncommon bilateral symmetric 
+enhancement of the parenchyma (reviewed with radiology) in the 
+context of taking (chronically) PPI and (recently) NSAIDs and 
+cephalosporin. Most likely he had NSAID-related ___, which 
+should normalize within ___ days. AIN is also possible. HE has 
+exposure to three major categories of drugs associated with this 
+condition, although missing some common features such as 
+eosinophilia or eosinophils in the urine (initial UA had RBCs & 
+proteins, but no WBCs). Also, patient has been on the PPI for ___ 
+years, he has had many exposures to NSIADs (they are his his 
+go-to pain reliever and takes an NSAID about once monthly), and 
+he has many exposures to penicillin-class antibiotics as a child 
+and adult (most recently about ___ years ago). Renal function 
+stable at 1.4 since admission. Discussed the facts of the case 
+with nephrology. 
+
+At discharge, the plan was:
+- Repeat BMP in 1 week
+- PCP follow up after
+--- If renal function not improving, renal referral
+--- If renal function improving but not normal, could repeat BMP 
+to
+ensure it's truly normalizing
+- Hold omeprazole and NSAID use until renal function normalizes 
+and talks to his doctor ___ 
+- ___ for flank pain as needed
+- Avoid other nephrotoxins as possible
+
+# Malaise & Nausea
+# Thrombocytopenia
+# Fevers (reported)
+Although the malaise and nausea could be related to the renal 
+injury, along with the fevers and thrombocytopenia, this could 
+fit a viral illness picture. Fevers were up to 101.5 F (although 
+only reported, none while in the hospital). As long as symptoms 
+resolve, no further work-up needed. 
+
+At discharge, the plan was:
+- Repeat CBC with diff in 1 week to reassess the 
+thrombocytopenia
+- PCP follow like above
+- Discharged with a prescription for Zofran prn nausea
+- Outpatient work-up of symptoms if they don't resolve; any 
+initial work-up should include HIV status.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO 3X/WEEK (___) 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Moderate  
+2.  Ondansetron 4 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth every 6 hours as 
+needed Disp #*30 Tablet Refills:*0 
+3. HELD- Omeprazole 20 mg PO 3X/WEEK (___)  This medication 
+was held. Do not restart Omeprazole until discuss with your 
+doctor.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute kidney injury
+Flank pain
+Malaise
+Nausea
+Thrombocytopenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted after having fevers at home and developing 
+persistent flank pain, malaise, and nausea. You were found to 
+have decreased kidney function.
+
+Your pain and nausea were treated with medicines (acetaminophen 
+and anti-nausea meds). Your kidney function is stable.
+
+The cause of your symptoms is not clear. The kidney dysfunction 
+is probably most likely due to the non-steroid inflammatory 
+drugs (NSAIDs) that you received recently. 
+
+We think you are safe to go home today with the following plan:
+1. Take Tylenol for the flank pain as needed
+2. Have your primary care doctor set you up for a repeat BMP 
+("basic metabolic panel") and CBC with diff ("complete cell 
+count with differential") in 1 week
+3. Have an appointment with the primary care doctor soon after 
+the labs are done.
+4. If your renal function is not improving, ask your primary 
+care doctor for ___ referral to the kidney doctor clinic and have 
+a repeat BMP 1 week. The CBC is to check that your platelets and 
+other cell counts become normal.
+5. If renal function is normal, there is no need for more labs.
+6. If your renal function is improving but not normal, you could 
+repeat the BMP in 1 week to ensure it's fully normalizing.
+7 Please avoid taking your omeprazole or taking NSAIDs until 
+your renal function normalizes and you discuss restarting them 
+with your doctor. 
+ 
+Followup Instructions:
+___

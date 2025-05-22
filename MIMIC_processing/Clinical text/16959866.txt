@@ -1,0 +1,220 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: PLASTIC
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cellulitis, seroma
+ 
+Major Surgical or Invasive Procedure:
+___: ___ drain
+ 
+History of Present Illness:
+Patients Is a ___ year old female with a recent PMH of abdominal 
+hernia repair through a lower midline incison. She had been 
+doing fine postop but recently developed a infection at the site 
+of her abdominal incision. Additionally, she has developed some 
+bulging there. She went to a local ED where they gave her vanc / 
+ceftriaxone and her WBC was 16. She proceeded to go home on 
+Bactrim and then developed a rash. She is here for direct 
+admission for management of potentially infeceted seroma. 
+Bedside aspiration attempted on arrival by Dr. ___ 10 cc 
+murky fluid withdrawn and sent for culture.
+
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+Physical exam at admission:
+Afeb. VSS
+NAD
+Nonlabored resps
+General body drug rash
+100 cc seroma palpable at the lower transverse abdominal 
+incision
+line with some surrounding erythema representing possible
+cellulitis.
+
+ 
+Pertinent Results:
+___ 10:43PM   WBC-14.3* RBC-3.28* HGB-10.4* HCT-30.1* 
+MCV-92 MCH-31.7 MCHC-34.6 RDW-12.1 RDWSD-40.8
+___ 10:43PM   NEUTS-83.4* LYMPHS-8.6* MONOS-4.5* EOS-3.1 
+BASOS-0.1 IM ___ AbsNeut-11.91* AbsLymp-1.23 AbsMono-0.65 
+AbsEos-0.44 AbsBaso-0.02
+___ 10:43PM   PLT COUNT-293
+.
+Radiology Report US ABD LIMIT, SINGLE ORGAN Study Date of 
+___ 4:22 ___ 
+IMPRESSION:  
+5.2 x 1.0 x 8.4 cm anterior abdominal wall collection. 
+.
+Radiology Report US INTERVENTIONAL PROCEDURE Study Date of 
+___ 5:14 ___ 
+IMPRESSION:  
+Successful US-guided placement of ___ pigtail catheter into 
+the anterior abdominal wall collection. 
+.
+MICROBIOLOGY:
+
+___ 9:56 pm SWAB      Source: abdominal wound. 
+
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    MODERATE GROWTH. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+   ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+
+ 
+Brief Hospital Course:
+The patient was admitted to the ___ plastic surgery service on 
+___ for cellulitis/seroma after undergoing an abdominoplasty 
+10 days prior.  
+. 
+Neuro: The patient's pain was well controlled on tylenol and 
+motrin during her hospitalization.   
+. 
+CV: The patient was stable from a cardiovascular standpoint; 
+vital signs were routinely monitored. 
+. 
+Pulmonary: The patient was stable from a pulmonary standpoint; 
+vital signs were routinely monitored. 
+. 
+GI/GU: ___ was initially made NPO for her ___ drainage. 
+Thereafter, she was allowed to have a regular diet. She had no 
+foley catheter during her hospitalization. 
+. 
+ID: ___ was started on IV vancomycin upon admission and GPCs 
+were visualized on gram stain for her wound culture. She was 
+given a Medrol taper for a presumed drug reaction from prior 
+antibiotics (likely Bactrim) she had received. She responded 
+well to the steroids. The patient's temperature was closely 
+watched for signs of infection. ___ would have an ___ ___ 
+drain placed on ___ under ultrasound guidance for drainage 
+of her seroma. Upon placement, 50cc of turbid fluid were 
+evacuated. Final culture data revealed pansensitive MSSA and 
+patient was discharged home on dicloxacillin x 14 days.
+. 
+Prophylaxis: The patient received pneumoboots during her 
+hospital stay, and was encouraged to get up and ambulate as 
+early as possible.  
+. 
+At the time of discharge on HD#4, the patient was doing well, 
+afebrile with stable vital signs, tolerating a regular diet, 
+ambulating, voiding without assistance, and pain was well 
+controlled. 
+
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q6H:PRN pain / fever 
+2. Ibuprofen 600 mg PO Q8H:PRN pain / fever 
+3. DiCLOXacillin 500 mg PO Q6H Duration: 14 Days 
+RX *dicloxacillin 500 mg 1 capsule(s) by mouth every six (6) 
+hours Disp #*56 Capsule Refills:*0
+4. Methylprednisolone 4 mg PO DAILY Duration: 1 Day 
+4mg once ___ BID ___ 
+Tapered dose - DOWN 
+RX *methylprednisolone 4 mg As directed tablet(s) by mouth as 
+directed Disp #*2 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1) Abdominal Seroma/abscess/cellulitis
+2) drug reaction: Bactrim
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___ Drain Care:
+-Please look at the site every day for signs of infection
+(increased redness or pain, swelling, odor, yellow or bloody
+discharge, warm to touch, fever).
+-Note color, consistency, and amount of fluid ___ the drain. Call
+the doctor, ___, or ___ nurse if the amount
+increases significantly or changes ___ character.
+-Be sure to empty the drain bag or bulb frequently. Record the
+output daily. You should have a nurse doing this for you while 
+___
+the hospital.
+-You may shower; wash the area gently with warm, soapy water.
+-Keep the insertion site clean and dry otherwise.
+-Avoid swimming, baths, hot tubs; do not submerge yourself ___
+water.
+-Change the dressing daily. Cleanse skin with ___ strength
+hydrogen peroxide. Rinse with saline moistened q-tip. Apply a
+DSD. 
+-Catheter Flushing: Flush and aspirate.
+ Flush with 10cc sterile saline and spirate back.
+ Do not continue to flush if the volume out is significantly 
+less
+than the volume ___.
+If there is pain with flushing this may mean that the abscess
+cavity has collapsed. Notify the Radiologist: ___ p.
+___ out-patient call ___.
+-Catheter Security: Every shift check the patency of tube and
+that the tube and drainage bag are secured to the patient.
+For questions regarding care of catheter call: ___
+___ out-patient call ___. 
+Troubleshooting: If catheter stops draining suddenly:
+1) Check that the stopcock is open.
+2) Remove dressing carefully and inspect to make sure that there
+is no kink ___ the catheter.
+3) inspect to be sure that there is no debris blocking the
+catheter. If there is, then firmly flush 5 cc of sterile saline
+into the catheter. 
+- If you develop worsening abdominal pain, fevers or chills
+please call your surgeon or Interventional Radiology at ___ at
+___ and page ___.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,261 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, altered mental status
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+As per HPI in H&P by Dr. ___ ___: 
+"Ms. ___ is a ___ female with a PMH of
+Alzheimer's dementia, HTN, and other issues who was brought to
+the ___ by EMS with abdominal pain and reported altered mental
+status.  At the time of this evaluation, the patient was unable
+to use the phone ___ interpreter due to confusion, and the
+patient's son and daughter could not be reached by telephone. 
+The only information available at this time is what is in the ___
+dash, the ___ RN note, and the EMS run report.  
+
+The patient was brought in to the ___ by EMS at the encouragement
+of her PCP for concern for failing to thrive at home.  Her
+daughter also reported her complaining of increasing abdominal
+pain at home.  She is incontinent of urine at baseline.  The
+patient has been treated for multiple UTIs, most recently on
+___.  ___ RN note, her PCP stopped all medications 
+apart
+from Trazodone and Quetiapine.  She had previously been on
+Donepezil and Namenda, but these seemed to be keeping her up at
+night (she has a behavior of chanting in ___ that she is
+doing here).  
+
+Also per ___ RN note, the patient was hospitalized at an OSH (not
+within the BI linked EMR network) on ___, where she was
+told her troponins were high and she was restarted on BP meds
+that had previously been stopped.  Apparently on follow-up, 
+these
+were stopped, and she is only on trazodone and quetiapine
+(looking at very old notes in OMR, she had been on Lisinopril 
+and
+Propranolol in the remote past).  In the ___, the patient's
+daughter noted that she is chanting "die, die, I wan't to die." 
+Eventually, straight-cath urine sample was obtained.  
+
+In the ___, initial VS were 99.1 61 144/80 16 93% RA.  The
+patient's mental status was noted as waxing and waning between
+chanting the above and being calm and cooperative.  Labs were
+notable for FSBG 161, WBC 6.0 w/ normal diff, Hgb 12.2, plts 
+122,
+LFTs WNL with exception of lipase 62, albumin 3.4, BUN/Cr ___
+with normal lytes, UA with 0 epis, 7 WBC, moderate bacteria, and
+hyaline casts.  EKG showed L axis deviation but was without
+evidence of ischemia.  UCx was collected, the patient received
+Olanzapine 5 mg PO disintegrating and Ceftriaxone 1g and was
+admitted.  Vitals prior to transfer were 98.3 71 119/82 16 97%
+RA. 
+
+On arrival to the floor, the patient was chanting continuously
+and appeared in mild distress; however, she engaged easily and
+appeared more comfortable with reassurance.  
+
+ROS: A 10-point review of systems was not able to be performed
+due to the patient's mental status."
+ 
+Past Medical History:
+-Alzheimer's dementia (mental status baseline unknown)
+-HTN
+-Vulvar dysplasia s/p excision in ___
+ 
+Social History:
+___
+Family History:
+Per prior notes, she noted no family history of cancer
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS: 97.7 Axillary 137 / 70 73 18 95 RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate.  Upper
+and lower dentures.  
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  There is a well-healed midline abdominal
+incision.
+GU: No suprapubic fullness or tenderness to palpation.  Vulva
+with some excoriation and atrophy consistent with known history
+of lichen planus 
+MSK: Neck supple, moves all extremities, unable to assess
+strength.  Of note, her toenails are neat and trimmed, and
+painted to match her fingernails.  
+SKIN: No rashes or ulcerations noted
+NEURO: Unable to assess orientation, but face symmetric, gaze
+conjugate with EOMI, moves all limbs 
+PSYCH: Unable to assess orientation.  Engaged easily and became
+calm during exam.
+
+DISCHARGE EXAM:
+VS: Afebrile and hemodynamically stable; refer to eFlowsheet
+GENERAL: Alert, NAD, rocking back and forth and chanting in 
+___, daughter at the bedside
+EYES: Anicteric, PERRL
+ENT: MMM, OP clear
+CV: NR/RR, no audible murmur over patient's chanting
+RESP: CTAB although limited by patient participation
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present. 
+GU: No suprapubic fullness or tenderness to palpation.  Vulva
+with some excoriation and atrophy. No discharge.
+MSK: Neck supple, moves all extremities, no ___ edema
+SKIN: No rashes or ulcerations noted
+NEURO: Unable to assess orientation, but face symmetric, gaze
+conjugate with EOMI, moves all limbs 
+PSYCH: Unable to assess.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 08:59PM BLOOD WBC-6.0 RBC-4.17 Hgb-12.2 Hct-37.4 MCV-90 
+MCH-29.3 MCHC-32.6 RDW-12.7 RDWSD-42.0 Plt ___
+___ 08:59PM BLOOD Glucose-137* UreaN-14 Creat-1.0 Na-142 
+K-4.4 Cl-106 HCO3-26 AnGap-10
+___ 07:28AM BLOOD Calcium-8.8 Phos-3.2 Mg-2.1
+___ 08:59PM BLOOD ALT-8 AST-16 AlkPhos-58 TotBili-0.2
+___ 08:59PM BLOOD Lipase-62*
+___ 08:59PM BLOOD Albumin-3.4*
+
+IMAGING:
+CXR PA/Lat (___):
+IMPRESSION:  
+No previous images.  There is substantial elevation of the right 
+
+hemidiaphragmatic contour with splenic flexure just beneath it, 
+consistent 
+with colonic interposition.  Mild atelectatic changes are seen 
+at the right base. Cardiac silhouette is within normal limits 
+and there is no vascular congestion or acute focal pneumonia. 
+
+AXR (___):
+IMPRESSION: 
+1. Nonobstructive bowel gas pattern. 
+2. Mild stool burden, scattered throughout the colon. 
+
+MICRO:
+UCx ___:
+   URINE CULTURE (Final ___: 
+      GRAM POSITIVE BACTERIA.    10,000-100,000 CFU/mL. 
+         Alpha hemolytic colonies consistent with alpha 
+streptococcus or
+         Lactobacillus sp. 
+BCx ___: 
+   Blood Culture, Routine (Final ___:    NO GROWTH.
+
+DISCHARGE LABS:
+___ 07:28AM BLOOD WBC-5.5 RBC-3.97 Hgb-11.7 Hct-35.9 MCV-90 
+MCH-29.5 MCHC-32.6 RDW-12.5 RDWSD-41.6 Plt ___
+___ 07:28AM BLOOD Glucose-85 UreaN-12 Creat-0.9 Na-143 
+K-4.1 Cl-105 HCO3-29 AnGap-9*
+___ 07:28AM BLOOD Lipase-48
+ 
+Brief Hospital Course:
+SUMMARY/ASSESSMENT:  
+Ms. ___ is a ___ female with a PMH of Alzheimer's 
+dementia, HTN, and other issues who was brought to the ___ by EMS 
+with abdominal pain and reported altered mental status. 
+
+ACUTE/ACTIVE PROBLEMS:
+
+# Alzheimer's dementia
+Per her daughters, the patient was at her baseline mental 
+status. At baseline she is only sometimes oriented to self and 
+does not consistently recognize family members. Her daughter 
+felt that the trazodone she has been on has been making her more 
+agitated at home, so we elected to stop this. In order to 
+reinforce sleep-wake cycle, ramelteon at night was started. Her 
+home  quetiapine was continued, unchanged. 
+
+# Reported abdominal pain
+# History of multiple UTIs
+Her daughter reported that earlier she was clutching her 
+abdomen, like she has done when she has urinary tract infections 
+in the past. She brought her in because she was concerned she 
+had a urinary tract infection. Her UA was not consistent with 
+UTI and urine culture grew alpha hemolytic GPCs consistent with 
+contaminant. On exam, she had no abdominal tenderness. AXR 
+showed non-obstructive bowel gas pattern and moderate stool 
+burden. She did have some vaginal atrophy on exam; her daughter 
+seemed to think that her vaginal area was bothering her. She had 
+been treated with fluconazole x3 doses 72 hours apart within the 
+last ___ weeks. She had no vaginal discharge on exam. A trial of 
+topical estrogen cream was prescribed. 
+
+>30 minutes spent on patient's complex discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. TraZODone 50 mg PO TID 
+2. QUEtiapine Fumarate 50 mg PO TID 
+3. Polyethylene Glycol 17 g PO DAILY 
+4. Senna 8.6 mg PO BID:PRN Constipation - First Line 
+
+ 
+Discharge Medications:
+1.  Estrace (estradiol) 0.01 % (0.1 mg/gram) vaginal DAILY 
+RX *estradiol 0.01 % Insert ___ g daily intravaginally ___ weeks 
+Disp #*1 Package Refills:*0 
+2.  Ramelteon 8 mg PO QHS 
+RX *ramelteon [Rozerem] 8 mg 1 tablet(s) by mouth at bedtime 
+Disp #*30 Tablet Refills:*0 
+3.  Polyethylene Glycol 17 g PO DAILY  
+4.  QUEtiapine Fumarate 50 mg PO TID 
+RX *quetiapine 50 mg 1 tablet(s) by mouth three times a day Disp 
+#*21 Tablet Refills:*0 
+5.  Senna 8.6 mg PO BID:PRN Constipation - First Line  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Vaginal atrophy 
+Alzheimer's dementia with behavioral disturbance 
+Insomnia 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear ___ were admitted to the hospital for vaginal discomfort. It 
+looks like ___ have vaginal atrophy which can cause breakdown of 
+the vaginal tissue. ___ were prescribed estrogen cream for this. 
+Based on the preliminary urine studies, it does not look like 
+___ have a urinary tract infection. ___ were also prescribed 
+ramelteon to help ___ sleep (in place of the trazodone, which 
+was not working). ___ were also prescribed citalopram since this 
+had a good effect on your mood in the past. ___ should follow up 
+with your primary care doctor as detailed below.
+Take care,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

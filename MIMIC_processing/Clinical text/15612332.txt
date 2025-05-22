@@ -1,0 +1,241 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+melena
+ 
+Major Surgical or Invasive Procedure:
+EGD - ___
+
+ 
+History of Present Illness:
+___ with HTN, HLD presenting with melena from PCP after recent
+EGD. He underwent an EGD on ___ by Dr. ___, with multiple
+4-12 mm polypectomies removed via snare. He reports that the day
+after, he developed black stools, which persisted until
+yesterday, and have now improved to brown stools. He denies any
+nausea, vomiting, lightheadedness, chest pain, shortness of
+breath. He currently is asymptomatic. He was previously taking a
+baby aspirin, which he held prior to his EGD, and then restarted
+the night after his EGD (patient is unsure of whether he was
+instructed to do this).
+
+In the ED, initial VS were 97.6 109 20 95% RA.
+He was found to have light brown guaiac positive stool, no gross
+blood.
+He received a 1L NS bolus and IV pantoprazole.
+GI recommended admission given drop in H/H and tachycardia. 
+Upon arrival to the floor, the patient tells the story as
+follows.
+
+He reports that he is not sure he needed to be in the hospital
+and was sent here under "false pretenses." His CBC was checked 
+at
+___ and read to have a WBC of 60,000, which on arrival at 
+___,
+was actually found to be 6,000.  Immediately after his 
+endoscopy,
+he reports that he wasn't feeling that great but wasn't feeling
+that good. He reports the day after, he noticed black and tarry
+stools which he had never had before. He had four days of tarry
+stools, however, over the last two days, his stools have been
+improving and subsequently became normal. He reports one
+subjective fever, but he did not measure it. He otherwise denies
+lightheadedness, shortness of breath, chest pain, abnormal 
+weight
+loss, nausea, vomiting, bruising or new rash. He did take his
+aspirin following the EGD and also took one dose of naproxen for
+his chronic back pain.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+- HTN
+- HLD
+- Sessile polyps in fundus s/p polypectomy
+- GERD
+- Chronic low back pain with sciatica
+- Squamous cell carcinoma of the eyelid
+ 
+Social History:
+___
+Family History:
++ unclear history of low platelets or anemia in his mother
+ 
+Physical ___:
+ADMISSION
+VITALS: 98.7 PO 122 / 66 94 18 95% RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+Mucous membranes moist 
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally
+GI: Abdomen soft, non-distended, non-tender to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE
+VS: ___ 0818 Temp: 98.4 PO BP: 137/69 HR: 97 RR: 18 O2 sat:
+94% O2 delivery: RA 
+Gen - sitting up in bed, comfortable
+Eyes - EOMI
+ENT - OP clear, dry MM
+Heart - RRR no mrg
+Lungs - CTA bilaterally
+Abd - soft nontender, normal bowel sounds 
+Ext - no edema
+Skin - no rashes
+Vasc - 2+ DP/radial pulses
+Neuro - AOx3, moving all extremities
+Psych - appropriate
+ 
+Pertinent Results:
+ADMISSION
+___ 06:55PM BLOOD WBC-6.3 RBC-3.30* Hgb-9.4* Hct-28.3* 
+MCV-86 MCH-28.5 MCHC-33.2 RDW-14.7 RDWSD-45.1 Plt Ct-63*
+___ 06:55PM BLOOD ___ PTT-27.1 ___
+___ 06:55PM BLOOD Glucose-99 UreaN-17 Creat-0.9 Na-139 
+K-4.0 Cl-101 HCO3-23 AnGap-15
+___ 07:40AM BLOOD Calcium-9.1 Phos-2.9 Mg-1.8
+
+DISCHARGE
+___ 07:40AM BLOOD WBC-4.7 RBC-3.25* Hgb-9.2* Hct-27.9* 
+MCV-86 MCH-28.3 MCHC-33.0 RDW-14.9 RDWSD-45.5 Plt Ct-60*
+___ 07:40AM BLOOD Glucose-111* UreaN-13 Creat-0.8 Na-141 
+K-3.8 Cl-101 HCO3-27 AnGap-13
+
+___ - EGD - please see report in OMR
+ 
+Brief Hospital Course:
+This is a ___ year old male with past medical history of 
+hypertension, hyperlipidemia, recent EGD done for GERD workup 
+showing "Serrated Z-line in the distal esophagus" that was 
+biopsied and "Multiple 4-12 mm sessile polyps in the body and 
+fundus of the stomach" that were removed by snare, who was 
+admitted ___ with acute blood loss anemia and melenotic 
+stools, subsequent repeat EGD showing visible vessel at one of 
+the polypectomy sites, which was clipped, able to be discharged 
+home.
+
+# Acute blood loss anemia secondary to 
+# Upper GI bleed, suspected
+Patient presented in setting of recent upper endoscopy with 
+biopsies at distal
+esophagus and snare removal of gastric polyps, reporting melena. 
+ Hgb was 9 from prior baseline of ___.  He reported recent use 
+of NSAIDs following his initial endoscopy.  Patient was seen by 
+GI consult service and underwent repeat endoscopy that showed 
+visible vessel at one of the polypectomy sites, which was 
+clipped.  Patient subsequently stable.  GI recommended 8 weeks 
+of BID PPI before returning to his prior daily PPI frequency.  
+Counseled re: cessation of NSAIDs.  Held primary prevention ASA. 
+ Discharge Hgb 9.2
+
+# Hyperlipidemia
+Continued statin.  Held primary prevention ASA as above--can 
+consider addressing at ___.  
+
+# Hypertension
+Continued amlodipine, lisinopril 
+
+# Thrombocytopenia 
+This admission patient noted to have platelet count ~60k from 
+prior values of 113-128k; suspect acute decrease may have 
+related to consumption in setting of GI bleed; stable during 
+this admission; could consider workup of chronic 
+thrombocytopenia if not already done; discharge platelets = 60k; 
+
+
+Transitional issues
+- Discharged home
+- Recommended for BID PPI x 8 weeks before returning to his 
+prior daily dosing of this PPI 
+- Counseled patient on avoiding all NSAIDs
+- Held primary prevention ASA at discharge until PCP ___ 
+would consider risk/benefit re: restarting 
+- Discharge Hgb = 9.2; consider recheck at ___ 
+
+> 30 minutes spent on this discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Naproxen 500 mg PO BID 
+2. amLODIPine 5 mg PO DAILY 
+3. Lisinopril 40 mg PO DAILY 
+4. Aspirin EC 81 mg PO DAILY 
+5. Simvastatin 40 mg PO QPM 
+6. Multivitamins 1 TAB PO DAILY 
+7. Pantoprazole 40 mg PO Q24H 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth every twelve (12) 
+hours Disp #*28 Tablet Refills:*0 
+2.  amLODIPine 5 mg PO DAILY  
+3.  Lisinopril 40 mg PO DAILY  
+4.  Multivitamins 1 TAB PO DAILY  
+5.  Simvastatin 40 mg PO QPM  
+6. HELD- Aspirin EC 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin EC until you see your primary care doctor
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Acute blood loss anemia secondary to 
+# Upper GI bleed, suspected
+# Hyperlipidemia
+# Hypertension
+# Thrombocytopenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___: 
+
+It was a pleasure caring for you at ___.  You were admitted 
+with bleeding from you GI tract.  You were seen by GI doctors 
+and ___ endoscopy.  It showed a blood vessel at the 
+site of your recent polyp removal--the GI doctors believe that 
+this was likely the source of your bleeding.  They placed a clip 
+to help reduce the risk of recurrent bleeding.  You are now 
+ready for discharge home
+
+It is important for you to avoid all NSAIDs for the next 8 
+weeks.  Please discuss this with your primary care physician.  
+
+It will also be important for you to take your protonix 
+(pantoprazole) twice a day every day for the next 8 weeks before 
+you return to taking it at your normal daily (once a day) 
+dosing.  This will help your stomach heal and reduce the risk of 
+additional bleeding. 
+ 
+Followup Instructions:
+___

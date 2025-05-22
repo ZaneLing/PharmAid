@@ -1,0 +1,271 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Complications s/p cholecystectomy for choledocholithiasis, 
+transaminitis
+ 
+Major Surgical or Invasive Procedure:
+No invasive procedures this admission.
+
+ 
+History of Present Illness:
+___ otherwise health who is currently admitted to the medical
+service with a concern for right posterior bile duct and right
+hepatic artery injury. He underwent a lap converted to open
+partial cholecystectomy on ___ at ___
+after undergoing a preoperative ERCP for cholangitis. His
+operative report notes that his ductal and portal anatomy was
+unclear. A bleeding vessel was encountered and ligated however 
+it
+was unclear if this was the right hepatic artery. He was noted
+post-op to have an elevation in his LFTs (TB 1.0, AST 145, AP 
+239
+ALT 393) with a MRCP which demonstrated a dilated right 
+posterior
+hepatic duct. He therefore underwent repeat ERCP on ___ with
+placement of a ___ plastic stent in to the CBD. There was
+reportedly no evidence of bile leak or filling defects. He
+presented to the ED yesterday evening with constant worsening 
+RUQ
+pain, after being told to come here for a PTBD and was admitted
+to the medical service. Labs in the ED were notable for AST/ALT
+427/213, AP 225, tbili 0.7, lipase 99. He currently has no
+complaints and is without significant abdominal pain. He does
+have a surgical drain in place which is draining ___ cc of bile
+per day.
+ 
+Past Medical History:
+- gallstones
+- choledocolithiasis
+ 
+Social History:
+___
+Family History:
+- no family history of heart disease, diabetes, liver disease, 
+positive family history of gallstone disease
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals-  97.9 132/80 18 96RA
+GENERAL: AOx3, NAD
+HEENT: Normocephalic, atraumatic.  Pupils equal, round, and 
+reactive bilaterally, extraocular muscles intact.  No 
+conjunctival pallor or injection, sclera anicteric and without 
+injection. Moist mucous membranes, good dentition.  Oropharynx 
+is clear.
+CARDIAC: Regular rhythm, normal rate, no murmurs/rubs/gallops.  
+No JVD.
+LUNGS: Clear to auscultation bilaterally w/appropriate breath 
+sounds appreciated in all fields.  No wheezes, rhonchi or rales. 
+Resonant to percussion.  
+ABDOMEN:  Surgical scar well healing without erythema or pus.  
+Biliary drain with serosanguinous fluid.  Normal bowels sounds, 
+non distended, mild tenderness in RUQ without rebound or 
+guarding. EXTREMITIES: No clubbing, cyanosis, or edema
+NEUROLOGIC: CNs grossly intact.  Moving all four extremities. 
+A&Ox3.
+
+DISCHARGE PHYSICAL EXAM
+========================
+GEN: A&Ox3, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, No M/G/R
+PULM: Clear to auscultation b/l, No W/R/R
+ABD: Soft, nondistended, nontender, no rebound or guarding,
+incisions c/d/i, surgical drain in RUQ w/ bilious drainage
+Ext: No ___ edema, ___ warm and well perfused
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 04:55PM BLOOD WBC-8.5 RBC-3.97* Hgb-12.7* Hct-37.8* 
+MCV-95 MCH-32.0 MCHC-33.6 RDW-12.1 RDWSD-42.4 Plt ___
+___ 04:55PM BLOOD Neuts-61.3 ___ Monos-8.5 Eos-2.5 
+Baso-1.2* Im ___ AbsNeut-5.19 AbsLymp-2.18 AbsMono-0.72 
+AbsEos-0.21 AbsBaso-0.10*
+___ 04:55PM BLOOD ___ PTT-30.5 ___
+___ 04:55PM BLOOD Glucose-102* UreaN-10 Creat-0.6 Na-140 
+K-4.9 Cl-104 HCO3-22 AnGap-19
+___ 04:55PM BLOOD ALT-427* AST-213* AlkPhos-225* 
+TotBili-0.7
+___ 04:55PM BLOOD Albumin-4.2
+___ 04:59PM BLOOD Lactate-1.2
+___ 07:20AM BLOOD WBC-6.7 RBC-4.10* Hgb-12.9* Hct-39.7* 
+MCV-97 MCH-31.5 MCHC-32.5 RDW-12.3 RDWSD-43.4 Plt ___
+___ 04:55PM BLOOD WBC-8.5 RBC-3.97* Hgb-12.7* Hct-37.8* 
+MCV-95 MCH-32.0 MCHC-33.6 RDW-12.1 RDWSD-42.4 Plt ___
+___ 07:20AM BLOOD Glucose-88 UreaN-8 Creat-0.7 Na-140 K-4.6 
+Cl-103 HCO3-24 AnGap-18
+___ 04:55PM BLOOD Glucose-102* UreaN-10 Creat-0.6 Na-140 
+K-4.9 Cl-104 HCO3-22 AnGap-19
+___ 07:30AM BLOOD ALT-447* AST-195* AlkPhos-209* 
+TotBili-0.7
+___ 07:20AM BLOOD ALT-433* AST-182* LD(LDH)-198 
+AlkPhos-207* TotBili-0.7
+___ 04:55PM BLOOD ALT-427* AST-213* AlkPhos-225* 
+TotBili-0.7
+
+IMAGING/STUDIES
+============
+___ CTA Abdomen
+1. Common hepatic arising from the SMA.  Surgical clip abutting 
+the right
+hepatic artery at the hilum, vessel is mildly irregular, 1 of 
+its branches is attenuated, consistent with vessel injury.
+2. Status post partial cholecystectomy, with a portion of the 
+gall bladder
+neck remaining.  2.5 x 2.2 cm simple fluid collection the 
+gallbladder fossa. 
+Right lateral approach drain terminating in the porta hepatis, 
+in close
+proximity but not passing through the fluid collection the 
+gallbladder fossa.
+3. Mild intrahepatic biliary ductal dilatation in the right 
+lobe. Stent within the extrahepatic duct, and expected 
+pneumobilia indicating stent patency.
+
+ 
+Brief Hospital Course:
+___ who underwent a lap converted to open partial 
+cholecystectomy on ___ which based on the op note likely 
+resulted in a right hepatic arterial injury. Post op he was 
+found to have bilious drainage from his JP as well as abdominal 
+pain and elevated LFTs with an MRCP concerning for a right 
+posterior hepatic duct injury consistent with a St___ B/C 
+injury. He underwent ERCP ___ with plastic stenting of the 
+CBB but no reported filling defects on cholangiogram. This 
+patient was presented at the multidisciplinary conference. Per 
+their recommendations he underwent a CTA which showed CHA 
+arising from the SMA, a surgical clip abutting the RHA with an 
+attenuated branch possibly indicating a vessel injury, 
+pneumobilia consistent with his recent ERCP with CBC plastic 
+stenting, and mild intrahepatic biliary dilation in the right 
+lobe possibly indicating ductal injury of the right hepatic 
+ductal system. He has a drain in place from the original surgery 
+which has been putting out small amounts of bilious output. He 
+had a persistent elevation of his LFTs which was stable with no 
+elevation of the total bilirubin (3 sets with approximately 400 
+ALT, 200 AST, 200 AP, and 0.7 Tb on all three sets). He was 
+continued on ciprofloxacin and flagyl which was started 
+post-operatively per report. This was discontinued on day of 
+discharge for an estimated 12 day course. He was afebrile with a 
+normal white blood cell count. Given his stability, improving 
+pain, and tolerance of a regular diet it was felt safe to 
+discharge the patient with the caveat that he return to care for 
+worsening pain, fevers, jaundice, or other new concerning 
+symptom. He was instructed to follow up with Dr. ___ ___ days 
+after his drain output falls to zero or in ___ weeks, whichever 
+comes sooner. He is in agreement with the plan. He was given 
+instructions on caring for the drain and felt comfortable doing 
+so independently at home. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetroNIDAZOLE 250 mg PO TID 
+2. Ciprofloxacin HCl 500 mg PO Q12H 
+3. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+transaminitis, possible right hepatic artery branch and right 
+posterior hepatic duct injuries
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+General Discharge Instructions:
+ Please resume all regular home medications , unless 
+specifically advised not to take a particular medication.  Also, 
+please take any new medications as prescribed.
+ Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids.  Avoid lifting 
+weights greater than ___ lbs until you follow-up with your 
+surgeon, who will instruct you further regarding activity 
+restrictions.
+ Avoid driving or operating heavy machinery while taking pain 
+medications.
+ Please follow-up with your surgeon and Primary Care Provider 
+(PCP) as advised.
+ Incision Care:
+ *Please call your doctor or nurse practitioner if you have 
+increased pain, swelling, redness, or drainage from the incision 
+site.
+ *Avoid swimming and baths until your follow-up appointment.
+ *You may shower, and wash surgical incisions with a mild soap 
+and warm water.  Gently pat the area dry.
+ *If you have staples, they will be removed at your follow-up 
+appointment.
+ *If you have steri-strips, they will fall off on their own.  
+Please remove any remaining strips ___ days after surgery.
+ JP Drain Care:
+ *Please look at the site every day for signs of infection 
+(increased redness or pain, swelling, odor, yellow or bloody 
+discharge, warm to touch, fever).
+ *Maintain suction of the bulb.
+ *Note color, consistency, and amount of fluid in the drain.  
+Call the doctor, ___, or ___ nurse if the amount 
+increases significantly or changes in character.
+ *Be sure to empty the drain frequently.  Record the output, if 
+instructed to do so.
+ *You may shower; wash the area gently with warm, soapy water.
+ *Keep the insertion site clean and dry otherwise.
+ *Avoid swimming, baths, hot tubs; do not submerge yourself in 
+water.
+ *Make sure to keep the drain attached securely to your body to 
+prevent pulling or dislocation.
+ 
+
+ JP Drain Care: To bulb suction. Cleanse insertion site with 
+mild soap and water or sterile saline, pat dry, and place a 
+drain sponge daily and PRN. Monitor and record quality and 
+quantity of output. Empty bulb frequently. Ensure that the JP is 
+secured to the patient. Monitor for s/s infection or 
+dislocation.
+ .
+ General Drain Care:
+ *Please look at the site every day for signs of infection 
+(increased redness or pain, swelling, odor, yellow or bloody 
+discharge, warm to touch, fever).
+ *If the drain is connected to a collection container, please 
+note color, consistency, and amount of fluid in the drain.  Call 
+the doctor, ___, or ___ nurse if the amount 
+increases significantly or changes in character. Be sure to 
+empty the drain frequently.  Record the output, if instructed to 
+do so.
+ *Wash the area gently with warm, soapy water or ___ strength 
+hydrogen peroxide followed by saline rinse, pat dry, and place a 
+drain sponge. Change daily and as needed.
+ *Keep the insertion site clean and dry otherwise.
+ *Avoid swimming, baths, hot tubs; do not submerge yourself in 
+water.
+ *Make sure to keep the drain attached securely to your body to 
+prevent pulling or dislocation.
+ 
+ 
+Followup Instructions:
+___

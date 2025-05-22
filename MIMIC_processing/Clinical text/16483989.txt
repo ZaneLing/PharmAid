@@ -1,0 +1,286 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+___: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+asymptomatic bradycardia
+
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is an ___ lady with atrial fibrillation (on
+dabigatran and carvedilol), HTN, HFpEF, and history of breast
+cancer in remission, who was sent to the emergency room by her
+PCP in the setting of asymptomatic bradycardia that was
+discovered incidentally during her routine annual visit. She
+denied any symptoms of chest pain, palpitations, 
+lightheadedness,
+dizziness, presyncope, syncope, or falls, but given that her PCP
+noted HRs as low as 20, she was sent in for urgent cardiac
+evaluation. 
+
+In the ED, initial VS were: T97.9, HR 50, BP 147/72, RR 16, 97%
+RA. Exam notable for mild ankle swelling bilaterally but
+otherwise benign. EKG notable for atrial fibrillation with
+ventricular rate 53 bpm, no ischemic ST/T-wave changes. TSH was
+drawn but pending. No new imaging was obtained. Cardiology was
+consulted who recommended holding home carvedilol and admitting
+to the ___ with consideration of formal EP consult for
+PPM evaluation if tele demonstrates evidence of recurrent
+tachy-brady syndrome or have symptomatic bradycardia. Patient
+received her home dabigatran prior to transfer. Transfer VS were
+stable with BP 147/51 and HR 47. 
+
+On arrival to the floor, patient recounts the above history,
+reaffirming that she has been entirely asymptomatic. She 
+believes
+that she has not taken extra doses of her home carvedilol. 
+
+ 
+Past Medical History:
+HTN
+Hyperlipidemia
+Hypothyroidism 
+CHF
+Atrial fibrillation  
+Right Breast CA s/p Mastectomy in ___ 
+Tonsillectomy
+Appendectomy 
+Arthritis 
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Admission Exam:
+================
+
+VS: T98.6 BP 145/59 HR 60 RR 18 95% on RA.  
+
+GENERAL: pleasant older woman resting in bed comfortably, laying
+flat, in NAD. 
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, JVD to mid-neck laying flat in bed. 
+HEART: irregularly irregular, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+
+Discharge Exam:
+===================
+
+___ 0758 Temp: 98.3 PO BP: 148/72 HR: 61 RR: 18 O2 sat: 95%
+O2 delivery: Ra 
+
+GENERAL: pleasant older woman resting in bed comfortably, laying
+flat, in NAD. 
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, NO JVP at 90 degrees 
+HEART: irregularly irregular, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==================
+
+___ 07:20AM   GLUCOSE-122* UREA N-54* CREAT-0.9 SODIUM-145 
+POTASSIUM-4.5 CHLORIDE-109* TOTAL CO2-21* ANION GAP-15
+___ 07:20AM   estGFR-Using this
+___ 07:20AM   CALCIUM-9.6 PHOSPHATE-3.8 MAGNESIUM-2.3
+___ 07:20AM   WBC-6.3 RBC-3.24* HGB-10.5* HCT-32.6* 
+MCV-101* MCH-32.4* MCHC-32.2 RDW-16.5* RDWSD-60.9*
+___ 07:20AM   PLT COUNT-140*
+___ 07:20AM   ___ PTT-84.7* ___
+___ 11:20PM   TSH-1.1
+
+IMAGING:
+===================
+NONE
+
+MICROBIOLOGY
+===================
+NONE
+DISCHARGE LABS
+====================
+
+___ 07:20AM BLOOD WBC-6.3 RBC-3.24* Hgb-10.5* Hct-32.6* 
+MCV-101* MCH-32.4* MCHC-32.2 RDW-16.5* RDWSD-60.9* Plt ___
+___ 07:20AM BLOOD Plt ___
+___ 07:20AM BLOOD Glucose-122* UreaN-54* Creat-0.9 Na-145 
+K-4.5 Cl-109* HCO3-21* AnGap-15
+___ 11:20PM BLOOD TSH-1.1
+ 
+Brief Hospital Course:
+Ms. ___ is an ___ lady with atrial fibrillation (on 
+dabigatran and carvedilol), HTN, CHF, and history of breast 
+cancer in remission, who was sent to the emergency room by her 
+PCP in the setting of asymptomatic bradycardia that was 
+discovered incidentally during her routine annual visit. ECG 
+with atrial fibrillation with slow ventricular response. 
+
+ACUTE ISSUES:
+===============
+
+# Atrial fibrillation with slow ventricular response: 
+Asymptomatic with normal BP. Discovered at routine PCP ___. 
+___ represent worsening underlying nodal disease in setting of 
+beta-blockade with carvedilol 25mg BID. She was monitored 
+closely and her home carvedilol dosage was decreased. She had no 
+further episodes of significant bradycardia while inpatient. She 
+was ambulating well prior to discharge and she was sent home 
+with ___ of ___ monitor for further evaluation as 
+outpatient. She was also discharged on home dabigatran.
+
+CHRONIC ISSUES:
+===============
+# Heart failure with preserved ejection fraction: The patient 
+presented euvolemic. She was continued on home Lasix 40mg PO 
+daily.
+
+# HTN: The patient's lisinopril was held initially, but dosage 
+was ultimately increased to 30mg PO daily at time of discharge 
+as patient's carvedilol dosage was decreased.
+
+# HLD: Continued on home simvastatin
+
+# Hypothyroid: TSH 1.1, thus likely not contributing to low HR. 
+She was continued on home levothyroxine 50 mcg daily
+
+# gout: The patient was continued on home allopurinol ___ 
+daily
+
+TRANSITIONAL ISSUES:
+======================
+NEW MEDICATIONS: none
+
+CHANGED MEDICATIONS:
+-Carvedilol decreased from 25mg PO BID to 12.5mg PO BID
+-Lisinopril increased from 20mg PO daily to 30mg PO daily
+
+DISCONTINUED MEDICATIONS: None
+
+[] Patient discharged with ___ monitor, results from which she 
+should follow up with her cardiologist
+[] The patient should have repeat Chem10 within 1 week of 
+discharge to have results follow-up by her PCP
+
+-___ weight: 68.7 kg
+-Discharge Cr: 0.9
+
+#CODE: DNR/DNI
+#CONTACT: Son ___ ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Allopurinol ___ mg PO DAILY 
+2. Dabigatran Etexilate 150 mg PO BID 
+3. Levothyroxine Sodium 50 mcg PO DAILY 
+4. Lisinopril 20 mg PO DAILY 
+5. Simvastatin 20 mg PO QPM 
+6. Furosemide 40 mg PO DAILY 
+7. Carvedilol 25 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Carvedilol 12.5 mg PO BID 
+RX *carvedilol 12.5 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+2.  Lisinopril 30 mg PO DAILY 
+RX *lisinopril 30 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Allopurinol ___ mg PO DAILY  
+4.  Dabigatran Etexilate 150 mg PO BID  
+5.  Furosemide 40 mg PO DAILY  
+6.  Levothyroxine Sodium 50 mcg PO DAILY  
+7.  Simvastatin 20 mg PO QPM  
+8.Outpatient Lab Work
+Please draw chem 10 by ___ and have results faxed to Dr. ___ 
+(___). ICD10: I10
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Atrial Fibrillation with bradycardia 
+#Hypertension
+#Heart failure with preserved ejection fraction
+#Hyperlipidemia
+#Gout
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you on this hospital stay at 
+___.
+
+Why was I admitted to the hospital?
+
+- You were admitted due to a slow heart rate that your primary 
+care doctor found
+
+What happened during your stay?
+
+- You were observed on heart monitoring for worsening of your 
+heart rhythm, and we did no see any pauses or worsening of this 
+rhythm
+- Your heart rate was within a normal range while you were in 
+the hospital
+- We decreased your carvedilol dosing to 12.5mg twice daily from 
+25mg twice daily
+- We also increased your spironolactone medication from 20mg to 
+30mg once daily
+
+What do I need to do once I leave the hospital?
+
+- It is important that you take all of your medications as 
+prescribed
+- You should see your regular doctor and your cardiologist in 1 
+week
+- You should use your ___ of hearts monitor at home and call 
+your doctor if it alarms or indicates that you call your doctor. 
+
+
+We wish you the best!
+ 
+
+Sincerely Your ___ Care TEAM 
+
+ 
+Followup Instructions:
+___

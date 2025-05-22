@@ -1,0 +1,256 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+neck pain and UE weakness
+ 
+Major Surgical or Invasive Procedure:
+N/A
+
+ 
+History of Present Illness:
+___ with PMHx of aneurysm s/p clipping at ___ presenting to 
+___ with neck pain s/p MVC. Pt reports she was involved in a 
+MVC where she was restrained driver. She was rear-ended at low 
+speed. No head strike. Initially asymptomatic, later that 
+evening she developed neck pain with bilateral shoulder pain 
+with paresthesias and sharp pain to arms bialterally. The 
+patient reports the pain starts in her neck and radiates to 
+upper extremities bilaterally. She has associated tingling 
+sensation in her tips of middle fingers bilaterally. Also has 
+mild L spine pain. She denies any fecal or urinary incontinence. 
+Denies nausea/vomiting, headache. CT of L spine and C-spine did 
+not reveal any fractures or subluxation. CT head was negative 
+for bleed. Spine surgery consulted due to concern that patient 
+may have spinal cord injury, however, it was unknown if the 
+patient has MRI compatible aneurysm clip.
+  
+
+ 
+Past Medical History:
+ PMH/PSH:
+Depression
+Hypertension
+Hyperlipidemia
+Cerebral aneurysm s/p clipping at ___ about ___ years ago
+ 
+Social History:
+SOCIAL:  Disabled due to depression (per pt report). Denies 
+alcohol, tobacco, illicits
+ 
+Physical Exam:
+PHYSICAL EXAMINATION:
+
+Vitals: T: 97.6   BP: 169/84  P: 58    RR: 16 99% RA
+
+General: AAOx3, NAD, C-collar in place
+Heart: RRR peripherally
+Lungs: Breathing comfortably on RA
+  
+Spine exam: Tenderness over midline C-spine. 
+  
+-Motor Exam: (0=total paralysis, 1=palpable contraction 2=AROM, 
+not against gravity, 3=AROM against gravity, 4=AROM against 
+gravity +some resistance, 5=AROM against full resistance)
+  
+ Motor Upper Extremities:
+C5 (shoulder abduction, elbow flex palm up): R ___    L ___ 
+C6 (elbow flexion w/thumbs up, wrist ext):   R ___    L ___ 
+C7 (elbow extension, wrist flexion):         R ___    L ___ 
+C8 (finger flexion):                         R ___    L ___ 
+T1 (finger abduction):                       R ___    L ___ 
+  
+ Motor Lower Extremities
+L2/L3 (hip flexion, hip adduction - IO):   R ___    L ___ 
+L3/L4 (knee extension - Quads):            R ___    L ___ 
+L4/L5 (ankle dorsiflexion - TA):           R ___    L ___ 
+L5 (great toe extension - ___:            R ___    L ___ 
+S1 (ankle plantarflexion - GSC):           R ___    L ___ 
+S2 (toe flexion - FHL, FDL):               R ___    L ___
+  
+  
+-Sensory: (0=absent, 1=impaired,  2= intact)
+ Sensory Upper Extremities
+C5 (Ax):            R  2  L 2
+C6 (MC):            R  2  L 2
+C7 (Mid finger):    R  1  L 1 
+C8 (MACN):          R  2  L 2
+T1 (MBCN):          R  2  L 2
+T2-L2 Trunk:        R  2  L 2
+  
+ Sensory Lower Extremities
+L2 (Groin):          R 2   L 2
+L3 (Leg)             R 2   L 2
+L4 (Knee)            R 2   L 2
+L5 (Grt Toe):        R 2   L 2
+S1 (Sm toe):         R 2   L 2
+S2 (Post Thigh):     R 2   L 2
+
+Deep Tendon Reflexes: (0=absent, 1=trace, 2=normal, 3=brisk, 
+4=non-sustained clonus, 5=sustained clonus)
+
+Reflexes
+
+Bic(C4-5)         R 3    L 3
+BR(C5-6)          R 3    L 3
+Tri(C6-7)         R 3    L 3
+Pat(L3-4)         R 3    L 3
+Ach(L5-S1)        R 3    L 3
+
+___: Negative
+Babinski: downgoing
+Clonus: none
+Perianal sensation: intact 
+Rectal tone: Deferred
+  
+Orthopaedic Specific imaging:
+CT L-Spine and C-Spine: No acute fracture or traumatic 
+subluxation
+CT-Tspine: Pending
+
+Discharge Physical Exam
+ AVSS
+ CV:RRR
+ Resp:CTAB
+ Abd:soft,ntnd,+bs's
+ Well appearing, NAD, comfortable
+ BUE: SILT C5-T1 dermatomal distributions
+ LUE: 4+/5 Del/Tri/Bic/WE/WF/FF/IO, 4+RUE Del/Tri/Bic/WE/WF/IO, 
+___ RUE FF
+ All fingers WWP, brisk capillary refill, 2+ distal pulses
+ BLE: SILT L1-S1 dermatomal distributions
+ BLE: ___ ___
+ All toes WWP, brisk capillary refill, 2+ distal pulses
+ 
+Pertinent Results:
+___ 08:00PM BLOOD WBC-3.5* RBC-3.91 Hgb-12.0 Hct-34.6 
+MCV-89 MCH-30.7 MCHC-34.7 RDW-12.1 RDWSD-39.1 Plt ___
+___ 08:00PM BLOOD Neuts-44.0 ___ Monos-8.8 Eos-0.6* 
+Baso-0.3 Im ___ AbsNeut-1.56* AbsLymp-1.63 AbsMono-0.31 
+AbsEos-0.02* AbsBaso-0.01
+___ 08:00PM BLOOD Plt ___
+___ 08:00PM BLOOD ___ PTT-29.6 ___
+___ 08:00PM BLOOD Glucose-101* UreaN-9 Creat-0.5 Na-139 
+K-3.8 Cl-103 HCO3-24 AnGap-16
+___ 08:00PM BLOOD Calcium-9.4 Phos-3.4 Mg-1.8
+ 
+Brief Hospital Course:
+Patient was admitted to the ___ Spine Surgery Service for 
+concern of neck pain and mild upper extremity weakness. workup 
+revealed no acute injuries. However due to a pmh of aneurysm 
+clipping, an MRI cannot be obtained. A CT Myelogram is 
+recommended for better visualization of her c-spine. She will 
+need to not take her antidepressant (Venlafaxine) medication for 
+at least 48 hour prior to her CT Myelogram study. She needs to 
+continue wearing a c-collar at all times. During her short stay, 
+her neck pain was minimal and her UE weakness essentially 
+resolved. Pnemoboots were used for DVT prophylaxis. The patient 
+was tolerating oral pain medications and tolerating PO diet. She 
+was voiding independently. She was mobilizing oob independently. 
+Hospital course was otherwise unremarkable. On the day of 
+discharge the patient was afebrile with stable vital signs, 
+comfortable on oral pain control and tolerating a regular diet. 
+She will return on ___ for her CT Myelogram Study. 
+
+CT Myelogram on ___:
+Please to ___ ___ Floor, Radiology 
+Reception Desk
+Please arrive at 9:30am for check in
+Please do not eat past midnight
+You may drink water until 6:30am. Please do not drink water 
+until 3 hours prior to your appointment.
+You will need to stay for at least 2 hours after your test.
+You will also need an escort home. 
+The Procedures scheduler (___ will call you to get a 
+prior authorization if needed. Otherwise please arrive on 
+___ for your CT Myelogram. Please contact the scheduler at 
+___ for any problem. You may also call ___, RN in 
+Radiology department with any questions or concerns about your 
+test. 
+Please call ___ for ___ follow up with Dr. 
+___ you have completed your CT Myelogram.
+ 
+Medications on Admission:
+Atenolol
+Simvastatin
+Venlafaxine
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q8H 
+2. Atenolol 50 mg PO DAILY home dose 
+3. Simvastatin 80 mg PO QPM home dose 
+4. Venlafaxine 150 mg PO DAILY home dose (Please do not take for 
+at least 48 hours prior to your CT myelogram) 
+5. Ondansetron 4 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*10 Tablet Refills:*0
+6. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN Pain 
+please do not operate heavy machinery, drink alcohol or drive 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*25 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+neck pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+CT C-spine revealed no acute fracture or dislocation. However, 
+given mild upper extremity weakness and neck pain, a CT 
+myelogram is needed to get a better visualization of your 
+c-spine. We are unable to get an MRI due to your history of 
+aneurysm clipping. You will need to be off your antidepressant 
+(Venlafaxine) medication for 48 hours. Please return to ___ 
+tomorrow for your scheduled CT Myelogram.  The ___ radiology 
+department coordinator will be contacting you for your CT 
+Myelogram time if one has not been scheduled already. If they do 
+not contact you please contact the ___ Radiology Department at 
+___ if there are any concerns.
+
+Immediately after discharge:
+
+                Activity: You should not lift anything greater 
+than 10 lbs. You will be more comfortable if you do not sit in a 
+car or chair for more than ~45 minutes without getting up and 
+walking around.
+You can walk as much as you can tolerate.  
+
+                Cervical Collar / Neck Brace: You have been 
+given a collar as a precaution to keep your spine stabilized 
+until you are able to get your CT Myelogram. You may remove the 
+collar for hygiene but please, limit your motion of your neck 
+while the collar is off. You should wear the collar when 
+walking.
+
+                You should not take your antidepressant 
+medication as this will interfere with your scheduled test. It 
+requires you to not take this medication for 48 hours. Your last 
+stated time you took your medication was on the am of ___. 
+You may resume taking your atenolol and simvastatin as you 
+normally do.  
+
+                Follow up:            
+Please make sure you return for your CT Myelogram on ___ and 
+continue to wear your c-collar at all times. 
+ 
+Followup Instructions:
+___

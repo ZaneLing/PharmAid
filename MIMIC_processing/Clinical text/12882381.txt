@@ -1,0 +1,449 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+gabapentin / latex
+ 
+Attending: ___
+ 
+Chief Complaint:
+post tPA management
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+NEUROLOGY STROKE ADMISSION/CONSULT NOTE
+
+Neurology at bedside after Code Stroke activation within: __ 
+mins
+Time/Date the patient was last known well: __
+
+I was present during the CT scanning and reviewed the images
+within 20 minutes of their completion.
+
+___ Stroke Scale Score: __
+
+t-PA administered: 
+[x] Yes - Time given: ___ ___
+[] No - Reason t-PA was not given or considered: __
+
+Thrombectomy performed: 
+[] Yes 
+[x] No - Reason not performed or considered: no LVO
+
+**Initial telestroke NIHSS (by stroke fellow, Dr. ___
+NIHSS performed within 6 hours of presentation at: ___
+NIHSS Total: 7
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0 
+2.  Best gaze: 0
+3.  Visual fields: 0
+4.  Facial palsy: 1
+5a. Motor arm, left: 0
+5b. Motor arm, right: 4
+6a. Motor leg, left: 0
+6b. Motor leg, right: 1
+7.  Limb Ataxia: 0
+8.  Sensory: 0
+9.  Language: 0
+10. Dysarthria: 1
+11. Extinction and Neglect: 0
+
+**Upon arrival to ___ ED**
+NIHSS performed at 0320 ___
+NIHSS Total: 7
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0 
+2.  Best gaze: 0
+3.  Visual fields: 0
+4.  Facial palsy: 1
+5a. Motor arm, left: 0
+5b. Motor arm, right: 4
+6a. Motor leg, left: 0
+6b. Motor leg, right: 1
+7.  Limb Ataxia: 0
+8.  Sensory: 0
+9.  Language: 0
+10. Dysarthria: 1
+11. Extinction and Neglect: 0
+ 
+
+REASON FOR CONSULTATION: stroke post-tPA 
+ 
+HPI: 
+___ is an ___ woman with a history of remote
+TIA (on ASA 81 mg), pAF (not anticoagulated), colon
+adenocarcinoma (s/p right leocolectomy ___ in remission),
+hypothyroidism, hyperlipidemia, who presented with acute-onset
+dysarthria and right arm weakness. Transfer from ___ 
+for
+post-tPA management.
+ 
+Patient noted sudden-onset right arm electric sensations and
+weakness around 10pm on ___ (LKW). She was sitting in a chair
+and had a somewhat difficult time standing up due to right leg
+weakness. She called her son, who noted that her speech was
+slurred. He called EMS for her. EMS arrived ___. She was taken
+by EMS to ___. According to ED physicians, she had an
+NIHSS of 9 (dysarthria, right facial palsy, right arm plegia,
+moderate right leg weakness). She was evaluated via telestroke
+and found to have an NIHSS of 7 (for R facial palsy, R arm
+weakness, dysarthria). She perhaps had some improvement in the
+right leg weakness while in the ED. CT/CTA showed chronic
+microvascular changes, but no ICH or large territory infarction.
+TPA was administered at 0045 ___. The patient was transported
+to ___ for post-tPA management.
+
+ROS: 
+On neurological review of systems, the patient denies headache,
+confusion, difficulties comprehending speech, loss of vision,
+blurred vision, diplopia, dysarthria, dysphagia, 
+lightheadedness,
+vertigo, tinnitus or hearing difficulty. Denies numbness,
+parasthesiae. No bowel or bladder incontinence or retention.
+Denies difficulty with gait.
+ 
+On general review of systems, the patient denies recent fever, 
+chills, night sweats, or recent weight changes. Denies cough,
+shortness of breath, chest pain or tightness, palpitations. 
+Denies nausea, vomiting, diarrhea, constipation or abdominal
+pain.  Denies dysuria, or recent change in bowel or bladder
+habits.  Denies arthralgias, myalgias, or rash.
+
+ 
+Past Medical History:
+- Hypothyroidism
+- Cholecystectomy 
+- TIA in ___ 
+- Paroxysmal A-fib: During a preop stress test in ___, the
+patient was noted to go into rapid atrial fibrillation and
+admitted to the hospital for rate control.
+- restless legs 
+- asthma 
+ 
+Social History:
+SOCIAL HISTORY:
+___
+Family History:
+FAMILY HISTORY:   
+father ___ Age ___ lung Cancer w/ brain mets (smoker) 
+mother ___ Age ___ tachycardia, Alzheimers disease 
+Maternal grandmother ___ colon cancer
+ 
+Physical Exam:
+PHYSICAL EXAMINATION: 
+Vitals:
+97.6 
+90 
+161/93 
+18 
+96% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema. Intermittent spasms b/l. 
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Significant dysarthria. Attentive. Language
+is fluent with intact repetition and comprehension. Normal
+prosody. Able to name both high and low frequency objects.  Able
+to read without difficulty. Able to follow both midline and
+appendicular commands.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 2.5 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation.
+V: Facial sensation intact to light touch.
+VII: Right lower facial droop; symmetric with activation 
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in left trapezius, ___ right. 
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift on
+left. Intermittent spasms of legs b/l. 
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    5
+R    0    1    1    0    0    0   4+   5    5   5    5    5
+
+-Sensory: No deficits to light touch, pinprick throughout. No
+extinction to DSS.
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     0
+R   2     2      2      3     0 
+Right side more brisk throughout. 
+
+Plantar response was flexor on left and extensor on right.
+
+-Coordination: No intention tremor or dysmetria on FNF or HKS
+bilaterally.
+
+-Gait:  deferred
+
+Discharge Exam
+====================
+PHYSICAL EXAMINATION: 
+Vitals:
+Reviewed in Metavision, at bedside
+HR 130, BP 160/85, RR 18, O2 98% RA 
+General: Awake, cooperative, NAD.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Minimal dysarthria. Attentive. Language is
+fluent with intact repetition and comprehension. Normal prosody.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. Able to follow both midline and appendicular
+commands.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 2.5 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation.
+V: Facial sensation intact to light touch.
+VII: Right lower NLFF which is very subtle; symmetric with
+activation 
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in left trapezius, ___ right. 
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift on
+left. Intermittent spasms of legs b/l. 
+  [Delt][Bic][Tri][ECR][FEx][IO][IP][Quad][Ham][TA][Gas]
+L    5    5    5    5    5    5   5    5    5   5    5    
+R    2*   5-   4    4    4    4   4+   5    5-  5    5    
+*Question pain limitation
+
+-Sensory: No deficits to light touch
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     0
+R   2     2      2      3     0 
+
+Right side more brisk throughout. 
+
+Plantar response was flexor on left and extensor on right.
+
+-Coordination: No intention tremor or dysmetria on FNF or HKS
+bilaterally.
+
+-Gait:  deferred
+
+ 
+Pertinent Results:
+Admission Labs
+-----------------
+
+___ 03:07AM BLOOD WBC-8.8 RBC-4.01 Hgb-12.8 Hct-39.0 MCV-97 
+MCH-31.9 MCHC-32.8 RDW-14.1 RDWSD-50.5* Plt ___
+___ 03:07AM BLOOD Neuts-79.5* Lymphs-12.1* Monos-7.2 
+Eos-0.6* Baso-0.3 Im ___ AbsNeut-6.96* AbsLymp-1.06* 
+AbsMono-0.63 AbsEos-0.05 AbsBaso-0.03
+___ 03:07AM BLOOD Plt ___
+___ 03:07AM BLOOD Glucose-112* UreaN-22* Creat-0.8 Na-139 
+K-4.8 Cl-104 HCO3-19* AnGap-16
+___ 03:07AM BLOOD ALT-33 AST-41* AlkPhos-92 TotBili-0.6
+___ 03:07AM BLOOD cTropnT-0.04*
+___ 03:07AM BLOOD Albumin-4.0 Calcium-9.1 Phos-3.7 Mg-1.9
+
+Pertinent Labs
+==============
+
+___ 03:07AM BLOOD TSH-2.7
+___ 05:35AM BLOOD Triglyc-52 HDL-85 CHOL/HD-2.2 LDLcalc-94
+___ 05:35AM BLOOD Triglyc-52 HDL-85 CHOL/HD-2.2 LDLcalc-94
+
+Imaging
+============
+TTE
+IMPRESSION: No definite structural cardiac source of embolism 
+identified. Biatrial enlargement.
+Preserved biventricular systolic function. Mild mitral 
+regurgitation. Mild pulmonary hypertension.
+
+Radiology Report MR HEAD W/O CONTRAST Study Date of ___ 
+11:59 ___ 
+1. Multiple foci of slow diffusion in the left basal ganglia and 
+left frontal 
+and parietal lobes, compatible with acute infarcts and 
+suggestive of an 
+embolic etiology.  No evidence of hemorrhage. 
+2. Extensive chronic microangiopathic and involutional changes. 
+
+ 
+Brief Hospital Course:
+___ is an ___ woman with a history of remote 
+TIA (on ASA 81 mg), pAF (not anticoagulated), colon 
+adenocarcinoma (s/p right leocolectomy ___ in remission), 
+hypothyroidism, and hyperlipidemia, who presented with 
+acute-onset dysarthria and right arm weakness, NIHSS 7. She was 
+given tPA 3hrs and 15 minutes after symptom onset and 
+transferred to ___ for post-tPA care from ___. MRI was 
+revealing of small punctate embolic appearing infarcts in the 
+left centrum semi-ovale, anterior internal capsule, and 
+subcortical parietal post central gyrus. She was found to be in 
+a-flutter during the hospitalization and started on metoprolol 
+and apixaban. Her NIHSS 24 hours after tPA was a 4 for RUE 
+weakness and RNLFF. Her dysarthria and RUE weakness were 
+significantly improved from the initial evaluation. She was 
+evaluated by ___ and discharged to acute rehab. A1c 5.7, LDL 94. 
+
+TI
+[] New diagnosis of a-flutter, started on apixaban and 
+metoprolol. Apixaban dose reduced to 2.5 daily for weight <60kg 
+and age >___ (weight 57.2 kg )
+[] Patient will need follow up with PCP within one week of 
+discharge
+[] simvastatin discontinued in favor of atorva 40mg as LDL >70
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed () No. If no, reason why:
+2. DVT Prophylaxis administered? (x) Yes - () No. If no, why not 
+(I.e. bleeding risk, hemorrhage, etc.)
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No. If not, why not? (I.e. bleeding risk, 
+hemorrhage, etc.)
+4. LDL documented? (x) Yes (LDL = 94) - () No
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) (x) Yes - () No [if LDL 
+>70, reason not given:
+[ ] Statin medication allergy
+[ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ] LDL-c less than 70 mg/dL
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given in written 
+form? (x) Yes - () No
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No. If no, why not? (I.e. patient at baseline 
+functional status)
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >70, 
+reason not given:
+[ ] Statin medication allergy
+[ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ] LDL-c less than 70 mg/dL
+10. Discharged on antithrombotic therapy? (x) Yes [Type: () 
+Antiplatelet - (x) Anticoagulation] - () No
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? (x) Yes - () No - If no, why not (I.e. 
+bleeding risk, etc.) () N/A
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Simvastatin 20 mg PO QPM 
+3. Pramipexole 0.25 mg PO QAM 
+4. Pramipexole 0.5 mg PO QPM 
+5. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+6. Levothyroxine Sodium 112 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 2.5 mg PO BID  
+2.  Atorvastatin 40 mg PO QPM  
+3.  Lidocaine 5% Patch 1 PTCH TD ONCE Duration: 1 Dose  
+4.  Metoprolol Tartrate 12.5 mg PO BID  
+5.  Multivitamins W/minerals 1 TAB PO DAILY  
+6.  Vitamin D ___ UNIT PO DAILY  
+7.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+8.  Levothyroxine Sodium 112 mcg PO DAILY  
+9.  Pramipexole 0.25 mg PO QAM  
+10.  Pramipexole 0.5 mg PO QPM  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary 
+-Acute ischemic Stroke
+-Atrial flutter
+
+Secondary 
+HTN
+HLD
+hypothyroidism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were hospitalized due to symptoms of slurred speech and 
+right sided weakness resulting from an ACUTE ISCHEMIC STROKE, a 
+condition where a blood vessel providing oxygen and nutrients to 
+the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms.
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+Atrial fibrillation or Atrial Flutter
+History of a TIA
+High blood pressure
+
+We are changing your medications as follows:
+We started you on a blood pressure medication
+We started you on a blood thinner (apixaban)
+
+Please take your other medications as prescribed.
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

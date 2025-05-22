@@ -1,0 +1,220 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Biaxin / Penicillins
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+___ 05:20PM BLOOD WBC-9.6 RBC-4.60 Hgb-13.9 Hct-40.4 MCV-88 
+MCH-30.2 MCHC-34.4 RDW-13.2 RDWSD-41.1 Plt ___
+___ 08:15AM BLOOD Glucose-94 UreaN-8 Creat-0.6 Na-145 K-4.0 
+Cl-106 HCO3-25 AnGap-14
+___ 05:20PM BLOOD ALT-20 AST-19 AlkPhos-80 TotBili-0.5
+___ 05:20PM BLOOD Lipase-27
+___ 08:15AM BLOOD Calcium-9.4 Phos-3.7 Mg-2.0
+___ 05:20PM URINE RBC-133* WBC->182* Bacteri-FEW* 
+Yeast-NONE Epi-0 TransE-1
+___ 05:20PM URINE Blood-MOD* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG*
+
+ URINE CULTURE (Preliminary): 
+      ESCHERICHIA COLI.    >100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMIKACIN--------------     4 S
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFTAZIDIME-----------     4 S
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------  =>16 R
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------  =>16 R
+TRIMETHOPRIM/SULFA----   <=___BD AND PELVIS W/O CONTRAST ___
+  
+INDICATION:  NO_PO contrast; History: ___ with infected 
+stone?NO_PO contrast  
+// CTU for stone. 
+  
+TECHNIQUE:  Multidetector CT images of the abdomen and pelvis 
+were acquired 
+without intravenous contrast. Non-contrast scan has several 
+limitations in 
+detecting vascular and parenchymal organ abnormalities, 
+including tumor 
+detection. 
+Oral contrast was not administered. 
+Coronal and sagittal reformations were performed and reviewed on 
+PACS. 
+  
+DOSE:  Acquisition sequence: 
+   1) Spiral Acquisition 6.0 s, 46.8 cm; CTDIvol = 9.4 mGy 
+(Body) DLP = 438.2 
+mGy-cm. 
+ Total DLP (Body) = 438 mGy-cm. 
+  
+COMPARISON:  None. 
+  
+FINDINGS:  
+  
+LOWER CHEST: Minimal bibasilar atelectasis is noted.  There is 
+no evidence of 
+pleural or pericardial effusion. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: The liver demonstrates homogeneous attenuation 
+throughout.  
+There is no evidence of focal lesions within the limitations of 
+an unenhanced 
+scan.  There is no evidence of intrahepatic or extrahepatic 
+biliary 
+dilatation.  The gallbladder is within normal limits. 
+  
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of 
+focal lesions within the limitations of an unenhanced scan.  
+There is no 
+pancreatic ductal dilatation.  There is no peripancreatic 
+stranding. 
+  
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without 
+evidence of focal lesions. 
+  
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size.  There is 
+no suspicious 
+renal lesions within the limitations of an unenhanced scan.  
+There is no 
+hydronephrosis.  There is no nephrolithiasis. There is no 
+perinephric 
+abnormality. 
+  
+GASTROINTESTINAL: There is a small hiatal hernia.  Small bowel 
+loops 
+demonstrate normal caliber and wall thickness throughout. The 
+colon and rectum 
+are within normal limits. The appendix is normal. 
+  
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no 
+free fluid in the pelvis. 
+  
+REPRODUCTIVE ORGANS: Not well delineated, intermingled with 
+small bowel in the 
+deep pelvis and not well resolved without intravenous contrast. 
+  
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There 
+is no pelvic or inguinal lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease 
+is noted. 
+  
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture. 
+  
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits.  Tiny fat 
+containing umbilical hernia. 
+  
+IMPRESSION:  
+  
+No evidence of acute abdominopelvic abnormality. 
+
+Renal US ___
+1. 4 mm hyperechoic focus in the mid right kidney may represent 
+a 
+nonobstructing calculus. 
+2. No evidence of hydronephrosis bilaterally. 
+
+ 
+ 
+
+ 
+Brief Hospital Course:
+___ woman with a history of recurrent UTIs, but none in the 
+past
+decade who presents to the ED with a one month history of on and
+off urinary frequency, dysuria and hesitancy consistent with UTI
+and non-obstructing nephrolithiasis. 
+  
+# Urinary Tract Infection, acute bacterial
+# Nephrolithiasis
+1 month of urinary tract infection symptoms, without response to
+treatments with cefuroxime and ciprofloxacin concerning for
+resistant organism. Given her history of recurrent UTIs, at risk
+for resistant organisms. While she had mild tachycardia on
+presentation there are no other signs or symptoms of sepsis and
+her WBC is normal. Renal US with possible, CT confirmed 4 mm
+stone within the renal pelvis but no obstruction and lack of
+upper urinary symptoms and no signs of sepsis suggests unlikely
+to be infected. She was started on CTX but urine culture 
+returned showing resistance to cipro and ctx. She was switched 
+to Bactrim and then discharged given lack of systemic symptoms, 
+stable VS and normal labwork.  Given current low risk 
+nephrolithiasis I did not think a urology
+consult as an inpatient was necessary 
+
+Transitional Isssues
+[] continue Bactrim x 7 days
+[] follow up with PCP
+[] advised to start cranberry pills and stay well hydrated
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Sulfameth/Trimethoprim DS 1 TAB PO BID 
+RX *sulfamethoxazole-trimethoprim [Bactrim DS] 800 mg-160 mg 1 
+tablet(s) by mouth twice a day Disp #*14 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+UTI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for a UTI. The UTI was 
+resistant to cipro and ceftriaxone. We started you on Bactrim 
+for treatment of E coli in your urinary tract. Please follow up 
+with your primary care doctor, drink plenty of water and 
+consider starting a cranberry supplement daily. 
+ 
+Followup Instructions:
+___

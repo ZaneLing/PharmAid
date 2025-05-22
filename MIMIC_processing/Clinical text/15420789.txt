@@ -1,0 +1,320 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+palpitation, lightheadedness, head heaviness/tingling
+ 
+Major Surgical or Invasive Procedure:
+cvEEG
+
+ 
+History of Present Illness:
+___ is a ___ year old neonatologist at ___ who
+presents with one week of episodes lasting ___ minutes which 
+are
+characterized by palpitations, dizziness (lightheaded) followed
+by blurred vision, "heavy sensation" in her head and sometimes
+left face numbness/tingling. At times she has tingling which
+starts in her neck and comes up the back of her head and into 
+her
+face. Episodes occur ___ times per day. She has no jerking, loss
+of consciousness, speech arrest, urinary incontinence or
+stiffening during these episodes. She has been to the ED three
+times for these events. No prior events like this in the past 
+and
+no history of seizure. No recent new stressors at home or at
+work. She has had a MRI w/ and w/o which was normal. Telemetry
+has been unrevealing. She had a normal TTE. Spot cvEEG wnl. She
+is now being transferred to ___ for further characterization 
+of
+these events.  
+
+ROS: 
+
+On neurologic review of systems, the patient denies confusion.
+Denies difficulty with producing or comprehending speech. Denies
+loss of vision, blurred vision, diplopia, vertigo, tinnitus,
+hearing difficulty, dysarthria, or dysphagia. Denies focal 
+muscle
+weakness. Denies loss of sensation. Denies bowel or bladder
+incontinence or retention. Denies difficulty with gait.
+
+On general review of systems, the pt denies recent fever or
+chills.  No night sweats or recent weight loss or gain. Denies
+cough, shortness of breath.  Denies chest pain or tightness. 
+Denies nausea, vomiting, diarrhea, constipation or abdominal
+pain.  No recent change in bowel or bladder habits.  No dysuria. 
+
+Denies arthralgias or myalgias. Denies rash.
+
+ 
+Past Medical History:
+- MVP (however not present on recent TTE)
+- ovarian cystectomy
+
+ 
+Social History:
+___
+Family History:
+Mother has hypertension, hypothyroidism, and father has
+hypertension ___. No history of stroke, multiple
+sclerosis, or other
+autoimmune disease.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+========================
+Vitals: 98.4 PO 105 / 70 69 18 99 Ra 
+
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2. intermittent irregularity noted.
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt was able to name both high and low frequency objects.  Able 
+to
+read without difficulty. Speech was not dysarthric. Able to
+follow both midline and appendicular commands. Pt was able to
+register 3 objects and recall ___ at 5 minutes. There was no
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+ II, III, IV, VI:  PERRL 4 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. 
+ V: Facial sensation intact to light touch.
+ VII: No facial droop, facial musculature symmetric.
+ VIII: Hearing intact to finger-rub bilaterally.
+ IX, X: Palate elevates symmetrically.
+ XI: ___ strength in trapezii and SCM bilaterally.
+ XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+ No adventitious movements, such as tremor, noted. No asterixis
+noted.
+   Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+ L  5    ___   ___  5   5    5  5     5     5   5
+ R  5    ___   ___  5   5    5  5     5     5   5
+
+-Sensory: No deficits to light touch, pinprick, cold sensation,
+vibratory sense, proprioception throughout. No extinction to 
+DSS.
+
+-DTRs:
+   Bi Tri ___ Pat Ach
+ L  1  1    1    1   1
+ R  1  1    1    1   1
+ Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF or HKS bilaterally.
+
+-Gait: not tested
+
+DISCHARGE PHYSICAL EXAM: 
+=======================
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2. intermittent irregularity noted.
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. 
+
+-Cranial Nerves:
+ II, III, IV, VI:  PERRL 4 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. 
+ V: Facial sensation intact to light touch.
+ VII: No facial droop, facial musculature symmetric.
+ IX, X: Palate elevates symmetrically.
+ XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+ No adventitious movements, such as tremor, noted. No asterixis
+noted.
+   Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+ L  5    ___   ___  5   5    5  5     5     5   5
+ R  5    ___   ___  5   5    5  5     5     5   5
+
+-Sensory: No deficits to light touch.
+
+-Coordination: No intention tremor. 
+
+ 
+Pertinent Results:
+ADMISSION LABS (___):
+
+4.5>11.7<163
+
+INR: 1.2
+
+141/103/9
+---------<86
+3.6/25/.7
+
+Mg 1.92
+
+AST/ALT: ___
+Alb 4.4
+
+LDL: 90
+Trop <.01
+TSH 1.4
+bHCG <5
+CRP <.03
+UA: no leuk esterase 
+**pending: urine metanephrines 
+
+************
+IMAGING (___): 
+
++Spot EEG (___): This is normal routine EEG in awake and
+drowsy state. There are no focal lateralizing epileptiform
+features noted.
+
++ ___ (___):    
+CTA HEAD: The vessels of the circle of ___ and their 
+principal
+intracranial branches appear normal without stenosis, occlusion,
+or aneurysm formation.  The dural venous sinuses are patent.
+Small mucous retention cyst present in the right maxillary 
+sinus.
+      
+CTA NECK: The carotid and vertebral arteries and their major
+branches appear normal with no evidence of stenosis or 
+occlusion.
+There is no evidence of internal carotid stenosis by NASCET
+criteria.
+
++ ___ MRI w/ and w/o (___):  The brainstem appears
+normal in signal intensity on thin section T2 weighted images 
+and
+postcontrast images.  The cisternal segments of the fifth 
+cranial
+nerves and respective gasserian ganglia appear normal.  No
+abnormal intracranial enhancement is identified.
+
++ ___: The left atrium is normal in size. No atrial septal
+defect or patent foramen ovale is seen by 2D, color Doppler or
+saline contrast with maneuvers. The estimated right atrial
+pressure is ___ mmHg. Left ventricular wall thickness, cavity
+size and regional/global systolic function are normal (LVEF
+>55%). No masses or thrombi are seen in the left ventricle. 
+There
+is no ventricular septal defect. Right ventricular chamber size
+and free wall motion are normal. The number of aortic valve
+leaflets cannot be determined. No masses or vegetations are seen
+on the aortic valve. There is no aortic valve stenosis. No 
+aortic
+regurgitation is seen. The mitral valve appears structurally
+normal with trivial mitral regurgitation. There is no mitral
+valve prolapse. No mass or vegetation is seen on the mitral
+valve. The estimated pulmonary artery systolic pressure is
+normal. Hyperechoic smoke like flow in LV represents artifact
+only.  
+
++cvEEG ___: 
+Normal wake and sleep. No epileptiform discharges. Final read 
+pending.
+
+ 
+Brief Hospital Course:
+Dr. ___ is a ___ year old neonatologist who has been healthy 
+who presented for characterization of episodes of palpitations, 
+lightheadedness and intermittent numbness/tingling of face. She 
+reported no other jerking, audiovisual aura, incontinence prior 
+or during the episodes. She does get emotional/tearful after the 
+episodes. She has no prior history of seizure and no family 
+history of seizure. Her exam was unremarkable. Cardiology 
+work-up at ___ notable for unremarkable TTE and Holter 
+with unrevealing rhythm. Other w/u notable for normal CTA head 
+and neck as well as normal MRI w/ and w/o contrast. TSH at ___ 
+wnl. Urine pending for metanephrines from BIN to r/o 
+neuroendocrine tumor. She was connected to continuous EEG. She 
+had several of her events without EEG correlate (no epileptiform 
+discharges). Her symptoms may be due to hyperventilation or 
+anxiety. We discussed beta blocker vs. SSRI for symptom 
+management with Dr. ___. This will continued to be 
+addressed as an outpatient pending urine metanephrine results. 
+
+TRANSITIONAL ISSUES: 
+====================
+[] Follow-up with PCP regarding symptom management (beta blocker 
+vs. SSRI)
+[] Follow up urine metanephrines (___) to r/o 
+neuroendocrine tumor
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Palpitations
+Dizziness
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Dr. ___,
+
+___ were admitted to the hospital to see if your episodes of 
+palpitations, lightheadedness, head heaviness and face numbness 
+were seizures. ___ had a continuous EEG which showed these 
+episodes are not seizures. Your prior cardiac work-up had not 
+revealed a cause of these episodes. ___ have labs pending to 
+check for a neuroendocrine tumor. 
+
+We discussed options of a beta blocker or even an SSRI to help 
+with your symptoms, as these could be related to 
+hyperventilation or even anxiety. When the work-up is complete, 
+___ can consider starting these medications in conjunction with 
+your PCP. ___ did get one dose of clonazepam before discharge 
+here. ___ will need to call your primary care to discuss further 
+medication plans. 
+
+We wish ___ the best!
+- Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,279 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Constipation
+ 
+Major Surgical or Invasive Procedure:
+paracentesis
+omental biopsy
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with history of melanoma
+who presents for constipation.
+
+History is taken from the patient and her daughter, who is at 
+the
+bedside. The patient reports that she was in her usual state of
+health until about 6 weeks ago, when she developed constipation
+and lower abdominal pain. She presented to an urgent care at the
+end of ___ and had a KUB that revealed a moderate amount of 
+stool
+without obstruction. She was advised to increase her fluid 
+intake
+and take stool softeners.
+
+Initially, these interventions were effective, however, she
+continued to have constipation. She also noticed progressively
+worsening abdominal distention, and her pants became tight 
+around
+the waist. Her appetite has been stable, and she has had no
+appreciable change in her weight. 
+
+She also reports that she has noticed physical and cognitive
+slowing over the past few years. Her daughter also reported that
+she was dropping items, like her hand of cards while playing
+Bridge. She went to see a geriatrician for these issues, and MRI
+brain was obtained that showed multiple acute embolic infarcts.
+Given these findings, a Holter monitor, TTE, and carotid
+ultrasounds were ordered. The patient was also started on 
+aspirin
+81 mg daily and atorvastatin 40 mg daily.  
+
+The patient continued to have abdominal discomfort, distention
+and constipation, so presented to urgent care on ___/P was obtained that demonstrated an ovarian mass large volume
+ascites with nodular masslike thickening of the omentum and
+peritoneal masses in the abdomen and pelvis. The patient was
+referred to the ED.
+
+In the ED, she was hemodynamically stable. CBC, BMP, LFTs were
+within normal limits. OB/Gyn was consulted, and recommended
+sending tumor markers and paracentesis for cytology.
+
+On arrival to the floor, the patient reports some abdominal
+discomfort. She reports ongoing constipation, but states that 
+she
+was able to move her bowels today. She is aware of the suspected
+diagnosis.
+
+ROS: Pertinent positives and negatives as noted in the HPI. All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+- Melanoma (___)
+- Osteoporosis
+- S/p right hip total arthroplasty
+ 
+Social History:
+___
+Family History:
+- Father: colon cancer
+- Mother: CVA
+- Daughter: ___, liver disease
+- Daughter: ___ disease
+- No known family history of breast, uterine, ovarian cancer.
+ 
+Physical Exam:
+Admission Exam
+====================
+VITALS: 98.9 149/82 75 18 97 ra 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+GI: Abdomen firm, distended, non-tender to palpation. Multiple
+palpable masses in abdomen. Bowel sounds present. 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Very pleasant, appropriate affect
+
+Discharge Exam:
+============================
+VITALS: Temp: 98.1; BP 159/75; HR 76; RR 18; O2 99% RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+GI: Abdomen firm, distended, non-tender to palpation. Multiple
+palpable masses in abdomen. Bowel sounds present. 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Very pleasant and calm affect
+ 
+Pertinent Results:
+Admission Labs:
+===============================
+___ 10:30PM BLOOD WBC-9.6 RBC-4.32 Hgb-11.6 Hct-37.7 MCV-87 
+MCH-26.9 MCHC-30.8* RDW-14.0 RDWSD-44.6 Plt ___
+___ 10:30PM BLOOD ___ PTT-27.6 ___
+___ 10:30PM BLOOD Glucose-118* UreaN-17 Creat-0.8 Na-139 
+K-4.6 Cl-100 HCO3-24 AnGap-15
+___ 10:30PM BLOOD ALT-9 AST-12 AlkPhos-85 TotBili-0.2
+___ 10:30PM BLOOD Albumin-3.5 Calcium-9.2 Phos-3.7 Mg-2.0
+___ 03:33AM BLOOD CEA-405.9* CA125-198*
+
+Discharge Labs:
+================================
+___ 06:20AM BLOOD WBC-9.8 RBC-3.96 Hgb-10.8* Hct-34.2 
+MCV-86 MCH-27.3 MCHC-31.6* RDW-14.2 RDWSD-44.1 Plt ___
+___ 06:20AM BLOOD Glucose-92 UreaN-13 Creat-0.8 Na-139 
+K-4.6 Cl-106 HCO3-24 AnGap-9*
+
+Imaging:
+================================
+- MRI Brain (___):
+IMPRESSION:
+1. There is the suggestion of multiple acute embolic infarcts in
+the right superior frontal, right parietal, and bilateral
+parieto-occipital cortex.
+2. There is extensive chronic microvascular ischemic change in
+the periventricular white matter with multiple chronic lacunar
+infarcts in the subcortical frontoparietal white matter
+bilaterally. Chronic ischemic changes also noted in the basal
+ganglia and pons.
+3. Although the ventricles are enlarged out of proportion to the
+sulci, there is no sulcal effacement. Findings suggest somewhat
+disproportionate central atrophy.
+4. Punctate focus of susceptibility artifact in the right
+occipital lobe could be a small amount of mineralization of a
+chronic infarct or a cavernoma.
+
+- CT A/P (___):
+ 
+IMPRESSION: Complex cystic mass in the pelvis in the midline and
+slightly to the left compatible with ovarian mass. Large volume
+ascites with nodular masslike thickening of the omentum and
+peritoneal masses in the abdomen and pelvis. Appearance is most
+compatible with ovarian malignancy with peritoneal spread.
+
+- CT Chest w/o ___:
+Impression: 1. No definitive metastatic disease in the chest. 
+2. No central pulmonary embolism. 
+3. Bilateral small pleural based opacities up to 0.6 cm are
+indeterminate, metastases cannot be excluded, attention on
+follow-up is recommended. 
+4. 1.7 and 1.2 cm hypodense nodules in the right thyroid lobe. 
+Please follow recommendations described below for follow-up. 
+5. Large amount of ascites and peritoneal implant on the liver,
+are incompletely evaluated on this study. 
+
+Micro:
+======================
+peritoneal fluid ___
+
+Cytology:
+=======================
+Omental Biopsy- pending
+Ascites- pending
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ woman history of melanoma who 
+presents for constipation, found to have likely ovarian cancer 
+with carcinomatosis.
+
+# Abdominal pain
+# Abdominal masses, suspected ovarian cancer: Patient presenting 
+with abdominal pain, distention, and constipation. Found on 
+outside imaging to have likely ovarian mass with ascites and 
+peritoneal carcinomatosis. Ob/Gyn was consulted and recommended 
+further evaluation with CT chest, tumor markers and biopsy. CT 
+chest showed now obvious chest metastasis. Tumor markers CEA and 
+CA 125 were elevated to 405 and 198 respectively. CA ___ was 
+pending on discharge. ___ consulted and performed paracentesis 
+and biopsy of omental mass with pathology/cytology pending on 
+discharge. She remained stable so will follow up with Ob/Gyn as 
+an outpatient to further discuss the results and go over further 
+management. They will call to schedule appointment.
+
+# CVA: Patient with recent brain MRI demonstrating multiple 
+embolic infarcts. Continued home ASA 81mg daily and Lipitor 40mg 
+daily.
+
+#incidental findings- Found on CT chest to have multiple small 
+pleural opacities not felt to be metastasis but could not be 
+excluded. Also found to have two thyroid nodules largest 
+measuring 1.7cm in right lobe. Consider thyroid US for further 
+evaluation and repeat CT chest
+
+Transitional Issues:
+[ ] consider thyroid US to eval thyroid nodules
+[ ] consider repeat CT in ___ months to eval pulm opacities
+[ ] f/u cytology/pathology
+
+Greater than 30 min spent on discharge planning
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Vitamin D 1000 UNIT PO DAILY 
+4. Psyllium Powder 1 PKT PO TID:PRN Constipation 
+5. Docusate Sodium 100 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 40 mg PO QPM  
+3.  Docusate Sodium 100 mg PO BID  
+4.  Psyllium Powder 1 PKT PO TID:PRN Constipation  
+5.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+suspected metastatic ovarian cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with abdominal pain. You were found on imaging 
+to have fluid in your abdomen called ascites and masses 
+concerning for underlying cancer. You underwent a procedure 
+called paracentesis to remove some of the fluid and biopsy of 
+the masses which was pending on discharge. You remained stable 
+so were discharged home. You were continued on your home 
+medicatons as previously prescribed.
+
+Best of luck in your recovery,
+Your ___ care team
+ 
+Followup Instructions:
+___

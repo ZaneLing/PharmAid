@@ -1,0 +1,276 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abnormal labs
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This patient is a ___ male with a past medical history 
+of hyperlipidemia, hypertension, bipolar disorder who presents 
+with anemia. The patient was noted to have a decrease in his 
+hematocrit over the past week from 33.7 to 23.7. He is endorsing 
+a week to a month progressively worsening fatigue, fatigue on 
+exertion, and night sweats. He denies any chest pain. He denies 
+any melena or hematochezia. He denies any hemoptysis or 
+coffee-ground emesis. He denies any history of liver disease. He 
+has been endorsing painless gross hematuria. Urine is dark, but 
+not red, looks like coke. This is been occurring for 
+approximately one month.
+  
+In the ED, initial vitals were: 0 98.8 104 129/77 20 100% RA 
+Labs notable for stable hematocrit in the ED. The patient was 
+also noted to have elevated LFTs. Imaging notable for a negative 
+abd/pel CT showing no active bleeding. Patient was admitted to 
+the floor with no intervention. 
+
+On the floor,  patient was stable and vitals were normal. 98.3 
+134/65 87 16 100RA. The patient had no acute complaints and was 
+accompanied by his wife and parents. 
+ 
+Past Medical History:
+Hyperlipidemia
+Hypertension
+Bipolar disorder 
+ 
+Social History:
+___
+Family History:
+Mother ALCOHOL ABUSE 
+  ARTHRITIS 
+  HYPERTENSION 
+  
+Father ALLERGIC RHINITIS 
+  HYPERTENSION 
+  BRAIN TUMOR 
+  
+Brother ASTHMA 
+  ALLERGIC RHINITIS 
+ 
+Physical Exam:
+Admission Physical Exam:
+========================
+Vital Signs: 0 98.8 104 129/77 20 100% RA 
+General: Alert, oriented, no acute distress  
+HEENT: Scleral icterus noted, MMM, oropharynx clear, EOMI, 
+PERRL, neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.
+Skin: patient had jaundice appearance  
+
+Discharge Physical Exam:
+========================
+Vitals: 98.1 127/66 74 16 98% RA
+General: alert, oriented, no acute distress  
+HEENT: sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNs2-12 intact, motor function grossly normal 
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 05:56PM BLOOD WBC-7.4 RBC-2.10*# Hgb-7.8*# Hct-22.8*# 
+MCV-109*# MCH-37.1*# MCHC-34.2 RDW-14.8 RDWSD-57.2* Plt ___
+___ 05:56PM BLOOD Neuts-49.4 ___ Monos-6.6 Eos-1.1 
+Baso-0.3 Im ___ AbsNeut-3.66 AbsLymp-3.09 AbsMono-0.49 
+AbsEos-0.08 AbsBaso-0.02
+___ 05:56PM BLOOD ___
+___ 12:17PM BLOOD Glucose-166* UreaN-8 Creat-1.1 Na-138 
+K-4.1 Cl-99 HCO3-26 AnGap-17
+___ 12:17PM BLOOD ALT-52* AST-37 LD(___)-253* CK(CPK)-50 
+AlkPhos-104 TotBili-1.8*
+___ 12:17PM BLOOD Albumin-4.7 Calcium-9.6 Phos-3.2 Mg-2.3
+
+Pertinent Labs:
+===============
+___ 12:17PM BLOOD Hypochr-NORMAL Anisocy-OCCASIONAL 
+Poiklo-OCCASIONAL Macrocy-2+ Microcy-NORMAL Polychr-1+ 
+Spheroc-OCCASIONAL
+___ 05:56PM BLOOD Ret Man-24.8* Abs Ret-0.52*
+___ 04:44AM BLOOD Ret Aut-19.6* Abs Ret-0.42*
+___ 05:56PM BLOOD QG6PD-18.1*
+___ 12:17PM BLOOD ___ 06:30AM BLOOD ___ 12:17PM BLOOD ALT-52* AST-37 LD(___)-253* CK(CPK)-50 
+AlkPhos-104 TotBili-1.8*
+___ 06:30AM BLOOD ALT-47* AST-37 LD(LDH)-252* AlkPhos-97 
+TotBili-1.9* DirBili-0.3 IndBili-1.6
+___ 06:30AM BLOOD calTIBC-282 ___ Ferritn-1268* 
+TRF-217
+___ 05:56PM BLOOD %HbA1c-3.5* eAG-54*
+___ 05:56PM BLOOD ___ * Titer-1:40
+___ 01:54PM BLOOD PEP-NO SPECIFI
+___ 01:54PM BLOOD HIV Ab-Negative
+
+Direct Coombs Negative
+Peripheral blood immunophenotyping pending
+Urine hemosiderin pending
+
+Imaging:
+========
+___ CXR:
+1. No acute intrathoracic process.
+2. 7 mm ovoid opacity projecting over the right midlung may 
+represent a
+calcified granuloma or bone finding.
+
+___ CTA:
+1. No acute CT findings in the abdomen or pelvis to explain the 
+patient's
+anemia.  No pancreatic mass.
+2.  Mild splenomegaly.
+
+Discharge Labs:
+===============
+___ 04:44AM BLOOD WBC-6.3 RBC-2.08* Hgb-7.8* Hct-23.5* 
+MCV-113* MCH-37.5* MCHC-33.2 RDW-14.0 RDWSD-57.1* Plt ___
+___ 06:30AM BLOOD ___ PTT-35.2 ___
+___ 04:44AM BLOOD Glucose-103* UreaN-11 Creat-1.0 Na-141 
+K-3.8 Cl-101 HCO3-25 AnGap-19
+___ 04:44AM BLOOD LD(LDH)-228 TotBili-1.8* DirBili-0.3 
+IndBili-1.5
+___ 04:44AM BLOOD Calcium-9.2 Phos-4.6* Mg-2.___ with a PMH of hyperlipidemia, hypertension, bipolar disorder 
+who presented with new onset anemia.
+
+# Anemia: ___ male with a past medical history of 
+hyperlipidemia, hypertension, bipolar disorder who presented 
+with new onset anemia with a Hg of 7.8 from a normal baseline, 
+accompanied by fatigue and night sweats. There was no evidence 
+of bleeding. His elevated reticulocyte count to 24, newly 
+reduced HbA1c to 3.8, and mildly elevated bilirubin and LD were 
+consistent with a recent hemolysis event. Hatoglobin was 
+negative and he was not thought to be actively hemolyzing. DAT 
+was negative. After CBC remained stable X 2 days with 
+downtrending hemolysis labs he was discharged home with plan to 
+follow up in ___ clinic in one week. Multiple tests were 
+pending at discharge, including peripheral blood 
+immunophenotyping for PNH and Coombs negative autoimmune 
+hemolytic anemia. Hematology felt that a coombs negative 
+autoimmune hemolytic anemia was the most likely diagnosis.
+
+# Bipolar Disorder: continued lamotrigine 150 mg PO DAILY, 
+glycopyrrolate 1 mg PO DAILY, aripiprazole 10 mg PO DAILY, and 
+venlafaxine XR 300 mg PO DAILY
+
+# HTN: continued amlodipine 10 mg PO DAILY 
+
+# HLD: continued simvastatin 20 mg PO QPM 
+
+# Asthma: continued montelukast 10 mg PO DAILY, albuterol 
+Inhaler ___ PUFF IH Q4H:PRN SOB 
+
+# GERD: continued Omeprazole 20 mg PO DAILY
+
+Transitional Issues:
+- urine hemosiderin, immunophenotyping (DAT negative autoimmune 
+hemolytic anemia), repeat DAT, flow cytometry for PNH, SPEP all 
+pending at discharge
+- needs hematology follow up. Office will call to schedule an 
+appointment
+- discharged on 5mg folic acid 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LamoTRIgine 300 mg PO DAILY 
+2. Glycopyrrolate 1 mg PO DAILY 
+3. ARIPiprazole 10 mg PO DAILY 
+4. amLODIPine 10 mg PO DAILY 
+5. Simvastatin 20 mg PO QPM 
+6. Montelukast 10 mg PO DAILY 
+7. Multivitamins 1 TAB PO DAILY 
+8. sildenafil 50 mg oral QHS:PRN ED 
+9. Omeprazole 20 mg PO DAILY 
+10. Venlafaxine XR 300 mg PO DAILY 
+11. Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB 
+
+ 
+Discharge Medications:
+1.  FoLIC Acid 5 mg PO DAILY 
+RX *folic acid 1 mg 5 tablet(s) by mouth daily Disp #*150 Tablet 
+Refills:*0 
+2.  Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB  
+3.  amLODIPine 10 mg PO DAILY  
+4.  ARIPiprazole 10 mg PO DAILY  
+5.  Glycopyrrolate 1 mg PO DAILY  
+6.  LamoTRIgine 300 mg PO DAILY  
+7.  Montelukast 10 mg PO DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Omeprazole 20 mg PO DAILY  
+10.  sildenafil 50 mg oral QHS:PRN ED  
+11.  Simvastatin 20 mg PO QPM  
+12.  Venlafaxine XR 300 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Hemolytic anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because your blood counts were 
+low. We think this was because your blood cells were getting 
+destroyed. We still do not know exactly why this was happening, 
+but we checked special blood tests. These tests are still 
+pending.
+
+Because your blood counts have been stable, we think that it is 
+now safe for you to go home. We are working on making an 
+appointment for you in the ___ clinic. Someone should 
+call you with the appointment. If you do not hear from anyone by 
+___, please call hematologist Dr. ___ at ___.
+
+If you notice that your urine is getting darker or have any 
+other concerning symptoms, you should come back to the ED.
+
+We are sending you home on a new medication called folic acid. 
+This is to help your body make new blood cells.
+
+Dr. ___ you to have an endoscopy and colonoscopy to 
+look into your stomach and intestines. Her office will also call 
+you, but the appointment will probably be on ___ at 9am.
+
+It was a pleasure taking care of you, and we are happy that you 
+are feeling better!
+ 
+Followup Instructions:
+___

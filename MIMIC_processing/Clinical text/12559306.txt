@@ -1,0 +1,247 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Sent in with elevated d-dimer and tachycardia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with a history of
+opioid use disorder in remission, depression,
+hypertriglyceridemia, and tobacco use disorder who was referred
+to the ED by her PCP after she was found to be tachycardic in 
+the
+150s with an elevated D-dimer.
+
+She reports that about 10 days ago, she developed generalized
+body aches, joint pain in her ankles and hands, swelling in her
+ankles, mild sore throat, and canker sores in her mouth. She 
+went
+to the ___ ER and was discharged home with a prescription for
+methocarbamol, which she started taking but this did not
+alleviate her symptoms. After this, she developed a pruritic,
+pustular rash over her face, chest, arms, and upper back. She
+went in to urgent care on ___ or ___ because the 
+swelling
+in her lower extremities was getting worse. She was prescribed
+Lasix and made an appointment for follow up with her PCP on
+___. She went in to her PCP and was found to be
+tachycardic with an elevated D-dimer and was sent to the ED. 
+
+Over the last 10 days, she reports her joint pain and body aches
+have improved. The sore throat is resolved. The rash is stable 
+to
+slightly improved. The ___ edema is worse, however.
+
+She denies chest pain, shortness of breath,
+lightheadedness/dizziness. No coughing or hemoptysis. No
+orthopnea or PND. No headaches, visual changes. No abdominal
+pain, nausea, vomiting, diarrhea. She is slightly constipated. 
+No
+dysuria, no frothy urine. 
+
+She has not been immobilized. No long distance travel recently.
+She does smoke cigarettes and does not take OCPs. ___ edema is
+symmetric. No personal history of malignancy. No family history
+of clotting disorder. No history of miscarriage.
+ 
+Past Medical History:
+obesity
+dyslipidemia
+
+ 
+Social History:
+___
+Family History:
+HTN - mother
+CAD - maternal grandmother
+___ - both sides of the family
+Alcohol use disorder - both parents
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: T 98.2, HR 97, BP 121/84, RR 18, SpO2 97% on RA
+GENERAL: Alert, NAD, breathing room air comfortably
+EYES: Anicteric, PERRL
+ENT: Aphthous ulcers involving buccal mucosa and the sides of 
+the
+tongue
+CV: Tachycardic, regular rhythm, no m/r/g, JVP not elevated
+RESP: CTAB, no wheezes, crackles, or rhonchi
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+EXT: ___ non-pitting edema in bilateral ___ up to the mid-shin
+SKIN: Pustular rash (many lesions are excoriated with overlying
+eschar) involving the face, chest, arms, and upper back
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+CTA chest ___
+Small segmental pulmonary embolus in the posterior segment of 
+the
+right lower lobe. 
+
+ADMISSION LABS
+WBC 11.8; otherwise CBC wnl
+Chem7 wnl
+ALP 130, otherwise LFTs wnl
+D-dimer 853
+INR 1, PTT 33.6
+proBNP 61
+TSH 0.86
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with a history of opioid use 
+disorder in remission, depression, hypertriglyceridemia, and 
+tobacco use disorder who was referred to the ED by her PCP for 
+tachycardia and an elevated D-dimer. She was found to have a 
+small segmental PE. Also with an odd constellation of new 
+symptoms including recent facial and truncal macular/acneiform 
+rash, new bilateral ___ edema and hand puffiness, aphthous 
+ulcers, polyarthralgias, and pharyngitis.
+
+# RLL segmental PE
+This preliminarily appears to be an unprovoked PE. She does not 
+take OCPs and is not currently pregnant. When her labs were last 
+checked, her folate level was undetectable. It is unclear why 
+her folate level would be so low as she does not have an alcohol 
+use disorder and has no dietary restrictions. Perhaps elevated 
+homocysteine levels in the setting of folate deficiency could 
+have predisposed her to thrombosis? Beta-2-Glycoprotein 
+antibodies and cardiolipin antibodies were sent and are pending. 
+
+She was started on warfarin 5 mg daily with a lovenox bridge 
+(her health insurance generally does not approve DOACs without a 
+warfarin failure). She was treated with Lovenox, which will be 
+continued to therapeutic INR. She will be followed at ___ 
+___ clinic, and arrangements were made for her to 
+get her INRs checked at ___, which is closer to her 
+home.
+Unless her odd constellation of symptoms is found to be a 
+reversible process that could potentially explain her VTE, she 
+will likely need lifelong anticoagulation.
+
+# Bilateral ___ edema
+Non-pitting lower extremity edema and puffy hands in a pattern 
+clinically more suggestive of myxedema than anything else, 
+although TSH was not abnormal. LENIs were negative for DVT 
+bilaterally. JVP and BNP were low and TTE was unremarkable, so 
+CHF is excluded. LFTs are within normal limits and she has no 
+history of chronic liver disease. No proteinuria, so nephrotic 
+syndrome is excluded. She had been trying Lasix and NSAIDs for 
+the swelling previously, but was counseled that these are both 
+unlikely to help and was given compression stockings. 
+
+# Polyarthralgias 
+# Pustular rash
+# Aphthous ulcers
+The patient was seen by rheumatology, who suspected a viral 
+syndrome; they comment that SLE could explain some of the 
+symptoms, and also comment that while Behcet's may present with 
+oral ulcer associated with VTE, it is vanishingly rare in 
+patient's of ___ heritage. Seen by ID who did not feel that 
+the rash was typical of any viral exanthem, but wondered if it 
+could be an unusual presentation of a drug rash.  
+If these symptoms do not continue to improve or are recurrent, 
+would consider working
+up for a rheumatologic process. 
+___ negative, CRP not elevated, HIV negative, Lyme negative, HCV 
+and HBV negative, VZV negative, monospot negative. RPR, EBV, 
+parvovirus B19,  dsDNA are pending.
+
+# MDD - continue home citalopram 20 mg daily
+
+# Contacts/HCP/Surrogate and Communication: ___ (aunt)
+___
+# Code Status/ACP: Full code
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 20 mg PO DAILY 
+2. Furosemide Dose is Unknown  PO DAILY 
+3. Methocarbamol Dose is Unknown  PO Frequency is Unknown 
+4. Ibuprofen 600 mg PO BID:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 70 mg SC Q12H 
+RX *enoxaparin 80 mg/0.8 mL 80 mg SQ twice a day Disp #*28 
+Syringe Refills:*0 
+2.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+3.  Warfarin 5 mg PO DAILY16 
+RX *warfarin [Coumadin] 2.5 mg 2 tablet(s) by mouth qPM Disp 
+#*60 Tablet Refills:*0 
+4.  Citalopram 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pulmonary embolism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with a pulmonary embolism, or blood clot that 
+went to the lung. We are giving you warfarin (Coumadin) to thin 
+your blood for at least the next three months. You will take 
+twice daily enoxaparin (Lovenox) shots for a few days until the 
+warfarin has fully taken effect. We follow a measure of blood 
+clotting called INR to know if warfarin is being dosed 
+appropriately. A therapeutic INR is between 2.0 and 3.0. 
+
+You will be followed by the ___ clinic at ___, 
+which is affiliated with your PCP ___.  However, you 
+can get your INR checked at ___. Just go to 
+pre-admissions testing which near the main entrance, 
+downstairs near ___. When the lab result comes back, 
+you will be called by the pharmacist in town to adjust your 
+warfarin dose as needed. 
+
+Your first INR check will be on ___.  They tell me there will 
+be a standing order for labs in place and ___ will be 
+expecting you, but I have also given you a paper script for 
+bloodwork just in case. 
+
+You also had a variety of unusual symptoms that may have been 
+symptoms a virus, an adverse reaction to a medication, 
+deficiency of the vitamin folic acid, or an autoimmune disease. 
+We went a very large number of tests to figure out what might be 
+going on. I will call you if anything really notable comes back 
+positive. If the symptoms persist, you have an appointment with 
+Dr. ___ rheumatology to do further workup. If the 
+symptoms all go away, then it was unlikely to have been an 
+autoimmune disease and you are welcome to cancel this 
+appointment  (___).
+
+ 
+Followup Instructions:
+___

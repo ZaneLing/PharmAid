@@ -1,0 +1,468 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Cephalosporins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, vomiting, upper abdominal pain 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of anxiety, obesity, and appendicitis c/b
+peritonitis and ex-lap who presents with nausea/vomiting and
+abdominal pain. Her symptoms started around 5PM of ___. She had 
+2
+episodes of non-bloody, non-bilious emesis at home with 2 
+further
+episodes in the ED. Her abdominal pain is mostly epigastric and
+___. The pain is crampy and intermittent without 
+clear
+worsening or alleviating factors. Her last bowel movement was 
+the
+day of presentation and she has been passing flatus. She denies
+recent travel, sick contacts, diarrhea, constipation,
+black/bloody stools, changes in urination.
+
+- In the ED, initial vitals were:
+T 97.7F HR 115 BP 145/93 RR 20 O2 97% RA 
+
+- Exam was notable for:
+"Abd: BS+, soft, TTP at LUQ & epigastric areas w/ voluntary
+guarding, no rigidity or rebound"
+
+- Labs were notable for:
+WBC 21.5 Hgb 14.7 Plt 348 
+BMP unremarkable 
+LFTs and lipase unremarkable 
+Lactate 1.4
+CRP 3.8 
+
+- Studies were notable for:
+Liver US 
+1. No evidence of cholelithiasis or acute cholecystitis.
+2. Echogenic liver consistent with steatosis. Other forms of
+liver disease including steatohepatitis, hepatic fibrosis, or
+cirrhosis cannot be excluded on the basis of this examination.
+Outpatient GI/hepatology follow-up with MR ___ ultrasound
+___ is recommended as clinically indicated.
+
+CT abdomen and pelvis with contrast 
+1. Multiple mildly dilated loops of small bowel in the Left 
+upper
+quadrant measuring up to 3.2 cm without evidence of transition
+point or upstream dilation to suggest obstruction. Just distal 
+to
+the dilated loops is a short segment of jejunum demonstrating
+mild wall thickening and adjacent soft tissue stranding with
+multiple reactive mesenteric lymph nodes, suggestive of an
+underlying inflammatory or infectious process. Questionable
+intramural fat is seen within this segment of bowel, which can 
+be
+seen in the setting of inflammatory bowel disease.
+2. No evidence of diverticulitis.
+
+- The patient was given:
+IV Ondansetron 4 mg x2 
+IV Morphine Sulfate 4 mg x2
+IV Metoclopramide 10 mg 
+IV DiphenhydrAMINE 25 mg 
+2L NS 
+
+On arrival to the floor, she reports her pain has improved since
+being in the ED. She reports she was ready to leave around 2 am
+when she had nausea/vomiting again, so she was admitted.
+Currently her pain is epigastric and mild. She has not tried to
+eat. Last bowel movement was yesterday, no change in character
+from usual. She does not feel starved, but thinks she can try to
+eat something.
+
+REVIEW OF SYSTEMS:
+==================
+Per HPI, otherwise, 10-point review of systems was within normal
+limits.
+ 
+Past Medical History:
+Anxiety
+Obesity 
+Appendicitis - at age ___ c/b peritonitis and ex-lap 
+Removal of fallopian tubes due to hydrosalpinx and scarring
+from her appendicitis perforation
+Egg harvesting 
+ 
+Social History:
+___
+Family History:
+GM with hypothyroidism, colon CAn ___
+pGM- uterine CA, 80s 
+dad- lung CA x 2, smoker
+mom- healthy
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM
+VITALS:
+24 HR Data (last updated ___ @ 822)
+    Temp: 98.3 (Tm 98.3), BP: 116/81, HR: 86, RR: 18, O2 sat:
+96%, O2 delivery: ra
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, mildly tender to
+light palpation in the epigastric region. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout.
+
+Discharge physical exam:
+VITALS:
+24 HR Data (last updated ___ @ 1500)
+    Temp: 98.4 (Tm 98.4), BP: 107/73 (107-116/71-81), HR: 71 
+(67-86), RR: 18 (___), O2 sat: 97% (96-97), O2 delivery: ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, mildly tender to
+light palpation in the epigastric region. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout.
+ 
+Pertinent Results:
+ADMISSION LABS
+============
+___ 08:02PM BLOOD WBC-21.5* RBC-5.12 Hgb-14.7 Hct-44.2 
+MCV-86 MCH-28.7 MCHC-33.3 RDW-13.2 RDWSD-41.6 Plt ___
+___ 08:02PM BLOOD Neuts-72.5* ___ Monos-6.1 Eos-1.0 
+Baso-0.7 Im ___ AbsNeut-15.55* AbsLymp-4.15* AbsMono-1.31* 
+AbsEos-0.22 AbsBaso-0.15*
+___ 08:02PM BLOOD Glucose-119* UreaN-11 Creat-0.9 Na-138 
+K-4.3 Cl-102 HCO3-20* AnGap-16
+___ 08:02PM BLOOD ALT-19 AST-14 AlkPhos-107* TotBili-0.4
+___ 08:02PM BLOOD Lipase-39
+___ 08:02PM BLOOD Albumin-4.9
+___ 08:02PM BLOOD HCG-<5
+___ 08:02PM BLOOD ANCA-NEGATIVE B
+___ 08:02PM BLOOD CRP-3.8
+
+MICRO
+=======
+___ 9:26 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+___ 8:01 am URINE
+
+   URINE CULTURE (Pending): 
+
+PERTINENT STUDIES
+===================
+RUQ ULTRASOUND ___
+
+FINDINGS:  
+LIVER: The liver is diffusely echogenic. The contour of the 
+liver is smooth. 
+There is no focal liver mass. The main portal vein is patent 
+with hepatopetal 
+flow. There is no ascites. 
+  
+BILE DUCTS: There is no intrahepatic biliary dilation. 
+ CHD: 3 mm 
+  
+GALLBLADDER: There is no evidence of stones or gallbladder wall 
+thickening. 
+  
+PANCREAS: The imaged portion of the pancreas appears within 
+normal limits, 
+without masses or pancreatic ductal dilation, with portions of 
+the pancreatic 
+tail obscured by overlying bowel gas. 
+  
+SPLEEN: Normal echogenicity. 
+ Spleen length: 11.4 cm 
+  
+KIDNEYS: Limited views of the kidneys show no hydronephrosis. 
+ Right kidney: 13.1 cm 
+ Left kidney: 12.9 cm 
+  
+RETROPERITONEUM: The visualized portions of aorta and IVC are 
+within normal 
+limits. 
+  
+IMPRESSION: 
+  
+  
+1. No evidence of cholelithiasis or acute cholecystitis. 
+2. Echogenic liver consistent with steatosis. Other forms of 
+liver disease 
+including steatohepatitis, hepatic fibrosis, or cirrhosis cannot 
+be excluded 
+on the basis of this examination. 
+  
+RECOMMENDATION(S): Radiological evidence of fatty liver does not 
+exclude 
+cirrhosis or significant liver fibrosis which could be further 
+evaluated by 
+___. This can be requested via the ___ 
+(FibroScan) or the 
+Radiology Department with either MR ___ or US 
+___, in 
+conjunction with a GI/Hepatology consultation" * 
+  
+
+CT ABDOMEN PELVIS ___
+FINDINGS:  
+  
+LOWER CHEST: Visualized lung fields are within normal limits.  
+There is no 
+evidence of pleural or pericardial effusion. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout.  
+There is no evidence of focal lesions. There is no evidence of 
+intrahepatic or 
+extrahepatic biliary dilatation.  The gallbladder is within 
+normal limits. 
+  
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of 
+focal lesions or pancreatic ductal dilatation.  There is no 
+peripancreatic 
+stranding. 
+  
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without 
+evidence of focal lesions.  A 1.6 cm accessory spleen is noted. 
+  
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.  
+There is no evidence of focal renal lesions or hydronephrosis.  
+There is no 
+perinephric abnormality. 
+  
+GASTROINTESTINAL: The stomach is unremarkable.  There are 
+multiple mildly 
+dilated, fluid and air-filled loops of small-bowel in the left 
+upper quadrant 
+measuring up to 3.2 cm (02:36).  Just distal to the dilated 
+loops is a short 
+segment of jejunum demonstrating mild wall thickening and 
+adjacent soft tissue 
+stranding, suggestive of an underlying inflammatory or 
+infectious process 
+(2:57).  There is questionable intramural fat within this loop, 
+suggestive of 
+inflammatory bowel disease (02:52).  Multiple scattered 
+prominent mesenteric 
+lymph nodes are seen measuring up to 7 mm (02:59), none 
+pathologically 
+enlarged based on CT size criteria and likely reactive.  The 
+terminal ileum is 
+unremarkable.  The colon and rectum are within normal limits. 
+The appendix is 
+not visualized. 
+  
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no 
+free fluid in the pelvis. 
+  
+REPRODUCTIVE ORGANS: The visualized reproductive organs are 
+unremarkable. 
+  
+LYMPH NODES: There is no retroperitoneal lymphadenopathy.  There 
+is no pelvic 
+or inguinal lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  No 
+atherosclerotic disease 
+is noted. 
+  
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture. 
+  
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits. 
+  
+IMPRESSION: 
+  
+  
+1. Small bowel obstruction due to long segment of inflammatory 
+stricture in 
+the jejunum.  Findings are concerning for Crohn's disease, 
+differential 
+diagnosis includes infectious etiology.  Further evaluation with 
+MRI is 
+recommended 
+2. No evidence of diverticulitis. 
+  
+RECOMMENDATION(S):  MRE to further evaluate for inflammatory 
+bowel disease. 
+
+DISCHARGE LABS
+================
+___ 10:26AM BLOOD WBC-11.8* RBC-4.33 Hgb-12.6 Hct-38.9 
+MCV-90 MCH-29.1 MCHC-32.4 RDW-13.6 RDWSD-44.1 Plt ___
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT:
+====================
+___ female with history of anxiety, remote appendicitis, 
+complicated by peritonitis and exploratory laparotomy who 
+presented with several hours of abdominal pain. Work-up was 
+revealed an area of stricture in the jejunum which was 
+concerning for an inflammatory vs infectious process, and 
+possibly inflammatory bowel disease. Given this finding, it was 
+recommended that she stay for further evaluation and GI 
+consultation, however she understood the risks of leaving and 
+the possibility of having to return to the hospital and 
+preferred to leave and perform the rest of the evaluation as an 
+outpatient. She will follow-up in outpatient GI clinic at the 
+next available appointment.
+
+TRANSITIONAL ISSUES:
+====================
+[] Patient noted to have hepatic steatosis on CT abdomen, 
+possibly secondary to nonalcoholic fatty liver disease. 
+Recommend following up in primary care to discuss further 
+evaluation and management.
+
+[] CT abdomen reported area of jejunal stricture possibly 
+consistent with inflammatory bowel disease. Recommend follow-up 
+with gastroenterology to determine next steps, specifically MRE 
+versus enteroscopy.
+
+ACTIVE ISSUES:
+==============
+#Abdominal pain
+#Nausea/vomiting
+Patient presented with several hours of abdominal pain 
+accompanied by 2 episodes of nonbilious nonbloody vomiting. This 
+was the first episode like this she has experienced. She denied 
+recent travel or new exposures. There are no obvious triggers. 
+In the emergency department, she had WBC 21 and CT scan which 
+showed dilated bowel loops and one area of inflammation in the 
+jejunum, as well as hepatic steatosis but no findings otherwise. 
+Her exam was benign. CRP was normal, although ESR and ANCA 
+pending at discharge (likely be low yield). She was about to be 
+discharged from the emergency department after receiving pain 
+medications and antiemetics, however had another episode of 
+nausea and vomiting and thus was admitted to the medicine 
+service. On arrival to medicine service, her pain had resolved 
+and soft diet was initiated. She tolerated this well and repeat 
+CBC that showed an improvement in leukocytosis to ___ 11. Due to 
+the stricture seen on CT, it was recommended that she stay in 
+the hospital for GI consultation and further evaluation with MRE 
+vs endoscopy, however she preferred to leave the hospital and 
+understood the risks of recurrence of symptoms and having to 
+return to the hospital. She was discharged home.
+
+#Hepatic steatosis
+Incidentally noted on CT abdomen, possibly secondary to 
+nonalcoholic fatty liver disease. Recommend management as an 
+outpatient.
+
+CHRONIC ISSUES:
+===============
+Continued home medications naltrexone and bupropion.
+
+CONTACT:
+___ (Cell)
+CODE STATUS: full presumed
+
+>30 minutes spent on ___ planning including discussing plan with 
+pt, and need for f/u
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Naltrexone 25 mg PO DAILY 
+2. BuPROPion (Sustained Release) 100 mg PO QAM 
+
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q8H:PRN Pain - Mild/Fever  
+2.  BuPROPion (Sustained Release) 100 mg PO QAM  
+3.  Naltrexone 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+Gastroenteritis
+
+SECONDARY DIAGNOSES:
+Hepatic steatosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___ 
+___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital because you had abdominal 
+pain, nausea, and vomiting.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- In the hospital, you had blood tests showing an elevated white 
+blood cell count, which can happen with infection or 
+inflammation. You had a abdominal CT which showed inflammation, 
+stricture, and obstruction in a small area of your intestine. 
+You were given fluids and medications for your nausea and pain. 
+You were monitored as your diet was restarted and you were 
+discharged home. We recommended that you stay in the hospital 
+for further evaluation of this stricture, however since you 
+prefer to pursue this workup as an outpatient we will attempt to 
+set up close follow-up and imaging as an outpatient.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- Please take all of your medications exactly as prescribed and 
+attend all of your follow-up appointments listed below.
+
+- Please reach out to the ___ clinic at 
+___ to schedule an appointment if you do not hear from 
+the GI team within the next few days.
+
+We wish you the best!
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

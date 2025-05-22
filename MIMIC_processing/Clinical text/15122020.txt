@@ -1,0 +1,164 @@
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+simvastatin / Ezetimibe / lovastatin / Pravachol / Advair Diskus
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Disorientation
+ 
+Major Surgical or Invasive Procedure:
+N/A
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with a history of asthma, GERD, 
+and HTN who presents with cognitive issues.
+
+Ms. ___ initially presented to the ED with shortness of breath 
+and chest discomfort. She states she awoke this morning with 
+chest pain at 0600, described as chest tightness lasting a few 
+hours and resolving spontaneously worse with exertion, no SOB. 
+Did not take anything for it. She said it feels like her asthma. 
+She denies cough, congestion, hemoptysis, lower extremity 
+swelling, or fevers. In the ED VS were WNL, troponins were 
+negative, EKG was not suggestive of infection, and CXR did not 
+suggest pneumonia. Physical exam was without wheezing. Her 
+symptoms resolved without intervention.
+
+However, it was apparent that the patient's recollection of 
+events was not accurate. Her family was present and stated that 
+the patient has been demonstrating forgetfulness since ___ 
+and has been misplacing things. For the past few weeks she has 
+also been talking about events that have not actually occurred. 
+The family and PCP have been concerned about dementia, but a 
+formal diagnosis has not been made. In the ED her urine had WBCs 
+and bacteria, but the patient denies any urinary symptoms.
+
+ROS: A ___ review of systems was obtained and was otherwise 
+negative with limitations as mentioned above
+
+ 
+Past Medical History:
+PAST MEDICAL/SURGICAL HISTORY:
+Astham, GERD, HTN
+Knee surgery, shoulder surgery, foot surgery
+ 
+Social History:
+___
+Family History:
+Family members with HTN
+ 
+Physical Exam:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+CV: Heart regular, no murmur, No JVD.
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is ___
+GI: Abdomen soft, ___ to palpation.  Bowel 
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, face symmetric, gaze conjugate with EOMI, speech 
+fluent, moves all limbs, sensation to light touch intact 
+throughout, ___ intact. ___ strength in upper and lower 
+extremities, 2+ patellar reflexes.
+MiniCOG: ___ object immediately, ___ objects recalled at 5 min. 
+Left side of clock with duplication of numbers. Unable to place 
+clock hands for stated time
+PSYCH: Calm mood
+
+ 
+Pertinent Results:
+___ 09:00AM BLOOD ___ 
+___ Plt ___
+___ 09:00AM BLOOD ___ 
+___ Im ___ 
+___
+___ 09:00AM BLOOD ___ 
+___
+___ 02:50PM BLOOD cTropnT-<0.___ female with a history of asthma, GERD, and HTN who 
+presents with cognitive issues.
+
+ACUTE/ACTIVE PROBLEMS:
+# Neurocognitive disorder: From talking with the patient's son 
+and daughter, her progressive changes from ___ are 
+concerning for dementia. Hypothyroidism and vitamin B12 
+deficiencies are possible. UTI could be contributing, but this 
+had been a gradual change over the past several months. The 
+timing of change is not consistent with CJD. The patient was 
+initially admitted for workup and treatment of UTI. However the 
+patient strongly voiced a desire to leave, got herself dressed, 
+and attempted to walk out. As her current presentation is 
+concerning for dementia without other etiologies or more rapidly 
+progressive etiologies requiring inpatient diagnostic workup, 
+the family decided to take the patient back home tonight with 
+them rather than subject her to a disorientation experience 
+requiring 1:1 sitter and potentially antipsychotics or 
+restraints. They will follow up with her PCP urgently to pursue 
+neuropsychiatric testing. They had already been looking into 
+living facilities.
+Transitional issues:
+[ ] F/U TSH, B12, urine culture
+[ ] Outpatient neuropsychiatric testing
+
+#UTI: U/A with WBC and bacteria though patient without urinary 
+symptoms. Received ceftriaxone in ED. Will treat with 3 days of 
+Bactrim DS BID in case a UTI is contributing to her cognitive 
+situation
+
+CHRONIC/STABLE PROBLEMS:
+# GERD: Discontinue omeprazole due to possible effects on 
+cognition
+
+#HTN: Continue home nifedipine and metoprolol
+
+ 
+Discharge Medications:
+1.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 3 Days 
+RX ___ 800 ___ mg 1 tablet(s) by 
+mouth Twice daily Disp #*6 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+UTI
+Concern for neurocognitive disorder
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to ___ for a possible urinary tract 
+infection. We started you on antibiotics. A urine culture is 
+pending. We are also checking your thyroid function and your 
+vitamin B12 level.
+
+Instructions:
+- Take Bactrim DS one tablet twice daily for 3 days starting 
+tomorrow
+- Follow up with your PCP 
+- ___ taking omeprazole as research suggests it might impair 
+memory
+ 
+Followup Instructions:
+___

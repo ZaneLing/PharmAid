@@ -1,0 +1,181 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain  
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ with no GERD presents with 3 weeks ___ non-exertional chest 
+pain. He has never had this pain before and was in his usual 
+state of health. He describes the pain as lastin minutes, on the 
+left side, with some fatigue and lightheadedness. Sometimes he 
+feels it in the arm. No obvious triggers and not necessarily 
+assoc with exercise as he worked out at the GYM without these 
+symptoms recently. He denies f/c, cough, SOB, swelling , PND, 
+leg pain. He has not traveled anywhere.  
+.  
+He was evalauted in ___. Per report, CK 396 MB 6. 
+Transferred to ___ for further evaluation  
+.  
+In the ED, AVSS, CK 331 with MB 6 and trop negative. EKG and CXR 
+unremarkable except for inferior Q waves but no priors. He was 
+given ASA and morphine.  
+.  
+On arrival to the floor, he is asymptomatic. 
+.
+ 
+Past Medical History:
+GERD  
+Herniated Disc  
+ 
+Social History:
+___
+Family History:
+Brother had hypotension.
+Mother had CAD.
+ 
+Physical Exam:
+VS - T 96, BP 150/79, HR 52, RR 16, 99%RA  
+Gen: WDWN middle aged male in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa.  
+Neck: Supple with flat JVP.  
+CV: PMI located in ___ intercostal space, midclavicular line. 
+RR, normal S1, S2. No m/r/g. No thrills, lifts. No S3 or S4.  
+Chest: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB, no crackles, 
+wheezes or rhonchi.  
+Abd: Soft, NTND. No HSM or tenderness. Abd aorta not enlarged by 
+palpation. No abdominial bruits.  
+Ext: No c/c/e. No femoral bruits.  
+Skin: No dermatitis, ulcers, scars, or xanthomas. 
+ 
+Pertinent Results:
+Admit Labs:
+___ 04:00PM BLOOD WBC-5.3 RBC-4.48* Hgb-13.5* Hct-39.0* 
+MCV-87 MCH-30.1 MCHC-34.6 RDW-13.2 Plt ___
+___ 04:00PM BLOOD Neuts-55.6 ___ Monos-6.0 Eos-1.6 
+Baso-0.3
+___ 04:00PM BLOOD CK(CPK)-331*
+___ 12:53AM BLOOD CK(CPK)-265*
+___ 06:50AM BLOOD CK(CPK)-251*
+___ 04:00PM BLOOD CK-MB-6
+___ 04:00PM BLOOD cTropnT-<0.01
+___ 12:53AM BLOOD CK-MB-6 cTropnT-<0.01
+___ 06:50AM BLOOD CK-MB-6 cTropnT-<0.01
+.
+Excercise stress ___: Prelim
+___ yo man was referred to evaluate an atypical chest 
+discomfort. The patient completed 10.5 minutes of ___ 
+protocol 
+representing an excellent functional exercise tolerance; ~ 11 
+METS. The 
+exercise test was stopped at the patient's request secondary to 
+fatigue. 
+No chest, back, neck or arm discomforts were reported by the 
+patient 
+during the procedure. At peak exercise, and in the presence of 
+voltage 
+meeting criteria for LVH, 1.0 mm upsloping ST segment depression 
+was 
+noted inferolaterllly. The rhythm was sinus with frequent atrial 
+
+irritability noted throughout exercise and early recovery; 
+frequent 
+isolated APDs, occasional atrial couplets and rare non-conducted 
+APDs. 
+The hemodynamic response to exercise was appropriate.   
+IMPRESSION: Excellent functional exercise tolerance. No anginal 
+symptoms or significant ST segment changes. Frequent atrial 
+irritability 
+noted during the procedure. Nuclear report sent separately. 
+.
+Stress MIBI ___:
+The image quality is mildly degraded by motion. Mild soft tissue 
+attenuation. 
+Left ventricular cavity size is mildly enlarged EDV = 119ml. 
+Resting and stress perfusion images reveal a mild fixed anterior 
+wall perfusion deficit believed secondary to motion artifact. 
+Gated images reveal normal wall motion. 
+The calculated left ventricular ejection fraction is 57 %. 
+IMPRESSION: 
+1. Probably normal left ventricular perfusion in the setting of 
+motion artifact.
+2. Mild left ventricular dilitation LV EDV = 119ml, EF = 57 %. 
+
+ 
+Brief Hospital Course:
+___ year old gentleman with no significant PMH who presents with 
+3 weeks intermittent brief chest pain. 
+.  
+# Chest Pain: Only risk factor for CAD is sex/age. Otherwise 
+healthy. Ruled out for MI with negative cardiac enzymes x 3.  
+CXR unremarkable per OSH report and no infectious symptoms.  
+Telemetry did not show any significant arrythmia.  Good 
+functional status and asymptomatic during stress test.  Prelim 
+read of MIBI is complicated by artifact.  Continue baby ASA.  
+Discharged on prilosec. Follow up appointment with PCP was 
+attempted but his office is closed.  Patient was asked to set up 
+a follow up appointment within one week of discharge.  
+
+ 
+Medications on Admission:
+ASA 81mg daily  
+Prilosec  
+MVI  
+Fish oil BID (unclear of dose)  
+Mg, unclear of dosage  
+ 
+Discharge Medications:
+1. Aspirin 81 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO DAILY (Daily).  
+2. Hexavitamin     Tablet Sig: One (1) Cap PO DAILY (Daily).  
+3. Prilosec 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Non cardiac chest pain
+.
+Secondary:
+GERD
+
+ 
+Discharge Condition:
+Asyptomatic and hemodynamically stable.
+
+ 
+Discharge Instructions:
+You were admitted to ___ with 
+chest pain.  You did not have a heart attack.  Your symptoms 
+resolved prior to discharge.
+.
+Please take all the medications as written.
+.
+Please keep all the follow up appointments.
+.
+If you develop chest pain, shortness of breath or any other 
+concerning symptoms, please call your primary care doctor or 
+come to the Emergency Department.
+ 
+Followup Instructions:
+___

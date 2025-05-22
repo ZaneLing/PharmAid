@@ -1,0 +1,210 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pain, AMS
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ woman with past medical history of hypertension and
+dementia (baseline pleasant, AAO x1) transferred from ___ with altered mental status and foci of gas in the
+bilateral cavernous sinus. Unable to obtain history from the
+patient, or reach family. According to reports, while at home
+patient fell backwards in chair and had jerking motion described
+by the daughter. According to reports there is no frank head
+trauma or loss of consciousness, nausea or vomiting, numbness or
+weakness. Possible history of headache 2 days ago. At ___, patient had UA and chest x-ray which were negative for
+signs of infection. Trop was negative (at 0850) Patient had a CT
+scan of the head and neck which revealed bilateral foci of air 
+in
+the cavernous sinus prompting transfer for neurology evaluation
+ 
+Past Medical History:
+Dementia
+Hypertension
+ 
+Social History:
+___
+Family History:
+Noncontributory 
+ 
+Physical Exam:
+Admission Exam:
+
+General: AO x 1
+HEENT: Sclerae anicteric, MMM, oropharynx clear
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally 
+Abdomen: Soft, non-tender, non-distended 
+Ext: Warm, well perfused, no ___ edema
+Neuro: No apparent focal deficits. Unable to cooperate with 
+exam.
+Moving all four extremities spontaneously.
+
+Discharge Exam:
+
+General: AO to person and place.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, 
+Lungs: Clear to auscultation bilaterally 
+Abdomen: Soft, non-tender, non-distended 
+Ext: Warm, well perfused, no ___ edema
+Neuro: Cn II-XI intact. ___ strength in upper and lower
+extremity. 
+
+ 
+Pertinent Results:
+___ 05:47AM BLOOD WBC-6.0 RBC-4.09 Hgb-11.4 Hct-36.0 MCV-88 
+MCH-27.9 MCHC-31.7* RDW-15.5 RDWSD-50.1* Plt ___
+___ 05:47AM BLOOD Glucose-93 UreaN-16 Creat-0.9 Na-146 
+K-4.1 Cl-106 HCO3-26 AnGap-14
+___ 03:28PM BLOOD ALT-8 AST-16 AlkPhos-125* TotBili-0.3
+___ 05:47AM BLOOD Calcium-9.5 Phos-3.5 Mg-2.0
+___ 03:28PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+___ 05:47AM BLOOD SED RATE-Test      
+ 
+Brief Hospital Course:
+___ woman with past medical history of hypertension and 
+dementia (baseline pleasant, AAO x1) transferred from ___ 
+___ with altered mental status and foci of gas in the 
+bilateral cavernous sinus as well as pain in the left side of 
+her face due to trigeminal neuralgia. 
+
+ACUTE ISSUES:
+=============
+
+#Trigeminal neuroalgia: 
+Patient with admission to ___ for shooting jaw pain in 
+___. She follows with neurologist ___. MD at 
+___ and has started gabapentin QHS. She continued to have 
+episodic shooting pain in the left side of her face and left 
+upper jaw. This is due to her trigeminal neuralgia. Her 
+gabapentin was increased from 100mg QHs to 100mg TID. She was 
+seen by neurology who recommend continued outpatient workup. in 
+addition, neurology recommended ESR for evaluation of possible, 
+(though unlikely) temporal arteritis without temporal artery 
+involvement as etiology of jaw pain. ESR was pending at time of 
+discharge. 
+
+#Dementia
+#?Altered mental status: 
+Patient with underlining dementia. She was AAO to person and 
+place. In talking to her caretaker ___ this is at her 
+baseline. I spoke to caretaker ___ ___ who 
+reports that patient was in her otherwise state of health but 
+had shooting pain in her jaw. She was given some tramadol that 
+was prescribed to her for her hip surgery which made her very 
+sleepy. This is likely the cause of her AMS as her labs are 
+normal and she was back to her baseline according to her 
+caretaker. 
+
+#Air in the cavernous Sinus:
+Patient transferred from ___ to ___ given incidental CT 
+finding of air in cavernous sinus. The most likely etiology of 
+this is iatrogenic from IV placement, trauma or cranio facial 
+infection. 
+Patient has no evidence of trauma on CT of head and spine to 
+suggest this is the etiology of air in the cavernous sinus. The 
+patient had no leukocytosis, fever or evidence of infection of 
+her mouth teeth or other areas of face to suggest infection. 
+This incidental finding of air in cavernous sinus is most likely 
+from IV placement. There is no suggested treatment for follow-up 
+for this.
+
+Chronic Issues:
+===============
+#HTN: Continue home lisinopril 5
+#GERD: Continue home ranitidine
+
+Transitional Issues:
+====================
+Continue to work with outpatient neurologist to treat trigeminal 
+neuralgia. 
+Please follow up ESR sent at ___ at ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gabapentin 100 mg PO QHS 
+2. Memantine 5 mg PO QAM 
+3. Memantine 10 mg PO QPM 
+4. Lisinopril 5 mg PO DAILY 
+5. Ranitidine 150 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Gabapentin 100 mg PO TID 
+RX *gabapentin 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*30 Capsule Refills:*1 
+2.  Lisinopril 5 mg PO DAILY  
+3.  Memantine 5 mg PO QAM  
+4.  Memantine 10 mg PO QPM  
+5.  Ranitidine 150 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left side face Trigeminal Neuralgia 
+Incidental air in cavernous sinus. 
+Dementia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I IN THE HOSPITAL?  
+- Because you have facial pain
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- This face pain is from a nerve disorder called trigeminal 
+neuralgia. 
+- Trigeminal Neuralgia causes sharp pain on the left side of 
+your face. 
+- The best medications for this are gabapentin and Tylenol
+- Please avoid tramadol or other opiates. 
+- We increased your gabapentin from 100QHS to 100mg TID. 
+- You should make an appointment with your neurologist for the 
+week after discharge to work on increasing medications to help 
+control your trigeminal neuralgia. 
+ 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medicines and keep your 
+appointments.
+
+We wish you the best!
+
+Sincerely,  
+Your ___ Team 
+ 
+Followup Instructions:
+___

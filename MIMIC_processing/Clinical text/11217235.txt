@@ -1,0 +1,181 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+tramadol / hydrocodone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hyponatremia
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo woman hx of HTN, spinal stenosis and a 
+remote hx of DCIS, and stromal tumor s/p resection (___), who 
+presented to ___ with malaise, epigastric pain, nausea, 
+diarrhea, and confusion. 
+
+She was reportedly brought into the ___ because she was 
+not acting like herself. She reported about ___ days of nausea 
+and diarrhea as well as urinary frequency. CT head without mass 
+or evidence of ICP. CXR without acute process. At ___, labs 
+notable for Na of 117. Given no MICU beds, she was transferred 
+to the ___ for MICU admission. 
+
+In the ED, initial vitals:  97.9 96 130/65 18 98% RA 
+- Labs were notable for Na 119, BUN 11, Cre 0.6, WBC 4.5, H/H 
+10.5/31.5 with normal differential 
+- CT abd/pelvis demonstrated cholelithiasis without evidence 
+cholecystitis. Otherwise no acute findings.
+ 
+On arrival to the MICU, her vitals were ___ 89 141/100 18 99%. 
+Speaking with her son as an ___ that patient reports 
+overall feeling better than yesterday. Feels fatigued and 
+reports some abdominal cramping. Denies further headaches or 
+nausea. No fevers/chills. 
+ 
+Past Medical History:
+Remote hx of breast DCIS
+Stromal gastric mass s/p resection ___
+HTN
+Spinal stenosis
+ 
+Social History:
+___
+Family History:
+Family hx of diabetes
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals:  ___ 89 141/100 18 99%RA
+GENERAL: Well-appearing female in NAD; pleasant, conversational
+HEENT: Sclera anicteric, MMM, oropharynx clear
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN:  No rashes or lesions
+NEURO:  Grossly intact; per son is not confused; moving all 
+extremities with purpose
+
+DISCHARGE exam:
+unchanged, awake alert pleasant
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+___ 01:54AM BLOOD WBC-4.5 RBC-4.11 Hgb-10.5* Hct-31.5* 
+MCV-77* MCH-25.5* MCHC-33.3 RDW-12.7 RDWSD-35.0* Plt ___
+___ 01:54AM BLOOD Neuts-69.2 ___ Monos-10.6 
+Eos-0.4* Baso-0.2 Im ___ AbsNeut-3.12 AbsLymp-0.87* 
+AbsMono-0.48 AbsEos-0.02* AbsBaso-0.01
+___ 08:18AM BLOOD ___ PTT-42.4* ___
+___ 01:54AM BLOOD Glucose-92 UreaN-11 Creat-0.6 Na-119* 
+K-4.9 Cl-86* HCO3-23 AnGap-15
+___ 08:18AM BLOOD Glucose-105* UreaN-9 Creat-0.6 Na-123* 
+K-5.2* Cl-89* HCO3-24 AnGap-15
+___ 12:26PM BLOOD Na-123* K-5.2* Cl-90*
+___ 01:54AM BLOOD Calcium-9.4 Phos-2.9 Mg-1.___ year old woman with of hypertension, spinal stenosis and a 
+remote history of DCIS, and stromal tumor s/p resection (___), 
+who presented to ___ with malaise, epigastric pain, nausea, 
+diarrhea, and confusion
+
+# Hyponatremia: appeared euvolemic though was possibly mildly 
+hypovolemic on initial presentation. Urine lytes could represent 
+SIADH, though not definitive.  She worsened with IV fluids, so 
+fluid restriction was employed. Given diet history, likely low 
+solute intake component as well.  According to the patient's son 
+she has had hyponatremia in the past in the setting of 
+dehydration. Patient reports some loose stools at home before 
+coming in.  She has mildly elevated calcium, ? malignancy given 
+weight loss, anorexia, but CT chest did not reveal any 
+abnormality. Patient's NA improved with salt tabs, and she was 
+instructed to continue to take these and eat regularly on 
+discharge. 
+
+# Diarrhea: Patient reports loose stools for the past ___ days 
+with about 3 bowel movements yesterday. Associated with 
+epigastric discomfort, which has now resolved. CT abdomen 
+without acute findings or colitis.  These symptoms did not recur 
+following admission to ___.
+
+# Hypertension: At home on lisinopril 40mg po daily and 
+amlodipine 5mg po daily.  These were held initially during 
+admission and then restarted on d/c as pt was discharged on salt 
+tablets.
+
+# GERD: Continued home omeprazole 20mg po BID
+
+# Glaucoma: Continued latanoprost
+
+TRANSITIONS OF CARE
+-------------------
+# Follow-up: with pcp ___ ___
+# Na check on ___
+# Code status: full code
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 5 mg PO DAILY 
+2. Lisinopril 40 mg PO DAILY 
+3. Omeprazole 20 mg PO BID 
+4. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+5. Magnesium Oxide 400 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+2. Omeprazole 20 mg PO BID 
+3. walker 1 rolling walker (pediatric)  miscellaneous ASDIR 
+Length of need: 13 months
+Prognosis: Good
+Diagnosis: R26.2
+___ ___ 
+RX *walker    Disp #*1 Each Refills:*0
+4. Amlodipine 5 mg PO DAILY 
+5. Lisinopril 40 mg PO DAILY 
+6. Magnesium Oxide 400 mg PO DAILY 
+7. Sodium Chloride 1 gm PO TID 
+RX *sodium chloride 1 gram 1 tablet(s) by mouth three times a 
+day Disp #*90 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Hyponatremia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure to care for you during your recent stay at 
+___.  You came for further evaluation of low sodium levels.  
+This improved with restricting IV fluids and starting salt 
+tablets.
+ 
+Followup Instructions:
+___

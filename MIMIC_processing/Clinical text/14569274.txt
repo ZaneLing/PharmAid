@@ -1,0 +1,338 @@
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pressure, DOE
+ 
+Major Surgical or Invasive Procedure:
+___ Cardiac catherization, DES to OM1
+
+ 
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS:  
+Mr. ___ is a ___ PMH HTN, CKD stage II who presented to
+___ for chest pressure and DOE and now transferred for NSTEMI. 
+
+On ___ around noon, developed persistent substernal chest
+pressure and DOE. Pressure did not radiate. He denied any
+lightheadedness, dizziness, nausea or diaphoresis. Given that
+these symptoms persisted for about 12 hours he then presented to
+___. 
+
+Of note, patient remarked that since ___, he has been having
+intermittent episodes of left sided chest pressure that last for
+about ___ minutes at a frequency of once every ___ weeks.
+Episodes typically brought on by exertion and self resolve with
+rest. He denies the pressure radiates or has any accompanying
+symptoms when the episodes occur. He did have a stress echo
+completed in ___, but that was completed prior to the onset
+of these episodes. He denies any episodes of DOE, PND ___ 
+edema
+developing over the past months.
+
+Work-up at ___:
+Initial vitals: HR 39; BP 101/38; RR 16 at 96% on RA
+HR then increased to ___ and BP was ___
+- Per transfer notes, EKG Sinus brady w/ HR 45, incomplete RBBB
+and T wave flattening in 3, aVF and V1-V2
+- CXR with mild pulmonary edema
+- Trop I 1.04 (at 0045 on ___
+- Given ASA 325 and started on heparin gtt
+- At recommendation of cardiology at ___, he was transferred for
+further work-up
+
+In the ED:
+Initial VS:
+66 | 121/88 | 18 | 96% RA 
+
+Exam:
+Normal including CV: Regular rate and rhythm, normal S1/s2, no
+m/g/r.
+
+EKG:  
+NSR
+
+Labs notable for: 
+    \15.4/
+13.0 ---- 183
+    /48.0\
+
+Studies notable for:
+None
+
+Consults:
+None
+
+Patient was given: 
+Heparin gtt
+
+On the floor, he reports feeling better and without chest
+pressure.
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+=======================  
+1. CARDIAC RISK FACTORS  
+- Hypertension  
+2. CARDIAC HISTORY  
+- None  
+3. OTHER PAST MEDICAL HISTORY  
+- CKD stage II
+- BPH
+
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  
+Father had MI in mid-___
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+================================  
+VS: ___ 0403 Temp: 97.6 PO BP: 117/74 HR: 59 RR: 17 O2 sat:
+96% O2 delivery: Ra  
+GENERAL: Well developed, well nourished in NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Sclera anicteric. PERRL. EOMI. Conjunctiva were pink. No
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: No JVP visualized  
+CARDIAC: RRR. Normal S1, S2. No murmurs, rubs, or gallops.
+LUNGS: Breathing comfortably on RA. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric. 
+
+DISCHARGE PHYSICAL EXAMINATION:  
+================================
+GENERAL: Well developed, well nourished in NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Sclera anicteric. PERRL. EOMI. Conjunctiva were pink. No
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: No JVP visualized  
+CARDIAC: RRR. Normal S1, S2. No murmurs, rubs, or gallops.
+LUNGS: Breathing comfortably on RA. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema. Right radial catheterization site with minor 
+swelling improved, distal pulses intact, hand warm. 
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric. 
+ 
+Pertinent Results:
+ADMISSION LABS:  
+================================
+___ 02:36AM BLOOD WBC-13.0* RBC-5.44 Hgb-15.4 Hct-48.0 
+MCV-88 MCH-28.3 MCHC-32.1 RDW-12.8 RDWSD-41.1 Plt ___
+___ 02:36AM BLOOD Neuts-89.5* Lymphs-6.1* Monos-3.6* 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-11.65* AbsLymp-0.80* 
+AbsMono-0.47 AbsEos-0.01* AbsBaso-0.02
+___ 02:36AM BLOOD Glucose-91 UreaN-21* Creat-1.3* Na-140 
+K-4.1 Cl-104 HCO3-24 AnGap-12
+___ 02:36AM BLOOD cTropnT-0.09*
+___ 09:50AM BLOOD CK-MB-47* cTropnT-0.25*
+___ 02:43AM BLOOD %HbA1c-5.6 eAG-114
+
+DISCHARGE LABS
+================================
+___ 05:21AM BLOOD WBC-6.9 RBC-5.01 Hgb-14.4 Hct-43.6 MCV-87 
+MCH-28.7 MCHC-33.0 RDW-13.2 RDWSD-41.0 Plt ___
+___ 05:21AM BLOOD Glucose-90 UreaN-13 Creat-1.1 Na-141 
+K-3.9 Cl-107 HCO3-24 AnGap-10
+___ 05:21AM BLOOD Calcium-8.6 Phos-2.9 Mg-1.9 Cholest-140
+___ 05:21AM BLOOD Triglyc-110 HDL-31* CHOL/HD-4.5 
+LDLcalc-87
+
+PERTINENT STUDIES 
+================================
+___ Cardiac Cath
+Normal left and right heart filling pressures. Succesful PCI of 
+OM1 with DES with 3.0 mm stent post dilated with a 3.25 mm NC 
+balloon. No significant gradient seen across the aortic valve 
+Recommendations
+
+___ TTE
+Globally preserved biventricular systolic function in the 
+setting of hypokinesis of the mid-inferolateral wall. Mild 
+aortic and mitral regurgitation. Normal pulmonary pressure. 
+Compared with the prior stress echo ___, 
+mid-inferolateral hypokinesis is now appreciated at
+rest.
+
+ 
+Brief Hospital Course:
+===================== 
+TRANSITIONAL ISSUES
+===================== 
+[] consider up-titration of metoprolol and initiation of 
+lisinopril as tolerated
+[] prior authorization for ticagrelor possibly limited to 1 
+month duration, may consider clopidogrel in lieu
+[] f/u with ___, MD in ___; appointment TBD
+[] repeat lipids in 3 months after statin initiation ___ TC 
+140, ___ 110, HLD 31, LDL 87)
+
+- New Medications: aspirin 81mg daily, atorvastatin 80mg daily, 
+metoprolol XL 12.5mg daily, nitroglycerin sublingual PRN, 
+ticagrelor 90mg BID
+- Discharge wt: 212.52 lb
+- Discharge Cr: 1.1
+
+===================== 
+BRIEF HOSPITAL COURSE
+===================== 
+___ with HTN, CKD stage II presents with shortness of breath and 
+chest pressure, found to have NSTEMI and OM1 95% stenosis, s/p 
+uncomplicated DES to OM1. 
+
+#CORONARIES (PCI ___: OM1 with DESx1
+#PUMP (TTE ___: EF 61%
+#RHYTHM: Normal Sinus Rhythm
+
+# CODE STATUS: Full (presumed)
+# CONTACT ___ (wife) ___
+
+===================== 
+ACTIVE ISSUES: 
+===================== 
+# NSTEMI, Type I
+Patient reports intermittent episodes of angina over past 5 
+months. Presented to ___ with chest pressure lasting hours and 
+found to have trop I of 1.04. Presenting EKG w/ incomplete RBBB 
+and t wave flattening, though repeat here remarkable only for t 
+wave flattening and bradycardia. Trop T went from 0.09->0.25 
+with MB 30->47. TTE revealing for mid inferolateral hypokinesis 
+with preserved systolic function; Cath on ___ significant 
+for 95% stenosis of ___ s/p DESx1. Started on aspirin 81, 
+atorvastatin 80mg, metoprolol 12.5mg XL, ticagrelor 90mg BID, 
+nitro sublingual PRN. Lisinopril not initiated due to stable low 
+blood pressures. Prior authorization obtained for ticagrelor 
+prior to discharge. Will need to consider up-titration of 
+metoprolol and initiation of lisinopril as tolerated, could not 
+increase beta blocker due to bradycardia (possibly vagally 
+mediated) and low systolic blood pressures prevented additional 
+of ___. Prior authorization for ticagrelor possibly limited 
+to 1 month duration, may consider clopidogrel in lieu. 
+Cardiology follow up with Dr. ___
+
+# Hypertension
+Was recently started on lisinopril but self d/c'ed because he 
+thought it caused headache, although headache was likely ___ to 
+concurrent URI and dental infection at that time. BPs were being 
+monitored closely with low threshold to restart, per most recent 
+outpatient note. Lisinopril was not initiated in anticipation of 
+catheterization, with outpatient consideration pending BP 
+tolerance (low systolic blood pressures on discharge, and no 
+acute indication given preserved EF). 
+
+# Leukocytosis
+Likely stress reaction iso NSTEMI. No evidence of infection at 
+this time. Resolved post-cath.
+
+# BPH
+Held home dutasteride as not on formulary.
+
+# CKD stage II
+Baseline Cr 1.2-1.3. Presented with Cr 1.3, resolved post-cath 
+to 1.1.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. dutasteride 0.5 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 80 mg PO QPM  
+3.  Metoprolol Succinate XL 12.5 mg PO DAILY  
+4.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain  
+5.  TiCAGRELOR 90 mg PO BID  
+6.  dutasteride 0.5 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+======================
+Non-ST elevation myocardial infarction, Type I
+
+SECONDARY DIAGNOSES
+===================
+Hypertension 
+Chronic kidney disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+================================================  
+DISCHARGE INSTRUCTIONS
+================================================  
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+We wish you the ___,
+Your ___ Team
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because you had shortness of breath and 
+chest pressure, and you were found to have a heart attack.
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- Your heart arteries were examined (cardiac catheterization) 
+which showed a blockage of one of the arteries. This was opened 
+by placing a tube called a stent in the artery. You were given 
+medications to prevent future blockages.  
+- It is very important to take your aspirin and ticagrelor (also 
+known as Brilinta) every day. These two medications keep the 
+stents in the vessels of the heart open and help reduce your 
+risk of having a future heart attack.  
+- If you stop these medications or miss ___ dose, you risk causing 
+a blood clot forming in your heart stents and having another 
+heart attack. Please do not stop taking either medication 
+without taking to your heart doctor.  
+- You are also on other new medications to help your heart, such 
+as atorvastatin and metoprolol.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Be sure to take your medications as listed below and to 
+follow-up with the appointments scheduled.
+- Continue to weigh yourself every day and if you gain 3 lbs or 
+more a day, call your PCP ___ at ___. 
+Likewise, call your PCP if you feel increasing shortness of 
+breath or dizziness or faintness.
+- We are working on a follow up appointment within 4 to 8 days 
+in the Cardiology department. You will be called with the 
+appointment. If you have not heard from the office within 2 
+business days, please call ___
+
+ 
+Followup Instructions:
+___

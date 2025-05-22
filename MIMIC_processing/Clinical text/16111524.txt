@@ -1,0 +1,293 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+allopurinol / colchicine / Phenothiazines / chlorpromazine
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+- Cardiac catheterization, including coronary angiogram and PCI 
+w/ DES to LAD
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 11:57PM BLOOD WBC-11.0* RBC-4.70 Hgb-13.5* Hct-40.6 
+MCV-86 MCH-28.7 MCHC-33.3 RDW-13.2 RDWSD-42.2 Plt ___
+___ 11:57PM BLOOD Neuts-31.0* Lymphs-55.2* Monos-8.8 
+Eos-3.7 Baso-1.0 Im ___ AbsNeut-3.40 AbsLymp-6.06* 
+AbsMono-0.96* AbsEos-0.41 AbsBaso-0.11*
+___ 11:57PM BLOOD Plt ___
+___ 11:57PM BLOOD ___ PTT-24.7* ___
+___ 11:57PM BLOOD Glucose-139* UreaN-15 Creat-1.2 Na-140 
+K-5.6* Cl-108 HCO3-20* AnGap-12
+___ 11:57PM BLOOD Lipase-24
+___ 11:57PM BLOOD cTropnT-<0.01
+___ 11:57PM BLOOD CK-MB-1
+___ 11:57PM BLOOD Albumin-4.0 Calcium-8.5 Phos-4.3 Mg-2.2
+___ 12:19AM BLOOD ___ pO2-102 pCO2-35 pH-7.41 
+calTCO2-23 Base XS--1
+___ 12:19AM BLOOD Lactate-2.9*
+___ 04:23AM BLOOD Lactate-2.1* K-4.1
+___ 12:19AM BLOOD O2 Sat-95
+
+REPORTS:
+========
+CHEST XR ___:
+IMPRESSION: 
+No acute cardiopulmonary abnormality.
+
+CTA CHEST ___:
+FINDINGS: 
+HEART AND VASCULATURE: Pulmonary vasculature is well opacified 
+to the
+segmental level without filling defect to indicate a pulmonary 
+embolus.  The
+thoracic aorta is normal in caliber without evidence of 
+dissection or
+intramural hematoma.  Moderate atherosclerotic calcifications 
+are seen within
+the coronary arteries.  The heart, pericardium, and great 
+vessels are within
+normal limits. No pericardial effusion is seen.
+AXILLA, HILA, AND MEDIASTINUM: No axillary, mediastinal, or 
+hilar
+lymphadenopathy is present.  No mediastinal mass.
+PLEURAL SPACES: No pleural effusion or pneumothorax.
+LUNGS/AIRWAYS: Lungs are clear without masses or areas of 
+parenchymal
+opacification.  There is bilateral dependent atelectasis.  The 
+airways are
+patent to the level of the segmental bronchi bilaterally.
+BASE OF NECK: Visualized portions of the base of the neck show 
+no abnormality.
+ABDOMEN: There is a 1.2 cm rounded hypodensity within the right 
+lobe of the
+liver, incompletely evaluated on current exam, but likely 
+represent a hepatic
+cyst or biliary hamartoma.
+BONES: No suspicious osseous abnormality is seen.? There is no 
+acute fracture.
+IMPRESSION:
+1. No evidence of pulmonary embolism to the segmental level or 
+acute aortic
+abnormality.
+2. Moderate atherosclerotic calcifications within the coronary 
+arteries.
+3. 1.2 cm rounded hypodensity within the liver, which likely 
+represents a
+hepatic cyst or biliary hamartoma.
+
+CARDIAC CATH ___:
+Coronary Description The coronary circulation is right dominant. 
+LM:The Left Main, arising from the left cusp, is a medium 
+caliber vessel. This vessel bifurcates into the Left Anterior 
+Descending and Left Circumflex systems. LAD:The Left Anterior 
+Descending artery, which arises from the LM, is a medium caliber 
+vessel. There is severe calcification in the proximal segment. 
+There is an 80% stenosis in the mid segment beginning after a 
+large diagonal branch. There is a 99% stenosis in the mid 
+segment. Cx:The Circumflex artery, which arises from the LM, is 
+a small to medium sized vessel. There is a 50% stenosis in the 
+proximal segment. The ___ Obtuse Marginal, arising from the 
+proximal segment, is a small caliber vessel. RCA:The Right 
+Coronary Artery, arising from the right cusp, is a large caliber 
+vessel. There is calcification and irregularities but no 
+significant stenosis
+Interventional Details Percutaneous Coronary Intervention: 
+Percutaneous coronary intervention (PCI) was performed on an ad 
+hoc basis based on the coronary angiographic findings from the 
+diagnostic portion of this procedure. A 6 ___ EBU3.5 guide 
+provided adequate support. Crossed with a Pilot 50 wire into the 
+distal LAD after failure of Scion Blue and Prowater and with 
+support of a Caravelle micro catheter. The area of occlusion was 
+noted to be dissected. Predilated with a 2.0 mm and then 2.25 x 
+15 NC balloon. A 6.0 ___ Guideliner was positioned in th 
+proximal LAD over 2.25 balloon and we then deployed a 2.25 mm x 
+28 mm DES. Postdilated with a 2.5 mm NC balloon. Final 
+angiography revealed normal flow, no dissection and 0% residual 
+stenosis. The stent was positionied just at the diagonal origina 
+dnthere was noted plaque shift with 50% stenosis of the 
+diagonal. Given large vessel size and normal flow we opted not 
+to treat the large sidebranch. 
+Complications There were no clinically significant 
+complications. 
+Findings
+ Two vessel coronary artery disease.  Successful PCI with 
+drug-eluting stent of the LAD coronary artery. Recommendations
+ ASA 81mg per day.  Secondary prevention of CAD  Ticagrelor 
+90 mg BID
+
+TTE ___:
+CONCLUSION: The left atrial volume index is normal. There is no 
+evidence for an atrial septal defect by 2D/color Doppler. The 
+inferior vena cava diameter is normal. There is normal left 
+ventricular wall thickness with a normal cavity size.There is a 
+small to moderate area of regional left ventricular systolic 
+dysfunction with severe hypokinesis of the distal half of the 
+anterior septum and distal anterior and inferior walls with 
+apical akinesis (see schematic) and preserved/normal 
+contractility of the remaining segments. Quantitative biplane 
+left ventricular ejection fraction is 46 % (normal 54-73%). Left 
+ventricular cardiac index is low normal (2.0-2.5 L/min/m2). 
+There is no resting left ventricular outflow tract gradient. 
+Normal right ventricular cavity size with normal free wall 
+motion. Tricuspid annular plane systolic excursion (TAPSE) is 
+normal. The aortic sinus diameter is normal for gender with a 
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal with a normal descending aorta diameter. 
+There is no evidence for an aortic arch coarctation. The aortic 
+valve leaflets (3) are mildly thickened. There is no aortic 
+valve stenosis. There is trace aortic regurgitation. The mitral 
+valve leaflets appear structurally normal with no mitral valve 
+prolapse. There is trivial mitral regurgitation. The pulmonic 
+valve leaflets are normal. The tricuspid valve leaflets appear 
+structurally normal. There is mild [1+] tricuspid regurgitation. 
+The estimated pulmonary artery systolic pressure is high normal. 
+There is no pericardial effusion. 
+IMPRESSION: Normal left ventricular cavity size with mild 
+regional systolic dysfunction most consistent with single vessel 
+coronary artery disease (mid-distal LAD distribution). High 
+normal estimated pulmonary artery systolic pressure. No prior 
+study available for comparison.
+
+DISCHARGE LABS:
+===============
+___ 08:08AM BLOOD WBC-8.4 RBC-4.57* Hgb-13.1* Hct-39.9* 
+MCV-87 MCH-28.7 MCHC-32.8 RDW-13.9 RDWSD-44.6 Plt ___
+___ 08:08AM BLOOD Plt ___
+___ 08:08AM BLOOD ___ PTT-28.5 ___
+___ 08:08AM BLOOD Glucose-161* UreaN-13 Creat-0.9 Na-141 
+K-3.9 Cl-107 HCO3-21* AnGap-13
+___ 08:08AM BLOOD Calcium-8.7 Phos-2.5* Mg-2.1
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT:
+==================
+Mr. ___ is a ___ man with HTN, HLD, and known aortic root 
+dilation who presented with substernal chest pain, subsequently 
+found to have an NSTEMI. He underwent cardiac catheterization 
+with coronary angiogram that demonstrated 99% occlusion of LAD. 
+He received ad hoc PCI with DES to the LAD, complicated by 
+plaque shift resulting in 50% diagonal branch lesion.  
+
+ACTIVE ISSUES:
+==============
+# NSTEMI:
+Patient presenting with acute onset substernal chest pain with 
+associated diaphoresis. Code STEMI was initially called, however 
+this was cancelled based on ECG in the ED - noted to have aortic 
+dilation and as such obtained a CTA which did not show evidence 
+of aortic dissection. Initial Troponin <0.01 with CKMB 1, 
+however on repeat Troponin was 0.16. As such, s/p Plavix load 
+300mg x1 as well as Enoxaparin x1 in the ED. Cardiac 
+catheterization revealed 99% stenosis of mid-segment LAD s/p PCI 
+with DES x1. There was an intra-procedural plaque shift 
+resulting in a 50% diagonal branch lesion. Plavix was switched 
+to Ticagrelor, per Interventional Cardiology, and ASA was added 
+for DAPT. He was also started on lisinopril; home diltiazem was 
+switched to metoprolol. Patient has failed statin trials in the 
+past due to adverse side effects. He was started on atorvastatin 
+in the short-term for plaque stabilization. Extensive 
+conversations were had regarding initiation of PSCK-9 inhibitor, 
+however patient unsure about starting the medication. On the day 
+of discharge patient was asymptomatic. He underwent TTE on ___ 
+that demonstrated LVEF 46% and regional systolic dysfunction in 
+LAD region. 
+
+CHRONIC ISSUES:
+===============
+# HTN: 
+Patient was initially on diltiazem and was switched to 
+metoprolol and lisinopril given ACS.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. Diltiazem Extended-Release 240 mg PO DAILY 
+2. fluorouracil 0.5 % topical DAILY 
+3. Ibuprofen 800 mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Aspir-81] 81 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Succinate XL 12.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 0.5 (One half) tablet(s) by mouth 
+once a day Disp #*30 Tablet Refills:*0 
+5.  TiCAGRELOR 90 mg PO BID to prevent stent thrombosis 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+6.  fluorouracil 0.5 % topical DAILY  
+7.  Ibuprofen 800 mg PO Q8H:PRN Pain - Mild  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIAMRY DIAGNOSIS:
+==================
+- Non ST-segment Elevation Myocardial Infarction
+
+SECONDARY DIAGNOSIS:
+====================
+- Hypertension
+- Dyslipidemia
+- Coronary artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+It was a pleasure taking care of you at ___ 
+___.  
+ 
+WHY WAS I ADMITTED TO THE HOSPITAL?  
+- You were admitted to the hospital because you had chest pain 
+that was found to be a heart attack
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?  
+- You underwent a procedure called cardiac catheterization that 
+allowed us to look at the blood vessels in your heart. We found 
+one of them that had nearly 100% blockage. A stent was placed to 
+keep the blood vessel open. 
+- We started you on medications to decrease the likelihood of 
+future heart attack. It will be important to take these as 
+recommended and ___ with your cardiologist and PCP.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+- You should continue to take your medications as prescribed.  
+- If you are experiencing new or concerning chest pain that is 
+coming and going you should call the heartline at ___. 
+If you are experiencing persistent chest pain that is not 
+getting better with rest or nitroglycerine you should call ___.  
+
+- You should attend the appointments listed below.  
+  
+We wish you the best!  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

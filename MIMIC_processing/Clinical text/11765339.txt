@@ -1,0 +1,264 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with a PMHx of HLD who presents from his 
+PCP for evaluation of possible pulmonary embolism. Per report, 
+the patient has been noting increasing DOE for the past few 
+months (at least two), where he has been needing to stop 
+exerting himself with minimal work. This is very abnormal for 
+him, as he is a detective for ___, and usually is very 
+active. He notes that for about the past week he has had a cough 
+productive of yellow sputum. He notably has also had L calf 
+pain, which has lasted for approximately 2 weeks.  
+ He was seen at his PCP's office, who was concerned given his 
+history for VTE. A D-dimer was obtained which was x3 greater 
+than then upper limit of normal. CXR at that time was negative. 
+Thus he was transferred for evaluation of possible DVT/PE.  
+ Of note, the patient took a trip to ___, ___ 2 weeks ago. 
+Notably, this was after the development of his DOE/SOB, and he 
+believes his leg pain preceded this trip. He otherwise has had 
+no periods of prolonged immobility from surgery, or a personal 
+history of malignancy. He has no family history of VTE.  
+ In the ED, initial vitals were:  
+ 97.8 88 151/105 18 99% RA  
+ - Exam notable for: unremarkable  
+ - Labs notable for: General labs unremarkable, d-dimer 
+elevated, BNP and trop negative  
+ - Imaging was notable for: CTA with extensive PE's  
+ - Patient was given: heparin gtt  
+ 
+Past Medical History:
+Hypercholesterolemia 
+ 
+Social History:
+___
+Family History:
+No family history of DVT/PE/VTE or sudden cardiac death.  
+ 
+Physical Exam:
+ADMISSION EXAM:
+====================
+VITAL SIGNS: 98.2 152/95 56 20 95% RA  
+ GENERAL: WDWN male sitting up in bed, NAD  
+ HEENT: PERRL, EOMI, sclera anicteric, OP clear  
+ NECK: no JVD, no LAD  
+ CARDIAC: RRR, no MRG  
+ LUNGS: CTAB without wheezing or rales  
+ ABDOMEN: soft, nt, nd  
+ EXTREMITIES: wwp, no peripheral cyanosis or edema, no palpable 
+cords in either calf or ttp  
+ SKIN: no suspicious rashes or lesions  
+
+DISCHARGE EXAM
+====================
+VS: 97.8  136/81  54  16  96%RA
+General: Well appearing, NAD    
+CV: RRR, S1-S2
+Lungs: CTABL
+Abdomen: Soft, non-tender
+Ext: No lower extremity edema, no calf pain, 2+ pulses
+Neuro: A+Ox3, moves all 4 extremities spontaneously, no facial 
+asymmetry
+ 
+Pertinent Results:
+ADMISSION LABS
+====================
+___ 08:38PM   WBC-7.9 RBC-4.49* HGB-13.8 HCT-41.9 MCV-93 
+MCH-30.7 MCHC-32.9 RDW-13.9 RDWSD-47.3*
+___ 08:38PM   NEUTS-60.6 ___ MONOS-11.4 EOS-3.3 
+BASOS-1.1* IM ___ AbsNeut-4.78 AbsLymp-1.82 AbsMono-0.90* 
+AbsEos-0.26 AbsBaso-0.09*
+___ 08:38PM   ___ PTT-28.4 ___
+___ 08:38PM   PLT COUNT-228
+___ 08:38PM   D-DIMER-6150*
+___ 08:38PM   cTropnT-<0.01 proBNP-37
+___ 08:38PM   GLUCOSE-90 UREA N-13 CREAT-1.2 SODIUM-142 
+POTASSIUM-4.2 CHLORIDE-105 TOTAL CO2-26 ANION GAP-15
+___ 10:31AM   ___ PTT-92.9* ___
+___ 04:54PM   PTT-97.5*
+
+DISCHARGE LABS
+=====================
+___ 06:00AM BLOOD WBC-7.3 RBC-4.44* Hgb-13.9 Hct-40.7 
+MCV-92 MCH-31.3 MCHC-34.2 RDW-13.8 RDWSD-46.2 Plt ___
+___ 06:00AM BLOOD Plt ___
+___ 06:00AM BLOOD ___ PTT-30.8 ___
+___ 06:00AM BLOOD Glucose-90 UreaN-12 Creat-1.2 Na-139 
+K-4.1 Cl-102 HCO3-25 AnGap-16
+___ 06:00AM BLOOD Calcium-9.3 Phos-4.0 Mg-2.2
+
+MICROBIOLOGY
+=====================
+___ 8:27 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): NO GROWTH TO DATE
+
+IMAGING/STUDIES
+======================
+BILATERAL LOWER EXTREMITY VENOUS DOPPLERS ___ IMPRESSION:  
+1.  Nonocclusive thrombus in the left distal femoral, popliteal, 
+and calf veins.
+2.  No evidence of deep vein thrombosis in the right lower 
+extremity veins.
+
+CTA CHEST ___ IMPRESSION: 
+1.  Extensive pulmonary emboli involving all lobes, including a 
+saddle
+embolus, including a partially occlusive saddle embolus of the 
+right and left main pulmonary arteries.  No CT evidence of right 
+heart strain.
+2.  Mild scattered airways inflammation evidenced by mildly 
+thickened airways.
+
+ECHO ___:
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. The estimated right atrial pressure 
+is ___ mmHg. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size and regional/global systolic 
+function (LVEF>55%). Tissue Doppler imaging suggests a normal 
+left ventricular filling pressure (PCWP<12mmHg). There is no 
+ventricular septal defect. Right ventricular chamber size is 
+normal with borderline normal free wall function. The aortic 
+root is mildly dilated at the sinus level. The ascending aorta 
+is mildly dilated. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. There is 
+no mitral valve prolapse. The pulmonary artery systolic pressure 
+could not be determined. There is no pericardial effusion. 
+
+IMPRESSION: Mild symmetric hypertrophy with normal 
+global/regional left ventricular systolic function. Normal right 
+ventricular cavity size with low normal systolic function. No 
+pathologic valvular flow. 
+
+ 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with a history of 
+hyperlipidemia who was sent to ___ ED on ___ by his PCP after 
+presenting with two months of shortness of breath and found to 
+have an elevated d-dimer found to have bilateral segmental 
+pulmonary embolisms, non-occlusive saddle embolus in addition to 
+LLE DVT requiring anticoagulation. 
+
+#PULMONARY EMBOLISM, LEFT LOWER EXTREMITY DVT: Patient presented 
+to PCP complaining of 2 months SOB, left calf pain. PCP 
+performed CXR that was reportedly unremarkable. D-dimer was 
+elevated. Therefore, patient was referred to ___ ED where he 
+had a CTA that showed bilateral segmental pulmonary embolisms 
+with a non-occlusive saddle embolus. Given his history of left 
+calf pain, LENIs were performed that showed LLE DVT. Overall 
+presentation consistent with subacute unprovoked DVT. Patient 
+remained hemodynamically stable without vital sign changes. His 
+EKG and echo did not show signs of right heart strain. Normal 
+BNP and troponins. He did not meet criteria for massive 
+(hemodynamic instability) or submassive (right heart strain). 
+
+Regarding etiology of blood clots, patient has no recent 
+immobilization. He did report he travels approximately every 5 
+weeks to ___, but otherwise is very active. In fact, patient 
+continued exercising multiple times per day on the stationary 
+bike. Patient is up to date on age-related cancer screening and 
+had no history of trauma. No known family history of 
+hypercoagulability or VTE. Patient was initially anticoagulated 
+with heparin gtt before transitioning to apixaban for NOAC 
+therapy. Patient did well and was discharged to follow up 
+further work up with his PCP. 
+
+# HYPERLIPIDEMIA: Continued Simvastatin 20mg. Discontinued 
+Aspirin 81mg since now on anticoagulation.
+
+=================================================
+Transitional Issues:
+- initiated on apixiban 10 mg BID through ___ then will 
+decrease to 5 mg BID thereafter
+- discontinue aspirin 81mg QD
+- cardiology recommends repeat echo in 3 months 
+- may consider hematology follow-up as an outpatient to 
+determine anticoagulation course and further work-up
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 20 mg PO QPM 
+2. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*68 Tablet Refills:*0 
+2.  Simvastatin 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Pulmonary Embolism
+-Venous Thromboembolism
+-Deep Venous Thrombosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+Why I was I here? 
+- You came here because you had difficulty breathing. 
+
+What was done while I was here?
+- You had a CAT scan of your lungs that showed a blood clot.
+- You had an ultrasound (sonogram) of your left leg that showed 
+a blood clot.
+- You got a blooding thinning medicine through an IV called 
+heparin.
+- The heparin was stopped and you got a blood thinning pill 
+called Apixiban (Eloquis). 
+
+What should I do when I get home?
+- It is very important that you take the new medicine (Apixiban) 
+every day. You will take two pills in the morning and two pills 
+in the evening for 7 days total (until ___.
+- On ___, you will start taking 1 pill in the morning and 1 
+pill in the evening. 
+- Do not stop this medicine for any reason without talking to 
+your doctor first. 
+- Call your immediately if you have black poop.
+- Do not take aspirin, ibuprofen, or Advil. You are more likely 
+to have a bleed if you take these medicines.   
+
+It was a pleasure taking part in your care. 
+
+Sincerely,
+
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

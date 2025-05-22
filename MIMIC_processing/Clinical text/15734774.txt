@@ -1,0 +1,177 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+acute cholecytitis
+ 
+Major Surgical or Invasive Procedure:
+ERCP s/p 2 stents placement 
+ 
+History of Present Illness:
+Mr. ___ is an ___ year old male with history of BPH and
+gallstones, who was admitted to ___ on ___ with acute
+cholecystitis, underwent cholecystectomy c/b bile leak, and is
+now transferred to ___ for ERCP stenting across the bile leak.
+
+He presented to ___ with 3 days of upper abdominal pain
+radiating to the right shoulder. It was constant, ___ severity,
+without associated fevers, chills, nausea, vomiting, diarrhea, 
+or
+jaundice. Positive ___ sign on exam; RUQ u/s and CT showing
+gallbladder wall edema, 4cm calcified stone at neck, and
+pericholecystic fluid c/f acute cholecystitis. He underwent
+laparoscopic converted to open cholecystectomy, course c/b bile
+leak. He was transferred here for ERCP procedure.
+ 
+Vitals on transfer: T 98.5, HR 82, BP 135/76, satting 93% on RA. 
+
+
+Upon arrival to ___, the patient endorsed right sided abdominal
+pain at his procedure site, worse when he moves around in bed or
+takes a deep breath. However, he denied fevers, chills,
+lightheadedness, headache, chest pain, dyspnea, cough, nausea, 
+or
+vomiting. He wonders how long the procedure will take.
+ 
+REVIEW OF SYSTEMS:  
+(+) Per HPI  
+(-) Otherwise  
+ 
+
+ 
+Past Medical History:
+- gallstones
+- BPH
+- L inguinal hernia repair ___ yrs ago)
+- Appendectomy (childhood)
+
+ 
+Social History:
+___
+Family History:
+Not pertinent to presenting problem.
+
+ 
+Physical Exam:
+Admission physical exam 
+
+VITALS: Afebrile, HR 85, BP 129/69, RR 17, satting 94% on RA 
+GENERAL: Pleasant, alert, and interactive. No acute distress.
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: JVP not elevated. 
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+CV: Regular rate and rhythm with occasional extra beats, normal
+S1 S2, no murmurs, rubs, gallops  
+ABD: Distended but soft. Tender to palpation of right upper and
+lower abdomen around his incision sites. Nontender elsewhere, no
+guarding or rebound. Dressings covering incision sites are CDI,
+without surrounding erythema or induration. JP drain in place,
+draining small amount of serosanginous fluid.
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+SKIN: No visible rashes or other lesions.
+NEURO: A&Ox3. No visible facial asymmetry. Moving all 4
+extremities. 
+ACCESS: PIVs. 
+
+ 
+Pertinent Results:
+Labs:
+
+___ 01:19PM BLOOD WBC-7.0 RBC-5.33 Hgb-11.0* Hct-35.1* 
+MCV-66* MCH-20.6* MCHC-31.3* RDW-15.1 RDWSD-35.0* Plt ___
+___ 01:19PM BLOOD Neuts-73.6* Lymphs-14.5* Monos-11.4 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-5.11 AbsLymp-1.01* 
+AbsMono-0.79 AbsEos-0.01* AbsBaso-0.02
+___ 01:19PM BLOOD ___ PTT-26.9 ___
+___ 01:19PM BLOOD Plt ___
+___ 01:19PM BLOOD Glucose-87 UreaN-20 Creat-1.0 Na-133* 
+K-4.4 Cl-96 HCO3-24 AnGap-13
+___ 01:19PM BLOOD ALT-48* AST-51* LD(LDH)-179 AlkPhos-40 
+TotBili-1.1
+___ 01:19PM BLOOD Albumin-3.6 Calcium-8.3* Phos-2.8 Mg-2.3
+
+Blood culture on ___ pending
+
+ 
+Brief Hospital Course:
+___ year old male with history of BPH and gallstones, who was
+admitted to ___ on ___ with acute cholecystitis,
+underwent cholecystectomy c/b bile leak, and is now transferred
+to ___ for ERCP stenting across the bile leak, now s/p ERCP 
+with 2 stents placed 
+
+=================  
+ACTIVE ISSUES  
+=================  
+#Bile Leak
+#Acute cholecystitis s/p cholecystectomy s/p ERCP with 2 stents 
+placed. 
+Dx:
+- Daily CBC, lytes, LFTs
+- Active T&S prior to procedure
+Tx:
+- Empiric coverage with Cefepime + Flagyl
+- Post-procedural monitoring in FICU. Given patient is stable, 
+he is being transferred back to ___ today. 
+
+=================  
+CHRONIC ISSUES  
+=================  
+# BPH
+- Holding home tamsulosin prior to procedure 
+ 
+Medications on Admission:
+MetroNIDAZOLE 500 mg IV Q8H 
+CefePIME 2 g IV Q12H 
+Heparin 5000 UNIT SC BID 
+ 
+Discharge Medications:
+MetroNIDAZOLE 500 mg IV Q8H 
+CefePIME 2 g IV Q12H 
+Heparin 5000 UNIT SC BID 
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+acute cholecystitis
+ 
+Discharge Condition:
+Stable 
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you here at ___.
+
+You were transferred here from ___ so you could undergo 
+an ERCP with stent placement. During this procedure, a stent was 
+placed to prevent further obstruction of your bile ducts which 
+caused your gall bladder infection in the first place.
+
+You  tolerated the procedure very well. You have 2 stents in 
+place right now. You were continued on antibiotics. You will be 
+transferred back to ___ for further care.
+
+We are happy to see you feeling better.
+
+Sincerely,
+your ___ team 
+ 
+Followup Instructions:
+___

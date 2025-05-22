@@ -1,0 +1,184 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea, nausea, chest discomfort, pre-syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ female with history of hypertension who presents 
+with a complaint of presyncope. Patient states she was in the 
+middle of an altercation with her upstairs neighbor when she 
+felt very flushed had a sensation of chest pain and shortness of 
+breath and felt like she was going to pass out. Her daughter 
+called EMS and on arrival patient was nauseous and vomiting. She 
+is never had a similar episode in the past. She states she feels 
+better since the initial occurrence. She has a history of chest 
+pain that has been evaluated by her physician.  
+ 
+ ===========================  
+ In the ED initial vitals were: 98.5 122/82 70 18 98%RA  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+ =====================  
+ 1. CARDIAC RISK FACTORS  
+ - Hypertension  
+ 2. CARDIAC HISTORY  
+ - CABG: none  
+ - PCI: none  
+ - PACING/ICD: none  
+ 3. OTHER PAST MEDICAL HISTORY  
+ fatty liver  
+ colonic polyps  
+ carpal tunnel  
+ cervicitis  
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death
+ 
+Physical Exam:
+VITALS: 98.1 135/86 82 18 97% RA  
+GENERAL: Well-developed, well-nourished. NAD. Crying 
+intermittently. 
+NECK: Supple with non-elevated JVP  
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops.
+LUNGS: Resp were unlabored, no accessory muscle use. CTAB. 
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+
+ 
+Pertinent Results:
+___ 01:50AM BLOOD WBC-6.8 RBC-4.24 Hgb-13.2 Hct-39.6 MCV-93 
+MCH-31.1 MCHC-33.3 RDW-12.8 RDWSD-43.5 Plt ___
+___ 01:50AM BLOOD Glucose-119* UreaN-19 Creat-0.7 Na-141 
+K-4.6 Cl-105 HCO3-21* AnGap-15
+___ 01:50AM BLOOD Glucose-119* UreaN-19 Creat-0.7 Na-141 
+K-4.6 Cl-105 HCO3-21* AnGap-15
+___ 10:36AM BLOOD CK-MB-5 cTropnT-0.02*
+___ 04:48AM BLOOD cTropnT-0.05*
+___ 01:50AM BLOOD CK-MB-6 cTropnT-0.02*
+ 
+Brief Hospital Course:
+Information for Outpatient Providers: SUMMARY STATEMENT
+==================
+___ year old female with history of HTN who presents with 
+atypical chest pain, no ischemic changes on EKG with mildly 
+elevated troponins who had a negative stress test. 
+
+ACTIVE ISSUES
+==================
+# Chest pain
+# Presyncope 
+Story convincing for acute stress response with pre-syncope, 
+dyspnea, nausea and atypical chest pain. Troponins were mildly 
+elevated: 0.02>0.05>0.02. Given concern for stress 
+cardiomyopathy, bedside echocardiogram was performed that showed 
+no evidence of Takotsubo's. ___ formal echo showed mild 
+symmetric left ventricular hypertrophy with preserved global and 
+regional biventricular systolic function with the suggestion of 
+mild diastolic dysfunction. ___ exercise stress showed 
+sufficient METs and no angina symptoms/ischemic changes on EKG. 
+
+CHRONIC ISSUES
+==================
+#Hypertension
+SBP in the 130s with high of 139. Initially held HCTZ in setting 
+of potential procedure but instructed patient to re-start. 
+
+TRANSITIONAL ISSUES
+==================
+[] Will follow-up with PCP upon discharge
+[] please follow-up on atypical chest pain, nausea and 
+pre-syncope symptoms 
+[] please check BP and consider adding another anti-hypertensive 
+if high. She has evidence of LVH on echo.
+
+MEDICATION CHANGES
+===================
+None
+
+#Code: Full code
+#HCP: ___ (___), boyfriend 
+ 
+___ on ___:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO BID 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Acetaminophen Dose is Unknown  PO Q6H:PRN Pain - Mild 
+4. Hydrocortisone (Rectal) 2.5% Cream 1 Appl PR TID 
+5. Artificial Tears ___ DROP BOTH EYES PRN dry eyes 
+6. Estrogens Conjugated 1 gm VG TWICE WEEKLY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Artificial Tears ___ DROP BOTH EYES PRN dry eyes  
+3.  Estrogens Conjugated 1 gm VG TWICE WEEKLY  
+4.  Hydrochlorothiazide 25 mg PO DAILY  
+5.  Hydrocortisone (Rectal) 2.5% Cream 1 Appl PR TID  
+6.  Omeprazole 20 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+non-cardiac chest pain
+
+Secondary diagnosis:
+hypertension
+anxiety
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+ Dear Ms. ___,
+  
+ It was a pleasure taking care of you at the ___ 
+___!  
+
+ WHY WAS I IN THE HOSPITAL?  
+ ==========================  
+ - You were admitted because had chest pain, shortness of 
+breath, nausea and lightheadedness. 
+
+ WHAT HAPPENED IN THE HOSPITAL?  
+ ==============================  
+ - We performed a scan of your heart that showed you have a 
+normal heart. 
+ - We performed a stress test that showed you do not have heart 
+disease. 
+
+ WHAT SHOULD I DO WHEN I GO HOME?  
+ ================================  
+ Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+ Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

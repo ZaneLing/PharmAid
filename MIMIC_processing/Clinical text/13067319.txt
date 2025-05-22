@@ -1,0 +1,201 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with coronary angiography and 
+drug-eluting stent placed in the mid-left anterior descending 
+artery ___
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:27AM BLOOD WBC-8.3 RBC-5.36 Hgb-15.6 Hct-45.8 MCV-85 
+MCH-29.1 MCHC-34.1 RDW-12.5 RDWSD-38.3 Plt ___
+___ 10:27AM BLOOD Neuts-72.6* Lymphs-18.7* Monos-7.1 
+Eos-0.8* Baso-0.4 Im ___ AbsNeut-6.00 AbsLymp-1.55 
+AbsMono-0.59 AbsEos-0.07 AbsBaso-0.03
+___ 10:27AM BLOOD ___ PTT-30.7 ___
+___ 10:27AM BLOOD Plt ___
+___ 10:27AM BLOOD Glucose-87 UreaN-15 Creat-0.8 Na-138 
+K-4.4 Cl-98 HCO3-24 AnGap-16
+___ 10:27AM BLOOD Calcium-9.7 Phos-2.6* Mg-2.0 Cholest-274*
+
+PERTINENT LABS:
+___ 10:27AM BLOOD CK(CPK)-144
+___ 10:27AM BLOOD cTropnT-<0.01
+___ 10:27AM BLOOD CK-MB-2
+___ 07:14AM BLOOD %HbA1c-4.7 eAG-88
+___ 07:14AM BLOOD Triglyc-626* HDL-23* CHOL/HD-11.2 
+LDLmeas-126
+___ 10:27AM BLOOD Triglyc-652* HDL-28* CHOL/HD-9.8 
+LDLmeas-PND
+
+DISCHARGE LABS: 
+___ 07:14AM BLOOD WBC-7.4 RBC-5.07 Hgb-14.8 Hct-42.9 MCV-85 
+MCH-29.2 MCHC-34.5 RDW-12.9 RDWSD-39.0 Plt ___
+___ 07:14AM BLOOD Plt ___
+___ 07:14AM BLOOD Glucose-80 UreaN-12 Creat-0.8 Na-140 
+K-4.2 Cl-100 HCO3-23 AnGap-17
+___ 07:14AM BLOOD Calcium-9.7 Phos-2.5* Mg-2.3 Cholest-258*
+
+IMAGING AND PROCEDURES:
+
+CARDIAC CATHETERIZATION: ___
+FINDINGS: 
+ Single vessel coronary artery disease.
+ Successul PCI of the 90% mid LAD stenosis with a 3.x 18 DES, 
+posted with a 3.25 NC balloon
+up to ___ ATM
+
+TRANSTHORACIC ECHOCARDIOGRAM: ___
+Quantitative 3D volumetric left ventricular ejection fraction is 
+61 % (normal 54-73%). 
+IMPRESSION: Normal study. Normal biventricular cavity sizes and 
+regional/global biventricular systolic function. No valvular 
+pathology or pathologic flow identified. Normal estimated 
+pulmonary artery systolic pressure.
+
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT:
+Mr. ___ is a ___ male with past medical history of 
+dyslipidemia, who presented to the ___ ED after undergoing 
+outpatient stress echocardiogram on ___ that revealed 
+severe myocardial ischemia in the mid LAD distribution. He 
+underwent coronary angiography showing 90% stenosis in the mid 
+LAD with successful PCI and placement of one DES in the mid-LAD.
+
+ACUTE ISSUES
+# CAD s/p DES to LAD
+The patient reported a 3-month history of worsening exertional 
+chest pain with family history significant for CAD in a maternal 
+uncle at age ___. Cardiac risk factors included dyslipidemia and 
+obesity. The patient underwent successful PCI with one DES to 
+the mid-LAD for 90% mid-LAD occlusion via right radial access. 
+He remained hemodynamically stable without chest pain following 
+cath. He was started on goal-directed therapy with aspirin, 
+clopidogrel, beta-blocker and high dose atorvastatin. TTE from 
+___ revealed normal biventricular cavity sizes and 
+regional/global biventricular systolic function.
+
+# Dyslipidemia
+Discontinued home fenofibrate. Started on atorvastatin 80mg 
+daily.
+
+# URI
+Reported upper respiratory symptoms of nasal congestion, no 
+cough.
+Noted recent contact with his ___ and ___ year old children with 
+colds at home. Offered nasal saline spray and phenylephrine as 
+needed.
+
+TRANSITIONAL ISSUES:
+
+[ ] Weight at discharge: 227.73 lb (103.3 kg)
+
+[ ] Blood pressure at discharge: 110s/70s-80s
+
+[ ] Heart rate at discharge: 60s-80s
+
+[ ] Should continue dual anti-platelet with ASA 81mg daily and 
+clopidogrel 75mg daily for 12 months (from ___
+
+[ ] Noted to have dyslipidemia with Trig elevated to 626. 
+Started on atorvastatin 80mg daily. Please monitor and assess 
+need for additional medical management.
+
+[ ] ___ consider Lipoprotein(a) testing in the outpatient 
+setting considering CAD at relatively young age of ___ with 
+significant family history; raising the concern for genetic 
+contribution to development of early coronary disease.
+
+[ ] ___ consider referral to Nutritionist to improve weight to 
+modify risk for worsening CAD. The patient expressed interest in 
+improving his diet.
+
+# CODE STATUS: FULL CODE
+# CONTACT: ___ ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fenofibrate 200 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 
+Coronary artery disease 
+
+SECONDARY DIAGNOSIS: 
+Dyslipidemia  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were having chest pain with exertion and a stress test was 
+concerning for a blockage in an artery supplying your heart
+
+WHAT WAS DONE IN THE HOSPITAL?
+- You had a procedure called a cardiac catheterization, which 
+showed that you had a blockage in one of the main arteries that 
+supplies your heart with blood and oxygen. A stent was placed in 
+the artery to relieve the blockage. 
+- You were monitored after the procedure and started on new 
+medications. 
+- After 24 hours you were in good condition and the medical team 
+felt it was safe for you to go home with close follow-up with 
+your primary doctor and your cardiologist. 
+
+WHAT SHOULD I DO WHEN I GET HOME FROM THE HOSPITAL?
+- Please continue to take all of your medications as prescribed. 
+
+- Follow-up with your primary doctor and your cardiologist at 
+the appointments, which are listed below.
+- If you experience chest pain, chest pressure, chest heaviness, 
+shortness of breath or generally feel unwell, please call your 
+doctor or go to the nearest emergency room.
+
+Sincerely,
+Your ___ Treatment Team
+ 
+Followup Instructions:
+___

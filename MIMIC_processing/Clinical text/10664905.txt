@@ -1,0 +1,317 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Tetracyclines / Celebrex / sulfa drugs / latex / 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abnormal LFTs
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ woman with PMHx notable for hypertension,
+osteoarthritis, recent UTI on nitrofurantoin, and likely
+sclerosing cholangitis who was referred to the ED by her
+gastroenterologist for abnormal LFTs.
+
+Labs were drawn on ___ at an outside facility and so are
+not directly viewable in OMR. Her son did take pictures however
+which showed an AST 56, ALT 81, AP 565, GGT 1614. GTT is
+reportedly up-trending from prior in 800s, though unclear 
+exactly
+when this was from. Was directed by GI to come to ED for
+expedited evaluation. 
+
+Of note, she had been following with GI at ___ (Dr. ___ for several years reportedly for a dilated bile duct.
+Interval labs from ___ were up-trending, and so underwent
+MRCP at that time. Was referred to ___ where
+imaging was reviewed and thought to show multiple intrahepatic
+biliary strictures, overall consistent with sclerosing
+cholangitis. Unclear if primary vs. secondary to long-standing
+biliary obstruction or other cause. Findings were discussed at
+interdisciplinary pancreas conference with low concern for
+malignancy and so ERCP was deferred at that time. 
+
+ 
+Past Medical History:
+hypertension
+cholecystitis
+osteoarthritis
+colonic polyps
+skin cancers
+___ reaction
+bilateral oophorectomy
+cataracts 
+ 
+Social History:
+___
+Family History:
+No known history of biliary or liver disease in family. 
+ 
+Physical Exam:
+Admission Physical Exam
+VITALS: 97.8 191/100 63 20 97 RA
+GENERAL: Older appearing woman in no acute distress. 
+Comfortable.
+NEURO: AAOx3. CNII-XII grossly intact. Motor strength ___ in
+upper and lower extremities bilaterally. Sensation grossly
+intact. Speech normal.
+HEENT: NCAT. EOMI. MMM.
+CARDIAC: Regular rate & rhythm. Normal S1/S2. No murmurs, rubs,
+or gallops.
+PULMONARY: Clear to auscultation bilaterally. Breathing
+comfortably on room air.
+ABDOMEN: Soft, non-tender, non-distended. No hepatosplenomegaly.
+EXTREMITIES: Warm, well perfused, non-edematous. 
+
+Discharge Physical Exam
+VS:
+24 HR Data (last updated ___ @ 713)
+    Temp: 98.4 (Tm 98.7), BP: 158/80 (138-179/80-92), HR: 57
+(57-70), RR: 18 (___), O2 sat: 95% (93-96), O2 delivery: Ra  
+GENERAL: Older appearing woman in no acute distress. 
+Comfortable.
+HEENT: NCAT. EOMI. MMM.
+CARDIAC: Regular rate & rhythm. Normal S1/S2. No murmurs, rubs,
+or gallops.
+PULMONARY: Clear to auscultation bilaterally. Breathing
+comfortably on room air.
+ABDOMEN: Soft, non-tender, non-distended. No hepatosplenomegaly.
+EXTREMITIES: Warm, well perfused, non-edematous. 
+NEURO: AAOx3. CNII-XII grossly intact. Motor strength ___ in
+upper and lower extremities bilaterally. Sensation grossly
+intact. Speech normal.
+
+ 
+Pertinent Results:
+Admission Labs
+___ 04:20PM BLOOD WBC-5.6 RBC-4.21 Hgb-12.1 Hct-37.9 MCV-90 
+MCH-28.7 MCHC-31.9* RDW-14.8 RDWSD-48.6* Plt ___
+___ 04:20PM BLOOD Neuts-60.5 ___ Monos-14.4* 
+Eos-3.2 Baso-0.7 Im ___ AbsNeut-3.40 AbsLymp-1.18* 
+AbsMono-0.81* AbsEos-0.18 AbsBaso-0.04
+___ 04:57PM BLOOD ___ PTT-29.2 ___
+___ 04:20PM BLOOD Glucose-107* UreaN-18 Creat-1.0 Na-136 
+K-4.5 Cl-97 HCO3-27 AnGap-12
+___ 04:20PM BLOOD ALT-56* AST-46* AlkPhos-564* TotBili-0.4
+___ 04:20PM BLOOD Albumin-4.0 Calcium-10.1 Phos-2.2* 
+Mg-2.8*
+___ 04:20PM BLOOD TSH-1.4
+___ 04:20PM BLOOD T4-9.9
+___ 04:20PM BLOOD IgG-1057 IgM-84
+___ 04:29PM BLOOD Lactate-1.4
+
+Pertinent Findings
+___ 07:55AM BLOOD ALT-45* AST-39 AlkPhos-500* TotBili-0.3
+
+Discharge Labs
+___ 07:35AM BLOOD WBC-6.1 RBC-3.86* Hgb-11.2 Hct-35.1 
+MCV-91 MCH-29.0 MCHC-31.9* RDW-14.9 RDWSD-49.5* Plt ___
+___ 07:35AM BLOOD Glucose-91 UreaN-21* Creat-1.0 Na-137 
+K-4.6 Cl-97 HCO3-27 AnGap-13
+___ 07:35AM BLOOD ALT-43* AST-38 LD(LDH)-161 AlkPhos-487* 
+TotBili-0.3
+___ 07:35AM BLOOD Calcium-9.4 Phos-3.1 Mg-2.5
+___ 04:20PM BLOOD IgG-1057 IgM-84
+___ 04:20PM BLOOD T4-9.9
+___ 04:20PM BLOOD TSH-1.4
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+================
+Ms. ___ is a ___ woman with PMHx notable for 
+hypertension, chronic biliary dilatation, and sclerosing 
+cholangitis now admitted for rising LFTs in a cholestatic 
+pattern concerning for sclerosing cholangitis, in the setting of 
+worsening weakness and fatigue x5 weeks. 
+
+ACUTE ISSUES
+==============
+#Sclerosing cholangitis
+#Transaminitis
+The patient presented with cholestatic pattern of LFT 
+abnormalities with predominantly elevated alk phos and GGT. This 
+was presumably due to known biliary obstruction visualized on 
+prior MRCP in ___, thought to be from sclerosing cholangitis 
+though unclear if primary versus secondary from chronic biliary 
+obstruction. Malignancy was considered less likely at 
+interdisciplinary pancreatic conference in ___ given 
+clinical stability at that time, but ERCP was recommended 
+symptoms were worsening. There was low suspicion of 
+choledocholithiasis based on normal RUQUS. There was no evidence 
+of acute infection. Serologic ___ performed: AMA, ___, 
+___, IgG, IgM, GGT, ___ and pending at discharge. MRCP 
+performed which showed improvement in scan, no cholestasis or 
+CBD dilation, but with some strictures in liver with mild 
+hepatic duct dilation. 
+
+# FATIGUE
+The patient had been feeling more tired and participating less 
+at living facility. Her exam was without any focal weakness. 
+Suspected etiologies included hepatic abnormalities vs. recent 
+Zoster flare vs. UTI (finishing treatment on admission). No 
+other major metabolic derangements. TSH and T4 wnl. ___ was 
+consulted and determined pt to be at baseline w/ ___ needs. 
+Nutrition recommended Ensure w/ meals, vitamin w/ minerals QD.
+
+# HYPERTENSION
+The patient was hypertensive 160-190s while admitted. She has 
+known history of hypertension but recently stopped home 
+amlodipine reportedly due to SBP ___ in clinic. She had SBPs as 
+high as 180 but as low as ___. Recommend continued monitoring 
+but a liberal control strategy may be safer. 
+
+# URINARY TRACT INFECTION
+Diagnosed at assisted living facility with symptoms of dysuria 
+and malodorous urine. Completed 7-day course nitrofurantoin on 
+___.
+
+# REGURGITATION
+Her caretaker and son described intermittent mucous 
+regurgitation, which did not seem to be overt vomiting, 
+partially digested food products or dysphagia (food sticking in 
+throat). This problem was unlikely related to LFT abnormalities 
+or biliary issues. Speech and swallow was consulted, but did not 
+see the patient by the time of discharge. 
+
+CHRONIC / STABLE ISSUES
+================================
+# OSTEOARTHRITIS: Patient was reportedly on tramadol, 
+gabapentin, and Tylenol at the facility. Tramadol was recently 
+started to reduce Tylenol burden on liver although patient had 
+not started taking this medication yet. Patient also had history 
+of not doing well on sedating medications. Patient continued on 
+Gabapentin 100 mg PO/NG BID, Acetaminophen 1000 mg PO/NG 
+Q8H:PRN, tramadol lose dose PRN at night for pain.
+
+# GERD: treated with aluminum-Magnesium Hydrox.-Simethicone 
+___ mL PO/NG QID:PRN, TUMS TID after meals PRN GERD. PPI not 
+given as declined by proxy.
+
+TRANSITIONAL ISSUES
+==================
+[] The patient was reported to have lots of mucus secretions in 
+her mouth. She did not have any overt signs of difficulty with 
+swallowing fluids or solids. Would recommend obtaining speech 
+and swallow evaluation as an outpatient. ___ also benefit from 
+EGD pending speech/swallow evaluation.
+[] The patient had labile blood pressures while inpatient with 
+SBPs ranging from 90-170. She had discontinued amlodipine as an 
+outpatient due to hypotension. Consider restarting as 
+appropriate, but a liberal control strategy may avoid 
+hypotension. 
+[] consider compression stockings for orthostatic hypotension
+[] Sclerosing cholangitis: follow-up final read of MRCP and 
+serologic testing in outpatient liver clinic and discussion of 
+treatment.
+
+#CODE STATUS: DNR/DNI (confirmed, MOLST on file)
+#CONTACT: ___ (son: ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. cranberry unknown  oral DAILY 
+2. Florastor (Saccharomyces boulardii) 250 mg oral BID 
+3. Gabapentin 100 mg PO BID 
+4. Metamucil (psyllium husk) 3.4 gram/5.4 gram oral DAILY 
+5. Miconazole Powder 2% 1 Appl TP BID 
+6. Nitrofurantoin Monohyd (MacroBID) 100 mg PO Q12H 
+7. Oysco-500 (calcium carbonate) 500 mg calcium (1,250 mg) oral 
+QPM 
+8. Artificial Tears Preserv. Free ___ DROP BOTH EYES BID 
+9. Salonpas (methyl salicylate-menthol) unknown  topical QPM 
+10. Witch ___ 50% Pad ___ID 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Calcium Carbonate 500 mg PO BID:PRN GERD 
+13. melatonin 5 mg oral QHS:PRN 
+14. Senna 17.2 mg PO BID:PRN Constipation - First Line 
+15. Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+abdominal discomfort 
+
+ 
+Discharge Medications:
+1.  cranberry 1 tab oral DAILY  
+2.  Salonpas (methyl salicylate-menthol) 1 U topical QPM  
+3.  Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+abdominal discomfort  
+4.  Artificial Tears Preserv. Free ___ DROP BOTH EYES BID  
+5.  Calcium Carbonate 500 mg PO BID:PRN GERD  
+6.  Florastor (Saccharomyces boulardii) 250 mg oral BID  
+7.  Gabapentin 100 mg PO BID  
+8.  melatonin 5 mg oral QHS:PRN  
+9.  Metamucil (psyllium husk) 3.4 gram/5.4 gram oral DAILY  
+10.  Miconazole Powder 2% 1 Appl TP BID  
+11.  Oysco-500 (calcium carbonate) 500 mg calcium (1,250 mg) 
+oral QPM  
+12.  Senna 17.2 mg PO BID:PRN Constipation - First Line  
+13.  Vitamin D 1000 UNIT PO DAILY  
+14.  Witch ___ 50% Pad ___ID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+===============
+Sclerosing cholangitis
+Transaminitis
+
+SECONDARY DIAGNOSES
+===============
+Hypertension
+Urinary tract infection
+Regurgitation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure caring for you at ___.
+
+WHY WAS I IN THE HOSPITAL?
+- You were admitted to the hospital because you were feeling 
+fatigued and had elevated liver labs.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+- We sent lab tests to look for a reason for your liver lab 
+abnormalities.
+- You got imaging of your liver and gallbladder that showed 
+overall improvement with some narrowing of vessels in the liver.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medicines and keep your 
+appointments.
+- You should have your swallowing issues evaluated by a speech 
+and swallow expert. They may recommend further testing or 
+consultation with a GI doctor or ENT doctor. 
+- Avoid narcotics like tramadol which may make you feel altered. 
+
+- Call your doctor if you develop any symptoms that concern you.
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

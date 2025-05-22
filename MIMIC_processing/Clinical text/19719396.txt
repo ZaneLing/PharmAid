@@ -1,0 +1,214 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest/Back Pain
+ 
+Major Surgical or Invasive Procedure:
+Coronary Angiography-including catheter placement
+Left Heart Catheterization
+
+ 
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS:
+Patient is a ___ year old man with no past medical history (has 
+not seen a doctor in ___ years) presents with right lower back 
+pain as well as pain between his scapula radiating to his 
+anterior chest started at 8 ___ on ___. Right lower back pain 
+has been longstanding for several months, described as stabbing, 
+chest pain described as pressure. Also had diaphoresis and 
+nausea with vomiting x12 at the onset of these symptoms, no 
+hemoptysis. Denies shortness of breath, fevers, chills, 
+diarrhea. Similar episode of chest pain that was less severe 1 
+month ago that self resolved. Went to ___ around 10 ___. 
+ECG initially with inferior and septal TWI. Received 324mg ASA, 
+nitro paste, started on heparin gtt. Repeat ECG with worsening 
+of anterior TWI. CTA normal to r/o dissection. Initial trop 
+@2300 negative. Given ongoing chest pain, also development of 
+rate related LBBB, cardiology recommended transfer to BI for 
+cath.
+
+In the ED initial vitals were: Temp: 98.1 HR: 50 BP: 133/73 
+Resp: 18 O2 Sat: 97
+Exam: Appears tired CTAB RRR, no m/r/g 
+EKG: TWI II, III, V1-V4. Biphasic TW V5. 1mm ST depressions V3, 
+V4
+Labs/studies notable for:  WBC 15.1, trop <0.01
+Patient was given:  
+Vitals on transfer:  99.3 PO 120 / 63 61 16 95 RA
+
+On the floor patient denied chest pain, hemodynamically stable. 
+Of note, reports feeling feverish, no dyspnea, no recent colds 
+or illnesses. Patient's son was sick with 101 fever for 4 days 
+last week, resolved spontaneously.
+
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death.
+Mother ___ years): HTN
+Brother ___ years): HTN
+ 
+Physical Exam:
+Admission Physical Exam
+===========================
+VS: 99.3 PO 120 / 63 61 16 95 RA  
+GENERAL: Appears tired, no acute distress, pleasant and 
+conversant.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple with no JVD
+CARDIAC: Regular rate and rhythm, no rubs murmurs or gallops.  
+LUNGS: CTABL, No crackles, wheezes or rhonchi.  
+ABDOMEN: LUQ ___ tenderness on palpation, soft, nondistended. 
+No HSM.  
+EXTREMITIES: No cyanosis, clubbing, or edema 
+SKIN: LUQ maculopapular rash (longstanding), no ulcers, scars, 
+or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE Physical Exam
+===========================
+same as above
+ 
+Pertinent Results:
+Admission labs
+================
+
+___ 04:20AM BLOOD WBC-15.1* RBC-4.92 Hgb-13.6* Hct-41.3 
+MCV-84 MCH-27.6 MCHC-32.9 RDW-12.8 RDWSD-39.0 Plt ___
+___ 04:20AM BLOOD Neuts-90.8* Lymphs-5.1* Monos-3.2* 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-13.72* AbsLymp-0.77* 
+AbsMono-0.48 AbsEos-0.01* AbsBaso-0.05
+___ 04:20AM BLOOD ___ PTT-79.1* ___
+___ 04:20AM BLOOD Plt ___
+___ 04:20AM BLOOD Glucose-145* UreaN-14 Creat-0.9 Na-138 
+K-7.8* Cl-105 HCO3-17* AnGap-16
+___ 09:40AM BLOOD ALT-19 AST-15 LD(LDH)-160 AlkPhos-60 
+TotBili-0.6
+___ 04:20AM BLOOD ALT-LESS THAN  AST-59* LD(___)-801* 
+CK(CPK)-172 AlkPhos-49 TotBili-0.5
+___ 06:00AM BLOOD Lipase-13
+___ 09:40AM BLOOD hsCRP-6.9
+___ 06:00AM BLOOD cTropnT-<0.01
+___ 04:20AM BLOOD cTropnT-<0.01
+___ 04:20AM BLOOD CK-MB-2
+___ 09:40AM BLOOD Cholest-220*
+___ 04:20AM BLOOD Calcium-8.9 Phos-3.6 Mg-2.1
+___ 09:40AM BLOOD %HbA1c-5.3 eAG-105
+___ 09:40AM BLOOD Triglyc-171* HDL-50 CHOL/HD-4.4 
+LDLcalc-136*
+___ 09:40AM BLOOD TSH-0.71
+___ 05:23AM BLOOD K-4.1
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with no past medical history 
+(has not seen a doctor in ___ years) presents with right lower 
+back pain radiating to his anterior chest at 8 ___ on ___. 
+Associated with diaphoresis and nausea/vomiting. Presented to 
+___ for initial evaluation and transferred to ___ 
+for cardiac catheterization. Problems addressed during his 
+admission are listed below:
+
+#Chest/back pain: Transferred from ___, ECG with 
+inferior and septal TWI, troponins negative, CTA normal. 
+Received 324mg ASA, SL nitro and nitro paste, started on heparin 
+gtt. Cardiology recommended transfer to ___ for cath. At ___ 
+___, patient was hemodynamically stable with no chest pain, 
+endorsed low back pain (longstanding). Repeat EKG revealed rate 
+related LBBB, started nitro gtt. Repeat troponin negative, cath 
+showed no coronary artery disease, ECHO showed LVEF >55% with no 
+wall motion abnormalities or valvular disease, lipid panel, A1C, 
+CMP within normal limits. Back pain has been longstanding, most 
+likely musculoskeletal. Was given toradol 15 IV and Tylenol. 
+Suggested Tylenol/NSAIDs for pain at home. Also told to 
+establish care with PCP ___ ___ days of discharge.
+
+#Leukocytosis: Admission WBC 15.1, however this was an isolated 
+finding as patient was afebrile with no systemic signs of 
+infection. Detailed history and physical exam unrevealing. 
+Patient had LUQ pain and vomiting that resolved completely at 
+discharge. LFTs, CRP, lipase within normal limits.
+
+TRANSITIONAL ISSUES:
+- Would repeat CBC within 1 week of discharge to ensure 
+resolution of leukocytosis.
+- Back pain likely musculoskeletal. Would proceed with work-up 
+as needed if it does not improve with short course of 
+analgesics/anti-inflammatories.
+
+#CODE STATUS: Full (confirmed)
+#CONTACT: ___ (wife) ___
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+==================
+Chest/Back Pain
+
+SECONDARY DIAGNOSES:
+====================
+Leukocytosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to care for you at the ___ 
+___. You came to the hospital because you developed 
+chest and back pain at home. You were concerned by these 
+symptoms and went to the ED in ___ for initial evaluation 
+before being transferred to ___. We were concerned that 
+this chest pain was related to your heart. We obtained blood 
+tests, EKGs, and a cardiac catheterization to view the blood 
+vessels surrounding your heart. We found a conduction 
+abnormality in your heart which may have caused some of your 
+chest pain. The results of all the other tests we performed were 
+normal. We think your heart is healthy and that you are able to 
+return home safely. You had a mildly elevated white blood cell 
+count that you should follow-up with your primary care 
+physician.
+
+We believe your back pain is most likely musculoskeletal. We 
+gave you anti-inflammatory medications to help relieve this 
+pain.
+
+Please be sure to establish care with a primary care physician. 
+We recommend that you follow up with a primary care physician 
+___ ___ days from discharge.
+
+We wish you all the best!
+-Your ___ care team
+ 
+Followup Instructions:
+___

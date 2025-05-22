@@ -1,0 +1,290 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / lisinopril
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Coronary angiography with deployment of a drug-eluting stent in 
+the distal LCX and unsuccessful balloon angioplasty of OM1 
+___
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with H/O CAD s/p DES x2 in 
+the OM, known chronic total occlusion (CTO) of the proximal RCA 
+on last angiogram in ___, tobacco use, and hypertension who 
+transferred to ___ ED from ___ for ___. She 
+initially presented there for progressive chest pain x2 days, 
+substernal, radiating to the jaw. Although she attributed this 
+to indigestion, the pain was similar to prior symptoms when she 
+had her stent placed. She took sublingual nitroglycerin x2.  
+Troponin at ___ was 0.07, and she started on heparin gtt 
+and transferred to ___.
+
+In the ED, nitroglycerin gtt was started for chest pain but 
+resulted in hypotension to ___ and was stopped with return of 
+chest pain. She subsequently received fentanyl for pain. 
+Troponin-T 0.14 -> 0.21. ECG with no concerning ischemic 
+changes. Cardiology was consulted recommended admission to 
+cardiology. Transfer VS were: T 97.6 BP 149/99 HR 60 RR 18 Sao2 
+95% on RA.
+
+On arrival to the cardiology ward, patient reported ___ chest 
+pain. There were no EKG changes, and she was taken urgently to 
+the cardiac catheterization laboratory.
+ 
+Past Medical History:
+-CAD s/p DES x2 OM, known CTO of proximal RCA on last angiogram 
+in ___
+-Hypertension
+-Hyperlipidemia
+ 
+Social History:
+___
+Family History:
+Father with MI age ___.
+ 
+Physical Exam:
+On admission
+GENERAL: well-developed well nourished white woman in no 
+apparent distress  
+VS: T 97.6 BP 149/99 HR 60 RR 18 SaO2 95% on RA
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+mucous membranes moist
+NECK: supple, no lymphadenopathy, no JVD
+HEART: RRR, S1/S2; no murmurs, gallops, or rubs  
+LUNGS: CTAB--no wheezes, rales, rhonchi; breathing comfortably 
+without use of accessory muscles
+ABDOMEN: not distended, non-tender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 1+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes
+
+At discharge
+GENERAL: Well-developed, well-nourished female lying comfortably 
+in bed in NAD
+VITALS: T 97.8 BP 139/89 HR 64 RR 16 SaO2 97% on RA
+HEENT: Normocephalic, atraumatic.
+LUNGS: CTAB--o wheezes, rales, or rhonchi
+HEART: RRR, normal S1/S2; no murmurs, rubs, or gallops
+ABDOMEN: Soft, non-tender, not distended
+EXTREMITIES:  No ___ edema
+ 
+Pertinent Results:
+___ 08:55PM BLOOD WBC-8.2 RBC-3.72* Hgb-12.3 Hct-36.2 
+MCV-97 MCH-33.1* MCHC-34.0 RDW-13.6 RDWSD-48.8* Plt ___
+___ 08:55PM BLOOD Neuts-58.5 ___ Monos-11.6 Eos-2.9 
+Baso-0.9 Im ___ AbsNeut-4.78 AbsLymp-2.09 AbsMono-0.95* 
+AbsEos-0.24 AbsBaso-0.07
+___ 08:55PM BLOOD ___ PTT-150* ___
+
+___ 08:55PM BLOOD Glucose-100 UreaN-9 Creat-0.6 Na-136 
+K-4.3 Cl-99 HCO3-23 AnGap-14
+___ 08:55PM BLOOD Calcium-9.0 Phos-3.1 Mg-1.9
+
+___ 08:55PM BLOOD cTropnT-0.14*
+___ 04:00AM BLOOD cTropnT-0.21*
+___ 03:28AM BLOOD cTropnT-0.52*
+___ 06:15AM BLOOD CK-MB-8 cTropnT-0.44*
+
+DISCHARGE LABS
+___ 06:15AM BLOOD WBC-8.6 RBC-3.42* Hgb-11.6 Hct-33.1* 
+MCV-97 MCH-33.9* MCHC-35.0 RDW-13.9 RDWSD-49.3* Plt ___
+___ 06:15AM BLOOD Neuts-62.2 ___ Monos-15.6* 
+Eos-2.1 Baso-0.7 Im ___ AbsNeut-5.34 AbsLymp-1.64 
+AbsMono-1.34* AbsEos-0.18 AbsBaso-0.06
+___ 06:15AM BLOOD ___ PTT-27.1 ___
+___ 06:15AM BLOOD Glucose-89 UreaN-11 Creat-0.6 Na-136 
+K-4.3 Cl-100 HCO3-26 AnGap-10
+___ 06:15AM BLOOD Calcium-8.8 Phos-4.2 Mg-1.8 Cholest-132
+
+URINE CULTURE (Final ___: MIXED BACTERIAL FLORA ( >= 3 
+COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL 
+CONTAMINATION.
+
+ECG ___ 8:38:14 ___
+Sinus rhythm. Non-specific T wave abnormalities in leads III and 
+aVF. Compared to the previous tracing of ___ inferior T wave 
+changes are slighty more prominent.
+
+Coronary angiogram ___
+Coronary Anatomy
+Dominance: Co-dominant
+* Left Main Coronary Artery: The LMCA is normal
+* Left Anterior Descending: The LAD has minor irregularities.
+* Circumflex: The Circumflex had distal subtotal occlusion 
+before the origin of a distal posterolateral branch and a very 
+small LPDA. The ___ Marginal has prior stents which are 
+occluded.
+* Right Coronary Artery: The RCA is chronically totally 
+occluded, the distal vessel filling from LAD collaterals 
+Interventional Details: The left main was engaged with a ___ Fr 
+EBU guide. A Choice PTXS wire was advanced into the OM1 with and 
+OTW 2.0 balloon. The wire would not cross the occluded stents. 
+Subsequently a Pilot ___ wire crossed partly through the 
+occluded stents revealing a very small distal vessel and 
+therefore no further attempts were made. A Prowater wire was 
+then advanced down the LCX into the distal posterolateral branch 
+and the occlusion dilated with a 2.0 balloon and then stented 
+with a 2.25x15 Onyx deployed AT 8 ATM. There was no residual and 
+normal flow into the distal branch and the small LPDA.
+Impressions:
+-Successful DES of distal LCX subtotal occlusion
+-Probable chronic occlusion of prior stents in OM1
+-Chronic RCA CTO collateralized from LAD
+Recommendations
+-Continue aspirin uninterrupted indefinitely
+-Continue ticagrelor ___ year (reported previous adverse effect 
+from clopidogrel)
+ 
+Brief Hospital Course:
+___ woman with H/O CAD s/p DES x2 OM, known chronic 
+total occlusion (CTO) of the proximal RCA on last angiogram in 
+___, ongoing tobacco use, and hypertension who transferred to 
+___ ED from ___ for NSTEMI with rising troponin.
+
+Acute Medical Issues
+# NSTEMI: Patient presented to ___ with 2 days of 
+progressive chest pain, found to have elevated troponins. She 
+was started on a heparin drip for NSTEMI management and 
+transferred to ___. At ___, a nitroglycerin gtt was started, 
+however she became hypotensive with SBP in the ___. This was 
+transitioned to fentanyl IV for pain relief. Her troponin-T 
+peaked at 0.52 with CK-MB 8. Coronary angiogram on ___ showed 
+CTO of the RCA with subtotal distal circumflex lesion treated 
+with 1 DES. The prior stents in the OM were occluded with poor 
+distal vessel, so it was not revascularizaed. She was started on 
+aspirin and ticagrelor (given documented previous adverse 
+reaction to clopidogrel). She was maintained on her home 
+metoprolol succinate 100 mg daily, losartan 50 mg daily, and 
+atorvastatin 80 mg daily.
+
+Chronic medical issues
+# Anxiety: patient with long standing history of anxiety 
+maintained on paroxetine at home. Her home paroxetine dose was 
+continued.
+
+# Hypertension: continue losartan and metoprolol as above
+
+Transitional Issues
+[] DAPT: patient discharged on aspirin 81 mg daily and 
+ticagrelor 90 mg bid. This should be continued for at least ___ 
+year, at which point continuation may be considered. Daily doses 
+of aspirin should not exceed 100 mg daily while on ticagrelor.
+[] Encourage smoking cessation and started on a nicotine patch 
+in the hospital
+[] Discharge weight: 61.3 kg
+[] Discharge Cr: 0.6
+[] No health care proxy
+
+___: 
+NEW
+Aspirin 81 mg PO DAILY 
+Nicotine Patch 21 mg TD DAILY 
+TiCAGRELOR 90 mg PO BID 
+
+CHANGED 
+Losartan Potassium 50 mg PO DAILY 
+
+SAME 
+Atorvastatin 80 mg PO QPM 
+Metoprolol Succinate XL 100 mg PO DAILY 
+PARoxetine 30 mg PO DAILY 
+TraZODone 100 mg PO QHS:PRN Insomnia 
+Vitamin D 1000 UNIT PO DAILY 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. PARoxetine 30 mg PO DAILY 
+2. HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Frequency is 
+Unknown 
+3. Losartan Potassium 75 mg PO DAILY 
+4. Atorvastatin 80 mg PO QPM 
+5. TraZODone 100 mg PO QHS:PRN Insomnia 
+6. Metoprolol Succinate XL 100 mg PO DAILY 
+7. Vitamin D 1000 UNIT PO DAILY
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Nicotine Patch 21 mg TD DAILY 
+RX *nicotine 21 mg/24 hour 1 patch daily Disp #*30 Patch 
+Refills:*0 
+3.  TiCAGRELOR 90 mg PO BID to prevent stent thrombosis 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+4.  Losartan Potassium 50 mg PO DAILY 
+RX *losartan 50 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+5.  Atorvastatin 80 mg PO QPM  
+6.  Metoprolol Succinate XL 100 mg PO DAILY  
+7.  PARoxetine 30 mg PO DAILY  
+8.  TraZODone 100 mg PO QHS:PRN Insomnia  
+9.  Vitamin D 1000 UNIT PO DAILY
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Non-ST segment elevation myocardial infarction
+-Coronary artery disease with
+-Chronic total occlusion of the right coronary artery
+-In-stent restenosis chronic total occlusion of the ___ obtuse 
+marginal branch
+-Hypertension
+-Hyperlipidemia
+-Ongoing cigarette smoking
+-Anxiety
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ from ___
+
+WHY WAS I ADMITTED TO THE HOSTPIAL?
+- You were admitted because you had chest pain that was caused 
+by a heart attack.
+
+WHAT HAPPENED WHILE I WAS ADMITTED?
+- We did a cardiac catheterization, where we looked at all of 
+the blood vessels of the heart and put a stent in the one that 
+was blocked.
+- We gave you medications to help prevent this in the future.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- You should follow up with your primary care physician as well 
+as your cardiologist.
+- You should take all of your medications as prescribed.
+- Do not take more than 81mg of aspirin or any NSAIDS 
+(ibuprofen, naproxen, Advil, Motrin, Aleve, etc.) as this may 
+worsen the effect of your Brilinta (ticagrelor).
+- Please try to quit smoking as use the nicotine patches as 
+needed.
+
+It was a pleasure caring for you!
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

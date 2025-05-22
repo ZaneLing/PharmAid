@@ -1,0 +1,354 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS:
+Mr. ___ is a ___ y/o male with a history of asthma/COPD, 
+pectus
+excavatum s/p multiple corrective procedures, moderate-to-severe
+restrictive lung disease, and recurrent pneumonia who presents
+with shortness of breath, cough and fever. 
+
+The patient reports initially having fatigue, shaking chills,
+night sweats, nausea and vomiting five days ago. He had two
+extended sessions of non-bloody, non-bilious clear emesis that
+day. He then developed shortness of breath, chest tightness, and
+cough 4 days ago that has progressed since that time. No fevers
+at home. His cough was initially productive of dark sputum but
+has become nonproductive recently. Additionally, he describes
+persistent dyspnea both at rest and with exertion that 
+progressed
+to the point of not being able to walk more than a few steps
+without gasping. His chest discomfort is located centrally and
+over his lower ribs, described as a sharp/stabbing pain. It
+occurs intermittently and is worsened by palpation, coughing, 
+and
+deep breaths. He had been taking aleve and acetaminophen for 
+pain
+control and continued using his home symbicort, Spiriva, and
+albuterol inhalers. Otherwise, no abodminal pain, diarrhea, URI
+symptoms, or other systemic symptoms. No history of DVT/PE, sick
+contacts, recent travel abroad, or recent hospitalizations. Last
+episode of pneumonia occurred in ___. 
+
+The patient presented to his PCP, ___, on ___ for
+his symptoms. Given visible respiratory distress, he was placed
+on 4L NC and sent by ambulance to the ED. 
+
+In the ED:
+- Initial vital signs were notable for: Temp 100.3F BP 95/72 HR
+152 RR 22 92% on 4L NC 
+
+- Exam notable for: Tachypneic, speaking mostly in full
+sentences. RRR. CTAB. Abdomen soft, NT/ND. 
+
+- Labs were notable for:
+BMP: Na 138, K 3.8, Cl 97 CO2 21, BUN/Cr ___, BG 85  AG 20 
+CBC: WBC 20.5, H/H 13.5/41.9, plt 324
+Trop-T <0.01
+Lactate 2.1->2.9; VBG 7.38/45
+Influenza neg
+UA with trace bld, 30 protein, 10 ketones 
+
+- Studies performed include:
+CXR: Pulmonary vascular congestion suspected with left lower 
+lobe
+consolidation concerning for pneumonia.
+
+- Patient was given: 3L IV fluids, IV methylpred 80mg, IV CTX, 
+IV
+azithromycin 500mg, duoneb, acetaminophen 1000mg po
+
+- Consults: None
+
+Vitals on transfer: Temp 97.8F BP 134/81 HR 100 RR 24 97% on RA 
+
+Upon arrival to the floor, the patient reports feeling much
+better. He notes that his shortness of breath, cough, and chest
+tightness are all improving. 
+
+REVIEW OF SYSTEMS: Complete ROS obtained and is otherwise
+negative.
+
+ 
+Past Medical History:
+Asthma/COPD
+Pectus excavatum s/p ___ procedure
+Perforated nasal septum 
+Borderline hypertension
+Recurrent pneumonia 
+ 
+Social History:
+___
+Family History:
+Mother and sister with seizure disorder. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+===========================
+VITALS: Temp 97.6F BP 116/77 HR 91 RR 20 97% on 5L 
+GENERAL: WDWN male in NAD. Sitting comfortably in bed.
+HEENT: NCAT. PERRL. Sclera anicteric and without injection.
+Oropharynx clear. 
+NECK: Supple. No cervical lymphadenopathy.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops. 
+RESP: Normal respiratory effort. Crackles over left base,
+otherwise CTAB without wheezes or rhonchi. No egophony over left
+base. 
+ABDOMEN: Normoactive BS. Soft, NT/ND. No guarding or masses. 
+MSK: Warm, well perfused. No ___ edema or erythema. Chest wall
+deformities present. 
+SKIN: Warm, dry. No rashes. 
+NEUROLOGIC: Alert and interactive. CN2-12 grossly intact. Moves
+all extremities. 
+PSYCH: appropriate mood and affect. 
+
+DISCHARGE PHYSICAL EXAM
+=============================
+VITALS:24 HR Data (last updated ___ @ 2252)
+    Temp: 97.7 (Tm 98.8), BP: 134/91 (126-148/79-94), HR: 80
+(70-89), RR: 18, O2 sat: 91% (91-96), O2 delivery: Ra  
+GENERAL: WDWN male in NAD. Sitting comfortably in bed.
+HEENT: NCAT. PERRL. Sclera anicteric and without injection.
+Oropharynx clear. 
+NECK: Supple. No cervical lymphadenopathy.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops. 
+RESP: Normal respiratory effort. CTAB with wheezes and some
+rhonchi. No egophony over left base. 
+ABDOMEN: Normoactive BS. Soft, NT/ND. No guarding or masses. 
+MSK: Warm, well perfused. No ___ edema or erythema. Chest wall
+deformities present. 
+SKIN: Warm, dry. No rashes. 
+NEUROLOGIC: Alert and interactive. Moves all extremities. 
+PSYCH: appropriate mood and affect. 
+ 
+Pertinent Results:
+ADMISSION LABS
+=================
+___ 04:35PM BLOOD WBC-20.5* RBC-4.62 Hgb-13.5* Hct-41.9 
+MCV-91 MCH-29.2 MCHC-32.2 RDW-14.0 RDWSD-46.1 Plt ___
+___ 04:35PM BLOOD Neuts-93.5* Lymphs-1.9* Monos-3.4* 
+Eos-0.3* Baso-0.3 Im ___ AbsNeut-19.16* AbsLymp-0.38* 
+AbsMono-0.70 AbsEos-0.06 AbsBaso-0.06
+___ 04:35PM BLOOD Glucose-85 UreaN-19 Creat-1.0 Na-138 
+K-3.8 Cl-97 HCO3-21* AnGap-20*
+___ 04:35PM BLOOD cTropnT-<0.01
+___ 04:35PM BLOOD Calcium-9.9 Phos-3.0 Mg-2.0
+___ 04:48PM BLOOD ___ Temp-38.1 pO2-30* pCO2-45 
+pH-7.38 calTCO2-28 Base XS-0 Intubat-NOT INTUBA
+___ 04:48PM BLOOD Lactate-2.1*
+___ 08:49PM BLOOD Lactate-2.9*
+
+DISCHARGE LABS
+==================
+
+___ 05:55AM BLOOD WBC-9.2 RBC-4.08* Hgb-11.7* Hct-37.7* 
+MCV-92 MCH-28.7 MCHC-31.0* RDW-14.6 RDWSD-49.5* Plt ___
+___ 05:55AM BLOOD Glucose-71 UreaN-20 Creat-0.7 Na-143 
+K-4.3 Cl-101 HCO3-28 AnGap-14
+___ 05:55AM BLOOD Calcium-9.0 Phos-4.6* Mg-2.2
+___ 05:53AM BLOOD proBNP-745*
+
+IMAGING
+===================
+TTE ___
+
+The estimated right atrial pressure is ___ mmHg. There is 
+normal left ventricular wall thickness with a
+normal cavity size. There is suboptimal image quality to assess 
+regional left ventricular function. Overall
+left ventricular systolic function is normal. Normal right 
+ventricular cavity size with normal free wall
+motion. There is a normal ascending aorta diameter for gender. 
+There is a normal descending aorta
+diameter. The aortic valve is not well seen. There is no aortic 
+valve stenosis. There is no aortic
+regurgitation. The mitral valve leaflets are elongated with 
+leaflet straightening, but no frank systolic
+prolapse.
+IMPRESSION: Poor image quality due to pectus excavatum. Many 
+measurements could not be
+obtained. Given these limiations the following observations were 
+made: 1) Normal left ventricular
+wall thickness and biventricular cavity sizes and 
+regional/global biventricular systolic function. 2)
+RA pressure elevation.
+
+CXR ___
+Pulmonary vascular congestion suspected with left lower lobe 
+consolidation 
+concerning for pneumonia. 
+
+ 
+Brief Hospital Course:
+SUMMARY
+======================
+Mr. ___ is a ___ y/o male with a history of asthma/COPD, 
+pectus
+excavatum s/p multiple corrective procedures, moderate-to-severe
+restrictive lung disease, and recurrent pneumonia who presented 
+to his PCP with shortness of breath, cough and fever, found to 
+have
+a LLL community acquired pneumonia. He initially required 5L of 
+oxygen and was tachycardic to the 150s on arrival. He was given 
+IV CTX and azithromycin and steroids. He was gradually weaned 
+down on O2 and discharged on cefuroxime to complete a 7 day 
+course of antibiotics. 
+
+TRANSITIONAL ISSUE
+=======================
+[] Patient with TTE here showing increasd PA pressure compared 
+to prior TTE in ___ which showed pressure of 17 and now 
+increased to 23. 
+[] Recommend vasculitis, complement, and/or immunoglobulin 
+deficiency workup if patient has not been worked up previously. 
+Endorses recurrent infections throughout life and given severe 
+presentation this time concerning for underlying process that 
+predisposes patient to these infections. 
+[] Patient with normocytic anemia of hgb ___ while in the 
+hospital. Recommend follow up as outpatient. 
+
+ACUTE ISSUES
+===============
+#Severe sepsis
+#Leukocytosis
+#Community acquired pneumonia 
+Presented with cough, SOB, and fever to his PCP and was referred 
+to the ED. At admission, he met ___ SIRS criteria (WBC, HR, RR) 
+with lactic acidosis consistent with severe sepsis. At 
+presentation, symptoms, leukocytosis to 20 with left shift, plus 
+CXR consistent with LLL community acquired pneumonia. S/p 
+adequate fluid resuscitation with 3L in the ED. Treated with CTX 
+and azithromycin. Legionella negative and therefore azithromycin 
+discontinued and patient ultimately changed to cefuroxime to 
+complete a 7 day course of antibiotics (___). Given severe 
+initial presentation, treated with 5 day course of steroids as 
+well (___). Patent 
+without risk factors for PE. Does not endorse history of HCF
+symptoms to explain dyspnea however TTE only with evidence of 
+mildly elevated pulmonary artery pressure. 
+
+#Acute hypoxic respiratory failure
+On 5L NC upon arrival to the floor with sats in the high ___. 
+Hypoxia ___ pneumonia and improved with treatment. Weaned off of 
+O2 prior to discharge.
+
+#Sinus tachycardia 
+HR 150s on admission, EKG with sinus tachycardia. Likely due to
+sepsis/infection. Improved to 100s following fluid 
+resuscitation.
+
+#AGMA 
+#Lactic acidosis 
+HCO3 21, AG 20. Lactate up to 2.9 in the ED iso infection. S/p 
+3L
+IV fluids. Lactate to 1.9 by the next AM. 
+
+CHRONIC ISSUES
+===================
+#Asthma/COPD
+Followed by ___ pulmonology, last seen in ___. Most recent 
+PFTs with FVC 36% of predicted, FEV1 26% of predicted, and 
+FEV1/FVC 72% of predicted. Sxs had remained stable on 
+Spiriva/symbicort.
+Continued Spiriva and advair (Symbicort non-formulary). 
+
+#CONTACT: ___ (wife) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 
+2. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID 
+3. Naproxen 375 mg PO Q8H:PRN Pain - Mild 
+4. Tiotropium Bromide 1 CAP IH DAILY 
+5. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+6. Vitamin D 400 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  cefUROXime axetil 500 mg oral BID Duration: 3 Days 
+RX *cefuroxime axetil 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*6 Tablet Refills:*0 
+2.  PredniSONE 40 mg PO DAILY Duration: 4 Doses 
+RX *prednisone 20 mg 2 tablet(s) by mouth once a day Disp #*2 
+Tablet Refills:*0 
+3.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+4.  Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB  
+5.  Naproxen 375 mg PO Q8H:PRN Pain - Mild  
+6.  Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation BID  
+7.  Tiotropium Bromide 1 CAP IH DAILY  
+8.  Vitamin D 400 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY
+===============
+Severe LLL Pneumonia
+Severe Sepsis 
+Acute Hypoxic Respiratory Failure 
+
+SECONDARY
+===============
+Asthma 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure caring for you at ___ 
+___.  
+
+WHY WAS I IN THE HOSPITAL?  
+==============================
+- You had a severe pneumonia. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+=======================================
+- You received IV antibiotics and steroids to treat your 
+pneumonia. 
+- You initially needed oxygen but we were able to wean you off 
+of the oxygen. 
+- You had an echo of your heart which was normal. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+===============================================
+- Continue to take all your medicines and keep your 
+appointments.  
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___

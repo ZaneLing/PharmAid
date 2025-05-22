@@ -1,0 +1,320 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Neutropenia
+ 
+Major Surgical or Invasive Procedure:
+N/A
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year-old female with past medical history
+significant for ETOH/Hemochromotosis related cirrhosis who
+presents with acute onset neutropenia. 
+
+Of note, patient has history of elevated liver enzymes as far
+back as ___. At the time, this was thought to be secondary to
+hepatic steatosis. Patient notes that she had a seizure in 
+___
+that happened spontaneously. She saw neurology and had head MRI
+that was normal. She was started on keppra 500mg BID that was
+later decreased to 250mg BID. She notes that she stopped 
+drinking
+at that time, however she was vague in quantitating her drinking
+then. Autoimmune hepatitis panel was sent and was negative in 
+the
+past. Given elevated ferritin, genetic testing was sent in 
+___
+that showed that she was heterozygous for the ___ and H63D
+mutations for HFE. Given that she was found to be a compound
+heterozygote, she started therapeutic phlebotomy. She was 
+started
+on lactulose, although reportedly has not had a history of
+hepatic encephalopathy. 
+
+She had labs drawn on ___ that demonstrated ANC of 400.
+She also complained of transient RUQ pain. She was sent in by 
+her
+PCP for evaluation for sepsis and peritonitis causing drop in
+counts. She has been taking her medications as prescribed and
+noticed decrease in ascites. She first noticed development of
+ascites 3 days after her first seizure. 
+
+In the ED, initial vitals:  
+- Exam notable for: 98.2 81 ___ 16 100% RA 
+- Labs notable for:
+       13.0
+  4.8 >----< 148
+       37.9
+
+   128|92|16
+   ---------< 150
+   4.5|21|1.0
+
+   ALT 19 AST 23 AP 74 bili 0.8 alb 3.4
+
+   Lip 89
+
+   INR 1.3
+  
+- Imaging notable for:  
+RUQUS
+1. Cirrhotic liver, without evidence of focal lesion.
+2. No evidence of splenomegaly. Multiple subcentimeter splenic
+lesions are likely hemangiomas.
+3. Trace ascites.
+
+- Pt given:  
++ 1L NS
+
+- Vitals prior to transfer:  
+97.8 77 94/67 15 100% RA 
+
+On the floor, patient denies abdominal pain. Denies fever,
+chills, or night sweats. Denies nausea or vomiting. 
+ 
+Past Medical History:
+HTN
+Asthma
+Seizure
+Hereditary hemochromatosis
+Cirrhosis of liver with ascites
+
+ 
+Social History:
+___
+Family History:
+No family history of liver disease or cirrhosis. 
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+===============
+General: Well appearing, lying comfortably in bed with husband 
+at
+bedside. 
+HEENT: MMM, EOMI, PERRLA. 
+Neck: No JVD. No lymphadenopathy. 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops. 
+Lungs: CTAB.   
+Abdomen: Soft, non-tender, non-distended, no organomegaly. No
+rebound or guarding. 
+Ext: Warm, well perfused, 2+ pulses. No edema. 
+Neuro: CNII-XII intact, ___ strength upper/lower extremities. No
+asterixis. 
+
+DISCHARGE EXAM:
+===============
+General: Well-appearing, in NAD.
+HEENT: NC/AT, anicteric sclera, clear oropharynx, MMM.
+CV: RRR, S1, S2, no murmurs/rubs/gallops.
+Lungs: CTAB with no wheezes, crackles, or rhonchi.
+Abdomen: Soft, non-tender, non-distended.
+Ext: No ___ edema.
+Neuro: AOx3. Motor exam full.
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 09:45PM BLOOD WBC-4.8 RBC-3.92 Hgb-13.0 Hct-37.9 MCV-97 
+MCH-33.2* MCHC-34.3 RDW-11.4 RDWSD-40.4 Plt ___
+___ 09:45PM BLOOD ___ PTT-36.3 ___
+___ 09:45PM BLOOD Glucose-150* UreaN-16 Creat-1.0 Na-128* 
+K-4.5 Cl-92* HCO3-21* AnGap-15
+___ 09:45PM BLOOD ALT-19 AST-23 AlkPhos-74 TotBili-0.8
+___ 09:45PM BLOOD Albumin-3.4*
+___ 04:05AM BLOOD VitB12-425 Folate-6
+___ 12:00AM BLOOD HIV Ab-NEG
+___ 09:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 12:00AM BLOOD CMV VL-NOT DETECT
+
+DISCHARGE LABS:
+===============
+___ 04:10AM BLOOD WBC-5.3 RBC-3.79* Hgb-12.4 Hct-37.0 
+MCV-98 MCH-32.7* MCHC-33.5 RDW-11.4 RDWSD-41.1 Plt ___
+___ 04:10AM BLOOD Plt Smr-LOW* Plt ___
+___ 04:10AM BLOOD UreaN-11 Creat-0.8 Na-134* K-4.1 Cl-98 
+HCO3-25 AnGap-11
+___ 04:10AM BLOOD Calcium-8.8 Phos-3.4 Mg-1.___ with history of EtOH/hemochromatosis-related cirrhosis who 
+presents with acute-onset neutropenia, thought most likely to be 
+medication-induced ___ home spironolactone or furosemide. These 
+medications were held on admission, and her ANC had improved to 
+1210 by the time of discharge.
+
+ACUTE ISSUES:
+=============
+#Acute-onset neutropenia
+Per Atrius records, neutropenia developed acutely between ___ 
+(___ 3270) and ___ (___ 500). Unclear etiology but most likely 
+medication-induced as patient has had no localizing signs or 
+symptoms c/f infection. She recently started Lasix and 
+spironolactone in ___, and her WBC was noted to begin 
+dropping shortly after initiating these medications. Both have 
+been shown to cause neutropenia, though rarely. In terms of 
+infectious etiologies, HIV was NR, EBV negative, Toxoplasma IgG 
+positive but IgM negative. Blood cultures were negative, and 
+RUQUS showed trace ascites without biliary pathology. Patient 
+was seen by At___ Hematology while admitted. Lasix and 
+spironolactone were held on admission and on discharge, and the 
+patient's ANC was noted to increase to 1210 without additional 
+interventions. CMV VL was still pending. 
+
+#EtOH/HFE cirrhosis
+Child class B, MELD-Na ~___. Patient was diagnosed with cirrhosis 
+in ___, thought ___ alcohol and hemochromatosis (compound 
+heterozygote). Admission RUQUS showed trace non-tappable 
+ascites, and she received IV albumin 50g. Her diuretics were 
+held as above. She was continued on home lactulose. Patient will 
+need a screening EGD if she has not yet received one.
+
+#Hyponatremia
+Noted as an outpatient in the setting of increased diuretic 
+dosing, likely hypovolemic hyponatremia rather than 
+diuretic-refractory hyponatremia given improvement s/p IVF on 
+admission. Discharge Na 134.
+
+CHRONIC ISSUES:
+===============
+#H/o seizure
+Seizure in ___, which may have developed in the setting of 
+alcohol withdrawal. She was continued on levetiracetam 250mg 
+BID. She has follow-up with At___ Neurology on ___. Due to 
+her hospitalization, she missed an outpatient EEG appointment; 
+she was counseled around rescheduling.
+
+#Insomnia
+- continued trazodone PRN
+
+#HTN
+- continued on home diltiazem and HCTZ at the time of discharge
+
+TRANSITIONAL ISSUES:
+====================
+- Home furosemide, spironolactone, and potassium chloride were 
+held on this admission and at discharge for c/f causing 
+neutropenia.
+[] Patient was given a script to obtain outpatient labs on ___ 
+or ___.
+[] Please follow up pending labs at discharge: CMV VL.
+[] Please consider screening EGD if patient has not yet received 
+one.
+[] Please consider reinitiating diuretics if needed (possibly 
+sequentially to monitor for development of neutropenia with 
+either agent).
+[] Patient reports side effects related to Keppra. She has an 
+appointment with Atrius Neurology on ___. Please consider 
+whether an AED is needed given possible h/o alcohol 
+withdrawal-related seizure or whether Keppra can be switched to 
+another agent. Patient was also counseled around rescheduling 
+outpatient EEG as she missed her appointment while admitted.
+
+Contact: ___ (husband), ___ 
+Full Code
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. TraZODone 50 mg PO QHS:PRN insomnia 
+2. Potassium Chloride 20 mEq PO DAILY 
+3. Furosemide 60 mg PO DAILY 
+4. Spironolactone 150 mg PO DAILY 
+5. Lactulose 15 mL PO TID 
+6. LevETIRAcetam 250 mg PO BID 
+7. Thiamine 100 mg PO DAILY 
+8. Hydrochlorothiazide 25 mg PO DAILY 
+9. Diltiazem Extended-Release 360 mg PO DAILY 
+10. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Diltiazem Extended-Release 360 mg PO DAILY  
+2.  Hydrochlorothiazide 25 mg PO DAILY  
+3.  Lactulose 15 mL PO TID  
+4.  LevETIRAcetam 250 mg PO BID  
+5.  Multivitamins 1 TAB PO DAILY  
+6.  Thiamine 100 mg PO DAILY  
+7.  TraZODone 50 mg PO QHS:PRN insomnia  
+8. HELD- Furosemide 60 mg PO DAILY  This medication was held. Do 
+not restart Furosemide until instructed to by your doctor
+9. HELD- Potassium Chloride 20 mEq PO DAILY  This medication was 
+held. Do not restart Potassium Chloride until instructed to by 
+your doctor
+10. HELD- Spironolactone 150 mg PO DAILY  This medication was 
+held. Do not restart Spironolactone until instructed to by your 
+doctor
+11.Outpatient Lab Work
+Please obtain CBC with differential, BMP, magnesium, and LFT's 
+(AST/ALT, alkaline phosphatase, total bilirubin) on ___ or 
+___. Please fax results to Dr. ___ at ___. ICD-9: 
+288.00
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+Neutropenia
+Hyponatremia
+EtOH/HFE cirrhosis
+
+SECONDARY DIAGNOSES:
+====================
+HTN
+H/o seizures
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+- You were admitted to the hospital because you were found to 
+have neutropenia, a lower-than-normal neutrophil count. 
+Neutrophils are white blood cells that help fight infections.
+
+What did you receive in the hospital?
+- We believe that the neutropenia may have been caused by one of 
+your medications, specifically furosemide or spironolactone. We 
+did not give you these medications in the hospital, and your 
+neutrophil count recovered on its own.
+- The other studies that we performed to evaluate for any 
+infectious cause of the neutropenia have so far returned 
+negative.
+
+What should you do once you leave the hospital?
+- If you develop a fever, come to the emergency room immediately 
+for evaluation.
+- Please do not take spironolactone, furosemide, or potassium 
+chloride until instructed to by your doctor.
+- Please get labs drawn next ___ or ___ the results will 
+be faxed to your primary care doctor.
+- Please reschedule your EEG appointment prior to your scheduled 
+Neurology appointment on ___.
+
+We wish you all the best!
+- Your ___ Care Team
+ 
+Followup Instructions:
+___

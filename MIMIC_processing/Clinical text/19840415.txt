@@ -1,0 +1,365 @@
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Coronary angiography and PCI ___
+
+ 
+History of Present Illness:
+___ woman without significant past medical history
+presents with chest pain. 
+The patient states that yesterday she felt a tightness in her
+chest during ___ class but thought it was secondary to new
+compression shirt.  After the class she felt fine.  This morning
+she went to ___ again and about 10 minutes into the right home
+again felt a funny tightness in her chest like she needed to 
+take
+her sports bra off.  Shortly after her return home she was
+standing in the kitchen and felt nauseous.  After vomiting she
+felt a little better and went to lie down on the couch. However,
+she continued to feel nauseous and vomited 4 more times between
+10:30 AM and 1:30 ___.  A friend came over and noticed that she
+looked ill, this prompted her to call her PCP.  The nurse who
+returned her call recommended she come into the office where she
+had an EKG done due to complaints of nausea, sweating, and chest
+tightness.  The PCP noticed changes in her EKG and sent her to
+___ ED. 
+
+In the ED initial vitals were:  98.1, 92, 129/70, 16, 99% RA
+Labs/studies in the ED notable for:  trop 0.05, lactate 2.5,
+grossly hemolyzed labs. 
+Patient was given:  
+___ 16:17 IV Ondansetron 4 mg  
+___ 16:27 IV LORazepam 1 mg  
+___ 16:27 PO/NG TiCAGRELOR 180 mg 
+___ 16:45 IV Heparin 3000 Units and drip
+
+Cardiology was consulted and noted an inferior STEMI on EKG. she
+was taken immediately to the Cath Lab where she was found to 
+have
+100% RCA occlusion.  When the lesion was crossed with a wire the
+patient became bradycardic and required atropine 1.5mg after
+which she was mildly tachycardic.  She underwent successful DES
+×1 to her RCA was given aspirin and Brilinta loaded. 
+ 
+On evaluation she is currently nauseated and vomiting with dry
+mouth and fatigue but no chest tightness no SOB. She notes that
+the last time she took her dextroamphetamine was over a week ago
+and that her PCP calculated her cardiovascular risk score a
+couple days ago to be 3% and decided not to start a statin.
+ 
+REVIEW OF SYSTEMS:  
+Positive per HPI. Otherwise 10 point ROS negative. 
+
+ 
+Past Medical History:
+- Hypersomnia 
+- HLD
+- Mitral Valve Prolapse
+- partial thyroidectomy
+- benign breast lumpectomy
+- bunionectomy
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL:
+===================
+GENERAL: Well appearing woman lying on her side in bed. Oriented
+x3. Mood, affect appropriate.  
+HEENT: PERRL, EOMI, sclera anicteric, MMM no lesions, good
+dentition.    
+CARDIAC: tachycardic with regular rhythm. Normal S1, S2. No
+murmurs, rubs, or gallops. No thrills or lifts.  
+LUNGS: CTAB without wheeze or crackles   
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL:
+======================
+VS: T 98.5 BP 92-123/45-72 HR ___ SaO2 97% RA  
+GENERAL: Well appearing woman lying on her side in bed. Oriented
+x3. Mood, affect appropriate.  
+HEENT: PERRL, EOMI, sclera anicteric, MMM no lesions, good
+dentition.    
+CARDIAC: regular rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. No thrills or lifts.  
+LUNGS: CTAB without wheeze or crackles   
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 04:18PM BLOOD WBC-11.4* RBC-4.08 Hgb-13.6 Hct-38.6 
+MCV-95 MCH-33.3* MCHC-35.2 RDW-11.4 RDWSD-39.1 Plt ___
+___ 04:18PM BLOOD Neuts-85.4* Lymphs-11.8* Monos-2.3* 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-9.75* AbsLymp-1.35 
+AbsMono-0.26 AbsEos-0.00* AbsBaso-0.01
+___ 04:18PM BLOOD ___ PTT-24.0* ___
+___ 04:18PM BLOOD Glucose-107* UreaN-14 Creat-0.8 Na-137 
+K-6.2* Cl-98 HCO3-22 AnGap-17
+___ 04:18PM BLOOD ALT-30 AST-72* AlkPhos-39 TotBili-0.3
+___ 04:18PM BLOOD proBNP-298*
+___ 04:18PM BLOOD cTropnT-0.05*
+___ 04:18PM BLOOD Albumin-4.5 Calcium-9.5 Phos-3.1 Mg-2.3
+
+INTERVAL LABS:
+===============
+___ 06:35AM BLOOD CK-MB-130* cTropnT-2.17*
+___ 03:10PM BLOOD CK-MB-82* cTropnT-1.57*
+___ 09:55PM BLOOD CK-MB-47* cTropnT-1.44*
+___ 05:56AM BLOOD CK-MB-26* cTropnT-1.80*
+___ 01:10PM BLOOD CK-MB-18* cTropnT-1.55*
+___ 06:35AM BLOOD %HbA1c-4.9 eAG-94
+___ 06:35AM BLOOD Triglyc-144 HDL-54 CHOL/HD-3.8 
+LDLcalc-123
+
+IMAGING/PROCEDURES:
+===================
+Heart Catheterization ___
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is normal.
+* Left Anterior Descending
+The LAD has 30% distal stenosis.
+* Circumflex
+The Circumflex is normal.
+* Right Coronary Artery
+The RCA has 100% thrombotic occlusion of the mid segment. There 
+are weak left to right collaterals.
+
+ECHO ___:
+The left atrial volume index is normal. No atrial septal defect 
+is seen by 2D or color Doppler. The estimated right atrial 
+pressure is ___ mmHg. There is mild regional left ventricular 
+systolic dysfunction with hypokinesis of the inferoseptal and 
+inferior walls. The remaining segments contract normally (LVEF = 
+45-50 %). There is no ventricular septal defect. Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) appear structurally normal 
+with good leaflet excursion and no aortic stenosis. Mild (1+) 
+aortic regurgitation is seen. The mitral valve leaflets are 
+mildly thickened. There is no mitral valve prolapse. Moderate 
+(2+) mitral regurgitation is seen. There is no pericardial 
+effusion. 
+
+IMPRESSION: A right pleural effusion is present. Normal left 
+ventricular wall thickness and cavity size with mild regional 
+systolic dysfunction c/w CAD in an RCA distribution. Moderate 
+ischemic mitral regurgitation. Mild aortic regurgitation.  
+
+MICRO:
+======
+None to report.
+
+DISCHARGE LABS:
+===============
+___ 05:56AM BLOOD WBC-5.9 RBC-3.81* Hgb-12.7 Hct-37.1 
+MCV-97 MCH-33.3* MCHC-34.2 RDW-11.6 RDWSD-41.2 Plt ___
+___ 05:56AM BLOOD Plt ___
+___ 05:56AM BLOOD Glucose-84 UreaN-13 Creat-0.7 Na-142 
+K-4.1 Cl-105 HCO3-23 AnGap-14
+___ 01:10PM BLOOD CK-MB-18* cTropnT-1.55*
+ 
+Brief Hospital Course:
+Patient Summary for Admission:
+=================================
+Ms. ___ is a ___ year old woman without significant PMHx 
+who presented with chest pain found to have inferoposterior 
+NSTEMI, now s/p DES to RCA (100% occlusion). She was monitored 
+following the procedure and troponins were trended. Once her 
+troponins were consistently down-trending she was felt safe for 
+discharge home.
+
+# NSTEMI (Infero-posterior): 
+Presented to urgent care with vague chest tightness, emesis, 
+nausea and found to have mild inferior ST elevations (<1mm in 
+II, III aVF), and mild ST depressions in V2-V4. Sent to the ED 
+then to cath, where she had minimal left-sided disease (right 
+dominant, normal left main, 30% LAD) but the RCA did have a 100% 
+thrombotic occlusion in the midsegment with weak left to right 
+collaterals. She had a successful 3.5 x 15 mm Onyx drug-eluting 
+stent postdilated to 3.5 mm. During this intervention, she 
+became significantly nauseous with associated sinus bradycardia 
+and hypotension and did require atropine and recovered well. 
+Started on aspirin and ticagrelor in addition to atorvastatin 
+80mg daily. Initially had some nausea but this improved. She was 
+started on metoprolol at 6.25 BID on ___ that was continued on 
+discharge. EKG evolving on ___ with inferior Q waves in 3 and 
+aVF with T-wave inversions. ST elevation and ST depressions had 
+resolved prior to discharge. Troponins were trended post 
+procedurally which down trended from 2.17 to 1.55 prior to 
+discharge. MB also down trending prior to discharge (130 to 18 
+prior to discharge). TTE performed that showed normal left 
+ventricular wall thickness and cavity size with mild regional 
+systolic dysfunction (EF 45-50%) c/w CAD in an RCA distribution, 
+moderate ischemic mitral regurgitation, mild aortic 
+regurgitation. Prior to discharge, patient's Ticagrelor was 
+transitioned to Plavix due to insurance cost. She was loaded 
+with 600mg Plavix on the day of discharge with plan to pick up 
+Plavix at pharmacy on ___ while she awaits prior 
+authorization for ticagrelor. Patient will follow up with Dr. 
+___ discharge, and cardiac rehab as well as stress 
+testing will be pursued as an outpatient.
+
+# Pleural Effusion: Small right sided pleural effusion reported 
+on echo. CXR demonstrated minimal if any evidence of right sided 
+pleural effusion ___. Patient was asymptomatic and stable on 
+room air. This finding should be further evaluated as an 
+outpatient as needed.
+
+TRANSITIONAL ISSUES
+====================
+NEW MEDICATIONS
+- Aspirin 81 mg PO DAILY 
+- Atorvastatin 80 mg PO QPM 
+- Plavix 75mg daily
+- Nitroglycerin 0.3mg Q5 min PRN
+
+HELD MEDICATIONS
+- dextroamphetamine 5mg Daily
+
+[] PCP follow up to be scheduled by patient within 1 week of 
+discharge (Dr. ___ at ___
+[] Cardiology follow up to be arranged by Dr. ___. If 
+patient not contacted within 1 week of discharge, can contact 
+her office at ___.
+[] Referral to cardiac rehab and further stress testing will be 
+arranged by Dr. ___ discharge.
+[] Right sided pleural effusion noted on echo but with little 
+evidence of effusion on CXR. Patient asymptomatic, however 
+further evaluation should be pursued as appropriate as 
+outpatient.
+[] Given metoprolol initiation, heart rate and blood pressure 
+should be monitored and dose adjusted as appropriate as an 
+outpatient.
+[] Dextroamphetamine was stopped during this admission.
+[] Patient to continue DAPT for 12 months, aspirin indefinitely. 
+Due to cost, patient was transitioned to Plavix prior to 
+discharge. Prior authorization should be pursued by PCP and 
+patient transitioned to Ticagrelor as appropriate.
+
+# CODE STATUS: full code
+# CONTACT:
+ Next of Kin: ___ 
+ Relationship: ___ 
+ Phone: ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. dextroamphetamine 5 mg oral DAILY:PRN 
+2. Calci-Chew (calcium carbonate) 500 mg calcium (1,250 mg) oral 
+daily 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth Daily Disp #*60 Tablet 
+Refills:*3 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth QPM Disp #*60 Tablet 
+Refills:*3 
+3.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Succinate XL 12.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 0.5 (One half) tablet(s) by mouth 
+take ___ tablet daily Disp #*30 Tablet Refills:*0 
+5.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN angina 
+RX *nitroglycerin 0.3 mg 1 tablet(s) sublingually as needed for 
+chest pain Disp #*30 Tablet Refills:*0 
+6.  Calci-Chew (calcium carbonate) 500 mg calcium (1,250 mg) 
+oral daily  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+===========
+Non-ST elevation myocardial infarction
+Pleural Effusion
+
+Secondary:
+============
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+Why was I admitted to the hospital?  
+-You were admitted because you had a heart attack.  
+
+What happened while I was in the hospital?  
+-You had a cardiac catheterization that showed a blockage in one 
+of your arteries. A stent was placed to open this artery. You 
+were started on new medications including aspirin, plavix, 
+metoprolol, and atorvastatin to help treat your heart disease.
+
+What should I do after leaving the hospital?  
+-Please take your medications as listed in discharge summary and 
+follow up at the listed appointments. 
+-It is very important to take your aspirin and plavix every day. 
+ 
+-These two medications keep the stents in the vessels of the 
+heart open and help reduce your risk of having a future heart 
+attack.  
+-If you stop these medications or miss ___ dose, you risk causing 
+a blood clot forming in your heart stents. 
+-Please do not stop taking either medication without taking to 
+your cardiologist. 
+-You were also given Nitroglycerin, which can be placed under 
+your tongue for chest pain. If you are using this medication 
+frequently, please call your doctor immediately.
+-You will follow up with Dr. ___ Cardiology follow up, her 
+office will contact you regarding appointment dates.
+-Please call your PCP to schedule ___ visit after this 
+hospitalization within the next week.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Sincerely,
+Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

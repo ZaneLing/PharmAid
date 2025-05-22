@@ -1,0 +1,151 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain 
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+(Pt. is a questionable historian)
+HPI:Patient is a ___ year old male with reported hx of
+PUD,HTN,anxiety, intermittent diarrhea, and known history >1
+month of RUQ pain scheduled for cholecystectomy at
+___ ___. Patient states he began having
+nonbloody/nonbilious emesis and severe RUQ pain today which he
+relates as similar to a panic attack. 
+
+On presentation patient is in no acute distress yet anxious in
+appearance. He continues to have tenderness in his RUQ 
+tenderness
+and is requesting definitive resolution of his symptoms. He
+denies chest pain, SOB, or back pain. 
+
+ 
+Past Medical History:
+Past Medical History:
+-HTN 
+-Anxiety 
+-Epididymitis?
+-Testicular Torsion 
+-PUD?
+
+Past Surgical History:
+-Orchiopexy?
+ 
+Social History:
+___
+Family History:
+-NC 
+
+ 
+Physical Exam:
+On admission:
+
+Physical Exam:
+Vitals:T:99.1, HR:80. BP:193/104, RR:16, sats: 100% RA
+GEN: A&O, NAD
+HEENT: No scleral icterus, mucus membranes moist
+CV: RRR, Normal S1 and S2
+PULM: Clear to auscultation, nonproductive cough 
+ABD: Soft, nondistended, RUQ tenderness, normoactive bowel
+sounds, no palpable masses
+Ext: No ___ edema, ___ warm and well perfused
+
+At discharge:
+Patient left AMA 
+ 
+Pertinent Results:
+___ 06:08AM BLOOD WBC-5.8 RBC-3.97* Hgb-12.6* Hct-37.3* 
+MCV-94 MCH-31.7 MCHC-33.8 RDW-13.5 RDWSD-46.1 Plt Ct-72*
+___ 12:34PM BLOOD WBC-7.8 RBC-4.45* Hgb-14.0 Hct-41.1 
+MCV-92 MCH-31.5 MCHC-34.1 RDW-13.5 RDWSD-45.9 Plt Ct-96*
+___ 12:34PM BLOOD Neuts-68.2 Lymphs-15.8* Monos-11.6 
+Eos-2.7 Baso-1.4* Im ___ AbsNeut-5.30 AbsLymp-1.23 
+AbsMono-0.90* AbsEos-0.21 AbsBaso-0.11*
+___ 06:08AM BLOOD Plt Ct-72*
+___ 06:08AM BLOOD ___ PTT-32.1 ___
+___ 12:34PM BLOOD Plt Smr-LOW* Plt Ct-96*
+___ 12:34PM BLOOD ___ PTT-32.3 ___
+___ 06:08AM BLOOD Glucose-75 UreaN-10 Creat-0.6 Na-143 
+K-3.9 Cl-105 HCO3-25 AnGap-13
+___ 12:34PM BLOOD Glucose-107* UreaN-6 Creat-0.8 Na-142 
+K-6.4* Cl-101 HCO3-28 AnGap-13
+___ 06:08AM BLOOD ALT-43* AST-111* AlkPhos-107 TotBili-2.9* 
+DirBili-1.4* IndBili-1.5
+___ 12:34PM BLOOD ALT-62* AST-205* AlkPhos-109 TotBili-2.3* 
+DirBili-0.3 IndBili-2.0
+___ 12:34PM BLOOD Lipase-46
+___ 12:34PM BLOOD cTropnT-<0.01
+___ 06:08AM BLOOD Calcium-8.7 Phos-3.5 Mg-1.5*
+___ 06:08PM BLOOD Lactate-2.0
+___ 03:20PM BLOOD K-3.6
+___ 12:50PM BLOOD Lactate-2.5*
+ 
+Brief Hospital Course:
+Patient presented to the ED on ___. ( See HPI)
+Was admitted on to the ACS Service, he reported improvement of 
+abdominal pain with PO oxycodone. On ___ he underwent an MRCP 
+which showed: Sludge and stones within the gallbladder, but no 
+evidence of acute cholecystitis.  No evidence of biliary 
+dilatation or choledocholithiasis. Mild hepatic steatosis.  
+Morphologic liver features suggesting cirrhosis.  No suspicious 
+liver lesions Trace perihepatic ascites. Numerous small 
+paraesophageal, upper mesenteric, and retroperitoneal lymph 
+nodes, likely reactive to underlying liver disease. A hepatology 
+consult was sent due to finding, they suggested the following 
+labs should be drawn: ___, AMA,
+___, IgG levels, ceruloplasmin, iron panel as well as HAV IgM 
+(Given all viral hepatitis markers are negative except HAV Ab 
+positive and patient and PCP office ___ sure if patient took 
+HAV vaccine). They also suggested patient might end up needing a 
+liver biopsy at a later stage to confirm diagnosis if needed. He 
+was also scheduled to undergo an EGD ___ in order to rule out 
+varices or signs of portal HTN.
+On the night of ___, patient stated that he received a phone 
+call his grandmother passed away in ___. He reported having to 
+catch a midnight flight to ___ and decided to leave AMA. 
+
+Patient was explained regarding the importance of staying and 
+further work up for his liver cirrhosis but decided to leave the 
+hospital. We advise the patient to please schedule a follow up 
+appointment as soon as possible to continue work up for his 
+underlying condition. 
+ 
+Medications on Admission:
+Lisinopril,Propranolol,Prilosec
+
+ 
+Discharge Medications:
+Patient left AMA 
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+RUQ pain , patient left AMA 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Patient left AMA 
+ 
+Followup Instructions:
+___

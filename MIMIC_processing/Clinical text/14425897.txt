@@ -1,0 +1,195 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hematemesis
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+The patient is a ___ male with no past medical history 
+who initially presented to an OSH ER with complaint of abdominal 
+pain and emesis. ___ night, the patient reports drinking 
+heavily (7 beers). ___, the patient
+woke up and starting vomiting forcefully and repeatedly. He 
+reports at least 15 bouts of emesis, multiple with hematemesis. 
+Reports initially vomiting bright red blood that then 
+transitioned to coffee ground emesis. Had onset of nausea and 
+sharp upper abdominal pain at this time. No fevers, chills, 
+shortness of breath, chest pain, diarrhea. The patient then 
+presented to an outside hospital ER and underwent CT 
+abdomen/pelvis, which demonstrated extraluminal air adjacent to 
+the distal esophagus but no effusion. HE was transferred to 
+___
+and underwent initial CXR demonstrating pneumomediastinum but no 
+pleural effusions. Thoracic surgery was consulted due to concern 
+for esophageal perforation. 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY: ADHD
+
+PAST SURGICAL HISTORY: right second finger surgery
+ 
+Social History:
+___
+Family History:
+reviewed and negative
+ 
+Physical Exam:
+Admission Physical Exam:
+
+Vitals: 97.9  69  115/54  18  100% RA
+Gen: A&Ox3, well-appearing male, in NAD
+HEENT: No scleral icterus, mucus membranes moist
+Pulm: CTAB, no w/r/r
+CV: NRRR, no m/r/g
+Abd: soft, NT/ND, no rebound/guarding, no palpable masses
+Ext: WWP bilaterally, no c/c/e, no ulcerations
+Neuro: moves all limbs spontaneously, no focal deficits
+
+ 
+Discharge Physical Exam:
+
+Vitals: 98.3  74  113/72  18  98%
+Gen: A&Ox3, well-appearing male, in NAD
+HEENT: No scleral icterus, mucus membranes moist
+Pulm: CTAB, no w/r/r
+CV: NRRR, no m/r/g
+Abd: soft, NT/ND, no rebound/guarding, no palpable masses
+Ext: WWP bilaterally, no c/c/e, no ulcerations
+Neuro: moves all limbs spontaneously, no focal deficits
+ 
+Pertinent Results:
+==============
+ADMISSION LABS
+==============
+
+___ 12:46AM BLOOD WBC-13.1* RBC-4.03* Hgb-13.0* Hct-37.6* 
+MCV-93 MCH-32.3* MCHC-34.6 RDW-13.2 RDWSD-45.4 Plt ___
+
+___ 12:46AM BLOOD Neuts-82.9* Lymphs-9.3* Monos-7.1 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-10.85* AbsLymp-1.21 
+AbsMono-0.93* AbsEos-0.00* AbsBaso-0.02
+
+___ 12:46AM BLOOD Glucose-98 UreaN-12 Creat-0.9 Na-135 
+K-5.5* Cl-103 HCO3-19* AnGap-19
+
+___ 12:46AM BLOOD ALT-19 AST-37 AlkPhos-37* TotBili-0.8
+
+___ 12:46AM BLOOD Lipase-17
+
+___ 01:08AM BLOOD Lactate-1.2 K-4.3 
+
+=============
+MICROBIOLOGY
+=============
+
+___ Blood cultures - pending 
+
+========
+IMAGING
+========
+
+___ CXR:
+IMPRESSION:  
+There is pneumomediastinum as well as gas in the imaged portion 
+of the neck. 
+
+___ Esophagogram:
+IMPRESSION:  
+No evidence of esophageal leak 
+
+___ CXR:
+IMPRESSION:  
+Appearance of the pneumomediastinum has not changed. 
+ 
+
+==============
+DISCHARGE LABS
+==============
+___ 08:50AM BLOOD WBC-13.2* RBC-4.20* Hgb-13.8 Hct-40.0 
+MCV-95 MCH-32.9* MCHC-34.5 RDW-13.5 RDWSD-47.5* Plt ___
+
+___ 08:50AM BLOOD Neuts-68.0 ___ Monos-10.9 
+Eos-0.2* Baso-0.5 Im ___ AbsNeut-8.94* AbsLymp-2.62 
+AbsMono-1.44* AbsEos-0.02* AbsBaso-0.07
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the Thoracic Surgery Service for 
+further evaluation and management of suspected esophageal 
+perforation in the setting of significant emesis and small 
+volume hematemesis. He was initially kept NPO and started on 
+maintenance fluids. CXR on arrival demonstrated significant 
+pneumomediastinum, thus prompting concern for Boerhaave syndrome 
+given history of repeated hematemesis and complaints of 
+significant chest pain. He thus underwent barium swallow study, 
+which was negative for esophageal leak. Repeat CXR the following 
+morning demonstrated stable pneumomediastinum, and it was thus 
+felt that mediastinal air may have resulted from small bleb 
+rupture during episodes of emesis. Additionally, patient 
+endorses significant improvement in pain with no further 
+episodes of nausea or emesis. He was thus started on a clear 
+liquid diet, which was tolerated without issue.
+
+On the evening of HD1, patient was tolerating PO intake, was 
+voiding and ambulating without issue, his pain was well 
+controlled without the need for pain medication, and he remained 
+afebrile and hemodynamically stable. He was thus deemed ready 
+for discharge home with instructions for slow diet advancement 
+over the course of several days. He will undergo repeat CXR 
+prior to follow up appointment with Dr. ___ in two weeks 
+time to assess resolution of pneumomediastinum.
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+esophageal tear caused by excessive vomiting ___ 
+tear)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to the ___ 
+for observation after presenting with significant vomiting 
+containing blood. You had a chest x-ray which showed air in the 
+soft tissues of your chest concerning for a tear in your 
+esophagus. However, you had a swallow study that showed there 
+was no actual hole (perforation) of your esophagus. The air seen 
+on your chest x-ray will slowly be resorbed on its own. It is 
+now safe for you to slowly resume your diet and be discharged 
+home.
+
+It was a pleasure taking care of you here at ___. Please do 
+not hesitate to contact us if you have any additional questions 
+or concerns.
+ 
+Followup Instructions:
+___

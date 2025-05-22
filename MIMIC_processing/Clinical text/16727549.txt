@@ -1,0 +1,269 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ y.o M transferred from ___ with a history of LUE
+hemangioma, he was sent in by his PCP for MRI showing radial and
+brachial artery involvement and cyanotic fingers. He reports 
+that
+he has had this hemangioma since he was born. Over the past 
+week,
+he has had worsening edema, cyanotic fevers, and paresthesias. 
+He
+also endorses a fever to 103.1 measured at home. He denies 
+cough,
+abdominal pain, nausea/vomiting/diarrhea, urinary frequency,
+hematuria, or dysuria. 
+ 
+IN the ED, initial VS were 100.6 86 114/73 18 97% RA. 
+Labs notable for K of 3.3, BUN/CR of ___. H/H of 11.3/33.6. 
+INR
+1.4. Lactate 0.8. 
+He received Tylenol, IV cefepime, IV vancomycin, 40 meq of KCl,
+and IV fluids.
+He was evaluated by vascular surgery who recommended ___
+surgery and to start broad spectrum antibiotics due to concern
+for cellulitis.
+___ surgery recommended ruling out bloodstream infection and
+that they would follow for coordinated intervention in the
+future. 
+
+Upon arrival to the floor, the patient tells the story as
+follows. He was diagnosed with this hemangioma since a child and
+it has slowly grown over the years. He had been followed by a
+variety of providers, no one consistently in recent years, but
+most recently saw a vascular specialist in ___, who
+recommend no surgical intervention given that it would require
+complex reconstruction. 
+
+He reports that approximately one week ago he went to urgent 
+care
+with fevers. He had no dyspnea, chest pain, cough, runny nose.
+Apparently CXR was obtained and he was told he had pneumonia. He
+was given a prescription for doxycycline which he took for three
+days. They called him to see if he still had fever, and because
+he did, they told him to seek medical attention. He has noticed 
+a
+significant growth in his hematoma over the past month. He
+reports that over the past week, he noticed a lot of redness and
+warmth of the surrounding skin and that it was unusual tense. He
+has limited movement in his hand which is unchanged. He had blue
+discoloration of his fingers which has improved since he has 
+been
+in the ED receiving antibiotics.  
+
+ 
+Past Medical History:
+- Left arm hemangioma
+- Prior ?superficial DVTs associated with his hemangioma for
+which he is prescribed full dose aspirin
+
+ 
+Social History:
+___
+Family History:
+Father - prostate cancer, diabetes; NO FH of blood clots
+
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS:  99.2 PO  133/72 R Sitting  102  20  98%  RA  
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally
+GI: Abdomen soft, non-distended, non-tender to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+EXT: + large hemangioma of the left elbow which is nontender, +
+surrounding confluent erythema and warm consistent with
+cellulitis, blue fingernail beds, however, hand warm, radial
+pulses symmetric bilaterally, motor function normal per patient,
+left hand with edema
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+
+Discharge Physical Exam:
+========================
+VITALS: reviewed in eFlowsheets
+Gen: NAD laying in bed
+HEENT: anicteric sclera, EOMI, MMM
+CV: RRR
+RESP: Breathing non-labored
+GI: non-distended
+EXT: L arm w/ intact radial pulse
+SKIN: large (20x20cm approx.) mass over the left elbow with
+resolved arm & forearm swelling as well as resolved erythema and 
+induration
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs. Normal sensation to light 
+touch
+PSYCH: calm, cooperative
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 04:40PM BLOOD WBC-4.6 RBC-3.83* Hgb-11.3* Hct-33.6* 
+MCV-88 MCH-29.5 MCHC-33.6 RDW-12.4 RDWSD-39.8 Plt ___
+___ 04:40PM BLOOD Neuts-75.2* Lymphs-9.9* Monos-13.2* 
+Eos-0.2* Baso-0.2 Im ___ AbsNeut-3.48 AbsLymp-0.46* 
+AbsMono-0.61 AbsEos-0.01* AbsBaso-0.01
+___ 04:40PM BLOOD ___ PTT-28.9 ___
+___ 04:40PM BLOOD Glucose-123* UreaN-9 Creat-0.7 Na-135 
+K-3.3* Cl-94* HCO3-27 AnGap-14
+___ 06:30AM BLOOD ALT-41* AST-44* AlkPhos-71 TotBili-0.4
+___ 04:40PM BLOOD Calcium-8.6 Phos-2.1* Mg-2.3
+___ 06:50AM BLOOD CRP-173.7*
+
+Notable labs since admission:
+-___ CRP 173.7
+
+Micro:
+MSSA
+
+Imaging:
+-MRA arm ___ ___
+Extensive vascular malformation with suggestion of feeders from
+the brachial artery and likely the radial artery. There is
+intramuscular and severe subcutaneous involvement.
+
+-___ TTE
+IMPRESSION: No 2D echocardiographic evidence for endocarditis.
+Mild symmetric left ventricular hypertrophy with normal cavity
+size and regional/global biventricular systolic function. No
+pathologic valvular flow identified. No vegetations seen. Mildly
+dilated aortic sinus and aortic arch. Normal estimated pulmonary
+artery systolic pressure. 
+CLINICAL IMPLICATIONS: The patient has a mildly dilated 
+ascending
+aorta. Based on ___ ACCF/AHA Thoracic Aortic Guidelines, if not
+previously known or a change, a follow-up echocardiogram is
+suggested in ___ year; if previously known and stable, a follow-up
+echocardiogram is suggested in ___ years.
+
+TEE: no vegetations
+
+Discharge Labs:
+===============
+___ 07:30AM BLOOD WBC-5.6 RBC-4.04* Hgb-12.0* Hct-36.8* 
+MCV-91 MCH-29.7 MCHC-32.6 RDW-12.7 RDWSD-42.4 Plt ___
+___ 07:30AM BLOOD Glucose-98 UreaN-13 Creat-0.8 Na-138 
+K-4.7 Cl-99 HCO3-27 AnGap-12
+___ 07:30AM BLOOD Calcium-9.2 Phos-3.7 Mg-2.___ is a ___ with large LUE hemangioma with recent 
+enlargement & MRA showing complex vascular involvement, who 
+presented with acute cellulitis complicated by MSSA bacteremia, 
+as well as edema and cyanosis of the arm.
+
+# Cellulitis: presented with acute cellulitis of his LUE in the 
+setting of compromised skin barrier and enlarging hemangioma. 
+Blood cultures were positive for MSSA, likely seeded from 
+cellulitis. Initially treated with vancomycin and cefepime, then 
+narrowed to cefazolin after culture data available. Cellulitis 
+resolved clinically with IV cefazolin.
+
+# ___ bacteremia
+Blood cultures grew MSSA. Initially treated with vancomycin, 
+then narrowed to cefazolin after culture data was available. ID 
+was consulted. They recommended cefazolin for MSSA. A TTE was 
+done that showed no evidence of vegetations. TEE also negative 
+for vegetations. He had persistent bacteremia with positive 
+blood culture on ___ growing MSSA, despite having received more 
+than 3 days of appropriate IV antibiotics by that point. Blood 
+cultures from ___ were also positive. Given negative TEE, ID 
+felt that slow to clear blood cultures were likely due to small 
+foci of infection within hemangioma. Blood cultures remain 
+negative from ___ onwards. He will need 4 weeks of IV cefazolin 
+from date of first negative culture (projected end date ___. 
+
+# Enlarging left elbow hemangioma: He was seen by vascular 
+surgery and oncologic surgery. Given no evidence active bleeding 
+on MRA, there was not felt to be any urgent vascular surgical 
+intervention indicated at this time. He had hand paresthesias 
+were thought to be likely due to nerve compression from the 
+hemangioma rather than vascular compromise given palpable radial 
+pulses distally.
+
+# Mildly dilated ascending aorta
+Noted on ___ TTE. Based on ___ ACCF/AHA Thoracic Aortic 
+Guidelines, if not
+previously known or a change, a follow-up echocardiogram is 
+suggested in ___ year; if previously known and stable, a follow-up 
+echocardiogram is suggested in ___ years.
+Communicated to patient that he will need a follow up TTE in one 
+year for monitoring, and he will need his PCP to arrange this.
+
+Transitional Issues:
+====================
+- discharged on IV cefazolin for 4 week course (last day ___
+- needs TTE in one year to follow up mildly dilated ascending 
+aorta
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  CeFAZolin 2 g IV Q8H Duration: 4 Weeks 
+RX *cefazolin in dextrose (iso-os) 2 gram/50 mL 2 g IV every 
+eight (8) hours Disp #*84 Intravenous Bag Refills:*1 
+2.  Aspirin 325 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Cellulitis
+MSSA bacteremia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came in with skin infection that spread to your blood. We 
+started you on IV antibiotics to treat the infection. It will be 
+very important to continue taking the antibiotics at home for a 
+total of four weeks. You will also need to follow up with the 
+infectious disease doctors in ___.
+
+We would recommend following up with a surgeon to see if any 
+surgery is possible to treat your hemangioma. You can call 
+___ to schedule an appointment with Dr. ___.
+
+It was a pleasure taking care of you, and we are happy that 
+you're feeling better!
+ 
+Followup Instructions:
+___

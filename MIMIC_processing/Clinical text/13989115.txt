@@ -1,0 +1,170 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+gluten
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization (___)
+
+ 
+History of Present Illness:
+Mr ___ is a ___ w/ PMH significant for HTN, TIA, colon cancer
+s/p resection (___) and chemoradiation, gastric hernia repair
+(___), and DVT (___) p/w burning substernal chest pain.  
+
+On ___eveloped burning, left-sided chest pain that 
+began
+at rest while pt was sitting down. He had associated severe
+sweating and numbness/tingling in his left face/neck. He denied
+fevers/chills, SOB, nausea/vomiting. He called the ambulance and
+was taking the emergency room. Of note pt had two similar
+episodes of burning chest pain in ___ and ___ while on
+chemotherapy that were attributed to GERD. Other than these two
+episodes he has no history of CP. EMS gave pt 81 mg aspirin x2
+and nitro spray which improved his chest pain. 
+
+Initial ED vitals: 97.7 90 143/77 14 97% RA 
+ 
+Past Medical History:
+Nephrolithiasis
+HTN
+Thrombocytopenia
+DVT
+Gout
+Celiac 
+Rectal cancer
+Bronchiectasis
+ 
+Social History:
+___
+Family History:
+Mother- MI, HTN
+Father- Healthy
+Sister- MS, HTN
+Brother- HTN
+Brother- HTN, CAD w/ stent placement 
+ 
+Physical Exam:
+VS: 97.9 PO 146 / 86 66 18 98  
+GENERAL: NAD, sitting up comfortably in bed 
+HEENT: NC/AT, PERRL, MMM, EOMI
+CARDIAC: RRR, S1 + S2 present, no mrg 
+LUNGS: CTAB, no wheezes/crackles, breathing comfortably on RA 
+ABDOMEN: SNTND, +BS, no rebound/guarding. Midline abdominal scar
+EXTREMITIES: WWP, PPP, no ___ edema. R radial pressure band
+ 
+Pertinent Results:
+___ 07:40AM BLOOD WBC-4.4 RBC-4.11* Hgb-12.9* Hct-38.0* 
+MCV-93 MCH-31.4 MCHC-33.9 RDW-12.8 RDWSD-43.6 Plt ___
+___ 04:11AM BLOOD WBC-5.8 RBC-4.06* Hgb-12.8* Hct-37.8* 
+MCV-93 MCH-31.5 MCHC-33.9 RDW-12.9 RDWSD-43.9 Plt ___
+___ 04:11AM BLOOD Neuts-64.3 ___ Monos-11.8 Eos-3.1 
+Baso-0.5 Im ___ AbsNeut-3.69 AbsLymp-1.15* AbsMono-0.68 
+AbsEos-0.18 AbsBaso-0.03
+___ 07:40AM BLOOD Plt ___
+___ 04:11AM BLOOD Plt ___
+___ 07:40AM BLOOD Glucose-114* UreaN-17 Creat-1.1 Na-144 
+K-3.9 Cl-106 HCO3-22 AnGap-16
+___ 04:11AM BLOOD Glucose-118* UreaN-19 Creat-1.2 Na-142 
+K-3.7 Cl-108 HCO3-22 AnGap-12
+___ 04:11AM BLOOD estGFR-Using this
+___ 10:10AM BLOOD cTropnT-<0.01
+___ 04:11AM BLOOD cTropnT-<0.01
+___ 07:40AM BLOOD Calcium-8.7 Phos-2.5* Mg-2.___ w/ PMH significant for HTN, TIA, colon cancer s/p resection 
+(___) and chemoradiation, gastric hernia repair (___), and DVT 
+(___) who p/w burning substernal chest pain. 
+
+#Chest pain: Initially presented to the ED where his vitals were 
+stable. No evidence of acute ischemia; troponins were negative 
+x2. Did not receive any medication at that time. Underwent 
+stress EKG ___ protocol) that demonstrated 1-1.5 mm 
+horizontal/downsloping ST depression in the anterior leads, 
+0.5-___epression in the inferior leads, and ___levation in aVR. Given these abnormalities, he was taken for 
+cardiac catheterization which found normal coronary anatomy. His 
+symptoms had improved by the morning, vitals reassuring. Given 
+resolution of symptoms he was discharged with no need to follow 
+up with a cardiologist.
+
+#Diarrhea: Chronic in nature due to Celiac disease & colon 
+resection. Patient report slightly more loose stools for which 
+C. diff assay was ordered, however his diarrhea resolved and he 
+could not provide a sample. Would consider C. diff assay if 
+symptoms recur.
+
+___: Cr 1.4 --> 1.2, self resolving. Likely due to dehydration. 
+No intervention.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 2.5 mg PO DAILY 
+2. Allopurinol ___ mg PO DAILY 
+3. LOPERamide 2 mg PO QID:PRN diarrhea 
+4. Probiotic Acidophilus (Lactobacillus acidophilus) unknown  
+oral QD 
+5. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Probiotic Acidophilus (Lactobacillus acidophilus) 1 tab oral 
+QD 
+take as you were before admission  
+2.  Allopurinol ___ mg PO DAILY  
+3.  amLODIPine 2.5 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  LOPERamide 2 mg PO QID:PRN diarrhea  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Non-ischemic chest pain
+
+SECONDARY DIAGNOSES:
+Diarrhea
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___. Please note the 
+following instructions:
+
+Why were you in the hospital?
+ - Chest pain that occurred while sitting down
+
+What was done for you in the hospital?
+ - You had a cardiac stress test that showed mild EKG 
+abnormalities
+ - Because of the abnormal stress test, you underwent a cardiac 
+catheterization. The results were normal.
+
+What you should do when you get home:
+ - Follow up with your regular doctor to discuss your test 
+results
+ - If you have recurrent chest pain, call your doctor or return 
+to the emergency room.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,283 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+tape
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath 
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with a sig PMHx of endometrial
+adenocarcinoma s/p TAH BSO, HTN, HLD, who presents with acute
+onset dyspnea. 
+
+The patient was well until 1 week PTA, when she presented with
+dyspnea, dry cough, and nasal congestion. She also described
+lower back pain that worsened with her cough. She saw her PCP 
+who
+obtained ___ CXR, which was without infiltrates. She was treated
+for a viral URI with symptomatic care and albuterol prn. 
+
+Unfortunately, she did not feel better over the next few days 
+and
+continued to feel short of breath, especially on exertion. At
+baseline, she can walk up 1 flight of stairs, however now she
+could not walk more than 100 ft. She was seen once again at her
+PCP's office where she was found to be hypoxemic on exertion and
+with significant EKG changes (TWI in V1-V5). She was transferred
+to ___ where CTA showed evidence of "bilateral
+central pulmonary emboli, and evidence of R heart strain". She
+also had a BNP elevated to 6000, D dimer 3.8, and a mild 
+troponin
+leak to 0.02. She was transferred to ___ for further 
+evaluation
+and possible advanced therapies. Of note, she denies any history
+of PE/DVT.
+
+In the ED, the patient was asymptomatic at rest, denying any
+chest pain, shortness of breath, palpitations, lightheadedness. 
+
+- Initial vitals:
+T 98.2 HR 91 BP 162/71 RR 20 SPO2 93% RA
+
+- Exam: NAD
+
+- EKG: NSR 85 bpm. normal axis and intervals. TWI in leads 
+V1-V5.
+no acute ST elevations. S1Q3T3.
+
+- Labs/studies notable for:
+CBC: WBC 11.4 Hb 11.2 Plt 217
+CHEM7: K 3.7 BUN/Cr ___ Ca ___ Mg 2.1
+proBNP: ___
+Coags: INR 1.2
+Trop: 0.02
+
+- Patient was given:
+-IV Heparin @ 1500 units/hr
+
+- Consults: 
+MASCOT: 
+Pt has features of submassive PE (elevated cardiac biomarkers) 
+Recommend admission to medicine with therapeutic 
+anticoagulation.
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS
+- Hypertension
+- Dyslipidemia
+- Stage III CKD (GFR 53 mg/dL)
+
+2. CARDIAC HISTORY
+- None
+
+3. OTHER PAST MEDICAL HISTORY
+- Basal Cell Carcinoma
+- H/O Squamous Cell Carcinoma
+- H/O Endometrial Adenocarcinoma s/p TAH BSO with vaginal cuff
+sparing
+
+SCREENING:
+- Colonoscopy: ___ ___ years) ___ colon polyp
+- Mammogram: ___ (due ___
+- **Pap smear: vaginal cuff pap smear in ___ (due in ___
+- Hep C neg
+ 
+Social History:
+___
+Family History:
+Mother: ___ Cancer, CVA (___)
+No family history of VTE/coagulopathies, or early CAD
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+===============================
+VS: T 97.8 BP 147 / 71 HR 79 RR 20 SPO2 91 RA 
+GENERAL: well appearing pleasant female, lying in bed, NAD
+HEENT: anicteric sclera, MMM, no conjunctival pallor. 
+NECK: supple, no cervical or submandibular LAD
+CV: RRR, +S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, ___ edema. neg ___
+sign.
+PULSES: 2+ radial and DP pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+
+DISCHARGE PHYSICAL EXAMINATION:
+===============================
+GENERAL: well-appearing pleasant female, lying in bed, NAD
+HEENT: anicteric sclera, MMM, no conjunctival pallor. 
+NECK: supple, no cervical or submandibular LAD
+CV: RRR, +S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: Trace lower extremity edema bilaterally.
+NEURO: Alert, conversant, moving all 4 extremities with purpose,
+face symmetric
+
+ 
+Pertinent Results:
+ADMISSION 
+___ 12:30AM BLOOD WBC-11.4* RBC-3.42* Hgb-11.2 Hct-33.1* 
+MCV-97 MCH-32.7* MCHC-33.8 RDW-13.6 RDWSD-47.6* Plt ___
+___ 12:30AM BLOOD Neuts-68.8 ___ Monos-8.3 Eos-0.4* 
+Baso-0.4 Im ___ AbsNeut-7.86* AbsLymp-2.48 AbsMono-0.95* 
+AbsEos-0.04 AbsBaso-0.04
+___ 12:30AM BLOOD ___ PTT-150* ___
+___ 12:30AM BLOOD Glucose-117* UreaN-26* Creat-1.2* Na-139 
+K-3.7 Cl-98 HCO3-22 AnGap-19*
+___ 12:30AM BLOOD proBNP-6674*
+___ 12:30AM BLOOD cTropnT-0.02*
+___ 12:30AM BLOOD Calcium-10.5* Phos-3.6 Mg-2.1
+
+DISCHARGE 
+___ 06:20AM BLOOD WBC-7.0 RBC-3.33* Hgb-10.8* Hct-33.2* 
+MCV-100* MCH-32.4* MCHC-32.5 RDW-14.2 RDWSD-51.1* Plt ___
+___ 06:20AM BLOOD Glucose-88 UreaN-26* Creat-1.2* Na-142 
+K-3.8 Cl-102 HCO3-23 AnGap-17
+___ 06:20AM BLOOD Calcium-9.9 Phos-4.2 Mg-2.1
+
+TTE ___
+IMPRESSION: Right ventricular cavity dilation with free wall 
+hypokinesis. Moderate pulmonary
+artery systolic hypertension. Normal left ventricular wall 
+thickness, cavity size and regional/global
+systolic function. Mild-moderate tricuspid regurgitation.
+
+___ ___
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old female with a sig PMHx of endometrial
+adenocarcinoma s/p TAH BSO, HTN, HLD, who presents with acute
+onset dyspnea and CTA evidence of b/l submassive PE.
+
+# Submassive Pulmonary Embolism: The patient presents with acute
+onset dyspnea, hypoxemia, mild troponinemia, and TTE findings of
+right heart strain at ___. CTA with evidence of
+bilateral PE and R main PA thrombus. She was started on a 
+heparin gtt. Patient was HD stable and without evidence of 
+massive PE including O2 requirements,
+hypotension, or present with syncope. MASCOT consulted and
+recommend anticoagulation/medication management. Etiology of PE
+unclear, as patient reports no prior PE/DVT history. However, 
+the
+patient has a documented history of endometrial adeno ca and
+colon polyps (although patient denies knowledge of previous
+endometrial carcinoma). She is up to date on all routine
+malignancy screenings except for a vaginal cuff Pap smear, which
+was due in ___ (per GYN recs). She denies any recent travel,
+trauma, immobility, or surgeries. Not currently on hormonal
+therapy or history of pro-thrombotic disorders. Considering the
+subacute onset, patient likely developed PEs a few weeks ago and
+is now presenting with symptoms of right heart failure in the
+setting of pulmonary hypertension. TTE showed LVEF 67%, RV 
+dilation with hypokinesis and IV septal wall motion consistent 
+with RV strain. Moderate PA HTN. Mild to
+moderate TR. LENIS did not show any evidence of DVT. Heparin 
+drip was transitioned to apixaban (10 mg twice daily for 7 days 
+followed by 5 mg twice daily). 
+
+CHRONIC ISSUES:
+==============
+#Hyperlipidemia: 
+Continues simvastatin 40mg daily
+
+#Hypertension: 
+Continued home lisinopril 20 mg daily
+Continued home hydrochlorothiazide 25 mg daily
+
+#Health Maintenance: 
+Continued Calcium Carbonate-Vitamin D3 supplementation
+Continued home omega-3 fatty acid supplements
+
+TRANSITIONAL ISSUES
+===================
+- Patient has a documented history of endometrial adenocarcinoma 
+and colon polyps (although patient denies knowledge of previous 
+endometrial carcinoma). She will need all of her age-appropriate 
+cancer surveillance to evaluate for malignancy-associated 
+clotting. 
+- Patient is being treated with apixiban: 10 mg twice daily for 
+7 days ___ pm - ___ am)followed by 5 mg twice daily for at 
+least 3 months 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 40 mg PO QPM 
+2. lisinopril-hydrochlorothiazide ___ mg oral DAILY 
+3. Calcium 500 + D (D3) (calcium carbonate-vitamin D3) 1500-400 
+units oral DAILY 
+4. Fish Oil (Omega 3) 1000 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID Duration: 7 Days 
+RX *apixaban [Eliquis] 5 mg (74 tabs) 2 tablets(s) by mouth 
+twice a day Disp #*74 Dose Pack Refills:*0 
+2.  Calcium 500 + D (D3) (calcium carbonate-vitamin D3) 1500-400 
+units oral DAILY  
+3.  Fish Oil (Omega 3) 1000 mg PO BID  
+4.  lisinopril-hydrochlorothiazide ___ mg oral DAILY  
+5.  Simvastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+- Pulmonary Embolism 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+Is a pleasure taking care of you at ___.
+
+You came into the hospital because of having shortness of 
+breath.  You were found to have clots in the blood vessels that 
+go to your lungs (pulmonary emboli).  He was started on IV 
+heparin to thin your blood.  This was transitioned to a oral 
+blood thinner called apixaban, or Eliquis.
+
+When you go home you should take all of your medications as 
+prescribed and attend all of her scheduled follow-up 
+appointments.  You should monitor for signs of worsening of your 
+heart and lung function, such as shortness of breath, chest 
+pain, coughing up blood, lightheadedness, leg swelling.
+
+We wish you all the best,
+Your ___ care team
+ 
+Followup Instructions:
+___

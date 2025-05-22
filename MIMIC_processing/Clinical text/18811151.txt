@@ -1,0 +1,310 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dysuria, abdominal pain, fever
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+In brief, Ms. ___ is a ___ year old female with no significant 
+past medical history who presented to the ED with fever, 
+dysuria, hematuria, and abdominal pain. Her symptoms began two 
+days ago with dysuria, urinary frequency, and urgency. She has 
+had these symptoms before. 1 day ago her symptoms progressed to 
+fever, hematuria, abdominal pain, nausea, vomiting, and 
+nonbloody diarrhea after which she presented to the ED. Notably, 
+PO intake has been poor during this time. En route to the ED, 
+she experienced a few episodes of syncope described as "blacking 
+out" without head trauma. During this time, she denies 
+palpitations, chest pain, dyspnea, and vaginal discharge. LMP 5 
+days ago, sexually active with a single partner for ___ year. In 
+the ED, she received total 5 L NS, Bactrim, and CTX prior to 
+transfer to the floor.
+ 
+Past Medical History:
+No significant past medical history
+ 
+Social History:
+___
+Family History:
+Sister with "stomach problems" for ___ years now
+No other family history of disease reported by patient
+ 
+Physical Exam:
+============================
+ADMISSION PHYSICAL EXAM 
+============================
+VS - T98.5PO BP99/53 R Lying HR110 RR___ RA  
+GENERAL: slim female laying in bed NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, good dentition  
+NECK: nontender supple neck, no LAD, no JVD  
+CARDIAC: Tachycardic RR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN III-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes
+
+============================
+DISCHARGE PHYSICAL EXAM
+============================
+VS - 99.2 101/55 80 16 100%RA  
+ General: Young female in NAD.  
+ HEENT: anicteric sclerae, good dentition, MMM. no LAD  
+ CV: RRR, normal S1 and S2, no murmurs  
+ Lungs: CTAB, no wheezes or crackles  
+ Torso: no CVA tenderness  
+ Abdomen: active bowel sounds, soft, nondistended, nontender, no 
+suprapubic tenderness  
+ Ext: warm, well-perfused, distal pulses present throughout. No 
+___ edema.  
+ Neuro: CN II-XII grossly intact, motor strength ___. No focal 
+deficits.  
+ Skin: no rashes or skin lesions present on abdomen or 
+extremities  
+
+ 
+Pertinent Results:
+==================
+ADMISSION LABS
+==================
+CBC w/ Diff
+___ 03:56PM BLOOD WBC-6.9 RBC-4.27 Hgb-10.7* Hct-35.4 
+MCV-83 MCH-25.1* MCHC-30.2* RDW-14.8 RDWSD-44.8 Plt ___
+___ 03:56PM BLOOD Neuts-87.9* Lymphs-6.2* Monos-5.4 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-6.05 AbsLymp-0.43* 
+AbsMono-0.37 AbsEos-0.00* AbsBaso-0.01
+
+Electrolytes
+___ 03:56PM BLOOD Glucose-107* UreaN-8 Creat-0.7 Na-136 
+K-3.0* Cl-102 HCO3-21* AnGap-16
+___ 06:05AM BLOOD Calcium-7.8* Phos-2.5* Mg-1.7
+
+LFTs
+___ 06:05AM BLOOD ALT-6 AST-13 LD(LDH)-118 AlkPhos-49 
+TotBili-0.2
+
+Urinalysis
+___ 07:00AM URINE Color-DkAmb Appear-Cloudy Sp ___
+___ 07:00AM URINE Blood-MOD Nitrite-NEG Protein-100 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-TR
+___ 07:00AM URINE RBC->182* WBC->182* Bacteri-NONE 
+Yeast-NONE Epi->182
+___ 04:00PM URINE Mucous-RARE
+___ 07:00AM URINE UCG-NEGATIVE
+
+Iron Studies
+___ 03:20PM BLOOD calTIBC-270 Ferritn-47 TRF-208
+___ 03:20PM BLOOD Albumin-3.3* Calcium-8.0* Phos-1.7* 
+Mg-1.6 Iron-12*
+
+==================
+DISCHARGE LABS
+==================
+___ 04:45AM BLOOD WBC-3.9* RBC-3.65* Hgb-9.2* Hct-30.3* 
+MCV-83 MCH-25.2* MCHC-30.4* RDW-14.8 RDWSD-45.5 Plt ___
+___ 04:45AM BLOOD Glucose-91 UreaN-3* Creat-0.6 Na-137 
+K-3.9 Cl-104 HCO3-23 AnGap-14
+___ 04:45AM BLOOD Calcium-8.7 Phos-2.5* Mg-1.8
+
+===============
+MICROBIOLOGY
+===============
+___ 4:00 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+___ 1:20 pm URINE      Source: ___. 
+
+   URINE CULTURE (Pending)
+
+___ 1:20 pm URINE      Source: ___. 
+
+   Chlamydia trachomatis, Nucleic Acid Probe, with Amplification 
+(Pending)
+
+   NEISSERIA GONORRHOEAE (GC), NUCLEIC ACID PROBE, WITH 
+AMPLIFICATION
+      (Pending)
+
+=================
+IMAGING/STUDIES
+=================
+PELVIC ULTRASOUND ___ IMPRESSION:  
+1. Normal transabdominal pelvic ultrasound. 
+2. The appendix is not definitively visualized. 
+
+CT ABDOMEN/PELVIS WITH CONTRAST ___ IMPRESSION:  
+1. Marked circumferential wall thickening and hyperemia of the 
+urinary bladder is worrisome for cystitis ; correlate with 
+urinalysis.  Hyperemia of the adjacent rectum may be reactive.  
+Fluid throughout the colon to the rectum. 
+2. Small to moderate pelvic free fluid. 
+3. No bowel obstruction.  Normal caliber appendix. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old female with no significant past medical 
+history who presented with dysuria, urinary frequency, urgency x 
+2 days, which progressed to fever, abdominal pain, n/v, diarrhea 
+x 1 day concerning for sepsis from urinary source. Diagnosis 
+further supported by UA and CT findings. She was treated with IV 
+ceftriaxone 1 g q24h and large volume fluid resuscitation, 
+requiring 5 L NS and 5 L LR.
+
+================
+ACUTE ISSUES
+================
+
+#SEPSIS FROM URINARY SOURCE: 
+Patient presented with dysuria, frequency, urgency, abdominal 
+pain, diarrhea, and vomiting concerning for UTI, which 
+progressed to fever and tachycardia concerning for sepsis from 
+her UTI. UA and CT consistent with UTI. No CVA tenderness and 
+negative imaging was less concerning for pyelonephritis. No CMT 
+or vaginal symptoms concerning for PID at this point. She 
+received 5 L NS and 5 L LR during her admission, Tylenol for 
+pain, and 2 doses Bactrim before switching to IV ceftriaxone 1 g 
+Q24h (start date ___. Urine cultures demonstrated mixed 
+bacterial flora, and tests for gonococcus and chlamydia were 
+pending at discharge. At discharge, symptoms were improving, 
+patient was afebrile, hemodynamically stable. She was discharged 
+to complete a total 10-day antibiotic course for complicated UTI 
+with PO Bactrim (to be finished on ___.
+
+#SYNCOPE
+Patient reporting "blacking out" while in the ambulance. This 
+likely represented presyncope/syncope in the setting of 
+orthostasis. Patient likely hypovolemic in the setting of 
+diarrhea, vomiting, sepsis. Neurogenic vaso-vagal episode less 
+likely. And cardiogenic causes of syncope unlikely in an 
+otherwise healthy young woman. Received 5 L NS and 5 L LR during 
+admission with improvement in blood pressure and no further 
+episodes of syncope. Formal orthostatics on hospital day 1 were 
+negative. On discharge, patient was maintaining fluid status 
+with PO hydration and did not require any further IVF.
+
+#ABDOMINAL PAIN, VOMITING, DIARRHEA
+Likely due to inflammation/systemic illness from urosepsis given 
+timeline of symptoms and CT findings. Acute gastroenteritis 
+possible, however symptoms resolved with antibiotic treatment 
+which points more toward UTI as cause. Patient tolerating PO 
+with improving diarrhea at discharge. She was discharged to 
+complete a 10-day antibiotic course as described above. 
+
+#NORMOCYTIC ANEMIA
+Patient was found to be anemic to 10.2 on admission. She then 
+developed a large drop in Hgb on first night of hospitalization 
+from 10.2 to 8.8 likely due to hemodilution given that patient 
+received 5 L NS in addition to about 1 L LR overnight. Patient 
+has anemia with low-normal MCV. Most likely etiology is early 
+iron deficiency anemia in a young, otherwise healthy female. 
+Serum iron was low with low-normal ferritin. Hemolysis less 
+likely with normal Tbili. Hemoglobin was increasing at discharge 
+with no evidence of bleeding. Began ferrous sulfate 350mg PO BID 
+at discharge with recommendation to follow up with a primary 
+___ doctor as an outpatient and recheck a CBC following iron 
+supplementation.
+
+#HYPOKALEMIA
+Likely in setting of emesis and diarrhea. We repleted potassium 
+without recurrence of hypokalemia by discharge.
+
+#NON-ANION GAP METABOLIC ACIDOSIS
+Likely in setting of diarrhea. Other causes of non-gap acidosis 
+are unlikely. Causes of anion gap metabolic acidosis (eg lactic 
+acidosis in sepsis) are unlikely given the lack of an anion gap. 
+This resolved following fluid resuscitation.
+
+========================
+TRANSITIONAL ISSUES
+========================
+[ ] Complete 10-day course of antibiotics for complicated UTI 
+with Bactrim DS PO (___).
+[ ] Follow up with student health services appointment in ___ 
+days.
+[ ] Recommend repeat CBC/iron studies at outpatient follow up.
+[ ] Started ferrous sulfate supplements for iron deficiency 
+anemia. 
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Ferrous Sulfate 325 mg PO BID 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+twice a day Disp #*30 Tablet Refills:*0 
+2.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 7 Days 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth twice a day Disp #*14 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses: Complicated Cystitis, Anemia (unspecified)
+
+Secondary Diagnoses: Recurrent Urinary Tract Infections
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___.
+
+Why you were admitted to the hospital:
+- You were having fevers, abdominal pain due to a 
+bladder/urinary tract infection.
+- You were also found to be anemic (low red blood cell count in 
+your blood).This is likely due to low iron levels.
+
+What was done while you were in the hospital:
+- You were given IV antibiotics and IV fluids to treat your 
+infection and improve your blood pressure. 
+
+What you need to do when you go home:
+- It is very important that you continue to take your antibiotic 
+pills twice per day until ___ (7 more days).
+- Please make an appointment at ___ Health 
+and Counseling Services to follow up with a doctor in ___ days. 
+The contact information for the student health office is below. 
+- You are also being given iron supplement pills to improve your 
+anemia. 
+
+It was a pleasure taking ___ of you at ___.
+___,
+Your ___ ___ Team
+ 
+Followup Instructions:
+___

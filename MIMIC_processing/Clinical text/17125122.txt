@@ -1,0 +1,208 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril-hydrochlorothiazide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hyponatremia, cough, fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old female w/PMH of HTN, DM, HL presenting with
+cough/fatigue, initial sore throat, and lightheadedness for ___
+days in setting of URI presented to PCP and was found to have
+sodium of 122 referred to ED for further evaluation. She states
+was noting cough with sputum production, fatigue, and
+lightheadedness. Per her daughters, over the past few days, she
+was not eating as much. In the morning, she takes tea/toast,
+lunch: rice/oatmeal and dinner: rice/noodles. She recently had
+flu vaccine yesterday. She does not recall having fevers. She
+continued to take her medication during course of illness. 
+
+Currently, she denies chest pain, SOB, abdominal pain, dysuria,
+headaches, fevers. Reports cough with clear to green sputum
+production. Also endorses lightheadedness when walking.
+Additional ROS reviewed and were negative. Denies recent travel.
+No sick contacts that she is aware of. 
+
+In the ED, she was given IV NS 2.5 L. Initial vitals were 
+T: 97.2, HR: 71, BP: 147/59, RR: 18, O2: 99% RA. Initial sodium
+was 120 at 3:50 a.m. on ___ and improved to 125 at 11:14 a.m. 
+
+ROS:
+Positives on review of systems:
+All other systems reviewed and negative, specifically, denies:
+visual changes, numbness/weakness, chest pain, shortness of
+breath, fevers, nausea, vomiting, abdominal pain, diarrhea,
+bleeding, rash, joint aches/pains.
+
+ 
+Past Medical History:
+PMH: 
+DIABETES TYPE II                                                
+HYPERLIPIDEMIA                                                  
+HYPERTENSION                                                    
+CLAUDICATION                                                    
+moderate dz on noninvasive vascular studies                     
+DIABETIC NEPHROPATHY                                            
+
+Surgical History:
+CATARACT SURGERY                                                
+
+ 
+Social History:
+___
+Family History:
+Family History: Mother/Father: unknown, Sister: ___,
+Daughters: HTN, HL
+ 
+Physical Exam:
+Physical Exam:
+VS:  T: 98.3, BP: 154/66, HR: 64, RR: 18, O2: 95% RA
+General Appearance: pleasant, comfortable, no acute distress
+Eyes: PERLL, EOMI, no conjuctival injection, anicteric
+ENT: no frontal/maxillary sinus tenderness appreciated, MMM,
+oropharynx without exudate or lesions, +1 upper anterior chain
+lympadenopathy no JVD, no carotid bruits, no thyromegaly or
+palpable thyroid nodules
+Pharynx: no erythema, no exudate noted, MMM
+Respiratory: slightly diminished breath sounds RLL, otherwise 
+CTA
+Cardiovascular: RR, S1 and S2 wnl, no murmurs, rubs or gallops
+Gastrointestinal: nd, +b/s, soft, nt, no masses or HSM
+Extremities: no cyanosis, clubbing or edema, +2 DP pulses
+Skin: warm, no rashes/no jaundice/no skin ulcerations noted
+Neurological: Alert, oriented to self, time, date, reason for
+hospitalization.  Cn II-XII intact.  ___ strength throughout.  
+No
+sensory deficits to light touch appreciated. Gait stable,
+negative pronator drift. Lightheadedness endorsed when walking.
+MSK: ___ strength in ___: no edema, +2 DP pulses, varicose veins bilaterally noted 
+Psychiatric: pleasant, appropriate affect
+
+Discharge Physical Exam:
+VS:  98.1 113/66 64
+aox3
+ctab
+rrr
+soft abd no organomegaly
+no peripheral edema
+
+ 
+Pertinent Results:
+___ 06:35AM BLOOD WBC-6.5 RBC-4.04 Hgb-11.9 Hct-34.7 MCV-86 
+MCH-29.5 MCHC-34.3 RDW-11.9 RDWSD-36.7 Plt ___
+___ 03:50AM BLOOD WBC-9.8 RBC-4.21 Hgb-12.5 Hct-36.0 MCV-86 
+MCH-29.7 MCHC-34.7 RDW-12.6 RDWSD-38.5 Plt ___
+___ 03:57PM BLOOD WBC-8.2 RBC-4.52 Hgb-13.0 Hct-38.6 MCV-85 
+MCH-28.8 MCHC-33.7 RDW-11.9 RDWSD-36.6 Plt ___
+___ 03:50AM BLOOD Neuts-66.0 ___ Monos-11.0 Eos-1.2 
+Baso-0.6 Im ___ AbsNeut-6.48*# AbsLymp-1.98 AbsMono-1.08* 
+AbsEos-0.12 AbsBaso-0.06
+___ 06:35AM BLOOD Plt ___
+___ 03:50AM BLOOD Plt ___
+___ 03:57PM BLOOD Plt ___
+___ 06:35AM BLOOD Glucose-139* UreaN-20 Creat-0.8 Na-135 
+K-5.1 Cl-94* HCO3-28 AnGap-13
+___ 10:17PM BLOOD Glucose-179* UreaN-23* Creat-0.9 Na-128* 
+K-4.2 Cl-90* HCO3-24 AnGap-14
+___ 04:50PM BLOOD Glucose-117* UreaN-14 Creat-0.7 Na-129* 
+K-4.6 Cl-91* HCO3-25 AnGap-13
+___ 03:50AM BLOOD Glucose-74 UreaN-16 Creat-0.8 Na-120* 
+K-8.1* Cl-81* HCO3-22 AnGap-17
+___ 03:57PM BLOOD Glucose-159*
+___ 03:57PM BLOOD UreaN-18 Creat-0.9 Na-122* K-4.7 Cl-80* 
+HCO3-25 AnGap-17
+___ 04:50PM BLOOD ALT-31 AST-16 LD(LDH)-143 AlkPhos-97 
+TotBili-0.3
+___ 03:57PM BLOOD ALT-41* AST-19 CK(CPK)-156 AlkPhos-104 
+TotBili-0.3
+___ 06:35AM BLOOD Calcium-9.6 Phos-4.5 Mg-2.0
+___ 10:17PM BLOOD Calcium-9.5 Phos-5.0* Mg-2.0 UricAcd-5.1
+___ 04:50PM BLOOD Calcium-10.0 Phos-4.1 Mg-1.9 UricAcd-4.0
+___ 03:57PM BLOOD %HbA1c-7.1* eAG-157*
+___ 03:50AM BLOOD Osmolal-253*
+___ 03:57PM BLOOD TSH-1.9
+___ 03:50AM BLOOD Cortsol-20.7*
+___ 11:14AM BLOOD Na-125*
+___ 06:46AM BLOOD Na-125* K-4.0
+___ 05:19AM BLOOD Na-118* K-8.4*
+
+Chest X-ray ___
+ 
+FINDINGS:  
+  
+The lungs are clear.  The pulmonary vasculature is unremarkable. 
+
+There is a small right pleural effusion.  No pleural effusion on
+the left.  No pneumothorax.  The cardiomediastinal silhouette is
+unremarkable.  No acute 
+osseous abnormalities. 
+  
+IMPRESSION:  
+  
+Small right pleural effusion vs. pleural thickening.  There is 
+no
+acute cardiopulmonary process. 
+
+ 
+Brief Hospital Course:
+___ year old female w/PMH of HTN, DM, HL presenting with 
+cough/fatigue, initial sore throat, and lightheadedness for ___ 
+days in setting of URI presented to PCP and was found to have 
+sodium of 122 referred to ED for further evaluation. 
+
+Hyponatremia: improved at time of discharge to 135 with IVF and 
+holding her hctz.  suspected to be mild hypovolemia from low PO 
+intake from URI and concominant use of diuretic.
+
+#HTN: holding hctz at discharge, continue losartan
+
+#DM2: continue home meds on discharge.
+
+#URI: influenza swab negative
+
+#Constipation: bowel reg recommended
+
+#Pleural effusion: seen on CXR
+[]recommend future outpatient cxr to track this change
+
+ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hyponatremia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Ms. ___,
+You were hospitalized for low sodium levels likely. Your sodium 
+levels improved with IV hydration. You were noted to have a 
+small pleural effusion on your Chest X-ray which will need 
+follow-up chest X-ray as an outpatient. 
+
+We wish you best wishes in your recovery.
+
+Best wishes,
+Your ___ team
+ 
+Followup Instructions:
+___

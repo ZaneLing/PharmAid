@@ -1,0 +1,334 @@
+Name:  ___          Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+disposable gloves / Penicillins / Tetracycline Analogues / 
+metformin / doxycycline / codeine / NSAIDS (Non-Steroidal 
+Anti-Inflammatory Drug)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ year old woman w/PMH HTN, HLD, DM, presenting with chest 
+pain. Chest pain started at 9am this morning. She describes the 
+pain as pressure in the ___ her chest, ___ this morning 
+and ___ currently. She had associated shortness of breath at 
+onset of the pain and has noticed that the pain radiated to her 
+left arm. She was sitting when the pain started. She works in a 
+pediatrics office and one of her coworkers took her temperature 
+after the
+onset of her chest pain and noted that she had fevers to 102 and 
+chills. This prompted her to present to her PCP where based on 
+her constellation of symptoms, an EKG was taken and she received 
+ASA 325 and was referred to the ED. 
+
+In the ED:
+- Initial vital signs were notable for: T 99.3 HR 108 BP 154/90
+RR 22 Pox 100% RA
+- Exam notable for: well appearing, NAD, cor RRR, no m/r/g, no
+chest wall tenderness, LCTAB
+- Labs were notable for:
+WBC 12.3 Hgb 10.8 SCr 1.2 ALT 186 AST 226 ALP 183 Trop-T <0.01
+lactate 1.7
+- Studies performed include:
+CXR:
+Subtle linear densities in the left lower lung likely 
+atelectasis, difficult 
+to exclude an early pneumonia in the correct clinical setting. 
+
+US liver:
+1. Echogenic appearance of the liver suggests fatty deposition. 
+Please note, based on this appearance, more advanced forms of
+liver disease cannot be excluded. 
+2. Normal gallbladder. 
+
+- Patient was given:
+1L NS, SL nitro 0.4mg
+- Consults: None
+
+Vitals on transfer: T 99 HR 87 BP 129/70 RR 19 Pox 96% RA 
+
+Upon arrival to the floor, patient is complaining of nausea. She 
+states that her chest pain has improved after administration of 
+SL nitro. She endorses the above history. She denies recent 
+travel, cough, rhinorrhea, sore throat, headache, vision 
+changes, aches/pains, abdominal pain, diarrhea or constipation, 
+or dysuria. She has had multiple sick contacts due to the nature 
+of her occupation.
+
+ 
+Past Medical History:
+PMH:  
+- HTN
+- glucose intolerence, ? type 2 DM (being worked up)
+- hx of bronchitis
+
+PSH:  
+- bilatera salpingectomy for ectopic pregnancies
+- supracervical hysterectomy
+
+POB/GYNHx:  NSVD x 1, bilateral ectopic pregnancies as above, 
+last pap ___, last mammogram ___ yrs ago
+ 
+Social History:
+___
+Family History:
+Mother - episode of syncope, found to have irregular heart 
+rhythm
+No other known family history of cardiac disease.
+ 
+Physical Exam:
+ADMISSION
+=========
+VITALS: 24 HR Data (last updated ___ @ ___)
+    Temp: 97.9 (Tm 97.9), BP: 159/82, HR: 99, RR: 18, O2 sat:
+98%, O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing or cyanosis. 1+ pitting edema b/l ___.
+Pulses DP 2+ bilaterally.
+NEUROLOGIC: Face symmetric, moving all extremities 
+spontaneously.
+AOx3.
+
+DISCHARGE
+=========
+VITALS: ___ 0007 Temp: 98.9 PO BP: 129/88 HR: 90 RR: 18 O2
+sat: 99% O2 delivery: Ra 
+GENERAL: Alert and oriented, no acute distress
+ENT: NT/AC, MMM, EOMI
+CV: RRR, no murmurs, rubs, or gallops
+RESP: CTAB, normal work of breathing
+GI: NT/ND, BS+
+EXT: Warm and well perfused, non-edematous
+NEURO: CNII-XII grossly intact, no focal neurologic deficits
+ 
+Pertinent Results:
+ADMISSION
+=========
+___ 05:45PM   ___ PTT-23.8* ___
+___ 05:45PM   WBC-12.3* RBC-4.04 HGB-10.8* HCT-34.9 MCV-86 
+MCH-26.7 MCHC-30.9* RDW-16.4* RDWSD-52.0*
+___ 05:45PM   NEUTS-81.0* LYMPHS-7.9* MONOS-9.1 EOS-1.4 
+BASOS-0.2 IM ___ AbsNeut-10.00* AbsLymp-0.97* AbsMono-1.12* 
+AbsEos-0.17 AbsBaso-0.02
+___ 05:45PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+tricyclic-NEG
+___ 05:45PM   ALBUMIN-4.0 CALCIUM-9.6 PHOSPHATE-2.5* 
+MAGNESIUM-1.8
+___ 05:45PM   cTropnT-<0.01
+___ 05:45PM   LIPASE-64*
+___ 05:45PM   ALT(SGPT)-186* AST(SGOT)-226* ALK PHOS-182* 
+TOT BILI-0.9
+___ 05:45PM   GLUCOSE-115* UREA N-21* CREAT-1.2* SODIUM-139 
+POTASSIUM-4.0 CHLORIDE-105 TOTAL CO2-16* ANION GAP-18
+___ 09:26PM   LACTATE-1.7
+
+DISCHARGE
+=========
+___ 07:10AM BLOOD WBC-7.3 RBC-3.87* Hgb-10.5* Hct-32.7* 
+MCV-85 MCH-27.1 MCHC-32.1 RDW-16.4* RDWSD-51.0* Plt ___
+___ 07:10AM BLOOD Glucose-110* UreaN-20 Creat-1.1 Na-144 
+K-4.0 Cl-107 HCO3-25 AnGap-12
+
+IMAGING
+=======
+___ CXR:
+Subtle linear densities in the left lower lung likely 
+atelectasis, difficult to exclude an early pneumonia in the 
+correct clinical setting.
+
+___ Abdominal US:
+1. Echogenic appearance of the liver suggests fatty deposition. 
+Please note, based on this appearance, more advanced forms of 
+liver disease cannot be excluded. 
+2. Normal gallbladder. 
+
+___ ETT:
+IMPRESSION: No anginal type symptoms or ischemic EKG changes.
+
+ 
+Brief Hospital Course:
+___ year old woman w/PMH HTN, DM, who presented with 
+fever/chills, chest pain and shortness of breath. Chest pain/SOB 
+concerning for unstable angina given quality of pain and risk 
+factors for CAD. EKG/trop/stress test ruled out ACS and coronary 
+disease. Fevers/leukocytosis in the absence of localizing 
+infectious sx points towards a viral etiology which is likely to 
+explain transaminitis that improved on repeat. Just fatty 
+changes noted on RUQUS. 
+
+ACUTE ISSUES:
+=============
+# Chest pain
+# Dyspnea:
+Presented with constellation of symptoms concerning for ACS 
+given chest pressure with SOB at rest. No pleuritic component to 
+pain. Chest pain improved with administration of SL nitro. 
+Reassuringly, EKGs have been without ischemic changes and 
+troponin <0.01 x3. Given HEART score of 4 iso risk factors, 
+patient sent for exercise stress EKG which showed no ischemic 
+changes (was a diagnostic stress because reached appropriate 
+HR). No recurrence of chest pressure. Continued atorvastatin 
+20mg daily and started aspirin 81 daily on discharge given age 
+and presence of diabetes. 
+
+# Fever/chills
+# Leukocytosis:
+Patient presented with infectious signs/symptoms of fever, 
+chills and leukocytosis. CXR with possible area of focal 
+consolidation in LLL, though based on history, patient has 
+lacked other classical symptoms (especially productive cough) 
+associated with PNA. No other localizing infectious symptoms. 
+Satting well on room air with stable hemodynamics and remained 
+afebrile. Leukocytosis improved with one dose CTX/azithro and 
+given lack of localizing sx, stopped antibiotic course. Flu was 
+not checked given improvement in symptoms but would not have 
+changed management as Tamiflu unlikely to help. 
+
+# Elevated LFTs:
+New LFT abnormalities on presentation. RUQUS showing hepatic 
+steatosis, no other frank liver pathology. Could potentially be 
+related to viral illness as patient has had fever/chills. 
+Improved on recheck. NAFLD is also possible as etiology for 
+transaminitis but elevation seems to be more acute. Needs Hep B 
+vaccine as outpatient(HepBsAg and HepBcAh negative, HBsAb 
+negative). ___ Ab positive, and ___ IgM pending on discharge 
+(less concerned for acute infection given improvement in sx and 
+lack of nausea/vomiting/diarrhea). 
+
+CHRONIC ISSUES:
+===============
+# CKD:
+Creatinine was at baseline 1.2 and improved to 1.1 on repeat 
+
+# HTN:
+Continued losartan-hydrochlorothiazide 100-25 mg oral DAILY and 
+amLODIPine 10 mg PO DAILY 
+
+# HLD:
+Continued atorvastatin 20mg qPM
+
+# DMII:
+Held home glimepiride 4mg BID, continued ISS while in house
+
+TRANSITIONAL ISSUES
+====================
+Discharge AST/ALT/AP/Tbili: 98/149/168/0.7
+Discharge WBC: 7.3
+Discharge Hgb: 10.5
+Discharge INR: 1.1
+
+[] Recheck LFTs at next primary care doctor appointment 
+[] Needs Hep B vaccine (HepBsAg and HepBcAh negative, HBsAb 
+negative)
+[] ___ Ab positive, ___ IgM pending on discharge 
+[] Check A1c at next visit as last check was around 7% as per 
+patient report
+[] Added aspirin 81mg daily to medication list given age and 
+diabetes 
+[] Monitor for pulmonary symptoms with concern for possible 
+post-viral development of bacterial pneumonia; not concerned for 
+this on discharge 
+
+#CODE: Full (presumed)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. glimepiride 4 mg oral BID 
+4. losartan-hydrochlorothiazide 100-25 mg oral DAILY 
+5. TraZODone 50 mg PO QHS:PRN insomnia 
+6. Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  amLODIPine 10 mg PO DAILY  
+3.  Atorvastatin 20 mg PO QPM  
+4.  glimepiride 4 mg oral BID  
+5.  losartan-hydrochlorothiazide 100-25 mg oral DAILY  
+6.  TraZODone 50 mg PO QHS:PRN insomnia  
+7.Outpatient Lab Work
+Please check LFTs (AST/ALT/alk phos/tbili) at next primary care 
+visit. Fax results to Dr. ___ at ___ 
+ICD10: ___.0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Chest pain/shortness of breath
+Fevers
+
+SECONDARY DIAGNOSES
+====================
+Chronic kidney disease
+Hypertension
+Hyperlipidemia
+Diabetes
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___, 
+
+WHY YOU WERE ADMITTED
+- You were having chest pain and shortness of breath
+
+WHAT WE DID FOR YOU 
+- You received nitroglycerin under your tongue that improved 
+your symptoms
+- You had blood tests and an EKG that ruled out an acute heart 
+attack
+- You had a stress test that ruled out heart disease
+- Your liver numbers were elevated but you had an ultrasound 
+that did not show any gallbladder disease. It did show fatty 
+deposition in the liver that can cause liver disease in the 
+future, but can be treated with weight loss 
+
+WHAT YOU SHOULD DO WHEN YOU LEAVE
+- Please take your medications and follow up with your primary 
+care doctor 
+- Please monitor for symptoms and return to the hospital if you 
+are experiencing worsened chest pain, shortness of breath, 
+palpitations, dizziness, abdominal pain, 
+It was a pleasure caring for you!
+
+Sincerely,
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

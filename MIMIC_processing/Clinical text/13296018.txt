@@ -1,0 +1,125 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Drug Allergy Information on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ y/o F admitted with mechanical fall while walking. Denies any 
+lightheadedness, dizziness, chest pain, dyspnea. Patient states 
+she was walking and lost her balance and fell backwards. She hit 
+her head and landed straight on her back. Denies any LOC or 
+confusion afterwards. She states she saw lights flashing 
+temporarily.
+
+ROS: states she has had 4 falls in the past
+ 
+Past Medical History:
+hypothyroidism
+osteoporosis
+ 
+Social History:
+___
+Family History:
+nc
+ 
+Physical Exam:
+98.7, 140/60, 84, 18, 95 ra
+gen- c/o back pain
+heent- bruising over scalp area
+heart- rrr, no m/r/g
+lungs- ctab
+abd- benign, soft, nt/nd, bs+
+ext- no edema
+back- ttp over cervical spine and paraspinal area over muscles
+neuro- cn ___ intact, strength ___ rle, unable 
+to assess lle due to pain, gait deferred, no pronator drift, 
+cerebellar fxn intact
+
+ 
+Pertinent Results:
+___ 03:15PM BLOOD WBC-13.0*# RBC-4.48 Hgb-13.1 Hct-38.9 
+MCV-87 MCH-29.3 MCHC-33.8 RDW-13.7 Plt ___
+___ 03:15PM BLOOD Neuts-88.9* Lymphs-8.2* Monos-2.3 Eos-0.1 
+Baso-0.5
+___ 03:15PM BLOOD Glucose-94 UreaN-21* Creat-0.9 Na-138 
+K-3.6 Cl-100 HCO3-28 AnGap-14
+
+L spine, hip, coccyx, chest xray all unremarkable for fracture
+ 
+Brief Hospital Course:
+___ y/o F s/p mechanical fall with normal radiographs admitted 
+for pain control
+.
+
+# Fall
+- negative radiographs for fracture
+- pain control with acetaminophen
+- her neurological exam ___ completely benign, no indication 
+for head CT
+- ___ consult cleared patient for home with services
+.
+
+# Hypothyroid
+- continued levothyroxine
+.
+
+# Osteoporosis
+- continued vitamin d and calcium carbonate
+.
+
+ 
+Medications on Admission:
+levothyroxine 50 mcg
+vitamin d 400 units daily
+calcium carb 500mg tid
+ 
+Discharge Medications:
+1. Ibuprofen 400 mg Tablet Sig: 0.5 Tablet PO Q8H (every 8 
+hours) as needed for pain.  
+2. Acetaminophen 325 mg Tablet Sig: ___ Tablets PO Q6H (every 6 
+hours) as needed.  
+3. Levothyroxine 50 mcg Tablet Sig: One (1) Tablet PO DAILY 
+(Daily).  
+4. Calcium Carbonate 500 mg Tablet, Chewable Sig: One (1) 
+Tablet, Chewable PO TID W/MEALS (3 TIMES A DAY WITH MEALS).  
+5. Cholecalciferol (Vitamin D3) 400 unit Tablet Sig: One (1) 
+Tablet PO DAILY (Daily).  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Cervical musculoskeletal strain
+
+ 
+Discharge Condition:
+stable
+
+ 
+Discharge Instructions:
+You were admitted for observation and to manage your pain after 
+the fall you suffered. You were seen by physical therapy and are 
+cleared to go home with sevices. 
+
+Please follow up with your primary care doctor as needed.
+ 
+Followup Instructions:
+___

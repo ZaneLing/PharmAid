@@ -1,0 +1,185 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / prochlorperazine / Penicillins
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+Upper Endoscopy, EUS
+
+attach
+ 
+Pertinent Results:
+DISCHARGE EXAM:
+GENERAL: Alert and in no apparent distress
+CV: Heart regular, no murmur
+RESP: easy WOB, CTAB
+GI: soft, ND, non-tender to deep palpation in RUQ and 
+epigastrium
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Pleasant, appropriate affect
+
+NOTABLE LABS:
+___ 06:00AM BLOOD WBC-5.6 RBC-3.44* Hgb-9.5* Hct-30.2* 
+MCV-88 MCH-27.6 MCHC-31.5* RDW-14.5 RDWSD-46.6* Plt ___
+___ 06:00AM BLOOD Glucose-95 UreaN-7 Creat-0.8 Na-142 K-3.9 
+Cl-107 HCO3-25 AnGap-10
+___ 06:00AM BLOOD ALT-27 AST-26 AlkPhos-110* TotBili-0.2
+___ 09:50PM BLOOD Lipase-8
+___ 10:03PM BLOOD Lactate-0.8
+
+IMAGING:
+
+EUS ___
+Normal visualized esophagus, stomach and duodenum.  Dilated CBD 
+w/o CBD stones or sludge.
+
+MRCP ___
+IMPRESSION:
+1. Mild bilateral intrahepatic biliary dilation and dilated 
+common bile duct which tapers normally to the ampulla, which can 
+be seen with ampullary stenosis. No visualized mass, 
+choledocholithiasis, or imaging evidence of cholangitis.
+2. Mild-to-moderate hepatic steatosis.
+3. Marked fatty infiltration of the pancreas.
+
+CT A/P ___
+CONCLUSION: Dilated extra hepatic common bile
+duct to the level of the ampulla, which empties into a medial
+duodenal diverticulum. No evidence for cholelithiasis or
+choledocholithiasis, pancreatic mass or intrahepatic ductal
+dilatation. Findings likely reflect ampullary stenosis.
+Pancreatic atrophy. Other findings as detailed.
+
+RUQUS ___
+CONCLUSION: Common duct dilatation to 1.0-1.1 cm. No 
+intrahepatic
+dilatation. No evidence for cholelithiasis, cholecystitis or
+choledocholithiasis. Hepatic steatosis without enlargement.
+
+ 
+Brief Hospital Course:
+SUMMARY:
+___ yo F PMHx multiple sclerosis, hypertension, GERD presenting 
+with fevers and RUQ abdominal pain, found to have sepsis and 
+dilated extrahepatic CBD.  MRCP and EUS with dilated CBD but no 
+stones or sludge seen.  Most likely explanation is passed 
+gallstone.
+
+___ HOSPITAL COURSE:
+# Sepsis
+Febrile, tachy, with mildly elevated WBC count and LFTs at OSH. 
+Although her transaminases and bilirubin were normal, her 
+symptoms and other laboratory changes were suggestive of 
+cholangitis. Outside imaging revealed a dilated common bile duct 
+to the level of the ampulla suggestive of ampullary stenosis, 
+but no cholelithiasis or choledocholithiasis. CT A/P without 
+evidence of acute infection.  MRCP confirmed ductal dilation, 
+also suggestive of ampullary stenosis.  She underwent EUS which 
+showed CBD dilation without stones or sludge.  While the 
+etiology of the patient's symptoms and laboratory findings 
+cannot be confirmed, we suspect a passed gallstone.  Blood 
+cultures negative.  She was prescribed a 7d course of 
+antibiotics.  
+
+CHRONIC/STABLE PROBLEMS:
+# Hypertension:
+Lisinopril was held in the setting of sepsis.  Consider 
+restarting at outpatient follow-up.  Continued home metoprolol.
+
+# GERD:
+Continued omeprazole
+
+# Multiple sclerosis:
+Continued home morphine sulfate ___
+
+# Anxiety:
+Continued home clonazepam
+
+# Anemia: Unknown baseline, no evidence of active bleeding.
+
+> 30 minutes spent in discharge planning and counseling 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ClonazePAM 0.5 mg PO BID 
+2. Omeprazole 20 mg PO BID 
+3. Morphine Sulfate ___ 30 mg PO BID 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. Lisinopril 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Ciprofloxacin HCl 500 mg PO BID 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*2 Tablet Refills:*0 
+3.  MetroNIDAZOLE 500 mg PO Q8H 
+RX *metronidazole 500 mg 1 tablet(s) by mouth q8 hours Disp #*3 
+Tablet Refills:*0 
+4.  Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO
+RX *ondansetron 4 mg 1 tablet(s) by mouth q8 hours PRN Disp #*60 
+Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*6 Tablet Refills:*0 
+6.  ClonazePAM 0.5 mg PO BID  
+7.  Metoprolol Succinate XL 25 mg PO DAILY  
+8.  Morphine Sulfate ___ 30 mg PO BID  
+9.  Omeprazole 20 mg PO BID  
+10. HELD- Lisinopril 40 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until you are seen by your primary 
+care doctor
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal pain 
+Fever
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came to the hospital with abdominal pain.  You were found to 
+have a fever, and an mild elevation in your liver function 
+tests.  You were started on antibiotics for a possible infection 
+in the gallbladder.  You underwent an MRI of the abdomen and an 
+upper endoscopy with GI.  These tests showed dilation within the 
+bile ducts, but no evidence of ongoing infection or gallstones.  
+The most likely explanation is that you passed a gallstone.  
+
+Please take antibiotics for one additional day (through 
+___.
+
+While you were in the hospital, lisinopril (blood pressure 
+medication) was held.  Please monitor your blood pressures and 
+discuss restarting this medication with your PCP.
+
+Follow-up with your PCP within the week for a check-in.
+
+It was a pleasure taking care of you at ___.
+-- Your medical team
+ 
+Followup Instructions:
+___

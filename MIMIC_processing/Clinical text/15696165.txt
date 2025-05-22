@@ -1,0 +1,391 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Elevated TBili, alk phos, LFTs
+ 
+Major Surgical or Invasive Procedure:
+NONE
+
+ 
+History of Present Illness:
+___ y/o M with history of alcoholic cirrhosis, not currently
+listed on transplant list, referred to ED for worsening labs c/f
+decompensated cirrhosis. Reportedly had been abstinent for
+alcohol x3 months, although now admitting to drinking a few
+drinks recently, denying heavy use. Was found on routine clinic
+appt yesterday to have labs c/f decompensation given hypoNa, 
+___,
+elevated bili. He was referred for further workup to elucidate
+cause of decompensation with possible liver biopsy. RUQ/US
+without PVT or gallstone. No ascites. No s/sx infection. ___ be
+related to ongoing alcohol use.
+
+In the ED initial vitals: 97.5; 85; 106/55; 18; 99%RA
+- Exam notable for: scleral icterus, no asterixis
+- Labs notable for:
+CBC: WBC 8.4 Hgb 10.5 plt 230
+Chem7: Na 129, K 4.6, Cl 92, Bicarb 21, BUN 23, Cr 1.5
+LFTs: AST 75, ALT 42, APhos 843, TBili 3.1 Alb 2.4
+Coags: ___ 13, INR 1.2
+UA: Few bacteria, leuk est small, Nitrite neg, 5 hyaline casts
+
+Urine culture pending
+- Imaging notable for:
+RUQUS:
+1. Coarsened hepatic parenchyma. No focal liver lesion. Patent
+portal vein with hepatopetal flow. No ascites. No splenomegaly.
+2. Intraluminal gallbladder sludge without convincing wall
+thickening or distention.
+CXR:
+IMPRESSION:
+1. No focal consolidation.
+2. Mediastinal contour is at the upper limits of normal, likely
+projectional.
+
+- Consults: GI-Hepatology
+
+- Patient was given: Furosemide 80mg PO, thiamine, 
+spironolactone
+50mg PO
+
+- ED Course:
+REVIEW OF SYSTEMS: Positive per HPI, remaining 10 point ROS
+reviewed and negative.
+
+Upon transfer to floor, patient vitals were notable for temp
+97.6, BP 113/71, HR 79. Reports feeling well - no SOB, CP, abd
+pain, fevers, n/v, melena or bloody stools. Feels clear-headed,
+no dizziness.
+
+ 
+Past Medical History:
+alcoholic cirrhosis decompensated by esophageal varices, portal
+hypertensive gastropathy, ascites
+fatty liver
+elevated ferratin with hemochromatosis ruled out
+adrenal gland lesion
+HTN
+___
+ 
+Social History:
+___
+Family History:
+Mother DIABETES ___ HEART DISEASE
+Father DIABETES ___ HEART DISEASE
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+===============================
+VITALS: temp 97.6, BP 113/71, HR 79
+GENERAL: NAD
+HEENT: AT/NC, EOMI, PERRL, jaundice sclera b/l
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DICHARGE PHYSICAL EXAM:
+========================
+VITALS: 24 HR Data (last updated ___ @ 1541)
+    Temp: 97.9 (Tm 98.4), BP: 106/70 (100-117/63-71), HR: 73
+(73-80), RR: 18 (___), O2 sat: 100%, O2 delivery: Ra, Wt: 
+154.2
+lb/69.95 kg  
+GENERAL: NAD
+HEENT: AT/NC, EOMI, PERRL, jaundice sclera b/l
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs, jaundice under
+tongue 
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==================
+___ 10:55PM URINE  HOURS-RANDOM
+___ 10:55PM URINE  UHOLD-HOLD
+___ 10:55PM URINE  COLOR-Yellow APPEAR-Hazy* SP ___
+___ 10:55PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-SM*
+___ 10:55PM URINE  RBC-3* WBC-4 BACTERIA-FEW* YEAST-NONE 
+EPI-0
+___ 10:55PM URINE  HYALINE-5*
+___ 10:55PM URINE  HYALINE-5*
+___ 10:30PM   GLUCOSE-114* UREA N-23* CREAT-1.5* 
+SODIUM-129* POTASSIUM-4.6 CHLORIDE-92* TOTAL CO2-21* ANION 
+GAP-16
+___ 10:30PM   GLUCOSE-114* UREA N-23* CREAT-1.5* 
+SODIUM-129* POTASSIUM-4.6 CHLORIDE-92* TOTAL CO2-21* ANION 
+GAP-16
+___ 10:30PM   ALBUMIN-2.4*
+___ 10:30PM   ALBUMIN-2.4*
+___ 10:30PM   WBC-8.4 RBC-3.80* HGB-10.5* HCT-29.2* MCV-77* 
+MCH-27.6 MCHC-36.0 RDW-22.9* RDWSD-58.2*
+___ 10:30PM   NEUTS-57.3 ___ MONOS-11.4 EOS-0.4* 
+BASOS-0.6 IM ___ AbsNeut-4.83 AbsLymp-2.50 AbsMono-0.96* 
+AbsEos-0.03* AbsBaso-0.05
+___ 11:00AM   GLUCOSE-111*
+___ 11:00AM   GLUCOSE-111*
+___ 11:00AM   UREA N-22* CREAT-1.3* SODIUM-129* 
+POTASSIUM-5.1 CHLORIDE-90* TOTAL CO2-24 ANION GAP-15
+___ 11:00AM   estGFR-Using this
+___ 11:00AM   ALT(SGPT)-46* AST(SGOT)-83* ALK PHOS-876* TOT 
+BILI-3.0*
+___ 11:00AM   ALBUMIN-2.9*
+___ 11:00AM   AMA-NEGATIVE
+___ 11:00AM   IgM-449*
+___ 11:00AM   PLT COUNT-247
+___ 11:00AM   PLT COUNT-247
+
+IMAGING:
+========
+RUQUS ___:
+IMPRESSION: 
+1. Coarsened hepatic parenchyma. No focal liver lesion. Patent 
+portal vein 
+with hepatopetal flow.  No ascites.  No splenomegaly. 
+2. Intraluminal gallbladder sludge without convincing wall 
+thickening or 
+distention. 
+
+CXR ___:
+IMPRESSION: 
+1. No focal consolidation. 
+2. Mediastinal contour is at the upper limits of normal, likely 
+projectional. 
+
+MRI ___:
+FINDINGS:  
+  
+Lower Thorax: Subsegmental atelectatic changes are seen in the 
+right lung 
+base. 
+  
+Liver: Slightly nodular contour consistent with the patient's 
+history of 
+cirrhosis.  Several scattered T2 hyperintense lesions are seen 
+throughout the 
+liver, the largest in segment 8 measuring 7 mm, compatible with 
+cysts.  Small 
+7 mm arterially enhancing lesion in segment 4A, with persistent 
+enhancement on 
+the later phases, likely flash filling hemangioma.  No 
+suspicious liver 
+lesion. 
+  
+Small amount of fluid surrounding the liver. 
+  
+The portal and hepatic veins are patent. 
+  
+Biliary: No intrahepatic or extrahepatic bile duct dilatation.  
+No obstructing 
+lesion is seen.  The gallbladder contains some debris layering 
+dependently. 
+  
+Pancreas: Possible 5 mm T2 hyperintense lesion within the 
+body/tail of the 
+pancreas, with no enhancement.  Possible, could be followed up 
+on next study. 
+  
+Spleen: The spleen is not enlarged and is homogeneous. 
+  
+Adrenal Glands: 2.5 cm x 2.0 cm adenoma in the medial limb of 
+the left adrenal 
+gland, demonstrating drop of signal on the out of phase.  The 
+right adrenal 
+gland is unremarkable. 
+  
+Kidneys: The visualized kidneys are unremarkable.  No 
+hydronephrosis. 
+  
+Gastrointestinal Tract:  Unremarkable. 
+  
+Lymph Nodes: No size significant lymph nodes. 
+  
+Vasculature: Unremarkable. 
+  
+Osseous and Soft Tissue Structures: There is evidence of 
+gynecomastia.  No 
+suspicious bone lesion. 
+  
+IMPRESSION:  
+1.  The gallbladder contains some debris/sludge or stones 
+layering 
+dependently.  No intrahepatic or extrahepatic bile duct 
+dilatation. No 
+obstructing lesion is seen. 
+2.  Slightly nodular liver contour consistent with the patient's 
+history of 
+cirrhosis.  No suspicious liver lesion. 
+3.  Small amount ascites. 
+4.  Incidental findings as described above. 
+
+MICROBIOLOGY:
+=============
+___ URINE URINE CULTURE-FINAL INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+INPATIENT 
+___ URINE URINE CULTURE-FINAL EMERGENCY WARD 
+
+DISCHARGE LABS:
+===============
+___ 05:41AM BLOOD WBC-5.9 RBC-2.88* Hgb-8.3* Hct-23.7* 
+MCV-82 MCH-28.8 MCHC-35.0 RDW-23.8* RDWSD-67.7* Plt ___
+___ 05:41AM BLOOD ___ PTT-48.0* ___
+___ 05:41AM BLOOD Glucose-85 UreaN-17 Creat-1.0 Na-137 
+K-4.3 Cl-102 HCO3-21* AnGap-14
+___ 05:41AM BLOOD ALT-21 AST-35 AlkPhos-470* TotBili-1.8*
+___ 05:41AM BLOOD Albumin-2.7* Calcium-8.5 Phos-3.0 Mg-1.9
+___ 05:41AM BLOOD AMA-NEGATIVE
+___ 05:41AM BLOOD IgA-566* IgM-309*
+ 
+Brief Hospital Course:
+ASSESSMENT AND PLAN: 
+___ y/o M with history of alcoholic cirrhosis, not currently
+listed on transplant list, referred to ED for worsening labs c/f
+decompensated cirrhosis.
+=============================================
+ACUTE CONCERNS
+
+#Decompensated alcoholic cirrhosis:
+#Cholestasis: Patient presented with acute increase in bilirubin
+with ___, concerning for decompensated cirrhosis vs. biliary
+obstruction. Presents with recent EtOH use, No ascites. No e/o
+obstruction on RUQUS that would otherwise be concerning for
+biliary tract disease or PVT. No recent medication changes, or
+Tylenol use, etc that would suggest direct hepatotoxicity.
+Infectious work up so far unrevealing and no tappable pocket to
+rule out SBP. MELD 23 on admission and discharge MELD 10. MRCP 
+revealed no obstruction, but evidence of biliary sludge and 
+stones. Labs downtrended and he remained stable. No antibiotics 
+were given. No medication for hepatic encephalopathy. Due to 
+biliary sludge will start ursodiol 300mg PO BID. 
+
+___ - Cr 1.5 up from baseline 1.0-1.3, likely pre-renal as
+patient endorses overall poor po intake and weight loss. 
+Resolved
+to baseline, Cr 1.0 on discharge.
+
+#Hyponatremia: Na 129 on admission from prior i/s/o hepatorenal 
+syndrome given recent rise in Cr. Held home diuretics. Na on 
+discharge 137. Diuretics resumed on discharge
+
+CHRONIC CONCERNS
+
+#Alcohol Use Disorder- Patient had been sober but has relapsed
+with last drink ~1 week prior to admission. Continued folate, 
+MVI, and thiamine. No signs or symptoms of EtOH withdrawl. 
+
+TRANSITIONAL ISSUES:
+=====================
+[] Labs on ___ - Chem 10, LFTs 
+[] New medication - ursodiol 300mg PO BID
+[] Should continue home Mg for cramping
+[] f/u AMA and IgM and IgA results
+[] Incidental findings on MRI:
+---Pancreas: Possible 5 mm T2 hyperintense lesion within the 
+body/tail of the pancreas, with no enhancement. 
+---Adrenal Glands: 2.5 cm x 2.0 cm adenoma (previously known) in 
+the medial limb of the left adrenal gland, demonstrating drop of 
+signal on the out of phase. The right adrenal gland is 
+unremarkable.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Thiamine 100 mg PO DAILY 
+2. FoLIC Acid 1 mg PO DAILY 
+3. Furosemide 80 mg PO DAILY 
+4. Potassium Chloride 20 mEq PO DAILY 
+5. Spironolactone 50 mg PO DAILY 
+6. Vitamin D ___ UNIT PO 1X/WEEK (SA) 
+
+ 
+Discharge Medications:
+1.  Multivitamins 1 TAB PO DAILY  
+2.  Ursodiol 300 mg PO BID 
+RX *ursodiol 300 mg 1 capsule(s) by mouth twice a day Disp #*60 
+Capsule Refills:*0 
+3.  FoLIC Acid 1 mg PO DAILY  
+4.  Furosemide 80 mg PO DAILY  
+5.  Potassium Chloride 20 mEq PO DAILY  
+6.  Spironolactone 50 mg PO DAILY  
+7.  Thiamine 100 mg PO DAILY  
+8.  Vitamin D ___ UNIT PO 1X/WEEK (SA)  
+9.Outpatient Lab Work
+___.60 (cirrhosis), N17.9 (___)
+please draw chem 10 and LFTs on ___
+please fax results to Dr. ___ ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ALCOHOLIC CIRRHOSIS  decompensated by esophageal varices, portal 
+hypertensive gastropathy, ascites 
+Bilirubinemia 
+Elevated alkaline phosphatase 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear MR. ___,  
+ You were admitted to the hospital because of your liver disease 
+and elevated bilirubin levels.
+ 
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?  
+ - We did imaging to evaluate your biliary system which was 
+normal.
+ - You improved and were ready to leave the hospital.  
+ 
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+ - Take all of your medications as prescribed (listed below)  
+ - Keep your follow up appointments with your doctors  
+ - Weigh yourself every morning, before you eat or take your 
+medications. Call your doctor if your weight changes by more 
+than 3 pounds  
+ - Please stick to a low salt diet and monitor your fluid intake 
+ 
+ - If you experience any of the danger signs listed below please 
+call your primary care doctor or come to the emergency 
+department immediately.
+
+ It was a pleasure participating in your care. We wish you the 
+best!  
+ - Your ___ Care Team  
+ 
+Followup Instructions:
+___

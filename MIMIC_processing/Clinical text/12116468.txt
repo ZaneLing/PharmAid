@@ -1,0 +1,371 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Found on ground
+ 
+Major Surgical or Invasive Procedure:
+None 
+ 
+History of Present Illness:
+___ is a ___ female hx Dementia who presents to ___ on ___ with a mild TBI. Pt was found seated on 
+the
+floor by her bedside at her living facility when staff entered
+the room for morning rounds.  She c/o pain all over but was
+unable to convey events. She is oriented x1 to self at baseline. 
+
+She was taken to OSH where head CT demonstrated right acute SDH
+and she was transferred to ___ for further evaluation. She is
+unable to recall events. She denies HA, nausea, vomiting, vision
+changes. She endorses pain in right knee and leg and right
+shoulder.
+ 
+Past Medical History:
+CHF, HTN, duodenal ulcer, chronic anemia, osteoporosis, OA,
+Metabolic Encephalopathy, UTI, Hemorrhoids
+Code status: DNR/DNR per MOLST form
+ 
+Social History:
+___
+Family History:
+Non contributory
+ 
+Physical Exam:
+ON ADMISSION:
+============
+
+Physical Exam:
+
+O:  T: 97.2  HR:102  BP: 187/98  RR:16  Sat:97% RA   
+GCS at the scene: 14
+
+GCS upon Neurosurgery Evaluation:14   Time of evaluation:11:00
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [x]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam:
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: Normocephalic, no lacerations or hematomas
+Neck: supple, no midline spinal tenderness
+Extrem: warm and well perfused; Right knee, upper leg and hip
+pain with palpation, right shoulder and upper arm pain with
+palpation
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to person only. Responds "I don't know to
+other orientation questions, states ___ for year.
+
+Language: Speech is fluent. 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 4 to 3
+mm bilaterally. Visual fields appear full but patient has
+difficulty following.
+III, IV, VI: Extraocular movements with limited upgaze
+bilaterally without nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+decreased bulk and normal bilaterally. No abnormal movements,
+tremors. 
+
+No Drift
+Motor:
+      Trap Deltoid Bicep Tricep Grip
+Right  5    4      5     4+     5
+Left   5    4+     5     4+     5  
+
+       IP Quad Ham AT ___
+Right  4+  5   4+  ___
+Left   4+  5   4+  ___
+
+Sensation: Intact to light touch
+
+ON DISCARGE:
+============
+
+EXAM
+
+GCS: 13
+Time of evaluation: 08:00AM
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [x]3 Opens eyes to voice (sleeping) 
+ [ ]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [x]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+GCS Total: 13
+
+Exam:
+
+*Per patient's daughter, patient is at her baseline
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious [ ]None
+
+Orientation: [x]Person [ ]Place [ ]Time  [ ]None
+
+Follows commands: [x]Simple [ ]Complex [ ]None
+
+Pupils:  PERRL 3-2mm 
+
+EOM: [ ]Full [ ]Restricted  [x]Tacks examiner in all directions 
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [ ]No - UTA, patient will not participate  
+
+
+Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [ ]Yes [x]No - dementia and confused at
+baseline 
+
+Motor:
+Patient will not participate in full motor exam, but moves
+everything to command antigravity. 
+
+ 
+Pertinent Results:
+Please refer to OMR for pertinent imaging and lab results. 
+ 
+Brief Hospital Course:
+#Right Subdural Hematoma
+___ was admitted to ___ neurosurgery ___ with 
+acute right subdural hematoma. Patient was neurologically at her 
+baseline on admission. She was started on Keppra 500mg BID x 7 
+days for seizure prophylaxis. Home aspirin was held 
+indefinitely.  Repeat NCHCT was done in ED on night of admission 
+and SDH remained stable. She was admitted to ___ for close 
+neurologic monitoring. On ___, patient remained stable. Her labs 
+and vitals were WNL and patient was made floor status. She 
+continued to remain at her neuro baseline and was medically 
+stable for discharge back to her SNF on ___. 
+
+#Acute agitation and delirium 
+Patient with acute agitation and delirium secondary to dementia. 
+Patient would not participate in full exams, yet appeared to be 
+at baseline per her daughter. At times, when trying to examine 
+patient she would become physically aggressive towards staff. 
+Geriatrics was consulted and delirium precaution recommendations 
+were given and appreciated. Patient remained stable. 
+
+#UTI 
+Patient was being treated for UTI on admission with Macrobid. 
+Repeat UA in ED was still positive, therefore Macrobid was 
+discontinued and ceftriaxone was started for 3 days. Urine 
+cultures resulted with mixed flora consistent with skin 
+contamination. She completed her ceftriaxone course despite as 
+she got her last dose on day the cultures resulted. She remained 
+afebrile. 
+ 
+Medications on Admission:
+Medications:
+Anticoagulants [ ]No [x]Yes Name:ASA 81mg Dose:    Last
+Taken:unclear as it is listed as an allergy
+Indication: unknown
+
+metoprolol succinate ER 25 mg Daily,  
+omeprazole 20 mg delayed release Daily 
+furosemide 20 mg Daily
+isosorbide mononitrate ER 30 mg daily 
+calcium carbonate 600 mg calcium (1,500 mg) tablet daily 
+Ferrex ___ mg daily
+nitrofurantoin 100 mg Twice Daily till ___ 
+trazodone 12.5mg every morning 
+trazodone 12.5mg Once Daily, as needed 
+mirtazapine 7.5mg Once Daily, at bedtime 
+acetaminophen 325 mg capsule oral 2 capsule(s) Three times 
+daily,
+as needed 
+aspirin 81 mg capsule,delayed release Once Daily 
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  LevETIRAcetam 500 mg PO BID 
+End Date: ___  
+3.  Lidocaine 5% Patch 1 PTCH TD QAM  
+4.  Mirtazapine 7.5 mg PO QHS  
+5.  Calcium Carbonate 1500 mg PO DAILY  
+6.  Furosemide 20 mg PO DAILY  
+7.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY  
+8.  Metoprolol Succinate XL 25 mg PO DAILY  
+9.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Acute Right Subdural Hematoma 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+Brain Hemorrhage without Surgery
+
+Activity
+- We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+
+- You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+
+- No driving while taking any narcotic or sedating medication. 
+
+- If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+
+- No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+
+- Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+
+- You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+
+- You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+
+- You may have difficulty paying attention, concentrating, and 
+remembering new information.
+
+- Emotional and/or behavioral difficulties are common. 
+
+- Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+
+- Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+Headaches:
+
+- Headache is one of the most common symptom after a brain 
+bleed. 
+
+- Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+
+- Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+
+- There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+When to Call Your Doctor at ___ for:
+
+- Severe pain, swelling, redness or drainage from the incision 
+site. 
+
+- Fever greater than 101.5 degrees Fahrenheit
+
+- Nausea and/or vomiting
+
+- Extreme sleepiness and not being able to stay awake
+
+- Severe headaches not relieved by pain relievers
+
+- Seizures
+
+- Any new problems with your vision or ability to speak
+
+- Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+
+- Sudden numbness or weakness in the face, arm, or leg
+
+- Sudden confusion or trouble speaking or understanding
+
+- Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+
+- Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

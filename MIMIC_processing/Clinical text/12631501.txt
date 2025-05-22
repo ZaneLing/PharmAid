@@ -1,0 +1,280 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin / tetanus immune globulin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cough
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of HTN, post-herpetic neuralgia, who presents 
+with 10 days of cough and shortness of breath. 
+
+She reports cough productive of white sputum x 10 days. This has 
+been associated with dyspneic on exertion, abdominal pain, 
+decreased PO intake. She denies fevers, chills, chest pain, 
+nausea, vomiting. She denies prior history of CHF, asthma, or 
+heart disease. She was seen at her PCP's office earlier today, 
+and given the extreme difficulty she was having with breathing, 
+she was sent to the ED. ROS is also positive for generalized 
+abdominal pain for ___ weeks, associated with diarrhea for one 
+patient. Patient states that this is because she was afraid of 
+becoming constipated, and took too many laxatives at the same 
+time. 
+
+-Difficulty word finding - per daughter - increased over past 
+week, ?some mild confusion as well.  No slurred speech.
+
+In the ED, initial vitals were:  9  98.4  118  125/65  24  90% 
+RA 
+Initial exam was notable for wheezing and speaking in three word 
+sentences.
+Labs were notable for: WBC 9.9 with 81.5% PMNs, Cr 0.8, BNP 866, 
+flu swab negative, VBG 7.39/53 with lactate 1.9.
+Imaging: CXR performed showing tatchy opacity at the posterior 
+inferior chest.
+Pt was given: albuterol and ipratropium nebs, 1g Ceftriaxone, 
+azithromycin 500mg, 1L NS
+Vitals prior to transfer: 91, 97/52, 22, 97% 3L 
+ 
+On the floor, patient states that her breathing is improved, but 
+continues to feel very short of breath and not able to complete 
+sentences.
+ 
+Review of systems:  See HPI
+ 
+Past Medical History:
+-HTN
+-post-herpetic neuralgia
+-constipation
+-chronic back pain
+-diverticulosis
+
+ 
+Social History:
+___
+Family History:
+Not pertinent to this admission
+ 
+Physical Exam:
+===============================
+EXAM ON ADMISSION
+===============================
+Vital Signs: 97.4, 95, 112/61, 20, 97%3L 
+General: Thin, Alert, oriented, not able to complete long 
+sentences
+HEENT: MMM
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Diffuse rhonchi and wheezes bilaterally 
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.  
+
+===============================
+EXAM ON DISCHARGE
+===============================
+Vital Signs: 97.9, 95, 111/53, 20, 98% 3L
+General: Thin, Alert, oriented, NAD
+HEENT: MMM
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Diffuse rhonchi and wheezes bilaterally 
+Abdomen: Soft, non-tender, non-distended
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+
+ 
+Pertinent Results:
+========================
+LABS ON ADMISSION
+========================
+___ 12:05PM BLOOD WBC-9.9 RBC-5.12 Hgb-14.8 Hct-45.6* 
+MCV-89 MCH-28.9 MCHC-32.5 RDW-13.3 RDWSD-43.6 Plt ___
+___ 12:05PM BLOOD Neuts-81.5* Lymphs-10.5* Monos-6.5 
+Eos-0.6* Baso-0.3 Im ___ AbsNeut-8.09* AbsLymp-1.04* 
+AbsMono-0.64 AbsEos-0.06 AbsBaso-0.03
+___ 12:05PM BLOOD ___ PTT-27.0 ___
+___ 12:05PM BLOOD Glucose-137* UreaN-24* Creat-0.8 Na-138 
+K-3.9 Cl-97 HCO3-28 AnGap-17
+___ 12:05PM BLOOD ALT-14 AST-17 AlkPhos-104 TotBili-0.6
+___ 12:05PM BLOOD proBNP-866*
+___ 12:05PM BLOOD cTropnT-<0.01
+___ 12:05PM BLOOD Albumin-4.2 Calcium-10.1 Phos-3.2 Mg-2.3
+___ 12:21PM BLOOD Lactate-1.9
+
+========================
+LABS ON DISCHARGE
+========================
+___ 06:55AM BLOOD WBC-5.6 RBC-3.88* Hgb-11.4# Hct-34.8# 
+MCV-90 MCH-29.4 MCHC-32.8 RDW-13.6 RDWSD-44.3 Plt ___
+___ 07:42AM BLOOD Glucose-81 UreaN-21* Creat-0.7 Na-139 
+K-4.1 Cl-106 HCO3-26 AnGap-11
+___ 07:42AM BLOOD Calcium-8.9 Phos-2.8 Mg-2.1
+
+========================
+MICROBIOLOGY
+========================
+___ Blood cultures x2 - No growth
+
+========================
+IMAGING/STUDIES
+========================
+___ CXR - 
+Patchy opacity at the posterior inferior chest, best seen on the 
+lateral view, worrisome for pneumonia.
+
+___ CTA - 
+1. No evidence of pulmonary embolism or aortic abnormality.
+2. Severe centrilobular emphysema.
+3. Small to moderate bilateral pleural effusions with adjacent 
+atelectasis.
+4. Minimal peripheral opacity in the left upper lobe, not well 
+assessed due to motion but potentially due to scarring, 
+infection is less likely.
+5. Multiple chronic appearing thoracic compression deformities.
+ 
+Brief Hospital Course:
+___ with history of HTN, post-herpetic neuralgia, who presents 
+with cough x 10 days, with leukocytosis and CXR findings 
+consistent with community acquired pneumonia:
+
+# Community Acquired Pneumonia: Patient presented with dyspnea, 
+hypoxia, leukocytosis, with CXR showing an infiltrate. A 
+troponin was negative, and though her BNP was slightly elevated, 
+she had no signs of heart failure on exam. She lives in the 
+community and does not have risk factors for resistant 
+organisms. She was started on azithromycin and ceftriaxone, and 
+clinically improved. However, she continued to require 
+supplemental O2 nasal cannula, and at times was found to be 
+mildly tachycardic, and therefore patient underwent CTA to 
+evaluate for PE, which was found to be negative for PE, but did 
+show severe emphysematous changes. The patient was discharged 
+home with supplemental O2 and levaquin to complete a 7 day 
+course of antibiotics. 
+   Ms. ___ was treated for COPD exacerbation with steroids 
+and nebs as well. 
+
+# Hypertension: The patient has a history of hypertension, but 
+was found to have pressures in the ___ and 100s on admission. 
+Her blood pressures improved with fluid resuscitation, however 
+her pressures continued to be <120, and therefore her home 
+antihypertensives were held, to be restarted at the discretion 
+of her PCP.
+ 
+# Post-Herpatic Neuralgia: Continue home gabapentin.
+
+ ============================
+Transitional Issues
+============================
+[] patient will complete a 5 day course of prednisone 40mg daily 
+(___).
+[] patient was discharged on levofloxacin to complete a 7 day 
+course of antibiotics (___).
+[] patient was discharged on home O2
+[] Patient was found to be borderline hypotensive in the 
+hospital, likely secondary to poor PO intake and infection. Her 
+antihypertensives were held, to be restarted at the discretion 
+of her PCP.
+[] CT scan showed evidence of emphysema, and patient was 
+discharged on Spiriva and albuterol inhalers. Recommend further 
+workup with PFTs and consideration of additional therapy. 
+[] Patient's daughter reports that patient's back pain has 
+lately been significantly worse. ___ benefit from discussion of 
+pain management or further workup.
+[] Ms. ___ was clear that she would like to be DNR. However, 
+she stated that she feels unsure about whether she would ever 
+want to be intubated. This could be discussed further in the 
+outpatient setting. 
+# CODE: DNR, unsure if would want intubation
+# CONTACT: ___ ___, ___ (___) 
+Daughter ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gabapentin 300 mg PO QHS 
+2. Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY 
+3. Albuterol Inhaler 1 PUFF IH Q6H:PRN wheezing 
+
+ 
+Discharge Medications:
+1. Gabapentin 300 mg PO QHS 
+2. Albuterol Inhaler 1 PUFF IH Q6H:PRN wheezing 
+3. PredniSONE 40 mg PO DAILY Duration: 5 Days 
+RX *prednisone [Deltasone] 20 mg 2 tablet(s) by mouth daily Disp 
+#*2 Tablet Refills:*0
+4. Levofloxacin 500 mg PO Q48H Duration: 4 Days 
+Please take one tab on ___ and ___. 
+RX *levofloxacin [Levaquin] 500 mg 1 tablet(s) by mouth once 
+Disp #*1 Tablet Refills:*0
+5. Tiotropium Bromide 1 CAP IH DAILY 
+RX *tiotropium bromide [Spiriva with HandiHaler] 18 mcg 1 cap IH 
+daily Disp #*30 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+- community acquired pneumonia
+- emphysema
+
+Secondary Diagnosis:
+- hypertension
+- post-herpatic neuralgia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to be a part of your care team at ___ 
+___. You were admitted with difficulty 
+breathing, and we found that you have pneumonia. We gave you 
+antibiotics, steroids, and breathing treatments, and you started 
+to feel better. 
+
+When you go home, you will need to complete a course of 
+antibiotics and prednisone. Please see below for more details 
+about your medications.
+
+We also recommend you follow up with your primary care doctor. 
+Unfortunately, it is the weekend, and we are unable to schedule 
+this for you. Please call your doctor's office to schedule an 
+appointment in the next week. 
+
+Again, it was very nice to meet you, and we hope you get back to 
+dancing soon!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

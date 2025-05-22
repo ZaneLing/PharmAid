@@ -1,0 +1,250 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain, jaundice
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ ___ male with
+history of HTN, GERD and ? chronic hep B on tenofovir who
+presents with 3 days of epigastric and RUQ pain and jaundice,
+found to have choledocholithiasis on outpatient MRCP. 
+
+Patient first developed RUQ and epigastric pain about 3 days 
+ago,
+associated with chills but no frank fevers, no nausea or
+vomiting. Patient was seen in primary care clinic on ___ for
+this and had outpatient MRCP done. This was evidently under a
+different MRN at ___. He was called back by his PCP and told 
+to
+present to the ED urgently when his MRCP revealed
+choledocholithiasis. At ___, he was found to be AFVSS 
+with
+normal lactate but mild leukocytosis to 12k and direct
+hyperbilirubinemia to 2 with lipase of 63. RUQUS showed CBD
+dilatation. He was started on unasyn given concern for early
+cholangitis and then was transferred here for ERCP. 
+
+In the ED: 
+VS: 98.0 73 ___ 98% RA 
+Exam notable for:
+-Jaundice, scleral icterus
+-No current abdominal tenderness
+-Clear lungs, not tachycardic
+Labs: WBC 13.8, INR 1.4, Tbili 1.9, AST 139, ALT 62, Hgb 12.7, 
+Cr
+0.9, Na 134
+Imaging: none here
+Impression: choledocholithiasis +/- cholangitis
+Interventions: 4.5g IV zosyn
+Consults: none
+
+On arrival to the floor, patient without acute pain. History as
+above confirmed with aid of phone interpreter. 
+ 
+Past Medical History:
+HTN
+GERD
+? Chronic Hep B
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/reason for 
+hospitalization.
+ 
+Physical Exam:
+Admission Physical Exam:
+========================
+VS: ___ 0203 Temp: 98.4 PO BP: 101/64 HR: 77 RR: 18 O2 sat:
+97% O2 delivery: RA  
+GENERAL: Alert and in no apparent distress
+EYES: pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, tender to palpation in
+epigastrium with negative ___.  Bowel sounds present.  No
+HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: + Jaundice, No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+Discharge Physical Exam:
+========================
+VS: Temp: 98.5 PO BP: 111/68 HR: 67 RR: 18 O2 sat:97% O2 
+delivery: RA  
+GENERAL: Alert and in no apparent distress
+EYES: pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, tender to palpation in
+epigastrium with negative ___.  Bowel sounds present.  No
+HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 09:40PM BLOOD WBC-13.8* RBC-4.08* Hgb-12.7* Hct-37.3* 
+MCV-91 MCH-31.1 MCHC-34.0 RDW-12.6 RDWSD-42.0 Plt ___
+___ 09:40PM BLOOD Neuts-76.6* Lymphs-12.9* Monos-9.4 
+Eos-0.4* Baso-0.2 Im ___ AbsNeut-10.52* AbsLymp-1.78 
+AbsMono-1.30* AbsEos-0.06 AbsBaso-0.03
+___ 09:40PM BLOOD ___ PTT-34.0 ___
+___ 09:40PM BLOOD Glucose-94 UreaN-20 Creat-0.9 Na-134* 
+K-3.8 Cl-97 HCO3-24 AnGap-13
+___ 09:40PM BLOOD ALT-139* AST-62* AlkPhos-192* 
+TotBili-1.9*
+___ 09:40PM BLOOD Lipase-70*
+___ 09:40PM BLOOD Albumin-3.8 Calcium-9.0 Phos-2.5* Mg-2.1
+___ 10:04PM BLOOD Lactate-1.1
+
+Discharge Labs:
+===============
+
+___ 07:50AM BLOOD WBC-10.3* RBC-3.61* Hgb-11.0* Hct-33.0* 
+MCV-91 MCH-30.5 MCHC-33.3 RDW-12.4 RDWSD-41.9 Plt ___
+___ 07:50AM BLOOD ALT-63* AST-21 AlkPhos-127 TotBili-1.0
+___ 07:50AM BLOOD Calcium-8.1* Phos-2.7 Mg-1.8
+
+ERCP:
+performed with sphincterotomy/sphincteroplasty and extraction of 
+3 large stones (8-12mm). Cholangioscopy with ___ performed for 
+fragmentation of a retained 15mm stone followed by extraction of 
+stone fragments. Given high stone burden, double pigtail plastic 
+stent placed.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ ___ male with 
+history of HTN, GERD and ? chronic hep B on tenofovir who 
+presents with 3 days of epigastric and RUQ pain and jaundice, 
+found to have choledocholithiasis on outpatient MRCP.
+
+# Biliary obstruction
+# Choledocholithiasis
+# Concern for early cholangitis
+Presented with episodic abdominal pain and found to have 
+choledocholithiasis on outpatient MRCP. He then was told to 
+present to the ED where he was found to have a mild 
+leukocytosis. RUQ US was obtained and was notable for CBD 
+dilation.
+He had chills but no observed objective fevers, but was started
+on antibiotics in the ED due to concern for cholangitis. He was 
+transferred to ___ for ERCP. He underwent ERCP which revealed 
+multiple filling defects consistent with stones. Stone 
+extraction, lithotripsy, spinchterotomy, and plastic stent 
+placement were performed. He will need a repeat ERCP in ___ 
+weeks for stent pull. Antibiotics were discontinued after ERCP 
+given lack of any purulence or findings concerning for infection 
+during procedure. Post-ERCP he was hydrated with fluids 
+overnight. The following morning diet was advanced and he was 
+tolerating a regular diet at time of discharge. General surgery 
+was consulted and recommended further evaluation for 
+cholecystectomy as an outpatient. He was instructed to discuss 
+with PCP to arrange outpatient evaluation. 
+
+CHRONIC/STABLE PROBLEMS:
+
+# HTN: held home antihypertensives due to initial concern for 
+infection. BP remained well controlled off medications so they 
+continued to be held on discharge. Consider resuming as needed 
+as an outpatient.
+
+# HLD: Continued on home simvastatin
+
+# GERD: continued home PPI
+
+#? Chronic Hep B: continued home tenofovir 
+
+Transitional Issues:
+====================
+- needs repeat ERCP in ___ weeks for stent pull
+- needs outpatient referral for cholecystectomy 
+- monitor BP and consider resuming anti-hypertensive regimen as 
+needed
+
+Greater than 30 min spent on discharge planning
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO BID 
+2. Tenofovir Disoproxil (Viread) 300 mg PO DAILY 
+3. Simvastatin 20 mg PO QPM 
+4. lisinopril-hydrochlorothiazide ___ mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Omeprazole 20 mg PO BID  
+2.  Simvastatin 20 mg PO QPM  
+3.  Tenofovir Disoproxil (Viread) 300 mg PO DAILY  
+4. HELD- lisinopril-hydrochlorothiazide ___ mg oral DAILY  
+This medication was held. Do not restart 
+lisinopril-hydrochlorothiazide until follow up with PCP
+
+ 
+___:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Choledocholithiasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were sent in because your MRI showed that you had 
+gallstones. These gallstones were blocking one of your bile 
+ducts.
+You had a procedure to remove the stones. You will need a repeat 
+procedure in ___ weeks to remove a stent that was placed.
+
+You should also see a surgeon to discuss having your gallbladder 
+removed (this will help prevent more problems with gallstones in 
+the future). You can discuss this more with Dr. ___.
+
+It was a pleasure taking care of you, and we are happy that 
+you're feeling better!
+ 
+Followup Instructions:
+___

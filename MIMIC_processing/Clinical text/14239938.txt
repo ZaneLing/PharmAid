@@ -1,0 +1,423 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Pt is a ___ ___ speaking man with a history of
+hypertension, BPH who presents for evaluation of syncope as well
+as left greater than right lower extremity weakness that began 
+at
+about 2 AM on the night before admission. He says he woke from
+sleeping to use the restroom and felt dizzy, as if he would 
+fall.
+He then fell to the floor, no head strike as there is no place 
+to
+hit in the bathroom. He does not recall the specifics of the
+event but does not recall that he had any chest pain,
+palpitations, shortness of breath or lightheadedness prior to 
+the
+event.  Nothing like this has ever happened to him before. He
+also complained of mild right-sided headache and left greater
+than right leg weakness since the syncopal event which resolved
+while he was in the ED. He did feel unsteady on his feet, but no
+falls. Describes intermittent dizziness as a lightheaded
+sensation, no clear triggers, not as though the room is 
+spinning.
+He denies any recent infectious symptoms, fever, cough, 
+abdominal
+pain, vomiting, diarrhea or urinary symptoms.
+
+- In the ED, initial vitals were:
+97.9 88 148/84 18 100% RA
+
+- Exam was notable for:
+General- NAD
+HEENT- PERRL, EOMI, normal oropharynx, no nystagmus
+Lungs- Non-labored breathing, CTAB
+CV- RRR, no murmurs, normal S1, S2, no S3/S4
+Abd- Soft, nontender, nondistended, no guarding, rebound or
+masses
+Msk- No spine tenderness, moving all 4 extremities 
+Neuro-A&O x3, CN ___ intact, 4 out of 5 strength in the left
+lower extremity, otherwise normal strength and sensation, normal
+speech and gait, no dysmetria, negative Romberg.
+Ext- No edema, cyanosis, or clubbing
+
+- Labs were notable for:
+
+      13.2
+5.1 > ----- < 141
+     39.0
+
+140 | 104 | 20
+----------------< 205
+3.8 | 23  | 1.1
+
+Ca: 9.1 Mg: 2.1 P: 1.8
+
+___: 12.3 
+PTT: 27.3 
+INR: 1.1 
+UA negative
+
+Trop-T: <0.01 
+
+- Studies were notable for:
++ EKG
+brady rates 47, RBBB (will compare to prior), prolonged PR, no 
+ST
+segment changes (on my read)
+
++ CXR
+In comparison with the study ___, the cardiac
+silhouette remains at the upper limits of normal or mildly
+enlarged and there is again tortuosity of the descending 
+thoracic
+aorta. There is engorgement of ill defined pulmonary vessels,
+consistent with the development pulmonary vascular congestion. 
+No
+acute focal consolidation.
+
++ CTA H&N:
+No acute intracranial hemorrhage or 1territorial infarction.
+
+CTA head and neck:
+There is no high-grade stenosis, occlusion, or aneurysmal
+dilatation of the major vessels of the head and neck.
+
+Imaged lung apices show no concerning parenchymal opacification
+or nodularity. The thyroid gland is without dominant nodule.
+
+- The patient was given:
+2 L LR
+
+- Neurology was consulted:
+unable to r/o cardiac vs central cause, recommend CT/CTA to r/o
+structural. recommend orthostatic BPs, EKG, CT/CTA
+
+On arrival to the floor, the patient endorses the above history.
+A phone interpreter was used. He reports that he takes his
+metoprolol in the morning every day and terazosin each night,
+does not miss or take any extra doses. He denies chest pain, 
+SOB.
+Says that the headache is resolved, but that the weakness in his
+left arm and leg persist. Otherwise, he has no complaints. He
+would like to go home.
+
+REVIEW OF SYSTEMS:
+==================
+Per HPI, otherwise, 10-point review of systems was within normal
+limits.
+
+ 
+Past Medical History:
+HTN
+PAD
+BPH
+ 
+Social History:
+___
+Family History:
+no family history of stroke or heart disease that he knows of
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Vitals: 
+HR: 57 BP: 152/83 RR: 16 SpO2: 98
+General: Awake, cooperative, NAD. ___ speaking only
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no nuchal rigidity
+Pulmonary: cta bilaterally 
+Cardiac: warm and well perfused
+Abdomen: soft, NT/ND, no masses or organomegaly noted.
+Extremities: No cyanosis, clubbing or edema bilaterally
+Skin: no rashes or lesions noted.
+Neuro: CN II-XII grossly in tact. ___ strength in BLE and BUE,
+DTR 2+ at biceps, DP, ___
+
+DISCHARGE PHYSICAL EXAM:
+========================
+PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 1113)
+    Temp: 98.2 (Tm 98.3), BP: 130/80 (124-155/67-80), HR: 78
+(52-78), RR: 18 (___), O2 sat: 97% (94-97), O2 delivery: RA,
+Wt: 179.01 lb/81.2 kg   
+General: Awake, cooperative, NAD. ___ speaking only
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no nuchal rigidity
+Pulmonary: cta bilaterally 
+Cardiac: warm and well perfused, rrr, soft systolic murmur
+appreciated
+Abdomen: soft, NT/ND, no masses or organomegaly noted.
+Extremities: No cyanosis, clubbing or edema bilaterally
+Skin: no rashes or lesions noted.
+Neuro: CN II-XII grossly in tact. ___ strength in BLE and BUE,
+DTR 2+ at biceps, DP, ___
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 12:58PM BLOOD WBC-5.1 RBC-4.23* Hgb-13.2* Hct-39.0* 
+MCV-92 MCH-31.2 MCHC-33.8 RDW-12.6 RDWSD-42.1 Plt ___
+___ 12:58PM BLOOD Neuts-64.6 ___ Monos-6.8 Eos-1.2 
+Baso-0.6 Im ___ AbsNeut-3.30 AbsLymp-1.36 AbsMono-0.35 
+AbsEos-0.06 AbsBaso-0.03
+___ 12:58PM BLOOD ___ PTT-27.3 ___
+___ 12:58PM BLOOD Glucose-205* UreaN-20 Creat-1.1 Na-140 
+K-3.8 Cl-104 HCO3-23 AnGap-13
+___ 06:45AM BLOOD ALT-22 AST-20 AlkPhos-45 TotBili-0.8
+___ 06:45AM BLOOD cTropnT-<0.01 proBNP-262*
+___ 12:58PM BLOOD Calcium-9.1 Phos-1.8* Mg-2.1
+
+RELEVANT INTERVAL LABS:
+=======================
+___ 06:45AM BLOOD %HbA1c-6.5* eAG-140*
+
+DISCHARGE LABS:
+===============
+___ 06:14AM BLOOD WBC-5.2 RBC-4.08* Hgb-12.7* Hct-38.2* 
+MCV-94 MCH-31.1 MCHC-33.2 RDW-12.8 RDWSD-43.8 Plt ___
+___ 06:45AM BLOOD ___ PTT-29.2 ___
+___ 06:14AM BLOOD Glucose-112* UreaN-20 Creat-1.1 Na-143 
+K-4.0 Cl-106 HCO3-25 AnGap-12
+___ 06:14AM BLOOD Calcium-8.6 Phos-3.4 Mg-2.0
+
+MICROBIOLOGY:
+=============
+___ 1:38 pm URINE
+
+   URINE CULTURE (Preliminary): 
+      KLEBSIELLA PNEUMONIAE.    10,000-100,000 CFU/mL. 
+      PSEUDOMONAS AERUGINOSA.    10,000-100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |          PSEUDOMONAS AERUGINOSA
+                             |          |   
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------  =>64 R
+CEFEPIME--------------                2 S
+CEFTAZIDIME-----------    16 I        4 S
+CEFTRIAXONE-----------  =>64 R
+CIPROFLOXACIN---------     2 I   <=0.25 S
+GENTAMICIN------------   <=1 S        2 S
+MEROPENEM-------------<=0.25 S   <=0.25 S
+NITROFURANTOIN--------    64 I
+PIPERACILLIN/TAZO-----    16 S        8 S
+TOBRAMYCIN------------     8 I      <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+REPORTS:
+=============
+___ CXR: 
+In comparison with the study ___, the cardiac 
+silhouette remains at
+the upper limits of normal or mildly enlarged and there is again 
+tortuosity of
+the descending thoracic aorta.  There is engorgement of ill 
+defined pulmonary
+vessels, consistent with the development pulmonary vascular 
+congestion.  No
+acute focal consolidation.
+ 
+___ CTA Head/Neck:
+1. No acute infarction, hemorrhage, mass or midline shift.
+2. Patent circle of ___ without evidence of 
+stenosis,occlusion,or aneurysm.
+3. Severe focal stenosis of the right vertebral artery at the 
+level of the
+right C2 transverse foramen secondary to degenerative changes.
+4. Otherwise patent bilateral cervical carotid and vertebral 
+arteries without
+evidence of stenosis, occlusion, or dissection.
+5. Paranasal sinus disease as above.
+6. Significant periodontal disease.
+
+___ Discharge ECG:
+Sinus bradycardia left axis deviation qw 1, L Left anterior 
+hemiblock/fascicular block Left ventricular hypertrophy with QRS 
+widening and/or Nonspecific intraventricular conduction delay
+
+___ TTE:
+LVEF 65%. Mildly dilated thoracic aorta. Symmetric left 
+ventricular hypertrophy with
+normal cavity size and regional/global biventricular systolic 
+function. Mild aortic regurgitation. Mild pulmonary artery 
+systolic hypertension. No structural cardiac cause of syncope 
+identified.
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL SUMMARY:
+======================
+Mr. ___ is a ___ ___ speaking male with a history 
+of hypertension and peripheral artery disease who presented with 
+an episode of loss of consciousness, leg weakness and 
+lightheadedness after micturition which lasted a few minutes and 
+improved with fluids in the ED. He had a CT and CTA of the head 
+and neck which were negative for any acute stroke and he was 
+admitted for further work-up of syncopal episode. His metoprolol 
+and terazosin was stopped as these may have contributed to his 
+fall. He remained sinus bradycardia on telemetry throughout the 
+course of his stay particularly sleeping, however he was able to 
+walk around without any issues had appropriate heart rate 
+response. He had a transthoracic echo which did not show any 
+structural causes of syncope. He was seen by neurology who did 
+not have a high suspicion of stroke or TIA, however they 
+recommended an MRI of the brain, but he did not tolerate the MRI 
+due to anxiety. It was decided to defer this to the outpatient 
+setting where he will follow up with neurology.
+
+TRANSITIONAL ISSUES:
+======================
+[] New-onset diabetes HbA1c 6.5%. Would recommend follow-up with 
+PCP.
+[] Consider starting lisinopril if needed for blood pressure 
+control in lieu of HCTZ given diabetes. 
+[] Follow-up with neurology regarding weakness. 
+[] Consider MRI brain as an outpatient if patient is agreeable 
+to evaluate for MRI. 
+[] Continue to counsel patient on counterpressure maneuvers 
+which may help prevent further reflex syncope
+[] a follow-up echocardiogram is suggested in ___ year to evaluate 
+aortic dilation. 
+
+ACUTE/ACTIVE ISSUES:
+======================
+#Micturition syncope
+Patient presented with syncopal event in the setting of 
+urination, likely exacerbated by effect of metoprolol and 
+terazosin. He had no evidence of heart block on EKG and his TTE 
+did not show any evidence of structural disease of syncope. His 
+medications were adjusted to hold his metoprolol as this is not 
+an effective blood pressure medication may contribute to syncope 
+in the first place as he was in sinus bradycardia on telemetry 
+throughout his hospital stay, and his terazosin was switched to 
+tamsulosin to minimize orthostatic hypotension. 
+
+#Left leg weakness
+Patient presented with some left leg weakness which had been 
+persisting for a few days however on exam he did not have any 
+appreciable differences in leg strength. CTA and CT of the head 
+were negative for acute stroke. He was seen by neurology who had 
+a low suspicion for TIA and recommended MRI, however patient was 
+unable to tolerate MRI due to anxiety. Further discussion with 
+neurology they were okay with deferring MRI to the outpatient 
+setting, and they will follow-up as an outpatient.
+
+#New onset type 2 diabetes
+Patient found to have a hemoglobin A1c of 6.5%. He should 
+follow-up with his PCP regarding further management and was 
+found to have 300 mg/dL's of glucose in his urine. He also had a 
+estimated average glucose of 140.
+
+CHRONIC/STABLE ISSUES:
+======================
+#Hypertension 
+Patient has history of hypertension for which he was prescribed 
+metoprolol 200 mg XL daily. This was held on admission due to 
+his low heart rates he maintained an acceptable blood pressure 
+throughout his hospitalization. If needed patient to be started 
+on an ACE inhibitor ___ as a first-line antihypertensive 
+given new onset diabetes 
+
+#BPH
+Patient was previously on terazosin, however this was held and 
+replaced with tamsulosin upon discharge.
+
+# CODE: Full confirmed
+# CONTACT: ___ ___ - DAUGHTER))
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 200 mg PO DAILY 
+2. Terazosin 5 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Tamsulosin 0.4 mg PO QHS 
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth nightly Disp #*30 
+Capsule Refills:*0 
+2. HELD- Metoprolol Succinate XL 200 mg PO DAILY  This 
+medication was held. Do not restart Metoprolol Succinate XL 
+until you talk to your doctor. It was stopped because your heart 
+rate was low causing you to faint.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+===================
+Micturition syncope
+Sinus bradycardia
+Type 2 diabetes mellitus
+
+Secondary diagnoses:
+====================
+Hypertension
+BPH
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___!
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+====================================
+You were admitted to the hospital because you fainted.
+
+WHAT HAPPENED TO ME WHILE I WAS IN THE HOSPITAL?
+================================================
+We monitored your heart for abnormal rhythms.  They did an 
+ultrasound of the heart to look for reasons why you might have 
+fainted.  We spoke to our neurology colleagues who will follow 
+you up in the outpatient setting. We adjusted several of your 
+medications to limit the amount of dizziness. 
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+===========================================
+Please take all your medications as directed
+Please follow-up with your doctors as ___
+If you feel lightheaded, dizzy, weak, have palpitations, or feel 
+chest pain or shortness of breath please call your doctor or 
+come back to the hospital.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best! 
+
+Your ___ Healthcare Team 
+ 
+Followup Instructions:
+___

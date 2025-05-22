@@ -1,0 +1,364 @@
+Name:  ___          Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain/nausea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male presenting with chest 
+pain and vomiting, which he states happened after he had a 
+banana today. Patient believes that this might have been an 
+allergic reaction to the banana. Initially, he presented to 
+urgent care, where he was found to have a systolic BP of 60 
+which improved to 110. Per patient, his normal systolic blood 
+pressure is in the 140s. 
+
+He describes the pain as right sided chest pain which was 
+associated with numbness into his right hand. Numbness has 
+decreased but is still present in his right thumb. Denies 
+abdominal pain, no numbness or tingling in any of his other 
+extremities. 
+
+In the ED, initial VS were  T 97.6, P 70, BP 101/61, RR 17, 
+O2sat 99% on RA.  
+  
+Labs showed WBC 14.1 (86% neutrophils), H/H 12.5/38.6, glucose 
+270.
+
+Imaging showed: 
+CXR- No acute cardiopulmonary process.
+
+CTA Chest/Abdomen/Pelvis: 
+1. No aortic dissection or other acute intrathoracic process.
+2. Apparent wall thickening of the gastric antrum and pylorus 
+may be secondary to underdistention, however mild gastritis 
+cannot be excluded in the appropriate clinical setting. 
+Equivocal hyperemia of of the more proximal gastric mucosa is 
+nonspecific. If patient is symptomatic, endoscopy could be 
+performed as an outpatient.
+3. Indeterminate right upper pole renal cyst, for which renal 
+ultrasound is recommended for further evaluation.
+4. Multiple additional cortical hypodensities in the right 
+kidney may represent a parapelvic cyst or a prominent collecting 
+system, and can be further assessed with renal ultrasound. 
+
+Received:
+IV MethylPREDNISolone Sodium Succ 125 mg  
+IV DiphenhydrAMINE 50 mg 
+IVF 1000 mL NS 
+
+Decision was made to admit to medicine for further management.  
+
+On arrival to the floor, patient reports that he feels much 
+better and that he is hungry. He denies any infectious or 
+localizing symptoms and denies any chest pain or trouble 
+breathing. ROS as below. 
+
+REVIEW OF SYSTEMS:  Denies fever, chills, night sweats, 
+headache, vision changes, rhinorrhea, congestion, sore throat, 
+cough, shortness of breath, chest pain, abdominal pain, nausea, 
+vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, 
+dysuria, or hematuria.  All other 10-system review negative in 
+detail.  
+ 
+Past Medical History:
+Diabetes Mellitus, type 2
+ 
+Social History:
+___
+Family History:
+Unknown, patient believes his father has hypertension. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=================================
+VS - T 98.7, BP 110/65, P 81, RR 18, O2 sat 99% on RA.  
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding 
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused
+
+DISCHARGE PHYSICAL EXAM:
+=================================
+VS - T 98.3, BP 101-118/53-74, P 62-80, RR ___, O2sat 98-100% 
+on RA
+General: well appearing, NAD  
+HEENT: MMM, EOMI  
+Neck: no JVD, no LAD  
+CV: rrr, no m/r/g  
+Lungs: CTAB, breathing comfortably  
+Abdomen: soft, nontender, nondistended, no HSM appreciated  
+Ext: warm and well perfused, pulses, no edema  
+Neuro: grossly normal  
+
+ 
+Pertinent Results:
+AT ADMISSION:
+==========
+___ 10:27AM BLOOD WBC-14.1* RBC-4.38* Hgb-12.5* Hct-38.6* 
+MCV-88 MCH-28.5 MCHC-32.4 RDW-12.9 RDWSD-41.7 Plt ___
+___ 10:27AM BLOOD Neuts-86.4* Lymphs-7.6* Monos-5.1 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-12.15* AbsLymp-1.07* 
+AbsMono-0.72 AbsEos-0.01* AbsBaso-0.04
+___ 10:27AM BLOOD ___ PTT-24.7* ___
+___ 10:27AM BLOOD Glucose-270* UreaN-24* Creat-1.1 Na-133 
+K-4.5 Cl-96 HCO3-23 AnGap-19
+___ 10:27AM BLOOD ALT-10 AST-18 AlkPhos-51 TotBili-0.4
+___ 10:27AM BLOOD cTropnT-<0.01
+___ 10:27AM BLOOD Albumin-4.2 Iron-79
+___ 10:27AM BLOOD calTIBC-285 Ferritn-41 TRF-219
+___ 03:26PM BLOOD Lactate-2.9*
+
+OTHER RELEVANT LABS:
+================
+___ 07:15AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 07:15AM BLOOD Albumin-3.4* Calcium-8.6 Phos-3.4 Mg-2.0
+___ 07:15AM BLOOD %HbA1c-6.6* eAG-143*
+___ 07:15AM BLOOD Cortsol-1.6*
+___ 06:40AM BLOOD Cortsol-9.7
+___ 07:47AM BLOOD Cortsol-19.0
+___ 09:20AM BLOOD Cortsol-23.7*
+___ 07:15AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG
+___ 08:30AM BLOOD ___ pO2-107* pCO2-52* pH-7.31* 
+calTCO2-27 Base XS-0 
+___ 09:26PM BLOOD Lactate-3.7*
+___ 08:30AM BLOOD Lactate-2.5*
+___ 03:09PM BLOOD Lactate-2.5*
+___ 07:44AM BLOOD Lactate-1.8
+
+DISCHARGE LABS:
+============
+___ 07:00AM BLOOD WBC-7.9 RBC-3.83* Hgb-11.0* Hct-33.6* 
+MCV-88 MCH-28.7 MCHC-32.7 RDW-12.9 RDWSD-41.1 Plt ___
+___ 07:00AM BLOOD Glucose-147* UreaN-13 Creat-0.9 Na-142 
+K-4.3 Cl-103 HCO3-31 AnGap-12
+___ 07:00AM BLOOD Calcium-8.9 Phos-4.2 Mg-1.9
+___ 07:00AM BLOOD Cortsol-4.5
+___ 10:05PM URINE Color-Straw Appear-Clear Sp ___
+___ 10:05PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-1000 Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 10:05PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+URINE CULTURE (Final ___:    NO GROWTH.
+
+IMAGING:
+============
+CXR (___): IMPRESSION: No acute cardiopulmonary process.
+
+CTA CHEST and CT ABDOMEN/PELVIS: 
+IMPRESSION:
+1. No aortic dissection or other acute intrathoracic process.
+2. Apparent wall thickening of the gastric antrum and pylorus 
+with equivocal nonspecific hyperemia in the more proximal 
+gastric mucosa may be secondary to underdistention, however mild 
+gastritis cannot be excluded in the appropriate clinical 
+setting.  Endoscopy could be performed as an outpatient if 
+clinically indicated.
+3. Indeterminate right upper pole renal cyst, for which 
+outpatient renal ultrasound is recommended for further 
+evaluation.
+4. Multiple additional cortical hypodensities in the right 
+kidney may represent parapelvic cysts or a prominent collecting 
+system, and can be further assessed at time of renal ultrasound.
+RECOMMENDATION(S):   Recommend outpatient renal ultrasound.
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ M with a hx of HTN, T2DM on oral 
+antihyperglycemics, who presented with vomiting and chills, with 
+slight chest pain after eating a banana. He was found to have 
+BPs in ___ (baseline 140s, confirmed by PCP office as well, 
+recently started on Lisinopril). He had an elevated lactate 
+which required fluid resuscitation and normalized. 
+
+#Hypotension and elevated lactate- Patient had a SBP of 64 in 
+the urgent care clinic after the onset of his nausea and 
+vomiting after eating a banana and had an elevated lactate at 
+admission that has since resolved after IVF resuscitation. SBPs 
+have been in the 110s, although patient's baseline per PCP and 
+patient is in the 140s. Orthostatic vital signs were normal on 
+discharge. 
+
+Broad shock w/u underwent, including   CTA to r/o 
+dissection/PE/pericardial effusion, normal pulsus, r/oMI, 
+telemetry, UA/UCx, BCx, history and physical exam not  
+remarkable for any signs of angioedema, no neurologic signs or 
+symptoms to suggest neurogenic cause, other than single episode  
+of vomiting no other signs of GI distress or severe diarrhea,  
+guaiac negative and hct stable, TSH wnl
+
+Infectious workup was unrevealing and LFTs were within normal 
+limits suggesting no acute liver injury explaining elevated 
+lactate. Toxicology workup was negative. The patient was taking 
+lisinopril 20 mg daily, which was held during this admission and 
+at discharge. Patient's blood pressures should be monitored in 
+the outpatient setting and restarted if needed and if adrenal 
+insufficiency has been excluded (see below).
+
+In the end, his hypotension was cryptogenic but we suspect 
+medication induced hypotension ___ recently uptitrated 
+lisinopril in a patient who has recently become normotensive at 
+new baseline (see below). 
+
+#Question of Adrenal Insufficiency: In the ED he received  IVF 
+and a single dose of diphenhydramine/methylprednisolone in  case 
+there was an anaphylactic component. AM cortisol on ___ was 1.6 
+and there was suspicion for adrenal insufficiency.  However, the 
+following 2 mornings AM cortisol  was >8, and a Cosyntropin 
+stimulation test showed appropriate  cortisol response.  
+However, since this was atypical, endocrinology was consulted 
+and recommended mass-spectrometry of ___ cortisol specimen. They 
+felt the initial result may be have been interference with the 
+assay and the dose of steroids. Endocrinology will plan to 
+follow-up this specimen and will contact patient if additional 
+follow-up is needed for further work-up or evaluation. 
+
+#Chest pain- Patient initially had chest pain a few hours after 
+vomiting that resolved since admission to the floor. EKG was 
+initially concerning for STE vs J point elevation, possible 
+early repolarization, but follow-up EKG was unrevealing. Trops 
+x2 negative. CT-Abdomen/Pelvis shows evidence of possible 
+gastritis, so perhaps this was gastric in origin. Consider EGD 
+in outpatient setting for gastritis.
+
+#Diabetes- Patient's medication regimen consists of metformin 
+1000 mg BID and glimepiride 2 mg daily. Per PCP ___, HgbA1c 
+was 13.6 in ___. However during this admission, HgbA1c 
+was 6.6. Patient's glipizide and metformin were held and he was 
+started on an insulin sliding scale and had QACHS fingersticks. 
+Patient required minimal doses of insulin at bedtime during 
+admission. In light of this, metformin and glimepiride were 
+discontinued. Further monitoring and management should be 
+considered in the outpatient setting. 
+
+#Anemia: unknown baseline, H/H ___ from 12.5/___.6 at 
+admission. No signs and symptoms of bleeding. Guiac stools were 
+negative and iron studies wnl. Anemia work-up should be 
+considered in the outpatient setting along with planned 
+colonoscopy. 
+
+TRANSITIONAL ISSUES:
+=======================
+-Anemia workup in the outpatient setting.
+-Routine colon cancer screening with colonoscopy and health 
+maintenance per PCP.
+-Pending labs at discharge: ACTH level (send out)
+
+-Please refer patient to further endocrinology followup
+-CTA Chest/Abdomen/Pelvis revealed: Apparent wall thickening of 
+the gastric antrum and pylorus with equivocal nonspecific 
+hyperemia in the more proximal gastric mucosa may be secondary 
+to underdistention, however mild gastritis cannot be excluded in 
+the appropriate 
+clinical setting. Endoscopy could be performed as an outpatient 
+if clinically indicated. This should be monitored and worked-up 
+in the outpatient setting. 
+
+- CTA Abdomen/Pelvis revealed indeterminate right upper pole 
+renal cyst, for which outpatient renal ultrasound is recommended 
+for further evaluation. Multiple additional cortical 
+hypodensities in the right kidney may represent parapelvic cysts 
+or a prominent collecting system, and can be further assessed at 
+time of renal ultrasound. 
+
+-Metformin and glimepiride were discontinued in the setting of 
+Hgb A1c 6.6 and mostly normal blood glucose levels. Patient only 
+required very few doses of insulin at bedtime during admission.
+-Lisinopril was discontinued in the setting of hypotension. BPs 
+should be monitored and anti-hypertensives can be added in the 
+setting of hypertension. 
+
+-Follow-up with ___ at ___ as scheduled.
+
+-Metformin and glimepiride were discontinued in the setting of 
+Hgb A1c 6.6 and mostly normal blood glucose levels. Patient only 
+required very few doses of insulin at bedtime during admission.
+-Lisinopril was discontinued in the setting of hypotension. BPs 
+should be monitored and anti-hypertensives can be added in the 
+setting of hypertension. 
+
+-Follow-up with ___ at ___ as scheduled. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. glimepiride 2 mg oral DAILY 
+3. Lisinopril 20 mg PO DAILY 
+4. MetFORMIN (Glucophage) 1000 mg PO BID 
+5. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Vitamin D 1000 UNIT PO DAILY  
+3. HELD- Lisinopril 20 mg PO DAILY  This medication was held. Do 
+not restart Lisinopril until patient has HTN.
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Hypotension
+-Lactate Elevation
+-Rule out Adrenal Insufficiency
+-Diabetes Type II
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital after you had some nausea and 
+vomiting after eating a banana. Your blood pressure was very low 
+and you had decreased blood flow to your organs. We gave you 
+lots of fluids, which helped with your blood pressure. You also 
+had some lab work that was mostly normal. 
+
+The Endocrinologists are monitoring a level called cortisol, 
+which is a hormone that affects your stress response. They will 
+contact you and schedule a follow-up appointment if there is an 
+abnormality.
+
+You should follow-up with your PCP so that your blood pressure 
+can be monitored once you leave the hospital. Your high blood 
+pressure medication was discontinued and you should stop taking 
+it until you follow-up with your PCP. Your diabetes was also 
+under good control so your medications were discontinued; please 
+follow-up with your PCP so further monitoring of your sugars can 
+be continued. 
+
+It was a pleasure taking care of you.
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

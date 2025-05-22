@@ -1,0 +1,282 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Left shoulder pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with a history of hypertension, neuropathy,
+osteoarthritis, who presented to the ED with a six week history
+of L shoulder pain, with outpatient imaging concerning for a 
+left
+scapular fracture. Per patient and family ( 2 children at
+bedside), she has had 6 weeks of left shoulder pain which has
+started since she had her shingles vaccination in her left arm,
+which was accompanied by pain in her arm and shoulder. She
+reports pain in the area throughout the last six weeks that has
+worsened to the point she in unable to move her left arm. An
+X-ray of her shoulder was taken at her senior living facility
+___ ___ in ___) which revealed a fracture of
+the superior scapular body and spine. Upon admission, her pain
+was a ___. She is unable to move her arm and reports that it
+has been tender to palpation.
+ 
+Past Medical History:
+Past Medical History:
+CERVICAL SPONDYLOSIS                                            
+NEUROPATHY                                                      
+OSTEOARTHRITIS                                                  
+ACROCHRODON 701.9                                               
+ACTINIC KERATOSIS                                               
+LENTEGINES 709.09                                               
+SEBORRHEIC KERATOSIS                                            
+CYST EPIDERMOID/SEB                                             
+DERMATOFIBROMA                                                  
+CHRONIC SUN DAMAGED SKIN                                        
+HYPERTENSION                                                    
+MILIUM                                                          
+SEBORRHEIC KERATOSIS, INFLAMED                                  
+GAIT DISORDER                                                   
+FOOT PAIN                                                       
+SKIN CANCERS                                                    
+BRACHIORADIAL PRURITUS                                          
+R ROTATOR CUFF ARTHROPATHY                                      
+
+Past Surgical History:
+SQUAMOUS CELL CARCINOMA (R Anterior Shoulder) ___      
+TONSILLECTOMY                                                  
+CATARACT SURGERY             
+ 
+Social History:
+___
+Family History:
+N/A
+ 
+Physical Exam:
+Admission Physical Exam:
+Vitals: 
+Gen: Generally well-appearing, though in pain.
+HEENT:  Pupils round and equally reactive to light.
+CV: Regular rate and rhythm, S1/S2, no murmurs, rugs, or gallops
+Respiratory: Normal WOB, CTAB, no wheezing/rales/ronchi 
+GI: Soft, nontender, nondistended, no rebound or guarding,
+normoactive bowel sounds, no palpable masses.
+MSK: Tenderness to palpation on the superior surface of the L
+shoulder.
+Skin: No obvious ecchymoses.
+Spine: Point tenderness in the upper lumbar spine.
+Extremities: 1+ pitting edema
+
+Discharge:
+24 HR Data (last updated ___ @ 2333)
+    Temp: 97.8 (Tm 98.4), BP: 136/80 (94-139/52-81), HR: 85
+(71-85), RR: 19 (___), O2 sat: 97% (94-97), O2 delivery: RA
+Gen: [x] NAD, [] AAOx3
+CV: [x] RRR, [] murmur
+Resp: [x] breaths unlabored, [] CTAB, [] wheezing, [] rales
+Abdomen: [x] soft, [] distended, [] tender, [] rebound/guarding
+Ext: [x] warm, [] tender, [] edema; TTP over left scapula
+ 
+Pertinent Results:
+Imaging:
+X-ray (___): Minimally displaced fracture involving the
+superior scapular body and spine. No evidence 
+
+___ CT Head: 
+There is no evidence of acute intracranial process or 
+hemorrhage. No fractures are identified. 
+
+___ CT C-Spine:
+1. No fracture or malalignment. 
+2. Severe multilevel degenerative changes of the cervical spine, 
+worse at C4-5 and C5-6. 
+
+___ CT Chest:
+1. Again seen is a moderately displaced, obliquely oriented 
+acute fracture 
+traversing near the insertion of the left scapula spine onto the 
+body.  No 
+other fractures seen.  However, given severe multilevel 
+degenerative changes of the thoracolumbar spine, if there is 
+focal point tenderness along the spine, recommend further 
+evaluation with MRI. 
+2. 1.1 cm right upper lobe lung nodule.  Recommend follow-up CT 
+in 3 months, a PET-CT, or tissue sampling. 
+
+___ Knee Xray:
+1. No fracture or dislocation. 
+2. Chronic medial femoral condyle osteochondral lesion. 
+
+___ 08:45PM BLOOD WBC-8.8 RBC-4.07 Hgb-11.7 Hct-36.4 MCV-89 
+MCH-28.7 MCHC-32.1 RDW-14.8 RDWSD-48.4* Plt ___
+___ 09:02PM BLOOD ___ PTT-30.5 ___
+___ 08:45PM BLOOD Glucose-126* UreaN-15 Creat-1.1 Na-136 
+K-4.9 Cl-101 HCO3-23 AnGap-12
+___ 08:28AM BLOOD CK(CPK)-211*
+___ 08:45PM BLOOD ALT-17 AST-44* CK(CPK)-158 AlkPhos-65 
+TotBili-0.5
+___ 08:45PM BLOOD Lipase-17
+___ 03:47PM BLOOD cTropnT-0.07*
+___ 08:28AM BLOOD cTropnT-0.06*
+___ 02:20AM BLOOD cTropnT-0.06*
+___ 08:45PM BLOOD cTropnT-0.05*
+___ 11:50PM URINE Color-Colorless Appear-CLEAR Sp 
+___
+
+Micro:
+___ 11:50 pm URINE     Site: NOT SPECIFIED
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH FECAL
+      CONTAMINATION. 
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo F who has presents with left shoulder pain 
+and an xray taken at her sernior living facility revealed a 
+fracture of the superior scapular body and spine. She denies 
+recent fall or trauma but did have a fall in ___ with a 
+left rotator cuff injury. Orthopedic surgery was consulted and 
+after reviewing imaging and physical exam, recommended 
+non-operative management with a sling and weightbearing and 
+mobility as tolerated. She was admitted to the trauma service 
+for pain control and care planning. Pain was managed with oral 
+Tylenol and a lidocaine patch. She tolerated a regular diet 
+without difficulty. The patient voided without problem. During 
+this hospitalization, the patient ambulated early and 
+frequently, was adherent with respiratory toilet and incentive 
+spirometry, and actively participated in the plan of care. The 
+patient received subcutaneous heparin and venodyne boots were 
+used during this stay.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a regular 
+diet, ambulating with assistance, voiding without assistance, 
+and pain was well controlled.  The patient was discharged to a 
+rehabilitation center to further assist with her mobility. A 
+follow-up appointment was made with the Orthopedic service.  The 
+patient received discharge teaching and follow-up instructions 
+with understanding verbalized and agreement with the discharge 
+plan.
+
+ 
+Medications on Admission:
+Medications - Prescription
+ALENDRONATE - alendronate 70 mg tablet. TAKE 1 TABLET EVERY WEEK 
+ONEMPTY STOMACH ON ARISING;  WAIT ___ MINUTESBEFORE     
+EATING/LYING.
+ATORVASTATIN - atorvastatin 80 mg tablet. TAKE 1 TABLET BY MOUTH 
+EVERY DAY
+METOPROLOL SUCCINATE - metoprolol succinate ER 50 mg 
+tablet,extended release 24 hr. 1 tablet(s) by mouth once a day
+OMEPRAZOLE - omeprazole 20 mg capsule,delayed release. 1 
+CAPSULE(S) BY MOUTH ONCE A DAY
+ furosemide
+furosemide 20 mg tablet
+1 Tablet by mouth once a day x 3 days, then ___
+
+Medications - OTC
+CALCIUM CARBONATE-VITAMIN D3 - calcium carbonate 600 mg (1,500 
+mg)-vitamin D3 400 unit tablet. 1 Tablet(s) by mouth twice a day 
+with food -  (OTC)
+PRAMOXINE [SARNA SENSITIVE] - Sarna Sensitive 1 % lotion. Apply 
+to affected twice a day as needed
+VIT A,C AND E-LUTEIN-MINERALS [OCUVITE WITH LUTEIN] - Ocuvite 
+with Lutein 1,000 unit-200 mg-60 unit-2mg tablet. 1 tablet(s) by 
+mouth once a day -  (OTC)
+
+ 
+Discharge Medications:
+1.  Alendronate Sodium 70 mg PO QMON 
+Takes weekly.  
+2.  Atorvastatin 80 mg PO QPM  
+3.  calcium carbonate-vitamin D3 600 mg(1,500mg) -400 unit oral 
+DAILY  
+4.  Furosemide 20 mg PO 3X/WEEK (___)  
+5.  Metoprolol Succinate XL 50 mg PO DAILY  
+6.  Ocuvite with Lutein (vit A,C and E-lutein-minerals) 1,000 
+unit-200 mg-60 unit-2 mg oral DAILY  
+7.  Omeprazole 20 mg PO DAILY  
+8.  Sarna Lotion 1 Appl TP BID:PRN itching  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+left displaced scapular body fracture
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the Acute Care Surgery Service on ___ 
+after a fall sustaining a fracture in your left scapula also 
+known as the shoulder bone or shoulder blade. You were seen and 
+evaluated by the orthopedic surgeon who recommend non-operative 
+management with a sling for comfort. You can use your left arm 
+as tolerated. You were seen by the physical therapist who 
+recommend you are discharged from the hospital to rehab.
+
+You are now doing better and ready to be discharged to rehab to 
+continue your recovery. 
+
+Please note the following discharge instructions:
+
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain in not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids. 
+
+ 
+Followup Instructions:
+___

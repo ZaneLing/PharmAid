@@ -1,0 +1,363 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L-sided neck swelling
+ 
+Major Surgical or Invasive Procedure:
+Biopsy L neck mass (___)
+Biopsy L neck mass (___)
+
+ 
+History of Present Illness:
+___ year-old male, never smoker, with hx of latent TB s/p 
+treatment p/w L neck swelling and was transferred to ___ for 
+further evaluation.
+
+He first noticed a small ? cyst in the left neck area while he
+was outside shoveling snow. More recently, this has rapidly 
+grown
+significantly in size with progressively worsening neck 
+swelling,
+but without SOB, change in voice, inability handling oral
+secretions, or suffocation. He denies frank pain involving the
+area, but does note tenderness to palpation. He hasn't had 
+fevers
+that he knows of. He denies history of subacute weight loss or
+other new symptoms. He has never smoked. At OSH, he underwent CT
+neck which showed a cystic mass in the left neck. Prior to
+transfer to ___, he received 10g IV decadron and 3g Unasyn. 
+
+In the ED: 
+VS: 
+ >Yest ___ 72 130/82 16 100% RA 
+ >Today ___ 70 119/70 18 100% RA 
+PE: Left anterior neck with 3 cm indurated mass, no fluctuance,
+tender, no overlying skin change. Able to range neck in all
+directions without pain. Oropharynx within normal limits
+Labs: WBC 11.5, BCx drawn
+Imaging: CT from OSH was uploaded into EMR
+Impression: cystic neck mass / abscess 
+Interventions: Unasyn 3g x1, 1L NS
+Consults: ENT recommended ___ drainage with FNA for cx/cytology,
+IV unasyn, If improved 24h IV abx, DC w Augmentin and close
+clinic ___  
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+Latent TB s/p treatment (~ ___ years ago)
+ 
+Social History:
+___
+Family History:
+Father with scrofula, s/p treatment.
+ 
+Physical Exam:
+ADMISSION:
+==========
+VITALS: Temp: 97.6 PO BP: 126/79 R Lying HR: 88 RR: 16 O2 sat:
+95% O2 delivery: RA Dyspnea: 0 RASS: 0 Pain Score: ___ 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema. Oropharynx without
+visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, FROM with 
+SKIN: moderately sized indurated mass on the left side without
+fluctuance. + tenderness to palpation
+NEURO: Alert, oriented, face symmetric, speech fluent, moves all
+limbs
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE:
+===========
+Temp: 97.7 PO 113 / 74 67 18 99 Ra  
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema. OP clear. 
+NECK: L neck mass less indurated/stable and improving, now
+immobile, firm, ~2x2cm, non-tender without overlying erythema or
+drainage
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+NODES: no significant cervical/clavicular/axillary/inguinal LAD
+MSK: extremities warm without edema
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+ADMISSION:
+==========
+___ 09:45PM BLOOD WBC-11.5* RBC-4.53* Hgb-13.8 Hct-40.2 
+MCV-89 MCH-30.5 MCHC-34.3 RDW-12.6 RDWSD-40.9 Plt ___
+___ 09:45PM BLOOD Neuts-85.3* Lymphs-11.0* Monos-2.9* 
+Eos-0.3* Baso-0.2 Im ___ AbsNeut-9.80* AbsLymp-1.26 
+AbsMono-0.33 AbsEos-0.03* AbsBaso-0.02
+___ 09:45PM BLOOD Glucose-130* UreaN-13 Creat-0.9 Na-140 
+K-4.7 Cl-102 HCO3-23 AnGap-15
+___ 06:47AM BLOOD ALT-79* AST-49* AlkPhos-81 TotBili-0.7
+___ 06:13AM BLOOD calTIBC-265 Ferritn-438* TRF-204
+___ 10:00PM BLOOD Lactate-1.2
+
+HIV Ag/Ab: neg
+HIV VL: neg
+Q-gold: pending
+EBV Ab: neg
+CMV Ab: pending
+RPR: neg
+
+BCx (___): negative x 2
+
+Core biopsy L neck mass (___): 2+ PMNs, no organisms; Cx 
+pending
+Path: pending
+Cytology: pending
+
+Core biopsy L neck mass (___): Gram stain with no PMNs or
+oganisms; Cx no growth, AFB negative, Fungal cx pending
+Path: 
+Lymph node with reactive changes and adjacent areas of necrosis.
+Note: Sections show a dense population of lymphoid cells admixed
+with scattered plasma cells. The lymphocytes are small and 
+mature
+in appearance with dense chromatin and inconspicuous nucleoli,
+and the plasma cells are small with fine chromatin and multiple
+nucleoli. There are no large, atypical cells seen within the
+section. Two areas of necrosis are seen adjacent to the lymphoid
+population. By immunohistochemistry, CD3 and CD5 highlight
+T-cells which represent the majority of the lymphocytes. CD20
+highlights B-cells in groups and scattered throughout the core.
+CD23 highlights intact follicular dendritic meshworks with
+correspond to the CD20 positive groups of B-cells, most likely
+representing primary follicles. CD10 and BCL1 are negative. 
+CD138
+highlights scattered plasma cells which are polytypic by kappa
+and lambda stains. The proliferation fraction by KI67 staining 
+is
+lower than 10%.
+Overall, the morphological and immunophenotypic features are
+consistent with a reactive lymph node. However, given the
+adjacent areas of necrosis and the clinical presentation of an
+enlarging mass, a primary head and neck tumor should be 
+excluded.
+
+STUDIES:
+========
+Core biopsy L neck mass (___):
+Using ultrasound guidance, a 5cm coaxial device was introduced
+into the mass and  4 20mm cores were obtained from the mass 
+using
+18 gauge needles. The first two samples were submitted to the
+pathology on site team. The third sample was sent for
+microbiology in a sterile dry container. The fourth sample was
+put into a container for flow cytometry. 
+IMPRESSION:  
+Technically successful repeat core biopsy  of the LEFT NECK 
+MASS.
+No periprocedural complications. Pathology and Microbiology are
+pending 
+
+Attempted FNA L neck mass (___):
+The site was prepped and draped in the usual sterile fashion.  
+10
+cc of 1%  lidocaine were administered to the subcutaneous and
+deep tissues for local anesthetic effect. Under continuous
+ultrasound guidance, a 25 gauge needle was advanced into the
+collection, for attempt at fine needle aspiration. However, no
+fluid could be aspirated.  Therefore, the decision was made to 
+proceed with core biopsy of the solid/cystic collection.  An 18
+gauge core biopsy device with a 22 mm throw was used to obtain 4
+core biopsy specimens, which were sent for pathology and
+microbiology. 
+FINDINGS:  
+Left submandibular mixed echogenicity collection measuring 3.7 x
+3.8 x 2.8 cm. This was targeted for ultrasound-guided core
+biopsy.  
+IMPRESSION:  
+Successful ultrasound-guided core biopsy of the left
+submandibular mixed solid/cystic collection, with sample sent 
+for
+microbiology and pathology evaluation. 
+
+Neck CT ___, ___:
+Corresponding to the palpable abnormality is a hypointense rim
+enhancing structure 32 mm x 43 mm x 48 mm (AP by TRV by cc)
+anterior medial to the left sternocleidomastoid muscle, with
+diffuse surrounding inflammatory changes and multiple 
+surrounding
+enhancing lymph nodes measuring up to 5-6 mm in size.  This is
+most consistent either with infected second branchial cleft cyst
+versus abscess. The left jugular vein abuts the posterior medial
+aspect of the structure and is being compressed. Left
+submandibular gland being displaced anteroinferiorly.
+Skull base:  The skull base appears normal.  The visualized 
+brain
+and extra-axial spaces appear unremarkable.
+Orbits:  The visualized inferior portions of the orbits appear
+normal.
+Paranasal sinuses:  The visualized portions of the paranasal
+sinuses are clear.
+Salivary Glands:  The parotid, submandibular and sublingual
+glands are normal and symmetric.
+Nasopharynx:  The nasopharynx appears normal without evidence of
+a mass. Suprahyoid neck:  The oropharynx, oral cavity,
+parapharyngeal and retropharyngeal spaces appear normal
+Infrahyoid neck:  The hypopharynx, larynx, and subglottic 
+trachea
+appear normal
+Thyroid:  The thyroid gland appears normal.
+Thoracic inlet:  The thoracic inlet appears normal
+Lymph nodes:  There are no enlarged lymph nodes by CT size
+criteria.
+Vascular structures:  No significant abnormality.
+Lung apices:  Unremarkable
+Bones:  The bones of the cervical spine appear unremarkable.
+IMPRESSION:
+Infected left branchial cleft cyst versus abscess, with
+surrounding reactive lymph nodes and left internal jugular vein
+compression.
+
+DISCHARGE:
+==========
+___ 07:57AM BLOOD WBC-8.9 RBC-4.71 Hgb-14.1 Hct-41.6 MCV-88 
+MCH-29.9 MCHC-33.9 RDW-11.9 RDWSD-38.9 Plt ___
+___ 09:20AM BLOOD Glucose-106* UreaN-14 Creat-1.0 Na-142 
+K-4.5 Cl-101 HCO3-28 AnGap-13
+
+AFB neg x3 on concentrated smear
+NAAT test pending
+ 
+Brief Hospital Course:
+___ year-old male with no significant past medical history who 
+presents with L-sided neck mass with CT initially concerning for 
+neck abscess, treated with Unasyn and s/p attempted FNA ___ 
+consistent with necrotic lymph node and core biopsy ___.
+                                       
+# L-sided neck lesion:
+# Leukocytosis:
+Patient p/w 4 weeks of neck swelling with 2 weeks of pain. 
+Received decadron prior to transfer, but no concern for airway 
+compromise. Imaging initially c/f abscess vs superinfected 
+brachial cleft cyst vs malignancy. Seen by ENT and underwent 
+attempted ___ FNA on ___. No fluid could be aspirated, 
+and the procedure was converted to a successful core biopsy. 
+Gram stain, bacterial culture, and AFB preliminarily negative; 
+fungal culture pending. Pathology from that specimen is 
+consistent with a necrotic lymph node, making abscess less 
+likely. No evidence of lymphoma seen. Ddx includes head/neck 
+malignancy (e.g SCC) in this Asian male, but tissue was all 
+lymphoid and could not be stained for carcinoma. He therefore 
+underwent a repeat core biopsy on ___, sent for micro, path, 
+and cytology. Infectious considerations include TB (particularly 
+given his recently-reported hx of latent TB and father with 
+remote scrofula, ___ travel, and coughing), less likely 
+histoplasma or viral etiologies. HIV negative (including viral 
+load). ID was consulted and recommended isolation and TB rule 
+out. He had 3 __neg __ AFBs, and CXR showed no e/o pulmonary TB. 
+Stains on the biopsy specimens for AFB, fungi, and EBV were 
+pending at the time of discharge, as were __infectious studies 
+___. He will f/u with ___ ENT on ___, at which time the 
+results of his second biopsy should be available. If 
+inconclusive, he may warrant an excisional biopsy to exonerate 
+head/neck malignancy. He was treated with Unasyn (___) with 
+resolution of his pain and leukocytosis and was transitioned to 
+Augmentin to complete a course through ___.
+- NAT test from ___ pending at discharge for TB.  He was 
+instructed to wear a surgical mask and stay homebound until this 
+returns, and to avoid public spaces and work.  His ___ month old 
+daughter will not stay with him until this is negative
+- pending tests as above
+- ENT and PCP follow up arranged.
+- bx pending
+
+# Normocytic anemia:
+# Hematochezia:
+Hgb 13.8 on admission, dropped to 12.9 on ___, normalized 
+without intervention. Likely lower GI bleed in setting of 
+patient-reported painless hematochezia over the last year. No 
+external hemorrhoids on exam. Ddx includes internal hemorrhoids, 
+diverticulosis, AVM, malignancy. Low suspicion for active 
+bleeding. He will require an outpatient colonoscopy.
+
+# Transaminitis:
+Unclear etiology and no recent baseline.  Improved. Would 
+benefit from repeat LFTs as outpatient.
+
+** TRANSITIONAL **
+[ ] ENT f/u arranged for ___ (___)
+[ ] repeat LFTs as outpatient
+[ ] outpatient colonoscopy
+[ ] f/u several pending tests as noted above
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 5 Days 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet by mouth 
+twice a day Disp #*10 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+L neck mass
+
+Secondary:
+Hematochezia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital for a mass in your neck. You 
+underwent two biopsies of the mass and the results on pending on 
+discharge.  There are other tests pending as well and close 
+follow up with your PCP and ENT as scheduled is recommended.  
+you will complete a course of antibiotics.
+
+In addition, you were found to have blood in your stool. You 
+will need a colonoscopy, which your primary care doctor can 
+arrange.
+
+Finally, given your history we ruled you out for Tuberculosis.  
+The sputum smears were negative but we are awaiting DNA results 
+from the Dept of Public Health.  As we discussed, please wear a 
+surgical mask at home until these results returned.  Please stay 
+home as much as possible, we recommend against working.  Please 
+keep your child away until these results return.  Please avoid 
+public spaces and old or chronically sick people.
+
+Best wishes,
+___ Medicine
+ 
+Followup Instructions:
+___

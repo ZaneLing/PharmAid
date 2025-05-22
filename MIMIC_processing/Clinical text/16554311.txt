@@ -1,0 +1,299 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with history of hypertension 
+and venous insufficiency s/p radioablation of bilateral GSV 
+___ left, ___ right) presenting with 3 days of fever and 
+chills. Two days prior to presentation, she had fevers up to 102 
+and chills which improved w/ Tylenol and ibuprofen. The patient 
+went to ___ clinic, where they were worried about 
+cellulitis and
+sent her to the ED. She endorses worsening right leg tenderness, 
+erythema, and warmth to the touch. The erythema started the day 
+prior to presentation and has worsened today. She notes SOB w/ 
+the fever, as well as headache and lightheadedness. No nausea, 
+vomiting, dysuria, constipation.
+
+In the ED, initial vitals were: T 96.2, HR 80, BP 146/104, RR 
+20, SpO2 99% RA 
+
+Exam was notable for:
+-R lower leg below the knee erythematous tender warm
+
+Labs were notable for: (use specific numbers)
+-WBC: 7.6
+-BUN 12, Cr 0.7
+-Lactate 1.1
+
+Studies were notable for: 
+-Right ___: No DVT within the right lower extremity. Limited 
+evaluation of the calf veins. Mild edema in the right calf.
+
+-CXR: Large hiatal hernia, otherwise unremarkable. No signs of 
+pneumonia.
+
+The patient was given:
+- IV vancomycin 1000mg Q8H, IV ceftriaxone 1g Q24H, po 
+hydrochlorothiazide 25mg, po lisinopril 10mg
+
+Consults:
+- Vascular surgery: admit to medicine for IV antibiotics, no 
+surgical indication at this point
+
+On arrival to the floor, patient states that she feels well. She 
+feels that her erythema might have improved somewhat with the 
+antibiotics but not significantly. Denies any further fevers. 
+Feels well overall. No questions or complaints. 
+ 
+Past Medical History:
+- Hypertension
+- Chronic venous insufficiency s/p radioablation of bilateral 
+GSV ___ left, ___ right)
+- Obesity
+- Hyperlipidemia
+ 
+Social History:
+___
+Family History:
+Non-contributory to this presentation. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: ___ Temp: 98.6 PO BP: 119/78 L Lying HR: 93 
+RR:
+18 O2 sat: 94% O2 delivery: RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: Right lower extremity with chronic venous stasis
+changes with erythema and warmth radiating up her right leg.
+Markings made in ED show contained erythema. No purulent
+drainage. Left lower extremity with chronic venous stasis
+changes.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: 24 HR Data (last updated ___ @ 459)
+    Temp: 98.7 (Tm 98.7), BP: 113/76 (105-137/54-77), HR: 81
+(78-111), RR: 18 (___), O2 sat: 93% (92-96), O2 delivery: RA  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: RRR
+LUNGS: CTAB
+ABDOMEN: NTND
+EXTREMITIES: Right lower extremity with chronic venous stasis
+changes with erythema and warmth radiating up her right leg.
+Markings made in ED show erythema markedly reduced from prior. 
+No
+purulent drainage. Left lower extremity with chronic venous
+stasis changes.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+============================
+___ 10:50AM BLOOD WBC-7.6 RBC-4.53 Hgb-12.2 Hct-39.7 MCV-88 
+MCH-26.9 MCHC-30.7* RDW-14.3 RDWSD-45.8 Plt ___
+___ 10:50AM BLOOD Neuts-81.2* Lymphs-12.1* Monos-6.1 
+Eos-0.1* Baso-0.1 Im ___ AbsNeut-6.17* AbsLymp-0.92* 
+AbsMono-0.46 AbsEos-0.01* AbsBaso-0.01
+___ 10:50AM BLOOD Glucose-107* UreaN-12 Creat-0.7 Na-139 
+K-4.6 Cl-102 HCO3-22 AnGap-15
+___ 10:57AM BLOOD Lactate-1.1
+
+DISCHARGE LABS:
+==========================
+___ 08:05 
+COMPLETE BLOOD COUNT 
+White Blood Cells 7.0 4.0 - 10.0 K/uL W 
+Red Blood Cells 4.50 3.9 - 5.2 m/uL W 
+Hemoglobin 11.9 11.2 - 15.7 g/dL W 
+Hematocrit 39.3 34 - 45 % W 
+MCV 87 82 - 98 fL W 
+MCH 26.4 26 - 32 pg W 
+MCHC 30.3* 32 - 37 g/dL W 
+RDW 14.2 10.5 - 15.5 % W 
+RDW-SD 45.6 35.1 - 46.3 fL W 
+BASIC COAGULATION ___, PTT, PLT, INR) 
+Platelet Count ___ K/uL 
+
+___ 08:05 
+Report Comment: 
+Moderately Hemolyzed Specimen 
+RENAL & GLUCOSE 
+Glucose 132* 70 - 100 mg/dL W 
+  If fasting, 70-100 normal, >125 provisional diabetes 
+Urea Nitrogen ___ mg/dL W 
+Creatinine 0.8 0.4 - 1.1 mg/dL W 
+Sodium ___ mEq/L W 
+Potassium 5.4 3.5 - 5.4 mEq/L W 
+  Hemolysis falsely elevates this test 
+Chloride ___ mEq/L W 
+Bicarbonate 20* 22 - 32 mEq/L W 
+Anion Gap ___ mEq/L W 
+CHEMISTRY 
+Calcium, Total 9.2 8.4 - 10.3 mg/dL W 
+Phosphate 4.7* 2.7 - 4.5 mg/dL W 
+Magnesium 2.1 1.6 - 2.6 mg/dL  
+
+MICROBIOLOGY
+=========================
+___ 12:45 pm URINE
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+___ 10:50 am BLOOD CULTURE
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+IMAGING/STUDIES:
+===============================
+RLE ULTRASOUND ___:
+IMPRESSION: 
+No DVT within the right leg
+
+CXR ___:
+IMPRESSION: 
+Large hiatal hernia, otherwise unremarkable.  No signs of 
+pneumonia.
+ 
+Brief Hospital Course:
+___ is a ___ yo F with PMH HTN and venous insufficiency 
+s/p radioablation of bilateral GSV ___ left, ___ right) who 
+presented on ___ with 3 days of fever and chills, and 
+worsening right leg warmth, tenderness, and erythema. Patient 
+was started on IV vancomycin/ceftriaxone in the ED. Her 
+cellulitis symptoms improved, and she was transitioned to PO 
+Keflex/Bactrim prior to discharge. Patient was afebrile, 
+hemodynamically stable, without a leukocytosis throughout her 
+hospitalization. 
+
+TRANSITIONAL ISSUES:
+====================
+[] Will need to continue cephalexin 500mg q 6 hours and Bactrim 
+2 tabs BID for total 10 days (Start date ___, end date ___
+[] Would monitor for recurrence of cellulitis after the 
+completion of antibiotics 
+[] CTM lytes while on ACEi and HCTZ
+[] The patient did not require diuretics during this admission. 
+Given her recurrent cellulitis, would likely expect some 
+swelling as an outpatient 
+
+ACUTE/ACTIVE ISSUES:
+====================
+# Cellulitis
+Patient presented with right lower extremity erythema and pain 
+after undergoing radiofrequency ablation of right GSV on ___ 
+(she also underwent RFA of left FSV on ___. She also reported 
+fevers and chills. LENIs in ED without evidence of DVT. She was 
+also seen by the vascular team in the ED who recommended abx and 
+no surgical intervention indicated. Patient was admitted to the 
+medicine service for IV antibiotics (vancomycin/ceftriaxone). 
+Her cellulitis symptoms significantly improved, and she was 
+transitioned to PO Keflex/Bactrim on ___. Patient was afebrile, 
+hemodynamically stable, without a leukocytosis throughout her 
+hospitalization. Blood cultures were without growth. On day of 
+discharge her cellulitis was markedly improved with resolving 
+erythema and warmth. She will go home on cephalexin and Bactrim 
+for total ___HRONIC/STABLE ISSUES:
+======================
+# Hypertension: BPs were low 100s-140s/ 50s-70s during 
+admission. She was continued on her home lisinopril, HCTZ
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Furosemide 20 mg PO DAILY:PRN swelling 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Lisinopril 10 mg PO DAILY 
+4. Ferrous Sulfate 325 mg PO DAILY 
+5. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Cephalexin 500 mg PO QID 
+RX *cephalexin 500 mg 1 capsule(s) by mouth four times a day 
+Disp #*32 Capsule Refills:*0 
+2.  Sulfameth/Trimethoprim DS 2 TAB PO BID 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 2 tablet(s) by 
+mouth twice a day Disp #*32 Tablet Refills:*0 
+3.  Hydrochlorothiazide 25 mg PO DAILY  
+4.  Lisinopril 10 mg PO DAILY  
+5.  Vitamin D 1000 UNIT PO DAILY  
+6. HELD- Ferrous Sulfate 325 mg PO DAILY  This medication was 
+held. Do not restart Ferrous Sulfate until you talk with your 
+primary care doctor 
+7. HELD- Furosemide 20 mg PO DAILY:PRN swelling  This medication 
+was held. Do not restart Furosemide until you talk with your 
+primary care doctor 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Cellulitis
+#Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+- You were having fevers and chills. You also had worsening 
+pain, redness, and warmth in your right leg. 
+
+What did you receive in the hospital?
+- You received antibiotics to treat a skin infection of your 
+right leg. 
+
+What should you do once you leave the hospital?
+- Please take your medications as prescribed and go to your 
+future appointments which are listed below.
+
+We wish you all the ___!
+- Your ___ Care Team
+ 
+Followup Instructions:
+___

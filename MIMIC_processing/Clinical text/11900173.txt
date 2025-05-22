@@ -1,0 +1,499 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+All allergies / adverse drug reactions previously recorded have 
+been deleted
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, hematuria
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is a ___ with PMHx ulcerative colitis (on remicaide as of
+the end of ___ and celiac disease who presents as
+referral from his Urgent Care due to transaminitis and
+hyperbilirubinemia.  
+
+Pt states he has been in his usual state of health over the past
+6 weeks.  He started on infliximab around the time of ___
+of this year.  Since starting infliximab, his stool frequency 
+and
+consistency have generally stayed the same ___ stools per day,
+fairly solid).  Approximately 3 days ago (___), Pt had an
+episode of constant epigastric abdominal pain, "sharp," that was
+consistent with his prior UC flares.  Given that he thought he
+had a flare, he was determined to just "ride it out" and let the
+pain subside on its own.  He did not take any pain medicine for
+this; he generally does not when he has UC flares.  Nothing in
+particular made it worse.  The pain resolved after about a day.
+
+Two days prior to arrival (___), patient started to have dark
+"amber" colored urine.  He started drinking a lot of water (4L
+per his account) and it only turned yellow, instead of clear.  
+He
+also began to have some light-colored stools; he thought it was
+attributed to his fairly bland diet of rice/bananas (which he
+started the preceding day due to believing he had a UC flare). 
+However, he presented to his local Urgent Care for further
+evaluation.
+
+Pt reports he took 650mg of acetaminophen today for a headache.  
+
+
+In the ED, initial VS were:  T 98.5 BP 218/110 HR 100 RR 16 O2
+100% on RA
+Exam notable for:  
+Subtle scleral icterus appreciated. Abdomen nontender.
+Well-appearing but anxious. Tachycardic, but patient admits that
+he is very stressed out currently.
+Labs showed:  
+-ALT 485, AST 110, ALP 168, Tbili 4.1 / Dbili 3.3 (baseline from
+CHA ___:  ALT 34, AST 18, ALP 72, Tbili 0.4 / Dbili 0.1)
+-CK 88
+-HBV screening panel, HAV (panel and IgM), AMA, smooth, ___, HCV
+all pending
+-Ferritin pending
+-INR 1.1
+
+Imaging showed:  
+RUQUS (___):
+1. Mildly echogenic liver, which may represent steatosis. Other
+forms of liver 
+disease including steatohepatitis, hepatic fibrosis, or 
+cirrhosis
+cannot be 
+excluded on the basis of this examination. 
+2. No cholelithiasis or evidence of intrahepatic or extrahepatic
+biliary 
+ductal dilatation. 
+
+Consults:  
+-Hepatology:  
+"Concern for PSC, vs AIH vs viral. Given immunosuppression also
+concern of CVM, EBV, HSV. Will recommend admission to medicine
+for complete workup.
+ -HAV, HBV, HCV, CMV viral load, IgG and IgM, EBV IgG and IgM,
+HSV 
+ -___, AMA, ___
+ -Ceruloplasmin, ferritin, alpha1 antitrypsin
+ -Recommend MRCP
+ -Pending above workup likely may require liver biopsy."
+Patient received:  Nothing
+ 
+Transfer VS were:  T 98.7 BP 132/93 HR 84 RR 16 O2 99% on RA
+
+On arrival to the floor, patient reports the above history.  He
+is particularly concerned about drug-induced liver injury.  
+These
+symptoms of abdominal pain, jaundice, and elevated LFT's are
+similar to those that he had prior to two previous episodes of
+suspected DILI (one before when on high-dose asacol [4800mg
+daily]; one when on azathioprine).  He notes that his previous 
+GI
+in ___ had worried about PSC and obtained an MRCP and
+abdominal ultrasound some time in ___, which did not show any
+findings concerning for same.  
+
+Pt notes associated nausea (which he attributes to drinking
+almost 4L of water very quickly), a cough productive of clear
+sputum, and runny/stuffy nose (has been happening since
+initiation of infliximab).  He denies any fevers/chills, changes
+in appetite, dizziness/lightheadedness, melena, hematochezia, or
+hematuria.
+
+His wife, ___, is at the bedside with him.  She says that he
+has not been more confused or "not himself" of late.
+ 
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as
+per HPI  
+ 
+Past Medical History:
+Ulcerative colitis since ___, patient ___ recently 
+started on infliximab in ___
+Celiac disease, diet controlled
+ 
+Social History:
+___
+Family History:
+Mother's side of the family with breast cancer.  Mother has
+celiac disease and psoriasis.  Otherwise no FHx.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS:  T 98.0 BP 128/86 HR 91 RR 18 O2 96% on RA
+GENERAL: Thin ___ gentleman, sitting up in bed, somewhat tired
+appearing.  Pleasant and cooperative.   
+HEENT: MMM.  Minimal, if any, scleral icterus. 
+HEART: RRR, normal S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB
+ABDOMEN: Normoactive bowel sounds.  Abdomen is soft,
+nondistended, nontender in all quadrants, with no
+rebound/guarding.  No hepatosplenomegaly.  Negative ___
+sign.
+EXTREMITIES: Warm and well perfused.  No cyanosis, clubbing or
+edema. 
+PULSES: 2+ DP pulses bilaterally  
+NEURO: No asterixis.  Moving all four extremities with purpose.
+SKIN: No excoriations or lesions, no rashes 
+
+DISCHARGE
+24 HR Data (last updated ___ @ 005)
+    Temp: 97.9 (Tm 98.7), BP: 119/75 (110-120/71-81), HR: 88
+(87-100), RR: 18, O2 sat: 97% (97-98), O2 delivery: RA, Wt: 
+135.7
+lb/61.55 kg  
+GENERAL: Thin gentleman, sitting up in bed.  Pleasant and
+cooperative.   
+HEENT: MMM.  No scleral icterus. 
+HEART: RRR, normal S1/S2, intermittently tachycardic, no 
+murmurs,
+gallops, or rubs  
+LUNGS: CTAB
+ABDOMEN: Normoactive bowel sounds.  Abdomen is soft,
+nondistended, nontender in all quadrants, with no
+rebound/guarding.  No hepatosplenomegaly.  Negative ___
+sign.
+EXTREMITIES: Warm and well perfused.  No cyanosis, clubbing or
+edema. 
+PULSES: 2+ DP pulses bilaterally  
+NEURO: No asterixis.  Moving all four extremities with purpose.
+SKIN: No excoriations or lesions, no rashes  
+ 
+Pertinent Results:
+ADMISSION LABS
+
+___ 02:11PM BLOOD WBC-8.1 RBC-4.65 Hgb-14.1 Hct-42.1 MCV-91 
+MCH-30.3 MCHC-33.5 RDW-13.2 RDWSD-43.9 Plt ___
+___ 02:11PM BLOOD Neuts-61.1 Lymphs-13.2* Monos-12.8 
+Eos-12.0* Baso-0.7 Im ___ AbsNeut-4.94 AbsLymp-1.07* 
+AbsMono-1.04* AbsEos-0.97* AbsBaso-0.06
+___ 10:55PM BLOOD ___ PTT-32.4 ___
+___ 02:11PM BLOOD Glucose-116* UreaN-6 Creat-1.0 Na-135 
+K-4.4 Cl-98 HCO3-24 AnGap-13
+___ 05:55AM BLOOD Albumin-4.6 Calcium-10.0 Phos-3.5 Mg-2.0
+___ 02:11PM BLOOD ALT-516* AST-120* AlkPhos-163* 
+TotBili-4.3*
+___ 06:43PM BLOOD Ferritn-252
+___ 06:43PM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG HAV Ab-POS* 
+IgM HAV-NEG
+___ 06:43PM BLOOD AMA-NEGATIVE Smooth-NEGATIVE
+___ 06:43PM BLOOD ___
+___ 05:55AM BLOOD IgG-1019
+___ 05:55AM BLOOD HIV Ab-NEG
+___ 06:43PM BLOOD HCV Ab-NEG
+___ 06:00AM BLOOD CMV VL-PND
+
+PERTINENT STUDIES
+
+___ 02:11PM BLOOD ALT-516* AST-120* AlkPhos-163* 
+TotBili-4.3*
+___ 06:43PM BLOOD ALT-485* AST-110* CK(CPK)-88 AlkPhos-168* 
+TotBili-4.1* DirBili-3.3* IndBili-0.8
+___ 05:55AM BLOOD ALT-396* AST-75* AlkPhos-162* 
+TotBili-3.4*
+___ 06:00AM BLOOD ALT-291* AST-59* LD(LDH)-195 AlkPhos-153* 
+TotBili-2.4* DirBili-1.7* IndBili-0.7
+
+Test                          Result              Reference 
+Range/Units
+CERULOPLASMIN                 30                  ___ mg/dL
+ALPHA-1-ANTITRYPSIN QN        149                 83-199 mg/dL
+IMMUNOGLOBULIN G SUBCLASS 1   ___ mg/dL
+IMMUNOGLOBULIN G SUBCLASS 2   ___ mg/dL
+IMMUNOGLOBULIN G SUBCLASS 3   153                 ___ mg/dL
+IMMUNOGLOBULIN G SUBCLASS 4   193.9  H            ___ mg/dL
+IMMUNOGLOBULIN G, SERUM       ___ mg/dL
+
+   ___ VIRUS VCA-IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+
+   ___ VIRUS EBNA IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+
+   ___ VIRUS VCA-IgM AB (Final ___: 
+      NEGATIVE BY EIA. 
+
+___
+___ ULTRASOUND
+FINDINGS: 
+ 
+LIVER: The liver is mildly echogenic. The contour of the liver 
+is smooth.
+There is no focal liver mass. The main portal vein is patent 
+with hepatopetal
+flow. There is no ascites.
+ 
+BILE DUCTS: There is no intrahepatic biliary dilation.
+  CHD: 3 mm
+ 
+GALLBLADDER: There is no evidence of stones or gallbladder wall 
+thickening.
+ 
+PANCREAS: The imaged portion of the pancreas appears within 
+normal limits,
+without masses or pancreatic ductal dilation, with portions of 
+the pancreatic
+tail obscured by overlying bowel gas.
+ 
+SPLEEN:  Normal echogenicity.
+  Spleen length: 8.3 cm
+ 
+RETROPERITONEUM:  The visualized portions of aorta and IVC are 
+within normal
+limits.
+ 
+IMPRESSION:
+ 
+ 
+1. Mildly echogenic liver, which may represent steatosis. Other 
+forms of liver
+disease including steatohepatitis, hepatic fibrosis, or 
+cirrhosis cannot be
+excluded on the basis of this examination.
+2. No cholelithiasis or evidence of intrahepatic or extrahepatic 
+biliary
+ductal dilatation.
+ 
+RECOMMENDATION(S):  Radiological evidence of fatty liver does 
+not exclude
+cirrhosis or significant liver fibrosis which could be further 
+evaluated by
+___. This can be requested via the ___ 
+(FibroScan) or the
+Radiology Department with either MR ___ or US 
+___, in
+conjunction with a GI/Hepatology consultation" *
+
+___
+MRCP
+FINDINGS: 
+ 
+Lower Thorax: No airspace disease or pleural effusion.
+ 
+Liver: Somewhat heterogeneous enhancement involving the 
+subcapsular liver on
+arterial phase imaging which blends into the parenchyma on 
+delayed imaging. 
+This suggests active parenchymal liver disease.  No focal 
+lesion.
+ 
+Biliary: Minimal prominence of the intrahepatic biliary ductal 
+dilatation with
+slight beaded and appearance with irregular contours, and in 
+some cases,
+visible periductal enhancement suggests sclerosing cholangitis.  
+The common
+hepatic and free segment of the common bile duct show wall 
+thickening with
+early hyperenhancement suggesting inflammatory changes.  The 
+gall bladder is
+normal.  No biliary stones identified.
+ Pancreas: Normal in attenuation and enhancement without mass or 
+pancreatic
+ductal dilatation. 
+Spleen: Normal.
+ Adrenal Glands: Normal. 
+Kidneys: Subcentimeter simple cysts right kidney.  Kidneys are 
+otherwise normal. 
+Gastrointestinal Tract:  Normal as visualized. 
+Lymph Nodes: No adenopathy. 
+Vasculature: Widely patent. 
+Osseous and Soft Tissue Structures: No fracture or suspicious 
+osseous lesion.
+ 
+IMPRESSION: 
+ 
+1.  Heterogeneous attenuation of the subcapsular liver on 
+arterial phase
+imaging suggests active hepatic parenchymal inflammation.  No 
+focal liver
+lesion identified.
+2.  Findings consistent with sclerosing cholangitis.  No 
+significant biliary
+obstruction or stones, however.
+
+DISCHARGE LABS
+
+___ 06:00AM BLOOD WBC-7.8 RBC-4.46* Hgb-13.5* Hct-39.5* 
+MCV-89 MCH-30.3 MCHC-34.2 RDW-13.5 RDWSD-43.9 Plt ___
+___ 06:00AM BLOOD Glucose-99 UreaN-10 Creat-1.1 Na-140 
+K-4.7 Cl-102 HCO3-22 AnGap-16
+___ 06:00AM BLOOD Calcium-9.6 Phos-3.8 Mg-2.0
+___ 06:00AM BLOOD ALT-291* AST-59* LD(LDH)-195 AlkPhos-153* 
+TotBili-2.4* DirBili-1.7* IndBili-0.7
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT:
+====================
+The patient is a ___ with history of colitis (recently 
+on infliximab) due to transaminitis and hyperbilirubinemia, 
+asymptomatic and found on routine labs. Right upper quadrant 
+ultrasound found steatosis but ruled out gross obstruction of 
+the biliary tract. He had MRCP which revealed related findings 
+consistent with sclerosing cholangitis. Given the pattern of 
+transaminitis, it is thought he may also have had drug-induced 
+liver injury from Remicade. Transaminases and bilirubin down 
+trended throughout the admission. He remained a symptomatic 
+throughout the admission. He was started on ursodiol with plan 
+to follow-up as outpatient in the ___ clinic with Dr. 
+___ as well as with his primary hepatologist Dr. ___ 
+PCP.
+
+ACTIVE ISSUES:
+==============
+#Transaminitis
+#Hyperbilirubinemia
+#Primary sclerosing cholangitis
+#Drug-induced liver injury secondary to Remicade
+Patient noted incidentally to have elevated transaminases and 
+hyperbilirubinemia on routine labs. He was asymptomatic but did 
+note some darkening of urine and slightly lighter brown stools 
+than usual. He had no abdominal pain, jaundice, icterus, or GI 
+symptoms. He had a history of 2 past episodes of drug-induced 
+liver injury due to Asacol and azathioprine. Right upper 
+quadrant ultrasound noted hepatic steatosis but no signs of 
+obstruction of the biliary tract. Patient had MRCP which noted 
+active inflammation without any focal liver lesions as well as 
+findings consistent with sclerosing cholangitis. Based on these 
+findings, the hepatology team felt that the patient had primary 
+sclerosing cholangitis with possible concomitant drug-induced 
+liver injury and initiated ursodiol. Plan to follow-up as 
+outpatient in the ___ clinic with Dr. ___ as well as 
+with his primary hepatologist Dr. ___ PCP.
+
+CHRONIC ISSUES:
+===============
+# Ulcerative colitis
+Per patient, no pain or significant change in bowel movements to
+indicate active flare.
+-continued home mesalamine
+
+# HISTORY OF CELIAC DISEASE:
+-continued gluten free diet
+
+# HISTORY OF SEASONAL ALLERGIES:
+-continued cetirizine
+
+TRANSITIONAL ISSUES:
+====================
+[ ] Given the increased risk for colorectal cancer in patients 
+with concurrent UC and PSC, the patient will require yearly 
+colonoscopy and CA ___. In addition, he should have yearly MRI 
+to assess for cholangiocarcinoma and gallbladder adenocarcinoma, 
+given his increased risk with PSC.
+
+[ ] The patient was initiated on ursodeoxycholic acid prior to 
+discharge.
+
+[ ] Plan (per outpatient hepatologist Dr. ___ to give one 
+additional round of Remicade tomorrow (___) with close 
+monitoring of his LFTs shortly after. If his LFTs do acutely 
+increase again after the Remicade, he will likely be switched to 
+Humira, which has less effect on liver and lower risk of 
+drug-induced liver injury.
+
+[ ] Follow-up with Dr. ___ (Hepatology) outpatient for 
+ongoing management of his ulcerative colitis.
+
+[ ] Follow up with Dr. ___ (colorectal surgery) for 
+further discussion of colectomy vs. continued biologic therapy 
+of his UC.
+
+[ ] An appointment has been made with Dr. ___ in the 
+outpatient
+autoimmune and cholestatic liver disease clinic, where he will 
+be
+followed for his PSC.
+
+CONTACT:
+Wife, ___ (___)
+CODE STATUS: Full
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 325-650 mg PO Q4H-Q6H:PRN Pain - Mild/Fever 
+2. Mesalamine ___ 2400 mg PO QAM 
+3. DiphenhydrAMINE 25 mg PO DAILY:PRN allergies 
+4. Cetirizine 10 mg PO DAILY:PRN allergies 
+5. Vitamin D 4000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ursodiol 300 mg PO BID for primary sclerosing cholangitis  
+2.  Acetaminophen 325-650 mg PO Q4H-Q6H:PRN Pain - Mild/Fever  
+3.  Cetirizine 10 mg PO DAILY:PRN allergies  
+4.  DiphenhydrAMINE 25 mg PO DAILY:PRN allergies  
+5.  Mesalamine ___ 2400 mg PO QAM  
+6.  Vitamin D 4000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+Primary sclerosing cholangitis
+Drug-induced liver injury secondary to Remicade
+Ulcerative colitis
+Transaminitis
+Hyperbilirubinemia
+
+SECONDARY DIAGNOSES:
+Celiac disease
+Seasonal allergies
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital because you were noted to 
+have elevated liver enzymes.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- In the hospital, your liver function tests were trended for 
+improvement.  You had a right upper quadrant ultrasound that 
+identified possible hepatic steatosis, but no obvious 
+obstruction in your biliary tract.
+
+- You had a procedure called an MRCP.
+
+- You were evaluated by the liver team, who felt that you were 
+likely to have a condition called primary sclerosing 
+cholangitis.  It is also possible that you had drug-induced 
+liver injury from Remicade in addition.
+
+- You were started on a new medication called ursodiol.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- Please take all of your medications exactly as prescribed and 
+attend all of your follow-up appointments listed below.
+
+- You will have follow-up with your primary care physician, your 
+hematologist, and an autoimmune liver disease specialist.
+
+We wish you the best!
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

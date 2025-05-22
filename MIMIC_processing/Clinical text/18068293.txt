@@ -1,0 +1,493 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+atorvastatin / Vicodin / Sudafed
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dizziness/light-headedness, tinnitus and gait unsteadiness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ right-handed woman with a history of 
+atrial fibrillation (not on anticoagulation), who presented to 
+the ED with 4 days of dizziness, headache, and ringing in her 
+ears. 
+
+Four days ago, she awoke in her usual state of health.  She sat 
+up in bed and had sudden onset of room spinning vertigo.  This 
+was not associated with any nausea or vomiting.  It lasted for 
+several minutes and then resolved.  When she got up to walk, she 
+was unsteady, "staggering" on her feet, though did not fall.  
+Despite having no recurrence of her vertigo, she has had 
+persistent gait unsteadiness these past few days.  She also 
+describes feeling occasionally "lightheaded".
+
+She has no associated numbness or weakness and no history of 
+similar symptoms in the past.  She denies recent infectious 
+symptoms.  She also reports a bilateral headache and bilateral 
+tinnitus since then.  The tinnitus is like the "sizzle" sound of 
+tires losing air.  The headache is described as a heaviness in 
+her head, associated with mild photophobia.  She has no pain 
+with
+EOM.  She previously had similar headaches prior to menopause.  
+She made an appointment at her PCPs office to be evaluated for 
+her symptoms.  There, there was concern for left-sided ptosis. 
+The patient had not noticed this until she looked in the mirror. 
+ It is not currently present.  She was referred to the ED for 
+neurologic evaluation.  
+
+ROS:
+On neuro ROS, the pt reports bilateral tinnitus and headaches. 
+She has chronic hearing loss - no recent changes. She denies 
+loss of vision, blurred vision, diplopia, dysarthria, dysphagia. 
+Denies difficulties producing or comprehending speech.  Denies 
+focal weakness, numbness, parasthesiae. No bowel or bladder
+changes.  
+ 
+On general review of systems, the pt reports intermittent 
+palpitations. Denies recent fever or chills.  No night sweats or 
+recent weight loss or gain. Denies cough, shortness of breath.  
+Denies chest pain or tightness, palpitations.  Denies nausea, 
+vomiting, diarrhea, constipation or abdominal pain. No dysuria. 
+Denies arthralgias or myalgias. Denies rash.
+
+ 
+Past Medical History:
+atrial fibrillation, not on anticoagulation
+COPD
+HLD
+Chronic bilateral sensorineural hearing loss
+Lung cancer (squamous cell) s/p pneumonectomy ___ years ago, in
+remission
+Raynauds
+Psoriasis
+DJD
+Anxiety
+Diverticulosis
+Hemorrhoids
+s/p cholecystectomy
+s/p prophylactic hysterectomy (later tested and BRCA negative)
+breast cancer in ___ s/p mastectomy, in remission
+ 
+Social History:
+___
+Family History:
+- sister with ovarian and breast cancer
+- mother: breast cancer
+- brother: bladder cancer
+ 
+Physical Exam:
+ADMISSION EXAM:
+===============
+Vitals: 98.6  106  155/81  16  100% RA 
+ General: Awake, cooperative, NAD.
+ HEENT: NC/AT, MMM
+ Neck: Supple.
+ Pulmonary: CTA on the left 
+ Cardiac: RRR though mildly tachycardic, no murmurs
+ Abdomen: soft, nondistended
+ Extremities: Warm and well perfused
+ Skin: no rashes or lesions noted.
+  
+ Neurologic:
+-Mental Status: Alert and inattentive, makes mistakes with 
+naming
+the ___ backward.  Able to relate history though has some
+difficulty relating fine details.  Language is fluent with 
+intact
+repetition and normal prosody.  There were no paraphasic errors. 
+
+Pt. was able to name both high and low frequency objects on the
+stroke card.  Able to read a sentence.  Described the cookie jar
+picture accurately.  Speech was not dysarthric.  Able to follow
+both midline and appendicular commands. 
+ 
+
+-Cranial Nerves:
+ I: Olfaction not tested.
+ II: PERRL 3 to 2mm; brisk bilaterally.  VFF to confrontation
+with no extinction to double simultaneous stimulation.
+ III, IV, VI: EOMI. no ptosis is seen.  There is subtle gaze
+evoked nystagmus -right beating with rightward gaze and left
+beating with a clockwise torsional component on leftward gaze;
+this does not extinguish.
+ V: Facial sensation intact to light touch in all distributions
+ VII: No facial droop, facial musculature symmetric 
+ VIII: Hard of hearing at baseline.  Hearing absent to finger 
+rub
+bilaterally, present leaning forward vibration bilaterally.  The
+Weber test lateralizes to the right ear.  
+ IX, X: Palate elevates symmetrically.
+ XI: Shoulder shrug is symmetric.
+ XII: Tongue protrudes in midline with full range of motion left
+and right.
+
+ -Motor: No pronator drift bilaterally.  Mild left-sided 
+postural
+tremor noted.
+  Delt Bic Tri WrE FFl FE IO  IP Quad Ham TA ___ 
+ L  ___   ___  ___  >4*  5    5     5   
+ R  ___   ___  ___   5   5    5     5  
+*limited by knee pain 
+   
+ -DTRs:
+     Bi  Tri  ___  Pat  Ach
+ L   3    3     2     3    0
+ R   3    3     2     3    0
+- Plantar response was flexor on the right, equivocal on the
+left.
+- Pectoralis Jerks are present, and Crossed Adductors are
+present. 
+  
+-Sensory: No deficits to light touch, pinprick, proprioception,
+vibration throughout. No extinction to DSS. 
+
+-Coordination: No intention tremor noted. No dysmetria on FNF or
+HKS bilaterally.  No overshoot with mirroring.
+
+-Gait: Able to sit unsupported without truncal ataxia.  Stands
+without retropulsion though stumbles to the right soon after
+standing up.  She sways when she puts her feet together with 
+eyes
+open though does not step out.  Base is narrow, stride is
+somewhat short and she appears cautious. 
+   
+-NIHSS: 0
+
+DISCHARGE PHYSICAL EXAM:
+=======================
+Vitals: 98.6  HR70  BP:139/81  16  99% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, MMM
+Neck: Supple.
+Pulmonary: CTA on the left 
+Cardiac: RRR though mildly tachycardic, no murmurs
+Abdomen: soft, nondistended
+Extremities: Warm and well perfused
+Skin: no rashes or lesions noted.
+  
+ Neurologic:
+-Mental Status: Alert and inattentive, makes mistakes with 
+naming the ___.  Able to relate history though has some 
+difficulty relating fine details.  Language is fluent with 
+intact repetition and normal prosody.  There were no paraphasic 
+errors.  Speech was not dysarthric.  Able to follow
+both midline and appendicular commands. 
+ 
+-Cranial Nerves:
+ I: Olfaction not tested.
+ II: PERRL 3 to 2mm; brisk bilaterally.  VFF to confrontation
+with no extinction to double simultaneous stimulation.
+ III, IV, VI: EOMI. No ptosis is seen.  Subtle end-gaze 
+nystagmus with R and L gaze.
+ V: Facial sensation intact to light touch in all distributions
+ VII: No facial droop, facial musculature symmetric 
+ VIII: Hard of hearing at baseline.  Hearing absent to finger 
+rub
+bilaterally.  
+ IX, X: Palate elevates symmetrically.
+ XI: Shoulder shrug is symmetric.
+ XII: Tongue protrudes in midline with full range of motion left
+and right.
+
+ -Motor: No pronator drift bilaterally.  Mild left-sided 
+postural
+tremor noted.
+  Delt Bic Tri WrE FFl FE IO  IP Quad Ham TA ___ 
+ L  4+   ___   ___   5   5  >4*  5    5     5   
+ R  ___   ___  ___   5   5    5     5  
+*limited by knee pain 
+   
+ -DTRs:
+     Bi  Tri  ___  Pat  Ach
+ L   3    3     2     3    0
+ R   3    3     2     3    0
+- Plantar response was flexor on the right, equivocal on the 
+left.
+- Pectoralis Jerks are present, and Crossed Adductors are 
+present. 
+  
+-Sensory: No deficits to light touch, pinprick, proprioception, 
+vibration throughout. No extinction to DSS. 
+
+-Coordination: No intention tremor noted. No dysmetria on FNF or 
+HKS bilaterally.  No overshoot with mirroring.
+
+-Gait: Able to sit unsupported without truncal ataxia.  Stands 
+without retropulsion. Base is narrow, stride is somewhat short 
+and she appears cautious. 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 02:35PM BLOOD WBC-6.7 RBC-4.13 Hgb-12.5 Hct-39.4 MCV-95 
+MCH-30.3 MCHC-31.7* RDW-12.9 RDWSD-45.6 Plt ___
+___ 02:35PM BLOOD Neuts-72.8* Lymphs-13.2* Monos-9.9 
+Eos-3.1 Baso-0.7 Im ___ AbsNeut-4.87 AbsLymp-0.88* 
+AbsMono-0.66 AbsEos-0.21 AbsBaso-0.05
+___ 02:35PM BLOOD ___ PTT-33.0 ___
+___ 02:35PM BLOOD Plt ___
+___ 02:35PM BLOOD Glucose-107* UreaN-13 Creat-0.8 Na-140 
+K-4.1 Cl-101 HCO3-26 AnGap-17
+___ 02:35PM BLOOD ALT-15 AST-26 AlkPhos-66 TotBili-0.2
+___ 02:35PM BLOOD Lipase-34
+___ 06:00AM BLOOD cTropnT-<0.01
+___ 06:00AM BLOOD Calcium-8.8 Phos-2.8 Mg-2.2 Cholest-164
+___ 02:35PM BLOOD Albumin-4.2
+___ 06:00AM BLOOD %HbA1c-5.3 eAG-105
+___ 06:00AM BLOOD Triglyc-68 HDL-71 CHOL/HD-2.3 LDLcalc-79
+___ 06:00AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 02:35PM BLOOD LtGrnHD-HOLD
+
+DISCHARGE LABS:
+===============
+
+___ 06:00AM BLOOD WBC-5.1 RBC-3.88* Hgb-12.0 Hct-37.0 
+MCV-95 MCH-30.9 MCHC-32.4 RDW-13.2 RDWSD-45.4 Plt ___
+___ 06:00AM BLOOD Plt ___
+___ 06:00AM BLOOD Glucose-83 UreaN-11 Creat-0.7 Na-140 
+K-3.9 Cl-101 HCO3-30 AnGap-13
+___ 06:00AM BLOOD cTropnT-<0.01
+___ 06:00AM BLOOD Calcium-8.8 Phos-2.8 Mg-2.2 Cholest-164
+___ 06:00AM BLOOD %HbA1c-5.3 eAG-105
+___ 06:00AM BLOOD Triglyc-68 HDL-71 CHOL/HD-2.3 LDLcalc-79
+
+IMAGING:
+=========
+___ Imaging MR HEAD W & W/O CONTRAS 
+1.  Study is moderately degraded by motion. 
+2. No evidence of acute infarct. 
+3.  Within limits of study, no definite evidence of intracranial 
+metastatic 
+disease. 
+4.  Paranasal sinus disease as described. 
+
+CTA head/neck ___: wet read
+"CT HEAD WITHOUT CONTRAST:
+There is no evidence of no evidence of infarction, hemorrhage,
+edema, or mass.
+
+CTA HEAD:
+The left P1 segment of the posterior cerebral artery is not well
+visualized possibly due to congenital absence vs severe stenosis
+(series 5: Image 241-242 and series 604D: Image 29). A
+fenestration is noted at the origin of the right P2 segment of
+the posterior cerebral artery (series 5: Image 246) otherwise,
+the remaining vessels of the circle of ___ and their 
+principal
+intracranial branches appear normal without stenosis, occlusion,
+or aneurysm formation. The dural venous sinuses are patent.
+
+CTA NECK:
+The carotid and vertebral arteries and their major branches
+appear normal with no evidence of stenosis or occlusion. There 
+is
+no evidence of internal carotid stenosis by NASCET criteria.
+Atherosclerotic calcifications are seen at the left carotid
+bifurcation.
+
+OTHER:
+There is complete total opacification of the right lung apex, of
+uncertain etiology. Respiratory motion artifact is noted in the
+left lung apex, limiting assessment for small pulmonary nodules.
+Scarring is noted at the left lung apex. The thyroid gland
+appears unremarkable. There is no lymphadenopathy by CT size
+criteria."
+
+CXR ___:
+"1. Patient is status post right pneumonectomy and left
+mastectomy. The apparent whiteout of the right hemithorax is
+secondary to patient's right pneumonectomy and relatively
+increased soft tissue density imposed by the right breast.
+2. The left lung appears normal without focal consolidation or
+pleural effusion"
+ 
+Brief Hospital Course:
+___ woman with a history of atrial fibrillation (not on 
+anticoagulation) and hyperlipidemia who presents with 4 days of 
+dizziness, gait unsteadiness, tinnitus, and headache. 
+
+Patient presented to her PCP with signs of gait unsteadiness, 
+tinnitus and was referred to the ED for neuro eval. Patient was 
+assessed in the ED and was noted to have L gaze nystagmus with 
+left gaze, R gaze nystagmus with right gaze and gait 
+unsteadiness, although patient had no focal weakness, no 
+ptosis/facial droop and no dysmetria. However, due to direction 
+changing nystagmus, continued tinnitus and unsteady gait 
+compared to baseline, patient was admitted to the Neurology 
+service for futher workup. Patient received a NCHCT which was 
+negative for hemorrhage or large territory infarct, however CTA 
+of the head showed concerns for lack of visualization of the P1 
+segment of the PCA. Although this may have been due to 
+congenital absence, concern remained for possible severe 
+stenosis at this site causing lack of visualization of this 
+segment of the PCA, which was concerning in the setting of 
+patients posterior circulation symptoms. Patient was assessed 
+with an MRI which showed no evidence of an acute ischemic 
+infarct, which was reassuring for no new posterior territory 
+infarct. 
+
+Patient was further assessed with a stroke risk factor workup, 
+and was noted to have a normal HgbA1c of 5.3 and LDL of 79. 
+Patient further was noted to have a CHADS-Vasc score of 3, which 
+would put her in the moderate-high risk category and would make 
+patient a candidate for anticoagulation. Of note, patient was 
+maintained on telemetry during this hospitalization and was 
+noted to be in sinus rhythm throughout her stay.
+
+Patients outpatient cardiologist Dr. ___ ___ 
+Cardiology) was contacted with regards to her outpatient 
+anticoagulation plan, and noted that patients Afib was 
+perioperative, with paroxysmal Afib as her diagnosis. Dr. ___ 
+was informed regarding patients stroke risk workup and her 
+CHADS-Vasc score, and noted that in the setting of no evidence 
+of ischemic infarct on MRI, patient should be maintained on 
+aspirin 81mg daily.
+
+Patient was further assessed with orthostatics which were 
+positive on this admission. Patients light-headedness may have 
+been partially due to patients volume status. Patient was given 
+IVF hydration and encouraged to continue good solid/liquid 
+intake at home. 
+
+A plan was further made for patient to continue to monitor her 
+symptoms which were likely due to a peripheral vestibulopathy in 
+the setting of recent URI, with resolving symptoms at the time 
+of discharge. Meniere's disease is also in the differential. She 
+was further advised to followup with her PCP at the appointment 
+listed above.
+
+Transitional issues:
+====================
+[] Please followup patients tinnitus and gait unsteadiness, 
+likely due to a peripheral vestibulopathy in the setting of a 
+recent URI. Patient had no evidence of a posterior territory 
+infarct on MRI, and her symptoms were improving at the time of 
+discharge. Patient will continue to monitor her symptoms and 
+represent to Neurology clinic if her symptoms recur. Patient 
+will further followup with her PCP as her symptoms were self 
+resolving at the time of discharge. 
+[] Of note, patients CTA of the head and neck showed lack of 
+visualization of the P1 segment of the PCA, which is likely due 
+to a congenital absence rather than new clot/stenosis. Patient 
+had a reassuring MRI head with no evidence of a posterior 
+territory infarct, however patient will continue to monitor her 
+symptoms as noted above with low threshold to represent to the 
+hospital if she has worsening/persistent symptoms in the setting 
+of her vascular findings.
+[] Please follow-up patients anticoagulation plan. As noted 
+above, patient has a CHADSVasc score of 3 which places her in 
+the moderate-high risk category and may benefit from 
+anticoagulation to prevent a stroke, however, patients 
+anticoagulation plan was discussed with outpatient cardiologist 
+who noted that patients diagnosis was paroxysmal Afib diagnosed 
+in the perioperative period, and thus patient should be 
+continued on Aspirin 81mg at this time. 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Pravastatin 40 mg PO QPM 
+3. TraZODone 50 mg PO QHS:PRN Insomnia 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Pravastatin 40 mg PO QPM  
+3.  TraZODone 50 mg PO QHS:PRN Insomnia  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: Peripheral vestibulopathy
+
+Secondary diagnosis: orthostatic hypotension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ were hospitalized due to symptoms of dizziness, gait 
+unsteadiness, headache and a persistent ringing sensation in 
+your ears.
+
+Due to your symptoms, ___ were assessed in the ED and a decision 
+was made to admit ___ to the stroke Neurology service. While 
+admitted to the hospital, a CAT scan of your brain showed no 
+evidence of hemorhage in the brain. Furthermore, a followup MRI 
+of the head showed no evidence of an ischemic or hemorrhagic 
+stroke. While we were able to determine that a stroke was not 
+the cause of your symptoms, it is unclear why ___ had the above 
+symptoms which brought ___ into the hospital. One possibility is 
+irritation or inflammation of your inner ear which caused ___ to 
+have gait unsteadiness, light-headedness and hearing changes. 
+These symptoms are usually self-resolving, and your symptoms 
+were markedly improving with minimal interventions of IV fluid 
+hydration and pain control while ___ were in the hospital. 
+Furthermore, your blood pressure was noted to be decreased when 
+___ went from lying to standing position, which may be causing 
+your symptoms of light-headedness. ___ were encouraged to 
+continue to stay well hydrated and have good solid and liquid 
+intake. 
+
+At the time of discharge ___ felt more stable with ambulation, 
+and furthermore, your light-headedness and dizziness had 
+resolved while ___ were in the hospital. Thus a plan was made 
+for ___ to be discharged with close followup with your PCP. We 
+ask that ___ followup with your PCP ___ ___ weeks, however if ___ 
+have any of the warning symptoms listed below, please contact 
+your PCP for further ___ or present to your nearest ED.
+
+While ___ did not have a stroke on this admission, ___ were 
+assessed ___ for medical conditions that might raise your risk 
+of having stroke. Your risk factors are:
+Paroxysmal Afib
+Hyperlipidemia
+
+No changes are being made to your medications at this time. 
+Please take all your medications as prescribed.
+
+Please follow up with your PCP and with your cardiologist as 
+listed below.
+
+If ___ experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+___
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+
+ 
+Followup Instructions:
+___

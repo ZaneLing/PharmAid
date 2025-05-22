@@ -1,0 +1,227 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ceftriaxone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever and cough
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ is a ___ year old woman with no significant PMH who 
+presented to the ED with fever and cough. She reports that she 
+was in her usual state of health through ___ of last week 
+(6 days ago), but on ___ started having a cough and fevers. 
+She reports that her cough has intermittently been productive of 
+clear phlegm. She also endorses an achiness in her left ear and 
+a sense of muffling, as well as intermittent headache. She 
+presented to her outpatient office 2 days ago and reports that 
+she was diagnosed with a ruptured tympanic membrane and was 
+given augmentin. She endorses taking 2 of the augmentin pills 
+successfully but states that she was unable to take the rest of 
+them due to difficulty swallowing large sized pills. She states
+that this difficulty with pills is not a new issue for her. She 
+has continued to have fevers and cough, and notes that her fever 
+reached 104 earlier today. She also endorses some diarrhea 
+earlier in her course that has now improved, and some chest pain 
+with coughing that has also improved. She states that she has 
+taken Mucinex and motrin, which may have helped slightly 
+although she is unsure.  She notes that her ear pain is getting 
+better.
+She also notes minimal food intake in recent days due to her 
+symptoms, although this is slightly improved now in the 
+hospital. She denies sick contacts. 
+
+She presented to the ED today due to her ongoing symptoms.  At 
+the time of her presentation to the ED her temp was 100.4 but 
+subsequently improved.  Her heart rates were initially in the 
+140s, and after fluids improved to the 100s to 120s.  Blood 
+pressure is 100s-130s /50s-80s.  She was satting 91% on room air 
+and was placed on 2 L nasal cannula, with sats of 92 to 97%.  
+Her labs were notable for WBC of 10.1, sodium 134, bicarb 19, 
+negative flu, AST 58 ALT 33. A chest x-ray showed extensive 
+right lower lobe consolidation compatible with pneumonia. She 
+received fluids, Tylenol, ceftriaxone, azithromycin, and after 
+the ceftriaxone she had flushing and tingling felt to be an 
+anaphylactic reaction, for which she was given an EpiPen,
+Benadryl, famotidine, and methylprednisolone 125 mg, with 
+improvement in her symptoms. 
+
+ROS: As per HPI, and 10 point ROS completed and otherwise 
+negative.
+
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+___ History:
+No known infectious problems
+ 
+Physical Exam:
+Vital signs: (see above)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: 
+L TM with erythema posteriorly and focal erythema in posterior
+ear canal; no perforation noted, although anterior TM not
+visualized completely
+Nose without visible erythema, masses, or trauma. MMMs
+CV: tachy, regular
+RESP: bronchial breath sounds with +egophony in the R lower lung
+field posteriorly
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  
+GU: No suprapubic tenderness
+MSK: No swollen or erythematous joints
+SKIN: No rashes or ulcerations noted
+EXTR: wwp, no edema
+NEURO: Alert, interactive, face symmetric, gaze conjugate with
+EOMI, speech fluent, motor function grossly intact/symmetric,
+slightly reduced hearing for high and low pitch sounds on L side
+PSYCH: pleasant, slightly restricted affect
+
+ 
+Pertinent Results:
+___ 11:25AM BLOOD WBC: 10.1* RBC: 4.59 Hgb: 13.9 Hct: 41.0
+MCV: 89 MCH: 30.3 MCHC: 33.9 RDW: 12.4 RDWSD: 40.___ 
+___ 11:25AM BLOOD Anisocy: 2+* Macrocy: 1+* RBC Mor: SLIDE
+REVIEWED* 
+___ 11:25AM BLOOD Glucose: 118* UreaN: 11 Creat: 0.8 Na:
+134* K: 4.1 Cl: 97 HCO3: 19* AnGap: 18 
+___ 11:25AM BLOOD ALT: 33 AST: 58* AlkPhos: 40 TotBili: 0.6 
+
+___ 11:25AM BLOOD Lipase: 22 
+___ 11:25AM BLOOD Albumin: 3.3* Calcium: 8.5 Phos: 2.8 
+___ 11:35AM BLOOD Lactate: 1.8 
+___ 01:35PM URINE Color: Colorless Appear: CLEAR Sp ___:
+1.007 
+___ 01:35PM URINE Blood: NEG Nitrite: NEG Protein: NEG
+Glucose: NEG Ketone: 10* Bilirub: NEG Urobiln: NORMAL pH: 6.5
+Leuks: NEG 
+___ 01:35PM URINE UCG: NEGATIVE 
+___ 11:30AM OTHER BODY FLUID FluAPCR: NEG FluBPCR: NEG  
+   URINE CULTURE (Pending): 
+ 
+CXR ___ (personally reviewed images and interpreted)-large
+right lower lobe lung consolidation
+
+EKG ___ (personally reviewed images and interpreted)-sinus
+tachycardia, QTC ___ is a ___ year old woman with no significant PMH who 
+presented to the ED with persistent fever and cough, found to 
+have pneumonia on her chest x-ray, as well as likely L otitis 
+media and ?TM perforation.
+
+# Community-acquired pneumonia
+# Sepsis (leukocytosis and tachycardia and fever)
+Ms ___ presented with fever (104), cough x 6d , hypoxia, 
+tachycardia (100-140). 
+ Labs were notable for WBC 10.1, Na 134, HCO3 19, neg flu, AST 
+58.  She had been prescribed Augmentin by outpatient provider 2 
+days ago, but had only been able to take 2 of the pills due to 
+the size of the pills.  Therefore her persistent symptoms did 
+not necessarily reflect a failure of coverage.  However, while 
+in the ED she had an allergic reaction to ceftriaxone requiring 
+anaphylaxis treatment.  
+   On arrival to floor, her O2 sats were in the low 90%, but 
+thereafter, her O2 sats improved to 95-97% on RA. She received 
+Levofloxacin prior to discharge.  Her WBC had normalized to she 
+noted no significant chest pain or worsening dyspnea.  Continued 
+to have cough.  
+   Her Na normalized also after given IVF.  She was given 
+prescription for Levofloxacin (250 mg tablets x 3 per day) due 
+to her inability to tolerate large pills.  She was ambulatory 
+and continued with incentive spirometry.  Urine Legionella 
+antigen returned negative. 
+
+#Suspected anaphylactic reaction to ceftriaxone
+After receiving ceftriaxone the patient developed facial 
+swelling, and reported burning itching and stinging of her 
+hands, feet, face, neck, and arms.  She received epinephrine, 
+methylprednisolone, Benadryl, and reported rapid improvement.  
+She will complete a short course of prednisone for an additional 
+3 days.  
+
+#Suspected otitis media, possible tympanic membrane rupture
+Patient reports that she was diagnosed with a tympanic membrane 
+rupture 2 days ago in clinic.  I was unable to visualize the 
+rupture, but there was significant erythema of the tympanic 
+membrane.  She reports that her ear pain is improving and has 
+minimal hearing deficit.  Discussed the case informally with ENT
+tonight.  Antibiotics as per above (covering pneumonia and 
+otitis media),
+tentative 7 day course.  There was no worsening of ear pain or 
+hearing.  Consider Follow-up with ENT in 1 to 3 months
+
+#Transaminase elevation
+Likely nonspecific in the setting of her infection and mild GI 
+symptoms
+
+GENERAL/SUPPORTIVE CARE:
+
+# VTE prophylaxis: Ambulation
+# Contacts/HCP/Surrogate and Communication: Boyfriend ___
+___
+# Code Status/ACP: Presumed full
+# Disposition: d/c home today
+
+> 30 mins spent on d/c related work
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  LevoFLOXacin 750 mg PO DAILY 
+RX *levofloxacin 250 mg 3 tablet(s) by mouth once a day Disp 
+#*12 Tablet Refills:*0 
+2.  PredniSONE 60 mg PO DAILY Duration: 3 Days 
+RX *prednisone 20 mg 3 tablet(s) by mouth once a day Disp #*6 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+RLL Pneumonia
+Anaphylactic reaction to IV abx
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+
+   It was a pleasure looking after you. As you know, you were 
+admitted for right lower lobe pneumonia - and likely drug 
+reaction to the intravenous antibiotic (ceftriaxone). 
+
+   You were observed in the hospital and did well on the 
+antibiotic levofloxacin.  Please complete a 5-day course (4 more 
+days) to help fully address the pneumonia.  Also to ensure that 
+you do not have any residual effects from the allergic reaction, 
+please complete 2 more days of prednisone (steroids). 
+
+    In the future, it is best if you avoid the antibiotic class 
+called cephalosporin altogether - to avoid the risk of allergic 
+reaction.  We wish you quick recovery and good health.
+
+Your ___ Team 
+ 
+Followup Instructions:
+___

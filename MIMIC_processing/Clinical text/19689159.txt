@@ -1,0 +1,328 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril / nifedipine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with HTN, HLD, morbid obesity,
+HFpEF, afib/flutter s/p cardioversion on ___ on Xarelto, who
+presents with dyspnea.
+
+He underwent elective cardioversion this past ___ for A
+fib which had been persistent since ___. Following the
+cardioversion he has had shortness of breath worse with lying
+down and with exertion. He denied any chest pain nausea vomiting
+or abdominal pain. He noted a mild cough but no fevers and
+occasional subjective chills but have since resolved. Notes a
+little bit of mild swelling in his bilateral lower extremities.
+Denies any recent trauma/falls, cancer hx, blood clot hx, recent
+surgeries or long periods of immobilization.
+
+- In the ED, initial vitals were: T 96.7, HR 67, BP 162/80, RR
+24, SPO2 97% RA
+
+- Exam was notable for:
+"General: Well appearing, no acute distress
+Cardiac: RRR no rgm
+Pulmonary: Clear to auscultation bilaterally, no 
+crackles/wheezes
+Abdominal/GI: No tenderness or masses
+Renal: No CVA tenderness
+MSK: No deformities or signs of trauma. Very mild swelling noted
+in the lower extremities.
+Derm: No rashes or signs of trauma
+Psych: Normal judgment, mood appropriate for situation"
+
+- Labs were notable for:
+WBC 8.1, HgB 15.2, Cr 1.4, BUN 27, K 5.4, trop <0.01x2, proBNP
+244
+
+- Studies were notable for:
+CXR ___
+1. Pulmonary vascular congestion moderate interstitial edema. 
+2. Left lower lobe airspace opacity which likely reflects
+atelectasis though could reflect pneumonia in the appropriate
+clinical setting. 
+
+- The patient was given: ceftriaxone, azithromycin
+
+- Cardiology EP was consulted who noted that the patient is in
+NSR and recommended ___ cardiology consultation if there is
+concern for cardiac etiology of dyspnea.
+
+He was admitted for workup of dyspnea, treatment of possible
+pneumonia, and possible stress test given heart score of 4.
+
+On arrival to the floor, he reports 4 days of shortness of 
+breath
+with exertion, leg swelling, and mild dry cough. On ___ his
+torsemide dose was reduced from 40 mg PO BID to 20 mg PO BID by
+his cardiologist Dr. ___ due to
+lightheadedness. He currently can only walk 3 blocks or climb 2
+flights of stairs before feeling very winded and needing to 
+stop.
+He also had an episode of chills which lasted for 30 minutes on
+___, but notes that he was outside during this and it was a 
+cold
+night. He sleeps propped up on ___ pillows at baseline and feels
+like he is drowning if he lies flat, but states that this is not
+new, and he is planning to undergo a sleep study for suspected
+OSA. His dry weight is 318 lbs. He denies PND, recent illnesses,
+sick contacts, recent dietary indiscretion.
+ 
+Past Medical History:
+HTN
+HLD
+Type II DM - diet controlled 
+Morbid obesity
+CHF
+Afib/Atrial flutter 
+CKD
+Remote pelvic lipomatosis c/b cystitis glanularis - requiring
+bladder irrigation
+NAFLD
+OA  
+ 
+Social History:
+___
+Family History:
+Mother with afib, s/p pacemaker, has CAD, HTN, and DM.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: T 98.3, BP 161/88, HR 62, RR 18, SPO2 95% RA
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Bibasilar crackles. No rhonchi or wheezes. No increased
+work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Obese. Normal bowels sounds, non distended, non-tender
+to deep palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing or cyanosis. Trace edema to knees.
+Pulses DP/Radial 2+ bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+Discharge Physical
+====================
+24 HR Data (last updated ___ @ 1730)
+    Temp: 98.6 (Tm 99.1), BP: 158/91 (138-160/73-96), HR: 66 
+(58-68), RR: 18, O2 sat: 95% (88-95), O2 delivery: Ra, Wt: 
+321.65 lb/145.9 kg   
+
+Fluid: -1700cc 24 hours
+
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Bibasilar crackles have now cleared. No rhonchi or
+wheezes. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Obese. Normal bowels sounds, non distended, non-tender
+to deep palpation in all four quadrants. No organomegaly.
+EXTREMITIES: trace edema to shins. Pulses DP/Radial 2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+ 
+Pertinent Results:
+Admission
+=========
+___ 07:00PM BLOOD WBC-8.1 RBC-4.86 Hgb-15.2 Hct-45.8 MCV-94 
+MCH-31.3 MCHC-33.2 RDW-13.2 RDWSD-44.9 Plt ___
+___ 07:00PM BLOOD Glucose-102* UreaN-27* Creat-1.4* Na-140 
+K-5.4 Cl-101 HCO3-26 AnGap-13
+___ 07:05AM BLOOD %HbA1c-6.0 eAG-126
+
+Discharge
+==========
+___ 06:08AM BLOOD WBC-7.6 RBC-4.64 Hgb-14.6 Hct-44.9 MCV-97 
+MCH-31.5 MCHC-32.5 RDW-13.2 RDWSD-47.0* Plt ___
+___ 06:08AM BLOOD Glucose-107* UreaN-21* Creat-1.5* Na-143 
+K-4.3 Cl-102 HCO3-27 AnGap-14
+___ 06:08AM BLOOD Calcium-9.8 Phos-4.4 Mg-2.3
+
+Imaging
+=======
+CXR
+IMPRESSION:
+ 
+ 
+1. Pulmonary vascular congestion moderate interstitial edema.
+2. Left lower lobe airspace opacity which likely reflects 
+atelectasis though could reflect pneumonia in the appropriate 
+clinical setting.
+
+TTE ___
+
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. The estimated right atrial pressureis ___ mmHg. 
+There is mild symmetric left ventricular hypertrophy with a 
+normal cavity size. There is normalregional and global left 
+ventricular systolic function. Quantitative biplane left 
+ventricular ejectionfraction is 69 % (normal 54-73%). There is 
+no resting left ventricular outflow tract gradient. Normal 
+rightventricular cavity size with normal free wall motion. 
+Tricuspid annular plane systolic excursion (TAPSE) isnormal. The 
+aortic sinus diameter is normal for gender with normal ascending 
+aorta diameter for gender. Theaortic arch diameter is normal 
+with a normal descending aorta diameter. There is no evidence 
+for an aorticarch coarctation. The aortic valve leaflets (3) 
+appear structurally normal. There is no aortic valve 
+stenosis.There is no aortic regurgitation. The mitral valve 
+leaflets appear structurally normal with no mitral valve
+prolapse. There is mild [1+] mitral regurgitation. The pulmonic 
+valve leaflets are normal. The tricuspid valveleaflets appear 
+structurally normal. There is mild to moderate [___] tricuspid 
+regurgitation. There is mildpulmonary artery systolic 
+hypertension. There is no pericardial effusion.
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+normal cavity size and regional/ global biventricular systolic 
+function. Mild pulmonary artery systolic hypertension. 
+Mild-moderate
+tricuspid regurgitation.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with HTN, HLD, morbid obesity, 
+HFpEF, afib/flutter s/p cardioversion on ___ on Xarelto, who 
+presented with dyspnea concerning for HFpEF exacerbation.
+
+ACUTE/ACTIVE ISSUES:
+====================
+
+# Acute decompensation of HFpEF
+# Hypoxemia
+history, exam, and radiographic findings of pulmonary edema cw 
+HFpEF exacerbation. BNP only 244, but may be falsely low in the 
+setting of morbid obesity. Improved with IV lasix. Thought to 
+possibly by secondary to reduced diuretic dosing, or too much 
+nodal blockade (diltiazam d/c'd per cardiology recs). Initial 
+concern for PNA on CXR for which he received ceftriaxone/azithro 
+for one day, but ultimately this was felt to be unlikely and 
+antibiotics were stopped, with ongoing improvement. Recevied 2x 
+60 IV lasix, then put on 30 BID torsemide as he had become 
+overloaded on 20 BID at home. Echo showed mild LVH, mild pHTN, 
+mild tricuspid regurgitation, EF 69%. Ambulatory O2 sats were 
+90-94% on room air, he did drop once briefly to 88 but it 
+resolved without any need for supplemental O2.
+
+#Afib/A flutter s/p cardioversion
+In NSR with 1st degree AV dissociation. Cards consulted given 
+concern about flecainide potentially contributing to his HFpEF, 
+recommended discontinuing diltiazam but continuing felcainide. 
+Continued on home xarelto.
+
+# CKD
+Cr 1.4 on admission. Baseline 1.3-1.5 going back to ___. 
+Discharge Cr 1.5.
+
+CHRONIC/STABLE ISSUES:
+======================
+# HTN
+continued home losartan, fractionated home metoprolol, held 
+diltiazam
+
+# Type II DM
+Diet controlled, ISS while in house
+
+Transitional Issues
+===================
+[] weight: 145.9 kg (321.65 lb) 
+[] Cr: 1.5
+[] Diuretic: 30 torsemide BID
+[] please check ambulatory O2 sats, was 90-94% on room air on 
+day of discharge. 
+[] Held home diltiazem per cardiology recommendations
+[] Please make sure sleep study set up as patient likely has OSA
+
+# CONTACT: ___ (wife) ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 50 mg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+3. Torsemide 20 mg PO BID 
+4. Diltiazem Extended-Release 180 mg PO DAILY 
+5. Metoprolol Succinate XL 100 mg PO DAILY 
+6. Rivaroxaban 20 mg PO DAILY 
+7. Flecainide Acetate 100 mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  Torsemide 30 mg PO BID 
+RX *torsemide 20 mg 1.5 tablet(s) by mouth twice a day Disp #*90 
+Tablet Refills:*2 
+2.  Flecainide Acetate 100 mg PO Q12H  
+3.  Losartan Potassium 50 mg PO DAILY  
+4.  Metoprolol Succinate XL 100 mg PO DAILY  
+5.  Multivitamins 1 TAB PO DAILY  
+6.  Rivaroxaban 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+acute on chronic HFpEF exacerbation
+Sleep apnea
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+- You had trouble breathing and low oxygen levels
+
+What did you receive in the hospital?
+- You received IV diuretics to help get the extra fluid off your 
+lungs, and then you were put back on an oral diuretic
+- Your cardiologist evaluated you and stopped one of your 
+medications, diltiazem
+
+What should you do once you leave the hospital?
+- Make sure to weigh yourself every day. If your weight goes up 
+by 3 lb, please call your doctor.
+- Try to limit your fluid intake to about 2L daily, and try to 
+avoid high sodium foods. 
+- Please take your medications as prescribed and go to your 
+future appointments which are listed below.
+
+We wish you all the best!
+- Your ___ Care Team
+ 
+Followup Instructions:
+___

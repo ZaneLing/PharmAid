@@ -1,0 +1,225 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+CP, SOB
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+Mr. ___ is a ___ avid ___, father of 1 who 
+exercises 4x a week with past medical history of a provoked 
+pulmonary embolism in ___ in the setting of a torn right ACL,  
+with negative coagulopathy w/u who presents with 3 days of 
+worsening pleuritic chest pain. Denies shortness of breath, 
+fever, cough, chills. 
+He had a low-grade cold for a week.  Prior to this he felt well. 
+ His pain improves with Advil and worsened with breathing.  On 
+the day of presentation his pain had progressed such that he 
+could barely drive and his pain had worsened shooting up to his 
+shoulder.  It was also difficult for him to talk.  His pain 
+improved with standing.
+The day before ___ he had a 4 Hour Car Dr. ___ his 
+parents home in ___.  Last ___ he drove for ___ 
+hours to return home to ___.  He has not had any long train 
+rides or plane rides.  The day before his symptoms started he 
+worked out at the gym for 40 minutes without symptoms.
+.
+His PCP ordered an EKG and chest x-ray both of which were normal 
+and ordered a d-dimer which is positive, referred for CT scan 
+which showed bilateral pulmonary emboli; referred to the 
+emergency department for heparinization and admission. On 
+arrival, patient has only minor pleuritic chest pain, is 
+comfortable and conversational. Denies any recent flights, leg 
+swelling, calf tenderness. 
+In the ED:
+VS: 4 |98.7 |72 |127/78 |16 |100% RA |
+He was given:
+___ 20:52 IV Morphine Sulfate 4 mg x 2 
+___ 20:54 IV Heparin 7100 UNIT bolus
+___ 20:54 IV Heparin  Started 1600 units/hr 
+Given his b/l clot burden he was deemed too high risk for 
+discharge home with a NOAC. He was thus admitted to medicine. 
+.
+ROS: Pertinent positives and negatives as noted in the HPI.  All 
+other systems were reviewed and are negative. 
+.
+ 
+Past Medical History:
+R ACL tear c/b pulmonary embolus in ___. He was in the ICU for 
+4 days and then on the floor for 4 days. He was on Coumadin for 
+6 months
+Chronic pain of right knee 
+Psoriasis 
+ 
+Social History:
+___
+Family History:
+No family members with history of blood clots.
+Father Alive  and in good health
+Maternal Grandfather  colon cancer [OTHER] (70) 
+Mother Alive  
+Sister Alive 
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS: 99.0PO| 130 / 78 74 20 98% on RA ___ 
+GENERAL: Alert and in distress. He looks very uncomfortable. 
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma.  
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  
+RESP: LL lung field with marked decrease in lung sounds. R lung 
+field is largely clear 
+GI: Abdomen soft, non-distended, L mid quadrant tenderness close 
+to the ribs 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM:
+Vital Signs: ___ 0749 Temp: 97.9 PO BP: 121/72 HR: 63 RR: 
+18
+O2 sat: 95% O2 delivery: RA 
+GEN: Alert, NAD, appears much more comfortable today
+HEENT: NC/AT
+CV: RRR, no m/r/g
+PULM: CTAB, breathing comfortably
+GI: S/NT/ND, BS present 
+EXT: no ___ edema or calf tenderness
+NEURO: Non-focal
+ 
+Pertinent Results:
+___ 06:18PM BLOOD WBC-9.3 RBC-5.06 Hgb-15.5 Hct-45.9 MCV-91 
+MCH-30.6 MCHC-33.8 RDW-13.2 RDWSD-43.7 Plt ___
+___ 06:18PM BLOOD Neuts-74.0* Lymphs-16.5* Monos-8.8 
+Eos-0.3* Baso-0.1 Im ___ AbsNeut-6.84* AbsLymp-1.53 
+AbsMono-0.81* AbsEos-0.03* AbsBaso-0.01
+___ 06:18PM BLOOD ___ PTT-27.3 ___
+___ 06:18PM BLOOD Glucose-94 UreaN-12 Creat-0.9 Na-141 
+K-4.2 Cl-102 HCO3-26 AnGap-13
+___ 06:18PM BLOOD cTropnT-<0.01 proBNP-30
+___ 07:00PM BLOOD Calcium-9.5 Phos-3.7 Mg-2.2
+___ 07:30AM BLOOD WBC-5.0 RBC-4.66 Hgb-13.9 Hct-42.9 MCV-92 
+MCH-29.8 MCHC-32.4 RDW-13.1 RDWSD-43.7 Plt ___
+___ 07:30AM BLOOD ___ PTT-91.9* ___
+___ 07:30AM BLOOD Glucose-110* UreaN-11 Creat-1.0 Na-141 
+K-4.6 Cl-101 HCO3-26 AnGap-14
+___ 07:30AM BLOOD Calcium-9.2 Phos-3.1 Mg-2.1
+
+Beta-2 glycoprotein and anticardiolipin Ab's PENDING
+
+Bilateral LENIs - IMPRESSION: 
+No evidence of deep venous thrombosis in the right or left lower 
+extremity
+veins.
+
+TTE - The left atrium is normal in size. No atrial septal defect 
+is seen by 2D or color Doppler. The estimated right atrial 
+pressure is ___ mmHg. Normal left ventricular wall thickness, 
+cavity size, and regional/global systolic function (biplane LVEF 
+= 61 %). Tissue Doppler imaging suggests a normal left 
+ventricular filling pressure (PCWP<12mmHg). The right 
+ventricular cavity is mildly dilated with normal free wall 
+contractility. The aortic arch is mildly dilated. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. There is no mitral valve prolapse. The estimated 
+pulmonary artery systolic pressure is normal. There is no 
+pericardial effusion.
+IMPRESSION: Mildly dilated right ventricle with preserved global 
+and regional biventricular systolic function. Mildly dilated 
+aortic arch. No significant valvular disease. 
+ 
+Brief Hospital Course:
+___ y/o M with PMHx of provoked pulmonary embolism in ___ in the 
+setting of a torn right ACL, with negative coagulopathy w/u at 
+that time, who presents with 3 days of worsening pleuritic chest 
+pain, found to have b/l PEs. 
+
+While the patient does have a history of provoked PE in the 
+past, his current PE's are seemingly unprovoked. He was placed 
+on a heparin gtt. Tn and BNP WNL. ___ negative for DVT, TTE 
+only with mild RV dilation and mildly enlarged aortic arch. 
+Would repeat TTE in 1 month. He was seen by hematology, who 
+recommended sending beta-2 glycoprotein and anti-cardiolipin 
+antibodies, both of which were pending at the time of discharge. 
+Age-appropriate cancer screening in this patient would include 
+testicular exam, which was performed and was negative for any 
+palpable masses. He was transitioned to Rivaroxaban at 
+discharge. Pleuritic chest pain was initially controlled with IV 
+morpine but improved throughout hospital course. He had not 
+required any morphine for 24 hours at the time of discharge.
+
+Transitional Issues:
+[] Repeat TTE in 1 month, given mild RV dilation and enlarged 
+aortic arch on inpatient TTE.
+[] Pt started on Rivaroxaban for anticoagulation.
+[] F/u beta-2 glycoprotein and anti-cardiolipin antibodies.
+[] Hematology follow-up in 3 months.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Clobetasol Propionate 0.05% Cream 1 Appl TP BID 
+2. Calcipotriene 0.005% Cream 1 Appl TP BID 
+3. Aspirin 81 mg PO DAILY 
+4. Multivitamins W/minerals 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Rivaroxaban ___ mg PO ASDIR 
+with food 
+RX *rivaroxaban [___] 15 mg (42)- 20 mg (9) 1 tablets(s) by 
+mouth AS DIRECTED Disp #*1 Dose Pack Refills:*0 
+2.  Calcipotriene 0.005% Cream 1 Appl TP BID  
+3.  Clobetasol Propionate 0.05% Cream 1 Appl TP BID  
+4.  Multivitamins W/minerals 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Bilateral Pulmonary Emboli
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted to the hospital after you were found to have 
+bilateral pulmonary emboli. You were initially treated with IV 
+heparin for anticoagulation and were then transitioned to an 
+oral anticoagulant. You were seen by the hematology team, and 
+you will follow up with them as an outpatient. As you discussed 
+with them, it is important that you avoid contact sports, 
+including skiing, while on blood thinners.
+
+As we discussed, you should follow up with your primary care 
+physician as per below. She should order a repeat echocardiogram 
+in 1 month.
+
+Instructions for rivaroxaban dosing:
+- You will take 15 mg twice a day for 3 weeks.
+- You will then take 20 mg daily.
+ 
+Followup Instructions:
+___

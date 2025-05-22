@@ -1,0 +1,302 @@
+Name:  ___                        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___
+ 
+Chief Complaint:
+High degree AV block
+ 
+Major Surgical or Invasive Procedure:
+___: Dual chamber PPM implant
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ y/o F w/ Alzheimer's Disease, Mitral and Aortic
+regurgitation, and heart failure (unknown EF), presenting now as
+a transfer for further management of high degree AV block. 
+
+Much of the history was obtained from the patient's daughter
+given patient is still slightly altered.
+
+Per her daughter, patient was having more frequent episodes of
+confusion and non-bizarre delusions recently, mainly regarding
+people stealing her things. The day prior to presentation to
+___, her daughter noted she was completely
+disoriented and hallucinating, talking to people who were not
+there. The night prior to presentation, it was assumed patient
+suffered a fall, as she was found the next morning to have new
+facial bruising. Given these changes, it was recommended by the
+staff at her assisted living facility she present to ___. 
+
+While there, she had a CT head that was negative. Her UA showed
+___ WBC and ___ bacteria, and was started on CTX for presumed
+UTI. This was stopped after three days. She was also noted to
+have intermittent heart block on EKG, initially concerning for
+2:1 AV block vs CHB. Tele showed intermittent pauses. Cardiology
+was consulted there, who recommended transfer to ___ for
+further evaluation and consideration of a pacemaker.   
+
+On arrival to the CCU, patient is complaining of a mild headache
+that started in the ambulance ride over, but otherwise reports
+feeling well. She denies any chest pain, shortness of breath, or
+dizziness. 
+ 
+Past Medical History:
+Cardiac History:  
+- Congestive heart failure (unknown EF)  
+- Mitral and Aortic Regurgitation 
+Other PMH:  
+- Alzheimer's Dementia  
+ 
+Social History:
+___
+Family History:
+No significant history of cardiac disease. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+VS: Reviewed in Metavision  
+GENERAL: Elderly appearing female in no acute distress   
+HEENT: Ecchymosis noted over right eye. No other apparent
+lesions.   
+CARDIAC: Regular hear rate and rhythm. ___ systolic murmur
+appreciated at the apex.  
+LUNGS: No increased work of breathing. CTAB
+ABDOMEN: Soft, non-tender, non-distended. 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+NEURO: CNII-XII grossly intact. Difficult to ascertain
+orientation, but per daughter, patient does not know date or
+location 
+
+DISCHARGE PHYSICAL EXAMINATION:   
+Vitals: ___ 0754 Temp: 98.0 PO BP: 148/64 R Lying HR: 79 
+RR:
+16 O2 sat: 99% O2 delivery: RA 
+GEN: AAOx3, NAD
+HEENT: NC, AT, MMM, no JVD, no carotid bruits
+___: S1 S2 RRR no MRG appreciated
+L-shoulder PPM implant site: pressure dressing removed,
+underlying dressing is clean/dry/intact. There is no edema,
+erythema or ecchymosis. The wound is mildly tender to palpation. 
+
+RESP: CTAB, good respiratory effort
+ABD: soft, NT, ND, NBS, no hepatomegaly
+EXT: warm, well-perfused, nonedematous
+NEURO: CN II-XII grossly intact, grossly normal/nonfocal exam
+
+TELEMETRY: SR with V-pacing, with episode of nonsustained AT v
+PMT rate ~140-150bpm
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 05:29AM BLOOD WBC-3.4* RBC-4.01 Hgb-11.6 Hct-36.1 
+MCV-90 MCH-28.9 MCHC-32.1 RDW-13.2 RDWSD-43.2 Plt Ct-94*
+___ 05:29AM BLOOD ___ PTT-31.7 ___
+___ 05:29AM BLOOD Glucose-102* UreaN-13 Creat-0.8 Na-143 
+K-3.9 Cl-106 HCO3-25 AnGap-12
+___ 05:29AM BLOOD ALT-15 AST-18 LD(LDH)-189 AlkPhos-36 
+TotBili-0.6
+___ 05:29AM BLOOD Albumin-4.0 Calcium-8.7 Phos-3.2 Mg-2.0
+
+DISCHARGE LABS
+___ 06:28AM BLOOD WBC-4.9 RBC-4.12 Hgb-11.9 Hct-36.7 MCV-89 
+MCH-28.9 MCHC-32.4 RDW-13.2 RDWSD-43.0 Plt Ct-96*
+___ 06:28AM BLOOD UreaN-15 Creat-0.8 Na-143 K-4.0
+___ 06:28AM BLOOD Mg-1.9
+
+MICRODATA
+___ URINE CULTURE (Final ___:    NO GROWTH
+
+REPORTS
+TTE (___):
+CONCLUSION:
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect by 2D/color Doppler. There is normal 
+left ventricular wall thickness with a normal cavity size. There 
+is normal regional and global
+left ventricular systolic function. Quantitative biplane left 
+ventricular ejection fraction is 62 % (normal 54-73%). There is 
+no resting left ventricular outflow tract gradient. Normal right 
+ventricular cavity size with normal free wall motion. Tricuspid 
+annular plane systolic excursion (TAPSE) is normal. The aortic 
+sinus diameter is normal for gender with normal ascending aorta 
+diameter for gender. The aortic arch diameter is
+normal with a normal descending aorta diameter. The aortic valve 
+leaflets (3) are mildly thickened. There is no aortic valve 
+stenosis. There is moderate [2+] aortic regurgitation. The 
+mitral valve leaflets appear
+structurally normal with no mitral valve prolapse. There is mild 
+[1+] mitral regurgitation. The pulmonic valve leaflets are 
+normal. The tricuspid valve leaflets appear structurally normal. 
+There is mild to moderate [___] tricuspid regurgitation. There 
+is mild pulmonary artery systolic hypertension. There is a 
+trivial pericardial effusion.
+IMPRESSION: Normal left ventricular wall thickness and 
+biventricular cavity sizes and regional/ global systolic 
+function. Mild-moderate aortic regurgitation with mildly 
+thickened leaflets. Mild pulmonary artery systolic hypertension. 
+Mild mitral regurgitation with normal valve morphology. 
+Mild-moderate tricuspid regurgitation.
+CLINICAL IMPLICATIONS: Based on the echocardiographic findings 
+and ___ ACC/AHA recommendations, antibiotic prophylaxis is NOT 
+recommended.
+
+EP REPORT (___):
+Findings
+___ with CHB referred for PPM placement.
+RA/RV placed via L cephalic vein.
+Device placed in subpectoral plane given limited superficial 
+tissue for closure.
+No complications.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y/o F w/ Alzheimer's Dementia, congestive
+heart failure (unknown EF), and mitral and aortic regurgitation,
+presenting now with high degree AV block for which PPM was 
+placed on ___
+
+ACUTE ISSUES:  
+=============  
+#. High Degree AV Block 
+Found to have high degree AV block with unclear etiology, though 
+on previous EKGs patient noted to have a RBBB. Most likely 
+idiopathic, with consideration for slow progression of 
+fibrosis/sclerosis. Low suspicion for ischemic heart disease 
+given lack of other consistent EKG findings or symptoms. Per 
+patient's GOC, her daughter does not feel she would want TVP 
+given the risks and discomfort of the procedure, however would 
+like a permanent pacemaker to improve overall quality of life. 
+TTE showed LVEF 62%, normal LV thickness, fxn, 2+ AR,  1+ MR, 
+___ TR. Heparin products were held prior to PPM placement. EP 
+placed PPM on ___ vis cephalic access. Chest xray negative 
+for pneumothorax.
+- Device ___ in 1 week
+- Dr. ___ ___ weeks
+- No antibiotics
+
+#. Toxic Metabolic Encephalopathy 
+#. Alzheimer's Disease 
+#. Delirium 
+Suspect patient's altered mental status is likely multifactorial 
+in setting of heart block, possible UTI (negative), and 
+delirium, all in setting of underlying Alzheimer's Disease. This 
+appears to have improved to some degree with family at bedside 
+and placement of device with restoration of rates 60-70s. She 
+was continued on home sertraline. 
+
+#. Suspected Fall
+Unwitnessed, but with facial trauma concerning for fall. 
+Reassuringly, CT head at outside hospital unremarkable. This was 
+suspected to be  in setting of heart block vs altered mental 
+status. Independent in activities and ambulating halls without 
+limitation. Plan for d/c to home with daughter and private ___.
+
+#. Possible UTI
+Treated for three days at outside hospital with CTX. Repeat UCx 
+at OSH and ___ were both negative 
+
+#. CHF 
+#. Mitral/Aortic Regurgitation 
+-TTE was notable notable for LVEF 62%, normal LV thickness, fxn, 
+2+ AR,  1+ MR, ___ TR
+
+CORE MEASURES:  
+==============  
+#LANGUAGE: ___
+#CODE: DNR/DNI   
+
+TRANSITIONAL ISSUES
+==================
+Plan for d/c home with daughter and private ___.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sertraline 50 mg PO DAILY 
+2. Vitamin D ___ UNIT PO DAILY 
+3. Cyanocobalamin 1000 mcg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  Cyanocobalamin 1000 mcg PO DAILY  
+3.  Multivitamins 1 TAB PO DAILY  
+4.  Sertraline 50 mg PO DAILY  
+5.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Complete atrioventricular block
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+Physical Exam: 
+Vitals: ___ 0754 Temp: 98.0 PO BP: 148/64 R Lying HR: 79 
+RR:
+16 O2 sat: 99% O2 delivery: RA 
+GEN: AAOx3, NAD
+HEENT: NC, AT, MMM, no JVD, no carotid bruits
+___: S1 S2 RRR no MRG appreciated
+L-shoulder PPM implant site: pressure dressing removed,
+underlying dressing is clean/dry/intact. There is no edema,
+erythema or ecchymosis. The wound is mildly tender to palpation. 
+
+RESP: CTAB, good respiratory effort
+ABD: soft, NT, ND, NBS, no hepatomegaly
+EXT: warm, well-perfused, nonedematous
+NEURO: CN II-XII grossly intact, grossly normal/nonfocal exam
+
+TELEMETRY: SR with V-pacing, with episode of nonsustained AT v
+PMT rate ~140-150bpm
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+WHY WERE YOU ADMITTED TO THE HOSPITAL?  
+ -  You came to the hospital for an irregularly slow heart 
+rhythm. 
+ 
+ WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL?  
+ -  You had a permanent pacemaker placed on ___, without 
+complications. Included in your discharge paperwork is activity 
+restrictions and left chest site care instructions. 
+ 
+ WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+ - Take all of your medications as prescribed (listed below)  
+ - Follow up with your doctors as listed below. 
+ - Seek medical attention if you have new or concerning symptoms 
+or you develop swelling in your legs, abdominal distention, or 
+shortness of breath at night. 
+
+ It has been a pleasure to have participated in your care. If 
+you have any questions related to recovery from your procedure 
+or are experiencing any symptoms that are concerning to you, 
+please call
+the ___ Heartline at ___ to speak with a cardiologist 
+or cardiac nurse practitioner.
+ 
+
+ We wish you all the best!  
+ - Your ___ Care Team  
+ 
+Followup Instructions:
+___

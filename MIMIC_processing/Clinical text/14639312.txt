@@ -1,0 +1,251 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ 
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old gentleman with PMH of DM2, HLD, 
+HTN,
+intermittent hematuria ___ year followed by ___ [Urology], who
+presents with pain with urination and fever. He reports that 
+this
+pain is mild, feels like burning, associated with urination, for
+the past two days. He reports that this started as urinary
+frequency and feelings of incomplete voiding. He then developed
+the burning pain. Also reports back pain 1 day ago, though this
+stopped. He also has had poor appetite and some nausea. He went
+to outpatient clinic, where a u/a was significant for WBC 73 (+)
+leuks (-) nitrites. Antibiotics were not started pending culture
+results. However, this morning patient felt hot to his wife, who
+checked his temperature. She states that this was 101.6. She 
+gave
+him Tylenol and brought him to the ED.
+
+On review of records, has been followed by Dr. ___ in urology 
+for
+the past year for hematuria. He has had a CTU showing bilateral
+renal cysts and a 3mm nonobstructing stone with no
+hydronephrosis. A  cystoscopy which was negative for malignant
+cells. In ___ a renal ultrasound showed mild to moderate
+right hydronephrosis, unclear whether these are secondary to UPJ
+obstruction or mass effect by the large right parapelvic cyst,
+and multiple large cortical cysts involving the left kidney.
+Therefore, he underwent a renal scan, with no evidence of
+significant functional obstruction.
+ 
+In the ED, initial vitals: T 96.5, HR 79, BP 149/87, RR 18, 100%
+RA
+ 
+Past Medical History:
+- HTN
+- Hyperlipidemia
+- Type II Diabetes
+- Chronic Hematuria with renal cysts 
+ 
+Social History:
+___
+Family History:
+Mother and father passed away of CAD in their
+___. No history of early heart disease or sudden death. No 
+family
+history of malignancy.
+ 
+Physical Exam:
+ADMISSION:
+VITALS: T 99.7, HR 80, BP 128/66, RR 16, 98% RA  
+GENERAL: Alert, tired appearing lying on side, NAD
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation. No CVA
+tenderness 
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+================================================================
+DISCHARGE:
+___ 0736 Temp: 98.4 PO BP: 138/75 HR: 61 RR: 18 O2 sat: 95%
+O2 delivery: Ra 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+SKIN: No rashes or ulcerations noted
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+___ 07:44AM BLOOD WBC: 9.5 Hgb: 12.8* Plt Ct: 160 
+___ 07:44AM BLOOD Na: 139 K: 4.2 Cl: 102 HCO3: 23 UreaN: 15
+Creat: 0.9 
+Phos: 2.6* Mg: 1.9 
+
+CXR:Cardiac, mediastinal and hilar contours appear stable.  
+There
+is no pleural effusion or pneumothorax.  Lungs appear clear. 
+IMPRESSION: No evidence of acute cardiopulmonary disease. 
+
+URINE CULTURE (Final ___: 
+ ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE  Cefazolin
+interpretative criteria are based on a dosage regimen of 2g 
+every
+8h. 
+
+    SENSITIVITIES: MIC expressed in MCG/ML
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+======================================================
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old gentleman with PMH of DM2, HLD, 
+HTN,
+intermittent hematuria ___ year followed by ___ [Urology], who
+presents with pain with urination and fever, concerning for
+sepsis ___ urinary tract infection.
+
+ACUTE/ACTIVE PROBLEMS:
+# Sepsis, likely secondary to urinary tract infection
+Patient presenting with fever, leukocytosis, with urinary
+symptoms and a positive u/a. Most likely sepsis ___ UTI. Has
+blood cultures pending. No abdominal symptoms or other 
+localizing
+symptoms noted. Was started on ceftriaxone for complicated UTI.
+Urine cx growing E coli pan-sensitive. 
+- De-escalated Abx to PO Cipro with plans to complete 2 weeks 
+Abx therapy (day 1
+appropriate Abx ___. 
+- f/u blood cultures
+- CXR unremarkable
+
+# Thrombocytopenia - 140s from 190s in ___. Likely 
+related
+to infection. No anemia to suggest MAHA. 
+- continued to monitor
+
+# Elevated lactate - In setting of normotension. Resolved with
+IVF.
+
+# History of hematuria and renal cysts
+- consider repeat renal ultrasound outpatient
+
+# Hypophosphatemia- repleted. Would recheck levels in ___ weeks.
+
+CHRONIC/STABLE PROBLEMS:
+# Hypertension
+Held home antihypertensives initially, became more hypertensive 
+so resumed home amolodipine and ___ on day of discharge.  
+
+# DMT2
+- held home metformin, resume on discharge
+- ISS in house 
+
+# Hyperlipidemia
+- continued home atorvastatin
+- continued home ezetimibe 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. amLODIPine 5 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Ezetimibe 10 mg PO DAILY 
+4. Furosemide ___ mg PO DAILY:PRN weight gain or swelling 
+5. Losartan Potassium 50 mg PO DAILY 
+6. MetFORMIN (Glucophage) 500 mg PO BID 
+7. Multivitamins 1 TAB PO DAILY 
+8. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 12 Days 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*24 Tablet Refills:*0 
+2.  amLODIPine 5 mg PO DAILY  
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 20 mg PO QPM  
+5.  Ezetimibe 10 mg PO DAILY  
+6.  Furosemide ___ mg PO DAILY:PRN weight gain or swelling  
+7.  Losartan Potassium 50 mg PO DAILY  
+8.  MetFORMIN (Glucophage) 500 mg PO BID  
+9.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Sepsis, likely secondary to urinary tract infection
+E coli urinary tract infection, present on admission
+Thrombocytopenia, mild
+Elevated lactate, resolved
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You presented with pain with urination and fever and you were 
+treated for urinary tract infection that was found to be due to 
+the bacteria called E. coli.  You have been on antibiotics with 
+this, and should continue the oral ciprofloxacin to complete on 
+___. 
+
+Please follow-up with your primary care provider outpatient in 
+the next ___ weeks.  Thank you for allowing us to participate in 
+your care.
+
+Sincerely,
+Your ___ Team
+
+ 
+Followup Instructions:
+___

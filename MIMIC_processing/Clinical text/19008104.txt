@@ -1,0 +1,216 @@
+Name:  ___            ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ w/hx ___ disease who presents w/nausea, vomiting, and
+diarrhea. Patient was seen in the ED 2 weeks ago for similar
+symptoms. He was found to have T-bili 4.1. RUQUS at this time 
+was
+unremarkable. Repeat Tbili came down to 1.8 as OP and symptoms
+resolved several days later with supportive treatment. This AM,
+patient developed sudden onset of nausea and vomiting. He has 
+not
+been able to tolerate anything to eat or drink today. He has 
+also
+been having diarrhea, no blood noticed in his stool. Endorses
+subjective fevers and chills. 
+
+ 
+Past Medical History:
+Depression
+___
+ 
+Social History:
+___
+Family History:
+Father had squamous cell and basal cell carcinoma of the skin.
+Maternal grandfather had type ___ DM. Paternal grandmother had
+CABG, melanoma, and hypertension, maternal grandmother had lung
+cancer.
+
+ 
+Physical Exam:
+Admission:
+VITALS:24 HR Data (last updated ___ @ 2158)
+    Temp: 99.4 (Tm 99.4), BP: 129/82, HR: 78, RR: 18, O2 sat:
+96%, O2 delivery: RA  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP 2+
+bilaterally.
+NEUROLOGIC: Face symmetric, moving all extremities 
+spontaneously,
+AOx3.
+
+Discharge:
+___ ___ Temp: 98.5 PO BP: 135/78 R Lying HR: 94 RR: 18 O2
+sat: 96% O2 delivery: RA 
+GEN: Well appearing, in no acute distress
+HEENT: Conjunctiva clear, PERRL, MMM
+NECK: No JVD.
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. No m/r/g.
+ABD: NT/ND, normal bowel sounds.
+EXTREMITIES: No edema.
+SKIN: No rashes.
+NEURO: AOx3. 
+
+ 
+Pertinent Results:
+Admission:
+
+___ 01:20PM BLOOD WBC-17.7* RBC-5.18 Hgb-15.3 Hct-44.1 
+MCV-85 MCH-29.5 MCHC-34.7 RDW-11.7 RDWSD-36.0 Plt ___
+___ 01:20PM BLOOD Glucose-159* UreaN-10 Creat-0.9 Na-144 
+K-3.7 Cl-102 HCO3-17* AnGap-25*
+___ 01:20PM BLOOD ALT-16 AST-25 AlkPhos-74 TotBili-2.2*
+
+Discharge:
+
+___ 05:10AM BLOOD WBC-5.6 RBC-4.91 Hgb-14.5 Hct-42.0 MCV-86 
+MCH-29.5 MCHC-34.5 RDW-11.8 RDWSD-36.8 Plt ___
+___ 05:10AM BLOOD Glucose-90 UreaN-10 Creat-0.8 Na-144 
+K-4.0 Cl-105 HCO3-25 AnGap-14
+___ 05:10AM BLOOD ALT-12 AST-16 AlkPhos-59 TotBili-2.6*
+
+Studies:
+___ CXR: No acute cardiopulmonary abnormality.
+ 
+Brief Hospital Course:
+___ is a ___ y/o M with PMH of Gilberts disease and
+depression who presents with recurrent nausea, vomiting, and
+diarrhea. Of note, that patient presented 2 weeks ago for a 
+similar episode of nausea, vomiting that was attributed to viral 
+gastroenteritis. He had no symptoms for 2 weeks, but then 
+developed acute onset nausea vomiting and diarrhea. He initially 
+had an elevated lactate in the ED requiring 4 L of fluid 
+resuscitation and antiemetics. His symptoms rapidly improved 
+after admission to the floor, with resolution of symptoms prior 
+to discharge. Recurrent symptoms are most likely due to either 
+viral gastroenteritis or - more likely - suspected contribution 
+from cannabis hyperemesis syndrome in the setting of daily 
+marijuana use.
+
+ACUTE ISSUES:
+=============
+# Nausea/Vomiting/Diarrhea
+# Leukocytosis
+Patient presents with constellation of symptoms similar to 
+episode 2 weeks prior. At that time his symptoms were attributed 
+to viral gastroenteritis and improved with supportive care. 
+Differential includes another viral gastroenteritis or 
+food-borne
+bacterial or toxin mediated process. Symptoms and chronicity 
+also raised concern for cannabis hyperemesis syndrome in setting 
+of daily marijuana use, and improvement in symptoms while 
+hospitalized and abstaining from cannabis use. The patient 
+improved with supportive care, with IV fluids and antiemetics. 
+Recommended that he undergo a diagnostic trial of abstinence 
+from cannabis for at least one month, to which he was in 
+agreement.
+
+# Hyperbilirubinemia 
+# ___ Syndrome
+Patient has pattern of indirect hyperbilirubinemia - without 
+evidence of hemolysis - in the setting of acute 
+illness/stressors and otherwise normal LFTs and RUQUS, 
+consistent with ___ syndrome. 
+
+# Weight loss
+Patient has suffered from 35 lb weight loss since starting 
+college. Initial thoughts by outpatient provider was that it was 
+due to depression. ESR and CRP were checked to rue out any 
+inflammatory process (ie IBD, other occult inflammatory process) 
+and were normal. Per patient and his mother, pt was initially 
+unhappy in his first year of college, "too busy to eat," but 
+spirits improved after transfer to ___. Weight loss should 
+be further monitored/addressed as outpatient.
+
+CHRONIC ISSUES:
+===============
+# Depression
+Continued FLUoxetine 40 mg PO DAILY 
+
+TRANSITIONAL ISSUES:
+=====================
+[ ] Continue workup into patient's ongoing weight loss
+[ ] F/u patient's bilirubin at next visit
+[ ] F/u any further episodes of nausea or vomiting
+[ ] Discuss cannabis use and cessation
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FLUoxetine 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  FLUoxetine 40 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+Viral gastroenteritis
+Hyperbilirubinemia
+___ syndrome
+Dehydration
+Diarrhea
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,  
+It was a pleasure caring of you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were hospitalized because of nausea, vomiting, diarrhea 
+and poor food intake
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You were given fluids and anti-nausea medications
+- We checks labs to make sure that your electrolytes and kidney 
+function were normal
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  
+- Please follow up with your primary care doctor as below. 
+- Let us know if you have more episodes of nausea or vomiting. 
+
+We wish you the best!  
+
+Sincerely, 
+ 
+Your ___ Team
+ 
+Followup Instructions:
+___

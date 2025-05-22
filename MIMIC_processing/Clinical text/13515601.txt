@@ -1,0 +1,260 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / Erythromycin Base / 
+Iodine-Iodine Containing
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cough
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms ___ is a ___ yo F with history of hyperlipidemia who
+presented to the ED on ___ with six weeks of productive
+cough and fever referred in by per her PCP after she completed a
+course of levofloxacin without improvement in her sx. 
+
+She also complained of central chest pain and right posterior
+chest pain that was pleuritic in nature also with mild 
+headaches,
+sinus pain and ear fullness.
+ 
+In the ED, initial VS were:  100.2 109 121/54 20 99% RA 
+
+Exam notable for: low-grade fever, tachycardia, clear lung
+sounds, tenderness to palpation of left calf without swelling.
+She has an intermittent wet-sounding cough.
+ 
+Labs showed:  WBC 10.1, Hb 9.5, Hct 27.9, D dimer 786, lactate
+1.0, flu negative
+
+Imaging showed: 
+--Unilateral ___ US: No evidence of deep venous thrombosis in the
+left lower extremity veins.
+--CXR w/no acute cardiopulmonary process
+ 
+Patient received: 1000 cc NS, 1 gram IV ceftriaxone, 100 mg
+doxycycline
+ 
+Decision was made to admit to medicine for V/Q scan
+
+Transfer VS were: 98.8 93 102/71 16 98% RA 
+
+On arrival to the floor, patient reports six weeks of productive
+cough and chest tightness. Chest tightness is associated with
+cough. Took levaquin for ten days and sx did not improve. 
+Reports
+sore throat and congestion. Endorses chest tightness that is
+associated with cough. Also endores post nasal drip. Not
+associated with breathing. Denies chest pain at rest or with
+exertion. No SOB with activity. Denies recent prolonged
+immobilization, ___ swelling or pain in the legs. Feels weak and
+with low energy. Endorses fever and night sweats. No blood in
+stools or black stools. No nausea, vomiting, or diarrhea. No
+urinary sx. 
+ 
+REVIEW OF SYSTEMS:  
+10 point ROS reviewed and negative except as per HPI
+ 
+Past Medical History:
+Hypertension
+Hyperlipidemia
+GERD
+ 
+Social History:
+___
+Family History:
+Mother: breast cancer, hyperlipidemia, hypertension
+Father: hyperlipidemia, hypertension  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+VS:  99.1 134 / 83 102 16 96 RA 
+GENERAL: NAD  
+HEENT: MMM 
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs   
+LUNGS: CTABL, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: NABS, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema, no pain with
+palpation of the leg 
+PULSES: 2+ DP pulses bilaterally  
+
+DISCHARGE PHYSICAL EXAM:
+Vitals:  98.2, HR 95, BP 120/66, RR 18, 96% Ra 
+General: alert, oriented, no acute distress  
+Lungs: clear to auscultation bilaterally, no wheezes, rales,
+ronchi  
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present,
+no rebound tenderness or guarding, no organomegaly   
+Ext: no edema
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 05:50PM BLOOD WBC-10.1* RBC-2.98* Hgb-9.5* Hct-27.9* 
+MCV-94 MCH-31.9 MCHC-34.1 RDW-13.4 RDWSD-45.8 Plt ___
+___ 05:50PM BLOOD Neuts-69.3 Lymphs-18.7* Monos-10.4 
+Eos-0.7* Baso-0.5 Im ___ AbsNeut-6.99*# AbsLymp-1.89 
+AbsMono-1.05* AbsEos-0.07 AbsBaso-0.05
+___ 05:50PM BLOOD Glucose-94 UreaN-18 Creat-0.9 Na-139 
+K-4.0 Cl-100 HCO3-26 AnGap-13
+___ 05:50PM BLOOD cTropnT-<0.01
+___ 06:30AM BLOOD cTropnT-<0.01
+___ 06:30AM BLOOD Calcium-8.7 Phos-3.6 Mg-2.1
+___ 05:50PM BLOOD D-Dimer-786*
+___ 08:51PM BLOOD Lactate-1.0
+
+OTHER PERTINENT/DISCHARGE LABS:
+===============================
+
+___ 06:30AM BLOOD WBC-10.5* RBC-2.94* Hgb-9.3* Hct-27.6* 
+MCV-94 MCH-31.6 MCHC-33.7 RDW-13.2 RDWSD-44.8 Plt ___
+
+MICROBIOLOGY:
+=============
+___ 11:18PM OTHER BODY FLUID FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+___ 9:50 am SPUTUM      Source: Expectorated. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      <10 PMNs and >10 epithelial cells/100X field. 
+      Gram stain indicates extensive contamination with upper 
+respiratory
+      secretions. Bacterial culture results are invalid. 
+      PLEASE SUBMIT ANOTHER SPECIMEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+
+___ 8:35 am SPUTUM     Site: EXPECTORATED
+      Source: Expectorated. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and >10 epithelial cells/100X field. 
+      Gram stain indicates extensive contamination with upper 
+respiratory
+      secretions. Bacterial culture results are invalid. 
+      PLEASE SUBMIT ANOTHER SPECIMEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+
+Blood cultures x2 ___ - NGTD
+
+REPORTS:
+========
+CTA ___
+No evidence of pulmonary embolism or aortic abnormality.
+Ground-glass opacities in the left upper lobe may represent a 
+mild infectious or inflammatory process.
+ 
+Brief Hospital Course:
+SUMMARY:
+___ yo F with history of hyperlipidemia who presented to the ED 
+on ___ with six weeks of productive cough and fever after 
+she completed a course of levofloxacin without improvement in 
+her sx.
+
+#Cough
+#Concern for PE
+She underwent pre-treatment prior to CTA scan given a reported 
+history of throat swelling with prior IV contrast study. There 
+were no issues with CTA and she tolerated the procedure well. 
+CTA showed no PE and ground-glass opacities in the left upper 
+lobe possibly representing a mild infectious or inflammatory 
+process. She remained afebrile and throughout her 
+hospitalization was satting in the high ___ on room air. Given 
+her constellation of symptoms, she most likely developed an 
+upper respiratory tract infection, with residual symptoms. 
+
+#HYPERTENSION
+-Continued home lisinopril
+
+#HYPERLIPIDEMIA
+-Continued atorvastatin
+
+#GERD
+-Continued pantoprazole
+
+TRANSITIONAL ISSUES:
+[] may consider outpatient pulmonology evaluation if symptoms do 
+not improve/ or resolve in the next ___ weeks
+[] full code
+[] HCP/Husband: ___, Phone number: ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 40 mg PO QPM 
+2. Pantoprazole 40 mg PO Q24H 
+3. Lisinopril 15 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth every eight (8) 
+hours Disp #*60 Tablet Refills:*0 
+2.  Benzonatate 100 mg PO TID 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*21 Capsule Refills:*0 
+3.  Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+RX *fluticasone 50 mcg/actuation 2 sprays nasal once daily Disp 
+#*1 Spray Refills:*0 
+4.  GuaiFENesin ___ mL PO Q6H 
+RX *guaifenesin 100 mg/5 mL ___ mL by mouth every 6 hours 
+Refills:*0 
+5.  Atorvastatin 40 mg PO QPM  
+6.  Lisinopril 15 mg PO DAILY  
+7.  Pantoprazole 40 mg PO Q24H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+upper respiratory tract infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at the ___ 
+___. You were recently hospitalized with a persistent 
+cough. You were evaluated with a CT scan which showed no 
+evidence of a blood clot in your lungs or a pneumonia. This is 
+good news! You should follow up with your primary care doctor to 
+continue your evaluation.
+
+Please take your medications as prescribed and keep your 
+follow-up appointments.
+
+We wish you the best!
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,226 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Brbpr, N/V/D
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+HPI(4): Ms. ___ is a ___ female with history of 
+T2DM,
+hypothyroidism, HTN who presents with 3 days of abdominal pain
+associated with bloody diarrhea. 
+
+Symptoms first started on ___ night but haven't improved 
+since
+with abdominal pain that first started in mid-abdomen but for 
+the
+past 2 days has been persistent in the LLQ with paroxysms of
+severe sharp pain and persistent soreness and discomfort all in
+the same location. She reports frankly bloody stool for the past
+2 days and 2 weeks of reflux. She denies previous history of
+similar symptoms. She only took advil once this past week but
+denies excessive NSAIDs use. She notes a recent outbreak at the
+school where she teaches with a stomach bug making its way
+around. Denies recent abx use. Denies recent travel. 
+
+In the ED: 
+Exam: 
+ AFVSS
+ diffusely tender, most TTP in LLQ
+ rectal without hemorrhoids, empty rectal vault though trace of 
+red blood, guaiac positive
+Labs: Hgb 11.8->11.6, no leukocytosis, lactate 2.8->1.2, LFTs 
+wnl
+Imaging: CT A/P with ___ sigmoid colitis
+Impression: infectious colitis
+Interventions: cipro, flagyll, 1L NS, 1L LR
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+PAST MEDICAL / SURGICAL HISTORY:
+T2DM on metformin
+HTN
+HL
+Obesity
+Hypothyroidism
+
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY: Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+
+ 
+Physical Exam:
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema. Oropharynx without
+visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, minimally tender to palpation 
+in LLQ. 
+Bowel sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly
+symmetric
+SKIN: No obvious rashes or ulcerations noted on cursory skin 
+exam
+NEURO: Alert, oriented, face symmetric, speech fluent, moves all
+limbs
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+Admission Labs 
+========================
+___ 06:15AM BLOOD WBC-5.8 RBC-3.92 Hgb-11.8 Hct-35.4 MCV-90 
+MCH-30.1 MCHC-33.3 RDW-14.5 RDWSD-48.1* Plt ___
+___ 09:56AM BLOOD Neuts-77.1* Lymphs-14.1* Monos-4.8* 
+Eos-3.2 Baso-0.2 Im ___ AbsNeut-4.79 AbsLymp-0.88* 
+AbsMono-0.30 AbsEos-0.20 AbsBaso-0.01
+___ 06:15AM BLOOD ___ PTT-28.5 ___
+___ 09:56AM BLOOD Glucose-107* UreaN-11 Creat-0.6 Na-139 
+K-4.1 Cl-103 HCO3-23 AnGap-13
+
+CT Abdomen  
+1. Submucosal edema of the distal descending and proximal 
+sigmoid colon with a trace amount of free fluid and mild 
+surrounding mesenteric fat stranding, concerning for mild 
+colitis. 
+2. 1.2 cm hypodense lesion within the body of the pancreas, if 
+further 
+evaluation is indicated recommend a nonemergent MRCP. 
+  
+Discharge Labs 
+=================================
+___ 06:15AM BLOOD WBC-5.8 RBC-3.92 Hgb-11.8 Hct-35.4 MCV-90 
+MCH-30.1 MCHC-33.3 RDW-14.5 RDWSD-48.1* Plt ___
+___ 06:15AM BLOOD Glucose-104* UreaN-6 Creat-0.5 Na-144 
+K-3.2* Cl-104 HCO3-25 AnGap-15
+___ 06:15AM BLOOD ALT-17 AST-19 LD(LDH)-176 AlkPhos-63 
+TotBili-0.7
+___ 06:15AM BLOOD Albumin-3.5 Calcium-8.7 Phos-3.7 Mg-1.7
+___ 11:19PM BLOOD Lactate-1.2
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with history of T2DM, 
+hypothyroidism, HTN who presents with 3 days of abdominal pain 
+associated with bloody diarrhea found to have colitis now 
+improving. 
+
+#Infectious colitis 
+#N/V/D 
+#Bloody diarrhea
+acute onset with positive sick contacts at work. Her c diff and 
+norovirus were negative. Her ct abdomen pelvis with mild 
+colitis. She was started on cipro and flagyl and will complete a 
+7 day course. She was treated with IVF and symptomatically 
+improved. She was able to tolerate a diet. Her Hgb was monitored 
+and remained completely stable at discharge was 11.8. 
+
+#Hypokalemia 
+Was repleted. Offered for her to stay in the hospital one more 
+day but she would rather return home. She states she will eat 
+some high potassium foods at home. 
+
+#HTN 
+blood pressure was low mostly 100-120s holding her home 
+antihypertensive. Should have her BP rechecked by her PCP and 
+restart her home hydrochlorothiazide. 
+
+#Incidentally Found 1.2 cm hypodense lesion within the body of 
+the pancreas
+-Will need MRCP as outpatient 
+
+Transitional Issues 
+==============================
+[] Restart HCTZ when blood pressure improved
+[] She is suppose to have outpatient ___ in next few weeks for 
+screening 
+[] 1.2 cm hypodense lesion within the body of the pancreas, will 
+need MRCP as outpatient  
+
+>30 minutes were spent on complex discharge 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN (Glucophage) 500 mg PO BID 
+2. Levothyroxine Sodium 100 mcg PO DAILY 
+3. Hydrochlorothiazide 12.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q4H:PRN Pain - Mild/Fever  
+2.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth twice 
+a day Disp #*14 Tablet Refills:*0 
+3.  MetroNIDAZOLE 500 mg PO TID 
+RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth three 
+times a day Disp #*21 Tablet Refills:*0 
+4.  Levothyroxine Sodium 100 mcg PO DAILY  
+5.  MetFORMIN (Glucophage) 500 mg PO BID  
+6. HELD- Hydrochlorothiazide 12.5 mg PO DAILY  This medication 
+was held. Do not restart Hydrochlorothiazide until you follow 
+with your primary care docotr as you blood pressure was low in 
+the setting of infection 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Infectious Colitis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after you had abdominal pain, 
+bleeding, and diarrhea at home. 
+
+You had a CT scan which showed colitis. This was likely from an 
+infection. You were treated with antibiotics and with this you 
+improved. You were able to eat normally. 
+
+Likely we discussed you will need to complete a 7 day course of 
+antibiotics and follow closely with your primary care doctor. 
+Your bleeding should stop. If you notice increasing bleeding, 
+large amount of blood at one time, or are worried please return 
+to the hospital. 
+
+In the setting of diarrhea and infection your blood pressure was 
+low. Do not take your hydrochlorothiazide until you follow up 
+with your primary care doctor and have your blood pressure 
+rechecked. 
+
+It was a pleasure caring for you, 
+Your ___ Team 
+
+ 
+Followup Instructions:
+___

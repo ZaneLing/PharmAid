@@ -1,0 +1,275 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cetuximab
+ 
+Attending: ___.
+ 
+Chief Complaint:
+1 month oral bleeding
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with relapsed oropharyngeal
+cancer s/p chemo, radiation, and hemiglossectomy with neck
+dissection who presents a 1 month history of intermittent oral
+bleeding from an unclear source. 
+
+In speaking with the patient and his wife, there have been 4
+episodes of bleeding over the last month, the source being
+unclear. The first 3 were just mild oozing, though the one that
+prompted this ED visit was more substantial, triggered by
+straining to stool, and after coughing up a single clot and
+bright red blood, the bleeding immediately stopped. He was sent
+to the ED because recent imaging had a question of carotid
+involvement and the thought was this may be a herald bleed.  
+
+More bothersome to him than the bleeding however is his pain,
+which has progressed significantly over the last month or so
+since stopping erbituxan (severe infusion reaction). What was
+once a localized tongue pain has now extended to his jaw, neck,
+head, and arm. His outpatient pain regimen is being escalated
+with little effect (fentanyl patch, liquid oxycodone,
+acetaminophen, and ibuprofen with hot compresses). 
+
+From a nutrition standpoint, he is on a strictly liquid diet
+because he cannot move his tongue. He is eating very little but
+is generally maintaining his weight. 
+
+He is scheduled to be discussed in multi-disciplinary tumor 
+board
+next week for further treatment options. 
+
+In the ED initial vitals were 98.6 60 ___ 99% RA. Labs
+notable for Hgb of 11.7, CT scan of neck showed bilateral 
+carotid
+and vertebral arteries are patent without evidence of stenosis,
+occlusion, or dissection. He was given fluids and his home
+pain/nausea medications. He was seen by ENT who felt like he
+could be discharged to home from a bleeding perspective. 
+
+REVIEW OF SYSTEMS 
+Full review negative except as stated in the HPI. 
+
+ 
+Past Medical History:
+-Squamous cell cancer of the right oropharynx
+-Hypothyroidism 
+
+ 
+Social History:
+___
+Family History:
+Not obtained 
+ 
+Physical Exam:
+ADMISSION:
+==========
+Vitals: 98.2 129/73 68 20 97 RA 
+Gen: Dysarthic man in no acute distress
+HEENT: right tongue is firm and elevated 
+Neck: Hard masslike painful area in right neck 
+Chest: lungs clear to auscultation bilaterally 
+CV: RRR, S1S2, no m/r/g
+Abd: soft, NTND 
+Ext: warm, no edema 
+
+DISCHARGE:
+==========
+AF, AVSS
+Alert, conversant, dysarthric. 
+RRR, CTAB, Abd ND/NT, Legs without edema 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 04:08PM   GLUCOSE-101* UREA N-16 CREAT-0.7 SODIUM-141 
+POTASSIUM-4.6 CHLORIDE-105 TOTAL CO2-25 ANION GAP-11
+___ 04:08PM   estGFR-Using this
+___ 04:08PM   CALCIUM-8.7 PHOSPHATE-3.5 MAGNESIUM-1.9
+___ 04:08PM   WBC-7.9 RBC-4.05* HGB-11.8* HCT-35.2* MCV-87 
+MCH-29.1 MCHC-33.5 RDW-13.9 RDWSD-44.0
+___ 04:08PM   NEUTS-75.0* LYMPHS-8.1* MONOS-8.8 EOS-6.9 
+BASOS-0.9 IM ___ AbsNeut-5.92 AbsLymp-0.64* AbsMono-0.69 
+AbsEos-0.54 AbsBaso-0.07
+___ 04:08PM   PLT COUNT-255
+___ 04:08PM   ___ PTT-26.9 ___
+
+DISCHARGE LABS:
+===============
+___ 06:00AM BLOOD WBC-7.2 RBC-3.98* Hgb-11.4* Hct-34.8* 
+MCV-87 MCH-28.6 MCHC-32.8 RDW-13.6 RDWSD-43.5 Plt ___
+___ 06:00AM BLOOD Plt ___
+___ 06:00AM BLOOD Glucose-96 UreaN-14 Creat-0.8 Na-137 
+K-4.2 Cl-97 HCO3-29 AnGap-11
+___ 06:00AM BLOOD Calcium-9.0 Phos-3.4 Mg-1.8
+
+MICROBIOLOGY:
+==============
+None
+
+RADIOLOGY:
+===========
+CTA Head/neck ___
+  
+No evidence of tumor invasion into or compromise of the cervical 
+vasculature. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with relapsed oropharyngeal 
+cancer who presents with bleeding from the mouth, increased 
+pain, and poor nutritional intake. He had a CTA head/neck that 
+ruled out any tumor invasion of blood vessels, and the bleeding 
+stopped spontaneously. He was admitted for pain control; seen by 
+palliative care team; and had his regimen adjusted as below 
+before discharge. His nutritional intake is poor, but the 
+patient declined inpatient placement of a PEG tube and preferred 
+to have this arranged as an outpatient by his oncologist. 
+
+#Pain control
+Outpatient pain regimen not providing adequate control. 
+Palliative care team consulted. Increased fentanyl patch to 
+100mcg. Started gabapentin 300mg TID for neuropathic pain. 
+Continued home magic mouthwash. Plan to see ___ care in 
+clinic for follow up.
+
+#Poor oral intake 
+Has had very poor PO intake secondary to pain with swallowing. 
+Seen by our inpatient nutrition team and found to be at risk for 
+malnutrition. Given multivatimin with minerals, thiamine, Ensure 
+supplements. G-tube/PEG tube has been discussed as outpatient, 
+though patient was not amenable until now. Per patient 
+preference, deferring G-tube/PEG placement to
+outpatient setting.
+
+#Oropharngeal cancer
+Scheduled to be discussed next week in multi-disciplinary tumor 
+board per patient. Outpatient oncologist and ENT made aware of 
+admission via email. Scoped by ENT in the ED and CTA performed; 
+no concern for vascular invasion by tumor. He will follow up 
+with ENT at ___ in early ___ in clinic.
+
+#Hypothyroidism 
+Continued levothyroxine 100mcg daily 
+
+#Bleeding from mouth 
+Source unclear, likely provoked by valsalva, seen by ENT who 
+felt
+like patient could have been discharged to home from a bleeding
+standpoint. Imaging not consistent with a bleed from a major
+vessel and he is no longer actively bleeding. CBC remained 
+stable throughout the admission.
+
+-Contact: wife ___ 
+-Code status: full code (confirmed)
+
+TRANSITIONAL ISSUES:
+====================
+Medications changed:
+- increased Fentanyl patch dose from 75 to 100
+- increased PRN oxycodone dose from 10mg to 15mg Q4H
+
+[] ENT to see him in clinic ___ for ongoing management of OP 
+cancer
+[] Patient instructed to make f/u appointment with his ___ 
+___ oncologist, who can arrange PEG tube placement 
+[] Patient instructed to make f/u appointment with ___ 
+palliative care clinic
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fentanyl Patch 75 mcg/h TD Q72H 
+2. OxycoDONE Liquid 10 mg PO Q4H:PRN BREAKTHROUGH PAIN 
+3. Levothyroxine Sodium 100 mcg PO DAILY 
+4. Acetaminophen (Liquid) Dose is Unknown  PO Frequency is 
+Unknown 
+5. Ibuprofen Suspension Dose is Unknown  PO Frequency is Unknown 
+
+6. Maalox/Diphenhydramine/Lidocaine ___ mL PO Q4H:PRN pain  
+
+ 
+Discharge Medications:
+1.  Docusate Sodium (Liquid) 100 mg PO BID 
+RX *docusate sodium 50 mg/5 mL 100 mg by mouth twice a day 
+Refills:*0 
+2.  Gabapentin 300 mg PO TID 
+RX *gabapentin 300 mg/6 mL (6 mL) 300 solution(s) by mouth three 
+times a day Disp #*2 Bottle Refills:*0 
+3.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals  1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg/5 mL 15 mg by mouth every four (4) hours Disp 
+#*2 Bottle Refills:*0 
+5.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram 1 powder(s) by 
+mouth daily Disp #*30 Packet Refills:*0 
+6.  Thiamine 100 mg PO DAILY Duration: 5 Days 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth daily 
+Disp #*4 Tablet Refills:*0 
+7.  Acetaminophen (Liquid) 650 mg PO Q6H:PRN Pain - Mild  
+8.  Fentanyl Patch 100 mcg/h TD Q72H 
+RX *fentanyl 100 mcg/hour  Every 72 hours Disp #*5 Patch 
+Refills:*0 
+9.  Ibuprofen Suspension 600 mg PO Q6H:PRN Pain - Mild  
+10.  Levothyroxine Sodium 100 mcg PO DAILY  
+11.  Maalox/Diphenhydramine/Lidocaine ___ mL PO Q4H:PRN pain   
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Squamous cell cancer of the right oropharynx
+
+Secondary:
+Malnutrition
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+- You were admitted because of bleeding from your mouth and 
+sever pain related to your cancer.  
+
+What was done for me while I was in the hospital?  
+- You had a CT scan of your neck which did not show any invasion 
+of blood vessels by the cancer
+- Your pain medications were adjusted to make you more 
+comfortable before sending you home
+
+What should I do when I leave the hospital?  
+- Take all your medications as prescribed
+- Make yourself appointments to see your oncologist at ___ 
+___ and our palliative care team at the ___ (see below for 
+contact information)
+- Seek medical attention if you experience recurrent bleeding, 
+worsening pain, or other symptoms that concern you. 
+
+Sincerely,  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

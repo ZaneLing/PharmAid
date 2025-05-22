@@ -1,0 +1,253 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weight loss, elevated liver enzymes
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man who is an active smoker, who
+presented to the ED after an outpatient work-up for weight loss
+revealed direct hyperbilirubinemia and CT concerning for
+cholecystitis. He had been seen ___ weeks ago in his primary 
+care
+clinic at ___ for an annual physical and mentioned about 11
+lbs weight loss over one year without attempts to lose weight. 
+He
+underwent lab evaluation, which revealed direct
+hyperbilirubinemia (1.2). His viral hepatitis work-up (hep B sAg
+and cAb IgM, Hep A IgM/Hep C) was negative. He underwent a CT
+scan with findings as follows:
+
+"Gallbladder is significantly enlarged and there is minimal
+pericholecystic fluid and/or mild wall thickening. These 
+findings
+are suggestive of acute cholecystitis, no cause is identified,
+gallbladder sludge is noted. Common bile duct is normal caliber.
+There are no suspicious liver lesions. GI/surgical consultation
+are suggested."
+
+He was referred to the ED, where he also noted recent history of
+intermittent vomiting if he overeats, particularly in the past
+___ weeks. He additionally noted pale stools in the past ___
+days. His vitals were notable for initial tachycardia to 110s,
+which subsequently improved to ___. Normotensive with normal
+oxygenation. Labs notable for mild hyponatremia (134), ALT 80,
+AST 168, Alk Phos 327, Tbili 3.6, albumin 3.0. 
+
+RUQ with:
+1. Mildly distended gallbladder with biliary sludge.  No
+additional sonographic evidence for acute cholecystitis 
+including
+no sonographic ___ sign.  If clinical concern for acute
+cholecystitis persists, consider HIDA scan for further
+evaluation. 
+2.  No biliary dilation. 
+3.  Echogenic liver consistent with steatosis. Other forms of
+liver disease and more advanced liver disease including
+steatohepatitis or significant hepatic fibrosis/cirrhosis cannot
+be excluded on this study. 
+
+He was evaluated by ACS in the Ed who felt based on exam and
+clinical data that cholecystitis was unlikely. 
+
+ROS: As per HPI, and 10 point ROS completed and otherwise
+negative.
+
+ 
+Past Medical History:
+Smoking
+ 
+Social History:
+___
+Family History:
++asthma
+ 
+Physical Exam:
+Admission Exam:
+Vital signs reviewed in flowsheet. normal
+GENERAL: Alert and in no apparent distress
+EYES: pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma.
+MMMs
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No CVA/suprapubic tenderness
+MSK: No swollen or erythematous joints
+SKIN: No rashes or ulcerations noted
+EXTR: wwp no edema
+NEURO: grossly intact
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADmission Labs:
+
+___ 08:30PM BLOOD WBC-8.2 RBC-3.64* Hgb-12.8* Hct-36.1* 
+MCV-99* MCH-35.2* MCHC-35.5 RDW-13.9 RDWSD-50.7* Plt ___
+___ 08:30PM BLOOD Glucose-105* UreaN-12 Creat-0.9 Na-134* 
+K-4.4 Cl-94* HCO3-28 AnGap-12
+___ 08:30PM BLOOD Albumin-3.0* Calcium-8.4 Phos-3.3 Mg-1.8
+___ 08:52PM BLOOD Lactate-1.7
+
+Imaging:
+MRCP- 1.  No biliary obstruction.
+2.  Mildly distended gallbladder with biliary sludge and mild 
+pericholecystic
+free fluid could be seen with biliary dyskinesia.  No imaging 
+evidence to
+suggest acute cholecystitis.
+3.  Geographic hepatic steatosis predominantly involving segment 
+___.  (Fat
+fraction 5.5%).
+4.  Moderate multilevel degenerative changes throughout the 
+thoracolumbar
+spine.
+5.  Kyphosis centered at lower thoracic vertebral body with 
+lower thoracic
+vertebral body moderate anterior compression deformities without 
+retropulsion,
+likely chronic.
+
+RUQ US- 1. Mildly distended gallbladder with biliary sludge.  No 
+additional
+sonographic evidence for acute cholecystitis including no 
+sonographic ___
+sign.  If clinical concern for acute cholecystitis persists, 
+consider HIDA
+scan for further evaluation.
+ 2.  No biliary dilation.
+ 3.  Echogenic liver consistent with steatosis. Other forms of 
+liver disease
+and more advanced liver disease including steatohepatitis or 
+significant
+hepatic fibrosis/cirrhosis cannot be excluded on this study.
+ 
+Brief Hospital Course:
+___ year old man who is an active smoker with ~10 lbs weight loss
+over the past year and intermittent vomiting with overeating who
+was found to have hyperbilirubinemia (predominately direct), 
+with
+initial CT imaging concerning for cholecystitis but subsequent
+ultrasonographic evaluation less concerning for cholecystitis.
+Despite the lack of CBD dilation, the direct hyperbilirubinemia
+is concerning for CBD obstruction (which could also cause
+gallbladder distension), so MRCP would be a reasonable next step
+in his evaluation. Could potentially all be due to biliary
+sludge. 
+
+ACUTE/ACTIVE PROBLEMS:
+
+#Direct hyperbilirubinemia (per Atrius labs) #Intermittent 
+vomiting with overeating
+#Gallbladder distension with biliary sludge.  Pt was seen by 
+surgery who felt this was NOT acute cholecystitis given lack of 
+pain or fever or other findings of same.  US imaging did not 
+suggest an etiology or acute cholecystistis.  MRCP with no clear 
+cause of LFT elevation, but did show regional fatty 
+infiltration/steatosis.  No bile duct obstruction, no e/o 
+cholecystitis, no masses.  Pt was seen by ERCP team (GI), who 
+considered EUS, but then felt this was of low utility on further 
+review of the MRCP, and that the etiology was likely 
+intra-hepatic.  Sent panels for viral hepatitis (negative), AIH 
+(pending), sprue (pending), and also iron studies.  Iron studies 
+suggest iron overload, however, in setting of acutely inflamed 
+liver, hard to interpret, and pt has no other suggestion of 
+Hemochromatosis: no dm, no hyperpigmentation, no heart failure, 
+no arthropathies, no family history.  
+
+I began to suspect etoh hepatitis as most likely etiology, 
+although the patient had denied drinking more than 'one to two 
+beers' nightly, including on repeated questioning.   Finally I 
+asked him for permission to call his wife, which he granted - 
+she endorsed to me that he has 'at least ___ shots of whisky 
+every night'.  He said this was true when I asked him to 
+confirm.  
+
+This all seems to be alcoholic hepatitis most likely.  He has no 
+pain, no bleeding, and no evidence of withdrawal. His DF on 
+admission was only 3.2.  His last drink was ___, so at d/c he 
+is ___ days out and has not manifest withdrawal.  I offered to the 
+patient to remain in hospital for ongoing abstinence, 
+monitoring, but he refused and insists on d/c home.  I think 
+this is not unreasonable as he is asymptomatic, clinically 
+stable, and with improving lab studies - lfts improving.  
+
+I discussed with him and wife extensively, the need for complete 
+abstinence - wife is throwing out all his etoh, and avoidance of 
+acetaminophen, nsaids, any meds as able.  They verbalized 
+understanding and agreement.  
+
+I recommended: repeat LFTs and iron studies by the end of the 
+week at his primary MDs office, which they agreed with.  This 
+d/c summary will be sent to primary MD by our admin staff on 
+___, and they have link to our records at any rate.  
+- ERCP consulted-->rec trending LFTs and consider EUS for 
+further
+eval
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals [Multi-Vitamin HP/Minerals]  1 
+capsule(s) by mouth daily Disp #*30 Capsule Refills:*0 
+3.  Nicotine Patch 14 mg TD DAILY 
+RX *nicotine [Nicoderm CQ] 14 mg/24 hour 1 patch daily Disp #*30 
+Patch Refills:*0 
+4.  Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) [Vitamin B-1] 100 mg 1 tablet(s) 
+by mouth daily Disp #*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+transaminities
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You have alcoholic hepatitis (alcohol-induced liver 
+injury/inflammation).  It appears to be a mild (fortunately) 
+case.  You need to ABSTAIN from: all alcohol, medications, 
+Tylenol or Tylenol-containing products, and NSAIDS (advil).  You 
+need to have your liver and iron tests repeated later this week 
+at your primary MDs office. 
+
+IF you develop shakes, confusion, sweats, or any blood in your 
+bowel movement, you need to return immediately to the hospital 
+as we discussed at length, and as I discussed with your wife 
+___. 
+
+You should consider treatment for alcoholism, in the form of 
+counseling or group therapy.  Please discuss this with your 
+primary MD and social work at your primary MD office.
+ 
+Followup Instructions:
+___

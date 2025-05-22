@@ -1,0 +1,309 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+================
+___ 04:44AM BLOOD WBC-11.2* RBC-4.53* Hgb-13.2* Hct-40.6 
+MCV-90 MCH-29.1 MCHC-32.5 RDW-13.9 RDWSD-45.7 Plt ___
+___ 04:44AM BLOOD Neuts-80.8* Lymphs-9.9* Monos-7.1 
+Eos-0.3* Baso-0.4 Im ___ AbsNeut-9.01* AbsLymp-1.10* 
+AbsMono-0.79 AbsEos-0.03* AbsBaso-0.05
+___ 04:44AM BLOOD Glucose-211* UreaN-18 Creat-0.9 Na-129* 
+K-4.9 Cl-93* HCO3-21* AnGap-15
+___ 04:44AM BLOOD ALT-13 AST-21 AlkPhos-66 TotBili-0.6
+___ 04:44AM BLOOD Lipase-64*
+___ 04:44AM BLOOD cTropnT-<0.01
+___ 04:44AM BLOOD Albumin-4.3 Calcium-9.3 Phos-2.1* Mg-2.1
+___ 04:44AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 04:58AM BLOOD Lactate-3.9*
+
+PERTINENT INTERVAL LABS
+===========================
+___ 08:16AM BLOOD Lactate-3.4*
+___ 04:04PM BLOOD Lactate-2.9*
+___ 12:42AM BLOOD Lactate-1.2
+
+DISCHARGE LABS
+===================
+___ 07:40AM BLOOD WBC-8.5 RBC-3.84* Hgb-11.2* Hct-33.9* 
+MCV-88 MCH-29.2 MCHC-33.0 RDW-13.8 RDWSD-44.4 Plt ___
+___ 07:40AM BLOOD Glucose-126* UreaN-12 Creat-0.9 Na-135 
+K-4.5 Cl-98 HCO3-25 AnGap-12
+___ 07:40AM BLOOD Calcium-8.1* Phos-3.1 Mg-2.0
+
+IMAGING STUDIES
+====================
++MRI head w/ and w/o contrast ___. Severely motion degraded postcontrast images.  No gross 
+evidence for an 
+enhancing intracranial mass. 
+2. No evidence for an acute infarction or edema. 
+3. Moderately extensive T2/FLAIR signal abnormalities in the 
+supratentorial 
+white matter are nonspecific but most likely sequela of chronic 
+small vessel 
+ischemic disease in this age group. 
+
++CT head w/o contrast ___. No evidence of acute intracranial process. 
+2. Brain parenchymal atrophy, most conspicuous in the 
+cerebellum. 
+3. Probable sequelae of chronic small vessel ischemic disease 
+
++MRI L spine ___. Subacute L4 anterior superior endplate fracture with 
+approximately 20% loss 
+of height.  While there is no focal retropulsion of the 
+posterior endplate, 
+there is grade 1 anterolisthesis at L3-L4 and mild 
+retrolisthesis at L4-L5.  
+No evidence for an underlying mass. 
+2. Status post left L4 and L5 laminectomies.  Granulation tissue 
+in the 
+laminectomy beds does not encroach on the thecal sac.  At L5-S1, 
+traversing S1 
+nerve roots are surrounded by the granulation tissue and also 
+contacted by 
+facet osteophytes, with greater mass effect on the left than 
+right. 
+3. Multilevel degenerative disease.  Mild spinal canal narrowing 
+with mild 
+intrathecal nerve root crowding (but no compression) from L1-L2 
+through L3-L4. 
+Contact of traversing and exiting nerve roots at multiple 
+levels, as detailed 
+above. 
+4. No evidence for osseous or epidural metastatic disease.  No 
+evidence for 
+intrathecal metastatic disease allowing for motion artifact. 
+PREVALENCE:  Prevalence of lumbar degenerative disk disease in 
+subjects 
+without low back pain: 
+Overall evidence of disk degeneration 91% (decreased T2 signal, 
+height loss, 
+bulge) 
+T2 signal loss 83% 
+Disk height loss 58% 
+Disk protrusion 32% 
+Annular fissure 38% 
+___, et all.  Spine ___ 26(10):___ 
+Lumbar spinal stenosis prevalence- present in approximately 20% 
+of 
+asymptomatic adults over ___ years old 
+___, et al, Spine Journal ___ 9 (7):___ 
+  
+These findings are so common in asymptomatic persons that they 
+must be 
+interpreted with caution and in context of the clinical 
+situation. 
+
+EEG ___
+Official read pending at time of discharge, but preliminarily 
+indicative of moderate diffuse encephalopathy, no epileptiform 
+discharges seen and no seizures. 
+ 
+Brief Hospital Course:
+=======================
+Transitional Issues:
+=======================
+[] started on Keppra 500mg BID for seizure prophylaxis for 
+upcoming flight back to ___
+[] recommend scheduling appointment with a Neurologist as soon 
+as your return to ___
+[] recommend scheduling appointment with primary care physician 
+after discharge, obtain blood draw for sodium
+[] Patient is on a combination blood pressure medication 
+(HCTZ/valsartan), however presented with hyponatremia - 
+discharged on valsartan alone
+[] discharged on azithromycin for CAP, to be completed ___
+[] EEG final read pending at time of discharge, but preliminary 
+indicative of moderate diffuse encephalopathy, no epileptiform 
+discharges seen and no seizures. 
+
+ASSESSMENT AND PLAN: 
+___ yo M with PMHx prostate cancer (on enzalutamide), HTN, CAD 
+s/p 3v CABG, AVR, cognitive impairment and recent lumbar back 
+surgery who presented with an episode of confusion and decreased 
+responsiveness, found to have findings c/f pna, hypoNa. 
+Presentation concerning for provoked seizure.
+ 
+ACUTE ISSUES:  
+=============
+#c/f Seizure, provoked
+#Confusion
+Patient presented after an episode of decreased responsiveness 
+associated with shaking of his extremities and clenching of his 
+jaw. It is unclear if at that time he was able to follow 
+commands, however patient does not remember the event and had 
+confusion following the event, lactate elevated on admission, 
+all concerning for possible seizure iso infection and 
+hyponatremia. Has baseline cognitive decline which may have 
+contributed to ongoing memory difficulty. CT head without acute 
+process, however did show brain parenchymal atrophy, mostly in 
+the cerebellum, as well as probable sequelae of chronic small 
+vessel ischemic disease. MRI w/ and w/o contrast wnl, other than 
+small vessel disease. EEG final read pending at time of 
+discharge, but preliminary indicative of moderate diffuse 
+encephalopathy, no epileptiform discharges seen and no seizures. 
+Pt continued to have mild memory issues at time of discharge but 
+was overall improved. Pt was discharged on Keppra 500mg BID for 
+prophylaxis given upcoming flight back to ___, with 
+instructions to make appointment with Neurologist as soon as he 
+returns to ___.
+
+#Community Acquired Pneumonia
+Pt presented with confusion and episode of AMS now resolved. 
+Reports 1 week history of mild cough and "tickling" in his 
+throat, family members have been sick around him. Mild chest 
+pain bilaterally that he cannot further describe. Also with 
+generalized weakness. Flu swab negative. CXR on admission with
+left lower lobe hazy opacity with parapneumonic effusion, 
+concerning for PNA. Pt also with elevated lactate on admission, 
+possibly ___ seizure, however improved with IVF back to wnl. Pt 
+remained afebrile, hemodynamically stable, with stable O2 sats 
+on room air. Patient was treated with antibiotics while 
+inpatient, and discharged with azithromycin for remainder of 
+5-day antibiotic course.
+
+#Hyponatremia
+Pt with Na 129 on admission. Per report, had decreased appetite 
+however daughter states he has been eating balanced diet. Per 
+patient, may have been taking in less fluids at home. C/f 
+hypovolemic hyponatremia given elevated lactate and report of 
+decreased PO intake. Low serum osm on admission 276. s/p 1L IVF
+in ED. Received another 1L IVF yesterday with improvement in Na 
+to 135. Patient was taking hydrochlorothiazide prior to 
+admission, which was held during admission and discontinued, as 
+may be contributing to hyponatremia.
+
+___ weakness
+#Lumbar spine disease/fracture s/p surgery
+Likely related to underlying spinal pathology. Unclear if 
+patient has mets to spine, or if issues arose after acute 
+fracture. Per family friend, patient had lumbar surgery for a 
+fracture several months ago. Since that time patient's back pain 
+has improved and he has been more mobile. On exam, patient has 
+___ weakness
+bilaterally, right greater than left. No saddle anesthesia. 
+Patient notes unsteadiness on his feet and balance issues, which 
+may be related to underlying spinal disease. Given above and 
+history of prostate cancer, MR ___ performed, which did not 
+show evidence of compression or metastatic disease to the spine.
+
+CHRONIC ISSUES:  
+===============  
+#CAD s/p CABG
+Continued on home Crestor 10mg Daily, Aspirin 81mg Daily, 
+Metoprolol 25mg daily (home frequency unknown).
+
+#HTN
+Continued Metoprolol tartrate 25mg (home frequency unknown). 
+Home valsartan/HCTZ initially held as BPs soft. BPs then 
+returned to normal/elevated, so Valsartan was restarted. HCTZ 
+was held and discontinued on discharge as may have contributed 
+to hyponatremia.
+
+#Prostate Cancer, metastatic
+Home Enzalutamide 160mg daily non-formulary, requested that 
+patient bring from home.
+
+#Depression
+Home Brintellix 5mg daily non-formulary, requested that patient 
+bring from home.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. enzalutamide 160 mg oral DAILY 
+2. Rosuvastatin Calcium 10 mg PO QPM 
+3. Aspirin 81 mg PO DAILY 
+4. Metoprolol Tartrate 25 mg PO DAILY 
+5. vortioxetine 5 mg oral DAILY 
+6. Acetaminophen 500 mg PO DAILY 
+7. Diovan HCT (valsartan-hydrochlorothiazide) 80-12.5 mg oral 
+DAILY 
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO DAILY Duration: 4 Doses  
+2.  Valsartan 80 mg PO DAILY 
+This medication will replace Co-Diovan  
+3.  Acetaminophen 500 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  enzalutamide 160 mg oral DAILY  
+6.  Metoprolol Tartrate 25 mg PO DAILY  
+7.  Rosuvastatin Calcium 10 mg PO QPM  
+8.  vortioxetine 5 mg oral DAILY 
+Brintellix  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Seizure
+
+Secondary Diagnosis: Community Acquired Pneumonia
+                     Hyponatremia
+                     Lower extremity weakness
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+Dear Mr. ___,  
+
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You had an episode of shaking and stiffness, followed by 
+confusion. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- It was felt that you had a seizure, likely provoked in the 
+setting of infection and low sodium levels.
+- You were found to have pneumonia and were treated with 
+antibiotics, to be continued for 3 more days once you leave the 
+hospital
+- You were found to have a low sodium level in the blood, which 
+improved with IV fluids.
+- You had imaging of your brain and spine which did not show any 
+evidence of prostate cancer metastasis. Your brain imaging 
+showed evidence of small vessel disease (normal signs of aging), 
+which is likely contributing to some of your memory issues.  
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Please continue to take all of your medications.
+- Please see your doctor as soon as you get back to ___. 
+- Please continue to stay hydrated and drink fluids throughout 
+the day.
+
+We wish you the best! 
+ 
+Sincerely,  
+
+Your ___ Team  
+ 
+Followup Instructions:
+___

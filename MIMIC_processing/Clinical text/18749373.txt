@@ -1,0 +1,288 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea and Chest Tightness ___ Asthma Exacerbation
+ 
+Major Surgical or Invasive Procedure:
+N/A
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with pmhx asthma (last flare 
+at ___ ___ years ago), presenting from ___ 
+___ worsening SOB and dry cough since last ___. She has 
+been using her albuterol metered dose inhaler more or less 
+around-the-clock q2-3 hours. Prior to this exacerbation, she has 
+not needed her albuterol for the last few years. She presented 
+to her PCP where her peak flow remained at 160 L/min despite 
+nebulized albuterol treatment (predicted 450 L/min). Her PCP 
+gave her 60mg prednisone.
+
+Patient has long history of asthma. Several hospitalizations as 
+a child. She denies prior ICU admissions or intubations. No 
+specific triggers, but pollen, cigarette smoke, dust, and cold 
+weather seem to make her asthma worse.Patient does not smoke. No 
+recent traumas. No hx of dvt/pe, no recent 
+surgeries/hospitalizations/long periods of immobilization, no 
+hemoptysis. She does endorse chills and chronic nasal 
+congestion. She also endorses worsening bloody stools in the 
+setting of constipation; patient attributes this to Vitamin D 
+supplementation. 
+
+In the ED, initial vitals were: 98.8 HR 88 BP 142/78 RR 20 98%
+RA. Her exam was notable for: Lungs tight w scattered wheezes. 
+Labs were notable for: WBC 7.9, proBNP <5, Urine w/18 WBCs, few 
+bacteria, trace leuks. Studies were notable for: CXR with subtle 
+opacity at the left lung base. The patient was given: 
+Azithromycin/CTX, Duonebs x5, 1L LR, 1L
+NS 
+
+On arrival to the floor, she endorsed the above history. She 
+states she feels much better, but the SOB is worsening as her 
+last duoneb >1 hour ago. She can't think of anything that 
+triggered her recent attack. She adds that she has thick 
+carpeting that hasn't changed in years, and she got a cat since 
+she's had since ___. She feels Advil causes chest tightness 
+and exacerbates her asthma. 
+
+ 
+Past Medical History:
+Intermittent asthma without complication 
+Chronic fatigue 
+Vitamin D deficiency 
+Iron deficiency anemia 
+
+ 
+Social History:
+___
+Family History:
+Extensive family history of asthma.
+ 
+Physical Exam:
+ADMISSION EXAM:
+===============
+VITALS: 98.3 BP 152/79 HR114  RR18  94%  Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No 
+murmurs/rubs/gallops.
+LUNGS: Significant diffuse bilateral wheezes. No rhonchi or 
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+ bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs 
+spontaneously. ___ strength throughout. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS:24 HR Data (last updated ___ @ 518)
+    Temp: 97.9 (Tm 98.3), BP: 132/76 (132-152/76-79), HR: 99
+(99-114), RR: 18, O2 sat: 95% (94-95), O2 delivery: ra  
+GENERAL: Well appearing woman, sitting in bed with duoneb, in no 
+acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. 
+LUNGS: Significant diffuse bilateral wheezes. No rhonchi or 
+rales. No increased work of breathing
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep 
+palpation in all four quadrants. 
+EXTREMITIES: No clubbing, cyanosis, or edema.
+SKIN: Warm. No rashes.
+NEUROLOGIC: AOx3. Moving all 4 limbs spontaneously.
+PSYCH: behavior and affect appropriate
+
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+==================
+___ 04:45PM BLOOD WBC-7.9 RBC-4.19 Hgb-12.7 Hct-38.7 MCV-92 
+MCH-30.3 MCHC-32.8 RDW-13.1 RDWSD-43.8 Plt ___
+___ 04:45PM BLOOD Neuts-86.5* Lymphs-10.0* Monos-2.0* 
+Eos-0.9* Baso-0.3 Im ___ AbsNeut-6.82* AbsLymp-0.79* 
+AbsMono-0.16* AbsEos-0.07 AbsBaso-0.02
+___ 04:45PM BLOOD Glucose-99 UreaN-9 Creat-0.7 Na-140 K-4.3 
+Cl-103 HCO3-23 AnGap-14
+
+___ 04:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-TR*
+___ 04:20PM URINE  RBC-1 WBC-18* BACTERIA-FEW* YEAST-NONE 
+EPI-1
+
+LABS ON DISCHARGE:
+==================
+___ 07:00AM BLOOD WBC-7.6 RBC-3.76* Hgb-11.2 Hct-34.9 
+MCV-93 MCH-29.8 MCHC-32.1 RDW-13.2 RDWSD-44.8 Plt ___
+___ 07:00AM BLOOD Glucose-90 UreaN-10 Creat-0.7 Na-140 
+K-4.4 Cl-105 HCO3-21* AnGap-14
+___ 07:00AM BLOOD Calcium-8.4 Phos-4.2 Mg-2.2
+
+IMAGING:
+========
+CXR ___
+FINDINGS:  
+PA and lateral views of the chest provided.  Subtle opacity at 
+the left lung base may represent an early pneumonia.  Elsewhere, 
+lungs are clear.  No large effusion or pneumothorax.  
+Cardiomediastinal silhouette is normal.  Imaged bony structures 
+are intact. 
+  
+IMPRESSION:  
+Subtle opacity at the left lung base may represent an early 
+pneumonia. 
+
+MICROBIOLOGY:
+=============
+Blood and urine cultures pending at discharge without growth to 
+date
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE:
+======================
+Ms. ___ is a ___ year old woman with a past medical history 
+of intermittent asthma who presented to the ED from her PCP's 
+office after receiving 60mg Prednisone for dyspnea and chest 
+tightness concerning for an asthma exacerbation. Treated with 
+duonebs in the ED without significant improvement in symptoms. 
+Peak flow persistently < 50% predicted so patient admitted to 
+medicine. CXR on admission concerning for possible pneumonia and 
+she was started on CTX and Azithromycin. Prednisone was 
+continued at a reduced dose of 40mg daily with plan to complete 
+5 day burst for asthma exacerbation. Patient rapidly improved 
+once admitted and was felt to be clinically ready for discharge 
+morning after admission on ___. Ceftriaxone was discontinued at 
+discharge, azithromycin monotherapy for pneumonia continued to 
+complete 5 day course.
+
+TRANSITIONAL ISSUES:
+====================
+-Follow Up Appointments: PCP
+-___: Prednisone 40mg daily (___nd ___ and Azithromycin 250 mg Daily (End ___ need inhaled steroid if has another exacerbation 
+-Reports several months of nasal congestion and postnasal drip. 
+recommended OTC fluticasone nasal spray and cetirizine to 
+patient, please follow up her symptoms. 
+
+PROBLEM-BASED SUMMARY:
+======================
+ACUTE ISSUES:
+
+#Severe Asthma Exacerbation:
+Ms. ___ presented with a PEF <50% of predicted. Patient had 
+already received prednisone 60mg and 2g magnesium sulfate IV at 
+her PCP's office prior to arrival in ED. Given patient's 
+worsening oxygen saturation despite duonebs x5, patient admitted 
+to hospital. Patient had no cyanosis, depressed mental status, 
+or inability to maintain respiratory effort. Patient was 
+continued on Q2H nebs overnight after admission. The morning 
+after admission, ___, patient was subjectively feeling much 
+better. Her peak flow at the bedside was 300L/min in the morning 
+and 350L/min in the afternoon. Given her impoving symptoms, Ms. 
+___ was felt to be clinically ready for discharge. She will 
+be continued on prednisone 40mg daily to complete a course of 5 
+total days. Additionally, she is being sent with a replacement 
+albuterol inhaler. She will follow up with her PCP in ___ week. 
+
+#CAP:
+Ms. ___ was found to have early signs of a community 
+acquired pneumonia in the LLL on her ED CXR. Given the imaging 
+findings and her subjective coughing and worsened congestions 
+recently, she was started on azithromycin/CTX in the emergency 
+room and transitioned to an azithromycin monotherapy 5 day 
+course on discharge. She will complete this course of 
+antibiotics on ___. 
+
+CHRONIC ISSUES:
+
+#Iron Deficiency Anemia:
+Patient should continue home supplementation.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 1 PUFF IH Q6H PRN
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO DAILY Duration: 4 Doses 
+continue until ___  
+2.  PredniSONE 40 mg PO DAILY Duration: 4 Days 
+Continue until ___.  
+3.  Albuterol Inhaler 1 PUFF IH Q6H Hasn't used inhaler in years 
+prior to current flare  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+Asthma exacerbation
+Community-acquired pneumonia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a privilege taking care of you at ___ 
+___.  
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+-You were admitted because you were having a severe asthma 
+exacerbation
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+-While you were in the hospital we continued frequent nebulizers 
+to treat your asthma and help with your shortness of breath. We 
+continued therapy with steroids which had been started at your 
+PCPs office. You will complete a 5 day course of steroids for 
+your asthma exacerbation. You were also found to have a 
+pneumonia on chest X-Ray. We initially gave you antibiotics by 
+mouth and through your IV to treat this. You improved quickly 
+and it was felt that you would be safe to go home on only one 
+antibiotic by mouth to treat your pneumonia
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+============================================  
+Please continue to the prednisone and azithromycin until 
+___. You may use your albuterol inhaler as needed, and 
+inform your PCP if  you require more rescue puffs than you do at 
+baseline when you return home. Follow up with your doctors at 
+your ___ appointments.  
+
+For your allergies: 
+- You can try Cetirizine (brand name is ___, but generic 
+works fine) 10mg daily to see if your congestion improves. 
+- You can also try Fluticasone (brand name is ___, but 
+generic works fine) nasal spray for your congestion as well. 
+
+We wish you all the best!
+
+Sincerely,  
+Your ___ Care Team
+ 
+Followup Instructions:
+___

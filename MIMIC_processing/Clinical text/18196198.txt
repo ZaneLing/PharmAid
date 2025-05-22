@@ -1,0 +1,346 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+seizure
+ 
+Major Surgical or Invasive Procedure:
+none 
+
+ 
+History of Present Illness:
+HPI: The patient is a ___ yr M w/ PMH of HIV (last CD4 count=500) 
+and congenital deafness who presents for two events in last day 
+concerning for seizures. Hx obtained from pt and partner at 
+bedside with assistance of ASL interpreter.
+
+Pt reports that earlier in day upon standing pt began to feel 
+dizzy w/ strange sensation in his chest and diaphoresis. He lost 
+his balance and subsequently fell, with partner catching him. Pt 
+reports losing consciousness and partner noted him to shake his 
+L arm as well as develop perioral cyanosis. Event lasted for a 
+few minutes prior to pt waking up with postictal lethargy. 
+Denies any associated tongue biting, urinary incontinence, or 
+headache but did develop loose bowels. EMS was called and pt was 
+brought to OSH. While there waiting on stretcher, he was seen by 
+partner to lose consciousness and develop shaking movements of 
+extremities associated with eyes rolled up and foaming at the 
+mouth. He was given 2mg Ativan and 2g Keppra with resolution 
+after ___ minutes. Pt woke up with postictal confusion, not 
+knowing where he was. Due to this recurrent event in setting of 
+HIV infxn, pt was transferred to ___ for further management.
+
+Pt denies any events like this in the past, with no recent sleep 
+deprivation, acute stress, f/c, falls, or infxns. Pt does not 
+know his family history. Outside ED room, partner states that pt 
+does not appear to be at his cognitive baseline (signing much 
+slower than usual) and has occasionally missed his HIV therapy 
+in the recent past, with his current CD4 count (at 500) the 
+lowest it has been.
+  
+Neurologic and General ROS negative except as noted above
+
+ 
+Past Medical History:
+PMH/PSH:  
+HIV infection (last CD4 count=500); pt cannot recall name of his 
+HIV doctor although is in ___
+ 
+Social History:
+___
+Family History:
+Unknown (pt states his family lives in ___ and they are 
+estranged)
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION  
+Vitals: T: 98.2 HR: 100 BP: 106/82 RR: 16 SaO2: 96% RA  
+General: NAD  
+HEENT: NCAT, no oropharyngeal lesions, neck supple  
+___: RRR, no M/R/G  
+Pulmonary: CTAB, no crackles or wheezes  
+Abdomen: Soft, NT, ND, +BS, no guarding  
+Extremities: Warm, no edema  
+
+Neurologic Examination:  
+Awake, alert, oriented to person, "hospital", and month (states 
+it is the ___ and year is ___. Able to relate history without 
+difficulty although noted to have inconsistencies throughout 
+interview. ___ impaired with inability to recall current events 
+or name of president. Attentive to examiner. While speech cannot 
+be accurately assessed, informed that pt's ASL is slower than 
+usual. No evidence of hemineglect. No ___ confusion. Able 
+to follow both midline and appendicular commands. 
+ 
+- Cranial Nerves - PERRL 4->2 brisk. VF full to number counting. 
+EOMI, no nystagmus. ___ without deficits to light touch 
+bilaterally. No facial movement asymmetry. Congenital deafness 
+noted. SCM/Trapezius strength ___ bilaterally. Tongue midline.  
+
+- Motor - Normal bulk and tone. No drift. No tremor or 
+asterixis. 
+   [Delt] [Bic] [Tri] [ECR] [IP] [Quad] [Ham] [TA] [Gas]
+    [C5]  [C5]  [C7]  [C6]  [L2]  [L3]  [L5]  [L4] [S1]
+ L   5     5     5     5     5    5     5     5     5    
+ R   5     5     5     5     5    5     5     5     5    
+- Sensory - No deficits to light touch, temperature, or 
+proprioception bilaterally. No extinction to DSS. 
+
+-DTRs:  
+[Bic] [Tri] [___] [Quad] 
+     L  2+    2+     2+      1       
+     R  2+    2+     2+      1         
+Plantar response flexor bilaterally.  
+
+- Coordination - No dysmetria with finger to nose testing 
+bilaterally. 
+
+- Gait - Pt able to move to side of bed briskly, although seen 
+to have significant sway upon attempting to stand. 
+
+DISCHARGE PHYSICAL EXAM 
+
+PHYSICAL EXAMINATION  
+Vitals: T 97.4F, BP 132/84, HR 91, RR 16, O2 SAT 93% RA 
+General: NAD  
+Abdomen: Soft, NT, ND, +BS, no guarding, no hepatosplenomegaly   
+
+Extremities: Warm, no edema  
+
+Neurologic Examination:  
+Awake, alert, oriented to person, place and time. Slight 
+inattention. Signing normally and participating in conversation. 
+No ___ confusion. Able to follow both midline and 
+appendicular commands. 
+ 
+- Cranial Nerves - PERRL 4->2 brisk. VF full to number counting. 
+EOMI, no nystagmus. ___ without deficits to light touch 
+bilaterally. No facial movement asymmetry. Congenital deafness 
+noted. SCM/Trapezius strength ___ bilaterally. Tongue midline.  
+
+- Motor - Normal bulk and tone. No drift. No tremor or 
+asterixis. 
+   [Delt] [Bic] [Tri] [ECR] [IP] [Quad] [Ham] [TA] [Gas]
+    [C5]  [C5]  [C7]  [C6]  [L2]  [L3]  [L5]  [L4] [S1]
+ L   5     5     5     5     5    5     5     5     5    
+ R   5     5     5     5     5    5     5     5     5    
+- Sensory - No deficits to light touch, temperature, or 
+proprioception bilaterally. No extinction to DSS. 
+
+-DTRs:  
+[Bic] [Tri] [___] [Quad] 
+     L  2+    2+     2+      1       
+     R  2+    2+     2+      1         
+Plantar response flexor bilaterally.  
+
+- Coordination - No dysmetria with finger to nose testing 
+bilaterally. 
+
+- Gait - normal gait 
+
+ 
+Pertinent Results:
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW RDWSD Plt 
+Ct 
+___ 09:05AM    5.0 3.90* 13.6* 39.5* 101* 34.9* 34.4 
+13.3 49.9* 264 Import Result 
+
+ 
+___ 01:20PM    5.8 3.97* 13.7 38.8* 98 34.5* 35.3 13.2 
+47.4* 315 Import Result 
+
+ 
+___ 07:55PM    11.1* 3.91* 13.7 37.0* 95 35.0* 37.0 12.7 
+44.2 335 Import Result 
+
+ 
+ DIFFERENTIAL Neuts Bands Lymphs Monos Eos Baso Atyps Metas ___ 
+___ AbsLymp AbsMono AbsEos AbsBaso 
+___ 01:20PM    72.7*   17.9* 8.4 0.2* 0.5       0.3 
+4.21# 1.04* 0.49 0.01* 0.03 Import Result 
+
+ 
+___ 07:55PM    80.1*   11.9* 7.1 0.1* 0.2     0.2* 0.6 
+8.87* 1.32 0.79 0.01* 0.02 Import Result 
+
+ 
+ BASIC COAGULATION ___, PTT, PLT, INR) Plt Ct 
+___ 09:05AM    264 Import Result 
+
+ 
+___ 01:20PM    315 Import Result 
+
+ 
+___ 07:55PM    335 Import Result 
+
+ 
+ T LYMPHOCYTE SUBSET  WBC Lymph Abs ___ CD3% Abs CD3 CD4% Abs 
+CD4 CD8% Abs CD8 CD4/CD8 
+___ 01:20PM    PND PND PND PND PND PND PND PND PND PND 
+Import His CD4 count is lower than prior at 330
+
+ 
+ 
+
+Chemistry 
+ RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+___ 09:05AM    101* 9 0.9 139 3.6 ___ Import 
+Result 
+
+ 
+___ 01:20PM    138* 8 1.0 135 3.5 ___ Import 
+Result 
+
+ 
+___ 07:55PM    113* 6 0.9 124* 3.6 88* 19* 21* Import 
+Result 
+
+ 
+ ESTIMATED GFR (MDRD CALCULATION) estGFR 
+___ 07:55PM    Using this Import Result 
+
+ 
+ ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase 
+TotBili DirBili 
+___ 01:20PM    54* 152* 348* 3235* 150*   0.7   Import 
+Result 
+
+ 
+___ 07:55PM    52* 127*     119   0.8   Import Result 
+
+ 
+ OTHER ENZYMES & BILIRUBINS GGT 
+___ 01:20PM    315* Import Result 
+
+ 
+ CHEMISTRY TotProt Albumin Globuln Calcium Phos Mg UricAcd Iron 
+___ 09:05AM          8.7 2.1* 2.2     Import Result 
+
+ 
+___ 01:20PM      4.0   8.6 2.4* 2.4     Import Result 
+
+ 
+___ 07:55PM      4.0   8.3* 2.3* 2.3     Import Result 
+
+ 
+ HEMATOLOGIC VitB12 Folate 
+___ 01:20PM    528 12 Import Result 
+
+ 
+ PITUITARY TSH 
+___ 01:20PM    1.4 Import Result 
+
+ 
+ TOXICOLOGY, SERUM AND OTHER DRUGS ASA Ethanol Acetmnp Bnzodzp 
+Barbitr Tricycl 
+___ 07:55PM    NEG NEG NEG NEG NEG NEG Import Result 
+
+ 
+ LAB USE ONLY LtGrnHD GreenHd Prblm HoldBLu RedHold 
+___ 01:30AM            HOLD Import Result 
+
+ 
+___ 07:55PM          HOLD   Import Result 
+
+ 
+___ 07:55PM    HOLD         Import Result 
+
+ 
+___ 07:55PM      HOLD       Import Result 
+
+ 
+___ 10:40AM        ___ ___      ___ Result 
+
+ 
+ VIRAL LOADS CMV VL 
+___ 09:05AM    PND Import Result 
+
+ 
+ LAB USE ONLY 
+___ 09:05AM    Import Result 
+
+ 
+___ 01:20PM    Import Result 
+
+ 
+___ 07:55PM    Import Result 
+
+ 
+ 
+
+Blood Gas 
+ WHOLE BLOOD, MISCELLANEOUS CHEMISTRY Na 
+___ 01:41AM    131* Import Result 
+ 
+ 
+
+ 
+Brief Hospital Course:
+Patient is a ___ old male with HIV who presented with new onset 
+GTC (2 last <5min each within 24hr period). Seizures possibly in 
+setting of hyponatremia (Na 124 on admission which resolved) vs 
+infection vs inflammatory process. His MRI showed prominent 
+ventricles and a punctate lesion around the left periventricular 
+area. An LP was done and CSF studies were sent for EBV, viral 
+and tb cultures. Patient also had elevated LFT and GGT and plan 
+was to conduct CT torso however patient refused. Patient refused 
+EEG testing as well, however he did not have any further 
+clinical seizures since admission to Neurology. He was started 
+on Keppra 750mg BID and continued on his home HAART (Atripla 
+qd). He left AMA. 
+
+Transition of Care:
+- Patient instructed to follow up with his PCP ___ of 
+discharge 
+- Patient instructed to follow up with Neurology as outpatient
+- Patient started on Keppra 750mg BID, no changes made to other 
+home medications 
+- Consider EEG and CT torso and trend LFT/GGT as outpatient per 
+patient and PCP discretion 
+- ___ patient has another seizure, please turn him to the side 
+and call ___.  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atripla ___ mg oral 
+DAILY 
+2. Cyanocobalamin 50 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Atripla ___ mg oral 
+DAILY  
+2.  Cyanocobalamin 50 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Seizure 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___ you were admitted to ___ for management of 
+seizures. You were started on Keppra 750mg BID. You chose to 
+leave against medical advice prior to completion of your workup. 
+
+ 
+Followup Instructions:
+___

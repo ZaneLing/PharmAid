@@ -1,0 +1,176 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain 
+ 
+Major Surgical or Invasive Procedure:
+None 
+ 
+History of Present Illness:
+Ms ___ is a ___ woman with a past medical history of
+hypertension, hyperlipidemia, and hypothyroidism, who is
+presenting with elevated LFTs and pancreatic mass on ultrasound.
+Per patient and her daughter who is at bedside, first started to
+notice patient with increased fatigue around 6 months ago.  This
+was attributed to the fact that she is caring for her husband 
+who
+has ___.  However over the past months she is also had
+weight loss of 10 pounds, poor appetite, and increased diarrhea. 
+
+She has not had any fever, chills, or night sweats.  She was 
+seen
+by her PCP, who had some lab work done.  Lab work was concerning
+for elevated LFTs.  An ultrasound was also concerning for 
+biliary
+obstruction.  Therefore she was referred to the ___ ED for
+further workup.
+
+Of note, patient is primary caretaker of her husband who has
+___ dementia.  States that he is generally independent 
+in
+most ADLs.  He is currently ___ alone.
+
+ 
+Past Medical History:
+- hypertension
+- hypothyroidism
+- hypercholesterolemia 
+ 
+Social History:
+___
+Family History:
+- mother - MI age ___
+- father - stroke
+- son - hypertension
+- daughter - ___
+ 
+ 
+Physical ___:
+Admission physical exam: 
+VITALS: 98.1, HR 62, BP 143/73, RR 18, 95% RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, mildly tender to deep palpation, especially in
+righ upper quadrant and right flank
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+Discharge physical exam: 
+GENERAL: Alert and in no apparent distress
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+
+ 
+Pertinent Results:
+___ 07:32AM BLOOD ALT-316* AST-157* AlkPhos-629* 
+TotBili-1.6*
+___ 08:13AM BLOOD ALT-388* AST-241* AlkPhos-706* 
+TotBili-1.8*
+ 
+Brief Hospital Course:
+___ w/ hx of HTN, hypothyroidism who p/w abdominal pain, N/V and 
+found to have LFT abnormality and CT evidence of 4.1 x 2.7 cm 
+hypodense lesion at the pancreatic head neck junction as well as 
+Multiple pulmonary nodules are visualized in the bilateral lung 
+bases, concerning for metastatic disease. She was evaluated by 
+GI who performed an ERCP w/ biopsy on ___. Pathology report 
+from the biopsy is currently pending. Post-ERCP she tolerated PO 
+and her symptoms were well controlled with minimal medical 
+therapy. Her LFT abnormalities is improving. She is being 
+discharged ___ with close PCP ___ and plan to ___ 
+with GI regarding pathology report. 
+
+Pancreatic mass 
+- S/p ERCP
+- Pathology pending 
+- Tylenol PRN pain 
+
+HTN 
+- Start amlodipine 5mg daily
+- Cont ___ metoprolol
+- Holding ___ HCTZ-spironolactone given poor PO intake, risk 
+for dehydration. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FLUoxetine 40 mg PO DAILY 
+2. Levothyroxine Sodium 50 mcg PO DAILY 
+3. Vitamin D 1000 UNIT PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Spironolactone 25 mg PO DAILY 
+6. Hydrochlorothiazide 25 mg PO DAILY 
+7. Metoprolol Succinate XL 50 mg PO DAILY 
+8. Atorvastatin 80 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain  
+2.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+3.  Aspirin 81 mg PO DAILY  
+4.  FLUoxetine 40 mg PO DAILY  
+5.  Levothyroxine Sodium 50 mcg PO DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY  
+7.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+___ With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Pancreatic mass
+Abdominal pain
+Essential hypertension 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to ___ for abdominal pain and found to have 
+abnormal liver tests and a mass in your hepatobiliary system. 
+You underwent a procedure called ERCP and biopsy were taken at 
+that time. The final pathology report for your biopsy is 
+currently pending. 
+
+Since you were tolerating food and your liver function tests 
+were improving, you were deemed stable for discharge ___ with 
+outpatient ___. You should ___ the final pathology 
+report and ___ with your PCP. 
+ 
+Followup Instructions:
+___

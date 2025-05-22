@@ -1,0 +1,308 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Amoxicillin / Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo female with a history of ovarian cancer who is admitted
+with fevers and blurry vision. The patient states she has been
+feeling very fatigued for a few days. She then had chemotherapy
+yesterday and afterward felt even more fatigued. She also
+developed a fever to 101.1 which was associated with blurry
+vision. She had some shortness of breath last night and has had
+some intermittent nausea. She states she has had all of these
+symptoms including the fever, blurry vision, weakness, shortness
+of breath, and nausea with prior cycles of chemotherapy. She
+states she has gotten blurry vision with fevers in the past but
+this may have been a bit worse. She denies any current blurry
+vision. She denies any diarrhea, dysuria, or rashes. Of note she
+has been on clindamycin for a port site infection and her port
+was not used for her last chemotherapy infusion.
+In he ED her vital signs were unremarkable. Labwork was notable
+for a leukocytosis of 14.4, AST of 142, ALT 208, and Cr of 1.4. 
+A
+head CT and chest x-ray were unremarkable. A rapid flu test was
+negative as was a urinalysis. She was given IV fluids, vanc, and
+cefepime.
+
+ 
+Past Medical History:
+- Partial hysterectomy age ___ for fibroids
+- Right lumpectomy age ___ benign per report
+- Lipids
+- GERD and hiatal hernia
+- Constipation
+- Osteoporosis
+ 
+Social History:
+___
+Family History:
+Extensive cancer history in the family including:
+- P-aunt colon cancer
+- M-aunt ovarian ca
+- M-aunt pancreatic ca
+- M-cousin- ovarian cancer-diagnosed at ___.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+General:  NAD
+VITAL SIGNS: Temp: 98.1 BP: 138/79 HR: 71 RR: 18 O2 sat: 93% RA 
+HEENT:  MMM, no OP lesions
+CV:  RR, NL S1S2
+PULM:  CTAB
+ABD:  Soft, NTND, no masses or hepatosplenomegaly
+LIMBS:  No edema, clubbing, tremors, or asterixis
+SKIN:  No rashes or skin breakdown
+NEURO: Alert and oriented, no focal deficits.
+
+DISCHARGE PHYSICAL EXAM:
+98.1 120/81 90 18 95% RA 
+General: NAD, sitting up in bed
+HEENT: AT/NC, EOMI, MMM, no mucositis, no JVD
+CV: RRR, s1+s2 normal, no m/g/r appreciated
+PULM: CTAB
+ABD: +BS, non-tender, non-distended, no organomegaly appreciated
+EXT: +pulses, warm, no edema
+NEURO: No motor/sensory deficits elicited, CN II-XII intact, no 
+ataxia
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:00PM URINE  HOURS-RANDOM
+___ 01:00PM URINE  UHOLD-HOLD
+___ 01:00PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 01:00PM URINE  BLOOD-TR* NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 01:00PM URINE  RBC-3* WBC-2 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 01:00PM URINE  MUCOUS-RARE*
+___ 10:29AM   LACTATE-2.8*
+___ 10:00AM   GLUCOSE-115* UREA N-21* CREAT-1.4* SODIUM-136 
+POTASSIUM-4.4 CHLORIDE-95* TOTAL CO2-18* ANION GAP-23*
+___ 10:00AM   ALT(SGPT)-208* AST(SGOT)-142* ALK PHOS-141* 
+TOT BILI-0.7
+___ 10:00AM   LIPASE-29
+___ 10:00AM   ALBUMIN-4.1 CALCIUM-9.1 PHOSPHATE-4.3 
+MAGNESIUM-1.8
+___ 10:00AM   ALBUMIN-4.1 CALCIUM-9.1 PHOSPHATE-4.3 
+MAGNESIUM-1.8
+___ 10:00AM   NEUTS-93.1* LYMPHS-1.5* MONOS-4.4* EOS-0.1* 
+BASOS-0.2 IM ___ AbsNeut-13.37* AbsLymp-0.21* AbsMono-0.63 
+AbsEos-0.01* AbsBaso-0.03
+___ 10:00AM   PLT COUNT-258
+___ 10:00AM   ___ PTT-26.6 ___
+___ 09:55AM OTHER BODY FLUID  FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+___ 08:20AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 08:20AM URINE  BLOOD-TR* NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 08:20AM URINE  RBC-1 WBC-<1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 08:15AM   UREA N-13 CREAT-0.8 SODIUM-141 POTASSIUM-5.1 
+CHLORIDE-100 TOTAL CO2-26 ANION GAP-15
+___ 08:15AM   estGFR-Using this
+___ 08:15AM   ALT(SGPT)-88* AST(SGOT)-47* ALK PHOS-144* TOT 
+BILI-0.2
+___ 08:15AM   CALCIUM-9.9 PHOSPHATE-3.9 MAGNESIUM-2.1
+___ 08:15AM   CA125-24
+___ 08:15AM   WBC-5.1 RBC-4.21 HGB-12.6 HCT-37.8 MCV-90 
+MCH-29.9 MCHC-33.3 RDW-13.4 RDWSD-41.6
+___ 08:15AM   NEUTS-46.0 ___ MONOS-15.8* EOS-2.8 
+BASOS-0.4 IM ___ AbsNeut-2.33 AbsLymp-1.74 AbsMono-0.80 
+AbsEos-0.14 AbsBaso-0.02
+___ 08:15AM   PLT COUNT-275
+
+DISCHARGE LABS:
+___ 06:50AM BLOOD WBC-10.5* RBC-3.70* Hgb-11.1* Hct-33.3* 
+MCV-90 MCH-30.0 MCHC-33.3 RDW-14.2 RDWSD-45.0 Plt ___
+___ 10:00AM BLOOD Neuts-93.1* Lymphs-1.5* Monos-4.4* 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-13.37* AbsLymp-0.21* 
+AbsMono-0.63 AbsEos-0.01* AbsBaso-0.03
+___ 06:50AM BLOOD Plt ___
+___ 06:50AM BLOOD Glucose-88 UreaN-12 Creat-0.8 Na-138 
+K-4.6 Cl-102 HCO3-23 AnGap-13
+___ 06:50AM BLOOD ALT-113* AST-54* AlkPhos-113* TotBili-0.6
+___ 06:50AM BLOOD Mg-1.9
+
+IMAGING:
+___ NCHCT:
+No acute intracranial process.  MRI would be more sensitive for 
+detection of intracranial metastases. 
+
+___ CXR:
+No focal consolidation.
+
+MICRO:
+___ 1:00 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+___ Blood Cx x2: PND
+ 
+Brief Hospital Course:
+___ with PMHx of recurrant ovarian cancer, on C2 ___ 
+(___) who presented with fever and blurry vision after 
+chemotherapy administration. 
+
+# Fever. Admitted with fever and blurry vision. ROS was notable 
+for some non specific fatigue and nausea but no other localizing 
+symptoms. She was started on IV Vancomycin and Cefepime 
+overnight to cover possible infections. Home clindamycin, which 
+was being used to treat port site infection, was held while on 
+Cefepime. Port site appeared clinically improved to prior and 
+without signs of active infection. Inpatient infectious work up 
+was negative. She did not have additional fevers. Antibiotics 
+were discontinued and she was discharged to home to complete 
+course of PO clindamycin with close oncology follow up. Etiology 
+of fever was thought possibly related to gemcitabine 
+administration. 
+
+# Blurry vision. Patient presented with blurry vision, 
+concurrent with fever. Blurry vision gradually improved without 
+intervention. CT Head was negative for acute process or 
+metastatic disease. Neurologic examination was non focal. 
+Reassurance was provided and she will continue to monitor for 
+symptom recurrence in the outpatient basis. 
+
+# ___. Presented with Cr 1.4 above baseline normal value. She 
+was given IVF and Cr normalized to 0.8 on the day of discharge 
+suggesting pre-renal state on admission. 
+
+# Transaminitis. Noted elevated transaminases on admission above 
+baseline values. LFTs downtrended on discharge. Statin was held. 
+
+
+# Port site skin infection. Admitted on PO clindamycin which was 
+initially held while on Cefepime. Port site appeared clinically 
+improved. Site was evaluated by ___ inpatient. She 
+will continue PO clindamycin on discharge to complete prescribed 
+course of treatment. 
+
+CHRONIC ISSUES 
+===============
+
+# Hyperlipidemia. Held home simvastatin on admission given 
+transaminitis. Held on discharge and recommend repeating LFTs as 
+outpatient to ensure normalization prior to restarting statin. 
+
+# GERD. Continued home protonix.
+
+TRANSITIONAL ISSUES 
+===================
+- Recommend repeating LFTs in outpatient follow up to ensure 
+normalization. Holding statin, consider restarting based on 
+outpatient LFTs
+- Continue to clinically monitor port site for s/s worsening 
+infection 
+
+Name of ___ care proxy: ___ 
+___: daughter 
+Phone number: ___ 
+CODE: FULL 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Clindamycin 300 mg PO Q8H  *Research Pharmacy Approval 
+Required* Research protocol ___
+2. LORazepam 0.5-1 mg PO Q8H:PRN Nausea, Anxiety, Insomnia  
+*Research Pharmacy Approval Required* Research protocol ___
+3. Ondansetron 8 mg PO Q8H:PRN Nausea 
+4. OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Moderate 
+ *Research Pharmacy Approval Required* Research protocol ___
+5. Pantoprazole 40 mg PO Q24H  *Research Pharmacy Approval 
+Required* Research protocol ___
+6. Prochlorperazine 10 mg PO Q6H:PRN Nausea  *Research Pharmacy 
+Approval Required* Research protocol ___
+7. Simvastatin 40 mg PO QPM  *Research Pharmacy Approval 
+Required* Research protocol ___
+8. TraZODone 75 mg PO QHS:PRN Insomnia  *Research Pharmacy 
+Approval Required* Research protocol ___
+9. Bisacodyl 5 mg PO QHS:PRN Constipation  *Research Pharmacy 
+Approval Required* Research protocol ___
+10. Senna 8.6 mg PO QHS:PRN Constipation  *Research Pharmacy 
+Approval Required* Research protocol ___
+
+ 
+Discharge Medications:
+1.  Bisacodyl 5 mg PO QHS:PRN Constipation  *Research Pharmacy 
+Approval Required* Research protocol ___ 
+2.  Clindamycin 300 mg PO Q8H  *Research Pharmacy Approval 
+Required* Research protocol ___ 
+3.  LORazepam 0.5-1 mg PO Q8H:PRN Nausea, Anxiety, Insomnia  
+*Research Pharmacy Approval Required* Research protocol ___ 
+4.  Ondansetron 8 mg PO Q8H:PRN Nausea  *Research Pharmacy 
+Approval Required* Research protocol ___ 
+5.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate  
+6.  Pantoprazole 40 mg PO Q24H  *Research Pharmacy Approval 
+Required* Research protocol ___ 
+7.  Prochlorperazine 10 mg PO Q6H:PRN Nausea  *Research Pharmacy 
+Approval Required* Research protocol ___ 
+8.  Senna 8.6 mg PO QHS:PRN Constipation  *Research Pharmacy 
+Approval Required* Research protocol ___ 
+9.  TraZODone 75 mg PO QHS:PRN Insomnia  *Research Pharmacy 
+Approval Required* Research protocol ___ 
+10. HELD- Simvastatin 40 mg PO QPM  *Research Pharmacy Approval 
+Required* Research protocol ___ This medication was held. Do 
+not restart Simvastatin until you have your liver function 
+checked again in clinic 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis 
+Ovarian Cancer
+
+Secondary Diagnosis 
+Blurry Vision 
+Acute kidney injury
+Transaminitis 
+Port site infection 
+Hyperlipidemia 
+GERD 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure taking care of you during your 
+hospitalization. Briefly, you were admitted with fever and 
+blurry vision after receiving your chemotherapy. You were 
+started on IV antibiotics and given IV fluids. You improved. 
+There were no signs of infection and IV antibiotics were 
+discontinued. You should continue taking your clindamycin pills 
+until they are finished. 
+
+Please monitor for signs of fever as an outpatient and don't 
+hesitate to call Dr. ___ office with any concerns. 
+
+We wish you the best, 
+
+Your ___ Treatment Team  
+ 
+Followup Instructions:
+___

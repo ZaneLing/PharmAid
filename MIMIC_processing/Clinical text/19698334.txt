@@ -1,0 +1,326 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+___: exercise stress test
+___: regadenoson stress test
+ 
+History of Present Illness:
+Patient is a ___ with history of traumatic thoracic stab wound
+(R) c/b pneumothorax and GERD who presents with chronic,
+intermittent left-sided chest pain.
+
+Patient describes intermittent, non-exertional chest pain for 
+the
+past ___.  The discomfort is left-sided, ___ in severity
+(sometimes up to ___, stabbing in quality, and lasting on the
+order of ___.  There is no associated nausea,
+dizziness/lightheadedness or palpitations.  Patient does endorse
+mild SOB and increased pain when taking a deep breath.  No 
+vision
+changes or syncopal episodes.  Patient says that he recently was
+evaluated by his PCP who recommended that he present to the ED
+for evaluation.    
+
+In the ED, initial vitals: 96.9 84 151/83 16 100% RA   
+
+- Exam notable for 
+Regular rate and rhythm no murmurs rubs or gallops
+Clear to auscultation bilaterally
+2+ radial pulse and dorsalis pedis 
+
+- Labs were notable for:
+CBC 6.6>13.7/42.5<294
+BMP ___
+HbA1C 4.5%
+Troponin-T <.01 x2
+TSH 1.6
+Total cholesterol 257   
+
+- Studies:  
+ECG NSR (67bpm), normal axis, normal intervals, isolated TWI 
+III,
+submm STE V2-3. 
+
+CXR ___
+FINDINGS:  
+The lungs are clear. There is no consolidation, effusion, or
+pneumothorax.  Changes noted at the distal right clavicle,
+potentially from remote prior injury. No acute osseous
+abnormalities. 
+IMPRESSION:  
+No acute cardiopulmonary process, no pneumothorax. 
+
+STRESS ___
+INTERPRETATION: This ___ year old man with a h/o HLD was referred
+to the lab for evaluation of atypical chest and shortness of
+breath. The patient exercised for 3.0 minutes ___ protocol
+and the test was stopped for a hypertensive systolic blood
+pressure repsonse to exercise. 
+There were no chest, neck, arm or back discomforts reported by
+the patient throughout the study, however at peak exercise the
+patient reported inappropriate shortness of breath, which
+improved with rest during recovery. There were no significant ST
+segment changes seen during exercise or in recovery. The rhythm
+was sinus without ectopy; two P wave morphologies noted. Resting
+systolic hypertension with a markedly hypertensive systolic 
+blood
+pressure response to exercise. Appropriate heart rate response 
+to
+low workload.   
+IMPRESSION: Atypical type symptoms in the absence of ischemic 
+EKG
+changes and presence of markedly hypertensive systolic blood
+pressure response to low workload.
+- Patient was given: NOTHING  
+
+- Vitals prior to transfer were: 98.8 75 137/80 23 98% RA   
+
+On arrival to the floor, patient recounts the history as above. 
+The last time he experienced any chest discomfort was yesterday. 
+
+He says that he became 'so short of breath' during the stress
+test, but did not experience any chest pain.  Of note, patient
+was stabbed on the right side of his back (superior), causing a
+PTX.  He was also hit by a car door some time ago, an impressive
+impact.  Patient was recently restarted on an H2 blocker for
+reflux symptoms.   
+
+REVIEW OF SYSTEMS:  
+A complete 10-point review of systems was performed and was
+negative less otherwise noted in the HPI.  
+ 
+Past Medical History:
+GERD
+Traumatic PTX
+ 
+Social History:
+___
+Family History:
+Sister with T2DM (___)
+Mother with T2DM (___)
+Multiple uncles, grandmother with T2DM
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+========================
+VS: 98.3 156/96 75 20 97 Ra  
+GENERAL: Pleasant, lying in bed comfortably.  
+HEENT: PERRL, no scleral icterus.  OP clear with MMM.  
+CARDIAC: Soft s1.  Regular rate and rhythm, no murmurs, rubs, or
+gallops.  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly.  
+EXT: Warm, well perfused, no lower extremity edema.  
+PULSES: 2+ radial pulses, 2+ DP pulses.  
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact.
+
+DISCHARGE PHYSICAL EXAM
+========================
+VS: Temp: 98.5 PO BP: 143/86 HR: 67 RR: 18 O2 sat: 96% O2
+delivery: RA 
+GENERAL: No acute distress, pleasant and conversant
+HEENT: PERRL, no scleral icterus.  OP clear with MMM.  
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops.  
+
+LUNG: clear to auscultation bilaterally, no crackles, wheezes, 
+or
+rhonchi.  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly.  
+EXT: Warm, well perfused, no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses, 2+ DP pulses.  
+NEURO: AAOx2, CN II-XII intact, motor and sensory function
+grossly intact.
+SKIN: No significant rashes.
+ 
+Pertinent Results:
+ADMISSION LABS
+================
+___ 06:00PM BLOOD Neuts-61.2 ___ Monos-7.3 Eos-1.1 
+Baso-0.5 Im ___ AbsNeut-4.02 AbsLymp-1.95 AbsMono-0.48 
+AbsEos-0.07 AbsBaso-0.03
+___ 06:00PM BLOOD WBC-6.6 RBC-4.68 Hgb-13.7 Hct-42.5 MCV-91 
+MCH-29.3 MCHC-32.2 RDW-13.6 RDWSD-44.7 Plt ___
+___ 06:00PM BLOOD Plt ___
+___ 06:00PM BLOOD Glucose-88 UreaN-10 Creat-1.0 Na-142 
+K-4.5 Cl-104 HCO3-24 AnGap-14
+___ 06:00PM BLOOD Cholest-257*
+___ 06:00PM BLOOD %HbA1c-4.5 eAG-82
+___ 06:00PM BLOOD TSH-1.6
+
+DISCHARGE LABS
+===============
+___ 06:05AM BLOOD WBC-6.6 RBC-4.74 Hgb-13.8 Hct-42.5 MCV-90 
+MCH-29.1 MCHC-32.5 RDW-13.2 RDWSD-43.4 Plt ___
+___ 06:05AM BLOOD Plt ___
+___ 06:05AM BLOOD ___ PTT-37.0* ___
+___ 06:05AM BLOOD Glucose-90 UreaN-13 Creat-1.0 Na-140 
+K-4.4 Cl-101 HCO3-25 AnGap-14
+___ 06:05AM BLOOD Calcium-9.6 Phos-3.7 Mg-2.3
+
+STUDIES
+========
+EXERCISE STRESS ___
+ERPRETATION: This ___ year old man with a h/o HLD was referred to 
+
+the lab for evaluation of atypical chest and shortness of 
+breath. The 
+patient exercised for 3.0 minutes ___ protocol and the test 
+was 
+stopped for a hypertensive systolic blood pressure repsonse to 
+exercise. 
+There were no chest, neck, arm or back discomforts reported by 
+the 
+patient throughout the study, however at peak exercise the 
+patient 
+reported inappropriate shortness of breath, which improved with 
+rest 
+during recovery. There were no significant ST segment changes 
+seen 
+during exercise or in recovery. The rhythm was sinus without 
+ectopy; two 
+P wave morphologies noted. Resting systolic hypertension with a 
+markedly 
+hypertensive systolic blood pressure response to exercise. 
+Appropriate 
+heart rate response to low workload. 
+  
+IMPRESSION: Atypical type symptoms in the absence of ischemic 
+EKG 
+changes and presence of markedly hypertensive systolic blood 
+pressure 
+response to low workload. 
+
+REGADENOSON STRESS ___
+INTERPRETATION: This ___ year old man was referred to the lab for 
+
+evaluation of chest discomfort. He was infused with 0.4 mg of 
+regadenoson over 20 seconds. No chest, arm, neck or back 
+discomfort 
+reported. No significant ST segment changes noticed. Rhythm was 
+sinus 
+with no ectopy. Appropriate hemodyanmic response to the infusion 
+with 
+systolic hypertensive response noticed in recovery. 
+IMPRESSION : No anginal symptoms or ST segment changens. Nuclear 
+report 
+sent separately. 
+
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT
+==================
+Mr. ___ is a ___ year old man with a past medical history of 
+right-sided traumatic thoracic stab wound complicated by 
+pneumothorax and GERD who presents with chronic, intermittent 
+left-sided chest pain. He was unable to complete an exercise 
+stress test in the emergency department due to extreme shortness 
+of breath and was admitted for further workup. Problems 
+addressed during his hospitalization are as follows:
+
+#Chest pain:
+Low suspicion for cardiac etiology. His symptoms are 
+non-exertional, troponins negative x2, no EKG ischemic changes. 
+Exercise stress test with no ischemic EKG changes, although was 
+terminated early due to shortness of breath and blood pressure 
+of 258/96. Regadenoson stress test with no anginal symptoms or 
+ST segment changes. Nuclear prelim read unremarkable. 
+Additionally, he has no family history of early MI, A1c was 
+4.5%. Smokes marijuana daily, but no tobacco. The etiology of 
+his chest pain may be musculoskeletal or gastrointestinal 
+(esophageal spasm). The morning of discharge, he had one 
+transient episode of dizziness and palpitations with standing 
+that resolved spontaneously, orthostatics vitals were negative.
+
+#Hypertension:
+On review of ___ records, has been hypertensive chronically, 
+on no agents prior to presentation. In-house his BP ranged from
+140-160s/70-90s, and his blood pressure notably rose to 258/90
+during his exercise stress test as above. Initiated lisinopril 
+10 mg daily.
+
+#GERD 
+Continued home ranitidine
+
+TRANSITIONAL ISSUES:
+======================
+[] f/u final read nuclear stress test
+[] continue to monitor blood pressure and titrate lisinopril 
+which was initiated on admission. Will need repeat BUN/Cr given 
+lisinopril initiation.
+[] consider further dyslipidemia workup (total cholesterol 257)
+[] continue to encourage marijuana cessation
+[] continue to monitor anxiety, was very restless throughout 
+hospitalization
+[] given unremarkable stress test results, may consider 
+initiating a PPI for 8 weeks or esophageal motility studies
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ranitidine 150 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Lisinopril 10 mg PO DAILY 
+RX *lisinopril 10 mg 1 (One) tablet(s) by mouth DAILY Disp #*30 
+Tablet Refills:*0 
+2.  Ranitidine 150 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Chest pain
+#Hypertension
+#GERD
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at the ___ 
+___.
+
+WHY DID I COME TO THE HOSPITAL?
+--You came to the hospital because you developed chest pain.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+--We evaluated your heart with a "stress test" during which you 
+exercised and we monitored your heart. During this test, you had 
+difficulty breathing. We performed a second stress test which 
+showed that your heart function is normal.
+--Your blood pressure was high. We started you on a new 
+medication called "lisinopril" to help lower your blood 
+pressure.
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+--Please continue to take your medications as prescribed and to 
+follow-up with your doctors as ___.
+
+We wish you all the best!
+Your ___ care team
+ 
+Followup Instructions:
+___

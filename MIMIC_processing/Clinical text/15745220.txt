@@ -1,0 +1,161 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+attach
+ 
+Pertinent Results:
+Discharge Exam: 
+VITALS: 24 HR Data (last updated ___ @ 940)
+    Temp: 98.7 (Tm 98.7), BP: 131/82 (131-162/80-82), HR: 79
+(74-79), RR: 15 (___), O2 sat: 100%, O2 delivery: Ra, Wt: 
+125.6
+lb/56.97 kg  
+GENERAL: Alert and in no apparent distress
+EYES: Right eye cloudy; left eye anicteric, pupil reactive
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation. Bowel
+sounds present. No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Cooperative, normal affect
+
+Admission Labs: 
+___ 08:35PM BLOOD WBC-11.3* RBC-3.43* Hgb-10.8* Hct-33.7* 
+MCV-98 MCH-31.5 MCHC-32.0 RDW-14.2 RDWSD-50.3* Plt ___
+___ 08:35PM BLOOD Neuts-53.0 ___ Monos-11.2 Eos-2.2 
+Baso-1.0 Im ___ AbsNeut-5.98 AbsLymp-3.64 AbsMono-1.27* 
+AbsEos-0.25 AbsBaso-0.11*
+___ 08:35PM BLOOD Glucose-80 UreaN-39* Creat-2.3* Na-139 
+K-9.5* Cl-104 HCO3-15* AnGap-20*
+___ 11:30PM BLOOD cTropnT-0.07*
+___ 11:30PM BLOOD Calcium-9.9 Phos-4.0 Mg-2.3
+
+Discharge Labs: 
+___ 06:40AM BLOOD WBC-8.2 RBC-3.02* Hgb-9.6* Hct-29.0* 
+MCV-96 MCH-31.8 MCHC-33.1 RDW-12.9 RDWSD-45.2 Plt ___
+___ 06:40AM BLOOD Glucose-129* UreaN-37* Creat-2.0* Na-145 
+K-4.6 Cl-110* HCO3-21* AnGap-14
+___ 06:40AM BLOOD Calcium-9.4 Phos-4.5 Mg-2.___ woman with history of IDDMII and HTN who presents 
+with hypoglycemia.
+
+ACUTE/ACTIVE PROBLEMS:
+# IDDMII:
+# Hypoglycemia: Patient presenting after hypoglycemic episode, 
+now resolved. Unclear etiology, but suspect poor oral intake and 
+possible incorrect administration of insulin. The patient 
+reports that she and her husband have a good system for dosing 
+that was working. She typically uses a pen and has no problems. 
+She feels comfortable with help from her husband. Case discussed 
+the patient's PCP and her A1c had been 5.1 in ___ and had been 
+decreasing insulin. Had been on 4 units of long acting and ___ 
+units short acting with meals. Plan to use only long acting 4 
+units QHS and follow up with PCP with ___ logs. 
+
+# Asyptomatic bacteriuria: Urinalysis in ED positive, but 
+patient denies any symptoms. Given ceftriaxone in the ED, but 
+will defer further antibiotics for now given lack of symptoms. 
+
+# CKD Stage 3: Patient found to have a creatinine of 2.3 on 
+admission from a baseline of 2.25 in ___.  Discharge Cr 2.0. 
+
+
+# Social issues: Per prior notes as detailed in admission noted 
+there was some concerns regarding controlling behaviors of 
+husband. Patient denies any safety concerns to me and feels that 
+she is safe. Patient was evaluated by social work who agrees 
+that the patient has no concerns and feels well. No signs of 
+cognitive impairment and able to articulate plan of care. 
+
+# Abnormal EKG: Patient noted to have TWI in anterolateral 
+leads, no prior for comparison. Patient is chest pain free and 
+reports no recent chest pain. Trop in grey zone and trending 
+down and may be related to renal function. 
+- Monitor for chest pain
+- Consider outpatient stress testing
+
+# Chronic Anemia: At baseline. 
+
+CHRONIC/STABLE PROBLEMS:
+# Hypertension:
+- Continued Imdur, amlodipine, metoprolol
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Montelukast 10 mg PO DAILY 
+2. Albuterol Inhaler 2 PUFF IH Q4H:PRN SOB 
+3. Levemir 4 Units Bedtime
+Insulin SC Sliding Scale using Novology Insulin
+4. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+5. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+6. amLODIPine 5 mg PO DAILY 
+7. Metoprolol Succinate XL 50 mg PO DAILY 
+8. Omeprazole 20 mg PO DAILY 
+9. Furosemide 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Levemir 4 Units Bedtime 
+2.  Albuterol Inhaler 2 PUFF IH Q4H:PRN SOB  
+3.  amLODIPine 5 mg PO DAILY  
+4.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+5.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY  
+7.  Montelukast 10 mg PO DAILY  
+8.  Omeprazole 20 mg PO DAILY  
+9. HELD- Furosemide 20 mg PO DAILY  This medication was held. Do 
+not restart Furosemide until you follow up with your PCP or your 
+___ goes up 3 lbs. 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypoglycemia
+IDDM
+CKD stage 3
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms ___, 
+
+You were admitted after being found to have low blood sugar. We 
+think is because you were not eating as well and had some 
+difficulty with your insulin. We discussed you insulin regimen 
+with your primary care provider and have adjusted your insulin 
+to only the Levimir 4 units once a day. 
+
+Please take your medications as directed and follow up as below. 
+
+ 
+Followup Instructions:
+___

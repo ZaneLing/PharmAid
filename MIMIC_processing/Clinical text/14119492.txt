@@ -1,0 +1,247 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+simvastatin / Crestor / Pravastatin / Nifedipine / amlodipine / 
+Bactrim DS / lovastatin / Tetanus&Diphtheria Toxoid / 
+Penicillins / meloxicam / duloxetine
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+Admission labs:
+WBC 6.9, hgb 14.2. Cr of 1.4, bicarb of 16,
+lactate 2.1 -> 1.5
+
+CT abdomen/pelvis:
+IMPRESSION:  
+1.  Hyperemia and bowel wall thickening of the colon consistent 
+with 
+pancolitis without evidence of abscess formation. 
+2.  Cholelithiasis without evidence of cholecystitis. 
+
+admission EKG with A fib, V rate 82, delayed R wave progression, 
+but otherwise non ischemic 
+
+___ C diff negative 
+
+___ BCx: pending, NGTD
+___ UA non infectious, UCx c/w skin flora
+
+___ stool culture: +PMNs, negative for campylobacter, no ova or 
+parasites, negative for vibrio. Yersinia pending
+
+___ TTE:
+CONCLUSION:
+The left atrial volume index is normal. No thrombus/mass is seen 
+in the body of the left atrium (best excluded by TEE). The right 
+atrium is mildly enlarged. There is no evidence for an atrial 
+septal defect by 2D/color Doppler. The estimated right atrial 
+pressure is ___ mmHg. There is mild symmetric left ventricular 
+hypertrophy with a normal cavity size. There is normal regional 
+and global left ventricular systolic function. Quantitative 3D 
+volumetric left ventricular ejection fraction is 64 % (normal 
+54-73%). Left ventricular cardiac index is normal (>2.5 
+L/min/m2). There is no resting left ventricular outflow tract 
+gradient. Normal right ventricular cavity size with normal free 
+wall motion. Tricuspid
+annular plane systolic excursion (TAPSE) is normal. The aortic 
+sinus diameter is normal for gender with normal ascending aorta 
+diameter for gender. The aortic arch is mildly dilated with a 
+normal descending
+aorta diameter. There is no evidence for an aortic arch 
+coarctation. The aortic valve leaflets (3) are mildly thickened. 
+There is no aortic valve stenosis. There is no aortic 
+regurgitation. The mitral valve leaflets appear structurally 
+normal with no mitral valve prolapse. There is mild [1+] mitral 
+regurgitation. The pulmonic valve leaflets are normal. The 
+tricuspid valve leaflets appear structurally normal. There is
+physiologic tricuspid regurgitation. There is moderate pulmonary 
+artery systolic hypertension. There is a trivial pericardial 
+effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+normal cavity size and regional/ global biventricular systolic 
+function. Moderate pulmonary artery systolic hypertension. Mild 
+aortic arch dilation. Mild mitral regurgitation with normal 
+valve morphology. Compared with the prior TTE ___, the 
+estimated pulmonary artery systolic pressure is now
+increased.
+
+Discharge labs: 
+
+___ 06:35AM BLOOD WBC-5.7 RBC-4.66 Hgb-13.7 Hct-41.7 MCV-90 
+MCH-29.4 MCHC-32.9 RDW-14.7 RDWSD-48.2* Plt ___
+___ 06:35AM BLOOD Glucose-85 UreaN-10 Creat-0.9 Na-140 
+K-4.1 Cl-102 HCO3-23 AnGap-15
+
+___ 06:25AM BLOOD TSH-3.4
+
+Discharge exam:
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, PERRL
+ENT: Ears and nose unremarkable. Oropharynx without visible 
+lesion, MMM
+CV: regular rate and rhythm, no m/r/g.  No JVD.
+RESP: No increased wob, lung fields clear to auscultation 
+bilaterally 
+GI: Abdomen soft, ND. +BS. no ttp
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Brief Hospital Course:
+___ female with a history of HTN, HLD, hx of 
+palpitations, and remote history of appendectomy who presents 
+with 5 days of profuse watery diarrhea found to have pancolitis 
+as well as newly diagnosed atrial fibrillation.
+
+# Diarrhea
+# Pancolitis
+Pt presented with 5 days of profuse watery diarrhea. Possible 
+inciting factor being meal with chicken liver which she reported 
+was well cooked. Denied any n/v. On  arrival, labs significant 
+for ___ and CT imaging significant for pancolitis. C diff 
+negative. Stool cultures with many PMNs, several RBC and were 
+negative with exception of Yersinia which was still pending at 
+time of discharge. Patient was started on cipro/flagyl for 
+empiric coverage with great improvement and resolution of her 
+diarrhea. 
+
+# pAfib, new diagnosis
+Pt reports long standing history of palpitations. Per chart 
+review, had a normal ambulatory EKG event monitor in the past 
+and declined cardiology referral for further work up. Admission 
+EKG here with A fib, but given history, patient likely has had 
+long standing pAfib. She was kept on Metoprolol during 
+hospitalization and spontaneously converted to NSR. TSH wnl. TTE 
+was completed on ___ and did not show any e/o valvular disease. 
+Given CHADSVASC of 4, anticoagulation risks and benefits were 
+discussed. Patient amenable to therapy with apixaban. Verified 
+to be covered by her insurance at ___ and patient was 
+discharged with 1 mo supply of medication. Given persistent 
+palpitations on home dose of metop succinate 25 mg daily, she 
+was discharged with dose increase to 37.5 mg daily.
+
+# ___
+On admission, Cr 1.4. Presumed to be pre-renal iso several days 
+of diarrhea. Received 3 L of fluids on admission with 
+improvement. Cr 0.9 post fluids. Home lisinopril was held.  
+
+# HTN
+Patient on multiple low doses of medications outpatient. She was 
+continued on imdur, amlodipine, and Metoprolol during her 
+hospitalization. She reported that she does not take hctz and 
+lisinopril was held due to ___. She remained normotensive with 
+SBP in 110s without this medication. She was told to hold this 
+medication until PCP follow up and BP check.
+
+# HLD: cont ezetimibe
+# Hypothyroidism: cont home levothyroxine
+
+TRANSITIONAL ISSUES:
+[ ] Patient with new dx of pAfib on this hospitalization. Given 
+CHADSVASC of 4, initiated on apixaban 5 mg BID. Consider dose 
+reduction if develops ___ or increased weight gain given age > 
+___
+[ ] Patient normotensive off of lisinopril and hctz. reported 
+that she does not take hctz at home. Recommended patient hold 
+lisinopril given normotension and increased metop dose till 
+outpatient PCP follow up in ___ as she is going to the ___ 
+for 1 mo
+[ ] Pt reported palpitations when at TTE, and off telemetry. 
+Given sensation, home Metoprolol succinate increased to 37.5 mg 
+daily on discharge 
+
+>30 minutes spent on patient counseling and discharge care 
+coordination 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 2.5 mg PO DAILY 
+2. Metoprolol Succinate XL 25 mg PO DAILY 
+3. Levothyroxine Sodium 25 mcg PO DAILY 
+4. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+5. Hydrochlorothiazide 12.5 mg PO DAILY 
+6. Ezetimibe 10 mg PO DAILY 
+7. amLODIPine 5 mg PO DAILY 
+8. Vitamin D ___ UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID nonvalvular atrial fibrillation 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*60 Tablet Refills:*0 
+2.  Ciprofloxacin HCl 500 mg PO BID Duration: 5 Doses 
+RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth every 
+twelve (12) hours Disp #*5 Tablet Refills:*0 
+3.  MetroNIDAZOLE 500 mg PO TID Duration: 7 Doses 
+RX *metronidazole [Flagyl] 500 mg 1 tablet(s) by mouth every 
+eight (8) hours Disp #*7 Tablet Refills:*0 
+4.  Metoprolol Succinate XL 37.5 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1.5 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+5.  amLODIPine 5 mg PO DAILY  
+6.  Ezetimibe 10 mg PO DAILY  
+7.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY  
+8.  Levothyroxine Sodium 25 mcg PO DAILY  
+9.  Vitamin D ___ UNIT PO DAILY  
+10. HELD- Lisinopril 2.5 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until follow up with your primary care 
+doctor ___ pressure check)
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+paroxysmal Atrial fibrillation, new diagnosis
+colitis 
+___
+
+ 
+Discharge Condition:
+Independent, uses cane with ambulation
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You came to the hospital with diarrhea and palpitations. When 
+you got to the hospital, we found that you likely had an 
+infection causing your diarrhea. You improved with fluids and 
+antibiotics. Your palpitations are caused by Atrial 
+fibrillation, an abnormal heart rhythm that is relatively 
+common. We did an ultrasound of your heart that was normal. 
+Given that the atrial fibrillation increases your risk of 
+stroke, we recommended starting apixaban 5 mg twice a day. It is 
+important you take this medication at the same time everyday. 
+You should also continue taking your antibiotics as directed for 
+the next 3 days. 
+
+Since you were having palpitaitons with your home dose of 
+metoprolol, we recommended increasing your dose from 25 mg daily 
+to 37.5 mg daily (1.5 pills). Please stop taking your lisinopril 
+until you follow up with your primary care doctor in ___ for 
+follow up and a blood pressure check.
+
+It was a pleasure meeting you, we wish you all the best!
+- Your ___ team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,104 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+N/A
+
+attach
+ 
+Pertinent Results:
+___ 09:50PM BLOOD WBC-9.9 RBC-4.32* Hgb-13.3* Hct-38.6* 
+MCV-89 MCH-30.8 MCHC-34.5 RDW-11.5 RDWSD-37.1 Plt ___
+___ 07:05AM BLOOD WBC-8.2 RBC-4.20* Hgb-12.9* Hct-38.8* 
+MCV-92 MCH-30.7 MCHC-33.2 RDW-11.6 RDWSD-39.1 Plt ___
+___ 09:50PM BLOOD Glucose-103* UreaN-15 Creat-0.9 Na-138 
+K-4.2 Cl-101 HCO3-24 AnGap-13
+___ 07:05AM BLOOD Glucose-88 UreaN-10 Creat-0.7 Na-142 
+K-4.5 Cl-103 HCO3-27 AnGap-12
+___ 09:50PM BLOOD Calcium-9.7 Phos-4.1 Mg-2.2
+___ 07:05AM BLOOD Mg-2.0
+___ 09:50PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 08:55AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 09:30PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+ 
+Brief Hospital Course:
+Presented after intentional overdose of duloxetine.
+
+# Duloxetine toxicity: The patient presented after ingestion of 
+approximately 10 tablets of duloxetine 60 mg. No evidence of 
+co-ingestion. The patient is now more than 48 hours after 
+ingestion, with a duloxetine half life of approximately 12 
+hours. The patient has no evidence on exam of serotonin 
+syndrome. Patient appropriate for transfer to inpatient 
+psychiatric hospitalization. Holding duloxetine
+
+# Depression with suicide attempt: Patient with history of MDD 
+with SI and prior psychiatric hospitalization but no prior 
+suicide attempt. Seen by psychiatry, transferring to inpatient 
+psychiatry unit for ongoing care.
+
+# MTF transgender: Continued estradiol. Resumed spironolactone 
+now that electrolytes stable
+
+# NAFLD: Followed in ___ clinic. No evidence of fibrosis. 
+Outpatient hepatology follow up
+
+# Anemia: Mild, likely to dilution after IVF administration. No 
+evidence of overt bleeding. CBC remained stable.
+
+The patient was seen and examined on the day of discharge. The 
+total time spent in preparation of discharge, counseling, and 
+coordination was greater than 30 minutes.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Spironolactone 100 mg PO BID 
+2. Estradiol 8 mg PO DAILY 
+3. DULoxetine ___ 60 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ondansetron ODT 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+ 
+2.  QUEtiapine Fumarate 25 mg PO QHS:PRN insomnia  
+3.  Estradiol 8 mg PO DAILY  
+4.  Spironolactone 100 mg PO BID  
+5. HELD- DULoxetine ___ 60 mg PO DAILY  This medication was held. 
+Do not restart DULoxetine ___ ___ mental health provider 
+tells you to
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Suicide attempt
+Toxic ingestion
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were seen at ___ after ingesting a large quantity of 
+duloxetine. We helped you recover from this and are transferring 
+you for ongoing psychiatric treatment.
+ 
+Followup Instructions:
+___

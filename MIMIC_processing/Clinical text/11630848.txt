@@ -1,0 +1,328 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain, dyspnea, dizziness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old female with PMH of schizophrenia and breast cancer 
+who presents with tachycardia, dyspnea, hypertension and anion 
+gap metabolic acidosis.
+
+Her  symptoms all started around 1:30pm the day prior to 
+admission.  They occurred after taking an unknown quantity of 
+Benadryl (possibly ~100mg from her daughter's neighbor, and then 
+another unspecified amount from her daughter).  She took the 
+benadryl because she was worried about feeling stiff from her
+Fluphenazine.  However, by "feeling stiff" she just meant that 
+moving her arms legs was slightly more difficult, and she was 
+still able to go up the stairs.
+
+Shortly after the Benadryl, she started feeling chest pain, 
+dizziness, shortness of breath, and felt generally unwell.  She 
+thus presented to the ED.
+
+Of note, she reports taking the Fluphenazine 3 times per day, 
+but per prescription information was prescribed to be twice per 
+day.  She also reports occasionally going in for "shots" which 
+were later confirmed to be long-acting IM antipsychotics.  She 
+also reports taking an herbal supplement called Black Seed Oil.
+
+In the ED, initial VS were: 36.8 144 188/64 28 95 
+In the ED, she received IV hydration and was admitted to 
+medicine
+ 
+Past Medical History:
+# Schizophrenia, on fluphenazine and injectable antipscychotic
+# Breast cancer, on hormonal therapy
+ 
+Social History:
+___
+Family History:
+mom - breast cancer
+dad - CVA 
+ 
+Physical ___:
+ADMISSION EXAM
+=======================
+Vitals:  97.7, 148/89, HR 116, RR 18, 98 RA 
+General:  Alert, oriented, no acute distress 
+HEENT: Sclerae anicteric, MM slightly dry, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: CTAB, no wheezes, rales, rhonchi  
+CV: tachycardic, rhythm regular, no murmurs
+Abdomen: soft, NT/ND, BS+, no rebound tenderness or guarding
+Ext: warm, well perfused, no edema 
+Neuro:  No focal deficits, normal gait, no rigidity noted
+Skin:  Rash over breast noted on left, with nipple retraction
+Psych:  Normal mood and affect, normal thought process
+
+DISCHARGE EXAM
+======================
+Vitals:  98.2, BP 163/95, HR 80-110, RR 18, 96% RA
+General:  Alert, oriented, no acute distress, pleasant
+HEENT: Sclerae anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: CTAB, no wheezes, rales, rhonchi  
+CV: tachycardic, rhythm regular, no murmurs
+Abdomen: soft, NT/ND, BS+, no rebound tenderness or guarding
+Ext: warm, well perfused, no edema 
+Neuro:  No focal deficits, normal gait, no rigidity noted
+Skin:  Rash over breast noted on left, with nipple retraction
+Psych:  Normal mood and affect, normal thought process
+ 
+Pertinent Results:
+ADMISSION LABS
+==========================
+___ 06:00PM BLOOD WBC-16.6* RBC-4.96 Hgb-15.8* Hct-46.1* 
+MCV-93 MCH-31.9 MCHC-34.3 RDW-12.4 RDWSD-42.6 Plt ___
+___ 06:00PM BLOOD Neuts-65.5 ___ Monos-4.1* 
+Eos-0.2* Baso-0.3 Im ___ AbsNeut-10.89* AbsLymp-4.89* 
+AbsMono-0.68 AbsEos-0.03* AbsBaso-0.05
+___ 06:00PM BLOOD Glucose-225* UreaN-5* Creat-0.7 Na-127* 
+K-3.5 Cl-88* HCO3-13* AnGap-26*
+___ 06:00AM BLOOD CK(CPK)-704*
+___ 06:00PM BLOOD ALT-17 AST-24 AlkPhos-87 TotBili-0.6
+___ 06:00AM BLOOD Calcium-9.6 Phos-2.8 Mg-1.9
+___ 06:00PM BLOOD Albumin-4.7
+___ 06:00PM BLOOD D-Dimer-521*
+___ 06:00AM BLOOD Osmolal-284
+___ 06:00PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-49* 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 08:37PM BLOOD Lactate-5.3*
+___ 08:37PM BLOOD ___ pO2-55* pCO2-25* pH-7.36 
+calTCO2-15* Base XS--9
+
+REPORTS
+============================
+CXR ___ 
+No acute cardiopulmonary abnormality. 
+
+CTA Chest, CT Abdomen/Pelvis ___. No pulmonary embolism or acute aortic abnormality. 
+2. 1.1 cm thyroid nodule.  No specific follow-up is recommended 
+according to current ___ College of Radiology guidelines in 
+a patient of this age. 
+3. Left breast nipple retraction, skin thickening and soft 
+tissue density with enlarged left axillary lymph nodes is noted. 
+ Correlate with history of breast cancer and mammography. 
+4. Thickened distal esophagus.  Recommend correlation with 
+endoscopy. 
+5. Bilateral indeterminate adrenal nodules.  A dedicated adrenal 
+CT can be obtained for further characterization. 
+6. Fusiform abdominal aortic aneurysm measuring up to 3.2 cm. 
+7. Occlusion of the left common iliac through distal external 
+iliac with distal reconstitution.  If clinically indicated, a 
+dedicated CTA can be performed for more complete evaluation. 
+8. Extensive bilateral degenerative changes of the 
+femoroacetabular joints with a large subchondral cysts the left 
+acetabulum. 
+
+ABI's ___
+No evidence of arterial insufficiency to the lower extremities 
+bilaterally.
+
+MICROBIOLOGY
+=========================
+Urine culture - no growth
+Blood cultures - no growth to date at time of discharge
+
+DISCHARGE LABS
+========================
+___ 05:50AM BLOOD WBC-9.1 RBC-4.85 Hgb-15.9* Hct-46.1* 
+MCV-95 MCH-32.8* MCHC-34.5 RDW-13.0 RDWSD-45.1 Plt ___
+___ 05:50AM BLOOD Glucose-152* UreaN-5* Creat-0.6 Na-141 
+K-4.1 Cl-99 HCO3-24 AnGap-18*
+___ 05:50AM BLOOD CK(CPK)-793*
+___ 05:50AM BLOOD Calcium-9.8 Phos-3.2 Mg-2.1
+___ 04:04PM BLOOD Lactate-2.___ with a h/o schizophrenia and breast cancer, who presented 
+with multiple symptoms including chest pain, shortness of 
+breath, and dizziness, hypertension, tachycardia, multiple 
+abnormal labs, dehydration, all of which likely developed in the 
+setting of medication irregularity, likely anticholinergic 
+toxicity.
+
+# Anticholinergic Toxicity:
+# Dehydration
+Her overall constellation of signs and symptoms, in the setting 
+of multiple anticholinergic medications (including too much 
+Benadryl), is concerning for this.  Her hypertension, 
+tachycardia, dizziness, and dehydration are all consistent with 
+this.  Additionally, the black seed oil she was taking can cause 
+autonomic side effects and diuresis.  She had evidence of 
+dehydration on multiple lab values on admission, including 
+ketones and hyaline casts on UA, hemoconcentration on CBC, 
+lactic acidosis, and elevated CK.  These markers have all 
+improved with IV hydration and time.  Additionally, her symptoms 
+are improved following hydration and time.  She was feeling back 
+to baseline prior to discharge.  We recommended to stop black 
+seed oil on discharge.  We also recommended to not use 
+anticholinergic medications, such as Benadryl, other than her 
+home Benztropine prescribed by her Psychiatrist.
+
+# Schizophrenia:  Per outpatient Psychiatrist (Dr. ___ in ___ 
+___ who I spoke to on ___, she has relatively well 
+controlled, stable Schizophrenia which is managed on 
+Fluphenazine as well as a long acting injectable antipsychotic.  
+However she has not gone for the injectable recently, she says 
+she does not like it.  He had no preference on BID vs TID dosing 
+for Fluphenazine, but had prescribed BID most recently.  On 
+discharge we recommended to take Fluphenazine at home dose as 
+prescribed (BID), rather than TID which she was taking.  We also 
+resumed home Benztropine 1mg TID.
+
+# Tachycardia:  Likely related to dehydration as well as 
+anticholinergic toxicity.  This improved with IV hydration.
+
+# Hypertension:  No h/o chronic HTN, but came in hypertensive, 
+likely related to above. Improved prior to discharge.
+
+# Lactic Acidosis:  Likely related to dehydration. Was initially 
+5.3, following IVF it normalized to 2.0.
+
+# AAA
+# Occlusion left common iliac
+In the ED, CT Abdomen was ordered evaluate for a "surgical or 
+infectious process of the abdomen."  This revealed several 
+findings, none of them acute, but of note a Fusiform abdominal 
+aortic aneurysm measuring up to 3.2 cm, and an occlusion of the 
+left common iliac, through the distal external iliac had distal 
+reconstitution.  She was asymptomatic from this standpoint.  
+Vascular was thus consulted in the ED.  ABI's performed at their 
+request, and were unremarkable.  Outpatient Vasc f/u is 
+recommended, and can be done with Dr. ___ at ___ if 
+desired, at ___.
+
+# Chest Pain, Dyspnea:  Symptoms promptly resolved, likely 
+related to medication effect.  EKG, CXR, and CTA Chest were 
+without acute abnormality to explain.
+
+# Leukocytosis:  Likely reactive, and possibly hemoconcentration 
+as well. Less likely infection.  Cultures no growth, and she had 
+no fevers.  Normalized prior to discharge.
+
+# Elevated CK:  Likely related to dehydration.  Renal function 
+within normal limits.  Trended down.
+
+# Microscopic Hematuria:  Initial UA showed microscopic 
+hematuria.  Recommend recheck as outpatient.
+
+# Other incidental findings on CT Scan (will fax CT report to 
+Oncologist)
+- Bilateral indeterminate adrenal nodules: a dedicated adrenal 
+CT can be obtained for further characterization.  Given history 
+of breast cancer, this is concerning
+- Thyroid nodule:  No specific follow-up is recommended per 
+guidelines
+- Thickened distal esophagus: Recommend correlation with 
+endoscopy.
+
+TRANSITIONAL ISSUES
+========================
+[ ] Psychotropic medication dosing:  Pt was taking Fluphenazine 
+TID, but it was prescribed BID.  Recommend BID dosing on 
+discharge.  She will follow up with outpatient Psychiatrist.
+[ ] Anticholinergic medications:  Recommended that she take her 
+home Benztropine as prescribe, but avoid additional 
+anticholinergics such as Benadryl.
+[ ] Herbal medications:  Recommended that she discontinue the 
+Black Seed Oil, as this can cause diuresis, dehydration, and 
+also liver/kidney damage
+[ ] Microscopic hematuria:  Recommend repeat UA in outpatient 
+setting.  Consider Urology referral for Cystoscopy if 
+persistent.
+[ ] Outpatient Vasc f/u can be pursued at ___ if desired with 
+Dr. ___ ___ to schedule
+[ ] Thyroid nodule on CT:  No specific follow-up is recommended 
+per guidelines
+[ ] Thickened distal esophagus on CT: Recommend correlation with 
+endoscopy. 
+[ ] Bilateral indeterminate adrenal nodules on CT: a dedicated 
+adrenal CT can be obtained for further characterization.  Given 
+breast cancer history this is concerning
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluphenazine 2.5 mg PO BID 
+2. Benztropine Mesylate 1 mg PO TID 
+3. Fish Oil (Omega 3) 1000 mg PO DAILY 
+4. TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+5. Senna 17.2 mg PO BID:PRN constipation 
+6. Vitamin B Complex 1 CAP PO DAILY 
+7. Cyanocobalamin 100 mcg PO DAILY 
+8. Ferrous Sulfate 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Benztropine Mesylate 1 mg PO TID  
+2.  Cyanocobalamin 100 mcg PO DAILY  
+3.  Ferrous Sulfate 325 mg PO DAILY  
+4.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+5.  Fluphenazine 2.5 mg PO BID 
+please only take twice per day  
+6.  Senna 17.2 mg PO BID:PRN constipation  
+7.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+RX *tramadol 50 mg 1 tablet(s) by mouth every 6 hours Disp #*12 
+Tablet Refills:*0 
+8.  Vitamin B Complex 1 CAP PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Anticholinergic Toxicity
+Dehydration
+Schizophrenia
+Occlusion of the left common iliac artery
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___.  You were admitted to 
+us for chest pain, trouble breathing, and dizziness that 
+developed after taking lots of Benadryl.  Your evaluation with 
+x-rays and CAT scan did not show any other cause for your chest 
+pain and shortness of breath.
+
+You were also found to be dehydrated.  You were given IV fluids 
+to rehydrate you.  Please continue to drink plenty of fluids.
+
+We looked into your Black Seed Oil supplement.  This can carry a 
+risk of causing dehydration, high blood pressure, and other 
+symptoms as well.  Our recommendation is to stop this 
+supplement.
+
+We spoke to your Psychiatrist Dr. ___.  Please take your 
+Fluphenazine only twice per day for now, and discuss with Dr. 
+___ possible dose changes.
+
+Finally, the CAT scan did show that some of your arteries in 
+your belly have slightly excess calcium.  There is nothing that 
+requires urgent attention there, but you should see a Vascular 
+Surgeon as an outpatient.  You can call the office of Dr. 
+___ at ___ to schedule.
+
+We wish you all the best
+- ___ Medicine Team
+ 
+Followup Instructions:
+___

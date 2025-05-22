@@ -1,0 +1,220 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain 
+ 
+Major Surgical or Invasive Procedure:
+ERCP 
+
+ 
+History of Present Illness:
+HPI: ___ ___ yo woman with ___, HTN, depression, prior
+choledocholithiasis s/p CCY who presented to ___
+with abdominal pain found to have biliary obstruction concerning
+for recurrent choledocholithiasis. 
+
+Her symptoms began 4 days ago as pain in the RUQ with eating. 
+She
+felt the pain was sharp and would come and go. Yesterday the 
+pain
+became constant and severe. She described the pain as ___ pain
+in the RUQUS. She then began to have nausea and vomited x2
+prompting her to go the ___ emergency room. 
+
+On arrival there her vitals were BP 173/80  Pulse 80  Temp 97.8
+°F  Resp 18  Wt 90.7 kg (200 lb)  SpO2 96%. Her labs were
+remarkable for AST 667, ALT 498, Alk Phos 215, Bili 2.1. Her WBC
+was normal 8.6. She underwent a CT abdomen which showed
+intrahepatic and CBD dilation. She was given 1L IVF, Zofran,
+morphine, and x1 dose of zosyn. She remained afebrile there. She
+was subsequently transferred to ___ for ERCP.
+
+In the ___ ER her vitals were T 97.8, HR 80, BP 181/70, RR18,
+O2Sat 97% RA. Her labs were repeated WBC 9.7, ALT 724, AST 805,
+Alk Phos 264, T bili 4.1. She was admitted to medicine. 
+
+On arrival to the floor she endorses ongoing pain. She denies 
+any
+fevers, chills, diarrhea.
+
+14 Point ROS reviewed and otherwise negative.  
+
+ 
+Past Medical History:
+Breast cancer S/p Mastectomy 
+Cervical cancer s/p hysterectomy 
+___ 
+___ 
+HTN 
+
+ 
+Social History:
+___
+Family History:
+Multiple brothers with cancer, unsure which kind.
+Her niece died from brain cancer
+ 
+Physical Exam:
+Eyes: PERLL, EOMI, no conjuctival injection, anicteric
+ENT: no sinus tenderness, MMM, oropharynx without exudate or
+lesions, no supraclavicular or cervical lymphadenopathy, no JVD,
+no carotid bruits, no thyromegaly or palpable thyroid nodules
+Respiratory: CTA b/l with good air movement throughout
+Cardiovascular: RR, S1 and S2 wnl, no murmurs, rubs or gallops
+Gastrointestinal: nd, +b/s, soft, nt, no masses or HSM
+Extremities: no cyanosis, clubbing or edema
+Skin: warm, no rashes/no jaundice/no skin ulcerations noted
+Neurological: Alert, oriented to self, time, date, reason for
+hospitalization.  Cn II-XII intact.  ___ strength throughout.  
+No
+sensory deficits to light touch appreciated.  No pass-pointing 
+on
+finger to nose.  2+DTR's-patellar and biceps. No asterixis, no
+pronator drift, fluent speech.
+Psychiatric: pleasant, appropriate affect
+GU: no catheter in place
+
+ 
+Pertinent Results:
+Admission Labs 
+
+___ 04:56AM BLOOD WBC-9.7 RBC-5.13 Hgb-14.0 Hct-42.7 MCV-83 
+MCH-27.3 MCHC-32.8 RDW-12.8 RDWSD-38.9 Plt ___
+___ 04:56AM BLOOD ___ PTT-24.2* ___
+___ 04:56AM BLOOD Glucose-129* UreaN-7 Creat-0.8 Na-134* 
+K-4.1 Cl-96 HCO3-20* AnGap-18
+___ 04:56AM BLOOD ALT-724* AST-805* AlkPhos-264* 
+TotBili-4.1*
+___ 04:56AM BLOOD cTropnT-<0.01
+___ 06:50PM BLOOD cTropnT-<0.01
+___ 04:56AM BLOOD Albumin-4.6
+___ 06:32AM BLOOD Calcium-9.6 Phos-3.9 Mg-2.0
+___ 05:08AM BLOOD Lactate-1.6
+
+US Liver 
+IMPRESSION:  
+  
+Dilated common bile duct measuring up to 12 mm, with suggestion 
+of minimal 
+central intrahepatic biliary ductal dilation.  CBD was noted to 
+taper 
+gradually toward the major papilla on the prior outside hospital 
+CT.  No 
+obstructing stone or mass seen, however note that the very 
+distal CBD is not 
+well-seen by ultrasound.  recommend MRCP for further assessment. 
+
+
+ERCP: 
+
+ERCP: 
+Multiple non-bleeding < 1 mm duodenal ulcers noted.  CBD dilated
+to 15 mm.  Severe intrahepatic ductal dilation with smooth
+tapering at the ampulla.  Sphincterotomy performed.  Minimal
+sludge removed.  Cytology brushings and stent placement
+performed.
+
+Discharge Labs
+___ 06:09AM BLOOD WBC-10.0 RBC-4.42 Hgb-12.0 Hct-37.5 
+MCV-85 MCH-27.1 MCHC-32.0 RDW-13.0 RDWSD-40.4 Plt ___
+___ 06:32AM BLOOD ___
+___ 06:09AM BLOOD Plt ___
+___ 06:09AM BLOOD Glucose-70 UreaN-11 Creat-0.6 Na-140 
+K-3.7 Cl-99 HCO3-26 AnGap-15
+___ 06:09AM BLOOD ALT-348* AST-139* AlkPhos-213* 
+TotBili-1.0
+___ 06:50PM BLOOD Calcium-9.6 Phos-4.1 Mg-2.3
+ 
+Brief Hospital Course:
+___ ___ yo woman with ___, HTN, depression, prior
+choledocholithiasis s/p CCY who presented to ___
+with abdominal pain found to have biliary obstruction concerning
+for recurrent ___ transferred to ___ for ERCP 
+now s/p plastic stent. 
+
+#Elevated LFTS 
+#Choledocholithiasis
+#Abdominal Pain 
+Patient presenting with severe abdominal pain labs c/w
+obstruction. CT with evidence of biliary dilation. She was 
+initially started empirically on ciprofloxacin for cholangitis. 
+She underwent ERCP which showed Multiple non-bleeding < 1 mm 
+duodenal ulcers. CBD dilated
+to 15 mm.  Severe intrahepatic ductal dilation with smooth
+tapering at the ampulla.  Sphincterotomy was performed.  Minimal
+sludge removed.  Cytology brushings and stent placement
+performed. There was no clear cause of the dilation. Plastic 
+stent was placed and will need to be removed in ___ weeks by GI. 
+Given they saw no pus or signs of infection ciprofloxacin was 
+stopped. Her LFTs were trending towards normal and her bilirubin 
+was 1.0 on discharge. She will need follow up with her primary 
+care doctor. Her pain had completely resolved on discharge.  
+[] F/u Brushings from ERCP 
+[] F/u with GI in ___ weeks for stent removal 
+
+#Hyponatremia 
+resolved with fluids 
+
+#Hypertension 
+Home lisinoipril 
+
+#ADHD 
+home Adderall confirmed with ___ 
+
+>30 minutes spent on discharge activity
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amphetamine-Dextroamphetamine XR 30 mg PO DAILY 
+2. Famotidine 20 mg PO BID 
+3. Lisinopril 40 mg PO DAILY 
+4. Ranitidine 150 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Amphetamine-Dextroamphetamine XR 30 mg PO DAILY  
+2.  Famotidine 20 mg PO BID  
+3.  Lisinopril 40 mg PO DAILY  
+4.  Ranitidine 150 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Biliary Obstruction 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted when you began to have abdominal pain at home. 
+You were found to have obstruction of your bile duct. You were 
+sent to ___ for a special procedure called ERCP (Endoscopic 
+retrograde cholangiopancreatography). You underwent this 
+procedure without complication. During the procedure a stent was 
+placed in the bile duct. It is unclear what caused the 
+obstruction. You will need the stent removed in ___ weeks. 
+Gastroenterology will call you to make an appointment. Please 
+avoid all NSAIDS like aspirin and ibuprofen for a week. 
+
+It was a pleasure caring for you, 
+Your ___ Team 
+ 
+Followup Instructions:
+___

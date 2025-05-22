@@ -1,0 +1,260 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Sacral Pain, Fevers
+ 
+Major Surgical or Invasive Procedure:
+___ ischial bone biopsy 
+ 
+History of Present Illness:
+Mr ___ is a ___ y/o M with PMH significant for T6 cord
+injury with resultant ___ paralysis, who presents as a transfer
+from OSH for surgical evaluation of stage IV sacral ulcer with
+underlying osteomyelitis.  
+
+He has had a sacral ulcer for the past 9 months which has been
+followed as an outpatient.  In ___ of this year he went to ___
+for debridement was on IV antibiotics at a rehab facility for 
+___
+weeks.  He subsequently had a wound VAC in place for the last 
+___
+months.  He does note that the wound started healing in ___
+and he subsequently saw a plastic surgeon for consideration for 
+a
+flap.  As part of his workup he had an MRI performed last week
+which demonstrated osteomyelitis.  He initially presented to a
+hospital in ___, where he received a dose of IV
+Vancomycin and ceftriaxone and transferred him to ___ for
+surgical evaluation.  
+
+On arrival to the ED VS were 99.5 78 117/70 20 98% RA. Basic 
+labs
+and cultures were obtained. He was given oxycodone and CefePIME.
+Surgery was consulted and believed no debridement was necessary
+of his ulcer. He was then admitted to the medicine service for
+further workup of osteomyelitis. 
+  
+On the floor patient notes fever, chills in afternoon for many
+months as well as ongoing sacral pain.
+
+ 
+Past Medical History:
+- T6 Spinal Cord Injury ___, with paraplegia, chronic foley,
+manual disimpactions)
+- Sacral Ulcer 
+- Beta thalassemia
+ 
+Social History:
+___
+Family History:
+Noncontributory to presenting complaint
+ 
+Physical Exam:
+Admission:
+___ 1139 Temp: 98.1 PO BP: 114/71 R Lying HR: 82 RR: 18 O2
+sat: 100% O2 delivery: Ra 
+GEN: Well appearing, in no acute distress
+HEENT: Conjunctiva clear, PERRL, MMM
+NECK: No JVD.
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. No m/r/g.
+ABD: NT/ND, normal bowel sounds. 
+EXTREMITIES: No edema. 
+SKIN: No rashes. Sacral ulcer on left, 4cm, down to bone, beefy
+red granulation tissue present, no purulence.
+NEURO: AOx3. Paraplegia, with ___ strength in UE and normal CN. 
+
+Discharge Exam:
+T 97.9 PO BP 108 / 67 HR 83 RR 18 ___ 99 Ra 
+Gen: Well appearing, AOX3
+CV: RRR, no r/m/g
+Pulm: CTAB 
+Abdomen: soft NTND, no organomegaly
+Skin: Left ischium with decubitus ulcer without bone exposed, 
+clean base without any evidence of infection 
+ 
+Pertinent Results:
+Admission Labs:
+
+___ 04:30AM BLOOD WBC-12.3* RBC-5.17 Hgb-9.5* Hct-32.6* 
+MCV-63* MCH-18.4* MCHC-29.1* RDW-17.1* RDWSD-37.1 Plt ___
+___ 04:30AM BLOOD Neuts-72.3* Lymphs-14.5* Monos-9.4 
+Eos-2.7 Baso-0.3 Im ___ AbsNeut-8.90* AbsLymp-1.79 
+AbsMono-1.16* AbsEos-0.33 AbsBaso-0.04
+___ 04:30AM BLOOD Glucose-119* UreaN-16 Creat-0.5 Na-140 
+K-4.2 Cl-102 HCO3-25 AnGap-13
+___ 04:30AM BLOOD hsCRP-192.7
+
+Micro:
+Urine culture:
+   URINE CULTURE (Final ___: 
+      PSEUDOMONAS AERUGINOSA. 
+         >100,000 CFU/mL OF TWO COLONIAL MORPHOLOGIES. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             PSEUDOMONAS AERUGINOSA
+                             |   
+CEFEPIME--------------     2 S
+CEFTAZIDIME-----------     4 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----     8 S
+TOBRAMYCIN------------   <=1 S
+
+___  Blood culture x2: NGTD
+
+___ 3:15 pm BIOPSY      ISCHIAL BIOPSY LEFT. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   TISSUE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+Discharge labs:
+
+___ 05:10AM BLOOD WBC-6.8 RBC-4.77 Hgb-8.9* Hct-30.2* 
+MCV-63* MCH-18.7* MCHC-29.5* RDW-17.1* RDWSD-37.1 Plt ___
+___ 05:10AM BLOOD Glucose-87 UreaN-17 Creat-0.4* Na-140 
+K-4.9 Cl-102 HCO3-30 AnGap-8*
+___ 05:10AM BLOOD Calcium-8.6 Phos-3.7 Mg-2.5
+___ 09:15AM BLOOD CRP-141.7*
+___ ESR 53
+ 
+Brief Hospital Course:
+Mr ___ is a ___ y/o M with PMH significant for T6 cord 
+injury with resultant ___ paralysis, who presents as a transfer 
+from OSH for surgical evaluation of stage IV sacral ulcer with 
+underlying osteomyelitis.  
+
+ACTIVE ISSUES:
+==============
+# Osteomyelitis:  
+# Ischial decubitus Ulcer
+Patient completed 6 weeks of Ctx/flagyl over ___ for 
+E.coli, MSSA osteomyelitis. Course was complicated by 
+non-healing clean sacral ulcer despite wound vac. MRI prior to 
+flap procedure concerning for osteomyelitis at OSH though likely 
+represent inflammatory changes post treatment. Appears to have 
+bone exposure on MRI though on exam and based on ortho bone 
+biopsy, there is no bone exposure. ID consulted but given 
+patient without leukocytosis, fever or other clinical signs of 
+infection, he was not treated with antibiotics. Bone biopsy 
+obtained on ___ without growth to date. Of note, patient 
+had cultures at ___ in ___ without growth either. ID 
+consulted here with recommendation to hold off on antibiotics: 
+"There is no role for antibiotics in isolation here. If there is 
+a
+goal to try and heal this ulcer, it should be part of a 
+multidisciplinary approach- plastics to flap, gen surgery for 
+diverting ostomy, and ID for antibiotics to decrease the 
+colonization of the area to help promote flap success. He also
+has excellent self care and if he is truly able to keep his 
+wound clean, then potentially colostomy would not be needed." 
+Plastic surgery consulted but patient preferred to follow up 
+with own surgeon in ___. 
+
+#Constipation
+Given parapalegia, requires disimpaction for bowel movements.
+Avoiding laxatives as patient has had unexpected diarrhea with
+this and given presence of sacral wound, would avoid increase
+soiling in the area. 
+- Avoid laxatives
+- Dissimpaction PRN 
+
+TRANSITIONAL ISSUES:
+====================
+[ ] Follow up with plastic surgery for evaluation of wound 
+closure
+[] Consider Infectious disease follow up outpatient for further 
+management as needed
+[] Bone biopsy from ___ without growth 
+[] Continue daily wet to dry dressing 
+[] Strict pressure offloading L ischium; if able, order pressure
+offloading specific air mattress bed
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. OxyCODONE (Immediate Release) 5 mg PO Q3H:PRN Pain - Moderate 
+
+2. Multivitamins W/minerals 1 TAB PO DAILY 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary
+Osteomyelitis
+Sacral Decubitus Ulcer
+
+Secondary
+T6 spinal cord transection
+Hemiparesis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+ 
+Discharge Instructions:
+Dear Mr ___,
+  
+It was a pleasure caring of you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted to the hospital because of a concern for an 
+infection in the bone underneath your sacral wound 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You had infectious disease, and orthopedics evaluate your 
+wound
+- Your wound was clean and your bone biopsy did not show any 
+growth concerning for an active infection
+- You were evaluated by plastic surgery for a flap but you 
+decided to pursue this closer to home 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  
+- Please establish care with an infectious disease doctor and 
+follow up with plastic surgery for continued evaluation of wound 
+closure 
+
+We wish you the best!  
+
+Sincerely,  
+
+Your ___ Team
+ 
+Followup Instructions:
+___

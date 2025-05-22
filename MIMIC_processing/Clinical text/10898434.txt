@@ -1,0 +1,253 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+lower GI bleeding
+ 
+Major Surgical or Invasive Procedure:
+colonoscopy
+CT colonography
+ 
+History of Present Illness:
+___ year old male with prior CVA on ASA, and DMII who
+presents for acute onset dizziness and bright red blood per
+rectum. 
+
+He felt dizzy and lightheaded for the past 2 days. Then at 4am 
+on
+morning of ___ (day of presentation) pt woke and had an episode
+of bright red blood per rectum. Some urgency with that
+defecation. He said that he was about a few tablespoons to about
+half a cup of bright red blood. Then throughout the course of 
+the
+day he had 4 more episodes of similar amounts of bright red 
+blood
+per rectum. First two episodes in close succession but have been
+more spaced since then. Denies any since arriving to ED although
+he has now had one mod-large volume maroon stool on floor
+arrival. He denies any new onset abdominal pain but does say 
+that
+he had some nausea not associated with any emesis.
+
+He denies ongoing ibuprofen use but does use aspirin 81 mg daily
+I/s/o CVA Hx. He is not on any other anticoagulation and has a
+history of diabetes. He denies any recent weight loss or history
+of malignancy.
+
+In ED: 
+VS: 147/77 --> 124/65, HR 115 --> 87, RA
+wbc 15, hb 10.0, bcb 20, Cr 0.8, INR 1.1
+UA: few bact, wbc 8, small leuk
+lactate 1.8
+Received 1L NS
+GI consult in ED: likely diverticular, rec serial H/H, close
+monitor VS; rec investigate ASA indication
+
+___, ___ with diverticulosis
+
+Limited records in BI system; goes ot see ___ at
+___.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+1. Diabetes mellitus for ___ years. Does not know HgbA1c. Does
+not check finger sticks
+2. Hyperlipidemia for ___ years
+3. Right trigger finger
+4. Arthritis
+
+ 
+Social History:
+___
+Family History:
+Mother with diabetes. Father died from unknown causes.
+ 
+Physical Exam:
+ADMISSION
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, ___ systolic murmur loudest at RUSB, intact
+S2, radiates to carotid, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present. 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout. ___ UE, ___ strength, CN2-12 intact
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE
+VITALS:   98.3 PO 128 / 63 90 16 97 Ra  
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, ___ systolic murmur loudest at RUSB, intact
+S2, radiates to carotid, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present. 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout. ___ UE, ___ strength, CN2-12 intact
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+ADMISSION
+
+___ 02:23PM BLOOD WBC-15.1* RBC-3.58* Hgb-10.0* Hct-31.4* 
+MCV-88 MCH-27.9 MCHC-31.8* RDW-14.0 RDWSD-44.9 Plt ___
+___ 02:23PM BLOOD Plt ___
+___ 03:09PM BLOOD ___ PTT-19.6* ___
+___ 02:23PM BLOOD Glucose-187* UreaN-23* Creat-0.8 Na-139 
+K-4.5 Cl-103 HCO3-20* AnGap-16
+___ 02:23PM BLOOD Calcium-9.1 Phos-2.6* Mg-2.0
+___ 05:45AM BLOOD calTIBC-332 Ferritn-48 TRF-255
+___ 02:34PM BLOOD Lactate-1.8
+
+DISCHARGE
+
+___ 05:19AM BLOOD WBC-8.4 RBC-3.22* Hgb-9.0* Hct-28.2* 
+MCV-88 MCH-28.0 MCHC-31.9* RDW-14.3 RDWSD-45.3 Plt ___
+___ 05:19AM BLOOD Plt ___
+___ 05:19AM BLOOD ___ PTT-24.7* ___
+___ 05:19AM BLOOD Glucose-134* UreaN-5* Creat-0.6 Na-145 
+K-3.6 Cl-107 HCO3-28 AnGap-10
+___ 05:19AM BLOOD Calcium-9.2 Phos-3.0 Mg-2.4
+
+Colonoscopy ___
+High residue material throughout. Multiple attempts to irrigate
+the colon but the mucosa could not be visualized adequately.
+Severe diverticulitis of the whole colon. Large pathology could
+not be ruled out due to very poor prep and complex anatomy.
+
+CT Colonography ___
+IMPRESSION 
+4 cm area of concentric wall thickening in the sigmoid colon on 
+a background
+of extensive diverticulosis without evidence of diverticulitis. 
+This area
+needs to be evaluated by conventional colonoscopy for potential 
+sampling.
+ 
+Brief Hospital Course:
+#Painless hematochezia: likely diverticular bleed. Ddx for lower 
+GI bleeding includes colon cancer (though minimal weight loss, 
+energy/appetite seem good), ulcers, angiodysplasia, and 
+hemorrhoidal bleeding. Unlikely upper bleed given hemodynamic 
+stability, normal BUN/Cr ratio, lack of melena. After admission, 
+he was asymptomatic and hemodynamically stable with stable H/H 
+and did not require a transfusion. GI consulted. Colonoscopy on 
+___ showing diverticuli but with poor prep so did CT 
+colonography on ___. Colonography also shows extensive 
+diverticuli and an area in the sigmoid colon with wall 
+thickening where a mass cannot be entirely excluded. Discussed 
+with GI and felt reasonable to discharge today given the patient 
+is clinically well-appearing and no longer bleeding. PCP follow 
+up scheduled and GI follow up scheduled in ___. Held 
+aspirin during admission given bleeding. Apparently he has a 
+history of an old CVA. Left message with PCP to discuss and will 
+recommend discussing this with his PCP at his follow up 
+appointment.
+
+#Leukocytosis, resolved: likely reactive i/s/o GIB, resolved. No 
+localizing sx. No empiric abx.
+
+#T2DM: held home glipizide, metformin; HISS in house
+
+#AS: Had mild AS on echo ___ years ago; does not report any 
+recent echo with his PCP; at one point was referred to 
+cardiology as outpatient but this was never scheduled; the 
+rationale is not clear from talking to patient, perhaps related 
+to c/f angina, as
+he was complaining of some left arm pain. Does not appear 
+recently to have recent TTE. Denies angina, syncope, dyspnea sx. 
+Would recommend outpatient echo.
+
+CHRONIC/STABLE PROBLEMS:
+#Hx CVA: held ASA given bleed - left message with PCP as above 
+to discuss
+
+Transitional issues:
+- currently holding ASA; discuss with PCP ___ to resume
+- outpatient echo
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. GlipiZIDE XL 5 mg PO DAILY 
+3. MetFORMIN (Glucophage) 1000 mg PO BID 
+
+ 
+Discharge Medications:
+1.  GlipiZIDE XL 5 mg PO DAILY  
+2.  MetFORMIN (Glucophage) 1000 mg PO BID  
+3. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until you discuss further with your PCP
+
+ 
+___:
+Home
+ 
+Discharge Diagnosis:
+Lower gastrointestinal bleeding
+Diverticulosis
+Diabetes mellitus
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were admitted to the hospital with GI bleeding. Your blood 
+counts fortunately remained stable and you didn't require a 
+transfusion. The GI team consulted and did a colonoscopy, which 
+showed extensive diverticuli (pouches in the colon) but given 
+there was still stool in the colon, we did another study for a 
+better look. This study was a CT colonography. This also showed 
+extensive diverticuli. It didn't show a mass. It did show an 
+area of wall thickening in the sigmoid colon, which may need to 
+be further evaluated in the future. Please follow up with your 
+GI appointment to discuss any further workup.
+
+It was a pleasure taking care of you!
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

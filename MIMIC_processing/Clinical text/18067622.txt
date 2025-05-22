@@ -1,0 +1,197 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+none
+
+attach
+ 
+Pertinent Results:
+DATA: I have reviewed the relevant labs, radiology studies,
+tracings, medical records, and they are notable for: 
+
+___ 01:30PM BLOOD WBC: 6.2 RBC: 5.53 Hgb: 14.6 Hct: 44.3
+MCV: 80* MCH: 26.4 MCHC: 33.0 RDW: 13.2 RDWSD: 37.___ 
+___ 01:30PM BLOOD Neuts: 59.2 Lymphs: ___ Monos: 6.3 Eos:
+0.5* Baso: 0.5 Im ___: 0.2 AbsNeut: 3.69 AbsLymp: 2.07 AbsMono:
+0.39 AbsEos: 0.03* AbsBaso: 0.03 
+___ 01:30PM BLOOD Glucose: 519* UreaN: 11 Creat: 1.0 Na:
+132* K: 4.9 Cl: 90* HCO3: 24 AnGap: 18 
+___ 01:30PM BLOOD Albumin: 4.5 Calcium: 9.9 Phos: 3.2 Mg:
+1.6 
+___ 01:33PM BLOOD Lactate: 2.6* 
+___ 06:54PM BLOOD Lactate: 1.6 
+
+CT A/P ___
+No acute intra-abdominal pathology to account for patient's
+symptoms.  Normal  appendix. 
+
+Abdominal ultrasound ___
+Normal abdominal ultrasound.
+
+Urine Cx ___ 2:33 
+   URINE CULTURE (Pending): NGTD
+
+Discharge labs:
+
+___ 01:30PM BLOOD WBC-6.2 RBC-5.53 Hgb-14.6 Hct-44.3 
+MCV-80* MCH-26.4 MCHC-33.0 RDW-13.2 RDWSD-37.4 Plt ___
+___ 04:45AM BLOOD Glucose-310* UreaN-6 Creat-0.7 Na-135 
+K-4.4 Cl-97 HCO3-24 AnGap-14
+___ 01:30PM BLOOD ALT-16 AST-12 AlkPhos-129 TotBili-0.3
+
+EKG: NSR at 95 bpm, normal intervals, non ischemic
+
+Discharge exam:
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose unremarkable. Oropharynx without visible 
+lesion, MMM
+CV: heart regular, no m/r/g
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally
+GU: No CVA tenderness
+GI: soft, ND. +BS. no ttp 
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+ 
+Brief Hospital Course:
+SUMMARY/ASSESSMENT: ___ with h/o uncontrolled DM, prior gluteal 
+abscess, who is s/p hemorrhoidectomy on ___ presenting with 
+abdominal pain, found to have hyperglycemia and rectal 
+tenderness.
+
+ACUTE/ACTIVE PROBLEMS:
+
+# Rectal tenderness:
+# Abdominal pain: 
+Patient presenting with cramping abdominal pain, exacerbated by 
+eating, however, most correlated with constipation, straining 
+with bowel movements, and passing narrow
+caliber stool since his surgery. CT A/P WNL without e/o 
+obstruction, abscess or infection. CT was significant for stool 
+burden. LFTS and lipase WNL. Abdominal exam benign. While he is 
+at risk for gastroparesis given his poorly controlled diabetes, 
+he does not have significant nausea, vomiting, or early satiety. 
+Given the nature
+of his abdominal pain, it seems most consistent with significant 
+constipation. However, his rectal exam is consistent with for 
+possible fissure vs abscess vs thrombosed hemorrhoid given his 
+significant tenderness. While he does report some occasional 
+BRBPR, his H/H is stable, so likely small volume blood loss. On 
+admission, patient was volume resuscitated with IVFs and started 
+on a bowel regimen. ___ surgery team was consulted given 
+recent surgery, and they felt exam was reassuring. Pt was 
+discharged with instructions to take miralax ___ times a day as 
+well as docusate/senna and prn lactulose for severe 
+constipation. 
+
+# Hyperglycemia, poorly controlled DM: 
+Patient reports no significant triggers for hyperglycemia and 
+reports compliance
+with his home diabetes regimen. No evidence of acidosis on exam. 
+UA with significant ketones and the patient appears hypovolemic. 
+ On admission, started on home 30 units lantus QHS with 6 mg TID 
+with meals. Home glipizide held.
+
+# Sinus tachycardia: 
+Physical exam evidence with hypovolemia on admission. Also, 
+patient has a significant amount of pain. Of note, outpatient 
+records indicate high resting heart rate in the 100s-110s. No 
+chest pain or dyspnea to suggest pulmonary embolus.
+No other evidence of sepsis or shock. Patient is asymptomatic. 
+Pt was fluid resuscitated and HR improved to normal rate. EKG 
+was repeated and showed normal sinus rhythm at 95 bpm. TSH wnl. 
+
+# Psuedohyponatremia: 
+Admission Na of 132, corrected for hyperglycemia to 142. 
+Improved with fluids correction of and hyperglycemia 
+
+Transitional Issues:
+=======================
+[ ] Please continue to monitor symptoms. If persistent abdominal 
+pain and constipation on bowel regime, consider referral to GI 
+
+>30 minutes of time spent on patient care and discharge care 
+coordination
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Glargine 30 Units Bedtime
+Humalog 6 Units Breakfast
+Humalog 6 Units Lunch
+Humalog 6 Units Dinner
+2. GlipiZIDE 10 mg PO TID 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID  
+2.  Lactulose 15 mL PO BID:PRN constipation not relieved by 
+other bowel meds  
+3.  Polyethylene Glycol 17 g PO BID  
+4.  Senna 17.2 mg PO BID  
+5.  Glargine 30 Units Bedtime
+Humalog 6 Units Breakfast
+Humalog 6 Units Lunch
+Humalog 6 Units Dinner 
+6.  GlipiZIDE 10 mg PO TID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal pain likely ___ constipation 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to the hospital with cramping abdominal pain, 
+straining with bowel movements and passing narrow caliber stool 
+since your surgery. It appears you had these symptoms prior to 
+the surgery, but that they have gotten worse since then. When 
+you got to the hospital, we did blood work and a CT scan of your 
+abdomen and pelvis to further investigate the etiology. Your 
+blood work was reassuring and your CT scan did not show any 
+evidence of infection or obstruction of your bowels, but did 
+show significant stool burden (i.e. constipation). We also had 
+the surgeons evaluate you given your recent surgery. On their 
+exam, there was no concerns for infection or complications of 
+your recent surgical site. 
+
+We believe your symptoms are related to constipation. It is 
+important you to drink plenty of fluids to stay well hydrated 
+and to use bowel medications regularly - especially miralax, 
+which can be taken ___ times a day. Please also take Colace and 
+senna daily to improve your bowel movements as well. Please 
+follow up with your primary care doctor, and if your symptoms 
+persist in spite of regular use of these medications, please 
+have them consider referring you to the GI doctors.
+
+___ was a pleasure meeting you- we wish you all the best!
+- Your ___ care team 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,244 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+pericardial drain placement ___
+transvenous pacer placement ___
+ 
+History of Present Illness:
+Mr. ___ is a ___ with PMH of HTN who does not follow 
+regularly with a physician who initially presented to ___ 
+with 4 days of intermittent chest pain found to have ST 
+elevations in the inferior leads with initial concern for STEMI. 
+The patient signed out AMA prior to full work-up now 
+re-presenting with persistent chest pain found to have a dilated 
+ascending aorta with course complicated by shock, enlarging 
+pericardial effusion and worsening chest pain now transferred to 
+the CCU for further management.
+
+Per OSH records and medical chart, the patient states that he 
+developed chest pain 4 days ago that was different than the his 
+chronic chest pain. The pain is substernal that radiates to the 
+neck. Worse at night and relieved with exercise. Had associated 
+SOB, but no diaphoresis. No pedal edema, syncope, or pedal 
+edema. He presented to ___ and was noted to have slight 
+elevations in the inferior leads (II, III, aVF). He signed out 
+AMA and re-presented to ___ today with persistent chest 
+pain. 
+
+In regards to his history, the patient states that he has a 
+history of a bicuspid aortic valve that was diagnosed in ___ 
+via echo. He has a long standing history of palpitations and 
+chest pain and was seen ___ years ago at ___. He was 
+previously seen by a Cardiologist and underwent a stress test 
+that was negative. He was placed on atenolol which he later 
+discontinued because he did not like how the medication made him 
+feel. He was later lost to follow-up. Of note, he had an episode 
+of syncope in ___ for which he presented to ___. There, he 
+was found to have an aortic aneurysm (told it was 2.3cm). He was 
+again lost to follow-up.
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS   
+- Hypertension   
+2. CARDIAC HISTORY  
+-Bicuspid aortic valve
+3. OTHER PAST MEDICAL HISTORY
+-Alcohol abuse  
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death. 
+ 
+Physical Exam:
+Admission exam:
+===============
+VS: 98.6  120  ___  100% NRB
+GENERAL: Ruddy face, very diaphoretic, uncomfortable appearing
+HEENT: Normocephalic atraumatic. Sclera anicteric. Cyanotic 
+appearing mucosa  
+CARDIAC: Tachycardic, regular, no murmurs appreciated
+LUNGS: Tachpneic. Clear to auscultation. 
+ABDOMEN: Soft, ND, NTTP
+EXTREMITIES: Cold, no edema. 
+
+Interval exam:
+==============
+Deceased in cath lab on ___ following CPR. 
+ 
+Pertinent Results:
+All labs:
+=========
+___ 07:39PM BLOOD WBC-6.4 RBC-3.68* Hgb-13.1* Hct-37.8* 
+MCV-103* MCH-35.6* MCHC-34.7 RDW-11.9 RDWSD-45.1 Plt ___
+___ 02:32AM BLOOD WBC-6.2 RBC-3.63* Hgb-12.7* Hct-38.5* 
+MCV-106* MCH-35.0* MCHC-33.0 RDW-12.1 RDWSD-47.8* Plt ___
+___ 07:39PM BLOOD ___ PTT-28.6 ___
+___ 02:32AM BLOOD ___ PTT-24.8* ___
+___ 07:39PM BLOOD ___
+___ 07:39PM BLOOD UreaN-13 Creat-0.7
+___ 02:32AM BLOOD Glucose-152* UreaN-12 Creat-0.8 Na-138 
+K-4.2 Cl-102 HCO3-17* AnGap-23*
+___ 07:39PM BLOOD CK(CPK)-137
+___ 02:32AM BLOOD ALT-69* AST-22 LD(LDH)-207 CK(CPK)-108 
+AlkPhos-70 TotBili-1.3
+___ 07:39PM BLOOD CK-MB-1
+___ 07:39PM BLOOD cTropnT-<0.01
+___ 02:32AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 07:39PM BLOOD Lipase-69*
+___ 02:32AM BLOOD Albumin-4.4 Calcium-9.0 Phos-3.4 Mg-2.4
+___ 07:39PM BLOOD ASA-NEG ___ Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 07:44PM BLOOD ___ pO2-43* pCO2-35 pH-7.40 
+calTCO2-22 Base XS--1 Comment-GREEN TOP 
+___ 02:38AM BLOOD ___ pO2-181* pCO2-34* pH-7.34* 
+calTCO2-19* Base XS--6 Comment-GREEN TOP
+___ 07:44PM BLOOD Glucose-105 Lactate-2.1* Na-140 K-3.9 
+Cl-106
+___ 02:38AM BLOOD Lactate-3.9*
+___ 07:44PM BLOOD Hgb-13.7* calcHCT-41 O2 Sat-73 COHgb-2 
+MetHgb-0
+___ 07:44PM BLOOD freeCa-1.08*
+
+Micro:
+======
+none
+
+Studies:
+========
+CTA chest preliminary read ___
+Pulmonary vasculature is well opacified to the subsegmental 
+level without 
+filling defect to indicate a pulmonary embolus. The pulmonary 
+artery is 
+markedly dilated, measuring 4.2 cm in maximum diameter; 
+suggestive of 
+pulmonary hypertension. 
+  
+The aortic root and ascending aorta is markedly dilated, 
+measuring 5.3 cm in maximum diameter. The aortic arch and 
+descending aorta is normal in caliber. The major branching 
+vessels of the aorta are patent, with no evidence of stenosis, 
+occlusion, dissection, or aneurysmal formation. There is no 
+evidence of penetrating atherosclerotic ulcer or aortic arch 
+atheroma present. There is moderate to severe cardiomegaly. 
+There is no supraclavicular, axillary, mediastinal, or hilar 
+lymphadenopathy. 
+The thyroid gland appears unremarkable.  Bronchial wall 
+thickening suggests small airway disease. There is a minimal 
+bibasilar atelectasis. The airways are patent to the 
+subsegmental level. There is trace pericardial effusion. There 
+is no pleural effusion. 
+
+TEE ___
+The aortic root is moderately dilated at the sinus level. The 
+ascending aorta is moderately dilated. A mobile density is seen 
+in the ascending aorta consistent with an intimal flap/aortic 
+dissection. There is flow in the false lumen. The aortic valve 
+is bicuspid with fusion of the right and non-coronary cusps. 
+Severe (4+) aortic regurgitation is seen. The mitral valve 
+leaflets are not well seen. There is a small pericardial 
+effusion. The effusion is echo dense, consistent with blood, 
+inflammation or other cellular elements. IMPRESSION: Aortic 
+dissection involving only the aortic root (type A). Bicuspid 
+aortic valve with severe aortic regurgitation. Pericardial 
+effusion. 
+
+TTE complete ___
+There is mild regional left ventricular systolic dysfunction 
+with hypokinesis of the basal to mid inferoseptal and inferior 
+walls. Overall left ventricular systolic function is mildly 
+depressed (LVEF= 40-45 %)). Right ventricular chamber size is 
+normal with mild global free wall hypokinesis. The aortic root 
+is mildly dilated at the sinus level. The aortic valve is 
+bicuspid. Moderate (2+) aortic regurgitation is seen. The mitral 
+valve leaflets are structurally normal. Mild (1+) mitral 
+regurgitation is seen. There is a large pericardial effusion. 
+The effusion appears circumferential. The effusion is echo 
+dense, consistent with blood, inflammation or other cellular 
+elements. There is right ventricular diastolic collapse, 
+consistent with impaired fillling/tamponade physiology. 
+IMPRESSION: Large, echo dense, circumferential pericardial 
+effusion with tamponade physiology. Mildly dilated aortic root. 
+Bicuspid aortic valve with moderate aortic regurgitation. Mild 
+regional left ventricular systolic dysfunction. Mild mitral 
+regurgitation.  
+
+Cath report ___
+echo showed large pericardial effusion that accumulated over ___ 
+hours. Dissection was suspected and with hypotension, we elected 
+to drain the effusion with cardiac surgery and TEE team present. 
+difficult pericardial drainage, bloody fluid (>300 ml). Then 
+patient had cardiac arrest and could not ___ SC. pronounced 
+dead at 5:01 am
+ 
+Brief Hospital Course:
+___ year old male who presented with 4 days of chest 
+pain,transferred from OSH for concern of ST elevation in 
+inferior leads. On initial evaluation in the ED patient reported 
+___ chest pain with LVH, ___levation in inferior leads, 
+no reciprocal depressions. Bedside echo showing dilated aortic 
+root with moderate to severe aortic regurg, bicuspid valve. 
+After discussion with interventional attending, decision made to 
+hold urgent cath and evaluate for aortic dissection given 
+atypical presentation for STEMI. CTA did not show evidence of 
+dissection on prelim and attending read (Dr. ___. Initial 
+troponin was negative. Discussion with ED to continue 
+observation, ___ troponin and re-evaluation before decision on 
+transfer. However, patient was transferred to the floor after 
+first troponin. On route to floor, patient became nauseous and 
+had bouts of emesis. As soon as patient got to the floor, he 
+reported chest discomfort and became hypotensive to the 60's 
+systolic. His EKG showed ST elevation in inferior leads largely 
+unchanged. He was given a heparin bolus for presumed ACS. Cath 
+lab was activated and CT surger was consulted. Bedside echo 
+showed a large pericardial effusion with tamponade concerning 
+for dissection, and so, heparin ggt was turned off. Transferred 
+to the CCU where heparin was reversed with protamine. Reversed 
+with protamine afterward. Pericardial drain placed although with 
+significant loculation and clots. Initial TEE images without 
+clear evidence of dissection, however on closer inspection a 
+very thin
+dissection flap was identified. Patient became asystolic on the 
+table and CPR initiated with insertion of transvenous pacer.  
+However, patient unresponsive to CPR and pericardial drain and 
+decision made to pronounce patient. Mother was contacted by Dr. 
+___ surgeon).
+
+ 
+Medications on Admission:
+Unknown 
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+deceased
+ 
+Discharge Condition:
+as above
+ 
+Discharge Instructions:
+as above
+ 
+Followup Instructions:
+___

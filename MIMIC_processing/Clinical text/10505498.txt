@@ -1,0 +1,196 @@
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, vomiting, diarrhea
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o M w/ HTN and HLD, presenting now
+for significant nausea, vomiting, and worsening renal failure. 
+He went to ___ for three weeks ago he went to ___
+with his girlfriend returning on ___. He states he felt
+fine on vacation, but did start having some intermittent 
+episodes
+of diarrhea. He was not concerned because he thought it would
+stop once he left ___. Once he returned he developed
+nausea and inability to keep down any po and increased frequency
+of diarrhea. He has been unable to tolerate even water over the
+last week. This prompted patient to present to an urgent care on
+___. where his Cr was noted to have gone from 1 -> 4. He was
+asked to come back today for further evaluation, and his Cr was
+found to be 6. He was informed he should present here for 
+further
+evaluation. He notes his emesis is mostly yellow now, denies any
+blood. He continues to have diarrhea 3x per day. It is yellow
+without blood. Denies any fevers, chills, or even abdominal 
+pain.
+He has lost 3 lbs. His girlfriend ate the same foods he ate and
+she was not sick. He eats the same foods there as he eats here 
+in
+the ___. He has not been camping or drank water from any streams.
+No other strange foods. 
+ 
+Past Medical History:
+HTN
+HLD
+ 
+Social History:
+___
+Family History:
+Mother died at age ___. She had DM and HTN.
+Father with DM and HTN. 
+ 
+Physical Exam:
+Admission Physical Exam:
+========================
+GEN: NAD
+EYES: anicteric
+HENT: MMM
+CV: RRR, no murmurs, no JVD
+RESP: non-labored on RA, good air entry b/l, no crackles, no
+wheezes
+GI: soft, non-distended, non-tender, no hepatomegaly, normal
+bowel sounds
+GU: no suprapubic tenderness
+EXT: no edema
+SKIN: no rash
+NEURO: alert, oriented x4
+PSYCH: calm
+
+Discharge Physical Exam:
+========================
+Vitals: see Eflowsheets
+GEN: NAD
+EYES: anicteric
+HENT: MMM
+CV: RRR, no murmurs, no JVD
+RESP: non-labored on RA
+GI: soft, non-distended
+GU: no foley
+EXT: no edema
+SKIN: no rash
+NEURO: AAO X 3
+PSYCH: calm
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 07:57PM BLOOD Glucose-148* UreaN-74* Creat-6.6*# 
+Na-129* K-3.7 Cl-91* HCO3-14* AnGap-24*
+___ 06:50AM BLOOD Glucose-118* UreaN-73* Creat-5.7* Na-135 
+K-3.3* Cl-93* HCO3-16* AnGap-26*
+
+Imaging:
+========
+CT Abd/Pelvis:
+1. No acute findings in the abdomen or pelvis within limitations 
+of a 
+noncontrast study.  No bowel obstruction. 
+2. Vague stranding in the upper central mesentery, which may 
+represent mild  edema or mesenteric panniculitis. 
+
+Discharge Labs:
+===============
+___ 06:50AM BLOOD WBC-8.7 RBC-4.38* Hgb-13.4* Hct-39.2* 
+MCV-90 MCH-30.6 MCHC-34.2 RDW-11.6 RDWSD-37.4 Plt ___
+___ 06:50AM BLOOD Glucose-109* UreaN-39* Creat-1.7*# Na-141 
+K-4.1 Cl-101 HCO3-25 AnGap-15
+___ 06:50AM BLOOD Calcium-9.0 Phos-2.5* Mg-1.___ with PMH asthma, HTN, HLD, who presented with 
+nausea/vomiting and diarrhea and was found to have severe ___ 
+with creatinine of 6.6.
+
+# Gastroenteritis
+Presented with reports of two weeks of nausea/vomiting and 
+diarrhea. C diff testing was negative. Stool cultures were 
+pending at time of discharge but negative thus far. His symptoms 
+improved spontaneously. He was tolerating a regular diet at time 
+of discharge and diarrhea had largely resolved.
+Symptoms most likely secondary to viral gastroenteritis, but 
+given longer reported duration of symptoms, could also consider 
+post-infectious diarrhea or IBS.
+
+# ___
+# Metabolic acidosis:
+Cr 6.6, HCO3 14, AG 24 on admission. Baseline Cr 1.0. He was 
+seen by neurology who did not find evidence of ATN and felt that 
+his ___ was most likely prerenal in etiology, though unusually 
+severe. His creatinine rapidly improved with IV fluids and had 
+downtrended to 1.7 at time of discharge.
+He did require potassium repletion likely due to losses from 
+autodiuresis, but this had stabilized prior to discharge.
+He was counseled to follow up with his primary doctor within the 
+next week to have creatinine and electrolytes rechecked.
+
+# HTN
+# HLD
+Not on any medications at home
+
+> 30 minutes spent on discharge coordination and planning
+
+Transitional Issues:
+====================
+- needs creatinine and electrolytes rechecked within the next 
+week
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sildenafil 20 mg PO DAILY:PRN sex 
+2. budesonide-formoterol 160-4.5 mcg/actuation inhalation BID 
+3. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob 
+4. Aspirin 81 mg PO DAILY:PRN ocassionally 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler 2 PUFF IH Q4H:PRN sob  
+2.  Aspirin 81 mg PO DAILY:PRN ocassionally  
+3.  budesonide-formoterol 160-4.5 mcg/actuation inhalation BID  
+4.  Sildenafil 20 mg PO DAILY:PRN sexual activity  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Gastroenteritis
+___
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came in with nausea/vomiting and diarrhea. We think this was 
+likely caused by a viral gastroenteritis. We also found that 
+your kidneys were not working properly, most likely due to 
+dehydration. We treated you with IV fluid and your kidneys were 
+improving.
+
+It will be important to follow up with your primary care doctor 
+within the next several days in order to have your kidney 
+function rechecked.
+
+It was a pleasure taking care of you, and we are happy that 
+you're feeling better!
+ 
+Followup Instructions:
+___

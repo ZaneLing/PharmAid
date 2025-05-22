@@ -1,0 +1,240 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pressure and melena
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+The patient is a ___ y/o M with PMHx significant for CAD s/p 2 
+stents placed in ___ and 2 stents placed 12 days ago on ASA and 
+Effient who is presenting with chest pressure radiating to the 
+left arm, dizziness and melena seen at ___'s office.  
+Patient states that for the past week he has noted chest 
+pressure, worse when lying down as well as some radiation into 
+the left arm. He also notes dizziness with exertion. Otherwise, 
+no fevers, no nausea/vomiting.  Reportedly guiac positive and 
+rectal exam was notable for melena at ___ office on ___ 
+to the ED. 
+ 
+In the ED initial vitals were: 98.5 68 144/91 18 98%  
+Labs were significant for stable Hct of 45 x2 while in the ED, 
+troponin elevated to 0.17 however CKMB wnl. EKG was concerning 
+for T wave inversions. Cardiology was consulted who felt that 
+his TnT elevation as well as EKG changes were consistent with 
+his prior MI. GI was consulted and recommended admission and 
+close monitoring, 2 large bore IVs, PPI, serial Hct, monitor 
+stool quality/quantity, active type and screen.  
+On the floor, vitals: 97 130/80 73 97% on RA.  
+He denies any current cardiac complaints.  
+
+ 
+Past Medical History:
+- CAD s/p 2 left stents in ___, and 2 right stents 12 days ago 
+anticoagulated on Effient  
+- prostate cancer s/p surgery  
+- Hypertension  
+- Hyperlipidemia  
+
+ 
+Social History:
+___
+Family History:
+Father, brother and sister with CAD  
+ 
+Physical Exam:
+Admission:
+
+GENERAL: NAD  
+HEENT: AT/NC  
+NECK: nontender supple neck, no LAD, no JVD  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+R groin site: with scab and mild erythema directly surrounding 
+site, no bruit heard  
+
+Discharge:
+
+PHYSICAL EXAM:  
+Vitals -97.9 116/81 71 18 @100RA   
+GENERAL: NAD  
+HEENT: AT/NC  
+NECK: nontender supple neck, no LAD, no JVD  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+ 
+
+ 
+Pertinent Results:
+___ 11:10PM   HCT-45.2
+___ 09:00PM   CK(CPK)-161
+___ 09:00PM   CK-MB-4 cTropnT-0.16*
+___ 02:52PM   WBC-12.0* RBC-5.00 HGB-15.6 HCT-45.2 MCV-90 
+MCH-31.2 MCHC-34.5 RDW-13.7
+___ 02:52PM   NEUTS-68.1 ___ MONOS-5.1 EOS-1.7 
+BASOS-0.4
+___ 02:52PM   PLT COUNT-306
+___ 02:30PM   GLUCOSE-96 UREA N-14 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.7 CHLORIDE-100 TOTAL CO2-29 ANION GAP-16
+___ 02:30PM   cTropnT-0.17*
+___ 02:30PM   CK-MB-3
+___ 02:30PM   ___ PTT-31.6 ___
+
+ECHO ___
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. There is mild symmetric left 
+ventricular hypertrophy. The left ventricular cavity size is 
+normal. Overall left ventricular systolic function is low normal 
+(LVEF 50%) secondary to hypokinesis of the inferior and 
+posterior walls. The right ventricular free wall thickness is 
+normal. Right ventricular chamber size is normal. with mild 
+global free wall hypokinesis. The aortic root is mildly dilated 
+at the sinus level. The ascending aorta is mildly dilated. The 
+aortic valve leaflets (3) are mildly thickened but aortic 
+stenosis is not present. Mild (1+) aortic regurgitation is seen. 
+The mitral valve leaflets are mildly thickened. Trivial mitral 
+regurgitation is seen. The left ventricular inflow pattern 
+suggests impaired relaxation. There is no pericardial effusion.  
+
+
+ECG ___: Sinus rhythm. Right bundle-branch block. Left 
+atrial abnormality. 
+Inferoposterior myocardial infarction of indeterminate age. 
+Compared to the 
+previous tracing there is no diagnostic change. 
+TRACING #___ y/o M with PMHx significant for CAD s/p 2 stents placed in 
+___ and 2 stents placed 12 days ago on ASA and Effient who is 
+presenting with chest pressure radiating to the left arm, 
+dizziness and melena seen at ___'s office.  
+
+# Chest pressure  
+Cardiology was consulted in ED who felt that his TnT elevation 
+as well as EKG changes were consistent with his prior MI. He was 
+admitted to ___ and monitored on telemetry with no events. EKG 
+not concerning for new infarct and we did not appreciate classic 
+changes indicative of pericarditis despite  positional chestt 
+pain. Nonetheless, we ordered an ECHO, which did not show 
+evidence of pericarditis. CRP was WNL. His chest pressure 
+resolved after 24 hours of being inpatient. 
+
+# Melena  
+Pt has noted this for the past week and PCP noted melena and 
+guiac positive stool on the day of admission. He is 
+anticoagulated with asa and prasugrel as below. Cause of melena 
+unclear, ___ in ___ positive for polyps according to pt. GI 
+consulted and noted that heme positive stool would be expected 
+occasionally on anticoagulation. Hct stable throughout 
+admission. States he has some epigastic pain. Could be gastritis 
+from alcohol or PUD thus we started Pantoprazole.  
+- 2 large bore IVs  
+- PO Pantoprazole  
+- serial Hct  
+- active T&S   
+
+# CAD s/p stent placement  
+S/p stent placement in ___ ___s 2 more 12 days ago. Tnt 
+elevation and EKG changes likely ___ recent MI; not suggestive 
+of new NSTEMI. And ECHO was not suggestive of enlargening 
+infacrt.   
+- per cardiology recs, we continued asa, statin, effient.  
+# Hypertension  
+- continued lisinopril and NIFEdipine  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Influenza Vaccine Quadrivalent 0.5 mL IM NOW X1 
+Start: ___, First Dose: Next Routine Administration Time 
+2. Aspirin 325 mg PO DAILY 
+3. Atorvastatin 40 mg PO DAILY 
+4. Prasugrel 10 mg PO DAILY 
+5. Lisinopril 10 mg PO BID 
+6. NIFEdipine CR 30 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Atorvastatin 40 mg PO DAILY 
+3. Lisinopril 10 mg PO BID 
+4. NIFEdipine CR 30 mg PO DAILY 
+5. Prasugrel 10 mg PO DAILY 
+6. Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0
+7. Senna 17.2 mg PO HS 
+8. Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth Daily Disp 
+#*30 Tablet Refills:*3
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Chest pain status-post recent percutaneous coronary intervention
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure caring for you at ___ 
+___.  You were admitted to the hospital because you 
+had blood in your stools and for chest pain.  We reviewed your 
+recent cardiac catheterization results and you had an 
+echocardiogram which did not suggest any new areas of injury to 
+your heart.  We are reassured that your new stents are most 
+likely still open and have no blockage.  You were evaluated by 
+the gastroenterologists in the emergency department as well 
+since you have been having some blood in your stools.  Your 
+blood counts are normal and have all been stable so you did not 
+have a significant gastrointestinal bleed.   You will not need a 
+colonoscopy/upper endoscopy at this time. Please continue with 
+your regularly scheduled colonoscopies. However, if your begin 
+to notice more black stools rather than less, please report to 
+the ED for evaluation. You are on medicine to thin your blood 
+and thus at a greater risk for a major bleed. 
+
+We made some changes to your medications to help minimize your 
+chest pain symptoms.  You did not have any more chest pain 
+during your hospitalization here.
+
+Please follow-up with your outpatient providers as instructed 
+below.  You should make sure your primary care physician 
+provides you with a referral for a cardiologist.  Please 
+continue taking your aspirin and Prasugrel daily as instructed.
+
+Thank you for allowing us to participate in your care.
+
+All best wishes for your recovery,
+Your ___ care team
+ 
+Followup Instructions:
+___

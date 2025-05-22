@@ -1,0 +1,180 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin / Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ male with the past medical history of T-LGL leukemia 
+with chronic leukopenia not on treatment who presents with 
+febrile illness. Patient reports for the last few days he has 
+had a "flu-like illness". He felt chills, but did not document a 
+fever until prior to presentation of "above 101". Patient had 
+vague sinus symptoms of runny nose, slight cough "like post 
+nasal drip, but not from deep down". He most notably was 
+bothered by generalized aches and fatigue.
+Patient had some sore throat described as a dryness. Patient had 
+no change in appetite or oral intake. No abdominal pain or 
+nausea. No chest pain or palpitations. No shortness of breath. 
+No burning or pain with urination. 
+
+ 
+Past Medical History:
+Sinus polyps s/p polypectomy and turbinectomy/septoplasty 
+Chronic allergic rhinitis
+T-LGL leukemia 
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/reason for 
+hospitalization.
+ 
+Physical Exam:
+___ 0700 Temp: 98.1 PO BP: 103/68 HR: 68 RR: 18 O2 sat: 96% 
+O2 delivery: RA 
+
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate. No sinus
+tenderness. 
+CV: Heart regular, no murmur, No JVD. Radial and DP pulses 
+present. 
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is non-labored
+GI: Abdomen is soft, non-distended, non-tender to palpation. 
+Bowel sounds present.  
+GU: No suprapubic tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented x3, face symmetric, gaze conjugate with
+EOMI, speech fluent, moves all limbs.
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+___ 07:12AM BLOOD WBC-1.3* RBC-4.70 Hgb-13.4* Hct-41.2 
+MCV-88 MCH-28.5 MCHC-32.5 RDW-13.1 RDWSD-41.9 Plt ___
+___ 07:12AM BLOOD Neuts-6.4* Lymphs-56.3* Monos-32.5* 
+Eos-4.0 Baso-0.8 AbsNeut-0.08* AbsLymp-0.71* AbsMono-0.41 
+AbsEos-0.05 AbsBaso-0.01
+___ 07:10AM BLOOD Hypochr-1+* Anisocy-1+* Poiklo-1+* RBC 
+Mor-SLIDE REVI
+___ 07:10AM BLOOD Glucose-99 UreaN-10 Creat-1.0 Na-144 
+K-5.4 Cl-105 HCO3-28 AnGap-11
+___ 11:00PM BLOOD ALT-25 AST-31 AlkPhos-75 TotBili-0.6
+___ 07:10AM BLOOD Calcium-9.0 Phos-3.3 Mg-2.0
+___ 11:02PM BLOOD Lactate-0.9
+
+CHEST (PA & LAT) Study Date of ___ 11:23 ___ 
+No acute cardiopulmonary process.
+ 
+Brief Hospital Course:
+___ male with T-LGL leukemia who presents with flu-like 
+illness (viral URI)
+complicated by neutropenic fever.
+
+Patient was monitored closely on empiric IV vancomycin and IV 
+cefepime. Patient had rapid resolution of his fever without 
+recurrence. Patient has continued vague upper respiratory/sinus 
+discomfort, headache, and mild muscle ache consistent with viral 
+syndrome. Viral panel is pending, but influenza testing was 
+negative on admission. Patient's ANC continued to trend 
+downward, but primary oncologist recommended discharge as long 
+as patient was afebrile (which was true through discharge). 
+Chronic sinusitis vs allergic rhinitis with polyp disease may be 
+playing a role in symptoms and patient should follow with 
+outpatient ENT. 
+
+Patient instructed to have new labs obtained and reviewed with 
+primary oncologist in ___ days (CBC with DIFF to monitor ANC). 
+Patient is not discharged on antibiotics as there is no proven 
+bacterial infection and the risk of CDIFF is believed to be 
+greater than benefit of antibiotics. 
+
+Hospital course, assessments, and discharge plans discussed with 
+patient and family who expressed understanding. Patient agreed 
+to discharge. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. budesonide 32 mcg/actuation nasal DAILY 
+2. Montelukast 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth As needed every 8 
+hours Disp #*30 Tablet Refills:*0 
+2.  budesonide 0.5 mg/2 mL Nasal drops DAILY  
+3.  Cepacol (Sore Throat Lozenge) 1 LOZ PO Q4H:PRN Sore throat 
+RX *benzocaine-menthol [Sore Throat (benzocaine-menth)] 15 
+mg-3.6 mg 1 lozenge Every 4 hours as needed Disp #*14 Lozenge 
+Refills:*0 
+4.  Sodium Chloride Nasal ___ SPRY NU QID:PRN Nasal dryness 
+RX *sodium chloride [Ocean Nasal] 0.65 % 1 Spray Each nostril 
+Four times daily as needed Disp #*1 Bottle Refills:*0 
+5.  Montelukast 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Neutropenic fever
+Large Granular Lymphocytic Leukemia
+Chronic nasal polyps and allergic rhinitis
+Possible sinus infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with neutropenic fever related to your T-LGL 
+Leukemia. 
+
+We treated you with antibiotics, but cultures did not show a 
+growth. 
+
+Viral panel is pending, but would not change management as 
+treatment of viral infection is supportive therapy. Wear a 
+protective mask around other people until cleared by outpatient 
+provider.
+
+Continue with your prior allergy regimen.
+
+Alternatively, this may represent a flare of your underlying 
+disease.
+Follow lab results with your primary hematologist-oncologist in 
+___ days to monitor your ANC (neutrophil) count. Your outpatient 
+provider ___ continue to provide management that may include 
+initiation of maintenance therapy for your leukemia versus prior 
+surveillance. 
+
+It was a pleasure taking care of you and we wish you the best.
+
+Your ___ team
+ 
+Followup Instructions:
+___

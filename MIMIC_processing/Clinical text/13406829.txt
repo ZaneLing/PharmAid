@@ -1,0 +1,249 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Keflex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+CC: leg pain 
+
+HPI: 
+
+This is a ___ year old male with no significant PMH who presents
+to ___ with bilateral leg pain and concern for rhabdomyolysis.
+He attended a spin class at ___ on ___ (3 days ago)
+and started to develop significant thigh pain that limited
+ambulation. He also noticed dark colored urine and presented to
+the ED.
+
+In the ED, initial VS were 98.4 102 146/88 16 98% RA.
+He reeived IV normal saline and truvada. 
+Labs significant for a WBC of 19.8, initial CK of ___,
+otherwise, normal CBC and BMP. Lactate 1.6. CK downtrended to
+~70,000 with IV fluids.
+He was admitted subsequently for rhabdomyolysis.
+
+The patient confirms the story as above. He reports that he
+initially thought his thigh soreness was due to a vigorous
+workout, however, it progressed over the past few days. He
+reports he could barely walk and that his urine turned dark,
+prompting him to seek care. He denies any numbness or tingling.
+He reports that his pain and range of motion have improved 
+during
+his stay in the ED. He denies recent illnesses, fever, chest
+pain, shortness of breath, abdominal pain, or pain with
+urinating. 
+ 
+ROS: A 10 point review of systems is otherwise negative unless
+stated in HPI. 
+
+PAST MEDICAL/SURGICAL HISTORY:
+- Rheumatoid arthritis
+- Prior septoplasty
+
+SOCIAL HISTORY: ___
+FAMILY HISTORY: No FH of autoimmune disease
+
+ALLERGIES/ADR: See webOMR
+
+PREADMISSION MEDICATIONS:
+The Preadmission Medication list is accurate and complete
+1. BuPROPion XL (Once Daily) 150 mg PO DAILY 
+2. leflunomide 20 mg oral DAILY 
+3. Emtricitabine-Tenofovir (Truvada) 1 TAB PO DAILY 
+4. adalimumab 10 mg/0.1 mL subcutaneous ASDIR 
+
+Physical Exam:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+Mucous membranes moist 
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally
+GI: Abdomen soft, non-distended, non-tender to palpation
+MSK: Neck supple, ___ strength upper extremity strength, ___
+hip flexion strength bilaterally, ranges both knees against
+gravity, ___ bilateral dorsi and plantarflexion
+EXT: warm, 2+ DP pulses, no edema
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, sensation intact along medial and lateral lower
+legs and thighs
+PSYCH: pleasant, appropriate affect
+
+ 
+Major Surgical or Invasive Procedure:
+.
+ 
+History of Present Illness:
+.
+ 
+Past Medical History:
+.
+ 
+Social History:
+___
+Family History:
+.
+ 
+Physical Exam:
+.
+ 
+Pertinent Results:
+___ 04:30PM BLOOD WBC-19.8* RBC-5.63 Hgb-17.5 Hct-52.4* 
+MCV-93 MCH-31.1 MCHC-33.4 RDW-12.6 RDWSD-43.4 Plt ___
+___ 06:30AM BLOOD WBC-10.6* RBC-4.62 Hgb-14.1 Hct-42.7 
+MCV-92 MCH-30.5 MCHC-33.0 RDW-12.1 RDWSD-41.7 Plt ___
+___ 04:30PM BLOOD Neuts-91.0* Lymphs-5.3* Monos-2.4* 
+Eos-0.1* Baso-0.4 Im ___ AbsNeut-17.98* AbsLymp-1.04* 
+AbsMono-0.48 AbsEos-0.01* AbsBaso-0.08
+___ 04:30PM BLOOD Glucose-100 UreaN-12 Creat-0.9 Na-140 
+K-5.1 Cl-104 HCO3-21* AnGap-15
+___ 01:10AM BLOOD Glucose-103* UreaN-8 Creat-0.6 Na-143 
+K-3.8 Cl-113* HCO3-19* AnGap-11
+___ 05:59AM BLOOD Glucose-68* UreaN-9 Creat-0.7 Na-143 
+K-4.4 Cl-112* HCO3-20* AnGap-11
+___ 11:40PM BLOOD Glucose-83 UreaN-9 Creat-0.6 Na-141 K-4.5 
+Cl-108 HCO3-21* AnGap-12
+___ 06:30AM BLOOD Glucose-79 UreaN-7 Creat-0.7 Na-142 K-4.8 
+Cl-109* HCO3-27 AnGap-6*
+___ 04:30PM BLOOD ___
+___ 07:45PM BLOOD ___
+___ 01:10AM BLOOD ___
+___ 05:59AM BLOOD ___
+___ 01:55PM BLOOD ___
+___ 11:40PM BLOOD ___
+___ 06:30AM BLOOD ___
+___ 04:30PM BLOOD CK-MB-58* MB Indx-0.1
+___ 04:30PM BLOOD Calcium-9.8 Phos-3.8 Mg-2.3
+___ 01:55PM BLOOD Calcium-8.8 Phos-2.9 Mg-2.1
+___ 11:40PM BLOOD Calcium-9.1 Phos-3.1 Mg-2.1
+___ 06:30AM BLOOD Calcium-9.1 Phos-3.1 Mg-1.8
+___ 04:48PM BLOOD Lactate-1.6
+
+___ 02:57PM BLOOD Creat-0.6 Na-142 K-4.6 HCO3-25 AnGap-10
+___ 06:20AM BLOOD Glucose-81 UreaN-6 Creat-0.7 Na-141 K-4.5 
+Cl-110* HCO3-25 AnGap-6*
+___ 12:40PM BLOOD Creat-0.6 Na-141 K-4.3 HCO3-27 AnGap-7*
+___ 06:45AM BLOOD Creat-0.6 Na-138 K-4.1 Cl-107 HCO3-26 
+AnGap-5*
+___ 02:57PM BLOOD ___
+___ 06:20AM BLOOD ___
+___ 12:40PM BLOOD ___
+___ 06:45AM BLOOD ___
+___ 06:20AM BLOOD Calcium-8.9 Phos-3.3 Mg-1.6
+___ 12:40PM BLOOD Phos-2.8 Mg-2.2
+___ 06:45AM BLOOD Phos-3.2 Mg-1.8
+___ 02:57PM BLOOD CRP-3.3
+___ 01:26AM URINE Color-Straw Appear-Clear Sp ___
+___ 12:32AM URINE Color-Straw Appear-Clear Sp ___
+___ 01:26AM URINE Blood-MOD* Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 12:32AM URINE Blood-SM* Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 01:26AM URINE RBC-<1 WBC-0 Bacteri-NONE Yeast-NONE 
+Epi-0
+___ 12:32AM URINE RBC-1 WBC-<1 Bacteri-NONE Yeast-NONE 
+Epi-0
+ 
+Brief Hospital Course:
+This is a ___ year old male with no significant PMH who presents 
+to ___ with bilateral thigh pain, found to have 
+rhabdomyolysis.
+
+ACUTE/ACTIVE PROBLEMS:
+# Rhabdomyolysis with hematuria and myoglobinuria: 
+Patient presenting with rhabdomyolysis
+following a vigorous workout, significant muscle weakness, CK
+elevated to >90,000 upon admission, with a UA typical of
+rhabdomyolysis. No evidence of acute kidney injury on labs or
+compartment syndrome on exam. His Cr was never elevated above 1. 
+Given significant elevation in CK, he is at high risk for 
+metabolic abnormalities.  He does have a
+history of Rheumatoid Arthritis that was diagnosed earlier this
+year. He has a history of sore muscles since he was ___, and his
+mother does also.  He reports being sero negative with his
+primary care at ___.  There are no reports of Truvada causing 
+rhabdo. 
+Rheumatology consult said that there is no evidence of active RA
+or that this could have contributed to the process. He was 
+admitted to the hospitalist service and given saline at 
+500cc/hr. He had excellent urine output and needed minor 
+electrolyte replacement (Magnesium), but otherwise lytes were 
+stable.  His CK peaked around 150K but decreased to 41K the 
+morning of discharge.  He had no weakness and his muscle 
+pain/soreness greatly improved.  He understood that if he were 
+to develop worsening muscle pain or decreased UOP or change in 
+urine color, he should seek immediate medical attention.  He 
+agreed to stay the afternoon and evening for additional IVF 
+before going home.  
+- Check urine myoglobin daily 
+
+# Leukocytosis: Admission WBC of 19.8. No localizing signs of
+infection. UA negative. CXR not obtained due to lack of 
+symptoms.
+On ___, this resolved.  
+
+CHRONIC/STABLE PROBLEMS:
+# PREP:
+- Continue truvada for PREP
+
+# RA:
+- Restarted leflunomide ___ it is nonformulary
+
+# ADHD: Patient previously on Buproprion 150 mg XL daily for
+treatment of ADHD, not currently taking.
+
+I spent > 30 min in discharge planning and coordination of care. 
+ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. leflunomide 20 mg oral DAILY 
+2. Emtricitabine-Tenofovir (Truvada) 1 TAB PO DAILY 
+3. adalimumab 10 mg/0.1 mL subcutaneous ASDIR 
+
+ 
+Discharge Medications:
+1.  adalimumab 10 mg/0.1 mL subcutaneous ASDIR  
+2.  Emtricitabine-Tenofovir (Truvada) 1 TAB PO DAILY  
+3.  leflunomide 20 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Rhabdomyolysis 
+Proteinuria 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with rhabdomyolysis, which is 
+a condition where the proteins in the muscle cells can cause 
+kidney damage.  You received IV fluids and replacement of your 
+electrolytes, and you improved.  Make sure you drink enough 
+fluid where you are able to urinate ___.  
+
+We wish you the best in your recovery, 
+Your ___ Team 
+ 
+Followup Instructions:
+___

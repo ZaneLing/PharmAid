@@ -1,0 +1,349 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+pregabalin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+
+ 
+History of Present Illness:
+History difficult to obtain as records are scarce and the 
+patient is a somewhat questionable historian.
+
+Ms ___ is a ___ with fibromyalgia, depression, reported Crohn's 
+disease s/p bowel resection x 2 (but on no medications, 
+currently reports no symptoms), CCY in ___, and recent 
+difficulty with choledocholithiasis s/p stent who presents with 
+abdominal pain.
+
+She tells me that in ___ she had a bout of severe 
+epigastric pain after eating, and was diagnosed with biliary 
+colic and cholelithiasis. She had CCY at that time. She says 
+that her surgeon noted a retained gallstone but recommended no 
+intervention. Since that time, she has had difficulty with 
+intermittent postprandial abdominal pain. Earlier this month, 
+she experienced a severe bout of epigastric postprandial pain, 
+and presented to ___. It is unclear whether she had 
+pancreatitis or simply pain with obstructive LFT (ED note here 
+says pancreatitis but I don't see this mentioned elsewhere, 
+patient was unclear about it). She was admitted and ultimately 
+underwent MRCP which demonstrated a gallstone in CBD. She then 
+had ERCP, but stone retrieval was unsuccessful so stent was 
+placed. She was discharged a few days later with outpatient 
+followup. She apparently had fluctuating laboratory studies but 
+was feeling overall well; there may have been plans for referral 
+to ___ for elective ERCP.
+
+Unfortunately, she reports that pain returned on ___ evening, 
+again post prandial. She describes it as sharp, 
+xyphoid/epigastric, bandlike radiation with some pain between 
+her shoulder blades, moderate to severe. She represented to 
+___ ED, where vitals were stable but labs showed 
+lipase >2x ULN with mildly elevated transaminases. The GI doctor 
+there recommended transfer to ___.
+
+In our ED, vitals were stable. Labs were sent that were 
+relatively unchanged from ___. Images were uploaded to PACS. 
+Admission was requested.
+
+ROS is negative in 10 points except as above
+ 
+Past Medical History:
+PMH: fibromyalgia, depression, reported Crohn's disease 
+
+PSH: CCY, hysterectomy, bowel resection x2
+ 
+Social History:
+___
+Family History:
+Gallstones run in the family (mother and sisters all with 
+gallstones)
+ 
+Physical Exam:
+ Vitals AVSS, pain rated ___
+ Gen NAD
+ Abd soft, ND, bs+; mildly tender in the epigastrum with deep 
+palpation
+ CV RRR, no MRG
+ Lungs CTA ___
+ Ext WWP, no edema
+ Skin no rash, anicteric
+ GU no foley
+ Eyes EOMI
+ HENT MMM, OP clear
+ Neuro nonfocal, moves all extremities, steady gait
+ Psych normal affect
+ 
+Pertinent Results:
+Labs on admission
+___ 12:48AM BLOOD WBC-6.1 RBC-4.28 Hgb-12.1 Hct-37.1 MCV-87 
+MCH-28.3 MCHC-32.6 RDW-13.5 RDWSD-42.2 Plt ___
+___ 12:48AM BLOOD ___ PTT-31.7 ___
+___ 12:48AM BLOOD Glucose-128* UreaN-13 Creat-1.1 Na-139 
+K-4.7 Cl-104 HCO3-27 AnGap-13
+___ 12:48AM BLOOD ALT-63* AST-38 AlkPhos-222* TotBili-0.6
+___ 12:48AM BLOOD Lipase-113*
+___ 12:48AM BLOOD Albumin-3.7 Calcium-9.0 Phos-4.1 Mg-2.1
+
+Imaging on admission
+While there is apparently an US, maybe HIDA or ERCP imaging, 
+MRCP, and CTAP uploaded, the images are not displaying properly 
+and I cannot interpret them. There are no reports in the chart.
+
+___ CT
+FINDINGS: 
+ 
+LOWER CHEST: There is bibasilar atelectasis.
+ 
+ABDOMEN:
+ 
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout. 
+There is no evidence of focal lesions.  There is expected 
+pneumobilia with a
+common bile duct stent in place.  There is a small amount of 
+stranding
+surrounding this common bile duct.  The gallbladder is 
+surgically absent.
+ 
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of
+focal lesions or pancreatic ductal dilatation.
+ 
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without
+evidence of focal lesions.
+ 
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape.
+ 
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram. 
+There is no evidence of focal renal lesions or hydronephrosis.  
+There is no
+perinephric abnormality.
+ 
+GASTROINTESTINAL: The stomach is unremarkable.  Small bowel 
+loops demonstrate
+normal caliber, wall thickness, and enhancement throughout.  
+Postsurgical
+changes with small bowel anastomosis in the mid abdomen are 
+noted.  The colon
+and rectum are within normal limits.  The appendix is normal.
+ 
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no
+free fluid in the pelvis.
+ 
+REPRODUCTIVE ORGANS: The reproductive organs are unremarkable.
+ 
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There
+is no pelvic or inguinal lymphadenopathy.
+ 
+VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease
+is noted.
+ 
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture.
+ 
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits.
+ 
+IMPRESSION: 
+ 
+There is a small amount of stranding surrounding the common bile 
+duct possibly
+related to stent placement or passed stone.  No retained stones 
+are
+visualized.  Pancreas appears normal.
+
+ERCP ___
+
+Impression:
+The scout film showed evidence of a previously placed plastic 
+biliary stent.
+The previously placed plastic biliary stent was found at the 
+major papilla and was removed with a rat tooth forceps.
+Evidence of a previous sphincterotomy was noted in the major 
+papilla.
+Cannulation of the biliary duct was successful and deep with a 
+balloon using a free-hand technique.
+Contrast medium was injected resulting in complete 
+opacification.
+The common bile duct, common hepatic duct, right and left 
+hepatic ducts, biliary radicles and cystic duct were filled with 
+contrast and well visualized. The CBD and CHD were dilated to 8 
+mm.
+An 8 mm filling defect consistent with a stone was seen in the 
+CBD at the cystic duct takeoff.
+The cholangiogram was otherwise normal.
+The stone could not be successfully removed with balloon sweeps 
+or mechanical lithotripsy.
+Spyglass cholangioscopy was performed and a large stone was seen 
+at the cystic duct takeoff.
+___ was performed and the stone was successfully fragmented.
+Balloon sweeps were then performed and the stone and stone 
+fragments were successfully extracted.
+The CBD and CHD were swept repeatedly until no further stones or 
+sludge were seen.
+An occlusion cholangiogram confirmed the absence of any 
+persistent filling defects.
+A ___ Fr x 5 cm double pigtail stent was placed into the left 
+hepatic duct in order to ensure adequate biliary drainage.
+Excellent drainage of bile and contrast was noted endoscopically 
+and fluoroscopically.
+Otherwise normal ercp to third part of the duodenum
+Recommendations:
+Clear fluids when awake then advance diet as tolerated.
+Repeat ERCP in 4 to 6 weeks for stent pull and re-evaluation.
+Follow for response and complications. If any abdominal pain, 
+fever, jaundice, gastrointestinal bleeding please call ERCP 
+fellow on call ___
+
+Hematology
+  COMPLETE BLOOD 
+COUNTWBCRBCHgbHctMCVMCHMCHCRDWRDWSDPlt Ct
+___ 06:05  
+___
+___ 06:55  
+___
+___ 07:16  ___
+___ 06:38  
+___ 00:48  ___
+DIFFERENTIALNeutsBandsLymphsMonosEosBasoAtypsMetasIm 
+GranAbsNeutAbsLympAbsMonoAbsEosAbsBaso
+___ 00:48  53.9 33.66.94.70.7  
+___
+  BASIC COAGULATION ___, PTT, PLT, INR)PTPTTPlt ___
+___ 06:05    149* 
+___ 06:55    153 
+___ 07:16    150 
+___ 06:38    181 
+___ 06:38  11.131.9 1.0
+___ 00:48    202 
+___ 00:48  11.231.7 1.0
+Chemistry
+  RENAL & GLUCOSEGlucoseUreaNCreatNaKClHCO3AnGap
+___ 06:05  ___
+___ 07:16  ___
+___ 06:38  ___
+___ 00:48  ___
+
+If fasting, 70-100 normal, >125 provisional diabetes
+IF FASTING, 70-100 NORMAL, >125 PROVISIONAL DIABETES
+ESTIMATED GFR (MDRD CALCULATION)estGFR
+___ 06:38  Using this1
+___ 00:48  Using this2
+
+Using this patient's age, gender, and serum creatinine value of 
+1.2, 
+Estimated GFR = 48 if non ___ (mL/min/1.73 m2) 
+Estimated GFR = 58 if ___ (mL/min/1.73 m2) 
+For comparison, mean GFR for age group ___+ is 75 (mL/min/1.73 
+m2) 
+GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure
+Using this patient's age, gender, and serum creatinine value of 
+1.1,
+Estimated GFR = 53 if non ___ (mL/min/1.73 m2)
+Estimated GFR = 64 if ___ (mL/min/1.73 m2)
+For comparison, mean GFR for age group ___ is 99 (mL/min/1.73 
+m2)
+GFR<60 = Chronic Kidney Disease, GFR<15 = Kidney Failure
+  ENZYMES & 
+B
+ILIRUBINALTASTLD(LDH)CK(CPK)AlkPhosAmylaseTotBiliDirBili
+___ 06:55  66*44*  205* 0.6 
+___ 07:16  60*44*  208* 0.8 
+___ 06:38  54*33  208* 0.6 
+___ 00:48  63*38  222* 0.6 
+OTHER ENZYMES & BILIRUBINSLipase
+___ 06:38  88*
+___ 00:48  113*
+  CHEMISTRYTotProtAlbuminGlobulnCalciumPhosMgUricAcdIron
+___ 07:16     ___  
+___ 06:38     8.73.92.1  
+___ 00:48   3.7 ___
+
+Stool C DIFF PCR ___ NEGATIVE
+
+ 
+Brief Hospital Course:
+___ with fibromyalgia, depression, Crohn's disease s/p bowel 
+resection x 2, CCY in ___ complicated by retained gallstone, 
+s/p recent ERCP with failed stone retrieval, s/p stent 
+placement,
+presented with recurrent RUQ abdominal and epigastric pain. 
+Lipase elevated. Transferred here ___ for ERCP evaluation. 
+Underwent removal of CBD stone w/ CBD stent placement.
+
+# Choledocholithiasis
+# Mild pancreatitis
+# Chronic fibromyalgia
+# Chronic depression
+# Chronic Crohn's disease
+
+She was managed conservatively with IVF and pain meds. She 
+underwent ERCP with findings as described.  She did well 
+post-procedurally and tolerated a normal diet prior to discharge 
+off pain meds.  She had diarrhea and was NEGATIVE for C.diff.  
+She needs ERCP f/u in ___ weeks.  Patient inquired if can be 
+done with her local GI and ERCP team indicated per their 
+discussion with patient that either option is okay with them.  
+Patient will likely f/u with local GI but know repeat ERCP needs 
+to be done.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 40 mg PO DAILY 
+2. Gabapentin 900 mg PO QAM 
+3. Gabapentin 900 mg PO NOON 
+4. Gabapentin 1200 mg PO QHS 
+5. Nortriptyline 25 mg PO QHS 
+
+Per pharm records, also has been prescribed hyoscyamine, 
+dicyclomine, and Percocet but she denied taking these
+ 
+Discharge Medications:
+1. Citalopram 40 mg PO DAILY 
+2. Gabapentin 1200 mg PO QHS 
+3. Gabapentin 900 mg PO NOON 
+4. Nortriptyline 25 mg PO QHS 
+5. Gabapentin 900 mg PO QAM 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Choledocholithiasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with recent abdominal pain and a known 
+gallstone in you bile duct, for ERCP to have it removed. This 
+was done successfully ___ and a CBD stent was placed.  You 
+need to have this removed and re-evaluated in ___ weeks with 
+your GI doc or the ERCP team here.
+ 
+Followup Instructions:
+___

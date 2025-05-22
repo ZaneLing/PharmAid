@@ -1,0 +1,194 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___
+ 
+Chief Complaint:
+Unresponsiveness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with CHF and afib on Coumadin
+who presents as a transfer from OSH after she was found
+unresponsive by her friend/neighbor earlier this morning around
+11 AM. The patient is typically very independent ___
+apartment complex for seniors.  Patient was last known well
+yesterday p.m. when she was with her dear friend ___ and she
+seemed in her normal state of health.  At 8 ___ she went to bed. 
+The next morning, her friend ___ was calling her to discuss
+plans for the day but she had no answer.  Her friend ___ then
+called her son stairs the next 4 to check on the patient.  They
+found her lying in her reclining chair where she usually sleeps
+with her mouth open and eyes closed unresponsive to voice or
+touch.  Called ___ and they brought her to an outside hospital. 
+At the outside hospital, stat noncontrast head CT was done which
+revealed significant large right IPH and right subdural 
+hematoma.
+
+ The patient was transferred to ___ for further here at ___, neurosurgery was
+consulted but they felt given the extent of the bleed damage, 
+and
+her age no surgical intervention was appropriate.  The patient's
+family was contacted and they arrived to the bedside.  Neurology
+was also consulted upon discussion with the family, they decided
+that he would be consistent with her wishes to make her comfort
+measures only.
+ 
+Past Medical History:
+CHF
+Afib
+
+ 
+Social History:
+Lives in ___ in an apartment complex for seniors, was very
+independent and lived alone. She has many children and
+grandchildren close by in the area. She did not smoke or drink
+ETOH. She was very independent in her ADLs. 
+
+ - Modified Rankin Scale: 
+ [X] 0: No symptoms 
+ [] 1: No significant disability - able to carry out all usual
+activities despite some symptoms 
+ [] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities 
+ [] 3: Moderate disability: requires some help but able to walk
+unassisted 
+ [] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted 
+ [] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent 
+ [] 6: Dead 
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION EXAMINATION
+
+Neurologic Examination: 
+ -Patient is laying with eyes closed, rapid shallow breathing.
+Does not respond to voice, does not consistently follow 
+commands.
+She did squeeze fingers to command on the R, but did this once
+and did not follow any other commands again such as 
+open your eyes". Her L pupil is irregular and unreactive. Her R
+pupil is small and sluggishly constricts. Her cough and gag were
+not tested as patient is not intubated. Her corneal reflexes 
+were
+present. 
+
+She did withdraw briskly on the R to noxious. On the L, she
+withdraws her left arm in the plane of the bed vigorously to
+noxious. She does the same with the left leg. She has an upgoing
+toe on the L. 
+
+DISCHARGE EXAMINATION
+ Vitals: T: 99.0 RR: 18
+ General: sleeping comfortably
+ HEENT: NC/AT
+ Pulmonary: breathing comfortably, no tachypnea or increased WOB
+ Cardiac: tachycardic and irregular, systolic murmur at LLSB,
+skin warm, well-perfused
+
+ 
+Pertinent Results:
+HEMATOLOGY AND CHEMISTRIES
+
+___ 01:03PM BLOOD WBC-14.7* RBC-3.48* Hgb-11.4 Hct-34.6 
+MCV-99* MCH-32.8* MCHC-32.9 RDW-14.7 RDWSD-53.6* Plt ___
+___ 01:03PM BLOOD ___
+___ 01:03PM BLOOD UreaN-10 Creat-0.6
+___ 01:03PM BLOOD CK(CPK)-58
+___ 01:03PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 01:11PM BLOOD Type-ART pO2-80* pCO2-28* pH-7.48* 
+calTCO2-21 Base XS-0
+___ 01:11PM BLOOD Glucose-169* Lactate-2.3* Na-134 K-3.8 
+Cl-100
+___ 01:11PM BLOOD Hgb-12.2 calcHCT-37 O2 Sat-92 COHgb-5 
+MetHgb-0
+ 
+Brief Hospital Course:
+HOSPITAL COURSE BY PROBLEM
+
+1. Right frontotemporal intraparenchymal hemorrhage and subdural 
+hematoma: Following presentation to the Emergency Department, 
+Ms. ___ was evaluated by the Neurosurgery service, who 
+recommended against surgical intervention due to the size of Ms. 
+___ IPH. Following discussion with her family, she was 
+accordingly switched to comfort measures care on admission. Her 
+symptoms were well-managed with as-needed bolus doses of 
+morphine as well as rectal acetaminophen for tactile fevers. She 
+was subsequently discharged to hospice.
+
+AHA/ASA Core Measures for Intracerebral Hemorrhage  
+ 1. Dysphagia screening before any PO intake? () Yes - (x) No 
+[reason: CMO on admission] 
+ 2. DVT Prophylaxis administered? () Yes - (x) No [reason: CMO 
+on admission]
+ 3. Smoking cessation counseling given? () Yes - (x) No [reason 
+() non-smoker - (x) unable to participate]  
+ 4. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+ 5. Assessment for rehabilitation and/or rehab services 
+considered? () Yes - (x) No  [reason: CMO on admission]
+ 
+Medications on Admission:
+1. Warfarin 2.5 mg PO DAILY16 
+2. Digoxin Dose is Unknown  PO DAILY 
+3. Furosemide Dose is Unknown  PO DAILY 
+4. Metoprolol Succinate XL Dose is Unknown  PO DAILY 
+5. Spironolactone Dose is Unknown  PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PR Q4H:PRN fever  
+2.  LORazepam 1 mg IV Q4H:PRN agitation  
+3.  Morphine Sulfate (Concentrated Oral Solution) 20 mg/mL ___ 
+mg SL Q2H:PRN pain or dyspnea  
+4.  Morphine Sulfate ___ mg IV Q15MIN:PRN discomfort , 
+respiratory distress  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+Right intraparenchymal hemorrhage and subdural hematoma
+
+ 
+Discharge Condition:
+Level of Consciousness: Lethargic and not arousable.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were transferred to ___ ___ ___ for 
+evaluation of a large bleed in your brain. You were seen by the 
+Neurosurgery service, who did not feel that surgery would be 
+appropriate for your bleed. After a discussion with your family, 
+you were transitioned to comfort measures care and discharged to 
+hospice.
+
+It was a pleasure taking care of you at ___.
+
+Sincerely,
+Neurology at ___
+ 
+Followup Instructions:
+___

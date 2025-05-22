@@ -1,0 +1,192 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+fever, headache, and body rash
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ male with history of testicular cancer, PUD, 
+eosinophilic esophagitis referred in from ___ urgent care for 
+evaluation of fever and migratory rash. 
+
+He was hiking in ___ 2 weeks ago and had a bite from 
+an unknown creature on the posterior aspect of his proximal 
+leftcalf. There was local swelling and erythema, and he started 
+a 10 day course of cephalexin. He initially felt better and has 
+been fairly active over most the last 2 weeks. However, he 
+worsened over the last 48 hours, developing recurrent fever, 
+generalized fatigue and malaise, neck pain and headache, and a 
+migratory rash
+that includes patches of erythema that is blanching over his 
+chest, back, left knee. He does not have any involvement of the 
+palms and soles. He went to ___ a urgent care this morning and 
+got an intramuscular shot of ceftriaxone, states he has been 
+feeling significantly worse since the shot.
+
+ 
+Past Medical History:
+GI ulcers and Eosinophilic Esophagitis 3 months ago on EGD  
+
+ 
+Social History:
+___
+Family History:
+No family hx of GI ulcers, cancers
+ 
+Physical Exam:
+VS: 98.0 PO 126 / 73 102 18 96 Ra 
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi 
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly appreciated 
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose, strength 
+and
+sensation intact 
+SKIN: L popliteal fossa, trunk and back with blanching, warm,
+erythematous patches up to 20 x 20 cm on the chest and abdomen
+and back, and left leg without any raised component, does not
+involve palms or soles
+
+ 
+Pertinent Results:
+___ 09:49PM CEREBROSPINAL FLUID (CSF)  PROTEIN-61* 
+GLUCOSE-52
+___ 09:49PM CEREBROSPINAL FLUID (CSF)  TNC-1 RBC-2 POLYS-0 
+___ ___ 06:05PM   LACTATE-2.1*
+___ 05:56PM   ___ PTT-27.8 ___
+___ 05:50PM   GLUCOSE-88 UREA N-13 CREAT-0.8 SODIUM-140 
+POTASSIUM-4.4 CHLORIDE-98 TOTAL CO2-28 ANION GAP-14
+___ 05:50PM   estGFR-Using this
+___ 05:50PM   ALT(SGPT)-25 AST(SGOT)-36 CK(CPK)-607* ALK 
+PHOS-80 TOT BILI-1.1 DIR BILI-0.3 INDIR BIL-0.8
+___ 05:50PM   LIPASE-29
+___ 05:50PM   ALBUMIN-4.5 CALCIUM-9.4 PHOSPHATE-2.7 
+MAGNESIUM-1.8
+___ 05:50PM   CRP-14.8*
+___ 05:50PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 05:50PM URINE  HOURS-RANDOM
+___ 05:50PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 05:50PM   WBC-12.0*# RBC-4.45* HGB-14.2# HCT-41.7# 
+MCV-94# MCH-31.9# MCHC-34.1# RDW-12.4 RDWSD-42.6
+___ 05:50PM   NEUTS-79.5* LYMPHS-8.4* MONOS-6.7 EOS-4.4 
+BASOS-0.6 IM ___ AbsNeut-9.55* AbsLymp-1.01* AbsMono-0.81* 
+AbsEos-0.53 AbsBaso-0.07
+___ 05:50PM   HOS-AVAILABLE 
+___ 05:50PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 05:50PM   PLT COUNT-240
+___ 05:50PM   PARST SMR-NEGATIVE
+___ 05:50PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 05:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-8.0 
+LEUK-NEG
+ 
+Brief Hospital Course:
+___ man with history of testicular cancer, PUD, 
+eosinophilic esophagitis referred in from ___ urgent care for 
+evaluation of fever and migratory rash. 
+
+ACUTE ISSUES:
+#tick-borne-illness/headache/fever/rash:
+Patient presented with fevers and recent bug bite - unclear but 
+felt to be tick. Initial differential diagnosis included tick 
+borne illness, arbovirus infection, jarrex herxhemier reaction 
+(worsening after CTX IM) and encephalitis/meningitis which seem 
+less likely given lack of altered mental status. Even when 
+considering a tick borne illness, it is possible that a 
+co-infection may be present. Patient had no neurological 
+symptoms. His liver function tests and lumbar puncture was 
+inconsistent with meningitis in the ED. CSF cultures were drawn 
+and found to have no lymphocytes. We started patient on 
+doxycycline for presumptive lyme possible coinfection, planned 2
+week course. Urine culture and parasite smear showed no growth 
+of organisms as well. His lyme/anaplasma serology and blood 
+cultures are still pending.
+
+CHRONIC ISSUES:
+#H/O eosinophilic esophagitis
+#PUD
+He is currently being followed for these issues as an outpatient 
+and is not taking any medication
+
+>35 minutes was spent on discharge process, including education, 
+treatment and follow-up plans. 
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1.  Doxycycline Hyclate 100 mg PO Q12H 
+D1= ___ D14= ___ 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*25 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary/Active Diagnosis:
+1. Tick-borne-illness
+
+Secondary/Chronic Diagnosis:
+2. Eosinophilic esophagitis
+3. Peptic ulcer disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You came to ___ because you had a fever, headache, and body 
+rash.  You were found to have an infection. While in the ED, you 
+had a lumbar puncture and chest xray to determine the source of 
+your infection and both diagnostic tests were negative. Due to 
+your continuing symptoms, you were admitted to medicine. While 
+on the floor you were given doxycycline for your infection and 
+Tylenol for your fever and headache. You also had a variety of 
+blood work drawn to determine the cause of your infection. Based 
+on your recent travel history and clinical symptoms, we believe 
+you have a tick-borne illness. You improved significantly on the 
+doxycycline and we feel comfortable discharging you from the 
+hospital while completing the antibiotic course and close follow 
+up with your primary care physician. 
+
+It was a pleasure participating in your care. We wish you the 
+best!  
+
+Sincerely,  
+
+Your ___ Care Team 
+
+ 
+Followup Instructions:
+___

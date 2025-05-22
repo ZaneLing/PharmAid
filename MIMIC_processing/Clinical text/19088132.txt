@@ -1,0 +1,179 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Motrin / verapamil
+ 
+Attending: ___.
+ 
+Chief Complaint:
+foreign body esophageal impaction 
+ 
+Major Surgical or Invasive Procedure:
+EGD on ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with history of HTN,
+HLD, prediabetes who presents with odynophagia.
+
+Patient ate fish last evening but then suddenly felt a sharp
+stabbing pain in her throat, and some dysphagia followed by
+odynophagia. She had no fever, shortness of breath, change in
+voice, chest pain, nausea, or vomiting. She tried to drink water
+to help but it didn't, she was able to tolerate PO liquid 
+intake.
+
+At OSH she had CT scan showing linear foreign body lodged at C6
+level in the esophagus. She was transferred to ___ ED.
+
+In our ED: GI was consulted
+ 
+Past Medical History:
+HTN, HLD, prediabetes
+
+ 
+Social History:
+___
+Family History:
+Mother: died at ___ of stroke
+Father: Died ___ of unknown causes
+ 
+Physical Exam:
+97.8
+PO 117 / 71 83 18 100 RA  
+
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+PSYCH: pleasant, appropriate affect
+NEUROLOGIC:
+MENTATION: alert and cooperative. Oriented to person and place
+and time.
+ 
+Pertinent Results:
+___ 02:30AM BLOOD WBC-5.3 RBC-4.61 Hgb-13.8 Hct-41.0 MCV-89 
+MCH-29.9 MCHC-33.7 RDW-13.3 RDWSD-43.3 Plt ___
+___ 02:30AM BLOOD Neuts-64.5 ___ Monos-8.8 Eos-2.4 
+Baso-0.6 Im ___ AbsNeut-3.43 AbsLymp-1.25 AbsMono-0.47 
+AbsEos-0.13 AbsBaso-0.03
+___ 02:30AM BLOOD ___ PTT-32.3 ___
+___ 02:30AM BLOOD Glucose-98 UreaN-12 Creat-0.6 Na-144 
+K-4.1 Cl-105 HCO3-23 AnGap-16
+
+OSH CT:
+Notable for linear density at C6 level in esophagus consistent 
+with a fish bone
+
+EGD ___:
+Small fish bone 2 cm in length found lodged 1 cm below upper 
+esophageal introitus. Mild mucosa erythema surrounding the fish 
+bone. The fish bone was removed. Unremarkable EGD otherwise.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with
+history of HTN, HLD, prediabetes who presents with odynophagia.
+
+#Foreign body lodged in esophagus
+#Odynophagia
+-She is s/p EGD ___
+with removal of the fishbone at level of upper esophageal
+sphincter. Tolerated clears then solid diet on ___. 
+
+#HTN
+-Continue home amlodipine  
+
+#HLD
+-Continue home statin
+
+#Prediabetes
+-Continue outpatient management after discharge
+-Continue home metformin on discharge
+
+Greater than 30 minutes was spent on discharge planning and 
+coordination.
+ 
+Medications on Admission:
+1. MetFORMIN (Glucophage) 1000 mg PO DAILY 
+2. amLODIPine 2.5 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Atorvastatin 10 mg PO QPM 
+5. Calcium Carbonate 1500 mg PO BID 
+6. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 2.5 mg PO DAILY  
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 10 mg PO QPM  
+4.  Calcium Carbonate 1500 mg PO BID  
+5.  MetFORMIN (Glucophage) 1000 mg PO DAILY  
+6.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+foreign body esophageal impaction 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Instructions: Dear Ms. ___, 
+
+It was a pleasure to be a part of your care team at ___ 
+___.
+
+====================================
+Why did you come to the hospital? 
+====================================
+
+-You had pain in the throat.
+
+====================================
+What happened at the hospital? 
+====================================
+
+-You were found to have a fish bone stuck in the esophagus. This 
+was confirmed by CT scan imaging and endoscopy test.
+-Endoscopy test also removed the bone.
+-You then had a test of solid diet and you did well, so you can 
+return home.
+
+==================================================
+What needs to happen when you leave the hospital? 
+==================================================
+
+-Please chew carefully to avoid foreign body esophageal 
+impaction in the future 
+-No home medications were changed on discharge
+
+It was a pleasure taking care of you during your stay! 
+
+Sincerely, 
+
+Your ___ team  
+
+ 
+Followup Instructions:
+___

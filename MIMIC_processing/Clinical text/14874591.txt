@@ -1,0 +1,317 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+back pain
+
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ y/o woman with PMH notable for sciatica ___ 
+years presenting with worsening back pain over the past ___ 
+days.  
+ Per patient, she had a recent PNA and was quite immobilized 
+while being treated/recovering from this illness. As such, she 
+may have triggered a flare of her chronic sciatica. She was 
+recently seen in the outpatient clinic by episodic provider, Dr. 
+___ noted on exam a positive contralateral straight leg 
+raise, suggestive of and consistent with her prior history of 
+right-sided sciatica. She was to be referred to outpatient 
+orthopedics for possible injection and had plain films of 
+___ which were unremarkable. At that point, she was noted to 
+have one episode of fecal incontinence, which was new for her.  
+ Today, she presented due to worsening pain. She denied any 
+falls, but endorsed urinary incontinence x2 (because she could 
+not make it to the bathroom in time) without fecal incontinence, 
+saddle anesthesia, or numbness/weakness in leg. She has 
+difficulty ambulating due to her pain and denies any prior back 
+surgeries, injections. Of note, she is not on any blood thinning 
+medications.  
+ In the ED, initial vitals were: 97.7 90 153/80 16 98% RA  
+ 
+ Exam notable for:  
+ - ___ pain initially, improved subsequently to ___  
+ - ___ strength in ___ with downgoing plantar reflex, ___ beats 
+clonus bilaterally, normal rectal tone and perineal sensation  
+ Labs notable for: normal CBC without leukocytosis and normal 
+Chem10 without evidence of electrolyte abnormalities or kidney 
+injury  
+ However, given clinical concern, code cord was called and on 
+imaging:  
+ - MRI L spine w/o contrast showed: "Alignment is maintained. 
+Vertebral body and intervertebral disc signal intensity appear 
+normal. The spinal cord appears normal in caliber and 
+configuration without evidence of spinal cord signal 
+abnormality. There is a T1 and T2 hypointense lesion measuring 
+1.0 x 0.6 cm (series 401: Image 8) which appears to contact the 
+traversing and exiting nerve roots at the right L5-S1 vertebral 
+level. This lesion is incompletely evaluated on this exam due to 
+lack of contrast enhancement, however, possibly may represent a 
+peripheral nerve sheath tumor. A hemangioma is noted in the L1 
+vertebral body."  
+ Patient was given:  
+ - morphine 2 mg IV x3, lorazepam 0.5 mg IV x1  
+ Patient was evaluated by spine surgery, who noted an entirely 
+normal neurologic exam, with concern for acute-on-chronic spinal 
+nerve compression based on what was visualized on MRI. Per their 
+recommendations, patient was admitted to Medicine for further 
+work-up and management.  
+ Upon arrival to the floor, patient reports improved pain at 
+rest, though still excruciating pain with movement. She denies 
+numbness, tingling or weakness (strength limited by pain).  
+ REVIEW OF SYSTEMS:  
+ (+) Per HPI  
+ (-) 10 point ROS reviewed and negative unless stated above in 
+HPI  
+ 
+Past Medical History:
+ - Sciatica  
+ - Hypertension  
+ - GERD  
+ - Anxiety  
+ - Depression  
+ - Pre-diabetes  
+ - History of falls  
+ 
+Social History:
+___
+Family History:
+Sister with hypertension and heart disease, now with pacemaker  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+ VITAL SIGNS - T 97.9, BP 146/78, HR 71, R 18, SpO2 94%/RA  
+ GENERAL - comfortable, laying in bed  
+ HEENT - left eye blindness, right pupil reactive to light, 
+moist mucous membranes, poor dentition  
+ CARDIAC - regular, normal S1/S2 without murmurs  
+ LUNGS - clear  
+ ABDOMEN - soft, non-tender, normal bowel sounds  
+ EXTREMITIES - patient refusing SLR and strength examination due 
+to pain, no peripheral edema  
+ NEUROLOGIC - sensation intact throught legs & perineum  
+ SKIN - warm  
+
+DISCHARGE PHYSICAL EXAM: 
+============================
+VITALS: 98.2PO 127 / 75 65 18 95 ra
+GENERAL: Asleep in bed, rouses easily to voice. NAD.
+HEENT: Sclerae anicteric. left eye blind and clouded over. Right 
+pupil reactive to light. No LAD.
+CARDIAC: regular, normal S1/S2 without murmurs
+LUNGS: clear to auscultation bilaterally without rales, rhonci 
+or wheezes.
+ABDOMEN: soft, non-tender, normal bowel sounds
+EXTREMITIES: patient with pain on contralateral straight leg 
+raise and ipsilateral straight leg lowering. ___ strength at hip 
+flexors/extensors and knee flexion/extension, as well as 
+dorsi/plantarflexion. No peripheral edema
+NEUROLOGIC - sensation intact throught legs & perineum
+SKIN - warm
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 05:21PM BLOOD WBC-9.1 RBC-5.02 Hgb-14.6 Hct-44.0 MCV-88 
+MCH-29.1 MCHC-33.2 RDW-13.2 RDWSD-42.2 Plt ___
+___ 05:21PM BLOOD Neuts-74.4* Lymphs-17.8* Monos-6.0 
+Eos-1.2 Baso-0.3 Im ___ AbsNeut-6.76*# AbsLymp-1.62 
+AbsMono-0.55 AbsEos-0.11 AbsBaso-0.03
+___ 05:21PM BLOOD ___ PTT-31.6 ___
+___ 05:21PM BLOOD Glucose-174* UreaN-11 Creat-0.6 Na-134 
+K-4.7 Cl-98 HCO3-22 AnGap-19
+
+MICRO
+=====
+none
+
+STUDIES
+=======
+___ MR ___ WITHOUT CONTRAST IMPRESSION:
+1. Right paracentral disc herniation at L5-S1 extending 
+inferiorly, with a
+probable free fragment measuring 18 x 5 x 6 mm, which in 
+combination with
+facet arthropathy impinges the traversing right S1 nerve root in 
+the
+subarticular zone and moderately narrows the thecal sac with 
+crowding of the intrathecal nerve roots.
+2. The traversing left S1 nerve root is contacted by facet 
+osteophytes in the left subarticular zone.  The exiting left L5 
+nerve root is contacted by facet osteophytes in the moderately 
+narrowed left neural foramen and also contacted by left lateral 
+endplate osteophytes along its extraforaminal course.
+3. Mild thecal sac narrowing at L3-L4 and L4-L5 without mass 
+effect on the
+intrathecal nerve roots.
+4. L4-L5 neural foramina are mildly narrowed, and the exiting 
+right L4 nerve root appears contacted by a facet osteophyte in 
+the neural foramen. 
+RECOMMENDATION(S): The preliminary report discussed by ___ 
+with Dr. ___ at 21:30 on ___ suggested that 
+the right paracentral abnormality at L5-S1 was a mass lesion, 
+and MRI with contrast was recommended further evaluation.  
+Appearances are highly suggestive for disc herniation, and a 
+mass lesion appears much less likely.  Neurosurgical 
+consultation is recommended.  If desired by neurosurgery, MRI 
+with contrast certainly could be obtained.
+
+___ MR ___ WITH CONTRAST IMPRESSION:
+1. The previously demonstrated right paracentral lesion 
+extending from the
+L5-S1 disc space inferiorly along the S1 vertebral body 
+demonstrates no
+contrast enhancement, consistent with a disc herniation with a 
+probable free fragment, as described in detail in the preceding 
+noncontrast MRI report.
+2. No evidence for an enhancing mass.
+
+DISCHARGE LABS: 
+___ 07:30AM BLOOD WBC-6.2 RBC-4.52 Hgb-13.2 Hct-40.8 MCV-90 
+MCH-29.2 MCHC-32.4 RDW-13.2 RDWSD-43.8 Plt ___
+___ 07:30AM BLOOD Plt ___ y/o woman with PMH notable for long-standing sciatica, 
+presenting to ED with worsening acute-on-chronic pain similar to 
+prior sciatica int he setting of reduced ambulation during 
+recovery from pneumonia, admitted with poorly delineated T1-T2 
+hypointense lesion noted on non-con MRI, which was later revised 
+to be large disc herniation and disc fragment.
+
+# ACUTE ON CHRONIC SCIATICA in the setting of 
+# T1-T2 DISC HERNIATION WITH FRAGMENTATION: 
+The patient had classic symptoms of sciatica, which had worsened 
+over the past few weeks. She had been planned for further 
+management as outpatient with orthopedics, but presented in 
+significant distress with worsening symptoms. MRI revealed L5-S1 
+disc herniation with disc fragment. Her pain was initially 
+controlled with standing acetaminophen and breakthrough 
+tramadol, progressed to 50mg tramadol q6H as well as standing 
+toradol. She worked with physical therapy, who determined that 
+she was safe to go home with rolling walker. Her home pain 
+regimen on discharge consisted of Naproxen 500mg BID for 4 days 
+and tramadol ___ q6h PRN for 4 days. She was advised take 
+omeprazole 20mg while on naproxen and to pursue physical therapy 
+if her pain does not improve in ___ weeks in order to optimize 
+her functional status. 
+
+CHRONIC ISSUES: 
+=============== 
+# Anxiety: patient was previously on sertraline but was no 
+longer on it at time of admission so this was held. 
+# Hypertension: continue home amlodipine 
+
+TRANSITIONAL ISSUES:
+====================
+- Please ensure limited use of NSAIDs
+- Please ensure followup with Orthopedic ___
+- She should take omeprazole 20mg daily while on naproxen 
+- She will get home ___, may require longer course of outpatient 
+physical therapy if not improved. 
+- She was provided with a walker on discharge for use at home 
+due to difficulty bearing weight on her R leg ___ pain. 
+
+ # CODE: presumed Full  
+ # CONTACT: ___ (daughter)-- ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Sertraline 25 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Naproxen 500 mg PO Q12H:PRN Pain - Moderate Duration: 4 Days 
+
+RX *naproxen 500 mg 1 tablet(s) by mouth BID PRN Disp #*8 Tablet 
+Refills:*0 
+4.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth daily Disp #*10 
+Capsule Refills:*0 
+5.  Senna 8.6 mg PO DAILY  
+6.  Simethicone 40-80 mg PO QID:PRN gas pain  
+7.  TraMADol ___ mg PO Q4H:PRN Pain - Moderate 
+RX *tramadol 50 mg ___ tablet(s) by mouth q6h PRN Disp #*16 
+Tablet Refills:*0 
+8.  amLODIPine 5 mg PO DAILY  
+9.  Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP RIGHT EYE BID  
+10.  Latanoprost 0.005% Ophth. Soln. 1 DROP RIGHT EYE QHS  
+11.Outpatient Physical Therapy
+ICD: M51.27. Pediatric rolling walker. Duration: 13 months, 
+Prognosis: good 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+#SCIATICA
+#UNCONTROLLED PAIN
+
+SECONDARY DIAGNOSIS
+===================
+#ANXIETY
+#HYPERTENSION
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure taking care of you at ___. Please see below 
+for information on your time in the hospital/Fue un placer 
+cuidarse ___ hospital. Abajo se incluye informacion ___ 
+___ medico. 
+
+WHY WAS I IN THE HOSPITAL?/Por Que estuve ___ hospital?
+- Your back pain was much worse than usual and you could not 
+bear ___ dolor se puso muy fuerto y no lo podia soportar 
+
+WHAT HAPPENED IN THE HOSPITAL?/Que paso ___ hospital? 
+- Pictures of your back showed a "herniated disc" which is 
+likely the cause of your pain/El escaneo demostro un disco 
+herniado (el disco es el L5), lo cual ___ 
+___ dolor. 
+- We gave you medicine for ___ para el 
+dolor 
+- The pain can get better with physical therapy and exercises 
+but sometimes people do need surgery/el dolor se puede mejorar 
+con terapia fisica y ejercisios per a veces algunas personas 
+requieren cirujia 
+
+WHAT SHOULD I DO WHEN I GO ___ en casa? 
+- Take all your medications as below/Tomar todos ___ las instrucciones 
+- Do not take more than 5 days of Naproxen without asking your 
+primary care doctor/No tomar mas que 5 ___ de naproxen sin 
+___ doctor ___ 
+
+We wish you the best!
+-Your Care Team at ___
+
+ 
+Followup Instructions:
+___

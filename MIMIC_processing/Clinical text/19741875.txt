@@ -1,0 +1,218 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, vomiting
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+HPI: The patient is a ___ female w/no significant PMHx
+presenting with 2d of diarrhea, 1d of severe N/V with
+epigastric/RUQ pain, and chills.  She was in her USOH until the
+symptoms began 2d ago, diarrhea was "all day."  Was out with her
+friends when her nausea worsened, she tried to go home to "sleep
+it off" but it didn't improve, so she came in to the ED.  This
+has happened twice before, once maybe a year ago, and once in 
+___
+this year.  Both those times it resolved fairly quickly.
+
+In the ED: had had 1 beer with her friends while out the night
+before. Initially left AMA on ___ with an rx for ondansetron. 
+Returned w/inability to tolerate POs. Also c/o SOB w/N/V.  Exam
+TTP in epigastrium.
+
+On the floor, she is having persistent nausea and vomiting, and
+appears uncomfortable, as well as unsettled given her ongoing
+symptoms.  She confirms the above history, and notes that she 
+has
+been having chills, but no fevers.  She does endorse abdominal
+pain.  She denies history of gallbladder problems in the family,
+or biliary colic in herself.  We review her situation and the
+plan of care.
+
+ROS: [x] As per above HPI, otherwise reviewed and negative in 
+all
+systems
+
+Primary Care Provider: ___
+
+ 
+Past Medical History:
+PMHx:
+#Mild intermittent asthma - does not use any medications
+
+PSHx:
+Prior repair of a deviated nasal septum
+
+ 
+Social History:
+___
+Family History:
+___:
+Denies any family history of gallbladder disease
+
+ 
+Physical Exam:
+Admission Physical Exam:
+VS: T 98.0, BP 94/60, HR 63, RR 16, O2 sat 98% on RA
+Young woman lying in bed, later heaving and producing saliva,
+nonbilious, nonbloody, otherwise alert, cooperative, NAD. 
+Anicteric, MMM.  Equal chest rise, CTAB posteriorly, no WOB or
+cough.  Heart regular, no obvious murmurs rubs or gallops. 
+Abdomen soft, but tender in the epigastrium and also somewhat in
+the right upper quadrant, moderately so, with no rebound or
+guarding.  Extremities warm and well-perfused, no pitting edema. 
+
+Neurologically she is moving all extremities equally, and able 
+to
+move around without assistance.  Her affect is initially 
+somewhat
+anxious, and she appears a bit short of breath and she is having
+her nausea prior to vomiting, and after vomiting appears much
+more calm.
+
+Discharge Physical Exam:
+VS: 98.7 103/67 57 16 99 RA 
+Lying in bed, NAD
+Anicteric, MMM.  Equal chest rise, CTAB posteriorly, no WOB or
+cough.  Heart regular, no obvious murmurs rubs or gallops. 
+Abdomen soft, but tender in the epigastrium and also somewhat in
+the right upper quadrant, moderately so, with no rebound or
+guarding.  Extremities warm and well-perfused, no pitting edema. 
+
+Neurologically she is moving all extremities equally, and able 
+to
+move around without assistance.
+
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 05:15AM BLOOD WBC-23.5*# RBC-4.74 Hgb-13.5 Hct-41.0 
+MCV-87 MCH-28.5 MCHC-32.9 RDW-12.7 RDWSD-40.2 Plt ___
+___ 05:15AM BLOOD Neuts-85.0* Lymphs-7.7* Monos-6.0 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-19.95*# AbsLymp-1.81 
+AbsMono-1.40* AbsEos-0.01* AbsBaso-0.04
+___ 07:00PM BLOOD ___ PTT-28.5 ___
+___ 05:15AM BLOOD Glucose-111* UreaN-12 Creat-0.6 Na-143 
+K-4.1 Cl-102 HCO3-15* AnGap-26*
+___ 05:15AM BLOOD ALT-33 AST-45* AlkPhos-70 TotBili-0.5
+___ 07:00PM BLOOD Albumin-4.4 Calcium-8.5 Phos-1.9* Mg-2.2
+___ 05:15AM BLOOD Ethanol-30*
+___ 12:44AM BLOOD Lactate-1.3
+
+Imaging:
+=========
+___ CT Abd/Pelvis:
+1. Small to moderate  amount of ascites, minimally complex 
+within the pelvis, may be secondary to a ruptured corpus luteum 
+but a ruptured ectopic cannot be fully excluded.  Recommend 
+pelvic ultrasound. 
+2. Small right pleural effusion. 
+3. Gallbladder wall edema likely secondary to third spacing.  
+Periportal edema (from hydration?) 
+
+___ Pelvic US (Transabdominal):
+Transabdominal study only.  Limited assessment of the ovaries.  
+Ovaries normal in size.  No large adnexal mass seen.  Ovaries 
+are not optimally assessed due to lack of transvaginal 
+examination and assessment for right corpus luteum is 
+essentially nondiagnostic on this study. 
+Pelvic free fluid, better assessed on preceding CT. 
+
+___ RUQ US:
+1. Trace perihepatic ascites.  Small right pleural effusion. 
+2. Hepatic parenchyma appears normal. 
+3. No cholelithiasis.  Gallbladder wall edema, likely from 
+third-spacing. 
+
+Discharge Labs:
+===============
+___ 07:50AM BLOOD WBC-11.6* RBC-4.41 Hgb-12.8 Hct-38.0 
+MCV-86 MCH-29.0 MCHC-33.7 RDW-12.9 RDWSD-40.5 Plt ___
+___ 07:50AM BLOOD Glucose-66* UreaN-9 Creat-0.5 Na-141 
+K-3.7 Cl-102 HCO3-22 AnGap-17*
+___ 07:00PM BLOOD ALT-74* AST-76* AlkPhos-55 TotBili-1.0
+___ 07:50AM BLOOD Calcium-8.2* Phos-2.6* Mg-2.___ with no significant PMH who presented with abdominal pain 
+and nausea/vomiting.
+
+She reported approximately two days of diarrhea, RUQ pain, and 
+nausea/vomiting. Diarrhea resolved without intervention. She 
+initially presented to ED on ___ and left AMA, but then 
+returned later that same day when symptoms did not improve. Labs 
+were notable for a leukocytosis of 23.5 (subsequently 17.9, 
+16.7, then 11.6 on discharge). LFTs were notable for ALT 74, AST 
+75, AP 55, and tbili 1.0. CT Abd/Pelvis revealed a small to 
+moderate amount of ascites, minimally complex within the pelvis, 
+may be secondary to a ruptured corpus luteum but a ruptured 
+ectopic cannot be fully excluded. Also noted a small right 
+pleural effusion and gallbladder wall edema. Pelvic ultrasound 
+was obtained but was limited for assessment of the ovaries given 
+it was transabominal only; however no large adnexal masses or 
+other abnormalities were visualized. RUQ US was notable for 
+gallbladder wall edema without evidence of cholelithiasis. Given 
+her pain, leukocytosis, LFT abnormalities, and gallbladder wall 
+edema, surgery was consulted and recommended a HIDA scan to rule 
+out cholecystitis. She did not want to remain in the hospital to 
+obtain the HIDA scan and elected to leave against medical 
+advice. She understand the possibility that she could have 
+cholecystitis or an as yet undetermined intra-abdominal 
+infection. She understood that she could die without treatment 
+of cholecystitis or other serious infection, but reported that 
+she would seek care at another hospital instead. She was advised 
+to report to ___ (her preferred hospital) or another hospital 
+directly after discharge.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+none
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Abdominal pain
+Nausea/vomiting
+Leukocytosis
+Elevated LFTs
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came into the hospital with abdominal pain and 
+nausea/vomiting. We were concerned that you might have an 
+infection in your gallbladder. We recommended a special test 
+called a HIDA scan but you did not want to wait to have this 
+test performed. You are leaving the hospital against medical 
+advice. Please go to another hospital for further evaluation. 
+Please go to the ED immediately if you have any worsening pain, 
+vomiting, fevers, or any other symptoms that concern you.
+ 
+Followup Instructions:
+___

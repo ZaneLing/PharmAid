@@ -1,0 +1,274 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Augmentin / Crestor / egg / lisinopril / simvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o M w/ h/o provoked PE ___ years ago,
+idiopathic peripheral and sensory neuropathy, GERD, HTN, HLD, 
+and
+depression, presenting now for acute dyspnea, found to have
+submassive PE
+
+Patient presented to his PCP today for ___ for his
+neuropathy. During evaluation, he mentioned onset of significant
+dyspnea on exertion over the last few weeks. He notes becoming
+winded when walking upstairs or walking even short distances.
+Given his history of a PE, he was referred to ___ for a
+CTA. CTA showed extensive segmental and subsegmental PEs, with 
+an
+elevated Trop-T. Thus the decision was made to transfer patient
+here for further evaluation/management.   
+
+Patient had a PE about ___ years ago, thought secondary to
+prolonged bed rest in the setting of retinitis. He completed a 6
+month course of anticoagulation. Per report, a hypercoagulable
+work-up was negative at that time. He had a colonoscopy a few
+weeks ago with 3 polyps removed.  
+
+In the ED, patient was noted to be tachycardic, but otherwise 
+HDS
+with no O2 requirement. MASCOT evaluated the patient and 
+differed
+lysis or catheter directed therapy. Patient was started on
+heparin with plan for admission to the floor for further
+monitoring.      
+
+On arrival to the floor, patient reports overall feeling well. 
+He
+does continue to feel mildly short of breath, but denies chest
+pain, cough, abdominal pain, or hemoptysis.  
+
+ 
+Past Medical History:
+GERD
+HTN
+HLD
+H/o PE
+Idiopathic peripheral and sensory neuropathy 
+Depression 
+
+ 
+Social History:
+___
+Family History:
+Denies any family history of blood clots or other clotting
+disorders.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: Reviewed in OMR 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: MMM, hoarse voice 
+CARDIAC: RRR, no murmurs, rubs, or gallops
+LUNGS: CTAB, NC in place
+ABDOMEN: Soft, non-tender, non-distended
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+NEUROLOGIC: AOx3. CN2-12 intact, but hoarse voice. Moving all 4
+limbs spontaneously. ___ strength in upper extremities. ___
+strength bilaterally in dorsiflexion, decreased sensation in
+lower extremities. 
+
+DISCHARGE PHYSICAL EXAM: 
+========================
+VITALS: 93-94% ambulatory on RA, T 97.5, BP 110/57, HR 78, RR 20 
+
+GENERAL: Alert and interactive. In no acute distress, but frail 
+in appearance. 
+HEENT: MMM, hoarse voice 
+Neck: no JVP while pt sitting upright
+CARDIAC: RRR, no murmurs, rubs, or gallops
+LUNGS: CTAB, no w/r/r
+ABDOMEN: Soft, non-tender, non-distended
+EXTREMITIES: No clubbing, cyanosis, or edema. +DP b/l. no calf 
+tenderness to palpation or dorsiflexion. 
+NEUROLOGIC: AOx3. CN2-12 intact, but hoarse voice. Moving all 4 
+limbs spontaneously. Gait is somewhat shuffling, using cane, but 
+appears like baseline.
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===================
+___ 12:34AM BLOOD WBC-13.6* RBC-4.61 Hgb-14.9 Hct-43.4 
+MCV-94 MCH-32.3* MCHC-34.3 RDW-13.0 RDWSD-44.3 Plt ___
+___ 12:34AM BLOOD Neuts-70.1 ___ Monos-7.2 Eos-1.6 
+Baso-0.6 Im ___ AbsNeut-9.50* AbsLymp-2.72 AbsMono-0.98* 
+AbsEos-0.22 AbsBaso-0.08
+___ 12:34AM BLOOD ___ PTT-150* ___
+___ 09:25AM BLOOD Glucose-101* UreaN-14 Creat-0.8 Na-142 
+K-4.4 Cl-102 HCO3-25 AnGap-15
+___ 12:34AM BLOOD cTropnT-0.04*
+___ 12:34AM BLOOD proBNP-13
+___ 09:25AM BLOOD Calcium-9.7 Phos-4.3 Mg-1.9
+
+DISCHARGE LABS: 
+=================
+___ 09:25AM BLOOD WBC-8.5 RBC-4.50* Hgb-14.4 Hct-42.3 
+MCV-94 MCH-32.0 MCHC-34.0 RDW-13.0 RDWSD-44.7 Plt ___
+___ 09:25AM BLOOD ___ PTT-136.3* ___
+
+IMAGING: 
+===============
+CTA ___ @ ___ 
+IMPRESSION:
+1. Multiple pulmonary emboli involving the right upper, right 
+middle, right lower, lingular, and left lower lobe
+segmental and subsegmental pulmonary arterial branches.  No 
+evidence of right heart strain or pulmonary infarction.
+2. 3 mm right upper lobe pulmonary nodule.  Please refer to 
+___ criteria below for ___ recommendations.
+3. 1.6 cm right thyroid nodule.  This may be further evaluated 
+with dedicated thyroid ultrasound.
+
+RECOMMENDATION(S):  For incidentally detected single solid 
+pulmonary nodule smaller than 6 mm, no CT ___ is
+recommended in a low-risk patient, and an optional CT in 12 
+months is recommended in a high-risk patient.
+See the ___ ___ Guidelines for the Management 
+of Pulmonary Nodules Incidentally Detected on CT" for
+comments and reference: 
+___
+
+Thyroid nodule.  Ultrasound follow up recommended.
+___ College of Radiology guidelines recommend further 
+evaluation for incidental thyroid nodules of 1.0 cm or
+larger in patients under age ___ or 1.5 cm in patients age ___ or 
+___, or with suspicious findings.
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE 
+================================= 
+Mr. ___ is a ___ gentleman with history of provoked 
+DVT PE ___ years ago status post 6 months on dabigatran, who 
+presented as a transfer from ___ with an unprovoked 
+submassive PE and mildly elevated troponins. Mascot evaluated 
+patient and felt no interventions beyond heparin gtt were 
+indicated. Patient required 2 L nasal cannula which was weaned 
+as tolerated by patient so he will not be discharged with 
+supplemental O2. Patient was transitioned to DOAC for indefinite 
+therapy given his prior history. 
+
+TRANSITIONAL ISSUES: 
+================================= 
+[] 
+MEDICATIONS: 
+- New Meds: rivaroxaban
+- Stopped Meds: none
+- Changed Meds: none
+___ 
+[ ]PCP: patient was found to have a 3mm RUL pulmonary nodule on 
+CT chest. Recommend repeat CT scan in 12 months for 
+re-evaluation given high risk with smoking history.
+[ ] PCP: patient was incidentally found to have a 1.6cm right 
+thyroid nodule on CT chest at outside hospital prior to 
+transfer. Recommend repeat imaging as an outpatient with 
+dedicated ultrasound.
+[ ]PCP: pt initiated on rivaroxaban, please continue 
+indefinitely given second DVT/PE.
+
+OTHER ISSUES: 
+- Discharge Hemoglobin: 14.4
+- Discharge Cr: 0.8
+
+# CODE: Full (presumed) 
+
+ACUTE/ACTIVE ISSUES:
+====================
+#. Submassive PE
+Reassuringly patient HDS, though initially pt had new O2 
+requirement. Successfully weaned O2. Lacks significant risk 
+factors for PE except for history of prior blood clot, and no 
+evidence for provoked cause. Reportedly had extensive work-up 
+previously at ___ which was unremarkable. PCP has been ensuring 
+age appropriate screening especially in s/o recent weight loss. 
+- continue rivaroxaban indefinitely d/t prior hx of PE
+- continue age appropriate screenings
+
+CHRONIC/STABLE ISSUES:
+======================
+#. Neuropathy
+Followed by neurology at ___. Receives IVIG every 4 weeks, with
+reported improvement in symptoms. 
+- Continue to ___ out patient
+
+#. HTN
+- Continue home atenolol
+
+#. Depression
+- Patient discontinued mirtazapine at home prior to admission
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO DAILY 
+2. PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP LEFT EYE BID 
+3. Acyclovir 400 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Rivaroxaban 15 mg PO BID 
+RX *rivaroxaban [___] 15 mg (42)- 20 mg (9) 1 tablet(s) by 
+mouth twice a day Disp #*1 Dose Pack Refills:*0 
+2.  Acyclovir 400 mg PO DAILY  
+3.  Atenolol 25 mg PO DAILY  
+4.  PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP LEFT EYE BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Submassive pulmonary embolism
+
+Secondary:
+Leukocytosis, resolved
+Hypoxia, resolved
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent w/ cane.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+ 
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+- You were admitted for a blood clot in your lung
+ 
+What was done for me while I was in the hospital?  
+- You were given IV blood thinners to treat the clot
+- We gave you oxygen to help your breathing
+- You were transitioned to a blood thinner that you can take by 
+mouth (rivaroxaban)
+
+What should I do when I leave the hospital?  
+-Continue taking your new blood thinner
+-___ with your PCP as directed
+
+___,  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

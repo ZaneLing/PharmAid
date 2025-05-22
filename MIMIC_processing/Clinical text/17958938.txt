@@ -1,0 +1,207 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cortisone / tetracycline
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Acute Blood Loss Anemia, GI Bleeding
+ 
+Major Surgical or Invasive Procedure:
+Upper and lower endoscopy (colonoscopy)
+
+ 
+History of Present Illness:
+___ year old Female sent from her pulmonolgist at ___ 
+after presenting with several months of dyspnea consistent with 
+her chronic asthma, found to have significant hematocrit drop 4 
+days prior to admission. A repeat draw the day of presentation 
+which noted a 3 point drop over the 4 days, so was referred to 
+the ___ ED. She is normally followed at ___. She notes 
+her primary complain is dyspnea on exertion with significant 
+reduction in her exercise tolerance. Her hematocrit ___ year prior 
+to admission was ~32. She had an EST ___ year prior to admission 
+which is reported as normal, although the report does not 
+mention the METS performed. I could not find evidence in the 
+Atrius ___ system of her having had a colonoscopy, however 
+patient states she had her last one ___ years prior to admission 
+at ___ which she states was normal other than 
+diverticulosis (she mentions ___ screening).
+
+The patient notes having completed an oral prednisone course ~3 
+weeks prior to admission for her asthma which did improve her 
+cough, but not her dyspnea. She notes that she gained weight 
+from the steroids.
+
+Her initial vitals in the ___ ED were 98, 101, 103/84, 20, 
+100% They had ordered 2 units of PRBCs although only one was 
+given prior to transport. 
+ 
+Past Medical History:
+Chronic stable asthma
+Hypercholesterolemia
+___
+Thyroid Nodule
+CKD Stage 4
+Hypertension
+
+ 
+Social History:
+___
+Family History:
+Brother  ___ - Unknown Type; Hypertension 
+Father  CAD/PVD; Hyperlipidemia; Hypertension 
+Mother  Cancer - ___ 
+
+ 
+Physical Exam:
+ROS:
+ GEN: - fevers, - Chills, - Weight Loss
+ EYES: - Photophobia, - Visual Changes
+ HEENT: - Oral/Gum bleeding
+ CARDIAC: - Chest Pain, - Palpitations, - Edema
+ GI: - Nausea, - Vomiting, - Diarrhea, - Abdominal Pain, - 
+Constipation, - Hematochezia
+ PULM: - Dyspnea, - Cough, - Hemoptysis
+ HEME: - Bleeding, - Lymphadenopathy
+ GU: - Dysuria, - hematuria, - Incontinence
+ SKIN: - Rash
+ ENDO: - Heat/Cold Intolerance
+ MSK: - Myalgia, - Arthralgia, - Back Pain
+ NEURO: - Numbness, - Weakness, - Vertigo, - Headache
+a 10 point ROS negative except as above.
+ 
+
+PHYSICAL EXAM:
+
+VSS: 98.1, 144/73, 79, 18, 99%
+ GEN: NAD
+ Pain: ___
+ HEENT: EOMI, MMM, - OP Lesions
+ PUL: CTA B/L
+ COR: RRR, S1/S2, I/VI HSM at base
+ ABD: NT/ND, +BS, - CVAT
+ EXT: - CCE
+ NEURO: CAOx3, Motor ___ ___ flex-ext
+ 
+Pertinent Results:
+___ 07:38PM BLOOD WBC-11.7* RBC-3.01* Hgb-6.9* Hct-24.1* 
+MCV-80* MCH-22.9* MCHC-28.6* RDW-20.4* RDWSD-58.1* Plt ___
+___ 07:38PM BLOOD Neuts-45.6 ___ Monos-10.5 Eos-5.3 
+Baso-0.6 NRBC-1.0* Im ___ AbsNeut-5.31 AbsLymp-4.34* 
+AbsMono-1.23* AbsEos-0.62* AbsBaso-0.07
+___ 07:38PM BLOOD ___ PTT-25.6 ___
+___ 07:38PM BLOOD Glucose-97 UreaN-15 Creat-1.2* Na-139 
+K-4.5 Cl-101 HCO3-24 AnGap-14
+___ 07:38PM BLOOD estGFR-Using this patient's age, gender, 
+and serum creatinine value of 1.2, 
+estimated GFR (eGFR) is likely between 44 and 54 mL/min/1.73 m2, 
+
+provided the serum creatinine value is stable. 
+(Patients with more muscle mass and better nutritional status 
+are more 
+likely to be at the higher end of this range.) 
+An eGFR < 60 suggests kidney disease in those below the age of 
+___ 
+and there may be kidney disease in those over ___.
+___ 07:38PM BLOOD CK(CPK)-184
+___ 07:38PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 06:45AM BLOOD WBC-11.0* RBC-3.66* Hgb-8.9* Hct-30.0* 
+MCV-82 MCH-24.3* MCHC-29.7* RDW-19.2* RDWSD-56.5* Plt ___
+___ 06:45AM BLOOD Glucose-109* UreaN-12 Creat-1.2* Na-147 
+K-4.4 Cl-108 HCO3-21* AnGap-___cute Blood Loss Anemia due to GI bleeding: Hgb 6.9 from 
+baseline 10.3 ___. RFs include report of prior diverticuli 
+and recent corticosteroid course. Unclear how much of presenting 
+SOB was related, although pt now feeling better s/p 2u. Pt with 
++Fhx of ___ ca (Mother). ___ remained stable post 
+transfusion. Pt notably allergic to PPI.
+She underwent EGD/colonoscopy ___ which revealed angioectasia 
+in the ___ part of the duodenum (thermal therapy applied), but 
+otherwise normal esophagus and stomach (biopsied)
+Plan for an outpatient capsule study if recurrent bleeding as an 
+outpatient
+[ ] ___ CBC at 1 week f/u (NP at local clinic) 
+[ ] ___ that pt tolerating oral Fe, can inc freq prn
+
+#Chronic stable asthma; Albuterol PRN, Fluticasone.
+
+#Essential Hypertension; Continued on Amlodipine, Toprol-XL, 
+Losartan, HCTZ (we do not have her combo tablet, so separate 
+dosing)
+
+#HLD: Continue crestor
+
+>30 minutes were spent in coordinating care and discharge 
+planning.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. losartan-hydrochlorothiazide 50-12.5 mg oral DAILY 
+2. amLODIPine 5 mg PO BID 
+3. Rosuvastatin Calcium 10 mg PO QPM 
+4. fluticasone-vilanterol 200-25 mcg/dose inhalation DAILY 
+5. Metoprolol Succinate XL 100 mg PO DAILY 
+6. Meclizine 25 mg PO TID:PRN vertigo 
+7. Co Q-10 (coenzyme Q10) 100 mg oral DAILY 
+8. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN dyspnea 
+9. Albuterol Inhaler 2 PUFF IH Q6H:PRN dyspnea 
+10. biotin 1 mg oral DAILY 
+11. Cyanocobalamin 1000 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ferrous Sulfate 325 mg PO DAILY Low Iron 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+Daily Disp #*30 Tablet Refills:*0 
+2.  Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN dyspnea  
+3.  Albuterol Inhaler 2 PUFF IH Q6H:PRN dyspnea  
+4.  amLODIPine 5 mg PO BID  
+5.  biotin 1 mg oral DAILY  
+6.  Co Q-10 (coenzyme Q10) 100 mg oral DAILY  
+7.  Cyanocobalamin 1000 mcg PO DAILY  
+8.  fluticasone-vilanterol 200-25 mcg/dose inhalation DAILY  
+9.  losartan-hydrochlorothiazide 50-12.5 mg oral DAILY  
+10.  Meclizine 25 mg PO TID:PRN vertigo  
+11.  Metoprolol Succinate XL 100 mg PO DAILY  
+12.  Rosuvastatin Calcium 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Upper gastrointestinal bleeding ___ duodenal angioectasia s/p 
+thermal therapy applied)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came to the hospital with shortness of breath and the 
+finding of new anemia (low blood counts). 
+You were transfused blood and your counts improved. 
+The gastroenterologists did an upper and lower endoscopy and 
+found abnormal blood vessels (arteriovenous malformations or 
+AVMs) that were treated with heat therapy. 
+Please continue to take all of your normal medicine, but please 
+avoid NSIADs (ibuprofen, aleve etc) and alcohol.
+You should have your primary care doctor check your blood counts 
+once every two weeks for the next month. 
+If there is evidence of an ongoing drop in your counts they 
+would recommend a capsule endoscopy study to visualize the 
+remaining portion of your GI tract.  
+It was a pleasure taking care of you! 
+ 
+Followup Instructions:
+___

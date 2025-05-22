@@ -1,0 +1,276 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 03:10PM BLOOD WBC-14.7* RBC-5.67 Hgb-16.9 Hct-49.3 
+MCV-87 MCH-29.8 MCHC-34.3 RDW-13.5 RDWSD-43.4 Plt ___
+___ 03:10PM BLOOD Neuts-72.2* Lymphs-18.1* Monos-9.0 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-10.61* AbsLymp-2.66 
+AbsMono-1.32* AbsEos-0.02* AbsBaso-0.03
+___ 03:10PM BLOOD ___ PTT-28.8 ___
+___ 03:10PM BLOOD Glucose-118* UreaN-10 Creat-1.2 Na-145 
+K-4.2 Cl-102 HCO3-26 AnGap-17
+___ 03:10PM BLOOD ALT-23 AST-32 AlkPhos-73 TotBili-0.5
+___ 03:10PM BLOOD Albumin-4.8 Calcium-9.7 Phos-4.2 Mg-1.9
+___ 03:26PM BLOOD K-3.5
+
+PERTINENT LABS:
+================
+___ 03:10PM BLOOD Lipase-98*
+___ 03:10PM BLOOD ALT-23 AST-32 AlkPhos-73 TotBili-0.5
+
+MICRO:
+========
+NONE
+
+IMAGING:
+==========
+MR CERVICAL SPINE W/O CONTRAST ___
+IMPRESSION:
+1. The previously seen minimally displaced C6 anterior superior 
+corner
+fracture demonstrates associated bone marrow edema, focal 
+disruption of the anterior longitudinal ligament, and mild 
+prevertebral edema extending along the cervical spine.
+2. Interspinous ligament edema at C4-C5, and to a lesser extent 
+at C5-C6 and C2-C3, without clear evidence for ligamentum flavum 
+edema or disruption. Overlying edema in the midline posterior 
+paravertebral soft tissues along the cervical spine.
+3. High signal on STIR images in the C3-C4 disc, without disc 
+disruption, and without extension to the anterior longitudinal 
+posterior longitudinal
+ligament, most likely degenerative in etiology.
+4. No evidence for epidural collection or spinal cord signal 
+abnormality.
+5. Multilevel degenerative disease.  Spinal canal narrowing is
+mild-to-moderate at C4-C5 and mild at other levels.  Advanced 
+neural foraminal narrowing at multiple levels, as detailed 
+above.
+   
+DISCHARGE LABS:
+=================
+___ 06:51AM BLOOD WBC-12.1* RBC-5.43 Hgb-16.2 Hct-47.9 
+MCV-88 MCH-29.8 MCHC-33.8 RDW-13.9 RDWSD-44.8 Plt ___
+___ 06:51AM BLOOD Plt ___
+___ 06:51AM BLOOD Glucose-89 UreaN-12 Creat-1.1 Na-143 
+K-3.9 Cl-102 HCO3-26 AnGap-15
+___ 06:51AM BLOOD Calcium-9.2 Phos-4.1 Mg-2.0
+
+DISCHARGE PHYSICAL EXAM:
+============================
+VITALS:24 HR Data (last updated ___ @ 742)
+    Temp: 98.0 (Tm 98.5), BP: 156/108 (144-156/92-108), HR: 97
+(97-100), RR: 18, O2 sat: 97% (95-97), O2 delivery: Ra    
+GENERAL: Alert and interactive. In no acute distress. Wearing
+C-collar.
+EYES: Laceration across crown of caput with 3 staples and dried
+blood around site. PERRL, EOMI. Sclera anicteric and without
+injection. 
+ENT: MMM. 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+MSK: No spinous process tenderness. No CVA tenderness. No
+clubbing, cyanosis, or edema. Pulses DP/Radial 2+ bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout, including
+with thumb flexion/extension/abduction/adduction. Normal
+sensation. AOx3.
+PSYCH: appropriate mood and affect
+ 
+Brief Hospital Course:
+___ male presenting after MVC found to have C6 avulsion 
+fracture and a superficial scalp laceration that required 3 
+staples. In the ER his course was complicated by two episodes of 
+emesis after receiving IV pain medication and uncontrolled 
+hypertension (SBP in the 200s) in the setting of medication 
+non-adherence. He was evaluated by ortho-spine and placed in a 
+hard C-collar with instructions to wear it at all times and 
+___ in outpatient clinic in ___ weeks. For his 
+hypertension, he was re-started on his amlodipine 10 mg and his 
+lisinopril was uptitrated to 10 mg daily. He was lost to 
+___ with his PCP and did not have refills of his 
+medications which may account for his uncontrolled hypertension, 
+in addition to pain, n/v. He was observed for one night in the 
+hospital, did not have recurrence of coffee ground emesis and 
+remained asymptomatic from hypertension, and was then discharged 
+home after medications delivered to his bedside (lisinopril 10 
+mg, amlodipine 10 mg, and simvastatin 20 mg).
+
+TRANSITIONAL ISSUES:
+=======================
+[] Patient presented s/p MVC with imaging c/w avulsion fracture 
+at C6. He was recommended to wear C-collar at all times until 
+___ follow up arranged on ___. Patient also advised 
+to avoid lifting, bending and twisting.
+[] Patient has staples in place for head laceration. Should be 
+removed at PCP follow up in ___
+[] BP control: patient started on lisinopril 10mg daily and 
+amlodipine 10mg daily. Please titrate BP medications as 
+necessary in outpatient setting.
+[] Patient re-initiated on lisinopril 10mg daily during 
+admission. Please check electrolytes at PCP ___.
+[] Please obtain a baseline EKG at patient's scheduled PCP 
+___.
+[] Patient previously taking simvastatin 20mg qPM several 
+months. Restarted on admission. Consider rechecking cholesterol 
+panel and LFTs in outpatient setting and possibly uptitrate 
+statin dosing.
+[] Patient previously taking vitamin D supplement daily. Please 
+recheck vitamin D level in outpatient setting and consider 
+restarting supplementation.
+
+ACUTE ISSUES:
+=============
+#Hypertesnive urgency
+SBPs in the 200s on admission and in the past he was prescribed 
+multiple medications, including amlodipine, chlorthalidone and 
+lisinopril. He stated that he has not been taking medications 
+for several months since his prescriptions ran out over a year 
+ago and he encountered problems scheduling a PCP ___ and 
+forgot to call back to make an appointment. During this 
+hospitalization, he was restarted on amlodipine 10mg daily as 
+well as captopril TID, which was converted and uptitrated to 
+lisinopril 10mg qd on day of discharge. His blood pressure 
+medications should be titrated in the outpatient setting as he 
+will likely require an increased dose of lisinopril. He was 
+counseled on lifestyle changes to improve his blood pressure as 
+well. Also, his electrolytes should be checked at his PCP 
+___ appointment in the setting of re-initiation of ACEI.
+
+#C6 avulsion fracture s/p MVC
+#Neck pain
+#Multilevel degenerative changes of cervical spine
+Patient presented s/p MVC. CT C-spine and CT head performed at 
+OSH significant for avulsion fracture at C6 and on exam he has 
+paresthesias bilaterally in his thumbs and forearms in a C6 
+dermatomal distribution. MR of the cervical spine was notable 
+for bone marrow edema, focal disruption of the anterior 
+longitudinal ligament, and mild prevertebral edema extending 
+along the cervical spine, as well as multiple other acute 
+findings which likely explain his thumb parasthesias. Also 
+chronic findings indicating degenerative disease. See report for 
+full details. Ortho spine was consulted and recommend patient 
+wear C-collar at all times until follow up in ___ weeks for 
+repeat imaging (can shower below the brace). Patient advised to 
+avoid all bending, lifting and twisting until outpatient spine 
+center follow up. Patient also with staples in place to head 
+laceration that were placed at OSH and should be removed ___ 
+after placement (___), at PCP follow up.
+
+#Emesis
+2 episodes of emesis in ED after receiving IV pain medications, 
+initially reported as coffee-ground emesis. Once admitted, 
+patient tolerating PO intake without nausea/vomiting. Unclear 
+from pt history if it was hematemasis or just dark brown emesis. 
+Less likely to be a ___ tear with no prior history of 
+liver disease, NSAID/steroid use and Hgb stable. Trauma surgery 
+was consulted in the ER and thought hematemesis likely 
+non-traumatic in origin and recommended discharge home with 
+close PCP follow up pending need for GIB work up. CBC was 
+trended and was stable. PCP should consider GI referral in 
+outpatient setting if ongoing concern for UGIB.
+
+CHRONIC ISSUES:
+===============
+#HLD
+Patient previously taking simvastatin 20mg qPM several months. 
+Restarted on admission.
+
+#Vitamin D deficiency
+Patient previously taking vitamin D supplement daily, but no 
+longer.
+
+#CODE: Full Code, presumed
+#CONTACT: ___ number: ___
+ 
+Medications on Admission:
+NONE
+ 
+Discharge Medications:
+1.  amLODIPine 10 mg PO DAILY  
+2.  Lisinopril 10 mg PO DAILY  
+3.  Simvastatin 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Hypertensive urgency
+#Emesis
+#C6 avulsion fracture s/p MVC
+#HLD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a privilege taking care of you at ___ 
+___.  
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+===================================
+- You were admitted to the hospital because you had a minor car 
+accident and after you had numbness in your hands  
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+==========================================
+- You had a picture (MRI) of the spine that showed that you 
+fractured your C6 vertebrae and you were given a neck brace to 
+wear for your fracture.
+
+- You had 3 staples placed on your scalp from a cut from the car 
+accident. These will need to be removed in ___ days. 
+
+- Your blood pressure was very high (200/100) and you were 
+started back on medications to treat your high blood pressure 
+(amlodipine and lisinopril)  
+
+- You had an episode of vomiting after receiving pain 
+medications but that resolved on its own
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+============================================  
+- Please continue to take all your medications and follow up 
+with your doctors at your ___ appointments.  
+
+- Please wear your C-collar at all times until you are 
+re-evaluated at your follow up appointment with the spine 
+specialists on ___. Please avoid lifting, bending, and 
+twisting. 
+
+We wish you all the ___!
+
+Sincerely,  
+
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

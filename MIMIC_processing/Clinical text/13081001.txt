@@ -1,0 +1,427 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Benadryl Allergy / ceftriaxone, PCN, vancomycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ y/o woman with history of Fahr disease 
+(idiopathic basal ganglia calcification) with baseline 
+left-sided weakness, prior history of grand mal seizures who 
+presents after two syncopal events.  
+ The patient reports that about ___ years ago she had a car 
+accident and sustained a head injury. Within a few months, she 
+slipped and hit her head. In the setting of these head injuries, 
+she developed a seizure disorder for which she briefly took 
+antiepileptics. She has had no further seizures.  
+ On ___, the patient was in her garden when she suddenly felt 
+as if she were going to pass out. She notes a tingling sensation 
+in her mouth that preceded her loss of consciousness. She denies 
+any flushing or nausea, no palpitations or chest pain. She is 
+uncertain how long she was unconscious, but awoke in the garden 
+feeling refreshed. No bowel/bladder incontinence, no tongue 
+biting, no confusion when she regained consciousness.  
+ She notes that the week prior to this admission, she hit her 
+head on a ceiling fan requiring stitches to her right brow. She 
+then reports that on the night of ___, she had dull, throbbing 
+headache. She fell asleep, and upon awakening the morning of 
+___, she was sitting on the toilet (she had not yet urinated or 
+defecated) and then she lost consciousness. She was did not have 
+any antecedent symptoms. She denies experiencing antecedent 
+chest pain or palpitations. She is unsure how long she was 
+unconscious, but knows that she awoke at 615 and then awoke on 
+the floor at 645 am.  
+ She then presented to ___. A ___ was without acute 
+abnormality. Per report, EKG without ischemic changes and trop-I 
+negative x2. Labs notable for WBC 19.6. The ED physician 
+discussed the patient with her PCP, ___. The PCP felt 
+that the patient could have further outpatient workup for 
+syncope with monitoring arranged Holter monitoring through his 
+office. The patient's family requested further inpatient 
+evaluation syncope; ED physician recommended LP but the patient 
+declined. She subsequently left AMA.  
+ On ___, the patient was sitting on the edge of her bed when she 
+again lost consciousness. Again, she had no prodrome. No 
+dizziness, flushing, nausea, chest pain, or palpitations. She 
+awoke on her bed. She then presented to the ED.  
+ In the ED, initial vitals were: 97.0 79 ___ 96% RA  
+ Exam notable for: RRR, CTAB, abd s/tn/nd; Neuro: + dysmetria 
+bilaterally on finger to nose, ___ weakness in LUE as at 
+baseline and ___ in LLE worse than baseline  
+ Labs notable for: WBC 12.7 (___), ALT 222, AST 92; electrolytes 
+within normal limits.  
+ Imaging/studies notable for:  
+ - ECG (___): NSR at 76 bpm, normal intervals, no ischemic 
+changes  
+ - NCHCT (___):  
+ No acute intracranial abnormality. Bilateral symmetric 
+calcifications within the dentate nuclei, basal ganglia, 
+thalami, and subcortical frontal lobe white matter. These 
+findings are suggestive of Fahr disease or other metabolic 
+disorder such as hyperparathyroidism, hypoparathyroidism or 
+pseudohypoparathyroidism.  
+ - CXR (___): No acute cardiopulmonary abnormality.  
+ - Left hip plain film (___): No acute fracture or 
+dislocation.  
+ Neuro was consulted and recommended: Episodes seem consistent 
+with orthostatic hypotension v. vasovagal syncope, unlikely 
+seizure. Exam same as previously document in early ___ at 
+neurology clinic visit. Given multiple falls at home, would 
+benefit from admission for syncope work-up, including routine 
+EEG. Neurology to follow.  
+ Patient was given:  
+ IV Ondansetron 4 mg  
+ IV Ondansetron 4 mg  
+ Decision was made to admit for further syncope evaluation.  
+ Vitals prior to transfer: 75 ___ 14 96% RA  
+ On the floor, the patient reports that she has a mild headache 
+and mild nausea; she otherwise denies any complaints. In 
+addition to the above history, patient notes that she was 
+diagnosed with Fahr disease by imaging that was obtained in the 
+setting of her trauma many years ago. She notes that she has 
+left-sided weakness from this, which is chronic, but seems to 
+have worsened over the past weeks to months. She denies any 
+recent stressors.  
+ ROS: 10-point ROS otherwise negative.  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+ - Fahr disease (idiopathic basal ganglia calcification) with 
+associated left-sided weakness  
+ - Seizure disorder after head trauma but none in the last ___ 
+years; no longer on any medications for this  
+
+ PAST SURGICAL HISTORY:  
+ Cholecystectomy  
+ Hysterectomy  
+ c Section ×2  
+
+ 
+Social History:
+___
+Family History:
+No family history of seizure or neurological disorders.  
+Parents alive.  Brother and mother with hx of 'carotid' surgery. 
+ Daughter, ___, no health issues.  
+
+ 
+Physical Exam:
+ADMIT PHYSICAL
+==============
+Vital Signs: 98.6 122 / 68 72 18 97 RA  
+ General: AOx3, in no acute distress  
+ HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops, no carotid bruits  
+ Lungs: Bibasilar crackles, no wheezes  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CNII-XII tested and intact, strength ___ in left upper 
+and lower extremity, ___ in right upper and lower extremity, 
+gait deferred.  
+ Access: PIV  
+
+DISCHARGE PHYSICAL
+==================
+Vitals: 98.6, 111/72, 68, 18, 97 RA 
+General: No acute distress  
+HEENT:  EOMI, sclera anicteric, MMM, 
+CV:  regular rate and rhythm, no murmurs, rubs, or gallops
+Lungs:  inspiratory bibasilar crackles, no increased work of 
+breathing
+Abdomen:  soft, non-tender, non-distended, + bowel sounds
+Ext:  warm & well perfused, with no cyanosis, clubbing, or edema
+Neuro:  CN2-12 intact. Strength - RUE ___, LUE ___. 1+ 
+reflexes throughout. No dysmetria, but markedly slow and 
+deliberate on finger-nose-finger test. Some swaying on Romberg. 
+Antalgic gait.
+ 
+Pertinent Results:
+ADMIT LABS
+==========
+___ 01:05PM BLOOD WBC-12.7* RBC-4.54 Hgb-13.9 Hct-42.1 
+MCV-93 MCH-30.6 MCHC-33.0 RDW-13.5 RDWSD-46.2 Plt ___
+___ 01:05PM BLOOD Neuts-76.1* Lymphs-12.8* Monos-7.3 
+Eos-3.3 Baso-0.2 Im ___ AbsNeut-9.65* AbsLymp-1.62 
+AbsMono-0.93* AbsEos-0.42 AbsBaso-0.02
+___ 01:05PM BLOOD Plt ___
+___ 01:05PM BLOOD Glucose-108* UreaN-10 Creat-0.7 Na-137 
+K-4.8 Cl-103 HCO3-22 AnGap-17
+___ 01:05PM BLOOD ALT-222* AST-92* AlkPhos-100 TotBili-0.4
+___ 01:05PM BLOOD Albumin-4.3 Calcium-9.4 Phos-3.5 Mg-2.4
+
+PERTINENT LABS
+==============
+___ 05:50AM BLOOD ALT-140* AST-28 LD(LDH)-142 CK(CPK)-38 
+AlkPhos-86 TotBili-0.3
+___ 05:41AM BLOOD ALT-87* AST-16 AlkPhos-83 TotBili-0.2
+___ 08:05AM BLOOD ALT-60* AST-15 AlkPhos-77 TotBili-0.4
+___ 05:50AM BLOOD cTropnT-<0.01
+___ 05:50AM BLOOD VitB12-299 Folate-6.0
+___ 05:50AM BLOOD %HbA1c-5.5 eAG-111
+___ 05:50AM BLOOD Triglyc-233* HDL-46 CHOL/HD-4.9 
+LDLcalc-134*
+___ 05:41AM BLOOD Cortsol-11.5
+___ 05:41AM BLOOD HBsAg-Negative HBsAb-Positive 
+HBcAb-Negative IgM HBc-Negative
+___ 05:41AM BLOOD HIV Ab-Negative
+___ 05:50AM BLOOD Acetmnp-NEG
+___ 01:05PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 05:41AM BLOOD HCV Ab-Negative
+
+MICRO
+=====
+__________________________________________________________
+___ 5:41 am Blood (LYME)
+
+   Lyme IgG (Pending): 
+
+   Lyme IgM (Pending): 
+__________________________________________________________
+___ 5:41 am Immunology (CMV)
+
+   CMV Viral Load (Pending): 
+__________________________________________________________
+Time Taken Not Noted     Log-In Date/Time: ___ 10:07 pm
+      URINE     Site: NOT SPECIFIED      CHEM S# ___ UCU 
+ADDED 09.08. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+IMAGING/STUDIES
+===============
+CT HEAD WO CONTRAST ___
+IMPRESSION:  
+1.  No acute intracranial abnormality. 
+2.  Bilateral symmetric calcifications within the dentate 
+nuclei, basal 
+ganglia, thalami, and subcortical frontal lobe white matter.  
+These findings are suggestive of Fahr disease or other metabolic 
+disorder such as hyperparathyroidism, hypoparathyroidism or 
+pseudohypoparathyroidism. 
+
+CXR ___
+FINDINGS:  
+Heart size is normal.  The mediastinal and hilar contours are 
+normal. The 
+pulmonary vasculature is normal. Lungs are clear.  No pleural 
+effusion or 
+pneumothorax is seen. There are no acute osseous abnormalities.  
+ 
+IMPRESSION:    
+No acute cardiopulmonary abnormality. 
+
+HIP X-RAY ___
+FINDINGS:  
+NO acute fracture or dislocation is present.  Hips are preserved 
+without 
+significant degenerative changes.  No concerning lytic or 
+sclerotic osseous abnormality is seen.  There are no radiopaque 
+foreign bodies or soft tissue calcifications.  No diastases of 
+the pubic symphysis or sacroiliac joints is present.  Mild 
+degenerative changes are noted within the lower lumbar spine.  
+No concerning soft tissue calcifications are noted.  
+IMPRESSION:  
+No acute fracture or dislocation. 
+
+EEG ___
+IMPRESSION: This is a normal EEG, awake and drowsy. Stage 2 
+sleep is not 
+recorded. No focal abnormalities or epileptiform discharges are 
+present. If clinically indicated, repeat EEG with sleep 
+recording may provide additional information. 
+
+LIVER US ___
+1.  Echogenic liver consistent with steatosis. Other forms of 
+liver disease and more advanced liver disease including 
+steatohepatitis or significant hepatic fibrosis/cirrhosis cannot 
+be excluded on this study. 
+2.  The patient is status post cholecystectomy. 
+
+DISCHARGE LABS
+==============
+___ 08:05AM BLOOD WBC-8.7 RBC-4.32 Hgb-13.2 Hct-39.8 MCV-92 
+MCH-30.6 MCHC-33.2 RDW-13.2 RDWSD-45.1 Plt ___
+___ 08:05AM BLOOD Plt ___
+___ 08:05AM BLOOD Glucose-95 UreaN-13 Creat-0.9 Na-140 
+K-3.8 Cl-101 HCO3-23 AnGap-20
+___ 08:05AM BLOOD ALT-60* AST-15 AlkPhos-77 TotBili-0.4
+___ 08:05AM BLOOD Calcium-9.1 Phos-5.5* Mg-2.1
+ 
+Brief Hospital Course:
+Patient is ___ with a hx of possible Fahr disease, L-sided 
+weakness, and prior grand mal seizures related to head trauma, 
+who presented after three syncopal events since ___, two in 
+the past week, most likely related to orthostatic hypotension, 
+possibly caused by primary neurologic disease vs. infection.
+
+# Syncope - There was concern for neurologic cause, particularly 
+considering her other ongoing neurologic issues (memory 
+loss/confusion, falls), though patient was seen by neurology who 
+did NOT feel that this was seizure.  Final EEG read ___: no 
+seizure.  CT head with chronic bilateral basal ganglia 
+calcifications, otherwise unremarkable.  NEG hip x-ray and NEG 
+CXR.  AM cortisol 11.5.  Tox screen + for opiates.  Patient had 
+normal ECG, negative troponin, and recent normal stress echo at 
+OSH.  No arrhythmias while monitored on tele throughout 
+admission.  As patient reported prodrome of 'clammy' feeling and 
+nausea prior to syncopal episodes, all three of which occurred 
+within 30min of waking, orthostasis was suspected.  Orthostatics 
+initially NEG, but later on in afternoon ___ patient noted to 
+have orthostatic hypotension (SBP 100->80).  Of note, both 
+autonomic dysfunction and orthostasis are know complications of 
+Fahr disease.  Patient had ongoing nausea and headaches, much 
+improved with Compazine.  Patient encouraged to drink copious 
+fluids, sit on edge of bed in morning before standing.  Patient 
+will f/u with Dr. ___ in Neurology ___ as outpatient, she 
+would like to discuss role of bisphosphonates. 
+
+# Transaminitis - 222/92 (ALT/AST) on admission, down-trended to 
+___ by time of discharge.  RUQ US showed steatosis.  Serum 
+acetaminophen screen NEG.  Possibly in setting of viral 
+infection (given headaches/nausea/orthostasis).  Much of 
+infectious work-up pending at time of d/c including anaplasma, 
+EBV, HSV, CMV, lyme.  HIV neg, HCV neg, HBV immune.    
+
+# Leukocytosis - WBC 12.7 on admission, resolved promptly, 8.7 
+at time of discharge. Infectious work-up in ED (CXR, UA) was 
+negative, no localizing symptoms.  Urine culture showed mixed 
+flora, skin/genital contaminant.
+
+# Fahr Disease - Basal ganglia calcifications seen on CT suggest 
+Fahr disease.  Patient reported falls and memory loss for the 
+past ___ year, all in setting of L sided weakness (deemed to be 
+give-way weakness by neurology).  Fahr disease rare, and her 
+parents are unaffected despite autosomal dominant pattern of 
+infection.  Patient will follow-up with outpatient Neurologist, 
+Dr. ___.  ___ saw patient, recommended outpatient ___ and AFO 
+custom L foot brace to prevent L foot drop.
+
+# Hyperlipidemia - Prescribed pravastatin in the past. On 
+admission, elevated cholesterol (227), triglycerides (233), and 
+LDL (134).  Patient should be on statin, held off in setting of 
+transaminitis.  Patient will follow-up with PCP.
+
+# Tobacco use disorder - 40 pack-year history. Quit 3 months 
+ago, cravings during admission, got nicotine lozenge.
+
+TRANSITIONAL ISSUES:
+====================
+- Patient has several pending infectious labs at time of 
+discharge ( anaplasma, EBV, HSV, CMV, lyme)
+- Resolving transaminitis at time of discharge (ALT/AST 60/15)
+- Patient with hyperlipidemia, should discuss benefit of statin 
+with PCP
+
+ 
+___ on ___:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Prochlorperazine 10 mg PO Q6H:PRN Nausea 
+RX *prochlorperazine maleate [Compazine] 10 mg 1 tablet(s) by 
+mouth every six (6) hours Disp #*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+=================
+Syncope
+Orthostatic hypotension
+Fahr Disease
+Transaminitis
+Leukocytosis
+
+Secondary Diagnosis
+===================
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital because you had several 
+episodes where you passed out (syncope).  A CT scan of your head 
+was normal other than chronic changes from Fahr Disease.  An 
+X-ray of your hip did not show any fracture.  We monitored your 
+heart rate and rhythm in order and determined that your heart 
+was NOT beating in an abnormal rhythm.  The neurologists came to 
+examine you.  They did not feel that you have been having 
+seizures and an EEG of your brain confirmed this.  Your blood 
+pressure was monitored, and you were found to have one episode 
+of significantly decreased blood pressure upon standing.  This 
+is called orthostatic hypotension and could very well have been 
+the cause of your syncope.  It is imperative that you drink 
+plenty of water and also make sure that you do not make sudden 
+movements from lying down/sitting to standing.  For example, you 
+should sit on the edge of your bed for ___ minutes in the 
+morning when you wake up before getting up for the day.  We also 
+checked your blood for infection.  Several tests are still 
+pending, but nothing came back positive while you were in the 
+hospital.  We will contact you should any of these tests come 
+back positive.
+
+As your symptoms may be caused by Fahr Disease, which has been 
+linked to orthostatic hypotension (low blood pressures when 
+moving from sitting to standing), you need to follow-up closely 
+with your Neurologist, Dr. ___.  You can discuss the role of 
+being treated with a Bisphosphonate.  You should call Dr. 
+___ office to set up an appointment over the next ___ days 
+(___).  
+
+The physical therapists came to see you given that you have been 
+having falls at home.  They suggested that you wear a brace on 
+your left foot.  You should also have ongoing physical therapy 
+once you leave the hospital.  We have written prescriptions for 
+both the brace and physical therapy. 
+
+You initially had elevated liver tests, the cause of which is 
+unclear.  An ultrasound of your liver showed chronic fatty 
+infiltration of your liver.  The liver tests decreased to near 
+normal at time of discharge from the hospital.  You should 
+follow-up with your primary care doctor about this issue.
+
+It has been a pleasure taking care of you!
+
+Sincerely,
+
+Your ___ Care Team     
+ 
+Followup Instructions:
+___

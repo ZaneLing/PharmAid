@@ -1,0 +1,278 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain, "muscle spasm" in chest
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization (right radial access) ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ without significant PMH presented to ___ 
+___ with progressive abdominal pain, chills, nausea, and 
+developed intermittent muscle spasms in her chest, transferred 
+to ___ after Troponin found to be elevated.
+
+She initially reported to ___ nurse phone line that she had 
+abdominal pain, initially periumbilical, then radiating to both 
+sides of lower abdomen and becoming more diffuse, started ~3 pm 
+___. Around 4 pm she developed a "muscle spasm" in her chest 
+that traveled up to her neck, was not associated with heartburn. 
+Took Zantac and TUMS without effect, then proceeded to OSH ED. 
+Denied significant CP/SOB, fever, vomiting, or diarrhea. Did 
+report feeling gassy. Had BM on day of admission, reportedly 
+"normal."
+
+Abdominal pain improved without intervention and she remained 
+symptom free in OSH ED. CT A/P reportedly with no acute process. 
+LFTs mildly elevated but appeared at baseline per Atrius 
+records.
+
+EKG showed poor R wave progression, possible RSR' in V1 or V2, 
+right VCD or RVH, no ischemic changes.
+
+Troponin noted to be 0.02, then 0.03, therefore patient was 
+transferred to ___ for further evaluation. Received Asa 325 
+@11pm ___ SQ, Lovenox @ 6am ___ prior to transfer.
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Hyperglycemia without diagnosed diabetes
+- Dyslipidemia without previous statin 
+2. CARDIAC HISTORY
+- Mitral valve prolapse diagnosed in her ___
+3. OTHER PAST MEDICAL HISTORY  
+Anxiety
+Bronchoconstriction
+Elevated LFTs / Fatty liver
+Episcleritis of right eye 
+ 
+Social History:
+___
+Family History:
+No FH premature CAD, no sudden cardiac death, arrhythmias
+
+Mother: leukemia, DVT in ___ I/s/o leukemia, DM in ___
+Father:  Cancer - ___ bladder cancer 
+Maternal Grandfather: cancer 
+___ Grandmother: ___, MI in her ___ 
+Paternal Grandfather: cancer
+Sister: Cancer - Breast 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+VS: T 98.1 BP 144/86 HR 87 RR 19 O2 SAT 99 RA  
+GENERAL: WDWN ___ in NAD. Oriented x3. Mood, affect appropriate. 
+ 
+HEENT: NCAT. Sclera anicteric. EOMI. Conjunctiva were pink, no 
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple with JVP not elevated.  
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. 
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: Trace ___ edema, WWP, no cyanosis. 
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas. 
+Punctate forearm excorations
+PULSES: 2+ DPs 
+
+DISCHARGE PHYSICAL EXAM:
+VS: T 97.7 BP 125/79 HR 76 RR 19 O2 SAT 99 RA  
+GENERAL:  Oriented x3. Mood, affect appropriate despite headache
+HEENT: NCAT. Sclera anicteric.   
+NECK: Supple with JVP flat.  
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. 
+LUNGS: CTAB. No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND.  
+EXTREMITIES: No ___ edema, WWP, no cyanosis. 
+SKIN: No rashes
+ 
+Pertinent Results:
+ADMISSION LABS:
+----------------
+___ 07:35AM BLOOD WBC-7.5 RBC-4.73 Hgb-14.6 Hct-42.8 MCV-91 
+MCH-30.9 MCHC-34.1 RDW-12.1 RDWSD-39.8 Plt ___
+___ 07:35AM BLOOD Neuts-64.7 ___ Monos-6.7 Eos-2.4 
+Baso-0.8 Im ___ AbsNeut-4.86 AbsLymp-1.88 AbsMono-0.50 
+AbsEos-0.18 AbsBaso-0.06
+___ 07:35AM BLOOD ___ PTT-36.0 ___
+___ 07:35AM BLOOD Glucose-108* UreaN-11 Creat-0.7 Na-140 
+K-3.8 Cl-101 HCO3-23 AnGap-20
+___ 07:35AM BLOOD ALT-54* AST-39 LD(LDH)-378* CK(CPK)-253* 
+AlkPhos-72 TotBili-0.3
+___ 07:35AM BLOOD cTropnT-0.02*
+___ 07:35AM BLOOD CK-MB-5
+___ 07:35AM BLOOD Albumin-4.0 Cholest-193
+___ 07:35AM BLOOD %HbA1c-5.8 eAG-120
+___ 07:35AM BLOOD Triglyc-114 HDL-53 CHOL/HD-3.6 
+LDLcalc-117
+
+DISCHARGE LABS:
+----------------
+___ 07:40AM BLOOD WBC-6.6 RBC-4.23 Hgb-12.9 Hct-38.6 MCV-91 
+MCH-30.5 MCHC-33.4 RDW-12.5 RDWSD-41.5 Plt ___
+___ 07:40AM BLOOD Glucose-119* UreaN-15 Creat-0.6 Na-142 
+K-4.1 Cl-106 HCO3-27 AnGap-13
+___ 07:40AM BLOOD Calcium-8.5 Phos-3.6 Mg-2.1 Iron-97
+___ 07:40AM BLOOD calTIBC-348 Ferritn-47 ___-___
+
+MICROBIOLOGY:  NONE
+--------------------
+
+IMAGING:
+----------
+CARDIAC CATH ___
+Coronary Anatomy 
+Dominance: Right
+* Left Main Coronary Artery: The LMCA is non obstructive
+* Left Anterior Descending: 
+   The LAD is large vessel and is non-obstructive
+   The ___ Diagonal is.
+* Circumflex
+   The Circumflex has a ___ smooth contoured mid vessel 
+stenosis
+   The ___ Marginal is non obstructive
+* Right Coronary Artery
+   The RCA is dominant and is non obstructive
+   The Right PDA is non-obstructive
+
+Impressions:
+1. Minimal to mild single vessel CAD in this right dominant 
+coronary system
+2. Normal LV filling pressures
+
+Recommendations
+1. No hemodyamically significant CAD identified
+2. Continue primary risk factor modification
+
+TTE ___
+The left atrium is normal in size. Left ventricular wall 
+thickness, cavity size, and global systolic function are normal 
+(LVEF = 65%). Tissue Doppler imaging suggests a normal left 
+ventricular filling pressure (PCWP<12mmHg). Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic stenosis. Trace aortic 
+regurgitation is seen. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. The estimated 
+pulmonary artery systolic pressure is normal. There is no 
+pericardial effusion.  
+ 
+Brief Hospital Course:
+___ with PMH hyperlipidemia, previous history of moderate 
+tobacco use, who presented to OSH with epigastric pain and chest 
+discomfort/"muscle spasm pain," transferred to ___ for ___ in 
+the setting of mild troponin elevation.
+
+# Atypical Chest Pain
+# Abdominal Pain
+# Elevated Troponin
+# Non-obstructive single vessel CAD
+Patient presented with chest pain that she described as "muscle 
+spasm" radiating up her neck, associated with periumbilical 
+abdominal pain that dissipated without any intervention. 
+Nonexertional and intermittent. CT A/P at ___ negative 
+for acute abdominal process. Troponin mildly elevated to 0.02, 
+peaked at 0.03, and patient was transferred to ___. Had no EKG 
+changes. No history of CAD and patient denies classic "chest 
+pain." LHC ___ showed "Minimal to mild single vessel CAD in 
+this right dominant coronary system." Given no explanation for 
+minimally elevated troponin (no recent viral infection, etc) an 
+ECHO was performed which was normal (LVEF 65%, no dCHF, no 
+valvular abnormalities appreciated). Patient was started on 
+aspirin 81 mg daily and atorvastatin 40 mg QHS for primary 
+prevention.
+
+# Transaminitis
+# History of Hepatic Steatosis
+Patient has history of mildly elevated liver enzymes and 
+echogenic liver parenchyma seen on u/___. CT A/P with 
+homogenous attenuation of the liver. No RUQ tenderness. Iron 
+studies were drawn to evaluate for hemochromatosis, were WNL. 
+
+# Hyperglycemia: Patient noted to be hyperglycemic on numerous 
+chem panels outpatient and on admission. No diagnosed diabetes. 
+Hb A1c 5.8%, pre-diabetic range.
+
+# Dyslipidemia: Started atorvastatin 40 mg QHS.
+
+Transitional issues:
+- ongoing outpatient work up of epigastric discomfort
+- started Aspirin 81 mg daily, Atorvastatin 40 mg QHS for 
+primary prevention
+- Hb A1c 5.8%, recommend further discussion outpatient
+- please follow LFTs closely now that patient is on a statin
+
+# CODE:  Full (confirmed)
+# CONTACT: HCP:  ___ ___ (home); ___ 
+___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. estradiol ___ mL transdermal BID 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Ibuprofen 400 mg PO Q8H:PRN Pain - Moderate  
+4.  estradiol ___ mL transdermal BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Epigastric pain, not otherwise specified
+Cornary artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+Why were you admitted to the hospital?
+- high abdominal pain that was new
+- mildly abnormal heart enzyme level in the blood
+
+What was done in the hospital?
+- cardiac catheterization showed minimal to mild coronary artery 
+disease
+- you were started on new medications for coronary artery 
+disease
+- ECHO (ultrasound of the heart) was performed to look at the 
+heart muscle and valve function, which was normal
+- monitored on telemetry (heart monitor) without abnormalities 
+or arrhythmias
+
+What should you do when you go home?
+- review your new medications and take as prescribed
+- follow up with your primary care doctor in ___ weeks 
+
+Sincerely, 
+Your ___ Team
+ 
+Followup Instructions:
+___

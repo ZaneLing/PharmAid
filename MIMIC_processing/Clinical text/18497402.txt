@@ -1,0 +1,390 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ male who presents to ___ ___ on
+___ with a mild TBI after an unwitnessed fall. The patient
+states he was going to the bathroom when he fell forward and hit
+his face on the floor. He has a history of mild dementia and
+lives in a nursing home. He was found down and transported to ___, where CT showed SAH. He was transferred to ___ for
+neurosurgical evaluation.
+
+Mechanism of trauma: unwitnessed fall, presumed standing height
+ 
+Past Medical History:
+Anxiety/depression
+Arthritis
+Insomnia
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+==========================
+VS: T: 98.6F, HR: 84, BP: 163/82, RR: 16, SpO2 97% RA
+
+GCS at the scene: unknown
+
+GCS upon Neurosurgery Evaluation: 14, Time of evaluation: ___
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [x]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam:
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: Laceration, repaired, left lateral orbit. Mild 
+surrounding
+edema and ecchymosis.
+Neck: Supple
+Extrem: warm and well perfused
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to person, 
+                         "___" for place,
+                         ___ for date.
+
+Language: Speech is fluent with good comprehension. 
+
+If Intubated:
+  [ ]Cough  [ ]Gag  [ ]Over breathing the vent [x]N/A
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to 2
+mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout*. No pronator drift. 
+
+
+*Bilateral deltoids restricted, patient says it's from his
+arthritis, strength is full.
+
+Sensation: Intact to light touch
+
+DISCHARGE PHYSICAL EXAM
+========================
+VS:  24 HR Data (last updated ___ @ 817)
+    Temp: 98.5 (Tm 98.5), BP: 165/85 (115-165/68-85), HR: 66
+(61-78), RR: 18 (___), O2 sat: 98% (96-98), O2 delivery: Ra  
+GENERAL: Elderly, frail male in NAD  
+HEENT: NC, laceration over left eye with sutures in place. EOMI,
+PERRL, anicteric sclera, pink conjunctiva, MMM  
+NECK: nontender supple neck, no LAD, no JVD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: Right hand swollen with erythema on dorsal aspect
+near first finger. Ecchymosis overlying left upper arm. Large
+ecchymosis on left thigh larger than ___ with firm though not
+tense subcutaneous collection. No cyanosis, clubbing or edema,
+moving all 4 extremities with purpose 
+NEURO: CN II-XII intact. ___ strength throughout. Moving all 4
+extremities with purpose. AAOx3, no focal deficits.
+SKIN: warm and well perfused
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 06:28AM BLOOD WBC-10.7* RBC-4.95 Hgb-15.7 Hct-46.8 
+MCV-95 MCH-31.7 MCHC-33.5 RDW-13.6 RDWSD-47.3* Plt ___
+___ 06:28AM BLOOD Neuts-85.7* Lymphs-6.0* Monos-6.8 
+Eos-0.6* Baso-0.2 Im ___ AbsNeut-9.17* AbsLymp-0.64* 
+AbsMono-0.73 AbsEos-0.06 AbsBaso-0.02
+___ 06:28AM BLOOD Glucose-108* UreaN-24* Creat-0.8 Na-137 
+K-4.3 Cl-97 HCO3-26 AnGap-14
+
+PERTINENT LABS
+=================
+___ 11:46PM BLOOD WBC-10.9* RBC-4.39* Hgb-13.8 Hct-41.4 
+MCV-94 MCH-31.4 MCHC-33.3 RDW-13.5 RDWSD-46.8* Plt ___
+___ 06:37AM BLOOD WBC-8.1 RBC-4.09* Hgb-12.6* Hct-38.9* 
+MCV-95 MCH-30.8 MCHC-32.4 RDW-13.5 RDWSD-47.4* Plt ___
+___ 01:05PM BLOOD WBC-9.1 RBC-4.03* Hgb-12.6* Hct-38.2* 
+MCV-95 MCH-31.3 MCHC-33.0 RDW-13.5 RDWSD-47.2* Plt ___
+
+DISCHARGE LABS
+================
+___ 03:46AM BLOOD WBC-7.5 RBC-4.17* Hgb-12.7* Hct-39.0* 
+MCV-94 MCH-30.5 MCHC-32.6 RDW-13.3 RDWSD-45.4 Plt ___
+___ 03:46AM BLOOD Glucose-97 UreaN-29* Creat-1.0 Na-140 
+K-4.8 Cl-102 HCO3-25 AnGap-13
+___ 03:46AM BLOOD Calcium-9.0 Phos-3.1 Mg-1.9
+
+IMAGING STUDIES
+==================
+CT SINUS/MANDIBLE/MAXILLOFACIAL WO CON
+1. No fracture.
+2. Tissue swelling hematoma the left periorbital region with a
+laceration extending nearly to the left orbital rim periosteum.
+3. Much better evaluated on the outside facility head CT is
+extra-axial hemorrhage, which is predominantly subarachnoid on
+this study seen layering in right frontal sulci. There is also
+increased hyperdense blood products in the quadrigeminal plate
+cistern. Ventricles are incompletely assessed but appear similar
+in size. A dedicated head CT would be better at evaluating the
+extent of intracranial hemorrhage and any interval change.
+
+CT HEAD WO CON
+New subarachnoid blood products are seen in the quadrigeminal
+plate cistern. Other predominantly subarachnoid blood products
+layering in the right frontal and parietal sulci are similar.
+There may be also a component of subdural blood products
+overlying the right frontal lobe. No significant midline shift.
+Ventricular size is stable.
+
+CT PELVIS WO CON
+1. 4 x 7 x 3 cm subcutaneous hematoma overlying the left hip.
+Cannot assess for the presence of active extravasation given the
+lack of IV contrast. Adjacent extensive subcutaneous edema
+overlying the left hip. Some of this may be extension of
+hematoma.
+2. No acute fracture dislocation seen.
+3. Hypodensity in the soft tissue anterolateral and superior to
+the bilateral hips may relate to joint effusions and/or calcific
+bursitis.
+4. Trabeculated urinary bladder with multiple bladder 
+diverticula
+seen. 
+
+CT TORSO W/ CONTRAST
+1. Re-demonstrated 6.4 x 3.5 cm subcutaneous hematoma overlying
+the left hip, unchanged in size compared to CT of the pelvis 
+from
+___. 
+2. No other hematoma, acute fractures, or evidence of traumatic
+injury in the chest, abdomen or pelvis. 
+3. Right middle lobe pulmonary nodule measuring 8 mm.  See below
+for recommendations. 
+RECOMMENDATION(S):  For incidentally detected single solid
+pulmonary nodule measuring 6 to 8 mm, a CT follow-up in 6 to 12
+months is recommended in a low-risk patient, optionally followed
+by a CT in ___ months. In a high-risk patient, a CT follow-up
+in 6 to 12 months, and a CT in ___ months is recommended. 
+
+SHOULD XR
+No dislocation nor subluxation.
+
+R HAND XRAY
+No definite fracture is seen.  There are severe degenerative
+changes at the first metacarpophalangeal joint, with loss of
+joint space and volar subluxation, although no definite fracture
+line is seen.  A well corticated osseous fragment along the 
+volar
+surface of the first metacarpal head is chronic in appearance. 
+
+LEFT HIP XR
+No acute fracture or dislocation seen.  Left greater than right
+bilateral hip degenerative changes, as above. 
+
+MICROBIOLOGY
+==============
+Urine culture with mixed flora
+ 
+Brief Hospital Course:
+___ year old male with HTN, HLD, anxiety/depression, and CKD III 
+presented from nursing home with subarachnoid hemorrhage after a 
+mechanical fall.
+
+TRANSITIONAL ISSUES
+=====================
+[ ] Incidental pulmonary nodule - 8mm pulmonary nodule noted on 
+imaging. Per radiology recs, a CT follow-up in 6 to 12 months is 
+recommended in a low-risk patient, optionally followed by a CT 
+in ___ months. In a high-risk patient, a CT follow-up in 6 to 
+12 months, and a CT in ___ months is recommended.
+[ ] Slightly long QT - noted on admission ECG. Trazodone was 
+held as it can prolong QTc, can consider restarting in the 
+outpatient setting vs. using melatonin/ramelteon for insomnia.
+[ ] Keppra - patient to continue taking levetiracetam 500mg BID 
+for 7 days (to complete course on ___ per neurosurgery 
+recommendations.
+
+ACUTE ISSUES
+=============
+# Mechanical fall
+Patient presented after sustaining a fall at his nursing home. 
+Per his report, he was bending over to pick up his wife's shoes 
+when he slipped over bags that were on the floor. He denied any 
+precedent lightheadedness, dizziness, nausea, chest pain, and 
+shortness of breath. He does not remember much after the fall, 
+likely consistent with LOC that was attributed to his 
+subarachnoid hemorrhage. Overall, his presentation was most 
+consistent with a mechanical fall, however he was monitored on 
+telemetry while inpatient without any arrhythmias (only very 
+brief sinus pauses (<1.5 seconds) while sleeping, felt to be 
+non-pathologic).
+
+# Subarachnoid hemorrhage
+Evaluated by neurosurgery in the ED, who recommended 
+nonoperative management. He received q4hr neurologic checks that 
+were consistently without focal deficit. Per neurosurgery 
+recommendations, all anticoagulants should be held for 7 days. 
+He should also follow up in concussion clinic as indicated in 
+this packet.
+
+# Left thigh hematoma
+Noted on imaging in the ED and was felt to be the most likely 
+cause of his hemoglobin downtrend while hospitalized. His 
+hemoglobin stabilized on ___ at ~12.5.
+
+CHRONIC ISSUES
+===============
+# HTN
+Not on any antihypertensives at home. Normotensive while 
+hospitalized.
+
+# CKD III
+Reported on nursing home paperwork, though Cr 0.8 with estimated 
+GFR > 75.
+
+# Insomnia
+Held home trazodone in the setting of slightly long QTc. Can be 
+restarted on an outpatient basis if QTc normalizes.
+
+#CODE: Full code
+#CONTACT: 
+Name of health care proxy: ___ 
+Relationship: Son 
+Phone number: ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sertraline 12.5 mg PO DAILY 
+2. Muscle Rub (methyl salicylate-menthol) ___ % topical QHS 
+3. Cold and Hot Pain Relief (menthol;<br>methyl 
+salicylate-menthol) 5 % topical QAM 
+4. TraMADol 50 mg PO BID 
+5. TraZODone 75 mg PO QHS:PRN insomnia 
+6. Voltaren (diclofenac sodium) 1 % topical TID 
+7. Bisacodyl 10 mg PR QHS:PRN Constipation - First Line 
+8. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+9. Milk of Magnesia 30 mL PO PRN Constipation - First Line 
+
+ 
+Discharge Medications:
+1.  LevETIRAcetam 500 mg PO BID Duration: 5 Days 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice daily Disp 
+#*10 Tablet Refills:*0 
+2.  TraMADol 50 mg PO BID:PRN Pain - Moderate 
+RX *tramadol 50 mg 1 tablet(s) by mouth twice daily Disp #*15 
+Tablet Refills:*0 
+3.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+4.  Bisacodyl 10 mg PR QHS:PRN Constipation - First Line  
+5.  Cold and Hot Pain Relief (menthol;<br>methyl 
+salicylate-menthol) 5 % topical QAM  
+6.  Diclofenac Sodium ___ ___ sodium) 1 % topical TID  
+7.  Milk of Magnesia 30 mL PO PRN Constipation - First Line  
+8.  Muscle Rub (methyl salicylate-menthol) ___ % topical QHS  
+9.  Sertraline 12.5 mg PO DAILY  
+10. HELD- TraZODone 75 mg PO QHS:PRN insomnia  This medication 
+was held. Do not restart TraZODone until you are seen by your 
+outpatient doctors.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+===================
+Mechanical fall
+Subarachnoid hemorrhage
+Thigh hematoma
+
+Secondary Diagnoses
+====================
+Hypertension
+CKD III
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ from ___.
+
+WHY WERE YOU ADMITTED?
+- You fell at your rehab facility and had bleeding into your 
+brain.
+
+WHAT HAPPENED WHILE YOU WERE ADMITTED?
+- You were seen by our neurosurgeons, who did not think you 
+needed surgery.
+- We treated your pain.
+
+WHAT SHOULD YOU DO AFTER YOU LEAVE THE HOSPITAL?
+- Take all of your medications as prescribed.
+- Follow up with your outpatient doctors.
+
+It was a pleasure caring for you!
+
+Sincerely,
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___

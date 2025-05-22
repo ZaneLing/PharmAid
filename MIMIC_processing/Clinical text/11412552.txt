@@ -1,0 +1,255 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+NSAIDS (Non-Steroidal Anti-Inflammatory Drug) / Androgenic 
+Anabolic Steroid / Sulfa (Sulfonamide Antibiotics) / Persulfates
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Palpitations
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with PMH of Crohn's disease
+(currently well controlled on Imuran and Humira) and a
+questionable history of SVT years ago who presents with
+palpitations that started 4:30 in the morning on the day of the
+presentation. 
+
+The patient reports that this morning, she developed 
+palpitations
+that woke her up from sleep. At first, she thought she may be
+dehydrated (has had palpitations in the past with dehydration)
+and began to drink water and decided to go to work. En route to
+work as a ___, she felt very dizzy and had to stop three
+times prior to arriving. While at work, her palpitation symptoms
+worsened and she decided to place a monitor on herself which was
+notable for HR in 120s. She then performed a 4 lead EKG which
+showed a new LBBB followed by a 12 lead which again showed the
+LBBB. Given that her father had a MI associated with LBBB, she
+decided to come to the ED for further management.  
+
+Of note, prior to this episode the patient was feeling overall
+well. No fevers, chills, recent illnesses, nausea, vomiting or
+urinary symptoms. She is very active at baseline working as an
+___ and a ___ without reports of anginal symptoms. She
+denies any ___ swelling, orthopnea, recent weight gain or changes
+in medications. No known family history of arrhythmia.
+
+In the ED, initial VS were:
+99.2   113   170/90   22  98% RA   
+
+Exam notable for: 
+Cardiac exam without any m/r/g, JVP approximately 7 cm H2O, no
+lower extremity edema. 
+
+ECG:  sinus rhythm 92 bpm and intermittent left bundle branch
+block (likely dependent per EP)
+
+Labs showed: 
+WBC-7.3  HgB-14.5  ___      AGap=13 
+-------------<80
+3.9  23  0.6 
+  
+
+Trop-T: <0.01 x2  
+___: 11.6  PTT: 25.0  INR: 1.1 
+
+Imaging showed:
+CXR: No focal consolidation to suggest pneumonia.  
+
+Consults: EP was consulted who recommended admission to ___ for
+telemetry monitoring and TTE to assess for structural pathology 
+
+Patient received: Nothing 
+
+Transfer VS were:  
+80   142/84   16  96% RA 
+
+On arrival to the floor, patient reports continued palpitations
+with associated nausea. They have become more bothersome and she
+is asking for medications to help "calm her down." No chest pain
+or SOB. 
+ 
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as
+per HPI  
+ 
+
+ 
+Past Medical History:
+-Crohn's Disease
+-Possible history of SVT 
+ 
+ 
+Social History:
+___
+Family History:
+Notable for father and grandfather with MI. No known family
+history of arrhythmias or sudden cardiac death.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: 98.5PO   139/74  82  16  98% RA 
+GENERAL: Laying comfortably in bed, NAD
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM  
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: soft, nondistended, nontender in all quadrants
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose 
+
+DISCHARGE PHYSICAL EXAM
+___ 0750 Temp: 98.4 PO BP: 117/81 R Sitting HR: 76 RR: 18 
+O2
+sat: 98% O2 delivery: Ra 
+GENERAL: Laying comfortably in bed, NAD
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: soft, nondistended, nontender in all quadrants
+EXTREMITIES: no cyanosis, clubbing, or edema  
+NEURO: A&Ox3, moving all 4 extremities with purpose   
+ 
+Pertinent Results:
+ADMISSION LABS
+=================
+___ 01:42PM BLOOD WBC-7.3 RBC-4.45 Hgb-14.5 Hct-41.1 MCV-92 
+MCH-32.6* MCHC-35.3 RDW-11.9 RDWSD-40.4 Plt ___
+___ 02:22PM BLOOD ___ PTT-25.7 ___
+___ 04:00PM BLOOD Glucose-80 UreaN-9 Creat-0.6 Na-141 K-3.9 
+Cl-105 HCO3-23 AnGap-13
+___ 01:42PM BLOOD cTropnT-<0.01
+___ 04:00PM BLOOD cTropnT-<0.01
+___ 04:00PM BLOOD TSH-0.95
+
+DISCHARGE LABS
+===================
+___ 07:35AM BLOOD WBC-4.9 RBC-4.56 Hgb-15.1 Hct-43.4 MCV-95 
+MCH-33.1* MCHC-34.8 RDW-11.9 RDWSD-41.3 Plt ___
+___ 07:35AM BLOOD Glucose-85 UreaN-7 Creat-0.7 Na-140 K-4.5 
+Cl-105 HCO3-23 ___ TTE:
+The left atrial volume index is mildly increased. No atrial 
+septal defect is seen by 2D or color Doppler. Left ventricular 
+wall thickness, cavity size and regional/global systolic 
+function are normal (LVEF >60%). Tissue Doppler imaging suggests 
+a normal left ventricular filling pressure (PCWP<12mmHg). The 
+right ventricular cavity is mildly dilated with normal free wall 
+contractility. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic stenosis or 
+aortic regurgitation. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. There is no mitral 
+valve prolapse. The estimated pulmonary artery systolic pressure 
+is normal. There is no pericardial effusion. 
+
+IMPRESSION: Normal biventricular systolic function. No 
+pathologic valvular flow. Sinus rhythm with frequent ectopy (? 
+APBs with abberancy versus VPBs).  
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old female with PMH of Crohn's disease 
+and possible SVT who presents to the ED with 1 day history of 
+palpitations found to have new LBBB.
+
+ACUTE ISSUES: 
+==============
+#Palpitations
+#New LBBB:
+Patient presented with 1 day history of palpitations with 
+associated lightheadedness and nausea found to occasional runs 
+of LBBB that is most likely rate related. Attempted to reproduce 
+LBBB with patient ambulating with HRs in 100-110s, but this did 
+not occur. No associated chest pain or history of anginal 
+symptoms, and troponin negative x2 making ACS unlikely. TSH 
+normal. EP evaluated the patient. She was monitored on telemetry 
+and noted to have occasional PVC and is likely the cause of 
+palpitations. LBBB in itself would not cause palpitations 
+themselves. She had a TTE done with normal biventricular 
+function, no valvular abnormalities. Patient was reassured and 
+discharged. 
+
+CHRONIC ISSUES: 
+================
+#Crohn's Disease: Symptoms currently well controlled on 
+azathioprine and Humira.
+-Continued home azathioprine 150mg qHS
+
+TRANSITIONAL ISSUES
+=======================
+[]no further workup needed for rate related LBBB
+[]can consider ___ of heart monitor and beta blocker if 
+palpitations very symptomatic
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 40 mg PO BID 
+2. AzaTHIOprine 150 mg PO DAILY 
+3. Humira (adalimumab) 40 mg/0.8 mL subcutaneous EVERY 2 WEEKS 
+4. Ondansetron 4 mg PO Q8H:PRN nausea 
+5. Promethazine 12.5 mg PO Q6H:PRN nausea 
+6. loperamide 2 mg oral Q8H:PRN 
+
+ 
+Discharge Medications:
+1.  AzaTHIOprine 150 mg PO DAILY  
+2.  Humira (adalimumab) 40 mg/0.8 mL subcutaneous EVERY 2 WEEKS 
+(MO)  
+3.  loperamide 2 mg oral Q8H:PRN  
+4.  Omeprazole 40 mg PO BID  
+5.  Ondansetron 4 mg PO Q8H:PRN nausea  
+6.  Promethazine 12.5 mg PO Q6H:PRN nausea  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+Palpitations
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you.
+
+Why you were admitted?
+-You were admitted because you were having palpitations and 
+intermittent left bundle branch block.
+
+What we did for you?
+-Your left bundle branch block is likely related when your heart 
+rate goes up although this phenomenon is not always 
+reproducible. 
+-Your palpitations are likely related to ventricular premature 
+beats. These are not dangerous.
+
+What should you do when you leave the hospital?
+-Please take all your medications as prescribed.
+-Please follow up with your primary care doctor.
+
+We wish you the best,
+Your ___ team
+ 
+Followup Instructions:
+___

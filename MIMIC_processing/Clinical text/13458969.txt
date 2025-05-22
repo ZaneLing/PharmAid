@@ -1,0 +1,183 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+latex
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS: 
+___ 11:00PM BLOOD WBC-7.5 RBC-3.95 Hgb-11.5 Hct-35.4 MCV-90 
+MCH-29.1 MCHC-32.5 RDW-11.4 RDWSD-37.1 Plt ___
+___ 11:00PM BLOOD Neuts-43.0 ___ Monos-6.8 Eos-1.7 
+Baso-0.8 Im ___ AbsNeut-3.24 AbsLymp-3.56 AbsMono-0.51 
+AbsEos-0.13 AbsBaso-0.06
+___ 11:00PM BLOOD Glucose-346* UreaN-9 Creat-0.7 Na-137 
+K-3.9 Cl-104 HCO3-22 AnGap-11
+___ 11:00PM BLOOD ALT-10 AST-15 AlkPhos-48 TotBili-0.3
+___ 11:00PM BLOOD Albumin-4.2
+___ 11:00PM BLOOD TSH-5.3*
+___ 11:00PM BLOOD Free T4-1.4
+___ 06:33AM BLOOD %HbA1c-9.5* eAG-226*
+___ 11:07PM BLOOD Lactate-1.0
+
+___ 05:04PM URINE Color-Straw Appear-Clear Sp ___
+___ 05:04PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-TR* Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+
+STUDIES: 
+
+CHEST (PA & LAT) Study Date of ___  
+No evidence of pneumonia.
+
+LIVER OR GALLBLADDER US (SINGLE ORGAN) Study Date of ___  
+
+Normal abdominal ultrasound.
+
+DISCHARGE LABS: 
+___ 09:54AM BLOOD WBC-5.3 RBC-3.83* Hgb-11.1* Hct-34.7 
+MCV-91 MCH-29.0 MCHC-32.0 RDW-11.7 RDWSD-38.6 Plt ___
+___ 09:54AM BLOOD Glucose-231* UreaN-8 Creat-0.7 Na-142 
+K-4.2 Cl-107 HCO3-25 AnGap-10
+___ 09:54AM BLOOD Calcium-8.3* Phos-2.9 Mg-2.0
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old female who presented from ___ 
+___ with RUQ abdominal pain. 
+
+ACUTE ISSUES:
+=============
+# RUQ Abdominal pain 
+She presented to OSH multiple times recently for RUQ pain. 
+Initial concern was for cholecystitis or gallbladder pathology. 
+U/S and CT A/P did not reveal stones, sludge, or wall 
+thickening, however. She also had HIDA scan outpatient that was 
+overall unremarkable but note that "The slender appearance of 
+the gallbladder precluded evaluation for ejection fracture." At 
+___, RUQ U/S was again normal and LFTs were normal. She was 
+evaluated by ACS in ED who did not recommend any operative 
+intervention. She was admitted for ongoing abdominal pain, 
+nausea, with inability to tolerate PO. Differential includes 
+functional abdominal pain, gastroparesis, functional gallbladder 
+disorder, biliary dyskinesis, IBS (reports alternating 
+constipation and diarrhea), MSK etiology (pain worse with 
+movement, positional, pinpoint tenderness over rib), or even 
+psychosomatic component (abdominal pain starts immediately as 
+she puts food in her mouth) perhaps related to an adjustment 
+disorder in the setting of chronic illness (Type 1 diabetes). 
+She was treated with tylenol, Toradol, zofran, reglan. After 
+eating the night of ___ she asked to be discharged. Given 
+her improvement in symptoms and ability to tolerate PO intake, 
+she was released from the hospital.
+
+# Type 1 diabetes 
+She was hypoglycemic in ED to ___ in setting of limited PO. She 
+was seen by ___ this admission for her insulin pump. She had 
+good understanding of her pump and knows to decrease her basal 
+insulin by 50% if truly NPO. 
+
+CHRONIC ISSUES:
+===============
+# Hypothyroidism: Continued synthroid
+
+# Recurrent vulvovaginal candidasis: Continued fluconazole once 
+weekly x 6 weeks
+
+# Asthma: Continued albuterol PRN for dyspnea
+
+TRANSITIONAL ISSUES: 
+=====================
+
+[] Monitor blood sugar control. A1C 9.5% this admission. 
+[] Monitor for recurrence of abdominal pain. Recommending 
+avoiding opioids which could ultimately cause harm if the issue 
+becomes chronic. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 112 mcg PO DAILY 
+2. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea 
+3. Fluconazole 150 mg PO 1X/WEEK (TH) 
+4. Insulin  Pump SC (Self Administering Medication)Insulin 
+Lispro (Humalog)
+Target glucose: 80-180
+
+ 
+Discharge Medications:
+1.  Insulin  Pump SC (Self Administering Medication)Insulin 
+Lispro (Humalog)
+
+Basal Rates:
+  Midnight - 8PM:  .5 Units/Hr
+  8PM - midnight:  .55 Units/Hr
+Meal Bolus Rates:
+  Breakfast = 1:22
+  Lunch = 1:22
+  Dinner = 1:22
+  Snacks = 1:22
+High Bolus:
+  Correction Factor = 1:100
+  Correct To ___ mg/dL
+
+ 
+2.  Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea  
+3.  Fluconazole 150 mg PO 1X/WEEK (TH)  
+4.  Levothyroxine Sodium 112 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Abdominal pain
+
+SECONDARY DIAGNOSES
+Type I DM
+Hypothyroidism
+Vulvovaginal candiasis 
+Asthma 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were sent to ___ for abdominal pain and to be evaluated by 
+surgery. Surgery did not feel that you had any infection or 
+blockage in your gallbladder. 
+
+You were given pain medications. While you were not eating much, 
+the ___ Diabetes service was consulted who adjusted your 
+insulin pump settings. 
+
+Since you were eating and drinking well, we felt you were safe 
+to go home. Please continue to monitor your blood sugars and 
+adjust your insulin pump per your Endocrinologist's 
+recommendations.
+
+It was a pleasure caring for you.
+
+Sincerely,
+
+Your ___ Healthcare Team
+ 
+Followup Instructions:
+___

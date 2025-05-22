@@ -1,0 +1,313 @@
+Name:  ___         ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Ciprofloxacin Hcl / Iodine Containing Agents Classifier
+ 
+Attending: ___
+ 
+Chief Complaint:
+Language difficulties
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+HPI: The pt is a ___ year-old right-handed former smoker with a
+past medical history including HTN, HLD who presented with an
+acute change in mental status and, subsequently, difficulties
+with language that prompted a code stroke.
+
+The pt's wife explains her husband was in his usual state of
+health upon awakening on the day of admission.  The two enjoyed
+lunch together at about 1:15 pm (at which time the pt was last
+well).  The pt's wife ran an errand and returned home about 2pm. 
+
+At that time, her husband said he "felt funny in his head."
+Although he has reportedly never used recreational drugs, he
+compared the sensation to tripping on LSD.  As he seemed
+increasingly confused, she brought him to the ___ where he
+underwent a non-contrast head CT (which was found to be
+negative).  Upon his return to the room, he began to use
+"non-sensical" words and exhibit difficulties with 
+comprehension.
+Accordingly, a code stroke was called.
+
+Upon our evaluation, the pt did not address questions directly. 
+He did spontaneously (and repeatedly) volunteer phrases such as
+"My head hurts; what do I do about that?  Can I have an 
+aspirin?"
+and "my mind is really screwed up," and " who are you?"  His 
+wife
+also thought he had composed some novel words.  The pt could not
+identify his wife or remember meeting members of the care team. 
+His wife denied similar episodes in the past.
+
+The pt's wife denies focal weakness, numbness, facial asymmetry,
+slurred speech, incontinenece, and tonic/clonic activity.  She
+denies recent medication changes.  She denies the pt's use of
+non-prescription drugs.  The pt has no h/o cardiac arrythmias 
+and
+dose not use asa or coumadin.
+
+___ STROKE SCLAE score: 4
+
+1a. Level of Consciousness: 0
+1b. LOC Question: 2 (pt could not give the month or his
+birthdate)
+1c. LOC Commands: 0 (performed after examiner pantomimed 
+actions)
+2. Best gaze: 0 (seemed full in tracking examiner around room 
+but
+would not explicitly follow directions)
+3. Visual fields: 0 (pt seemed to attend to actions in all
+fields)
+4. Facial palsy: 0 (pt smiled in resp to pantomime smile, raised
+eyebrows spont)
+5a. Motor arm, left: 0 (didn't explicitly follow commands but
+seemed to have full strength spont)
+5b. Motor arm, right: 0 (didn't explicitly follow commands but
+seemed to have full strength spont)
+6a. Motor leg, left: 0 (didn't explicitly follow commands but
+seemed to have full strength spont)
+6b. Motor leg, right: 0 (didn't explicitly follow commands but
+seemed to have full strength spont)
+7. Limb Ataxia: 0 (didn't explicitly follow commands but no ev 
+of
+dysmetria in spont actions)
+8. Sensory: 0
+9. Language: 2
+10. Dysarthria: 0
+11. Extinction and Neglect: 0
+
+NEUROLOGICAL REVIEW OF SYSTEMS
+- Positive for: vertigo, lightheadedness, transient ___
+numbness on way to ED attributed to anxiety, vision changes
+("wavy lines") ?2ary to indomethacin, difficulty hearing
+(baseline), as above
+- Negative for:  vision loss, blurred vision, double vision,
+trouble swallowing, focal weakness, tingling, bowel 
+incontinence,
+urinary incontinence or retention, difficulties with gait.
+
+REVIEW OF POTENTIAL CONTRAINDICATIONS TO tPA:
+* Absolute
+- Negative for: stroke or head trauma within 3 months of
+admission (although "small head bump" in ___, hx of
+intracranial hemorrhage, major surgery within 2 weeks of
+admission, pregnancy, persistent SBP > 185 or DBP > 110,
+platelets < 100, 000 or INR > 1.7
+* Relative
+
+- Positive for: ___ <4, improvement in sx with time
+- Negative for: GU or GI procedure within 3 weeks of admission,
+LP within 1 week of admission,  glucose < 50, >400
+
+ 
+Past Medical History:
+Gout  
+Hypertension  
+GERD  
+NA Fatty Liver Disease  
+Diverticulitis  
+Iron storage disorder with elevated ferritins required 
+phlebotomy in the past  
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+Vitals: T:  afebrile P: 85  R: 15  BP: 165/78  SaO2: 100% RA
+General: Awake, distracted.  Slightly agitated.
+HEENT: Normocepahlic, atruamatic, no scleral icterus noted. 
+Mucus
+membranes moist, no lesions noted in oropharynx
+Neck: Supple. 
+Cardiac: Regular rate, normal S1 and S2.
+Pulmonary: Lungs clear to auscultation bilaterally anteriorly.
+Abdomen: Obese. Normoactive bowel sounds.  Soft.  Non-tender,
+non-distended.  
+Extremities: No evidence of clubbing, cyanosis, or edema.  
+Skin: no rashes or concerning lesions noted.
+
+NEUROLOGIC EXAMINATION:
+Mental Status:
+* Degree of Alertness: Alert.  Unable to relate history.
+* Orientation: Unable to assess
+* Attention: Inattentive.  
+* Memory:  Unable to assess
+* Language: Language is fluent with occasional paraphasic 
+errors.
+Repetition is intact.  Perseverates on phrases "I have a
+headache."  "what's going on?" "who are you?"  Comprehension
+appears impaired; pt unable to correctly follow verbal midline
+and appendicular commands consistently.  
+* 3D Construction: Copied design with all details and elements 
+of
+structure intact.
+* Apraxia: No evidence of apraxia (pt attempted to use commode
+properly)
+
+--> Of note, upon re-eval, pt could follow some verbal commands,
+attempted to read with relative accuracy, began to recognize his
+wife and the location as a hospital.
+
+Cranial Nerves:
+* I: Olfaction not evaluated.
+* II: PERRL 3 to 2mm and brisk.  
+* III, IV, VI: EOMI without nystagmus.  
+* V: unable to assess facial sensation.
+* VII: No facial droop, facial musculature symmetric.
+* VIII: Hearing intact to finger-rub bilaterally.
+* IX, X: Palate elevates symmetrically.
+* XI: unable to assess.
+* XII: Tongue protrudes in midline.
+
+Motor:
+* Bulk: No evidence of atrophy.
+* Tone: Normal.  
+* Drift: unable to assess 
+* Adventitious Movements: No tremor or asterixis noted.
+
+Strength: Appears full - at least versus gravity
+
+Reflexes: diffusely, symmetrically brisk
+* Babinski: flexor bilaterally
+
+Sensation:
+* Pinprick: intact bilaterally in UE, ___, trunk, face 
+* Temperature: could not assess
+* Vibration: could not assess 
+* Proprioception: could not assess
+
+Coordination
+* Tremor: No evidence of resting or intention tremors.
+* Dysmetria: No evidence bilaterally
+
+GAIT:
+* Description: Good initiation.  Narrow-based with normal stride
+and arm-swing
+
+ 
+Pertinent Results:
+___ 07:00AM BLOOD WBC-9.0 RBC-4.94 Hgb-14.4 Hct-42.6 MCV-86 
+MCH-29.1 MCHC-33.8 RDW-13.1 Plt ___
+___ 04:20PM BLOOD Neuts-70.7* ___ Monos-4.6 Eos-1.2 
+Baso-0.9
+___ 04:20PM BLOOD ___ PTT-22.5 ___
+___ 07:00AM BLOOD Glucose-110* UreaN-18 Creat-1.0 Na-137 
+K-4.7 Cl-103 HCO3-21* AnGap-18
+___ 04:20PM BLOOD ALT-37 AST-30 CK(CPK)-67 AlkPhos-53 
+TotBili-0.5
+___ 07:00AM BLOOD Calcium-9.3 Phos-3.5 Mg-1.9 Cholest-161
+___ 07:00AM BLOOD %HbA1c-6.7*
+___ 07:00AM BLOOD Triglyc-128 HDL-52 CHOL/HD-3.1 LDLcalc-83
+___ 06:29PM BLOOD Lactate-2.6*
+
+Radiology Report MRA BRAIN W/O CONTRASTStudy Date of ___ 
+7:02 ___
+
+FINDINGS:
+ 
+There is no evidence for acute ischemia. There is no mass, mass 
+effect or
+midline shift. There is no hydrocephalus. There is a cerebral 
+atrophy which
+is predominant in the parietal lobes. There is also cerebellar 
+atrophy.
+ 
+ 
+MRA of the circle of ___ demonstrates no hemodynamically 
+significant
+stenosis or aneurysm within limits of exam. However, please note 
+that the
+study is motion degraded.
+ 
+There is a large maxillary sinus mucous retention cyst on the 
+right.
+ 
+IMPRESSION:
+ 
+No evidence for acute ischemia.
+ 
+Parietal volume loss.
+ 
+No hemodynamically significant stenosis in the intracranial 
+vasculature.
+ 
+Brief Hospital Course:
+The pt is a ___ year-old right-handed former smoker with a past 
+medical history including HTN, HLD who presented with an acute 
+change in mental status and, subsequently, difficulties with 
+language.  The patient was initially evaluated as a code stroke. 
+ He was not determined to be a tPA candidate, and had an MRI 
+which showed no sign of ischemia and patent vasculature.  In the 
+context of these symptoms, he also developed a headache, with a 
+prodrome of 'wavy lines.'  It was suspected that his symptoms 
+were secondary to complex migraine.  Exam on discharge showed no 
+neurological deficits.
+ 
+Medications on Admission:
+- simvastatin 20 mg po daily
+- lisinopril 10 mg po daily
+- indomethacin 50 mg po q6h
+- doxycycline 100 mg po bid for prostatitis
+
+ 
+Discharge Medications:
+1. Lisinopril 10 mg Tablet Sig: One (1) Tablet PO DAILY (Daily). 
+ 
+2. Simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+3. Indomethacin 25 mg Capsule Sig: Two (2) Capsule PO QID (4 
+times a day).  
+4. Doxycycline Hyclate 100 mg Capsule Sig: One (1) Capsule PO 
+Q12H (every 12 hours).  
+5. Acetaminophen 500 mg Tablet Sig: One (1) Tablet PO four times 
+a day as needed for pain for 7 days: do not take more than 2 
+grams per day.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Complicated migraine vs. transient global amnesia
+Secondary: HTN, HL
+
+ 
+Discharge Condition:
+Stable, memory and language deficits resolved.
+
+ 
+Discharge Instructions:
+You were admitted to ___ with a transient episode of memory 
+impairment and possible confusion.  You underwent an evaluation 
+with MRI, and laboratory tests that did not show a tumor or a 
+stroke or blood derangements.  Given that you had a headache, it 
+was felt that you most likely had a complicated migraine or 
+transient global amnesia.  An EEG was done to assess if you had 
+signs of seizures and preliminary read did not show clear 
+seizure focus. 
+
+The following changes were made to you medications:
+- none
+
+Please follow up in clinic withe neurology as listed below. 
+
+Should you develop weakness, tingling, difficulty with speech, 
+changes in vision, fevers, chills, cough, chest pain, worsening 
+headache, falls or any other symptom concerning to you, please 
+call your doctor or go to the emergency room.
+ 
+Followup Instructions:
+___

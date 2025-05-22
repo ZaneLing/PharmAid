@@ -1,0 +1,255 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ceclor / oxycodone / Penicillins / tramadol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea on exertion
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with a PMH of HTN and HLD 
+presenting with dyspnea on exertion x 1 day
+
+At baseline she can walk up to a mile a day and uses an exercise 
+bike. She developed sudden onset shortness of breath while 
+walking up the stairs at her house last night that improved with 
+rest. This morning, she attempted to go on her typical walk but 
+felt so short of breath that she decided to seek care at ___ 
+___. 
+
+She has never experienced this sensation before and there is no 
+associated chest pain, pleuritic or otherwise, no cough, no 
+symptoms at rest, no hemoptysis, and no increased leg swelling. 
+She denies any prior history of blood clot. She denies any 
+recent travel or extended car or plane trips, and has had no 
+recent surgery or trauma. She has no prior personal or family 
+history of VTE. She reports she had her last colonoscopy in ___ 
+which was reportedly normal and completed her screening. She 
+says she had a mammogram last year which was normal completed 
+her Pap testing when she was in her ___.
+
+On arrival to ___ she was normotensive with BP 140/96 with 
+HR 115, RR 26, satting 92% with labs significant for a DDimer > 
+4, Cr 1.2, and troponin I ___ 0.37. She had a CTA chest that 
+showed significant right main PA clot and bilateral lobar artery 
+filling defects. She was started on heparin GTT and transferred 
+for further care. 
+
+On ROS, she denies chest pain, leg pain and swelling. She has 
+never had a blood clot in the past. Denies tobacco use. 10 point 
+ROS is otherwise negative
+
+ED COURSE: CTPA notable for acute PE in right main PA and liver 
+mass Continued on heparin gtt Placed on 4L O2. 
+ 
+Past Medical History:
+HTN
+HLD
+GERD
+ 
+Social History:
+___
+Family History:
+She has no family history of blood clots or autoimmune disease. 
+Her mother had ovarian cancer diagnosed at age ___. Her father 
+had a CABG in his ___ as well as COPD
+ 
+Physical Exam:
+ADMISSION:
+=========
+VITALS: T 98.1, HR 104 BP 140/96 RR 22 pO2 94% 4L NC
+GENERAL - obese, well appearing in NAD, Oriented x3, 
+comfortable,
+Mood, affect appropriate. 
+HEENT - NC/AT, sclerae anicteric, MMM, OP clear,
+No xanthalesma. 
+NECK - supple, JVD 12cm, no carotid bruits 
+LUNGS - CTAB, short of breath when talking
+HEART - mildly tachy, Loud P2. No m/r/g.
+ABDOMEN - soft/NT/ND, no masses or HSM, no rebound/guarding. 
+EXTREMITIES - wwp, no c/c/e, 2+ peripheral pulses (radials, DPs)
+NEURO - awake, A&Ox3, normal mental status, moves all
+extremities, coordination and sensory function grossly intact.
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE: 
+=========
+VS: afeb, BP 120s/80s, HR ___, 93% on RA at rest and with 
+ambulation
+GENERAL - obese, well appearing in NAD, Oriented x3, 
+comfortable,
+Mood, affect appropriate. 
+HEENT - NC/AT, sclerae anicteric, MMM, OP clear,
+No xanthalesma. 
+NECK - supple, JVD no carotid bruits 
+LUNGS - CTAB, no respiratory distress.
+HEART - mildly tachy, Loud P2. No m/r/g.
+ABDOMEN - soft/NT/ND, no masses or HSM, no rebound/guarding. 
+EXTREMITIES - wwp, no c/c/e, 2+ peripheral pulses (radials, DPs)
+NEURO - awake, A&Ox3, normal mental status, moves all
+extremities, coordination and sensory function grossly intact.
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+ADMISSION/SIGNIFICANT LABS: 
+==========================
+___ 10:45PM BLOOD WBC-7.1 RBC-4.51 Hgb-13.1 Hct-40.2 MCV-89 
+MCH-29.0 MCHC-32.6 RDW-13.2 RDWSD-43.4 Plt ___
+___ 10:45PM BLOOD Glucose-108* UreaN-19 Creat-1.0 Na-143 
+K-3.7 Cl-104 HCO3-22 AnGap-17
+___ 10:45PM BLOOD proBNP-6318*
+___ 10:45PM BLOOD cTropnT-0.07*
+___ 07:55AM BLOOD cTropnT-0.04*
+___ 07:55AM BLOOD ALT-12 AST-22 AlkPhos-133* TotBili-0.9
+
+___ 10:49PM BLOOD Lactate-1.1
+
+IMAGING/OTHER STUDIES: 
+======================
+OSH CTA Chest:
+CTPA notable for acute pulmonary embolus within the right main
+pulmonary artery and bilateral lobar branches. There is
+associated CT sign of right ventricular strain with RV: LV ratio
+greater than 1. There is a mass within the liver for which
+further evaluation is recommended to assess for potential
+malignancy. 
+
+___ CTa/p w/ contrast
+1. 7.7 cm hypodense lesion within hepatic segment ___, with 
+enhancement  characteristics consistent with a hemangioma. 
+2. Likely smaller hemangioma within hepatic segment VI measuring 
+1.0 cm. 
+3. Extensive diverticulosis without evidence of acute 
+diverticulitis. 
+
+LABS AT DISCHARGE: 
+=================
+___ 07:35AM BLOOD WBC-6.1 RBC-4.74 Hgb-13.8 Hct-41.6 MCV-88 
+MCH-29.1 MCHC-33.2 RDW-13.2 RDWSD-42.4 Plt ___
+___ 07:35AM BLOOD Glucose-105* UreaN-20 Creat-1.0 Na-140 
+K-3.8 Cl-99 HCO___ AnGap-17
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of HTN and 
+HLD who presented to the ___ ED via ___ with a new 
+intermediate-high risk pulmonary embolism. 
+
+ACUTE/ACTIVE PROBLEMS: 
+
+# Acute Pulmonary Embolism (intermediate-high risk): 
+Presented with acute SOB to ___ with CTA demonstrating 
+submassive PE with associated hypoxemia, BNP of 6318, trop of 
+0.07, and evidence of RV dysfunction. Patient remained 
+hemodynamically stable and was treated with IV heparin gtt x 
+48h,  subsequently transitioned to PO apixiban. Evaluated by 
+___ team on arrival and without indication for thrombolysis 
+or other advanced therapies. Weaned to room air and ambulating 
+about floor without symptoms on day of discharge. No provoking 
+factors or family history of hypercoagulable state. APLS labs 
+pending on discharge and to be followed up as outpatient in 
+vascular medicine clinic. Initially, some concern for occult 
+malignancy based on incidentally observed liver lesion on CTA 
+chest, however, dedicated CT abd/pelvis with 7.7cm benign 
+hemangioma but no evidence of malignancy. 
+
+# Hepatic hemangioma:
+After mentioning this finding, patient recalls her PCP 
+mentioning ___ "spot on the liver" nearly ___ years ago that was 
+benign. CT abd/pelvis with 7.7cm hemangioma. Patient without 
+symptoms. Not a contraindication to anticoagulation for 
+submassive PE, however, due to the lesion's size, recommend 
+repeat imaging in six months to monitor stability.
+
+TRANSITIONAL ISSUES:
+===================
+[] started apixiban loading dose 10mg BID ___ am for 7d, to 
+start 5mg BID maintenance dose on ___.
+[] ASA 81 discontinued (had been taking only for primary ppx)
+[] Recommend surveillance imaging of ~8cm liver hemangioma q6 
+months. 
+[] Ensure patient is uptodate on routine cancer screening (ie 
+colonoscopy, mammogram)
+
+> 30 mins spent on discharge planning 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Metoprolol Succinate XL 100 mg PO DAILY 
+3. Simvastatin 20 mg PO QPM 
+4. Chlorthalidone 12.5 mg PO DAILY 
+5. Omeprazole 20 mg PO DAILY 
+6. calcium citrate-vitamin D3 1,000 mg-400 unit/30 mL oral DAILY 
+
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID 
+RX *apixaban [Eliquis] 5 mg (74 tabs) as dir tablets(s) by mouth 
+twice a day Disp #*1 Dose Pack Refills:*0 
+2.  calcium citrate-vitamin D3 1,000 mg-400 unit/30 mL oral 
+DAILY  
+3.  Chlorthalidone 12.5 mg PO DAILY  
+4.  Metoprolol Succinate XL 100 mg PO DAILY  
+5.  Omeprazole 20 mg PO DAILY  
+6.  Simvastatin 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Submassive pulmonary embolism. 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a privilege to care for you at the ___. You were 
+admitted for further treatment of lung clot. You were treated 
+with IV blood thinning medication and improved quickly. You have 
+been transitioned to an oral blood thinner, which you will need 
+to take as prescribed for at least several months (and possibly 
+longer). Please note that you are to take a double dose for the 
+first week and then transition to one tab twice day starting 
+___:
+   1. take two tabs (10mg) twice daily through ___
+   2. start one tab (5mg) twice daily beginning ___ and onward. 
+
+
+Also, you were incidentally found to have a large hemangioma in 
+your liver. This should be monitored by your PCP with imaging 
+every ___ months, but there is otherwise nothing further to do 
+unless you develop symptoms (most commonly RUQ pain). 
+
+Please follow up with all appointments. If you develop any of 
+the danger signs listed below, please contact your doctors ___ 
+___ to the emergency room immediately.
+
+We wish you the best!
+
+Sincerely,
+
+Your ___ Team
+ 
+Followup Instructions:
+___

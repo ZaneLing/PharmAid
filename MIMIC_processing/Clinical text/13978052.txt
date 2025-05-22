@@ -1,0 +1,268 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / cefepime / clindamycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with history of HTN, GERD,
+gallstone pancreatitis who presents with abdominal pain. He came
+into the ED on ___, after being discharged from ___ on ___ for
+presumed cholangitis and passed CBD stone. He was placed on
+levofloxacin and flagyl, had GNR bacteremia too (enterobacter
+cloacae, sensitive to quinolone). Of note his WBC was as high as
+77.7 there, downtrended to 28.9 by discharge day. 
+He was accepted for transfer to ___ on ___ for ERCP, but
+the patient refused, and was d/c-ed home on ___ for ___
+outpatient ERCP plan. 
+
+However the patient re-developed RUQ abdominal pain and low 
+grade
+temps at home, so he came to ___ ED on ___. In the ED he
+received flagyl, levaquin, then underwent ERCP today on ___. A
+small stone was seen and a sphincterotomy was performed.
+
+On interview, the patient denies any abdominal pain, nausea,
+vomiting, fever. NO chest pain or SOB. He refuses IVF as he
+doesn't want to get up to bathroom overnight.
+ 
+Past Medical History:
+HTN, GERD, gallstone pancreatitis 
+ 
+Social History:
+___
+Family History:
+FATHER, ___.
+  Diabetes mellitus in father
+  ___
+  ___
+MOTHER, ___.
+  Hypertension
+BROTHER, ___.
+  Diabetes mellitus in brother
+ 
+Physical ___ Physical Exam:
+========================
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+PSYCH: pleasant, appropriate affect
+NEUROLOGIC:
+MENTATION: alert and cooperative. Oriented to person and place
+and time.
+
+Discharge Physical Exam:
+========================
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+PSYCH: pleasant, appropriate affect
+NEUROLOGIC:
+MENTATION: alert and cooperative. Oriented to person and place
+and time.
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 02:15PM BLOOD WBC-25.7* RBC-5.56 Hgb-13.4* Hct-41.3 
+MCV-74* MCH-24.1* MCHC-32.4 RDW-16.4* RDWSD-41.0 Plt ___
+___ 02:15PM BLOOD Neuts-83* Bands-0 Lymphs-7* Monos-3* 
+Eos-1 Baso-1 Atyps-2* Metas-1* Myelos-2* AbsNeut-21.33* 
+AbsLymp-2.31 AbsMono-0.77 AbsEos-0.26 AbsBaso-0.26*
+___ 02:15PM BLOOD Glucose-121* UreaN-9 Creat-1.0 Na-130* 
+K-4.0 Cl-91* HCO3-26 AnGap-13
+___ 02:15PM BLOOD ALT-62* AST-25 AlkPhos-269* TotBili-1.2 
+DirBili-0.4* IndBili-0.8
+___ 02:15PM BLOOD Albumin-4.1 Calcium-8.9 Phos-3.2 Mg-1.8
+___ 02:29PM BLOOD Lactate-1.6
+
+Imaging:
+========
+RUQ US:
+1. Limited exam due to difficulty in based on positioning.  
+Within the 
+limitation, liver echotexture appears within normal limits. 
+2. Cholelithiasis. 
+
+ERCP:
+The scout film was normal. 
+During difficult biliary cannulation, the pancreatic duct was 
+partially filled with contrast and visualized proximally. The 
+course and caliber of the duct was normal with no evidence of 
+filling defects, masses, chronic pancreatitis or other 
+abnormalities. 
+The bile duct was deeply cannulated with the sphincterotome. 
+Contrast was injected and there was brisk flow through the 
+ducts. 
+Contrast extended to the entire biliary tree. The CBD was 6 mm 
+in diameter. 
+One possible filling defect consistent with a stone was 
+identified in the CBD. 
+Opacification of the gallbladder was incomplete. 
+The left and right hepatic ducts and all intrahepatic branches 
+were normal. 
+A biliary sphincterotomy was made with a sphincterotome. 
+There was no post-sphincterotomy bleeding. 
+The biliary tree was swept with a 9-12mm balloon starting at 
+the bifurcation. One small pigmented stone was successfully 
+removed. 
+The CBD and CHD were swept repeatedly until no further stones 
+were seen. 
+The final occlusion cholangiogram showed no evidence of filling 
+defects in the CBD. 
+Excellent bile and contrast drainage was seen endoscopically 
+and fluoroscopically.
+Otherwise normal ercp to third part of the duodenum
+Recommendations:
+Admit to hospital for monitoring
+NPO overnight with aggressive IV hydration with LR at 200 cc/hr
+If no abdominal pain in the morning, advance diet to clear 
+liquids and then advance as tolerated
+No Plavix, NSAIDS, Coumadin for 5 days.
+Follow for response and complications. If any abdominal pain, 
+fever, jaundice, gastrointestinal bleeding please call Advanced 
+Endoscopy Fellow on call ___
+ 
+Discharge Labs:
+===============
+___ 07:20AM BLOOD WBC-23.7* RBC-5.12 Hgb-12.6* Hct-38.6* 
+MCV-75* MCH-24.6* MCHC-32.6 RDW-16.6* RDWSD-42.8 Plt ___
+___ 07:20AM BLOOD Neuts-83* Bands-0 Lymphs-3* Monos-13 
+Eos-1 Baso-0 ___ Myelos-0 AbsNeut-19.67* 
+AbsLymp-0.71* AbsMono-3.08* AbsEos-0.24 AbsBaso-0.00*
+___ 07:20AM BLOOD Glucose-95 UreaN-10 Creat-1.1 Na-137 
+K-4.3 Cl-95* HCO3-25 AnGap-17
+___ 07:20AM BLOOD ALT-44* AST-35 AlkPhos-215* TotBili-1.0
+___ 07:20AM BLOOD Albumin-3.5
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with history of HTN, GERD,
+gallstone pancreatitis who presents with abdominal pain. He came
+into the ED on ___, after being discharged from ___ on ___ for
+presumed cholangitis and passed CBD stone. Underwent ERCP ___
+with sphincterotomy and stone extraction
+
+# Cholangitis, choledocholithiasis
+Underwent ERCP on ___ with sphincterotomy performed. Small 
+filling defect consistent with stone also identified. Biliary 
+tree was swept. Diet was advanced and he was tolerating a 
+regular diet at time of procedure. LFTs were unremarkable 
+(mildly elevated ALT of 44 and AP of 215 at time of discharge). 
+He was found to have enterobacter bacteremia at ___ and was 
+continued on home flagyl. Home levofloxacin was converted to IV 
+ciprofloxacin while hospitalized. He was continued of 
+levofloxacin and flagyl at discharge
+
+# Leukocytosis: leukocytosis of 23.7 at time of discharge, down 
+from 77 at ___. Likely leukomoid reaction, but should 
+have repeat CBC with diff after infection normalizes to ensure 
+that this resolves
+
+# HTN: continued home atenolol, amlodipine, lisinopril
+
+# GERD: continued home omeprazole
+
+Transitional Issues:
+- discharged from ___ on levofloxacin and flagyl for 
+Enterobacter bacteremia
+- needs repeat LFTs and CBC checked by PCP as an outpatient
+- ASA held post-sphincterotomy, should not resume until ___
+
+> 30 minutes spent on discharge coordination and planning
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 12.5 mg PO BID 
+2. Aspirin 81 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Lisinopril 20 mg PO DAILY 
+5. Levofloxacin 750 mg PO Q24H 
+6. MetroNIDAZOLE 500 mg PO QID 
+7. amLODIPine 2.5 mg PO HS 
+
+ 
+Discharge Medications:
+1.  amLODIPine 2.5 mg PO HS  
+2.  Atenolol 12.5 mg PO BID  
+3.  Levofloxacin 750 mg PO Q24H  
+4.  Lisinopril 20 mg PO DAILY  
+5.  MetroNIDAZOLE 500 mg PO QID  
+6.  Omeprazole 20 mg PO DAILY  
+7. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until ___
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary:
+Choledocholithiasis
+Enterobacter bacteremia
+Leukocytosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came in because you were having fever and abdominal pain. 
+You had an ERCP procedure which found a stone in your bile duct. 
+The stone was removed and an opening was made in the bile duct 
+to help future stones pass.
+
+Please continue taking the antibiotics you were taking before 
+coming into the hospital. These antibiotics are treating a 
+bloodstream infection and it is very important to finish a full 
+course.
+
+Please also hold aspirin for the next 4 days. There is a risk of 
+bleeding after your ERCP procedure. You should not restart 
+aspirin until ___.
+ 
+Followup Instructions:
+___

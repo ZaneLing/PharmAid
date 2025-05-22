@@ -1,0 +1,363 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+ibuprofen / Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+incidental papilledema
+ 
+Major Surgical or Invasive Procedure:
+lumbar puncture ___
+
+ 
+History of Present Illness:
+Ed is a pleasant ___ man with medical history of OSA
+on CPAP, obesity, psoriasis, cervical spondylitis and headaches
+who presents to neurology department sent by his
+neuro-ophthalmologist for evaluation of bilateral papilledema. 
+Neurology consulted for assistance in diagnosing idiopathic
+intracranial hypertension.
+
+The patient reports has been in his usual state of health which
+includes independence in all activities of daily living.  He was
+recently seen routinely by his optometrist in the At___ group,
+who found him to have bilateral papilledema and sent him to
+neuro-ophthalmology for further evaluation. Per chart review of
+ophthalmology notes "there is unequivocal papilledema due to
+raised intracranial pressure in both eyes.  Left eye more so 
+than
+right eye, as well as hypertensive retinopathy".  He was sent to
+the emergency department for imaging and LP.  In terms of
+associated symptoms he describes lifetime headaches which are
+usually variable in intensity but do not seem to bother him 
+much.
+He reports that they mostly happen over his left occiput, they
+are dull in quality without radiation and associated with neck
+spasm.  He denies any nausea, vomiting, photophobia, 
+phonophobia,
+focal motor or sensory component.  He denies a positional
+component.  Reports headaches do not wake him up from sleep
+however has woken up with a headache in the morning occasionally
+(taking into consideration that he has obstructive sleep apnea 
+on
+CPAP).  He does admit to having tinnitus which has been
+long-standing for many years, he denies any pulsatile component
+but does report a high frequency sound that is present at all
+times. In terms of his vision he reports over the last ___ years
+has not been able to see as well as he would want but has gotten
+regular checkups and glasses as needed.  
+
+Regarding lifestyle factors he reports sleeps well with his CPAP
+and wakes up occasionally and briefly to reposition from laying
+on his back to his side.  He drinks water but does not keep 
+track
+of how much.  He denies caffeine intake.  He reports does not
+practice as much physical activity as he would like.  There are
+no significant life stressors, however he does note that work 
+has
+been somewhat more stressful in the last couple of months.  Of
+note reports an unintentional weight loss, as noticed losing ___
+inches of his waistline.  Incidentally he reports is newly
+sensitive to cold which he formerly was not and does not recall 
+a
+recent thyroid check.  He also complains of postnasal dripping
+and cough.  He does recall having viral meningitis ___ years ago
+associated with severe headache. Denies taking vitamin A.
+
+ 
+Past Medical History:
+Headache
+Sleep apnea
+Cervical spondylitis
+Psoriasis
+Morbid obesity
+Osteoarthritis of right ___
+
+ 
+Social History:
+___
+Family History:
+Father: ___, mitral valve replacement ___ years ago
+Mother: ___ replacement, severe back problems
+Son: ___ disease status post small bowel resection currently
+stable
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION
+==============================
+Vitals: 
+97.8 
+68 
+___ 
+98% RA 
+ 
+General: NAD
+HEENT: NCAT,  no oropharyngeal lesions, crowding of the 
+posterior
+oropharynx
+Neck: supple, decreased ROM
+___: RRR
+Pulmonary: Breathing unlabored on room air
+Abdomen: Soft
+Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Able to relate
+history without difficulty. Attentive. Speech is fluent with 
+full
+sentences, intact repetition, and intact verbal comprehension.
+Naming intact.  No paraphasias.  No dysarthria. Normal prosody.
+No evidence of hemineglect. No left-right confusion.  Able to
+follow both midline and appendicular commands.
+
+- Cranial Nerves: Visual acuity ___ bilaterally, fundoscopic
+examination notable for bilateral papilledema (left greater than
+right), pupil status post dilation 5 mm and nonreactive. VF full
+to confrontation. EOM with subtle limitation of abduction
+bilaterally but no nystagmus. V1-V3 without deficits to light
+touch bilaterally. No facial movement asymmetry. Hearing intact
+to finger rub bilaterally.  Palate elevation symmetric.
+SCM/Trapezius strength ___ bilaterally. Tongue midline.  
+Negative
+occipital Tinel sign.
+
+- Motor: Normal bulk and tone. No drift. No tremor or asterixis.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  4+  5    5  5     5     5
+R  5    ___   ___  4+  5    5  5     5     5
+
+- Sensory: No deficits to light touch, pin, or proprioception
+bilaterally.  No extinction to DSS.
+
+-DTRs:
+   Bi Tri ___ Pat Ach
+L  2+  2+  2+   2+   2+
+R  2+  2+  2+   2+   2+
+Plantar response flexor bilaterally.
+
+- Coordination: No dysmetria with finger to nose testing
+bilaterally. Good speed and intact cadence with rapid 
+alternating
+movements.
+
+- Gait: Normal initiation. Narrow base. Normal stride length and
+arm swing. Stable without sway. 
+
+DISCHARGE PHYSICAL EXAMINATION
+==============================
+98.3 PO 177 / 90 68 18 97 Ra 
+General: NAD
+Neck: supple, decreased ROM
+Pulmonary: Breathing unlabored on room air
+Abdomen: Soft
+Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert and relates interval history. 
+Speech fluent and not dysarthric.
+
+CN: Pupils 3 to 2 and reactive to light. Left and right eye do 
+not ___ completely on lateral gaze. No diplopia in all fields. 
+Right fields intact to red pin, Left field intact to red pin. OS 
+___ -1, OD ___ -1. Wearing his old prescription glasses. 
+___ OS with pin hole. ___ -1 OD with pin hole. Face 
+sensation intact. Face symmetric.
+
+Motor: No tremor, no drift. IP and HAM full. Moving all 
+extremities spontaneously and symmetrically. 
+
+Reflexes: Upper extremities brisk, patellars 1 bilaterally and 
+Achilles 1 bilaterally. 
+
+Gait: narrow base and stride
+
+ 
+Pertinent Results:
+LAB DATA:
+=========
+___ 12:10PM BLOOD WBC: 8.6 RBC: 4.92 Hgb: 15.4 Hct: 44.0
+MCV: 89 MCH: 31.3 MCHC: 35.0 RDW: 12.9 RDWSD: 42.___ 
+___ 12:10PM BLOOD Neuts: 66.0 Lymphs: ___ Monos: 8.4 Eos:
+1.4 Baso: 1.3* Im ___: 0.6 AbsNeut: 5.66 AbsLymp: 1.91 AbsMono:
+0.72 AbsEos: 0.12 AbsBaso: 0.11* 
+___ 12:10PM BLOOD Plt Ct: 220 
+___ 12:10PM BLOOD ___: 12.6* PTT: 32.7 ___: 1.2* 
+___ 12:10PM BLOOD Glucose: 91 UreaN: 7 Creat: 1.0 Na: 141 
+K:
+4.2 Cl: 100 HCO3: 26 AnGap: 15 
+___ 12:10PM BLOOD ALT: 24 AST: 25 AlkPhos: 80 TotBili: 0.7 
+___ 12:10PM BLOOD Lipase: 39 
+___ 12:10PM BLOOD Albumin: 4.6 
+___ 12:23PM BLOOD Lactate: 1.5 
+
+IMAGING: 
+========
++ MRI/MRV
+There is no evidence of hemorrhage, edema, masses, mass effect, 
+midline shift or infarction.   The ventricles and sulci are 
+normal in caliber and 
+configuration.  There is no abnormal enhancement after contrast 
+administration.  The intracranial arteries demonstrate normal T2 
+flow voids.  Mild mucosal thickening involving the ethmoid air 
+cells.  The orbits appear normal.  Partially empty sella.  The 
+craniocervical junction appears normal.  The dural venous 
+sinuses are patent with no transverse sinus stenosis.  No 
+tonsillar ectopia. 
+
+CSF:
+====
+___ 01:18PM CEREBROSPINAL FLUID (CSF) TNC-6* RBC-___* 
+Polys-29 ___ Macroph-2
+___ 01:18PM CEREBROSPINAL FLUID (CSF) TotProt-53* 
+Glucose-67
+___ 01:18PM CEREBROSPINAL FLUID (CSF) CSF HOLD-PND
+ 
+Brief Hospital Course:
+Mr. ___ is a pleasant ___ man with medical history 
+of OSA on CPAP, obesity, psoriasis, cervical spondylitis and 
+headaches who presents with incidentally noted bilateral 
+papilledema on opthamology evaluation. His history is notable 
+for long time headaches which are bifrontal and dull 5d/month 
+without nausea, emesis, photophobia, or photophobia. There are 
+no positional features. He denies pulsatile tinnitus. He reports 
+worsening vision over the course of months with some blurry of 
+peripheral vision. He denied other symptoms. His exam was 
+notable for ___ vision bilaterally and full fields. His EOM 
+were notable for inability to bury sclera fully bilaterally. He 
+had bilateral papilledema. The remainder of his cranial nerve, 
+motor, sensory and coordination was intact. He underwent MRI/MRV 
+which showed no structural process or venous thrombus to explain 
+his papilledema. He had an LP which showed no signs of infection 
+(TNC 1, RBC 43) and opening pressure of 21, which is slightly 
+elevated from the normal pressure. His papilledema was not found 
+to be due to a structural or thrombosis etiology and it was 
+thought that it is likely due from idiopathic intracranial 
+hypertension; however, notably his blood pressure was elevated 
+to 180-200 systolic at times, and malignant hypertension may be 
+playing a role in his papilledema as well. 
+
+He has allergy to sulfa drugs so was started on Topamax. He will 
+follow-up with neuro-ophthalmology for further monitoring of his 
+visual fields. 
+
+He was started on lisinopril and amlodipine 5 mg for SBP up to 
+200s. He will follow-up with his primary care doctor for this 
+issue. 
+
+TRANSITIONAL ISSUES 
+===================
+#NEW MEDICATIONS: Topamax 25 mg BID (to be up-titrated to 50 mg 
+BID after one week), amlodipine 5 mg daily (started for sbp up 
+to 180 consistently), lisinopril 20 mg daily (sbp to 180s)
+[] Follow-up blood pressure at PCP ___ 
+[] Follow-up CSF studies (cytology). There is a CSF hold on the 
+sample sent if further testing is needed.
+[] Ongoing follow-up with neuro-ophtho for monitoring of visual 
+fields and management of idiopathic intracranial hypertension
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Indomethacin 50 mg PO TID 
+2. Betamethasone Dipro 0.05% Cream 1 Appl TP Frequency is 
+Unknown 
+3. Vitamin D 5000 UNIT PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+5. Vitamin E 400 UNIT PO DAILY 
+6. Ascorbic Acid ___ mg PO DAILY 
+7. biotin unknown  oral other 
+8. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Lisinopril 20 mg PO DAILY 
+RX *lisinopril 10 mg 2 tablet(s) by mouth daily Disp #*60 Tablet 
+Refills:*0 
+3.  Topiramate (Topamax) 25 mg PO BID 
+Start at 25 mg at bedtime and increase to 25 mg twice daily 
+after one week. 
+RX *topiramate 25 mg 1 tablet(s) by mouth twice daily Disp #*60 
+Tablet Refills:*0 
+4.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+5.  Ascorbic Acid ___ mg PO DAILY  
+6.  Betamethasone Dipro 0.05% Cream 1 Appl TP BID:PRN Psoriasis  
+ 
+7.  biotin 1  Mg oral DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Vitamin D 5000 UNIT PO DAILY  
+10.  Vitamin E 400 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+bilateral papilledema
+systemic hypertension
+idiopathic intracranial hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came to the hospital because you were found to have swelling 
+of the optic nerve in your eyes. 
+
+While you were in the hospital you had imaging to see if there 
+was a mass or blood clot which would cause high pressure. 
+Imaging showed your brain is normal without a mass or blood 
+clot. You also had a lumbar puncture or a "spinal tap" to check 
+to see if the pressure in your head is elevated which showed 
+mildly elevated pressure. For this we have started you on a 
+medication called "Topamax", which will help decrease the 
+pressure and relieve the pressure on your optic nerve. You 
+should take 25 mg twice a day and increase to 50 mg twice a day 
+after one week. You should continue this medication until you 
+follow up with your neurologist.
+
+We also discussed weight loss with you. Losing weight will help 
+your increased pressure as well as lower your blood pressure. 
+
+We also stopped the medicine "Indomethacin" as this medicine can 
+cause high blood pressure and headaches. For your ___ pain, we 
+recommend up to 1000 mg Tyelenol (2 extra strength tablets) up 
+to every 8 hours. You do not need a prescription for this 
+medicine.
+
+We started two blood pressure medicines called "amlopdine" and 
+"lisinopril" while you were in the hospital due to your elevated 
+blood pressures. Please follow-up with your primary care doctor 
+next week to check your blood pressure, as it was elevated in 
+the hospital. You should also monitor your blood pressures at 
+home at least daily. 
+
+Please follow-up with your doctors ___ below). Please take 
+your medicine exactly as prescribed. 
+
+Please seek immediate medical attention if you have any changes 
+in your vision, worsening headache with nausea or vomiting or 
+any other symptoms that concern you. 
+
+We wish you the best,
+___ Neurology
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,242 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Keflex / aspirin / Amoxicillin / dipyrone
+ 
+Attending: ___
+ 
+Chief Complaint:
+LLQ Pain
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: 
+This is a ___ year old female with past medical history of stress 
+incontinence status post sling, kidney stones, and recent ED 
+visit for LLQ pain attributed to kidney stones, who represented 
+to ED with worsening LLQ pain. 
+
+Patient reports she was in her normal state of health until 1 
+week prior to presentation when she first noticed urinary 
+frequency, and then LLQ pain.  Pain was crampy, constant and 
+nonradiating.  She presented to ___ ED on ___, had a CTU with 
+L periureteral and peripelvic stranding.  She was thought to 
+have had a recently passed kidney stone and was discharged home 
+with pain control.  She reports that after returning home she 
+felt the oxycodone initially controlled her pain, but that after 
+1 day, her LLQ pain worsened so that it was no longer improved 
+with oral pain medication.  She developed associated nausea and 
+chills.  Pain was crampy, constant, without alleviating or 
+exacerbating factors.  Did not radiate.  No vaginal discharge or 
+bleeding.  No diarrhea.  She reports associated constipation, 
+which she believes relates to a decrease in her PO intake 
+secondary to nausea.  
+
+In the ED, initial VS were 100.5 HR 50 152/80 16 96%RA. Labs 
+were notable for WBC 13.7, Hgb 14.0, Plt 178; K 4.3, Cr 0.7; UA 
+with 4 WBCs, few bacteria, 1 epi, lactate 1.2; CT showed 
+"Stranding and edema surrounding the left kidney and ureter", 
+increased from prior CTU.  Patient was given morphine, Zofran, 
+normal saline, ketorolac, and cipro and was admitted to medicine 
+for further management.
+
+On arrival to the floor, patient confirmed above. Full 10 point 
+review of systems positive where noted, otherwise negative. 
+
+ 
+Past Medical History:
+stress incontinence status post sling
+nephrolithiasis 
+rosacea
+GERD
+osteopenia
+seasonal allergies
+s/p Csection x ___
+s/p cholecystectomy
+s/p benign L breast lumpectomy
+
+ 
+Social History:
+___
+Family History:
+Father died at age ___ years from stomach cancer
+Mother alive, currently ___ years, has hypothyroidism, 
+hypertension, CAD
+
+ 
+Physical Exam:
+ADMISSION
+VS: 97.8 120/60 72 20 97%RA 
+Gen- supine in bed, comfortable
+Eyes - EOMI, anicteric
+ENT - OP clear, MMM
+Heart - RRR no mrg
+Lungs - CTA bilaterally
+Abd - soft; moderate tenderness in LLQ, no rebound/guarding; +L 
+CVA tenderness.  Normoactive bowel sounds
+Ext - no edema
+Skin - no rashes
+Vasc - 2+ DP/radial pulses
+Neuro - AOx3, moving all extremities
+Psych - appropriate
+
+DISCHARGE:
+vitals: 98.0 PO  BP 124 / 78  HR 78  RR 16  O2 sat 98% RA
+general: well appearing woman sitting up in bed, no acute 
+distress
+CV: r/r/r, no murmurs
+Resp: clear bilaterally without wheezing
+Abd: soft, nontender, nondistended, there is no CVA tenderness 
+Ext: wwp, no edema
+
+ 
+Pertinent Results:
+Admission labs:
+___ 12:15AM BLOOD WBC-13.7* RBC-4.47 Hgb-14.0 Hct-41.3 
+MCV-92 MCH-31.3 MCHC-33.9 RDW-12.6 RDWSD-42.1 Plt ___
+___ 12:15AM BLOOD Neuts-83.0* Lymphs-9.1* Monos-6.4 
+Eos-0.8* Baso-0.3 Im ___ AbsNeut-11.36* AbsLymp-1.24 
+AbsMono-0.87* AbsEos-0.11 AbsBaso-0.04
+___ 12:15AM BLOOD Glucose-146* UreaN-9 Creat-0.7 Na-141 
+K-4.3 Cl-103 HCO3-22 AnGap-20
+
+Discharge labs:
+___ 06:40AM BLOOD WBC-8.3 RBC-3.90 Hgb-12.0 Hct-36.9 MCV-95 
+MCH-30.8 MCHC-32.5 RDW-12.6 RDWSD-43.6 Plt ___
+___ 06:40AM BLOOD Glucose-116* UreaN-9 Creat-0.7 Na-136 
+K-4.3 Cl-104 HCO3-23 AnGap-13
+
+MICRO
+___ 11:15 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+___ - Bcx x 2 - PENDING, no growth to date
+
+Imaging:
+
+CXR - No acute cardiopulmonary process. 
+
+CTU -  1. Stranding and edema surrounding the left kidney and 
+ureter are increased from ___, concerning for infection. 
+2. Bilateral nonobstructive renal calculi the largest measures 6 
+mm in the left kidney. 
+3. Normal bowel no evidence diverticulitis. 
+4. Fibroid uterus. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with past medical history 
+of stress incontinence status post sling, kidney stones, and 
+recent ED visit for LLQ pain attributed to kidney stones, who 
+represented to ED with worsening LLQ pain and found to have 
+pyelonephritis.
+
+# Pyelonephritis: Patient p/w LLQ in setting of radiographic 
+findings, fever, leukocytosis, and physical exam. CTU showed 
+increased stranding and edema surrounding the left kidney and 
+ureter concerning for infection. Although urinalysis and urine 
+culture resulted with polymicrobial organisms, patient treated 
+empirically with ciprofloxacin with rapid improvement in 
+symptoms. Thus, she was discharged to complete 1 week of empiric 
+antibiotics. She was referred for urologic evaluation as an 
+outpatient given non-obstructing stones seen on CTU.
+
+# Constipation: Presented with constipation and resolved after 
+miralax and colace. 
+
+Chronic issues:
+# Rosacea: continued home metrogel 
+# GERD: continued home PPI 
+# Osteopenia: continued home vitamin D
+# Fibroids - seen on CT scan; patient not aware of this 
+diagnosis previously and discussed this result with her. 
+
+Transitional issues:
+- Abnormal CT Chest - CTU from ___ ED visit showed "There is a 
+4 mm nodule in the left lower lobe" which should have f/u CT 
+scan in ___ year
+- to complete 7 day course of ciprofloxacin for pyelonephritis
+- should have f/u with urology for evaluation of non-obstructive 
+kidney stones
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetronidAZOLE Topical 1 % Gel 1 Appl TP DAILY 
+2. Prempro (conj estrog-medroxyprogest ace) 0.3-1.5 mg oral 
+DAILY 
+3. Pantoprazole 40 mg PO Q24H 
+4. Vitamin D 1000 UNIT PO DAILY 
+5. PreserVision AREDS 2 (vit C,E-Zn-coppr-lutein-zeaxan) 
+250-200-40-1 mg-unit-mg-mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*12 Tablet Refills:*0 
+2.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram 1 powder(s) by 
+mouth daily:prn Disp #*10 Packet Refills:*0 
+3.  Senna 8.6 mg PO DAILY 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth BID:prn Disp #*10 
+Tablet Refills:*0 
+4.  MetronidAZOLE Topical 1 % Gel 1 Appl TP DAILY  
+5.  Pantoprazole 40 mg PO Q24H  
+6.  Prempro (conj estrog-medroxyprogest ace) 0.3-1.5 mg oral 
+DAILY  
+7.  PreserVision AREDS 2 (vit C,E-Zn-coppr-lutein-zeaxan) 
+250-200-40-1 mg-unit-mg-mg oral DAILY  
+8.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pyelonephritis
+Nephrolithiasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___, 
+It was a pleasure caring for you at ___.  You were admitted 
+with abdominal pain and found to have an infection in your 
+kidney. Please continue your antibiotics as directed.
+
+On a recent CT scan from the emergency department, a small 
+nodule in your lung was noticed.  The radiologists recommended 
+you have a repeat CT scan in ___ year.
+
+Please follow-up with your PCP ___ ___ weeks of discharge. 
+Please call their office at  ___ to make an 
+appointment. You can receive a referral for the urologist from 
+your PCP at that appointment.
+
+Please take care,
+Your ___ Team 
+ 
+Followup Instructions:
+___

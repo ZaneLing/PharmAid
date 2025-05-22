@@ -1,0 +1,315 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers, dysuria, urinary incontinence
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with no significant medical history, who was referred to
+___ ED with fevers, dysuria, and urinary incontinence.
+
+Patient was in his usual state of health until two days prior to
+admission. At that time, he noticed he was having some 
+difficulty
+urinating, with associated dysuria and urinary frequency. On
+___, he had fever/chills, but did not check his temperature.
+Reported two episodes of urinary incontinence earlier yesterday
+which prompted his presentation to urgent care. Noted to have a
+temp of ___, with improvement to ___ after administration of
+Tylenol. EMS were called and patient was transferred to ___ 
+ED.
+
+On further questioning, patient denied urgency, hematuria,
+abdominal pain, or CVA tenderness. Also denied viral URI
+symptoms, cough, sputum production, nausea/vomiting, or 
+diarrhea.
+
+In the ED, initial VS were notable for;
+Temp 102.0  HR 110  BP 117/57  RR 18  SaO2 98% RA
+
+Examination notable for;
+Tachycardic, diaphoretic, soft/non-tender abdomen, scattered
+rhonchi bilaterally, breathing comfortably on room air
+
+Labs were notable for;
+WBC 16.9  Hgb 12.5  Plt 156
+Na 134  K 4.1  Cl 102  HCO3 17  BUN 17  Cr 1.1  Gluc 120 
+ALT 16  AST 17  ALP 62  Tbili 1.0  Alb 3.9  Lipase 15
+Lactate 1.4 -> 2.8 -> 2.7
+
+Urine studies notable for moderate leuks, negative nitrites, 27
+WBC, and few bacteria. Influenza A/B PCR negative.
+
+CXR demonstrated no acute cardiopulmonary abnormality.
+
+Patient was given;
+- 1L NS 
+- 2L LR
+- IV ceftriaxone 1g
+- IV ketorolac 15mg
+- IV acetaminophen 1000mg
+
+Vital signs on transfer;
+Temp 98.7  HR 106  BP 115/75  RR 20  SaO2 95% RA
+
+Upon arrival to the floor, patient repeats the above story.
+Currently, he feels well. Only experiences pain when urinating,
+and otherwise no complaints. Generally very healthy, first time
+he has ever been in hospital.
+
+ 
+Past Medical History:
+- Previous type II diabetes mellitus
+ 
+Social History:
+___
+Family History:
+Father died aged ___ from prostrate cancer. Sister recently died
+aged ___ of cancer of unknown etiology.
+ 
+Physical Exam:
+ADMISSION EXAM
+----------------
+VS: Temp 101.9  BP 128/78  HR 106  RR 20  SaO2 98 RA 
+GENERAL: lying comfortably in bed, non-toxic, no distress
+HEENT: AT/NC, no conjunctival pallor, anicteric sclera, MMM
+NECK: supple, non-tender, JVP not elevated 
+CV: RRR, S1 and S2 normal, no murmurs/rubs/gallops
+RESP: CTAB, no wheezes/crackles
+___: soft, non-tender, no distention, no CVA tenderness, BS
+normoactive
+EXTREMITIES: warm, well perfused, no lower extremity edema
+NEURO: A/O x3, otherwise grossly intact 
+
+DISCHARGE EXAM
+----------------
+V/S: 24 HR Data (last updated ___ @ 715)
+    Temp: 98.4 (Tm 99.4), BP: 123/79 (123-134/67-80), HR: 73
+(72-86), RR: 20 (___), O2 sat: 97% (97-99), O2 delivery: RA  
+GENERAL: NAD. 
+CV: RRR, S1 and S2 normal, no murmurs/rubs/gallops
+RESP: CTAB, no wheezes/crackles
+___: soft, nd, nt, no suprapubic ttp or CVAT. 
+EXTREMITIES: warm, no ___. 
+NEURO: grossly intact 
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 08:09PM BLOOD WBC-16.9* RBC-4.54* Hgb-12.5* Hct-38.0* 
+MCV-84 MCH-27.5 MCHC-32.9 RDW-13.7 RDWSD-42.2 Plt ___
+___ 08:09PM BLOOD Neuts-80.4* Lymphs-9.5* Monos-8.4 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-13.56* AbsLymp-1.61 
+AbsMono-1.42* AbsEos-0.00* AbsBaso-0.04
+___ 08:09PM BLOOD Glucose-120* UreaN-17 Creat-1.1 Na-134* 
+K-4.1 Cl-102 HCO3-17* AnGap-15
+___ 08:09PM BLOOD ALT-16 AST-17 AlkPhos-62 TotBili-1.0
+___ 08:09PM BLOOD Lipase-15
+___ 08:09PM BLOOD Albumin-3.9
+___ 08:00AM BLOOD %HbA1c-6.0 eAG-126
+
+DISCHARGE LABS
+===============
+___ 06:21AM BLOOD WBC-5.5 RBC-4.34* Hgb-11.7* Hct-35.6* 
+MCV-82 MCH-27.0 MCHC-32.9 RDW-13.7 RDWSD-40.8 Plt ___
+___ 06:21AM BLOOD Glucose-100 UreaN-11 Creat-1.0 Na-139 
+K-4.1 Cl-103 HCO3-21* AnGap-15
+
+MICROBIOLOGY
+===============
+
+___ 8:58 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--    16 I
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+___ BCx NGTD
+
+REPORTS
+===============
+CXR:
+No acute cardiopulmonary abnormality. 
+
+Renal U/S:
+1. No hydronephrosis.  Ultrasound provides limited assessment, 
+but no gross 
+abnormality. 
+2. Diffusely thickened bladder wall and markedly enlarged 
+prostate suggests 
+chronic outlet obstruction. 
+
+CT abd/pelvis
+1. No nephrolithiasis or hydronephrosis. 
+2. Mild bladder wall thickening may relate to chronic bladder 
+outlet 
+obstruction in the setting of prostatomegaly versus cystitis 
+given the history 
+of urosepsis. 
+  
+
+ 
+Brief Hospital Course:
+___ with a history of BPH and HLD, who was referred to ___ ED 
+from his PCP's office with fevers, dysuria, and urinary 
+incontinence, found to have a UTI and treated with IV 
+antibiotics.
+
+___ with a history of BPH and HLD, who was referred to ___ ED 
+from his PCP's office with fevers, tachycardia, dysuria, and new 
+urinary incontinence, found to have urosepsis and treated with 
+IV antibiotics.
+
+====================
+ACUTE/ACTIVE ISSUES:
+====================
+# Urosepsis 
+Presented with three days of dysuria, urinary frequency, urinary 
+incontinence and fevers, concerning for UTI. Febrile to ___ on 
+presentation, and fevers were as high as 104 over course of 
+admission. Urine studies with 27 WBCs and few bacteria, 
+consistent with possible infection. Lactate initially 1.4, but 
+up-trended to 2.8 following an episode of hypotension (sBP ___, 
+eventually downtrended to 1.5 following aggressive IVF. Started 
+on IV ceftriaxone 1g in the ED, broadened to meropenem on ___ 
+when patient was persistently febrile and tachycardic; this was 
+narrowed to ceftazidime on ___, on the advice of the pharmacy 
+team. Renal ultrasound showed thickened bladder wall, very 
+enlarged prostate, and evidence of chronic obstruction, 
+suggestive of BPH. Given his persistent sepsis after 2 days of 
+IVF and antibiotics, CT Abd/Pelvis was obtained on ___, which 
+showed no e/o abscess. Urine cultures ultimately grew E.Coli, 
+sensitive to cephalosporins, and antibiotic regimen was narrowed 
+to PO cefpodoxime bid prior to discharge (___), to 
+complete a 10 day course (set to end on ___. 
+
+# BPH 
+Patient has been diagnosed with BPH in the past, with regular 
+prostate exams and borderline high PSA in the ___ range. Had 
+been on terazosin, states he stopped taking this "months" ago, 
+for unclear reasons. Does not recall ever being on finasteride 
+or tamsulosin; started both while inpatient, given his evidence 
+of enlarged prostate and chronic obstruction on renal 
+ultrasound. 
+
+TRANSITIONAL ISSUES:
+===================
+[ ] Newly started on finasteride and tamsulosin, for his BPH. 
+Monitor BPH symptoms and consider referral to Urology for BPH 
+symptoms if not improved on these new meds. 
+[ ] Patient had been on atorvastatin in past, but is no longer 
+taking. Consider resuming as an outpatient based on ASCVD risk. 
+
+#CODE STATUS: Full
+#CONTACT: ___, daughter/HCP, ___
+
+ 
+___ on Admission:
+None.
+ 
+Discharge Medications:
+1.  Cefpodoxime Proxetil 400 mg PO/NG Q12H 
+Take one tablet twice daily until ___ for a total 10-day 
+course. 
+RX *cefpodoxime 200 mg 2 tablet(s) by mouth twice daily Disp 
+#*11 Tablet Refills:*0 
+2.  Finasteride 5 mg PO DAILY 
+RX *finasteride 5 mg one tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Tamsulosin 0.4 mg PO QHS 
+RX *tamsulosin 0.4 mg one capsule(s) by mouth every evening Disp 
+#*30 Capsule Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Urosepsis
+Urinary Tract Infection
+
+SECONDARY DIAGNOSIS
+===================
+Benign Prostatic Hyperplasia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+Dear Mr. ___, 
+
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You had high fevers and urinary incontinence, and were found 
+to have a urinary tract infection. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- We gave you IV antibiotics to treat your urinary tract 
+infection and switched to oral antibiotics. 
+- We got an ultrasound, which showed you had a very large 
+prostate - which likely caused your infection. 
+- We started you on new medications to treat your enlarged 
+prostate. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments. 
+- You will need to take your oral antibiotic cefpodoxime twice 
+daily until ___.  
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team 
+ 
+Followup Instructions:
+___

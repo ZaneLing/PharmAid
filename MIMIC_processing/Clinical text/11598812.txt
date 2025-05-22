@@ -1,0 +1,223 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+atorvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Ear pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with a history of chronic nasal congestion, hypertension,
+hyperlipidemia, GERD, and seasonal allergies, who initially
+presented to Urgent Care with persistent right ear pain and
+drainage, subsequently transferred to ___ for further
+evaluation.
+
+Patient has chronic issues with nasal congestion, sinusitis, and
+reduced hearing, for which he follows with ENT at ___. 
+However,
+on ___, he reports developing a sensation of right ear 
+blockage
+with associated further reduction in hearing and pain. Evaluated
+by his PCP ___ ___ who felt his presentation was consistent 
+with
+acute otitis externa and prescribed ciprofloxacin eardrops BID
+for seven days. Although he initially noticed some improvement 
+in
+his symptoms, upon completion of course of ear drops, symptoms
+recurred, this time with additional discharge of yellow colored
+fluid. Presented to Urgent Care on ___ no evidence of
+mastoiditis or signs of malignant otitis externa. Given the
+degree of edema an ear wick was placed, and patient was
+prescribed a further course of ciprofloxacin ear drops, in
+addition to oral ciprofloxacin. Over the subsequent two days,
+right ear pain persisted, with continued discharge, occasionally
+mixed with small amounts of blood. Also developed some mild pain
+behind his right ear over these two days. Represented to Urgent
+Care; given persistent and worsening symptoms, and concern for
+more severe infection, he was referred to ___ ED for further
+evaluation. Of note, reported subjective fever/chills over the
+past few days, however did not measure his temperature.
+
+In the ED, initial VS were notable for;
+Temp 98.7  HR 79  BP 146/69  RR 16  SaO2 97% RA
+
+Examination notable for;
+Sitting comfortably in chair, left ear canal clear, right ear
+canal with white purulent discharge blocking view of ear drum,
+mild erythema behind right ear with associated mild tenderness
+with palpation, throat clear, no LAD.
+
+Labs were notable for;
+WBC 6.4  Hgb 14.8  Plt 285
+___ 12.1  PTT ___  INR 1.1
+Na 138  K 4.2  Cl 103  HCO3 27  BUN 16  Cr 0.7  AnGap 8
+
+CT orbits with contrast demonstrated cerumen within the right
+external auditory canal, the middle ear cavity is clear, there 
+is
+mild partial opacification of less than 50% of the mastoid air
+cells, which could be infectious or inflammatory, the tegmen
+tympani is preserved, no fracture is seen, left ear normal.
+
+Patient was given;
+- IV Unasyn 3g
+
+Vital signs on transfer notable for;
+Temp 97.7  HR 62  BP 141/75  RR 18  SaO2 99% RA
+
+Upon arrival to the floor, patient repeats the above story.
+Currently his pain is still present, although slightly improved. 
+
+
+ 
+Past Medical History:
+-HTN
+-Hypercholesterolemia
+-GERD
+-Eczema
+-Gout 
+-Allergic rhinitis
+-Carpal tunnel syndrome  
+ 
+Social History:
+___
+Family History:
+M: HTN
+F: HTN
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=======================
+VS: Temp: 98.0 BP: 163/84 HR: 61 RR: 16 SaO2 100% RA
+
+GENERAL: sitting comfortably in bed, no acute distress
+HEENT: AT/NC, no conjunctival pallor, anicteric sclera, MMM,
+right ear canal erythematous with purulent discharge in canal,
+unable to see TM, mild erythema in postauricular region, mild
+tenderness with palpation of same area and pinna, left ear 
+normal
+NECK: supple, non-tender, no cervical LAD
+CV: RRR, S1 and S2 normal, no murmurs/rubs/gallops
+RESP: CTAB, no wheezes/crackles
+___: soft, non-tender, no distention, BS normoactive
+EXTREMITIES: warm, well perfused, no lower extremity edema
+NEURO: A/O x3, moving all four extremities with purpose, CNs
+grossly intact
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VS: 24 HR Data (last updated ___ @ 739)
+    Temp: 97.7 (Tm 98.0), BP: 112/66 (112-163/66-84), HR: 65
+(56-65), RR: 18 (___), O2 sat: 98% (98-100), O2 delivery: Ra  
+GENERAL: lying in bed, appears comfortable
+HEENT: R ear erythematous with clear yellow drainage 
+appreciated,
+no lymphadenopathy appreciated, oropharynx is clear
+NEURO: AAox3, grossly intact
+ 
+Pertinent Results:
+___ 03:50PM BLOOD WBC-6.4 RBC-4.98 Hgb-14.8 Hct-43.6 MCV-88 
+MCH-29.7 MCHC-33.9 RDW-13.2 RDWSD-41.8 Plt ___
+___ 03:50PM BLOOD Neuts-66.0 ___ Monos-9.1 Eos-1.6 
+Baso-0.5 Im ___ AbsNeut-4.21 AbsLymp-1.44 AbsMono-0.58 
+AbsEos-0.10 AbsBaso-0.03
+___ 03:50PM BLOOD Glucose-112* UreaN-16 Creat-0.7 Na-138 
+K-4.2 Cl-103 HCO3-27 AnGap-8*
+ 
+Brief Hospital Course:
+___ ___ chronic nasal congestion and seasonal allergies who
+presented to urgent care for persistent otitis externa referred
+in the ___ ED where he was admitted to the general medical 
+service for ENT evaluation. ENT evaluated him and on exam saw a 
+perforated tympanic membrane with drainage, suggested he likely 
+had ruptured otitis media. He was continued on cipro ear drops 
+and given IV Unasyn while inpatient. ENT recommended he continue 
+the cipro ear drops for 14d and be given a 14d course of 
+augmentin and will then follow up in their clinic.
+
+Transitional Issues:
+[ ] Last day of antibiotics is ___
+[ ] Follow up in ___ clinic to assess for improvement/resolution
+
+The total time spent today on discharge planning, counseling and 
+coordination of care today was greater than 30 minutes.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 100 mg PO DAILY 
+2. NIFEdipine (Extended Release) 60 mg PO DAILY 
+3. Simvastatin 20 mg PO QPM 
+4. Fluticasone Propionate NASAL 2 SPRY NU BID 
+5. Loratadine 10 mg PO DAILY 
+6. Pantoprazole 20 mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet(s) by 
+mouth twice a day Disp #*26 Tablet Refills:*0 
+3.  Ciprofloxacin 0.3% Ophth Soln 3 DROP BOTH EARS BID Right ear 
+
+RX *ciprofloxacin HCl 0.2 % 3 drops in the right ear twice a day 
+Disp #*1 Bottle Refills:*0 
+4.  Fluticasone Propionate NASAL 2 SPRY NU BID  
+5.  Loratadine 10 mg PO DAILY  
+6.  Metoprolol Succinate XL 100 mg PO DAILY  
+7.  NIFEdipine (Extended Release) 60 mg PO DAILY  
+8.  Pantoprazole 20 mg PO Q12H  
+9.  Simvastatin 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Otitis media
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+Please read the following information about your recent 
+hospitalization:
+
+WHY WAS I HOSPITALIZED?
+You had an ear infection
+
+WHAT WAS DONE FOR ME WHILE I WAS IN THE HOSPITAL?
+The ear nose and throat doctors ___ and it looks like 
+you have an infection in your middle ear. This will be treated 
+with ear drops and oral antibiotics. 
+
+WHAT SHOULD I DO WHEN I GO HOME?
+Please attend your follow up appointments as listed below
+Please take all of your medications as prescribed. The last day 
+of antibiotics is ___
+
+It was a pleasure caring for you. We wish you the best!
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

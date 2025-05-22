@@ -1,0 +1,240 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nausea, vomiting, abdominal pain, hematemesis
+ 
+Major Surgical or Invasive Procedure:
+Esophagogastroduodenoscopy
+
+ 
+History of Present Illness:
+Mr ___ is a ___ with osteoarthritis and idiopathic 
+hypertrophic subaortic stenosis (mild, on ASA only, followed at 
+___), recently s/p right rotator cuff surgery, who presents with 
+nausea, vomiting, abdominal pain, and hematemesis.
+
+He says that after his surgery he took oxycodone; he took a 
+stool softener with it but it was not entirely effective and so 
+he became somewhat constipated, passing harder stools. In that 
+context he had several episodes where he passed a formed (hard) 
+stool followed by a variable amount of bright red blood that 
+filled the toilet, with bright red blood on toilet paper upon 
+wiping. He was not terribly worried by this as he assumed it was 
+hemorrhoidal.
+
+He also admits to overuse of alcohol ("I work in ___ so I 
+drink several beers a few nights a week, try to lay off the hard 
+stuff") as well as nonsteroidals due to arthritis ("I'm a former 
+marathon runner and my knees are shot"). He had been using more 
+NSAIDs recently because of the surgery.
+
+On ___ AM (the day of his presentation), he had onset of 
+fairly severe sharp to pressurelike epigastric pain associated 
+with nausea and vomiting. The vomiting episode occurred with 
+four bouts of retching. He vomited bile and some coffee grounds 
+at first, and then bright red blood thereafter. 
+
+This brought him to the ED, where he had stable vital signs. He 
+was given GI cocktail and a small amount of morphine with relief 
+of his pain and nausea. His labs showed AST predominant 
+transaminitis and a mild progressive anemia. Admission was 
+requested for close monitoring.
+
+ROS: Negative in 10 points except as noted above
+ 
+Past Medical History:
+osteoarthritis and idiopathic hypertrophic subaortic stenosis 
+(mild, on ASA only, followed at BWH), recent right rotator cuff 
+surgery, lung wedge resection for a nodule (benign pathology)
+ 
+Social History:
+___
+Family History:
+Sister with some recent GI difficulty, he thinks gallstones. No 
+history of GI bleeding that he knows of. Hypertrophic 
+cardiomyopathy runs in the family, and there has been SCD.
+ 
+Physical Exam:
+ADMISSION EXAM:
+ Vitals  AVSS normotensive not tachy
+ Gen NAD, quite pleasant
+ Abd soft, NT, ND, bs+
+ CV RRR, soft systolic murmur
+ Lungs CTA ___
+ Ext WWP, no edema
+ Skin no rash, anicteric
+ GU no foley
+ Eyes EOMI
+ HENT MMM, OP clear
+ Neuro nonfocal, moves all extremities, steady gait
+ Psych normal affect
+
+DISCHARGE EXAM:
+Vital Signs: 97.6 129/72 57 18 98%RA
+Pain ___
+GEN: Alert, NAD
+HEENT: NC/AT
+CV: RRR, no m/r/g
+PULM: CTA B 
+GI: soft, very mild epigastric ttp without rebound or guarding, 
++BS
+NEURO: Non-focal
+ 
+Pertinent Results:
+Admission Labs:
+___ 02:05PM BLOOD WBC-12.7*# RBC-4.45* Hgb-13.5* Hct-38.8* 
+MCV-87 MCH-30.3 MCHC-34.8 RDW-12.3 RDWSD-39.1 Plt ___
+___ 02:05PM BLOOD Neuts-85.5* Lymphs-8.8* Monos-5.0 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-10.85* AbsLymp-1.11* 
+AbsMono-0.64 AbsEos-0.01* AbsBaso-0.02
+___ 02:05PM BLOOD ___ PTT-27.5 ___
+___ 02:05PM BLOOD Glucose-102* UreaN-12 Creat-0.8 Na-136 
+K-3.9 Cl-98 HCO3-26 AnGap-16
+___ 02:05PM BLOOD ALT-87* AST-143* AlkPhos-56 TotBili-0.7
+___ 02:05PM BLOOD Lipase-24
+
+___ 01:33PM BLOOD Iron-47
+___ 01:33PM BLOOD calTIBC-298 Ferritn-198 TRF-229
+___ 01:33PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE 
+HBcAb-NEGATIVE HAV Ab-NEGATIVE IgM HAV-NEGATIVE
+___ 01:33PM BLOOD ___
+___ 01:33PM BLOOD IgA-122
+___ 05:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG
+___ 01:33PM BLOOD tTG-IgA-3
+___ 01:33PM BLOOD HCV Ab-NEGATIVE
+
+IMMUNOGLOBULIN G SUBCLASS 1   676                 
+IMMUNOGLOBULIN G SUBCLASS 2   410               
+IMMUNOGLOBULIN G SUBCLASS 3   39             
+IMMUNOGLOBULIN G SUBCLASS 4   21              
+IMMUNOGLOBULIN G, SERUM       1212          
+
+Discharge Labs:
+___ 06:06AM BLOOD WBC-4.6 RBC-4.17* Hgb-12.4* Hct-36.8* 
+MCV-88 MCH-29.7 MCHC-33.7 RDW-12.4 RDWSD-39.8 Plt ___
+___ 06:06AM BLOOD ___ PTT-29.9 ___
+___ 06:06AM BLOOD Glucose-103* UreaN-8 Creat-0.8 Na-140 
+K-3.9 Cl-105 HCO3-24 AnGap-15
+___ 06:46AM BLOOD ALT-168* AST-142* AlkPhos-63 TotBili-0.9
+___ 06:06AM BLOOD Calcium-9.3 Phos-2.9 Mg-1.9
+
+RUQ U/S - IMPRESSION: 
+Gallbladder sludge without evidence of acute cholecystitis or 
+cholelithiasis.
+
+EGD
+A small area of erythema was seen at the GE junction, but no 
+tear was identified.
+Erythema and friability in the antrum compatible with mild 
+gastritis (biopsy)
+Otherwise normal EGD to third part of the duodenum
+
+Biopsy
+ - Antral mucosa with reactive (chemical-type) gastropathy with 
+surface erosion and focally active
+ inflammation.
+ - Immunostain for Helicobacter species is in progress and the 
+results will be reported in a revised
+ 
+ 
+Brief Hospital Course:
+___ y/o M with PMHx of OA and idiopathic hypertrophic subaortic 
+stenosis, as well as recent right rotator cuff surgery, who 
+presents with intermittent BRBPR (which he has attributed to 
+hemorrhoidal bleeding), as well as 1 day of epigastric pain with 
+associated hematemesis (in the setting of increased NSAID use 
+following recent surgery).
+
+# Acute blood loss anemia / Hemetemesis / Hematochezia: Pt with 
+mixed picture, including e/o LGIB as well as UGIB. Agree that 
+LGIB likely hemorrhoidal in nature, given report of more 
+longstanding intermittent history of this as well as recent 
+constipation. He had no further episodes in house. He is due for 
+colonoscopy, and this was scheduled for him prior to discharge. 
+Given downtrend in Hct as well as transaminitis, EGD was 
+performed to evaluate for possible variceal source of bleeding. 
+EGD was largely unremarkable. Ultimately, abdominal pain and 
+hematemesis were felt to be related to either viral 
+gastroenteritis with small MW tear versus NSAID induced 
+gastropathy. Pt was started on PPI BID. Abdominal pain was 
+resolved by the time of discharge. Of note, EGD biopsies were 
+still pending at the time of discharge and will need to be 
+followed up.
+
+# Transaminitis: Unclear etiology. RUQ U/S unrevealing. 
+Hepatitis serologies, IgG, ___, iron studies,TTG WNL. 
+Potentially could be related to NSAID use. Pt will need to 
+follow up with GI as an outpatient.
+
+# Osteoarthritis: Avoiding NSAIDs given above. Advised to use 
+Tylenol PRN for pain.
+
+# IHSS: No acute issues.
+
+TRANSITIONAL ISSUES:
+- f/u EGD biopsies
+- trend transaminases, f/u with GI
+- needs colonoscopy
+- Of note, pt reported some mild lightheadedness with standing. 
+Orthostatics were initially borderline positive. Improved with 
+IVF's. This should be followed up at PCP visit to ensure it has 
+completely resolved.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Ibuprofen 400 mg PO Q6H:PRN pain 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+You should restart this medication when told it is ok by your 
+surgeons. 
+2. Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0
+3. Acetaminophen 650 mg PO/PR Q4H:PRN Pain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hematemesis
+Hematochezia
+Transaminitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You presented to the hospital after you vomited blood at home. 
+Your blood counts were trended and have remained stable overall. 
+You had an endoscopy performed, which did not show any 
+concerning findings. Your abdominal pain, nausea, and vomiting 
+were likely related to medications (NSAIDs) vs. viral stomach 
+bug. You are now being discharged home.
+
+Of note, while you were here, your liver enzymes were noted to 
+be elevated. You also reported intermittent blood in your 
+stools. It is very important to follow up with the stomach 
+doctors as ___ to have a colonoscopy as well as an 
+evaluation of your liver.
+ 
+Followup Instructions:
+___

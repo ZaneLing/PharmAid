@@ -1,0 +1,376 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left-sided sensory changes and ataxia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with a history of hypertension
+who was transferred from an outside hospital after he presented
+there with left-sided sensory changes and ataxia, for which he
+received TPA.
+
+He was in his usual state of health today and lie down on the
+couch with his grandson at approximately 4:30 ___.  At 5 ___ he
+describes the onset of a sudden sense of tingling in the left
+leg.  He has never had anything similar before.  He felt the 
+need
+to move around so he tried to move his grandson.  When he did 
+so,
+he noted that it was very difficult to control his left arm.  He
+denies weakness, but rather states that it was hard to control. 
+He then tried to stand and noted the same sense of poor control
+in the left leg.  He tried to put on shoes but was unable to do
+so due to lack of coordination.  At some point he also
+experienced the onset of similar tingling in the left arm and
+face.
+
+He was brought to ___, initial blood pressure
+was 159/100.  Exam is notable for left arm and leg ataxia.  ___
+stroke scale was 2 for these problems, though he also reported
+odd sensations in the left arm and leg.  CT head and CTA head 
+and
+neck were obtained and were reportedly unremarkable.  
+Tele-stroke
+evaluation was obtained and it was recommended that he be given
+TPA.  Bolus was given at 20:11.  He was transferred here for 
+post
+TPA care.
+
+On arrival to ___, he states that the discoordination in
+his arm and leg are now gone.  He states that this occurred 
+about
+an hour after receiving the TPA.  10 used experienced some 
+slight
+sensory abnormalities in the left arm, leg, and face.  He denies
+any weakness, dysarthria, dysphagia, vision changes, vertigo,
+headache.
+ 
+ 
+On general review of systems, the patient denies recent fever, 
+chills, night sweats, or recent weight changes. Denies cough,
+shortness of breath, chest pain or tightness, palpitations. 
+Denies nausea, vomiting, diarrhea, constipation or abdominal
+pain.  Denies dysuria, or recent change in bowel or bladder
+habits.  Denies arthralgias, myalgias, or rash.
+ 
+Past Medical History:
+Hypertension
+ 
+Social History:
+___
+Family History:
+No family history of stroke.  Both parents, and 1 of his 
+brothers have heart disease.                           
+ 
+Physical Exam:
+==============
+ADMISSION EXAM
+==============
+Vitals: T: 98.1 HR: 52 RR: 16 BP: 114/74 PO: 97% RA
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in 
+oropharynx.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands. There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation.
+V: Reports decreased sensation to pinprick (90% of normal) left
+V3 distribution.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    5
+R    5    5    5    5    5    5   5    5    5   5    5    5
+
+-Sensory: Reports decreased pinprick sensation in the left leg,
+70% of normal, and left arm, 90% of normal compared to right. 
+Otherwise intact sensation.  No extinction to DSS. Romberg
+absent. 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     1
+R   2     2      2      2     1 
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF or HKS bilaterally.  No
+overshoot with mirror testing.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Able to walk in tandem without difficulty. 
+
+==============
+DISCHARGE EXAM
+==============
+Vitals: Tmax: 37.4 °C (99.4 °F)
+Tcurrent: 36.6 °C (97.8 °F)
+HR: 53 (48 - 91) bpm
+BP: 105/76(87) {105/72(83) - 128/87(98)} mmHg
+RR: 14 (13 - 24) insp/min
+SpO2: 94% 
+Heart rhythm: SB (Sinus Bradycardia)
+
+General: Awake, cooperative, NAD.
+HEENT: NC/AT.
+Neck: Supple.
+Pulmonary: Normal work of breathing.
+Cardiac: Warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history 
+without difficulty. Attentive. Language is fluent. Normal 
+prosody. There were no paraphasic errors. No dysarthria. Able to 
+follow both midline and appendicular commands. There was no 
+evidence of apraxia or neglect.
+
+-Cranial Nerves: PERRL 4 to 2mm and brisk. EOMI without 
+nystagmus. VFF to  confrontation. No facial droop, facial 
+musculature symmetric. Hearing grossly intact to speech. ___ 
+strength in trapezii bilaterally. 
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No 
+adventitious movements, such as tremor or asterixis noted.
+  [___]
+L    5    5    5    5             5    5    5   5    5    
+R    5    5    5    5             5    5    5   5    5    
+
+-Sensory: Reports slightly decreased sensation to light touch on 
+left side, improved. 
+
+-Coordination: No intention tremor. Normal finger-tap 
+bilaterally. No dysmetria on FNF or HKS bilaterally.  No 
+overshoot with mirror testing.
+
+-Gait: Normal. 
+
+ 
+Pertinent Results:
+====
+LABS
+====
+___ 11:16PM BLOOD WBC-8.6 RBC-5.22 Hgb-15.7 Hct-46.1 MCV-88 
+MCH-30.1 MCHC-34.1 RDW-12.6 RDWSD-40.8 Plt ___
+___ 11:16PM BLOOD Neuts-60.2 ___ Monos-7.1 Eos-1.0 
+Baso-0.6 Im ___ AbsNeut-5.17 AbsLymp-2.65 AbsMono-0.61 
+AbsEos-0.09 AbsBaso-0.05
+___ 07:00AM BLOOD ___ PTT-28.3 ___
+___ 11:16PM BLOOD Glucose-93 UreaN-17 Creat-1.0 Na-141 
+K-4.6 Cl-107 HCO3-22 AnGap-12
+___ 11:16PM BLOOD ALT-24 AST-22 AlkPhos-93 TotBili-0.8
+___ 11:16PM BLOOD cTropnT-<0.01
+___ 07:00AM BLOOD Calcium-8.8 Phos-2.6* Mg-2.0
+___ 08:56AM BLOOD %HbA1c-5.3 eAG-105
+___ 08:56AM BLOOD Triglyc-169* HDL-41 CHOL/HD-5.0 
+LDLcalc-130*
+___ 07:00AM BLOOD Homocys-PND
+___ 11:16PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 11:27PM BLOOD Glucose-90 Lactate-1.4 Na-141 K-4.3 
+Cl-107 calHCO3-23
+
+=======
+IMAGING
+=======
+- ___ MRI Head
+1. No evidence of acute infarction, hemorrhage, or mass lesion. 
+
+- ___ TTE
+Large right-to-left shunt of microbubbles into the left atrium 
+c/w a stretched PFO/atrial septal defect. Normal biventricular 
+cavity sizes, regional/global systolic function. Mild mitral 
+regurgitation with normal valve morphology.
+
+- ___ Bilateral Lower Extremity Venous Ultrasound
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+
+- ___ CTA/CTV Abdomen & Pelvis
+1. Patent venous vasculature, without evidence of thrombus. 
+2. No acute intra-abdominal process. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ man with a history of hypertension 
+who was transferred to ___ after the acute onset of 
+left-sided ataxia and sensory changes, for which he received 
+TPA. On arrival to ___, his ataxia had completely 
+resolved he reported only mild sensory loss on the left side. 
+MRI did not show an acute stroke. Stroke workup revealed 
+increased LDL. TTE with large PFO/ASD and R-to-L shunting 
+raising c/f cryptogenic stroke. He is at increased risk for DVT 
+given his job as a ___. Lower extremity Dopplers and 
+CTV of the pelvic veins was negative for any deep venous 
+thrombi. He was discharged on aspirin and atorvastatin. 
+Hypercoagulability labs were sent and will be followed up. The 
+final diagnosis was aborted stroke, with possible etiology due 
+to DVT from his risk factors of being a ___ and having 
+a large PFO. If this was in fact the case, he is fortunate to 
+have presented to care very quickly and receiving tPA in less 
+than 3 hours from symptoms onset. 
+
+- Follow-up labs: anti-cardiolipin antibodies, lupus 
+anticoagulant, beta-2-microglobulin, protein C panel, protein S 
+panel, antithrombin activity, and homocysteine. 
+- Will schedule follow-up with Dr. ___. 
+
+============================
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack  
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed () No. If no, reason why:  
+2. DVT Prophylaxis administered? (x) Yes - () No. If no, why not 
+(I.e. bleeding risk, hemorrhage, etc.)  
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No. If not, why not? (I.e. bleeding risk, 
+hemorrhage, etc.)
+4. LDL documented? (x) Yes (LDL = 130) - () No  
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) (x) Yes - () No [if LDL 
+>70, reason not given:  
+ [ ] Statin medication allergy  
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist  
+ [ ] LDL-c less than 70 mg/dL  
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]  
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+8. Assessment for rehabilitation or rehab services considered? 
+() Yes - (x) No. If no, why not? Patient at baseline functional 
+status. 
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >70, 
+reason not given:  
+ [ ] Statin medication allergy  
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist  
+ [ ] LDL-c less than 70 mg/dL  
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No  
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - If no, why not (I.e. 
+bleeding risk, etc.) (x) N/A  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. bisoprolol fumarate 10 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*2 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth QPM Disp #*30 Tablet 
+Refills:*2 
+3.  bisoprolol fumarate 10 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cerebral embolism
+Patent foramen ovale
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ You were hospitalized due to symptoms of weakness likely 
+resulting from an ACUTE ISCHEMIC STROKE, a condition where a 
+blood vessel providing oxygen and nutrients to the brain is 
+blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms. At the previous hospital, you were 
+given a clot-busting medication called tPA which may have 
+dissolved the clot before it caused you any permanent injury. 
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+An echocardiogram of your heart showed a PFO (patent foramen 
+ovale) which is a communication between two of the chambers of 
+your heart and can cause clots from your veins to pass through 
+to your arteries and cause stroke. In order to prevent future 
+strokes, we plan to modify those risk factors. Your risk factors 
+are the following: 
+- High cholesterol. 
+- Patent foramen ovale. 
+ 
+ We are changing your medications as follows:  
+ - START taking aspirin 81mg daily. 
+ - START taking atorvastatin 40mg daily. 
+
+ Please take your other medications as prescribed.  
+ Please followup with Neurology and your primary care physician. 
+ 
+ If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+ Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,203 @@
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Bradycardia, transfer
+ 
+Major Surgical or Invasive Procedure:
+Implantation of Dual Chamber Pacemaker (___)
+
+ 
+History of Present Illness:
+Ms ___ is an ___ w/h/o AFib on eliquis, AVR, transferred from 
+___ due to c/f complete heart block.  
+ Pt was in USOH until this AM, while at work she had sudden 
+syncope w/o prodrome, was caught by co-workers before she hit 
+the floor. EMS found the pt bradycardic to ___ with ?CHB. At 
+___, rate improved (HR 50-60s, sinus rhythm, known RBBB 
+and LAFB). , however had another episode on tele w/?CHB 
+w/bradycardia which self-resolved. Pt with mildly low K/Mg which 
+were repleted at OSH. Transferred here for higher level of cards 
+care. No dyspnea, dizziness, CP, fevers/chills, additional 
+complaints. Since being admitted to ___ ED no more episodes of 
+complete heart block were seen. On telemetry she remained in 
+sinus rhythm at 55-65 bpm, PR slightly prolonged (205 ms), RBBB, 
+LAFB, QTc wnl.  
+ In the ED, initial vitals were: T97.0 66 177/60 17 97% RA  
+ - Exam notable for: N/A  
+ - Labs notable for: WBC 10.6, Cr 0.7, Trop neg x1, UA w/15 WBC, 
+Pos Nit, Few bact  
+ - Imaging was notable for: N/A  
+ - Patient was given: N/A  
+ - VS prior to transfer: T97.6 61 153/60 19 96% RA  
+ 
+ Upon arrival to the floor, patient reports LOC of only a few 
+seconds while at work. Denies headstrike. No vertigo, no 
+lh/dizziness. no chest pain, sob, orthopnea. no f/c/ns, abd 
+pain, n/v/d/c, dysuria. occ BRB on TP. No black stools. No 
+numbness/weakness/tingling, no vision changes. PMR Sx under 
+control, mostly knee stiffness.  
+ 
+Past Medical History:
+-aortic stenosis s/p aortic valve replacement with tissue valve 
+in ___  
+-paroxysmal atrial fibrillation  
+-prior episode of syncope in ___, circumstances unclear  
+-possible history of Lyme disease in the past (arthralgia)  
+treated with doxycycline (___)  
+-Hypertension  
+-hyperlipidemia  
+-polymyalgia rheumatica  
+-distant history of Graves disease  
+-vertigo
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Vital Signs: T97.6, 176/83, 68, 18, 96 RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL.  
+Neck: Supple. JVP not elevated  
+CV: Regular rate and rhythm. Normal S1+S2, +III/VI sys murmur 
+greatest at RUSB  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, 2+ pulses, no ___ edema b/l  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS 98.5 144/77 78 18 95/ra
+
+General: NAD 
+HEENT: MMM
+Neck: JVP not elevated
+Lungs: CTAB
+CV: RRR, III/VI systolic murmur at RUSB radiating to carotids
+Abdomen: Soft, nt, nd 
+Ext:  WWP, no ___ edema
+ 
+Pertinent Results:
+PERTINENT LABS:
+===============
+___ 07:10AM BLOOD WBC-10.0 RBC-4.24 Hgb-12.5 Hct-36.9 
+MCV-87 MCH-29.5 MCHC-33.9 RDW-12.9 RDWSD-40.7 Plt ___
+___ 07:10AM BLOOD Glucose-128* UreaN-20 Creat-0.8 Na-146* 
+K-3.6 Cl-105 HCO3-23 AnGap-22*
+___ 12:33AM BLOOD cTropnT-<0.01
+___ 06:48PM BLOOD cTropnT-<0.01
+___ 07:10AM BLOOD Calcium-9.0 Phos-2.9 Mg-2.1
+___ 06:48PM BLOOD TSH-0.89
+
+IMAGING/STUDIES:
+================
+CXR ___:
+No comparison.  The lung volumes are normal.  Status post 
+sternotomy.  The sternal wires are in correct position.  
+Moderate cardiomegaly.  Mild
+elongation of the descending aorta.  No pulmonary edema, no 
+pleural effusions.
+No pneumonia.
+
+CXR ___:
+Status post dual-chamber pacemaker placement with leads in 
+appropriate
+placement.  No pneumothorax.
+ 
+Brief Hospital Course:
+Mrs ___ is an ___ year old woman with a PMH notable for 
+AFib on apixiban, and bioprosthetic aortic valve who presented 
+to ___ with syncope. She was found initially to be 
+bradycardic in her ___ by EMS. Telemetry demonstrated that she 
+had paroxysmal episodes of advanced AV block and complete heart 
+block with a ventricular escape in the ___. She was 
+transferred to ___ for pacemaker implantation. She underwent 
+an uncomplicated procedure on ___. Telememetry and 
+interrogation subsequently with appropriate capture and no 
+further arrhythmia events. Discharged to complete total 3 day 
+course of antibiotics with cephalexin.
+
+TRANSITIONAL ISSUES:
+# New Medications:
+- Cephalexin 500mg Q12H (4 total doses)
+# Patient needs a TTE at next cardiology appointment.
+# Follow-up in device clinic in one week.
+# EP follow-up in one month.
+# Code: Full
+# Contact: ___ dtr/hcp ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Apixaban 2.5 mg PO BID 
+3. Atenolol 100 mg PO DAILY 
+4. Fenofibrate 200 mg PO DAILY 
+5. olmesartan-hydrochlorothiazide 40-25 mg oral DAILY 
+6. PredniSONE 2.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Cephalexin 500 mg PO Q12H Duration: 4 Doses 
+RX *cephalexin 500 mg 1 capsule(s) by mouth every twelve (12) 
+hours Disp #*4 Capsule Refills:*0 
+2.  Apixaban 2.5 mg PO BID  
+3.  Aspirin 81 mg PO DAILY  
+4.  Atenolol 100 mg PO DAILY  
+5.  Fenofibrate 200 mg PO DAILY  
+6.  olmesartan-hydrochlorothiazide 40-25 mg oral DAILY  
+7.  PredniSONE 2.5 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+3rd degree Heart Block
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ were admitted to the hospital because ___ were experiencing 
+a dangerous abnormal heart rhythm. ___ had a pacemaker placed to 
+help correct your heart rhythm. ___ will need to follow up with 
+the pacemaker clinic in one week (see below). ___ will also need 
+to take antibiotics for a few days until the incision site 
+heals. 
+
+Please take all medications as prescribed and keep all scheduled 
+appointments. Should ___ develop a recurrence or worsening of 
+the symptoms that originally brought ___ to the hospital, 
+experience any of the warning signs listed below, or have any 
+other symptoms that concern ___, please seek medical attention.
+
+It was a pleasure taking care of ___!
+Your ___ Care Team
+ 
+Followup Instructions:
+___

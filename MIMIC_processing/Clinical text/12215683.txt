@@ -1,0 +1,270 @@
+Name:  ___               ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+recurring fevers
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with hx of afib presenting with intermittent fevers x2 
+weeks. Pt traveled to ___ for work for 6 days returning to ___ on 
+___. The following day he developed fevers, which lasted 
+four days, and resolved without antibiotic treatment. CBC drawn 
+on ___ notable for WBC 1.8, plts 54, ALT/AST 161/132. He 
+was advised to present to ED, but declined given improving 
+symptoms. Repeat labs showed modest improvement, with resolution 
+of leukopenia. Symptoms resolved entirely.
+He first noticed recurrence of fevers on ___. Felt warm, 
+temp at home was 102. Fever was intermittent, unpredictable in 
+timing. Pattern was similar to episode in the middle of ___, 
+which resolved spontaneously. Endorses sweats at night, although 
+they are not drenching. He has about 5 lbs since the onset of 
+his symptoms. Endorses intermittent headache, "not bad ones," 
+unable to localize. Denies neck stiffness. Denies cough, chest 
+pain, SOB, abdominal pain, diarrhea, constipation, dysuria, 
+hematuria, hematachezia. Of note, pt does have a dog, and 
+describes living in the woods. Approx 1.5 months prior to 
+presentation, he discovered an embedded tick over his hip, which 
+was difficult to remove. He denies rash, arthralgias. He did not 
+seek medical attention at the time the tick was found, and has 
+not taken antibiotics recently.
+
+In the ___ ED:
+VS 101.1->102.8, 84, 119/54, 18, 95% RA
+Labs notable for Na 130, BUN/Cr ___
+WBC 4.6
+Hb 13.1
+Plt 61
+ALT/AST 88/57
+Alk phos 132
+Tbili 1.3
+Alb 3.5
+CXR without infiltrate
+Received Tylenol ___ mg x1
+Metoprolol 25 mg PO x1
+Rivaroxaban 20 mg x1
+Sotalol 120 mg x1
+
+ROS: All else negative
+ 
+Past Medical History:
+Atrial fibrillation
+ 
+Social History:
+___
+Family History:
+He is unaware of chronic medical problems in his family.
+ 
+Physical Exam:
+VS: 98.9, 96/56, 73, 17, 96% RA
+Gen: Pleasant male, lying in bed, sleeping soundly but easily 
+arouses to voice, tired appearing
+HEENT: PERRL, EOMI, clear oropharynx, anicteric sclera
+Neck: Supple, no cervical or supraclavicular adenopathy
+CV: RRR, soft ___ systolic murmur at RUSB
+Lungs: CTAB, no wheeze or rhonchi
+Abd: soft, nontender, nondistended, no rebound or guarding, no 
+hepatosplenomegaly appreciated
+GU: No foley
+Ext: WWP, no c/c/e
+Neuro: grossly intact
+
+Exam on discharge:
+VS: Tmax: 102.8 Tc: 98.3 BP: 108/59 HR: 66 R: 18 O2: 95%RA
+Gen: Pleasant male, sitting in chair in NAD
+HEENT: PERRL, EOMI, clear oropharynx, anicteric sclera
+Neck: Supple, no cervical or supraclavicular adenopathy
+CV: RRR, soft ___ systolic murmur at ___
+Lungs: CTAB, no wheeze or rhonchi, cough on deep inspiration
+Abd: soft, nontender, nondistended, no rebound or guarding, no
+hepatosplenomegaly appreciated
+GU: No foley
+Ext: WWP, no c/c/e
+Skin: no rashes, no jaundice
+ 
+Pertinent Results:
+___ 11:15PM OTHER BODY FLUID  FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+___ 09:51PM   ___ COMMENTS-GREEN TOP
+___ 09:51PM   LACTATE-1.3
+___ 09:45PM   GLUCOSE-118* UREA N-16 CREAT-1.2 SODIUM-130* 
+POTASSIUM-4.1 CHLORIDE-96 TOTAL CO2-22 ANION GAP-16
+___ 09:45PM   estGFR-Using this
+___ 09:45PM   ALT(SGPT)-88* AST(SGOT)-57* ALK PHOS-132* TOT 
+BILI-1.3
+___ 09:45PM   ALBUMIN-3.5
+___ 09:45PM   WBC-4.6 RBC-4.19* HGB-13.1* HCT-37.7* MCV-90 
+MCH-31.3 MCHC-34.7 RDW-13.0 RDWSD-42.7
+___ 09:45PM   NEUTS-46 BANDS-0 ___ MONOS-3* EOS-0 
+BASOS-0 ATYPS-3* ___ MYELOS-0 AbsNeut-2.12 AbsLymp-2.35 
+AbsMono-0.14* AbsEos-0.00* AbsBaso-0.00*
+___ 09:45PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL BURR-OCCASIONAL
+___ 09:45PM   PLT SMR-VERY LOW PLT COUNT-61*
+___ 09:45PM   ___ PTT-37.7* ___
+___ 04:21PM   WBC-4.9 RBC-4.55* HGB-14.2 HCT-41.9 MCV-92 
+MCH-31.2 MCHC-33.9 RDW-12.7 RDWSD-43.4
+___ 04:21PM   NEUTS-69 BANDS-1 LYMPHS-18* MONOS-8 EOS-0 
+BASOS-0 ATYPS-4* ___ MYELOS-0 AbsNeut-3.43 AbsLymp-1.08* 
+AbsMono-0.39 AbsEos-0.00* AbsBaso-0.00*
+___ 04:21PM   PLT SMR-LOW PLT COUNT-113*#
+
+___ 07:10AM BLOOD WBC-5.3 RBC-3.73* Hgb-11.9* Hct-34.6* 
+MCV-93 MCH-31.9 MCHC-34.4 RDW-13.4 RDWSD-46.1 Plt Ct-51*
+___ 07:10AM BLOOD ___ PTT-40.4* ___
+___ 07:10AM BLOOD ALT-79* AST-52* LD(LDH)-299* AlkPhos-126 
+TotBili-0.8
+
+MICRO:
+LYME SEROLOGY (Final ___: 
+      NO ANTIBODY TO B. BURG___ DETECTED BY EIA. 
+      Reference Range:  No antibody detected. 
+      Negative results do not rule out B. burg___ infection. 
+ Patients
+      in early stages of infection or on antibiotic therapy may 
+not produce
+      detectable levels of antibody.  Patients with clinical 
+history and/or
+      symptoms suggestive of lyme disease should be retested in 
+___ weeks. 
+
+___ 7:42 am Blood (EBV)
+
+                            **FINAL REPORT ___
+
+   ___ VIRUS VCA-IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+
+   ___ VIRUS EBNA IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+
+   ___ VIRUS VCA-IgM AB (Final ___: 
+      NEGATIVE <1:10 BY IFA. 
+      INTERPRETATION: RESULTS INDICATIVE OF PAST EBV INFECTION. 
+      In most populations, 90% of adults have been infected at 
+sometime
+      with EBV and will have measurable VCA IgG and EBNA 
+antibodies.
+      Antibodies to EBNA develop ___ weeks after primary 
+infection and
+      remain present for life. Presence of VCA IgM antibodies 
+indicates
+      recent primary infection. 
+
+CXR:
+No acute process
+ 
+Brief Hospital Course:
+___ with hx of afib presenting with intermittent fevers x2 
+weeks, with recent tick exposure, concerning for tick borne 
+illness.
+
+# Intermittent fevers, concern for tick borne infection.
+The patient presented with fevers which transiently resolved, 
+___ then recurred. Tick exposure and associated elevation in 
+LFTs and thrombocytopenia make tick borne infection a possible 
+source of fevers. The patient was seen but he infectious disease 
+service who recommended empiric doxycycline. The patient had 
+blood cultures and a urine culture which was negative. His CXR 
+was without pneumonia. Lyme serology was negative. EBV serology 
+was also negative for acute infection. HIV was negative a viral 
+load was not sent as the patient denied high risk behaviors. A 
+number of studies including anaplasma, bebesia PCR, CMV IGG and 
+mono spot are pending on discharge. The patient improved 
+symptomatically prior to discharge. He will need close PCP 
+follow up and consideration of additional work up for 
+non-infectious causes FUO if his fever persists and infectious 
+work up is negative.
+
+# Thrombocytopenia: 
+Platelets decreased to 51 after admission after improving to 
+>100 as an outpatient. This is likely to infections process. 
+Thepatient was given a lab slip for repeat labs on ___.
+
+# Elevated LFTs: Hepatocellular pattern of injury, previously 
+WNL in ___ and prior. As above, suspect this reflects above 
+infectious process, although cannot rule out chronically 
+elevated LFTs from other, chronic causes of hepatitis. If remain 
+elevated on follow up, would send hepatitis serologies.
+
+# Hyponatremia: 
+Presented with hypovolemic hyponatremia which improved with 
+fluids. 
+
+# Afib: 
+Continued home metoprolol, stall and rivaroxiban
+
+Transitional issues:
+- Babesia, anaplasma, CMV serologes, inaddition to blood 
+cultures are pending on discharge
+- Follow up labs on ___ (LFTs and CBC) with results to PCP 
+ 
+___ on ___:
+The Preadmission Medication list is accurate and complete.
+1. Sotalol 120 mg PO BID 
+2. Metoprolol Tartrate 25 mg PO BID 
+3. Rivaroxaban 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Metoprolol Tartrate 25 mg PO BID 
+2. Rivaroxaban 20 mg PO DINNER 
+3. Sotalol 120 mg PO BID 
+4. Doxycycline Hyclate 100 mg PO Q12H 
+RX *doxycycline hyclate 100 mg 1 capsule(s) by mouth q12hrs Disp 
+#*26 Capsule Refills:*0
+5. Outpatient Lab Work
+LFTs (AST/ALT, Tbili, Alk Phos), CBC with differential
+Please fax results to:
+Name: ___. 
+Location: ___ - ___ 
+GROUP 
+Address: ___, ___ 
+Phone: ___ 
+Fax: ___ 
+ICD ___ thrombocytopenia
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Possible tick borne infection
+Thrombocytopenia (low platelets)
+Abnormal liver function tests
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure taking care of you during your recent 
+admission to ___. You were admitted with fevers, elevated 
+liver function tests, and low platelets. You were seen by the 
+infectious disease team who felt your presentation is possibly 
+due to a tick borne illness. Your lyme test was negative. You 
+have a number of laboratory tests pending on discharge. You will 
+be discharged home on Doxycycline for 14 days. 
+
+Please follow up with your primary care physician next week. You 
+will also need blood tests next week to follow your abnormal lab 
+studies. And to follow up with your primary care physician.
+ 
+Followup Instructions:
+___

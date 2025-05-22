@@ -1,0 +1,296 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Quinolones
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+ ___ woman with atrial fibrillation s/p dual lead pacemaker, 
+epilepsy on keppra, who presented on ___ after an event 
+concerning for seizure.  She mentioned that she was walking down 
+the stairs and did not feel well/felt off right before she fell. 
+Denied feeling lightheaded, was only alone for 10 seconds, and 
+was later found face down by her family. Per collateral, eyes 
+rolled back, unresponsive, foaming at mouth. No convulsions, no 
+tongue biting, no bowel/bladder incontinence. Lasted for a few 
+minutes and post-ictally, was confused for about ___ minutes 
+and persistently remained lethargic/tired aftewards. Reported 
+taking Keppra a couple hours later than usual prior to event.  
+In the ED, CT head no acute intracranial bleed for scalp 
+hematoma. CT C-spine without acute abnormalities. CT chest 
+however revealed multiple fractures including left ___, 
+___, 10th ribs. She was admitted for pain control for 
+fractures.  
+EP evaluated pacemaker, found in ___ that she had 3 
+ventricular high rates/atrial fibrillation. On the day of 
+admission, she had 1 ventricular high rate consistent with 
+myopotentials, nonspecific but no arrhythmias noted. Neurology 
+evaluated patient and deemed likely seizure that brought patient 
+in.  
+
+ 
+Past Medical History:
+-Seizures
+-Atrial fibrillation on Warfarin
+-?Tachy-brady syndrome s/p PPM
+ 
+Social History:
+___
+Family History:
+Non contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+============================
+Vitals: 
+97.0 88 184/109 18 95% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus, MMM, no lesions noted in
+oropharynx
+Neck: Supple
+Pulmonary: Breathing comfortably on room air
+Cardiac: RRR
+Abdomen: soft
+Extremities: No C/C/E bilaterally
+Skin: no rashes or lesions noted.
+
+DISCHARGE PHYSICAL EXAM:
+============================
+T=97.4F
+BP=168 / 81mmHg
+HR=76x'
+RR=18x'
+SpO2=96% RA
+General: pleasant woman, ___ speaker,  alert and oriented 
+x3, breathing comfortably in room air  
+Head: left scalp hematoma palpable, no active bleeding noted  
+Neck: supple, JVP 6cm at 30 degrees
+Cardiac: irregular rhythm, normal s1 and s2, no s3 or s4, no 
+murmurs auscultated  
+Lungs: Good air movement, no wheezing. Diffuse crackles are 
+heard throughout the left lung.   
+Abdomen: bowel sounds present, NTND  
+Thorax: no hematoma noted on left side, no pain on palpation 
+along left rib cage, however pain with movement is present  
+Extremities: warm, no edema. Erythema in left elbow with mild 
+edema.  
+Neuro: pupils reactive to light, right pupil slightly oval 
+shaped, pupils roughly equal in size, EOMI, CN ___ intact, can 
+walk without evidence of balance troubles, grip/bicep/tricep 
+strength ___ bilaterally but with some limitation on left side 
+due to pain   
+ 
+Pertinent Results:
+Admission Labs:
+___ 12:17AM BLOOD WBC-7.0 RBC-4.58 Hgb-13.2 Hct-40.9 MCV-89 
+MCH-28.8 MCHC-32.3 RDW-12.8 RDWSD-42.0 Plt ___
+___ 12:17AM BLOOD Neuts-72.7* Lymphs-17.6* Monos-6.4 
+Eos-1.3 Baso-0.7 Im ___ AbsNeut-5.07 AbsLymp-1.23 
+AbsMono-0.45 AbsEos-0.09 AbsBaso-0.05
+___ 12:17AM BLOOD ___ PTT-35.3 ___
+___ 12:17AM BLOOD Glucose-157* UreaN-22* Creat-0.9 Na-138 
+K-3.5 Cl-100 HCO3-25 AnGap-17
+___ 12:17AM BLOOD Calcium-8.9 Phos-2.0* Mg-2.0
+
+Discharge Labs:
+___ 07:05AM BLOOD WBC-6.6 RBC-4.48 Hgb-13.1 Hct-39.9 MCV-89 
+MCH-29.2 MCHC-32.8 RDW-13.0 RDWSD-42.3 Plt ___
+___ 07:05AM BLOOD Glucose-85 UreaN-23* Creat-1.0 Na-143 
+K-4.3 Cl-105 HCO3-27 AnGap-15
+___ 07:05AM BLOOD Calcium-8.6 Phos-2.5* Mg-2.1
+
+IMAGING:
+
+CT HEAD ___:
+Moderate left parietal scalp soft tissue swelling, associated 
+hematoma.
+No fracture or acute intracranial abnormality.
+
+CT C-SPINE ___:
+1. No evidence of acute traumatic injury to the cervical spine.
+2. Nonspecific diffuse sclerosis of the C6 vertebral body and 
+posterior
+elements.  While not appearing to be an acute abnormality, 
+correlation with prior oncologic and medical history is 
+recommended.  Given the and involvement of the entire vertebral 
+body and the posterior elements, metastatic disease although 
+appears unlikely needs to be excluded by correlation with any 
+prior imaging or correlation with medical history.  The 
+appearance would likely be due to hemangioma or Paget's disease.
+
+CT CHEST ___:
+1.  Acute fractures of the left fourth, fifth, sixth, seventh, 
+and tenth ribs. Small subpleural hematoma adjacent to the fourth 
+rib fracture.
+2.  Mild cardiomegaly.
+3.  Small left pleural effusion.
+4.  Moderate bibasilar atelectasis.
+
+ 
+Brief Hospital Course:
+Transitional Issues:
+===============================
+-Warfarin was held while she was in the hospital and restarted 
+upon discharge at home dosing. PCP to obtain INR on ___ and 
+titrate warfarin dosing accordingly. 
+-Her Levetiracetam (Keppra) dose was increased to 750mg PO QAM 
+and 1000 mg PO QPM. She will have neurology follow up as 
+scheduled above. 
+-Her pacemaker was interrogated and the battery was found to be 
+nearing the end of its life. Patient should follow-up with her 
+outpatient cardiologist ASAP for generator change consideration
+-TTE during admission showed mild symmetric left ventricular 
+hypertrophy with mild global hypokinesis with marked visual 
+dyssynchrony. Mild global right ventricular systolic 
+dysfunction. No LVOT obstruction at rest or with valsalva. 
+-Carotid series performed, 40% stenosis of right ICA. Recommend 
+close monitoring of blood pressure in the outpatient setting and 
+initiation of anti-HTN as indicated for stroke prevention. 
+Patient continued on statin pre admission medication. 
+-She will need follow up with Dr. ___ outpatient 
+neurologist, in ___ weeks post discharge 
+
+Ms. ___ is a ___ year old woman with a PMH of epilepsy on 
+Keppra, atrial fibrillation on Warfarin who presented after 
+falling, most likely due to seizure, and was found to have 
+multiple rib fractures with sub-pleural hematoma and parietal 
+scalp hematoma on CT imaging. She was initially admitted to the 
+surgery team for close monitoring in the setting of her 
+traumatic injuries. Pain was managed. She was evaluated by 
+cardiology and neurology. Highest suspicion for fall etiology 
+was seizure and home Keppra was uptirtated. Pacemaker was 
+interrogated, found to be functioning but near the end of 
+battery life. She was transferred to the medicine service. She 
+was cleared for discharge by ___. She will resume home warfarin 
+for AF upon discharge without need for bridging given low CHADS 
+risk profile. She will have follow up INR with PCP next week for 
+dose titration. She will also have follow up with cardiology for 
+pacemaker battery replacement and neurology for management of 
+her anti-epileptics. 
+ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LevETIRAcetam 750 mg PO BID 
+2. Digoxin 0.375 mg PO DAILY 
+3. Clobetasol Propionate 0.05% Cream 1 Appl TP BID 
+4. Simvastatin 30 mg PO QPM 
+5. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral BID 
+6. Warfarin 3 mg PO 4X/WEEK (___) 
+7. Warfarin 2 mg PO 3X/WEEK (___) 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO TID 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every 8 hours Disp 
+#*24 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice daily Disp 
+#*20 Tablet Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 capsule(s) by mouth every 8 hours as needed 
+for severe pain Disp #*5 Capsule Refills:*0 
+4.  Senna 8.6 mg PO QHS 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth at night Disp 
+#*10 Tablet Refills:*0 
+5.  LevETIRAcetam 750 mg PO QAM 
+RX *levetiracetam [Keppra] 750 mg 1 tablet(s) by mouth daily in 
+the morning Disp #*30 Tablet Refills:*0 
+6.  LevETIRAcetam 1000 mg PO QPM 
+RX *levetiracetam [Keppra] 1,000 mg 1 tablet(s) by mouth once a 
+day in the evening Disp #*30 Tablet Refills:*0 
+7.  Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral BID  
+8.  Clobetasol Propionate 0.05% Cream 1 Appl TP BID  
+9.  Digoxin 0.375 mg PO DAILY  
+10.  Simvastatin 30 mg PO QPM  
+11.  Warfarin 3 mg PO 4X/WEEK (___)  
+12.  Warfarin 2 mg PO 3X/WEEK (___)  
+13.Outpatient Lab Work
+ICD10: I48.1
+Please draw INR on ___ and fax results to 
+Name: ___ 
+Address: ___, ___ 
+Phone: ___ 
+Fax: ___ 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Fractures of the left  ___, and 10th ribs 
+Sub-Pleural Hematoma
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Ms. ___, 
+
+You were admitted to ___ 
+because you had a fall. We think that your fall was due to a 
+seizure, similar to the ones that you have had before. However, 
+this was a pretty bad fall, because it caused several fractures 
+in your ribs. You were seen by our trauma surgeons and they 
+think that you do not need surgery for the rib fractures. We 
+also did some tests that showed that your lungs were not damaged 
+significantly and that you did not experience bleeding inside 
+your brain.
+
+* Your injury caused left-sided rib fractures which can cause 
+severe pain and subsequently cause you to take shallow breaths 
+because of the pain. 
+* You should take your pain medication as directed to stay ahead 
+of the pain otherwise you won't be able to take deep breaths. If 
+the pain medication makes you very drowsy you can take only half 
+of the dose and notify your physician.  
+* Pneumonia (a type of lung infection) is a complication of rib 
+fractures.  In order to decrease your risk of this you must use 
+your incentive spirometer 4 times every hour while you are 
+awake.  This will help expand the small airways in your lungs 
+and assist in coughing up secretions that pool in the lungs. 
+* You will be more comfortable if you use a cough pillow to hold 
+against your chest and guard your rib cage while coughing and 
+deep breathing.  
+* You can use ice packs or heating pads for short periods to 
+help with the pain. 
+* Narcotic pain medication can cause constipation, so you should 
+take a stool softener twice daily and increase your fluid and 
+fiber intake if possible. 
+* Do NOT smoke 
+* If your doctor allows, non-steroidal ___ drugs 
+are very effective in controlling pain ( ie, Ibuprofen, Motrin, 
+Advil, Aleve, Naprosyn) but they have their own set of side 
+effects so make sure your doctor approves.  
+* Return to the Emergency Room right away if you feel short of 
+breath, if your pain is increasing, or if you have a crackling 
+sensation around your ribs.
+* Please make sure that you schedule a follow-up appointment 
+with your primary care doctor once you leave the hospital.
+* Please take all your medications as prescribed.
+Thank you for allowing us to participate in your care.
+Your ___ care team.
+ 
+Followup Instructions:
+___

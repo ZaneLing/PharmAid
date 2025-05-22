@@ -1,0 +1,543 @@
+Name:  ___         Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain, Dyspnea on exertion, headache, numbness/tingling 
+hands/feet
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization:
+Coronary Description
+The coronary circulation is right dominant.
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the
+Left Anterior Descending and Left Circumflex systems.
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel.
+The Septal Perforator, arising from the proximal segment, is a 
+small caliber vessel.
+The Diagonal, arising from the proximal segment, is a medium 
+caliber vessel.
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber vessel.
+The ___ Obtuse Marginal, arising from the proximal segment, is a 
+medium caliber vessel.
+The ___ Obtuse Marginal, arising from the mid segment, is a 
+medium caliber vessel.
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a large caliber vessel.
+The Acute Marginal, arising from the proximal segment, is a 
+small caliber vessel.
+The Right Posterior Descending Artery, arising from the distal 
+segment, is a medium caliber vessel.
+The Right Posterolateral Artery, arising from the distal 
+segment, is a medium caliber vessel.
+Name: ___ MRN: ___ Study Date: ___ 
+18:26:33 p. ___
+Interventional Details
+Complications: There were no clinically significant 
+complications.
+Findings
+ Normal left and right heart filling pressures.
+ No angiographically apparent coronary artery disease.
+Recommendations
+ Maximize medical therapy
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with history of hypertension,
+hyperlipidemia presenting with not feeling well for 
+approximately 2 weeks. He has low energy and wakes up with 
+headaches daily and specifically the 2 days PTA has had nausea 
+but no vomiting. He noted increased dyspnea on exertion while 
+doing stairs which was new. He also noted numbness and tingling 
+in his forearm to his wrist and hand and some tingling of his 
+feet distal to his ankles. He also noted fleeting chest pain 
+lasting seconds at a time. He has had hypertension for some time 
+and has tried to manage it on his own hoping to avoid medication 
+which had been recommended by his PCP on multiple occasions. He 
+called his PCP and they recommended that he come to the ED for 
+evaluation
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS 
+- HTN
+- HLD
+2. CARDIAC HISTORY 
+- Coronaries: No CAD ___ 
+- Pump: EF 60%
+- Sinus rhythm 
+3. OTHER PAST MEDICAL HISTORY 
+- Sleep apnea
+- sciatica
+- Multinodular Goiter
+ 
+Social History:
+___
+Family History:
+Father: history of congestive heart failure at age ___ and MI at
+age ___
+Mother: history of brain cancer and died at age ___
+Brother: no known medical issues. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+======================
+VS: Temp 98.6 BP 152/100 HR 70 RR ___ RA 
+GENERAL: well appearing middle aged male lying in bed in no 
+acute
+pain or distress  
+HEENT: Sclera anicteric. PERRL.Conjunctiva were pink. No pallor
+or cyanosis of the oral mucosa.  
+NECK: Supple. No JVP.  
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. no thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness to palpation.
+Respiration is unlabored with no accessory muscle use. trace
+crackles at the right lower base which clear with coughing   
+ABDOMEN: Soft, non-tender, non-distended. normal bowel sounds 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: DP pulses palpable and symmetric. 
+
+DISCHARGE PHYSICAL EXAMINATION: 
+======================= 
+VS: 97.9, 137/89-153/89, down to 130/85 at time of discharge 
+after medications, HR 58-70, rr 18, 02 sat 95% RA
+LABS: WBC 7.2, Hgb 16.4, Hct 47.2, Plts 259, Na 142, K+ 4.0, Ch 
+101, Bicarb 24, Glucose 80, BUN 12, Creat 1.1, Ca 9.8, Phos 3.6, 
+Mag 2.2, HA1C 4.8; TSH and Cholesterol panel pending 
+WEIGHT: 123.8 kg (122.7kg admission weight)
+I/O: 200/350cc
+Tele: SR 60's, 7 second run of SVT at 5am 
+GENERAL: well appearing middle aged male sitting in chair, no 
+acute pain or distress 
+HEENT: Sclera anicteric. PERRL.Conjunctiva were pink. No pallor
+or cyanosis of the oral mucosa. 
+NECK: Supple. No JVP. 
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. 
+LUNGS: Respiration is unlabored with no accessory muscle use. 
+ABDOMEN: Soft, non-tender, non-distended. normal bowel sounds 
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema. 
+SKIN: No significant skin lesions or rashes. 
+PULSES: DP pulses palpable and symmetric. 
+ACCESS: Right radial access site C,D,I with no hematoma, no 
+bleeding or ecchymosis. +2 radial pulse. CSM WNL. 
+ 
+Pertinent Results:
+___: HEAD CT: FINDINGS:  
+There is no evidence of infarction,hemorrhage,edema,or mass.  
+The ventricles and sulci are age appropriate in size and 
+configuration. 
+Minimal soft tissue swelling is seen overlying the right 
+parietal bone towards the vertex.  There is no evidence of 
+fracture.  Minimal opacification of the left mastoid air cells 
+are noted.  The visualized portion of the paranasal  sinuses, 
+right mastoid air cells, and middle ear cavities are clear.  The 
+ visualized portion of the orbits are unremarkable. 
+IMPRESSION:  
+No acute intracranial abnormality.  Specifically no evidence of 
+large 
+territorial infarct, hemorrhage, or mass. 
+  
+___: STRESS TEST: INTERPRETATION: ___ yo man with HL and 
+HTN was referred to evaluate  his shortness of breath and 
+dizziness. The patient completed 9.5 minutes  of ___ 
+protocol representing an average exercise tolerance; ~ 10.5  
+METS. Although the patient was near volitional fatigue, exercise 
+was  stopped due to an exaggerated systolic blood pressure 
+response to  exercise; peak exercise 249/90 mmHg. No chest, 
+back, neck or arm  discomforts were reported. At peak exercise, 
+1-2 mm horizontal  /downsloping ST segment depression was noted 
+inferiorly and in leads  V3-V6. In addition, 0.5-1 mm ST segment 
+elevation was noted in lead AVR.  These ST segment changes 
+resolved quickly post-exercise and were absent 1 minute 
+post-exercise. The rhythm was sinus with rare isolated APBs and  
+VPBs. Resting systolic and diastolic hypertension with an 
+exaggerated systolic blood pressure response to exercise.  
+IMPPRESSION: Average exercise tolerance. Ischemic ST segment 
+changes in 
+the absence of anginal symptoms. Resting systolic hypertension 
+with an 
+exaggerated systolic blood pressure response to exercise. 
+
+CARDIAC CATHETERIZATION: ___
+Coronary Description
+The coronary circulation is right dominant.
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the
+Left Anterior Descending and Left Circumflex systems.
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel.
+The Septal Perforator, arising from the proximal segment, is a 
+small caliber vessel.
+The Diagonal, arising from the proximal segment, is a medium 
+caliber vessel.
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber vessel.
+The ___ Obtuse Marginal, arising from the proximal segment, is a 
+medium caliber vessel.
+The ___ Obtuse Marginal, arising from the mid segment, is a 
+medium caliber vessel.
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a large caliber vessel.
+The Acute Marginal, arising from the proximal segment, is a 
+small caliber vessel.
+The Right Posterior Descending Artery, arising from the distal 
+segment, is a medium caliber vessel.
+The Right Posterolateral Artery, arising from the distal 
+segment, is a medium caliber vessel.
+Complications: There were no clinically significant 
+complications.
+Findings
+ Normal left and right heart filling pressures.
+ No angiographically apparent coronary artery disease.
+Recommendations
+ Maximize medical therapy. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with a history of w/ HTN, HLD
+who presents for tingling of his extremities, dyspnea, chest 
+pain and ongoing headaches with negative head CT, negative 
+troponins, abnormal stress EKG now s/p Coronary angiogram with 
+no coronary disease, and noted hypertension. 
+
+# HTN 
+Patient with HTN not currently on treatment with BPs noted to be
+as high as 180s while in the ED. Has been seen by PCP but 
+patient
+has been hesitant to start on any antihypertensive treatment. 
+His
+BP was elevated to the 200s during his stress test. This was 
+likely the etiology of his vague symptoms of headache and nausea 
+over the past few weeks. His BP is now down to 130/85 on day of 
+discharge.
+- Continue amlodipine 5mg
+- Start Metoprolol Succinate 25mg daily 
+- Blood pressure home monitoring: instructed to take BP ___ 
+times daily at varying times of day and bring log to PCP 
+___.
+- Risk factor modification; heart healthy diet discussed; Low 
+sodium diet discussed
+- ___ with PCP within one week. Patient to call to 
+schedule. 
+
+# SVT/ectopy: short 7 second run of SVT to 130-140s, self 
+limited and not requiring any treatment; per patient report he 
+has worn halter montor in past and has known "abnormal and extra 
+beats" and palpitations which are symptomatic and "take breath 
+away" at times. No correlation to rest/activity. 
+- Start metoprolol succinate 25mg daily to maximize HTN 
+management as well as SVT
+
+================ 
+CHRONIC ISSUES: 
+================ 
+
+# OSA:
+-Continue CPAP per home regimen
+-Encourage compliance as discussed with patient at length to 
+decrease cardiac risk factors
+
+****TSH and Cholesterol panel results pending at time of 
+discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY  
+2.  Metoprolol Succinate XL 25 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypertension
+
+ 
+Discharge Condition:
+OUTPATIENT CARDIOLOGIST: ___ MD 
+PCP: ___ MD 
+CHIEF COMPLAINT: dyspnea/chest pain/headaches 
+ 
+HISTORY OF PRESENTING ILLNESS:  
+ 
+Mr. ___ is a ___ male with history of hypertension, 
+
+hyperlipidemia presenting with not feeling well for 
+approximately 2 weeks. He has low energy and wakes up with 
+headaches daily and specifically the 2 days PTA has had nausea 
+but no vomiting. He noted increased dyspnea on exertion while 
+doing stairs which was new. He also noted numbness and tingling 
+in his forearm to his wrist and hand and some tingling of his 
+feet distal to his ankles. He also noted fleeting chest pain 
+lasting seconds at a time. He has had hypertension for some time 
+and has tried to manage it on his own hoping to avoid medication 
+which had been recommended by his PCP on multiple occasions. He 
+called his PCP and they recommended that he come to the ED for 
+evaluation.  
+ 
+PAST MEDICAL HISTORY:  
+=======================  
+1. CARDIAC RISK FACTORS  
+- HTN 
+- HLD 
+2. CARDIAC HISTORY  
+- Coronaries: No CAD ___  
+- Pump: EF 60% 
+- Sinus rhythm  
+3. OTHER PAST MEDICAL HISTORY  
+- Sleep apnea 
+- sciatica 
+- Multinodular Goiter  
+ 
+SOCIAL HISTORY: ___
+FAMILY HISTORY:  
+Father: history of congestive heart failure at age ___ and MI at 
+age ___ 
+Mother: history of brain cancer and died at age ___ 
+Brother: no known medical issues.  
+ 
+MEDICATIONS: 
+Currently does not take any prescription medications at home. He 
+occasionally takes Excedrin for headaches.  
+ 
+ALLERGIES:  
+Penicillins - he develops a rash  
+ 
+EKG: sinus rhythm, normal axis, normal intervals, deep Q waves 
+in 
+III and AVF, J point elevation in V1-V2  
+ 
+CXR: ___  
+IMPRESSION:  
+No acute cardiopulmonary process.  
+ 
+CT Head: ___  
+No acute intracranial abnormality. Specifically, no evidence of 
+large territory infarct, hemorrhage, or masses. 
+ 
+Unilateral Extremity Veins: ___  
+No evidence of deep venous thrombosis in the right lower 
+extremity veins.  
+ 
+ECHOCARDIOGRAM: ___  
+CONCLUSION: 
+The left atrial volume index is mildly increased. The right 
+atrium is mildly enlarged. There is normal left ventricular wall 
+
+thickness with a normal cavity size corrected by BSA (63 ml/m2). 
+
+There is normal regional left ventricular systolic function. 
+Overall left ventricular systolic function is normal. 
+Quantitative 3D volumetric left ventricular ejection fraction is 
+
+60 %. Normal right ventricular cavity size with normal free wall 
+
+motion. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for gender. The aortic arch is 
+mildly dilated. The aortic valve leaflets (3) appear 
+structurally 
+normal. There is no aortic valve stenosis. There is no aortic 
+regurgitation. The mitral valve leaflets appear structurally 
+normal with no mitral valve prolapse. There is trivial mitral 
+regurgitation. The tricuspid valve leaflets appear structurally 
+normal. There is trivial tricuspid regurgitation. The pulmonary 
+artery systolic pressure could not be estimated. There is no 
+pericardial effusion. 
+IMPRESSION: No regional wall motion abnormalities to correlated 
+with abnormal EKG findings. 
+ 
+STRESS TEST: ___ 
+IMPPRESSION: Average exercise tolerance. Ischemic ST segment 
+changes in the absence of anginal symptoms. Resting systolic 
+hypertension with an exaggerated systolic blood pressure 
+response 
+to exercise.  
+ 
+Cardiac catheterization: ___ 
+The coronary circulation is right dominant. 
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the 
+Left Anterior Descending and Left Circumflex systems. 
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel. 
+The Septal Perforator, arising from the proximal segment, is a 
+small caliber vessel. 
+The Diagonal, arising from the proximal segment, is a medium 
+caliber vessel. 
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber vessel. 
+The ___ Obtuse Marginal, arising from the proximal segment, is a 
+medium caliber vessel. 
+The ___ Obtuse Marginal, arising from the mid segment, is a 
+medium caliber vessel. 
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a large caliber vessel. 
+The Acute Marginal, arising from the proximal segment, is a 
+small caliber vessel. 
+The Right Posterior Descending Artery, arising from the distal 
+segment, is a medium caliber vessel. 
+The Right Posterolateral Artery, arising from the distal 
+segment, is a medium caliber vessel. 
+Complications: There were no clinically significant 
+complications. 
+Findings 
+ Normal left and right heart filling pressures. 
+ No angiographically apparent coronary artery disease. 
+Recommendations 
+ Maximize medical therapy 
+ 
+PHYSICAL EXAMINATION:  
+=======================  
+VS: 97.9, 137/89-153/89, down to 130/85 at time of discharge 
+after medications, HR 58-70, rr 18, 02 sat 95% RA 
+LABS: WBC 7.2, Hgb 16.4, Hct 47.2, Plts 259, Na 142, K+ 4.0, Ch 
+101, Bicarb 24, Glucose 80, BUN 12, Creat 1.1, Ca 9.8, Phos 3.6, 
+Mag 2.2, HA1C 4.8; TSH and Cholesterol panel pending  
+WEIGHT: 123.8 kg (122.7kg admission weight) 
+I/O: 200/350cc 
+Tele: SR 60's, 7 second run of SVT at 5am  
+ 
+GENERAL: well appearing middle aged male sitting in chair, no 
+acute pain or distress  
+HEENT: Sclera anicteric. PERRL.Conjunctiva were pink. No pallor 
+or cyanosis of the oral mucosa.  
+NECK: Supple. No JVP.  
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops.  
+LUNGS: Respiration is unlabored with no accessory muscle use.  
+ABDOMEN: Soft, non-tender, non-distended. normal bowel sounds  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: DP pulses palpable and symmetric.  
+ACCESS: Right radial access site C,D,I with no hematoma, no 
+bleeding or ecchymosis. +2 radial pulse. CSM WNL.  
+ 
+=====================  
+ASSESSMENT AND PLAN:  
+=====================  
+ 
+Mr. ___ is a ___ year old male with a history of w/ HTN, HLD 
+
+who presents for tingling of his extremities, dyspnea, chest 
+pain and ongoing headaches with negative head CT, negative 
+troponins, abnormal stress EKG now s/p Coronary angiogram with 
+no coronary disease, and noted hypertension.  
+ 
+# HTN  
+Patient with HTN not currently on treatment with BPs noted to be 
+
+as high as 180s while in the ED. Has been seen by PCP but 
+patient 
+has been hesitant to start on any antihypertensive treatment. 
+His 
+BP was elevated to the 200s during his stress test. This 
+was likely the etiology of his vague symptoms of headache and 
+nausea over the past few weeks. His BP is now down to 130/85 on 
+day of discharge. 
+- Continue amlodipine 5mg 
+- Start Metoprolol Succinate 25mg daily  
+- Blood pressure home monitoring: instructed to take BP ___ 
+times daily at varying times of day and bring log to PCP 
+___. 
+- Risk factor modification; heart healthy diet discussed; Low 
+sodium diet discussed 
+- ___ with PCP within one week. Patient to call to 
+schedule.  
+ 
+# SVT/ectopy: short 7 second run of SVT to 130-140s, self 
+limited and not requiring any treatment; per patient report he 
+has worn halter montor in past and has known "abnormal and extra 
+beats" and palpitations which are symptomatic and "take breath 
+away" at times. No correlation to rest/activity.  
+- Start metoprolol succinate 25mg daily to maximize HTN 
+management as well as SVT 
+ 
+================  
+CHRONIC ISSUES:  
+================  
+ 
+# OSA: 
+-Continue CPAP per home regimen 
+-Encourage compliance as discussed with patient at length to 
+decrease cardiac risk factors 
+ 
+ 
+**** Above plan reviewed and discussed with Dr. ___. All 
+questions answered to Mr. ___ satisfaction as well his 
+wife who was present during discharge instructions.  
+
+ 
+Discharge Instructions:
+You were admitted to ___ with complaints of headaches, 
+shortness of breath, chest pain and numbness/tingling of 
+hands/feet. You underwent multiple tests including head Cat Scan 
+(CT SCAN), Echocardiogram (ultrasound of heart), stress test, 
+cardiac catheterization and multiple blood tests. The above 
+testing was normal and did not require any treatment.
+
+Your blood pressure was noted to be elevated and we recommend 
+medical treatment. Uncontrolled/untreated elevated blood 
+pressure may be contributing to your symptoms and also places 
+you at high risk of stroke.
+
+We recommend you start the following medications:
+1. Amlodipine 5mg daily in the morning
+2. Metoprolol Succinate 25mg once daily in evening. 
+
+Amlodipine is to lower your blood pressure. Metoprolol will also 
+lower your blood pressure, as well as hopefully decrease the 
+amount of "abnormal beats" and symptomatic palpitations that you 
+have. (You were noted to have seven seconds of a fast heart rate 
+called supraventricular tachycardia or SVT that was seen on the 
+telemetry/cardiac monitor. You did not require treatment or 
+intervention at the time. You reportedly felt "palpitations" at 
+that time.) 
+
+Restrictions and care of your right radial access site from your 
+cardiac catheterization procedure have been provided.
+
+We also recommend strict compliance with your sleep apnea 
+treatment. Maximizing your sleep apnea treatment will decrease 
+your cardiac risk factors. 
+
+You will ___ with your PCP within one week. We recommend 
+monitoring and charting your blood pressures at home once-twice 
+daily at varying times of day for the next few weeks. Please 
+bring your blood pressure log with you to your PCP ___. Your 
+thyroid and cholesterol blood work was pending at time of 
+discharge. Please review results with PCP at ___ 
+appointment and address need for treatment if abnormal. 
+
+If you have any urgent questions that are related to your 
+recovery from your medical issues or are experiencing any 
+symptoms that are concerning to you and you think you may need 
+to return to the hospital, please call the ___ HeartLine at 
+___ to speak to a cardiologist or cardiac nurse 
+practitioner. It has been a pleasure to have participated in 
+your care and we wish you the ___ with your health!  
+
+Your ___ Cardiac Care Team  
+ 
+Followup Instructions:
+___

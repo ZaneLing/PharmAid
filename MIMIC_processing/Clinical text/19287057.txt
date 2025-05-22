@@ -1,0 +1,307 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo female with a h/o hypertension and depression who 
+comes in today with history of sudden nausea, vomiting, 
+lightheadedness and dizziness.  Earlier on the day of admission, 
+she began feeling feverish and noted general weakness in all 
+extremities, with some associated dizziness with standing.  She 
+feels very fatigued and doesn't want to get out of bed. She has 
+been having nausea all day with no vomiting.  Having new loose 
+stools.  Denies any cough, dysuria, focal weakness. No chest 
+pain, no SOB.  She also had some vague abdominal pain that was 
+transient.  Of note, her daughter also had a GI illness with 
+similar nausea, vomiting and diarrhea.  She states that her 
+daughter's symptoms are less severe.  
+
+In ER: On arrival was in sinus brady in the ___ and very 
+hypertensive. Was given 3 L IVF and pt reported that she felt 
+better. She had a head CT head on admission which was normal. CT 
+abd without any acute findings. The patient continued to have a 
+number of non-specific complaints that did not resolve so the 
+patient was admitted for further monitoring.
+
+ROS:  
+-Constitutional: []WNL []Weight loss [x]Fatigue/Malaise [x]Fever 
+[]Chills/Rigors []Nightweats [x]Anorexia  
+-Eyes: []WNL []Blurry Vision []Diplopia []Loss of Vision 
+[]Photophobia  
+-ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose 
+[]Tinnitus []Sinus pain []Sore throat  
+-Cardiac: [x]WNL []Chest pain []Palpitations ___ edema 
+[]Orthopnea/PND []DOE  
+-Respiratory: [x]WNL []SOB []Pleuritic pain []Hemoptysis []Cough 
+ 
+-Gastrointestinal: []WNL [x]Nausea []Vomiting [x]Abdominal pain 
+[]Abdominal Swelling [xx]Diarrhea []Constipation []Hematemesis 
+[]Hematochezia []Melena  
+-Heme/Lymph: []WNL []Bleeding []Bruising []Lymphadenopathy  
+-GU: [x]WNL []Incontinence/Retention []Dysuria []Hematuria 
+[]Discharge []Menorrhagia  
+-Skin: [x]WNL []Rash []Pruritus  
+-Endocrine: []WNL []Change in skin/hair []Loss of energy 
+[]Heat/Cold intolerance  
+-Musculoskeletal: []WNL [x]Myalgias [x]Arthralgias []Back pain  
+-Neurological: [ ]WNL []Numbness of extremities [x]Weakness of 
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo 
+[]Confusion []Headache  
+
+ 
+Past Medical History:
+Hypertension
+Depression/Anxiety
+Nasal allergies
+?History of "leaky heart valve"
+ 
+Social History:
+___
+Family History:
+mother died in ___ of blood clot and had h/o cancer. 
+ 
+Physical Exam:
+VS: 96.6 57 140/78 16 100%RA
+Gen: no acute distress, awake, alert, appropriate, and oriented 
+x 3.
+Skin: warm to touch, no apparent rashes. 
+HEENT: No conjunctival pallor, no scleral jaundice, OP clear, no 
+cervical LAD
+CV: RRR no audible m/r/g, pulses 2+, no ___ edema
+Lungs: clear to auscultation
+Abd: soft, NT, normal BS
+Ext: No C/C/E
+Neuro: 
+CN: + nystagmus (non fatigued) with ___, + diplopia 
+with Right ward gaze, otherwise intact
+Strength: ___ diffusely
+Sensation : intact to light touch
+Reflexes: 2+ at patella and brachial
+Gait deferred as patient could not tolerate standing
+ 
+Pertinent Results:
+___ 03:50PM URINE  HOURS-RANDOM
+___ 03:50PM URINE  UCG-NEGATIVE
+___ 03:50PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 03:42PM   LACTATE-2.0
+___ 02:35PM URINE  HOURS-RANDOM
+___ 02:35PM URINE  HOURS-RANDOM
+___ 02:35PM URINE  UCG-NEG
+___ 02:35PM URINE  GR HOLD-HOLD
+___ 02:35PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 02:35PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 01:10PM   GLUCOSE-207* UREA N-15 CREAT-1.1 SODIUM-141 
+POTASSIUM-4.4 CHLORIDE-102 TOTAL CO2-24 ANION GAP-19
+___ 01:10PM   ALT(SGPT)-11 AST(SGOT)-32 ALK PHOS-127* TOT 
+BILI-0.7
+___ 01:10PM   LIPASE-28
+___ 01:10PM   CK-MB-1 cTropnT-<0.01
+___ 01:10PM   ALBUMIN-4.2 CALCIUM-9.8 PHOSPHATE-2.7 
+MAGNESIUM-2.0
+___ 01:10PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 01:10PM   WBC-18.3*# RBC-4.99 HGB-13.7 HCT-39.4 MCV-79* 
+MCH-27.3 MCHC-34.6 RDW-13.5
+___ 01:10PM   NEUTS-82.6* LYMPHS-13.7* MONOS-1.5* EOS-1.7 
+BASOS-0.4
+___ 01:10PM   PLT COUNT-270
+
+CT Head:
+HEAD CT WITHOUT IV CONTRAST: There is no hemorrhage, edema, mass 
+effect, 
+shift of normally midline structures, or evidence of major 
+vascular 
+territorial infarction. The ventricles and sulci are normal in 
+size and 
+configuration for the patient's age. The visualized paranasal 
+sinuses and 
+soft tissues appear unremarkable. 
+  
+IMPRESSION: No evidence of acute process. 
+
+MRI:
+1. Several punctate subcortical white matter changes, 
+nonspecific, without 
+acute intracranial findings. 
+  
+2. Mild mucosal thickening within the right mastoid air cells. 
+  
+3. Normal head and neck MRA. 
+
+CT abdomen:
+1. No evidence of acute abdominal process. 
+  
+2. Multiple uterine fibroids. 
+  
+3. Possible fibrofatty infiltration of the colonic wall which 
+can be seen in inflammatory bowel disease though evaluation of 
+colon somewhat limited.  Clinically correlate. 
+
+CXR
+IMPRESSION: No acute intrathoracic abnormality. The apparent 
+enlargement in the cardiac silhouette size is accentuated by 
+technique and patient factors but is felt real, which represents 
+an interval change. Apparent history of mitral regurgitation may 
+help account for this. 
+
+Discharge labs:
+
+___ 06:35AM BLOOD WBC-8.0 RBC-4.86 Hgb-13.0 Hct-38.7 
+MCV-80* MCH-26.8* MCHC-33.6 RDW-12.6 Plt ___
+___ 06:35AM BLOOD Glucose-101* UreaN-13 Creat-1.1 Na-141 
+K-3.8 Cl-103 HCO3-30 AnGap-12
+___ 06:35AM BLOOD Calcium-9.8 Phos-4.7* Mg-2.2
+___ 01:10PM BLOOD TSH-1.6
+___ 01:10PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+ 
+Brief Hospital Course:
+___ yo female admitted with dizziness, nausea and light 
+headedness.   
+
+* Peripheral vertigo - On the morning after admission, neuro 
+exam revealed nystagmus with ___ and diplopia with 
+extreme rightward gaze.  Given these symptoms, neurology consult 
+was called given concern for stroke versus demyelinating 
+process.  Neurology consult was unable to elicit diplopia and 
+had a lower suspicion for stroke or acute demyelinating process. 
+ An MRI/MRA was obtained which did not reveal signs of acute 
+stroke or other processes.  Given that there was not a central 
+etiology for her vertigo, she was diagnosed with peripheral 
+vertigo, likely secondary to vestibular neuronitis given her 
+recent viral syndrome, less likley BPPV.  She was started on 
+meclizine ATC.  She was later started on valium 3mg (after 
+discussion with neurology) for a total of 5 days.  ___ was 
+consulted and during her hospitalization she was significantly 
+improved.  She was able to ambulate with the aid of a walker and 
+able to climb stairs at the time of discharge.  ___ felt that she 
+was safe for discharge home without inpatient ___.  She was given 
+a prescription for outpatient ___ and also for meclizine, valium 
+(x 2 more days) and compazine PRN.  Of note, she was instructed 
+not to drive while taking these medications.  She will follow up 
+with her primary care provider to monitor her symptoms.  
+
+Lastly, orthostatics were checked and she was postive by HR.  
+After IV hydration, her orthostatics vitals signs were wnl.
+
+* Bradycardia - On admission, she was found to be bradycardic.  
+She had been taking metoprolol 50mg daily (but has been doing 
+this for years per patient).  Her heart rate was in the 50-60s 
+at rest.  Metoprolol was discontinued.  She also had 2 negative 
+troponins on admission.
+
+* Migraines - During her hospitalization, she complained of 
+worsening migraine headaches with sensitivity to light.  She 
+responded well to Fiorcet and was discharged with ibuprofen 
+600mg PRN for headaches (she has used this in the past).
+
+* Leukocytosis - On admission, she had a leukocytosis to 18.3.  
+She was not started on antibiotics.  With IV hydration her 
+leukocytosis resolved. This was likely an acute response to her 
+viral gastroenteritis.
+
+* Nausea/Vomiting - She had complained of this prior to her 
+admission.  She had multiple sick contacts and this is likely 
+viral gastroenteritis.  On discharge, she was able to tolerate a 
+regular diet without diarrhea.  no abdominal pain, nausea or 
+vomiting prior to discharge.  Of note, she had a CT abdomen on 
+admission with finding suggestive of IBD.  Her symptoms resolved 
+with supportive care, thus the suspicion of IBD was low.
+
+* Hypertension, benign - Metoprolol was discontinued and HCTZ 
+was restarted.  
+
+* Atypical chest pain - Stable.  No chest pain.  
+
+* Depression/Anxiety - Stable.
+
+All other medical issues were stable and no further medication 
+changes were made unless specified above.  
+
+ 
+Medications on Admission:
+HCTZ 25 daily
+metoprolol 25 bid
+loratidine 10 daily
+nasal spray
+ 
+Discharge Medications:
+1. Meclizine 12.5 mg Tablet Sig: Two (2) Tablet PO TID (3 times 
+a day) for 2 weeks.
+Disp:*84 Tablet(s)* Refills:*0*
+2. Ibuprofen 400 mg Tablet Sig: One (1) Tablet PO Q8H (every 8 
+hours) as needed for headache.  
+3. Diazepam 2 mg Tablet Sig: 1.5 Tablets PO DAILY (Daily) for 2 
+days.
+Disp:*3 Tablet(s)* Refills:*0*
+4. Hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO 
+DAILY (Daily).  
+5. Compazine 10 mg Tablet Sig: One (1) Tablet PO every ___ hours 
+as needed for nausea for 1 weeks.
+Disp:*7 Tablet(s)* Refills:*0*
+6. Outpatient Physical Therapy
+Outpatient physical therapy for evaluation and treatment for 
+peripheral vertigo.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Vertigo, peripheral
+
+Depression
+Hypertension
+Migraine headaches
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with nausea, vomiting and 
+dizziness.  You were diagnosed with vertigo, likely from your 
+viral syndrome.  Neurology saw you in consultation as well.  You 
+had an MRI that did not show that you had an acute stroke.  You 
+were started on a medication called meclizine and valium for 
+your dizziness.  
+
+Please return to the emergency room if you have worsening 
+dizziness, nausea and vomiting that prevents you from eating or 
+drinking at home or unrelieved with your current medications.
+
+Medication changes:
+1. Meclizine was started for your dizziness
+2. Metoprolol was stopped
+3. Valium 3mg daily was started for your dizziness
+4. Compazine was started for your dizziness
+
+ 
+Followup Instructions:
+___

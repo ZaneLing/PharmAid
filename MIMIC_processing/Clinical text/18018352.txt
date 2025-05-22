@@ -1,0 +1,351 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms ___ is a ___ woman with stage 4 lung cancer (60 pack 
+year smoking history, non-operable, patient refusing 
+chemo/radiation), severe AS (mean gradient 40 in ___, refusing 
+intervention), mitral valve stenosis, and anemia (Hgb 9.3 in 
+___, who was transferred to ___ from Urgent Care for chest 
+pain, concerning for STEMI. 
+
+Patient has had chest pain, shortness of breath, and dyspnea for 
+the past 2 months. Pain got worse 1 month ago, so patient 
+stopped smoking. For the past week, patient has had many "bad 
+days" with intermittent, substernal chest pain. Last night at 
+3am, pt woke up to a "terrific pain" in her chest, radiating to 
+jaw. Associated with shortness of breath. Took ASA 81mg. Pain 
+improved, and pt went back to sleep. This morning, pt woke up 
+and had intermitted chest pain, so presented to ___. 
+
+In Urgent Care office:
+Pt continued to have chest pain.
+VS: T 97.1 HR 88 BP 124/60 O2 99% on ra
+Exam significant for: In acute distress, rrr with large blowing 
+murmur, lungs clear, no edema
+EKG significant for V1 and V2 ST elevation, reciprocal changes 
+in the inferior leads, and new T wave inversions in III/aVF, 
+consistent with acute MI.
+Patient was transferred to the ___ ED for further evaluation 
+and management of this chest pain with ST elevations. Aspirin 
+325mg and nitroglycerin were given en route, with some relief of 
+pain. Patient was placed on 2L nc and IV access was obtained.  
+
+In the ED, initial VS were: T 98 HR 82 BP 134/58 RR 16 O2 98%ra
+Exam notable for normal cardiopulmonary exam.
+Labs showed Hgb 6.6 and trop of 0.05.
+EKG showed 1mm STE in V2 and V3 and 0.5-1mm depressions 
+inferiorly.
+Imaging: CXR showed small bilateral pleural effusions. ECHO 
+showed LVEF>55%
+Interventions: Code STEMI was called, patient taken to cath lab.
+
+Upon arrival to cath lab, her chest pain and EKG changes 
+resolved. Cardiology did not think her presentation was 
+consistent with anterior STEMI, so they did not cath her. Also, 
+cath did not seem within goals of care. Decision was made to 
+admit to medicine for further management of anemia evaluation, 
+transfusion, and goals of care discussion.
+
+On arrival to the floor, patient reports that her chest pain is 
+still present, ___. It gets worse when she moves around or 
+speaks. Pain is substernal, she describes as an "elephant" on 
+her chest. Associated with shortness of breath. Has fatigue for 
+the past few weeks. No hemoptysis, melena, or BRBPR.  
+
+REVIEW OF SYSTEMS:  
+Denies fever, chills, night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, abdominal pain, 
+nausea, vomiting, diarrhea,  BRBPR, melena, hematochezia, 
+dysuria, hematuria.  
++constipation
+
+All other 10-system review negative in detail.  
+
+ 
+Past Medical History:
+No history of CAD, patient does not follow with cardiology.
+Aortic stenosis
+Adenocarcinoma of the lung 
+Anemia
+Mitral Valve prolapse & stenosis
+Hearing loss, sensorineural 
+TOBACCO DEPENDENCE  
+HISTORY HYSTERECTOMY 
+GASTRIC ULCER, UNSPEC 
+
+ 
+Social History:
+___
+Family History:
+No FH of cardiac disease.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS -  T 97.6 HR 77 BP 137/87 RR 18 O2 98% on ra
+GENERAL: sitting in bed, uncomfortable, nontoxic, NAD
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, good dentition  
+NECK: nontender supple neck, no LAD, no JVD  
+CARDIAC: RRR, S1/S2, loud blowing murmur; no gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+
+DISCHARGE PHYSICAL EXAM
+VS - T 98.5 HR 68 BP 136/66 RR 18 SaO2 97% ra
+GENERAL: pale, sitting in bed, uncomfortable, nontoxic, NAD
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, good dentition  
+NECK: nontender supple neck, no LAD, no JVD  
+CARDIAC: RRR, S1/S2, loud blowing murmur; no gallops, or rubs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact. Alert & oriented to person, city, and 
+year.
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 12:35PM BLOOD WBC-6.5 RBC-2.75* Hgb-6.6* Hct-21.8* 
+MCV-79* MCH-24.0* MCHC-30.3* RDW-17.4* RDWSD-49.7* Plt ___
+___ 12:35PM BLOOD Neuts-74.7* Lymphs-13.8* Monos-9.3 
+Eos-1.4 Baso-0.5 Im ___ AbsNeut-4.88 AbsLymp-0.90* 
+AbsMono-0.61 AbsEos-0.09 AbsBaso-0.03
+___ 12:35PM BLOOD Plt ___
+___ 12:35PM BLOOD Ret Aut-1.7 Abs Ret-0.05
+___ 12:35PM BLOOD Glucose-85 UreaN-10 Creat-0.7 Na-133 
+K-3.9 Cl-101 HCO3-21* AnGap-15
+___ 12:35PM BLOOD ALT-7 AST-22 LD(LDH)-190 AlkPhos-62 
+TotBili-0.1
+___ 12:35PM BLOOD cTropnT-0.05*
+___ 12:35PM BLOOD Calcium-8.9 Phos-3.3 Mg-2.1
+___ 12:35PM BLOOD Hapto-133
+
+OTHER PERTINENT LABS
+___ 12:35PM BLOOD cTropnT-0.05*
+___ 09:20PM BLOOD CK-MB-3 cTropnT-0.07*
+___ 07:00AM BLOOD cTropnT-0.06*
+
+DISCHARGE LABS
+___ 07:00AM BLOOD WBC-6.0 RBC-3.17* Hgb-7.9* Hct-25.3* 
+MCV-80* MCH-24.9* MCHC-31.2* RDW-17.4* RDWSD-50.6* Plt ___
+___ 07:00AM BLOOD Glucose-79 UreaN-10 Creat-0.7 Na-135 
+K-4.2 Cl-104 HCO3-22 AnGap-13
+___ 07:00AM BLOOD Calcium-9.2 Phos-3.5 Mg-2.1
+
+MICRO
+None
+
+IMAGING
+___ CXR:  
+Small bilateral pleural effusions with bibasilar atelectasis.  
+No overt signs of edema. 
+
+___ ECG:
+Sinus rhythm. Borderline P-R interval prolongation. Consider 
+left atrial 
+abnormality. Non-diagnostic inferior Q waves but with T wave 
+inversion in lead aVF. Q waves in leads V3-V6 with ST segment 
+elevation in leads V1-V3 with ST segment depression in leads I 
+and V5-V6. Consider anterior ST elevation myocardial infarction 
+with lateral ischemia. However, the lateral Q waves raise the 
+possibility of prior apicolateral event. No previous tracing 
+available for comparison. Clinical correlation is suggested.  
+
+___ ECG:
+Sinus rhythm with atrial premature beats. Compared to the 
+previous tracing  of ___ the rate is somewhat faster. Early 
+precordial ST segment elevations may be somewhat more prominent. 
+ST-T wave abnormalities are less prominent at a somewhat faster 
+rate. 
+
+ 
+Brief Hospital Course:
+SUMMARY: Ms ___ is a ___ woman with stage 4 lung cancer, 
+severe AS, and chronic anemia, who was admitted for chest pain. 
+Initially, her chest pain and mild ST elevations were concerning 
+for STEMI, so she was taken to the cath lab. However, her pain 
+and ECG changes resolved upon arrival to the cath lab, so she 
+was admitted to the Medical Wards for further management of her 
+anemia (Hgb 6.5 on admission) and for goals of care discussion. 
+She was transfused 1 unit pRBC, with appropriate rise in her Hb, 
+with improvement in her weakness and dyspnea on exertion. She 
+was evaluated by cardiology, who felt that her symptoms were not 
+concerning for ACS. Given her Stage 4 lung cancer, she is not 
+surgical candidate for aortic valve repair. Team had an 
+extensive goals of care conversation on ___ with patient and 
+her son ___ was made Health Care Proxy & patient 
+completed a MOLST form, and was made DNR/DNI. She will go home 
+with home hospice.
+
+# CHEST PAIN: 
+Initially, ST elevations in V1-V4 were concerning for STEMI, so 
+patient was taken to the cath lab upon arrival to ED. However, 
+her chest pain and ischemic changes on ECG completely resolved, 
+so she was admitted to the medical service. Repeat ECG on floor 
+showed 2mm ST elevated in V2 and 1mm ST elevation in V1. Pt 
+received ASA 325 mg prior to admission and 81 mg PO x 1 upon 
+arrival to the floor. She had originally been evaluated for 
+possible cardiac catherization, however, per the cardiology 
+fellow Dr. ___ declined all intervention. This decline of 
+intervention seems consistent with prior desires as indicated in 
+Atrius notes. Documentation of consent for cardiac cath was 
+signed by the patient, and the patient endorsed that she "wanted 
+everything done". Given resolution of her symptoms, she was 
+admitted to medicine for further management. Given her 
+downtrending troponins and normal ECHO, chest pain was thought 
+to be demand ischemia, not ACS. She was monitored on telemetry 
+and given ASA 81mg daily. Held beta blocker and heparin given 
+severe anemia. Cardiology consulted, appreciate their recs. Per 
+cardiology, patient is not a candidate for valve replacement. 
+
+# ANEMIA: 
+Patient has chronic anemia, with most recent Hgb 9.3 in ___. 
+On admission, Hgb was 6.6. Patient denied signs and symptoms of 
+bleeding. Per Atrius records, she has a history of a gastric 
+ulcer and endorsed GERD symptoms. Also has a history of AVM per 
+Atrius records. Given history of aortic stenosis, checked for 
+active hemolysis, but hemolysis labs were normal. Hemoglobin 
+remained stable after transfusion, and is 7.9 on discharge. 
+
+# STAGE 4 LUNG CANCER: 
+Patient has a 60-pack year smoking history, and known stage-4 
+lung carcinoma. The malignancy is non-operable, and the patient 
+does not want chemotherapy or radiation. She is not on active 
+treatment and does not require oxygen at home. Oxygen saturation 
+was monitored, and remained stable throughout hospitalization. 
+Goals of care were discussed, as below. 
+
+# AORTIC STENOSIS: 
+Patient has known AS prior to admission, with mean gradient 40 
+in ___. Per outside records, she had previously declined 
+intervention; confirmed with cardiology that she declined 
+intervention. Admission ECHO showed severe aortic valve stenosis 
+(valve area <1.0cm2). Cardiology evaluated, appreciate their 
+recs. Per cardiology, given the patient's stage 4 lung carcinoma 
+and multiple other comorbidities, she would not be a candidate 
+for valve replacement. 
+
+# GOALS OF CARE:
+Prior to this admission, patient had multiple discussions with 
+PCP (latest ___ to discuss goals of care with her metastatic 
+lung adenocarcinoma. Per Atrius notes, " Adenocarcinoma, lung, 
+unspecified laterality: Inoperable and she refused 
+chemotherapy...She refused discussion regarding palliative care 
+or hospice care and insisted on being full code... Today, I 
+discussed with ___ the futility of intubation and mechanical 
+ventilation in someone with inoperable lung cancer and critical 
+valvular heart disease, yet she elected to be full code". 
+Patient still has capacity. Team met with patient, her family, 
+social work, and palliative care; she made her son ___ the HCP 
+on ___. Had a very productive goals of care meeting on ___, 
+and patient completed MOLST form; she is now DNR/DNI, and would 
+not like to be hospitalized unless it is for comfort. She is 
+very clear on what her wishes are. She would like to enjoy the 
+time she has left, and would like to spend this time at home, 
+not in a hospital. 
+
+TRANSITIONAL ISSUES
+- ANEMIA: Patient has known gastric ulcer, and baseline Hgb 
+___, requiring 1 u pRBC, with appropriate rise in H/H. H/H 
+subsequently stable and was 7.9 upon discharge. Can consider 
+occasional monitoring with pallative transfusions as needed. 
+- HOSPICE CARE: Patient would like to be comfortable and avoid 
+future hospitalizations. She completed MOLST form and would like 
+Home Hospice services. 
+- GOALS OF CARE: Patient is DNR/DNI.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Simvastatin 10 mg PO QPM 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Docusate Sodium 100 mg PO BID 
+3. Omeprazole 20 mg PO DAILY 
+4. Simvastatin 10 mg PO QPM 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+- Chest pain secondary to demand ischemia
+
+SECNDARY DIAGNOSES
+- Aortic stenosis
+- Lung carcinoma with metastasis to multiple lymph nodes
+- Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+It was a pleasure taking care of you. You were admitted to ___ 
+___ for chest pain. While you were 
+here, you were evaluated by our cardiology team; you were not 
+having a heart attack, and you did not require a surgical 
+procedure for your chest pain. Your blood counts were very low, 
+so you received a  unit of blood cells, and your counts 
+improved.
+
+We also had an important family meeting with you, your son, and 
+our full team. You completed the MOLST form, which expresses 
+your wishes when you leave the hospital. We will set you up with 
+services at home so that you can get help with medications and 
+assistance around the house. 
+
+We wish you all the best in the future.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

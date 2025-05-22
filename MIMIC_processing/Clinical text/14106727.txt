@@ -1,0 +1,234 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+morphine / cephalexin / Penicillins / ciprofloxacin / Sulfa 
+(Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+Left heart catheterization with DES to the RCA (___)
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+=================
+___ 01:07PM BLOOD WBC-10.3* RBC-3.78* Hgb-12.1 Hct-37.2 
+MCV-98 MCH-32.0 MCHC-32.5 RDW-13.2 RDWSD-46.8* Plt ___
+___ 09:10PM BLOOD ___ PTT-146.0* ___
+___ 09:10PM BLOOD Glucose-125* UreaN-17 Creat-0.7 Na-142 
+K-4.3 Cl-103 HCO3-25 AnGap-14
+___ 09:10PM BLOOD proBNP-2364*
+___ 09:10PM BLOOD cTropnT-0.23*
+___ 09:10PM BLOOD Calcium-10.2 Phos-3.8 Mg-1.9
+
+DISCHARGE LABS:
+==================
+___ 06:07AM BLOOD WBC-8.0 RBC-3.72* Hgb-11.9 Hct-37.7 
+MCV-101* MCH-32.0 MCHC-31.6* RDW-13.5 RDWSD-50.4* Plt ___
+___ 06:07AM BLOOD Plt ___
+___ 06:07AM BLOOD Glucose-92 UreaN-17 Creat-0.7 Na-145 
+K-4.6 Cl-105 HCO3-30 AnGap-10
+___ 06:07AM BLOOD CK-MB-5 cTropnT-0.84*
+___ 06:07AM BLOOD Calcium-9.2 Phos-2.8 Mg-2.1
+
+IMAGING/PROCEDURES:
+===================
+TTE ___:
+The visually estimated left ventricular ejection fraction is 
+65%.
+IMPRESSION: inferior posterior infarct. Suboptimal image 
+quality.
+
+L Heart Catheterization: ___
+"Interventional Details: Percutaneous Coronary Intervention: 
+Percutaneous coronary intervention (PCI) was performed on an ad 
+hoc basis based on the coronary angiographic findings from the 
+diagnostic portion of this procedure. Heparin boluses were given 
+prophylactically for an ACT. >250s and the patient was loaded 
+with TIcagrelor. A ___ Fr. AL 0.75 guide provided good support for 
+the procedure. A short Terumo Runthrough wire crossed into the 
+RPL easily. We Dottered the lesions with a 2.0*15 mm balloon and 
+then pre-dilated
+at 14 ATM for ___. We then delivered a 2.5*38 mm Onyx DES at 14 
+ATM for ___ and then a 2.5*38 mm Onyx DES at 16 ATM for ___. We 
+then post-dilated with a 3.0 mm NC balloon at 18 ATM for ___ x5. 
+Final angiogram showed no residual, TIMi 3 flow and no visibel 
+evidence of dissection or rupture.
+Complications: There were no clinically significant 
+complications.
+Findings
+ Normal left and right heart filling pressures.
+ Single vessel coronary artery disease.
+Recommendations
+ Maximize medical therapy"
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES:
+=====================
+[] Medications STARTED: Aspirin 81mg, atorvastatin 80mg, 
+lisinopril 2.5mg PO daily, metoprolol succinate 50mg PO daily, 
+miralax 17g PO BID prn, ticagrelor 90mg PO BID
+[] Medications STOPPED: simvastatin 10mg PO QPM
+
+[] Cardiology:
+- Placed on a small dose of lisinopril, consider uptitrating as 
+patient's BP tolerates
+- Consider a repeat TTE as an outpatient
+- Please schedule cardiac rehab for patient
+
+[] PCP:
+- ___ was noted to be hypernatremic when NPO. This resolved with 
+restarting her diet, however, if hypernatremia persists, she may 
+benefit from a workup of secondary causes, namely diabetes 
+insipidus.
+
+# CODE STATUS: full (presumed)
+# CONTACT: ___ ___
+
+SUMMARY:
+======================
+Ms. ___ is a ___ year old female with history of
+hyperlipidemia who initially presented to ___ with chest 
+pressure and left shoulder pain, found to have an NSTEMI with 
+elevated troponins and dynamic EKG changes. She was transferred 
+to ___ for left heart catheterization, which demonstrated 
+significant RCA stenosis and she is now s/p DES to RCA, started 
+on aspirin/ticagrelor. On review of EKG, she was felt to be 
+evolving into a STEMI prior to catheterization, and thus, she 
+was kept an extra day for monitoring prior to discharge. She 
+remained stable without chest pain and was discharged home.
+
+ACTIVE ISSUES:
+======================
+#NSTEMI
+#CAD s/p DES to RCA
+Patient presenting with chest pressure and left shoulder pain
+found to have an NSTEMI now s/p DES to RCA with resolution in 
+her
+symptoms. On re-review on her EKG there is concern that her
+NSTEMI was resolving into a STEMI prior to catheterization, and 
+thus, she was kept in house for an extra day for monitoring. Her 
+post-catheterization hospitalization was largely unremarkable. 
+TTE prior to catheterization demonstration evidence of inferior 
+wall hypokinesis with normal EF. She may benefit from repeat TTE 
+in the outpatient setting in the coming months. She was started 
+DAPT with Aspirin and Ticagrelor, atorvastatin 80mg, metoprolol 
+succinate XL 50mg and lisinopril 2.5mg PO daily. Rehab was 
+consulted and patient was set up with home ___, a walker, and 
+plan for cardiac rehab.
+
+#Leukocytosis: She was noted to have leukoctyosis, which was 
+felt to likely be stress related in the setting of ACS. She had 
+no localizing signs of infection and her WBC improved prior to 
+discharge.
+
+#Hypernatremia: Patient noted to be hypernatremic in setting of 
+NPO status. It is slightly atypical that she would become 
+hypernatremic from a short period of time of fasting. It rapidly 
+improved with restarting her diet, but she may benefit from a 
+workup of possible underlying including diabetes insipidus if it 
+recurs. More likely, this is due to prolonged fasting.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Istalol (timolol maleate) 0.5 % ophthalmic (eye) BID 
+2. Simvastatin 10 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+3.  Lisinopril 2.5 mg PO DAILY 
+RX *lisinopril 2.5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+5.  Polyethylene Glycol 17 g PO BID:PRN Constipation - Third 
+Line 
+RX *polyethylene glycol 3350 [Miralax] 17 gram/dose 1 dose by 
+mouth once a day Refills:*0 
+6.  TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+7.  Istalol (timolol maleate) 0.5 % ophthalmic (eye) BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+====================
+NSTEMI
+Coronary artery disease
+
+SECONDARY DIAGNOSES:
+====================
+Leukocytosis
+Hypernatremia
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because you had a heart attack  
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You were admitted to the hospital because you had 
+chest/shoulder pain. You were found to have had a heart attack. 
+Your heart arteries were examined (cardiac catheterization) 
+which showed a blockage of one of the arteries. This was opened 
+by placing a tube called a stent in the artery. You were given 
+medications to prevent future blockages.
+- You were also started on a number of different medications to 
+help improve your heart function
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Be sure to take all your medications and attend all of your 
+appointments listed below. 
+- It is very important to take your aspirin and ticagrelor every 
+day. These two medications keep the stents in the vessels of the 
+heart open and help reduce your risk of having a future heart 
+attack. If you stop these medications or miss ___ dose, you risk 
+causing a blood clot forming in your heart stents and having 
+another heart attack. Please do not stop taking either 
+medication without taking to your heart doctor.  
+  
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+Your ___ Healthcare Team 
+
+ 
+Followup Instructions:
+___

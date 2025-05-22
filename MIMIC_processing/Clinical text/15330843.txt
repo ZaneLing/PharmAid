@@ -1,0 +1,307 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+command auditory hallucinations
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with a history of depression,
+schizophrenia, asthma who presented with worsening depression 
+and
+auditory hallucinations instructing to harm others. The patient
+describes worsening of his depression for months, namely poor
+energy, insomnia, hopelessness, and intermittent passive SI. He
+is homeless since moving to ___ and no longer has a shelter 
+to
+stay in. Over the past two days prior to admission, he had
+auditory hallucinations consisting of voices that instruct him 
+to
+hurt people, particularly men, without a particular plan to do
+so. In the past, taking medications has helped control with 
+these
+hallucinations, however he has ran out of them for the past
+weeks. Reportedly, he has been seen in other neighboring EDs for
+similar complaints in the past couple of months. 
+
+In the ED,
+
+Initial vital signs: T 98.3, HR 88, BP 122/66, RR 18, O2 sat 98%
+RA.
+
+Exam notable for: Flat affect, poor dentition, swollen and
+erythematous feet without edema.
+
+Labs were notable for: CBC - WBC 15.4, Hgb 12.5, Plt 196; BMP -
+Cr 1.0; negative UDS. 
+
+Studies performed include: CXR- no acute cardiopulmonary
+abnormalities.
+
+Patient was given: PRN albuterol, ibuprofen, aripiprazole 10 mg,
+lorazepam 2 mg IM, haloperidol 5 mg IM.
+
+Consults: Psychiatry - recommended ___ due to potential
+harm to others. 
+
+The patient was in the ED for 4 days. During that time, he was
+intermittently rude to nursing staff, required chemical
+restraints overnight on ___. At that point the decision was 
+made
+to admit to Medicine while waiting for a psych bed.  
+
+Upon arrival to the floor, he describes his mood as good. He's 
+no
+longer having auditory hallucinations. He tells me he was
+previously in a shelter, and only taking Abilify. He denies drug
+use in the past week. He wants to leave but understands that 
+he's
+in the hospital to get better. 
+
+REVIEW OF SYSTEMS:
+Complete ROS obtained and is otherwise negative.
+ 
+Past Medical History:
+Asthma
+Depression
+Schizophrenia
+ 
+Social History:
+___
+Family History:
+No history of mental health disorders.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+VITALS: T 98.0, BP 132/81, HR 98, RR 18, O2 sat 98 RA 
+GEN: In NAD.
+HEENT: PERRL, moist mucous membranes, oropharynx clear without
+exudates.
+NECK: No JVD, no cervical lymphadenopathy.
+CV: RRR, no murmurs/gallops/rubs.
+PULM: CTAB, no wheezing/crackles/rhonchi.
+ABD: Soft, non tender, non distended.
+EXTREM: No ___ edema. Pulses +2 ___P, ___ bilaterally.
+SKIN: No rashes.
+NEURO: A&Ox3, CN II-XII intact, motor and sensation grossly
+intact. 
+PSYCH: Cooperative, "good" mood, flattened affect, linear 
+thought
+process, no current SI/HI, no current visual/auditory
+hallucinations.
+
+DISCHARGE PHYSICAL EXAM:
+======================
+VITALS: 24 HR Data (last updated ___ @ 1209)
+    Temp: 96.6 (Tm 98.0), BP: 118/79 (101-132/58-81), HR: 86
+(86-98), RR: 18, O2 sat: 97% (96-98), O2 delivery: RA  
+GEN: In NAD. Lying in bed
+
+Pt refused exam
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 02:52PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 02:52PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 02:52PM URINE  RBC-1 WBC-1 BACTERIA-FEW* YEAST-NONE 
+EPI-<1
+___ 02:52PM URINE  MUCOUS-RARE*
+___ 12:43PM   GLUCOSE-88 UREA N-17 CREAT-1.0 SODIUM-141 
+POTASSIUM-4.6 CHLORIDE-103 TOTAL CO2-25 ANION GAP-13
+___ 12:43PM   estGFR-Using this
+___ 12:43PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+tricyclic-NEG
+___ 12:43PM   WBC-15.4* RBC-5.17 HGB-12.5* HCT-39.5* 
+MCV-76* MCH-24.2* MCHC-31.6* RDW-16.6* RDWSD-45.7
+___ 12:43PM   NEUTS-70.6 LYMPHS-18.6* MONOS-8.1 EOS-1.7 
+BASOS-0.5 IM ___ AbsNeut-10.87* AbsLymp-2.86 AbsMono-1.24* 
+AbsEos-0.26 AbsBaso-0.08
+___ 12:43PM   PLT COUNT-196
+___ 12:36PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+
+DISCHARGE LABS:
+===============
+___ 09:15AM BLOOD WBC-11.4* RBC-5.59 Hgb-13.5* Hct-42.5 
+MCV-76* MCH-24.2* MCHC-31.8* RDW-16.5* RDWSD-44.3 Plt ___
+___ 09:15AM BLOOD Glucose-94 UreaN-17 Creat-1.1 Na-140 
+K-4.9 Cl-104 HCO3-26 AnGap-10
+___ 09:15AM BLOOD Calcium-9.8 Phos-4.5 Mg-1.9
+
+IMAGING:
+========
+CXR ___:
+IMPRESSION: No acute cardiopulmonary abnormality.
+
+MICROBIOLOGY:
+=============
+Time Taken Not Noted     Log-In Date/Time: ___ 2:53 pm
+      URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male w/ ___ depression and 
+schizophrenia who is presenting with auditory hallucinations and 
+homicidal ideation. He was admitted under ___.
+
+ACUTE ISSUES
+=============
+#Acute depressive episode with SI, HI
+#Auditory, visual hallucinations
+Episode appears similar to recent hospitalizations per record 
+review by Psych. Current trigger likely medication non 
+adherence. He was medically cleared in the ED but was admitted 
+to medicine pending psychiatry bed. Psychiatry initially had 
+patient under ___ but this was subsequently discontinued 
+as the patient's auditory hallucinations resolved with 
+initiation of anti-psychotics.  He was cleared by psychiatry 
+team for discharge home and was no longer felt to be a risk to 
+himself or others. He was maintained on Abilify 10 mg for one 
+day while in house and discharged on risperidone 1mg twice daily 
+because of cost. He was given a free two-week supply.
+
+#leukocytosis
+Initial labs with leukocytosis WBC 15, no labs since ___. Per 
+documentation no complaints of cough, fever, loose stool, skin 
+breakdown. Urine culture negative and CXR w/o consolidation. 
+Improved to 11 on discharge.
+
+#Med rec
+Patient with inconsistent medication history, reportedly taking 
+both aripiprazole and valproic acid. However, recently 
+discharged from OSH on risperidone. He was discharged on 
+risperidone as above.
+
+CHRONIC ISSUES
+===============
+#Asthma: Not on albuterol inhaler. Continue to monitor for 
+symptoms
+
+#Tobacco use disorder: Smoker of 7 cigarettes daily. Did not 
+want nicotine patch while in house.
+
+TRANSITIONAL ISSUES
+===================
+Patient plans to take bus to return to ___. He was agreeable 
+to pay the fee as quoted by ___. Unfortunately no further 
+financial assistance regarding this could be given.
+
+MEDICATION: Risperidone 1mg twice daily
+
+Other:
+[] Please ensure patient has appropriate psychiatric follow-up 
+and refill of medications.
+
+___ - for psychiatric medication management and
+substance use counseling:
+p: ___ 
+Pt was seen last fall for psychiatry and group substance use
+therapy. He was last prescribed risperidone 2mg BID and Cogentin
+2mg daily at the end ___. He could re-enroll by calling
+or walking in for med management and group therapy. 
+
+___ (___ recovery ___)
+Pt can return to live here for $520/month
+p: ___
+This group recovery home, where patient stayed last ___, was 
+called during hospital stay and updated on the plan. They will 
+plan to reserve a bed if patient calls. He'll be expected to go 
+to a recovery clinic and live a sober lifestyle. He'd owe $520 
+monthly in rent
+
+[] Tobacco cessation counseling
+[] Please monitor for further command hallucinations which may 
+require repeat hospitalization especially if concern for harm to 
+self or others.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ARIPiprazole 30 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  RisperiDONE 1 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+=================
+Command auditory hallucinations
+
+SECONDARY DIAGNOSIS:
+===================
+Schizophrenia
+Depression
+Asthma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ 
+It was a privilege caring for you at ___.  
+Please see below for more information on your hospitalization. 
+ 
+WHY WERE YOU ADMITTED TO THE HOSPITAL?  
+- You were hearing voices that were possibly telling you to hurt 
+people
+ 
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL?  
+- We ensured your safety
+- Psychiatry evaluated you and helped us with your treatment
+- We started a medication to treat your auditory hallucinations
+- We recommend that you try to get back to ___. See below for 
+resources.
+ 
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+- Take your new medication-- risperidone. We got you a free 2 
+week supply of this, which you should take twice daily.
+- Seek medical attention if you have new or concerning symptoms 
+of auditory or visual hallucination, feelings of paranoia or 
+that you feel that you may want to harm yourself or others.
+
+These are the resources in ___ - for psychiatric medication management and 
+substance use counseling:
+p: ___ 
+
+___ Living (Group recovery home)
+Pt can return to live here for $520/month
+p: ___
+
+It was a pleasure taking part in your care here at ___!  
+We wish you all the best!  
+- Your ___ Care Team  
+ 
+Followup Instructions:
+___

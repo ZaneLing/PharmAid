@@ -1,0 +1,294 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+guaifenesin / shellfish derived / Sulfa (Sulfonamide 
+Antibiotics) / Xylocaine-Epinephrine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with HTN, migraines, GERD, 
+remote cholecystectomy, and a history pancreatitis and 
+choledocholithiasis episodes requiring ERCP, who presented to 
+her PCP yesterday with ear pressure, dizziness, chest pressure, 
+and abdominal pain, and on further evaluation was noted to have 
+lipase elevation to 1400, and RUQUS with biliary dilation, 
+concerning for choledocholithiasis with biliary obstruction and 
+pancreasitis. 
+
+She states that in the past week or so she had URI symptoms and 
+had several transient episodes of dizziness, as well as a sense 
+of ear pressure, which has now resolved. She reported chest 
+tightness for about one week, as well as intermittent dyspnea, 
+which she continues to report. Within the past ___ days she has 
+had epigastric and RUQ pain, radiating to the back, similar to 
+prior episodes of pancreatitis but overall less severe. She has 
+also had worsened heart burn over the past few days. She has 
+continued to take POs (some mild nausea earlier, but not at this 
+time) and has not have fevers, chills, or diarrhea.
+
+Of note during her most recent admission for choledocholithiasis 
+(without pancreatitis) at ___ in ___ she 
+underwent ERCP with sphincterotomy and balloon extraction of 
+stone and debris. Her course was complicated by GNR bacteremia 
+and c diff. She also had hypoxia that was felt to be related to 
+atelectasis and effusions related to aggressive IV fluids. She 
+also reportedly had a negative stress echo around that time. 
+
+She was referred to the ED at ___ by her primary care office 
+for possible ERCP given the suspicion for recurrent gallstone 
+pancreatitis and biliary obstruction based on the RUQUS results. 
+In the ED she reported mild pain, was afebrile, HR ___ BP 
+120s-150s/70s-90s, satting 96-98% on room air. Labs with normal 
+UA, normal lactate, and potassium notable for BUN 21, ALT 48, 
+AST 49, Alk Phos 67, LDH 482, lipase 798, Tbili 0.2, WBC 10.1. 
+
+ROS: As per HPI, and 10 point ROS completed and otherwise 
+negative, except as follows:
+- reports one month of intermittent leg discomfort at night only
+ 
+Past Medical History:
+HTN
+GERD
+Recurrent pancreatitis, history of ERCP for biliary 
+stones/sludge
+C diff colitis (___)
+carpal tunnel
+anxiety
+depression
+osteoporosis
+HL
+IBS
+migraines
+mitral valve prolapse
+s/p ccy ___
+knee replacement
+trigger release
+arthroscopic knee surgery
+ 
+Social History:
+___
+Family History:
+Brother - CAD. Father - prostate cancer. Mother - breast cancer.
+ 
+Physical Exam:
+ADMISSION EXAM:
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma.
+MMMs
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, TTP mostly in epigastrium and
+RUQ.  Bowel sounds present.  No HSM
+GU: No CVA/suprapubic tenderness
+MSK: No swollen or erythematous joints
+SKIN: No rashes or ulcerations noted
+EXTR: wwp no edema
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, strength grossly intact/symmetric
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM:
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+MMMs
+CV: Heart regular, no murmur, no S3, no S4. No JVD.
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, TTP remains slightly in 
+epigastrium and RUQ. Bowel sounds present. No HSM.
+GU: No CVA/suprapubic tenderness
+MSK: No swollen or erythematous joints
+SKIN: No rashes or ulcerations noted
+EXTR: WWP no edema
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, strength grossly intact/symmetric
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:05PM BLOOD WBC: 10.1* RBC: 4.44 Hgb: 12.4 Hct: 39.1
+MCV: 88 MCH: 27.9 MCHC: 31.7* RDW: 14.6 RDWSD: 47.5* Plt Ct: 279 
+
+___ 10:05PM BLOOD Glucose: 96 UreaN: 21* Creat: 0.8 Na: 141
+K: 5.5* Cl: 104 HCO3: 24 AnGap: 13 
+___ 10:05PM BLOOD ALT: 48* AST: 49* LD(LDH): 482* AlkPhos:
+67 TotBili: 0.2 
+___ 10:05PM BLOOD Lipase: 798* 
+___ 10:05PM BLOOD Albumin: 3.8 
+___ 10:10PM BLOOD Lactate: 1.5 K: 4.0 
+
+DISCHARGE LABS:
+___ 06:45AM BLOOD WBC-8.1 RBC-4.93 Hgb-14.1 Hct-43.3 MCV-88 
+MCH-28.6 MCHC-32.6 RDW-14.2 RDWSD-45.8 Plt ___
+___ 06:45AM BLOOD Glucose-95 UreaN-18 Creat-0.8 Na-142 
+K-5.3* Cl-101 HCO3-30 AnGap-11
+___ 06:45AM BLOOD ALT-31 AST-16 AlkPhos-81 TotBili-0.2
+___ 06:45AM BLOOD Albumin-3.8 Calcium-9.1 Mg-2.4
+
+No labs ordered on day of discharge.
+
+MICRO: 
+C.diff ___: Positive for C.diff
+
+IMAGING:
+___ ultrasound obtained:
+"1. Mild fatty infiltration of the liver. 2. Common bile duct 
+measures 0.48 cm. However, there appears to be some increased 
+echogenic material within the CBD which could represent sludge 
+or even stones. 3. Probable small right angiomyolipoma. 4. 
+Follow up with ERCP is recommended as this patient will probably 
+need treatment of the common duct as well, based upon history of 
+prior choledocholithiasis. Other possibilities do include sludge 
+within the common duct"
+
+KUB ___:
+Aside from multiple surgical clips, there is no evidence of a 
+metallic foreign body in the abdomen. 
+ 
+CXR ___
+No prior chest radiographs available.  Lungs are fully expanded 
+and clear. Cardiomediastinal and hilar silhouettes and pleural 
+surfaces are normal. 
+
+MRCP ___:
+1.  No intra- or extrahepatic biliary dilatation. No 
+choledocholithiasis.  
+Pneumobilia in the left hepatic lobe, presumably related to 
+prior biliary 
+intervention or sphincterotomy. Surgically absent gallbladder. 
+2.  Mild-to-moderate diffuse hepatic steatosis, with calculated 
+fat fraction of 12%. 
+
+ 
+Brief Hospital Course:
+___ year old woman with HTN, migraines, GERD, remote 
+cholecystectomy, and a history of pancreatitis and 
+choledocholithiasis episodes requiring ERCP who was transferred
+from an OSH for further evaluation of acute pancreatitis and 
+possible choledocholithiasis.
+
+#Acute pancreatitis, possible gallstone in etiology
+Pt presented with epigastric pain and nausea, found to have 
+acute pancreatitis.  Possibly this may be due to retained 
+gallstones but unclear as no obvious obstructing stone seen on 
+RUQ US.  Pain controlled with prn morphine->oxycodone.  US also 
+showed CBD sludge but no clear dilation or obstruction. MRCP 
+negative for choledocholithiasis.  ERCP team following, no 
+indication for repeat ERCP at this time. Pt's diet was gradually 
+advanced and she was tolerating a regular diet without 
+significant worsening of pain on discharge.  Patient is advised 
+to avoid fatty food and NO alcohol
+
+#Recurrent c.diff
+Pt noted to have some loose stools during this hospitalization. 
+Sent for c.diff and came back positive. Per pt's report, this is 
+third recurrence in last few months.  She was restarted on 
+2-week course of PO vanc (day 1: ___.
+
+#GERD
+Pt placed on protonix in place of nexium.  Counseled that 
+continuing PPI/H2 blocker could increase her risk of developing 
+c.diff but pt states that her GERD is poorly controlled without 
+it.
+
+#Chest tightness, dyspnea
+Pt c/o chest tightness and dyspnea on presentation.  Likely 
+referred pain from pancreatitis.  Trops negative in ED x2, and 
+history/exam overall reassuring. EKG
+overall unrevealing and similar to prior. Chest pain improved 
+with tx of pancreatitis above.
+
+#HTN/migraines: Continued home verapamil
+
+#Depression/anxiety: Continued home venlafaxine
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Verapamil SR 120 mg PO Q24H 
+2. Nexium 40 mg Other DAILY 
+3. Calcium Carbonate 500 mg PO QID:PRN heart burn 
+4. Restasis 0.05 % ophthalmic (eye) PRN 
+5. Cholestyramine 4 gm PO QHS 
+6. Venlafaxine XR 75 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Vancomycin Oral Liquid ___ mg PO QID 
+Day 1: ___
+last day: ___ 
+RX *vancomycin 125 mg/2.5 mL 125 syringe(s) by mouth Four times 
+a day Disp #*56 Syringe Refills:*0 
+2.  Calcium Carbonate 500 mg PO QID:PRN heart burn  
+3.  Cholestyramine 4 gm PO QHS  
+4.  Nexium 40 mg Other DAILY  
+5.  Restasis 0.05 % ophthalmic (eye) PRN  
+6.  Venlafaxine XR 75 mg PO DAILY  
+7.  Verapamil SR 120 mg PO Q24H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute pancreatitis (likely due to passed gallstone)
+C.diff diarrhea
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+You were admitted with abdominal pain and elevated liver tests.  
+We found that you had some inflammation of your pancreas (a 
+condition called pancreatitis) that was likely triggered by a 
+retained gallstone. We did an MRI which did not show any active 
+obstructing stones in your pancreas or bile ducts. Your liver 
+tests also improved on their own.
+
+While you were here, we also found that you had recurrent 
+diarrhea caused by c.diff.  We treated you with an oral 
+antibiotic called Vancomycin and your stools improved.  Please 
+talk to your physicians about taking oral vancomycin 
+prophylactically if you will need any antibiotics again in the 
+future.
+
+Please return if you have worsening abdominal pain, jaundice, 
+recurrent profuse/watery diarrhea, fevers/chills, or if you have 
+any other concerns.
+
+Especially given that your husband is immunocompromised, please 
+be very careful about using your own bathroom at home and 
+careful hand hygiene for the two weeks while you complete 
+treatment for clostridium difficile colitis.
+
+It was a pleasure taking care of you at ___ 
+___.
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

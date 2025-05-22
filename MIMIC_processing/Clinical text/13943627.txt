@@ -1,0 +1,407 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cough, pancreatic mass
+ 
+Major Surgical or Invasive Procedure:
+___ Pancreatic endoscopic biopsy
+
+ 
+History of Present Illness:
+___ w/no significant ___ transferred from ___ for
+evaluation of fever and a new pancreatic mass found on CT scan. 
+
+Patient reports being to her PCP 5 times in the last 2 months 
+for
+congoing cough and then more recently fever and night-sweats. 
+She
+has had no significant weight loss. As symptoms were not
+resolving, she went to ___ where a CT scan
+identified a new large pancreatic mass and she was transferred 
+to
+___.
+
+In the ED, initial VS were: 98.2 107 116/67 16 99% RA 
+Labs showed: WBC 12.4, Hb 8.7, Cr 0.5, INR 1.6
+Received: lorazepam 1mg IV
+Transfer VS were: 98.9 109 109/70 16 100% RA
+
+On arrival to the floor, patient reports feeling well currently.
+Her biggest complaint over the last few weeks has been sever
+cough. This has been so severe it has caused her to vomit. Non
+productive however. No chest pain or difficulty breathing. She
+reports eating and drinking well. She was recently trated with a
+10day course of levofloxacin which she just finished for 
+presumed
+URI. She denies any abdominal or back pain. 
+
+REVIEW OF SYSTEMS:  
+(+)PER HPI 
+ 
+Past Medical History:
+Depression / Anxiety
+ 
+Social History:
+___
+Family History:
+Mother - ___ and breast cancer
+2 children healthy and well
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS:  98.5 112/68 95 18 97 Ra 
+GENERAL: Adult female in NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+
+DISCHARGE PHYSICAL EXAM:  
+VS:  98.7 104/67 109 18 96 Ra 
+GENERAL: Adult female in NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM
+NECK: supple, no LAD, no JVD, no lymphadenopathy anterior, 
+cervical, axillary  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+
+___ 09:51PM BLOOD WBC-12.4* RBC-3.54* Hgb-8.7* Hct-29.3* 
+MCV-83 MCH-24.6* MCHC-29.7* RDW-15.2 RDWSD-46.2 Plt ___
+___ 09:51PM BLOOD Neuts-68.3 Lymphs-11.7* Monos-11.3 
+Eos-7.4* Baso-0.7 Im ___ AbsNeut-8.45* AbsLymp-1.44 
+AbsMono-1.40* AbsEos-0.91* AbsBaso-0.09*
+___ 09:51PM BLOOD ___ PTT-30.6 ___
+___ 09:51PM BLOOD Glucose-80 UreaN-7 Creat-0.5 Na-140 K-3.9 
+Cl-101 HCO3-23 AnGap-16
+___ 09:51PM BLOOD ALT-21 AST-11 AlkPhos-132* TotBili-0.2
+
+DISCHARGE LABS:
+==============
+
+___ 04:25AM BLOOD WBC-10.4* RBC-3.46* Hgb-8.6* Hct-28.8* 
+MCV-83 MCH-24.9* MCHC-29.9* RDW-15.5 RDWSD-47.1* Plt ___
+___ 04:25AM BLOOD ___ PTT-29.4 ___
+___ 04:25AM BLOOD Glucose-95 UreaN-10 Creat-0.6 Na-142 
+K-4.4 Cl-100 HCO3-29 AnGap-13
+___ 04:12AM BLOOD ALT-15 AST-9 LD(LDH)-92* AlkPhos-124* 
+TotBili-0.2
+___ 04:25AM BLOOD Calcium-8.7 Phos-4.1 Mg-2.0 UricAcd-3.3
+___ 05:21AM BLOOD calTIBC-114* Ferritn-857* TRF-88*
+___ 04:25AM BLOOD Hapto-527*
+
+MICROBIOLOGY:
+============
+___ urine culture - negative
+___ blood culture - pending
+
+RELEVANT IMAGING:
+===============
+Final Report
+EXAMINATION:  CTA ABD AND PELVIS
+ 
+INDICATION:  ___ year old woman with pancreatic mass seen on CTA 
+chest// Better
+eval mass and remainder of abdomen for possible mets
+ 
+TECHNIQUE:  Abdomen and pelvis CTA: Non-contrast and multiphasic 
+post-contrast
+images were acquired through the abdomen and pelvis.
+Oral contrast was not administered.
+MIP reconstructions were performed on independent workstation 
+and reviewed on
+PACS.
+ 
+DOSE:  Acquisition sequence:
+   1) Spiral Acquisition 7.4 s, 28.6 cm; CTDIvol = 7.9 mGy 
+(Body) DLP = 214.0
+mGy-cm.
+   2) Spiral Acquisition 12.8 s, 49.3 cm; CTDIvol = 12.0 mGy 
+(Body) DLP =
+572.6 mGy-cm.
+ Total DLP (Body) = 800 mGy-cm.
+ 
+COMPARISON:  None.
+ 
+FINDINGS:
+ 
+ 
+LOWER CHEST: Minimal atelectasis is noted in the lung bases.  
+There is a small
+left pleural effusion
+ 
+ABDOMEN:
+ 
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout. There
+is no evidence of focal lesions.  There are however subcapsular 
+soft tissue
+implants along the right hepatic lobe.  There is no evidence of 
+intrahepatic
+or extrahepatic biliary dilatation.  The gallbladder is within 
+normal limits,
+without stones or gallbladder wall thickening.
+ 
+PANCREAS: There is an approximately 5.7 x 10 x 10 cm (AP by T by 
+cc)
+infiltrative, heterogenous appearing mass lesion involving the 
+pancreatic body
+and tail, with central hypoattenuation/necrosis.  The lesion 
+encases the
+splenic artery and vein.  The common hepatic artery and GDA 
+appear separate
+from the lesion.  The main portal vein and SMV are also 
+uninvolved, however
+there are prominent venous collaterals seen in the anterior 
+abdomen, which are
+likely related to splenic vein narrowing from the pancreatic 
+mass.  The
+pancreatic duct is not dilated.
+ 
+SPLEEN: There is loss of intervening fat plane between the 
+pancreatic mass and
+the medial margin of the spleen, with suspected direct invasion 
+of the mass at
+the cranial pole of the spleen (series 4, image 26).  There are 
+multiple
+subcapsular soft tissue implants along the spleen.
+ 
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape.
+ 
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.
+There is no evidence of stones, focal renal lesions, or 
+hydronephrosis. There
+are no urothelial lesions in the kidneys or ureters. There is no 
+perinephric
+abnormality.
+ 
+GASTROINTESTINAL: Small bowel loops demonstrate normal caliber, 
+wall thickness
+and enhancement throughout. Colon and rectum are within normal 
+limits. 
+Appendix contains air, has normal caliber without evidence of 
+fat stranding. 
+There is no evidence of mesenteric lymphadenopathy.
+ 
+RETROPERITONEUM: There is no evidence of retroperitoneal 
+lymphadenopathy.
+ 
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no
+evidence of pelvic or inguinal lymphadenopathy.  There is no 
+free fluid in the
+pelvis.
+ 
+REPRODUCTIVE ORGANS: The visualized reproductive organs are 
+unremarkable.  An
+IUD is present in the uterus.
+ 
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture.
+ 
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits.
+ 
+IMPRESSION:
+ 
+ 
+1. Large infiltrative mass involving the pancreatic body and 
+tail with central
+necrosis.  There is contiguous extension of the mass along the 
+upper pole of
+the spleen, with peritoneal subcapsular implants along the liver 
+and spleen. 
+Differential considerations in this young patient include a SPEN 
+(solid pseudo
+papillary tumor) which has undergone malignant degeneration or a
+neuroendocrine tumor.  Lymphoma is less likely, given the lack 
+of
+lymphadenopathy.
+ 
+EUS ___
+Other
+findings:EUS was performed using a linear echoendoscope at 7.5 
+MHz frequency: The head and uncinate pancreas were imaged from 
+the duodenal bulb and the second / third duodenum. The body and 
+tail [partially] were imaged from the gastric body and fundus. : 
+ Mass: A 4 cm X 5 cm well-defined mass was noted in the body of 
+the pancreas. The mass was hypoechoic and heterogenous in 
+echotexture. The borders of the mass were well defined. The mass 
+appeared to invade the spleen. FN core biopsy was performed. 
+Color doppler was used to determine an avascular path for needle 
+aspiration. A 22-gauge core biopsy needle with a stylet was used 
+to perform aspiration. Four needle passes were made into the 
+mass. Aspirate was sent for histology.  (Biopsies were performed 
+for histology at the pancreas mass.) Vessels [Venous 
+structures]: The mass did not invade the portal vein. Vessels 
+[Arterial]: The celiac artery take-off from the Aorta was 
+imaged. This was not invaded by the mass. The superior 
+mesenteric artery take-off from the Aorta was imaged. This was 
+not invaded by the mass. The superior mesenteric artery was 
+partially imaged from the second/third part of the duodenum. The 
+mass did not appear to invade the visualized superior mesenteric 
+artery.  
+Impression:EUS was performed using a linear echoendoscope at 
+___ MHz frequency: The head and uncinate pancreas were imaged 
+from the duodenal bulb and the second / third duodenum. The body 
+and tail [partially] were imaged from the gastric body and 
+fundus. :
+Mass: A 4 cm X 5 cm well-defined mass was noted in the body of 
+the pancreas. The mass was hypoechoic and heterogenous in 
+echotexture. The borders of the mass were well defined. The mass 
+appeared to invade the spleen. FN core biopsy was performed. 
+Color doppler was used to determine an avascular path for needle 
+aspiration. A 22-gauge core biopsy needle with a stylet was used 
+to perform aspiration. Four needle passes were made into the 
+mass. Aspirate was sent for histology. (biopsy)
+Vessels [Venous structures]: The mass did not invade the portal 
+vein. Vessels [Arterial]: The celiac artery take-off from the 
+Aorta was imaged. This was not invaded by the mass. The superior 
+mesenteric artery take-off from the Aorta was imaged. This was 
+not invaded by the mass. The superior mesenteric artery was 
+partially imaged from the second/third part of the duodenum. The 
+mass did not appear to invade the visualized superior mesenteric 
+artery.
+Otherwise normal upper eus to third part of the duodenum
+ 
+Brief Hospital Course:
+___ w/no significant past medical history transferred from ___ 
+___ for evaluation of fever and a new pancreatic mass 
+found on CT scan. 
+
+#Pancreatic Mass: Patient with large 5.7x10x10 cm infiltrative 
+heterogenous mass in the pancreatic body and tail as read on CT 
+abn/pelvis. The patient currently has a cough likely secondary 
+to the mass irritating the diaphragm. Chlorpromazine was 
+attempted, but it only made the patient sleepy and did not help 
+the cough. The patient underwent a biopsy with the ERCP team. 
+Initial pathology demonstrated an undifferentiated tumor, but no 
+specific tumor type was available by time of discharge. The 
+patient's case was discussed at tumor board and the patient was 
+set up with an appointment to see Dr. ___ in pancreatic 
+oncology on ___. 
+
+#Cough: Patient was initially evaluated at ___ 
+for a cough. A CT chest was completed and showed no 
+intrathroacic findings. She was symptomatically treated with 
+Chlorpromazine during her stay, but it only made her tired and 
+did not help the cough so it was discontinued prior to 
+discharge. 
+
+TRANSITIONAL ISSUES:
+====================
+- Follow up with Dr. ___ on ___ at 1 pm
+- For fever, chills, nausea, vomiting, expanding abdomen, 
+inability to pass stool, skin color changes (yellowing) return 
+to the hospital ___ if stable or local hospital for transfer 
+to ___ if unwell). 
+- Final pathology read pending. 
+
+Code Status: Full Code
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 40 mg PO DAILY 
+2. ALPRAZolam 0.5 mg PO TID:PRN anxiety 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Ondansetron 8 mg PO Q8H:PRN nausea 
+RX *ondansetron 8 mg 1 tablet(s) by mouth every 8 hours as 
+needed for nausea Disp #*20 Tablet Refills:*0 
+3.  TraZODone 50 mg PO QHS:PRN insomnia 
+RX *trazodone 50 mg 1 tablet(s) by mouth every night as needed 
+for insomnia Disp #*30 Tablet Refills:*0 
+4.  ALPRAZolam 0.5 mg PO TID:PRN anxiety 
+as needed   
+5.  Citalopram 40 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+- Pancreatic carcinoma
+
+SECONDARY DIAGNOSIS:
+- Cough
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___. 
+
+Why were you admitted to the hospital? 
+You were found to have a large pancreatic mass
+
+What did we do for you in the hospital?
+- We tried to treat your symptoms of cough and insomnia
+- We took a biopsy of the mass and sent it to pathology, the 
+final read is still pending. As discussed, the final read of the 
+biopsy will determine what kind of treatment you will need and 
+how soon. Dr. ___ follow up with you once you are 
+discharged.  
+
+What will you do when you go home?
+- Follow up with Dr. ___ Dr. ___
+- ___ you have questions between now and ___, you can contact:
+  Dr. ___
+  ___
+- Please return to the hospital if you have any of the following 
+problems: 
+* fever, chills, nausea, vomiting, expanding abdomen, inability 
+to pass stool, skin color changes (yellowing). 
+
+NEW MEDICATIONS:
+Ondansetron 8 mg every 8 hours as needed for nausea
+Trazodone 50 mg nightly as needed for insomnia
+
+We wish you the best,
+
+~ Your ___ team
+ 
+Followup Instructions:
+___

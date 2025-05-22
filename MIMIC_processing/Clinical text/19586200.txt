@@ -1,0 +1,322 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+glipizide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Exercise Stress Test with nuclear imaging ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with a history of IDDM, 
+HTN and anxiety presenting with left sided chest and shoulder 
+pain. Patient reports that at approximately 17:00 on ___ she 
+experienced acute onset left chest and shoulder pain with 
+associated nausea and diaphoresis while at rest. She took full 
+dose ASA with some improvement but within one hour, pain 
+returned, this time to the right shoulder. Pain was rated at 
+___ and burning/pressure-like in nature so severely that it 
+caused her to yell out for help. Upon EMS arrival, she was given 
+2 sprays of nitro with some improvement in pain. Of note, she 
+was noted to be bradycardic to 48 on EMS arrival.  
+ In the ED initial vitals were: T98.2, HR54, BP150/71, RR18, 
+SpO2 97% RA.  
+ EKG: rate 47, sinus rhythm, normal axis, 1st degree AV delay 
+(PR 212), QTc 409, diffuse ST-segment flattening, old Q waves in 
+III and aVF. No significant change from prior.  
+ Labs/studies notable for: normal CBC, electrolytes, negative 
+troponins x1.  
+ Cardiology was consulted who recommended admission out of 
+concern for unstable angina.  
+ Patient was given: 500cc bolus and started on heparin gtt.  
+ Vitals on transfer: T97.8, HR52, BP143/79, RR20, SpO2 98% RA.  
+ On the floor, she is accompanied by long-time friend ___. 
+The patient states that chest pain has not retruned since 
+nitroglycerin administered in the ambulance. She has been chest 
+pain free. She does endorse episode of palpitations on ___ 
+occurring at rest. She has had no exertional dyspnea, exertional 
+chest pain, shortness of breath, orthopnea, PND or new onset leg 
+swelling. She does note a 10lb weight loss over the past two 
+months, and occasional diarrhea with metformin. She has stable 
+diffuse abdominal tenderness.  
+ Of note, she was previously on daily aspirin, but was stopped 
+by PCP due to history of stomach discomfort.  
+
+ ROS: On review of systems, denies any prior history of stroke, 
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the 
+time of surgery, myalgias, joint pains, cough, hemoptysis, black 
+stools or red stools. Denies recent fevers, chills or rigors. 
+Denies exertional buttock or calf pain. All of the other review 
+of systems were negative. Cardiac review of systems is notable 
+for absence of dyspnea on exertion, paroxysmal nocturnal 
+dyspnea, orthopnea, ankle edema, palpitations, syncope or 
+presyncope.  
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+ 1. CARDIAC RISK FACTORS: +hypertension, +dyslipidemia, 
++diabetes  
+ 2. CARDIAC HISTORY:  
+ - CABG: None  
+ - PERCUTANEOUS CORONARY INTERVENTIONS: None  
+ - PACING/ICD: None  
+ - Bradycardia: underwent Holter monitor ___ and ___ showing 
+predominant sinus rhythm  
+ 3. OTHER PAST MEDICAL HISTORY:  
+ - osteoarthritis  
+ - dyspepsia  
+ - R knee replacement  
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death. Father died after falling off ladder and 
+breaking his back. Mother died of complications from diabetes. 
+One younger sister with asthma and another with diabetes 
+mellitus.  
+ 
+Physical Exam:
+ADMISSION EXAM
+=================
+VS: T 97.4, BP 166/75, HR 48, RR 16, SpO2 97%.  
+ GENERAL: WDWN female in NAD. Oriented x3. Mood, affect 
+appropriate.  
+ HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. Dentures in 
+place. No xanthelasma.  
+ NECK: Supple with JVP of 5 cm.  
+ CARDIAC: Bradycardic, normal S1, S2. No murmurs/rubs/gallops. 
+No thrills, lifts.  
+ LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ ABDOMEN: Soft, mild diffuse tenderness, no rebound or guarding. 
+No HSM or tenderness. Normal active bowel sounds.  
+ EXTREMITIES: No c/c/e.  
+ SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+ PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE EXAM
+==================
+VS: T 97.4, BP 166/75  39-48  16  97% RA
+ GENERAL: WDWN female in NAD. Oriented x3. Mood, affect 
+appropriate.  
+ HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. Dentures in 
+place. No xanthelasma.  
+ NECK: Supple with JVP of 5 cm.  
+ CARDIAC: Bradycardic, normal S1, with decreased S2. No 
+murmurs/rubs/gallops. No thrills, lifts.  
+ LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ ABDOMEN: Soft, mild diffuse tenderness, no rebound or guarding. 
+No HSM or tenderness. Normal active bowel sounds.  
+ EXTREMITIES: No c/c/e.  
+ SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+ PULSES: Distal pulses palpable and symmetric. 
+
+ 
+Pertinent Results:
+ADMISSION LAB
+====================
+___ 01:40AM   ___ PTT-25.2 ___
+___ 01:40AM   WBC-4.9 RBC-4.00 HGB-11.2 HCT-36.4 MCV-91 
+MCH-28.0 MCHC-30.8* RDW-12.8 RDWSD-41.9
+___ 01:40AM   CALCIUM-8.9 PHOSPHATE-2.7 MAGNESIUM-1.8
+___ 01:40AM   cTropnT-<0.01
+___ 01:40AM   GLUCOSE-134* UREA N-14 CREAT-0.8 SODIUM-141 
+POTASSIUM-4.0 CHLORIDE-107 TOTAL CO2-25 ANION GAP-13
+___ 09:00AM   ___ PTT-80.3* ___
+___ 09:00AM   WBC-3.9* RBC-3.90 HGB-10.8* HCT-34.0 MCV-87 
+MCH-27.7 MCHC-31.8* RDW-13.0 RDWSD-40.4
+___ 09:00AM   cTropnT-<0.01
+
+IMAGES/STUDIES
+=======================
+STRESS ___:
+INTERPRETATION: This ___ year old IDDM woman with hx of HTN and 
+HL 
+was referred to the lab for evaluation of chest discomfort. She 
+exercised for 9.25 minutes on ___ protocol and stopped due to 
+fatigue. 
+The peak estimated MET capacity is 7.3, which represents a good 
+exercise 
+tolerance for her age. She did not report any chest, arm, neck 
+or back 
+discomfort throughout the test. No significant ST segment 
+changes were 
+seen throughout the test. Rhythm was sinus with rare isolated 
+APBs and 
+periods of junctional or atr escape. Baseline mild systolic HTN 
+with 
+appropriate hemodynamic response to exercise and recovery. 
+Patient 
+presented to the lab feeling symptoms of hypoglycemia in the 
+form of 
+unable to focus, blood sugar measured was 69 mg/dl. Patient 
+given 8 oz 
+of juice and 200 mg of D5W, which raised blood sugar to 114 
+mg/dl. 
+IMPRESSION : No anginal symptoms or ischemic EKG changes. 
+Nuclear report 
+sent separately. 
+
+ECG ___:
+Sinus bradycardia. A-V conduction delay. Inferior Q waves 
+suggesting a prior old myocardial infarction. Non-specific 
+diffuse T wave flattening. Compared to the previous tracing of 
+___ the heart rate is slower, but other findings are 
+similar. 
+
+Cardiac Perfusion ___:
+IMPRESSION:   1. Normal myocardial perfusion study.   
+2. Normal wall motion with estimated left ventricular ejection 
+fraction of 69%.
+
+Chest XRay ___:
+IMPRESSION:  
+No acute intrathoracic process. 
+
+DISCHARGE LABS
+=====================
+___ 09:00AM BLOOD WBC-3.9* RBC-3.90 Hgb-10.8* Hct-34.0 
+MCV-87 MCH-27.7 MCHC-31.8* RDW-13.0 RDWSD-40.4 Plt ___
+___ 09:00AM BLOOD Glucose-102* UreaN-11 Creat-0.8 Na-143 
+K-4.2 Cl-107 HCO3-27 AnGap-13
+___ 09:00AM BLOOD Calcium-9.3 Phos-2.9 Mg-1.7
+___ 09:00AM BLOOD cTropnT-<0.___ with multiple cardiac risk factors (DM, HTN, HLD) presenting 
+with acute onset chest pain responsive to nitroglycerin with 
+negative initial cardiac biomarkers.  
+
+ # CHEST PAIN: Patient presenting with chest pain occurring at 
+rest and relieved by nitroglycerin. TIMI risk score 3 (age, > 3 
+CAD risk factors, > 2 angina episodes). No ECG changes or 
+biomarker elevation, but she is high risk given multiple risk 
+factors for coronary artery disease. Patient treated with 
+heparin gtt for 24 hours, Simvastatin was changed to 
+Atorvastatin, and beta blockage was not given due to 
+bradycardia. Patient went for stress test on ___. Stress test 
+and myocardial perfusion study, were both normal. There was 
+normal wall motion with estimated left ventricular ejection 
+fraction of 69%. Heparin gtt stopped, Atorvastatin stopped and 
+Simvastatin was restarted. Of note, patient had not been on 
+daily ASA at home because it was causing GI upset. Patient's 
+pain was non-cardiac in nature and she was discharged with close 
+PCP follow up for further evaluation. Patient did not have any 
+chest pain while in hospital. 
+
+ # SINUS BRADYCARDIA: Patient with HRs in the 40-50s but 
+completely asymptomatic from bradycardia. Patient had been 
+previously evaluated with multiple Holter monitors revealing AV 
+delay and atrial ectopy. No beta blockade given while in house.  
+
+
+CHRONIC ISSUES:
+ # DIABETES MELLITUS: No microvascular complications. Patient on 
+oral agents and insulin. Insulin sliding scale while inpatient.  
+
+ # HLD: Continued home simvastatin.  
+ # HTN: Continued home losartan and HCTZ.  
+ # DEPRESSION: Continued home fluoxetine.  
+
+TRANSITIONAL ISSUES
+=======================
+-Consider starting ASA 81mg at home w/ food for primary 
+prevention, as tolerated from dyspepsia perspective.
+ # LANGUAGE SPOKEN: ___  
+ # CODE: Full, confirmed
+ # CONTACT: ___, husband/HCP, ___, 
+___ (friend, MICU nurse at ___, secondary HCP) 
+___ (c)  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 50 mg PO DAILY 
+2. MetFORMIN (Glucophage) 1500 mg PO BID 
+3. Simvastatin 40 mg PO QPM 
+4. Glargine 10 Units Breakfast
+Glargine 10 Units Bedtime
+5. Multivitamins 1 TAB PO DAILY 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Calcium Carbonate 800 mg PO DAILY 
+8. Hydrochlorothiazide 12.5 mg PO DAILY 
+9. FLUoxetine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. FLUoxetine 10 mg PO DAILY 
+2. Hydrochlorothiazide 12.5 mg PO DAILY 
+3. Glargine 10 Units Breakfast
+Glargine 10 Units Bedtime
+4. Losartan Potassium 50 mg PO DAILY 
+5. Multivitamins 1 TAB PO DAILY 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Calcium Carbonate 800 mg PO DAILY 
+8. MetFORMIN (Glucophage) 1500 mg PO BID 
+9. Simvastatin 40 mg PO QPM 
+10. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+======================
+-Non-cardiac chest pain
+
+SECONDARY DIAGNOSIS
+======================
+-Hypertension
+-Dyslipidemia
+-Diabetes  
+-Osteoarthritis  
+-Dyspepsia  
+-R knee replacement  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___, 
+
+___ was a pleasure to care for you at ___. You came to us for 
+left chest and shoulder pain and also right shoulder pain that 
+was associated with sweating and nausea. While here we looked at 
+various images and also checked blood markers for heart muscle 
+injury and all of these were negative for cardiovascular 
+disease. This is great news! This leads us to believe that your 
+pain may have been more musculoskeletal in nature and not so 
+much a heart condition. 
+
+The best thing for you to do is to follow up with your primary 
+care doctor to discuss what other things could cause your pain 
+and different ways to prevent and/or treat your pain. For now, 
+we recommend taking Tylenol as needed for pain control, no more 
+than 4000mg of Tylenol per day.
+
+It was a pleasure to meet you. 
+
+We wish you the best,
+
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,220 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever, flank pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with HTN and GERD who presents 
+with
+right sided flank pain.
+
+The patient shares that the day prior to presentation she
+developed right lower abdominal/back pain, along with fevers. 
+She
+has had no vomiting, diarrhea, but did have dysuria. She had no
+cough, shortness of breath or chest pain either. Due to ongoing
+pain and fevers, she presented to the ED.
+
+In the ED, initial VS were:  99.8 (spiked to 102.7) 94 147/56 18
+98%RA. Exam was not documented. Labs were notable for WBC 13.8,
+Hb 13, Cr 0.9, AST 117, ALT 114, AP 167, Tbili 0.9, Lipase 20,
+APAP 16 and negative on repeat, lactate 1.1. UA with 14 WBC and
+moderate ___ with no nitrites. CT AP showed right sided
+pyelonephritis and diverticulosis without diverticulitis. RUQ US
+was normal. She was given ceftriaxone and ibuprofen. 
+
+On arrival to the floor, patient gives the above history. She
+says she is currently feeling better. She says she has had two
+urinary tract infections in the past, but has not needed to be
+hospitalized. She has never been told she had resistant 
+organisms
+and has never had an infection of her blood. She has never been
+told she has any problems with her liver. No recent easy 
+bruising
+or bleeding.
+ 
+
+ 
+Past Medical History:
+GERD
+HTN
+Osteoporosis  
+ 
+Social History:
+___
+Family History:
+Alzheimers
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS:  98.7 100/61 95 18 95 RA
+GENERAL: sitting up in bed, no acute distress and appears
+relatively well 
+HEENT: moist mucosa, anicteric sclera 
+NECK: supple, no LAD, no JVD  
+HEART: RRR, systolic murmur heard throughout precordium loudest
+at ___  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, tender in right flank with no rebound or
+guarding, no appreciable hepatomegaly   
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+ 
+DISCHARGE EXAM
+___ 0732 Temp: 97.7 PO BP: 146/68 R Sitting HR: 73 RR: 18 
+O2
+sat: 98% O2 delivery: Ra 
+GENERAL: sitting up in bed, no acute distress and appears well
+HEENT: moist mucosa, anicteric sclera 
+NECK: supple, no JVD  
+HEART: RRR, systolic murmur heard throughout precordium loudest
+at ___  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender, no flank tendeness or RUQ
+tenderness. 
+EXTREMITIES: no cyanosis, clubbing, or edema  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 01:09AM BLOOD WBC-13.8* RBC-4.18 Hgb-13.0 Hct-38.3 
+MCV-92 MCH-31.1 MCHC-33.9 RDW-12.7 RDWSD-42.1 Plt ___
+___ 01:09AM BLOOD Neuts-86.5* Lymphs-6.3* Monos-6.5 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-11.96* AbsLymp-0.87* 
+AbsMono-0.90* AbsEos-0.02* AbsBaso-0.03
+___ 01:09AM BLOOD ___ PTT-30.9 ___
+___ 09:15PM BLOOD Glucose-130* UreaN-12 Creat-0.9 Na-137 
+K-4.2 Cl-97 HCO3-22 AnGap-18
+___ 09:15PM BLOOD ALT-114* AST-117* AlkPhos-167* 
+TotBili-0.9
+___ 08:38AM BLOOD Albumin-3.4* Calcium-8.6 Phos-3.2 Mg-2.0
+
+INTERVAL LABS
+___ 06:14AM BLOOD HCV Ab-NEG
+___ 01:09AM BLOOD Acetmnp-NEG
+___ 01:15AM BLOOD Lactate-1.1
+
+DISCHARGE LABS
+___ 09:20AM BLOOD Calcium-9.0 Phos-3.6 Mg-2.5
+___ 09:20AM BLOOD ALT-229* AST-178* LD(LDH)-259* 
+AlkPhos-332* TotBili-0.4
+___ 09:20AM BLOOD Glucose-175* UreaN-16 Creat-1.0 Na-137 
+K-4.6 Cl-99 HCO3-24 AnGap-14
+___ 09:20AM BLOOD WBC-5.3 RBC-4.32 Hgb-13.3 Hct-40.1 MCV-93 
+MCH-30.8 MCHC-33.2 RDW-12.8 RDWSD-43.8 Plt ___
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with GERD who presents with 
+pyelonephritis.
+
+# Abdominal pain
+# Pyelonephritis
+On admission, the patient had a CT scan which positive for 
+pyelonephritis. Her uninalysis indicated UTI and her urine 
+culture grew pansensitive E. Coli. Patient received ceftriaxone 
+IV, day ___, transitioned to bactrim initially, but 
+eventually switched to cipro to complete a 14 day course (___). Ceftriaxone and Bactrim were both held due to 
+transaminitis with concern for drug-induced liver injury. 
+
+# Transaminitis: AST/ALT elevated to around 200 on discharge, 
+rising slightly. We were concerned that this was due to either 
+the ceftriaxone or the Bactrim, so her antibiotics were 
+switched to ciprofloxacin as above. We spoke with the patient's 
+primary care office and verified that she would have repeat 
+labs at her appointment on ___ to ensure improvement of 
+LFTs.
+
+# Hypertension: Normotensive to hypotensive here. Patient 
+reportedly recently stopped taking lisinopril due to cough. 
+Will hold off on lisinopril on discharge, and it should be 
+re-evaluated if she needs this as an outpatient.
+
+#GERD: Continued home omeprazole
+
+#Osteoporosis: Continued home alendronate on DC
+
+TRANSITIONAL ISSUES
+[  ] Patient needs follow up labs for liver function within two 
+days of discharge
+[  ] Discuss which herbs she is taking and if they could be 
+causing her LFT abnormalities
+[  ] Ciprofloxacin 14 day course last day ___
+[  ] Consideration to whether to restart lisinopril should be 
+undertaken
+
+#CONTACT:  Son, ___ ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Alendronate Sodium 70 mg PO QMON 
+2. Omeprazole 20 mg PO DAILY 
+3. Fish Oil (Omega 3) 1000 mg PO Frequency is Unknown 
+4. Caltrate 600 + D (calcium carbonate-vitamin D3) 600 mg (1,500 
+mg)-800 unit oral DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*19 Tablet Refills:*0 
+2.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+3.  Alendronate Sodium 70 mg PO QMON  
+4.  Caltrate 600 + D (calcium carbonate-vitamin D3) 600 mg 
+(1,500 mg)-800 unit oral DAILY  
+5.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pylonephritis
+LFT abnormalities
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+You came to ___ with fever and flank pain. We found you had an 
+infection of your urine and kidney. We treated you with 
+antibiotics and your symptoms improved. We also found that your 
+liver function was abnormal. This may because of some of the 
+medications that you received (but are no longer on) or because 
+of the herbs you take. You should talk to your doctor about your 
+herbal medications before you continue to take them they may be 
+causing your liver numbers to be high. Please keep all of your 
+follow up appointments and take all of your medications as 
+directed.
+It was a pleasure taking care of you,
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

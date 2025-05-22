@@ -1,0 +1,276 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Jaundice 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o male with history of hepatitis B (never treated). He 
+presented to ___ with intermittent RUQ pain, scleral icterus, 
+and dark urine.  
+ He had been seen in his PCP's office, noted to have a 
+transaminitis, referred to the ED.  
+ He notes he was diagnosed with hepatitis B several years ago. 
+He was instructed to start treatment, but never did as he felt 
+his infection may just resolve.  
+ He has had intermittent RUQ pain for the past few months. This 
+is dull, comes and goes, lasting for only a few minutes but 
+occurring several times a day every day. There is no 
+nausea/vomiting, his appetite has been good. The pain has no 
+relation to food.  
+ Over the past 3 days he has noticed yellowing of his eyes and 
+dark urine.  
+ Of note, the patient was in ___ 2 weeks ago. He was there 
+for 4 days, and for 3 of those days he drank EtOH ___ drinks 
+per day. He ingested marijuana (via brownie) but denies any 
+other drugs.  
+ At baseline he drinks 2 days per week, ___ drinks per sitting.  
+
+ Initial vitals in the ED: Temp. 97.5 HR 83 BP 130/77 RR 18 SpO2 
+99% RA  
+ Labs notable for WBC 5.4, Hg 15.6, platelets 206, Na 137, K 
+4.1, Cl 105, bicarb 26, BUN 8, Cr 0.8, glucose 96, ALT 2439, AST 
+___, T bili 6.8, hepatitis serologies pending, lactate 1.7.  
+ Patient was given Tenofovir Disoproxil (Viread) 300mg x1.  
+ Hepatology consulted with recommendations to:  
+ - Send HBV and HCV viral load  
+ - Resend other hepatitis serologies (including Anti-HAV IgM, 
+Anti-HAV IgG, anti-HDV, HDV RNA, HDAg)  
+ - Send ___, AMSA, ferritin  
+ - Immunoglobulins (IgM, IgG, IgA)  
+ - Abdominal ultrasound with dopplers  
+ - Toxic screen (including Tylenol)  
+ - Send LFTs, albumin, coags ___, PTT, INR), CBC with diff, Chem 
+7  
+ - please start tenofovir 300mg daily  
+ - admit to Hepatology, Attending ___.  
+ 
+ ROS: per HPI, denies fever, chills, night sweats, headache, 
+vision  
+ changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, nausea, vomiting, diarrhea, constipation, 
+BRBPR, melena, hematochezia, dysuria, hematuria.  
+
+ 
+Past Medical History:
+- Hepatitis B 
+- Obesity  
+- Asthma 
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  
+ - No known liver disease in the family.  
+
+ 
+Physical Exam:
+ADMISSION EXAM 
+==============
+VS: 98.3 132/72 62 18 100% on room air  
+ General: Alert and interactive. In no distress.  
+ HEENT: PERRL. Sclera icteric. MMM, no oral lesions.  
+ Neck: No cervical LAD.  
+ CV: RRR. No murmur.  
+ Lungs: Clear to auscultation.  
+ Abdomen: Soft, nondistended. Mild tenderness to palpation over 
+RUQ. No HSM appreciated.  
+ GU: No foley.  
+ Ext: Warm. No ___ edema.  
+ Neuro: AOx3. CN2-12 grossly intact. No focal deficits. Able to 
+say months of year forward and backward without difficulty. No 
+asterixis.  
+
+DISCHARGE EXAM
+============== 
+VITALS: 98.2 113/63 76 18 99% RA
+General: Alert and interactive. In no distress. Cheery   
+HEENT: PERRL. Sclera icteric. MMM, no oral lesions.  
+Neck: No cervical LAD.  
+CV: RRR. No murmur.  
+Lungs: Clear to auscultation. no wheezes, rales, rhonchi  
+Abdomen: Soft, nondistended. non tender, negative Murphys sign, 
+no HSM appreciated.  
+GU: No foley.  
+Ext: Warm. No ___ edema.  
+Neuro: AOx3. CN2-12 grossly intact. No focal deficits. Able to 
+say months of year forward and backward without difficulty. No 
+asterixis.  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 03:19PM   WBC-5.4 RBC-5.08 HGB-15.6 HCT-46.9 MCV-92 
+MCH-30.7 MCHC-33.3 RDW-16.2* RDWSD-54.7*
+___ 03:19PM   NEUTS-49.7 ___ MONOS-13.8* EOS-5.3 
+BASOS-1.3* IM ___ AbsNeut-2.70# AbsLymp-1.59 AbsMono-0.75 
+AbsEos-0.29 AbsBaso-0.07
+___ 03:19PM   PLT COUNT-206
+___ 03:19PM   ___ PTT-34.0 ___
+___ 03:19PM   HCV Ab-NEGATIVE
+___ 03:19PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 03:19PM   HBsAg-POSITIVE* HBs Ab-NEGATIVE HBc 
+Ab-POSITIVE HAV Ab-NEGATIVE IgM HAV-NEGATIVE
+___ 03:19PM   FERRITIN-5790*
+___ 03:19PM   ALBUMIN-3.4*
+___ 03:19PM   LIPASE-31
+___ 03:19PM   ALT(SGPT)-2439* ___ ALK PHOS-112 
+TOT BILI-6.8*
+___ 03:19PM   GLUCOSE-96 UREA N-8 CREAT-0.8 SODIUM-137 
+POTASSIUM-4.1 CHLORIDE-105 TOTAL CO2-26 ANION GAP-10
+___ 03:23PM   LACTATE-1.7
+
+DISCHARGE LABS
+==============
+___ 05:35AM BLOOD WBC-6.7 RBC-4.92 Hgb-14.9 Hct-45.1 MCV-92 
+MCH-30.3 MCHC-33.0 RDW-17.1* RDWSD-56.2* Plt ___
+___ 05:35AM BLOOD Plt ___
+___ 05:35AM BLOOD Glucose-83 UreaN-10 Creat-0.9 Na-136 
+K-4.3 Cl-106 HCO3-24 AnGap-10
+___ 05:35AM BLOOD ALT-1640* AST-1206* AlkPhos-116 
+TotBili-5.3*
+___ 05:35AM BLOOD Calcium-9.1 Phos-4.2 Mg-2.0
+
+PERTINENT LABS
+==============
+___ 03:19PM BLOOD HBsAg-POSITIVE* HBsAb-NEGATIVE 
+HBcAb-POSITIVE HAV Ab-NEGATIVE IgM HAV-NEGATIVE
+___ 02:50PM BLOOD AMA-NEGATIVE
+___ 05:41AM BLOOD Smooth-POSITIVE *
+___ 08:49PM BLOOD ___
+___ 05:41AM BLOOD IgG-2677* IgA-393 IgM-186
+___ 03:19PM BLOOD HCV Ab-NEGATIVE
+___ 03:19PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+MICRO 
+=====
+HCV VIRAL LOAD (Pending): 
+__________________________________________________________
+HBV Viral Load (Final ___: 8,890,000 IU/mL.
+
+STUDIES
+======= 
+Liver/Gallbladder Ultrasound 
+Echogenic liver most compatible with fatty deposition.  Please 
+note, more 
+advanced forms of liver disease cannot be excluded on the basis 
+of this 
+appearance. 
+
+ 
+Brief Hospital Course:
+___ y.o. man with a history of obesity, asthma, EtOH abuse, and 
+untreated HBV presents from clinic with abdominal pain and 
+markedly elevated transaminitis with hepatocellular pattern 
+concerning for acute hepatitis. 
+
+ACTIVE ISSUES 
+============= 
+
+# Acute hepatitis: He presented with a pattern of LFT elevation 
+consistent with acute hepatitis. The highest suspicion was for 
+acute on chronic Hepatitis B in setting of not being on 
+treatment for known chronic Hepatitis B. Serologies were 
+consistent with active Hep B infection (Viral load approximately 
+9 million) and negative for Hep A and C. Hepatitis D and E were 
+pending at the time of discharge. Remainder of serologies were 
+notable for a positive Anti-Smooth Muscle Antibody with titer 
+1:20, likely of little clinical significance. He did have mild 
+disturbance in synthetic function with elevated INR and received 
+3 days of PO Vitamin K. He did not show signs of decompensation 
+and does not have known cirrhosis. He was started on Tenofovir 
+300mg daily for his acute on chronic Hepatitis B. LFTs 
+downtrended. He was consoled on limiting alcohol intake and met 
+with the social worker. We also emphasized the need to 
+consistently take his Tenofovir as an outpatient. He agreed to 
+speak with his doctor first before discontinuing his medication 
+again. He will have repeat LFTs and follow up with Dr. ___ as 
+an outpatient. 
+
+CHRONIC ISSUES 
+==============
+
+# GERD. Continued omeprazole 20mg daily 
+
+# Asthma. Continued albuterol inhaler prn 
+
+TRANSITIONAL ISSUES 
+===================
+- Labs pending at discharge: hepatitis E IgG, hepatitis D PCR 
+and antibody, and HCV viral load.
+- Started on tenofovir for untreated hepatitis B
+- Counseled on medication adherence and alcohol abstention
+- Will have LFTs checked on ___ and faxed to his outpatient 
+hepatologist
+
+#CODE: Full Code  
+#CONTACT: Patient
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. Albuterol Inhaler ___ PUFF IH Q4H:PRN shortness of breath 
+
+ 
+Discharge Medications:
+1. Albuterol Inhaler ___ PUFF IH Q4H:PRN shortness of breath 
+2. Omeprazole 20 mg PO DAILY 
+3. Tenofovir Disoproxil (Viread) 300 mg PO DAILY 
+RX *tenofovir disoproxil fumarate [Viread] 300 mg one tablet(s) 
+by mouth daily Disp #*30 Tablet Refills:*0
+4. Outpatient Lab Work
+ICD10 code: ___.10: Unspecified viral hepatitis B
+Please check LFTs on ___
+Fax to Dr. ___ at ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute hepatitis due to hepatitis B flare
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you during your stay. You were 
+admitted for acute hepatitis likely due to a flare of your 
+hepatitis B. Other labs were ordered to ensure you did not have 
+another cause of hepatitis; those were negative or were pending 
+at discharge. Your liver tests improved during your stay. You 
+were started on a medication to control your hepatitis B, called 
+Tenofovir (Viread). Please take this daily and abstain from 
+alcohol to improve your liver ___. In addition, please get 
+your labs checked on ___ of next week to ensure your liver 
+tests are downtrending. Please follow up with Dr. ___ 
+discharge. We wish you the best!
+
+Your ___ care team
+ 
+Followup Instructions:
+___

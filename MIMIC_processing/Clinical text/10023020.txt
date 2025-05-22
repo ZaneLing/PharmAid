@@ -1,0 +1,294 @@
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope  
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms ___ is a ___ healthy woman who presents with multiple 
+syncopal episodes & new onset atrial fibrillation with HRs in 
+100s-130s.  
+ Over the past week, she has had 10 syncopal episodes. All 
+episodes are without prodrome. No preceding dizziness or 
+lightheadness. In the most recent episode on ___, she stood 
+up from her bed to walk to her dresser. The next thing she knew, 
+she was on the floor after falling forward & hitting her face, 
+and then losing consciousness. No incontinence. No confusion 
+post-fall.  
+ Earlier today, she presented to her PCP, and was found to have 
+new-onset atrial fibrillation with HRs in the 100s-130s. She 
+denies any fevers, chest pain, shortness of breath, abdominal 
+pain, nausea, vomiting, diarrhea, or dysuria.  
+ - In the ED initial vitals were: 97.9 138 120/78 18 98% RA  
+ - ___ ecchymosis, tenderness over L orbital floor  
+ - EKG: AF @ 132, no STE, STD in V4-V6  
+ - Labs/studies notable for: trop <0.01, K 2.9 -> 3.2, Na 120  
+ - Patient was given:  
+ ___ 11:28 IV Diltiazem 15 mg ___  
+ ___ 14:56 PO Potassium Chloride 40 mEq ___  
+ ___ 15:46 IVF 40 mEq Potassium Chloride / 1000 mL NS  
+ ___ 15:49 PO Diltiazem 30 mg ___  
+ - Vitals on transfer: 99 101/65 18 99% RA  
+ - On the floor, she feels very well. No chest pain, orthopnea, 
+shortness of breath, palpitations, or lightheadedness. She says 
+that doctors have known she has an irregular heart rhythm for 
+years, but she has never been diagnosed with Afib and has never 
+been on heart medications.  
+ REVIEW OF SYSTEMS:  
+ Cardiac review of systems is notable for absence of chest pain, 
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea, 
+ankle edema, palpitations, syncope, or presyncope.  
+ On further review of systems, denies any prior history of 
+stroke, TIA, deep venous thrombosis, pulmonary embolism, 
+bleeding at the time of surgery, myalgias, joint pains, cough, 
+hemoptysis, black stools or red stools. Denies exertional 
+buttock or calf pain. Denies recent fevers, chills or rigors. 
+All of the other review of systems were negative.  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: No HTN, DM, or HLD  
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+- Anxiety  
+- GERD  
+
+ 
+Social History:
+___
+Family History:
+Mother died in her ___ of CAD. Otherwise, no family history of 
+early MI, arrhythmia, cardiomyopathies, or sudden cardiac death
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+==========================
+Vitals: BP: 106/63 HR: 105 RR: 18 SaO2: 95
+General: alert, oriented, no acute distress  
+HEENT: sclera anicteric, MMM, oropharynx clear, left eye 
+contains significant ecchymosis, also slight ecchymosis on right 
+eye.    
+Neck: supple, JVP not elevated, no LAD  
+Lungs: clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: irregular rate and rhythm, normal S1 + S2, 
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNs2-12 intact, motor function grossly normal  
+LABS: Reviewed, please see below
+
+DISCHARGE PHYSICAL EXAM:
+========================== 
+Vitals: Temperature: 98.2 BP: 122/75 HR: 93 RR: 16 SaO2: 98
+General: alert, oriented, no acute distress  
+HEENT: sclera anicteric, MMM, oropharynx clear, left eye 
+contains significant ecchymosis, also slight ecchymosis on right 
+eye.    
+Neck: supple, JVP not elevated, no LAD  
+Lungs: clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: irregular rate and rhythm, normal S1 + S2, 
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNs2-12 intact, motor function grossly normal  
+ 
+Pertinent Results:
+LABS ON ADMISSION:
+====================
+___ 11:05AM BLOOD WBC-12.6* RBC-4.58 Hgb-13.7 Hct-37.9 
+MCV-83 MCH-29.9 MCHC-36.1 RDW-12.9 RDWSD-38.9 Plt ___
+___ 11:05AM BLOOD Neuts-63.5 ___ Monos-14.7* 
+Eos-0.2* Baso-0.2 Im ___ AbsNeut-8.02* AbsLymp-2.63 
+AbsMono-1.85* AbsEos-0.02* AbsBaso-0.03
+___ 11:05AM BLOOD ___ PTT-28.7 ___
+___ 11:05AM BLOOD Glucose-131* UreaN-10 Creat-0.6 Na-123* 
+K-2.9* Cl-75* HCO3-36* AnGap-15
+___ 11:05AM BLOOD cTropnT-<0.01
+___ 11:05AM BLOOD Calcium-9.2 Phos-2.6* Mg-2.0
+___ 11:21AM BLOOD Lactate-1.7 Na-120* K-3.2*
+
+LABS ON DISCHARGE:
+======================
+___ 06:35AM BLOOD WBC-9.2 RBC-3.36* Hgb-10.1* Hct-29.7* 
+MCV-88 MCH-30.1 MCHC-34.0 RDW-14.1 RDWSD-45.1 Plt ___
+___ 06:35AM BLOOD Plt ___
+___ 06:35AM BLOOD Glucose-98 UreaN-9 Creat-0.5 Na-133 K-4.0 
+Cl-94* HCO3-28 AnGap-15
+___ 06:35AM BLOOD Calcium-8.4 Phos-2.9 Mg-2.0
+
+IMAGING:
+============
+CT orbit ___:
+IMPRESSION: 
+1. Comminuted, mildly-depressed fracture of the left orbital 
+floor fracture with approximately 2 mm inferior displacement of 
+the lateral fracture fragment.  Associated high-density material 
+completely opacifying the left maxillary sinus likely reflects 
+blood component. 
+2. Mild left preseptal and infraorbital soft tissue swelling.  
+No discrete 
+fluid collection identified within the limitations of an 
+unenhanced study. 
+  
+CT Head w/o contrast ___:
+IMPRESSION: 
+1. Cortical irregularity along the left orbital floor with 
+complete 
+opacification of the partially-visualized left maxillary sinus 
+is better 
+assessed on same-day facial CT, concerning for orbital floor 
+fracture. 
+2. Mild asymmetric left infraorbital and periorbital soft tissue 
+swelling. No retrobulbar hematoma or fat stranding. Recommend 
+correlation with physical exam findings. 
+3. No acute intracranial abnormalities. 
+
+ 
+Brief Hospital Course:
+___ year old woman with history of an unknown arrhythmia in the 
+past, who presents with multiple syncopal episodes found to have 
+new atrial tachycardia. 
+
+# Atrial Tachycardia:
+Patient was found to have atrial tachycardia on EKG. Unclear if 
+this was new as patient noted prior history of fast and 
+irregular heart rate. The patient was evaluated by cardiology 
+who recommend starting metoprolol succinate 25 mg daily with 
+plan for event monitoring and echo as an outpatient. Plan for 
+patient to follow up with Dr. ___ ___ cardiology in 
+clinic. Appointment to be made and patient called with this 
+information in next week. Event monitor to be mailed to 
+patient's home. 
+
+# Left orbital floor fracture
+She was found to have a left orbital floor fracture on CT 
+imaging with evidence of blood component. Plastic surgery 
+evaluated patient and recommended follow up in their clinic in 2 
+weeks with number provided. 
+
+# SYNCOPE: 
+Patient presented with multiple falls, including one with a head 
+strike & loss of consciousness. Unclear cause of syncope though 
+work up showed atrial tachycardia though unclear if this was 
+new. Orthostatic vital signs noted to be negative. Tox screen 
+also noted to negative. Plan for event monitor as above. Patient 
+counseled about not driving for 6 months pending further work up 
+syncope given possible loss of consciousness with this syncopal 
+episode.
+
+# Transamintis:
+Patient also noted to have transaminitis prior to transfer to 
+___ AST 107 and ALT 134. On recheck at ___ noted to be ALT 
+108 AST 75 and stable. Hep C antibody in outpatient records on 
+___ checked and noted to be low positive with negative 
+subsequent viral load. Would recommend further work up of this 
+as an outpatient. 
+
+# Hyponatremia
+Patient with hyponatremia to 123 on admission on recheck noted 
+to be 130. Urine sodium noted to be 20 and urine osm showed 103 
+most consistent with psychogenic polydipsia. She noted that she 
+was drinking up to 6L of water daily prior to coming to the 
+hospital. Prior to leaving the hospital sodium normalized. We 
+recommended cutting back on water intake by at least half. 
+
+# Anxiety:
+-continued lorazepam per home regimen
+
+TRANSITIONAL ISSUES:
+====================
+-metoprolol succinate 25 mg daily started
+-chem-10 to be checked at time of follow up appointment with PCP 
+to ensure normalized sodium level. Sodium on discharge of 133.
+-please recheck LFT's on follow up: ALT 108 AST 75. Would 
+recommend further work up of transaminitis as outpatient
+-event monitored ordered and will be sent to patients home
+-echocardiogram to occur as outpatient
+-follow up with Dr. ___ to be scheduled and patient called 
+with appointment 
+-please see plastic surgery concerning left orbital floor 
+fracture (___). Should be seen in next 2 weeks. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Vitamin B Complex 1 CAP PO DAILY 
+2. LORazepam 0.5-1 mg PO Q8H:PRN anxiety 
+3. Ranitidine 150 mg PO BID 
+4. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+2.  LORazepam 0.5-1 mg PO Q8H:PRN anxiety  
+3.  Multivitamins 1 TAB PO DAILY  
+4.  Ranitidine 150 mg PO BID  
+5.  Vitamin B Complex 1 CAP PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Atrial Tachycardia
+Syncope
+Hyponatremia
+left orbital floor fracture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came to the hospital after falling and were found to have a 
+rapid heart rate called atrial tachycardia. We started you on a 
+medication called metoprolol to help slow down your heart rate. 
+We recommend that you follow up with Dr. ___ Cardiologist 
+you saw in the hospital. He will order an echocardiogram for you 
+and an event monitor that will be mailed to your house to 
+monitor your heart rate. Dr. ___ will call you to set 
+up a follow up appointment in one month.
+
+We also discussed with you that it is not safe to drive as you 
+have had multiple episodes of passing out and until the cause of 
+this is found it is not safe for you to drive for at least a 6 
+month period. 
+
+You also had lab abnormalities including a low sodium level.  
+The levels corrected without intervention.  You has no seizures 
+or altered mental status despite you low sodium. 
+
+Your ___ Team,
+ 
+Followup Instructions:
+___

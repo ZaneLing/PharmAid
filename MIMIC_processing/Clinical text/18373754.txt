@@ -1,0 +1,277 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weakness, fatigue, dizziness
+ 
+Major Surgical or Invasive Procedure:
+PPM generator exchange ___
+
+ 
+History of Present Illness:
+___ woman with hx complete heart block (intra-his block) s/p 
+___, HTN, HLD, TIA and hypothyroidism p/w several days 
+of weakness, fatigue and dizziness. 
+
+Patient reports she was in her USOH until about 2 days ago when 
+she developed a sense of generalized weakness, muscle aches, 
+palpitations, and felt very dizzy with sensation that she was 
+about to pass out. Denies any episodes of loss of consciousness. 
+Additionally she notes several days of nonproductive cough, 
+nausea, and shortness of breath worsened with exertion. Denies 
+any fever/chills, chest pain, abdominal pain, diarrhea, urinary 
+symptoms or numbness/weakness/tingling.  Her daughter reports 
+she was due to have her PPM battery replaced at the end of the 
+month. On speaking to her physician she was recommended to 
+present to the ED for further evaluation.
+
+Pt initially had her PPM placed during an admission in ___ 
+after being noted to be in complete heart block at her PCP 
+___. Workup for her CHB at that time included ESR, RPR, ACE 
+level and Lyme titers which were all WNL. Since then she had her 
+device replaced on ___ after a device recall. She has 
+followed with Dr. ___ for regular device 
+interrogations.
+
+Last PPM evaluation on ___ showed: 
+
+Battery voltage/time to ERI: 2.61V/1 months/ Imp: 7,734 ohms
+Presenting rhythm: AS/VP 
+Underlying rhythm: CHB no ventricular escape at VVI 40 bpm 
+Mode, base and upper track rate: DDD 50-140 bpm 
+Plan at that time was to recheck battery life in 6 weeks with
+planned replacement at the end of ___. 
+
+In the ED,  
+- Initial vitals were: T 97.8, HR 64, BP 157/81, RR 15, 98% on 
+RA 
+- Exam notable for: LLE mild swelling > RLE, otherwise WNL 
+- Labs notable for: Trop <0.01, proBNP 924, bland UA, WBC 3.8, 
+negative flu, normal BMP  
+- Studies notable for: CXR with no acute cardiopulmonary 
+process, EKG with V-paced rhythm 65 BPM, complete heart block 
+- Patient was given:  500cc NS 
+
+PPM interrogation in the ED revealed: 
+Battery: ERI, ___ 10:22 ___ switched to VVi 65 bpm
+Battery voltage: 2.58V/ERI/ Imp: 9131 ohms
+Presenting rhythm: VVI 65 bpm 
+Underlying rhythm: not tested given h/o CHB w/o ventricular 
+escape
+
+She was admitted to the CCU for close monitoring prior to an 
+expedited generator change. 
+
+On arrival to the CCU, patient reported feeling well lying in 
+bed asides from some mild lightheadedness, a headache, and a dry 
+cough. She denied any chest pain, shortness of breath, fevers, 
+abdominal pain or dysuria. 
+
+ 
+Past Medical History:
+Cardiac History:  
+-CHB (intra-His block) s/p PPM: 
+Date of Implant: initially implanted ___, last generator change 
+___
+Date of Generator Change: ___
+Indication: CHB
+Device brand/name: ___ 
+Model Number: SEDR01  
+-HTN
+-HLD 
+
+Other PMH:  
+-TIA 
+-Hypothyroidism
+-Major Depression 
+
+ 
+Social History:
+___
+Family History:
+no known family history of cardiac disease 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL:
+VS: afebrile, BP 138/74, HR 65 (paced), RR 13, O2 96% RA 
+GENERAL: Well developed, well nourished lying in bed 
+comfortably. Oriented x3. Mood, affect appropriate.  
+HEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL. EOMI.
+NECK: Supple. JVP 6cm 
+CARDIAC: Normal rate, regular rhythm. No murmurs, rubs, or 
+gallops. pacer pads in place  
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. No adventitious breath 
+sounds.  
+ABDOMEN: Soft, non-tender, non-distended. No palpable 
+hepatomegaly or splenomegaly.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.  
+SKIN: No significant lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.
+NEURO: A&Ox3, moving all 4 extremities with purpose 
+
+DISCHARGE PHYSICAL:
+VS: afebrile, 109/70, 66, 18, 96% on RA
+GENERAL: Well developed, NAD
+HEENT: Normocephalic, atraumatic.
+NECK: Supple.
+CARDIAC: Normal rate, regular rhythm. No murmurs, rubs, or 
+gallops. pacer pads in place  
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. No adventitious breath 
+sounds.  
+ABDOMEN: Soft, non-tender, non-distended. No palpable 
+hepatomegaly or splenomegaly.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.  
+SKIN: No significant lesions or rashes. PPM site intact, dressed
+PULSES: Distal pulses palpable and symmetric.
+NEURO: Alert, appropriately interactive
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:40PM BLOOD WBC-3.8* RBC-4.11 Hgb-13.2 Hct-41.2 
+MCV-100* MCH-32.1* MCHC-32.0 RDW-13.0 RDWSD-48.1* Plt ___
+___ 10:40PM BLOOD Neuts-37.6 ___ Monos-16.7* 
+Eos-5.6 Baso-0.8 Im ___ AbsNeut-1.42* AbsLymp-1.47 
+AbsMono-0.63 AbsEos-0.21 AbsBaso-0.03
+___ 10:40PM BLOOD Plt ___
+___ 10:40PM BLOOD Glucose-104* UreaN-15 Creat-0.8 Na-143 
+K-4.1 Cl-107 HCO3-25 AnGap-11
+___:40PM BLOOD proBNP-924*
+___ 10:40PM BLOOD cTropnT-<0.01
+
+DISCHARGE LABS:
+___ 06:18AM BLOOD WBC-3.6* RBC-3.97 Hgb-12.7 Hct-39.7 
+MCV-100* MCH-32.0 MCHC-32.0 RDW-13.0 RDWSD-48.2* Plt ___
+___ 06:18AM BLOOD Glucose-101* UreaN-11 Creat-0.7 Na-146 
+K-3.9 Cl-112* HCO3-22 AnGap-12
+
+OTHER IMPORTANT LABS: N/A
+
+IMAGING/STUDIES: N/A
+
+ 
+Brief Hospital Course:
+Ms ___ is a ___ woman with hx complete heart block 
+(intra-his block) s/p PPM (___), HTN, HLD, TIA and 
+hypothyroidism p/w several days of weakness, fatigue and 
+dizziness. In the ED, PPM interrogation revealed:
+Battery: ERI, ___ 10:22 ___ switched to VVi 65 bpm
+Battery voltage: 2.58V/ERI/ Imp: 9131 ohms
+Presenting rhythm: VVI 65 bpm 
+Underlying rhythm: not tested given h/o CHB w/o ventricular
+escape
+
+ACUTE ISSUES:
+============
+#Complete heart block
+#Pacemaker battery depletion
+She was admitted to the CCU for close monitoring prior to an 
+expedited generator change. She had no acute events while 
+awaiting generator exchange. EP service complete generator 
+exchange with complication. She was then discharged that day.
+
+CHRONIC/STABLE ISSUES:
+======================
+#HTN: continued on home HCTZ and lisinopril 
+
+#HLD: continued on home pravastatin
+
+#hx TIA: home ASA changed from 325mg to 81mg PO daily
+
+#Hypothyroidism continued on levothyroxine 
+
+#MDD: continued on home citalopram 
+
+TRANSITIONAL ISSUES:
+===================
+-ASA changed from 325mg to 81mg PO daily
+-Will need to complete 5 day course of post-operative abx 
+(cephalexin 500mg PO q12H; ___
+-patient needs to follow-up with EP (appointment scheduled)
+
+#CODE: FULL CODE confirmed
+#CONTACT/HCP: ___ (daughter/HCP) - ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. Gabapentin 300 mg PO BID 
+3. Pravastatin 40 mg PO QPM 
+4. Aspirin 325 mg PO DAILY 
+5. Cetirizine 10 mg PO DAILY:PRN allergies 
+6. Citalopram 20 mg PO DAILY 
+7. Hydrochlorothiazide 25 mg PO DAILY 
+8. Levothyroxine Sodium 75 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Cephalexin 500 mg PO Q12H Duration: 5 Days 
+Please complete 5 day course; day 1 = ___, day 5 = ___ 
+RX *cephalexin 500 mg 1 capsule(s) by mouth twice a day Disp 
+#*10 Capsule Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Cetirizine 10 mg PO DAILY:PRN allergies  
+4.  Citalopram 20 mg PO DAILY  
+5.  Gabapentin 300 mg PO BID  
+6.  Hydrochlorothiazide 25 mg PO DAILY  
+7.  Levothyroxine Sodium 75 mcg PO DAILY  
+8.  Lisinopril 20 mg PO DAILY  
+9.  Pravastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS/ES:
+=====================
+#Complete heart block
+
+SECONDARY DIAGNOSIS/ES:
+======================
+#Hypertension
+#Hyperlipidemia 
+#History of prior transient ischemic attack 
+#Hypothyroidism 
+#Major depressive disorder, chronic
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+WHY WERE YOU ADMITTED TO THE HOSPITAL?
+-Your pacemaker was not functioning correctly and you were 
+lightheaded
+
+WHAT WAS DONE FOR YOU IN THE HOSPITAL?
+-You had a procedure to change the battery to your pacemaker
+-You were monitored in the cardiac ICU
+
+WHAT YOU SHOULD DO AFTER GOING HOME?
+-Please follow-up with your outpatient doctors as ___
+
+Thank you for allowing us to be a part of your care,
+Your ___ Team
+ 
+Followup Instructions:
+___

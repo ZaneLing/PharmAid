@@ -1,0 +1,319 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Vasotec
+ 
+Attending: ___.
+ 
+Chief Complaint:
+ANGINA
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ lady with a history of CAD (prior MI ___ 
+s/p
+PCI x 2), afib on xarelto, sarcoidosis (not currently on 
+immunosuppression), HTN, HLD and  who presented to the ED  with
+increasing left jaw pain over the past few months. 
+
+Of note the patient has been experiencing jaw pain for some 
+time.
+she is followed by Dr. ___ last saw her on ___.
+
+Per review of the last office note, she has been having jaw pain
+for about ___ year. She states that this jaw pain is the same jaw
+pain she experienced on a recent stress test. however she has
+noticed this pain more often at rest of when climbing stairs.
+
+Per Dr. ___ jaw pain is felt to be her angina equivalent.
+At that visit, Dr. ___ the possibility of repeat
+cardiac cath to evaluate her coronary anatomy but the patient
+opted to hold off on this.
+
+The presents now to the ED after having an episode of jaw pain
+that woke her up from sleep yesterday and resolved with
+sublingual nitroglycerin. She d enies worsening of pain with
+chewing. No headaches or changes in her vision, although she is
+followed for uveitis iso sarcoid. 
+
+In regards to her history of CAD:
+the patient initially presented to ___ in ___ with bilateral jaw and upper back discomfort
+without chest pain The patient went into ventricular 
+fibrillation
+and was shocked and place on the amiodarone briefly. The patient
+underwent cardiac cath and was found 100% occluded left
+circumflex in which drug-eluting stents was placed.
+
+She then was transferred to ___ for the second stage of the
+procedure where she had a Promus drug-eluting stent placed into
+the proximal LAD which had a 70-80% lesion. Beyond the LAD, 
+there
+is no significant disease. 
+
+At the time of this second procedure, the LCX stent was patent.
+The right coronary artery had just mild nonobstructive disease. 
+
+She has not had a cardiac cathertization procedure since.
+
+In the ED...
+- Initial vitals:
+ T97.8  RR66  BP166/76 RR18  O2 99% RA 
+
+- EKG: NSR 
+
+- Labs/studies notable for:  
+Trop-T: <0.01 X1
+BMP, CBC unremarkable.
+
+CXR: IMPRESSION:  
+No acute cardiopulmonary abnormality 
+
+- Patient was given: 
+___ 17:01 PO Aspirin 243 mg ___  
+___ 18:51 PO/NG Rivaroxaban 20 mg ___ 
+ 
+- Vitals on transfer:  
+T 98.3 HR67 BP136/70 RR18  o297% RA 
+ 
+Past Medical History:
+- Hypertension  
+- Dyslipidemia  
+- CAD s/p 3 stents as above.      
+- GERD
+- Sarcoidosis
+ 
+Social History:
+___
+Family History:
+Grandmother died of MI when she was ___, otherwise no cardiac 
+history.  
+
+ 
+Physical Exam:
+======================
+ADMISSION PHYSICAL EXAM:
+======================
+___ Temp: 97.6 PO BP: 158/90 L Sitting HR: 64
+RR: 16 O2 sat: 95% O2 delivery: RA   
+GENERAL: NAD.  
+CARDIAC:RRR, normal S1, S2. No murmurs   
+LUNGS: CTAB, No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+=======================
+DISCHARGE PHYSICAL EXAM:
+=======================
+VITALS: ___ 1113 Temp: 97.5 PO BP: 169/87 L Sitting HR: 60
+RR: 17 O2 sat: 96% O2 delivery: RA  
+GENERAL: NAD.  
+CARDIAC:RRR, normal S1, S2. No murmurs   
+LUNGS: CTAB, No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric 
+ 
+Pertinent Results:
+===============
+ADMISSION LABS:
+===============
+___ 02:00PM BLOOD WBC-6.8 RBC-3.64* Hgb-11.6 Hct-33.8* 
+MCV-93 MCH-31.9 MCHC-34.3 RDW-12.2 RDWSD-41.4 Plt ___
+___ 02:00PM BLOOD Neuts-69.3 ___ Monos-7.8 Eos-0.1* 
+Baso-0.6 Im ___ AbsNeut-4.72 AbsLymp-1.49 AbsMono-0.53 
+AbsEos-0.01* AbsBaso-0.04
+___ 02:00PM BLOOD Glucose-92 UreaN-17 Creat-0.7 Na-145 
+K-3.7 Cl-104 HCO3-26 AnGap-15
+___ 02:00PM BLOOD cTropnT-<0.01
+___ 08:00PM BLOOD cTropnT-<0.01
+
+===============
+DISCHARGE LABS:
+===============
+___ 08:00AM BLOOD WBC-5.0 RBC-3.50* Hgb-11.1* Hct-32.9* 
+MCV-94 MCH-31.7 MCHC-33.7 RDW-12.6 RDWSD-43.0 Plt ___
+___ 08:00AM BLOOD ___ PTT-32.6 ___
+___ 08:00AM BLOOD Glucose-113* UreaN-18 Creat-0.7 Na-143 
+K-4.1 Cl-104 HCO3-26 AnGap-13
+___ 08:00AM BLOOD Calcium-9.2 Phos-2.6* Mg-2.1
+
+===========
+KEY STUDIES:
+===========
+
+CHEST X-RAY ___ size is normal.  The mediastinal 
+and hilar contours are normal. The pulmonary vasculature is 
+normal. Lungs are clear.  No pleural effusion or
+pneumothorax is seen. There are no acute osseous abnormalities.  
+Mild degenerative changes are noted in the thoracic spine. 
+IMPRESSION: No acute cardiopulmonary abnormality.
+
+CARDIAC CATHETERIZATION (___): 
+Coronary Anatomy         Dominance: Right
+Heavily calcified coronary arteries.
+* Left Main Coronary Artery: The LMCA is normal.
+* Left Anterior Descending: The LAD has 30% ___ stenosis and 
+widely patent stent in the mid segment. The ___ Diagonal is a 
+large vessel jailed by the LAD stent but is widely patent.
+* Circumflex: The Circumflex has widely patent stent in the 
+proximal segment extending into large OM1. Mid LCX is jailed by 
+the stent and has 70% ostial stenosis but is small and supplies 
+small territory.
+* Right Coronary Artery: The RCA has 40% ostial stenosis and 
+mild luminal irregularities.
+Intra-procedural Complications: None
+Impressions: One vessel CAD and widely patent stents. Mid LCX is 
+small vessel with very small territory and unlikely to be cause 
+of her symptoms.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo lady with a history of CAD s/p PCI X2 and 
+___ X3 who presents with jaw pain that woke her up 
+from sleep and resolved with sublingual nitroglycerin. Admitted 
+for cardiac catheterization. Cardiac cath on ___ showed widely 
+patient stents with modest additional disease and no clear 
+culprit lesions. No interventions were made and medical therapy 
+was optimized.
+
+# CORONARIES: Single vessel CAD with patent DES 
+# PUMP: Unkonwn 
+# RHYTHM: NSR , history of paroxysmal Atrial fibrillation 
+
+==============
+ACUTE ISSUES:
+==============
+
+# Jaw Pain:
+# CAD:
+Patient with known history of CAD s/p ___ x2 in ___ 
+after cardiac arrest. In ___, the patient chief complaint was 
+jaw pain. The patient has had history of jaw pain for about ___
+year. this pain is occasionally worse with exertion but can 
+sometimes happen at rest. Of note, the patient had this jaw pain 
+during her nuclear stress test in ___ which showed was 
+"positive for ischemia". The patient now presented with jaw pain 
+at rest which resolved with sublingual NTG. Troponin was 
+negative X2. She was taken for cardiac cath on ___, which 
+showed "one vessel CAD and widely patent stents. Mid LCX is 
+small vessel with very small territory and unlikely to be cause 
+of her symptoms." She was started on Imdur 30 mg daily and 
+atorvastatin was increased to 40 mg daily. She was discharged on 
+her home aspirin 81mg, Metoprolol succinate 25mg daily. She 
+should restart her home irbesartan 300mg 24-hours after cath on 
+___.
+
+# Paroxysmal Atrial Fibrillation:
+The patient has a known history of paroxysmal atrial 
+fibrillation. She has been maintained on metoprolol for rate 
+control with good effect. She is on rivaroxaban for 
+anticoagulation and metoprolol succinate 25mg for rate control.
+
+===============
+Chronic Issues:
+===============
+
+# Hypertension: Continue home HCTZ 12.5 mg, along with 
+metoprolol, irbesartan, and Imdur.
+
+=====================
+TRANSITIONAL ISSUES: 
+=====================
+
+[ ] Restart irbesartan on ___
+[ ] Discharged on new Rx for Imdur 30 mg daily
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 25 mg PO DAILY 
+2. irbesartan 300 mg oral DAILY 
+3. Rivaroxaban 20 mg PO DAILY 
+4. Hydrochlorothiazide 12.5 mg PO DAILY 
+5. Atorvastatin 20 mg PO QPM 
+6. Nitroglycerin SL 0.4 mg SL TAKE 1 TABUNDER TONGUE Q5 MIN X 3 
+FOR CHEST PAIN IF NO RESOLUTION CALL ___. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+8. Aspirin 81 mg PO DAILY 
+9. calcium carbonate-vit D3-min 600 mg (1,500 mg)-200 unit oral 
+daily 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 40 mg PO DAILY 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*1 
+2.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+RX *isosorbide mononitrate 30 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*1 
+3.  Aspirin 81 mg PO DAILY  
+4.  calcium carbonate-vit D3-min 600 mg (1,500 mg)-200 unit oral 
+daily  
+5.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+6.  Hydrochlorothiazide 12.5 mg PO DAILY  
+7.  irbesartan 300 mg oral DAILY  
+8.  Metoprolol Succinate XL 25 mg PO DAILY  
+9.  Nitroglycerin SL 0.4 mg SL TAKE 1 TABUNDER TONGUE Q5 MIN X 3 
+FOR CHEST PAIN IF NO RESOLUTION CALL ___.  Rivaroxaban 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Angina
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+================================================  
+DISCHARGE WORKSHEET TEMPLATE  
+================================================  
+Dear Ms. ___,
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because you were having jaw pain that was 
+concerning for a heart problem. 
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You had a cardiac catheterization to examine the arteries in 
+your heart and to make sure the stent was still open. The 
+catheterization showed minimal new disease and an open stent 
+with good blood flow. This is very good news.
+- We started a new medicine called Imdur, that you will continue 
+to take after going home. Imdur lowers your blood pressure and 
+improves the blood flow to your heart muscle.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Take your medications as prescribed.
+- start your irbesartan again on ___ ___s your new 
+medicine Imdur.
+- Follow up with your cardiologist and your primary care doctor.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,190 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Estrogens
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+___ 08:00PM   ___ PTT-80.4* ___
+___ 02:40PM   ___ PTT-93.3* ___
+___ 12:36PM   LACTATE-1.6
+___ 12:30PM   GLUCOSE-121* UREA N-10 CREAT-0.6 SODIUM-137 
+POTASSIUM-4.2 CHLORIDE-101 TOTAL CO2-22 ANION GAP-14
+___ 12:30PM   ALT(SGPT)-31 AST(SGOT)-28 LD(LDH)-196 ALK 
+PHOS-101 TOT BILI-0.7
+___ 12:30PM   LIPASE-26
+___ 12:30PM   ALBUMIN-3.6
+___ 12:30PM   WBC-10.5* RBC-4.14 HGB-12.2 HCT-38.1 MCV-92 
+MCH-29.5 MCHC-32.0 RDW-13.0 RDWSD-43.5
+___ 12:30PM   PLT COUNT-263
+___ 09:13AM   ___ PTT-54.8* ___
+___ 03:05AM   ___ PTT-104.0* ___
+___ 05:38PM URINE  HOURS-RANDOM
+___ 05:38PM URINE  UCG-NEGATIVE
+___ 05:38PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 05:38PM URINE  BLOOD-MOD* NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 05:38PM URINE  RBC-<1 WBC-<1 BACTERIA-FEW* YEAST-NONE 
+EPI-0
+___ 05:38PM URINE  MUCOUS-RARE*
+___ 04:28PM   ALT(SGPT)-32 AST(SGOT)-28 CK(CPK)-72 ALK 
+PHOS-124* TOT BILI-0.7
+___ 04:28PM   LIPASE-30
+___ 04:28PM   ALBUMIN-4.2
+___ 04:28PM   WBC-10.4* RBC-4.52 HGB-13.4 HCT-41.4 MCV-92 
+MCH-29.6 MCHC-32.4 RDW-13.0 RDWSD-43.8
+___ 04:28PM   NEUTS-57.4 ___ MONOS-6.9 EOS-4.2 
+BASOS-1.1* IM ___ AbsNeut-5.95 AbsLymp-3.11 AbsMono-0.71 
+AbsEos-0.44 AbsBaso-0.11*
+___ 04:28PM   PLT COUNT-273
+___ 04:28PM   ___ PTT-30.2 ___
+___ 11:18AM   GLUCOSE-101* UREA N-14 CREAT-0.7 SODIUM-137 
+POTASSIUM-4.3 CHLORIDE-102 TOTAL CO2-21* ANION GAP-14
+___ 11:18AM   estGFR-Using this
+___ 11:18AM   D-DIMER-4656*
+
+CTA Chest
+1. No evidence of pulmonary embolism or aortic abnormality. 
+2. Findings suspicious for an acute thrombus of the left portal 
+vein as 
+described above, incompletely assessed on the current exam. A 
+dedicated 
+abdominal CT is recommended. 
+3. Diffuse ground-glass parenchymal changes are nonspecific and 
+may reflect 
+combination of small airways disease and atelectasis. 
+
+CT A/P
+1. Occlusive thrombus is seen within the left portal vein.  In 
+addition, 
+nonocclusive thrombus is seen within the distal main portal vein 
+with 
+extension into the anterior right portal vein and likely also to 
+a lesser 
+extent in the posterior branch of the right portal vein. 
+2. The SMV and splenic vein are patent.  No portal venous 
+collaterals are 
+identified. 
+3. No inflammatory process in the abdomen or pelvis to explain 
+the portal 
+venous thrombosis. 
+4. Fibroid uterus. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old lady with a past medical history of 
+pulmonary
+embolism in the setting of taking birth control and MTHFR 
+mutation who presents with a unprovoked portal vein thrombus.
+
+#Portal vein thrombus
+CT abdomen shows portal vein thrombus without collaterals
+suggesting an acute process, there is no inflammatory process
+seen in the imaging as a cause.  Hematology was consulted and
+recommended heparin drip while she is an inpatient but she was 
+transitioned to Apixiban upon discharge (10mg PO BID through 
+___, then 5mg PO BID ongoing). 
+She will complete a hypercoagulable work-up as an outpatient 
+(scheduled ___.  They
+recommended age-appropriate cancer screenings. At the time of 
+discharge, she was
+not having any pain, able to tolerate PO with normal LFTs. 
+[] recommend bilateral diagnostic mammogram after discharge
+given calcifications in left breast noted > ___ year ago.
+[] Pap/HPV testing normal in ___. Next due ___
+[] Hypercoagulable workup with Heme (scheduled ___
+
+#Cough
+#Shortness of Breath 
+CTA negative for PE but did show Diffuse ground-glass 
+parenchymal
+changes which could be small airways disease. She does endorse
+exercise induced asthma. 
+[] Should have PFTs as outpatient 
+
+#Depression
+Continue home Lexapro
+
+#Seasonal allergies
+Continue home Zyrtec
+
+#Essential tremor
+Hold propranolol for now in the setting of low blood pressure
+
+Transitional issues
+[] Apixiban 10mg PO BID through ___, then transition to 5mg PO 
+BID for life
+[] recommend bilateral diagnostic mammogram after discharge
+given calcifications in left breast noted > ___ year ago.
+[] Pap/HPV testing normal in ___. Next due ___
+[] Hypercoagulable workup with Heme (scheduled ___
+[] Outpatient PFTs to further characterize lung disease seen on 
+CT
+
+Greater than 40 mins were spent on discharge planning and 
+coordination of care.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Propranolol 10 mg PO BID:PRN essential tremor  
+2. Escitalopram Oxalate 10 mg PO DAILY 
+3. Cetirizine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID Duration: 6 Days 
+10mg PO BID through ___, then 5mg PO BID for life 
+RX *apixaban [Eliquis] 5 mg 2 tablet(s) by mouth twice a day 
+Disp #*66 Tablet Refills:*0 
+2.  Cetirizine 10 mg PO DAILY  
+3.  Escitalopram Oxalate 10 mg PO DAILY  
+4.  Propranolol 10 mg PO BID:PRN essential tremor   
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Portal vein thrombosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for shortness of breath, nausea and abdominal 
+pain. You were found to have a blood clot in the veins that 
+drain near your liver, which explains your symptoms. For this we 
+have started you on Apixiban (blood thinner) which you will take 
+according to the following schedule
+
+- Apixiban 10mg by mouth twice a day through the end of ___, 
+then
+- Apixiban 5mg by mouth twice a day from ___ moving forward 
+(indefinitely).
+
+We have scheduled you follow up with Hematology on ___ (see 
+below). 
+
+It was a pleasure taking care of you.
+
+Your ___ Team
+ 
+Followup Instructions:
+___

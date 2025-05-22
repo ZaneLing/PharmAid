@@ -1,0 +1,302 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+nuts / plums / apples / Cherries
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain 
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with ___
+
+ 
+History of Present Illness:
+___ w/ PMHx HTN, HLT, prior DVT
+status post MVA treated with Coumadin, and hypothyroidism who
+initially presented with symptoms consistent with unstable 
+angina
+at 4 ___ on the day of admission. 
+
+Patient reports being at work this afternoon and developing
+sudden onset substernal "knot-like" chest pain which was
+accompanied by SOB. He said he had been experiencing brief
+episodes like this over the last few days at home that had been
+waking him up from sleep. He took Tylenol, and the episodes
+resolved after a few minutes. Today, he was concerned enough
+about the pain that he decided to come in to the ED.  
+
+In the ED, the patient had an EKG demonstrating ST elevations in
+V2 through V4. He was given a full dose aspirin. He had cardiac
+angiography (access R radial) which revealed a 99% stenosis of
+the proximal LAD as well as moderate coronary artery disease of
+the RCA and ramus. A single drug-eluting stent was placed,
+patient tolerated procedure well. There was noted to be some
+distal embolization into the LAD. He was put on tirofiban in the
+cath lab and also loaded with ticagrelor.
+
+On the floor, the patient reported being chest pain free and 
+said
+he was quite comfortable. He specifically denied dizziness, LH,
+CP, SOB, palpitations, or n/v. 
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Diabetes, none, last hemoglobin A1c 5.4% ___  
+- Hypertension, not on medications  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+# CORONARIES: Three-vessel coronary artery disease, status post
+drug-eluting stent placement to the LAD  
+# PUMP: Unknown  
+# RHYTHM: NSR   
+3. OTHER PAST MEDICAL HISTORY  
+-Prior clearance of hepatitis B infection  
+-DVT status post MVA treated with warfarin  
+-Hypothyroidism  
+-Cataracts  
+ 
+Social History:
+___
+Family History:
+No significant cardiac medical history. 
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+VS: 98.0 151/74 75 18 100% RA   
+GENERAL: Pleasant, middle-aged M in NAD. Sitting comfortably in
+bed during interview.  
+HEENT: NCAT, MMM 
+NECK: Supple. JVP of ~9 cm.  
+CARDIAC: RRR, no m/r/g 
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NT/ND, BS+  
+EXTREMITIES: WWP, no c/c/e, R radial access site w/ TR band in
+place 
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE EXAM
+==============
+Vitals: T 98 BP 128/73 HR 56 RR 18 O2 96   
+Telemetry: normal sinus rhythm   
+General:  
+GENERAL: Pleasant, middle-aged M in NAD. Sitting comfortably in
+bed during interview.  
+HEENT: NCAT, MMM 
+NECK: Supple. no jugular venous distension 
+CARDIAC: RRR, no m/r/g 
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NT/ND, BS+  
+EXTREMITIES: WWP, no c/c/e, R radial access site w/ TR band in
+place 
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 05:15PM BLOOD WBC-7.5 RBC-4.16* Hgb-13.5* Hct-40.6 
+MCV-98 MCH-32.5* MCHC-33.3 RDW-13.3 RDWSD-47.8* Plt ___
+___ 05:15PM BLOOD ___ PTT-29.2 ___
+___ 05:15PM BLOOD Plt ___
+___ 05:15PM BLOOD Glucose-106* UreaN-16 Creat-0.9 Na-144 
+K-4.5 Cl-106 HCO3-25 AnGap-13
+___ 05:15PM BLOOD ALT-19 AST-64* AlkPhos-57 TotBili-0.3
+___ 05:15PM BLOOD cTropnT-0.75*
+___ 05:15PM BLOOD Albumin-4.0
+
+___ CARDIAC CATH
+Coronary Anatomy
+Dominance: Co-dominant
+* Left Main Coronary Artery
+The LMCA is free of significant disease.
+* Left Anterior Descending
+The LAD has 99% proximal and thena distal cutoff at apex.
+* Circumflex
+The Circumflex has 30% origin stenosis. A Large ramus 
+intermedius has 60% focal stenosis.
+* Right Coronary Artery
+The RCA has diffuse mid 60% stenosis.
+
+Interventional Details
+a 6 ___ XB LAD 3.5 guide provided good support. A Prowater 
+wire was delivered easily just beyond
+the distal cutoff and could not be delivered more distal. The 
+lesion was predilated with 2.0 ballon at 6
+ATM and stented with 3.0 x 20 Promus DES at 16 ATM. The mid and 
+proximal segments wer epost
+dilated with 3.25 NC balloon at 16 ATM. WE delivered a 1.5 
+balloon beyond the distal cutoff and
+performed an inflatioin at 6 ATM, but there was no improvement 
+in this lesion, presumably due to distal
+embolus. Final angio showed TIMI 3 flow to the point of distal 
+occlusion, no dissection, and 0% residual.
+Intra-procedural Complications: None
+
+Impressions:
+1. Three vessel CAD.
+2. Anterior STEMI.
+3. Successful PCI LAD.
+
+Recommendations
+1. ASA 81 mg daily; Ticagrelor 90 mg BID.
+2. High dose statin
+3. Beta blockers and ACE inhibitors per Cardiology team.
+
+___ TTE
+The left atrium is mildly dilated. No atrial septal defect is 
+seen by 2D or color Doppler. Left ventricular wall thicknesses 
+are normal. The left ventricular cavity size is normal. There is 
+mild regional left ventricular systolic dysfunction with mid to 
+distal septal hypokinesis suggested. No masses or thrombi are 
+seen in the left ventricle. There is no ventricular septal 
+defect. Right ventricular chamber size and free wall motion are 
+normal. The diameters of aorta at the sinus, ascending and arch 
+levels are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. The 
+estimated pulmonary artery systolic pressure is normal. There is 
+no pericardial effusion. EF 45-50%.
+
+DISCHARGE LABS
+==============
+___ 10:45AM BLOOD WBC-6.1 RBC-4.31* Hgb-14.3 Hct-43.3 
+MCV-101* MCH-33.2* MCHC-33.0 RDW-13.4 RDWSD-49.9* Plt ___
+___ 10:45AM BLOOD Plt ___
+___ 10:45AM BLOOD ___
+___ 10:45AM BLOOD Glucose-101* UreaN-17 Creat-1.1 Na-140 
+K-4.4 Cl-103 HCO3-25 AnGap-12
+___ 10:45AM BLOOD Calcium-9.2 Phos-2.4* Mg-2.0
+ 
+Brief Hospital Course:
+HOSPITAL COURSE
+===============
+___ w/ PMHx HTN, HLT, prior DVT status post MVA treated with
+Coumadin, and hypothyroidism who initially presented with
+symptoms consistent with unstable angina at 4 ___ on the day of
+admission. Now s/p ___ to LAD.
+
+ACTIVE ISSUES
+=============
+# Anterior STEMI: Patient had anginal chest pain on presentation 
+to the hospital. EKG demonstrating ST elevations in V2-V4 and 
+troponin elevation. Patient taken to cath lab where coronary 
+catheterization demonstrated the LMCA free of significant 
+disease. The LAD had 99% proximal and then a distal cutoff at 
+apex. The Circumflex had 30% origin stenosis. A Large ramus 
+intermedius had 60% focal stenosis. The RCA has diffuse mid 60% 
+stenosis. A drug elution stent was placed in the LAD. Patient 
+was continued on aspirin 81mg, ticagrelor 90mg BID, atorvastatin 
+80mg QDAY. He was also started on lisinopril 2.5mg and 
+metoprolol 6.25 mg BID. Chest pain resolved on the floor and 
+patient was asymptomatic. Notably, TTE showed 45% to 50% after 
+intervention.
+
+CHRONIC ISSUES
+==============
+# Hypertension: Patient was not on hypertensive medications 
+while at home. He was started on lisinopril 2.5mg and metoprolol 
+tartrate 6.25 BID.
+
+# Hypothyroidism: Continued home levothyroxine 50 mg PO
+
+TRANSITIONAL ISSUES
+===================
+[] PCP appointment pending, patient to call ___ if not 
+made in next 2 business days
+[] Cardiology appointment pending, patient to call ___ 
+if not made in next 2 business days; PCP to please ensure that 
+patient makes this appointment 
+[] Discharge weight 82.9 discharge creatinine 0.8
+[] Patient is starting lisinopril and metoprolol; please assess 
+patient response to these medications and titrate up as needed
+
+# NEW MEDS: 
+- Aspirin 81 mg PO/NG DAILY 
+- Atorvastatin 80 mg PO/NG QPM 
+- Lisinopril 2.5 mg PO/NG DAILY 
+- Metoprolol Tartrate 6.25 mg PO/NG BID
+- TiCAGRELOR 90 mg PO/NG BID 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 50 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+3.  Lisinopril 2.5 mg PO DAILY 
+RX *lisinopril 2.5 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Tartrate 6.25 mg PO BID 
+RX *metoprolol tartrate 25 mg 0.25 tablet(s) by mouth Twice 
+daily Disp #*15 Tablet Refills:*0 
+5.  TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth 1 tablet 
+twice a day Disp #*60 Tablet Refills:*0 
+6.  Levothyroxine Sodium 50 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+STEMI s/p stent placement
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___
+
+It was a pleasure taking care of you at the ___ 
+___!
+
+WHY WAS I IN THE HOSPITAL?
+==========================
+You were in the hospital because you had chest pain. 
+
+WHAT HAPPENED IN THE HOSPITAL?
+==============================
+While in the hospital we did an EKG which demonstrated that you 
+were having a heart attack. We performed a coronary 
+catheterization to visualize the vessels in your heart and 
+placed a stent to open up blocked vessels. We also started you 
+on two new medications for your blood pressure.
+ 
+WHAT SHOULD I DO WHEN I GO HOME?
+================================
+Please continue to take your prescribed medications and follow 
+up with any appointments scheduled for you.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

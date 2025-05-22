@@ -1,0 +1,255 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ___
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain, dysuria
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with PMH alcohol use 
+disorder, IV drug use, presenting with 2 days of dysuria and 1 
+month of intermittent epigastric pain. She was in her usual 
+state of health until about a month ago when she started having 
+occasional midline epigastric pain upon waking up that would 
+improve when she had a few nips. ___ days ago she began having 
+pruritus of her feet and then eventually including most of her 
+body. Her friends noted that her eyes appeared yellow. For the
+last 2 days she has had dysuria and frequency, and noticed "red 
+wisps" in her urine. She denies fevers, HA's, unintended weight 
+loss, CP, vomiting, diarrhea, constipation, frank hematuria 
+(though notes "red wisps"), vaginal discharge BRBPR. She has had 
+a mild nonproductive cough and mild nausea. Denies recent 
+tylenol use or recent travel.
+
+Regarding her substance use, she has drank ___ nips per day for 
+the last ___ years. Her last drink was yesterday morning. She 
+denies prior withdrawal or seizures. She has used IV fentanyl 
+one time two weeks ago with someone who has Hep C. She has no 
+known liver disease history. She has smoked 1ppd for last ___ 
+years.
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Mother with prothrombin ___ mutation. Pt has never been tested
+
+ 
+Physical Exam:
+ADMISSION
+VS: ___ 1558 Temp: 98.1 PO BP: 121/83 L Sitting HR: 67 RR:
+17 O2 sat: 96% O2 delivery: RA Dyspnea: 0 RASS: 0 Pain Score:
+___ 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Scleral icterus present without injection.
+MMM.
+NECK: No cervical lymphadenopathy. 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: soft, non distended, tender to palpation at midline
+epigastric.  No organomegaly. ___ sign negative
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation. No
+asterixis
+
+DISCHARGE
+VS: 24 HR Data (last updated ___ @ 435)
+    Temp: 98.4 (Tm 98.8), BP: 100/67 (100-127/67-86), HR: 82
+(82-106), RR: 18 (___), O2 sat: 97%, O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: EOMI. Scleral icterus mildly present without injection. 
+CARDIAC: Regular rhythm, normal rate. No murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: soft, non distended, non tender to palpation. No
+guarding or rebound.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation. No
+asterixis.
+ 
+
+ 
+Pertinent Results:
+ADMISSION
+
+___ 03:00PM URINE  RBC-17* WBC->182* BACTERIA-FEW* 
+YEAST-NONE EPI-1
+___ 03:00PM URINE  BLOOD-MOD* NITRITE-NEG PROTEIN-100* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-LG* UROBILNGN-8* PH-6.5 
+LEUK-LG*
+___ 03:00PM URINE  UCG-NEGATIVE
+___ 03:10PM   WBC-9.2 RBC-4.09 HGB-13.7 HCT-40.8 MCV-100* 
+MCH-33.5* MCHC-33.6 RDW-15.9* RDWSD-58.1*
+___ 03:10PM   ALBUMIN-4.1
+___ 03:10PM   LIPASE-35
+___ 03:10PM   ALT(SGPT)-1120* AST(SGOT)-1263* ALK PHOS-332* 
+TOT BILI-7.1*
+___ 03:10PM   GLUCOSE-106* UREA N-9 CREAT-1.0 SODIUM-143 
+POTASSIUM-3.9 CHLORIDE-102 TOTAL CO2-23 ANION GAP-18
+___ 05:00PM   ACETMNPHN-NEG
+___ 05:00PM   HBsAg-NEG HBc Ab-NEG HAV Ab-POS*
+___ 06:00PM   ___ PTT-30.0 ___
+___ 08:02AM BLOOD HCV Ab-POS*
+___ 12:13PM   HIV Ab-NEG
+___ 02:56PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 08:02AM BLOOD HBsAb-POS IgM HBc-NEG IgM HAV-NEG
+___ 05:00PM BLOOD HBsAg-NEG HBcAb-NEG HAV Ab-POS*
+
+DISCHARGE
+
+___ 08:12AM BLOOD WBC-7.9 RBC-3.97 Hgb-13.6 Hct-39.1 
+MCV-99* MCH-34.3* MCHC-34.8 RDW-16.0* RDWSD-58.1* Plt ___
+___ 08:12AM BLOOD Neuts-60.6 ___ Monos-10.9 Eos-1.3 
+Baso-0.8 Im ___ AbsNeut-4.76 AbsLymp-2.03 AbsMono-0.86* 
+AbsEos-0.10 AbsBaso-0.06
+___ 08:12AM BLOOD Glucose-82 UreaN-9 Creat-0.8 Na-136 K-4.4 
+Cl-100 HCO3-22 AnGap-14
+___ 08:12AM BLOOD ALT-1043* AST-1504* LD(LDH)-505* 
+CK(CPK)-32 AlkPhos-285* TotBili-7.1*
+___ 08:12AM BLOOD Albumin-3.6 Calcium-9.5 Phos-4.6* Mg-1.9
+___ 08:02AM BLOOD HBV VL-PND HCV VL-PND
+
+ 
+Brief Hospital Course:
+Unfortunately on the day of discharge the patient decided to 
+leave AGAINST MEDICAL ADVICE.  The patient understood that we 
+did not feel she should be leaving the hospital.  She 
+demonstrated capacity to make that decision, and indicated that 
+she would return if she got sicker or did not improve.
+
+#Acute hepatitis: Not acute liver failure, no synthetic 
+dysfunction and no encephalopathy. Likely etiologies include 
+alcohol use and hepatitis C. Workup so far notable for positive 
+hep C with VL pending (known exposure, so could be acute hep C), 
+positive Hep A with negative IgM. Toxic injection also possible, 
+though tox screens unrevealing. Hemochromatosis also possible 
+but lower on ddx given TSAT of 69% (above 45% cutoff) with 
+ferritin of 706 (normal is below 200 for women), high Iron at 
+191 but no obvious bronze skin, family history, and ferritin is 
+an acute phase reactant. Patients hep C VL pending at time of 
+discharge, if negative, plan was to pursue autoimmune workup 
+and/or biopsy (antinuclear antibodies, anti-smooth muscle 
+antibodies, anti-liver/kidney microsomal antibodies type 1). 
+Patient was counseled on the risks of leaving while her LFTS 
+were still uptrending, and about the life threatening nature of 
+acute liver failure. Patient understood the risks, but remained 
+adamant about discharge and outpatient follow up.
+
+#Sterile pyuria: Positive UA with 2 days of dysuria and urinary 
+frequency, cultures < 10,000 CFUs would be concerning for G/C 
+infection. Patient was started on Cefpodoxime 100 mg PO BID for 
+10 total doses (day ___ while G/C results were pending. At 
+time of discharge they had not resulted, and decision was made 
+to discharge off of antibiotics as patients urine culture was 
+negative. 
+
+#EtOH use: Received thiamine, folic acid. Required lorazepam for 
+CIWA. Social work saw patient and gave information on resources 
+to quit alcohol. 
+
+#Opioid use (IV drug use) Used IV fentanyl one time 2 weeks ago. 
+Injected into right arm, used her friend's needle. Denies any 
+other IV drug use.
+
+#Tobacco use disorder: patient cites desire to smoke as reason 
+for leaving AMA.  
+
+I spent >30min in discharge day counseling and coordination of 
+care.  The patient was strongly counseled to arrange follow-up 
+with her PCP and with her pathology, and to return to a hospital 
+should she get sicker.
+
+___, MD
+___
+Pager ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Prenatal Vitamins 1 TAB PO DAILY  
+2.  Thiamine 100 mg PO DAILY ___  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute hepatitis
+Sterile Pyuria  
+Alcohol Use
+Substance Use
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent. The risks of leaving AMA were 
+discussed with patient, but she remained adamant about leaving 
+with outpatient follow up. 
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___ ,  
+
+It was a pleasure caring for you at ___ 
+___.  
+
+WHY WERE YOU IN THE HOSPITAL?  
+- You were admitted to the hospital for abdominal pain, nausea 
+and pain with urination.
+
+WHAT HAPPENED WHEN YOU WERE IN THE HOSPITAL?  
+- We found that your liver was very inflamed. We believe it is 
+because of alcohol use and hepatitis C. 
+- Your test results for hepatitis C were not back when you left 
+the hospital. 
+- Your urine did not show you have a UTI. However, we also sent 
+a gonorrhea and chlamydia test. The results were still pending 
+when you left.
+
+WHAT SHOULD YOU DO AFTER YOU LEAVE THE HOSPITAL?  
+- It is important that you follow up with both your primary care 
+doctor and the liver doctors as ___ made the decision to leave 
+the hospital while we were still monitoring your liver and 
+waiting on test results to identify why your liver was injured. 
+It is also important that you do not use alcohol while your 
+liver is injured. We hope that the list of community resources 
+our social worker provided you will be helpful. 
+
+We wish you the best!  
+
+Sincerely,  
+
+Your ___ Team
+
+ 
+Followup Instructions:
+___

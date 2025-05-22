@@ -1,0 +1,236 @@
+Name:  ___          Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo F with a history of prothrombin gene mutation presents 
+with pleuritic chest pain. 
+
+Pt reports that she began to have intermittent pleuritic chest 
+pain in her left shoulder and anterior left chest since ___. 
+These have become more frequent and more severe until last night 
+when he woke up from sleeping around 2am and the pain became 
+persistently severe. She went to ___ urgent care was 
+found to have an elevated d-dimer and bilateral small PEs and 
+lingular infarct on CT chest.
+
+She has no history of clotting, however after a clot was found 
+in her umbilical vein at her first pregnancy resulting in IUFD. 
+A hypercoagulable workup showed she was heterozygous for the 
+prothrombin gene mutation. At that point she was seen by 
+hematology who recommended she be anticoagulated for 6w after 
+each following pregnancy. She did receive lovenox after her two 
+following pregnancies without further issues. 
+
+In the ED, initial vitals: T 98.8 HR 100 BP 144/83 RR 19 O2 Sat 
+98% on RA
+  
+- Exam notable for:  
+General- NAD
+HEENT- PERRL, EOMI, normal oropharynx
+Lungs- Non-labored breathing, CTAB, mild pleuritic pain
+CV- Tachy, no murmurs, normal S1, S2, no S3/S4
+Abd- Soft, nontender, nondistended, no guarding, rebound or 
+masses
+Msk- No spine tenderness
+Neuro-A&O x3, CN ___ intact, normal strength and sensation in 
+all extremities, normal coordination and gait.
+Ext- No edema, cyanosis, or clubbing, or tenderness to palpation 
+along her popliteal or femoral veins
+
+- Labs notable for: Trop < .01, D-Dimer 660, BNP 31, UCG 
+negative  
+
+- Imaging notable for:  
+1. Bilateral small pulmonary emboli to the lingula, anterior 
+right upper lobe and posterior basal right lower lobe. 
+Ground-glass opacity within the peripheral lingula likely 
+reflects evolving pulmonary infarct.
+
+- Patient was given: Heparin gtt
+ 
+- Consults: None
+  
+- Vitals prior to transfer: T 98.1 HR 95, BP 116/65, RR 18, 100% 
+on RA
+
+On arrival to the floor she notes her chest pain is improved 
+though still present with deep inhalation. Additionally denies 
+dyspnea. 
+
+She has no recent history of leg pain or swelling. She does 
+states she flew back from ___ about a month ago, and she 
+spent long periods of time seated at work.
+
+ 
+Past Medical History:
+Corneal Erosions
+Prothormbin gene mutation
+Retinal detachment
+Colonic polyps 
+Vit D deficiency 
+
+ 
+Social History:
+___
+Family History:
+Mother w/ hypothyroidism, OA, HTN. Father with HTN, HLD, CAD, 
+Myasthenia ___, sarcoid.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+24 HR Data (last updated ___ @ ___
+    Temp: 98.3 (Tm 98.3), BP: 128/73, HR: 88, RR: 18, O2 sat:
+98%, O2 delivery: Ra  
+GENERAL: Pleasant, lying in bed comfortably  
+HEENT: NCAT PEERLA 
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly  
+EXT: Warm, well perfused, no lower extremity edema    
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact  
+SKIN: No significant rashes
+
+DISCHARGE PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 1231)
+    Temp: 98.8 (Tm 98.8), BP: 118/63 (118-128/63-80), HR: 92
+(80-92), RR: 18 (___), O2 sat: 94% (94-98), O2 delivery: Ra  
+GENERAL: Pleasant, lying in bed comfortably  
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly  
+EXT: Warm, well perfused, no lower extremity edema    
+NEURO: Alert, oriented, 
+SKIN: No significant rashes  
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:18PM BLOOD ___ PTT-27.4 ___
+___ 10:40AM BLOOD D-Dimer-660*
+___ 10:40AM BLOOD Glucose-113* UreaN-11 Creat-0.7 Na-142 
+K-4.0 Cl-99 HCO3-27 AnGap-16
+___ 10:40AM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 10:40AM BLOOD cTropnT-<0.01
+___ 04:05PM BLOOD CK-MB-<1 cTropnT-<0.01 proBNP-31
+___ 04:55AM BLOOD Calcium-8.8 Phos-4.1 Mg-2.0
+
+IMAGING:
+CTA CHEST ___
+1. Bilateral small pulmonary emboli to the lingula, anterior 
+right upper lobe and posterior basal right lower lobe.  
+Ground-glass opacity within the peripheral lingula likely 
+reflects evolving pulmonary infarct. 
+
+LOWER EXTREMITY US ___
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+
+DISCHARGE LABS:
+___ 04:55AM BLOOD Glucose-94 UreaN-8 Creat-0.6 Na-139 K-4.1 
+Cl-100 HCO3-26 AnGap-___ yo F with a history of prothrombin gene mutation presented 
+with pleuritic chest pain and was found to have bilateral PEs. 
+She was started on heparin gtt and transitioned to rivaroxaban 
+with plan to continue for at least three months pending follow 
+up with hematology. 
+
+ACUTE ISSUES:
+#bilateral PEs
+#prothrombin gene mutation
+Pt presented with pleuritic CP of two days and was found to have 
+bilateral PEs on CTA. She had no evidence of right heart strain 
+on bedside echo in the ED or on EKG, with negative trop x2 and 
+BNP. She remained hemodynamically stable and off oxygen 
+supplementation. Her PE was thought to have been in the setting 
+of known prothrombin gene mutation, which carries higher risk of 
+VTE. She was transitioned to rivaroxaban from heparin gtt. 
+Follow up was scheduled with hematology and PCP. 
+
+CHRONIC ISSUES:
+#Corneal Erosions 
+Continued hypertonic saline drops
+
+TRANSITIONAL ISSUES:
+[ ] Rivaroxaban loading dose 15mg BID for 21d (last day ___ 
+after which should be continued on 20mg once daily.
+[ ] follow up with hematology to discuss duration of 
+anticoagulation was scheduled
+
+# CODE: full (presumed) 
+# CONTACT: Mother ___: ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ___ 128 (sodium chloride) 2 % ophthalmic (eye) BID 
+2. Vitamin D Dose is Unknown  PO DAILY 
+3. Calcium Carbonate 500 mg PO Frequency is Unknown 
+
+ 
+Discharge Medications:
+1.  Rivaroxaban 15 mg PO BID Duration: 21 Days 
+with food  
+2.  Calcium Carbonate 500 mg PO AS DIRECTED  
+3.  Vitamin D 1000 UNIT PO DAILY  
+4.  ___ 128 (sodium chloride) 2 % ophthalmic (eye) BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Pulmonary embolism 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Dr. ___,  
+
+___ was a pleasure caring for you during your admission to ___. 
+Below you will find information regarding your stay.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?  
+- You were admitted because you were having chest pain and were 
+found to have bilateral pulmonary embolisms.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?  
+- You were started on a heparin drip and then transitioned to 
+Rivaroxaban  
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+- You should continue to take Rivaroxaban 15mg twice a day for 
+21 days.
+- You should follow up with your PCP and your hematology team. 
+
+Thank you for letting us be a part of your care!  
+
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

@@ -1,0 +1,368 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ obese female with an otherwise 
+unremarkable PMHx who presents with 10 days of dyspnea on 
+exertion.  
+
+On ___, she flew to ___.  She was careful to
+get up out of her seat on more than one occasion.  However, 
+right
+after landing, she developed shortness of breath.  The whole 
+time
+she was in ___ she was short of breath with exertion. 
+This shortness of breath persisted when she returned on ___.  She also feels like she may have strained her back when
+grabbing one of her bags, and c/o R. mid-lower back pain. 
+
+She continues to have shortness of breath with walking,
+especially up stairs.  She also has some shortness of breath 
+with
+talking.  Talking also makes her cough, but other than that she
+is not really coughing much. She denies ill contacts and she
+denies fevers, chills, sweats or lower extremity swelling.  She
+has had some
+postnasal drip but no significant upper respiratory symptoms.  
+
+She denies history of DVT and is a non-smoker. Saw PCP today and
+was noted to desaturate to 91% with walking.
+
+In the ED:
+Initial vital signs were notable for: T 97.0, HR 105, BP 147/59,
+RR 18, SpO2 100% RA 
+
+Exam notable for:
+-Lungs clear but inspiration elicits a cough response
+-Tachycardic
+
+Labs were notable for: no leukocytosis, H/H 10.9/35.1, INR 1.3,
+BNP 12, trop negative, normal lytes, normal lactate
+
+Studies performed include:
+CTA chest: 1. Multiple acute expansile pulmonary emboli within
+the right lower lobe segmental and subsegmental branches.
+Decreased enhancement of the right lower lobe lung parenchyma,
+compatible with infarction. Moderate nonhemorrhagic right 
+pleural
+effusion.
+2. No evidence of right heart strain.
+3. Heterogeneously enlarged thyroid gland.
+4. Cholelithiasis.
+
+Patient was given: 500 cc NS, heparin gtt at 5200 units
+
+Consults: None
+
+Vitals on transfer: HR 104, BP 126/75, RR 18, spO2 99% RA 
+ 
+Upon arrival to the floor, she reports feeling some dyspnea at
+rest and pain in her R. mid-lower back, which is different from
+her baseline.
+
+REVIEW OF SYSTEMS:
+Complete ROS obtained and is otherwise negative.
+ 
+Past Medical History:
+COLD SORES 
+GALACTORRHEA 
+HAND ECZEMA 
+INFERTILITY 
+OBESITY 
+PLANTAR FASCIITIS 
+ROSACEA 
+URINARY INCONTINENCE 
+BORDERLINE HYPERTENSION 
+? TEMPOROMANDIBULAR JOINT DYSFUNCTION 
+HEARING LOSS 
+H/O ABNORMAL PAP SMEAR 
+ 
+Social History:
+___
+Family History:
+Father with renal cancer, colonic polyps. 
+Mother with T2DM, strokes.
+ 
+Physical Exam:
+======================
+ADMISSION PHYSICAL EXAM:
+======================
+VITALS: T 98.1, BP 128/67, HR 67, RR 16, SpO2 94 ra 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+NECK: No cervical lymphadenopathy. 
+CARDIAC: Regular rhythm, slightly tachycardic rate. Audible S1
+and S2. No murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No spinous process tenderness. +ttp in R. mid-lower back,
+lateral to ~T12-L3. 
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP 2+
+bilaterally.
+SKIN: Warm. No rash.
+NEUROLOGIC: AOx3. No focal neurologic deficits. 
+
+======================
+DISCHARGE PHYSICAL EXAM
+======================
+VITALS: 24 HR Data (last updated ___ @ 558)
+Temp: 99.2 (Tm 99.2), BP: 114/59 (99-122/59-79), HR: 93
+(93-129), RR: 18, O2 sat: 92% (85-94), O2 delivery: Ra (1 
+liter-2
+liters)    
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. Sclera anicteric and without injection. 
+CARDIAC: Regular rhythm, tachycardic. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Coughs when taking deep breaths. Decreased BS R base. No 
+wheezes, rhonchi or rales. 
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+EXTREMITIES: WWP. No ___ edema.
+NEUROLOGIC: AOx3. No focal neurologic deficits.
+ 
+Pertinent Results:
+=============
+ADMISSION LABS
+=============
+___ 12:45PM   ___ PTT-25.6 ___
+___ 12:45PM   PLT COUNT-284
+___ 12:45PM   NEUTS-72.4* LYMPHS-14.9* MONOS-7.3 EOS-4.3 
+BASOS-0.6 IM ___ AbsNeut-5.74 AbsLymp-1.18* AbsMono-0.58 
+AbsEos-0.34 AbsBaso-0.05
+___ 12:45PM   WBC-7.9 RBC-3.92 HGB-10.9* HCT-35.1 MCV-90 
+MCH-27.8 MCHC-31.1* RDW-13.6 RDWSD-44.6
+___ 12:45PM   HCG-<5
+___ 12:45PM   cTropnT-<0.01 proBNP-12
+___ 12:45PM   estGFR-Using this
+___ 12:45PM   GLUCOSE-114* UREA N-17 CREAT-0.9 SODIUM-143 
+POTASSIUM-4.4 CHLORIDE-103 TOTAL CO2-24 ANION GAP-16
+___ 12:49PM   LACTATE-0.9
+___ 12:49PM   COMMENTS-GREEN TOP
+
+================
+PERTINENT STUDIES
+================
+CTA Chest ___
+1. Multiple acute expansile pulmonary emboli within the right 
+lower lobe
+segmental and subsegmental branches.  Decreased enhancement of 
+the right lower lobe lung parenchyma, compatible with 
+infarction.  Moderate nonhemorrhagic right pleural effusion.
+2. No evidence of right heart strain.
+3. Heterogeneously enlarged thyroid gland.
+4. Cholelithiasis.
+
+Bilateral Lower Extremity Venous Duplex U/S ___
+No evidence of deep venous thrombosis in the right or left lower 
+extremity
+veins.
+
+TTE ___
+The left atrial volume index is normal. The right atrial 
+pressure could not be estimated. There is normal left 
+ventricular wall thickness with a normal cavity size. There is 
+suboptimal image quality to assess regional left ventricular 
+function. Overall left ventricular systolic function is normal. 
+Quantitative biplane left ventricular ejection fraction is 61 %. 
+There is no resting left ventricular outflow tract gradient. 
+Normal right ventricular cavity size with normal free wall 
+motion. Tricuspid annular plane systolic excursion (TAPSE) is 
+normal. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal. The aortic valve leaflets (?#) appear 
+structurally normal. There is no aortic valve stenosis. There is 
+no aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with no mitral valve prolapse. There is 
+trivial mitral regurgitation. The tricuspid valve leaflets 
+appear structurally normal. There is physiologic tricuspid 
+regurgitation. The pulmonary artery systolic pressure could not 
+be estimated. There is no pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Normal biventricular 
+cavity sizes and regional/global systolic function. No valvular 
+pathology or pathologic flow identified. Indeterminant PASP.
+
+============
+MICROBIOLOGY
+============
+___ 12:40 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+=============
+DISCHARGE LABS
+=============
+___ 07:46AM BLOOD WBC-8.8 RBC-3.86* Hgb-10.5* Hct-34.5 
+MCV-89 MCH-27.2 MCHC-30.4* RDW-13.7 RDWSD-44.9 Plt ___
+___ 07:46AM BLOOD ___ PTT-29.4 ___
+___ 07:46AM BLOOD Glucose-106* UreaN-15 Creat-0.7 Na-141 
+K-4.3 Cl-98 HCO3-25 AnGap-18
+___ 07:46AM BLOOD Calcium-8.9 Phos-3.1 Mg-2.___ female with a history of obesity who presented with 
+shortness of breath, DOE, and chest pain following a flight to 
+___, found to have multiple RLL segmental and 
+subsegmental PEs with associated RLL infarct and pleural 
+effusion.
+ 
+# Acute sub-massive pulmonary emboli: 
+# Moderate R pleural effusion:
+# Likely pulmonary infarct:
+# Hypoxia:
+Patient presented with dyspnea on exertion and R-sided chest 
+pain. CTA Chest revealed multiple acute expansile pulmonary 
+emboli within the right lower lobe segmental and subsegmental 
+branches, with decreased enhancement of the right lower lobe 
+lung parenchyma, compatible with infarction. There was no 
+evidence of R heart strain on CTA or TTE, and her LENIs were 
+negative for DVT.  Likely provoked in setting of long travel 
+with no personal history of DVT/PE and no significant family 
+history of coagulation disorders. She was initially treated with 
+heparin gtt and then transitioned to apixaban (10mg BID x 7 day 
+course [___] followed by 5mg BID for at least a 6 month 
+course). Interventional pulmonology was consulted to consider 
+tapping the patient's persistent pleural effusion for 
+symptomatic relief. The IP team felt that since the effusion was 
+small and appeared to be improving there was not need to tap and 
+recommended repeat CXR in three weeks and IP follow-up 
+(scheduled). She continued to desat to high ___ with ambulation 
+and so was discharged on home oxygen. She requires ___ O2 via 
+NC while ambulating.  Recommend reevaluation at upcoming PCP 
+appointment to determine whether ongoing supplemental oxygen is 
+required. She was discharged with a short course of tramadol and 
+tylenol.
+
+# Normocytic anemia:
+Hgb stable at ___. Baseline unclear (nl in ___. No clear 
+evidence of bleeding.
+
+# Elevated INR:
+INR uptrending, likely apixaban effect. No evidence of active 
+bleeding. Would repeat INR at PCP ___ to ensure stability
+
+# Enlarged thyroid gland:
+Incidental finding on CTA chest. Clinically euthyroid. ___ as 
+outpatient.
+
+TRANSITIONAL ISSUES:
+====================
+Discharge INR: 1.8
+
+NEW medications: Apixaban 10mg BID x 7 days (___) 
+followed by 5mg BID ongoing
+
+[] Likely provoked DVT in the setting of long plane flight but 
+can consider hypercoagulable workup
+[] Please continue anticoagulation and decide on course
+[] Please monitor ambulatory O2 sat at follow-up PCP appointment 
+and adjust oxygen requirement as needed. She is being discharged 
+on ___ NC with ambulation. If O2 requirement increasing, 
+consider repeat CXR to evaluate pleural effusion and if 
+concerned please arrange expedited follow-up with interventional 
+pulmonology
+[] Patient has follow-up appointment with interventional 
+pulmonology (Dr. ___. Please obtain follow-up 
+CXR prior to that appointment.
+[] INR rising at time of discharge, please check INR at next 
+outpatient appointment.
+[] Thyroid US to evaluate incidentally found enlarged thyroid 
+gland
+
+#code status: full
+#contact: ___, husband (___)
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Apixaban 10 mg PO BID Duration: 7 Days  
+3.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*2 
+4.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+RX *tramadol 50 mg 1 tablet(s) by mouth Every 12 hours Disp #*7 
+Tablet Refills:*0 
+5.Home oxygen
+___ Dx: Pulmonary embolism, I26
+2L Concentrator and portable tanks via NC for ___% room air
+Ambulation 85% room air; 92% on 2L
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: 
+Pulmonary embolism
+Pleural efusion
+
+Secondary:
+Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+Why were you admitted?
+- You were admitted with a pulmonary embolism- a clot in your 
+lungs
+
+What happened while you were in the hospital?
+- We did an ultrasound (echo) of your heart which fortunately 
+did not show any heart damage from the clot
+- We also did an ultrasound of your legs to look for clot-- 
+there was none
+- We kept you in the hospital for a little longer because your 
+oxygen levels were dropping when you were walking
+- We also had our pulmonary doctors ___ at the fluid in your 
+lungs to determine if the fluid needed to be removed. Since 
+there was not much fluid at all, they did not feel it would 
+affect your breathing at all. We decided not to drain it.
+
+What should you do when you leave the hospital?
+- You are being set up with home oxygen. You need ___ liters 
+with walking. You should be able to come off the oxygen within 
+___ weeks.
+- If you develop worsening shortness of breath or cough, please 
+call your doctor.
+- You will need to especially take your blood thinner 
+medication, apixaban, which we have provided for you. Please 
+follow the pharmacy instructions, since the dose decreases in 
+one week.
+
+It was a pleasure taking care of you! We wish you all the best.
+- Your ___ Team
+ 
+Followup Instructions:
+___

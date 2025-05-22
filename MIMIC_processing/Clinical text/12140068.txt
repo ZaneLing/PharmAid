@@ -1,0 +1,219 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+cipro, Doxycycline, Cephaclor
+ 
+Attending: ___
+ 
+Chief Complaint:
+Overdose, Seizure
+
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+Ms. ___ is a ___ hx anxiety/depression who presents after a 
+polysubstance overdose. The patient reportedly had an ingestion 
+around 11AM today of 21x300 mg gabapentin, 34 x 25-mg pills of 
+amoxapine, and 6 pills of venlafaxine(although no bottle was 
+found). The patient was taken to ___ where she was found 
+to have tachycardia and myoclonic jerks. The patient reported 
+SI, denies hallucinations/delusions. She had a head CT which was 
+negative. Her EKG showed a QRS which increased from 99 to 108 
+and the patient was started on a bicarbonate gtt. After arrival, 
+she had a seizure and was given a total of 5 mg lorazepam with 
+resolution of seizure. She received 12 mg cyproheptadine and was 
+transferred to ___ for further management. Vitals prior to 
+transfer were: 97.9 125/78, HR124,RR 27, 95% on 4L of O2.   
+ 
+In the ED, initial vitals:  98.2 88 141/84 20 100%  
+Patient was found to have brisk reflexes, increased tone, but no 
+clonus.
+Labs were notable for: 
+WBC 9.4 H/H 11.1/34.6 Plt 202
+Na 145 K 3.8 Cl 111 HCO3 24 BUN 10 Cr 1.1 
+Lactate 1.1
+Serum ASA, EtOH, APAP, benzo, Barb, TCA: Negative
+Urine benzos, barbs, opiates, cocaine, amphetamines, methadone, 
+oxycodone: Negative
+Urinalysis was negative.
+
+-EKG  showed SR, NANI, normal QRS (92), QT, no STEMI
+Repeat EKG with QRS of 88.
+EKG prior to transfer:
+Intervals (QTc ___ Axes 
+Rate PR QRS QT QTc P QRS T 
+78   150 88 410 441 39 14 -5
+
+On arrival to the MICU,  the patient is AAOx3 (but does not know 
+the name of the hospital). She is intermittently dosing but 
+appropriate, able to answer all questions. Pt reports having had 
+been admitted to psych after pill overdose in ___. She 
+currently endorses SI, denies visual or auditory hallucinations.
+
+Review of systems:  
+(+) Per HPI 
+ 
+Past Medical History:
+-Depression
+-Anxiety
+-Alcohol abuse
+-Suicide attempt
+
+ 
+Social History:
+___
+Family History:
+Mother with ?depression, father passed away ___ from 
+Alzheimer's.
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals: T 98.0 BP 130/77 HR 90 RR 22 100%RA 
+GENERAL: Somnolent but arousable obese female in NAD, AAOx3 
+HEENT: PERRL, pupils normal size, MMM, anicteric sclerae.
+NECK: Supple
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused 
+SKIN:  No rashes
+
+DISCHARGE EXAM:
+Vitals:  T 98.7  142/86  86  18  97%RA
+Gen: NAD, walking around unit comfortably
+Eyes: EOMI, sclerae anicteric  
+ENT: MMM, OP clear
+Cardiovasc: RRR, no MRG, full pulses, no edema  
+Resp: normal effort, no accessory muscle use, lungs CTA ___.
+GI: soft, NT, ND, BS+
+Ext: warm, dry, no c/c/e
+Skin: No visible rash. No jaundice.
+Neuro: AAOx3. No facial droop. Answers questions appropriately.
+Psych: restricted, poor insight, poor judgement
+GU: no foley, otherwise deferred
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 07:45PM BLOOD WBC-9.4 RBC-3.73* Hgb-11.1* Hct-34.6 
+MCV-93 MCH-29.8 MCHC-32.1 RDW-12.7 RDWSD-42.8 Plt ___
+___ 07:45PM BLOOD Neuts-84.1* Lymphs-10.2* Monos-4.7* 
+Eos-0.2* Baso-0.3 Im ___ AbsNeut-7.90* AbsLymp-0.96* 
+AbsMono-0.44 AbsEos-0.02* AbsBaso-0.03
+___ 07:45PM BLOOD Plt ___
+___ 07:45PM BLOOD Glucose-111* UreaN-10 Creat-1.1 Na-145 
+K-3.8 Cl-111* HCO3-24 AnGap-14
+___ 07:45PM BLOOD ALT-15 AST-15 LD(LDH)-146 CK(CPK)-43 
+AlkPhos-72 TotBili-0.2
+___ 07:45PM BLOOD Calcium-7.9* Phos-3.8 Mg-2.1
+___ 07:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 07:49PM BLOOD Lactate-1.1
+
+EKG: 
+___ Sinus rhythm with minor non-specific repolarization 
+abnormalities. No previous 
+tracing available for comparison.  
+TRACING #1 
+
+___ Sinus rhythm. Compared to the previous tracing there is 
+no significant change. 
+TRACING #6 
+
+DISCHARGE LABS:
+___ 04:39AM BLOOD WBC-7.9 RBC-3.69* Hgb-11.2 Hct-34.2 
+MCV-93 MCH-30.4 MCHC-32.7 RDW-12.7 RDWSD-42.7 Plt ___
+___ 07:10AM BLOOD Glucose-93 UreaN-9 Creat-0.8 Na-141 K-3.9 
+Cl-105 HCO3-27 AnGap-13
+___ 07:10AM BLOOD Albumin-3.8 Calcium-9.4 Phos-3.9 Mg-1.9
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ hx anxiety/depression who presents after a 
+polysubstance overdose with toxidrome suggestive of likely TCA 
+toxicity complicated by seizure, now improved and medically 
+stable for discharge to inpatient psychiatric facility.
+
+# Polysubstance overdose/suicide attempt: TCA overdose also with
+gabapentin and venlafaxine. Initial evidence of TCA toxidrome 
+with prolonged QRS, myoclonus and seizure. Seizures can also be 
+seen in gabapentin withdrawal. Received 1 dose cyproheptadine at 
+OSH for presumed serotonin syndrome. All symptoms and signs of 
+overdose resolved prior to transfer from ICU to medical floor, 
+where she remained stable, EKGs normal, and medically ready for 
+discharge to inpatient psych facility. 
+
+# Depression/anxiety/suicide attempt: Held all home medications 
+per psych recs. ___ per psych with 1:1 sitter at all 
+times. Discharge to inpatient psych facility per psych and BEST 
+team. 
+
+# Seizure: Likely in setting of overdose while at OSH, without 
+recurrence as inpatient. No evidence of EtOH withdrawal, per 
+patient has not had drink in over one month. 
+
+# Reported history of hypertension: Held home lisinopril as 
+largely normotensive during admission. 
+
+Transitional Issues: 
+# Communication: HCP: Mother ___ ___  
+# Code: Full 
+# Disposition: Medically clear for inpatient psych facility
+- follow up with outpatient providers when ready for discharge 
+from inpatient psych facility
+
+>45 minutes spent on discharge day services, counseling, and 
+coordination of care
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 5 mg PO DAILY 
+2. Citalopram 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Suicide attempt/tricyclic antidepressant/gabapentin/venlafaxine 
+overdose
+major depression, severe
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to the hospital after you were found 
+unresponsive by your mother at home. You had a seizure at the 
+outside hospital before coming to ___, probably because of the 
+medication you took too much of. You were monitored closely in 
+the ICU, then transferred to the floor and medically stable. You 
+are being transferred to another facility to continue your 
+psychiatric care. 
+ 
+Followup Instructions:
+___

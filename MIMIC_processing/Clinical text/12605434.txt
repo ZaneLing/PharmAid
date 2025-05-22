@@ -1,0 +1,212 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain, hematemesis
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with the past medical
+history of EtOH abuse, ADHD, GERD who presents with abdominal
+pain and hematemesis. Patient with multiple ED visits over past
+month for abdominal pain, emesis and inability to tolerate PO.
+One episode reportedly related to pancreatitis. Patient reports
+current episode started on ___. The pain was located in the
+epigastric area, burning, severe at onset. Pain has since
+resolved. It was associated with multiple episodes of NBNB 
+emesis
+up until last night when patient noted a large amount of bright
+red blood in his vomitus. Denies further episodes of n/v. Denies
+diarrhea, f/c, no melena or hematochezia. When he is feeling
+well, reports bowel movements are normal, no greasy or floating
+stool. No joint swelling, rashes, myalgias. To his knowledge, no
+family or personal history of autoimmune diseases. Patient
+reports prior history of EtoH abuse however has been ___ for 
+12
+months, receives monthly vivitrol shots. Denies use of illicit
+drugs. Patient had an EGD several years ago for severe heartburn
+which he thinks was unremarkable. He has been on Prilosec since
+then with no further issues with heartburn. Endorses 15 lbs
+weight loss over past 5 weeks due to poor po intake. 
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+ADHD
+EtOH abuse
+GERD
+
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+ 
+Physical Exam:
+Admission physical exam:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+Discharge physical exam
+T98.4, BP 143/100, HR 98, RR 18, O2 97% RA
+Gen - NAD, sitting up in bed, comfortable appearing
+HEENT - nc/at, moist mucous membranes
+Eyes - anicteric, perrl
+Neck - supple, no lad
+___ - rrr, s1/2, no m/r/g
+Pulm - CTA b/l, no w/r/r
+GI - soft, NT, ND, +bowel sounds, negative ___ sign, no 
+rebound/guarding/rigidity
+Ext - no peripheral edema
+Skin - warm, dry, no rash
+Psych - calm, appropriate
+Neuro - non focal, moving all extremities
+ 
+Pertinent Results:
+___ 06:45AM BLOOD WBC-3.8* RBC-4.23* Hgb-14.7 Hct-41.3 
+MCV-98 MCH-34.8* MCHC-35.6 RDW-12.7 RDWSD-45.3 Plt ___
+___ 12:44PM BLOOD WBC-4.2 RBC-4.61 Hgb-16.3 Hct-43.8 MCV-95 
+MCH-35.4* MCHC-37.2* RDW-12.3 RDWSD-42.8 Plt ___
+
+___ 06:45AM BLOOD Glucose-111* UreaN-9 Creat-0.7 Na-139 
+K-4.2 Cl-95* HCO3-31 AnGap-13
+___ 12:44PM BLOOD Glucose-88 UreaN-20 Creat-1.0 Na-135 
+K-4.4 Cl-96 HCO3-25 AnGap-14
+
+___ 06:45AM BLOOD ALT-93* AST-120* AlkPhos-64 TotBili-0.5
+___ 12:44PM BLOOD ALT-105* AST-240* AlkPhos-67 TotBili-0.8
+
+___ 06:45AM BLOOD Lipase-118*
+
+___ 06:45AM BLOOD Triglyc-642*
+___ 06:35AM BLOOD Triglyc-1469*
+___ 12:44PM BLOOD Triglyc-2611*
+
+___ 12:44PM BLOOD ___ 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with the past
+medical history of EtOH abuse, ADHD, GERD who presents with
+abdominal pain and hematemesis.
+
+#Abdominal pain
+#Hematemesis
+#Pancreatitis 
+-With recurrent abd pain and n/v over 5 weeks, with elevated 
+LFT's and lipase, as well as triglyceride level, labs and 
+presentation consistent with pancreatitis. Hematemesis could be 
+related to ___ tear, no further episodes. Was seen by 
+GI, given his symptoms resolved quickly after admission, an 
+inpatient EGD was felt not to be indicated and instead set up as 
+outpatient. His symptoms of pancreatitis improved and he was 
+able to tolerate a PO low fat diet with no pain. LFT's and 
+triglycerides trended down. Trigs 2600's -> 600's, so 
+pharmacotherapy (such as fenofibrate) was not initiated, advised 
+to repeat level in ___ weeks if still elevated can consider 
+treatment at that time. Also advised for etoh cessation. 
+Continue PPI BID, at home dose. 
+
+#Alcoholic hepatitis - prior US with steatosis, likely related 
+to EtOH use. AST> ALT also suggestive of alcoholic hepatitis. 
+Stable. 
+
+#Positive EtOH level - patient denies EtoH use however on ED 
+labs, EtOH noted to be 102, he attributes this to Nyquil usage. 
+Did not score on CIWA or exhibit any signs of withdrawal. 
+
+#Elevated BP in the 150's - no formal dx of hypertension,
+monitor. Asymptomatic (no HA, CP) - can follow this as 
+outpatient. 
+
+CHRONIC/STABLE PROBLEMS:
+#GERD - PPI as above
+#ADHD - continue wellbutrin
+
+FEN: Regular low fat diet
+Code status: FULL
+Dispo: dc home today. F/u with PCP ___ ___ weeks for repeat LFT's 
+and trigs. GI to set up for outpatient EGD. Also advised to 
+discuss elevated BP readings with PCP. 
+
+___, MD, ___ ___
+Hospital Medicine
+___
+
+Time spent: 45 min
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. BuPROPion XL (Once Daily) 450 mg PO DAILY 
+2. Omeprazole 20 mg PO BID 
+3. naltrexone microspheres 380 mg injection once monthly 
+
+ 
+Discharge Medications:
+1.  BuPROPion XL (Once Daily) 450 mg PO DAILY  
+2.  naltrexone microspheres 380 mg injection once monthly  
+3.  Omeprazole 20 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pancreatitis 
+Hematemesis (vomiting of blood)
+Abdominal pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to the hospital with vomiting of blood as well 
+as abdominal pain, found to have pancreatitis. Your symptoms 
+have improved and you will be discharged home to resume your 
+home regimen of omeprazole. Please adhere to a low fat diet, and 
+you are advised to abstain from alcohol including that which may 
+be found in cough suppressants. Have a set of labs including 
+your liver function and triglycerides repeated within the next 
+___ weeks. You will be contacted by the Gastroenterology group 
+to schedule an upper endoscopy (EGD), within the next few weeks. 
+
+ 
+Followup Instructions:
+___

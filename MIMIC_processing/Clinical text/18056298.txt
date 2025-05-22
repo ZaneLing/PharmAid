@@ -1,0 +1,209 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Erythromycin Base / Bactrim / Amoxicillin / Minocycline / ___ 
+FE ___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+EGD
+
+ 
+History of Present Illness:
+___ year old female with a past medical history notable for 
+pancreatitis presents with one day of right flank pain radiating 
+to the right inguinal region. The patient reports that her pain 
+began gradually yesterday and has progressively worsened. She 
+reports this pain is very similar to her prior episode of 
+pancreatitis that she had last year. She reports associated 
+nausea and dry heaves but denies any vomiting. She denies any 
+chest pain, shortness of breath, cough, dysuria, bowel changes. 
+She has no other significant past medical history. She has had 
+her appendix removed.  She has no history of alcohol abuse.
+
+In the ED, initial vitals were  96.7 74 126/70 18 98% RA.  There 
+was tenderness to palpation of the right upper quadrant, along 
+with right CVA tenderness.  Labs showed lipase 431, lactate 1.3, 
+BUN 11, hematocrit 38.  UA showed no blood, protein 30, ketones 
+40.  She received 2 liters NS, morphine 5 mg IV x 2 and 
+ondansetron 4 mg IV x 2.  
+ 
+Currently, the patient has ___ right side pain as well as dry 
+heaves.  
+ 
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats. Denies headache, sinus 
+tenderness, rhinorrhea or congestion. Denies cough, shortness of 
+breath. Denies chest pain or tightness, palpitations. Denies 
+diarrhea, constipation. No recent change in bowel or bladder 
+habits. No dysuria. Denies arthralgias or myalgias. Ten point 
+review of systems is otherwise negative. 
+ 
+Past Medical History:
+Bulimia
+Previous episode of pancreatitis
+GERD
+Sciatica
+Irritable bowel syndrome
+Dysmenorrhea
+Acne
+Migraines 
+Anxiety
+ASCUS   
+ 
+Social History:
+___
+Family History:
+Breast cancer runs in the family.  There is no autoimmune or GI 
+issues that run in the family.
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals: T: 96.3 BP: 101/80 P: 84 R: 16 O2: 100% on RA
+GEN: Alert, oriented to name, place and situation. Fatigued 
+appearing and uncomfortable, no acute signs of distress.  
+HEENT: NCAT, Pupils equal and reactive, sclerae anicteric, OP 
+clear, MM dry.  
+Neck: Supple, no JVD
+Lymph nodes: No cervical, supraclavicular LAD.  
+CV: S1S2, reg rate and rhythm, no murmurs, rubs or gallops.  
+RESP: Good air movement bilaterally, no rhonchi or wheezing.  
+ABD: Soft, tender at epigastric area and at right flank, 
+non-distended, + bowel sounds.  
+EXTR: No lower leg edema  
+DERM: No active rash.  
+Neuro: non-focal.  
+PSYCH: Appropriate and calm.
+
+DISCHARGE EXAM:
+tolerating POs
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 03:40PM BLOOD WBC-5.4 RBC-4.21 Hgb-13.9 Hct-41.3 MCV-98 
+MCH-33.0* MCHC-33.7 RDW-12.6 RDWSD-45.5 Plt ___
+___ 03:40PM BLOOD Neuts-44.4 ___ Monos-7.1 Eos-2.1 
+Baso-0.9 Im ___ AbsNeut-2.38 AbsLymp-2.43 AbsMono-0.38 
+AbsEos-0.11 AbsBaso-0.05
+___ 07:00AM BLOOD ___ PTT-26.8 ___
+___ 03:40PM BLOOD UreaN-11 Creat-0.8 Na-140 K-4.0 Cl-104 
+HCO3-25 AnGap-15
+___ 03:40PM BLOOD ALT-22 AST-24 AlkPhos-41 Amylase-106* 
+TotBili-0.6
+___ 03:40PM BLOOD Lipase-212*
+___ 08:00PM BLOOD Lipase-431*
+___ 08:14PM BLOOD Lactate-1.3
+
+IMAGING:
+
+CT Abdomen/Pelvis (___):
+1. No radiographic evidence of pancreatitis.
+2. Focal fatty infiltration of the liver.
+
+EGD (___):
+Impression:
+Normal mucosa in the stomach (biopsy)
+Normal mucosa in the duodenum (biopsy)
+Otherwise normal EGD to third part of the duodenum
+Recommendations:
+- No findings to explain abdominal pain
+- Follow-up biopsies
+ 
+Brief Hospital Course:
+___ year old female with past history of idiopathic pancreatitis 
+presents with abdominal pain and elevated lipase concerning for 
+recurrent pancreatitis, now w/ normalized labs, negative CT and
+EGD.
+
+# ABDOMINAL PAIN / PANCREATITIS:
+Lipase elevated to 431 on admission, now normalized. Initial 
+presentation consistent with pancreatitis, though unclear why 
+symptoms continue to persist at this point. Negative workup
+including RUQ ultrasound, CT abd/pelvis, and EGD. There may be 
+some component of patient/family anxiety that something worse is 
+going on. Patient's father had friend who died of pancreatic
+cancer after delayed diagnosis and this may be driving some of 
+the anxiety. However, patient does seem to have very real 
+symptoms which may not be entirely explained by pancreatitis. 
+Normal EGD rules out PUD/gastritis. Patient's diet was advanced 
+and she was tolerating full liquids at the time of discharge. 
+Her symptoms were ultimately felt to be due to pancreatitis plus 
+perhaps R lumbar muscle spasm. She will need to follow up with 
+her outpatient gatroenterologist (Dr. ___ for consideration 
+of further testing for idiopathic pancreatitis vs other 
+functional GI causes that could explain her pain.
+
+TRANSITIONAL ISSUES:
+[ ] Please follow-up EGD biopsies.
+[ ] Please evaluate patient further for causes of idiopathic 
+pancreatitis, including genetic screening. This will likely be 
+done by Dr. ___ patient's outpatient gastroenterologist.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fish Oil (Omega 3) Dose is Unknown  PO Frequency is Unknown 
+2. Prenatal Vitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1. Fish Oil (Omega 3) 1000 mg PO DAILY 
+2. Prenatal Vitamins 1 TAB PO DAILY 
+3. Acetaminophen 1000 mg PO TID 
+4. Ondansetron 8 mg PO Q8H:PRN nausea 
+RX *ondansetron HCl 8 mg 1 tablet(s) by mouth three times a day 
+Disp #*15 Tablet Refills:*0
+5. Diazepam 5 mg PO TID Duration: 3 Days 
+as we discussed, may cause sedation, avoid with alcohol or 
+driving 
+RX *diazepam 5 mg 1 tablet by mouth three times a day Disp #*10 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute pancreatitis
+Abdominal pain
+Muscle spasm
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ was a pleasure taking care of you. You were admitted because 
+of abdominal pain. We found that you had pancreatitis, though 
+your symptoms were more severe than expected based on laboratory 
+findings and could be explained by other causes as well. 
+
+We performed a CT scan of your abdomen/pelvis, as well as an EGD 
+(upper endoscopy), both of which were entirely normal, as well 
+as a pelvic ultrasound.
+
+Please continue to see your outpatient GI doctor to further 
+evaluate why you have these episodes of abdominal pain.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,255 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain, nausea, vomiting and fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ MEDICINE ATTENDING ADMISSION NOTE
+.
+___
+Time: ___
+_
+________________________________________________________________
+
+PCP: Dr.  ___
+
+Nausea, emesis and diarrhea
+
+_
+________________________________________________________________
+HPI: 
+___ otherwise healthy presents for evaluation of 2 days of 
+frequent episodes of nonbloody emesis and nonbloody diarrhea and 
+subjective fever. He was in his gsogh until two days prior to 
+presentation when he ate pizza at 4pm. Six hours later he 
+developed n/v/d. He has had multiple episodes since with his 
+last episode of diarrhea in the ED 1.5 hours ago. Its 
+green/yellow liquid stool without blood. He has had sweats, 
+chills and rigors. No sick contacts. No foreign travel. He had 
+these sx once years ago and has been fine since then. The last 
+time he had similar sx it was not as severe as this. He has pain 
+when his abdomen is palpated but otherwise none. No recent abx. 
+Other people ate the pizza but he was the only one who got sick. 
+No chest pain, cough, sore throat, dysuria. No neck stiffness, 
+no photophobia. + pounding headache without changes in visual 
+sx. He has two dogs. A knife fell on his abdomen and he had 
+surgery for this ___ years ago. 
+ 
+
+In ER: (Triage Vitals: 0 |98.8 |117 |136/73 |18 |98% RA ) 
+Meds Given: 4l crystalloid, Zofran and toradol
+ Radiology Studies: RUQ US
+ERCP notified via the ED dashboard.
+.
+ED assessment: 
+admit for fever, transaminitis, n/v difficulty with po; pt does 
+not feel safe for d/c as he does not feel like he will be able 
+to arrange follow up with PCP in ___ timely manner
+++++++++++++++++++++++
+REVIEW OF SYSTEMS:
+A ten point ROS is otherwise negative except as noted above. 
+ 
+
+ 
+Past Medical History:
+Abdominal surgery ___ years 
+No htn, no dm
+ 
+Social History:
+___
+Family History:
+His father died at age ___ from lung cancer. 
+ 
+Physical Exam:
+Vitals:  100.9 PO 133 / 72 100   94 
+CONS: Ill and fatigued but non-toxic appearing male. He is very 
+pleasant.   
+HEENT: injected sclerae b/l   
+CV: s1s2 rr no m/r/g  
+RESP: b/l ae no w/c/r  
+GI: +bs, soft, ND, no guarding or rebound, + RUQ tenderness. 3 
+2cm well healed scars present on abdomen 
+MSK:no c/c/e 2+pulses  
+SKIN: no rash  
+NEURO: face symmetric speech fluent  
+PSYCH: calm, cooperative  
+
+DISCHARGE EXAM:
+VS:  T 98.8 BP 122 / 74 HR 89 RR 18 O2 sat 95 RA   
+Gen: NAD, resting
+Eyes: EOMI, no scleral icterus
+HENT: NCAT, trachea midline
+CV: RRR, S1-S2, no m/r/r/g, no edema, 2+ ___ BLE
+Lungs: CTA B, no w/r/r/c
+GI: +BS, soft, NTTP, ND, no RUQ tenderness for me on exam
+GU: No foley
+MSK: ___ strength bilaterally, intact ROM
+Neuro: Moving all extremities, no focal deficits, A+Ox3
+Skin: Left great toe inflammation, warmth, mild pain with TTP, 
+no fluctuance
+Psych: Congruent affect, good judgment
+
+ 
+Pertinent Results:
+___ 10:45PM URINE  HOURS-RANDOM
+___ 10:45PM URINE  UHOLD-HOLD
+___ 10:45PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 10:45PM URINE  BLOOD-SM  NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 10:45PM URINE  RBC-10* WBC-3 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 10:45PM URINE  HYALINE-3*
+___ 10:45PM URINE  AMORPH-RARE
+___ 10:45PM URINE  MUCOUS-RARE
+___ 10:40PM   LACTATE-1.4
+___ 10:35PM   GLUCOSE-114* UREA N-22* CREAT-1.2 SODIUM-134 
+POTASSIUM-3.8 CHLORIDE-97 TOTAL CO2-24 ANION GAP-17
+___ 10:35PM   estGFR-Using this
+___ 10:35PM   ALT(SGPT)-172* AST(SGOT)-139* ALK PHOS-68 TOT 
+BILI-1.0
+___ 10:35PM   LIPASE-28
+___ 10:35PM   ALBUMIN-4.6
+___ 10:35PM   WBC-8.7 RBC-5.44 HGB-16.9 HCT-49.7 MCV-91 
+MCH-31.1 MCHC-34.0 RDW-11.9 RDWSD-39.6
+___ 10:35PM   NEUTS-89.3* LYMPHS-7.1* MONOS-3.2* EOS-0.0* 
+BASOS-0.1 IM ___ AbsNeut-7.74* AbsLymp-0.62* AbsMono-0.28 
+AbsEos-0.00* AbsBaso-0.01
+___ 10:35PM   ___ PTT-28.0 ___
+___ 10:35PM   PLT COUNT-150
+++++++++++++++++++++++
+ADMISSION RUQ US
+IMPRESSION:  
+1. Cholelithiasis without evidence of cholecystitis. No intra or 
+
+extrahepatic duct dilation. 
+2. Echogenic liver consistent with steatosis. Other forms of 
+liver disease 
+and more advanced liver disease including steatohepatitis or 
+significant 
+hepatic fibrosis/cirrhosis cannot be excluded on this study. 
+
+CT a/p ___
+1. Cholelithiasis without findings of acute cholecystitis. 
+2. No other CT evidence to correlate with patient's clinical 
+symptoms. 
+
+DISCHARGE LABS
+___ 07:35AM BLOOD WBC-4.8 RBC-4.45* Hgb-13.7 Hct-40.1 
+MCV-90 MCH-30.8 MCHC-34.2 RDW-11.6 RDWSD-37.9 Plt ___
+___ 07:35AM BLOOD Glucose-92 UreaN-12 Creat-0.9 Na-138 
+K-3.5 Cl-103 HCO3-24 AnGap-15
+___ 07:35AM BLOOD ALT-216* AST-75* AlkPhos-49 TotBili-0.7
+___ 07:35AM BLOOD Calcium-8.2* Phos-2.2* Mg-2.0
+___ 03:10PM BLOOD HBsAg-Negative HBsAb-Positive HAV 
+Ab-Positive IgM HBc-Negative IgM HAV-Negative
+ 
+Brief Hospital Course:
+ Mr. ___ is a ___ yo M with no significant PMH presented to
+___ ___ with fever, nausea, vomiting and diarrhea
+with elevated transaminases. 
+
+# Sepsis - Symptoms started in last ___ days. No sick contacts. 
+No travel, No alcohol use. No hematochezia or melena. No tick 
+bites, flu like symptoms or other findings. No IVDA. Started on 
+cipro/flagyl to cover for intrabdominal source with elevated 
+AST/ALT. Originally to 300s/200s respectively but trended down 
+on second day of admission. CT a/p without GI source as well as 
+RUQ u/s. Plt mildly low at 115 with INR 1.4. Pt was able to 
+tolerate food with minimal diarrhea, afebrile, and ambulating at 
+time of discharge. Abx d'c'd after 48 hours. Cdiff/noravirus 
+negative. 
+- f/u in clinic with PCP 1 week for labs (check INR, CBC 
+especially platelets). 
+- will f/u on final cultures
+
+# N/V/Diarrhea - 
+# RUQ Pain -  Elevated liver enzymes - No WBC. INR 1.3. ALT 172,
+AST 139. Tbili/ALKP WNL pending am labs. stool studies pending.
+?viral gastroenteritis but with LFT elevation will cover for
+ascending cholangitis. RUQ u/s neg for cholecystitis. Lipase 28. 
+HAV/HBV serology negative (vaccinated).
+
+# Thrombocytopenia - New on most recent labs this afternoon. No
+confusion, no asterixis. Plt 150-->130-->115 in the setting of 
+INR 1.3
+and elevated AST/ALT. Workup above for viral/liver pathology. No
+anemia. Lab check in 1 week
+
+# ?Acute Gout - during admission developed acute Left toe pain 
+on exam that was red, hot and inflamed. Pt does not have h/o 
+gout but exam diagnostic. Avoiding prednisone with? infection. 
+Colchicine can cause diarrhea so will hold unless worsening
+- script given for colchicine if toe pain worsens. 
+
+# Functional status:  Ambulatory
+# Code status: Full  
+# Contact: ___ Nurse daughter ___
+# Dispo: home without services
+
+Discharge took > 30 minutes with arranging outpatient f/u and 
+discussing with family.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Colchicine 0.6 mg PO BID 
+Please start this medication if your big toe continues to be 
+painful. Twice daily for 7 days.  
+RX *colchicine 0.6 mg 1 tablet(s) by mouth twice a day Disp #*14 
+Tablet Refills:*0 
+2.  Ondansetron ODT 4 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth q8hr Disp #*30 Tablet 
+Refills:*0 
+3.Outpatient Lab Work
+LFT, CBC, BMP
+___, MD
+___
+ICD 9: 558.9
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. Sepsis ___ GI source
+2. N/V/Diarrhea
+3. Elevated Transaminases
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure taking care of you during your 
+hospitalization. You presented with nausea, vomiting and 
+diarrhea concerning for infection due to recurrent fevers. You 
+had multiple imaging that did not show infection and were placed 
+an antibiotics for treatment. 
+ 
+Followup Instructions:
+___

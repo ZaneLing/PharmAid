@@ -1,0 +1,295 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Ceftra
+ 
+Attending: ___
+ 
+Chief Complaint:
+Breast pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI(4): Ms. ___ is a ___ female with the past medical
+history of anxiety, mastitis who presented with palpitations and
+chest tenderness.  Was at her job as a ___ when she felt
+sudden onset of palpitations associated with chest tenderness,
+SOB, lightheadedness, chills. Symptoms have been persistent.
+Feels if she stands up, she will pass out. She had a prior
+episode in the past in the setting of mastitis 3 months ago.
+Still feels tender in her left chest area. The tenderness 
+extends
+to her neck. Redness over breasts b/l. No nipple discharge. No
+abdominal pain, dysuria.
+
+In the ED she was found to be febrile to 102.7F. She was
+administered 2L NS, lorazepam, acetaminophen, ibuprofen, and
+vancomycin (0040).
+
+ROS: No shortness of breath. Some chest tightness. No dysuria. 
+No
+diarrhea.
+ 
+Past Medical History:
+L-knee dislocated and in a brace, but denies recent surgeries,
+travel, OCP.
+ 
+Social History:
+___
+Family History:
+Grandmother w/ MI x2 when she was ___. 1st degree relatives 
+without heart disease.
+ 
+Physical Exam:
+ADMISSION:
+==========
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD. Chest wall
+is tender above breasts only.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted. Erythema surrounding left
+areaola and extending superiorly. Erythema also above right
+areola.
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE:
+==========
+24 HR Data (last updated ___ @ 839)
+Temp: 99.0 (Tm 99.2), BP: 94/60 (94-109/60-74), HR: 80 (80-81),
+RR: 18 (___), O2 sat: 99% (98-99), O2 delivery: RA    
+GENERAL: NAD, lying comfortably in bed
+EYES: PERRL, anicteric sclerae
+ENT: OP clear
+CV: RRR, nl S1, S2, no M/R/G, no JVD
+RESP: CTAB, no crackles, wheezes, or rhonchi
+GI: + BS, soft, NT, ND, no rebound/guarding, no HSM
+GU: No suprapubic fullness or tenderness to palpation
+BREASTS: Significant improvement of erythema of the b/l breasts
+(which extends outward from the areola), minimal warmth and TTP,
+no clear masses, induration, or fluctuance; areolas with scaling
+b/l; unable to express discharge from nipples b/l
+NEURO: AOx3, CN II-XII intact, ___ strength in all extremities,
+sensation grossly intact throughout, gait testing deferred
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION:
+==========
+___ 08:50PM BLOOD WBC-19.1* RBC-4.32 Hgb-13.5 Hct-39.2 
+MCV-91 MCH-31.3 MCHC-34.4 RDW-13.2 RDWSD-43.7 Plt ___
+___ 08:50PM BLOOD Neuts-92.2* Lymphs-3.9* Monos-2.6* 
+Eos-0.4* Baso-0.4 Im ___ AbsNeut-17.57* AbsLymp-0.75* 
+AbsMono-0.49 AbsEos-0.08 AbsBaso-0.07
+___ 08:50PM BLOOD D-Dimer-324
+___ 08:50PM BLOOD Glucose-103* UreaN-11 Creat-0.8 Na-135 
+K-4.0 Cl-95* HCO3-24 AnGap-16
+___ 08:50PM BLOOD cTropnT-<0.01
+___ 07:30AM BLOOD Calcium-8.3* Phos-3.3 Mg-1.7 Cholest-134
+___ 07:30AM BLOOD Triglyc-50 HDL-75 CHOL/HD-1.8 LDLcalc-49
+___ 07:30AM BLOOD CRP-87.8*
+___ 10:42AM BLOOD HIV Ab-NEG
+___ 08:50PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+DISCHARGE:
+==========
+___ 09:06AM BLOOD WBC-7.4 RBC-3.86* Hgb-11.9 Hct-35.8 
+MCV-93 MCH-30.8 MCHC-33.2 RDW-13.2 RDWSD-44.5 Plt ___
+___ 09:06AM BLOOD Neuts-61.0 ___ Monos-10.4 Eos-3.3 
+Baso-1.1* Im ___ AbsNeut-4.49 AbsLymp-1.75 AbsMono-0.77 
+AbsEos-0.24 AbsBaso-0.08
+___ 09:06AM BLOOD Glucose-77 UreaN-7 Creat-0.6 Na-142 K-4.1 
+Cl-103 HCO3-25 AnGap-14
+___ 09:06AM BLOOD Calcium-9.5 Phos-3.6 Mg-2.1
+___ 09:06AM BLOOD CRP-116.2*
+
+WBC 7.4 (from 13.7), Hgb 11.9, Plt 280
+BMP WNL
+Ca/Mg/Phos WNL
+CRP 116 (from ___)
+ESR 2
+
+Prior:
+D-dimer 324
+Trop <0.01
+HIV neg (consented)
+
+UA (___): negative
+UCG: negative
+Utox: + cocaine
+
+Swab (nipple, ___: 
+- coag + staph aureus, sparse growth
+- grp B beta strep, rare growth
+- mixed bacterial flora
+BCx (___): pending x 2
+UCx (___): mixed flora
+
+IMAGING:
+========
+Breast U/S b/l (___):
+IMPRESSION:  
+No evidence of organized fluid collections in either breast
+involving the areas of clinical concern. 
+RECOMMENDATION(S): 
+When clinically appropriate, referral to ___ 
+___
+may be considered. 
+
+CXR (___):
+No acute cardiopulmonary process.  The mediastinum is not
+widened.
+
+EKG (___):
+NSR at 108 bpm, nl axis, PR 104, QRS 76, QTC 409, TW flattening
+lateral leads, no ischemic changes
+
+ 
+Brief Hospital Course:
+___ with hx of depression/anxiety and recent L-sided mastitis
+(s/p courses of amoxicillin and doxycycline) presenting with
+L-sided breast pain that progressed to bilateral involvement,
+fevers, and leukocytosis, concerning for bilateral mastitis, now
+improving.
+
+# Fever:
+# Leukocytosis:
+# Bilateral non-lactational mastitis:
+Patient has a recent hx of L-sided mastitis (___) for 
+which
+she was treated with amoxicillin and then doxycycline through
+urgent care centers in ___. She reported that the
+L-sided pain/erythema was improving until the day of admission,
+when she developed L-sided breast pain/erythema with associated
+fevers while at work. She was febrile to 102.7 on presentation
+with a leukocytosis to 19, with breast exam notable for L>R
+erythema and tenderness. On ___, she reported extension of pain
+to the R breast, with exam notable for b/l erythema without
+induration, masses, or fluctuance to suggest abscess. She has no
+hx of breast surgeries and has not breastfed in years. 
+Gynecology
+was consulted, and presentation was thought most consistent with
+non-lactational mastitis, likely periductal, although
+bilaterality is atypical. Swab of nipple discharge was growing
+rare staph aureus, grp B beta strep, and mixed bacterial flora 
+at
+discharge. HIV was tested and negative. DDx for non-lactational
+mastitis includes idiopathic granulomatous mastitis, although no
+solid masses were seen on b/l breast U/S done ___. U/S also
+showed no evidence of fluid collections or abscesses. She
+received doxycycline on admission but was broadened to 
+vancomycin
+on ___ in setting of spreading erythema. Pain was initial
+controlled with tylenol and tramadol. Given clinical 
+improvement,
+she was transitioned to clindamycin on ___ (given c/f MRSA,
+recent doxycycline, and allergy to Bactrim), with no recurrence
+of fevers and improvement in her leukocytosis, pain, and
+erythema. WBC had normalized to 7.4 at discharge. CRP, however,
+which was 87 on admission, had risen to 116 on discharge, likely
+a delayed inflammatory marker response to clinical improvement.
+Of note, patient's initial complaint of chest pain worse with
+inspiration was concerning for PE, but negative D-dimer in the 
+ED
+essential ruled out this diagnosis. ACS was thought equally
+unlikely given negative troponin and non-ischemic EKG. CXR was
+negative for PNA. Ms. ___ will continue clindamycin 300mg q6h
+for a 10d course, through ___. Given that she does not 
+currently
+have a PCP, she was assigned a new provider at ___, whom she
+will see on ___. In addition, she was referred to the ___, where she will be seen on ___ for further w/u of
+recurrent mastitis.
+
+# Depression/anxiety:
+Continued home Wellbutrin.
+
+# Cocaine use:
+# Tobacco use:
+Utox positive on admission for cocaine, which patient endorses
+using intermittently (never IV). Also endorses ___ cig/week.
+Tobacco and cocaine cessation were encouraged. 
+
+** TRANSITIONAL **
+[ ] clindamycin 300mg q6h through ___ (10d course)
+[ ] f/u BCx, NGTD at discharge
+[ ] f/u final nipple discharge culture
+[ ] f/u with PCP (___)
+[ ] f/u with ___ further w/u of recurrent 
+mastitis (___)
+
+# Contacts/HCP/Surrogate and Communication: ___ (mother) 
+___ 
+# Code Status/ACP: FULL (presumed)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. BuPROPion (Sustained Release) 300 mg PO QAM 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 500 mg PO Q6H:PRN Pain - Mild  
+2.  Clindamycin 300 mg PO Q6H 
+Continue through ___ 
+RX *clindamycin HCl 300 mg 1 capsule(s) by mouth every 6 hours 
+Disp #*29 Capsule Refills:*0 
+3.  BuPROPion (Sustained Release) 300 mg PO QAM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Bilateral non-lactational mastitits
+
+Secondary:
+Depression/anxiety
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital with breast pain and fevers, 
+concerning for an infection of the breasts (mastitis). You were 
+treated with antibiotics, with improvement in your symptoms. You 
+are being discharged on clindamycin, which you should take every 
+6 hours through ___.
+
+It will be important that you establish care with a primary care 
+doctor and with a breast specialist to determine the cause for 
+your recurrent infections.
+
+With best wishes for a speedy recovery,
+___ Medicine
+ 
+Followup Instructions:
+___

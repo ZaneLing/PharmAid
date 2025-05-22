@@ -1,0 +1,281 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p Fall, Transfer
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ M with PMHx hypothyroidism, smoker who presents as transfer 
+from ___.  Patient had a mechanical fall ___ 
+evening when he slipped down three icy stairs, falling onto his 
+left side. No head strike or LOC.  Noted immediate left sided 
+chest pain, aggravated by movement, alleviated by Tylenol and 
+Ultram.  On ___ evening, developed a productive cough with 
+terrible left sided rib pain with coughing.  Denies pleuritic 
+chest pain, fevers, chills.  Of note, endorses a few days prior 
+to mechanical fall of sore throat and rhinorrhea.  CT at 
+___ showed left sided rib fractures (___) and bilateral 
+lower lobe consolidation.  Transferred to ___ for trauma 
+surgery evaluation given multiple rib fractures.
+
+In the ED, initial VS were T98.4 HR74 BP124/75 RR16 96%RA  
+Exam notable for CTAB, L posterior rib ecchymosis, tender to 
+palpation over posterior left lower ribs 
+Labs showed MCV 101 Plt 93 BMP wnl
+Imaging CT showed left sided rib fractures (___) and bilateral 
+lower lobe consolidation.
+Received
+___ 06:19 IV Morphine Sulfate 4 mg   
+___ 06:19 IV Ondansetron 4 mg  
+___ 08:25 IV Levofloxacin 750 mg  
+___ 16:21 PO Acetaminophen 1000 mg  
+Transfer VS were T99.3 HR87 BP132/69 RR18 99%RA 
+Trauma Surgery were consulted who will follow patient. 
+Decision was made to admit to medicine for further management.  
+
+On arrival to the floor, patient reports HPI as above.  He is 
+requesting a lidocaine patch to place on ribs.  He is also 
+requesting a nicotine patch.  He states he drinks ___ drinks per 
+evening (averages 5 nights per week) but never has had any etoh 
+withdrawal symptoms.  
+
+REVIEW OF SYSTEMS:  
+(-) Fever, chills, night sweats, headache, vision changes, 
+shortness of breath, chest pain, abdominal pain, nausea, 
+vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, 
+dysuria, hematuria. 
+ 
+All other 10-system review negative in detail.  
+ 
+Past Medical History:
+Hypothyroidism
+Hx of Prostatitis
+CCY ___
+
+ 
+Social History:
+___
+Family History:
+Father deceased old age ___, Mother decreased sarcoidosis age ___
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=======================
+VS: T98.5 BP124/61 HR72 RR20 99RA
+GENERAL: NAD, sitting up in bed reading a book  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, good dentition  
+NECK: nontender supple neck, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+CHEST: Left lateral ecchymosis, ttp L mid rib cage
+ABDOMEN: protuberant abdomen, +BS, nontender in all quadrants, 
+no rebound/guarding
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact, no focal deficits 
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+
+DISCHARGE PHYSICAL EXAM:
+=======================
+VS: T98.1 BP148/78 HR66 RR18 96RA
+GENERAL: NAD, sitting up at edge of bed eating breakfast, NAD
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM, good dentition  
+NECK: nontender supple neck, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+CHEST: Left lateral ecchymosis, ttp L mid rib cage
+ABDOMEN: protuberant abdomen, +BS, nontender in all quadrants, 
+no rebound/guarding
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: CN II-XII intact, no focal deficits 
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 06:15AM BLOOD WBC-4.8 RBC-4.03* Hgb-14.3 Hct-40.6 
+MCV-101* MCH-35.5* MCHC-35.2 RDW-12.1 RDWSD-45.3 Plt Ct-93*
+___ 06:15AM BLOOD Neuts-72.4* Lymphs-15.8* Monos-7.9 
+Eos-2.9 Baso-0.6 Im ___ AbsNeut-3.49 AbsLymp-0.76* 
+AbsMono-0.38 AbsEos-0.14 AbsBaso-0.03
+___ 06:15AM BLOOD Glucose-83 UreaN-8 Creat-0.6 Na-138 K-4.5 
+Cl-98 HCO3-26 AnGap-19
+
+DISCHARGE LABS:
+==============
+___ 07:06AM BLOOD WBC-4.2 RBC-4.26* Hgb-14.5 Hct-43.1 
+MCV-101* MCH-34.0* MCHC-33.6 RDW-12.2 RDWSD-45.9 Plt ___
+___ 07:06AM BLOOD Glucose-103* UreaN-9 Creat-0.7 Na-137 
+K-4.3 Cl-98 HCO3-29 AnGap-14
+___ 07:06AM BLOOD Calcium-9.1 Phos-3.3 Mg-2.2
+
+STUDIES/REPORTS:
+===============
+___ CT CHEST W/O CONTRAST ___: Unopacified 
+Pulmonary arterial tree: Unremarkable
+Thoracic aorta: Unremarkable
+Lungs: Lower lobe dependent atelectasis consolidation, 
+costophrenic
+regions both sides.
+Tracheobronchial tree: Right-sided lower lobe airways 
+thickening, and
+possibly secretions or mucous plugs, suggesting bronchitis.
+Pleura: Small amount of left pleural fluid. No left 
+pneumothorax.
+Heart, pericardium: Coronary artery calcification.
+Mediastinum: No emphysema, no significant adenopathy.
+Thoracic esophagus: Within normal limits
+Thoracic skeleton: Hairline left posterior lateral ninth rib 
+fracture
+without displacement. Slightly displaced posterior lateral left 
+eighth
+rib fracture. Half shaft width left posterior lateral seventh 
+rib
+fracture noted. Adjacent extrapleural soft tissue swelling.
+Upper abdomen imaged: Fatty liver, otherwise negative. Prior
+cholecystectomy, no hemoperitoneum or free air. Possibly mild 
+colonic
+ileus pattern, air-fluid levels in the colon. Right 3 mm renal
+calculus nonobstructing seen in the upper collecting system.
+Chest wall soft tissues: No hematoma.
+ 
+CONCLUSIONS:
+1. Acute slightly displaced left seventh through ninth fractures 
+as
+noted with extrapleural soft tissue swelling, small left pleural
+effusion. No pneumothorax.
+2. Lower lobe atelectasis and subpleural costophrenic 
+consolidations,
+possibly pneumonia. Accompanying right lower lobe bronchitis, 
+clinical
+correlation advised.
+3. Incidental fatty liver. Cholecystectomy. Other incidental 
+findings
+below the diaphragm.
+
+MICRO:
+=====
+NONE
+ 
+Brief Hospital Course:
+___ M with PMHx hypothyroidism who was admitted as a trauma 
+transfer from ___ with left rib fractures (___) after a 
+mechanical fall found to have multi-lobar pneumonia. CT Chest 
+revealed hairline left posterior lateral 9th rib fracture with 
+displacement, slight displacement posterior lateral left 8th rib 
+fracture, and half shaft width left posterior lateral 7th rib 
+fracture with lower lobe atelectasis and subpleural costophrenic 
+consolidations. Trauma surgery consulted with no surgical 
+interventions or follow up. Decision made to treat pneumonia 
+with Levofloxacin (___) for ___uring admission, 
+patient reported good control with ibuprofen, tylenol, and 
+lidocaine patch to left ribs.  Discharged with instructions to 
+alternative ibuprofen and tylenol and to take ultram for severe 
+pain as needed as was prescribed by outside provider.  Given 
+prescription for lidocaine ointment and incentive spirometer. 
+
+TRANSITIONAL ISSUES:
+===================
+- Patient noted to have thrombocytopenia on admission, nadir 
+91k, which is chronic issue per patient. Please follow up 
+outpatient. 
+
+Discharge Medications
+NEW 
+- Levofloxacin 750 mg PO Q24H (___) x 5 day course 
+- Lidocaine 5% Ointment 1 Appl TP ONCE left flank 
+SAME 
+- Levothyroxine Sodium 200 mcg PO DAILY 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 200 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Levofloxacin 750 mg PO Q24H 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0 
+2.  Lidocaine 5% Ointment 1 Appl TP ONCE left flank as needed 
+for pain Duration: 1 Dose 
+RX *lidocaine 5 % Please apply to left flank two to three times 
+per day Disp #*1 Tube Refills:*0 
+3.  Levothyroxine Sodium 200 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Rib Fractures (___)
+Community Acquired Pneumonia
+
+Secondary Diagnosis:
+Thrombocytopenia
+Hypothyroidism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital after you fell on your side 
+and fractured your ribs.  You were found to have a pneumonia.  
+You were started on antibiotics for your pneumonia.  The trauma 
+surgeons evaluated you and you do not need any specific 
+intervention for your rib fractures.
+
+- Please take your antibiotics as prescribed.
+- You can buy Tylenol and ibuprofen at the pharmacy and take as 
+prescribed for pain.  Do not take ibuprofen for more than 3 days 
+consistently.
+- You were prescribed topical lidocaine that you should rub onto 
+gauze before taping to your left ribs.
+- If your pain is really severe, you can take your tramadol that 
+was prescribed for you from your primary care doctor's office
+- Use your incentive spirometer at home to help make sure you 
+continue to breathe deeply.
+
+Please call your primary care doctor's office ___ to schedule 
+a follow up appointment for this hospitalization.
+
+Please seek immediate medical attention if you develop 
+difficulty breathing, worsening cough, or worsening rib pain.
+
+We wish you the best of health moving forward,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

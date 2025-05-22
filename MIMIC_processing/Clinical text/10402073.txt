@@ -1,0 +1,390 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___
+ 
+Chief Complaint:
+Speech disturbance; right face, arm, and leg weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Patient is an ___ year old right handed woman with past medical
+history of atrial fibrillation not on anticoagulation whom
+presents as transfer from ___ with suspected left MCA
+syndrome and consideration of possible thrombectomy. 
+
+Patient's history was obtained after speaking to her neighbor
+whom is her health care proxy on the phone. 
+
+Patient's neighbor reports that she had a conversation with
+patient on the phone at about 5:00 ___ and patient was in normal
+state of health and without dysarthria.
+
+Patient at about 9:30 ___ arrived at neighbor's door and was
+signaling for help.  Patient could not speak and had a right
+facial droop.  Patient could walk on her own and did not look
+unsteady.  
+
+EMS was immediately called and neighbor noticed that the patient
+could not reliably follow any directions on both sides of body.
+
+Patient was taken to ___.  Patient's initial images were
+of poor quality and it could not be determined if there was
+proximal major vessel cutoff.  Patient was transferred to ___
+for escalation of care by ground transportation.   
+
+Per neighbor, patient is very independent at baseline and
+requires no assistance with activities of daily living. 
+Patient's
+neighbor had patient's home medications and they are:
+Aspirin 81 mg daily 
+Metoprolol 25 mg BID 
+Torsemide 20 mg daily 
+Dorzolamide eye drops, 1 drop in right eye twice daily  
+Latanoprost eye drop, 1 drop in right eye twice daily 
+
+Patient's neighbor knew that patient had atrial fibrillation, 
+but
+did not know why she was not on anticoagulation. 
+
+ 
+Past Medical History:
+Atrial fibrillation not on anticoagulation, reason unknown 
+Chronic swelling of her legs
+Right eye problems, neighbor did not know issue 
+
+ 
+Social History:
+Patient lives alone in a home.  Patient's husband lives in a
+nursing home and has severe alzheimer's disease.  Patient has no
+children and no other family.  
+
+Modified Rankin Scale:
+[x] 0: No symptoms
+[] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+[] 3: Moderate disability: requires some help but able to walk
+unassisted
+[] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+[] 6: Dead
+
+ 
+Family History:
+Neighbor does not know, not pertinent to this admission. 
+
+ 
+Physical Exam:
+ADMISSION EXAMINATION
+=====================
+Vitals: 
+Temperature: 97.8
+Blood pressure: 149/98
+Heart rate: 67
+Oxygen saturation: 95% 
+
+General physical examination: 
+General: Comfortable and in no distress 
+Head: No irritation/exudate from eyes, nose, throat 
+Neck: Supple with no pain to flexion or extension 
+Cardio: Regular rate and rhythm, warm, no peripheral edema 
+Lungs: Unlabored breathing 
+Abdomen: Soft, non tender, non distended 
+Skin: No rashes or lesions 
+
+Neurologic:
+Mental status: 
+Patient alert, crying, appears very frustrated and confused. 
+Patient is trying to communicate, but examiner cannot understand
+what she is trying to say (broken words). 
+
+Cranial nerves: 
+Patient with post surgical fixed right ovoid pupil, left pupil
+briskly reactive to light.  EOMI grossly normal, but cannot
+formally test.  Facial sensation intact.  Right lower quadrant
+facial droop.  Hearing intact.  Patient will not open mouth. 
+Shoulders sit symmetrically. 
+
+Motor examination: 
+Patient will not comply for formal examination.  Patient's left
+side of the body is strongly antigravity.  Patient's right arm
+when lifted at the shoulder quickly falls back the bed.  Patient
+with antigravity ability to flex at elbow. Patient with right
+wrist drop and her fingers are held in flexion.  Of note, the
+movement of the right upper extremity is greatly improved from
+initial presentation when it appeared densely plegic.  Patient's
+right lower extremity is strongly antigravity.    
+
+Sensation: 
+Patient signals that she appreciates sensation of crude touch in
+upper and lower extremities.  Patient without tactile neglect. 
+
+Coordination:
+Could not assess 
+
+Reflexes: 
+Patient would not relax for examination.  No pectoral or cross
+abductor reflexes.  Ankle reflexes symmetric.  Strong withdrawal
+to plantar reflexes.
+
+Gait: 
+Deferred.  
+
+DISCHARGE EXAMINATION
+=====================
+ Vitals: Temp: 98.2 (Tm 98.5), BP: 103/59 (93-120/42-72), HR: 73
+(72-88), RR: 18 (___), O2 sat: 96% (92-100), O2 delivery: RA  
+ General: awake, cooperative, NAD
+ HEENT: NC/AT, no scleral icterus noted, MMM
+ Pulmonary: breathing comfortably, no tachypnea or increased WOB
+ Cardiac: skin warm, well-perfused
+ Abdomen: soft, ND
+ Extremities: symmetric, no edema
+
+Neurologic:
+
+-Mental Status: Alert, cooperative. Non-fluent aphasia with
+impaired comprehension, though able to follow some midline and
+appendicular commands, and somewhat improved compared to prior. 
+
+-Cranial Nerves: No BTT in right field OD, though with limited
+visual acuity per patient. Face largely symmetric with
+activation. Hearing intact to conversation.
+
+-Motor: No pronator drift, able to maintain BUE and BLE against
+gravity.
+
+-Sensory: Deferred.
+
+-DTRs: ___.
+
+-Coordination: Deferred.
+ 
+Pertinent Results:
+___ 06:25AM BLOOD WBC-6.1 RBC-3.82* Hgb-11.4 Hct-35.7 
+MCV-94 MCH-29.8 MCHC-31.9* RDW-16.0* RDWSD-54.9* Plt ___
+___ 09:45AM BLOOD ___ PTT-30.0 ___
+___ 06:25AM BLOOD Glucose-81 UreaN-11 Creat-0.9 Na-146 
+K-4.2 Cl-111* HCO3-20* AnGap-15
+___ 09:45AM BLOOD ALT-25 AST-32 LD(LDH)-215 CK(CPK)-64 
+AlkPhos-45 TotBili-1.2
+___ 04:10AM BLOOD Calcium-8.8 Phos-4.2 Mg-2.4
+___ 09:45AM BLOOD GGT-28
+___ 09:45AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 09:45AM BLOOD %HbA1c-5.4 eAG-108
+___ 09:45AM BLOOD Triglyc-97 HDL-49 CHOL/HD-3.1 LDLcalc-85
+___ 09:45AM BLOOD TSH-3.6
+___ 09:45AM BLOOD CRP-2.4
+
+___ 02:18AM URINE Color-Straw Appear-Clear Sp ___
+___ 02:18AM URINE Blood-NEG Nitrite-NEG Protein-TR* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.5 Leuks-NEG
+___ 02:18AM URINE RBC-1 WBC-2 Bacteri-NONE Yeast-NONE Epi-0
+
+___ 2:18 am URINE
+                            **FINAL REPORT ___
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+___ 1:28 AM CTA HEAD AND CTA NECK; CT BRAIN PERFUSION 
+1. Study is degraded by motion and dental amalgam streak 
+artifact, especially limiting evaluation of the posterior fossa. 
+
+2. Within limits of study, no definite acute intracranial 
+hemorrhage.  Please note MRI of the brain is more sensitive for 
+the detection of acute infarct. 
+3. CT perfusion demonstrates increased mean transit time with 
+areas of mildly decreased cerebral blood flow within the left 
+parietal temporal lobe.  If 
+clinically indicated, consider brain MRI for further evaluation. 
+
+4. Decreased distal arborization of the left M3/M4 branches, 
+which may 
+correlate with the area of decreased cerebral perfusion. 
+5. Punctate left expected P1 origin probable infundibulum versus 
+approximately 1 mm aneurysm. 
+6. Otherwise grossly patent intracranial and cervical carotid 
+and vertebral arteries. 
+7. 1.5 cm partially calcified inferior left thyroid nodule.  
+Please see 
+recommendation below. 
+8. Nonspecific cervical lymphadenopathy as described, image may 
+be reactive, however neoplastic or inflammatory etiologies are 
+not excluded on the basis of this examination.  Recommend 
+correlation with oncologic history. 
+9. Limited imaging lungs demonstrate moderate to severe 
+centrilobular 
+emphysematous changes with air trapping.  If clinically 
+indicated, consider dedicated chest imaging for further 
+evaluation. 
+
+___ 6:36 ___ CHEST (PORTABLE AP) 
+There is no opacity projecting along the periphery of the right
+mid lung which may reflect atelectasis and/or consolidation. 
+Patchy retrocardiac opacities likely also reflect atelectasis.
+There is no pneumothorax or large pleural effusion.  The size of
+the cardiac silhouette is mildly enlarged and there is a 
+tortuous
+thoracic aorta.  No radiodense foreign object is seen within the
+visualized thorax. 
+
+___ 6:36 ___ PORTABLE ABDOMEN 
+No radiopaque foreign object is identified within the abdomen or
+pelvis.
+
+Portable TTE ___ at 11:04:10 AM      
+Mild symmetric left ventricular hypertrophy with preserved 
+global
+and regional biventricular systolic function. Suggestion of
+elevated LV filling pressure and significant diastolic
+dysfunction. Mild aortic regurgitation. Moderate to severe 
+mitral
+regurgitation. Moderate pulmonary hypertension. Possible ASD 
+with
+left to right flow, a focused study with saline contrast may be
+considered for further evaluation if clinically indicated.  
+
+___ 9:41 AM VIDEO OROPHARYNGEAL SWALLOW 
+1.  Trace penetration of nectar thick liquids. 
+2.  Trace silent aspiration with thin liquids. 
+
+___ 8:50 AM MR HEAD W/O CONTRAST 
+1. Multiple foci of acute to subacute left MCA territory 
+infarct,
+likely thromboembolic given distribution pattern. 
+2. Sequelae of probable chronic small vessel ischemic disease. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is an ___ woman with history notable for 
+atrial fibrillation (not on anticoagulation), HFpEF, and 
+___ transferred from ___ after presenting with 
+aphasia and right face, arm, and leg weakness, found to have 
+multifocal L MCA ischemic infarcts. Thrombolytics not 
+administered due to presentation outside the tPA window, and CT 
+imaging of the head and neck otherwise negative for large vessel 
+occlusion amenable to thrombectomy. Mechanism of infarction 
+accordingly most likely atrial fibrillation not on 
+anticoagulation, which, per discussion with Ms. ___ PCP, 
+was due to patient preference. Accordingly, anticoagulation 
+initiated with apixaban to reduce risk of future strokes, along 
+with low-intensity atorvastatin therapy given likely 
+cardioembolic mechanism and low atherosclerotic burden on 
+imaging.
+
+Hospital course complicated by non-fluent aphasia and 
+dysarthria, for which SLP evaluation recommended modified diet.
+
+TRANSITIONAL ISSUES
+1. Continued SLP evaluation and advancement of diet as 
+indicated.
+2. Thyroid ultrasound to evaluate incidentally-noted left 
+thyroid nodule.
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack  
+ 1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed () No  
+ 2. DVT Prophylaxis administered? (x) Yes - () No  
+ 3. Antithrombotic therapy administered by end of hospital day 
+2? (x) Yes - () No  
+ 4. LDL documented? (x) Yes (LDL = 85) - () No  
+ 5. Intensive statin therapy administered? () Yes - (x) No [Low 
+atherosclerotic burden and cardioembolic mechanism of stroke]  
+ 6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]  
+ 7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+ 8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No. If no, why not? (I.e. patient at baseline 
+functional status)
+ 9. Discharged on statin therapy? () Yes - (x) No [Low 
+atherosclerotic burden and cardioembolic mechanism of stroke]  
+ 10. Discharged on antithrombotic therapy? (x) Yes [Type: () 
+Antiplatelet - (x) Anticoagulation] - () No  
+ 11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? (x) Yes - () No - () N/A  
+
+35 minutes were spent on discharge.
+ 
+Medications on Admission:
+1. Aspirin EC 81 mg PO DAILY 
+2. Metoprolol Tartrate 25 mg PO BID 
+3. Torsemide 20 mg PO DAILY 
+4. Dorzolamide 2% Ophth. Soln. 1 DROP RIGHT EYE BID 
+5. Latanoprost 0.005% Ophth. Soln. 1 DROP RIGHT EYE BID 
+
+ 
+Discharge Medications:
+1.  Apixaban 2.5 mg PO BID 
+RX *apixaban [Eliquis] 2.5 mg 1 (One) tablet(s) by mouth twice a 
+day Disp #*30 Tablet Refills:*0 
+2.  Atorvastatin 10 mg PO QPM 
+RX *atorvastatin 10 mg 1 (One) tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+3.  Dorzolamide 2% Ophth. Soln. 1 DROP RIGHT EYE BID  
+4.  Latanoprost 0.005% Ophth. ___. 1 DROP RIGHT EYE BID  
+5.  Metoprolol Tartrate 25 mg PO BID  
+6.  Torsemide 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Left middle cerebral artery ischemic infarct
+2. Atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ for 
+evaluation of speech disturbance and weakness on your right 
+side. CT and MRI scans of your head and neck showed that your 
+symptoms were due to a stroke. It is likely that your stroke was 
+due to a blood clot arising from your atrial fibrillation, so we 
+started you on a blood thinner (apixaban/Eliquis) to reduce your 
+risk of future strokes.
+
+Please follow up with your primary care provider within one week 
+of discharge from your acute rehabilitation facility. Please 
+also follow up with a neurologist within the next ___ months; 
+your primary care provider can help refer you to a neurologist.
+
+It was a pleasure taking care of you at ___.
+
+Sincerely,
+Neurology at ___
+ 
+Followup Instructions:
+___

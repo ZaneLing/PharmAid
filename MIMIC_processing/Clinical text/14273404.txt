@@ -1,0 +1,275 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Bisphosphonates / Accupril
+ 
+Attending: ___
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ with hx of hypertension, asthma and untreated sarcoidosis 
+(___) presenting with 1wk hx of worsening dyspnea on exertion 
+and fever. Last ___, she began having cold symptoms of 
+runny nose and cough. She visited urgent care on ___, and 
+despite being treated with prednisone and azithromycin for a 
+5day course, which ended on ___, her DOE worsened. She also 
+endorsed having 3days of fevers from ___ with max 100.5. She 
+then presented to ___ ED on ___ for worsening dyspnea.
+ 
+Past Medical History:
+SARCOIDOSIS  
+ASTHMA
+HYPERTENSION  
+OSTEOPOROSIS
+HYPERTENSION
+CARPAL TUNNEL SYNDROME
+CHOLELITHIASIS
+GERD
+MACULAR DEGENERATION  
+
+ 
+Social History:
+___
+Family History:
+- Mother died of scarlet fever age ___
+- Father died at ___ from MI
+- Brother has ___ disease
+ 
+Physical Exam:
+ADMISSION EXAM:
+Vitals:  T 97.7, BP 161/70, HR 72, RR 18, O2 sat 95% RA
+General: alert, oriented, dyspenic while speaking.
+HEENT: sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Atelectasis in bilateral lung bases. Expiratory wheezing. 
+No rales, ronchi  
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNs2-12 intact, motor function grossly normal
+
+==============================================
+DISCHARGE EXAM:
+Vitals: T 97.6, BP 102/64, HR 80, RR 18, O2 92% RA
+General: alert, oriented, dyspenic while speaking.
+HEENT: sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Crackles in bilateral lung bases. Expiratory wheezing 
+diffusely. No rales, ronchi. Peak flow test 160L/min on ___, 
+largely unimproved from ___ (125).
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-distended. LLQ tenderness. bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNs2-12 intact, motor function grossly normal  
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 05:55PM BLOOD WBC-9.1 RBC-4.94 Hgb-14.3 Hct-43.4 MCV-88 
+MCH-28.9 MCHC-32.9 RDW-13.1 RDWSD-41.8 Plt ___
+___ 05:55PM BLOOD Neuts-87.9* Lymphs-7.3* Monos-3.5* 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-7.97* AbsLymp-0.66* 
+AbsMono-0.32 AbsEos-0.00* AbsBaso-0.01
+___ 05:55PM BLOOD ___ PTT-28.1 ___
+___ 05:55PM BLOOD Glucose-139* UreaN-21* Creat-0.8 Na-137 
+K-5.2* Cl-97 HCO3-29 AnGap-16
+___ 05:55PM BLOOD proBNP-406
+___ 05:55PM BLOOD Calcium-9.7 Phos-3.8 Mg-2.2
+___ 06:09PM BLOOD Lactate-2.3* K-4.1
+
+=========================================
+DISCHARGE LABS
+___ 05:49AM BLOOD WBC-15.4* RBC-3.80* Hgb-11.0* Hct-34.1 
+MCV-90 MCH-28.9 MCHC-32.3 RDW-13.9 RDWSD-45.1 Plt ___
+___ 05:49AM BLOOD Plt ___
+___ 05:49AM BLOOD Glucose-83 UreaN-28* Creat-0.8 Na-140 
+K-3.8 Cl-98 HCO3-27 AnGap-19
+___ 05:49AM BLOOD Calcium-9.1 Phos-4.1 Mg-2.___RIEF SUMMARY STATEMENT:
+=============================
+Ms. ___ is an ___ with history of hypertension, asthma, 
+and untreated sarcoidosis (___) presenting with 1wk hx of 
+worsening DOE and fever, in the setting of upper respiratory 
+infection-like symptoms, including cough and runny nose. 
+CT-Angiogram, Chest x-ray, EKG showed no signs of pulmonary 
+embolism, pneumonia, or ischemic changes respectively. She was 
+treated with prednisone 60mg PO, ipratroprium and albuterol 
+nebulizers, home advair, and guaifenesin with improvement in her 
+clinical symptoms. However, her peak flow measurement did not 
+improve significantly from 160L/min. At time of discharge, she 
+was satting well on room air at rest and with ambulation. 
+
+SUMMARY OF ACTIVE ISSUES:
+=============================
+On arrival to the ED, patient was afebrile, not tachycardic, 
+with tachypnea (RR 24). His physical exam was notable for 
+bilateral wheezing and dyspnea while speaking, and did not have 
+any signs of volume overload. CT-A chest showed no evidence of 
+pulmonary embolism, although it did confirm the calcified hilar 
+lymphadenopathy and calcified granulomas, likely related to her 
+known history of sarcoidosis. Chest x-ray showed hyperinflation 
+without acute cardiopulmonary processes. Flu swab was negative. 
+Troponin was negative. Labs were significant for normal CBC's 
+and BNP 406. 
+
+On admission, she was initially treated with prednisone 60mg, 
+duonebs, albuterol neb, home advair, and incentive spirometry. 
+She did not require any supplemental oxygen. Her peak flow 
+measurement was 125L/min, which is significantly low. Despite 
+continued treatment, both her peak flow measurement and clinical 
+symptoms did not significantly improve. A repeat chest x-ray on 
+___ revealed no changes from the one obtained in the ED. 
+Pulmonology was consulted on ___, who agreed with our treatment 
+plan, and endorsed that she most likely had a post-viral 
+reactive airways syndrome on the background of underlying 
+obstructive pulmonary disease that would take couple weeks to 
+resolve fully. Antibiotics was not recommended in the setting of 
+being afebrile and chest x-ray showing no focal consolidations. 
+She was also given a pulmonary toilet and flutter valve. On the 
+day of discharge, she endorsed not being dyspneic with 
+activities, although peak flow measurement was 160L/min.
+
+On ___ ___, she also endorsed left lower quadrant pain. She 
+denied fever, rebound tenderness or guarding. This was 
+determined to be most likely a muscle strain from coughing and 
+voluntarily walking long distances on the hospital floor. She 
+was treated with Tylenol PRN and lidocaine patch PRN to good 
+effect.
+
+Throuhgout her admission, her Hgb, which was 14.3 on admission, 
+steadily decreased to (___) 11.0 on discharge. She did not have 
+any symptoms or signs of bleeding, so no treatment was given. 
+
+Of note, the patient admits an unwitnessed episode of controlled 
+fall without headstrike in the bathroom on ___. As per the 
+patient, while she was rising from the toilet, she fell forward 
+onto her elbows without headstrike. She denied lightheadedness, 
+dizziness, chest pain, or dyspnea. Following this episode, she 
+did not have any other incidents of falls.
+
+TRANSITIONAL ISSUES:
+=============================
+# DYSPNEA: Thought to be ___ URI with asthma exacerbation. 
+Please check peak flow as outpatient, and consider outpatient 
+PFTs
+# NEW MEDICATION: Prednisone Taper. Prednisone 40mg ___, 
+30mg ___, 20mg ___, 10mg ___, 5mg ___, 
+No more prednisone starting ___.
+# NEW MEDICATIONS: Albuterol inhaler as needed, guaifenesin as 
+needed, Tylenol as needed
+# PULM FOLLOW UP: Patient needs outpatient Pulm follow up, which 
+has been scheduled
+# ANEMIA: Hgb 14.3 on admission, 11.0 on discharge. No s/s 
+bleeding, but please check outpatient CBC. Will defer further 
+eval to PCP. 
+
+CODE STATUS: Full confirmed
+Contact: ___ ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID 
+2. Aspirin 81 mg PO DAILY 
+3. amLODIPine 5 mg PO DAILY 
+4. Hydrochlorothiazide 25 mg PO DAILY 
+5. Losartan Potassium 100 mg PO DAILY 
+6. Sertraline 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN 
+2.  Albuterol Inhaler ___ PUFF IH Q4H:PRN dyspnea 
+3.  GuaiFENesin ___ mL PO Q6H Cough with sputum 
+4.  PredniSONE 40 mg PO DAILY Duration: 3 Doses (___)
+5.  PredniSONE 30 mg PO DAILY Duration: 3 Doses (___)
+6.  PredniSONE 20 mg PO DAILY Duration: 3 Doses (___)
+7.  PredniSONE 10 mg PO DAILY Duration: 3 Doses (___)
+8.  PredniSONE 5 mg PO DAILY Duration: 3 Doses (___)
+9.  amLODIPine 5 mg PO DAILY  
+10.  Aspirin 81 mg PO DAILY  
+11.  Fluticasone-Salmeterol Diskus (500/50)  1 INH IH BID  
+12.  Hydrochlorothiazide 25 mg PO DAILY  
+13.  Losartan Potassium 100 mg PO DAILY  
+14.  Sertraline 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+- Asthma exacerbation
+
+SECONDARY DIAGNOSIS:
+- SARCOIDOSIS
+- HTN
+- Abdominal pain, likely secondary to muscle strain
+- Anemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent, however becomes short 
+of breath with mild activity.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted for shortness of breath with activity. 
+Considering your recent cough and runny nose before your 
+admission, you most likely had a viral infection that acutely 
+worsened your underlying asthma. A CT-scan of your chest showed 
+no blood clots in your lungs. Your chest x-ray showed no signs 
+of pneumonia. Your EKG showed no signs of heart attack.
+
+You were treated with steroids, inhalers, nebulizers, and 
+inspiratory spirometry. You became less wheezy and felt less 
+short of breath with activity. However your peak flow 
+measurement still shows that you have difficulty exhaling, 
+indicating that you may have an obstructive lung disease as 
+well. Your underlying sarcoidosis may also be contributing to 
+your difficulty breathing. The lung doctors here ___ your 
+PCP, ___, who is aware of your situation.
+
+PREDNISONE TAPER:
+- On ___, take 4 Prednisone pills daily
+- On ___, take 3 prednisone pills daily
+- On ___, take 2 prednisone pills daily
+- On ___, take 1 prednisone pill daily
+- On ___, take half of a prednisone pill daily
+- STOP Prednisone on ___
+
+On ___, you had new abdominal pain in the left lower belly. This 
+is most likely due to muscle strain in the setting of coughing 
+and pushing yourself to walk long distances within the hospital. 
+You agreed that the pain improved with the Tylenol and lidocaine 
+patch.
+
+Please continue your home advair and prescribed medications as 
+instructed.
+
+We wish you all the best in the future.
+- Your ___ Medicine team
+ 
+Followup Instructions:
+___

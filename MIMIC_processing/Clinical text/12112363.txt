@@ -1,0 +1,292 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___
+ 
+Major Surgical or Invasive Procedure:
+EGD
+
+ 
+History of Present Illness:
+___ on aspirin and plavix with a complex cardiac history 
+including a CABG in ___, followed by PCI to grafts in ___, 
+hypertension, and hyperlipidemia who presents with 4 days of 
+dizziness and dark black stools. 
+
+Patient states that he was in his normal state of health until 
+about 4 days ago when he started feeling more fatigues and 
+dizzy. He felt like he would pass out on exertion. The symptoms 
+had been constant for the last 4 days. He additionally noted 
+dark brown/black stools once per day, no increased frequency or 
+diarrhea. No chest pain, shortness breath, abdominal pain, 
+urinary symptoms, fevers or chills. He has never had a GI bleed 
+before and has no prior colonoscopy or endoscopy.
+
+His last know hgb was checked by his PCP office in ___ and at 
+the time was 15. 
+
+In the ED, initial vitals:  97 70 122/47 20 100% RA 
+ - Exam notable for:  heme positive black stools. No abdominal 
+tenderness. Hemodynamically stable.
+ - Labs notable for: hgb 8.9, wc 8.7, plt 222, chem 7 normal 
+ - Imaging notable for: none 
+ - Patient was given: IV pantoprazole   
+ - Consults: GI  
+ - Vitals prior to transfer: 97.6 63 120/63 14 99% RA 
+ 
+On arrival to the floor, he is able to ambulate without issues 
+and endorses the history as above.
+ 
+Past Medical History:
+CORONARY ARTERY DISEASE s/p CABG ___, s/p PCI ___
+HYPERCHOLESTEROLEMIA 
+ 
+Social History:
+___
+Family History:
+Father died of an MI at age ___, mother is s/p cabg at age ___  
+ 
+ 
+Physical Exam:
+ADMISSION EXAM
+=========================
+VS: 97.8 109 / 63 64 20 98 Ra
+ GENERAL: Pleasant, lying in bed comfortably  
+ HEENT: no LAD, ___
+ CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+
+ LUNG: Appears in no respiratory distress, clear to auscultation 
+bilaterally, no crackles, wheezes, or rhonchi  
+ ABD: Normal bowel sounds, soft, nontender, nondistended, no 
+hepatomegaly, no splenomegaly  
+ EXT: Warm, well perfused, no lower extremity edema  
+ PULSES: 2+ radial pulses, 2+ ___ pulses, 2+ DP pulses  
+ NEURO: Alert, oriented, CN II-XII intact, motor and sensory 
+function grossly intact  
+
+DISCHARGE EXAM
+=========================
+VS Temp: 98.0 PO BP: 101/65 R Lying HR: 73 RR: 18 O2 sat: 99% O2 
+delivery: Ra 
+GENERAL: Pleasant, lying in bed comfortably  
+HEENT: no LAD, ___
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation 
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no 
+hepatomegaly, no splenomegaly  
+EXT: Warm, well perfused, no lower extremity edema  
+PULSES: 2+ radial pulses, 2+ ___ pulses, 2+ DP pulses  
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory 
+function grossly intact  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===========================
+___ 05:40PM   WBC-9.5 RBC-3.05* HGB-8.9* HCT-26.7* MCV-88 
+MCH-29.2 MCHC-33.3 RDW-13.8 RDWSD-42.2
+___ 05:40PM   PLT COUNT-223
+___ 01:15PM   GLUCOSE-117* UREA N-11 CREAT-0.8 SODIUM-139 
+POTASSIUM-4.0 CHLORIDE-101 TOTAL CO2-23 ANION GAP-15
+___ 01:15PM   estGFR-Using this
+___ 01:15PM   WBC-8.7 RBC-3.01* HGB-8.9* HCT-26.5* MCV-88 
+MCH-29.6 MCHC-33.6 RDW-13.5 RDWSD-42.0
+___ 01:15PM   NEUTS-67.1 ___ MONOS-8.4 EOS-1.2 
+BASOS-0.5 IM ___ AbsNeut-5.84 AbsLymp-1.92 AbsMono-0.73 
+AbsEos-0.10 AbsBaso-0.04
+___ 01:15PM   PLT COUNT-222
+___ 01:15PM   ___ PTT-26.7 ___
+
+DISCHARGE LABS
+===========================
+___ 06:00AM BLOOD WBC-7.4 RBC-2.84* Hgb-8.3* Hct-25.6* 
+MCV-90 MCH-29.2 MCHC-32.4 RDW-14.2 RDWSD-45.2 Plt ___
+___ 06:00AM BLOOD Glucose-100 UreaN-9 Creat-0.9 Na-144 
+K-4.0 Cl-105 HCO3-25 AnGap-14
+
+IMAGING
+===========================
+EGD: 
+Esophagus:Normal esophagus.
+Stomach:
+Excavated LesionsMultiple erosions were noted in the antrum. 
+Duodenum:Normal duodenum.
+Impression:Erosions in the antrum
+Otherwise normal EGD to third part of the duodenum
+Recommendations:The findings account for the symptoms
+High dose PPI for 8 weeks, then regular dose daily indefinitely
+Test stool for H pylori, treat if positive
+Ok to restart all antiplatelet agents
+Follow up with regular providers
+___ ongoing blood loss, recurrent melena or failure to recover 
+counts, recommend outpatient colonoscopy +/- capsule
+
+MICRO
+===========================
+  HELICOBACTER PYLORI ANTIBODY TEST (Pending)
+
+ 
+Brief Hospital Course:
+====================
+PATIENT SUMMARY:
+====================
+___ on aspirin and plavix with a complex cardiac history 
+including a CABG in ___, followed by PCI to grafts in ___, 
+hypertension, and hyperlipidemia who presents with 4 days of 
+dizziness and dark black stools. 
+
+====================
+ACUTE ISSUES:
+====================
+# Melena: 
+Hgb 15 in ___, downtrended to 8.9 on admission ___ associated 
+symptoms of fatigue, pre-syncope, daily episodes of melena. His 
+CBCs were trended closely and remained stable without 
+transfusions. He did not have recurrent melena in the hospital. 
+He remained hemodynamically stable. He was treated with an IV 
+PPI and his DAPT was held. He underwent EGD on ___ which was 
+notable for antral erosions. 
+-He should continue on high dose PPI for 8 weeks, then regular 
+dose daily indefinitely
+-Serum H pylori pending on discharge; consider checking stool 
+for H pylori and treating if positive as an outpatient
+-Consider iron supplementation 
+
+# CAD: 
+S/p CABG in ___, followed by PCI to grafts in ___, cath in 
+___ with 99% stenosis in the proximal segment of the SVG to RCA 
+and a 99% stenosis at the anastomosis of the LIMA to LAD within 
+the stent. His ASA was decreased from 325 to 81 and his plavix 
+was stopped due to the GI bleed. He was continued on atenolol, 
+atorvastatin, and Lisinopril on discharge. 
+
+====================
+CHRONIC ISSUES:
+====================
+#HLD: Continued atorvastatin 40
+
+#HTN: Continued lisinopril 10
+====================
+TRANSITIONAL ISSUES:
+====================
+[]Decreased ASA 325 to 81 and stopped plavix. Needs to follow up 
+with outpatient cardiologist to review and further discuss these 
+medication changes. 
+[]He should continue on high dose PPI for 8 weeks, then regular 
+dose daily indefinitely
+[]Serum H pylori pending on discharge; consider checking stool 
+for H pylori and treating if positive as an outpatient
+[]Consider iron supplementation 
+
+- New Meds: pantoprazole
+- Stopped/Held Meds: plavix 
+- Changed Meds: aspirin
+- Follow-up appointments: PCP, ___, GI
+- Post-Discharge Follow-up Labs Needed: consider stool H. pylori 
+
+
+# CODE: full (presumed) 
+# CONTACT: ___, WIFE 
+Phone: ___ 
+Other Phone: ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO DAILY 
+2. Clopidogrel 75 mg PO DAILY 
+3. Lisinopril 10 mg PO DAILY 
+4. Fish Oil (Omega 3) 1000 mg PO BID 
+5. Atorvastatin 40 mg PO QPM 
+6. Multivitamins 1 TAB PO DAILY 
+7. Aspirin 325 mg PO DAILY 
+8. FoLIC Acid 3.2 mg PO DAILY 
+9. Vitamin B Complex 1 CAP PO DAILY 
+10. Ascorbic Acid ___ mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q12H Duration: 8 Weeks 
+You should continue on the high dose (twice daily) for x8 weeks 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth every twelve (12) 
+hours Disp #*60 Tablet Refills:*2 
+2.  Aspirin 81 mg PO DAILY  
+3.  Ascorbic Acid ___ mg PO DAILY  
+4.  Atenolol 25 mg PO DAILY  
+5.  Atorvastatin 40 mg PO QPM  
+6.  Fish Oil (Omega 3) 1000 mg PO BID  
+7.  FoLIC Acid 3.2 mg PO DAILY  
+8.  Lisinopril 10 mg PO DAILY  
+9.  Multivitamins 1 TAB PO DAILY  
+10.  Vitamin B Complex 1 CAP PO DAILY  
+11. HELD- Clopidogrel 75 mg PO DAILY  This medication was held. 
+Do not restart Clopidogrel until you follow up with your 
+Cardiologist
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+====================
+Melena; antral erosions
+Coronary artery disease
+
+SECONDARY DIAGNOSIS
+====================
+Hypertension
+Hyperlipidemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+   
+You came to ___ because you were having GI bleeding. You were 
+found to have an erosion in the antral, or bottom portion of 
+your stomach. Please see more details listed below about what 
+happened while you were in the hospital and your instructions 
+for what to do after leaving the hospital.  
+It was a pleasure participating in your care. We wish you the 
+best!  
+
+Sincerely,  
+Your ___ Care Team  
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL:  
+- You underwent an endoscopy which showed erosions in the antrum 
+of your stomach
+- You were treated with an intravenous proton pump inhibitor to 
+block acid production
+- You improved considerably and were ready to leave the hospital 
+ 
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL:  
+- Please follow up with your primary care doctor and other 
+health care providers (see below)  
+- Please take all of your medications as prescribed (see below). 
+ 
+- Seek medical attention if you have bleeding, fainting, 
+abdominal pain, chest pain, shortness of breath or other 
+symptoms of concern. 
+
+ 
+Followup Instructions:
+___

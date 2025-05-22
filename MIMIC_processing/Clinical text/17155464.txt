@@ -1,0 +1,212 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+tingling
+ 
+Major Surgical or Invasive Procedure:
+N/A
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ M w/ hx of lupus nephritis on CellCept, 
+prednisone taper, and tacrolimus who was referred in for 
+abnormal labs that were drawn 3 days ago(K 6.0 BUN 35, Creat 
+1.39 ___ 0.7]), in setting of intermittent episodes of 
+intermittent metallic taste in his mouth and whole body 
+numbness/tingling that lasts ___ hours and have been occurring 
+approximately 3x/day for the last week. These episodes have 
+occurred with less frequency in the past but severe enough that 
+he has had to leave from work. He denies any fevers, changes in 
+vision, SOB, c/p, abd pain, dysuria, changes in urination or 
+hematochezia.  He was recently diagnosed with bronchitis and 
+finished a course of Bactrim 2 days ago.  He also had a bout of 
+diarrhea over the weekend that "kept him on the toilet" but has 
+since resolved.  He now feels better but still experienced 
+tingling earlier today.
+ 
+In the ED, initial vitals: T 97.3, HR 80, BP 123/63, RR 18, 100% 
+RA
+  
+Labs were significant for  
+- CBC: WBC 18.2 (92%n), Hgb 11.7, Plt 469
+
+- Lytes:
+ 
+136 / 106 / 29  
+-------------- 85 
+7.0 \ 20 \ 1.0
+
+- Potassium trend: 7.0 -> 6.6 -> 5.7  
+
+Renal was consulted, and recommended urine lytes, u/a, UPCR, 
+renal u/s
+
+Imaging was significant for: renal ultrasound showing slightly 
+increased cortical echogenicity suggestive of chronic medical 
+renal
+disease. No hydronephrosis.
+
+In the ED, pt received  
+___ 15:46 IV Insulin (Regular) for Hyperkalemia 10 UNIT 
+___ 15:46 IV Dextrose 50% 25 gm  
+___ 16:40 IV Calcium Gluconate 2 g 
+___ 16:40 IVF  NS 1000 mL 
+
+Vitals prior to transfer: T 98.3, HR 83, BP 122/68, RR 16, 99% 
+RA 
+
+Currently, he denies any new complaints and history is as noted 
+above
+
+ 
+Past Medical History:
+- Lupus nephritis class IV
+- Hypercholesterolemia
+- Anemia
+- Hypertension
+- s/p splenectomy
+- s/p cholecystectomy 
+ 
+Social History:
+___
+Family History:
+Reviewed and not pertinent to this hospitalization
+ 
+Physical Exam:
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma.  
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, very soft flow murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel 
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+- CBC: WBC 18.2 (92%n), Hgb 11.7, Plt 469
+
+- Lytes:
+ 
+136 / 106 / 29  
+-------------- 85 
+7.0 \ 20 \ 1.0
+
+- Potassium trend: 7.0 -> 6.6 -> 5.7   - > 5.8 -> 6.5 -> 5
+
+___ 03:17PM BLOOD tacroFK-4.8*
+___ 06:00AM BLOOD tacroFK-<2.0*
+ 
+Brief Hospital Course:
+# Hyperkalemia 
+___ be related to dehydration from diarrhea as well as 
+tacrolimus inhibition of Na-K ATPase and RAAS inhibition from 
+lisinopril and losartan. Had peaked T-waves on presentation in 
+ED when K was 7. Given calcium, insulin, and ultimately Lasix 
+for elimination while holding contributing medications. K now 
+normalized and stable.
+- Okay to resume tacrolimus
+- Continuing to hold lisinopril and losartan
+- Patient will have labs checked in ___ days
+
+Aggressive antihypertensive and, in patients with proteinuria, 
+antiproteinuric therapy with blockade of the renin-angiotensin 
+system is used to help prevent nonimmunologic factors which 
+result in progression. In patients with nondiabetic chronic 
+kidney disease, the reduction in proteinuria appears to be 
+greater when ACE inhibitors are used in combination with ARBs 
+than with either drug alone, although no study has compared 
+combination therapy with doubling the dose of a single agent. 
+However, it has not been proven that combination therapy 
+improves renal outcomes and adverse effects may be more common. 
+Given the lack of proven benefit and the potential harms 
+demonstrated in various large trials (ie, ONTARGET, ALTITUDE, ___ 
+NEPHRON-D), using combination therapy with ACE inhibitors and 
+ARBs in patients with nondiabetic CKD with the possible 
+exception of IgA nephropathy is not recommended.
+
+# Lupus nephritis
+- continue MMF, plaquenil, and prednisone 
+
+Mr. ___ was seen and examined on the day of discharge and is 
+clinically stable for discharge today. The total time spent 
+today on discharge planning, counseling and coordination of care 
+was greater than 30 minutes.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Hydroxychloroquine Sulfate 400 mg PO QHS 
+2. Lisinopril 40 mg PO DAILY 
+3. Losartan Potassium 25 mg PO BID 
+4. Mycophenolate Mofetil 1000 mg PO BID 
+5. Tacrolimus 2 mg PO Q12H 
+6. PredniSONE 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Hydroxychloroquine Sulfate 400 mg PO QHS  
+2.  Mycophenolate Mofetil 1000 mg PO BID  
+3.  PredniSONE 10 mg PO DAILY  
+4.  Tacrolimus 2 mg PO Q12H  
+5. HELD- Lisinopril 40 mg PO DAILY  This medication was held. Do 
+not restart Lisinopril until Dr. ___ so
+6. HELD- Losartan Potassium 25 mg PO BID  This medication was 
+held. Do not restart Losartan Potassium until Dr. ___ 
+so
+7.Outpatient Lab Work
+Have BMP (Basic metabolic profile, for potassium) drawn in ___ 
+days
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hyperkalemia
+Lupus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to ___ with high potassium. This was likely 
+caused by some of the medications you take to help protect your 
+kidneys. We have currently stopped those medications, and your 
+potassium has improved.
+
+Instructions:
+- Do not take lisinopril or losartan for now (these don't affect 
+your lupus)
+- You can resume the tacrolimus and continue taking your other 
+medications
+- Please have blood work (BMP for potassium) drawn in ___ days 
+with results sent to Dr. ___
+ 
+___ Instructions:
+___

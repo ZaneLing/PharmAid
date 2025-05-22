@@ -1,0 +1,271 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___
+ 
+Chief Complaint:
+Back pain 
+ 
+Major Surgical or Invasive Procedure:
+n/a
+
+ 
+History of Present Illness:
+___ with PMH dementia and HTN, transferred from ___ for
+NSTEMI. She apparently presented from her nursing home to the ED
+with upper back pain x2 days with vomiting per nursing home
+staff. 
+
+Pt has advanced dementia and cannot recall this story. She 
+cannot
+remember why she is here, and currently denying chest pain, abd
+pain, dyspnea. Per ___ records: "Family initially unsure
+of wishes, wanted second trop. Then, pt voiced wanting possible
+cath, HCP who is son wants to go by these wishes."
+
+Transferred to ___ for possible coronary angiography. 
+In the ED,
+- Initial vitals:  T 97.8  HR 48  BP 103/63  RR 18  SpO2 98% RA
+
+- EKG:  sinus rhythm with TWI in I, V4-V6.
+
+- Labs/studies notable for:  
+___ labs:
+Trop 0.14 -> 0.26 -> 0.35
+Ca: 10.9
+PTT: 28.5
+CXR: negative for pneumonia. no widened mediastinum
+
+ 
+Past Medical History:
+- Hypertension  
+- Chronic kidney disease 
+- Dementia 
+ 
+Social History:
+___
+Family History:
+non-contributory 
+
+ 
+Physical Exam:
+Admission physical:
+T:97.5 BP: 131 / 75 R Lying HR: 48 RR: 18 ___: 98 ra 
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI.  
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+Discharge physical Exam: 
+VS: T 97.5, BP 123/78, HR 86, RR 18, O2 sat 94% on RA 
+WEIGHT: ___: 50.6 kg, 111.5 lb
+GEN: Sitting up in bed eating breakfast, NAD
+NEURO: A&O x 2 (states name, month, unable to state year, states
+in hospital but states "because I fell",  pleasantly confused 
+and
+forgetful. Speech clear, tongue midline, no pronator drift. ___
+strength to bilateral arms and right leg. Left leg with 
+decreased mobility, lifts off bed, weight bears, but guards. No 
+pain to palpation today and passive
+motion. No decreased muscular tone. 
+HEENT:  normocephalic, MMM, supple, trachea midline, no JVD 
+CV: RRR, S1S2, no MRG
+PULM: LS clear, decreased bases, no resp distress.
+ABD:  soft, nontender, BS x4
+EXT: No edema bilaterally, 2+ ___, DP, radial pulses. 
+SKIN: warm, dry, intact, no open lesions
+
+ 
+Pertinent Results:
+Admission labs:
+------------------
+___ 01:24AM cTropnT: 0.35* 
+___ 07:23AM cTropnT: 0.26* 
+___ 03:00PM cTropnT: 0.17* 
+
+___ 01:24AM 
+WBC-12.4* Hgb-12.6 Hct-38.9  Plt ___ PTT-144.1* ___
+Glucose-140* UreaN-27* Creat-1.2* Na-137 K-5.0 Cl-101 HCO3-22 
+AnGap-14
+Calcium-10.6* Phos-3.3 Mg-1.3* Cholest-164
+Triglyc-48 HDL-58 CHOL/HD-2.8 LDLcalc-96
+%HbA1c-5.7 eAG-117
+
+TTE (___): IMPRESSION: Suboptimal image quality. Mild
+symmetric left ventricular hypertrophy with mild regional
+systolic dysfunction most consistent with single vessel coronary
+artery disease (distal LAD distribution). LVEF 50%. 
+
+XRAY Left pelvis, femur, knee (___):
+IMPRESSION:  Diffuse demineralization, limits sensitivity for
+evaluation of subtle nondisplaced fractures. Evidence of
+bilateral total hip arthroplasties. Atherosclerotic vascular
+calcifications are view degenerative changes of the lumbosacral
+spine. Evaluation of sacrum is limited due to overlying bowel 
+gas
+shadow. Surgical clips overlying the left pelvis.  No evidence 
+of
+periprosthetic lucency or fracture. Degenerative changes of the
+knee joint. Chondrocalcinosis along the lateral compartment.
+Fracture superior patellar enthesophytes, likely chronic. No
+large joint effusion. 
+
+ 
+Brief Hospital Course:
+___ woman with a past medical history significant for 
+dementia and hypertension transferred from ___ for NSTEMI 
+after complaining of back pain and follow-up vomiting at nursing 
+home. Troponin peak 0.35 with ECG with TWI of unknown 
+chronicity. Transferred for further evaluation. 
+
+#NSTEMI/CAD: 
+Patient presented to ___ from nursing home after reporting 2 
+days of upper back pain and nausea. Found to have elevated 
+troponin (peak 0.35) and lateral TWI of unknown chronicity. 
+Started on heparin gtt prior to transfer. ECHO with LVEF 50% and
+hypokinesis in anterior septum and apex, consistent with LAD 
+CAD. Discussion with family and Cardiologist, Dr. ___ 
+GOC, treating medically and no invasive coronary angiography at 
+this time.  Treated with IV heparin for 48hours. No arrhythmias 
+on telemetry and hemodynamics remained stable. 
+- ___ management: Continue Aspirin 81mg daily, lifelong. Add 
+Atorvastatin 80mg daily. PCP to monitor LFTs on-going. 
+- Continue home Metoprolol XL 25mg daily
+- Follow up with PCP for further medical management 
+
+#GOC
+The patient has order and MOLST for DNR/DNI/DNH. In initial 
+discussion with ED at ___, family and pt wishes included 
+having coronary angiography. After discussion with Cardiologist, 
+family in agreement with medical management and to continue 
+patients wishes of DNR/DNI/DNH. 
+- MOLST form in chart from ___ & ___
+
+# Decreased left leg mobility and pain: patient noted to have 
+decreased mobility of left leg and telling staff "I am here 
+because I fell." NH without any documentation of fall and pt 
+poor historian. Decreased mobility noted, with positive passive 
+motion to left leg and pain to palpation. However, moving leg 
+more throughout the day. No neurological changes and no 
+complaint of symptoms to think patient fell and hit head. 
+- Xray of left hip/femur/knee with chronic fracture and 
+demineralization; no acute fracture or break. 
+- ___ consulted and recommending rehab for strength and 
+conditioning 
+
+CHRONIC ISSUES:
+---------------
+#Dementia, advanced
+Patient lacks capacity to make advanced medical decisions. 
+History of sundowning at night time. Patient son, ___ is HCP.
+- Delirium precautions
+- Fall precautions 
+
+# Dispo: Return to ___ and ___ STR for 
+increased mobilization and strength 
+  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+2. Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line 
+3. melatonin 5 mg oral QHS:PRN insomnia 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. TraZODone 50 mg PO QHS:PRN insomnia 
+6. Cyanocobalamin 1000 mcg PO DAILY 
+7. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 80 mg PO QPM  
+3.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+4.  Bisacodyl 10 mg PR QHS:PRN Constipation - Second Line  
+5.  Cyanocobalamin 1000 mcg PO DAILY  
+6.  melatonin 5 mg oral QHS:PRN insomnia  
+7.  Metoprolol Succinate XL 25 mg PO DAILY  
+8.  TraZODone 50 mg PO QHS:PRN insomnia  
+9.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Non ST elevation myocardial infarction (NSTEMI)
+Coronary artery disease
+NSTEMI
+Decreased mobility of left leg and deconditioning 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear MS. ___,  
+
+ It was a pleasure taking care of you at the ___ 
+___.  
+
+ WHY WAS I IN THE HOSPITAL?  
+ ==========================  
+- You presented to ___ on ___ after 
+experiencing back pain and vomiting at home. Lab work revealed 
+you had a heart attack. You were transferred to ___ 
+___ in ___ for further management 
+ 
+ WHAT HAPPENED IN THE HOSPITAL?  
+ ==============================  
+- In discussion with your family, we decided to treat your heart 
+attack with medications. We started aspirin and atorvastatin and 
+continued your home Metoprolol. 
+- We noted decreased mobility of your left leg- Xrays showed 
+chronic changes, but no acute fractures. Our physical therapists 
+recommended that you have short term rehab for increased 
+strength and mobility. 
+ 
+ WHAT SHOULD I DO WHEN I GO HOME?  
+ ================================  
+- Take all of your medications as prescribed (listed below).  
+- Follow up with your doctors as listed below  
+ 
+If you were given any prescriptions on discharge, any future 
+refills will need to be authorized by your outpatient providers, 
+primary care or cardiologist.  
+
+It was a pleasure participating in your care.  
+
+If you have any urgent questions that are related to your 
+recovery from your hospitalization or are experiencing any 
+symptoms that are concerning to you and you think you may need 
+to return to the hospital, please call the ___ HeartLine at 
+___ to speak to a cardiologist or cardiac nurse 
+practitioner.  
+ 
+-Your ___ Care Team  
+ 
+Followup Instructions:
+___

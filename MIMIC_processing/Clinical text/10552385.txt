@@ -1,0 +1,219 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / Ultram
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+attach
+ 
+Pertinent Results:
+Admission Labs
+-----------------
+___ 06:03PM BLOOD WBC-5.7 RBC-4.44 Hgb-12.5 Hct-39.8 MCV-90 
+MCH-28.2 MCHC-31.4* RDW-13.0 RDWSD-42.9 Plt ___
+___ 06:03PM BLOOD Plt ___
+___ 06:03PM BLOOD Glucose-82 UreaN-9 Creat-0.8 Na-141 K-4.4 
+Cl-102 HCO3-23 AnGap-16
+___ 06:03PM BLOOD ALT-15 AST-18 AlkPhos-107* TotBili-0.3
+___ 06:03PM BLOOD Albumin-4.7
+___ 08:15AM BLOOD TSH-5.0*
+___ 08:15AM BLOOD Free T4-1.1
+___ 09:20PM URINE Blood-LG* Nitrite-NEG Protein-20* 
+Glucose-NEG Ketone-10* Bilirub-NEG Urobiln-NORMAL pH-6.0 
+Leuks-NEG
+
+Discharge Labs
+-----------------
+
+___ 07:00AM BLOOD WBC-4.6 RBC-3.68* Hgb-10.5* Hct-32.7* 
+MCV-89 MCH-28.5 MCHC-32.1 RDW-13.1 RDWSD-42.5 Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 07:00AM BLOOD Glucose-91 UreaN-6 Creat-0.7 Na-140 K-4.1 
+Cl-106 HCO3-23 AnGap-11
+___ 07:00AM BLOOD ALT-11 AST-15 AlkPhos-84 TotBili-0.2
+___ 07:00AM BLOOD Albumin-3.9 Calcium-8.8 Phos-3.9 Mg-2.0
+___ 04:06PM URINE Blood-SM* Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NORMAL pH-7.5 
+Leuks-NEG
+
+Imaging
+-----------
+
+CT PELVIS WITH CONTRAST 
+IMPRESSION: 
+  
+  
+1. No acute findings in the pelvis. 
+2. Normal CT appearance of the right and left ovaries. 
+3. Sigmoid colonic diverticulosis. 
+  
+
+TVUS
+  
+IMPRESSION:  
+  
+Normal uterus and right ovary.  The left ovary is not 
+identified. 
+
+ 
+Brief Hospital Course:
+___ is a ___ year old female with a pmhx of 
+___'s thyroiditis, migraines, asthma and anxiety who 
+presented to the ED for evaluation of 5 days of lower 
+abdominal/pelvic pain of unclear etiology with an unremarkable 
+CT of the pelvis and TVUS but likely secondary to Mittelschmerz. 
+We controlled her symptoms and discharged her once she was able 
+to tolerate a PO diet. 
+
+TRANSITIONAL ISSUES:
+====================
+[ ] She may benefit for consideration of OCP/IUD to help prevent 
+painful periods which should further be discussed during future 
+outpatient appointments
+
+[ ] Please check a repeat TSH/free T4 during her next follow up 
+appointment
+ 
+ACUTE ISSUES:
+=============
+#Lower abdominal/pelvic pain
+#Dysmenorrhea
+She presented with persistent abdominal/pelvic pain with 
+unremarkable workup including CT abdomen/pelvis, TVUS at ___ 
+and overall normal labs upon admission here with no 
+leukocytosis, normal LFT's, lipase, pregnancy test and a 
+relatively normal TVUS and pelvic exam making any acute process 
+unlikely. Given that her left ovary was not visualized on the 
+TVUS we repeated a CT of the pelvis which showed normal 
+appearance of the right and left ovaries with no acute processes 
+in the pelvis. Her association of pain with mensuration is 
+likely ___ Mittelschmerz vs. ruptured ovarian cyst vs. 
+endometriosis/adenomysosis/fibroid uterus. We controlled her 
+symptoms wand discharged her once she once she was able to 
+tolerate a PO diet. 
+
+[ ] She may benefit for consideration of OCP/IUD to help prevent 
+painful periods which should further be discussed during future 
+outpatient appointments. 
+
+CHRONIC ISSUES:
+===============
+#Hashimito's Thyroiditis 
+Her TSH/T4 was checked with a TSH value of 5.0 and a free T4 of 
+1.1. She did report not taking her thyroid medications during 
+the days preceding her hospitalization due to her nausea. 
+Continued home levothyroxine 
+[ ] Please check a repeat TSH/free T4 during her next follow up 
+appointment
+
+#Aniety 
+She reports taking Benadryl at home for anxiety attacks. She 
+required no Benadryl during her stay here. We also started her 
+on Ramelteon to help with insomnia while in the hospital. 
+
+#Migraines
+She reports a history of very infrequent migraines and takes OTC 
+migraine medictions when experiencing one. She reported no 
+migraines during her stay here. 
+
+CORE MEASURES
+=============
+#CODE: Full code, presumed. 
+#CONTACT: ___ ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 50 mcg PO DAILY 
+2. SUMAtriptan succinate 50 mg oral DAILY:PRN 
+3. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q6H:PRN SOB 
+4. DiphenhydrAMINE 12.5 mg PO DAILY:PRN Anxiety 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 500 mg PO BID PRN Pain - Mild/Fever 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *acetaminophen [Acetaminophen Extra Strength] 500 mg 1 
+tablet(s) by mouth BID PRN Disp #*30 Tablet Refills:*0 
+2.  Ibuprofen 400 mg PO BID PRN  Pain - Mild 
+RX *ibuprofen [IBU] 400 mg 1 tablet(s) by mouth BID PRN Disp 
+#*60 Tablet Refills:*0 
+3.  Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+Duration: 7 Days 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *ondansetron 4 mg 1 tablet(s) by mouth Q8H PRN Disp #*21 
+Tablet Refills:*0 
+4.  DiphenhydrAMINE 12.5 mg PO DAILY:PRN Anxiety  
+5.  Levothyroxine Sodium 50 mcg PO DAILY  
+6.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q6H:PRN SOB  
+7.  SUMAtriptan succinate 50 mg oral DAILY:PRN  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary  
+---------- 
+Intractable Abdominal Pain  
+ 
+ 
+Secondary  
+---------- 
+Anxiety  
+Migraines 
+___'s Thyroiditis  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a pleasure taking care of you at ___ 
+___.  
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+===================================
+- You were admitted to the hospital because you had severe 
+abdominal pain and were not eating or drinking secondary to the 
+pain. 
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+==========================================
+- While you were in the hospital we ran a number of lab and 
+imaging tests which did not explain the cause of your abdominal 
+pain. We also gave you medications to help control your pain and 
+nausea and made sure you were able to tolerate a diet.  
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+============================================  
+- Please continue to take all your medications and follow up 
+with your doctors at your ___ appointments.  
+
+We wish you all the best!
+
+Sincerely,  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

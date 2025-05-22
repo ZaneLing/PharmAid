@@ -1,0 +1,212 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Request for detox
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with a past medical history
+noted of alcohol use disorder who presented with a request for
+detox.
+
+History somewhat unclear but he reports a longstanding history 
+of
+alcohol abuse. He has had periods of sobriety but relapsed ___
+years ago and has been drinking regularly since. Over the past
+few weeks he has been drinking ___ nips per day. 
+On ___ he approached his family to ask for help to stop
+drinking. He subsequently presented to the ED for detox.
+
+His last drink was on ___ at 12pm. He has a history of
+withdrawal but denies any history of seizures or ICU stays.
+
+In the ED, labs were notable for ALT 251, AST 311, LD 427, and
+tbili 2.1. Lipase was 427. Lactate was 3.3. EtOH level was 90.
+
+He received 2L IV fluids, a total of 30mg PO diazepam over the
+course of ___s 2mg of PO Ativan.
+
+On the floor he feels that his withdrawal symptoms are
+significantly improved. He denies any abdominal pain, though
+endorsed RUQ when he was in the ED. He does endorse some
+indigestion.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+Alcohol use disorder
+ 
+Social History:
+___
+Family History:
+No known family history of alcoholism.
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout. No tremor, no asterixis
+PSYCH: pleasant, appropriate affect
+
+Discharge exam:
+CIWA ___ 0805 Temp: 98.0 PO BP: 127/90 HR: 77 RR: 18 O2 sat: 98%
+O2 delivery: Ra 
+GENERAL: sitting in bed.
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur.
+RESP: Lungs Normal respiratory effort
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, slight tremor
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+Admission labs:
+___: WBC: 6.0
+___: RBC: 4.15*
+___: HGB: 14.2
+___: HCT: 41.7
+___: MCV: 101*
+___: RDW: 12.3
+___: Plt Count: 73* (Verified by smear-occ large plt
+present)
+
+___: Na: 140
+___: K: 3.3*
+___: Cl: 100
+___: CO2: 26
+___: BUN: 8
+___: Creat: 0.9
+___: Glucose: 105* (If fasting, 70-100 normal, >125
+provisional diabetes)
+
+'Basic Coagulation' sheet entries (Most Recent):
+___: ___: 13.0*
+___: INR: 1.2*
+___: PTT: 26.7
+
+___ - RUQ U/S: 
+1. Coarsened and nodular liver echo-texture is without focal
+lesions. 
+2. Patent portal and hepatic veins. 
+3. No sonographic evidence of cholecystitis. 
+
+Hepatitis serologies:
+___ 04:55PM BLOOD HBsAg-NEG HBsAb-POS HBcAb-NEG
+
+Discharge labs:
+___ 09:11AM BLOOD WBC-6.3 RBC-4.05* Hgb-14.1 Hct-42.2 
+MCV-104* MCH-34.8* MCHC-33.4 RDW-12.9 RDWSD-49.4* Plt ___
+___ 09:11AM BLOOD ALT-198* AST-244* AlkPhos-77 TotBili-1.6*
+
+ 
+Brief Hospital Course:
+___ male with a past medical history noted of alcohol 
+use disorder who presented with a request for detoxification.
+
+# Alcohol withdrawal:
+# Possible cirrhosis on imaging:
+# Alcohol-induced gastritis
+
+Presented for detox. No history of complicated withdrawal per 
+his report. Monitored on CIWA protocol and telemetry for 72hrs 
+following his last drink without major issues.  RUQ US 
+suggestive of possible underlying cirrhosis. He was advised to 
+f/u with his PCP and hepatology as an outpatient for further 
+workup of RUQ U/S findings. He was discharged home on MVI, 
+thiamine and folate. He was also discharged on oral PPI given 
+reports of epigastric pain and concern for alcohol-induced 
+gastritis. SW and CM followed the pt throughout his stay to help 
+coordinate outpatient detox plan.
+
+# Alcoholic hepatitis
+He presented with transaminitis.  Hepatitis serologies were 
+negative but showed hepatitis B immunity.  This is likely 
+related to alcoholic hepatitis.  He was recommended to follow-up 
+with outpatient hepatology once he is able to stabilize his 
+medical care and find a primary care doctor and clarify his 
+current insurance status.
+
+# Elevated lactate, improved w/ hydration
+
+# Thrombocytopenia, stable
+Hepatitis serologies negative.  Likely related to bone marrow 
+suppresson and alcohol abuse.
+
+TRANSITIONAL ISSUES: 
+
+Advised to remain sober and discussed multiple strategies for 
+sobriety.
+Hepatology follow up for cirrhosis - phone number given.
+
+> 30 min spent on ___ planning, documentation and communication
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Alcohol abuse 
+Abnormal LFTs
+Thrombocytopenia
+ 
+Discharge Condition:
+Discharge conditionstable
+Mental statusalert and oriented x3
+Ambulatory 
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to the hospital for management of 
+detoxification from alcohol.  You were closely monitored for any 
+signs of complications of alcohol withdrawal.  You were treated 
+with oral Ativan for symptom control of your alcohol withdrawal. 
+ You saw a social worker. 
+
+We also found out that you may have some liver abnormalities.  
+
+What should you do at home?
+Go as recommended to start an alcohol treatment program.
+Follow up with your pcp ___ 2 weeks, and then with a liver 
+doctor (___)
+ 
+Followup Instructions:
+___

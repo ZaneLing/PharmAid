@@ -1,0 +1,187 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization:
+PCI with drug-eluting stent of the LAD coronary artery.
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 07:33AM BLOOD WBC-6.5 RBC-4.79 Hgb-13.9 Hct-42.8 MCV-89 
+MCH-29.0 MCHC-32.5 RDW-12.9 RDWSD-42.3 Plt ___
+___ 07:33AM BLOOD ___ PTT-29.0 ___
+___ 07:33AM BLOOD Glucose-106* UreaN-16 Creat-1.0 Na-140 
+K-4.5 Cl-103 HCO3-26 AnGap-11
+___ 07:33AM BLOOD Calcium-9.0 Phos-3.6 Mg-2.1
+
+IMAGING/STUDIES:
+================
+Percutaneous Coronary Intervention: Percutaneous coronary 
+intervention (PCI) was performed on an ad hoc basis based on the 
+coronary angiographic findings from the diagnostic portion of 
+this procedure. A 6 ___ EBU3.5 guide provided adequate 
+support. Crossed with a Runthrough wire into the distal LAD. 
+Predilated with a 2.5 mm NC balloon and then deployed a 3.0 x 38 
+mm Promus ___ with a 3.5 mm NC balloon. Final 
+angiography revealed normal flow, no dissection and 0% residual 
+stenosis. IVUS prior to post-dilation shoewed 3.3-3.5 mm vessel 
+diameter with good stent expansion.
+
+DISCHARGE LABS:
+===============
+As above. 
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES:
+====================
+[ ] Follow up with PCP for checkup after discharge 
+[ ] Follow up with cardiologist Dr. ___ recent ___, 
+___, and HTN med adjustment
+[ ] TTE as outpatient post discharge
+[ ] Patient was hypertensive during hospital stay, increased 
+dose of metoprolol to 50mg QD, as lisinopril/amlodipine already 
+maxed.
+
+SUMMARY:
+========
+Mr. ___ is a ___ male patient with a history of HTN, HLD 
+and CAD s/p BMS to LAD in ___ who developed progressive 
+exertional chest pain over the last month and presented to the 
+hospital on ___ for chest pain that was not relieved 
+with rest with labs showing elevated troponin levels w/ normal 
+EKG findings suggestive of an ___. Catheterization was 
+performed and showed a re-stenosis of his existing BMS, which 
+was ballooned w/ ___ and initiation of DAPT. Patient 
+tolerated the procedure well without complication and was 
+cleared by physical therapy to return home w/ plan to follow up 
+with PCP and cardiology.
+
+===============  
+ACTIVE ISSUES:  
+===============  
+___:
+#CAD
+Patient presented with exertional, substernal CP of 1 month 
+duration that was initially relieved by rest, but became 
+persistent on the day of presentation. Was found to have 
+elevated troponins at OSH and subsequently transferred to ___ 
+where catheterization and placement of DES was performed. 
+Started on aspirin and Plavix w/ plan for ___ month course. 
+
+PCI details below: 
+Percutaneous Coronary Intervention: Percutaneous coronary 
+intervention (PCI) was performed on an ad
+hoc basis based on the coronary angiographic findings from the 
+diagnostic portion of this procedure. A 6
+___ EBU3.5 guide provided adequate support. Crossed with a 
+Runthrough wire into the distal LAD.
+Predilated with a 2.5 mm NC balloon and then deployed a 3.0 x 38 
+mm Promus ___ with a
+3.5 mm NC balloon. Final angiography revealed normal flow, no 
+dissection and 0% residual stenosis.
+IVUS prior to post-dilation showed 3.3-3.5 mm vessel diameter 
+with good stent expansion.
+
+================  
+CHRONIC ISSUES:  
+================  
+#Depression:
+Continued home sertraline and bupropion.
+
+#HTN:
+Continued home metoprolol, amlodipine, and lisinopril initially; 
+however, his BP was persistently 140-150s and due to him being 
+maxed out on amlodipine and lisinopril, a decision was made to 
+increase his metoprolol to 50mg QD for discharge.
+
+#HLD:
+Continued home statin.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sertraline 150 mg PO DAILY 
+2. BuPROPion 100 mg PO BID 
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+4. Lisinopril 40 mg PO DAILY 
+5. Atorvastatin 10 mg PO QPM 
+6. amLODIPine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*60 
+Tablet Refills:*2 
+2.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*60 
+Tablet Refills:*2 
+3.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+4.  amLODIPine 10 mg PO DAILY  
+5.  Atorvastatin 10 mg PO QPM  
+6.  BuPROPion 100 mg PO BID  
+7.  Lisinopril 40 mg PO DAILY  
+8.  Sertraline 150 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+___
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were in the hospital for chest pain and a blockage in your 
+heart.
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You had a procedure called a heart catheterization that showed 
+a blockage in your heart.
+- A stent was placed to open up the blockage and increase blood 
+supply to your heart.
+- You were started on new medications for the stent that was 
+placed.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Please continue to take all of your medications as directed
+- Please follow up with all the appointments scheduled with your 
+doctor
+- If you have any symptoms of chest pain similar to what you 
+experienced, you should not hesitate to contact your 
+cardiologist or come back to the hospital. 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+Your ___ Healthcare Team 
+ 
+Followup Instructions:
+___

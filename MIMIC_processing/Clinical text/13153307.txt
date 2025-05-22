@@ -1,0 +1,165 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ACE Inhibitors / Sulfa (Sulfonamide Antibiotics) / Tetanus 
+Vaccines and Toxoid
+ 
+Attending: ___
+ 
+Chief Complaint:
+Nonhealing ulcer
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with history of PVD, HTN, poorly healing wound was sent for 
+nonhealing ulcer with positive wound culture of pseudomonas. 
+Patient has had the wound since a traumatic injury in ___. 
+Since that time the wound has progressed, however, it has 
+worsened more rapidly over the last few weeks and has included 
+increased redness, pain, and swelling. Patient was referred for 
+admission by outpatient general surgery for dermatology 
+evaluation, IV antibiotics, and consideration for wound 
+debridement. 
+
+ 
+Past Medical History:
+PVD
+Essential hypertension
+Diverticulosis
+Cataract
+Chronic headaches
+Meningioma s/p VP shunt
+
+ 
+Social History:
+___
+Family History:
+Not relevant to this illness/reason for hospitalization.
+ 
+Physical Exam:
+VITALS:
+___ 0723 Temp: 97.9 PO BP: 149/75 HR: 79 RR: 18 O2 sat: 94% 
+O2 delivery: RA 
+
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round and reactive to light
+ENT: Moist oropharynx without visible lesion, erythema or 
+exudate
+CV: Heart regular rate and rhythm, no murmur. Radial and DP 
+pulses 2+ bilaterally
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is non-labored
+GI: Abdomen is soft, non-distended, non-tender. Normal bowel 
+sounds present.
+GU: No suprapubic fullness or tenderness 
+MSK: Neck supple, moves all extremities
+SKIN: Right medial malleolus ulcer, non-bleeding with white 
+granulation-type tissue and no obvious purulent drainage. Distal 
+right lower extremity has a confluent and bright erythematous 
+color and is tender. 
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, some mild memory 
+impairment noted on admission not appreciated at present. 
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+___ 06:30AM BLOOD WBC-5.9 RBC-4.12 Hgb-13.4 Hct-41.4 
+MCV-101* MCH-32.5* MCHC-32.4 RDW-12.3 RDWSD-45.4 Plt ___
+___ 05:10PM BLOOD ___ PTT-26.2 ___
+___ 06:30AM BLOOD Creat-0.7 Na-144 K-4.4 HCO3-27 AnGap-12
+___ 05:00PM BLOOD Lactate-1.2
+
+Venous study Impression:
+1. Patent right great saphenous and small saphenous vein.
+2. Significant reflux is noted along the great saphenous vein of 
+the 6 seconds and a prominent varicose veins seen connecting to 
+the great saphenous vein in the proximal calf. This is amenable
+to endovascular treatment to treat the ulcer.
+ 
+Brief Hospital Course:
+___ years-old female with history of PVD, HTN, and poorly healing 
+wound was sent for nonhealing ulcer with positive wound culture 
+of pseudomonas.
+
+Patient's wound was determined to be likely venous stasis ulcer 
+in the setting of peripheral vascular disease. ID was consulted 
+who could not rule out cellulitis, initially. Given Pseudomonas 
+positive wound culture ID recommend ___ days of IV antibiotics 
+on Cefepime 2g IV Q12H, followed by topical therapy and wound 
+culture as outlined by dermatology. Patient was seen by vascular 
+surgery who reviewed the vascular studies and recommended 
+outpatient follow up for consideration of endovenous 
+intervention. Patient  instructed to continue gentamicin wound 
+dressing of ACE with eventual transition to compression 
+stockings as patient can
+tolerate. Patient educated to elevate the leg as possible. 
+
+Assessment, hospital course, and discharge plans were discussed 
+with patient and family who expressed understanding and agree 
+with discharge. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 25 mg PO DAILY 
+2. Zolpidem Tartrate 10 mg PO QHS:PRN insomnia 
+3. Losartan Potassium 50 mg PO DAILY 
+4. Donepezil 5 mg PO QHS 
+5. Nortriptyline 10 mg PO QHS 
+6. Timolol Maleate 0.5% 1 DROP BOTH EYES BID 
+7. Travatan 0.004% Ophth Soln  (*NF*) 1 drop Other BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain  
+2.  Gentamicin 0.1% Cream 1 Appl TP BID 
+RX *gentamicin 0.1 % Apply to wound Twice daily Refills:*0 
+3.  Donepezil 5 mg PO QHS  
+4.  Losartan Potassium 50 mg PO DAILY  
+5.  Metoprolol Succinate XL 25 mg PO DAILY  
+6.  Nortriptyline 10 mg PO QHS  
+7.  Timolol Maleate 0.5% 1 DROP BOTH EYES BID  
+8.  Travatan 0.004% Ophth Soln  (*NF*) 1 drop Other BID  
+9.  Zolpidem Tartrate 10 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+Venous stasis ulcer; peripheral vascular disease
+Possible Cellulitis
+Essential hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+- Apply topical gentamicin cream to the lesion
+- Apply xeroform to the ulcerated lesion
+- Gentle overlying compression with ACE bandages or kerlix
+from toes up to knee. Eventuallly transition to compression
+stockings as patient can tolerate. 
+- Avoid wet to dry dressings.
+- Elevate the leg above the level of the heart as often as
+possible.
+
+Follow with vascular surgery as scheduled.
+ 
+Followup Instructions:
+___

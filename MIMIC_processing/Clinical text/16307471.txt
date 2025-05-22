@@ -1,0 +1,203 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+BRBPR
+ 
+Major Surgical or Invasive Procedure:
+Repeat colonoscopy on ___
+
+ 
+History of Present Illness:
+___ year old male with hypertension and recent
+colonoscopy on ___ with 3 hot snare polypectomies who 
+presented with hematochezia. 
+
+The patient had his colonoscopy on ___, after which he felt
+reasonably well. He was doing well into ___ morning and 
+even
+walked his dog. On ___ evening, he had some wine with 
+dinner
+and felt like he had to vomit. He got up to go to the restroom
+and vomited on the way. He then felt bloating and had a bowel
+movement after that which filled the toilet bowel with blood. He
+then went to sit on the couch and fainted. His wife took his
+blood pressure that showed a systolic pressure of 60 mm hg. She
+called EMS, who gave him fluids and responded to IV fluids. 
+
+The patient initially presented to ___ where his
+BP had improved to 130s systolic (from ___ via EMS) after 300cc
+of NS. He received an additional 1L of NS at ___. H/H was
+stable. The patient was transferred here since here for further
+management. 
+
+Upon arrival here, the patient was mentating well and remained
+hemodynamically stable. His Hb was down to 9.7 (from 10.5 at 
+OSH,
+but after 1.3L of IV fluids). This is down from 14 last month. 
+Of
+note, he is on ASA 81 for family history of MIs and personal 
+history of HLD. 
+
+ 
+Past Medical History:
+HTN
+ 
+Social History:
+___
+Family History:
+Heart disease
+
+ 
+Physical Exam:
+EXAM(8)
+VITALS: Afebrile and vital signs significant for all within
+normal limits, sat'ing well on RA
+GENERAL: Alert, oriented and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD. No ___ 
+edema.
+DP 2+
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+CLS: Pathology of the polyp(s) show "adenoma(s)". There was no
+cancer in the polyp(s).  However, adenomatous polyps are the
+type of polyps that can turn into cancer if not removed.  Your
+polyp(s) were removed. 
+
+Repeat CLS showed no evidence of bleeding. No cautery or 
+clipping performed.
+
+___ 01:30AM BLOOD WBC-8.8 RBC-3.02* Hgb-9.7* Hct-29.6* 
+MCV-98 MCH-32.1* MCHC-32.8 RDW-13.2 RDWSD-47.5* Plt ___
+___ 05:05AM BLOOD WBC-6.0 RBC-3.05* Hgb-9.8* Hct-29.8* 
+MCV-98 MCH-32.1* MCHC-32.9 RDW-12.9 RDWSD-46.1 Plt ___
+___ 05:05AM BLOOD Glucose-94 UreaN-11 Creat-0.9 Na-143 
+K-4.7 Cl-107 HCO3-27 AnGap-9*
+ 
+Brief Hospital Course:
+SUMMARY/ASSESSMENT: 
+ACUTE/ACTIVE PROBLEMS:
+#hematochezia
+#acute blood loss anemia:
+#syncope: Pt per description appears to have had some vasovagal
+episode I/s/o GIB, as he went acutely pain and his SBP was quite
+low and improved with minimal bolus. Emesis episodes appear to
+have been associated with the LH and vasovagal as opposed to
+other GI pathology. No emesis or hematochezia since home. Went
+from 10.5 to 9.7 between ED's, likely some dilutional component
+to blood loss but does appear to have had some significant blood
+loss post-procedure following excisions. Vitals are stable. Low
+c/f perf at present given lack of pain, infection. No
+hemorrhoids. Less likely diverticular bleed given timing
+___. Fact that pt now without bloody BM for about 12h.
+- s/p repeat CLS today, with no source of bleeding found. 
+Because
+of this, we will keep him overnight to monitor for repeat
+episodes and if stable, plan to discharge tomorrow. 
+
+#HTN: diagnosed only this month, with home BP readings in 
+150-170
+range though pt had continued to check at home and said they 
+were
+more normal recently; written for hctz 12.5mg (has not yet
+started taking at home) as well as attempting dietary
+modification
+- held home hctz initially pending stability of bleed; pt has 
+not
+yet started taking this medication
+
+#CV: home Rosuvastatin continued; held ASA (for
+primary prevention)
+
+OUTSTANDING ISSUES
+[ ] advised to hold ASA 81 until able to talk to PCP about risk 
+and benefits
+[ ] repeat CBC at PCP visit and monitor for symptoms suggesting 
+rebleed
+[ ] needs repeat CLS in ___ years given adenomas found on CLS
+
+>30 min spent on discharge planning including face to face time
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rosuvastatin Calcium 10 mg PO QPM 
+2. Aspirin EC 81 mg PO DAILY 
+3. Hydrochlorothiazide 12.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Hydrochlorothiazide 12.5 mg PO DAILY  
+2.  Rosuvastatin Calcium 10 mg PO QPM  
+3. HELD- Aspirin EC 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin EC until talking to your primary care doctor 
+about whether it is necessary, as it increases your risk of 
+bleeding
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Post-polypectomy bleed
+Acute blood loss anemia
+Syncope
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with bloody stools after a 
+polypectomy. We repeated a colonoscopy and did not find a source 
+for your bleeding. We monitored you overnight and you did not 
+rebleed. Pathology of the polyps show "adenomas". There was no
+cancer in the polyps.  However, adenomatous polyps are the
+type of polyps that can turn into cancer if not removed.  Your
+polyps were removed.  
+
+You may develop more adenomatous polyps in the future and
+therefore you should continue to undergo routine colorectal
+screening.  Your next colonoscopy should be performed
+in ___ years or sooner if you develop a change in your bowel 
+habits
+or rectal bleeding.
+
+We also recommend that you hold off on taking aspirin until you 
+talk to your PCP as this can cause recurrent bleeding.
+
+Thank you, 
+Your ___ Care Team
+ 
+Followup Instructions:
+___

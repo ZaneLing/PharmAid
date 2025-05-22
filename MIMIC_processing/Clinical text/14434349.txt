@@ -1,0 +1,369 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+latex / Penicillins / morphine
+ 
+Attending: ___
+ 
+Chief Complaint:
+right sided numbness and weakness
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Time/Date the patient was last known well: 21:15
+
+I was present during the CT scanning and reviewed the images
+within 20 minutes of their completion.
+
+___ Stroke Scale Score: 6
+
+t-PA administered: 
+[] Yes - Time given:
+[x] No - Reason t-PA was not given or considered:
+-out of time frame
+
+Thrombectomy performed: 
+[] Yes 
+[x] No - Reason not performed or considered:not thrombectomy
+candidate given sx not c/w LV occlusion
+
+NIHSS performed within 6 hours of presentation at: 1:34 
+time/date
+___
+
+NIHSS Total: 6
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0 
+2.  Best gaze: 0
+3.  Visual fields: 0
+4.  Facial palsy: 2
+5a. Motor arm, left: 0
+5b. Motor arm, right: 1
+6a. Motor leg, left: 0
+6b. Motor leg, right: 1
+7.  Limb Ataxia: 0
+8.  Sensory: 1
+9.  Language: 0
+10. Dysarthria: 1
+11. Extinction and Neglect: 0
+
+REASON FOR CONSULTATION: Code Stroke
+
+HPI: 
+Pt is a ___ yo M w/ PMHx of subdural hematoma after MVC in ___,
+Hep C from blood tx, and unknown bradyarrythmia for which a loop
+recorder was placed a few weeks ago who was transferred from
+outside hospital after being found to have acute onset right
+face/arm/leg numbness and weakness. Pt says he had just finished
+dinner around 9:15PM when right sided weakness, right sided
+numbness, and dysarthria. CTH was done at ___ and patient
+transferred to ___. Patient reports right sided throbbing HA
+and sensitivity to life in addition to above deficits. He denies
+hx of afib, HTN, HLD, prior strokes. Takes no medications daily.
+
+ROS: 
+On neurological review of systems, the patient denies confusion,
+difficulties comprehending speech, loss of vision, blurred
+vision, diplopia, dysphagia, lightheadedness, vertigo, tinnitus
+or hearing difficulty. Denies focal weakness, numbness,
+parasthesiae. No bowel or bladder incontinence or retention.
+Denies difficulty with gait.
+
+On general review of systems, the patient denies recent fever, 
+chills, night sweats, or recent weight changes. Denies cough,
+shortness of breath, chest pain or tightness, palpitations. 
+Denies nausea, vomiting, diarrhea, constipation or abdominal
+pain.  Denies dysuria, or recent change in bowel or bladder
+habits.  Denies arthralgias, myalgias, or rash.
+
+ 
+Past Medical History:
+Hep C from blood transfusion
+Left subdural hematoma after ___ in ___
+Unknown brady arrhythmia w/loop recorder placed within the past 
+few weeks
+ 
+Social History:
+___
+Family History:
+dad- lung CA, afib
+ 
+Physical Exam:
+Vitals: 
+BP: afebrile, 129/70, HR:67, BG:99, RR 28 and satting 98% on  RA
+
+General: Awake, cooperative, appears uncomfortable
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused. Right central line in place  
+IMPRESSION:  
+Abdomen: Soft, obese.
+Extremities: +1 BLLE edema.
+Skin: No rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is hesitant with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. Intermittent dysarthria. Able to follow both
+midline and appendicular commands. There was no evidence of
+apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm. EOMI without nystagmus. Normal
+saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII:Flattening of right nasolabial fold, facial musculature 
+right
+lower face slow to activate.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. Slight right pronator
+drift. No adventitious movements, such as tremor or asterixis
+noted.
+
+  [___]
+
+L    5    5    5    5    5    5    5    5   5    5    5
+
+R    3    5    5    4-   4-   4-    5    5   5    5   4
+
+-Sensory: Decreased sensation to light touch right face, upper,
+and lower extremity. Pinprick and proprioception intact. No
+extinction to DSS.  
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+
+L   2     2      2      2+    1
+
+R   2     2      2      2+    1 
+
+Withdrew on plantar response.
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF bilaterally.
+
+-Gait: Deferred
+
+UPON DISCHARGE:
+Neuro exam with presenting deficits completely resolved. Patient 
+with full strength throughout, no sensory deficits, and 
+dysarthria/slurring of speech resolved
+ 
+Pertinent Results:
+LABSL
+___ 09:20AM 
+BLOOD WBC-5.7 RBC-4.41* Hgb-11.1* Hct-37.2* MCV-84 MCH-25.2* 
+MCHC-29.8* RDW-17.1* RDWSD-52.1* Plt ___
+
+___ 09:20AM 
+BLOOD Neuts-63.5 Lymphs-14.5* Monos-9.3 Eos-11.7* Baso-0.5 Im 
+___ AbsNeut-3.63 AbsLymp-0.83* AbsMono-0.53 AbsEos-0.67* 
+AbsBaso-0.03
+
+___ 09:20AM 
+BLOOD ___ PTT-28.5 ___
+
+___ 09:20AM 
+BLOOD Glucose-109* UreaN-11 Creat-1.0 Na-145 K-3.8 Cl-112* 
+HCO3-24 AnGap-9*
+
+___ 01:11AM 
+BLOOD ALT-15 AST-15 AlkPhos-94 TotBili-0.2
+
+___ 01:11AM 
+BLOOD cTropnT-<0.01
+
+___ 09:20AM 
+BLOOD %HbA1c-5.8 eAG-120
+
+___ 09:20AM 
+BLOOD Triglyc-197* HDL-25* CHOL/HD-5.3 LDLcalc-68
+
+___ 09:20AM 
+BLOOD TSH-9.6*
+
+___ 09:20AM 
+BLOOD T4-5.4
+
+___ 01:11AM 
+BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG Tricycl-NEG
+
+IMAGING:
+MRI BRAIN: 
+There is no evidence of hemorrhage, edema, masses, mass effect, 
+midline shift or infarction.  The ventricles and sulci are 
+prominent, consistent with global cerebral volume loss. 
+  
+The visualized paranasal sinuses are final.  The mastoid air 
+cells are clear.  The intraorbital contents are normal.  There 
+is no abnormal enhancement after contrast administration. 
+  
+MRA BRAIN: 
+Imaging is limited by motion artifact.  Particularly, more 
+distal branches 
+appear narrowed and irregular bilaterally in the middle cerebral 
+and anterior cerebral artery distributions.  It is unclear 
+whether this represents vasospasm or artifact due to motion. 
+There is no evidence of arterial occlusion or aneurysm 
+formation. 
+  
+MRA NECK: 
+The common, internal and external carotid arteries appear 
+normal.  There is no evidence of internal carotid artery 
+stenosis by NASCET criteria.  The origins of the great vessels, 
+subclavian and vertebral arteries appear normal bilaterally.  
+Incidental note is made of a 4 vessel aortic arch. 
+  
+IMPRESSION: 
+1. No evidence of mass, hemorrhage or infarction. 
+2. Brain MR ___ limited by motion artifact.  There is an 
+appearance of diffuse vascular irregularity in narrowing that 
+may be artifactual.  Alternatively, this could be a consequence 
+of vasospasm. 
+3. Normal MRA of the neck without stenosis, by NASCET criteria. 
+====================================
+LINQ INTERROGATION:
+
+Interrogation:
+Battery voltage/time to ERI: RRT since ___
+Presenting rhythm: SR
+
+Diagnostics: 
+AF episodes: 24 (5 episodes ___, 19 episodes 10min-1hr, 19
+episodes 2min-10min)
+Pause: 1 (3s at 03:46 on ___
+% time in AF: 0.5%
+
+Summary:
+1. LINQ function normal. At end of battery life.
+2. Evidence of atrial fibrillation (see above)
+3. Follow up with outpatient providers
+
+ 
+___ Course:
+Mr. ___ is a ___ yo M w/ PMHx of subdural hematoma after MVC 
+in ___, Hep C from blood tx, and unknown bradyarrythmia for 
+which a loop recorder was placed a few weeks ago who was 
+transferred from outside hospital after being found to have 
+acute onset right
+face/arm/leg numbness and weakness. Symptoms accompanied by 
+throbbing HA which started at the same time. Unusual for patient 
+as he normally does not get headaches. NIHSS on arrival of 6, 
+but tPA not given as out of time frame. Pt not thrombectomy 
+candidate given sx not c/w LV occlusion. Right sided numbness 
+and weakness initially concerning for potential left 
+thalamo-capsular stroke so patient was admitted for further 
+workup. 
+
+We were unable to obtain CTA head/neck as patient reports 
+anaphylactic reaction to iodine. MRI/A brain/ head and neck did 
+not reveal infarct, hemorrhage, and vasculature was patent. LINQ 
+device interrogation showed paroxysmal afib. Transient right 
+sided weakness, numbness and slurring of speech resolved without 
+intervention within 24 hours of onset. At this time etiology of 
+symptoms remains unclear. Differential including TIA, complex 
+migraine, and conversion disorder.
+
+# Episode of unknown significance
+A1c: 5.8, LDL:68, TSH: 9.6
+-Start aspirin 81 daily
+-Follow up with neurology in 3 months for monitoring of symptoms
+
+#Atrial fibrillation
+- LINQ was interrogated and there was evidence of atrial 
+fibrillation occurring 0.1 hrs/day. He will need to follow up 
+with his PCP or cardiologist following LINQ device for further 
+management
+
+#Endocrine
+- Evidence of subclinical hypothyroidism with TSH of 9.6 and T4 
+of 5.4. He will need to follow up with PCP for further 
+monitoring.
+
+TRANSITIONAL ISSUES:
+- Follow up with neurology in 3 months for monitoring of 
+neurologic status
+- Follow up with cardiology for paroxysmal atrial fibrillation 
+on LINQ interrogation
+- Follow up with PCP for subclinical hypothyroidism
+ 
+Medications on Admission:
+NONE.
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Episode of unknown significance 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+ 
+You were hospitalized due to symptoms of headache with right 
+sided numbness/weakness and slurring of speech concerning for 
+stroke. Imaging shows that you did not have a stroke. It is 
+possible that these symptoms could be from a transient ischemic 
+attack, a migraine, or stress.
+
+You will have no new medications to take after discharge. 
+However follow up is very important. 
+-Please see your primary care provider for general follow up and 
+to monitor your thyroid levels.
+-Please see your cardiologist within 2 weeks of hospital 
+discharge. Your LINQ device shows paroxysmal atrial 
+fibrillation, which means your heart occasionally has an 
+irregular rhythm. This needs to be monitored 
+-Please schedule to see a neurologist for 3 months after 
+hospital discharge to monitor your neurologic status.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+It was a pleasure taking care of you! Wishing you safe travels 
+back to ___.
+
+Sincerely,  
+Your ___ Neurology Team  
+ 
+Followup Instructions:
+___

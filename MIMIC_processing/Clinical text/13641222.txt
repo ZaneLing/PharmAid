@@ -1,0 +1,334 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Numbness of left fingertips. 
+ 
+Major Surgical or Invasive Procedure:
+None. 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with PMH of DM, HTN, HLD here with new 
+onset L fingertip tingling x 10 hours. He states that he woke up 
+in the middle of the night, with left arm tingling. At first he 
+thought he slept on it funny. He took his own BP at this time 
+and it was elevated, SBP 150s. When the tingling did not go away 
+by the morning or after taking his AM medications, he decided to 
+go to the ED. His tingling resolved after presentation to the 
+ED. He denies any associated chest pain, nausea, diaphoresis, 
+dyspnea, fevers, chills. No weakness, no headache, no neck 
+stiffness, no focal neurological deficits. He states that he has 
+never experienced this sensation before, and it resolved on its 
+own.  He regularly exercises on the elliptical about 45 minutes 
+every day and has never experienced this hand/arm tingling or 
+chest pain. He has no hx of MI, ACS, stroke, anticoagulant use.  
+
+ 
+Past Medical History:
+hypertension
+dyslipidemia
+diabetes (last A1c 6.0 on ___  
+Aortic Stenosis, new murmur found on PE, ECHO performed on 
+___  
+Cholecystectomy  
+Colonic Adenoma  
+Depressive disorder 
+ 
+Social History:
+___
+Family History:
+ Father with history of prostate CA, died at ___. Mother with 
+history of MI and stent in her ___, died of old age at ___. No 
+siblings. Daughter in good health. No family history of early 
+MI, arrhythmia, cardiomyopathies, or sudden cardiac death.  
+ 
+Physical Exam:
+==========================
+ADMISSION PHYSICAL
+==========================
+
+ VS: 97.9, 162/88, 92, 18, 100% RA  
+ GENERAL: WDWN male in NAD. Oriented x3. Mood, affect 
+appropriate.  
+ HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa.  
+ NECK: Supple with JVP <10 cm.  
+ CARDIAC: RR, normal S1, S2. ___ systolic ejection murmur heard 
+best at RUSB with radiation to the carotids. No rubs/gallops. No 
+thrills, lifts.  
+ LUNGS: Resp unlabored, no accessory muscle use. Lungs CTAB. No 
+crackles, wheezes or rhonchi.  
+ ABDOMEN: Soft, NTND. No HSM or tenderness.  
+ EXTREMITIES: Warm, well perfused, no edema or discoloration.  
+ SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+ PULSES: Radial and distal pulses palpable and symmetric.
+
+==========================
+DISCHARGE PHYSICAL
+==========================
+
+ VS: 98.3 140/87 81 18 98% RA  
+ GENERAL: WDWN male in NAD. Oriented x3. Mood, affect 
+appropriate.  
+ HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa.  
+ NECK: Supple with JVP <10 cm.  
+ CARDIAC: RR, normal S1, S2. ___ systolic ejection murmur heard 
+best at RUSB with radiation to the carotids. No rubs/gallops. No 
+thrills, lifts.  
+ LUNGS: Resp unlabored, no accessory muscle use. Lungs CTAB. No 
+crackles, wheezes or rhonchi.  
+ ABDOMEN: Soft, NTND. No HSM or tenderness.  
+ EXTREMITIES: Warm, well perfused, no edema or discoloration.  
+ SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+ PULSES: Radial and distal pulses palpable and symmetric.
+ 
+Pertinent Results:
+==========================
+ADMISSION LABS
+==========================
+
+___ 05:45AM BLOOD WBC-5.1 RBC-3.85* Hgb-11.7* Hct-34.9* 
+MCV-91 MCH-30.4 MCHC-33.5 RDW-12.3 RDWSD-40.8 Plt ___
+___ 07:00AM BLOOD WBC-8.2# RBC-4.11* Hgb-12.4* Hct-37.4* 
+MCV-91 MCH-30.2 MCHC-33.2 RDW-12.1 RDWSD-40.0 Plt ___
+___ 05:45AM BLOOD Glucose-121* UreaN-21* Creat-1.1 Na-128* 
+K-7.2* Cl-94* HCO3-22 AnGap-19
+___ 07:00AM BLOOD cTropnT-<0.01
+___ 01:00PM BLOOD cTropnT-<0.01
+___ 05:45AM BLOOD Calcium-9.1 Mg-1.9
+
+==========================
+DISCHARGE LABS
+==========================
+
+___ 08:12AM BLOOD WBC-4.5 RBC-4.23* Hgb-13.0* Hct-38.5* 
+MCV-91 MCH-30.7 MCHC-33.8 RDW-12.5 RDWSD-41.2 Plt ___
+___ 08:12AM BLOOD Glucose-129* UreaN-13 Creat-1.0 Na-136 
+K-4.3 Cl-98 HCO3-26 AnGap-16
+___ 08:12AM BLOOD Calcium-9.7 Phos-3.1 Mg-2.1
+
+==========================
+IMAGING 
+==========================
+
+___ Chest X Ray
+ 
+The cardiomediastinal silhouette and pulmonary vasculature are 
+unremarkable. 
+The lungs are clear.  There is no pleural effusion or 
+pneumothorax.
+ 
+IMPRESSION: 
+No acute intrathoracic abnormality.
+
+___ CT Head Non Con
+
+FINDINGS: 
+There is no evidence of infarction, hemorrhage, edema, or mass.  
+There is
+prominence of the ventricles and sulci suggestive of 
+involutional changes.
+Small area of hyperdensity in the left basal ganglia are likely 
+reflect
+mineralization.
+ 
+There is no evidence of fracture.  There is diffuse mucosal 
+thickening
+involving the frontal, ethmoid, and sphenoid sinuses.  Mastoid 
+air cells and
+middle ear cavities are clear.  The visualized portion of the 
+orbits are
+unremarkable.
+ 
+IMPRESSION: 
+1. No acute intracranial hemorrhage.
+
+==========================
+STUDIES
+==========================
+
+___ Exercise EKG Stress Test
+
+RESTING DATA
+EKG:  SINUS, AV DELAY, NSSTTWS 
+HEART RATE:  96BLOOD PRESSURE:  148/86
+ 
+PROTOCOL ___ - TREADMILL
+STAGETIMESPEEDELEVATIONHEARTBLOODRPP
+ (MIN)(MPH)(%)RATEPRESSURE 
+___
+___
+ 
+TOTAL EXERCISE TIME:  7% MAX HRT RATE ACHIEVED:  110
+SYMPTOMS:NONE 
+ST DEPRESSION:ISCHEMIC
+PEAK ___EPRESSION, ___LEVATION IN AVR
+        TIME        HR    BP  RPP
+ONSET:4.5 ___
+RESOLUTION:    
+ 
+INTERPRETATION: This ___ yo man with h/o HTN, HLD, NIDDM, and
+moderate AS was referred to the lab from the ED following 
+negative
+serial cardiac enzymes for evaluation of atypical chest 
+discomfort. The
+patient exercised for 7 minutes of ___ protocol and was 
+stopped for
+fatigue. The estimated peak MET capacity was 8.2, which 
+represents a
+good exercise tolerance for his age. There were no reports of 
+chest,
+back, neck, or arm discomforts during the study. At peak 
+exercise and in
+the setting of baseline NSSTTWs (including 0.5-___epressions with TWI inferolaterally), there was an additional 
+1-1.___epression from baseline with biphasic T waves in 
+the
+inferior leads and V4-V6, as well as 1-___levation in aVR. 
+These
+changes resolved back to baseline by 12 minutes of recovery. 
+Rhythm was
+sinus with frequent isolated APBs, one atrial couplet, two 
+atrial
+triplets, brief atrial bigeminy, and one VPB. There was an 
+appropriate
+heart rate response during exercise and recovery. Mild resting 
+systolic
+hypertension with a mild asymptomatic drop in blood pressure at 
+peak
+exercise and an overall flat response to exercise.
+
+IMPRESSION: Ischemic EKG changes in the setting of baseline 
+NSSTTWs with
+mild asymptomatic drop in blood pressure and no anginal type 
+symptoms.
+Frequent low-grade AEA as noted. Average functional capacity.
+SIGNED: ___
+
+ 
+Brief Hospital Course:
+************TRANSITIONAL ISSUES****************
+#CODE: Full (confirmed ___
+#CONTACT: ___, ___. ___, 
+friend, ___. 
+#PCP: Dr. ___
+#Cardiology: Dr. ___ 
+#Changed HCTZ to chlorthalidone 
+#Changed pravastatin to atorvastatin 
+#Stress ECHO to be scheduled week of ___ by cardiology
+#Chem 10 in 1 week given changing diuretic to chlorthalidone 
+
+#Exercise EKG stress test: Patient presented to the ED after 
+waking up with numbness the fingertips of his left hand that 
+lasted for 10 hours before self-resolving. His resting EKG was 
+unchanged from ___ and his troponins were negative x 2. His 
+symptoms were not reproduced during exercise and he did not have 
+classic angina. During his stress test, he did have ischemic EKG 
+changes and a mild asymptomatic drop in blood pressure. This is 
+in the setting of known aortic stenosis. The decision to delay 
+cardiac catheterization was made until a more informative stress 
+test is performed.
+- stress ECHO as an outpatient. 
+
+#Hypertension - Blood pressure within normal limits at 
+discharge, but switched to chlorthalidone for long term risk 
+reduction. 
+- Stop HCTZ 25mg daily
+- Start Chlorthalidone 25mg daily 
+
+#Hypercholesterolemia - Changed to Lipitor for improved long 
+term risk reduction 
+- Stop pravastatin 80mg daily 
+- Start atorvastatin 40mg daily 
+ 
+Medications on Admission:
+1. amLODIPine 5 mg PO DAILY 
+2. MetFORMIN (Glucophage) 1000 mg PO BID 
+3. Pravastatin 80 mg PO QPM 
+4. GlipiZIDE 2.5 mg PO DAILY 
+5. Hydrochlorothiazide 25 mg PO DAILY 
+6. Lisinopril 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+2.  Atorvastatin 40 mg PO QPM  
+3.  Chlorthalidone 25 mg PO DAILY 
+4.  amLODIPine 5 mg PO DAILY  
+5.  GlipiZIDE 2.5 mg PO DAILY  
+6.  Lisinopril 40 mg PO DAILY  
+7.  MetFORMIN (Glucophage) 1000 mg PO BID  
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: Paresthsia of the left fingertips, unknown 
+etiology. 
+
+Secondary diagnosis: Positive exercise EKG stress test, 
+hypertension, hyperlipidemia, diabetes.  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you during your stay at ___. 
+
+You came to the hospital for numbness in your fingertips that 
+did not go away.  
+
+Blood tests showed you were not having a heart attack.  A 
+exercise test was performed.  You had changes on your EKG during 
+exertion.  This is suggestive of narrowings in your coronary 
+arteries, the blood vessels that supply your heart with 
+oxygen(known as "coronary artery disease").  
+
+The gold standard for diagnosing coronary artery disease is a 
+cardiac catheterization, an invasive test that assesses the 
+coronary arteries directly.  However, since your symptoms were 
+not reproduced during the stress test and you have aortic 
+stenosis, the stress test results can be difficult to interpret. 
+ We discussed the possibility that the test may have been a 
+false-positive.  
+
+In order to clarify your need for cardiac catheterization, a 
+second stress test with an ultrasound of your heart is needed 
+("stress ECHO").  After a discussion with our team, we decided 
+to perform this test as an outpatient.  
+
+We adjusted some of your medications, please take them as 
+prescribed and have your labs checked in 1 week (rx provided).   
+
+
+Please follow up with your primary care doctor on ___ as 
+planned.  
+
+Dr. ___ be your cardiologist moving forward.
+
+Sincerely, 
+
+Your ___ team 
+
+You were admitted for possible cardiac catheterization. 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,207 @@
+Name:  ___                Unit ___:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+___ Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p MVC
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old female who complains of MVC.
+Patient involved in head-on MVC. Patient belted. Patient ___
+LOC but some confusion. Patient went outside hospital and
+had a negative head and neck CT. Patient does have ongoing
+left upper extremity weakness. Patient transferred for
+further neurologic evaluation. Patient notes minimal left
+lateral neck pain that she rates a 4 out of 10. Patient
+denies any abdominal back or flank pain. Patient denies any
+nausea or vomiting.
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+PHYSICAL EXAMINATION
+Temp: 99.2 HR: 70 BP: 112/58 Resp: 16 O(2)Sat: 95
+Constitutional: Comfortable
+HEENT: Normocephalic, atraumatic
+C-collar
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm, Normal first and
+second heart sounds
+Abdominal: Soft, Nontender, Nondistended
+GU/Flank: ___ costovertebral angle tenderness
+Extr/Back: ___ cyanosis, clubbing or edema
+Skin: ___ rash
+Neuro: Speech fluent, decreased strength left upper
+extremity, sensation intact to light touch and pain
+Psych: Normal mood
+
+Discharge Physical Exam:
+VS: 98.3, 94/61, 62, 18, 97 ra
+Gen:  Lying in bed, NAD
+HEENT: soft collar
+Chest: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm, Normal first and
+second heart sounds
+Abdominal: Soft, Nontender, Nondistended
+Ext: ___ edema
+Neuro: postconcussive syndrome see OT note. Improving sensation 
+to left hand
+ 
+Pertinent Results:
+___ 02:08PM BLOOD WBC-7.7 RBC-4.56 Hgb-13.7 Hct-40.6 MCV-89 
+MCH-30.0 MCHC-33.7 RDW-12.3 RDWSD-39.9 Plt ___
+___ 02:08PM BLOOD Glucose-106* Lactate-1.6 Na-142 K-4.1 
+Cl-104 calHC___
+
+IMAGING:
+MR ___ spine
+___ evidence of signal abnormality or cord compression. There is
+___ epidural collection. 
+
+MR ___ spine
+___ evidence of signal abnormality or cord compression. There is
+___ epidural collection. 
+
+MR ___ plexus
+___ abnormal enhancement or collection seen in the region of the
+brachial plexus bilaterally. 
+
+NCHCT 
+(done at OSH), per report negative for acute
+intracranial process.
+
+ 
+Brief Hospital Course:
+___ yo female admitted to ___ from an OSH on ___ s/p MVC. Pt 
+was as a restrained driver with neck pain and LUE 
+numbness/weakness. At OSH CT of the head was negative and CT of 
+the C-spine and T-spine were also read as negative.  
+
+Neurology is consulted for persistent left arm weakness and 
+numbness in left upper extremity. She underwent C/T-spine MRI 
+that was unrevealing On exam, the patient had generalized 
+numbness to pin prick isolated to the left arm involving 
+multiple dermatomes, mostly C5 through T1. These findings are 
+suggestive of a lesion likely involving the brachial plexus.  
+The mechanism of injury is likely stretch from whiplash injury.  
+They recommended ___ additional testing at this time. If 
+weakness/numbness persists, may consider EMG/NCS in several 
+weeks as an outpatient, and ___ clinic follow up for post 
+concussive syndrome.
+
+ENT was consulted for patient's complaints of muffled hearing in 
+her left ear. They recommended outpatient audiogram. ___ and OT 
+evaluate the patient and clear her for discharge home with 
+outpatient follow-up. The patient was hemodynamically stable.
+.
+Pain was well controlled. During this hospitalization, the 
+patient ambulated early and frequently, was adherent with 
+respiratory toilet and incentive spirometry, and actively 
+participated in the plan of care. The patient received 
+subcutaneous heparin and venodyne boots were used during this 
+stay.
+.
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient was discharged home without services. 
+The patient received discharge teaching and follow-up 
+instructions with understanding verbalized and agreement with 
+the discharge plan
+
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild  
+2.  Lidocaine 5% Patch 1 PTCH TD QAM neck pain  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Motor Vehicle Accident
+Left upper extremity weakness, possible brachial plexus injury
+Postconcussive syndrome
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mrs. ___, you were admitted to ___ secondary to a motor 
+vehicle accident, you were transferred form ___. 
+Fortunately you did not suffer loss of consciousness or major 
+injuries, however, you did suffer decreased strength in your 
+left arm, as well as neck pain. MRI scans did not show any 
+concerning ligamentous injury. Neurology was consulted, who felt 
+you may have a mild brachial plexus injury from whiplash, but 
+your symptoms are improving and this will hopefully heal on its 
+own with time. If weakness/numnbess persists, you may consider 
+EMG/NCS in several weeks as an outpatient, after Neurology 
+follow up. You are also complaining of decreased hearing in your 
+left ear. The ENT doctors are recommending ___ audiogram as an 
+outpatient. Please call the ___ clinic to schedule this or do it 
+through your PCP.  
+
+You are now medically clear for discharge home to continue your 
+recovery. For your post-concussive symptoms, OT has recommended 
+follow-up in cognitive neurology. Please see number below to 
+arrange follow-up.
+
+Please call your doctor or nurse practitioner or return to the 
+Emergency Department for any of the following:
+*You experience new chest pain, pressure, squeezing or 
+tightness.
+*New or worsening cough, shortness of breath, or wheeze.
+*If you are vomiting and cannot keep down fluids or your 
+medications.
+*You are getting dehydrated due to continued vomiting, diarrhea, 
+or other reasons. Signs of dehydration include dry mouth, rapid 
+heartbeat, or feeling dizzy or faint when standing.
+*You see blood or dark/black material when you vomit or have a 
+bowel movement.
+*You experience burning when you urinate, have blood in your 
+urine, or experience a discharge.
+*Your pain in not improving within ___ hours or is not gone 
+within 24 hours. Call or return immediately if your pain is 
+getting worse or changes location or moving to your chest or 
+back.
+*You have shaking chills, or fever greater than 101.5 degrees 
+Fahrenheit or 38 degrees Celsius.
+*Any change in your symptoms, or any new symptoms that concern 
+you.
+
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication. Also, please take 
+any new medications as prescribed.
+
+Please get plenty of rest, continue to ambulate several times 
+per day, and drink adequate amounts of fluids
+ 
+Followup Instructions:
+___

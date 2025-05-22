@@ -1,0 +1,159 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ M with a history of HTN, recurrent UTIs, 
+atrial fibrillation (on Eliquis), and type IV hiatal hernia 
+presenting with severe abdominal pain. The patient's pain 
+started at 12pm on ___, and was ___, dull and achy. He 
+felt nauseated but was unable to vomit. The patient describes 
+multiple similar episodes in the past that resolved with passing 
+gas or flatus. He had a large bowel movement at 2pm on ___. He 
+presented to ___ due to the pain, and was found to 
+have a large bowel obstruction with evidence of SBO on CT. The 
+patient's vital signs were stable. He was then transferred to 
+___ for further evaluation. 
+
+Upon arrival at the ___ ED, he was afebrile and 
+non-tachycardic, with mild tachycardia. (T 96.9,  HR 66, BP 
+150/77, RR 18, O2 96% RA). He endorsed moderate abdominal pain 
+(___). He denies chest pain, SOB, nausea, vomiting, diarrhea, 
+fever, chills, or constipation. His CT was reviewed, and was 
+found to be consistent with a large hiatal hernia (components of 
+small bowel, stomach, and large bowel within thorax). 
+
+ 
+Past Medical History:
+Past medical history:
+- Atrial fibrillation
+- Hypertension
+- Type IV hiatal hernia
+- Recurrent UTI
+- Urinary retention
+
+Past surgical history:
+- Carpal tunnel release
+- R knee surgery
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Physical exam:
+General: AOx3, well-appearing
+HEENT: Head atraumatic, normocephalic
+Cardiovascular: Irregularly irregular rhythm. No murmurs, rubs, 
+or gallops
+Pulmonary: Bowel sounds heard in lower chest bilaterally. No 
+wheezes, rales, or crackles
+Abdomen: Soft, non-distended. Mild epigastric tenderness. No 
+rebound or guarding
+ 
+Pertinent Results:
+Admission labs: Negative for leukocytosis or anemia. Positive 
+for hyperkalemia (5.5) and mild lactic acidosis (2.2). 
+___ 02:40PM 
+WBC-9.9 RBC-5.39 Hgb-15.7 Hct-49.4 MCV-92 Plt ___ PTT-31.8 ___
+Glucose-118* UreaN-27* Creat-1.0 Na-147* K-5.5* Cl-106 HCO3-28 
+AnGap-13
+Lactate-2.2*
+___ 09:45AM BLOOD WBC-10.5* RBC-4.83 Hgb-14.4 Hct-45.2 
+MCV-94 MCH-29.8 MCHC-31.9* RDW-14.2 RDWSD-48.7* Plt ___
+___ 09:45AM BLOOD Glucose-90 UreaN-33* Creat-1.0 Na-145 
+K-4.2 Cl-104 HCO3-24 AnGap-17*
+ 
+Brief Hospital Course:
+Mr. ___ was transferred to the ___ emergency department from 
+___ on ___, where he had presented with 
+severe abdominal pain and was found to have a large type IV 
+hiatal hernia with evidence of partial small bowel obstruction 
+on CT. 
+
+In the ___ ED, he was hemodynamically stable with no evidence 
+of leukocytosis and was afebrile. His abdominal pain had largely 
+resolved. An NG tube was placed, and the patient was admitted to 
+the ___ surgery service for possible hiatal hernia repair.
+
+In the hospital, he was kept NPO and given IV fluids. His home 
+cephalexin was replaced with an equivalent dose of IV cefazolin. 
+His home enalapril was held. His home apixaban was held out of 
+consideration for possible surgical management of his hiatal 
+hernia. He was given subcutaneous heparin and encouraged to 
+ambulate for DVT prophylaxis.
+
+On HD1, the NG tube was removed, and the patient was 
+transitioned to a clear liquid diet, which he tolerated well. On 
+HD2, the patient was transitioned to a regular diet, which he 
+tolerated well. Patient was discharged on HD3.
+
+On the day of discharge, he was ambulating independently, 
+tolerating a regular diet, voiding independently, and had no 
+pain complaints. 
+ 
+Medications on Admission:
+- Cephalexin monohydrate 5mg by mouth, 1 tablet, 2 times a day
+- Enalapril maleate 5mg by mouth, 1 tablet, 2 times a day
+- Eliquis 5mg by mouth, 1 tablet, 2 times a day
+ 
+Discharge Medications:
+- Cephalexin monohydrate 5mg by mouth, 1 tablet, 2 times a day
+- Enalapril maleate 5mg by mouth, 1 tablet, 2 times a day
+- Eliquis 5mg by mouth, 1 tablet, 2 times a day
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Type IV hiatal hernia with obstruction
+
+ 
+Discharge Condition:
+Activity Status: Ambulatory - Independent.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you here at ___ 
+___. You were admitted to our hospital for 
+severe abdominal pain due to your type IV hiatal hernia. You 
+were found to have a partial bowel obstruction, and a 
+nasogastric tube was placed to decompress your stomach. You have 
+recovered and are now ready to be discharged to home. Please 
+follow the recommendations below to ensure a speedy and 
+uneventful recovery. 
+
+MEDICATIONS:
+- Take all the medicines you were on before the operation just 
+as you did before, unless you have been told differently.
+- If you have any questions about what medicine to take or not 
+to take, please call your surgeon. 
+
+ 
+Followup Instructions:
+___

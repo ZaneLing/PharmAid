@@ -1,0 +1,301 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Codeine
+ 
+Attending: ___
+ 
+___ Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+Bronchoscopy with stent of right bronchus intermedius and 
+tracheobronchial wash ___
+
+ 
+History of Present Illness:
+___ with a PMH of breast CA s/p mastectomy in ___-
+recurrence in ___ s/p right axillary lymph node dissection, on
+arimidex- recently found to have mediastinal lymphadenopathy on
+dyspnea work up by PCP so she was sent to interventional pulm 
+for
+EBUS on ___.  
+
+___: EBUS showed: mucosal abnormalities in the distal trachea,
+RMS, TI, and LMS. Marked extrinsic compression of the bronchus
+intermidius with some RMS and LMS compression.  Multiple 
+enlarged
+lymph nodes which were biopsied. 
+
+___: presented to the ED with cough and shortness of breath
+since the procedure the day prior. The SOB was severe, it was
+worsening, it was associated with cough. The severe SOB was 
+going
+on for 1 day. Another chest CT was done which showed significant
+narrowing/occlusion of the right main stem and bronchus
+intermidius. She was taken on ___ for bronchoscopy and a stent
+was deployed in the BI, patency restored. 
+
+The biopsy on ___ has resulted in adenocarcinoma (primary site
+pending, ? breast vs. lung)."
+ 
+Past Medical History:
+Breast cancer, S/P mastectomy ___, recurrence in ___ S/P right 
+axillary lymph node dissection, currently on Arimidex
+ 
+Social History:
+___
+Family History:
+A paternal aunt had breast cancer at age ___. 
+Her father had prostate cancer at age ___.  Her paternal
+grandfather had colon cancer at age ___.  A maternal uncle had
+colon cancer in his ___.
+ 
+Physical Exam:
+ON ADMISSION:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: diffuse rhonchi.
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+=====================
+ON DISCHARGE:
+VITALS: 24 HR Data (last updated ___ @ 1313)
+    Temp: 98.6 (Tm 99.5), BP: 121/76 (108-131/64-78), HR: 86 
+(81-90), RR: 20 (___), O2 sat: 96% (95-96%-96), O2 delivery: 
+RA, Wt: 128 lb/58.06 kg
+GENERAL: Alert and in no apparent distress, appears comfortable, 
+conversant
+EYES: Anicteric
+ENT: Ears and nose without visible erythema, masses, or trauma.  
+Oropharynx without visible lesion, erythema or exudate. Moist 
+mucus membranes.
+CV: RRR, no murmurs/rubs, no S3, no S4. 2+ radial pulses 
+bilaterally.
+RESP: Lungs with coarse breath sounds throughout, but no 
+distinct wheezes or crackles.  Breathing is non-labored on room 
+air.
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel 
+sounds present.  
+GU: No GU catheter present
+MSK: Moves all extremities, no edema or swelling
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented x3, face symmetric, speech fluent, moves 
+all limbs
+PSYCH: Pleasant, appropriate affect, calm, cooperative
+
+ 
+Pertinent Results:
+ON ADMISSION:
+___ 10:30AM BLOOD WBC-11.1* RBC-4.75 Hgb-13.3 Hct-41.1 
+MCV-87 MCH-28.0 MCHC-32.4 RDW-12.5 RDWSD-39.6 Plt ___
+___ 10:30AM BLOOD Neuts-74.9* Lymphs-16.2* Monos-5.7 
+Eos-2.0 Baso-0.9 Im ___ AbsNeut-8.28* AbsLymp-1.79 
+AbsMono-0.63 AbsEos-0.22 AbsBaso-0.10*
+___ 11:37AM BLOOD ___ PTT-32.0 ___
+___ 10:30AM BLOOD Glucose-80 UreaN-10 Creat-0.7 Na-142 
+K-4.3 Cl-107 HCO3-22 AnGap-13
+___ 10:30AM BLOOD cTropnT-<0.01
+___ 10:30AM BLOOD Calcium-9.6 Phos-3.2 Mg-2.0
+___ 02:20PM BLOOD Lactate-1.5
+===============
+ON DISCHARGE:
+___ 05:16AM BLOOD WBC-9.1 RBC-4.48 Hgb-12.3 Hct-38.0 MCV-85 
+MCH-27.5 MCHC-32.4 RDW-12.1 RDWSD-37.4 Plt ___
+___ 05:16AM BLOOD Glucose-94 UreaN-8 Creat-0.7 Na-141 K-4.5 
+Cl-103 HCO3-25 AnGap-13
+===============
+MICROBIOLOGY:
+Blood cultures x2 from ___: PENDING
+Bronchial washing culture ___: 
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+   RESPIRATORY CULTURE (Preliminary): 
+   ACID FAST SMEAR (Preliminary): 
+   ACID FAST CULTURE (Preliminary): 
+   FUNGAL CULTURE (Preliminary): 
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      Test cancelled by laboratory. 
+      PATIENT CREDITED. 
+      This is a low yield procedure based on our in-house 
+studies. 
+      if pulmonary Histoplasmosis, Coccidioidomycosis, 
+Blastomycosis,
+      Aspergillosis or Mucormycosis is strongly suspected, 
+contact the
+      Microbiology Laboratory (___). 
+===============
+CXR ___:
+No focal consolidation to suggest pneumonia.  Unchanged 
+mediastinal 
+lymphadenopathy. 
+
+CTA CHEST WITH CONTRAST ___:
+1. No evidence for pulmonary embolism or acute thoracic aorta 
+pathology. 
+2. New ground-glass opacity of the right upper lobe may be due 
+to infection versus aspiration, however hemorrhage cannot be 
+excluded considering recent biopsy. 
+3. New intraluminal obstructing material within the right 
+mainstem bronchus with extension to the right upper lobe 
+bronchus and intermediate bronchus suggestive of mucus plugging. 
+
+4. Re-demonstrated right hilar and mediastinal lymphadenopathy, 
+some of which is necrotic, with encasement and narrowing of the 
+right mainstem bronchus by the lymphadenopathy. 
+5. Post radiation changes within the right apex and anterior 
+right upper lobe. 
+
+CXR ___:
+Interval placement of a stent in the right mainstem bronchus. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo lady with history of breast cancer s/p 
+mastectomy in ___ with recurrent in ___ with right axillary 
+node dissection on Arimidex who was found to have new 
+mediastinal lymphadenopathy by her PCP after presenting for 
+dyspnea.  She had EBUS with nodal biopsies on ___ and 
+presented to ED on ___ with increasing dyspnea.  She was not 
+hypoxic, but was found to have narrowing/occlusion of the right 
+main stem and bronchus intermedius on CTA chest, so she 
+underwent bronchoscopy with stent placement on ___.  Her 
+node biopsies from ___ are consistent with metastatic 
+adenocarcinoma of breast origin.
+
+#Mediastinal lymphadenopathy with compression of right bronchus 
+intermedius s/p airway stenting
+#Shortness of Breath: She had CT done by PCP ___ ___ for 
+shortness of breath and was found to have mediastinal 
+lymphadenopathy (some of which is necrotic) with compression of 
+right mainstem bronchus and bronchus intermedius.  She had ___ 
+EBUS with biopsies and these showed metastatic breast 
+adenocarcinoma. She re-presented
+on ___ with SOB and found to have compression of right bronchus 
+intermedius.  She underwent bronchoscopy with stent with 
+restored patency. She will follow up with Dr. ___ on ___ 
+in ___.  IP recommended:
+-Mucomyst (N-Acetylcysteine) (100 mg/mL, 10 %) solution, 4 ml 
+nebulized BID 
+-Albuterol Sulfate 2.5 mg/3 mL (0.083 %) solution for 
+nebulization BID x 10 days
+-Nebulizer Machine
+-Guafenesin (Mucinex®) 1200mg BID 
+-Flutter valve (Acapella) BID and PRN congestion
+
+#Metastatic breast adenocarcinoma: Mediastinal node biopsies 
+showed breast origin.  She will follow up with her primary 
+oncologist Dr. ___ - I have emailed to ask for her to have 
+follow up scheduled early this week.  I discussed the results 
+with the patient and her daughter.
+
+#Question of pneumonia: ___ was 11 on admission with GGO in RUL 
+(?aspiration vs. infection), so she was empirically started on 
+vancomycin/cefepime/flagyl on ___.  She has no evidence of 
+pneumonia on CTA chest and had no fever and leukocytosis 
+resolved.  Discussed with IP who did not recommend continuing 
+antibiotics, which I agree with based on CT and clinical 
+presentation.
+
+#Insomnia: She has been on Mirtazapine in the past, without 
+improvement in insomnia and requested short course of another 
+medication to help with sleeping especially in acute setting of 
+new cancer diagnosis.  I prescribed short course of Trazodone.
+ 
+TRANSITIONAL ISSUES:
+- Follow up pending blood cultures from ___, 
+tracheobronchial wash cultures from ___
+- Follow up pending pathology from ___ (immunophenotyping) and 
+___ biopsy
+- Follow up with Dr. ___ on ___
+- Follow up with Dr. ___
+
+============================
+Ms. ___ is clinically stable for discharge today. The total 
+time spent today on discharge planning, counseling and 
+coordination of care was greater than 30 minutes.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Mirtazapine 15 mg PO QHS 
+2. Docusate Sodium 100 mg PO BID:PRN Constipation - First Line 
+3. Anastrozole 1 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetylcysteine 20% ___ mL NEB BID 
+RX *acetylcysteine 100 mg/mL (10 %) 4 mL twice a day Disp #*100 
+Milliliter Refills:*0 
+2.  Albuterol 0.083% Neb Soln 1 NEB IH BID 
+RX *albuterol sulfate 2.5 mg/3 mL (0.083 %) 1 neb twice a day 
+Disp ___ Milliliter Refills:*0 
+3.  GuaiFENesin ER 1200 mg PO Q12H 
+RX *guaifenesin [Mucinex] 1,200 mg 1 tablet(s) by mouth every 
+twelve (12) hours Disp #*28 Tablet Refills:*0 
+4.  nebulizers 1 machine miscellaneous BID 
+1 nebulizer machine 
+RX *nebulizers  1 nebulizer machine twice a day Disp #*1 Each 
+Refills:*0 
+5.  TraZODone 25 mg PO QHS:PRN Insomnia 
+RX *trazodone 50 mg 0.5 (One half) tablet(s) by mouth at bedtime 
+Disp #*7 Tablet Refills:*0 
+6.  Anastrozole 1 mg PO DAILY  
+7.  Docusate Sodium 100 mg PO BID:PRN Constipation - First Line  
+
+8.  Mirtazapine 15 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Dyspnea
+Mediastinal lymphadenopathy with compression of right bronchus 
+intermedius
+Metastatic breast adenocarcinoma
+History of breast cancer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were hospitalized with shortness of breath.  You had a 
+bronchoscopy with stent placement to relive compression of your 
+airway.  You are being prescribed a nebulizer machine and will 
+have new medications to be used with the nebulizer.  You were on 
+antibiotics, but per discussion with the pulmonologist (lung 
+specialist), you do not need to continue antibiotics at this 
+time.
+
+Please follow up with Dr. ___ as scheduled on ___.  I'll 
+also contact your oncologist to make sure his office contacts 
+you for follow up.
+ 
+Followup Instructions:
+___

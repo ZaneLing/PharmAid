@@ -1,0 +1,222 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Demerol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Liver lesions on MRI
+ 
+Major Surgical or Invasive Procedure:
+Ultrasound guided liver biopsy ___
+
+ 
+History of Present Illness:
+MS. ___ is a ___ year old woman with hypothyroidism s/p 
+thyroidectomy for adenoma who presents with one month of 
+abdominal pain and imaging concerning for liver metastases. 
+
+The patient shares that for many years she has had right sided 
+abdominal pain after eating heavy or fatty meals. She never had 
+acute cholecysitits. But then over the past month or so she 
+noticed the pain is more persistent, and not only occurring with 
+meals. She will also sometimes have the pain spread across her 
+entire abdomen, and radiate to the back. It is crampy, sharp, 
+with no associated nausea, vomiting, or change in bowel habits. 
+She has lost some weight because eating only chicken and 
+vegetables the past month to try and prevent the pain from 
+occurring. But she denies losing any marked amount of weight 
+unintentionally. She has had no fevers, no chills, no confusion, 
+no change in skin color, no change in appetite, no change in 
+energy, no diarrhea or constipation, no vomiting, no melena and 
+no hematochezia. 
+
+She presented to her PCP with these symptoms, and they ordered a 
+RUQ US ___ that showed multiple hepatic lesions, and 
+recommended an MRI. MRI ___ showed six hepatic lesions, the 
+largest being 4.6 cm, concerning for metastases. Her primary 
+care doctor alerted her to come to the ED. 
+
+In the ED, vitals were stable. Labs were notable only for a 
+mildly elevated AP to 127. 
+
+Upon arrival to the floor, she gives the above history. She 
+shares that she has not had a mammogram in many years and has 
+never had a colonoscopy. She had a sigmoidoscopy ___ years ago. 
+She does not undergo any other types of colon cancer screening. 
+
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath. Denies chest pain 
+or tightness, palpitations. Denies nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denies arthralgias or myalgias.  
+ 
+
+ 
+Past Medical History:
+HTN, not on medication
+Hypothyroidism s/p thyroidectomy for adenoma
+HLD, not on medication
+Hidradenitis suppurativa
+ 
+Social History:
+___
+Family History:
+Mother with breast cancer at ___, died at ___
+Father with CAD
+Uncle with lung cancer
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VITALS:  98.0 137/85 76 17 98 Ra 
+GENERAL: Alert, oriented, no acute distress, well appearing  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CARDIOVASCULAR: Regular rate and rhythm, normal S1 + S2, no 
+murmurs, rubs, gallops  
+LUNGS: Clear to auscultation bilaterally without wheezes, rales, 
+rhonchi
+BREAST: deferred breast tonight as patient had just become 
+comfortable in bed, plan to do breast exam and full lymph node 
+exam in the morning. 
+ABDOMEN: Soft, ___, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+EXTREMITIES: Warm, well perfused, 2+ pulses, no clubbing, 
+cyanosis or edema  
+NEURO: Face grossly symmetric. Moving all limbs with purpose 
+against gravity. Pupils equal and reactive, no dysarthria.  
+
+DISCHARGE PHYSICAL EXAM
+Vitals: T 98.2 BP 134/86 HR 71 98% RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops appreciated. 
+Abdomen: soft, ___, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly, negative 
+___ sign  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: No rashes on face, trunk, or upper extremities. 
+Neuro: Face grossly symmetric. Moving all limbs with purpose 
+against gravity. 
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 11:32AM BLOOD ___ 
+___ Plt ___
+___ 11:32AM BLOOD ___ 
+___
+___ 11:32AM BLOOD ___
+___ 11:32AM BLOOD ___
+
+DISCHARGE LABS 
+___ 06:20AM BLOOD ___ 
+___ Plt ___
+___ 06:20AM BLOOD ___ 
+___
+___ 06:20AM BLOOD ___
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with hypothyroidism s/p 
+thyroidectomy for adenoma who presented with one month of 
+abdominal pain and imaging concerning for liver metastases. 
+
+#Liver lesions:
+#Abdominal pain:
+The patient has about a ___ year history of biliary colic after 
+meals, but over the past month pain has started to occur at 
+times not related to meals. She has also started to experience 
+epigastric pain that is radiating to her back. She otherwise had 
+a very negative review of systems: no fevers, no chills, no 
+confusion, no change in skin color, no change in appetite, no 
+change in energy, no diarrhea or constipation, no vomiting, no 
+melena and no hematochezia. She has never had a mammogram or 
+colonoscopy. 
+
+She presented to her PCP, ___ ordered a RUQ US ___ 
+that showed multiple hepatic lesions. MRI ___ showed six hepatic 
+lesions, the largest being 4.6 cm, concerning for metastases. 
+Her primary care doctor alerted her to come to the ED. On ___ 
+the patient had an ultrasound guided liver biopsy with ___. She 
+recovered well from the procedure and was discharged the same 
+day of procedure. Pathology will be followed up as an 
+outpatient.
+
+#Hypothyroidism:
+Continue home levothyroxine.
+
+TRANSITIONAL ISSUES:
+- F/u pathology of biopsy done ___
+- If pathology unrevealing, may need CT guided biopsy
+- Patient has never had a colonoscopy or mammogram, and should 
+have these now for diagnostic purposes
+- Defer further workup to PCP 
+- CONTACT: Husband, ___
+- CODE STATUS: Full 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 100 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Levothyroxine Sodium 100 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Liver lesions concerning for metastases 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you during your hospitalization 
+at the ___. You were admitted 
+to the ___ because you were having abdominal pain, and an MRI 
+(radiology image) of your abdomen showed masses in your liver. 
+Unfortunately, these masses are concerning for cancer somewhere 
+else in your body. You had a biopsy done, and you will follow up 
+with the results after discharge. 
+
+It is very very important that you follow up with your primary 
+care doctor, ___ week. You may need to get additional 
+chest and abdominal imaging, and we strongly recommend you talk 
+to your doctor about getting a colonoscopy. Your doctor may also 
+recommend getting a mammogram, and we encourage you listen to 
+them about this as well.
+
+If you have worsening pain, or any bleeding or large bruising at 
+the biopsy site causing you discomfort, please seek medical 
+attention. 
+
+We wish you the best of luck in your health.
+
+Warmly,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

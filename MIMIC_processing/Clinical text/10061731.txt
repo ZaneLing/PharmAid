@@ -1,0 +1,470 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cough, vomiting, fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with history of
+lymphoplasmacytic lymphoma and IgG kappa MGUS c/b kidney injury
+now C5D16 (treated yesterday) BDR (bendamustine, dexamethasone,
+rituxan) who presents with fever. 
+
+He had URI symptoms one week ago with a fever. He had viral 
+panel
+and CXR that were negative. He had been getting better over the
+last several days. However, he had chemotherapy the day prior to
+admission. Following this he started to feel sick again, similar
+to his prior symptoms. He reports cough with yellow sputum
+production, nasal congestion, and headache. He notes decreased 
+PO
+intake over the last few days. He had a fever the day of
+admission to 100.8. He also had nausea with three episodes of
+___ vomiting.
+
+On arrival to the ED, initial vitals were 99.9 108 119/79 18 94%
+RA. Labs were notable for WBC 26.7 (PMNs 93.7%, lymphs 0.6%), 
+H/H
+12.4/38.7, Plt 172, Na 135, BUN/Cr ___ -> ___, ALT 133, 
+AST
+128, ALP 174, Tbili 1.1, lactate 3.1 -> 2.1, UA negative, and
+influenza PCR negative. CXR was negative for pneumonia. Patient
+was given pantoprazole 40mg PO, Zofran 4mg IV, azithromycin 
+500mg
+PO, Tylenol 1g PO, and 2L NS. Vitals prior to transfer were 99.2
+84 101/53 16 96% RA.
+
+On arrival to the floor, he reports that he is feeling much
+better. He has more energy. He believes that he was dehydrated.
+He denies headache, neck stiffness, sore throat, shortness of
+breath, chest pain, abdominal pain, diarrhea, hematuria, and
+dysuria.
+
+REVIEW OF SYSTEMS: A complete ___ review of systems was
+performed and was negative unless otherwise noted in the HPI.
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:
+This patient was seen by PCP with an elevated creatinine in 
+___
+and was referred to Dr. ___ from ___ here at
+___. The patient had a new diagnosis of kidney disease
+with an elevated creatinine from ___ in ___. Initial
+Ptn/Creat ratio was as high as 2.4. The patient also had a renal
+ultrasound done on ___ that showed that both kidneys
+appeared normal.   UPEP and urine IFE showed MULTIPLE PROTEIN
+BANDS SEEN, WITH ALBUMIN ___ KAPPA 
+DETECTED
+REPRESENTED ROUGHLY 15% OF URINARY PROTEIN BASED ON THIS 
+SAMPLE'S
+PROTEIN/CREATININE RATIO AND ASSUMING DAILY CREATININE EXCRETION
+OF 1000 MG THIS PATIENT'S ___ EXCRETION wAS estimated at
+15% * 1.6 * 1000 = 240 MG/DAY. Based on this pt was referred to
+us to r.o MM. We did not have prior lab data to compare. Serum
+IFE demonstrated IgG Kappa M ptn with 0.7gm/dl of protein. He 
+had
+a negative skeletal survey on ___.  His free kappa lambda
+ratio was 12.82 with a ___ microglobulin of 4.49. The patient
+was not anemic, did not show any evidence of hypercalcemia.
+- BM biopsy performed on ___ demonstrated hyperellular
+marrow with kappa restricted lymphoplasmacytic lymphoma with pos
+MYD88 mutation detection. No plasma cell dyscrasia seen.
+- ___: CT scans of the chest/abd/pelvis did not demonstrate 
+and
+adenopathy. Mild splenomegaly 13.2 cm was noted. Renal biopsy 
+was
+recommended by us to the nephrology team.
+- ___: Underwent renal biopsy that demonstrated  acute on
+chronic tubular injury, likely from the patient's known
+___ proteinuria. Case was reviewed by hemepath who saw
+evidence of lymphoplasmacytic lymphoma in the biopsy specimen 
+but
+this was felt to be a fragment of an inadvertently sampled LN
+rather than actual renal involvement with lymphoma. Case
+discussed with Dr ___ recommended treatment of the 
+lymphoma
+that was causing the ptnuria from acute on chronic tubular
+injury. This was reflective of the nephrology team consensus.
+- Given absence of symptomatic systemic lymphoma, it was decide
+to start treatment with single agent Rituximab.
+- ___ and ___ rcd 4 weekly doses of Rituxan.
+- ___: PET demonstrated no e.o lymphoma or lytic lesions.  
+- ___: Evaluated by Nephrology and felt to have improvement in
+ptnuria which was lower at 1.3 compared to ___ previously.
+Additionally the percent/amount of ___ proteinuria was
+less than previous values, but not completely negative. However
+continued to have glycosuria, hypouricemia, and hypophosphatemia
+indicating continued proximal tubule wasting. With so little
+___ protein in the urine, it was unclear if there is
+ongoing injury with this small amount. 
+- ___: Case discussed again and felt that we should add Velcade
+and Dex to the regimen.  
+- ___: Started on BDR regimen (Velcade/Dex and Rituximab) for
+treatment of ongoing light chain proximal tubulopathy. Ptn/Creat
+ratio was 1.6 gm/day before starting Velcade.
+- Rcd Velcade at 1.3 mg/m2 IV on days 1,___ and ___. Tolerated
+cycle 1 very well with no complications.  
+- ___: Ptn/creat ration decreased to 1gm/day after cycle 1 of
+Velcade. Rcd cycle 2 of BDR in which rcd Velcade given at 1.6
+mg/m2 and Dex ___ mg along with Rituxan on days 1,___ and ___.
+LFT's were elevated during course of Tx. Lipitor held. 
+- Course complicated by brief episodes of dizziness and diarrhea
+after Velcade doses for a few hours that resolved by itself.
+- ___: Ptn/Creat ratio improved to 0.7 gm/day. Given episodes 
+of
+hypotension/dizziness post Velcade administration and concern 
+for
+autonomic neuropathy sec to Velcade , dose of Velcade was 
+reduced
+to 1.3 mg/m2 and cycle 3 administered. Tolerated well with
+reduction in dose. 
+- ___: Ptn/Creat ratio improved to 0.7 gm/day. Given
+neuropathy,dose of Velcade was reduced further to 0.7 mg/m2 and
+cycle 4 administered. Tolerated it well with reduction in dose.
+ 
+PAST MEDICAL HISTORY:
+1. Small colonic benign adenomatous polyp for which he will have
+a repeat colonoscopy in ___ years.
+2. Obstructive sleep apnea for which he wears a CPAP for the 
+last
+___ years.
+3. Anxiety, on Celexa.
+4. Bilateral hip bursitis.
+5. Rare ocular migraines.
+6. Hyperlipidemia.
+7. Status post appendectomy in ___.
+8. Status post cholecystectomy about five to ___ years ago.
+9. New diagnosis of hypertension for which he is on amlodipine.
+ 
+Social History:
+___
+Family History:
+Not available as the patient is adopted.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=================
+VS: Temp 99.2, BP 110/64, HR 71, RR 18, O2 sat 96% RA.
+GENERAL: Pleasant man, in no distress, lying in bed comfortably.
+HEENT: Anicteric, PERLL, OP clear.
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi.
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly.
+EXT: Warm, well perfused, no lower extremity edema, erythema or
+tenderness.
+NEURO: Alert, oriented, good attention and linear thought, CN
+___ intact. Strength full throughout.
+SKIN: No significant rashes.
+ 
+DISCHARGE PHYSICAL EXAM
+==================
+VS: 99.2 Tmax 101.8 at midnight ___ BP 118/76 HR 74 RR 16 
+97%RA
+ 
+GENERAL: Pleasant man, in no distress, lying in bed comfortably.
+HEENT: Anicteric, PERLL, OP clear.
+CARDIAC: RRR, normal s1/s2, no m/r/g.
+LUNG: Lungs CTA bilaterally. No wheezing, rales or rhonchi. 
+ABD: NABS. Abd soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly. No rebound or guarding.
+EXT: Warm, well perfused,2+ DP pulses
+NEURO: Alert, oriented, good attention and linear thought, CN
+___ intact. Strength full throughout.
+SKIN: No significant rashes.
+ 
+Pertinent Results:
+LABS ON ADMISSION
+=============
+___ 10:20AM BLOOD ___ 
+___ Plt ___
+___ 10:20AM BLOOD ___ 
+___ Im ___ 
+___
+___ 10:20AM BLOOD Plt ___
+___ 10:20AM BLOOD ___ 
+___
+___ 10:20AM BLOOD ___
+___ 10:20AM BLOOD ___
+___ 10:20AM BLOOD ___ B ___ 
+___
+
+NOTABLE LABS
+=========
+___ 10:20AM BLOOD ___ 
+___ Plt ___
+___ 05:21PM BLOOD ___ 
+___ Plt ___
+___ 06:40AM BLOOD ___ 
+___ Plt ___
+___ 10:20AM BLOOD ___ 
+___ Im ___ 
+___
+___ 05:21PM BLOOD ___ 
+___ Im ___ 
+___
+___ 10:20AM BLOOD ___
+___ 05:21PM BLOOD ___ 
+___
+___ 07:03PM BLOOD ___
+___ 06:40AM BLOOD ___
+___ 06:40AM BLOOD ___
+___ 10:20AM BLOOD ___ B ___ 
+___
+___ 05:32PM BLOOD ___
+___ 08:16PM BLOOD ___
+___ 07:11AM BLOOD ___
+
+LABS ON DISCHARGE
+=============
+___ 06:40AM BLOOD ___ 
+___ Plt ___
+___ 05:21PM BLOOD ___ 
+___ Im ___ 
+___
+___ 06:40AM BLOOD Plt ___
+___ 06:40AM BLOOD ___ 
+___
+___ 06:40AM BLOOD ___
+___ 06:40AM BLOOD ___
+___ 05:21PM BLOOD ___
+___ 06:40AM BLOOD ___
+___:11AM BLOOD ___
+
+IMAGING
+======
+CXR PA & LATERAL (___)
+FINDINGS: 
+No focal consolidation is seen.  There is no pleural effusion or 
+pneumothorax.
+The cardiac and mediastinal silhouettes are stable.  Hilar 
+contours are
+stable.
+ 
+IMPRESSION: 
+No acute cardiopulmonary process.  No focal consolidation to 
+suggest
+pneumonia.
+
+MICROBIOLOGY
+==========
+GENERAL URINE INFORMATION
+Urine ColorYellow  W
+Urine AppearanceClear  W
+Specific Gravity1.0281.001 - 1.035W
+DIPSTICK URINALYSIS
+BloodSM  W
+NitriteNEG  W
+Protein100 mg/dLW
+Glucose300 mg/dLW
+KetoneNEG mg/dLW
+BilirubinNEG mg/dLW
+UrobilinogenNEG0.2 - 1mg/dLW
+pH6.05 - 8unitsW
+LeukocytesNEG  W
+MICROSCOPIC URINE EXAMINATION
+RBC10 - 2#/hpfW
+WBC10 - 5#/hpfW
+BacteriaNONE  W
+YeastNONE  W
+Epithelial Cells<1 #/hpfW
+URINE CASTS
+Hyaline Casts2*0 - 0#/lpfW
+OTHER URINE FINDINGS
+Urine MucousRARE  W
+
+___ 7:03 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 5:21 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 7:44 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 5:45 pm Rapid Respiratory Viral Screen & Culture      
+3. 
+
+   Respiratory Viral Culture (Preliminary): 
+
+   Respiratory Viral Antigen Screen (Final ___: 
+      Negative for Respiratory Viral Antigen. 
+      Specimen screened for: Adeno, Parainfluenza 1, 2, 3, 
+Influenza A, B,
+      and RSV by immunofluorescence. 
+      Refer to respiratory viral culture and/or Influenza PCR 
+(results
+      listed under "OTHER" tab) for further information.. 
+__________________________________________________________
+___ 12:00 pm Rapid Respiratory Viral Screen & Culture
+      Source: Nasopharyngeal swab. 
+
+                            **FINAL REPORT ___
+
+   Respiratory Viral Culture (Final ___: 
+      No respiratory viruses isolated. 
+      Culture screened for Adenovirus, Influenza A & B, 
+Parainfluenza type
+      1,2 & 3, and Respiratory Syncytial Virus.. 
+      Detection of viruses other than those listed above will 
+only be
+      performed on specific request. Please call Virology at 
+___
+      within 1 week if additional testing is needed. 
+
+   Respiratory Viral Antigen Screen (Final ___: 
+      Negative for Respiratory Viral Antigen. 
+      Specimen screened for: Adeno, Parainfluenza 1, 2, 3, 
+Influenza A, B,
+      and RSV by immunofluorescence. 
+      Refer to respiratory viral culture and/or Influenza PCR 
+(results
+      listed under "OTHER" tab) for further information.. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with history of 
+lymphoplasmacytic lymphoma and IgG kappa MGUS c/b kidney injury 
+now C5D18 (treated day prior to admission) BDR (bortezomib, 
+dexamethasone, rituxan) who presented with fever and 
+leukocytosis. During the course of his hospital stay, the 
+following issues were addressed: 
+
+# Fever/Cough: Patient with fever and URI symptoms most likely 
+consistent with viral infection. Influenza and Respiratory viral 
+screen were negative. CXR with no active infiltrate. Lactate was 
+initially elevated at 3.1 but downtrended overnight with IVF to 
+1.6 on discharge. Patient was discharged with a ___ course of 
+azithromycin for empiric coverage of possible bacterial 
+superinfection.
+
+# Transaminitis: Initial ALT 133 and AST 128, ALP 174 (but 
+specimen hemolyzed). Immediate ___ labs with ALT of 103, 
+AST 68, andALP 151. Overnight there was a slight improvement 
+with ALT of 97, AST 56 and ALP 149 coinciding with IV fluid 
+administration, Patient has had intermittent transaminitis in 
+past and has never had bx per OMR. ALT and AST down from 
+admission with fluid administration.
+
+# Leukocytosis: WBC 26.7 on admission. Secondary to infection as 
+above vs. steroids received yesterday with chemotherapy. 
+Downtrended to 12.9 on discharge.
+
+# ___ on CKD: Patient presented with Cr 1.8 up from baseline 
+1.5. Improved after IVF to baseline. Creatinine on discharge was 
+1.6. 
+
+# Hypertension.  Held lisinopril in setting of ___. Normotensive 
+during hospital stay.
+
+# Anxiety. Continued citalopram. Continued Ativan prn.
+
+TRANSITIONAL ISSUES
+==============
+- Azithromycin 5 day course (Start ___ | End ___
+- Holding lisinopril due to ___ (Cr at discharge at baseline of 
+1.6). Will need to be restarted with primary oncologist/PCP
+- ___ viral culture pending
+- If patient spikes fevers during next cycle of BDR, then we 
+know this is more likely a reaction to chemotherapy.
+- Transaminitis: Patient has had intermittent transaminitis in 
+past; has never had bx. ALT and AST down from admission with 
+fluid administration. Consider further ___.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acyclovir 400 mg PO BID 
+2. Lisinopril 2.5 mg PO DAILY 
+3. Citalopram 20 mg PO DAILY 
+4. Dapsone 100 mg PO DAILY 
+5. LORazepam 0.5 mg PO QHS:PRN insomnia 
+6. Pantoprazole 40 mg PO Q24H 
+7. Prochlorperazine 10 mg PO Q8H:PRN nausea/vomiting 
+8. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+9. Docusate Sodium 100 mg PO BID:PRN constipation 
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO DAILY Duration: 4 Days 
+RX *azithromycin 250 mg 1 tablet(s) by mouth Daily Disp #*3 
+Tablet Refills:*0 
+2.  Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*21 Capsule Refills:*0 
+3.  GuaiFENesin ___ mL PO Q6H:PRN cough 
+RX *guaifenesin 100 mg/5 mL ___ ml by mouth Q6 Refills:*0 
+4.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+5.  Acyclovir 400 mg PO BID  
+6.  Citalopram 20 mg PO DAILY  
+7.  Dapsone 100 mg PO DAILY  
+8.  Docusate Sodium 100 mg PO BID:PRN constipation  
+9.  LORazepam 0.5 mg PO QHS:PRN insomnia  
+10.  Pantoprazole 40 mg PO Q24H  
+11.  Prochlorperazine 10 mg PO Q8H:PRN nausea/vomiting  
+12. HELD- Lisinopril 2.5 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until you discuss with your primary 
+oncologist
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+=====
+Lymphoplasmacytic lymphoma with IgG kappa MGUS 
+URI
+Acute on Chronic Kidney Disease
+
+Secondary
+=======
+Hypertension
+Anxiety
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure caring for you here at ___. You presented 
+with a fever of 100.8 , cough and 3 days of vomiting. You did 
+well in the hospital and were discharged with a ___ course of 
+antibiotics to cover for a possible bacterial infection on top 
+of what is likely a viral respiratory infection. Please take 
+azithromycin for 3 more days and do not take your lisinopril 
+until discussing with Dr. ___.
+
+If you experience any of the danger signs below, please contact 
+your oncologist or come to the emergency department.
+
+Best Wishes,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

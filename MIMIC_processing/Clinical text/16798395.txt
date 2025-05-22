@@ -1,0 +1,171 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+rash 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old female with history of diabetes presents due to left 
+leg cellulitis. Pt states that his wound started on ___ when he 
+injured his anterior shin with a wood splinter (which was 
+removed per patient's daughter). Pt was started on cephalexin 
+without improvement, then switched to Augmentin, again without 
+improvement. Patient went to ___ urgent care, had I&D (culture 
+pending apparently at OSH) and 2 doses IV antibiotics, which 
+improved the wound.  He was then started on levofloxacin. Since 
+then, wound has not been improving, redness spreading and 
+patient's blood sugars have been out of control. Patient also 
+has a cough.  There are no fevers or chills or additional 
+complaints.
+
+In the ED, initial vitals were 98.9 96 144/75 18 99% RA.  Labs 
+showed WBC 5.7K, blood sugar 52, lactate 1.3.  Ultrasound of the 
+LLE showed no retained foreign body.  CXR showed no acute 
+process.  He was started on 1 gram IV vancomycin.  Blood culture 
+was sent.
+
+Currently, the patient notes no pain in her leg.  There is no 
+chest pain or dyspnea.  She reports stuffy nose and very 
+intermittent cough.
+
+ 
+Review of systems:  
+10 pt ROS negative other than noted
+ 
+Past Medical History:
+Diabetes
+CAD
+ 
+Social History:
+___
+Family History:
+Mother with CAD, aunt with stomach cancer
+ 
+Physical Exam:
+Admission PE: 
+Vitals: T: 97.7 BP: 163/53 P: 68 R: 18 O2: 95% on RA  
+GEN: Alert. Fatigued appearing but comfortable, no acute signs 
+of distress.  
+HEENT: NCAT, Pupils equal and reactive, sclerae anicteric, OP 
+clear, MMM.  
+Neck: Supple, no JVD
+Lymph nodes: No cervical, supraclavicular LAD.  
+CV: S1S2, reg rate and rhythm, no murmurs, rubs or gallops.  
+RESP: Good air movement bilaterally, no rhonchi or wheezing.  
+ABD: Soft, non-tender, non-distended, + bowel sounds.  
+EXTR: left shin with 15 x 5 cm area of erythema with traumatic 
+wound in center, non-purulent, 1+ edema at area of erythema, 
+right leg with no edema
+Neuro: non-focal.  
+PSYCH: Appropriate and calm. 
+
+Discharge PE: 
+Vitals: T: 98.9 BP: 134/72 P: 70 R: 18 O2: 98% on RA  
+GEN: Alert. Fatigued appearing but comfortable, no acute signs 
+of distress.  
+HEENT: NCAT, Pupils equal and reactive, sclerae anicteric, OP 
+clear, MMM.  
+Neck: Supple, no JVD
+Lymph nodes: No cervical, supraclavicular LAD.  
+CV: S1S2, reg rate and rhythm, no murmurs, rubs or gallops.  
+RESP: Good air movement bilaterally, no rhonchi or wheezing.  
+ABD: Soft, non-tender, non-distended, + bowel sounds.  
+EXTR: left shin with small traumatic wound in center, 
+non-purulent, mild surrounding erythema
+Neuro: non-focal.  
+PSYCH: Appropriate and calm. 
+ 
+Pertinent Results:
+___ 04:00PM BLOOD WBC-5.7 RBC-4.48 Hgb-12.7 Hct-38.6 MCV-86 
+MCH-28.3 MCHC-32.9 RDW-13.1 RDWSD-40.3 Plt ___
+___ 04:00PM BLOOD Neuts-73.1* Lymphs-15.8* Monos-8.8 
+Eos-1.4 Baso-0.5 Im ___ AbsNeut-4.17 AbsLymp-0.90* 
+AbsMono-0.50 AbsEos-0.08 AbsBaso-0.03
+___ 04:00PM BLOOD Glucose-52* UreaN-25* Creat-0.7 Na-139 
+K-3.9 Cl-101 HCO3-27 AnGap-15
+___ 04:09PM BLOOD Lactate-1.___ year old female with history of diabetes presents due to left 
+leg cellulitis
+  
+# Cellulitis: likely secondary to diabetic state and traumatic 
+wound.  Likely etiology is Staph or Strep, and all antibiotics 
+she has been treated with do not reliably cover all Staph 
+species, notably MRSA.  There is no fevers, leukocytosis or 
+hemodynamic compromise.  Cultures from OSH clinic showed staph 
+aureus (resistant to ampicillin, clindamycin, and penicillin.  
+Sensitive to Bactrim, cefazolin, ciprofloxacin, erythromycin, 
+gentamicin, oxacillin, tetracycline, vancomycin).  Placed on 
+vancomycin on admission, quickly improved.
+- Discharged on 5 more days of PO Bactrim and keflex
+- wound care
+- elevate leg
+ 
+# Diabetes: blood sugars have been labile, likely secondary to 
+bacterial infection.
+- continue home Lantus
+- sliding scale, adjust as needed
+ 
+# CAD
+# Elevated blood pressure: was reportedly on medications in the 
+past (beta blocker, statin) but did not tolerate.  BP normal 
+here. Continue home aspirin.
+ 
+# DVT ppx: Heparin SC  
+# Diet: Regular diabetic  
+# GI Prophy: PRN
+# IV access: PIV  
+# Precautions: None  
+# Code status: Full code, confirmed  
+ 
+# Dispo: home
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Glargine 20 Units Breakfast
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Glargine 20 Units Breakfast
+3. Cephalexin 500 mg PO QID Duration: 5 Days 
+RX *cephalexin 500 mg 1 tablet(s) by mouth four times a day Disp 
+#*20 Tablet Refills:*0
+4. Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 5 Days 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth twice a day Disp #*10 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Infected leg wound
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted with worsening infection in your left leg.  
+Your infection quickly improved with IV vancomycin, you are 
+being discharged on 5 more days of PO antibiotics.  Please 
+follow-up with your PCP ___ 1 week.
+ 
+Followup Instructions:
+___

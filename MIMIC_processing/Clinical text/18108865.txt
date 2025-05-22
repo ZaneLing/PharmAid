@@ -1,0 +1,145 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+GI bleed
+ 
+Major Surgical or Invasive Procedure:
+Colonscopy with cautery and epinephrine injection ___
+
+ 
+History of Present Illness:
+This is ___ year old male with history of familial polyposis
+status post colonoscopy with endoscopic mucosal resection for a
+sessile carpeting 20mm polyp on ___ who re-presented with
+onset of bright red blood per rectum on the night following the
+procedure.  Patient reported 3 large movements of bright red
+blood at home.  Mild dizziness with standing.  No chest pain,
+dyspnea.  No nausea, hematemesis.
+
+In the ED vital signs were 97.5 73 128/82 18 99%RA.  Labs were
+notable for Hgb 12.9, K 4.1, Cr 1.2; While in the ED he was
+reported to have had another episode of "liquid stool with frank
+blood.  He was given 1L normal saline and admitted to medicine
+for further management. 
+
+On arrival to the floor patient confirmed above history. 
+Reported a similar episode several years ago after a prior
+colonoscopy.  Full 10 point review of systems positive where
+noted, otherwise negative. 
+ 
+Past Medical History:
+Familial polyposis - diagnosed in ___
+ 
+Social History:
+___
+Family History:
+Brother, Sister and Father with familial ___
+ 
+Physical Exam:
+ADMISSION: 97.6 ___ 18 100%RA
+Gen: sitting up in bed, comfortable
+Eyes - EOMI
+ENT - OP clear, MMM
+Heart - RRR no mrg
+Lungs - CTA bilaterally
+Abd - soft nontender, normoactive bowel sounds
+Ext - no edema
+Skin - no rashes
+Vasc - 2+ DP/radial pulses, PIV x 2
+Neuro - AOx3, moving all extremities
+Psych - appropriate
+
+DISCHARGE
+ 
+Pertinent Results:
+ADMISSION
+___ 01:55AM BLOOD WBC-7.6 RBC-4.13* Hgb-12.9* Hct-38.5* 
+MCV-93 MCH-31.2 MCHC-33.5 RDW-12.6 RDWSD-43.1 Plt ___
+___ 01:55AM BLOOD ___ PTT-29.8 ___
+___ 01:55AM BLOOD Glucose-87 UreaN-18 Creat-1.2 Na-138 
+K-8.2* Cl-104 HCO3-27 AnGap-15
+
+DISCHARGE
+___ 12:58PM BLOOD WBC-4.7 RBC-3.80* Hgb-11.8* Hct-35.7* 
+MCV-94 MCH-31.1 MCHC-33.1 RDW-12.5 RDWSD-43.2 Plt ___
+
+Colonoscopy ___
+Impression:
+A small amount of old blood was noted in the colon.
+No evidence of active bleeding was noted.
+A 2cm non-bleeding ulcer with a few pigmented spots was noted at 
+the prior EMR site at the ___.
+BI-CAP Electrocautery was applied for hemostasis successfully. 
+9 cc.Epinephrine ___ injection was applied for hemostasis 
+with success. 
+Otherwise normal colonoscopy to cecum
+ 
+Brief Hospital Course:
+This is a ___ year old male with past medical history of familial 
+polyposis status post colonoscopy and endoscopic mucosal 
+resection on ___ admitted ___ with bright red blood 
+per rectum and acute blood loss anemia, s/p repeat colonoscopy 
+with hemostasis observed without repeat bleeding, discharged 
+home
+
+# Acute GI Bleed / Acute Blood Loss Anemia - patient presented < 
+24 hours after a colonoscopy with BRBPR.  Hgb was 12.9 from a 
+presumed normal previous value.  Patint underwent colonoscopy 
+that showed: "A small amount of old blood was noted in the 
+colon. No evidence of active bleeding was noted. A 2cm 
+non-bleeding ulcer with a few pigmented spots was noted at the 
+prior EMR site at the ___."  Electrocautery and epinephrine 
+injection were performed.  Patient subsequently monitored over 
+next day without signs of bleeding.  Advanced diet without 
+issue.  Discharged home with PCP ___.  Discharge 
+hemoglobin = 11.8. 
+
+Transitional Issues
+- Discharge Hgb = 11.8; can consider repeat Hgb check at 
+___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Acute GI Bleed / Acute Blood Loss Anemia 
+# Familial Polyposis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___: 
+
+It was a pleasure caring for you at ___.  You were admitted 
+for bleeding after a colonoscopy.  You underwent a repeat 
+colonoscopy and were found to have some bleeding from your 
+resection site--this was cauterized and underwent epinephrine 
+injection.  Your bleeding resolved and your blood levels 
+remained stable.  You are now ready for discharge home.  
+ 
+Followup Instructions:
+___

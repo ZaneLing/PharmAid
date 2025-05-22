@@ -1,0 +1,354 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / Verapamil
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with a history of HTN who presented with syncope, headache 
+and vomiting. The patient had been in her USOH with the 
+exception of some left-sided neck pain for the past week 
+(without preceding trauma or manipulation), when today she was 
+visiting one of her daughters at a hair salon and suddenly felt 
+very warm and unwell. She developed a left-sided headache and 
+felt like she was going to pass out. She denies any preceding 
+lightheadedness, chest pain, palpitations, shortness of breath, 
+tunneled vision, nausea. The patient's daughter took her to the 
+bathroom and noticed that her hands were shaky. She sat her down 
+on the toilet and the patient lost consciousness, falling 
+forwards, caught by her daughter. She did not have a headstrike. 
+Daughter reported that she awoke after several seconds and then 
+lost consciousness for a second time, at which point her 
+daughter laid her down on the floor. She did not have 
+incontinence or tongue-biting. After regaining consciousness the 
+patient had an episode of vomiting. Her cognition remained 
+intact. Her daughter called ___. The patient states that in the 
+past she has had several episodes of passing out like this that 
+have been evaluated without revealing etiology, attributed to 
+poor blood pressure control.  
+
+Of note, she had not been taking her home amlodipine for 2 days 
+and was unable to state a reason. She states that she does have 
+a blood pressure cuff at home and checks her BPs periodically, 
+where they usually run in the 160s-180s.  
+
+In the ED, initial vital signs were: 97.8, ___ 
+(subsequently decreased to 162/75 without intervention), 22, 
+100% RA  
+Exam was notable for no jerking movements observed.  
+Labs were notable for ___ of 118, normal CBC and Chem 10 (WBC 9.3 
+H/H 11.5/35.0 Plt 267; Na 139 K 3.8 Cl 103 HCO3 22 BUN 19 Cr 
+0.9), normal CK and MB, U/A notable for 8 WBC and moderate 
+leuks, neg nitrites.  
+CT head was negative, CTA neck showed no flow limiting stenosis, 
+occlusion, evidence of dissection, or aneurysm. 
+EKG showed sinus tachycardia at 100 bpm, LAE, LVH, anterior Q 
+waves, no new ischemic changes, consistent with prior.  
+The patient was given 10 mg prochlorperazine and 1L NS.  
+Neurology was consulted due to concern for seizure or acute 
+intracranial process. They noted mild postural tremor of the RUE 
+> LUE but no focal neurological process. They thought her 
+presentation to be consistent with vasovagal syncope.  
+Upon arrival to the floor, the patient denies any symptoms 
+including fever, nausea/vomiting, pain. She denies chest pain, 
+palpitations, shortness of breath, lightheadedness.
+
+REVIEW OF SYSTEMS: 10-point ROS reviewed and negative except as 
+noted per HPI.  
+ 
+Past Medical History:
+1. Hypertension
+2. Status post left meniscal tear
+3. Sickle cell trait with mild anemia
+4. History of benign positional vertigo
+5. MI ___
+6. s/p appy
+
+ 
+Social History:
+___
+Family History:
+Mother - deceased of stroke in ___, HTN
+Father - deceased of lung cancer
+No known family history of seizure disorder. 
+ 
+Physical Exam:
+===================
+ADMISSION EXAM:
+===================
+VITALS - T 97.5 (ax) BP 174/88 HR 79 R 18 99%RA ___ 115  
+GENERAL - Pleasant, well-appearing female in NAD  
+HEENT - NC/AT, PERRL, normal conjunctivae  
+NECK - Supple  
+CARDIAC - RRR S1+S2 no M/R/G  
+PULMONARY - CTAB, no wheezes, rales or rhonchi  
+ABDOMEN - Soft, nontender, nondistended, no organomegaly or 
+masses  
+EXTREMITIES - Warm, no edema  
+NEUROLOGIC - AAOx3, CN II-XII intact  
+PSYCHIATRIC - Affect appropriate  
+===================
+DISCHARGE EXAM:
+===================
+VITALS: T 98.5 BP 126/64 (BPs in 120s overnight), HR 73 RR 18 
+96% RA
+GENERAL: Well-appearing woman lying in bed in NAD  
+HEENT: PERRL, EOMI  
+CARDIAC: RRR, II/VI systolic murmur best heard over base
+PULMONARY: CTAB 
+ABDOMEN: BS+, soft, NTND 
+EXTREMITIES: Warm, well-perfused, no peripheral edema  
+NEUROLOGIC: AOx3, no focal deficits
+ 
+Pertinent Results:
+========================
+ADMISSION LABS:
+========================
+___ 04:50PM BLOOD WBC-9.3 RBC-4.49 Hgb-11.5 Hct-35.0 
+MCV-78* MCH-25.6* MCHC-32.9 RDW-15.0 RDWSD-41.6 Plt ___
+___ 04:50PM BLOOD Neuts-52.5 ___ Monos-7.8 Eos-0.3* 
+Baso-0.5 Im ___ AbsNeut-4.86 AbsLymp-3.58 AbsMono-0.72 
+AbsEos-0.03* AbsBaso-0.05
+___ 04:50PM BLOOD Glucose-156* UreaN-19 Creat-0.9 Na-139 
+K-3.8 Cl-103 HCO3-22 AnGap-18
+___ 04:50PM BLOOD Calcium-10.3 Phos-2.8 Mg-2.1
+========================
+PERTINENT RESULTS:
+========================
+LABS:
+========================
+___ 04:50PM BLOOD CK-MB-2 cTropnT-<0.01
+___ 05:55AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 05:15PM BLOOD TSH-0.88
+___ 05:55AM BLOOD Ferritn-34
+___ 05:15PM BLOOD ACTH -11 (___)
+========================
+IMAGING:
+========================
+ECG (___): Sinus rhythm. Minor ST segment depression in the 
+inferior leads with T wave inversion in the inferior and 
+anterolateral precordial leads are suggestive of ischemia. 
+Clinical correlation is suggested. Non-diagnostic lateral Q 
+wave. Non-specific ST segment changes in the lateral limb leads. 
+Q waves in  leads V1-V2, possibly suggest anteroseptal 
+myocardial infarction of indeterminate age. Left atrial 
+abnormality. Possible left ventricular hypertrophy. Compared to 
+the previous tracing of ___ the inferior and lateral ST-T 
+wave changes are all new, suggesting ischemia and clinical 
+correlation is suggested. 
+  Intervals     Axes 
+Rate PR QRS QT QTc (___)    P QRS T 
+60 ___ 440   75 1 -51 
+===
+Exercise stress test (___):
+INTERPRETATION: This ___ yo woman with h/o HTN was referred to 
+the lab from the inpatient floor following negative serial 
+cardiac enzymes for evaluation of syncope and abnormal EKG. The 
+patient exercised for 2.25 minutes of a Modified ___ protocol 
+and was stopped for a hypertensive blood pressure response. The 
+estimated peak MET capacity was 2.1, which represents a poor 
+exercise tolerance for her age. There were no reports of chest, 
+back, neck, or arm discomforts, or presyncopal type symptoms. 
+There were no significant ST changes noted during exercise or 
+recovery. Rhythm was sinus with occasional isolated VPBs, two 
+ventricular couplets, and rare isolated APBs. There was an 
+appropriate heart rate response during exercise and recovery. 
+Resting systolic and diastolic hypertension with an exaggerated 
+systolic blood pressure response to exercise. Blood pressure 
+decreased initially during recovery before rebounding in late 
+recovery (216/86 at 8 min recovery). 
+  
+IMPRESSION: Exaggerated systolic blood pressure response to a 
+limited achieved workload in the absence of anginal or 
+presyncopal type symptoms and no ischemic EKG changes. Echo 
+report sent separately. 
+===
+Transthoracic echocardiogram (___):
+The patient exercised for 2 minutes and 15 seconds according to 
+a Modified ___ treadmill protocol ___ METS) reaching a peak 
+heart rate of 131 bpm and a peak blood pressure of 252/100 mmHg. 
+The test was stopped because of a hypertensive response. This 
+level of exercise represents a poor exercise tolerance for age 
+and gender. In response to stress, the ECG showed no ST-T wave 
+changes (see exercise report for details). There is resting 
+hypertension with an abnormal/hypertensive response to exercise. 
+
+
+Resting images were acquired at a heart rate of 80 bpm and a 
+blood pressure of 166/94 mmHg. These demonstrated symmetric left 
+ventricular hypertrophy with normal regional and global left 
+ventricular systolic function (biplane LVEF 71%). Right 
+ventricular free wall motion is normal. There is no pericardial 
+effusion. Doppler demonstrated no aortic stenosis, aortic 
+regurgitation or significant mitral regurgitation or resting 
+LVOT gradient. The estimated pulmonary artery systolic pressure 
+is normal.
+
+Echo images were acquired within 45 seconds after peak stress at 
+heart rates of 123 - 100 bpm. These demonstrated appropriate 
+augmentation of all left ventricular segments. There was 
+augmentation of right ventricular free wall motion. 
+
+IMPRESSION: Poor functional exercise capacity. No ECG or 2D 
+echocardiographic evidence of inducible ischemia to achieved low 
+workload. Resting hypertension with hypertensive response to 
+exercise.  
+===
+CT abdomen/pelvis with contrast (___):  
+1. No adrenal lesion.
+2. Slightly increased in size indeterminate 18 mm hypodense 
+lesion in the left kidney, likely hyperdense cyst.  Follow-up 
+ultrasound is recommended.
+3. 13 mm left ovarian cyst.
+ 
+RECOMMENDATION(S):  
+1. Follow-up ultrasound to characterize the left renal lesion. 
+2.  ___ year follow-up ultrasound of the left ovarian cyst. 
+========================
+DISCHARGE LABS:
+========================
+___ 06:20AM BLOOD WBC-7.3 RBC-4.45 Hgb-11.3 Hct-34.5 
+MCV-78* MCH-25.4* MCHC-32.8 RDW-15.0 RDWSD-41.8 Plt ___
+___ 06:20AM BLOOD Glucose-119* UreaN-15 Creat-0.8 Na-139 
+K-3.4 Cl-101 HCO3-30 AnGap-11
+___ 06:20AM BLOOD Calcium-9.9 Phos-4.5 Mg-2.1
+ 
+Brief Hospital Course:
+Ms. ___ is ___ y/o woman with longstanding history of 
+paroxysmal hypertension who presented with syncope and 
+hypertensive urgency.
+
+====================
+ACTIVE ISSUES:
+====================
+# Syncope: The patient presented after a witnessed syncopal 
+episode. Head imaging was negative for intracranial process. ECG 
+showed possible new ST/TW changes; troponins were negativex2. An 
+exercise stress echocardiogram was attempted, but was aborted 
+two minutes into the ___ protocol due to systolic blood 
+pressures in the 250s. The patient was asymptomatic, and had no 
+ischemic changes on ECG. Echocardiogram showed left ventricular 
+hypertrophy and LVEF of 70%. Ultimately, it was thought that the 
+patient's syncope was either vasovagal or related to the 
+patient's paroxysmal hypertension, as below.
+
+# Hypertensive urgency: On admission, the patient was found to 
+have a BP of 200/110. As above, the patient had severe 
+hypertension during exercise stress testing. Of note, the 
+patient had a similar event in ___ during an exercise stress 
+test, with SBPs noted to be in the 260s during the test. The 
+patient has undergone extensive prior evaluation for secondary 
+causes of hypertension that has been largely unrevealing. The 
+patient did at one point have elevated plasma metanephrines, 
+thought to be falsely elevated in the setting of stress. We 
+repeated urine metanephrines, plasma metanephrines, renin, 
+aldosterone, ACTH, the results of which were pending at 
+discharge. CT abdomen/pelvis was negative for adrenal mass. The 
+patient was restarted on chlorthalidone 25 mg daily, in addition 
+to her home amlodipine 10 mg daily. Her resting systolic blood 
+pressures were in the 120s on day of discharge. The patient was 
+advised to refrain from strenuous activity.
+
+# Anemia: Patient with stable microcytic anemia and HbS trait. 
+Ferritin 34. Patient may benefit from outpatient colonoscopy, 
+which she has repeatedly declined in the past.  Recommendations 
+for colonoscopy were communicated to the patient during this 
+hospitalization again.
+
+==========================
+TRANSITIONAL ISSUES:
+==========================
+- Patient will follow up with PCP and ___
+- Urine metanephrines, plasma metanephrines, renin, aldosterone, 
+ACTH pending at discharge.
+- Patient restarted on chlorthalidone. Please check BP and 
+electrolytes and as adjust antihypertensive regimen as 
+appropriate.
+- Please help patient arrange for ambulatory blood pressure 
+monitoring.
+- Advised patient to abstain from strenuous activity until 
+follow up with PCP.
+- Patient with known HbS trait and stable normocytic anemia. 
+Recommend colonoscopy as outpatient. 
+- CT abdomen/pelvis revealed an incidental lesion of the left 
+kidney, likely a hyperdense cyst. Recommend follow up 
+ultrasound.
+- CT also revealed a 13 mm left ovarian cyst. Recommend ___ 
+follow up ultrasound. 
+- Communication: ___ (daughter) ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Chlorthalidone 25 mg PO DAILY 
+RX *chlorthalidone 25 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*1
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+===========
+Syncope
+Hypertensive urgency
+
+SECONDARY:
+===========
+Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you. You came to the hospital 
+because you fainted, and we found that your blood pressures were 
+very high. You attempted to do a stress test for your heart, but 
+your blood pressure was too high to complete the test. We took a 
+picture of your abdomen that did not show anything that would 
+explain your high blood pressures. We also sent some labs to 
+look for other causes of your blood pressure; these tests take 
+several days to come back and your regular doctor ___ let you 
+know the results.
+
+We added a second blood pressure medication, chlorthalidone, 
+with good control of your blood pressure. It is very important 
+that you take this medication everyday to prevent stroke and 
+heart disease. Please continue to measure your blood pressure 
+everyday and contact your primary care physician if your 
+systolic BP>180.
+
+We wish you the best of health.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

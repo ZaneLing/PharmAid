@@ -1,0 +1,188 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+sunflower seed
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Pt is an ___ F with history of HTN, HL, AAA s/p repair in ___, 
+presenting with syncope.
+
+History obtained via daughter who is at bedside.  Per pt's 
+daughter, she had been in her usual state of health until 
+yesterday when she started to c/o sore throat and some chills.  
+Went to bed feeling ok, but this AM daughter heard her fall in 
+the bathroom.  Pt unconscious for several minutes and woke up 
+with some cold compresses.  Pt and daughter have recently 
+traveled to resort in ___ but no other obvious sick 
+contacts.  Both got flu shot this year.  In addition to chills, 
+pt also c/o nausea.  She otherwise denies vomiting, abdominal 
+pain, dysuria, increased frequency cough, SOB, or other 
+localizing symptoms.
+
+In the ED, Temp: 98.6 HR: 74 BP: 107/45 Resp: 16 O(2)Sat: 97 on 
+RA
+Labs notable for WBC: 6.7.  Rest of labs essentially wnl.
+Flu swab obtained and was positive for Flu A
+UA appeared dirty with leuks and 45 WBCs
+CT head was obtained and was negative for acute intracranial 
+process
+CXR negative
+She was also found to be significantly orthostatic with systolic 
+dropping to 88 on standing and pt became orthostatic.
+Pt received 3L NS and Tamiflu and admitted for further 
+management of Orthostasis and flu.
+
+ 
+Past Medical History:
+HTN
+dyslipdemia
+AAA s/p repair in ___
+
+ 
+Social History:
+___
+Family History:
+unknown
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+VITALS: Temp: 101.7, HR: 80, BP: 130/58, O2: 94% on RA
+GENERAL: ill-appearing woman, laying in bed in NAD
+HEENT: no scleral icterus, no conjuntival injection, MMM
+CV: RRR, no m/r/g
+RESP: CTA b/l, no respiratory distress
+GI: soft, NT/ND, +BS
+GU: no foley
+EXT: wwp, no peripheral edema
+NEURO: AOx3, moving all extremities, CN's grossly intact
+PSYCH: normal mood and affect
+
+DISCHARGE PHYSICAL EXAM:
+=====================
+afebrile  154/70  HR 65  RR 18  94-96% on RA
+General:  in NAD, appears stated age.
+HEENT:  OP moist, face symmetric.
+Resp CTA B, no rales, wheezes
+CV RRR without murmurs
+GI soft, NT, ND, NABS
+MS:  no edema
+Neuro:  alert/oriented X3, answers all questions, sits up on 
+own.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 09:15AM BLOOD WBC-6.7 RBC-3.91 Hgb-12.9 Hct-38.9 
+MCV-100* MCH-33.0* MCHC-33.2 RDW-12.8 RDWSD-46.6* Plt ___
+___ 09:15AM BLOOD Neuts-82.7* Lymphs-7.5* Monos-9.0 
+Eos-0.3* Baso-0.2 Im ___ AbsNeut-5.50 AbsLymp-0.50* 
+AbsMono-0.60 AbsEos-0.02* AbsBaso-0.01
+___ 09:15AM BLOOD Glucose-98 UreaN-9 Creat-0.9 Na-135 K-4.3 
+Cl-100 HCO3-23 AnGap-16
+
+___ 09:45AM OTHER BODY FLUID FluAPCR-POSITIVE:N 
+FluBPCR-NEGATIVE
+
+IMAGING:
+=======
+CT head ___:
+1.  Study is mildly degraded by motion. 
+2.  No acute intracranial abnormality. 
+3. No evidence acute intracranial hemorrhage or fracture. 
+4.  Please note MRI of the brain is more sensitive for the 
+detection of acute 
+infarct. 
+5.  Paranasal sinus disease as described. 
+
+CXR ___:
+No acute cardiopulmonary process.
+
+MICRO:
+=====
+___ Urine culture:       MIXED BACTERIAL FLORA ( >= 3 
+COLONY TYPES), CONSISTENT WITH SKIN AND/OR GENITAL 
+CONTAMINATION. 
+
+ 
+Brief Hospital Course:
+___ F with history of HTN, HL, AAA s/p repair in ___ 
+presenting with syncope, likely orthostatic hypotension in s/o 
+flu.
+
+# Sepsis/Flu A positive-- Pt presented with fevers, feeling 
+generally unwell, and nausea, found to have positive flu swab in 
+the ED.  Pt otherwise denies focal symptoms but did also have 
+positive UA on admission as well.   She was started on tamiflu 
+x5 days and ceftriaxone until urine cultures came back negative. 
+ Fevers resolved by HD2 and pt reported feeling much better 
+overall.
+
+# Syncope/Orthostastic Hypotension-- Pt presented with syncope 
+prior to admission, was found to be severely orthostatic in the 
+ED.  Orthostasis likely ___ vasodiliation in s/o sepsis with 
+some possible component of volume depletion.  S/p 3L bolus in ED 
+with improvement in orthostasis.  She was ambulating without 
+lightheadedness on HD2 and was seen by ___ who cleared her to go 
+home with a rolling walker until her acute illness resolves.
+
+# HTN-- Restarted home metoprolol in hospital and 
+enalapril/amlodipine at ___ due to improved blood pressure at 
+discharge.
+
+# HL-- continued simvastatin
+
+Transitional issues:
+
+PCP follow up this week.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Tartrate 12.5 mg PO BID 
+2. Simvastatin 20 mg PO QPM 
+3. Levothyroxine Sodium 50 mcg PO DAILY 
+4. amlodipine-benazepril ___ mg oral DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Syncope ___ orthostatic hypotension
+Influenza A
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You came in after passing out.  We think that this was because 
+your blood pressure was low.  This is likely related to having 
+the flu.  We treated you with IV fluids and Tamiflu and these 
+issues improved.
+
+Please return if you have worsening lightheadedness, dizziness, 
+palpitations, nausea, vomiting, or if you have any other 
+concerns.  Please also try to stay off your feet and drink 
+plenty of fluids.  
+
+It was a pleasure taking care of you at ___ 
+___.
+ 
+Followup Instructions:
+___

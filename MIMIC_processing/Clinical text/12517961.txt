@@ -1,0 +1,324 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with hx of HTN, CVA
+(___) with residual L sided hemiparesis, MI, and CKD who
+presents for chest pain and dyspnea.  
+ 
+The pt states that she she has had worsening dyspnea for the 
+past
+month or so that is now limiting her ability to exert herself.
+Because of her progressive symptoms, she can now barely ambulate
+around the room without feeling significantly SOB. This was also
+accompanied with occasional chest pain. She further endorsed
+abdominal pain and back pain.  She also endorses frequent
+headaches. Each of these symptoms seem to correlate closely with
+when her blood pressure is very high. 
+ 
+She initially presented to her PCP ___ ___, where labs were 
+drawn
+revealing for ___ of 16K and Cr elevated to 3.6 from a
+presumed baseline of near 1.7. She was referred to the ED for
+further management.  
+ 
+Notably, the pt notes that her BPs are typically elevated to
+around ___. She admits that she is not taking her
+medications as prescribed and typically only takes her
+antihypertensives once daily even though they are prescribed as
+twice daily medications.  She feels that all of her medications
+have stopped working effectively, and in fact they seem to
+elevate her blood pressure when she takes them. She's had most 
+of
+her care at ___, but wanted to try another
+___ facility because she wants to have better control of
+her blood pressure. 
+
+Of note, she's very concerned about too rapid correction of her
+blood pressure. She had an event in ___ where her blood 
+pressure
+was lowered quickly despite her objections, and she reports a
+near cardiac arrest and a stroke. 
+ 
+In the ED:  
+Initial vital signs were T 97, HR 102, BP 257/150, RR 18, O2 
+100%
+on RA. Exam was unremarkable.  
+
+Labs showed:  
+ - Cr 3.3, BUN 31  
+ - ___ 13655  
+ - Trop T 0.04  
+ - Otherwise chemistries, CBC, LFTs, and coags wnl  
+
+Studies:  
+ - CXR: Cardiomegaly with vascular engorgement, but no overt
+pulmonary edema.  
+
+Meds:  
+ - ASA 324mg  
+ - Morphine 4mg  
+ - Nitro gtt  
+
+ED Course: The patient was uptitrated on the nitro gtt for a 
+goal
+SBP 190-200, however her BPs remained persistently elevated.   
+ 
+On arrival to the CCU, she endorses the above history and states
+that she continues to have a headache as well as some chest and
+arm pain.  
+
+ROS: Positive per HPI. Remaining 10 point ROS reviewed and
+negative.  
+
+ 
+Past Medical History:
+Cardiac History:
+- HTN, poorly controlled  
+- CVA (___), with residual L sided hemiparesis  
+- MI (___), no stents placed  
+- CHF  
+- CKD 
+ 
+Social History:
+___
+Family History:
+- Mother had multiple MI's and DM. First MI possibly in her 
+___.
+
+- Father died of prostate cancer.
+ 
+Physical Exam:
+===================================
+ADMISSION EXAMINATION
+===================================  
+VS:  HR 98, BP 241/160, O2 98% on RA
+GENERAL: Comfortable appearing, 
+HEENT: Pupils equal and reactive, no scleral icterus or
+injection, somewhat dry mucous membranes
+NECK: JVP approximately 8cm
+CARDIAC:  S1/S2 regular with no murmurs, rubs or S3/S4 
+LUNGS: Faint bibasilar rales, no use of accessory muscles, no
+respiratory distress
+ABDOMEN: Soft, non-tender to deep palpation
+EXTREMITIES: No lower extremity edema, warm extremities 
+PULSES: Strong pedal and radial pulses
+NEURO: Pupils equal and reactive. Extraocular eye movements
+intact. Diminished sensation to light touch on the left side of
+her face in V1/V2/V3. Symmetric smile. Symmetric palate raise.
+Tongue protrudes midline. Hearing intact bilaterally. Eye squint
+slightly weaker on left side. L arm with posturing including 
+mild
+contraction of her L hand, however she has intact strength in 
+all
+muscle groups of the left arm. She reports diminished sensation
+to light touch throughout the left arm and shoulder. Leg 
+strength
+and right arm strength are normal. 
+
+=====================
+DISCHARGE EXAMINATION
+====================
+Unable to complete, patient left AMA 3 hours after admission 
+physical exam was completed
+
+ 
+Pertinent Results:
+LABS ON ADMISSION: 
+=================
+___ 02:00AM BLOOD WBC-9.8 RBC-4.79 Hgb-12.9 Hct-41.2 MCV-86 
+MCH-26.9 MCHC-31.3* RDW-15.8* RDWSD-48.7* Plt ___
+___ 02:00AM BLOOD Neuts-66.1 ___ Monos-5.8 Eos-2.7 
+Baso-0.4 Im ___ AbsNeut-6.48* AbsLymp-2.42 AbsMono-0.57 
+AbsEos-0.27 AbsBaso-0.04
+___ 02:00AM BLOOD Plt ___
+___ 02:00AM BLOOD ___ PTT-27.3 ___
+___ 02:00AM BLOOD Glucose-122* UreaN-31* Creat-3.3* Na-144 
+K-3.5 Cl-102 HCO3-23 AnGap-19*
+___ 02:00AM BLOOD ALT-31 AST-34 AlkPhos-101 TotBili-0.3
+___ 02:00AM BLOOD Lipase-31
+___ 02:00AM BLOOD cTropnT-0.04*
+___ 02:00AM BLOOD Albumin-3.7
+
+IMAGING/STUDIES
+===============
+___ Imaging CHEST (PA & LAT) 
+IMPRESSION:  
+Cardiomegaly with vascular engorgement, but no overt pulmonary 
+edema. 
+
+ 
+Brief Hospital Course:
+___ with poorly controlled HTN, hx of MI, CVA, and CKD who
+presents with dyspnea and CP in the setting of hypertensive
+emergency.  
+
+#CORONARIES:  Reported occlusion
+#PUMP:  Unknown, reported CHF
+#RHYTHM:  Sinus 
+
+ACUTE ISSUES:  
+=============  
+#Patient goals and preferences
+Ms. ___ has a serious concern about how quickly her blood
+pressure is lowered. This stems from an event several years ago
+when she and her family felt like their providers were not
+listening to their requests and her blood pressure dropped
+quickly causing a near cardiac arrest. 
+
+We approached her and her family regarding our ideal target of a
+blood pressure between 160 and 180 sometime today. They 
+expressed
+significant frustration that we were not respecting her wishes 
+to
+not lower her blood pressure below 180 today. They initially 
+told
+us they would leave against medical advice. We eventually came 
+to
+an arrangement that we would only target a systolic of 180 
+today,
+and we made it clear that leaving her blood pressure elevated
+like this significantly increased her risk of stroke. They
+expressed understanding and emphasized that Ms. ___ is likely 
+a
+unique case in that her blood pressure goals may be different
+than others. We told them that a blood pressure of 180 is safer
+than her leaving the hospital, even it if did leave her at an
+increased risk of stroke, and we hoped they would stay in the
+hospital, which they agreed to do. 
+
+She also declined any blood pressure checks on her left arm,
+despite our concern that she could have suffered from an aortic
+dissection. Ms. ___ accepts this risk and prefers not to have
+any blood pressure checks in the left arm due to her residual
+deficit from stroke. Overall we have fairly low suspicion for
+aortic dissection and therefore only checked blood pressures
+on the right arm. 
+
+# Hypertensive emergency  
+The pt presents with markedly elevated BPs >250/150, in addition
+to signs of end organ damage including EKG troponin leak,
+pulmonary vascular congestion, and ___. She has a long history 
+of
+poorly controlled HTN and is not compliant with antihypertensive
+regimen as prescribed. Continued nitro gtt and planned to start 
+labetalol 200mg TID with a goal systolic of 180 today as per 
+patient wishes. Ideally would lower systolic goal to 140 prior 
+to discharge. However, patient left AMA with systolic pressures 
+still above 200, was unwilling to take any additional 
+medications. 
+ 
+# NSTEMI  
+# Chest pain  
+The pt complains of chest pain w/ labs notable for very mild
+troponin elevation. Likely due to markedly elevated BPs. EKG 
+with
+lateral TWI, which are also probably related to hypertension and
+resulting LVH. We continued aspirin, planned to continue Plavix 
+but patient left AMA before getting a dose.  
+
+# ___  
+Cr 3.3 from a presumed baseline near 1.7. Likely in the setting
+of HTN emergency as above. Ordered urine electrolytes, but were 
+unable to obtain prior to patient leaving AMA. HTN was managed 
+as above. 
+
+# CHF  
+History of DOE with labs revealing for elevated BNP and 
+pulmonary
+vascular congestion on CXR are suggestive of at least some
+component of congestive heart failure. Suspect diastolic
+dysfunction given longstanding HTN, however, she also has a hx 
+of
+MI and multiple risk factors for CAD.  Patient was ordered for 
+TTE, but left prior to getting this study done. Did not start a 
+diuretic, but this should be considered as an outpatient. 
+
+TRANSITIONAL ISSUES:
+====================
+[] Patient left medical advice. We encouraged Ms. ___ to stay 
+for care and we discussed the risk of stroke from her elevated 
+blood pressures. She did express some frustration that she did 
+not think her blood pressure could ever get better and 
+ultimately decided to leave against medical advice. 
+[] Patient will need strong outpatient f/u and encouragement to 
+take blood pressure medications; at present, it does not appear 
+as though she has taken any. 
+[] Relevant labwork: 
+ - Cr 3.3, BUN 31 
+ - ___ 13655 
+ - Trop T 0.04 
+ - Otherwise chemistries, CBC, LFTs, and coags wnl 
+
+CORE MEASURES:  
+==============  
+#CODE:  Full code, confirmed
+#CONTACT/HCP:  Crystal, HCP, ___
+#DISPO: Patient left AMA
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. NIFEdipine (Extended Release) 30 mg PO DAILY 
+2. Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+3. CARVedilol 3.125 mg PO BID 
+4. Albuterol Inhaler 1 PUFF IH Q6H:PRN dyspnea 
+5. Clopidogrel 75 mg PO DAILY 
+6. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler 1 PUFF IH Q6H:PRN dyspnea  
+2.  Aspirin 81 mg PO DAILY  
+3.  CARVedilol 3.125 mg PO BID  
+4.  Clopidogrel 75 mg PO DAILY  
+5.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY  
+6.  NIFEdipine (Extended Release) 30 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypertensive emergency
+Acute kidney injury on chronic kidney disease 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___ - you were hospitalized with very high blood pressure. 
+You had evidence of damage to your kidneys because of this, and 
+your body was also holding on to some extra fluid which was 
+likely causing you to feel short of breath. We strongly 
+encourage you to see another provider immediately so that we can 
+continue to work on improving your blood pressure. As we 
+discussed, blood pressure this high puts you at risk of a stroke 
+and other complications, including worsening heart failure. We 
+wish you the best and thank you for the opportunity to care for 
+you. 
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

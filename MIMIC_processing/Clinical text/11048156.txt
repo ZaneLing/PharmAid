@@ -1,0 +1,336 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ from ___ (moved to ___ ___ years ago) recently seen in 
+clinic ___ with fever, arthralgias, lymphadenopathy and 
+anorexia and found to have transaminitis and leukopenia. Pt was 
+urged to present to ED once childcare for her daughter could be 
+arranged. Of note, patient has had similar episodes of fever, 
+arthralgias, right posterior cervical LAD with accompanying 
+leukopenia several times as documented in the Atrius records 
+(___), and she was seen by ID and 
+underwent testing for malaria, HIV, CMV and shistosomiasis that 
+was unrevealing. Quantiferon gold was positive, so pt started 
+rifampin in ___ for latent TB. 
+
+Patient notes 6 days of fevers yesterday up to 104,abdominal 
+pain, anorexia, nausea, vomiting, left wrist pain, left knee 
+pain, left ankle pain, right ankle pain, and right bicep pain 
+that has been ongoing. She also notes an enlarged posterior 
+lymph node on her neck that has been ongoing for ___ days. She 
+denies cough, chest pain, or diarrhea. 
+
+She has not been sexually active for ___ years. Denies history of 
+STD's or sick contacts. Denies acetaminophen use, alcohol use, 
+or supplement use.
+
+Of note, last ___ when she first had these symptoms, she thought 
+it was malaria. She was not tested then, but did have a parasite 
+smear in ___. She notes that all 4 episodes have lasted 
+about 2 weeks, and with everyone she has had fevers, 
+odynophagia, post cervical LAD, arthralgias, and loss of 
+appetite.
+
+In ED, triage vital signs were: 98.3 76 106/69 16 100% RA. Pt 
+was examined and labs sent. CXR had been performed at Atrius. 
+Admit to medicine was requested for FUO.
+
+ROS: ten point ROS otherwise negative. 
+ 
+
+ 
+Past Medical History:
+Latent TB
+Malaria (in ___
+
+ 
+Social History:
+___
+Family History:
+denies FH of malignancy or rheumatoid disease
+ 
+Physical Exam:
+ADMISSION 
+right posterior cervical LAD
+CV: RRR no m/g/r
+Pulm: CTAB no w/r/r
+Abd: Soft, NT/ND, BS+
+Extrem: Warm, no edema
+GU: No foley
+Neuro: A+OX3, speech fluent, pleasant, CN II-XII intact, symm
+Skin: no rashes
+
+DISCHARGE
+VS - 97.6 (tmax 99.0) 97/63 65 18 100%RA
+Gen - sitting up in bed, comfortable
+Eyes - EOMI
+ENT - OP clear, MMM
+Lymph - small mobile non-tender posterior cervical lymph node; 
+no other lymphadenopathy on exam
+Heart - RRR no mrg
+Lungs - CTA bilaterally
+Abd - soft nontender, normoactive bowel sounds
+Ext - no edema
+Skin - no rashes
+Vasc - 2+ DP/radial pulses
+Neuro - AOx3, moving all extremities
+Psych - appropriate
+ 
+Pertinent Results:
+ADMISSION
+___ 01:50PM BLOOD WBC-3.1* RBC-4.20 Hgb-11.4 Hct-34.5 
+MCV-82 MCH-27.1 MCHC-33.0 RDW-12.3 RDWSD-37.2 Plt ___
+___ 01:50PM BLOOD Neuts-54.4 ___ Monos-9.3 Eos-2.2 
+Baso-0.6 Im ___ AbsNeut-1.70 AbsLymp-1.04* AbsMono-0.29 
+AbsEos-0.07 AbsBaso-0.02
+___ 01:50PM BLOOD Glucose-84 UreaN-7 Creat-0.8 Na-138 K-3.7 
+Cl-100 HCO3-27 AnGap-15
+___ 01:50PM BLOOD ALT-78* AST-84* AlkPhos-156* TotBili-0.7
+
+DISCHARGE
+___ 06:47AM BLOOD WBC-3.5* RBC-4.02 Hgb-10.7* Hct-32.6* 
+MCV-81* MCH-26.6 MCHC-32.8 RDW-12.4 RDWSD-36.4 Plt ___
+___ 06:47AM BLOOD Neuts-40.3 ___ Monos-7.2 Eos-4.0 
+Baso-0.6 Im ___ AbsNeut-1.40* AbsLymp-1.65 AbsMono-0.25 
+AbsEos-0.14 AbsBaso-0.02
+___ 06:47AM BLOOD Glucose-95 UreaN-5* Creat-0.7 Na-138 
+K-4.2 Cl-102 HCO3-26 AnGap-14
+___ 06:47AM BLOOD ALT-45* AST-39 AlkPhos-154* TotBili-0.4
+
+PENDING AT DISCHARGE
+___ 06:47 PARVOVIRUS B19 ANTIBODIES (IGG & IGM)
+___ 11:37 HERPES SIMPLEX VIRUS 1 AND 2 ANTIBODY IGM
+___ 11:37 CHIKUNGUNYA ANTIBODIES W/ REFLEX(ES) TO TITER
+___ 11:35 ANAPLASMA PHAGOCYTOPHILUM (HUMAN GRANULOCYTIC 
+EHRLICHIA AGENT) IGG/IGM
+___ 10:38 STRONGYLOIDES ANTIBODY,IGG
+___ 16:00 ADENOVIRUS PCR
+Microbiology
+___ 07:50 IMMUNOLOGY HBV Viral Load
+___ 07:49 Blood (Toxo) TOXOPLASMA IgG ANTIBODY; TOXOPLASMA 
+IgM ANTIBODY
+___ 07:49 IMMUNOLOGY HIV-1 Viral Load/Ultrasensitive
+___ 22:16 BLOOD CULTURE Blood Culture, Routine
+___ 17:00 URINE URINE CULTURE
+___ 12:06 BLOOD CULTURE Blood Culture, Routine
+___ 10:47 THROAT FOR STREP R/O Beta Strep Group A; 
+RESPIRATORY CULTURE
+___ 16:10 Blood (CMV AB) CMV IgG ANTIBODY; CMV IgM ANTIBODY
+
+Imaging: 
+Chest Xray ___ FINDINGS:Heart and mediastinum:  
+Cardiomediastinal silhouette and pulmonary vasculature are 
+normal. Pulmonary findings: The lungs are normally expanded.  No 
+acute infiltrate, effusion, or pneumothorax.
+
+Abdominal U/S ___
+No sonographic findings to explain the reported symptoms. Note 
+is made of incidental 1.6 cm x 1.5 cm x 1.4 cm hyperechoic 
+lesion within the right hepatic lobe, not fully characterized 
+but statistically most likely representing hepatic hemangioma. 
+If clinically warranted, MRI of the abdomen could be performed 
+for further characterization. 
+
+___
+EXAMINATION:  CT CHEST W/CONTRAST 
+The partially visualized thyroid is normal. Supraclavicular, 
+axillary, 
+mediastinal and hilar lymph nodes are not enlarged. Aorta and 
+pulmonary 
+arteries are normal size. Cardiac configuration is normal and 
+there is no appreciable coronary calcification.  The lungs are 
+clear.  There is no pleural or pericardial effusion. 
+For assessment of the abdomen, please the CT abdomen and pelvis 
+from the same date. There are no bone findings of malignancy. 
+IMPRESSION:  
+1.  No acute intrathoracic abnormality. 
+2.  For assessment of the abdomen please see the CT abdomen 
+pelvis report from the same date. 
+  
+___
+EXAMINATION:  CT abdomen and pelvis. 
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout.  A 9 mm hypodensity in segment 7 (series 5, image 
+37) is consistent with a 
+hemangioma.  There is no evidence of intrahepatic or 
+extrahepatic biliary 
+dilatation.  The gallbladder is within normal limits. 
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of focal lesions or pancreatic ductal 
+dilatation.  There is no peripancreatic stranding. 
+SPLEEN: The spleen is homogeneous in attenuation, however 
+enlarged up to 14.2 cm. 
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.  There is no evidence of focal renal lesions 
+or hydronephrosis.  There is no perinephric abnormality. 
+GASTROINTESTINAL: The stomach is unremarkable.  Small bowel 
+loops demonstrate normal caliber, wall thickness, and 
+enhancement throughout.  The colon and rectum are within normal 
+limits.  The appendix is normal. 
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no free fluid in the pelvis. 
+REPRODUCTIVE ORGANS: The reproductive organs are unremarkable. 
+LYMPH NODES: There is extensive, confluent, low-density, soft 
+tissue which extends from the root of the mesentery inferior to 
+the pancreas superiorly to the diaphragmatic ___ at the level 
+of the celiac artery.  The mass encases the superior mesenteric 
+artery, the left renal artery and vein and superior mesenteric 
+vein without narrowing. 
+VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease is noted. Splenic varices are noted. 
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture. 
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits. 
+IMPRESSION: 
+1. Confluent, low-density soft tissue, concerning for mesenteric 
+and 
+retroperitoneal lymphadenopathy.  Findings may represent an 
+atypical infection such as mycobacterium or less likely 
+lymphoma. 
+2. Mild splenomegaly. 
+
+Neck Ultrasound ___
+1.4 x 0.5 cm oval-shaped lymph node with no definite fatty 
+hilum. Although this is still within normal limits for size 
+criteria, short-term follow-up in ___ weeks is recommended for 
+reassessment given the lack of a well-defined fatty hilum.
+ 
+Brief Hospital Course:
+This is a ___ year old ___ female with past medical history 
+of latent TB, reported prior episodes of fever/joint pain of 
+unclear etiology, admitted ___ with subjective fever, 
+joint pain leukocypenia and mild transaminitis of unclear 
+etiology, concern for lymphadenopathy on imaging, clinically 
+improving, thought to have most likely had a resolving viral 
+process and able to be discharged home with close follow-up of 
+the following transitional issues
+
+# Subjective Fever / Joint Pain / Leukopenia / Lymphadenopathy - 
+patient with reported history of prior fevers of unclear 
+etiology despite workup in ___, latent TB non-compliant with 
+rifampin, who presented with reported fevers at home; found to 
+have leukopenia (WBC 3.0), reported joint pain (mainly in her 
+wrists), concern for cervical lymphadenopathy, mild 
+transaminitis (ALT 78 AST 84 AP 156 Tbili 0.7).  Patient seen by 
+infectious disease service, who felt this was not likely to be 
+TB or other acute process.  Multiple serologies sent out.  
+Patient clinically improved without intervention: afebrile 
+during 48 hours, LFTs improving, resolution of joint pain.  
+Workup of concern for lymphadenopathy showed a single posterior 
+cervical lymph node that was not pathologically enlarged.  CT 
+torso did show potential possible "mesenteric and 
+retroperitoneal lymphadenopathy";  per radiology, the 
+differential of this finding was broad and included "atypical 
+infection such as mycobacterium or less likely lymphoma"; spoke 
+with ID service, who believed that there was likely no acute 
+serious infectious process ongoing--more likely to be resolving 
+viral.  spoke with radiology fellow Dr. ___ to discuss 
+radiology read---differential is broad (infection, vasculitis, 
+cancer), and could potentially be further worked up with PET 
+scan.  Case discussed with patient (who reported that she would 
+leave the hospital no matter what to help care for her daughter 
+at home with Down's syndrome, but was willing to attend whatever 
+follow-up we recommended), and PCP Dr ___ 
+potential outpatient workup.  All agreed that discharge home was 
+safe as long as close follow-up was scheduled. 
+
+# GERD - continued home ranitidine
+
+# Latent TB - patient reported not being compliant with her home 
+rifampin (taking it ___ per week).  Per ID recommendations, 
+rifampin was held until she could follow-up with outpatient ID 
+(appointment made at discharge) to discuss plan for medication 
+adherence. 
+
+Transitional Issues
+- Neck ultrasound showed "1.4 x 0.5 cm oval-shaped lymph node 
+with no definite fatty hilum. Although this is still within 
+normal limits for size criteria, short-term follow-up in ___ 
+weeks is recommended for reassessment given the lack of a 
+well-defined fatty hilum." Would consider ___ repeat ultrasound
+
+- CT Abdomen/Pelvis showed "1. Confluent, low-density soft 
+tissue, concerning for mesenteric and retroperitoneal 
+lymphadenopathy.  Findings may represent an atypical infection 
+such as mycobacterium or less likely lymphoma. 2. Mild 
+splenomegaly." Per ID service, this was not concerning for an 
+acute infectious process.  Could consider additional workup with 
+outpatient PET scan, oncology referral. 
+
+- Patient had been noncompliant with rifampin prior to 
+admission; per ID consult, patient should hold her rifampin 
+until her outpatient ID appointment
+
+- Mild transaminitis noted during this admission.  At discharge 
+ALT 45, AST 39, AP 154, Tbili 0.4.  Would consider repeating at 
+follow-up visit to ensure resolution
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rifampin 600 mg PO Q24H 
+2. Ranitidine 150 mg PO DAILY 
+3. Ibuprofen 800 mg PO Q8H:PRN pain 
+
+ 
+Discharge Medications:
+1. Ranitidine 150 mg PO DAILY 
+2. Ibuprofen 800 mg PO Q8H:PRN pain 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Latent Tuberculosis 
+Fever / Leukopenia / Joint Pain
+GERD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___: 
+
+It was a pleasure caring for you at ___.  You were admitted 
+with reported fevers and joint pain.  You underwent testing and 
+were evaluated by infection specialists.  Your symptoms improved 
+and no signs of serious infection were found.  
+
+As we discussed, you underwent a CT scan that showed some 
+enlarged lymph nodes in your abdomen.  It is not clear what is 
+causing this.  We discussed this with your primary care doctor 
+who agreed that it is very important for you to follow-up with 
+her to discuss getting additional testing.  You will also need a 
+repeat ultrasound of your neck in ___ weeks.
+
+Given that you have not been taking it regularly, the infection 
+doctors recommend not taking your rifampin until you see your 
+infection doctor.  
+ 
+Followup Instructions:
+___

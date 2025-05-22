@@ -1,0 +1,418 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ampicillin / contrast dye
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain, palpitations, shortness of breath, dizziness
+ 
+Major Surgical or Invasive Procedure:
+___ Cardiac catheterization 
+
+ 
+History of Present Illness:
+___ year old male with PMHx HTN, severe aortic regurgitation
+presented for chest pain associated with palpitations,
+___ transferred to ___ for further evaluation (due to
+patient's preference). 
+
+This afternoon while sitting he work, he had sharp left sided
+chest pain associated with nausea, lightheadedness, and dyspnea.
+States the chest pain lasted seconds and was intermittently
+occurring for about ___ minutes. Symptoms not exertional 
+related.
+Lightheadedness still persisted afterwards and he presented to
+OSH. He states the last time he had chest pain was after his
+stress test. 
+
+He had recent exercise stress echo which showed no ischemic
+changes but limited exercise tolerance and frequent PVCs.
+ 
+Past Medical History:
+Aortic Regurgitation
+HTN
+
+ 
+Social History:
+___
+Family History:
+No family history of CAD  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+=======================
+VS: 98.2 146/88 64 18 97% RA  
+GENERAL: laying comfortably in no acute distress
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM  
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, ___ systolic murmur at RUSB
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: T 97.5 BP 134/ HR 53 RR 15 O2 99% RA
+GENERAL: Well=appearing gentleman, lying in bed comfortably in 
+NAD
+HEENT: AT/NC, anicteric sclera, EOMI, PERRL
+NECK: Supple, no JVD 
+HEART: RRR, normal S1/S2, ___ diastolic murmur at RUSB
+LUNGS: CTAB, no wheezes, rales, rhonchi
+ABDOMEN: Non-distended, non-tender in all quadrants
+EXTREMITIES: No ___ edema
+NEURO: A+O X 3, CN grossly intact, strength ___ +
+symmetric in UE and ___ bilaterally, patient unable to do thumb 
+to
+finger tap accurately and symmetric with decreased accuracy on L
+as compared to R, able to state accurately and rapidly the days
+of the week backward and count backwards by 5, ___ short-term
+recall
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 12:03AM   PLT COUNT-268
+___ 12:03AM   NEUTS-66.0 ___ MONOS-7.4 EOS-4.5 
+BASOS-0.7 IM ___ AbsNeut-5.28 AbsLymp-1.67 AbsMono-0.59 
+AbsEos-0.36 AbsBaso-0.06
+___ 12:03AM   WBC-8.0 RBC-4.38* HGB-13.6* HCT-39.4* MCV-90 
+MCH-31.1 MCHC-34.5 RDW-12.7 RDWSD-42.0
+___ 12:03AM   TRIGLYCER-132 HDL CHOL-61 CHOL/HDL-4.1 
+LDL(CALC)-166*
+___ 12:03AM   ALBUMIN-4.5 CHOLEST-253*
+___ 12:03AM   cTropnT-<0.01
+___ 12:03AM   ALT(SGPT)-25 AST(SGOT)-21 ALK PHOS-55 TOT 
+BILI-0.5
+___ 12:03AM   estGFR-Using this
+___ 12:03AM   GLUCOSE-97 UREA N-18 CREAT-1.0 SODIUM-141 
+POTASSIUM-4.1 CHLORIDE-101 TOTAL CO2-26 ANION GAP-14
+___ 12:15AM   LACTATE-1.3
+___ 12:15AM   COMMENTS-GREEN TOP
+___ 01:00AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 01:00AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 01:00AM URINE  UHOLD-HOLD
+___ 01:00AM URINE  HOURS-RANDOM
+___ 08:20AM   ___ PTT-30.0 ___
+___ 08:20AM   PLT COUNT-314
+___ 08:20AM   WBC-8.9 RBC-4.90 HGB-15.1 HCT-44.6 MCV-91 
+MCH-30.8 MCHC-33.9 RDW-13.0 RDWSD-42.8
+___ 08:20AM   CALCIUM-9.9 PHOSPHATE-3.2 MAGNESIUM-2.2
+___ 08:20AM   CK-MB-2 cTropnT-<0.01
+___ 08:20AM   GLUCOSE-98 UREA N-16 CREAT-0.9 SODIUM-142 
+POTASSIUM-4.5 CHLORIDE-102 TOTAL CO2-24 ANION GAP-16
+___ 08:36PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-TR* BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 08:36PM URINE  COLOR-Straw APPEAR-Clear SP ___
+
+DISCHARGE LABS:
+===============
+___ 07:35AM BLOOD WBC-7.7 RBC-4.41* Hgb-13.5* Hct-39.0* 
+MCV-88 MCH-30.6 MCHC-34.6 RDW-12.4 RDWSD-40.0 Plt ___
+___ 07:35AM BLOOD Plt ___
+___ 07:35AM BLOOD Glucose-89 UreaN-16 Creat-0.9 Na-139 
+K-4.5 Cl-101 HCO3-25 AnGap-13
+___ 07:35AM BLOOD Calcium-9.4 Phos-3.3 Mg-2.3
+
+MICROBIOLOGY:
+==============
+___ 1:00 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+___ 8:00 pm Staph aureus Screen      Source: Staph aureous 
+. 
+
+                            **FINAL REPORT ___
+
+   Staph aureus Screen (Final ___: 
+      NO STAPHYLOCOCCUS AUREUS ISOLATED. 
+
+___ 8:36 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+___ Blood culture: Pending
+
+IMAGING/DIAGNOSTICS:
+====================
+___ Cardiac catheterization:
+Impressions:
+1. Mild coronary atherosclerosis without angiographically 
+apparent high grade flow-limiting epicardial
+disease, but diffuse slow, pulsatile flow consistent with 
+microvascular dysfunction.
+2. Normal left ventricular end diastolic pressure.
+3. Frequent atrial and ventricular ectopy.
+
+Recommendations:
+1. Routine post-TR Band care.
+2. Reinforce primary preventative measures against CAD.
+3. Additional plans per the ___ and Cardiac Surgery 
+Services.
+
+___ CXR:
+IMPRESSION: 
+Lungs are clear.  Heart size is normal.  There is no pleural 
+effusion.  No pneumothorax is seen
+
+___ CT Chest:
+IMPRESSION:
+1. Mild fusiform dilatation of the ascending thoracic aorta 
+measuring up to
+4.1 cm.  No significant aortic valvular calcification.
+2. Reticulation and micronodularity at the bilateral lung bases 
+is
+nonspecific, but can be seen in inflammatory or infectious 
+conditions, such as
+bronchiolitis.
+3. Several pulmonary nodules measuring up to 5 mm.  No CT 
+follow-up is
+recommended low risk patient, with an optional CT recommended in 
+12 months for
+high-risk patients.
+ 
+RECOMMENDATION(S):  For incidentally detected single solid 
+pulmonary nodule
+smaller than 6 mm, no CT follow-up is recommended in a low-risk 
+patient, and
+an optional CT in 12 months is recommend in a high-risk patient.
+
+___ ECHO:
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. Left ventricular wall thickness, 
+cavity size and regional/global systolic function are normal 
+(LVEF =65%). There is no ventricular septal defect. Right 
+ventricular chamber size and free wall motion are normal. The 
+ascending aorta is mildly dilated. The aortic valve is bicuspid 
+(right/left fusion with raphe). At least moderate (2+) aortic 
+regurgitation is seen. There is minimal diastolic flow reversal 
+in the distal aortic arch indicating this is not severe aortic 
+regrugtation. The pressure half time and lack of left 
+ventricular dilation (assuming this is chronic aortic 
+regurgitation) argue against more significant disease as well, 
+but given the eccentric jet this could be underestimated if 
+there were an acute change in the aortic regurgitation severity. 
+The aortic regurgitation jet is eccentric. The mitral valve 
+appears structurally normal with trivial mitral regurgitation. 
+There is no mitral valve prolapse. The estimated pulmonary 
+artery systolic pressure is normal. There is no pericardial 
+effusion. 
+
+IMPRESSION: At least moderate aortic regurgitation with bicuspid 
+aortic valve (right left fusion). Mild aortopathy. Severity can 
+be better clarified with TEE. I will ask Dr. ___ to review 
+the TTE images as he is the TEE attending tomorrow. If on second 
+review the aortic regurgitation is felt to be at least moderate 
+to severe then TEE can be deferred.
+
+___ CTA Head and Neck:
+IMPRESSION:
+1. No acute intracranial abnormality.
+2. No evidence of dissection, aneurysm or occlusion of the head 
+and neck.  No significant ICA stenosis by NASCET criteria.
+
+___ MR Head:
+IMPRESSION:
+1. No acute intracranial abnormality.
+2. A few scattered white matter FLAIR hyperintensities are 
+nonspecific.
+
+___ MR Cardiac:
+IMPRESSION:
+Please note that this report only pertains to extracardiac 
+findings.
+There are no significant extrathoracic findings.
+
+___ STRESS:
+INTERPRETATION: This ___ year old man with h/o HTN, mild CAD, 
+moderate AR with bicuspid aortic valave was referred to the lab 
+for evaluation of exercise induced arrhythmia. He exercised for 
+14 minutes on Gervino protocol and stopped for fatigue. That 
+represents an average exercise tolerance for his age with 7.3 
+METs. No chest, arm, neck or back discomfort reported. The 
+patient presented to the lab with mild dizziness which did not 
+change throughout the test. No significant ST segment changes 
+noticed. Rhythm was sinus with frequent isolated APBs, 
+occasional isolated VPBs, rare atrial and ventricular couplets, 
+rare atrial triplet and ___ betas run of narrow complex PSVT at 
+12.5 minute during
+   
+___ MR ___ spine:
+IMPRESSION: 
+1. Appearance of C5-C6 is most likely degenerative.  Absence of 
+paravertebral edema argues against infection, clinically 
+correlate. 
+2. Degenerative changes cervical spine. 
+3. Moderate central canal narrowing C5-C6. 
+4. Multilevel significant foraminal narrowing, as above. 
+
+ 
+Brief Hospital Course:
+___ year old male with PMHx HTN, severe aortic regurgitation 
+presenting with worsening lightheadedness, SOB, and chest pain 
+consistent with acute decompensated heart failure.
+
+ACUTE ISSUES:
+=============
+# Bicuspid aortic valve
+# Severe aortic regurgitation
+Patient presented with worsening shortness of breath with 
+minimal exertion as well as worsening dizziness on admission 
+that was initially concerning for heart failure; however, there 
+was no evidence of volume overload on exam. At the OSH, he had 
+an echo that was read as "severe aortic regurgitation" and there 
+was concern that his symptoms were caused by insufficient 
+perfusion in the setting of his aortic regurgitation. An ECG was 
+done which showed no ST changes and troponins were negative. The 
+patient had a diagnostic cardiac cath that showed no major 
+coronary artery disease. He had a repeat TTE that showed EF 65% 
+and moderate aortic regurgitation. Cardiac surgery was consulted 
+and recommended cardiac MRI for further characterization, read 
+was pending at time of discharge. Ulitmately, it was decided 
+that the patient did not require valve replacement. The 
+patient's home metoprolol and lisinopril were held during 
+admission. He will follow-up in Cardiology clinic going forward. 
+
+
+# Dizziness
+Following his cardiac work-up (see above), Neurology was 
+consulted for the patient's ongoing dizziness with exertion and 
+recommended CTA head and neck which were negative for acute 
+pathologies. They also recommended MRI C-spine which showed no 
+acute pathology. They recommended an ophthalmology evaluation 
+for a dilated eye exam, which showed no acute pathology. 
+Neurology signed off on day of discharge. The patient's 
+dizziness had improved on day of discharge, but the etiology 
+remained unclear. He will follow up with cardiology and if his 
+symptoms persist, can discuss referral to Mass Eye and Ear for 
+further evaluation. 
+
+CHRONIC ISSUES:
+===============
+# Hypertension 
+Held home anti-hypertensives as patient's blood pressures were 
+borderline low during admission. Recommended to patient that he 
+should check his BP 2x/day and bring BP log to follow-up 
+appointment with cardiology. 
+
+TRANSITIONAL ISSUES
+=================
+[ ] New medications: Aspirin 81mg PO daily, Atorvastatin 40mg PO 
+qpm
+[ ] Held medications: Metoprolol tartrate 25mg PO daily, 
+Lisinopril 2.5mg PO daily, please restart in the outpatient 
+setting as appropriate
+[ ] Patient should follow up with cardiology and at this 
+appointment can discuss whether he requires a referral to Mass 
+Eye and Ear for further evaluation of his dizziness 
+[ ] Patient had several pulmonary nodules incidentally detected 
+on CT of the Chest. All nodules were <5mm. No CT follow-up is 
+recommended low risk patient, with an optional CT recommended in 
+12 months for high-risk patients. 
+[] Please follow-up pending studies at discharge: blood 
+cultures, MMA level and final Cardiac MRI read.
+
+#CODE: Full (confirmed) 
+#CONTACT: ___ 
+Relationship: WIFE 
+Other Phone: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 2.5 mg PO DAILY 
+2. LORazepam 1 mg PO QHS:PRN insomnia 
+3. Metoprolol Tartrate 25 mg PO DAILY:PRN palpitations 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth nightly Disp #*30 
+Tablet Refills:*0 
+3.  LORazepam 1 mg PO QHS:PRN insomnia  
+4. HELD- Metoprolol Tartrate 25 mg PO DAILY:PRN palpitations  
+This medication was held. Do not restart Metoprolol Tartrate 
+until following up with your PCP
+
+ 
+___:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+- Aortic regurgitation with bicuspid aortic valve
+- Dizziness
+
+Secondary diagnosis:
+- Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+Why were you admitted to the hospital? 
+- You were admitted to the hospital because you were having 
+worsening shortness of breath and dizziness.
+
+What was done for you in the hospital? 
+- You had a procedure called a cardiac catheterization to 
+evaluate the vessels of your heart, and it showed that you had 
+mild disease in your vessels that did not require intervention. 
+- You had an ultrasound of your heart which showed moderate 
+backward flow through your aortic valve.
+- The cardiac surgeons were consulted and recommended getting an 
+image of your heart called a cardiac MRI - this result was 
+pending at discharge.
+- The neurologists were consulted and recommended getting 
+imaging of your brain to see if there was an abnormality that 
+was causing your dizziness. The imaging was reassuring and did 
+not show a cause to your dizziness. 
+- The ophthalmologists were consulted for a thorough exam of 
+your eyes and felt this was normal.
+
+What should you do when you go home?
+- You should continue taking your mediations as prescribed. Your 
+new medications are Atorvastatin 40mg daily and aspirin 81mg 
+daily. You should stop metoprolol and lisinopril for now until 
+you see your Cardiologist in the outpatient clinic.
+- You should follow up with your primary care physician and 
+cardiologist.
+
+It was a pleasure taking care of you.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

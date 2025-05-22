@@ -1,0 +1,272 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+=================
+___ 10:54PM BLOOD WBC-14.3* RBC-4.32 Hgb-12.5 Hct-40.0 
+MCV-93 MCH-28.9 MCHC-31.3* RDW-12.4 RDWSD-42.4 Plt ___
+___ 10:54PM BLOOD Neuts-80.2* Lymphs-12.5* Monos-6.3 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-11.45* AbsLymp-1.79 
+AbsMono-0.90* AbsEos-0.02* AbsBaso-0.05
+___ 10:54PM BLOOD ___ PTT-25.8 ___
+___ 10:54PM BLOOD Glucose-147* UreaN-16 Creat-0.7 Na-135 
+K-4.4 Cl-101 HCO3-23 AnGap-11
+___ 10:54PM BLOOD TSH-1.7
+
+DISCHARGE LABS
+==============
+___ 06:00AM BLOOD WBC-8.2 RBC-4.51 Hgb-13.1 Hct-40.9 MCV-91 
+MCH-29.0 MCHC-32.0 RDW-12.5 RDWSD-41.1 Plt ___
+___ 06:00AM BLOOD ___ PTT-25.4 ___
+___ 06:00AM BLOOD Glucose-171* UreaN-13 Creat-0.6 Na-139 
+K-3.8 Cl-102 HCO3-24 AnGap-13
+___ 06:00AM BLOOD ALT-17 AST-19 AlkPhos-76 TotBili-0.8
+___ 06:00AM BLOOD Calcium-9.0 Phos-3.0 Mg-2.1
+
+REPORTS
+==========
+___ CT HEAD
+IMPRESSION:  
+  
+Acute on chronic left frontal subdural hematoma with mild 
+effacement of the 
+left lateral ventricle and 2 mm of midline shift, new from MR 
+brain performed 
+6 hours prior.  No evidence of subfalcine, uncal, or tonsillar 
+herniation. 
+Small right inferior frontal extra-axial collection is better 
+seen on the 
+previous MRI but grossly stable. 
+
+___ EEG
+24-HOUR IMPRESSION: This is an abnormal continuous video-EEG 
+monitoring study due to intermittent focal delta/theta slowing 
+over the temporal region bilaterally (left>right), indicative of 
+left greater than right bitemporal 
+focal cerebral dysfunction. There are no clinical events. There 
+are no 
+electrographic seizures or epileptiform discharges. 
+
+___ CT Head
+IMPRESSION: 
+1. Expected interval evolution of acute on chronic left frontal 
+subdural 
+hematoma, overall similar in size compared to most recent prior 
+study when 
+accounting for differences in patient positioning and 
+measurement technique. 
+2. Stable 2 mm of rightward midline shift. 
+3. Stable small right frontal extra-axial collection, better 
+assessed on prior 
+MRI from ___ but overall grossly unchanged. 
+
+___ CT Head
+IMPRESSION:   
+1.  No substantial interval change of left and right frontal 
+subdural 
+collections with minimal mass effect. 
+2.  No evidence of territorial infarction or new hemorrhagic 
+focus. 
+
+MICROBIOLOGY
+===========
+___ 10:54 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      BETA STREPTOCOCCUS GROUP B.    >100,000 CFU/mL. 
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+=================
+___ is an ___ year old female with a history of 
+dementia, prior vestibular schwannoma s/p resection in ___ 
+with residual left-sided decreased sensation of her face and 
+facial droop, who presented after multiple falls and reports of 
+altered mental status. She was found to have acute-on-chronic 
+bilateral subdural hematomas, and was evaluated by neurosurgery, 
+who did not find any indication for surgical intervention. She 
+was also evaluated by neurology, who felt that her altered 
+mental status was likely secondary to her recent head trauma, 
+her likely underlying dementia of unknown etiology, and a 
+urinary tract infection. Her UTI was treated with IV 
+antibiotics, and her neurology exam was followed closely, with 
+significant improvement over the course of her hospitalization. 
+EEG was negative for seizure. She was discharged to ___ 
+rehab, where she will continue to recover from her recent head 
+injury, and will require outpatient neurology follow-up in 
+several weeks times regarding the etiology of her underlying 
+progressive dementia, which thus far remains incompletely 
+characterized. 
+
+TRANSITIONAL ISSUES
+===================
+[] Patient has a history of multiple falls in the last ___ years. 
+Acute on chronic subdurals noted bilaterally, indicating 
+multiple traumatic brain injuries. She will need in-depth 
+neurologic workup as an outpatient, once the sequelae of her 
+recent brain injury have improved, to assess for the etiology of 
+her frequent falls ___ years) and gradual progressive cognitive 
+decline ___ years).
+[] Neurosurgery recommends follow up in 2 weeks in ___ 
+clinic with repeat head CT at that time
+[] Patient was discharged on a modified diet of soft 
+consistency, with pills crushed in puree, and 1:1 supervision. 
+Please continue to monitor her ability to take medications and 
+food by mouth, and advance as tolerated. 
+[] Her 81mg aspirin was held in the setting of brain bleed; it 
+is unclear why she was taking this medication. Her PCP should 
+consider whether there is a clear indication for aspirin; this 
+was NOT restarted upon discharge.
+[] She will require 1 additional day of antibiotics for UTI, for 
+a total 5 day course. She will take cephalexin 500mg BID on 
+___. 
+
+# CODE: DNR/DNI (confirmed with HCP daughter) 
+# CONTACT: ___ 
+ Relationship: daughter (___) 
+ Cell phone: ___ 
+
+ACUTE ISSUES: 
+============= 
+#Falls
+#Cognitive Decline
+#Altered Mental Status
+Patient presents with a history of numerous falls over the last 
+year, and particularly within the last 2 months, associated with 
+progressive cognitive decline. MRI this admission demonstrating 
+likely acute on chronic bilateral SDH, likely secondary to 
+multiple falls, although per neurosurgery this is likely not 
+enough to explain for her altered mental status. On 
+presentation, she was oriented only to self, and was 
+intermittently confused, agitated, perseverative, and unable to 
+tolerate anything by mouth. It is likely that she is undergoing 
+a progressive dementia as well as a more acute insult that 
+corresponds to her rapid decline over the last 2 months, with 
+contribution from TBI and from UTI diagnosed on admission. It is 
+also possible she has some residual vestibular issues related to 
+her schwannoma resection, although this is difficult to 
+ascertain fully while she is recovering from her TBI. A repeat 
+head CT x2 was negative for bleed progression. Her mental status 
+improved over the course of several days, and she was cleared by 
+SLP to take a soft diet and clear liquids with supervision. 
+
+#Acute on Chronic Subdural Hematomas
+Falls likely multifactorial secondary to progressive functional 
+decline, see above. MRI demonstrating bilatral subdural 
+hematomas, likely acute on chronic. CT ___ ___ showing 2mm 
+midline shift, new from prior, concerning for evolution of 
+bleed; however, repeat CT's were unchanged. Her systolic blood 
+pressure was maintained <160 mmHg.
+
+#UTI
+U/A with evidence of infection, culture growing GBS. This was 
+likely a contributor to her altered mental status. She was 
+treated with 4 days IV ceftriaxone; she will be discharged with 
+1 day of oral antibiotics (Keflex ___ PO BID) to complete a 5 
+day course for UTI. 
+
+CHRONIC ISSUES: 
+=============== 
+#HTN. She was continued on home amlodipine 5mg daily and 
+Metoprolol succinate 25mg daily.
+.
+.
+.
+Time in care: >30 minutes in discharge-related activities today.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Metoprolol Succinate XL 25 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Cephalexin 500 mg PO Q12H UTI - last day tx Duration: 2 
+Doses 
+Start ___  
+2.  amLODIPine 5 mg PO DAILY  
+3.  Metoprolol Succinate XL 25 mg PO DAILY  
+4. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until you see your PCP or cardiologist.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+FINAL DIAGNOSIS
+===============
+Acute on Chronic Subdural Hematoma
+Traumatic Brain Injury
+Dementia
+Dysphagia 
+
+SECONDARY DIAGNOSES
+====================
+Vestibular Schwannoma s/p resection
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You came the hospital because you were having falls, and you 
+were acting confused. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- A CAT scan of your brain showed some bleeding in your brain. 
+There was evidence of both old blood and new blood, likely from 
+hitting your head with multiple falls.
+- An EEG showed that you were not having seizures.
+- You were found to have a urinary tract infection, which was 
+treated with antibiotics through an IV.
+- Your mental status improved, and you were ready to leave the 
+hospital and go to rehab.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+-Please continue to take all of your medications and follow-up 
+with your appointments as listed below.  
+-You will take 1 more day of antibiotics for your UTI. You will 
+take Keflex ___ twice per day on ___ to finish your 
+antibiotic course. 
+
+We wish you the best! 
+ 
+Sincerely,  
+
+Your ___ Team  
+ 
+Followup Instructions:
+___

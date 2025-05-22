@@ -1,0 +1,239 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+vomiting
+ 
+Major Surgical or Invasive Procedure:
+___ Intubation 
+___ Extubation 
+
+ 
+History of Present Illness:
+This is a ___ year old woman with no known past medical history 
+who presented to the ___ ED with inebriation and vomiting. 
+
+She was accompanied by a friend, who noted they were out at a 
+bar drinking. 
+ 
+In the ED, initial vitals: GCS ___, T 98.9, P 88, BP 84/50 
+(increased to 113/74), R 18, SpO2 98%/RA. 
+ - Exam notable for: inebriation. She was then noted to begin 
+vomiting, and was unable to protect her airway. She was 
+intubated. 
+ - Labs were notable for: normal CBC & chemistries, serum etOH 
+level 193. Urine toxicology screen negative. 
+ - CXR post-intubation, showed ETT in place, 5.7 cm above the 
+carina, without pulmonary infiltrates or edema. 
+ - Patient was given: fentanyl gtt & midazolam gtt. and 1L NS
+ - Her ventilator was set at AC, f 14, Vt 350, PEEP 5, FiO2 
+100%. 
+
+An OGT was placed, and a small amount of blood was initially 
+noted. However, she then began having more blood out. 
+  
+On arrival to the MICU,  Pt is intubated and unable to give 
+further information. 
+
+Collateral: night of presentation to the ED, patient started 
+drinking 2 glass wine at home, then proceeded to bar to drink 1 
+shot vodka followed 2 additional mixed drinks at an after party. 
+Last thing she remembers is vomiting at the after hours party. 
+No other drug use. Was there with her friends that she knows 
+well, states she tended to her drinks, unsure if someone had the 
+opportunity to slip something in her drink. Drinks once or twice 
+a month, last time vomited from drinking was one month ago.
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+Patient unsure of family history 
+
+ 
+Physical Exam:
+ADMISSION AND DISCHARGE EXAM:
+=============================
+GENERAL:  Overweight female laying in bed, intubated.  In NAD.  
+HEENT:  Pupils equally small, minimally responsive to light 
+bilaterally.  
+CARDIAC:  Regular rate and rhythm, normal S1/S2, no 
+murmurs/gallops/rubs.  
+LUNG:   Coarse breath sounds of ventilator auscultated 
+anteriorly.  No crackles.
+ABDOMEN:  Hypoactive bowel sounds.  Mildly distended.  Does not 
+wince to palpation in all four quadrants.
+EXTREMITIES:   Warm and well perfused.  No pitting edema.  +2 
+dorsalis pedis pulses bilaterally.
+NEURO:  Intubated and sedated.  Does not rouse to loud voice or 
+shaking.  
+
+EXAM ON DISCHARGE: 
+====================
+GENERAL:  Sitting awaking, taking A&O3X 
+HEENT:  PEERL, MMM, orophyarx clear  
+CARDIAC:  Regular rate and rhythm, normal S1/S2, no 
+murmurs/gallops/rubs.  
+LUNG:   Lungs CTA 
+ABDOMEN: Normoactive bowel sounds, no TTP. 
+EXTREMITIES:   Warm and well perfused.  No pitting edema.  +2 
+dorsalis pedis pulses bilaterally.
+NEURO: CNII-XII, ___ ___ strength, eating and drinking well, 
+normal gait  
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 04:21AM BLOOD WBC-9.3 RBC-4.15 Hgb-11.9 Hct-36.0 MCV-87 
+MCH-28.7 MCHC-33.1 RDW-12.5 RDWSD-39.7 Plt ___
+___ 04:21AM BLOOD Neuts-50.0 ___ Monos-4.4* Eos-1.5 
+Baso-0.6 Im ___ AbsNeut-4.64 AbsLymp-4.01* AbsMono-0.41 
+AbsEos-0.14 AbsBaso-0.06
+___ 04:21AM BLOOD Plt ___
+___ 04:21AM BLOOD Glucose-135* UreaN-9 Creat-0.7 Na-139 
+K-3.8 Cl-101 HCO3-19* AnGap-23*
+___ 04:21AM BLOOD ASA-NEG ___ Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+DISCHARGE LABS:
+===============
+___ 08:07AM BLOOD WBC-10.6* RBC-4.45 Hgb-13.0 Hct-38.9 
+MCV-87 MCH-29.2 MCHC-33.4 RDW-12.7 RDWSD-40.6 Plt ___
+___ 08:07AM BLOOD Glucose-99 UreaN-7 Creat-0.6 Na-141 K-3.9 
+Cl-105 HCO3-21* AnGap-19
+___ 08:07AM BLOOD ALT-12 AST-22 LD(LDH)-251* AlkPhos-62 
+TotBili-0.2
+___ 08:07AM BLOOD Albumin-4.8 Calcium-8.5 Phos-4.4 Mg-1.8
+
+___ CXR: 
+=============
+1. Endotracheal tube ends 4.6 cm from the carina, at the level 
+of the thoracic inlet.  This should be advanced for more secure 
+seating. 
+2. Enteric tube tip ends in the stomach, but the last side port 
+is above the GE junction.  This should be advanced prior to use. 
+
+  
+RECOMMENDATION(S):  Endotracheal tube ends 4.6 cm from the 
+carina, at the 
+level of the thoracic inlet.  This should be advanced for more 
+secure seating. Enteric tube tip ends in the stomach, but the 
+last side port is above the GE junction.  This should be 
+advanced prior to use. 
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE:
+======================
+This is a ___ year old woman with no known past medical history 
+who presented to the ___ ED with inebriation and vomiting. In 
+the ED, given continued emesis, she was intubated for airway 
+protection and was transferred to the ICU for further 
+management. Per patient history, drank a total of ___ alcoholic 
+beverages over ___ hours. Denied other substance use at that 
+time but is unsure if someone slipped something into her drink 
+at the bar/after party she attended prior to admission. She did 
+not have any overnight events in the ICU and was extubated 
+without complication the following day. She was not started on 
+any medications. She was encouraged to see her primary care 
+physician to continue discussing how she can better manage her 
+alcohol use. 
+
+# RESPIRATORY FAILURE, secondary to 
+# INABILITY TO PROTECT AIRWAY: patient intubated in ED, after 
+observed to have low GCS and emesis, with concern for ability to 
+protect airway. Was initially sedated with fentanyl & midazolam 
+gtt in the ED. The following morning, Ms. ___ was weaned off 
+the ventilator without complications and extubated on ___. 
+She maintained SO2 on room air without incident.  
+
+# ALCOHOL INTOXICATION: no other significant lab abnormalities. 
+Serum etOH 193. Urine toxicology screen negative for other 
+substances, and urine HCG negative. Intubated for airway 
+protection in setting of low GCS secondary to severe etOH 
+intoxication. Patient does not have a history of chronic alcohol 
+use and is not at risk for while draw. Vomited twice after 
+extubation but then resolved by afternoon and eating/drinking 
+well. Patient was treated with thiamine 500 mg, folate, 
+rehydrated with IVF. Discussed risk of binge drinking and 
+protecting drinks from potential contamination with other drugs. 
+
+
+# HEMATEMESIS: Patient had bloody output when NG tube first 
+placed in the ED, then not blood output upon arrival to the 
+FICU. Likely secondary to ___ tear in the setting of 
+vomiting and instrucmentation. H/H remained stable, patient 
+hemodyranmically stable without pain. Patient received 
+Pantoprazole IV 40 mg BID while in house. After extubation, 
+patient vomited twice, clear vomit without blood or bile.  
+
+# HYPOTENSION: transient, to mid-80s, as noted in EMS report, as 
+well as at triage in ___ ED. Improved quickly thereafter to 
+110s. Upon arrival to ___, pressures improved to 112/65. Low 
+suspicion for infection. Aspiration pneumonitis possible, given 
+emesis and inebriation, though CXR unremarkable. Likely in the 
+setting of EtOH and hypovolemia ___ vomiting.  
+
+====================
+TRANSITIONAL ISSUES 
+====================
+Code status: full 
+Contact: refused to provide a contact person and number
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+==================
+EtOH intoxication 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+Why were you admitted to the hospital?
+- You were admitted to the ___ intensive care unit after 
+alcohol ingestion. 
+
+What did you receive in the hospital?
+- You required a breathing tube to protect your airway as you 
+were sleepy and vomiting. The breathing tube was able to be 
+removed once you were awake and aware. 
+
+What should you do once you leave the hospital?
+- Please follow up with your primary care physician as soon as 
+possible. 
+- Please consider speaking with your primary care physician 
+regarding your alcohol use
+
+We wish you the best!
+Your ___ Care Team
+ 
+ 
+Followup Instructions:
+___

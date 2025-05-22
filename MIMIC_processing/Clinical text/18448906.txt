@@ -1,0 +1,286 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization - ___
+
+ 
+History of Present Illness:
+___ with history of HTN presenting with chest pain.
+
+She has a strong FH of HTN (mother, sister, and son) and was
+diagnosed with early HTN in ___ (SBPs at that time in 140s)
+however declined treatment at that time because she was feeling
+well. BPs in early ___ were normal. 
+
+She then saw her PCP ___ ___ for 3 weeks of intermittent 
+chest
+pain and dyspnea, as well as a soft neck mass on the L side of
+her neck which she says comes and goes. PCP started lisinopril
+5mg, ordered exercise EKG stress test, and US of neck (no mass
+found). 
+
+EKG stress test was abnormal (downsloping STD in inferolateral
+leads) and recommendation was for stress echo. However, BP prior
+to stress test was 228/110 so stress test was canceled and she
+was sent to ___ and subsequently to the ED. She had L sided chest
+pain at the time, and a general "fuzziness". She was given full
+dose aspirin and SL NTG in office, which resolved symptoms.
+States yesterday she experienced nausea, no vomiting. 
+
+In general states she has experienced SOB when climbing stairs
+for the last week, but denies prolonged history of cardiac
+symptoms. States she has had the sensation of something "stuck 
+in
+her throat" for ~2 weeks, attributes to acid reflux, but denies
+correlation with food intake. She does not think she has had
+chest pain in the absence of hypertension. She has chronic HAs
+which have not been worsening recently. Denies vision changes,
+other concerning neurologic symptoms.
+
+Her outpatient BP trend is:
+ ___ 130/80
+ ___ 130/82
+ ___ 148/84
+ ___ 142/82
+ ___ 132/86
+ ___ 126/72
+ ___ 166/80
+ ___ 175/83
+ 
+In the ED, initial plan was for obs with stress echo, however 
+her
+SBP was ~200 at the time, so this was deferred. Subsequently,
+decision was made to admit for possible cath. On the floor, she 
+currently feels well. She denies any chest pain. 
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- HTN 
+
+2. CARDIAC HISTORY  
+- No known CAD
+
+3. OTHER PAST MEDICAL HISTORY  
+GERD
+
+ 
+Social History:
+___
+Family History:
+Aunt died of MI at age ___. Mother with HTN.
+ 
+Physical Exam:
+ADMISSION:
+VITALS:  reviewed in eflowsheets
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple, JVP flat
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills,
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE:
+ Vitals: ___ 0749 Temp: 97.5 PO BP: 153/84 L Lying HR: 73 
+RR: 16 O2
+sat: 97% O2 delivery: Ra  
+ General:  Alert and oriented, NAD
+ HEENT: NC/AT. EOMI
+ Lungs: CTAB
+ CV: RRR, Normal S1 and S2. No murmurs, rubs, or gallops
+ Abdomen: NT/ND, BS+
+ Ext: Warm and dry
+ 
+Pertinent Results:
+___ 07:43PM   cTropnT-<0.01
+___ 07:43PM   CHOLEST-242*
+___ 07:43PM   TRIGLYCER-69 HDL CHOL-94 CHOL/HDL-2.6 
+LDL(CALC)-134*
+___ 03:55PM   GLUCOSE-90 UREA N-10 CREAT-0.6 SODIUM-140 
+POTASSIUM-4.3 CHLORIDE-104 TOTAL CO2-24 ANION GAP-12
+___ 03:55PM   estGFR-Using this
+___ 03:55PM   cTropnT-<0.01
+___ 03:55PM URINE  HOURS-RANDOM
+___ 03:55PM URINE  UCG-NEGATIVE
+___ 03:55PM   WBC-8.5 RBC-4.79 HGB-12.8 HCT-40.2 MCV-84 
+MCH-26.7 MCHC-31.8* RDW-18.8* RDWSD-58.4*
+___ 03:55PM   NEUTS-62.1 ___ MONOS-7.1 EOS-1.2 
+BASOS-0.7 IM ___ AbsNeut-5.26 AbsLymp-2.39 AbsMono-0.60 
+AbsEos-0.10 AbsBaso-0.06
+___ 03:55PM   PLT COUNT-292
+___ 03:55PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:55PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+
+Renal US ___:
+
+FINDINGS:  
+The right kidney measures 11.3 cm. The left kidney measures 11.8 
+cm. There is no hydronephrosis, stones, or masses bilaterally.  
+Normal cortical 
+echogenicity and corticomedullary differentiation are seen 
+bilaterally. 
+  
+Renal Doppler: Intrarenal arteries show normal waveforms with 
+sharp systolic peaks and continuous antegrade diastolic flow. 
+The resistive indices of the right intra renal arteries range 
+from 0.69 to 0.76.  The resistive indices on the left range from 
+0.63 to 0.73.  Bilaterally, the main renal arteries are patent 
+with normal waveforms. The peak systolic velocity on the right 
+is 152 centimeters/second. The peak systolic velocity on the 
+left is 95.3 centimeters/second. Main renal veins are patent 
+bilaterally with normal waveforms. 
+  
+The bladder is moderately well distended and normal in 
+appearance. 
+  
+IMPRESSION:  
+Normal renal ultrasound.  No evidence of renal artery stenosis. 
+
+Cardiac Catheterization ___:
+Conclusion
+-No angiographically significant coronary artery disease. Left 
+main small in caliber but this is
+most likely a normal variant and does not appear hemodynamically 
+significant.
+Recommendations
+-Further management as per primary cardiology team.
+ 
+Brief Hospital Course:
+___ year old woman with HTN, FH of early CAD, presented with 
+hypertensive to 200s/100s and chest discomfort. EKG stress test 
+had showed ischemic changes, and she was planned for outpatient 
+stress echo for further evaluation, however this was deferred 
+due to severe hypertension. Biomarkers were negative and EKG was 
+normal, however given her FH of early CAD, decision was made to 
+pursue cardiac cath. This showed no coronary disease. She was 
+started on chlorthalidone 25mg and amlodipine 5mg for BP 
+control, in addition to her previously prescribed lisinopril, 
+which was uptitrated to 10mg. She underwent renal duplex for 
+work-up of possible secondary hypertension, and did not have 
+evidence of renal artery stenosis or fibromuscular dysplasia. 
+TSH was checked and was normal. Remainder of work-up for 
+secondary HTN can be pursued as an outpatient. She was 
+discharged with PCP and cardiology ___.
+
+#Hypertensive emergency: BPs to 220s/110s as outpatient on 
+lisinopril 5mg. Improved BP control with addition of 
+chlorthalidone and amlodipine. Lisinopril held prior to cath, 
+restarted at discharge at 5mg daily.
+
+#Chest pain: Presumptively due to hypertensive emergency. Cath 
+showed no CAD. Symptoms resolved with BP control.
+
+#Hyperlipidemia: Noted to have LDL 134. Started on rosuvastatin 
+40mg daily.
+
+TRANSITIONAL ISSUES:
+-Check renin/aldosterone ratio to evaluate for 
+hyperaldosteronism
+-Patient to have ___ with cardiology for further 
+medication titration
+
+NEW medications:
+-Chlorthalidone 25mg daily
+-Amlodipine 5mg daily
+-Rosuvastatin 40mg daily
+
+STOPPED medications:
+-Aspirin 81mg
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Lisinopril 5 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*3 
+2.  Chlorthalidone 25 mg PO DAILY 
+RX *chlorthalidone 25 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*3 
+3.  Rosuvastatin Calcium 40 mg PO QPM 
+RX *rosuvastatin 40 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*3 
+4.  Lisinopril 5 mg PO DAILY  
+5.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Hypertensive emergency
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+ ================================================  
+ DISCHARGE WORKSHEET TEMPLATE  
+ ================================================  
+ Dear Ms. ___,  
+
+ It was a pleasure caring for you at ___.  
+
+ WHY WAS I IN THE HOSPITAL?  
+ ==========================  
+ - You were admitted because you had chest pain and high blood 
+pressure
+
+ WHAT HAPPENED IN THE HOSPITAL?  
+ ==============================  
+  - You underwent a cardiac catheterization which showed no 
+significant disease in your coronary arteries
+  - You were started on chlorthalidone and amlodipine for blood 
+pressure control, in addition to the lisinopril you were already 
+taking
+ 
+ WHAT SHOULD I DO WHEN I GO HOME?  
+ ================================  
+  - Please be sure to take all of you blood pressure medications 
+as prescribed
+  - If possible, check your blood pressure occasionally at home 
+to ensure adequate control
+
+ Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+ Your ___ Healthcare Team  
+ 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,302 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / fish oil / Pollen/Seasonal allergy
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with seizure disorder 
+on primidone who presents as a transfer from urgent care with 
+right chest pleuritic pain and was found to have a CTA with PEs. 
+
+
+Ms. ___ was watching the ___ game on ___ evening 
+when she developed intense R flank pain that was worse with deep 
+inspiration. This was associated with dypsnea and progressively 
+worsened until she took ibuprofen which helped her pain. She 
+presented to the ___ urgent care near her house, was found to 
+have an elevated D-Dimer, and was referred to ___ where 
+she was found to have multiple PEs. She was started on heparin 
+gtt and transferred to ___ for consideration of MASCOT consult 
+and catheter directed therapy given tachycardia and hypoxia. 
+
+Of note, she has not had recent periods of immobilization. She 
+did fracture her foot in ___ of this year, but was only 
+non-weight bearing for 7d. She is still working and fairly 
+active. She has not had recent travel and has not been on a 
+plane recently. Her last colonoscopy was about ___ years ago and 
+her next is scheduled in ___ years due to prior findings of a 
+pre-cancerous adenoma that was removed. She gets yearly 
+mammograms and they have been normal. She had regular pap smears 
+until age ___ when they were discontinued. She denies recent 
+weight loss. She has some mild bilateral swelling in her legs 
+that has been unchanged for months. 
+
+EMERGENCY DEPARTMENT COURSE
+Initial vital signs were notable for:  
+- T99, HR 79, BP 124/78, RR 16, O2 97% RA
+ 
+Exam notable for: 
+- Benign, no lower extremity edema or tenderness
+
+Labs were notable for: 
+- Troponin <0.01
+- BNP 202  
+- Na 132
+
+Patient was given:  
+- Heparin infusion 
+- Acetaminophen 650mg 
+- Primidone 312.5 mg 
+
+Consults: None
+
+Vital signs prior to transfer: 
+- T 98.7, Hr 75, BP 114/56, RR 16, O2 94% RA
+ 
+ 
+Past Medical History:
+HLD
+Seizure Disorder (3 lifetime seizures, last at age ___
+Cholecystectomy
+Left knee surgery
+Right ankle surgery
+L foot surgery
+Celiac Disease 
+Bladder suspension 
+
+ 
+Social History:
+___
+Family History:
+- Unknown parental history as she is adopted, but her biological 
+mother may have had breast cancer
+- Two daughters with RA. One daughter with celiac disease. 2 
+daughters with ___. None with seizures. 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM 
+=======================  
+VITALS:  T 99.1, BP 149/76, HR 98, RR 18, O2 95RA
+GENERAL: Well appearing, sitting up on side of bed speaking to 
+me
+HEENT: Pupils equal and reactive, moist mucous membranes, no 
+scleral icterus
+CARDIAC:  S1/S2 regular with no murmurs, rubs or S3/S4
+LUNGS:  Clear bilaterally, pain on R side with deep inspiration 
+ABDOMEN: Soft, non-tender, non-distended
+EXTREMITIES: No lower extremity swelling, warm extemities
+NEUROLOGIC: A+Ox3, grossly intact strength and sensation 
+
+DISCHARGE PHYSICAL EXAM 
+=======================  
+VITALS:  24 HR Data (last updated ___ @ 425)
+    Temp: 99.0 (Tm 99.4), BP: 116/44 (99-120/44-70), HR: 95
+(76-95), RR: 18, O2 sat: 96% (95-97), O2 delivery: RA, Wt: 
+146.16
+lb/66.3 kg  
+GENERAL: Well appearing, sitting up on side of bed speaking to 
+me
+HEENT: Pupils equal and reactive, moist mucous membranes, no
+scleral icterus
+CARDIAC:  S1/S2 regular with no murmurs, rubs or S3/S4
+LUNGS:  Clear bilaterally, pain on R side with deep inspiration 
+ABDOMEN: Soft, non-tender, non-distended
+EXTREMITIES: No lower extremity swelling, warm extemities
+NEUROLOGIC: A+Ox3, grossly intact strength and sensation 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 03:56AM BLOOD WBC-8.1 RBC-3.99 Hgb-11.8 Hct-35.1 MCV-88 
+MCH-29.6 MCHC-33.6 RDW-12.1 RDWSD-39.3 Plt ___
+___ 03:56AM BLOOD Glucose-111* UreaN-8 Creat-0.6 Na-134* 
+K-3.7 Cl-96 HCO3-23 AnGap-15
+___ 03:56AM BLOOD Calcium-9.2 Phos-3.2 Mg-1.8
+___ 03:56AM BLOOD ALT-13 AST-25 LD(LDH)-236 AlkPhos-102 
+TotBili-0.4
+___ 11:17PM BLOOD proBNP-202
+
+IMAGING:
+===============
+___ Bilateral Lower Extremity US
+FINDINGS: 
+- There is normal compressibility, color flow, and spectral 
+doppler of the bilateral common femoral, femoral, and popliteal 
+veins. Normal color flow is demonstrated in the posterior tibial 
+and peroneal veins.
+- There is normal respiratory variation in the common femoral 
+veins bilaterally.
+- No evidence of medial popliteal fossa (___) cyst.
+IMPRESSION: 
+- No evidence of deep venous thrombosis in the right or left 
+lower extremity veins.
+
+___ TTE
+CONCLUSION:
+- The left atrial volume index is normal. There is normal left 
+ventricular wall thickness with a normal cavity size. There is 
+normal regional and global left ventricular systolic function. 
+Quantitative biplane left ventricular ejection fraction is 62 % 
+(normal 54-73%). There is no resting left ventricular outflow 
+tract gradient. Normal right ventricular cavity size with normal 
+free wall motion. The aortic sinus diameter is normal for gender 
+with normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal with a normal descending aorta diameter. The 
+aortic valve leaflets (3) are mildly thickened. There is no 
+aortic valve stenosis. There is no aortic regurgitation. The 
+mitral valve leaflets appear structurally normal with leaflet 
+straightening, but no frank systolic prolapse. There is a 
+late-systolic jet of mild [1+] mitral regurgitation. Due to 
+acoustic shadowing, the severity of mitral regurgitation could 
+be UNDERestimated. The pulmonic valve leaflets are normal. The 
+tricuspid valve leaflets appear structurally normal. There is 
+physiologic tricuspid regurgitation. There is mild pulmonary 
+artery systolic hypertension. There is no pericardial effusion. 
+IMPRESSION:
+- Normal left ventricular wall thickness and biventricular 
+cavity sizes and regional/ global systolic function. Mild mitral 
+regurgitation with systolic straightening of the leaflets. Mild 
+pulmonary artery systolic hypertension.
+
+DISCHARGE LABS:
+===============
+___ 07:45AM BLOOD WBC-8.2 RBC-3.79* Hgb-11.3 Hct-33.3* 
+MCV-88 MCH-29.8 MCHC-33.9 RDW-12.1 RDWSD-39.1 Plt ___
+___ 07:45AM BLOOD ___ PTT-35.8 ___
+___ 07:45AM BLOOD Glucose-101* UreaN-4* Creat-0.5 Na-135 
+K-4.1 Cl-94* HCO3-22 AnGap-19*
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with seizure disorder 
+on primidone who presents as a transfer from urgent care with 
+right chest pleuritic pain and was found to have a CTA with PEs. 
+
+
+============
+ACUTE ISSUES
+============
+#Non-submassive Pulmonary Embolism
+Presented with right chest/flank pleuritic pain and was found to 
+have a CTA with subsegmental PE. She has no known risk factors; 
+is up to date on age appropriate cancer screening, no history of 
+immobilization, no other known hypercoagulable state. Does have 
+history of multiple traumas to bilateral lower extremities, but 
+LENIs did not show clot in either leg. She was initially 
+transferred for possible MASCOT consult but this was deferred 
+given normal BNP/troponin, no RH strain on CTA, normal O2 on 
+room air, and no tachycardia. Her nonsubmassive PE was managed 
+with systemic anticoagulation. There was initial concern with BP 
+drop from 140's to 90's, though it remained stable thereafter 
+with systolics 100-120s (her baseline). TTE during admission 
+demonstrated EF 62% with normal systolic function, mild MR and 
+mild PASP. She was initiated on warfarin given interaction with 
+AED and DOACs. She was bridged with Lovenox and set up with meds 
+to bed. 
+
+#Radiographic findings
+CTA read with possible median arcuate ligament syndrome. She has 
+had no postprandial abdominal pain, nor any weight loss. 
+Therefore, will simply monitor for symptoms. 
+
+============== 
+CHRONIC ISSUES 
+============== 
+#Seizure Disorder: Continued home primidone 
+#HLD: Continued home Atorvastatin 
+
+TRANSITIONAL ISSUES
+===================
+Discharge INR 1.2
+
+[] Set up with ___ clinic on ___, recs for 
+next INR on ___ 
+[] Started on warfarin with Lovenox bridge. 
+[] No clear indication for aspirin, discontinued on discharge
+[] Incidental finding of possible median arcuate ligament 
+syndrome on CTA read. Asymptomatic 
+
+#CODE: Full Confirmed
+#CONTACT: Husband/HCP, ___, ___ or ___
+
+More than 30 minutes were spent preparing this discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Docusate Sodium 100 mg PO BID 
+3. Vitamin D 1000 UNIT PO DAILY 
+4. Atorvastatin 10 mg PO QPM 
+5. PrimiDONE 500 mg PO QAM 
+6. PrimiDONE 312.5 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 65 mg SC Q12H  
+2.  Warfarin 5 mg PO ONCE Duration: 1 Dose  
+3.  Atorvastatin 10 mg PO QPM  
+4.  Docusate Sodium 100 mg PO BID  
+5.  PrimiDONE 500 mg PO QAM  
+6.  PrimiDONE 312.5 mg PO QPM  
+7.  Vitamin D 1000 UNIT PO DAILY  
+8.Outpatient Lab Work
+INR check on ___
+Fax to ___ ___
+ICD-9 code 415.1
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+=================
+Pulmonary embolism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+ 
+ WHY WERE YOU ADMITTED TO THE HOSPITAL?
+ - You were admitted to the hospital because you were having 
+chest pain
+
+ WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?  
+ - You were found to have blood clots in your lung on CT scan
+ - You were started on blood thinners
+ - You improved and were ready to leave the hospital.  
+
+ WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+ - Please take all of your medications as prescribed and go to 
+your follow up appointments with your doctors ___ below)   
+ - Seek medical attention if you have new or concerning symptoms 
+
+
+ It was a pleasure participating in your care. We wish you the 
+best!
+ 
+ - Your ___ Care Team  
+ 
+Followup Instructions:
+___

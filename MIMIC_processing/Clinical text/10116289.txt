@@ -1,0 +1,243 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dysuria
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o M PMH significant for BPH, H.pylori s/p recent recent 
+treatment metronidazole/amoxicillin, HLD who is admitted from 
+outpatient setting given concern for prostatitis.  
+The patient reported for the past ___ weeks he has had 
+difficulty urinating as he describes as dysuria and needing to 
+"rush to the bathroom." This has progressively worsened such 
+that he has had everytime he urinates he has dysuria associated 
+with change in color of urine such that it has become more 
+cloudy. The patient reports that a couple of days ago, he 
+developed tactile fevers and chills associated with general 
+malaise. The patient also reports that he developed a couple of 
+days ago watery stools approx ___ daily with melena, BRBPR. He 
+denies any abdominal pain, chest pain, SOB, N/V. He is sexually 
+active only with his wife.  
+The patient was seen as an episodic visit on the day of 
+admission where given his leukocytosis to 17, it was concerning 
+for development of early sepsis and recommended he be sent to 
+the ED.  
+ 
+On arrival to the ED, initial vitals were: 97.5 94 142/61 16 95% 
+Prior to the ED, the patient's labs were notable for 
+leukocytosis to 17.5 with left shift PMNs 83.4, otherwise Nl 
+CBC. Chem 7 was unremarkable. PSA was 15.4 from 1.6 in ___. UA 
+was grossly positive. urine and cdiff were pending. Blood 
+cultures were drawn.  
+The patient received CTX, ondansetron, 1L NS in the ED.  
+Vital Signs prior to transfer:99.2 81 119/76 18 96% RA  
+ 
+Currently, patient reports fevers, chills.  
+ 
+ROS: per HPI, denies , night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, cough, shortness of breath, 
+chest pain, abdominal pain, nausea, vomiting, constipation, 
+BRBPR, melena, hematochezia, hematuria.
+ 
+Past Medical History:
+___ esophages  
+BPH  
+Gastritis  
+H.pylori  
+HLD 
+ 
+Social History:
+___
+Family History:
+Mom died from CAD. 
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS - Temp 98.7F BP141/70 HR87 R18 O2-sat 100% RA  
+General: NAD, AOx3  
+HEENT: no scleral icterus, OP clear.  
+Neck: supple,  
+CV: RRR, nl S1 S2, no r/m/g appreciated.  
+Lungs: CTAB, no crackles, wheezing, rhonchi  
+Abdomen: soft, NT/ND. NABS  
+Ext: WWP, +2 pulses. No pedal edema.  
+Neuro: A+Ox3, attentive. Memory intact.  
+Skin: no rashes.  
+ 
+DISCHARGE EXAM:
+VS - 98.8 (99.4)121/74 88 18 95RA  
+General: NAD, AOx3  
+HEENT: no scleral icterus  
+Neck: supple,  
+CV: RRR, nl S1 S2, no r/m/g appreciated.  
+Lungs: CTAB, no crackles, wheezing, rhonchi  
+Abdomen: soft, NT/ND. NABS  
+Ext: WWP, +2 pulses. No pedal edema.  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 11:39AM BLOOD WBC-17.5*# RBC-5.28 Hgb-16.3 Hct-48.5 
+MCV-92 MCH-31.0 MCHC-33.7 RDW-13.0 Plt ___
+___ 11:39AM BLOOD Neuts-83.4* Lymphs-8.2* Monos-7.5 Eos-0.5 
+Baso-0.4
+___ 11:39AM BLOOD UreaN-11 Creat-0.8 Na-136 K-4.2 Cl-98 
+HCO3-28 AnGap-14
+___ 11:39AM BLOOD PSA-15.2*
+
+MICRO:
+==========
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML.. 
+         PRESUMPTIVE IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+BLOOD CULTURES: NGTD
+
+DISCHARGE LABS:
+==================
+___ 05:25AM BLOOD WBC-6.2 RBC-5.26 Hgb-16.3 Hct-49.1 MCV-93 
+MCH-31.0 MCHC-33.2 RDW-13.0 Plt ___
+___ 05:25AM BLOOD Glucose-121* UreaN-12 Creat-0.8 Na-140 
+K-4.3 Cl-101 HCO3-27 AnGap-___ y/o M PMH significant for BPH, H.pylori s/p recent recent 
+treatment metronidazole/amoxicillin, HLD who is admitted from 
+outpatient for acute prostatitis.  
+
+ACTIVE ISSUES:
+==================
+# Acute Prostatitis: Symptoms along with acutely elevated 
+PSA/WBC is highly concerning for protatitis. Rectal as 
+outpatient showed some moderate vague discomfort, but no sharp 
+pains. Currently meets ___ SIRS criteria (WBC). The patient 
+received a dose of ceftriaxone in the emergency room, 
+transitioned to ciprofloxacin as it has better prostatic 
+penetration for a 6 week duration of antibiotics. Urine cultures 
+E.coli sensitive to cipro. Blood cultures showed NGTD. Given 
+rapid improvement, it seems unlikely that prostatic ultrasound 
+was needed to rule out prostatic abscess. Patient reported being 
+in a monogamous relationship with his wife and given rapid 
+clinical improvement and urine culture results, seemed unlikely 
+to be secondary to gonorrhea/chlmydia. 
+
+# Diarrhea: Most likely antibiotic side effect. Initially 
+concerning for C.diff especially given leukocytosis and having 
+finished recent antibiotic course for H.pylori, so the patient 
+was started on metronidazole. When the C.diff PCR was negative, 
+metronidazole was discontinued.
+
+# Hemoptysis: The day of discharge the patient had an episode of 
+hemoptysis that was previously worked up with CT scan that 
+showed thickening of the tracheal wall, focal up to 4 mm is 
+noted and might potentially correspond in conjunction with 
+tortuous brachiocephalic artery to the indentation seen on the 
+trachea.  
+Reassessment in six months in conjunction with the pulmonary 
+nodules is 
+recommended for the assessment of stability. 
+
+CHRONIC ISSUES:
+===================
+# HLD: He was continued on home atorvastatin.
+
+# Gastritis: He was continued on home omeprazole.  
+
+# BPH:  He was continued on home tamsulosin.
+
+TRANSITIONAL ISSUES:
+=======================
+# CODE STATUS: Full (confirmed)  
+# CONTACT: Wife ___ ___ 
+# 6 week duration of ciprofloxacin. 
+# Follow-up chest CT in 6 months given radiology recommendation 
+for pulmonary nodules.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 40 mg PO DAILY 
+2. Tamsulosin 0.4 mg PO HS 
+3. Atorvastatin 10 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 10 mg PO DAILY 
+3. Omeprazole 40 mg PO DAILY 
+4. Tamsulosin 0.4 mg PO HS 
+5. Ciprofloxacin HCl 500 mg PO Q12H 
+Total 6 weeks of treatment. 
+RX *ciprofloxacin 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*70 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Prostatitis, Diarhea
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came to the hospital because you were having an infection in 
+your prostate. This most like secondary a bacterial infection in 
+your prostate called prostatitis. The treatment for this is 
+antibiotics called ciprofloxacin 500mg twice a day for 6 weeks. 
+You already have a one week supply from ___. You can use the 
+rest of those pills and then continue with the new prescription. 
+Please take all of the antibiotics unless instructed by your 
+PCP. 
+
+You were also having diarrhea. Initially we were worried about 
+an infection in your stool called c.diff. However, the test for 
+this was negative and it was most likely secondary to antibiotic 
+side effect. Please continue eating yogurt to help prevent 
+symptoms.
+
+We wish you a speedy recovery.
+YOUR ___ MEDICAL TEAM
+ 
+Followup Instructions:
+___

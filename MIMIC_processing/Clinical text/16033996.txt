@@ -1,0 +1,214 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___ / ___
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dizziness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ with unremarkable PMH who presents with one 
+week of worsening intermittent vertigo and admitted with 
+hyponatremia to 126.
+
+On about ___, after having dilated eye exam for posterior 
+vitreous separation, pt reports onset of severe vertigo 
+primarily with ambulation that has been occurring intermittently 
+since that time. She also notes mild ear fullness.
+On ___, she was seen by chiropractor for worsening of her 
+chronic neck pain who advised her to go to PCP. Her PCP 
+diagnosed likely vestibular neuritis and reportedly saw presence 
+of predominantly right-sided nystagmus and advised pt her 
+symptoms would resolve in ___ weeks. 
+
+On ___, she attended baseball game in ___ and was drinking a 
+lot of water and not eating most of the day as it was very hot. 
+Found vertigo was worsening and was evaluated and sent to ED.
+
+Patient thinks symptoms may be slightly worse when she turns her 
+head to the right but this is not clearly the case. Otherwise 
+has no vision changes, no double vision, no lightheadedness, no 
+CP/palpitations, no dyspnea/orthopnea/PND/weight gain, no 
+hearing loss, no tinnitus. 
+
+Of note she does have intermittent exertional CP present for 
+past ___ years which has been distantly evaluated with stress 
+tests reportedly negative. 
+
+In the ED, initial vitals were wnl. Neuro exam was reportedly 
+nonfocal with negative ___ maneuver.
+Labs were significant for Na 126 with otherwise normal chemistry 
+and CBC. Troponin was negative and ECG showed sinus rhythm.
+Noncon head CT and CTA head/neck were unremarkable.
+In the ED, she received 324 mg ASA.
+
+ 
+Past Medical History:
+osteopenia
+thygeson's (ophthalmic diagnosis)
+asthma
+Raynaud phenomenon
+ 
+Social History:
+___
+Family History:
+Mother with thyroid problem. Father with MI, DM2. ___ GM 
+with h/o CVA. Sisters with breast CA, BCC, thyroid problem, high 
+cholesterol. Of note one sister has longstanding vertigo. No 
+other FH of arrhythmia, seizure d/o, neurologic d/o.
+ 
+Physical Exam:
+PHYSICAL EXAM
+==============
+VS:  98.1 | 130/NR | 79 | 18 | 100 RA 
+GEN: Alert, sitting up in bed, no acute distress  
+HEENT: Moist MM, anicteric sclerae, no conjunctival pallor, EOMI 
+intact to gross exam  
+NECK: Supple without LAD  
+PULM: CTA b/l without wheeze or rhonchi  
+COR: RRR (+)S1/S2 no m/r/g  
+ABD: Soft, non-tender, non-distended  
+EXTREM: Warm, well-perfused, no edema  
+NEURO: CN II-XII grossly intact, motor function grossly normal, 
+no dysdiadochokinesia, FNF intact with mild tremor at full 
+extension b/l, fast-and-fine finger movements intact, heel shin 
+intact
+ 
+Pertinent Results:
+LABS
+===============
+___ 01:25AM BLOOD WBC-9.8 RBC-4.47 Hgb-12.7 Hct-40.2 MCV-90 
+MCH-28.4 MCHC-31.6* RDW-12.7 RDWSD-42.2 Plt ___
+___ 01:25AM BLOOD Neuts-76.7* Lymphs-18.5* Monos-4.0* 
+Eos-0.2* Baso-0.3 Im ___ AbsNeut-7.48* AbsLymp-1.80 
+AbsMono-0.39 AbsEos-0.02* AbsBaso-0.03
+___ 01:25AM BLOOD Glucose-131* UreaN-13 Creat-0.8 Na-126* 
+K-4.7 Cl-92* HCO3-21* AnGap-18
+___ 01:25AM BLOOD cTropnT-<0.01
+___ 10:48AM BLOOD Glucose-135* UreaN-11 Creat-0.8 Na-138 
+K-3.6 Cl-101 HCO3-23 AnGap-18
+
+IMAGING
+===============
+CTA head/neck ___
+1. No acute intracranial abnormality. 
+2. Patent intracranial vasculature without stenosis, occlusion 
+or aneurysm. Findings indicative of fibromuscular dysplasia of 
+the right cervical internal carotid artery.  No evidence of 
+dissection. 
+3. Patent cervical vasculature without stenosis, occlusion or 
+dissection. 
+
+ 
+Brief Hospital Course:
+ Ms. ___ is a ___ with unremarkable PMH who presents with 
+one week of worsening intermittent vertigo and admitted with 
+hyponatremia to 126.
+
+# Vertigo: History and physical suggestive of peripheral 
+etiology; no exam findings concerning for central etiology. Most 
+likely vestibular neuritis as previously diagnosed by PCP, 
+possibly symptomatically worsened in setting of heat, poor PO, 
+hyponatremia. CTA head/neck was done which was notable for 
+fibromuscular dysplasia of R ICA but otherwise no significant 
+findings. Patient offered pulse course of steroids which she 
+will consider as outpatient.
+
+# Hyponatremia: Na 126 in ED. Given history likely in setting of 
+poor PO intake/excessive water intake prior to admission. 
+Recheck on admission was 138.
+
+# Headache: Mild occipital headache outside of usual pattern. 
+Reassuring imaging and no concerning red flag features (no 
+visual changes, not worse with supine). She was given Tylenol 
+and Zofran for symptomatic relief.
+
+# CODE STATUS: Presumed Full  
+# CONTACT:  sister ___ ___
+
+TRANSITIONAL ISSUES:
+-Given prescription of prednisone (and ranitidine) as this may 
+improve vestibular neuritis
+-Would consider outpatient stress test as patient reports 
+intermittent exertional chest pain
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN sob 
+
+ 
+Discharge Medications:
+1.  PredniSONE 60 mg PO DAILY Duration: 5 Doses 
+Start: ___, First Dose: Next Routine Administration Time 
+This is dose # 1 of 4 tapered doses
+RX *prednisone 10 mg 6 tablet(s) by mouth daily Disp #*37 Tablet 
+Refills:*0 
+2.  PredniSONE 40 mg PO DAILY Duration: 1 Dose 
+Start: After 60 mg DAILY tapered dose 
+This is dose # 2 of 4 tapered doses 
+3.  PredniSONE 20 mg PO DAILY Duration: 1 Dose 
+Start: After 40 mg DAILY tapered dose 
+This is dose # 3 of 4 tapered doses 
+4.  PredniSONE 10 mg PO DAILY Duration: 1 Dose 
+Start: After 20 mg DAILY tapered dose 
+This is dose # 4 of 4 tapered doses 
+5.  Ranitidine 150 mg PO BID Duration: 8 Days 
+while taking prednisone
+ 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth twice a day Disp 
+#*16 Tablet Refills:*0 
+6.  Albuterol Inhaler 2 PUFF IH Q6H:PRN sob  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+Vestibular neuritis
+
+Secondary
+Hyponatremia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital after you had worsening 
+vertigo and were found to have low sodium. Most likely the 
+vertigo is because of vestibular neuritis, as your PCP had 
+already diagnosed. You are being given a prescription for 
+steroids and a medication to protect your stomach, which you can 
+take if your symptoms continue to disturb you. Your low sodium 
+was likely from eating very little and drinking a lot of water, 
+and it was improving by the time you were discharged.
+
+You should follow up with your PCP to ensure your symptoms 
+continue to improve. You may also need another cardiac stress 
+test at some point to determine whether your intermittent chest 
+pain is of concern.
+
+It was a pleasure taking care of you during your stay in the 
+hospital.
+
+ - Your ___ Team
+ 
+Followup Instructions:
+___

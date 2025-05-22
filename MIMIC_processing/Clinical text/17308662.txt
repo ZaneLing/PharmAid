@@ -1,0 +1,268 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Dilantin Kapseal / Droperidol / Heparin Agents / Sulfa 
+(Sulfonamide Antibiotics) / Vancomycin / Zyvox / Dilaudid
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cellulitis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with PMHx of rheumatoid arthritis with multiple prosthetic 
+joints who presents with resents with bilateral lower extremity 
+edema, warmth, concerning for cellulitis. 
+
+She reports that she has been followed by her outpatient 
+dermatologist for management of "dermatitis" and has has 
+recently been doing or extremity wound care including Unna boot 
+to the RLE. She was seen at her nurse practitioner several days 
+ago, who asked about ___ BLE erythema with concern for possible 
+cellulitis. Patient reports that she has since developed an open 
+blister on her left lower extremity, and that her BLE erythema 
+and swelling have been worsening over the past few days; she 
+denies any pain of her BLE. She denies fevers, chills, 
+paresthesias, abdominal pain, nausea, vomiting.
+
+In the ED, initial VS 98.1, 83, 107/55, 20, 98% on RA.  Exam 
+notable for warm erythema of BLE R > L with 1 cm open weeping 
+wound of LLE.  Initial labs showed wnl Chem7 and CBC; lactate 
+elevated to 2.3.  Patient received doxycycline x 1 prior to 
+transfer.
+
+Upon arrival to the floor, the patient reports that she has 
+never had redness of her BLE before.  She is very concerned 
+about possible cellulitis; she denies any associated pain of her 
+BLE as noted above.  
+
+ROS:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain.  
+Denies headache, sinus tenderness, rhinorrhea or congestion. 
+Denies cough, shortness of breath. Denies chest pain or 
+tightness, palpitations. Denies nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denies arthralgias or myalgias.  
+ 
+Past Medical History:
+1. Juvenile rheumatoid arthritis diagnosed at age ___.
+2. Multiple left and right hip surgeries with revisions.
+3. Bilateral elbow and thumb fusion.
+4. L4 to L5 fusion.
+5. History of a right peroneal neuropathy. 
+ 
+Social History:
+___
+Family History:
+Mother with squamous cell cancer and father with congestive 
+heart failure.
+ 
+Physical Exam:
+Admission Physical:
+====================
+Vital Signs:  98.1, 83, 107/55, 20, 98% on RA
+General: Alert, oriented, elderly female in no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, severely deformed joints of her BUE 
+and BLE, well healed anterior midline incision over the right 
+knee.  Hyperpigmentation and erythema of BLE with crusting over 
+her LLE.  1+ pitting edema of BLE to knees bilaterally.  
+Neuro: AOx3.  CNII-XII intact, grossly nonfocal.  
+Access:  PIV
+
+Discharge Physical:
+====================
+Vital Signs: VSS, afebrile
+General: Alert, oriented, elderly female in no acute distress, 
+sitting up in bed  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, neck 
+supple without JVD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, erythema from ankles to just below 
+knees bilaterally with trace pitting edema bilaterally. 
+Hyperpigmentation of BLE with crusting L>R. Severe joint 
+deformities with well healed midline scar over right knee. No
+significant warmth over bilateral lower extremities. Small 1-2cm 
+circular wound on anterior lateral aspect of LLE (midshin) which 
+is clean based without purulence. Significant joint deformities 
+of MCPs, PIPs and elbows bilaterally  
+Neuro: AOx3.  CNII-XII intact, grossly nonfocal.  
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 07:56PM   LACTATE-2.3*
+___ 07:40PM   GLUCOSE-91 UREA N-12 CREAT-0.4 SODIUM-140 
+POTASSIUM-4.2 CHLORIDE-101 TOTAL CO2-28 ANION GAP-15
+___ 07:40PM   estGFR-Using this
+___ 07:40PM   WBC-4.6 RBC-3.53* HGB-11.6 HCT-36.5 MCV-103*# 
+MCH-32.9*# MCHC-31.8* RDW-15.2 RDWSD-56.7*
+___ 07:40PM   NEUTS-69.4 LYMPHS-16.4* MONOS-9.6 EOS-3.5 
+BASOS-0.9 IM ___ AbsNeut-3.17 AbsLymp-0.75* AbsMono-0.44 
+AbsEos-0.16 AbsBaso-0.04
+___ 07:40PM   PLT COUNT-183
+
+DISCHARGE LABS:
+==================
+___ 06:40AM BLOOD WBC-4.3 RBC-3.35* Hgb-11.3 Hct-34.9 
+MCV-104* MCH-33.7* MCHC-32.4 RDW-15.7* RDWSD-57.8* Plt ___
+___ 06:40AM BLOOD Plt ___
+___ 06:55AM BLOOD Glucose-78 UreaN-11 Creat-0.5 Na-139 
+K-4.4 Cl-106 HCO3-25 AnGap-12
+___ 07:43AM BLOOD Lactate-1.1
+
+IMAGING:
+==========
+___: Lower extremity Noninvasive US: No evidence of deep venous 
+thrombosis in the right or left lower extremity veins. 
+
+MICRO:
+========
+Blood cultures ___: pending
+ 
+Brief Hospital Course:
+___ with PMHx of rheumatoid arthritis with multiple prosthetic 
+joints who presents with resents with bilateral lower extremity 
+edema, warmth, most consistent with venous stasis flare.
+
+# BLE edema and erythema: Given lack of fevers, leukocytosis or 
+pain along with
+bilateral nature of symptoms, cellulitis seemed very unlikely. 
+Patient was initially started on doxycycline however on further 
+discussion with patient, symptoms started in setting of stopping 
+dermatology treatment plan (including leg compression) thus 
+venous stasis dermatitis felt to be most likely cause of 
+bilateral, symmetric swelling and erythema. LENIs negative for 
+DVT. Patient's dermatologist was contacted and treatment plan 
+restarted per discussion with him including coverage of venous 
+stasis ulcer on LLE with aquophor and telfa and then placement 
+of Vaseline/clobetasol ointment 1:1 mix covered with ACE wraps. 
+Per discussion with dermatologist and the patient regarding her 
+ability to manage her legs (difficult due to her own joint 
+deformities and her husband's back) decision was made for 
+dressing changes 3x/week with ___. Patient with follow-up with 
+Dr. ___ in ___ for evaluation of her legs on ___. 
+
+# Lactic acidosis: Elevated to 2.3 in setting of poor PO intake 
+at home per patient. Resolved with fluids.
+
+# RA.  Patient with significant deformation of multiple joints. 
+Followed by her outpatient rheumatologist at ___ 
+___. Continued on home methotrexate, orencia, calcium, 
+Fosamax and nexium. Plan for follow-up with rheumatology on ___ 
+at ___. 
+
+# H/o multiple prosthetic joint infections.  Per her outpatient 
+rheumatologist and ID provider at ___, has been 
+on chronic suppression therapy with cipro (previously had 
+Pseudomonas growing in cultures). Continued on home 
+ciprofloxacin. 
+
+# Overactive bladder: Continued home tolterodine.
+
+# Dry mouth: Continued home Salagen.
+
+# Iron deficiency: Continued home iron supplementation.
+
+Transitional Issues:
+======================
+# CONTACT:   patient, husband ___ ___
+[]f/u blood cultures from ___
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Orencia (abatacept) 125 mg/mL subcutaneous once monthly 
+2. Ciprofloxacin HCl 250 mg PO Q12H 
+3. Tolterodine 4 mg PO DAILY 
+4. Salagen (pilocarpine HCl) 5 mg oral TID 
+5. Alendronate Sodium 70 mg PO QSAT 
+6. Methotrexate 22.5 mg PO QWED 
+7. FoLIC Acid 1 mg PO DAILY 
+8. NexIUM (esomeprazole magnesium) 40 mg oral DAILY 
+9. Calcium 600 (calcium carbonate) 600 mg (1,500 mg) oral DAILY 
+10. Multivitamins 1 TAB PO DAILY 
+11. Ferrous Sulfate 325 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Clobetasol Propionate 0.05% Ointment 1 Appl TP EVERY OTHER 
+DAY  
+2.  Alendronate Sodium 70 mg PO QSAT  
+3.  Calcium 600 (calcium carbonate) 600 mg (1,500 mg) oral DAILY 
+ 
+4.  Ciprofloxacin HCl 250 mg PO Q12H  
+5.  Ferrous Sulfate 325 mg PO BID  
+6.  FoLIC Acid 1 mg PO DAILY  
+7.  Methotrexate 22.5 mg PO QWED  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  NexIUM (esomeprazole magnesium) 40 mg oral DAILY  
+10.  Orencia (abatacept) 125 mg/mL subcutaneous once monthly  
+11.  Salagen (pilocarpine HCl) 5 mg oral TID  
+12.  Tolterodine 4 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Chronic Venous Stasis dermatitis
+Venous stasis ulcer
+Rheumatoid Arthritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+___ were admitted to the hospital with swelling and redness in 
+your legs. ___ had ultrasounds of your legs which did not show 
+any clots. Your labs did not suggest that ___ had any infection. 
+Your swelling and redness is most likely due to a condition 
+called chronic venous stasis. We spoke to your dermatologist who 
+recommended that ___ treat your legs with steroid cream followed 
+by ace bandage wraps at least 3x/week. We have arranged for a 
+visiting nurse to assist ___ with this at home. 
+
+Please continue to take all of your medications as prescribed.
+
+It was a pleasure taking care of ___,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

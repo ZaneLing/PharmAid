@@ -1,0 +1,407 @@
+Name:  ___          Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Several Food Sensitivities
+ 
+Attending: ___
+ 
+Chief Complaint:
+cough, SOB
+ 
+Major Surgical or Invasive Procedure:
+bronchoscopy ___
+
+ 
+History of Present Illness:
+___ F with PMH of immunoglobulin deficiency, osteopenia,
+hypothyroidism, hyperparathyroidism and vitamin D deficiency who
+presents to the ED with persistent cough and SOB after oral
+antibiotic treatment for multifocal pneumonia. 
+
+She was diagnosed with pneumonia by her PCP ___ 2 weeks ago 
+iso
+SOB and cough. She was given 5 day course of Levaquin and
+completed another 9 days of augmentin. However she has been
+having persistent cough with initially yellowish and now clear
+sputum, dyspnea making conversations and minimal exertion
+difficult, and generalized fatigue and weakness limiting her
+activities of daily life. She has had serial CXRs that showed
+progressive compromise of bilateral lower lobes as well as CT
+that confirmed these findings. Given lack of symptomatic 
+response
+she was directed to the ED for IV abx management. She was also
+noted to be hypoxic at her PCP office today prior to ED 
+referral.
+She works with the elderly so potentially has had sick contacts.
+No recent travel or hiking/bug bite exposure.  
+
+ 
+Past Medical History:
+- IBS  
+- Hypothyroid  
+- Depression  
+- Arthritis  
+- Immunoglobulin deficiency
+- Osteopenia
+- Hyperparathyroidism
+- Vitamin D deficiency 
+
+ 
+Social History:
+___
+Family History:
+Father with CAD, MI in his ___ Maternal grandmother with 
+stomach
+cancer, maternal grandfather with lung cancer
+ 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+========================  
+VITALS:  AF, BP 103/67, HR 81, RR 18, PO2 95Ra
+GENERAL: Alert and interactive. In no acute distress.  
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM. 
+
+
+NECK: bilateral submandibular soft, mobile 2x2cm 
+lymphadenopathy;
+No JVD.  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.  
+LUNGS: bibasilar crackles; No wheezes. No increased work of
+breathing.  
+BACK: No CVA tenderness.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.  
+SKIN: Warm. Cap refill <2s. No rashes.  
+NEUROLOGIC: no focal deficits
+
+PHYSICAL EXAM:  
+24 HR Data (last updated ___ @ 719)
+    Temp: 97.9 (Tm 98.7), BP: 104/67 (96-106/60-67), HR: 76
+(71-83), RR: 17 (___), O2 sat: 93% (93-95), O2 delivery: Ra
+(.5L-1L)     
+General: well appearing woman appears younger than stated age. 
+HEENT: Sclera anicteric, MMM 
+Lungs: significant crackles to mid lung fields bilaterally with
+intermittent squeaks, no significant wheezing
+CV: Regular rate and rhythm, normal S1 + S2, systolic murmur
+Abdomen: soft, non-tender, non-distended
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Neuro: Face symmetric. Moving all limbs with purpose
+against gravity. Not dysarthric.
+
+ 
+Pertinent Results:
+___ 07:51PM BLOOD WBC-12.4* RBC-3.81* Hgb-11.5 Hct-35.5 
+MCV-93 MCH-30.2 MCHC-32.4 RDW-13.3 RDWSD-45.5 Plt ___
+___ 07:51PM BLOOD Neuts-66.2 Lymphs-17.1* Monos-9.4 Eos-5.5 
+Baso-0.8 Im ___ AbsNeut-8.23* AbsLymp-2.13 AbsMono-1.17* 
+AbsEos-0.69* AbsBaso-0.10*
+___ 07:51PM BLOOD Glucose-117* UreaN-18 Creat-0.8 Na-137 
+K-4.9 Cl-100 HCO3-25 AnGap-12
+
+RELEVANT RESULTS:  
+Quantiferon-TB Gold = negative
+Serum galactomannan = negative
+Serum B-Glucan = negative
+
+Urine Strep pneumo Ag = negative
+
+BAL galactomannan x2 = pending
+Urine Histo Ag = pending
+
+BAL cell counts =
+___ 08:18AM OTHER BODY FLUID Polys: 6* Lymphs: 14* Monos: 0
+Eos: 1* Macro: 78* Other: 1* 
+___ 08:18AM OTHER BODY FLUID Polys: 22* Lymphs: 39* Monos: 
+0
+Eos: 2* Basos: 1* Macro: 34* Lining: 1 Other: 1* 
+
+BAL cytology =
+- pulmonary macrophages, bronchial epithelial cells; no evidence
+of malignancy
+
+BAL cultures =
+___ 8:18 am BRONCHOALVEOLAR LAVAGE     Site: LOWER LOBE
+      ANT/MEN RLL BRONCH LAVAGE. 
+  
+   GRAM STAIN (Final ___: 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR
+      LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   SQUAMOUS EPITHELIAL CELLS. 
+      1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      1+    (<1 per 1000X FIELD):   MULTIPLE ORGANISMS
+      CONSISTENT WITH                                         
+      OROPHARYNGEAL FLORA. 
+      This is a concentrated smear made by cytospin method,
+      please refer to hematology for a quantitative white blood
+      cell count, if applicable. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      10,000-100,000 CFU/mL Commensal Respiratory Flora. 
+
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      Test cancelled by laboratory. 
+      PATIENT CREDITED. 
+      This is a low yield procedure based on our in-house
+      studies. 
+      if pulmonary Histoplasmosis, Coccidioidomycosis,
+      Blastomycosis, Aspergillosis or Mucormycosis is strongly
+      suspected, contact the Microbiology Laboratory (___). 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   NOCARDIA CULTURE (Preliminary): 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+ 
+___ 8:18 am BRONCHOALVEOLAR LAVAGE     Site: LOWER LOBE
+      SUP SEG RLL. 
+  
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR
+      LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   SQUAMOUS EPITHELIAL CELLS. 
+      2+   ___ per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      2+   ___ per 1000X FIELD):   MULTIPLE ORGANISMS
+      CONSISTENT WITH                                         
+      OROPHARYNGEAL FLORA. 
+      This is a concentrated smear made by cytospin method,
+      please refer to hematology for a quantitative white blood
+      cell count, if applicable. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      10,000-100,000 CFU/mL Commensal Respiratory Flora. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+   LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED. 
+
+   NOCARDIA CULTURE (Preliminary): 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   POTASSIUM HYDROXIDE PREPARATION (Final ___: 
+      Test cancelled by laboratory. 
+      PATIENT CREDITED. 
+      This is a low yield procedure based on our in-house
+      studies. 
+      if pulmonary Histoplasmosis, Coccidioidomycosis,
+      Blastomycosis, Aspergillosis or Mucormycosis is strongly
+      suspected, contact the Microbiology Laboratory (___). 
+
+IMAGING
+
+TECHNIQUE:  PA and lateral views the chest ___
+  
+COMPARISON:  Chest x-ray from ___ and chest CT from ___.  
+when compared to priors, there has been no significant interval 
+change.  There 
+are persistent bibasilar opacities, with somewhat more rounded 
+configuration 
+at the left lung base.  Opacity at the left lung base is 
+certainly not 
+improved and if anything slightly larger.  Right lung base 
+consolidation 
+however appears slightly improved.  Superiorly, lungs are 
+essentially clear 
+besides mild biapical scarring.  Cardiomediastinal silhouette is 
+within normal 
+limits.  Atherosclerotic calcifications seen at the aortic arch. 
+ No acute 
+osseous abnormalities 
+  
+FINDINGS:  
+  
+Persistent bibasilar opacities, potentially slightly improved on 
+the right 
+though potentially slightly worse on the left when compared to 
+prior. 
+
+DICSCHARGE
+___ 05:07AM BLOOD Calcium-8.5 Phos-3.0 Mg-2.0
+___ 05:07AM BLOOD TSH-7.0*
+___ 05:07AM BLOOD IgG-932 IgA-210 IgM-76
+___ 07:23AM BLOOD HIV Ab-NEG
+___ 05:09AM BLOOD WBC-11.1* RBC-3.64* Hgb-10.7* Hct-33.9* 
+MCV-93 MCH-29.4 MCHC-31.6* RDW-13.4 RDWSD-45.4 Plt ___
+___ 05:09AM BLOOD Glucose-100 UreaN-17 Creat-0.9 Na-141 
+K-5.2 Cl-102 HCO3-27 AnGap-___ F with PMH of immunoglobulin deficiency, osteopenia,
+hypothyroidism, hyperparathyroidism and vitamin D deficiency who
+presents to the ED with persistent cough and SOB after oral
+antibiotic treatment for multifocal pneumonia, admitted with
+concern for fungal vs. hypersensitivity pneumonia. 
+
+Transitional Issues:
+[] follow up with pulmonary for final results of bronchoscopy 
+and further management, outpatient PFTs
+[] monitor bilateral submandibular lymphadenopathy
+[] Repeat thyroid function studies given elevated TSH 
+
+# Dyspnea
+# Productive cough: 
+Admitted for treatment of presumed multifocal pneumonia after 
+failed oral antibiotic therapy of augmentin and Levaquin. Given 
+that patient had a more subacute course of dyspnea and cough, 
+had been afebrile, and was clinically well appearing suspicion 
+for bacterial pneumonia was low and antibiotics were 
+discontinued after discussion with infectious disease and 
+pulmonary. Additional studies and bronchoscopy were obtained to 
+evaluate for possible etiologies of an
+underlying indolent disease include fungal infection, organizing 
+PNA, eosinophilic PNA, etc. 
+While some studies were still pending, upon discussion with 
+pulmonary the likely etiology was determined to be inflammatory 
+pneumonia and the patient was started on PO steroids with plan 
+for follow up in pulmonary clinic in ___ weeks. 
+
+#Hypogammaglobulinemia: 
+Patient with a history of mild IgE deficiency, Ig levels 
+obtained herewere within normal limits. Unlikely to be playing a 
+role in patient's respiratory symptoms. 
+
+# Rash: Patient with punctate erythematous, raised lesions 
+clustered in the mid back. Pruritic in nature. Her husband does 
+not have the same rash. Denied recent outdoor activity or bug 
+bites. Likely bug bite vs contact dermatitis, pruritus was 
+relieved by Sarna lotion. Recommended patient follow up with PCP 
+if rash does not continue to improve.
+
+# Lymphadenopathy: 
+Patient with large bilateral submandibular lymphadenopathy. 
+Patient notes her prior doctors have documented this. Likely 
+larger now iso reactive inflammation from pneumonia. Will need 
+close outpatient monitoring in next 6 weeks for
+resolution or improvement 
+
+CHRONIC/STABLE ISSUES: 
+====================== 
+# Hypothyroidism: TSH elevated to 7 here likely iso infection, 
+as appears
+asymptomatic. We continued levothyroxine 50mcg daily. Will need 
+to repeat in 6 weeks given acute illness
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 50 mcg PO DAILY 
+2. Calcium Acetate Dose is Unknown  PO Frequency is Unknown 
+3. Cyanocobalamin Dose is Unknown  PO Frequency is Unknown 
+4. Zinc Sulfate Dose is Unknown  PO Frequency is Unknown 
+5. digestive enzymes 1 tablet oral DAILY 
+6. Probiotic (B.breve-L.acid-L.rham-S.thermo;<br>L. 
+acidophilus-L. rhamnosus;<br>L.rhamn 
+A
+-
+___
+-
+___ 
+40-Bifido 3-S.thermop;<br>Lactobacillus 
+acidophilus;<br>lactobacillus comb no.10;<br>lactobacillus 
+combination no.4;<br>lactobacillus combo no.11) 20 billion cell 
+oral BID 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler 1 PUFF IH TID shortness of breath 
+RX *albuterol sulfate [Ventolin HFA] 90 mcg 1 puff inh Daily as 
+needed Disp #*1 Inhaler Refills:*0 
+2.  Pantoprazole 20 mg PO Q24H 
+RX *pantoprazole 20 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*1 
+3.  PredniSONE 40 mg PO DAILY 
+RX *prednisone [Deltasone] 20 mg 2 tablet(s) by mouth once a day 
+Disp #*60 Tablet Refills:*0 
+4.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
+RX *sulfamethoxazole-trimethoprim 400 mg-80 mg 1 tablet(s) by 
+mouth once a day Disp #*30 Tablet Refills:*0 
+5.  Vitamin D 2500 UNIT PO DAILY 
+RX *ergocalciferol (vitamin D2) [Ergocal] 2,500 unit 1 
+capsule(s) by mouth once a day Disp #*30 Capsule Refills:*0 
+6.  Calcium Acetate 667 mg PO BID 
+You may continue your home dose/frequency.  
+7.  Cyanocobalamin 100 mcg PO DAILY 
+You may continue your home dose/frequency.  
+8.  Zinc Sulfate 220 mg PO DAILY 
+You may continue your home dose/frequency.  
+9.  digestive enzymes 1 tablet oral DAILY  
+10.  Levothyroxine Sodium 50 mcg PO DAILY  
+11.  Probiotic (B.breve-L.acid-L.rham-S.thermo;<br>L. 
+acidophilus-L. rhamnosus;<br>L.rhamn 
+A
+-
+___
+-
+___ 
+40-Bifido 3-S.thermop;<br>Lactobacillus 
+acidophilus;<br>lactobacillus comb no.10;<br>lactobacillus 
+combination no.4;<br>lactobacillus combo no.11) 20 billion cell 
+oral BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Inflammatory PNA, NOS 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,  
+
+It was a pleasure caring for you at ___ 
+___.  
+
+WHY WERE YOU IN THE HOSPITAL?  
+- You were admitted to the hospital for shortness of breath and 
+cough with concern for hard to treat pneumonia.
+
+WHAT HAPPENED WHEN YOU WERE IN THE HOSPITAL?  
+- We had a low suspicion for a bacterial pneumonia and we 
+consulted pulmonary and the infectious disease doctors who 
+agreed.
+- You had a bronchoscopy with the pulmonary team to evaluate 
+your lungs and take samples. 
+- We ruled out a bacterial pneumonia and instead think you have 
+a type of inflammatory pneumonia. The studies for this were 
+still pending at discharge, but the decision was made to start 
+you on steroids and have you follow up with the pulmonary 
+doctors.
+
+WHAT SHOULD YOU DO AFTER YOU LEAVE THE HOSPITAL?  
+- Continue to take all your medicines as prescribed below. 
+- Show up to your appointments as listed below.
+
+We wish you the best!  
+
+Sincerely,  
+
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,299 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Toradol / Ceftriaxone / Nitroimidazole Derivatives
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ doesn't have a past history presenting with abdominal pain 
+and back pain x24 hours. Patient states that his symptoms 
+started last night after eating a fatty ___ meal and a piña 
+colada. He states that he had diffuse abdominal pain for 2 
+hours. He states that the pain continued this morning, but moved 
+to his back. The pain is in the right CVA area. No nausea, 
+vomiting, diarrhea. No fevers. No urinary symptoms. Patient does 
+endorse SOB. ROS otherwise negative.
+
+In the ED, initial vitals were:  T 98, HR 92, BP 164/92, RR 18, 
+SPO2 98% on RA. BP subsequently improved to 128/77 while in the 
+ED. 
+
+Exam notable for tense abdomen without rebound, guarding, or 
+tenderness. He had right CVA tenderness. 
+
+Labs notable for:
+--Na 141, K 4.0, Creat 0.9, Glucose 105, eGFR>75
+--WBC 10.1, Hgb 12.6, Hct 38.2, Plt 204
+--Lymphs: 17.9, AbsNeut: 7.02, AbsMono: 1.06
+--___: 13.5  PTT: 150  INR: 1.2
+--unremarkable LFTs and lipase
+--elevated DDimer at 1465
+--lactate 1.8
+--UA with trace leuk esterase, trace protein, otherwise 
+negative.
+ 
+Past Medical History:
+- Abdominal pain (negative H.Pylori ___
+- Depression
+- Constipation, lifelong
+- Hepatitis A
+- Intractable fungal balanitis
+- Elevated amylase
+- Inguinal hernia
+- GERD
+- Chylamydia
+- Globus
+- Rectal pain
+- Knee pain
+- Motor vehicle accident
+ 
+Social History:
+___
+Family History:
+NO family history of cancers or clotting disorders.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Height: ___ Weight: 77.9kgs
+VS: T 99.6, BP 126/75, HR 71, RR 18, 96% on RA
+Gen: Alert and oriented, in some distress.
+HEENT: PERRLA. EOMI. moist mucus membranes
+CV: Normal S1/S2, no murmurs, gallops, or rubs.
+Pulm: Good airflow bilaterally. No wheezes, rhonchi, or 
+crackles. 
+Abd: mid-epigastric ttp, negative ___ sign. Hypoactive 
+bowel sounds present.
+GU: Not examined.
+Ext: ___ - No calf pain/ttp during active/passive 
+flexion/extension. No erythema, edema, or warmth.
+Neuro: UE strength ___ and ___ ___ strength and sensation grossly 
+normal. Cranial nerves intact.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+Vital signs: T 97.2, BP 109/66, HR 69, RR 18, 98% room air
+Gen: Alert and oriented, lying comfortably in bed
+HEENT: PERRLA. EOMI. moist mucus membranes
+CV: Normal S1/S2, no murmurs, gallops, or rubs.
+Pulm: Clear to auscultation bilaterally. No wheezes, rhonchi, or 
+crackles. 
+Abd: NTTP, normal bowel sounds.
+GU: Not examined.
+Ext: No swelling and 2+ peripheral distal pulses bilaterally
+Neuro: UE strength ___ and ___ ___ strength and sensation grossly 
+normal. CN II-XII intact.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 05:30PM   ___ PTT-150* ___
+___ 02:10AM   LACTATE-1.8
+___ 01:55AM   GLUCOSE-105* UREA N-16 CREAT-0.9 SODIUM-141 
+POTASSIUM-4.0 CHLORIDE-103 TOTAL CO2-28 ANION GAP-14
+___ 01:55AM   ALT(SGPT)-13 AST(SGOT)-19 ALK PHOS-75 TOT 
+BILI-1.0
+___ 01:55AM   LIPASE-47
+___ 01:55AM   ALBUMIN-4.4
+___ 01:55AM   D-DIMER-1465*
+___ 01:55AM   WBC-10.1*# RBC-4.07* HGB-12.6* HCT-38.2* 
+MCV-94 MCH-31.0 MCHC-33.0 RDW-12.6 RDWSD-43.7
+___ 01:55AM   NEUTS-69.3 LYMPHS-17.9* MONOS-10.5 EOS-1.5 
+BASOS-0.5 IM ___ AbsNeut-7.02* AbsLymp-1.81 AbsMono-1.06* 
+AbsEos-0.15 AbsBaso-0.05
+___ 01:55AM   PLT COUNT-204
+___ 01:55AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-TR
+___ 01:55AM URINE  RBC-1 WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-<1
+
+DISCHARGE LABS:
+===============
+___ 07:44AM BLOOD WBC-11.1* RBC-3.87* Hgb-12.0* Hct-36.8* 
+MCV-95 MCH-31.0 MCHC-32.6 RDW-13.0 RDWSD-44.8 Plt ___
+___ 07:44AM BLOOD Plt ___
+___ 07:44AM BLOOD Glucose-95 UreaN-12 Creat-0.9 Na-139 
+K-4.0 Cl-99 HCO3-30 AnGap-14
+___ 07:44AM BLOOD Calcium-9.5 Phos-3.1 Mg-2.0
+
+IMAGING:
+========
+CTA Chest (___): multiple filling defects in the right and left 
+lower lobe segmental and subsegmental pulmonary arteries, 
+compatible with acute PE's. No evidence of right heart strain. 
+Bibasilar atelectasis, no focal consolidations. 8mm right upper 
+lobe nodule, which should be followed up with a CT in ___ months 
+if patient has lung cancer risk factors; if low risk for lung 
+cancer, recommend follow-up CT in ___bdomen and pelvis (___): Moderately distended distal small 
+bowel loops with fecal contents without definite transition 
+point, may reflect early or partial SBO. Extensive stool burden 
+throughout the entire colon with no free air free fluid. No 
+evidence of hydronephrosis or nephrolithiasis.
+
+RUQ ultrasound (___): Normal findings with no evidence of 
+stones or gallbladder wall thickening. The hepatic parenchyma 
+appears within normal limits. The contour of the  liver is 
+smooth. There is no focal liver mass. The main portal vein is 
+patent  with hepatopetal flow. There is no ascites.  There is no 
+intrahepatic biliary dilation. The CHD measures 4 mm. The imaged 
+portion of the pancreas appears within normal limits, without 
+masses or pancreatic ductal dilation, with portions of the 
+pancreatic tail obscured by overlying bowel gas. Limited views 
+of the right kidney show no hydronephrosis. There is a small 
+cyst in the right kidney. The visualized portions of aorta and 
+IVC are within normal limits.
+
+CXR (___): The cardiomediastinal and hilar contours are within 
+normal limits. The lungs are clear without focal consolidation, 
+pleural effusion or pneumothorax. No acute cardiopulmonary 
+process.
+ 
+Brief Hospital Course:
+___ man who presents with epigastric and right flank pain with 
+radiation to the back subsequently found on CTA to have 
+bilateral pulmonary emboli.
+
+ACTIVE ISSUES: 
+==========================
+#Pulmonary embolism: Patient had recent long trip to ___ this 
+___, subsequently had pleuritic pain, SOB, went to the ED 
+and found to have elevated D-Dimer and submassive bilateral 
+pulmonary emboli on CTA with ground glass opacities concerning 
+for pulmonary infarction. He was hemodynamically stable, 
+saturating well on room air. Very low PESI score of 75. He was 
+started on a heparin drip on admission. The following day 
+(___) he was transitioned to rivaroxaban 15mg. He will 
+take 15mg of rivaroxaban BID for 21 days, and then will take 
+20mg once daily until told to stop by his PCP. He will follow up 
+at ___ on ___. No hypercoagulability workup 
+was performed.
+
+#Pain: He complained of pleuritic pain on admission, thought to 
+be due to his PE given changes c/f infarction on CT scan.  He 
+remained hemodynamically stable throughout his hospital stay. He 
+was given IV morphine and Dilaudid in the ED. The following 
+morning (___), he required only 0.5mg IV Dilaudid. His 
+pain was well controlled throughout the day with standing 
+Tylenol. He will go home with Tylenol as well as 5mg Oxycodone 
+(8 tablets) and a bowel regimen. Pt counseled on side effects 
+and addiction potential with opiates. 
+ 
+CHRONIC ISSUES: 
+==========================
+#Constipation: Patient has a history of constipation. He had a 
+BM on the day prior to discharge. He was given a prescription 
+for senna, dulcolax, miralax, and Colace. He will follow up with 
+his PCP for further management of his constipation.
+
+TRANSITIONAL ISSUES
+==========================
+-5mm right upper lobe nodule, which should be followed up with a 
+CT in ___ months if patient has lung cancer risk factors; if low 
+risk for lung cancer, recommend follow-up CT in ___ months
+-He has an appointment ___ with ___ for follow-up 
+for his pain and anticoagulation care.
+-He was started on Rivaroxaban. He will take 15mg BID for 21 
+days, and then take 20mg daily, with the course to be determined 
+by his PCP.
+-No hypercoagulability studies were performed. Consider doing 
+this as an outpatient.
+-Patient advised to consider outpatient colonoscopy for 
+screening. 
+-He was given 5mg Oxycodone (8 tablets) for pain. Make sure his 
+patient is well controlled as an outpatient.
+-___ need further constipation management with pain medication.
+-Code status: Full
+-Emergency contact: No healthcare proxy in system. Consider 
+talking with patient in this regard.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth Every 8 hours Disp 
+#*30 Tablet Refills:*0 
+2.  Bisacodyl 10 mg PO DAILY Constipation 
+RX *bisacodyl 5 mg 2 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth Twice a day as 
+needed Disp #*30 Capsule Refills:*0 
+4.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Every 6 hours as 
+needed Disp #*8 Tablet Refills:*0 
+5.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram/dose 17 g powder(s) by 
+mouth Daily as needed Refills:*0 
+6.  Rivaroxaban 15 mg PO BID 
+with food 
+RX *rivaroxaban [___] 15 mg 1 tablet(s) by mouth twice a day 
+Disp #*42 Tablet Refills:*0 
+7.  Rivaroxaban 20 mg PO DAILY 
+with food 
+RX *rivaroxaban [___] 20 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*1 
+8.  Senna 8.6 mg PO BID Constipation 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth Twice a day as 
+needed Disp #*30 Tablet Refills:*0 
+9.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Pulmonary embolism
+
+Secondary diagnosis:
+Pain
+Constipation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to the hospital for a blood clot in your lungs 
+(pulmonary embolism). You were given blood thinners and you got 
+better. Initially, you were on an intravenous blood thinner. 
+Then, we transitioned you to an oral medication, which you will 
+go home with. This medication is called Xerelto (or rivaroxaban) 
+and you will take 1 tablet of 15 mg twice a day for 3 weeks. 
+Then, you will take one tablet of 20 mg (higher than the 
+previous tablets) until Dr. ___ you to stop. You will 
+follow up with Health Care Associates at ___ on ___ at 2:30 
+pm. Dr. ___ is out of town so you will see one of her 
+associates. You will also go home with a lot of bowel movement 
+medications as well as Tylenol and oxycodone for pain.
+
+Best wishes,
+
+-Your ___ medicine team
+ 
+Followup Instructions:
+___

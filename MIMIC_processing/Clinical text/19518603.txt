@@ -1,0 +1,462 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+back pain
+ 
+Major Surgical or Invasive Procedure:
+None this hospitalization
+
+ 
+History of Present Illness:
+___ yo woman with PMH cauda equine secondary to cord compression 
+from herniation in ___, s/p multiple discectomies and 
+laminectomies of ___ and ___, presents for left lower back 
+pain. She reports that she's been moving over the past several 
+days and has had extended car trips and lifting. She's been 
+developing left lower back pain that radiates down her leg on 
+___. She went to her PCP when she was in ___, and was 
+given methlypred taper, flexaril, and ___. 
+She continued to have lower back pain. Today she was getting off 
+a bus and had severe, ___ pain in her lower legs and was 
+unable to ambulate. She called EMS and was brought to the ED. 
+She denies any difficulty controlling bowel or bladder, numbness 
+in her groin, IV drug use, fever. Baseline neurologic deficits 
+after cauda equine are decreased sensation over left lateral 
+aspect of her foot and calf. Decreased plantar reflexes on the 
+left. 
+
+In the ED, initial vitals were:  96.9, 80, 126/66, 16, 99% RA 
+-Exam notable for:  No saddle anesthesia. No clonus. Downgoing 
+toes on plantar reflex. Normal reflexes. Normal sensation.
+-Labs notable for:  Urine HCG negative. UA w/trace leuk, many 
+bacteria, neg nitrites, epi 1. 
+-Imaging notable for:  none
+-Patient was given: Ketorolac 30mg IM, Diazepam 10mg PO, 
+Acetaminophen 1000mg PO, Dilaudid 2mg PO x2, Morphine 4mg IV x2, 
+Diazepam 10mg PO, Morphine 8mg IV
+- Decision made to admit for pain control
+- Vitals prior to transfer: 97.7, 73, 117/75, 16, 100% RA 
+  
+On the floor, patient reports that her pain is improved. Now 
+___. Pain finally well controlled with morphine IV. She 
+continues to have some numbness but no problems with urinary 
+retention, bowel incontinence, worsening of her parasthesias. 
+Declines rectal exam. Having some nausea from IV narcotics.  
+ 
+ROS:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. 
+Denies headache, sinus tenderness, rhinorrhea or congestion. 
+Denies cough, shortness of breath. Denies chest pain or 
+tightness, palpitations. Denies vomiting, diarrhea, constipation 
+or abdominal pain. No recent change in bowel or bladder habits. 
+No dysuria. Denies arthralgias or myalgias.  
+ 
+Past Medical History:
+cord compression from herniation in ___, s/p multiple 
+discectomies and laminectomies of ___ and ___
+ADHD
+
+ 
+Social History:
+___
+Family History:
+Father has back problems that have required surgery. No history 
+of DM, HTN. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+Vital Signs:  98.3 PO, 120 / 69, 71, 18 98 ra 
+General: Sleepy, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, ___, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Rectal: declined 
+Back: tenderness throughout lower back on paraspinal muscles and 
+along vertebral bodies. 
+Extremities: Warm, well perfused, 2+ pulses, no clubbing, 
+cyanosis or edema. 
+Neuro: right leg ___ strength, sensation intact, 2+ reflexes. 
+Left leg exam limited by pain. ___ strength of plantar flexion. 
+___ dorsiflexion. Able to lift left leg up against gravity, but 
+painful. 2+ patellar reflex. Unable to obtain Achilles reflex. 
+Decreased sensation of left plantar surface and along left 
+lateral aspect of shin. Per patient, baseline. 
+
+DISCHARGE PHYSICAL EXAM:
+======================
+VS: 97.4 | 88 (___) | 138/67 (___) | 18 | 99RA 
+General: Alert, oriented, no acute distress  
+HEENT: MMM, EOMI
+CV: RRR, S1 + S2, ___ systolic murmur
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, ___
+GU: No foley  
+Rectal: declined  
+Back: no tenderness overlying ___, with minimal paraspinal 
+tender above L iliac spine
+Extremities: Warm, well perfused, no edema
+Neuro: right leg ___ strength, sensation intact, 2+ reflexes.
+Left leg exam limited by pain. ___ strength of plantar flexion.
+___ dorsiflexion. Able to lift left leg up against resistance,
+but painful. 2+ patellar reflex. Unable to obtain L Achilles 
+reflex. Decreased sensation of left plantar surface and along 
+left lateral aspect of shin. Per patient, baseline.  
+ 
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 07:40AM BLOOD ___ 
+___ Plt ___
+___ 07:40AM BLOOD Plt ___
+___ 07:40AM BLOOD ___ 
+___
+___ 07:40AM BLOOD ___
+
+OTHER PERTINENT LABS:
+===================
+___ 07:50AM BLOOD ___ 
+___ Plt ___
+___ 07:50AM BLOOD ___ 
+___
+___ 07:50AM BLOOD ___
+
+IMAGING/STUDIES:
+===================
+___: MRI L- SPINE
+EXAMINATION:  MR ___ AND W/O CONTRAST ___ MR SPINE
+ 
+INDICATION:  ___ year old woman with history of cauda equine 
+syndrome status
+post L4/L5 and L5/S1 discectomies and question laminectomies at 
+L4/L5 and
+L5/S1 in ___, now with new onset severe lower back pain and 
+questioned
+weakness.  Evaluate for spinal cord or nerve root compression.
+ 
+TECHNIQUE:  Sagittal imaging was performed with T2, T1, and STIR 
+technique,
+followed by axial T2 imaging. This was followed by sagittal and 
+axial T1
+images obtained after the uneventful intravenous administration 
+of 7 mL of
+Gadavist  contrast agent.
+ 
+COMPARISON:  ___ outside contrast lumbar spine MRI.
+ 
+FINDINGS: 
+ 
+Study is mildly degraded by motion.
+ 
+For the purposes of numbering, the lowest rib bearing vertebral 
+body was
+designated the T12 level.
+ 
+Vertebral body alignment is preserved. Vertebral body heights 
+are preserved. 
+Postsurgical changes related to left L4 and L5 level hemi 
+laminectomies are
+again noted.  There is no marrow signal abnormality. There is no 
+evidence of
+fracture.
+ 
+Disc desiccation is most prominent from L3 through S1, 
+progressed compared to
+prior exam.
+ 
+The conus is noted at L1/L2.  Note is made of a lipoma of the 
+filum terminale.
+The visualized portion of the spinal cord is preserved in signal 
+and caliber.
+ 
+L3 - L4:  Disc extrusion measuring approximately 7 mm (AP) is 
+noted (see
+02:11) with annular fissure, ligamentum flavum hypertrophy and 
+facet joint
+arthropathy resulting in mild vertebral canal and no neural 
+foraminal
+stenosis.  Overall, findings have progressed compared to prior 
+exam.
+ 
+L4 - L5:  A focal left central disc protrusion and mild disc 
+bulge is seen,
+resulting in severe canal narrowing and crowding of the nerve 
+roots.  There is
+moderate to severe left and mild right neural foraminal 
+narrowing.  There is
+contact with the traversing left L5 nerve roots, and exiting 
+bilateral L4
+nerve roots.
+ 
+L5 - S1:  Disc bulge and facet joint arthropathy resulting in 
+moderate right
+and mild left neural foraminal and mild vertebral canal 
+stenosis.
+ 
+There is no paravertebral or paraspinal mass identified and 
+there is no
+evidence of infection or neoplasm. The visualized portion of the 
+sacroiliac
+joints are preserved.
+ 
+IMPRESSION:
+1.  Study is mildly degraded by motion.
+2. Postsurgical changes related L4 and L5 hemilaminectomies.
+3. Interval progression of ___ left paracentral disc 
+protrusion, now
+resulting in severe vertebral canal stenosis.
+4. Interval progression of ___ spondylosis, now with 7 mm disc 
+extrusion, and
+mild vertebral canal stenosis.
+5. ___ moderate left and mild right neural foraminal and mild 
+vertebral
+canal stenosis, unchanged.
+
+MICROBIOLOGY:
+====================
+None
+
+DISCHARGE LABS:
+====================
+___ 07:58AM BLOOD ___ 
+___ Plt ___
+___ 07:58AM BLOOD Plt ___
+___ 07:58AM BLOOD ___ 
+___
+___ 07:58AM BLOOD ___
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ y/o F with PMH cord compression s/p 
+laminectomy and microdiscectomy ___, with residual 
+deficits, presenting with lower back pain after moving boxes. 
+The initial concern was for possible exacerbation of her prior 
+injury versus new disc herniation. MRI was obtained on 
+___ which showed the following:
+
+1. Study is mildly degraded by motion. 
+2. Postsurgical changes related L4 and L5 hemilaminectomies. 
+3. Interval progression of ___ left paracentral disc 
+protrusion, now 
+resulting in severe vertebral canal stenosis. 
+4. Interval progression of ___ spondylosis, now with 7 mm disc 
+extrusion, and mild vertebral canal stenosis. 
+5. ___ moderate left and mild right neural foraminal and mild 
+vertebral canal stenosis, unchanged. 
+
+Patient was evaluated by the neurosurgical inpatient team who 
+felt that patient should likely have surgery urgently. Patient 
+was found to have capacity and declined surgery, preferring to 
+transport herself instead to ___ to see her prior 
+neurosurgeon. She was discharged with short course of pain 
+medications.
+
+PROBLEM LIST:
+
+#Acute L4/L5 Severe Vertebral Canal Stenosis:
+Patient w/acute on chronic injury of her lower back. A majority 
+of her care has been received in ___ from her surgeon Dr. 
+___. Records were obtained from both ___ 
+___ and from ___ and films were compared by ___ 
+Neurosurgery. The patient was felt to have an acute need for 
+neurosurgical intervention, but was deemed to have capacity and 
+declined. Instead, despite knowing the risks up to and including 
+death and paralysis, she requested on ___ to be 
+discharged in order to travel by car to ___ for further 
+intervention. She was warned of red flags to watch for including 
+new neurologic deficits, increasing pain, or other symptoms that 
+are new. She was also advised to follow up urgently with her 
+neurosurgeon and to not lift more than 10 pounds. 
+
+#Constipation:
+Patient initially constipated which improved with bowel regimen. 
+
+
+#ADHD:
+Stable.
+
+TRANSITIONAL ISSUES:
+====================
+- ___ with PCP
+- ___ with Neurosurgeon within 48 hours of discharge from ___
+- Patient provided discs of both ___ and ___ 
+imaging
+- Do not lift more than 10 pounds
+- Please establish primary care in ___ area
+- Consider outpatient DEXA scan given multiple courses of high 
+dose steroids
+
+FULL CODE
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Methylprednisolone 4 mg PO TID 
+Tapered dose - DOWN 
+2. ___ XR 20 mg PO DAILY 
+3. Cyclobenzaprine 10 mg PO TID:PRN back pain 
+4. ___ 1 TAB PO Q6H:PRN Pain - 
+Moderate 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q8H 
+RX *acetaminophen [8 HOUR PAIN RELIEVER] 650 mg 1 tablet(s) by 
+mouth every eight (8) hours Disp #*9 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*6 Tablet Refills:*0 
+3.  Ibuprofen 400 mg PO Q8H:PRN Pain - Moderate 
+RX *ibuprofen 400 mg 1 tablet(s) by mouth q8h:prn Disp #*9 
+Tablet Refills:*0 
+4.  Ondansetron 4 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth q8h:prn Disp #*9 
+Tablet Refills:*0 
+5.  OxyCODONE (Immediate Release) 5 mg PO Q3H:PRN Pain - 
+Moderate 
+SHORT COURSE ONLY - TAPER AS ABLE. 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q3h:prn Disp #*18 Tablet 
+Refills:*0 
+6.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 [Miralax] 17 gram/dose 1 packet by 
+mouth BID:prn Refills:*0 
+7.  ___ XR 20 mg PO DAILY  
+8.  Cyclobenzaprine 10 mg PO TID:PRN back pain  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+___ left paracentral disc protrusion w/associated pain/deficits
+
+Secondary:
+ADHD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You came to ___ with severe 
+back pain, you had an MRI which was compared to prior imaging 
+and found to be slightly worse than previous films. The 
+neurosurgery team saw you and recommended surgery on ___ 
+but you declined, understanding the risks up to and including 
+death. You received a steroid taper and because you remained 
+stable, you opted to go down to ___ to receive your 
+surgical care. You were provided a short course of pain 
+medications along with your imaging CDs from both ___ and 
+___. We hope you feel better soon.
+
+Please see the following important transitional issues: 
+
+TRANSITIONAL ISSUES:
+====================
+- ___ with PCP
+- ___ with Neurosurgeon within 48 hours of discharge from ___
+- We provided you discs of both ___ and ___ 
+imaging
+- Do not lift more than 10 pounds
+- Please establish primary care in ___ area
+- Consider outpatient DEXA scan given multiple courses of high 
+dose steroids
+
+___ MRI READ: ___
+EXAMINATION:  MR ___ AND W/O CONTRAST ___ MR SPINE 
+  
+INDICATION:  ___ year old woman with history of cauda equine 
+syndrome status post L4/L5 and L5/S1 discectomies and question 
+laminectomies at L4/L5 and L5/S1 in ___, now with new onset 
+severe lower back pain and questioned weakness.  Evaluate for 
+spinal cord or nerve root compression. 
+  
+TECHNIQUE:  Sagittal imaging was performed with T2, T1, and STIR 
+technique, followed by axial T2 imaging. This was followed by 
+sagittal and axial T1 images obtained after the uneventful 
+intravenous administration of 7 mL of Gadavist  contrast agent. 
+  
+COMPARISON:  ___ outside contrast lumbar spine MRI. 
+  
+FINDINGS:  
+  
+Study is mildly degraded by motion. 
+  
+For the purposes of numbering, the lowest rib bearing vertebral 
+body was designated the T12 level. 
+  
+Vertebral body alignment is preserved. Vertebral body heights 
+are preserved.  Postsurgical changes related to left L4 and L5 
+level hemi laminectomies are again noted.  There is no marrow 
+signal abnormality. There is no evidence of fracture. 
+  
+Disc desiccation is most prominent from L3 through S1, 
+progressed compared to prior exam. 
+  
+The conus is noted at L1/L2.  Note is made of a lipoma of the 
+filum terminale. The visualized portion of the spinal cord is 
+preserved in signal and caliber. 
+  
+L3 - L4:  Disc extrusion measuring approximately 7 mm (AP) is 
+noted (see 
+02:11) with annular fissure, ligamentum flavum hypertrophy and 
+facet joint arthropathy resulting in mild vertebral canal and no 
+neural foraminal stenosis.  Overall, findings have progressed 
+compared to prior exam. 
+  
+L4 - L5:  A focal left central disc protrusion and mild disc 
+bulge is seen, resulting in severe canal narrowing and crowding 
+of the nerve roots.  There is moderate to severe left and mild 
+right neural foraminal narrowing.  There is contact with the 
+traversing left L5 nerve roots, and exiting bilateral L4 nerve 
+roots. 
+  
+L5 - S1:  Disc bulge and facet joint arthropathy resulting in 
+moderate right and mild left neural foraminal and mild vertebral 
+canal stenosis. 
+  
+There is no paravertebral or paraspinal mass identified and 
+there is no evidence of infection or neoplasm. The visualized 
+portion of the sacroiliac joints are preserved. 
+  
+IMPRESSION: 
+1. Study is mildly degraded by motion. 
+2. Postsurgical changes related L4 and L5 hemilaminectomies. 
+3. Interval progression of ___ left paracentral disc 
+protrusion, now 
+resulting in severe vertebral canal stenosis. 
+4. Interval progression of ___ spondylosis, now with 7 mm disc 
+extrusion, and mild vertebral canal stenosis. 
+5. ___ moderate left and mild right neural foraminal and mild 
+vertebral canal stenosis, unchanged. 
+
+Your ___ Team
+ 
+Followup Instructions:
+___

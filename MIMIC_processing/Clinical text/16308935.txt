@@ -1,0 +1,361 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest Pain, palpitations
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year-old woman with H/O hypertension, hyperlipidemia, prior 
+smoking history (quit ___ yrs ago) presenting with ___ severity 
+chest pain that woke her up from sleep.
+
+Patient awoke at 2 in the morning the day of admission with 
+crushing retrosternal chest pressure and palpitations. The pain 
+radiated to her neck. She also noted that she couldn't catch her 
+breath. She immediately called EMS. She was found by EMS to be 
+in atrial fibrillation with a rapid ventricular rate, and EKG 
+was concerning for reported possible ischemia. She was given 
+diltiazem 20 mg IV and had a SBP of 85 afterwards en route.
+
+In the ED, initial vitals: VR 117 BP 137/111 RR 29 SaO2 91% on 
+RA. EKG showed normal axis, sinus rhythm, flattened T wave in 
+III, aVF, V4-V6 with T wave inversion in V1-V3. Labs/studies 
+notable for Hgb/Hct 12.5/40.2 WBC 5.4 Plt 325 Na 139 K 4.3 Cr 
+0.6 BUN 20 HCO3 23 Cl 105. Troponin-T negative x2. NT-pro-BNP 88 
+Lactate 2.0. Patient was given morphine sulfate 2 mg IV, 
+metoprolol tartrate 5 mg IV, NS 500 mL NS, heparin 4000 units 
+IV, metoprolol tartrate 12.5 mg po. Vitals on transfer: R 88 BP 
+94/57 RR 18 SaO2 95% on O2 2 LPM via NC.
+ 
+After arrival to the cardiology ward, the patient stated she was 
+currently feeling much better. She denied any activet chest pain 
+or dyspnea. She noted that she was in her normal state of health 
+up until she woke up overnight. She felt stressed at work and by 
+life, but otherwise had no reason medical changes or health 
+related issues. She denied any baseline chest pain, dyspnea, 
+orthopnea, paroxysmal nocturnal dyspnea or edema.
+ 
+Past Medical History:
+Pre-diabetes mellitus
+Hypertension
+Hyperlipidemia
+Osteopenia
+Obesity
+ 
+Social History:
+___
+Family History:
+No family history of heart disease
+ 
+Physical Exam:
+On admission
+GEN: Well appearing elderly white woman in NAD
+___ 1556 Temp: 97.5 PO BP: 141/84 L Lying HR: 73 RR: 18 O2 
+sat: 93% O2 delivery: RA
+HEENT: Conjunctiva clear, PERRL, mucous membranes moist
+NECK: No JVD.
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. No murmurs, rubs or gallops.
+ABD: Non-tender, not distended, normal bowel sounds.
+EXTREMITIES: Trace edema. Warm and well-perfused.
+SKIN: No rashes.
+NEURO: A&Ox3.
+
+At discharge
+GEN: Well appearing, in NAD
+Vitals: HR on telemetry 60-80s.
+HEENT: Conjunctiva clear, mucous membranes moist
+NECK: No JVD. 
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. No murmurs, rubs or gallops.
+ABD: Non-tender, not distended, normal bowel sounds.
+EXTREMITIES: No peripheral edema. Warm and well perfused.
+NEURO: A&Ox3.
+ 
+Pertinent Results:
+___ 02:51AM BLOOD WBC-6.8 RBC-4.65 Hgb-13.1 Hct-40.8 MCV-88 
+MCH-28.2 MCHC-32.1 RDW-13.6 RDWSD-43.6 Plt ___
+
+___ 02:51AM BLOOD Glucose-206* UreaN-23* Creat-0.7 Na-140 
+K-4.2 Cl-99 HCO3-22 AnGap-19*
+___ 02:51AM BLOOD Calcium-9.8 Phos-3.5 Mg-2.0
+___ 07:19AM BLOOD ALT-6 AST-17 AlkPhos-71 TotBili-0.2
+
+___ 02:51AM BLOOD cTropnT-<0.01
+___ 02:51AM BLOOD proBNP-88
+___ 06:06AM BLOOD cTropnT-<0.01
+
+ECG ___
+Atrial fibrillation with ventricular rate 123. Abnormal R-wave 
+progression, early transition. ST depr, consider ischemia, 
+anterior leads. Prolonged QT interval. No previous ECGs 
+available
+
+ECG ___
+Sinus rhythm. Abnormal R-wave progression, early transition. 
+Nonspecific ST-T wave abnormalities
+
+CXR ___
+The lungs are well inflated and clear. No large pleural effusion 
+or pneumothorax. The cardiac silhouette is mildly enlarged. 
+There is mild pulmonary vascular congestion without frank 
+pulmonary edema. The aorta is tortuous, but the mediastinal and 
+hilar contours are otherwise unremarkable.
+IMPRESSION: Mild cardiomegaly and pulmonary vascular congestion 
+without frank pulmonary edema. No focal consolidation.
+
+Head CT ___
+  Compared to the study performed in ___, there has 
+been slight interval increase in size of a small right convexity 
+extra-axial faintly calcified mass measuring 9 x 8 x 7 mm, 
+previously 7 x 7 x 7 mm. No acute intracranial hemorrhage is 
+seen.
+  There is no evidence of fracture, acute large territory 
+infarction, or edema. The ventricles and sulci are normal in 
+size and configuration.
+  The visualized portion of the paranasal sinuses, mastoid air 
+cells, and middle ear cavities are clear. The visualized portion 
+of the orbits are normal.
+IMPRESSION: 
+1. No acute intracranial hemorrhage or calvarial fracture.
+2. Slight interval increase in size of 9 mm calcified 
+extra-axial mass along the right frontoparietal convexity, 
+likely a meningioma.
+
+CTA Chest ___
+HEART AND VASCULATURE: The heart is normal in size and shape. No 
+pericardial effusion. No atherosclerotic calcifications in the 
+coronary arteries, mild in the aorta and mitral annulus. The 
+aorta is normal in caliber throughout. No aneurysmal dilation, 
+penetrating atherosclerotic ulcers or dissection. The main 
+pulmonary artery is mildly enlarged measuring 3.4 cm. No filling 
+defects are noted throughout the main pulmonary artery 
+throughout its subsegmental branches bilaterally.
+NECK, THORACIC INLET, AXILLAE AND CHEST WALL: The thyroid is 
+unremarkable. No enlarged lymph nodes in either axilla or 
+thoracic inlet. No abnormalities on the chest wall. No 
+atherosclerotic calcifications in the head and neck arteries.
+MEDIASTINUM AND HILA: The esophagus is unremarkable. Small 
+mediastinal lymph nodes, none pathologically enlarged by CT size 
+criteria. No hilar lymphadenopathy.
+PLEURA: No pleural effusions. No apical scarring.
+LUNGS: The airways are patent to the subsegmental levels. No 
+bronchial wall thickening, bronchiectasis or mucus plugging. No 
+suspicious lung nodules or masses. No consolidations. Scattered 
+linear atelectasis..
+CHEST CAGE: No acute fractures. Moderate dorsal spondylosis. No 
+suspicious lytic or sclerotic lesions.
+UPPER ABDOMEN: The limited sections of the upper abdomen show no 
+significant abnormal findings.
+IMPRESSION: No evidence of pulmonary embolism or aortic 
+abnormality. No findings suggestive of pneumonia or pulmonary 
+edema.
+
+Echocardiogram ___
+The left atrial volume index is SEVERELY increased. The right 
+atrium is mildly enlarged. There is no evidence for an atrial 
+septal defect by 2D/color Doppler. There is mild symmetric left 
+ventricular hypertrophy with a normal cavity size. There is 
+normal regional and global left ventricular systolic function. 
+Quantitative 3D volumetric left ventricular ejection fraction is 
+67 % (normal 54-73%). Left ventricular cardiac index is normal 
+(>2.5 L/min/m2). There is no resting left ventricular outflow 
+tract gradient. Mildly dilated right ventricular cavity with 
+normal free wall motion. The aortic sinus diameter is normal for 
+gender with a normal ascending aorta diameter for gender. The 
+aortic arch diameter is normal. There is no evidence for an 
+aortic arch coarctation. The aortic valve leaflets (3) are 
+mildly thickened. There is no aortic valve stenosis. There is no 
+aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with no mitral valve prolapse. There is mild 
+[1+] mitral regurgitation. Due to acoustic shadowing, the 
+severity of mitral regurgitation could be UNDERestimated. The 
+pulmonic valve leaflets are normal. The tricuspid valve leaflets 
+appear structurally normal. There is mild [1+] tricuspid 
+regurgitation. There is mild pulmonary artery systolic 
+hypertension. There is a trivial pericardial effusion. 
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+normal cavity size, mildly dilated right ventricle, and 
+regional/global biventricular systolic function. Mild mitral and 
+tricuspid regrugitation. Mild pulmonary hypertension.
+
+Stress test ___
+___ yo woman with HL, HTN and pre-DM, prior smoker and obesity 
+was referred to evaluate her chest discomfort and shortness of 
+breath while in atrial fibrillation with RVR. The patient 
+completed 11 minutes of a Gervino protocol representing an 
+average exercise tolerance for her age; ~ ___ METS. Exercise was 
+stopped due to fatigue and progressive shortness of breath. No 
+chest, back, neck or arm discomforts were reported. In the 
+presence of baseline nonspecific ST segment changes, no 
+additional ST segment changes were noted during the procedure. 
+The rhythm was sinus with frequent isolated APBs and one, 4-bt 
+run of PAT/PAF noted during exercise. Rare isolated VPBs were 
+noted. Resting systolic hypertension with an appropriate blood 
+pressure and heart rate response to exercise.
+IMPRESSION: Average exercise tolerance. No anginal symptoms, 
+palpitations or ischemic ST segment changes. Frequent isolated 
+APBs with one, 4-bt run of PAT/PAF. Resting systolic 
+hypertension with an appropriate blood pressure and heart rate 
+response to exercise.
+
+Discharge Labs:
+___ 07:19AM BLOOD WBC-4.7 RBC-4.49 Hgb-12.7 Hct-40.4 MCV-90 
+MCH-28.3 MCHC-31.4* RDW-13.5 RDWSD-44.8 Plt ___
+___ 10:17AM BLOOD Neuts-60.4 ___ Monos-7.6 Eos-1.5 
+Baso-0.6 Im ___ AbsNeut-3.24 AbsLymp-1.57 AbsMono-0.41 
+AbsEos-0.08 AbsBaso-0.03
+___ 07:18AM BLOOD Glucose-166* UreaN-14 Creat-0.6 Na-142 
+K-4.3 Cl-102 HCO3-28 AnGap-12
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year-old woman with history of hypertension, 
+hyperlipidemia and depression, who presented with severe chest 
+pain with associated shortness of breath and palpitations. She 
+was found to be in newly diagnosed atrial fibrillation with a 
+rapid ventricular rate (RVR). Patient received IV diltiazem and 
+IV metoprolol in the ED prior to spontaneously converting to 
+normal sinus rhythm. The patient was subsequently started on 
+apixaban 5 mg BID as well as metoprolol 50 mg daily (increased 
+from home dose 25 mg daily). Patient also underwent ETT given 
+her chest pain which revealed no ST changes concerning for 
+ischemia and no reproduction of anginal chest pain.
+
+ACUTE ISSUES:
+=============
+# Paroxysmal Atrial Fibrillation, CHDS2VASc2 of 3, chest pain: 
+Patient initially noted chest pani with associated shortness of 
+breath and palpitations that awoke her from her sleep. She 
+described her chest pain as retrosternal and as a crushing 
+pressure that radiated into her neck. She subsequently called 
+EMS who found her to be in atrial fibrillation with a RVR. She 
+received diltiazem 20 mg IV en route to the ED. Upon arrival to 
+the ED, patient was tachycardic and tachypneic and placed on O2 
+2 LPM via NC. She received metoprolol 5 mg IV and repeat EKG 
+found her to be in NSR with flattened T waves in leads III and 
+aVF as well as with T wave inversions in leads V1-3. Troponin-T 
+was negative x2 and NT-pro0BNP was low as well. CTA showed no 
+evidence of pulmonary embolus, pneumonia or pulmonary edema. 
+Upon arrival to the cardiology ward, the patient was 
+asymptomatic and remained in NSR. She was started on heparin IV 
+and metoprolol tartrate 12.5 mg po q6h. The following day she 
+was transitioned to apixaban 5 mg BID as well as metoprolol 
+succinate 50 mg daily. Echocardiogram revealed mild pulmonary 
+hypertension (PASP 34 mm Hg above RA pressure) and severe left 
+atrial dilatation, with LVEF 67% with no regional wall motion 
+abnormalities and only mild mitral regurgitation. On review of 
+her ___ records, patient has a history of palpitations and 
+recently had a Holter monitor for 48 hours this past ___ which 
+was unrevealing. Given patient's description of chest pain and 
+associated EKG changes, patient underwent non-imaging ETT to 5.7 
+METs which revealed no ST changes concerning for ischemia and no 
+reproduction of her presenting chest pain.
+
+CHRONIC ISSUES:
+# Hyperlipidemia: Continued home statin.
+
+# Depression: Continued home venlafaxine. 
+
+# Hypertension: Continued metoprolol as above and home losartan
+
+TRANSITIONAL ISSUES:
+[] Patient discharged on metoprolol succinate 50 mg daily 
+(increased from 25 mg ) for better rate control of AF. Please 
+f/u HRs on new dose
+[] Patient started on apixaban 5 mg BID for anticoagulation 
+given atrial fibrillation with CHADS-VASC2 score of 3
+[] Patient had an non-imaging exercise stress test that did not 
+show any evidence of ischemia and patient was chest pain free. 
+If she has chest pain, would consider imaging stress test as an 
+outpatient
+[] Patient will be discharged with a Ziopatch 2 week monitor, 
+with plan for cardiology follow up with Dr ___
+
+DISCHARGE WEIGHT: 207.45 lbs (94.2 kg)
+DISCHARGE Cr: 0.6
+CODE: Full
+CONTACT: ___ (husband) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Venlafaxine XR 300 mg PO DAILY 
+2. Furosemide 40 mg PO DAILY 
+3. Pravastatin 40 mg PO QPM 
+4. Losartan Potassium 100 mg PO DAILY 
+5. Metoprolol Succinate XL 25 mg PO DAILY
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID  
+2.  Metoprolol Succinate XL 50 mg PO DAILY  
+3.  Furosemide 40 mg PO DAILY  
+4.  Losartan Potassium 100 mg PO DAILY  
+5.  Pravastatin 40 mg PO QPM  
+6.  Venlafaxine XR 300 mg PO DAILY
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Paroxysmal Atrial Fibrillation 
+-Chest pain 
+-Dynamic abnormal electocardiographic abnormalities concerning 
+for unstable angina, but no objective evidence of ischemia on 
+non-imaging exercise stress test
+-Hyperlipidemia
+-Hypertension
+-Depression
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because your heart rate was very fast.
+  
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You were found to be in atrial fibrillation, a heart rhythm 
+that makes your heart beat fast and less coordinated.
+- You received medications which slowed your heart rate 
+successfully.
+- You were found to spontaneously convert out of atrial 
+fibrillation into a normal heart rhythm. 
+- You were started on a new medication called apixaban 
+(Eliquis), a blood thinner that prevents clots in people who go 
+into atrial fibrillation. 
+- You had an exercise stress test, which did not show any 
+findings of underlying coronary artery disease.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Be sure to take all your medications and attend all of your 
+appointments listed below. 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best! 
+ 
+Your ___ Team 
+ 
+Followup Instructions:
+___

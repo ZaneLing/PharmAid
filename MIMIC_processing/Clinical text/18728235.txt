@@ -1,0 +1,218 @@
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: ORTHOPAEDICS
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left ankle fracture/dislocation
+ 
+Major Surgical or Invasive Procedure:
+___: 
+1. Closed reduction left ankle.
+2. Open reduction internal fixation left distal tib-fib
+    syndesmosis.
+3. Stress examination of the left ankle.
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man who fell approximately 8 feet 
+from a ladder.  He was taken to ___ and ___ to have a 
+fracture/dislocation of his left ankle.  He was then transferred 
+to the ___ for further evaluation and care.
+ 
+Past Medical History:
+PMH:  
+(1) HTN  
+(2) Hypercholesterolemia  
+(3) Bladder Ca s/p two surgeries (last cystoscopy "clean")  
+(4) s/p Bilateral rotator cuff repair  
+
+ 
+Social History:
+___
+Family History:
+n/a
+ 
+Physical Exam:
+General Evaluation Exam
+Sensorium:           Awake (x) Awake impaired () Unconscious ()
+Airway:              Intubated () Not intubated (x)
+Breathing:           Stable (x) Unstable ()
+Circulation:         Stable (x)   Unstable ()
+
+Musculoskeletal Exam
+Neck   Normal (x)  Abnormal ()   Comments:
+Spine  Normal (x)  Abnormal ()   Comments:
+Clavicle
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Shoulder
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Arm
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Elbow
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Forearm
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Wrist
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Hand
+     R Normal (x)  Abnormal ()   Comments:
+     L Normal (x)  Abnormal ()   Comments:
+Pelvis
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+Hip
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+Thigh
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+Knee
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+Leg
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal ()  Abnormal (x)    Comments: ttp proximal fibula
+Ankle
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal ()  Abnormal (x)    Comments: marked medial
+malleolus deformity with posterior and lateral dislocation of 
+the
+foot. 2+ pulses. Sensation intact.
+Foot
+     R Normal (x)  Abnormal ()    Comments:
+     L Normal (x)  Abnormal ()    Comments:
+
+Vascular:
+Radial   R Palpable (x) Non-palpable () Doppler ()
+         L Palpable (x) Non-palpable () Doppler ()
+Ulnar    R Palpable (x) Non-palpable () Doppler ()
+         L Palpable (x) Non-palpable () Doppler ()
+Femoral  R Palpable (x) Non-palpable () Doppler ()
+         L Palpable (x) Non-palpable () Doppler ()
+Poplitea R Palpable (x) Non-palpable () Doppler ()
+         L Palpable (x) Non-palpable () Doppler ()
+DP       R Palpable (x) Non-palpable () Doppler ()
+         L Palpable (x) Non-palpable () Doppler ()
+___       R Palpable (x) Non-palpable () Doppler ()
+         L Palpable (x) Non-palpable () Doppler ()
+
+Neuro:
+Deltoid    R (5) L (5)
+Biceps     R (5) L (5)
+Triceps    R (5) L (5)
+Wrist Flx  R (5) L (5)
+Wrist Ext  R (5) L (5)
+Finger Flx R (5) L (5)
+Finger Ext R (5) L (5)
+Thumb Ext  R (5) L (5)
+___ DIP    R (5) L (5)
+Index Abd  R (5) L (5)
+Thumd Add  R (5) L (5)
+Quad       R (5) L (5)
+Ant Tib    R (5) L (not tested)
+___        R (5) L (5)
+Peroneal   R (5) L (not tested)
+___         R (5) L (not tested)
+
+ 
+Pertinent Results:
+___ 05:54PM   GLUCOSE-107* UREA N-25* CREAT-1.2 SODIUM-139 
+POTASSIUM-3.6 CHLORIDE-102 TOTAL CO2-28 ANION GAP-13
+___ 05:54PM   estGFR-Using this
+___ 05:54PM   WBC-10.3 RBC-5.08 HGB-14.4 HCT-42.4 MCV-83 
+MCH-28.4 MCHC-34.0 RDW-14.2
+___ 05:54PM   NEUTS-64.1 ___ MONOS-5.5 EOS-2.3 
+BASOS-0.4
+___ 05:54PM   PLT COUNT-190
+___ 05:54PM   ___ PTT-24.6 ___
+ 
+Brief Hospital Course:
+Mr. ___ presented to the ___ on ___ via transfer 
+from ___ with a left ankle fracture/dislocation.  He was 
+evaluated by the orthopaedic surgery service, admitted, 
+consented, and prepped for surgery.  Later on ___ he was 
+taken to the operating room and underwent a closed reduction 
+left ankle and an open reduction internal fixation left distal 
+tib-fib syndesmosis.  He tolerated the procedure well, was 
+extubated, transferred to the recovery room, and then to the 
+floor.  On the floor he was seen by physical therapy to improve 
+his strength and mobility.
+The rest of his hospital stay was uneventful with his lab data 
+and vital signs within normal limits and his pain controlled.  
+He is being discharged today in stable condition.
+
+ 
+Medications on Admission:
+(1) HCTZ 25mg PO daily
+(2) Simvastatin 20mg qHS
+(3) ASA 81mg PO daily
+
+ 
+Discharge Medications:
+1. aspirin 325 mg Tablet, Delayed Release (E.C.) Sig: One (1) 
+Tablet, Delayed Release (E.C.) PO once a day for 1 months.
+Disp:*30 Tablet, Delayed Release (E.C.)(s)* Refills:*0*
+2. hydrochlorothiazide 12.5 mg Capsule Sig: Two (2) Capsule PO 
+DAILY (Daily).  
+3. simvastatin 10 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+4. oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 hours) 
+as needed for pain.
+Disp:*90 Tablet(s)* Refills:*0*
+5. Colace 100 mg Capsule Sig: One (1) Capsule PO twice a day as 
+needed for constipation.
+Disp:*60 Capsule(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left ankle fracutre/dislocation
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Continue to be non-weight bearing on your left leg
+
+Please take your aspirin daily for a total of 4 weeks after 
+surgery
+
+Please take all your medication as prescribed
+
+If you have any increased pain, swelling, or numbness, not 
+relieved with rest, elevation, and/or pain medication, or if you 
+have a temperature greater than 101.5, please call the office or 
+come to the emergency department
+Physical Therapy:
+Activity:  Activity as tolerated
+ Left lower extremity:  Non weight bearing
+
+Treatment Frequency:
+Keep splint on 
+Do not get splint wet or put anything down the splint
+ 
+Followup Instructions:
+___

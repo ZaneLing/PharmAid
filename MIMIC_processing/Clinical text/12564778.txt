@@ -1,0 +1,326 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Jaundice
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ with PMH significant for COPD, h/o 
+TIA/stroke, OSA on CPAP and s/p CCY in the 1960s who presents as 
+a transfer from ___ for jaundice. Of note patient was 
+recently admitted to ___ from ___ for the same.  
+ Patient lives full time in ___ and is in Mass visiting 
+family for the last month. She notes that 3 weeks ago she was 
+hospitalized in ___ for the flu. She was discharged to rehab 
+and then home after an uneventful hospital course. She states 
+that she was started on augmentin at some point for unknown 
+reasons. On day 10 of using augmentin, she noted the onset of 
+pruritic rash. The pruritus was worse at night and persisted 
+despite her stopping the augmentin. She did not note yellowing 
+of the skin or eyes at this time but did notice that her urine 
+was darker in color. This darker urine persisted for the last 2 
+weeks. She had a UA done at ?___ which showed elevated 
+urobilinogen and the ___ staff recommended that she get 
+additional blood work.  
+ She presented to ___ where she was noted to have ALT 76, 
+AST 49, ALP 553, Tbili 3.7, Dbili 2.6, INR 0.9. She was admitted 
+to ___ for 2 days during which she had an MRCP and was 
+evaluated by GI. MRCP showed mild intrahepatic and extrahepatic 
+ductal dilatation without filling defect, normal liver 
+parenchyma noted. Workup included iron studies(WNLs except 
+ferritin 243), ceruloplasmin(34), lipase(166 -> 61), alpha-1 
+antitrypsin(171), monospot(negative), and ___ 1:160). 
+Hepatitis serologies showed +HAV IgG with negative IgM, +EBV IgG 
+with negative IgM. She was seen by GI at ___ who felt that 
+her presentation was consistent with cholestasis secondary to 
+the augmentin. They did not recommend further workup but did 
+note that should she worsen she will need a liver biopsy.  
+ 3 days prior to admission, patient was seen at a ___ minute 
+clinic for reevaluation as she thought her urine was cloudy. 
+Reportedly she was diagnosed with a UTI and started on a course 
+of Macrobid for which she took 3 days worth. She continued to 
+feel poorly and was unable to walk this morning so she 
+represented to ___ for further evaluation. Given no bed 
+availability and the likelihood for Hepatology evaluation, she 
+was sent to ___ for further evaluation.  
+ In the ED, initial vital signs were: 96.8, 74, 122/57, 16, 96% 
+RA  
+ - Exam was notable for: mild jaundice and essential head tremor 
+ 
+ - Labs were notable for: lipase 70, ALP 378, ALT 38, AST 39, 
+Tbili 5.0. UA grossly positive. Urine culture NOT sent.  
+ - Imaging: none  
+ - The patient was given: no medications  
+ - Consults: none  
+ Vitals prior to transfer were: 98.0, 74, 133/51, 16, 95% RA  
+ Upon arrival to the floor, patient continues to report fatigue 
+and pruritus. Patient is poor historian and has difficulty 
+remembering medical conditions, medications.  
+ REVIEW OF SYSTEMS: Per HPI. Denies headache, visual changes, 
+pharyngitis, rhinorrhea, nasal congestion, cough, fevers, 
+chills, sweats, weight loss, dyspnea, chest pain, abdominal 
+pain, nausea, vomiting, diarrhea, constipation, hematochezia, 
+dysuria, rash, paresthesias.  Otherwise remaining systems 
+negative.
+ 
+Past Medical History:
+ COPD  
+ OSA on CPAP  
+ TIA/stroke  
+ Familial tremor  
+ Osteoporosis  
+ Compression fractures  
+ Cholecystectomy in the ___  
+ Hysterectomy  
+ Tonsillectomy  
+ Left mastoid surgery  
+ 
+Social History:
+___
+Family History:
+ Mother and father both had HTN. Mother died of GI cancer, 
+father died of lung cancer.  
+ 
+Physical Exam:
+>> ADMISSION PHYSICAL EXAM: 
+VITALS: 97.6, 114/74, 77, 18, 97% RA, wt 84.1kg  
+GENERAL: Pleasant, well-appearing, in no apparent distress.  
+HEENT - normocephalic, atraumatic, no conjunctival pallor. Mild 
+scleral icterus, PERRLA, EOMI, OP clear with poor dentition  
+NECK: Supple, no LAD, no thyromegaly, JVP flat.  
+CARDIAC: Irregular, mild tachycardia, normal S1/S2, early 
+diastolic murmur ithout click. No rubs or gallops.  
+PULMONARY: Clear to auscultation bilaterally, without wheezes or 
+rhonchi.  
+ABDOMEN: Normal bowel sounds, soft, non-tender, non-distended, 
+no organomegaly.  
+EXTREMITIES: Warm, well-perfused, no cyanosis. Trace pitting 
+edema. +varicose veins  
+SKIN: Mild jaundice with multiple excoriations in various stages 
+of healing.  
+NEUROLOGIC: Course head tremor. +expressive aphasia which is not 
+new. A&Ox3, CN II-XII grossly normal, normal sensation, with 
+strength ___ throughout.  
+.
+>> DISCHARGE PHYSICAL EXAM: 
+Vitals: T 97.9  116-130 / 55  67  18  98 RA
+I/O:  / 350,  600 3 BMs. 
+General: Pleasant, well-appearing, no acute distress, conversing 
+well. Does have a facial tremor, with voice trembling as well. 
+HEENT: Normocephalic, atruamtic. Mild scleral icterus, no 
+conjunctival injection. Oropharynx is clear, poor dentition. 
+There is also no sublingual jaundice seen. PERRL. EOMI. 
+Cardiac: Irregular, Diastolic murmur II, no other sounds. S1, 
+S2. 
+Lungs: Clear to auscultation bilaterally, no adventitial sounds
+Abdomen: Soft, obese. NT/ND. No RUQUS. No murphys. 
+Extremities: No ___ edema bilaterally, warm. 
+Skin: Generalized pruritis, itching upper extremities 
+bilaterally. No specific excoriations seen. 
+Neurologic: There is a course, moderate Hz head tremor, and some 
+expressive aphasia. CN II-XII grossly intact. Upper extremities 
+are intact. 
+ 
+Pertinent Results:
+>> ADMISSION LABS: 
+___ 10:20PM BLOOD WBC-8.2 RBC-4.18 Hgb-12.6 Hct-39.4 MCV-94 
+MCH-30.1 MCHC-32.0 RDW-15.0 RDWSD-52.2* Plt ___
+___ 10:20PM BLOOD Glucose-93 UreaN-16 Creat-0.7 Na-137 
+K-4.2 Cl-101 HCO3-25 AnGap-15
+___ 10:20PM BLOOD ALT-38 AST-39 AlkPhos-378* TotBili-5.0* 
+DirBili-3.0* IndBili-2.0
+___ 10:20PM BLOOD Albumin-3.3*
+___ 05:03AM BLOOD AMA-NEGATIVE Smooth-NEGATIVE
+___ 10:20PM BLOOD TSH-4.1
+.
+>> DISCHARGE LABS:
+___ 07:00AM BLOOD WBC-6.9 RBC-3.93 Hgb-12.0 Hct-37.0 MCV-94 
+MCH-30.5 MCHC-32.4 RDW-15.1 RDWSD-52.0* Plt ___
+___ 07:00AM BLOOD Neuts-59.4 Lymphs-18.8* Monos-10.9 
+Eos-9.6* Baso-0.9 Im ___ AbsNeut-4.08 AbsLymp-1.29 
+AbsMono-0.75 AbsEos-0.66* AbsBaso-0.06
+___ 07:00AM BLOOD Glucose-117* UreaN-21* Creat-0.7 Na-137 
+K-4.6 Cl-103 HCO3-25 AnGap-14
+___ 07:00AM BLOOD ALT-36 AST-36 LD(LDH)-225 AlkPhos-355* 
+TotBili-4.0*
+___ 07:00AM BLOOD Calcium-9.6 Phos-3.4 Mg-2.0
+___ 07:04AM BLOOD IGG SUBCLASSES 1,2,3,4-Test      
+.
+>> PERTINENT REPORTS :
+ URINE CULTURE  Preliminary                                      
+                     
+     Organism 1                     ESCHERICHIA COLI
+        COLONY COUNT:               10,000 - 50,000 CFU/ML
+.
+___: Sinus rhythm with 
+underlying right bundle-branch block and left anterior 
+hemiblock. Non-specific T wave flattening. No previous tracing 
+available for comparison.
+
+ 
+Brief Hospital Course:
+___ year old female, with prior history of COPD, TIA/Stroke, OSA 
+on CPAP, prior CCY, now presenting with c/f for elevated 
+bilirubin. 
+.
+>> ACTIVE ISSUES: 
+# Hyperbilirubinemia: Patient initially presented with 
+___, and underwent extensive workup including CT Abdomen 
+scan unremarkable for an external lesion or obstructing mass, 
+and then underwent MRCP which was negative for visualization of 
+an intrehepatic obstruction. Patient then was discharged however 
+represented then for evaluation of continued itching, and 
+persistent elevated bilirubin. Patient had initial labs also at 
+___, which were reviewed, which were not supportive of 
+hemochromatosis, hepatitis, ___ disease. Remarkable for an 
+___ 1:160, and upon admission to ___ underwent 
+Anti-Smooth Muscle and Mitochondrial Antibiody negative. Given 
+patient's prior exposure to augmentin a few weeks prior, was 
+thought that her intrahepatic cholestasis likely secondary to 
+augmentin exposure and placed on allergy list. Patient's PCP in 
+___ also contacted and found to have T-bili 1.4 in ___, 
+and 1.7 in ___, without clear workup previously. Patient was 
+given cholesytramine, sarna lotion for pruritis likely secondary 
+to prior bile salts. Discussed that likely this was a drug 
+effect given imaging (reviewed here). Given normal hepatic 
+parenchyma seen also thought unlikely to be infiltrative 
+disease. Therefore, given likely drug effect patient stable for 
+discharge with close follow-up with new PCP (arranged prior to 
+discharge), to have repeat LFT testing and continued monitoring. 
+Discussion with patient that if she does not have resolution of 
+this, she would likely require ERCP / EUS for further evaluation 
+of intrahepatic biliary system with direct visualization. 
+. 
+# UTI: Patient diagnosed previously with UTI, with E. coli < 50K 
+colonies grown at ___. Patient denies any symptoms, and 
+therefore patient was continued on levofloxacin x 5 days 
+(received antibiotics prior). 
+. 
+# Obstructive Sleep Apnea: Patient was continued on CPAP while 
+inpatient, and prescription for CPAP given to patient prior to 
+discharge. 
+. 
+>> CHRONIC ISSUES: 
+# Familial Essential Tremor: At baseline per patient and family, 
+this stable. 
+. 
+# Stroke/TIA History: Patient takes Plavix for secondary 
+prevention, and was continued during hospital stay. 
+. 
+>> TRANSITIONAL ISSUES: 
+# Hyperbilirubin: Discharge T-bili 4.0. Please obtain Chem, CBC, 
+and LFTs upon discharge f/u to trend. If bilirubin still remains 
+elevated, would consider referral to Liver for ERCP/EUS. 
+# LFTs: AST/ALT improved to normal upon discharge. Please trend 
+as above. 
+# Physical Therapy: Patient uses walker intermittently, will 
+need to be set up with home ___ services as outpatient. Likely 
+need new referral with Face-Face sheet.
+# UTI: Patient to complete course of UTI on ___. E. coli at 
+___ 
+# Sleep Apnea: Patient given new prescription for CPAP during 
+inpatient
+# Low Protein: Likely c/f nutritional deficiency, continue to 
+trend weights and recommended nutritional supplements as 
+outpatient. 
+# Pending Labs: IgG panel pending upon discharge. 
+# Home Situation: Patient to be moving to ___ to live with 
+daughter, will need new PCP and medications. Prior PCP ___ 
+___. 
+# Osteoperosis: DEXA ___ T-score -2.3, imaging shows an old 
+anterior superior endplate L3 compression fracture.
+# Voice Changes: Prior PCP discussed potential vocal cord 
+issues, would consider potential ENT referral as an outpatient. 
+# CONTACT: Daughter ___, ___  
+# CODE STATUS: Full Code  
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Clopidogrel 75 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Ibuprofen 600 mg PO QAM 
+4. Pantoprazole 40 mg PO Q24H 
+5. Vitamin D Dose is Unknown  PO DAILY 
+6. Calcium Carbonate Dose is Unknown  PO Frequency is Unknown 
+
+ 
+Discharge Medications:
+1. Clopidogrel 75 mg PO DAILY 
+2. Cholestyramine 4 gm PO BID 
+RX *cholestyramine (with sugar) 4 gram 4 grams by mouth twice 
+daily Refills:*0
+3. Levofloxacin 500 mg PO Q24H 
+RX *levofloxacin 500 mg 1 tablet(s) by mouth daily Disp #*2 
+Tablet Refills:*0
+4. Sarna Lotion 1 Appl TP QID 
+RX *camphor-menthol  Please apply to arms daily Disp #*1 Package 
+Refills:*0
+5. Atorvastatin 20 mg PO QPM 
+6. Ibuprofen 600 mg PO QAM 
+7. Pantoprazole 40 mg PO Q24H 
+8. Vitamin D 400 UNIT PO DAILY 
+9. CPAP
+___ 450REMstar with heated vaporizer. 
+ICD-10: Obstructive Sleep Apnea ___ 
+Duration: Ongoing 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIANGOSIS: 1. Intrahepatic Cholestasis 2. Urinary Tract 
+Infection
+
+SECONDARY DIAGNOSES: 
+1. Obstructive Sleep Apnea
+2. Familial Tremor
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+It was a pleasure taking care of you during your hospital stay 
+at ___. While here, you were 
+hospitalized because of an elevated bilirubin level. Your prior 
+imaging, including your MRI and CT scan were reviewed during 
+your hospital stay, and we continued your home medications. We 
+believe that your elevated bilirubin is actually due to a 
+medication that you had received previously, Amoxicillin. This 
+should continue to improve. Since you are moving here, we have 
+set up a primary care physician appointment next week to ensure 
+that you continue to improve, and they will also check your labs 
+as an outpatient to continue to follow. 
+
+Please follow up with your new primary care physician, and with 
+your specialists upon discharge. Please continue to take your 
+other home medications as prescribed. 
+
+Take Care,
+Your ___ Team. 
+ 
+Followup Instructions:
+___

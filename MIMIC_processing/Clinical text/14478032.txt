@@ -1,0 +1,261 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Coronary angiography 
+Percutaneous Coronary Intervention
+
+ 
+History of Present Illness:
+___ M w/ family history heart disease (father w/ CABG x4 in ___ 
+who presents with around 8 weeks of progressive chest tightness 
+over left breast. Mostly would occur when cycling to work, and 
+occasionally radiating to left arm. Pain does not occur at rest. 
+Pain dissipates approximately ___ minutes after stopping 
+exercising. The discomfort is associated with SOB and 
+breathlessness. No syncope or associated diaphoresis.  
+
+ In the ED, initial vitals were: 97.8 76 161/104 20 98% RA  
+ - Labs notable for troponin 0.02. CBC and chem panel 
+unremarkable. BNP 183  
+ - Imaging notable for CXR with no lung volumes, no infection or 
+pulmonary edema. EKG with new Q waves and biphasic T waves 
+anteriorly  
+ - Atrius cardiology was consulted and recommended: heparin drip 
+and admission to cardiology  
+ - Patient was started on a heparin drip with bolus, also given 
+atorvastatin 80mg. Received ASA 325mg in the ambulance.  
+ 
+Decision was made to admit for unstable angina/NSTEMI.  
+Vitals prior to transfer: 98.1 76 127/76 16 94% RA  
+
+On the floor, the patient tells me that he is chest pain free. 
+He has no complaints.  
+ 
+ ROS:  
+ (+) Per HPI  
+ (-) Denies fever, chills, night sweats, recent weight loss or 
+gain.  
+ Denies headache, sinus tenderness, rhinorrhea or congestion. 
+Denies cough, shortness of breath. Denies nausea, vomiting, 
+diarrhea, constipation or abdominal pain. No recent change in 
+bowel or bladder habits. No dysuria.  
+ 
+ 
+Past Medical History:
+- Stickler syndrome c/b torn retina in R eye (s/p surgery at age 
+___: no vision in R eye, relatively preserved vision in L eye.  
+- Hyperlipidemia  
+- Osteopenia  
+- Sensorineural hearing loss  
+ 
+ 
+Social History:
+___
+Family History:
+Father with CABG X 4 in his ___. No other family history of 
+heart disease. Grandfather committed suicide. No history of 
+sudden cardiac death. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+===========================  
+Vital Signs: T 98.2, 151/94, 74, 18, 94%RA  
+General: Alert, oriented, no acute distress  
+HEENT: R eye s/p surgical changes, L eye with reactive pupil and 
+preserved EOM. Oropharynx wnl.  
+NECK: No JVP elevation.  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended.  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+Access: PIV  
+
+ADMISSION PHYSICAL EXAM: 
+========================
+Vital Signs: T 98.2, 151/94, 74, 18, 94%RA
+General: Alert, oriented, no acute distress
+HEENT: R eye s/p surgical changes, L eye with reactive pupil and 
+preserved EOM. Oropharynx wnl.
+NECK: No JVP elevation.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+Abdomen: Soft, non-tender, non-distended.
+Ext: Warm, well perfused, no clubbing, cyanosis or edema. Right 
+radial ecchymosis w/ intact distal pulses and sensation.
+ 
+Pertinent Results:
+___ 08:23PM   ___ PTT-31.7 ___
+___ 08:23PM   ___ PTT-31.7 ___
+___ 06:40PM   GLUCOSE-80 UREA N-14 CREAT-1.0 SODIUM-137 
+POTASSIUM-3.8 CHLORIDE-100 TOTAL CO2-22 ANION GAP-19
+___ 06:40PM   estGFR-Using this
+___ 06:40PM   cTropnT-0.02*
+___ 06:40PM   proBNP-183*
+___ 06:40PM   WBC-7.3 RBC-4.69 HGB-14.7 HCT-43.1 MCV-92 
+MCH-31.3 MCHC-34.1 RDW-11.6 RDWSD-38.7
+___ 06:40PM   NEUTS-52.7 ___ MONOS-8.0 EOS-4.3 
+BASOS-1.0 IM ___ AbsNeut-3.85 AbsLymp-2.44 AbsMono-0.58 
+AbsEos-0.31 AbsBaso-0.07
+___ 06:40PM   PLT COUNT-278
+
+INTERVAL/DC LABS:
+=================
+___ 06:45AM BLOOD WBC-6.6 RBC-4.46* Hgb-13.8 Hct-41.5 
+MCV-93 MCH-30.9 MCHC-33.3 RDW-11.6 RDWSD-39.7 Plt ___
+___ 06:45AM BLOOD Glucose-83 UreaN-13 Creat-1.0 Na-140 
+K-4.1 Cl-105 HCO3-20* AnGap-19
+___ 09:43PM BLOOD cTropnT-0.01
+___ 06:45AM BLOOD Calcium-8.2* Phos-3.0 Mg-2.3
+
+IMAGING: 
+=======
+# CXR ___
+No cardiopulmonary process.
+
+# CATH ___
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is normal.
+* Left Anterior Descending
+The LAD has a discrete 99% mid stenosis, with a separate 50% 
+stenosis more distally in the mid segment. There is TIMI 2 
+distal flow.
+* Circumflex
+The Circumflex has minimal luminal irregularities.
+* Right Coronary Artery
+The RCA is a small, non-dominant vessel and is normal.
+
+Impressions:
+1 vessel CAD.
+Successful PTCA/stent of mid LAD using drug-eluting stent.
+ 
+Brief Hospital Course:
+___ gentleman with a family history of coronary disease 
+(father had CABG), who presented to ___ 
+___ with 8 weeks of progressive exertional chest 
+tightness. 
+
+# NSTEMI
+Patient pressented with subacute yypical anginal sx. EKG showed 
+new Q waves and biphasic T waves anteriology. Initial trp .02. 
+He was given ASA, atorva, metop, hep ggt. Patient underwent 
+catheterization on ___, which showed the following: He 
+had a right dominant system with a normal left main coronary, 
+his LAD had a discrete 99% mid stenosis with a separate 50% 
+stenosis more distally in the mid segment. The circumflex had 
+minimal irregularities and the right coronary was a small vessel 
+and there was an additional branch of the right coronary and all 
+of that was patent. He underwent a successful stenting procedure 
+to the 99% LAD lesion with a 3.0 mm x 12 mm Promus PREMIER 
+drug-eluting stent. He was continued on medical management with 
+Plavix 75 mg a day, atorvastatin 80 mg a day, metoprolol 
+tartrate 12.5 mg twice a day, aspirin 81 mg a day. Of note, 
+patient did have ecchymosis/hematoma at right radial access 
+site. Distal sensation and pulse intact.
+
+# Hypertension
+He also had elevated blood pressure throughout his 
+hospitalization (SBP 150-170) and was started on lisinopril 5 mg 
+daily. 
+
+TRANSITIONAL ISSUES: 
+====================
+[] Patient will need echo as an outpatient
+[] Optimization of blood pressure medication
+[] Physical therapy recommends referral to cardiac rehab as an 
+outpatient
+[] f/u with cardiology as outpatient 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Alendronate Sodium 70 mg PO 1X/WEEK (MO) 
+2. Simvastatin 10 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+4.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+5.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+6.  Alendronate Sodium 70 mg PO 1X/WEEK (MO)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 
+Non ST elevation myocardial infarction
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to the hospital because you had chest pain 
+concerning for a blockage in the blood vessels of your heart.
+
+What was done while I was in the hospital?
+==========================================
+- You were given heart medicines and blood pressure medicines
+- You had a heart "catheterization" which showed blockage of one 
+of your arteries of your heart. A stent was placed to open the 
+artery. 
+- You were monitored overnight and did well after the procedure.
+- You also had elevated blood pressures and you were started on 
+blood pressure medications.
+
+What should I do now that I am going home?
+==========================================
+- Take all of your medications as prescribed 
+- It is very important that you do not miss ___ dose of aspirin or 
+Plavix because missing these medicines can cause the stent to 
+become blocked.
+- Please follow-up with your PCP, ___ on ___ at 
+9:30P. 
+- Please follow up with Dr. ___, cardiology, at ___ 
+Medical associates. If you have not been contacted for an 
+appointment within 3 days, please call ___ to 
+schedule an appointment.
+
+Thank you for allowing us to participate in your care!
+
+-Your ___ Team
+ 
+Followup Instructions:
+___

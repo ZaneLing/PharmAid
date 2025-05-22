@@ -1,0 +1,375 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+double vision, slurred speech
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Neurology at bedside for evaluation after code stroke activation 
+within: 5 minutes
+
+Time/Date the patient was last known well: ___ 1600 
+
+___ mRS ___ social history for description): 0
+
+___ Administration
+[] Yes - Time given:
+[x] No - Reason ___ was not given/considered: tPA considered 
+but not administered given mildness of stroke. Low NIHSS, Pt was 
+informed of risks of bleeding and benefits of tPA, declined to 
+receive. 
+
+Endovascular intervention: []Yes [x]No
+
+I was present during the CT scanning and reviewed the images 
+within 20 minutes of their completion.
+
+___ Stroke Scale - Total [0]
+
+1a. Level of Consciousness - 0
+1b. LOC Questions - 0
+1c. LOC Commands - 0 
+2. Best Gaze - 0
+3. Visual Fields - 0 
+4. Facial Palsy - 0 
+5a. Motor arm, left - 0
+5b. Motor arm, right - 0
+6a. Motor leg, left - 0
+6b. Motor leg, right - 0
+7. Limb Ataxia - 0
+8. Sensory - 0
+9. Language - 0
+10. Dysarthria - 0
+11. Extinction and Neglect - 0
+
+HPI: Mr. ___ is a ___ with a history of uncontrolled HTN and 
+HLD brought in by EMS, presenting with hyperacute onset of 
+vertical diplopia worst on L lateral gaze, LKW 1600 hrs ___. 
+There was also reported transient facial droop (unclear what 
+side) as well as dysarthria from his son who called EMS upon pt 
+report of diplopia, though the patient denied feeling dysarthric 
+or that his face looked different on history. 
+
+He reports that this was an otherwise normal day for him at home 
+when suddenly he began having double vision in primary gaze and 
+described this as one object being "on top of the other". The 
+diplopia was made worse on L lateral gaze. It has persisted 
+without getting frankly worse. He reports that he had one 
+similar episode of visual disturbance a few years ago where his 
+vision went "blurry," but cannot otherwise remember the details 
+aside from eating concentrated sweets the day before his symptom 
+onset. Today, he reports that he ate some candy yesterday and 
+attributes his presentation possibly to this. 
+
+ROS: On neurologic review of systems, vertical diplopia as 
+above. The patient denies headache, lightheadedness, or 
+confusion. Denies difficulty with producing or comprehending 
+speech. Denies loss of vision, blurred vision, vertigo, 
+tinnitus, hearing difficulty, dysarthria, or dysphagia. Denies 
+focal muscle weakness, numbness, parasthesia. Denies loss of 
+sensation. Denies bowel or bladder incontinence or retention. 
+Denies difficulty with gait.
+
+On general review of systems, the patient denies recent viral or 
+GI illness, fevers, rigors, night sweats, or noticeable weight 
+loss. Denies chest pain, palpitations, dyspnea, or cough. Denies 
+nausea, vomiting, diarrhea, constipation, or abdominal pain.  No 
+recent change in bowel or bladder habits.  Denies dysuria or 
+hematuria. Denies myalgias, arthralgias, or rash.
+
+ 
+Past Medical History:
+-HTN, no meds
+-HLD on pravastatin 
+ 
+Social History:
+___
+Family History:
+Multiple brothers with CAD; No history of stroke in early age, 
+no other neurological history.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION
+Vitals:  HR: ___   BP: ___ RR: 16 SaO2: 100%RA
+General:  NAD
+HEENT: NCAT, no oropharyngeal lesions, neck supple, no 
+meningismus 
+___: RR
+Abdomen: Soft, NT, ND, +BS, no guarding
+Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Able to register 3 
+objects and recall ___ at 5 minutes, ___ with multiple choice. 
+Able to relate history without difficulty. Attentive, able to 
+name ___ backward without difficulty. Speech is fluent with full 
+sentences, intact repetition, and intact verbal comprehension. 
+Naming intact.  No paraphasias. No dysarthria. Normal prosody. 
+No apraxia. No evidence of hemineglect. No ___ confusion. 
+Able to follow both midline and appendicular commands.
+
+- Cranial Nerves: L/R pupil 3->2 and reactive. L eye 
+hypertropia. Impaired downgaze in L eye, ___ L 
+eye nystagmus with vertical eye mvmt. VF full to number 
+counting. ___ without deficits to light touch bilaterally. No 
+facial movement asymmetry. Hearing intact to finger rub 
+bilaterally.  Palate elevation symmetric. SCM/Trapezius strength 
+___ bilaterally. Tongue midline.
+
+- Motor:  Normal bulk and tone. No pronator drift. No tremor or 
+asterixis.
+  [___]
+L   5     5    5    5    ___    5     5   5    5    5
+R   5     5    5    5    ___    5     5   5    5    5  
+ 
+- Reflexes: 
+   [Bic] [Tri] [___] [Quad] [Ach]
+ L  2+    1     1        2       1
+ R  2+    1     1        2       1  
+
+Plantar response flexor bilaterally 
+
+- Sensory: No deficits to light touch, pin, or proprioception 
+bilaterally.  No extinction to DSS.
+
+- Coordination: No dysmetria with finger to nose testing 
+bilaterally. Good speed and intact cadence with rapid 
+alternating movements.
+
+- Gait: Not assessed 
+
+DISCHARGE PHYSICAL EXAM: 
+Vitals:  Tm 98.5, HR ___, BP ___, RR ___, >96%RA
+General:  sitting up in bed, NAD
+HEENT: NCAT, no oropharyngeal lesions, neck supple
+___: RRR, well perfused
+Abdomen: Soft, NT, ND 
+Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3.  Able to relate 
+history without difficulty. Attentive, able to name ___ backward 
+without difficulty. Speech is fluent with full sentences, intact 
+repetition, and intact verbal comprehension. Naming intact.  No 
+paraphasias. No dysarthria. Normal prosody. No apraxia. No 
+evidence of hemineglect. No ___ confusion. Able to follow 
+both midline and appendicular commands.
+
+- Cranial Nerves: L/R pupil 4->2 and reactive. EOMI without 
+nystagmus and no hypertropia apparent. Eye movements are 
+conjugate. VFF. ___ without deficits to light touch 
+bilaterally. No facial movement asymmetry. Hearing intact to 
+finger rub bilaterally.  Palate elevation symmetric. 
+SCM/Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor:  Normal bulk and tone. No pronator drift. No tremor or 
+asterixis.
+  [___]
+L   5     5    5    5    ___    5     5   5    5    5
+R   5     5    5    5    ___    5     5   5    5    5  
+ 
+- Reflexes: 
+   [Bic] [Tri] [___] [Quad] [Ach]
+ L  2    1     1        2       1
+ R  2    1     1        2       1  
+
+Plantar response flexor bilaterally 
+
+- Sensory: No deficits to light touch.  No extinction to DSS.
+
+- Coordination: No dysmetria with finger to nose testing 
+bilaterally. Good speed and intact cadence with rapid 
+alternating movements.
+
+- Gait: Normal based, able to ambulate independently 
+ 
+Pertinent Results:
+___ 06:05AM BLOOD ___ 
+___ Plt ___
+___ 06:05AM BLOOD ___ ___
+___ 06:05AM BLOOD ___ 
+___
+___ 05:30AM BLOOD ___ LD(LDH)-187 CK(CPK)-86 
+___
+___ 05:30AM BLOOD ___ cTropnT-<0.01
+___ 06:05AM BLOOD ___
+___ 05:30AM BLOOD ___
+___ 05:30AM BLOOD ___
+___ 05:30AM BLOOD ___
+
+IMAGING: 
+CT/CTA ___:
+HCHCT: No acute intracranial abnormalities. 
+    
+CTA: Patent circle of ___ and its major tributaries without 
+evidence of 
+___ stenosis, occlusion or aneurysm. Patent neck 
+vessels without 
+evidence of flow limiting stenosis or dissection. 
+  
+MRI Brain ___: 
+FINDINGS:  
+A focal area of slow diffusivity with increased T2 and FLAIR 
+signal in the 
+left thalamus is consistent with a late acute to subacute 
+lacunar infarction (06:15).  There is no evidence of hemorrhage, 
+edema, masses, mass effect, midline shift or acute infarction.  
+The ventricles and sulci are normal in caliber and 
+configuration.  There is no abnormal enhancement after contrast 
+administration.  Multiple mucous retention cysts are noted 
+within bilateral maxillary sinuses.  The orbits are 
+unremarkable, the mastoid air cells are clear. 
+  
+IMPRESSION: 
+1. Focal late acute to subacute lacunar infarction of the left 
+thalamus. 
+2. No mass or abnormal enhancement. 
+
+TTE ___:
+The left atrium is normal in size. The estimated right atrial 
+pressure is ___ mmHg. There is mild symmetric left ventricular 
+hypertrophy. The left ventricular cavity size is normal. There 
+is mild regional left ventricular systolic dysfunction with 
+apical septal, anterior, inferior and true apical 
+hypo-/akinesis. Quantitative (biplane) LVEF = 55 %. A small 
+thrombus is seen in the left ventricle. Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve leaflets are mildly thickened. 
+There is no mitral valve prolapse. Trivial mitral regurgitation 
+is seen. There is no pericardial effusion. 
+
+ IMPRESSION: 
+ 1) Apical LV mass with appearance of subacute thrombus.
+ 2) Mild regional left ventricular systolic dysfunction c/w 
+prior myocardial infarction in distal LAD territory.  
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with a history of HTN and HLD who 
+presented with hyperacute onset of vertical diplopia worst on 
+left lateral gaze, last known well at 1600 hrs on ___. There 
+was also reported transient facial droop (unclear what side) as 
+well as dysarthria from his son who called EMS upon pt report of 
+diplopia, though the patient denied feeling dysarthric or that 
+his face looked different on history. He was admitted to 
+Neurology for further evaluation.  His symptoms had 
+___ by that time.  His MRI showed a focal late acute 
+to subacute lacunar infarction of the left thalamus.  Stroke 
+labs were sent including HbA1c 5.1%, LDL 102 (after 2 wks on 
+statin), TSH 1.4.  He then had a TTE that showed an apical LV 
+mass with appearance of subacute thrombus as well as mild 
+regional left ventricular systolic dysfunction c/w prior 
+myocardial infarction in distal LAD territory; LVEF = 55%.  Due 
+to the thrombus, which was likely the etiology of his stroke, he 
+was started on anticoagulation with heparin and Coumadin 5mg 
+qHS.  His goal INR is ___. He will continue on a lovenox bridge 
+(1mg/kg BID = 70mg BID subcutaneously) until his INR is at goal. 
+His PCP, ___ at ___, will manage 
+the Coumadin (confirmed by the clinic today).  He will ___ 
+with both Cardiology and Neurology.  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Calcium 500 + D (D3) (calcium ___ D3) 500 
+mg(1,250mg) -125 unit oral DAILY 
+2. Pravastatin 40 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Enoxaparin Sodium 70 mg SC BID stroke and apical LV thrombus 
+
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+stop taking once INR at goal ___ 
+RX *enoxaparin 100 mg/mL 70 mg subcutaneously twice a day Disp 
+#*30 Syringe Refills:*1 
+2.  Warfarin 5 mg PO DAILY16 stroke and apical LV thrombus 
+goal INR ___ 
+RX *warfarin [Coumadin] 5 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*5 
+3.  Calcium 500 + D (D3) (calcium ___ D3) 500 
+mg(1,250mg) -125 unit oral DAILY  
+4.  Pravastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Stroke, apical left ventricular thrombus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the Neurology service due to concern for 
+acute onset double vision that resolved over a few hours.  You 
+had a brain MRI that showed an acute stroke.  You had an Echo 
+(ultrasound of the heart) that showed a clot, which was likely 
+the cause of the stroke.  You will continue Coumadin for 
+anticoagulation; you will also continue lovenox injections until 
+your INR is between ___.  You will ___ with your Primary 
+Care Provider to follow the Coumadin and adjust the medication 
+as needed.  You will also have ___ with Neurology as 
+scheduled below.  
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+High cholesterol 
+Family history of heart disease
+
+We are changing your medications as follows:
+START Coumadin 5mg daily
+START Lovenox 70mg subcutaneous injection twice daily until your 
+INR is at goal ___
+
+Please take your other medications as prescribed.
+
+Please ___ with Neurology and your primary care physician.
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+
+ 
+Followup Instructions:
+___

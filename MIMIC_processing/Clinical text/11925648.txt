@@ -1,0 +1,311 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+None
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 02:06PM BLOOD WBC-9.5 RBC-2.94* Hgb-7.9* Hct-25.8* 
+MCV-88 MCH-26.9 MCHC-30.6* RDW-15.9* RDWSD-51.3* Plt ___
+___ 02:06PM BLOOD Neuts-71.3* ___ Monos-6.1 
+Eos-0.9* Baso-0.8 Im ___ AbsNeut-6.76* AbsLymp-1.93 
+AbsMono-0.58 AbsEos-0.09 AbsBaso-0.08
+___ 02:11PM BLOOD D-Dimer-4634*
+___ 02:06PM BLOOD Glucose-131* UreaN-30* Creat-0.6 Na-132* 
+K-4.1 Cl-97 HCO3-22 AnGap-13
+___ 02:06PM BLOOD ALT-12 AST-17 AlkPhos-85 TotBili-<0.2
+___ 02:06PM BLOOD cTropnT-<0.01
+___ 06:30PM BLOOD cTropnT-<0.01
+___ 02:06PM BLOOD Albumin-4.1 Calcium-8.8 Phos-2.8 Mg-1.8
+___ 11:31AM BLOOD calTIBC-351 ___ Folate->20 
+Ferritn-47 TRF-270
+___ 07:42AM BLOOD Cortsol-18.2
+___ 11:31AM BLOOD RheuFac-<10 ___ Titer-PND 
+CRP-1.8
+
+DISCHARGE LABS:
+================
+___ 07:42AM BLOOD WBC-4.4 RBC-3.36* Hgb-9.4* Hct-29.4* 
+MCV-88 MCH-28.0 MCHC-32.0 RDW-16.1* RDWSD-50.8* Plt ___
+___ 07:42AM BLOOD ___ PTT-28.7 ___
+___ 05:50PM BLOOD Ret Aut-1.8 Abs Ret-0.04
+___ 07:42AM BLOOD Glucose-110* UreaN-9 Creat-0.7 Na-141 
+K-4.2 Cl-106 HCO3-25 AnGap-10
+___ 11:31AM BLOOD ALT-9 AST-14 LD(LDH)-146 CK(CPK)-29 
+AlkPhos-63 TotBili-0.2
+___ 05:50PM BLOOD Calcium-8.4 Phos-2.4* Mg-1.9 UricAcd-2.3* 
+Iron-24*
+___ 11:31AM BLOOD Albumin-3.5 Calcium-8.7 Phos-3.3 Mg-2.0 
+Iron-31
+
+WBC 4.4. Plt 308
+Hgb 6.1 -> 6.9 -> 8.9 -> 9.4 after 2u pRBCs this admission
+BMP WNL
+LFTs WNL
+Retic 1.8%
+LDH 142, Hapto 151
+Iron 24, TRF 262, Ferritin 48
+___, Folate >20
+Trop <0.01 x 2
+Lipase 13
+AM cortisol 18.2
+
+___ positive; titer pending
+RF<10
+CCP<16 (nl)
+CK 29
+CRP 1.8, ESR 11
+
+UA: neg
+
+IMAGING:
+=========
+CT ___ ___, prelim):
+1. There is no evidence of suspicious masses or lesions within
+the abdomen/pelvis. 
+2. Mild dilatation of the common bile duct is nonspecific. It is
+smoothly tapers to the ampulla. There is no evidence of an
+obstructing mass or lesion. Please correlate with patient's
+clinical picture and labs. An MRCP or ERCP can be performed for
+further characterization if clinically indicated. 
+
+EKG (___):
+NSR at 94 bpm, nl axis, PR 165, QRS 89, QTC 434, TWI V1-V2
+(similar to ___
+
+CTA chest (___):
+No evidence of pulmonary embolism or aortic dissection.  No 
+focal
+consolidation. 
+
+CTA head/neck (___):
+1. Head CT: No acute intracranial abnormality. 
+2. CTA Head: Patent circle of ___ without evidence of
+stenosis,occlusion,or aneurysm. 
+3. CTA Neck: Patent bilateral cervical carotid and vertebral
+arteries without evidence of stenosis, occlusion, or dissection. 
+
+
+R ___ (___):
+No evidence of deep venous thrombosis in the right lower
+extremity veins.
+
+ 
+Brief Hospital Course:
+___ with hx dysautonomia and chronic fatigue syndrome,
+depression/anxiety, possible Sjogren's syndrome vs
+undifferentiated autoimmune condition, chronic nausea,
+osteoarthritis s/p recent R TKA presenting with nausea and
+lightheadedness, admitted for acute on chronic anemia.
+
+# Normocytic anemia:
+# Iron deficiency:
+Hgb 11.2 in early ___, downtrended to 8.4 on ___ and
+nadired at 6.1 this presentation. Etiology unclear, but
+potentially concerning for slow UGIB given one guaiac positive
+stool this admission (in absence of gross melena/hematochezia)
+and mild iron deficiency (ferritin 48, Tsat 9%). Colonoscopy in
+___ (and per patient a more recent colonoscopy) normal; EGD 
+___
+showed non-erosive gastropathy. R knee without evidence of
+hematoma, and onset of anemia reportedly preceded her recent
+surgery. No e/o RP bleeding, hematuria, hemoptysis, or
+post-menopausal bleeding. No e/o hemolysis with nl bili, LDH,
+haptoglobin, and retic count. CRP WNL and ferritin 48, making
+anemia of inflammation unlikely as well. B12/folate WNL.
+Responded robustly to 2u pRBCs this admission, with Hgb 6.1 ->
+9.4 on discharge. She likely warrants a repeat EGD +/-
+colonoscopy, which can be performed as an outpatient given
+absence of HD-significant bleeding and resolution of her
+symptoms. Previously arranged GI ___ at ___ is scheduled for
+___. Would consider initiation of iron supplementation at PCP
+or GI ___.
+
+# Lightheadedness:
+# Palpitations:
+# Fatigue:
+# Dysautonomia:
+# Chronic fatigue syndrome:
+Presents with acute on chronic lightheadedness, palpitations, 
+and
+fatigue in setting of suspected underlying dysautonomia and
+chronic fatigue syndrome. Suspect that these underlying
+conditions were exacerbated by concurrent anemia, as above, but
+low suspicion that anemia is directly/causally related. CTA 
+chest
+and CTA head/neck in ED without e/o PE, CVA, or carotid 
+stenosis.
+AM cortisol was negative. EKG NSR without e/o ischemia and
+cardiac enzymes negative. Telemetry without arrhythmias. TTE
+deferred in absence of murmur. Initial orthostasis resolved with
+fluids and transfusion, so no clear indication for pharmacologic
+intervention for dysautonomia at present (was previously on
+florinef and mestinon; midodrine had previously been considered
+but not initiated).  Her home propranol was held in hospital and
+on discharge, to be resumed by PCP as deemed appropriate. She 
+may
+benefit from ___ with Dr. ___ at ___ for further evaluation
+and management of chronic fatigue syndrome and dysautonomia. 
+
+# Nausea:
+Unclear etiology despite extensive evaluation over years. In
+setting of possible slow UGIB, likely warrants repeat EGD, which
+can be pursued as an outpatient (GI ___ previously arranged for
+___ at ___). At request of patient's PCP, CT ___ w/cont
+obtained, which preliminarily showed no suspicious 
+masses/lesions
+and no e/o obstruction. Preliminary read comments on mild
+dilation of CBD, but normal LFTs argue against biliary
+obstruction. Could consider MRCP vs ERCP for further w/u as
+outpatient. Patient was tolerating a regular diet at discharge.
+
+# Osteoarthritis:
+# S/p R TKA:
+R TKA appeared to be healing well without e/o hematoma. Home
+oxycodone PRN continued. She will ___ with her orthopedic 
+surgeon
+as previously scheduled.
+
+# Prior concern for Sjogen's:
+# Positive ___:
+Previously evaluated by rheumatology in setting of positive ___
+with titer 1:320 (___), initially thought to have Sjogren's,
+which was then deemed less likely on subsequent evaluations. Had
+been on Cellcept, Plaquenil, and IVIG, not recently. No
+arthralgias, myalgias, or sicca symptoms to suggest active
+autoimmune condition, including Sjogren's. Absence of morning
+stiffness largely exonerates PMR, and no HA/claudication to
+suggest GCA (and CRP/ESR WNL). RF and CCP negative this
+admission. ___ positive with titer pending at discharge, but SLE
+thought less likely. Can consider further rheumatology 
+evaluation
+as outpatient.
+
+# Depression:
+# Anxiety:
+Continued home clonazepam, brexpiprazole, paroxetine.
+
+# Possible EBV viremia:
+Reports that she was diagnosed with this by physician in
+___ and started on valacyclovir. No clear marrow
+suppression reported from valacyclovir, which was resumed on
+discharge.
+
+# Emergency contact: ___
+Relationship: Husband Phone: ___
+
+** ___ **
+[ ] repeat CBC in ___ days to ensure stability; consider
+initiation of iron supplementation
+[ ] GI ___ for EGD +/- colonoscopy
+[ ] ___ final CT ___ read, pending at discharge; could consider
+ERCP vs MRCP for mild CBD dilation
+[ ] ___ titer, pending at discharge; could consider further
+rheumatology evaluation as outpatient
+[ ] home propranolol held on discharge; can be resumed by
+outpatient providers as deemed appropriate
+[ ] consider ___ with Dr. ___ at ___ for further management
+of dysautonomia/chronic fatigue syndrome
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PARoxetine 30 mg PO DAILY 
+2. ClonazePAM 0.5 mg PO QHS 
+3. Propranolol 10 mg PO DAILY 
+4. OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - Moderate 
+
+5. Aspirin 81 mg PO DAILY 
+6. brexpiprazole 0.5 mg oral DAILY 
+7. ValACYclovir 1000 mg PO Q8H 
+8. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+9. Vitamin A Dose is Unknown  PO DAILY 
+10. Vitamin D Dose is Unknown  PO DAILY 
+11. Multivitamins 1 TAB PO DAILY 
+12. Zolpidem Tartrate 5 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Aspirin 81 mg PO DAILY  
+3.  brexpiprazole 0.5 mg oral DAILY  
+4.  ClonazePAM 0.5 mg PO QHS  
+5.  Multivitamins 1 TAB PO DAILY  
+6.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate  
+7.  PARoxetine 30 mg PO DAILY  
+8.  ValACYclovir 1000 mg PO Q8H  
+9.  Vitamin A ___ UNIT PO DAILY  
+10.  Vitamin D 1000 UNIT PO DAILY  
+11.  Zolpidem Tartrate 5 mg PO QHS  
+12. HELD- Propranolol 10 mg PO DAILY  This medication was held. 
+Do not restart Propranolol until you are seen by Dr. ___
+
+ 
+___ Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+PRIMARY:
+=========
+#Acute on chronic normocytic anemia
+#Guaic positive stool 
+
+SECONDARY:
+==========
+#Chronic fatigue syndrome
+#Depression/anxiety
+#Arthritis s/p R TKA
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+- You were experiencing nausea, lightheadedness and palpitations 
+and you were found to have worsened anemia.
+
+What did you receive in the hospital?
+- You received 2 transfusions of red blood cells with 
+improvement of your anemia. 
+- You had a CT scan of you abdomen. 
+- You felt better and you were ready to leave the hospital. 
+
+What should you do once you leave the hospital?
+- Please make sure you follow up with your gastroenterologist as 
+scheduled on ___. 
+- Please take your medications as prescribed and go to your 
+future appointments. 
+- You should call your doctor and return to the emergency room 
+if you experience any of the warning signs listed below.
+ 
+We wish you all the best!
+- Your ___ Care Team
+
+ 
+Followup Instructions:
+___

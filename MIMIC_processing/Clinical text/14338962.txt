@@ -1,0 +1,314 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Ampicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+BRBPR
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ MEDICINE ATTENDING ADMISSION NOTE .
+.
+Date: ___
+
+Time: 1722
+_
+________________________________________________________________
+
+PCP: Name: ___ 
+___: ___ 
+Address: ___ 
+Phone: ___ 
+Fax: ___ 
+.
+_
+________________________________________________________________
+HPI:
+___ year old female with depression, family h/o colon cancer, h/o 
+recurrent polyps with yearly colonoscopies. She had a 
+colonoscopy in ___ which revealed a sessile polyp. She 
+returned on ___ to have the polyp removed. She is s/p 
+___ with polypectomy of a 10mm sessile polyp in the 
+ascending colon as well as a 7mm sessile polyp in the transverse 
+colon. Now p/w moderate to severe RLQ pain and passing large 
+blood clots per rectum. 3 clots last night, 7 this AM, some 
+dizziness. HCT on presentation 36.4/11.6, baseline per atrius 
+records: 40/13.6.
+Immediately after the procedure she felt well but then developed 
+RLQ pain. She then had an explosion of maroon stool. She then 
+passed clots the following morning and this morning. Yesterday 
+am and this am she also passed maroon clots. +___ with standing. 
+No syncope. No cp, sob, n/v. Abdominal pain improved with 
+Tylenol. She currently experiences ___ RLQ pain. She developed 
+R groin pain and had a CT scan as an o/p which revealed a L 
+adnexal cyst. She will have an US next ___. Prior to the 
+colonoscopy she felt fine apart from this. 
+.
+In ER: (Triage Vitals:
+8 |98.1 |72 |155/69 | 18 |100% RA  ) 
+Meds Given: No medications or IVF given \
+Radiology Studies: abdominal CT scan
+consults called: GI through the ED dashbaord
+.
+
+===============================================
+REVIEW OF SYSTEMS:
+CONSTITUTIONAL:  As per HPI
+HEENT:  [X] All normal
+RESPIRATORY:  [X] All normal
+CARDIAC:  [X] All normal
+GI:  As per HPI
+GU:  [X] All normal
+SKIN:  [X] All normal
+MUSCULOSKELETAL:  [X] All normal
+NEURO:  [X] All normal
+ENDOCRINE:  [X] All normal
+HEME/LYMPH:  [X]  All normal
+PSYCH:  [X] All normal
+All other systems negative except as noted above
+ 
+Past Medical History:
+Menopause 
+Family history of colon cancer 
+Condyloma acuminatum 
+fh of breast cancer in mother 
+History of basal cell carcinoma 
+Psoriasis 
+Depressive disorder 
+Vitamin D deficiency 
+Macrocytosis 
+Knee pain 
+Renal cyst, left 
+
+ 
+Social History:
+___
+Family History:
+Brother  CAD/PVD - Early; Hypertension 
+Father  CAD/PVD; Cancer; Diabetes - Type II; Hypertension; Psych 
+- Depression 
+Mother  CAD/PVD; Cancer - Breast; Cancer - Colon; Cancer - 
+Melanoma; Diabetes - Type II; Hypertension; Mother still alive 
+at ___. 
+
+ 
+Physical Exam:
+Vitals:  97.4 PO 115 / 54 70 18 99 RA  
+CONS: NAD, comfortable appearing, very pleasant  
+HEENT: ncat anicteric MMM    
+CV: s1s2 rr no m/r/g  
+RESP: b/l ae no w/c/r  
+GI: +bs, soft, ND, mild tenderness in RLQ without no guarding or 
+rebound  
+RECTUM: one particle of melena/a speck otherwise her vault is 
+empty
+MSK:no c/c/e 2+pulses  
+SKIN: no rash  
+NEURO: face symmetric speech fluent  
+Ambulated with pt who ambulates independently without 
+difficulty. 
+PSYCH: calm, cooperative 
+ 
+
+ 
+Pertinent Results:
+___ 09:30AM   GLUCOSE-97 UREA N-12 CREAT-0.7 SODIUM-138 
+POTASSIUM-4.5 CHLORIDE-102 TOTAL CO2-24 ANION GAP-17
+___ 09:30AM   estGFR-Using this
+___ 09:30AM   ALT(SGPT)-19 AST(SGOT)-25 ALK PHOS-71 TOT 
+BILI-0.3
+___ 09:30AM   LIPASE-26
+___ 09:30AM   ALBUMIN-4.2
+___ 09:30AM   WBC-5.2 RBC-3.45* HGB-11.6 HCT-36.4 MCV-106*# 
+MCH-33.6* MCHC-31.9* RDW-12.7 RDWSD-49.1*
+___ 09:30AM   NEUTS-58.9 ___ MONOS-9.6 EOS-3.8 
+BASOS-0.8 IM ___ AbsNeut-3.06 AbsLymp-1.39 AbsMono-0.50 
+AbsEos-0.20 AbsBaso-0.04
+___ 09:30AM   PLT COUNT-210
+___ 09:30AM   ___ PTT-32.6 ___
+___ 09:10AM URINE  HOURS-RANDOM
+___ 09:10AM URINE  HOURS-RANDOM
+___ 09:10AM URINE  UHOLD-HOLD
+___ 09:10AM URINE  GR HOLD-HOLD
+___ 09:10AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 09:10AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-TR
+___ 09:10AM URINE  RBC-2 WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-<1
+___ 09:10AM URINE  MUCOUS-RARE
+====================================
+Single sessile 10 mm polyp was found in the ascending colon 
+polyp. A single-piece polypectomy was performed using a hot 
+snare. The polyp was completely removed. A single sessile 7 mm 
+polyp was found in the transverse colon A single-piece 
+polypectomy was performed using a hot snare. The polyp was 
+completely removed. Small internal hemorrhoids were noted on 
+retroflexion. The hepatic flexure was carefully inspected. There 
+was no evidence of residual polyp tissue. 
+Impression: A single sessile 10 mm polyp was found in the 
+ascending colon polyp.  
+A single-piece polypectomy was performed using a hot snare. The 
+polyp was completely removed.  
+A single sessile 7 mm polyp was found in the transverse colon A 
+single-piece polypectomy was performed using a hot snare. The 
+polyp was completely removed. 
+ Small internal hemorrhoids were noted on retroflexion  
+The hepatic flexure was carefully inspected. There was no 
+evidence of residual polyp tissue. 
+Otherwise normal colonoscopy to cecum
+==========================
+Recommendations: Clear liquid diet when awake, then advance 
+diet as tolerated. 
+If any fever, worsening abdominal pain, or post procedure 
+symptoms, please call the advanced endoscopy fellow on call 
+___/ pager ___. 
+Follow up with pathology reports. Please call Dr. ___ 
+___ ___ in 7 days for the pathology results. 
+Repeat colonoscopy with Dr. ___ in ___ years 
+Restart ASA in 5 days
+==============================
+IMPRESSION: 
+1. No acute intraabdominal process. 
+2. 1.6 cm left adnexal cystic structure, which should be 
+followed up with a pelvic ultrasound in a postmenopausal female. 
+
+RECOMMENDATION(S):  Pelvic ultrasound is recommended. 
+
+ 
+Brief Hospital Course:
+MEDICAL DECISION MAKING/Assessment
+
+The patient is a ___ year old female with depression, family h/o 
+colon cancer, h/o recurrent colon polyp who p/w post polypectomy 
+bleeding.
+.
+BRBPR
+ABDOMINAL PAIN
+The patient's presentation was most consistent with a post 
+polypectomy bleed. She was monitored for twelve hours and did 
+not have any more bleeding. She did not have any more light 
+headeadness. Her abdominal CT scan was reassuring. She ate two 
+meals. Her rectal vault was empty of stool x 2. Her Hgb remained 
+stable from 11.6 -> 11.___nough to drive home. He 
+husband will be at home.  She had stopped taking a baby aspirin 
+3 days prior to the procedure and was asked to hold off on 
+resuming this before checking in with Dr. ___. She 
+was concerned about her co-pay as an observation admission. She 
+attempted to call her insurance company to find out but no one 
+was available. O/C CM was contacted and was not able to let us 
+know the cost. The author also attempted to verify that the 
+patient was observation but at that time CM had already left for 
+the day. Given her clinical stability, reassuring CT scan 
+results and stable Hgb as well as her close location to the 
+hospital and her reliability as a patient she was discharged 
+home. D/w ERCP team prior to discharge. Pt given a PPx for a HCT 
+check in her PCP's office on ___. She knows to contact Dr. 
+___ me with any concerns overnight. Her telemetry 
+demonstrated sinus rhythm wth HR = 60s without any alarms. 
+.
+DEPRESSION:
+-Continue Effexor
+.
+L ADNEXAL CYST:
+L renal cyst was seen on imaging on ___. On admission 
+abdominal CT a L adnexal cyst was seen. She is scheduled to have 
+an US on ___. The results of this report were reviewed 
+with Ms ___ and she was given a copy of the report. 
+.
+R groin pain:
+- present prior to admission improving, which prompted her o/p 
+CT scan. She has an abdominal US as scheduled. 
+.
+Pain: APAP prn 
+.
+FEN: [ X]Oral   [ ]Tube feeds  [ ]Parenteral [] NPO 
+.
+DVT PROPHYLAXIS: [ ]Pharmacological  [X] Mechanical  [X] 
+Ambulation
+
+Lines and drains: [X]Periphera [ ]CVL _____ days(s) [ ]PICC   
+____day(s) []Foley day(s)
+
+DISPOSITION: [ X] Home- tonight. Driving home and husband at 
+home.    [ ] Rehab   [ ] SNF [] Hospice
+
+Code Status: FULL CODE d/w pt on admission
+
+I have discussed this case and plan with [X]patient []family 
+[]housestaff []RN []Case Management []Social Work 
+[X]consultants- advanced endoscopy []I will notify []I have 
+notified PCP about this admission.
+.
+
+Total visit time __90____ minutes. Total time spent on 
+counseling/ coordinating care _60_____ minutes.
+
+.
+> 30 mins spent d/c planning. 
+
+Attending Physician ___: ______________________________ .
+___, MD ___
+
+ 
+Medications on Admission:
+PEG 3350-Electrolytes-Vit C 100-7.5-2.691 gram Powder in Packet 
+Use as directed. 
+ EFFEXOR TABLET 75MG PO (VENLAFAXINE HCL) 
+She was taking ASA 81 mg up to 3 ___.
+
+ 
+Discharge Medications:
+1.  Venlafaxine XR 75 mg PO DAILY  
+2.Outpatient Lab Work
+Please have your Hgb/HCT check on ___. Results to Name: 
+___ 
+Location: ___ 
+Address: ___ 
+Phone: ___ 
+Fax: ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+1. Post polypectomy bleed
+SECONDARY DIAGNOSIS
+1. Colonic polyps
+2. Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___, it was a pleasure caring for you. You were 
+admitted with bleeding after your colonoscopy on ___ during 
+which two polyps were removed. You had a little bit of light 
+headedness. You were monitored and this resolved. You ate two 
+meals and felt well. Your HCT was repeated and your hemoglobin 
+was stable. Given your request to avoid an observation co-pay 
+and your clinical stability you were discharged. ___ was d/w 
+Drs ___ and they were also comfortable with you 
+being discharged home. If you have any concerns at all please 
+feel free to page Dr. ___ at pager number  ___. 
+ 
+Followup Instructions:
+___

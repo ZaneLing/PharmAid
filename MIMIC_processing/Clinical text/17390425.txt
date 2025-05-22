@@ -1,0 +1,276 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ with hx Gastric Bypass ___, prior cholecystectomy and no 
+prior cardiac history who presented to ___ 
+with chest pain radiating to shoulder. 3 day prior to admission, 
+she had seen her PCP for febrile episodes and diffuse body aches 
+(with lower extremity joint predominance) x 1 week. She was 
+prescribed antibiotics. Starting the day prior to admission, pt 
+had sudden onset of severe, sharp substernal chest pain with 
+palpitations, SOB, and radiation to shoulders and arms. Episode 
+lasted ~1hr and resolved spontaneously. This happened several 
+more times leading up to admission. Was happening mostly at 
+rest. Upon presenting to ___, she had chest pain radiating 
+to shoulders and arms, nonspecific EKG changes, and a troponin 
+of 17.7. Her blood pressures were ___. She received 
+Ativan and toradol, as well as a fluid bolus for a pressure in 
+___ that increased to ___ following bolus. Her SBP allegedly 
+runs in ___. Currently chest pain free, denies lightheadedness 
+or syncope.  
+ 
+Past Medical History:
+gastric bypass
+cholecystectomy
+hypothyroidism
+
+ 
+Social History:
+___
+Family History:
+Maternal Grandfather died of MI age late ___ (?)___
+Maternal Grandmother had MI and subsequently died of ruptured 
+cerebral aneurysm at age ___
+Paternal Grandfather died of MI at age ___
+Neither mother nor father have suffered coronary events or have 
+significant CV history 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+ VS: T 98.1 BP 94/63 HR 69 RR 16 SpO2 100%/RA  
+ GENERAL: WDWN female in NAD. Mental status intact. Mood, affect 
+appropriate.  
+ NECK: Supple with JVP of 7 cm.  
+ CARDIAC: RR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills, lifts.  
+ LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ ABDOMEN: Soft, NTND.   
+ EXTREMITIES: No edema. Warm and well-perfused. Distal pulses 2+ 
+b/l 
+ SKIN: No rashes or lesions 
+
+DISCHARGE PHYSICAL EXAM
+=======================
+ VS: T 98.1 BP 94/63 HR 69 RR 16 SpO2 100%/RA  
+ GENERAL: WDWN female in NAD. Mental status intact. Mood, affect 
+appropriate.  
+ NECK: Supple with JVP of 7 cm.  
+ CARDIAC: RR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills, lifts.  
+ LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ ABDOMEN: Soft, NTND.   
+ EXTREMITIES: No edema. Warm and well-perfused. Distal pulses 2+ 
+b/l 
+ SKIN: No rashes or lesions 
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 04:00AM   ___ PTT-28.9 ___
+___ 04:00AM   PLT COUNT-228
+___ 04:00AM   NEUTS-43.4 ___ MONOS-9.1 EOS-3.4 
+BASOS-0.3 IM ___ AbsNeut-2.57 AbsLymp-2.58 AbsMono-0.54 
+AbsEos-0.20 AbsBaso-0.02
+___ 04:00AM   WBC-5.9 RBC-3.31* HGB-10.2* HCT-30.9* MCV-93 
+MCH-30.8 MCHC-33.0 RDW-12.4 RDWSD-42.9
+___ 04:00AM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 04:00AM   TSH-8.5*
+___ 04:00AM   CK-MB-35* MB INDX-8.8*
+___ 04:00AM   cTropnT-0.80*
+___ 04:00AM   CK(CPK)-397*
+___ 04:00AM   GLUCOSE-76 UREA N-8 CREAT-0.6 SODIUM-140 
+POTASSIUM-3.2* CHLORIDE-105 TOTAL CO2-26 ANION GAP-12
+___ 06:45AM URINE  MUCOUS-MANY
+___ 06:45AM URINE  RBC-5* WBC-16* BACTERIA-MANY YEAST-NONE 
+EPI-8
+___ 06:45AM URINE  BLOOD-NEG NITRITE-POS PROTEIN-30 
+GLUCOSE-NEG KETONE-15 BILIRUBIN-SM UROBILNGN-4* PH-6.0 LEUK-SM
+___ 06:45AM URINE  COLOR-Yellow APPEAR-Cloudy SP ___
+___ 06:45AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 06:45AM URINE  UCG-NEGATIVE
+
+PERTINENT LABS
+==============
+___ 04:00AM   TSH-8.5*
+___ 04:00AM   CK-MB-35* MB INDX-8.8*
+___ 04:00AM   cTropnT-0.80*
+___ 04:00AM   CK(CPK)-397*
+___ 06:45AM URINE  BLOOD-NEG NITRITE-POS PROTEIN-30 
+GLUCOSE-NEG KETONE-15 BILIRUBIN-SM UROBILNGN-4* PH-6.0 LEUK-SM
+___ 07:00AM BLOOD CK-MB-PND cTropnT-1.29*
+
+DISCHARGE LABS
+==============
+___ 07:00AM BLOOD WBC-5.1 RBC-3.38* Hgb-10.9* Hct-32.6* 
+MCV-96 MCH-32.2* MCHC-33.4 RDW-12.6 RDWSD-44.6 Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 07:00AM BLOOD ___ PTT-31.5 ___
+___ 07:00AM BLOOD Glucose-82 UreaN-8 Creat-0.7 Na-141 K-3.8 
+Cl-107 HCO3-25 AnGap-13
+___ 07:00AM BLOOD CK-MB-PND cTropnT-1.29*
+___ 07:00AM BLOOD Calcium-8.5 Phos-3.5 Mg-1.8
+
+IMAGING/ STUDIES
+================
+TTE ___
+Conclusions
+The left atrium is normal in size. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). Tissue Doppler imaging suggests a normal 
+left ventricular filling pressure (PCWP<12mmHg). Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) appear structurally normal 
+with good leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve appears structurally normal with 
+trivial mitral regurgitation. The estimated pulmonary artery 
+systolic pressure is normal. There is no pericardial effusion. 
+IMPRESSION: Preserved biventricular systolic function. No 
+clinically significant valvular disease. Normal pulmonary artery 
+systolic pressure. 
+
+Abd x-ray ___ 
+FINDINGS:  
+  
+No significant abnormality seen in the bowel gas pattern.  
+Numerous surgical clips in the upper abdomen.  IUD noted in the 
+pelvis.  No abnormal air-fluid levels and no free air. 
+
+ 
+Brief Hospital Course:
+Patient is a ___ with hx of gastric bypass presents with chest 
+pain radiating to shoulder and dramatic troponin elevation in 
+context of recent febrile illness, consistent with myocarditis. 
+
+ #MYOCARDITIS: Young female with few cardiac risk factors 
+presents with chest pain radiating to shoulder and dramatic 
+troponin elevation in context of recent febrile illness and 
+recent travel (___), consistent with 
+myocarditis. Most likely viral given hx URI prodrome. Also 
+ruling out Lyme. Minimal if any EKG changes, but truly dramatic 
+troponin rise to 17. However, she has been chest pain free at 
+___. ACS on differential but seems less likely. Does not 
+appear to be in heart failure. No clinical signs of 
+pericarditis. Troponin here 0.80, CK 397, MB 35, MBI 8.8. Echo 
+done on admission (___) showed normal heart function with no 
+wall motion abnormalities, hypokinesis, or valvular 
+abnormalities. Lyme titers drawn and still pending
+
+#UTI: presented to PCP with symptomatic UTI a few days prior to 
+admission; sensitivities obtained for PCP and patient started on 
+ciprofloxacin, accordingly. Day 1 on ___. Should complete ___
+
+ #Normocytic Anemia: H/H of 10.9/32.6 on admission. Stable 
+throughout admission
+
+ #Hypothyroidism: routine TFT shows TSH 8.5
+
+ #s/p gastric bypass: not taking multivitamins regularly
+
+TRANSITIONAL ISSUES:
+====================
+# CODE: Full (confirmed)
+# CONTACT: ___, husband, ___
+[] folate, MVI supplementation
+[] repeat thyroid function testing 
+[] follow-up Lyme titers
+[] AVOID NSAIDs
+[] finish Cipro 500mg BID Day 1 on ___. Should complete ___ for UTI resistant to Bactrim
+[] Outpatient cardiac MRI
+ 
+Medications on Admission:
+1. Levothyroxine Sodium 50 mcg PO DAILY 
+2. Multivitamins W/minerals 1 TAB PO DAILY 
+3. Accutane, per patient report
+
+ 
+Discharge Medications:
+1. Multivitamins W/minerals 1 TAB PO DAILY 
+2. Levothyroxine Sodium 50 mcg PO DAILY 
+3. Ciprofloxacin HCl 500 mg PO Q12H Duration: 12 Doses 
+RX *ciprofloxacin HCl 500 mg One tablet(s) by mouth two times a 
+day Disp #*12 Tablet Refills:*0
+4. Accutane, per patient report
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Myocarditis
+
+Secondary diagnoses:
+Hypothyroidism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+You were admitted to ___ from 
+___ to ___ for what appeared to be myocarditis, or 
+inflammation/irritation of your heart muscle. We think this is 
+what caused you to have chest pain.
+
+WHILE YOU WERE IN THE HOSPITAL:
+===============================
+- You had blood work done to monitor any injury to your heart
+- You had an ultrasound of your heart (an echocardiogram), which 
+showed normal heart function
+- Lastly, we talked with your primary care physician who 
+informed us that you had a urinary tract infection. You were 
+given antibiotics "Ciprofloxacin." You should take this twice 
+daily for 6 doses (as written on your prescription).
+
+WHAT WILL HAPPEN WHEN YOU LEAVE THE HOSPITAL:
+=============================================
+- You will get an MRI of your heart - they will contact you for 
+this appointment. 
+- You will see your primary care doctor in the office for 
+routine follow-up
+- DO NOT TAKE IBUPROFEN CONTAINING PRODUCTS FOR HEADACHES, 
+ACHES/PAINS, CHEST PAIN (Advil, Motrin) or naproxen (Aleve), as 
+these medicines can cause damage to your heart in it's current 
+state. 
+- DO NOT partake in strenuous activities for a least 30 days.
+
+If you have any further questions about your care here, please 
+do not hesitate to contact us. We wish you the best with your 
+health going forward.
+
+Your ___ Cardiology Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,274 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: ___
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 09:17AM   ___ PTT-41.4* ___
+___ 09:17AM   PLT COUNT-244
+___ 09:17AM   NEUTS-62.9 ___ MONOS-5.0 EOS-0.8* 
+BASOS-0.3 IM ___ AbsNeut-4.90 AbsLymp-2.39 AbsMono-0.39 
+AbsEos-0.06 AbsBaso-0.02
+___ 09:17AM   WBC-7.8 RBC-3.80* HGB-11.7 HCT-33.4* MCV-88 
+MCH-30.8 MCHC-35.0 RDW-11.7 RDWSD-37.6
+___ 09:17AM   OSMOLAL-265*
+___ 09:17AM   TRIGLYCER-351* HDL CHOL-37* CHOL/HDL-6.6 
+LDL(CALC)-137*
+___ 09:17AM   %HbA1c-6.4* eAG-137*
+___ 09:17AM   ALBUMIN-4.3 CALCIUM-8.2* PHOSPHATE-2.7 
+MAGNESIUM-1.9 CHOLEST-244*
+___ 09:17AM   cTropnT-<0.01
+___ 09:17AM   LIPASE-24
+___ 09:17AM   ALT(SGPT)-24 AST(SGOT)-32 ALK PHOS-98 TOT 
+BILI-0.5
+___ 09:17AM   estGFR-Using this
+___ 09:17AM   GLUCOSE-116* UREA N-9 CREAT-0.8 SODIUM-128* 
+POTASSIUM-3.6 CHLORIDE-92* TOTAL CO2-22 ANION GAP-14
+___ 09:24AM   LACTATE-1.4
+___ 10:35AM URINE  RBC-5* WBC-<1 BACTERIA-NONE YEAST-NONE 
+EPI-<1
+___ 10:35AM URINE  BLOOD-TR* NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 
+LEUK-NEG
+___ 10:35AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:10PM   ___ PTT-43.2* ___
+___ 03:10PM   PLT COUNT-303
+___ 03:10PM   WBC-9.3 RBC-4.17 HGB-12.7 HCT-36.9 MCV-89 
+MCH-30.5 MCHC-34.4 RDW-11.8 RDWSD-37.6
+___ 03:42PM URINE  OSMOLAL-500
+___ 03:42PM URINE  HOURS-RANDOM UREA N-446 CREAT-164 
+SODIUM-90
+
+IMAGING
+___ CT CHEST -- IMPRESSION:  1. Multiple calcified lung 
+granulomas and calcified mediastinal and right hilar lymph 
+nodes, most consistent with prior granulomatous disease such as 
+tuberculosis.  No evidence of malignancy.
+2. 1.8 cm left thyroid lobe nodule, for which further evaluation 
+with ultrasound is recommended.
+3. Multiple subpleural nodules measuring up to 3 mm.  For 
+incidentally detected multiple solid pulmonary nodules smaller 
+than 6mm, no CT follow-up is recommended in a low-risk patient, 
+and an optional CT follow-up in 12 months is recommended in a 
+high-risk patient.
+
+See the ___ ___ Guidelines for the Management 
+of Pulmonary
+Nodules Incidentally Detected on CT" for comments and reference:
+___
+
+RECOMMENDATION(S):  Thyroid ultrasound.
+
+MICROBIOLOGY
+___  URINE CULTURE-FINAL
+___  BLOOD CULTUREBlood Culture, Routine-PENDING
+___  SPUTUMACID FAST SMEAR-FINAL; ACID FAST 
+CULTURE-PENDING
+___  SPUTUMACID FAST SMEAR-FINAL; ACID FAST 
+CULTURE-PENDING; MTB Direct Amplification-PRELIMINARY (M. 
+TUBERCULOSIS DNA NOT DETECTED BY NAAT)
+
+DISCHARGE LABS
+___ 05:20AM BLOOD WBC-7.0 RBC-3.81* Hgb-11.4 Hct-33.5* 
+MCV-88 MCH-29.9 MCHC-34.0 RDW-11.8 RDWSD-37.6 Plt ___
+___ 05:20AM BLOOD ___ PTT-39.3* ___
+___ 05:20AM BLOOD Glucose-95 UreaN-12 Creat-0.8 Na-131* 
+K-3.6 Cl-94* HCO3-21* AnGap-16
+___ 05:20AM BLOOD Calcium-8.6 Phos-3.2 Mg-1.___ woman w/PMHx HTN, HLD, R upper toothache, taking a ___ 
+pain medication for this at home (mefenamic acid, a type of 
+NSAID with numerous potential adverse effects), also with 4d of 
+coughing with chest pain and scant hemoptysis, with chest 
+imaging showing signs of prior tuberculosis.
+
+On the day of discharge, the patient continued to complain of 
+tooth discomfort, not significantly changed from prior.  We 
+discussed this issue and I encouraged her to try acetaminophen.  
+She did not feel that the oxycodone could clearly helped her so 
+we decided not to discharge her with any of this.  I encouraged 
+her to take the penicillin.  I also emphasized the importance of 
+follow-up with her primary care physician about the numerous 
+issues noted below.  She had no additional questions.
+
+Vitals reviewed and unremarkable.  Inputs and outputs reviewed 
+and unremarkable.  Older woman seated in bed, alert, 
+cooperative, NAD.  When talking about her tooth she grimaced and 
+would grip the side of her head, but otherwise was able to speak 
+without difficulty and move around without any problem.  Equal 
+chest rise, CTAB, no WOB or cough.  Heart regular.  Abdomen 
+soft, NTND.  Extremities warm and well-perfused, no pitting 
+edema.  No rash on limited examination.  No obvious focal 
+neurological deficits.
+
+SUMMARY by PROBLEMS
+
+#Recent cough w/hemoptysis, resolved
+#CT chest w/evidence of prior TB: "Multiple calcified lung 
+granulomas and calcified mediastinal and right hilar lymph 
+nodes, most consistent with prior granulomatous disease such as 
+tuberculosis.  No evidence of malignancy."
+-After admission her cough stopped, and she had no other 
+pulmonary or infectious sx
+-Infectious Disease consulted, recommended r/o TB w/sputa x 3 
+and MTB amplification.  She was only able to produce 2 sputum 
+samples, but they were both negative for AFB smear as was the 
+MTB amplification, and Infectious Disease/Infection Control 
+recommended airborne precautions be discontinued and that she be 
+discharged,  With follow-up of the cultures by her primary care 
+physician
+
+___
+#Found to have a chronic apical tooth abscess with periodontal 
+disease (R upper molar, aka #3)
+-Dental was consulted and they recommended a Panorex which 
+showed a chronic tooth abscess
+-They recommended she take 7d of penicillin and "plan on 
+extracting #3 and #6 root tip. Also comprehensive dental 
+evaluation is required after patient is discharged and stable."
+-we provided her information for the free dental clinic at 
+___ and gave her the Panorex images on a CD
+-she was offered APAP and low dose ibuprofen for pain control, 
+but she did not feel they worked
+Encouraged her not to take the ___ medication she had been 
+taking given concern it could be causing some side 
+effects/discomfort
+
+#Hyponatremia (131 when last checked), mild asymptomatic, 
+improving, thought SIADH
+-this was thought perhaps related to her tooth pain
+-she was encouraged to use a 1.5 L fluid restriction after 
+discharge
+consider repeat chemistries as an outpatient once her pain is 
+better controlled 
+
+#Isolated elevated PTT (39 when last checked)
+-consider outpatient hematology evaluation (e.g. mixing study)
+
+#Microscopic hematuria (5 RBCs on ___ urinalysis)
+-repeat as outpatient -- wonder if this could be related to the 
+mefenamic acid that she has been taking
+
+#1.8 cm left thyroid lobe nodule
+-Letter was sent to PCP about this issue, will need thyroid 
+ultrasound
+
+#Lung nodules: "Multiple subpleural nodules measuring up to 3 
+mm. For incidentally detected multiple solid pulmonary nodules 
+smaller than 6mm, no CT follow-up is recommended in a low-risk 
+patient, and an optional CT follow-up in 12 months is 
+recommended in a high-risk patient."
+-PCP notified by letter with recommendation to repeat CT chest 
+in ___ year
+
+#HTN
+#HLD
+-continued home amlodipine, atorvastatin
+
+#GERD
+-continued home PPI
+
+[x] The patient is safe to discharge today, and I spent [ ] 
+<30min; [x] >30min in discharge day management services.
+
+___, MD
+___
+Pager ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 40 mg PO QPM 
+2. amLODIPine 5 mg PO DAILY 
+3. Alendronate Sodium 70 mg PO Frequency is Unknown 
+4. NexIUM (esomeprazole magnesium) 40 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Penicillin V Potassium 500 mg PO/NG Q6H Duration: 7 Days 
+RX *penicillin V potassium 500 mg 1 tablet(s) by mouth four 
+times a day Disp #*24 Tablet Refills:*0 
+2.  Alendronate Sodium 70 mg PO ONCE PER WEEK  
+3.  amLODIPine 5 mg PO DAILY  
+4.  Atorvastatin 40 mg PO QPM  
+5.  NexIUM (esomeprazole magnesium) 40 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Recent cough w/hemoptysis, resolved, with CT chest w/evidence 
+of prior TB, but no signs of active TB on sputum cultures
+#Chronic apical tooth abscess with periodontal disease (R upper
+molar, aka #3, along with #6 tooth disease)
+#Hyponatremia, mild asymptomatic, improving, thought to be SIADH
+#Isolated elevated PTT
+#Microscopic hematuria
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with a history of some chest discomfort and 
+coughing with some blood in the sputum (called hemoptysis).  A 
+CT scan of your chest suggested that you had likely been exposed 
+to tuberculosis at some time in the past.  We tested your sputum 
+and found no signs of active tuberculosis at this time, although 
+some of the tests are still pending at the time you are being 
+discharged.  Our Infectious Disease doctors and ___ 
+Control specialists reviewed this and approved your discharge 
+despite the pending tests.  They will be in touch with your 
+primary care doctor about following up these results.
+
+You also told us about your R upper jaw pain related to one of 
+your molar teeth there.  We performed an x-ray (and are 
+providing you with these images on a CD disk to bring to your 
+dentist) and they were reviewed by a dentist.  They diagnosed 
+you with a chronic tooth abscess and recommended you take 
+antibiotics and see a dentist and oral surgeon.
+
+We found you had a slightly low sodium level.  This is likely 
+due to your tooth pain.  To prevent your sodium from going 
+lower, we recommend that you avoid drinking more than 1.5 liters 
+of water a day until you can be seen in follow-up and have your 
+labs rechecked.
+
+We found that you had an isolated elevated PTT (a blood test).  
+We recommend you talk with your PCP about an outpatient 
+hematology evaluation.
+
+We found that you had a very small amount of blood in your urine 
+(microscopic hematuria) and recommend your urine be rechecked as 
+an outpatient.
+
+lastly, we also found two other abnormalities on your imaging 
+that require more follow-up.  Your primary care doctor has been 
+sent letters about these issues:
+1. You will need to have a THYROID ULTRASOUND done to further 
+evaluate a thyroid nodule that was incidentally found on your CT 
+of the chest.  ___ primary MD Dr. ___ has been notified, please 
+arrange this with her. 
+2. You will need repeat CT of the chest in ONE YEAR to evaluate 
+the stability of multiple small nodules found in your lungs - 
+Dr. ___ has been notified of this as well, please arrange this 
+with her.
+ 
+Followup Instructions:
+___

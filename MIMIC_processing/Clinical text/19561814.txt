@@ -1,0 +1,228 @@
+Name:  ___            ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cough
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+ Mr. ___ is a ___ male with a past medical
+history of multiple myeloma and recurrent pneumonia, who
+presented with non-resolving pneumonia.
+
+History obtained from patient somewhat unreliable as he appears
+mildly confused. However, he was recently seen in ___ clinic on
+___. Per ID note he was first diagnosed with pneumonia on ___
+when he presented to an oncology visit and endorsed cough and
+fatigue. CXR at that time showed bibasilar infiltrates. He was
+prescribed levofloxacin at that time. He took around ___ doses
+but was unable to tolerate more since the large pill was
+difficult to swallow.
+Repeat CXR on ___ showed stable infiltrates.
+On ___ he presented again for oncology follow up and endorsed
+worsening cough and dyspnea on exertion. He was started on
+augmentin at that time. CT chest on ___ was notable for
+bibasilar consolidations with ground glass opacification and
+___ micronodularity as well as a left lower lobe nodule.
+He denies any fevers during this time.
+
+In ___ clinic there was concern for possible atypical
+mycobacterial infection vs. fungal infection. Sputum cultures
+were sent for AFB. There was also concern for possible
+aspiration.
+
+He was seen again in oncology follow up on ___ where he was
+found to be hypoxic to the ___ on RA. He was sent to the ED for
+further workup.
+
+In the ED, he was afebrile and satting between 94-97% on 2L. CTA
+was negative for PE but notable for airspace opacities in the
+right middle and lower lobes, concerning for
+multifocal pneumonia. He received a dose of ceftriaxone and
+azithromycin.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+PAST MEDICAL/SURGICAL HISTORY:
+- multiple myeloma
+- recurring bouts of pneumonia, no other recurring infections
+- prior hepatitis A infection (contaminated food when traveling)
+- GERD/dysphagia
+- hypogammaglobulinemia
+- BPH
+
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/reason for 
+hospitalization.
+ 
+Physical Exam:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, AAO X ___ (oriented to ___ and "hospital" but
+not to specific hospital, face symmetric, gaze conjugate with
+EOMI, speech fluent, moves all limbs, sensation to light touch
+grossly intact throughout
+PSYCH: pleasant, appropriate affect
+
+Patient examined on day of discharge. AVSS, walked five laps 
+around unit, with SpO2s from ___ the entire time. Coarse 
+breath sounds in bases.
+ 
+Pertinent Results:
+___ 03:15PM   WBC-4.1 RBC-2.41* HGB-7.4* HCT-23.2* MCV-96 
+MCH-30.7 MCHC-31.9* RDW-13.3 RDWSD-47.3*
+___ 03:15PM   NEUTS-67 BANDS-5 LYMPHS-6* MONOS-20* EOS-0* 
+BASOS-0 ATYPS-2* AbsNeut-2.95 AbsLymp-0.33* AbsMono-0.82* 
+AbsEos-0.00* AbsBaso-0.00*
+___ 03:15PM   LACTATE-1.3
+___ 03:15PM   cTropnT-<0.01
+___ 03:15PM   GLUCOSE-108* UREA N-13 CREAT-0.8 SODIUM-138 
+POTASSIUM-4.2 CHLORIDE-102 TOTAL CO2-24 ANION GAP-12
+___ 08:17PM URINE  RBC-2 WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 08:17PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-TR* BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 
+LEUK-NEG
+___ 08:17PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:15PM   POIKILOCY-1+* OVALOCYT-1+* RBCM-SLIDE REVI
+
+CTA-Chest
+1. No evidence of pulmonary embolism or aortic abnormality.
+2. Airspace opacities in the right middle and lower lobes, 
+concerning for
+multifocal pneumonia.
+3. Multiple liver lesions, concerning for metastatic disease.
+
+(NOTE: Liver lesions were reported in prior imaging documented 
+on radiology reads at ___. These images were not 
+available for our radiologists to review) 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with multiple myeloma, 
+dementia who presents with multiple focal consolidations 
+concerning for atypical pneumonia and hypoxemia in recent 
+outpatient visit. 
+
+# Pneumonia: Presenting with around three weeks of cough, yellow 
+sputum, dyspnea on exertion up stairs, and multifocal pulmonary 
+infiltrates which have failed to resolve with two separate 
+course of antibiotics. This sounds like a chronic pulmonary 
+process that has been going on for months. He's been followed by 
+___ Infectious Diseases (Dr. ___ who has a low suspicion 
+for bacterial pneumonia. He was initially started on 
+vancomycin/zosyn, but this was quickly discontinued. We sent one 
+set of induced respiratory sputum cultures and Coccidiodes, 
+histoplasma, and blastomycosis testing as well as beta glucan 
+and galactomannan per prior ID recs. IgG level was not 
+abnormally low. On day of admission (___), patient was well 
+appearing and had O2 sats in 94-96 range while at rest and 
+ambulating. Mr. ___ said he was feeling well and wanted to 
+go home and would follow up with his outpatient doctors for 
+further testing.  
+
+# Dementia: Though patient denies a formal diagnosis of 
+dementia, he is followed as an outpatient for memory loss. 
+Conversations with him was difficult at times as he had 
+word-finding difficulties and was not sure why he initially came 
+to the hospital.  
+
+# Concern for liver lesions: Incidental liver lesions on CT. No 
+known solid tumor history. Seen on prior imaging (___ records 
+were checked) and thought to be cystic. I discussed this was our 
+radiologists who confirmed that given history of previous cystic 
+lesions seen on imaging, these were consistent with cysts rather 
+than malignancy.
+
+# Multiple myeloma. On stable oncologic course. Followed at 
+ At___ by his oncologist Dr. ___.  
+
+# HLD: Continued home simvastatin.
+
+# BPH: Continued home prazosin and finasteride
+
+> 30 minutes spent on discharge activities.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Prazosin 10 mg PO QHS 
+2. Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+3. fluorouracil 5 % topical 2X/WEEK 
+4. Simvastatin 40 mg PO QPM 
+5. Ferrous Sulfate 325 mg PO DAILY 
+6. Acyclovir 400 mg PO Q12H 
+7. Pantoprazole 20 mg PO Q24H 
+8. Aspirin 81 mg PO DAILY 
+9. Finasteride 5 mg PO DAILY 
+10. Cyanocobalamin Dose is Unknown  PO Frequency is Unknown 
+11. FoLIC Acid 1 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Cyanocobalamin 1000 mcg PO DAILY  
+2.  Acyclovir 400 mg PO Q12H  
+3.  Aspirin 81 mg PO DAILY  
+4.  Ferrous Sulfate 325 mg PO DAILY  
+5.  Finasteride 5 mg PO DAILY  
+6.  fluorouracil 5 % topical 2X/WEEK  
+7.  FoLIC Acid 1 mg PO DAILY  
+8.  Pantoprazole 20 mg PO Q24H  
+9.  Prazosin 10 mg PO QHS  
+10.  Simvastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pulmonary consolidations of unknown etiology
+ 
+Discharge Condition:
+Mental Status: Clear and coherent, though sometimes confused 
+with memory and word-finding. 
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___
+
+___ were admitted because your doctors were concerned about your 
+breathing and getting oxygen to your tissues. They were also 
+concerned about whether the lung findings ___ have are due to an 
+infection. We obtained an sputum sample, as well as other blood 
+tests, to test for these infections. ___ were also found to have 
+masses on your liver, though they may have been there before. 
+___ should follow up with your doctor about these findings. 
+
+ 
+Followup Instructions:
+___

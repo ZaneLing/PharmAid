@@ -1,0 +1,192 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+iodine based IV dye
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain/Nausea
+ 
+Major Surgical or Invasive Procedure:
+NONE
+
+ 
+History of Present Illness:
+___ with recent ED visit on ___ for mild diverticulitis 
+treated with Cipro/Flagyl who later presented to her PCP ___ 
+___ with resolving symptoms requesting further cipro/flagyl 
+due to an upcoming cruise presents to the ED with nausea, 
+vomiting and abdominal pain.  Pt reports finishing antibiotic 
+regimen 4 days ago. 3 days ago, the patient experienced return 
+of nausea, abdominal pain and diarrhea. Patient reports 
+continuation of non-bloody diarrhea with no melena or 
+hematochezia. 
+
+Patient denies fevers but +chills. +dizziness. +Poor PO intake.
+No chest pain, sob, dysuria.
+
+ 
+Past Medical History:
+OSTEOPOROSIS 
+BASAL CELL CARCINOMA 
+MIGRAINE HEADACHES 
+ASTHMA 
+COLD INDUCED URTICARIA 
+MITRAL VALVE PROLAPSE 
+COLON POLYP 
+CERVICAL SPONDYLOSIS 
+LUMBAR SPONDYLOSIS 
+CESAREAN SECTION ___ 
+BREAST BIOPSY 
+BREAST REDUCTION 
+ROTATOR CUFF REPAIR 
+ 
+Social History:
+___
+Family History:
+Mother: ___ DISEASE, DEPRESSION, ALZHEIMER'S DISEASE  
+Father: STROKE, PROSTATE CANCER 
+Aunt: BREAST CANCER 
+Uncle: MYOCARDIAL INFARCTION 
+Grandmother: ?LEUKEMIA/LYMPHOMA
+ 
+Physical Exam:
+ADMISISON
+VITALS: T 98.1 BP 100/64 HR 60 R 12 SpO2 97 ra
+GEN: NAD
+HEENT: anicteric sclerae
+___: RRR, no MRG
+RESP: CTAB, no increased WOB
+ABD: diffusely tender, hyperactive bowel sounds. No 
+rebound/guarding. Murhpy's sign negative. No pain at ___ 
+___.
+EXT: No edema
+
+DISCHARGE
+
+ 
+Pertinent Results:
+ADMISSION
+___ 10:50AM BLOOD WBC-4.8 RBC-4.44 Hgb-13.5 Hct-41.2 MCV-93 
+MCH-30.4 MCHC-32.8 RDW-12.2 RDWSD-41.5 Plt ___
+___ 10:50AM BLOOD Neuts-53.2 ___ Monos-6.5 Eos-1.5 
+Baso-0.8 Im ___ AbsNeut-2.55# AbsLymp-1.81 AbsMono-0.31 
+AbsEos-0.07 AbsBaso-0.04
+___ 10:50AM BLOOD ___ PTT-29.6 ___
+___ 10:50AM BLOOD Glucose-105* UreaN-13 Creat-0.7 Na-139 
+K-4.1 Cl-104 HCO3-24 AnGap-15
+___ 10:50AM BLOOD ALT-29 AST-22 AlkPhos-63 TotBili-0.5
+___ 10:50AM BLOOD Lipase-59
+___ 10:50AM BLOOD Albumin-4.8 Mg-2.2
+___ 11:08AM BLOOD Lactate-1.4
+
+PERTINENT
+___ 11:08AM BLOOD Lactate-1.4
+___ 10:50AM BLOOD Lipase-59
+___ 10:50AM BLOOD ALT-29 AST-22 AlkPhos-63 TotBili-0.5
+___ 06:19AM BLOOD LD(LDH)-140
+
+DISCHARGE
+
+STUDIES
+___ CT ABD W/O CON
+IMPRESSION:  
+No acute intra-abdominal or pelvic process.  Diverticulosis 
+without 
+diverticulitis. 
+
+MICROBIOLOGY
+___ 4:15 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+   C. difficile DNA amplification assay (Final ___: 
+      Negative for toxigenic C. difficile by the Illumigene DNA
+      amplification assay. 
+           (Reference Range-Negative).
+
+ 
+Brief Hospital Course:
+___ with recent visit to the ED for mild diverticulitis 
+diagnosed on CT scan s/p course of cipro/flagyl (finished 4 days 
+from day of admission) presents to the ED with return of 
+abdominal pain, nausea and vomiting.
+
+#Abdominal Pain/Nausea: Pt has recent visit to ED for mild 
+diverticulitis s/p cipro/flagyl. CT abd/pelvis showed no acute 
+process. This, in the setting of stable vital signs, lack of 
+fever and leukocytosis make a abscess or other infectious 
+etiology less likely. UA is also not consistent with infection. 
+C. diff was negative LFTs negative for hepatic/biliary 
+pathology. Possible etiologies include irritable bowel after her 
+bout of diverticulosis or an unrelated gastroenteritis. 
+Dizziness in setting of poor PO is suggestive of dehydration 
+though chemistry, renal function and lactate are normal at this 
+time suggesting adequate perfusion.
+-F/u Stool Cx (though suspect these to be negative)
+-F/u Blood Cx
+-Loperamide if c. diff negative
+
+#Oral Thrush: Patient has white plaques on tongue. No LAD, 
+however given the patients progressive symptoms, and family h/o 
+grandmother with ?lymphoma/leukemia HIV and LDH should be 
+checked, respectively.
+-Nystatin
+-F/U HIV
+-F/U LDH
+
+#Migraines: Pt has h/o mild migraines managed with ASA. 
+Asymptomatic at this time.
+-cont. ASA
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+Irritable Bowel Syndrome
+
+Secondary Diagnosis
+Diverticulosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you during your 
+hospitalization. You were admitted for abdominal pain and nausea 
+which we treated with medications. A CT of your abdomen, in 
+addition to other lab tests looking for ischemia, infection, or 
+inflammation (rheumatologic) did not reveal a reason.  We do 
+have a test pending for celiac sprue. Given the reassuring 
+workup, we believe the discomfort you were having was due to 
+irritable bowel syndrome which was brought on from your recent 
+diverticulitis and a disrupted bowel bacterial flora. We treated 
+you with medications for spasm, IBS, and bloating/gas for 
+symptom control.
+
+Please call to schedule a follow up appointment with your PCP 
+within one week.
+
+We wish you the best!
+Your ___ care team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,264 @@
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Tachycardia
+ 
+Major Surgical or Invasive Procedure:
+TEE/CARDIOVERSION on ___
+
+ 
+History of Present Illness:
+___ hx of ankylosing spondylitis, gout, gerd presenting with ___ 
+year of generalized weakness and ___ months of increasing 
+shortness of breath with exertion to his PCP office and found to 
+be in afib/flutter. 
+
+Patient reports USOH until about a year ago, when he started 
+feeling generalized weakness. Patient was initially not that 
+concerned, but starting ___ months ago noticed increasing SOB 
+with climbing stairs and walks, even on flat groung. Also 
+reports a sensation of pounding pulse in his feet when lying 
+down. Denies chest pain, palpitations, orthopnea. Endorses 
+snoring recently, and per wife has apneic episodes while 
+sleeping. 
+
+Of note, patient has a history of ___ days naproxen use every 
+week or two for neck pain from ___ has no diagnosis of 
+CKD. Also reports decreased tone in R arm, 10lb wt gain over 
+past year. No leg swelling. Patient endorses excessive bleeding 
+following polypectomy during colonoscopy ___ years ago.
+
+In the ED initial vitals were: 98.0 ___ 16 97% RA 
+EKG: aflutter, ST depressions in ___ leads, QT 520
+Labs/studies notable for: trop <0.01, Cr 1.3 from 1.4 ___, 
+stable h/h. 
+CXR: No acute cardiopulmonary process.  The cardiac silhouette 
+is top normal in size. 
+Patient was given: Diltiazem 30mg PO, 20mg IV with improvement 
+in HR to the ___
+Vitals on transfer: 98.7 124/93 99 18 96/RA
+
+On the floor, patient reports improvement in symptoms following 
+receiving diltiazem in the ED.   
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS: None
+2. CARDIAC HISTORY
+- CABG: None
+- PERCUTANEOUS CORONARY INTERVENTIONS: None
+- PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY
+Gout
+ankylosing spondylitis
+___ esophagus-GERD
+appendectomy
+benign pancreatic mass
+ 
+Social History:
+___
+Family History:
+-Father died in ___ of heart disease related to cigarettes and 
+EtOH
+-Uncle with valve disease in ___
+-Aunt, grandma with lacunar infarcts
+-Aunt with renal stenosis
+-thyroid disease in numerous relatives
+
+ 
+Physical Exam:
+ADMISSION
+=========
+VS: 98.7 124/93 99 18 96/RA
+GENERAL: WDWN in NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple with JVP of 10 cm.  
+CARDIAC: Tachycardic, regular, normal S1, S2. No 
+murmurs/rubs/gallops. No thrills, lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE
+=========
+VS: 98.8 ___ 70-154 18 96%RA
+GENERAL: In bed, in NAD. Oriented x3. Mood, affect appropriate.  
+
+HEENT: MMM, no carotid bruits. JVP to mid neck. 
+CARDIAC: Tachycardic, regular, normal S1, S2. No 
+murmurs/rubs/gallops. No thrills, lifts.  
+LUNGS: CTAB, no crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND.  
+EXTREMITIES: WWP, +2 radial and distal pulses in the 
+extremities, bilaterally. No edema. Equal strength bilaterally.
+SKIN: No rashes , ulcers, scars, or xanthomas. 
+ 
+Pertinent Results:
+ADMISSION
+=========
+___ 10:02AM BLOOD WBC-5.9 RBC-4.90 Hgb-15.4 Hct-44.1 MCV-90 
+MCH-31.4 MCHC-34.9 RDW-13.4 RDWSD-44.2 Plt ___
+___ 10:02AM BLOOD Neuts-50.0 ___ Monos-10.5 Eos-3.2 
+Baso-0.8 Im ___ AbsNeut-2.95 AbsLymp-2.08 AbsMono-0.62 
+AbsEos-0.19 AbsBaso-0.05
+___ 10:02AM BLOOD ___ PTT-26.5 ___
+___ 10:02AM BLOOD Glucose-101* UreaN-21* Creat-1.3* Na-140 
+K-4.3 Cl-102 HCO3-26 AnGap-16
+___ 10:02AM BLOOD cTropnT-<0.01
+___ 10:02AM BLOOD proBNP-103
+___ 10:02AM BLOOD Calcium-10.0 Phos-3.8 Mg-2.1
+___ 04:27PM BLOOD %HbA1c-5.3 eAG-105
+___ 10:02AM BLOOD TSH-2.1
+
+DISCHARGE
+=========
+___ 07:15AM BLOOD ___ PTT-28.3 ___
+___ 07:15AM BLOOD WBC-5.3 RBC-4.78 Hgb-15.0 Hct-42.2 MCV-88 
+MCH-31.4 MCHC-35.5 RDW-13.6 RDWSD-44.1 Plt ___
+___ 07:15AM BLOOD Glucose-102* UreaN-19 Creat-1.3* Na-138 
+K-4.0 Cl-102 HCO3-26 AnGap-14
+___ 07:15AM BLOOD Calcium-9.4 Phos-3.7 Mg-2.1
+
+IMAGING
+=======
+-TEE for cardioversion:
+The left atrium is dilated. No spontaneous echo contrast or 
+thrombus is seen in the body of the left atrium/left atrial 
+appendage or the body of the right atrium/right atrial 
+appendage. Left atrial appendage idealized diameter 1.7 cm. The 
+right atrium is dilated. Right atrial appendage ejection 
+velocity is good (>20 cm/s). No atrial septal defect is seen by 
+2D or color Doppler. Overall left ventricular systolic function 
+is low normal (LVEF 50-55%). Right ventricular chamber size is 
+normal with borderline normal free wall function. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis. No aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. There is 
+no mitral valve prolapse. Mild (1+) mitral regurgitation is 
+seen. There is no pericardial effusion. 
+IMPRESSION: No ___ thrombus detected. Normal left 
+ventricular wall thickness, cavity size, with low-normal 
+systolic function. Mild mitral regurgitation. 
+
+-CXR:
+The lungs are clear without focal consolidation.  No pleural 
+effusion or 
+pneumothorax is seen. The cardiac and mediastinal silhouettes 
+are 
+unremarkable. 
+
+ 
+Brief Hospital Course:
+___ hx of ankylosing spondylitis, gerd, p/w new A-flutter with 
+2:1 block in the 150s in the setting of "restlessness" and SOB.
+
+#Aflutter:
+Patient reporting ___ of "restlessness" w/ ___ months of 
+progressive SOB. EKG w/ aflutter w/ some ST changes which may be 
+tachycardia-related. Trops negative with no obvious cardiac risk 
+factors. Unclear timing or precipitating event, although appears 
+to have nl HR per note ___. Patient w/ ___ CKD which can 
+predispose to aflutter. Exam and recent TTE with PCP without ___ 
+valvular or structural heart disease. No evidence of thyroid d/o 
+(TSH 1.6 ___, 2.2 in ED). Patient endorses snoring and apneic 
+episodes c/f OSA, which may also be precipitant. Initially rate 
+controlled with diltiazem. TEE did not demonstrate thrombus or 
+any structural abnormalities, EF 50-55%. Underwent cardioversion 
+with reversion to sinus rhythm. Will continue apixiban 5mg for 4 
+weeks following cardioversion; will likely pursue ablation as 
+outpatient. 
+
+#CKD:
+Patient with cr elevated to 1.3 on admission, was 1.4 ___. No 
+report of CKD in prior notes. Unclear etiology: no HTN noted on 
+prior progress notes or hx of DM (A1c 5.3). Likely related to 
+extensive Nsaid use ___ ___ and gout. Cr 1.3 on discharge. 
+
+
+CHRONIC ISSUES
+#Gout: continued allopurinol
+#Gerd: continued omeprazole
+
+TRANSITIONAL ISSUES:
+- Will be discharged on apixaban 5mg BID to be taken for four 
+weeks post cardioversion
+- Will be scheduled for outpatient atrial flutter ablation
+- Please recheck Cr at PCP visit to confirm stable and his 
+apixaban dose is appropriate.
+
+Full code
+CONTACT: ___ (HCP, wife): ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. Allopurinol ___ mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+2. Allopurinol ___ mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+- Typical Atrial flutter with rapid ventricular response 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+It was our pleasure participating in your care here at ___. 
+You were admitted on ___ with a fast heart rate called 
+atrial flutter. You were given medications to slow the heart 
+rate down and then underwent a procedure (called cardioversion) 
+to convert your heart rate to a normal rhythm. The procedure was 
+successful but it will be very important that you take a blood 
+thinner (apixaban) to help prevent blood clots from forming.
+
+You will also have a different procedure called an atrial 
+flutter ablation to try to prevent recurrence of this heart 
+rhythm. You will be called to schedule this procedure. 
+
+If you develop worsening palpitations, chest pain, shortness of 
+breath, bleeding, or any other concerning symptom, please let 
+your doctor know right away.
+
+Again, it was our pleasure participating in your care here at 
+___.
+
+We wish you the best,
+Your ___ Team
+
+ 
+Followup Instructions:
+___

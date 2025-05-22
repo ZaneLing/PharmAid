@@ -1,0 +1,321 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The patient is a ___ year old woman without significant PMHX who
+was brought to the hospital with an ambulance after a fall at 
+home.
+
+Briefly, said she was cleaning her apartment and was on chair
+when she fell off the chair on the ground. She hit her head, but
+did not loose consciousness. She denies any prodrome, such
+lightheadedness, diaphoresis, focal weakness, numbness, vision
+changes. She was able to call ___ and EMS brought her to ___
+ED, where she was found to have a laceration of her left hand 
+and
+a CTH with small right frontal hyperdensity. ___ neurology was
+consulted.
+
+Pt states that she lives with her son but is independent off all
+ADL's, Son does finances. She walks without assistive device.
+
+She denies any recent fevers, illness or unintentional weight
+loss. She denies any focal weakness, numbness, difficulty with
+speech or vision. 
+
+ 
+Past Medical History:
+HTN, HLD, dementia, GERD, R frontal cavernoma
+
+ 
+Social History:
+Retired, used to work in ___. Lives with son,
+___ of all her ADL's, son does finances, walks without
+any assistive device. no smoking etoh or illicit drugs
+
+- Modified Rankin Scale:
+[] 0: No symptoms
+[x] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+[] 3: Moderate disability: requires some help but able to walk
+unassisted
+[] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+[] 6: Dead
+
+ 
+Family History:
+Unknown
+
+ 
+Physical Exam:
+ADMISSION EXAMINATION
+=====================
+Vitals: T: 98.1 P: 68 R: 16  BP:163/85  SaO2:100%RA
+- General: Awake, cooperative, NAD.
+- HEENT: NC/AT
+- Neck: Supple
+- Pulmonary: no increased WOB
+- Cardiac: well perfused 
+- Abdomen: soft, nontender, nondistended
+- Extremities: no edema, pulses palpated
+- Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Alert, oriented to person, "hospital" and
+___. Able to relate history without difficulty. Attentive,
+able to name ___ backward without difficulty. Language is fluent
+with intact repetition and comprehension.  Pt was able to name
+both high and low frequency objects. Speech was not dysarthric.
+Able to follow both midline and appendicular commands. There was
+no evidence of apraxia or neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk. VFF to confrontation. 
+III, IV, VI: EOMI without nystagmus. Normal saccades.
+V: Facial sensation intact to light touch.
+VII: Mild right lower facial assymmetry
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+  Delt Bic Tri WrE FFl FE  IP Quad Ham TA Gastroc 
+L  5    ___   ___   5    5  5     5   
+R  5    ___   ___   5    5  5     5     
+
+* due to injury on left hand
+
+-DTRs:  
+       [Bic] [Tri] [___] [Quad] 
+     L  2+    2+     2+      0       
+     R  2+    2+     2+      0        
+Plantar response flexor bilaterally. 
+
+-Sensory: No deficits to light touch, pinprick throughout. No
+extinction to DSS.
+
+-Coordination: No intention tremor. No dysmetria on FNF
+bilaterally.
+
+-Gait: Deferred
+
+DISCHARGE EXAMINATION
+=====================
+- General: Awake, cooperative, NAD.
+- HEENT: 4cm bump on the L occiput. No bleeding. 
+- Neck: Supple
+- Pulmonary: no increased WOB
+- Cardiac: well perfused 
+- Abdomen: soft, nontender, nondistended
+- Extremities: no edema, pulses palpated
+- Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Alert, oriented to person, "hospital" and 
+___. Mostly attentive, able to name ___ backward without 
+difficulty. Language is fluent with intact comprehension.  
+Speech was not dysarthric. Able to follow both midline and 
+appendicular commands. There was no evidence of apraxia or 
+neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk. L hemianopsia.
+III, IV, VI: EOMI with a few beats of fatigable nystagmus on 
+horizontal end-gaze.
+V: Facial sensation intact to light touch.
+VII: Mild right lower facial asymmetry
+VIII: Hearing intact to conversation bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: No pronator drift bilaterally. No adventitious 
+movements, such as tremor, noted. 
+  Delt Bic Tri WrE FFl FE  IP Quad Ham TA Gastroc 
+L  5    ___   *  *   5   5    5  5     5   
+R  5    ___   ___   5    5  5     5     
+*Deferred due to L hand laceration.
+
+-DTRs: 
+       [Bic] [Tri] [___]
+     L  2+    2+     2+           
+     R  2+    2+     2+          
+
+-Sensory: No deficits to light touch throughout. No extinction 
+to DSS.
+
+-Coordination: No intention tremor. No dysmetria on FNF 
+bilaterally. 
+
+-Gait: Wide-based but steady. Postural instability on 
+retropulsion & R lateral pull test.
+ 
+Pertinent Results:
+___ 05:10AM BLOOD WBC-8.4 RBC-3.88* Hgb-10.8* Hct-33.2* 
+MCV-86 MCH-27.8 MCHC-32.5 RDW-13.1 RDWSD-40.6 Plt ___
+___ 05:10AM BLOOD ___ PTT-27.2 ___
+___ 05:10AM BLOOD Glucose-88 UreaN-16 Creat-0.7 Na-142 
+K-4.0 Cl-102 HCO3-22 AnGap-18
+___ 05:10AM BLOOD Calcium-9.1 Phos-4.2 Mg-2.1 Cholest-152
+___ 05:10AM BLOOD %HbA1c-5.3 eAG-105
+___ 05:10AM BLOOD Triglyc-86 HDL-61 CHOL/HD-2.5 LDLcalc-74
+___ 03:00PM URINE Color-Yellow Appear-Clear Sp ___
+___ 03:00PM URINE Blood-NEG Nitrite-NEG Protein-TR* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 03:00PM URINE RBC-4* WBC-1 Bacteri-NONE Yeast-NONE 
+Epi-<1 TransE-<1
+___ 3:00 pm URINE
+   URINE CULTURE (Pending): 
+
+___ 4:35 ___ CT HEAD W/O CONTRAST 
+An 8 mm focus of hyperattenuation in the right frontal lobe 
+periventricular white matter, adjacent to the frontal horn of 
+the right lateral ventricle, could reflect a small 
+intraparenchymal hemorrhage, cavernoma, or other mass lesion.  
+Further assessment with brain MRI with contrast can be 
+considered. 
+
+___ 4:___-SPINE W/O CONTRAST 
+1. Widening of the intervertebral disc space anteriorly at C4-C5 
+is associated with anterior disc bulge, but no prevertebral soft 
+tissue swelling to specifically suggest ligamentous injury. 
+Recommend correlation with symptoms. If concern for ligamentous 
+injury, recommend cervical spine MRI. 
+2. Multiple levels of minimal anterolisthesis may be chronic in 
+the setting of overall moderate cervical spine osteoarthritis. 
+Multilevel spinal canal narrowing is worst and mild-to-moderate 
+at C4-C5. 
+
+___ 11:01 ___ MRI & MRA BRAIN W&W/O CONTRAST 
+1. Severely motion degraded MP RAGE sequences, which are 
+essentially 
+nondiagnostic. 
+2. No evidence for acute infarction. 
+3. 8 mm right frontal lobe white matter lesion demonstrating 
+extensive 
+blooming on gradient echo sequences, most compatible with a 
+small cavernoma. 
+4. Curvilinear areas of susceptibility artifact with increased 
+FLAIR signal abnormality and ex vacuo dilatation of the within 
+the right occipital lobe and horn.  These findings could 
+represent a chronic infarction with encephalomalacia and old 
+hemorrhagic products.  Apparent subtle enhancement in this 
+region may be secondary to crowding of vessels as opposed to a 
+small enhancing lesion.  Recommend follow-up contrast enhanced 
+MRI in 3 months for further evaluation. 
+5. Global parenchymal volume loss, evidence of chronic small 
+vessel ischemic disease, and paranasal sinus disease as above. 
+6. Grossly patent intracranial vasculature without high-grade 
+stenosis, 
+occlusion, or definite aneurysm. 
+  
+RECOMMENDATION(S):  Curvilinear areas of susceptibility artifact 
+with 
+associated curvilinear enhancement seen within the right 
+occipital lobe is 
+likely secondary to crowding of vessels from the 
+encephalomalacia sequelae of prior chronic infarct as opposed to 
+an enhancing lesion.  No evidence for acute superimposed 
+hemorrhage given the lack of associated hyperdensity on recent 
+CT examination. Recommend follow-up contrast enhanced MRI in 3 
+months for further evaluation. 
+ 
+Brief Hospital Course:
+___ woman with history notable for HTN, HLD, dementia, 
+GERD, and R frontal cavernoma admitted after a fall at home. 
+Initial CT head concerning for right frontal IPH vs. cavernoma, 
+though on review ___ imaging reports, note was made of a 
+stable right frontal cavernoma since ___. Follow-up MRI 
+redemonstrated right frontal cavernoma without additional 
+infarct, hemorrhage, or demyelinating lesion. Physical therapy 
+evaluation recommended discharge home with home ___. No 
+medication changes made; may resume outpatient follow-up with 
+Neurology at ___.
+
+TRANSITIONAL ISSUES
+1. Consider weaning meclizine in setting of recurrent falls.
+2. Follow-up MRI with contrast in 3 months to reassess subtle 
+enhancement within the right occipital lobe and horn likely 
+reflecting crowding rather than a small 
+enhancing lesion.
+
+ 
+Medications on Admission:
+1. Omeprazole 20 mg PO DAILY 
+2. Donepezil 10 mg PO QHS 
+3. Simvastatin 80 mg PO QPM 
+4. Meclizine 12.5 mg PO Q8H:PRN dizziness 
+
+ 
+Discharge Medications:
+1.  Donepezil 10 mg PO QHS  
+2.  Meclizine 12.5 mg PO Q8H:PRN dizziness  
+3.  Omeprazole 20 mg PO DAILY  
+4.  Simvastatin 80 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Mechanical fall
+Stable right frontal cavernoma
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ after 
+presenting with a fall. Your initial head CT was concerning for 
+bleeding in your head, but a follow-up MRI demonstrated that it 
+was most likely your known prior cavernoma. There was no 
+evidence of a new stroke or bleed. You were evaluated by 
+physical therapy, who recommended discharge home with home ___ 
+services.
+
+It was a pleasure taking care of you at ___.
+
+Sincerely,
+Neurology at ___
+ 
+Followup Instructions:
+___

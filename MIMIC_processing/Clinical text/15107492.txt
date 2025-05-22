@@ -1,0 +1,205 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea/vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ PMH of AFib, Stage IV poorly differentiated carcinoma of
+unknown primary, presented to ED with nausea/vomiting and fever
+
+Patient reported that she received every cycle of pembrolizumab
+without any incident.  She noted that her last cycle was 3 days
+prior and has noted that she has been well since then. However
+she developed acute onset vomiting which awoke her from sleep on
+the morning of admission which was nonbilious, non-bloody.  She
+noted that it was not associated with significant abdominal pain
+or prolonged nausea beforehand.  Denied any association with
+diarrhea and noted that she has not had a bowel movement in over
+24 hours.  Reported that she had subjective fever at home and
+temperature recorded at 102 though it was an old thermometer. 
+She noted that she went out to eat recently and had chicken
+piccata at a local restaurant which she enjoys and did not had
+any rice.  She noted that no one in her party had the same meal
+as her and no one had any GI symptoms.  She denied any travel 
+out
+of the country but recently went to ___ City. 
+
+Otherwise denied sore throat, cough, nausea, abdominal pain,
+rash, sick contacts
+
+In the ED, initial vitals: 99.5 111 114/74 18 94% RA. WBC 11.4,
+Hgb 13.8, plt 356, LFTs wnl, CHEM w/ HCO3 21, Lactate 2.4
+normalized on repeat. UA 2 WBC neg nitr small leuk
+ 
+CXR:
+No focal consolidation or acute cardiopulmonary abnormality.
+
+CT A/P with contrast:
+1. No intra-abdominal or pelvic abnormalities identified to
+suggest infectious etiology below the diaphragm.
+2. Focal right basilar consolidation potentially atelectasis
+though infection is not excluded.
+ 
+Patient was given normal saline, levofloxacin, Zofran and
+admitted for further care. 
+ 
+Past Medical History:
+Atrial Fibrillation 
+Osteoporosis
+Hypothyroidism
+ 
+ 
+Social History:
+___
+Family History:
+Father with lung and prostate cancer, he died
+___ age ___ from lung cancer after surviving prostate cancer,
+he was a smoker.  Her mom is ___, alive, also has afib.  2
+sisters, both healthy. Brother died of neuroblastoma age ___. 
+Children are all healthy.    
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+Vitals:  ___ 0352 Temp: 98.5 PO BP: 111/74 HR: 88 RR: 16 O2
+sat: 94% O2 delivery: RA Dyspnea: 0 RASS: 0 Pain Score: ___ 
+GENERAL: Sitting in bed, appears comfortable but tired, no acute
+distress, pleasant
+EYES: Pupils equally round reactive to light, anicteric sclera, 
+HEENT:  oropharynx clear, MMM
+NECK: Supple, normal range of motion
+LUNGS: Clear to auscultation bilaterally no wheezes rales or
+rhonchi, normal respiratory rate, no increased work of 
+breathing,
+no cough
+CV: Regular rate and rhythm no murmurs, normal distal perfusion
+no edema
+ABD: Soft, nondistended, nontender, normoactive bowel sounds
+GENITOURINARY: No Foley or suprapubic tenderness
+EXT: Warm, no deformity, normal muscle bulk
+SKIN: Warm dry, no rash
+NEURO: Alert and oriented x3, fluent speech
+ACCESS: Peripheral IV
+
+DISCHARGE PHYSICAL EXAM:  
+GENERAL: Sitting in bed, appears comfortable but tired, no acute
+distress, pleasant
+EYES: Pupils equally round reactive to light, anicteric sclera, 
+HEENT:  oropharynx clear, MMM
+NECK: Supple, normal range of motion
+LUNGS: Clear to auscultation bilaterally no wheezes rales or
+rhonchi, normal respiratory rate, no increased work of 
+breathing,
+no cough
+CV: Regular rate and rhythm no murmurs, normal distal perfusion
+no edema
+ABD: Soft, nondistended, nontender, normoactive bowel sounds
+GENITOURINARY: No Foley or suprapubic tenderness
+EXT: Warm, no deformity, normal muscle bulk
+SKIN: Warm dry, no rash
+NEURO: Alert and oriented x3, fluent speech
+ACCESS: Peripheral IV
+ 
+Pertinent Results:
+___ 07:07PM   LACTATE-2.0
+___ 04:47PM URINE  HOURS-RANDOM
+___ 04:47PM URINE  HOURS-RANDOM
+___ 04:47PM URINE  UHOLD-HOLD
+___ 04:47PM URINE  GR HOLD-HOLD
+___ 04:47PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 04:47PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-2* PH-7.5 
+LEUK-SM*
+___ 04:47PM URINE  RBC-2 WBC-2 BACTERIA-FEW* YEAST-NONE 
+EPI-2 TRANS EPI-1
+___ 04:47PM URINE  MUCOUS-RARE*
+___ 04:00PM   LACTATE-2.4*
+___ 03:51PM   GLUCOSE-121* UREA N-15 CREAT-0.7 SODIUM-137 
+POTASSIUM-4.8 CHLORIDE-95* TOTAL CO2-21* ANION GAP-21*
+___ 03:51PM   ALT(SGPT)-14 AST(SGOT)-21 ALK PHOS-85 TOT 
+BILI-0.6
+___ 03:51PM   LIPASE-15
+___ 03:51PM   ALBUMIN-5.0
+___ 03:51PM   WBC-11.4* RBC-4.61 HGB-13.8 HCT-43.0 MCV-93 
+MCH-29.9 MCHC-32.1 RDW-14.0 RDWSD-47.8*
+___ 03:51PM   NEUTS-93.1* LYMPHS-1.3* MONOS-4.7* EOS-0.0* 
+BASOS-0.5 IM ___ AbsNeut-10.58* AbsLymp-0.15* AbsMono-0.54 
+AbsEos-0.00* AbsBaso-0.06
+___ 03:51PM   PLT COUNT-___ PMH of AFib, Stage IV poorly differentiated carcinoma of 
+unknown primary, presented to ED with nausea/vomiting 
+(non-bloody, non-bilious, 4 episodes) and fever (documented at 
+home, but not here). She had a CT A/P done in the ED without any 
+acute findings. Her lactate was 2.4 and downtrended to 2.0 with 
+IV fluids. She received one dose of Zofran in the ED with 
+resolution of her nausea. On the morning of discharge, her only 
+complaint was fatigue attributed to sleeping poorly while in the 
+hospital, and she felt ready to return home, as she was back to 
+her baseline. Her symptoms were attributed to either a viral 
+gastroenteritis or food-borne illness. She tolerated a regular 
+diet prior to discharge.  There are no changes made to her 
+medication list.  She will follow-up with Dr. ___ as scheduled.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 75 mcg PO DAILY 
+2. LORazepam 1 mg PO QHS:PRN nausea/anxiety 
+3. Acetaminophen 325 mg PO Q6H:PRN Pain - Mild/Fever 
+4. Senna 17.2 mg PO DAILY:PRN Constipation - First Line 
+5. Diazepam 2 mg PO ASDIR anxiety 
+6. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Diazepam 2 mg PO ASDIR anxiety  
+3.  Levothyroxine Sodium 75 mcg PO DAILY  
+4.  LORazepam 1 mg PO QHS:PRN nausea/anxiety  
+5.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+6.  Senna 17.2 mg PO DAILY:PRN Constipation - First Line  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Viral gastroenteritis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+
+You were admitted to the hospital after experiencing nausea and 
+vomiting at home.  This resolved with a dose of Zofran and a CT 
+scan did not show evidence of any intra-abdominal process.  You 
+were admitted to the oncology service here and your symptoms 
+resolved quickly.  We think this may be the result of a viral 
+infection, which should get better with supportive care. Please 
+return to the ED should you experience any of the warning signs 
+listed below. 
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

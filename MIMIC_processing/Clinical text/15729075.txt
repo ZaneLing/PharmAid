@@ -1,0 +1,178 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fevers
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old male with PMH of colon cancer s/p resection and 
+chemotherapy in ___ and nephrolithiasis s/p right ureteral 
+stent 1 week prior in ___ presenting with 1 day of fevers, 
+chills, sweats, mild right flank pain, nausea and vomiting.  He 
+lives in ___ and was visiting friends in the ___ area.  
+He presented initially to ___, was febrile up to 103, 
+leukocytosis of 15.8, creatinine 1.2, blood cultures were sent 
+(no urinalysis or urine culture sent), he was started on Zosyn 
+and transferred to ___.  In the ___ ED he had a CT A/P which 
+showed appropriately positioned stent, mild right 
+hydronephrosis, fat stranding possibly consistent with 
+pyelonephritis, small amount of R pericolic gutter fluid raising 
+possibility of forniceal rupture and non-obstructive stones 
+bilaterally.  Urology was consulted and recommend admission to 
+medicine.  He was given Zosyn.  
+
+Currently he reports feeling well aside from mild flushing.  He 
+denies any prior history of urinary tract infections or other 
+infections.
+
+ROS: as above, ten point ROS otherwise negative.  
+ 
+Past Medical History:
+colon cancer s/p resection and chemotherapy in ___ 
+nephrolithiasis s/p right ureteral stent
+ 
+Social History:
+___
+Family History:
+Father died of prostate cancer, mother died of breast cancer. 
+ 
+Physical Exam:
+Admission PE:
+T 102.7 HR: 149 BP: 89/55 Resp: 22 O(2)Sat: 92  in emergency 
+room
+VS: 98.0 120 / 56 83 18 93 RA on medical floor
+Gen: NAD, flushed appearing, lying comfortably in bed
+HEENT: EOMI, PERRLA, MMM, OP Clear
+CV: RRR nl s1s2 no m/r/g
+Resp: CTAB no w/r/r
+Abd: soft, NT, ND +BS
+Back: no CVA tenderness
+Ext: no c/c/e
+Neuro: CN II-XII intact, ___ strength throughout
+Psych: pleasant, normal affect
+Skin: warm, dry no rashes
+
+On Discharge, stable vitals.
+He is a thin, elderly male, extremely pleasant, walking with 
+ease, NAD
+Face - + erythema on nose, nasolabial fold -? rosacea
+Lung CTA B
+CV RRR
+Abd:  Nabs, soft
+Ext:  No edema
+No flank tenderness
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 04:10PM URINE  RBC-84* WBC-20* BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 04:10PM URINE  BLOOD-MOD NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-SM 
+___ 03:50PM   LACTATE-1.6
+___ 03:40PM   GLUCOSE-126* UREA N-20 CREAT-1.0 SODIUM-141 
+POTASSIUM-3.6 CHLORIDE-106 TOTAL CO2-21* ANION GAP-18
+___ 03:40PM   WBC-10.7* RBC-3.73* HGB-11.9* HCT-35.4* 
+MCV-95 MCH-31.9 MCHC-33.6 RDW-13.4 RDWSD-47.1*
+___ 03:40PM   NEUTS-89.2* LYMPHS-4.4* MONOS-5.5 EOS-0.0* 
+BASOS-0.3 IM ___ AbsNeut-9.57* AbsLymp-0.47* AbsMono-0.59 
+AbsEos-0.00* AbsBaso-0.03
+Urine culture:  NO growth
+Blood culture x 2:  no growth
+
+DISCHARGE LABS
+___ 07:38AM BLOOD WBC-4.6 RBC-3.82* Hgb-11.9* Hct-35.2* 
+MCV-92 MCH-31.2 MCHC-33.8 RDW-13.1 RDWSD-43.8 Plt ___
+___ 07:38AM BLOOD Plt ___
+___ 07:38AM BLOOD Glucose-100 UreaN-15 Creat-0.8 Na-140 
+K-3.1* Cl-102 HCO3-27 AnGap-14
+
+CT A/P ___:
+IMPRESSION:  
+A double-J ureteral stent is proximally coiled within the right 
+renal pelvis and distally coiled within the urinary bladder with 
+mild right hydroureter.  There is significant fat stranding 
+adjacent to the right kidney which may reflect pyelonephritis in 
+the appropriate clinical setting.  Small amount of fluid within 
+the adjacent right pericolic gutter raises the possibility 
+forniceal rupture.  Nonobstructive nephrolithiasis is bilateral. 
+
+
+CXR ___:
+IMPRESSION:  
+No signs of pneumonia.  Lucent hyperinflated lungs suggest 
+emphysema.  
+Abnormal contour of the posterior left hemidiaphragm, question 
+hernia or 
+eventration 
+
+ 
+Brief Hospital Course:
+___ year old male with PMH of colon cancer s/p resection and 
+chemotherapy in ___ and nephrolithiasis s/p right ureteral 
+stent 1 week prior in ___ presenting with 1 day of fevers, 
+chills, sweats, mild right flank pain, nausea and vomiting found 
+to have likely complicated pyelonephritis.
+
+#Sepsis due to
+#Pyelonephritis, complicated UTI
+#Nephrolithiasis s/p stent
+Complicated UTI given recent stent placement and question of 
+forniceal rupture on CT scan.  He gets his care in ___ but 
+denies any prior history of infections.  Unfortunately received 
+antibiotics prior to cultures being sent - so as a result, all 
+cultures negative.  
+He was originally started on cefepime while awaiting culture 
+data and he defervesced within 36 hours.  All blood and urine 
+cultures (2 sets blood, 1 set urine) were negative, however.  
+He was switched to oral ciprofloxacin and remained afebrile.  He 
+will take an additional 11 days of medication to complete a 2 
+week course.  He has been instructed to f/u with his doctors in 
+___ regarding timing of removal of stent. 
+
+# Anemia - patient with mild, stable anemia.  Unknown baseline.  
+Should f/u with PCP
+
+# Thrombocytopenia:  due to infection, improved over the course 
+of admission.   
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1.  Pyelonephritis causing sepsis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with high fevers, and evidence of kidney 
+infection.  You improved substantially with antibiotics, and are 
+ready for discharge.  Please follow up with your doctors in 
+___ regarding removal of the stent.  
+ 
+Followup Instructions:
+___

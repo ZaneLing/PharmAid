@@ -1,0 +1,218 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dizziness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ w/ no known PMH who presents w/
+lightheadedness and flu-like symptoms.  For the past week, he 
+has
+noted sore throat, cough, rhinorrhea, and subjective fevers, and
+over the past 24 hours, he had 3 episodes of lightheadedness 
+upon
+standing with subsequent fall (2 episodes in his bedroom, 1 in
+the bathroom).  He states that each episode was precipitated by
+standing, and upon standing he felt weak and dizzy, and then
+slowly lowered himself to the ground feeling as if he was going
+to pass out.  He had no preceding CP, palpitations and states he
+had no true syncope, no seizures, no biting of tongue or
+incontinence.  This has never happened to him before, and 
+usually
+his exercise tolerance is excellent, able to walk up to 2 hours
+each day without symptoms.  Of note, during one of the falls his
+wife was with him and also fell.
+
+Per son: dad has been sick with cough, sneezing, fever, sore
+throat. He was supposed to go to the doctor yesterday but it
+"fell through". With all the falls, no LOC, doesn't think he hit
+his head. Has noticed decreased appetite, poor PO intake, has
+been trying to drink as much water as possible. 
+
+In the ED, initial vitals:  98.3 78 107/46 16 97% RA 
+
+CXR:
+Retrocardiac opacities can be concerning for pneumonia.
+
+Influenza A: POSITIVE
+
+WBC: 4.2
+HGB 14.0
+Platelets: 142
+
+130  95  12      AGap=12 
+------------< 103 
+4.4  23  1.1  
+
+- Pt given:  
+2L Normal Saline
+Levofloxacin
+
+- Vitals prior to transfer: 98.4  56 128/60 18 93% RA 
+
+On the floor,  patient is resting comfortably. He endorses some
+mild discomfort on his R flank, he's not sure whether he hit it
+when he fell. Otherwise he has no complaints. ROS negative 
+except
+per HPI.
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+VITALS:  98.5 PO 95 / 58 64 18 92 Ra 
+General: resting comfortably laying flat, appears younger than
+stated age, NAD  
+HEENT: Sclerae anicteric, MMM, oropharynx dry, dentures in 
+place,
+EOMI
+CV: Regular rate and rhythm, normal S1 + S2
+Lungs: scattered rhonchi, no wheezes, unlabored breathing
+Abdomen: Soft, non-distended, slight point tenderness on R flank
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities 
+ 
+DISCHARGE PHYSICAL EXAM:
+======================
+24 HR Data (last updated ___ @ 1553)
+    Temp: 98.8 (Tm 98.8), BP: 100/61 (84-109/54-61), HR: 67 
+(63-69), RR: 18 (___), O2 sat: 96% (95-98), O2 delivery: RA  
+General: resting comfortably laying flat, appears younger than
+stated age, NAD  
+HEENT: Sclerae anicteric, MMM, oropharynx dry, dentures in 
+place,
+EOMI
+CV: Regular rate and rhythm, normal S1 + S2
+Lungs: scattered rhonchi, no wheezes, unlabored breathing
+Abdomen: Soft, non-distended, slight point tenderness on R flank
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities 
+ 
+Pertinent Results:
+ADMISSION LABS:
+=============
+___ 01:15PM   GLUCOSE-103* UREA N-12 CREAT-1.1 SODIUM-130* 
+POTASSIUM-4.4 CHLORIDE-95* TOTAL CO2-23 ANION GAP-12
+___ 01:15PM   estGFR-Using this
+___ 01:15PM   OSMOLAL-272*
+___ 01:15PM OTHER BODY FLUID  FluAPCR-POSITIVE* 
+FluBPCR-NEGATIVE
+___ 01:15PM   WBC-4.2 RBC-4.29* HGB-14.0 HCT-40.9 MCV-95 
+MCH-32.6* MCHC-34.2 RDW-12.9 RDWSD-45.2
+___ 01:15PM   NEUTS-75.2* LYMPHS-15.7* MONOS-8.7 EOS-0.0* 
+BASOS-0.2 NUC RBCS-0.5* IM ___ AbsNeut-3.12 AbsLymp-0.65* 
+AbsMono-0.36 AbsEos-0.00* AbsBaso-0.01
+___ 01:15PM   PLT COUNT-142*
+
+DISCHARGE LABS:
+==============
+___ 10:45AM BLOOD WBC-3.3* RBC-4.09* Hgb-13.4* Hct-39.7* 
+MCV-97 MCH-32.8* MCHC-33.8 RDW-13.2 RDWSD-47.1* Plt ___
+___ 10:45AM BLOOD Glucose-116* UreaN-12 Creat-1.0 Na-138 
+K-3.5 Cl-101 HCO3-26 AnGap-11
+___ 10:45AM BLOOD Calcium-8.5 Phos-2.2* Mg-1.9
+
+IMAGING:
+=======
+CXR ___:
+Retrocardiac opacities can be concerning for pneumonia.
+ 
+Brief Hospital Course:
+___ man with no major medical problems presented with 
+orthostasis and flu-like illness, found to be influenza A with 
+retrocardiac opacities consistent with CAP. The patient was 
+started on ceftriaxone/azithromycin and transitioned to 
+cefpodoxime/azithromycin with plan to complete a 7-day course. 
+He was also given 1L of IVF with resolution of his hypovolemic 
+hyponatremia, as well his orthostatic signs and symptoms. While 
+in the hospital, the patient also had a mild ___ (0.9 to 1.3) 
+that resolved rapidly with IV resuscitation. His discharge 
+creatinine was 1.0.
+
+TRANSITIONAL ISSUES:
+====================
+[ ] Patient should continue cefpodoxime and azithromycin for a 
+total of 5 days (last day ___ to complete a course for 
+CAP.
+[ ] Repeat CXR in 6 weeks to document resolution of pulmonary 
+infiltrates.
+[ ] Repeat CHEM7 in ___ weeks to document normal sodium and 
+normal renal function.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO DAILY Duration: 3 Days 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0 
+2.  Cefpodoxime Proxetil 400 mg PO Q12H Duration: 3 Days 
+RX *cefpodoxime 200 mg 2 tablet(s) by mouth twice a day Disp 
+#*14 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Community Acquired Pneumonia
+Orthostatic Hypotension
+Influenza A
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___. You were admitted because you were 
+dizzy. As you know, you recently had the influenza virus and you 
+developed a lung infection (pneumonia) afterwards. This caused 
+some dehydration which caused some dizziness. While you were in 
+the hospital, we gave you some IV fluids and started you on 
+antibiotics, which you should continue to take until you 
+complete a 5-day course (last day is ___. 
+
+Continue to eat and drink well to stay hydrated and ___ 
+with your primary care physician ___ ___ weeks of the time of 
+discharge.
+
+Wishing you a speedy recovery,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,238 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Latex / Shellfish / ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with the past medical
+history notable for DCIS s/p Lumpectomy and radiation therapy at
+___, seizure, HLD, asthma, and prior diverticulitis and colitis
+in ___ who presented to urgent care on ___ at ___ with 1
+week of lower quadrant abdominal pain who was found to have
+diverticulitis with mirocperforation and is being admitted for 
+IV
+antibiotics and pain control. 
+
+The patient reports that she was in her usual state of health
+until approximately 1 week prior to presentation to urgent care. 
+
+She reports that she developed bilateral lower quadrant pain 
+with
+left greater than right over the course of the last several 
+days.
+She reports the pain is moderate to severe.  She reports that 
+she
+believes the pain initially began after she started treatment 
+for
+a UTI on ___.  She reports that the pain is associated with
+constipation as well.  She ultimately reports that she has some
+pressure passing gas and feels bloated.  She denies any dysuria
+or vaginal discharge.  She ultimately went to urgent care where
+she underwent a CT scan that was notable for focal wall
+thickening of the sigmoid colon with extensive surrounding fat
+stranding and small free fluid.  There was a small
+microperforation without a drainable collection.  Findings are
+most consistent with diverticulitis.  Her labs were notable for 
+a
+white blood cell count of 8.7, remainder of her CBC was normal,
+and an unremarkable CMP.  She was given IV antibiotics and was
+transported to ___ for further
+evaluation.
+
+In the ___ emergency department
+she was seen and evaluated.  Her initial vital signs were 
+notable
+for 10 out of 10 pain, temperature of 97.9, heart rate 87, blood
+pressure 114/81, respiratory rate 18, and satting 99% on room
+air.  She was given 400 mg of IV ciprofloxacin and 500 mg of IV
+metronidazole.  She was also given 1 L of LR.  She was seen by
+surgery in the emergency department who felt like the patient 
+did
+not have any surgical needs.  They did feel like the patient
+would likely benefit from pain control and IV antibiotics with
+repeat surgical evaluation if diverticulitis recurs or fails to
+resolve.
+
+On arrival to the floor the patient reports that she is 
+continued
+to have lower quadrant abdominal pain.  No other acute 
+complaints
+at this time.  She specifically denies fevers or chills.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+DCIS status post lumpectomy and radiation therapy at ___
+Seizure
+Hyperlipidemia
+Asthma
+Prior diverticulitis and colitis and ___
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+
+ 
+Physical Exam:
+Admission EXAM(8)
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, tender to palpation in the LLQ.
+No rebound.  Bowel sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+Discharge exam:
+Vitals: temp 98.2; BP 98/50; HR 62; RR 18; O2 98% RA
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, mild tender to palpation in the 
+LLQ.
+No rebound or  guarding.  Bowel sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+Imaging:
+CT abd/pelvis:
+Focal wall thickening of the sigmoid colon with extensive
+surrounding fat stranding and small free fluid. There is a small
+microperforation without drainable collection. Findings are most
+in keeping with diverticulitis. Direct visualization after
+resolution of symptoms is recommended.
+
+admission Labs:
+
+___ 05:26AM BLOOD WBC-7.5 RBC-3.86* Hgb-11.4 Hct-34.9 
+MCV-90 MCH-29.5 MCHC-32.7 RDW-11.9 RDWSD-39.5 Plt ___
+___ 05:26AM BLOOD Glucose-114* UreaN-5* Creat-0.5 Na-140 
+K-3.8 Cl-104 HCO3-25 AnGap-11
+
+Discharge Labs:
+
+___ 05:36AM BLOOD WBC-6.7 RBC-3.84* Hgb-11.3 Hct-34.1 
+MCV-89 MCH-29.4 MCHC-33.1 RDW-11.9 RDWSD-38.5 Plt ___
+___ 05:36AM BLOOD Glucose-81 UreaN-4* Creat-0.6 Na-143 
+K-3.9 Cl-106 HCO3-21* AnGap-___ female with the past medical history notable for 
+DCIS s/p Lumpectomy and radiation therapy at BWH, seizure, HLD, 
+asthma, and prior diverticulitis and colitis in ___ who 
+presented to urgent care on ___ at ___ with 1 week of lower
+quadrant abdominal pain who was found to have diverticulitis 
+with mirocperforation and is being admitted for IV antibiotics 
+and pain control. 
+
+#Acute complicated diverticulitis: Patient presented with new 
+onset left lower quadrant pain in the setting of prior history 
+of diverticulitis/colitis.  She has CT imaging consistent with 
+diverticulitis with a microperforation with no drainable abscess 
+or collection.  Seen by surgery and no role for surgical 
+intervention at this time. She was started on cipro/flagyl and 
+bowel rest with improvement of symptoms. At discharge she was 
+able to tolerate a PO diet and her pain had nearly completely 
+resolved. She remained afebrile and without leukocytosis. She 
+was discharged on cipro/flagyl to complete total 7 day course of 
+abx through ___. Should consider outpatient colonoscopy in ___ 
+weeks for further evaluate underlying etiology.
+
+#Mild intermittent asthma: Not currently in flare. No wheezing 
+currently. Continue home medications. 
+
+# GERD:- Continue home omeprazole. 
+
+#HA- Resolved with Tylenol. 
+
+Transitional Issues:
+[] consider colonoscopy In ___ weeks
+
+Greater than 30 min spent on discharge planning
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO BID 
+2. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+3. Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB 
+4. EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+continue taking through ___.  MetroNIDAZOLE 500 mg PO Q8H 
+continue taking through ___.  Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB  
+4.  EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1  
+5.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+6.  Omeprazole 20 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+diverticulitis with microperforation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with abdominal pain. You were found to likely 
+have diverticulitis causing your symptoms. You were started on 
+antibiotics and bowel rest with improvement of symptoms. You 
+remained stable so you were discharged home to complete your 
+antibiotic therapy.
+
+New Medications:
+1) Ciprofloxacin is an antibiotic. Please take twice a day
+2) Flagyl is a an antibiotic. Please take three times a day
+
+Best of luck in your recovery,
+Your ___ care team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,345 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Palpitations, Lightheadedness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old
+female with a history of HTN, HLD and paroxysmal SVT who 
+presents
+as a transfer from ___ for persistent SVT causing
+hypotension. 
+
+Patient was in her normal state of health the day of 
+presentation
+when she experienced palpitations and diaphoresis with 
+associated
+lightheadedness. Patient states that she has had a history of
+"fast heart rate" since her ___ years but that usually
+episodes are self-limited and occur for 30 min-an hour at a 
+time.
+Episodes are not usually associated with lightheadedness. Her
+last episode prior to today's event was ___. Patient
+states that she similarly felt palpitations and the sensation
+that her heart was beating very fast but did not experience
+associated lightheadedness. She states that this lasted for 
+about
+2 hours and then it stopped.  She denies any associated nausea,
+chest pain, shortness of breath or any preceding upper
+respiratory complaints including cough, fevers, chills, HA. She
+does note ___ days of loose stools with some increase in
+frequency of stooling for about the last 7 days. After last
+episode on ___, it was recommended by patient's PCP that she 
+see
+a cardiologist in the community but she has not done this yet.
+
+Patient presented to ___ where she was found to have a
+narrow complex tachycardia to 160. In the ___ "vagal maneuvers
+were attempted and patient had 'successful cardioversion to
+normal sinus rhythm'."  Patient had recurrent SVT to 160 with
+mild hypotension shortly after this time. She was given 
+adenosine
+6 mg IV x1 with return to normal sinus rhythm.  This sustained
+for ___ minutes and then pt had recurrence of SVT with
+hypotension. "Additional adenosine deferred in favor of
+increasing AV nodal tone."  Given hypotension, patient was given
+IV diltiazem, IV calcium and IV Neo-Synephrine.  This 
+combination
+was "effective in causing recurrent periods of NSR followed by
+SVT."  Patient "loaded" with 30 mg of p.o. diltiazem.  Over a
+period of 1.5 hours diltiazem with assistance of Neo-Synephrine
+was titrated up to 15 mg/hr eventually resulting in sustained
+cardioversion to normal sinus rhythm.  Bedside TTE performed
+which showed ? mildly depressed EF.  Given recurrent and
+refractory SVT despite high dose of AV nodal blockade, patient
+was transferred to ___ for EP evaluation.
+
+In the ___, initial vitals: HR 69 BP 145/80 RR16 97% RA
+- EKG: Normal sinus rhythm
+- Labs/studies notable for:
+Chemistry: Na 143, K 4.1 Cl 112, BUN 13, Cr 0.5
+CBC: WBC 8.7 Hgb 12.2 Plt 203 
+INR 1.1
+Trop: 0.03
+- Patient was given: No medications
+- Vitals on transfer:
+
+On arrival to the cardiology ward, patient reports the above
+history. She denies current symptoms including palpitations,
+chest pain, shortness of breath.
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS
+- Diabetes
+- Hypertension
+- Dyslipidemia
+
+2. CARDIAC HISTORY
+- CABG: None
+- PERCUTANEOUS CORONARY INTERVENTIONS: None
+- PACING/ICD: None
+
+3. OTHER PAST MEDICAL HISTORY
+- "Mild" COPD, uses Qvar inhaler only in setting of URIs
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.
+
+ 
+Physical Exam:
+VS: Temp 99.0 HR 65 BP 118/70 RR 15 SaO2 94% RA 
+GENERAL: NAD, pleasant, AAOx3
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+ 
+Pertinent Results:
+STUDIES
+=======
+ 
+TELEMETRY ___: HRs in the ___, no events   
+
+ECG ___:
+sinus rhythm, atrial and ventricular rate of 66 normal axis,
+normal intervals, no ST or T wave changes, no delta waves
+
+ECG from ___ ___:
+Rates 160s, regular rhythm, normal axis, narrow QRS, QTc 430,
+notching of s waves in inferior leads and r wave in avR, pseudo 
+r
+wave in V1   
+
+Holter Monitor ___:
+The patient underwent Holter monitoring, was 
+monitored for 23 hours and 59 minutes.  There were total of
+88,333 beats.  The average heart rate was 63, ranging between 38
+and 158.  Underlying rhythm sinus. Occasional premature
+ventricular complexes were noted.  No other significant 
+tachyarrhythmias, bradyarrhythmias, or pauses.
+CONCLUSION:
+1. Underlying sinus rhythm.
+2. Average heart rate OF 63 beats per minute.
+3. Occasional ectopy including PVCs.
+4. No other significant tachyarrhythmias, bradyarrhythmias, or
+pauses.
+
+Holter Monitor ___:
+1)  Patient was monitored for 24-hours and 0-minutes. There were
+a total of 101,
+414 beats with an average heart rate of 70-beats/minute.  
+Maximum
+heart rate 137
+beats/minute; minimum heart rate 43-beats/minute.  
+2)  Underlying rhythm was sinus rhythm.  
+3)  Occasional PACs and PVCs with infrequent ventricular 
+couplet.
+
+4)  Several episodes of narrow complex tachycardia, which
+occurred spontaneously
+, cannot rule out paroxysmal atrial tachycardia.  
+5)  Clinical correlation suggested. 
+6)  No significant pauses. 
+
+CONCLUSION:  
+1)  Underlying sinus rhythm with an average heart rate of
+70-beats/minute. 
+2)  Occasional PACs - PVC and ventricular bigeminy. 
+3)  Several episodes of narrow complex tachycardia, consider
+sinus tachycardia versus paroxysmal atrial tachycardia. 
+
+___ Monitor ___:
+ FINDINGS:
+ 1. Underlying rhythm normal sinus; average heart rate 66;
+slowest
+ heart rate 42 at hour of sleep; highest heart rate 139 at 
+12:43;
+ sinus tachycardia.
+ 2. Occasional unifocal PVC's; no couplets, triplets or V-tach.
+ 3. No SVT, A. fib, bradyarrhythmias or pauses.
+ 4. No ST-T abnormalities.
+ 5. No symptoms reported.
+
+TTE ___
+2 - D FINDINGS: 
+Somewhat technically limited study.  Left ventricle is normal
+size, showed preserved systolic function.  Global ejection
+fraction of 65%.  The left atrium, right atrium, right ventricle
+are normal.  The aortic root shows mild proximal 
+dilation.  The aortic valve, tricuspid valve are normal.  The
+mitral valves with mild leaflet thickening with borderline
+prolapse of posterior mitral valve leaflet.  There is no
+significant pericardial effusion or mural thrombus.  
+Doppler examination shows trace mitral insufficiency, trace
+tricuspid insufficiency.  The aortic root at the valve is 37 mm,
+ascending 35 mm.
+
+CONCLUSIONS:
+1.  Somewhat technically limited study.
+2.  Normal left ventricular size with preserved systolic
+function.
+3.  Global ejection fraction of 65%.
+4.  Mild proximal aortic root dilation.
+5.  Borderline mitral valve prolapse with trace mitral
+insufficiency.
+6.  Trace tricuspid insufficiency. 
+
+Exercise Stress Test ___
+1)  Good exercise tolerance stopping at 9-minutes and 30-seconds
+secondary to 
+fatigue.
+2)  Normal heart rate and blood pressure response.
+3)  No chest pain.
+4)  No ischemia.
+5)  Patient had occasional symptomatic unifocal PVC's
+post-exercise.  No V-tach.
+
+EKG's - narrow complex tachycardia at rate of 158 with 
+retrograde P-waves notable most in III c/w AVNRT.
+
+LABS:
+
+___ 07:55AM BLOOD WBC-8.5 RBC-4.30 Hgb-12.8 Hct-38.4 MCV-89 
+MCH-29.8 MCHC-33.3 RDW-12.3 RDWSD-40.1 Plt ___
+___ 07:55AM BLOOD Glucose-87 UreaN-12 Creat-0.6 Na-146 
+K-4.3 Cl-110* HCO3-23 AnGap-13
+___ 01:15AM BLOOD CK-MB-4 cTropnT-0.02*
+___ 07:55AM BLOOD Albumin-4.1 Calcium-8.9 Phos-3.1 Mg-2.6
+
+___ TTE
+The left atrial volume index is normal. The estimated right 
+atrial pressure is ___ mmHg. There is normal
+left ventricular wall thickness with a normal cavity size. There 
+is normal regional and global left
+ventricular systolic function. Quantitative biplane left 
+ventricular ejection fraction is 73 %. Left
+ventricular cardiac index is normal (>2.5 L/min/m2). There is no 
+resting left ventricular outflow tract
+gradient. Normal right ventricular cavity size with normal free 
+wall motion. The aortic sinus is mildly
+dilated with normal ascending aorta diameter for gender. The 
+aortic arch diameter is normal with a
+normal descending aorta diameter. There is no evidence for an 
+aortic arch coarctation. The aortic valve
+leaflets (3) appear structurally normal. There is no aortic 
+valve stenosis. There is no aortic regurgitation.
+The mitral valve leaflets are elongated with mild posterior 
+leaflet systolic prolapse. There is a latesystolic
+jet of mild [1+] mitral regurgitation. The tricuspid valve 
+leaflets appear structurally normal.
+There is physiologic tricuspid regurgitation. The estimated 
+pulmonary artery systolic pressure is normal.
+There is no pericardial effusion.
+IMPRESSION: Normal left ventricular wall thickness and 
+biventricular cavity sizes and regional/
+global systolic function. Posterior leaflet mitral valve 
+prolapse with mild mitral regurgitation.
+CLINICAL IMPLICATIONS: Based on the echocardiographic findings 
+and ___ ACC/AHA
+recommendations, antibiotic prophylaxis is NOT recommended.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old female with a history of HTN, HLD 
+and paroxysmal SVT who presented to ___ for more 
+persistent SVT with symptoms of palpitations and 
+lightheadedness. At ___, she was treated with vagal 
+maneuvers, with brief resolution followed by recurrence. IV 
+metoprolol and dilt were not effective. Adenosine was pushed and 
+patient went into NSR. However, her SVT again recurred and 
+decision was made to transfer to ___ for EP consultation and 
+consideration of ablation. In the interim, she went back into 
+NSR and was maintained in NSR throughout her hospital course in 
+___. EP was consulted and confirmed diagnosis of AVNRT. 
+Ablation was deferred to ___ given patient was given metoprolol 
+in AM. She was educated on vagal maneuvers and given verapamil 
+PO to use PRN in case of symptoms. Metoprolol was discontinued. 
+
+# AVNRT: H/o palpitations since teenage years, no prior w/u or 
+cardiologist as patient was not bothered by them due to 
+transient nature of symptoms (seconds to ___ min's). Recently 
+had become more frequent and longer lasting. Presented to ___ 
+___ (see hospital course above). TTE done with ***.
+- Planned ablation ___, patient is not to be on AVNB prior to 
+procedure.
+- Metoprolol discontinued. 
+- Verapamil PO PRN and vagal maneuvers PRN for recurrence.
+
+# HTN: Continue lisinopril, stop metoprolol. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Pravastatin 5 mg PO QPM 
+4. Metoprolol Succinate XL 100 mg PO DAILY 
+5. Fish Oil (Omega 3) 1000 mg PO Frequency is Unknown 
+
+ 
+Discharge Medications:
+1.  Verapamil 80 mg PO Q8H:PRN Palpitations 
+Do not take 24 hr's prior to planned ablation.  
+RX *verapamil 80 mg 1 tablet(s) by mouth Q8H:PRN Disp #*30 
+Tablet Refills:*1 
+2.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+3.  Aspirin 81 mg PO DAILY  
+4.  Lisinopril 20 mg PO DAILY  
+5.  Pravastatin 5 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+AVNRT
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with an arrhythmia. You were 
+seen by our electrophysiology experts and diagnosed with AVNRT 
+(AV nodal reentry tachycardia). They scheduled an ablation 
+procedure ___ that will cure your arrhythmia. Your metoprolol 
+was stopped and replaced with verapamil that should only be 
+taken when you feel that you go into an arrhythmia. 
+
+Your blood pressure management will have to be changed by your 
+primary care doctor as you should not be on a beta blocker prior 
+to the ablation procedure. 
+ 
+Followup Instructions:
+___

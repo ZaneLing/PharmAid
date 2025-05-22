@@ -1,0 +1,231 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Augmentin / azithromycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Pt is a ___ F with a history of hemochromatosis presenting with
+1 day of abdominal pain, n/v.
+
+Pt states that she was out at dinner last night when she
+developed sudden onset diffuse crampy abdominal pain associated
+with several episodes of watery diarrhea and NBNB vomiting. 
+States she also had chills but no recorded fever.   Denies SOB,
+CP, rash, or urinary symptoms.  No prior similar symptoms, no
+known food-borne exposures.  No recent travel.
+
+Of note, pt with hemochromatosis that was diagnosed several 
+years
+ago when she had a w/u for anemia that revealed high iron 
+levels,
+she otherwise does not have known complications related to this. 
+
+She was also evaluated by GI for one episode of rectal bleeding
+and had a recent flex sig that showed internal hemorrhoids that
+were possibly the source of bleeding.
+
+In the ED, VS: 97.8, 84, 106/67, 16, 100% RA
+Exam notable for RUQ tenderness
+Labs notable for WBC: 13.1, ALT: 70, AST: 80, AP: 114, Tbili:
+0.8.  Rest of Chem7 largely unremarkable
+RUQ us showed liver steatosis and normal gallbladder without
+cholelithiasis
+She was given Zofran, NS, GI cocktail, PPI and admitted to
+medicine for further w/u of GI symptoms and LFT abnormalities.
+
+When seen on the floor, pt reports feeling much better.  Still
+having some abdominal pain but otherwise n/v/d resolved.  No
+longer having chills.
+ 
+Past Medical History:
+Hemochromatosis
+Internal hemorrhoids
+Anxiety
+Psoriasis
+ 
+Social History:
+___
+Family History:
+Reviewed and felt to be non-contributory to pt's presentation
+ 
+Physical Exam:
+Admission Physical Exam:
+========================
+VITALS: ___ 1138 Temp: 98.9 PO BP: 101/68 R Lying HR: 57 
+RR:
+18 O2 sat: 96% O2 delivery: RA 
+GENERAL: pleasant, laying in bed, in NAD
+EYES: no scleral icterus, no conjunctival injection
+ENT: MMM, clear OP, normal hearing
+NECK: Supple, no appreciable LAD
+RESP: CTA b/l, no w/r/r, non-labored breathing
+CV: RRR, no m/r/g
+GI: Soft, NT/ND, normoactive BS
+GU: no foley
+EXT: wwp, no edema
+SKIN: no lesions, no rashes
+NEURO: AOx3, moving all extremities purposefully
+PSYCH: normal mood and affect
+
+Discharge Physical Exam:
+========================
+VITALS: 98.4 108/68 64 18 98 RA 
+GENERAL: pleasant, laying in bed, in NAD
+EYES: no scleral icterus, no conjunctival injection
+ENT: MMM, clear OP, normal hearing
+NECK: Supple, no appreciable LAD
+RESP: CTA b/l, no w/r/r, non-labored breathing
+CV: RRR, no m/r/g
+GI: Soft, NT/ND, normoactive BS
+GU: no foley
+EXT: wwp, no edema
+SKIN: no lesions, no rashes
+NEURO: AOx3, moving all extremities purposefully
+PSYCH: normal mood and affect
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 02:25AM BLOOD WBC-13.1* RBC-4.21 Hgb-13.8 Hct-39.8 
+MCV-95 MCH-32.8* MCHC-34.7 RDW-11.8 RDWSD-40.8 Plt ___
+___ 02:25AM BLOOD Neuts-88.8* Lymphs-5.4* Monos-4.3* 
+Eos-0.8* Baso-0.2 Im ___ AbsNeut-11.63* AbsLymp-0.70* 
+AbsMono-0.56 AbsEos-0.10 AbsBaso-0.03
+___ 02:25AM BLOOD Glucose-135* UreaN-11 Creat-0.7 Na-138 
+K-4.1 Cl-98 HCO3-23 AnGap-17
+___ 02:25AM BLOOD ALT-70* AST-80* AlkPhos-114* TotBili-0.8
+___ 02:25AM BLOOD Albumin-4.2 Iron-120
+
+Pertinent Labs:
+===============
+___ 02:25AM BLOOD calTIBC-317 Ferritn-119 TRF-244
+
+Reports:
+========
+RUQ US:
+Echogenic liver consistent with steatosis. Other forms of liver 
+disease 
+including steatohepatitis, hepatic fibrosis, or cirrhosis cannot 
+be excluded on the basis of this examination. 
+2. Normal gallbladder. 
+
+CXR:
+No focal consolidation.  No free air under the right 
+hemidiaphragm.  
+Visualized upper abdomen is unremarkable. 
+
+Discharge Labs:
+===============
+___ 06:58AM BLOOD WBC-6.3 RBC-3.79* Hgb-12.4 Hct-37.2 
+MCV-98 MCH-32.7* MCHC-33.3 RDW-12.0 RDWSD-43.6 Plt ___
+___ 06:58AM BLOOD Glucose-77 UreaN-5* Creat-0.6 Na-143 
+K-4.4 Cl-105 HCO3-23 AnGap-15
+___ 06:58AM BLOOD ALT-46* AST-39 AlkPhos-80 TotBili-0.3
+___ 06:58AM BLOOD Albumin-3.6 Calcium-8.8 Phos-3.5 Mg-2.___ with possible history of hemochromatosis who presented with 
+sudden onset abdominal pain, vomiting, and diarrhea likely 
+secondary to viral gastroenteritis. She was also found to have 
+asymptomatic LFT elevation.
+
+# Viral gastroenteritis:
+Presented with abdominal pain (initially diffuse, then more 
+localized to RUQ) along with vomiting and diarrhea. Sudden onset 
+of symptoms likely consistent with food poisoning vs. viral 
+gastroenteritis. There were no gallstones on RUQ US to suggest 
+cholelithaisis vs.
+choledocholithiasis as an underlying etiology. She remained 
+afebrile. Her symptoms rapidly improved and had resolved at time 
+of discharge.
+
+# Elevated LFTs:
+Presented with mildly elevated ALT/AST/AP. She has no prior LFTs 
+in our system. RUQ US showed steatosis with no other obvious
+abnormalities. She denied significant alcohol intake, although 
+does drink socially in the setting of possible hemochromatosis. 
+Elevated LFTs may have been related to acute infection given 
+they were downtrending at discharge (AST and AP within normal 
+limits, ALT improved to 46 from 70). Of note, she does have a 
+history of possible hemochromatosis and should have LFTs 
+rechecked as an outpatient to ensure that they have fully 
+normalized
+
+# Hemochromatosis:
+Reports this was found incidentally and diagnosed abroad. She 
+has not
+had any treatment for this or had any obvious complications. 
+Transferrin saturation was borderline at 49% with a normal 
+ferritin of 119. Given borderline transferrin saturation, could 
+consider genetic testing as an outpatient
+
+# Anxiety: continued home prn Ativan
+
+Transitional Issues:
+====================
+- LFTs mildly elevated and RUQ US suggestive of some steatosis. 
+She should have LFTs rechecked within one week and consider 
+further imaging to evaluate if steatosis has resolved
+- she reports a history of hemochromatosis, unclear how this has 
+been diagnosed. Transferrin saturation borderline high but 
+ferritin normal. Could consider outpatient genetic testing for 
+hemochromatosis
+
+> 30 minutes spent on discharge planning and coordination
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Calcipotriene 0.005% Cream 1 Appl TP BID 
+2. LORazepam 0.5 mg PO QHS:PRN anxiety/insomnia 
+
+ 
+Discharge Medications:
+1.  Calcipotriene 0.005% Cream 1 Appl TP BID  
+2.  LORazepam 0.5 mg PO QHS:PRN anxiety/insomnia  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Viral gastroenteritis
+Elevated LFTs
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came in because you were having abdominal pain as well as 
+vomiting and diarrhea. These symptoms were likely due to a 
+gastroenteritis. Now that your symptoms have resolved we feel it 
+is safe for you to leave the hospital.
+
+While you were here your liver tests were slightly high. These 
+have improved, but you should have your liver tests rechecked by 
+your primary doctor in the next week to make sure that they 
+remain normal.
+
+It was a pleasure taking care of you and we are happy that 
+you're feeling better!
+ 
+Followup Instructions:
+___

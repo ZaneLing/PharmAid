@@ -1,0 +1,326 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Coronary angiography with primary percutaneous intervention with 
+deployment of a drug-eluting stent in the RCA
+ 
+History of Present Illness:
+Patient is a ___ yo Caucasian man with H/O NIDDM, hyperlipidemia, 
+hypertension and gout who presented with ___ days of 
+intermittent morning chest pressure and sudden onset of 
+persistent chest pain on the morning of presentation and was 
+found to have inferior wall ST segment elevation myocardial 
+infarction (STEMI). 
+
+Patient states that for the past ___ days, he noticed that he 
+was having chest pain between ___ in the morning that would last 
+<3 minutes. These would also occur upon first awakening in the 
+morning over this time period. He described the pain as heavy 
+and pressure like without association of back pain, arm, neck, 
+jaw pain, numbness or tingling. There was also no associated 
+shortness of breath or diaphoresis. He had never experienced 
+symptoms like this before.
+
+He states one day prior to presentation, he started drinking at 
+noon and had between ___ beers consistent with his normal 
+___ routine (he does not drink during the week at all) and 
+came home and passed out in the evening without symptoms. Then, 
+the morning of the day of presentation, he woke up at 4:30 with 
+crushing chest pain which he tried to wait out as he did with 
+his prior episodes, however it persisted. At 0530, he drove 
+himself to ___ where he was found to have inferior 
+wall MI with ST elevations  III>II, aVF. He was transferred to 
+the ___ where emergent coronary angiography found an ulcerated 
+subtotal occlusion of RCA treated successfully with 1 DES, ASA 
+and ticagralor; he also had a 40% distal LMCA stenosis.
+ 
+Past Medical History:
+-Diabetes (NIDDM)
+-Hypertension  
+-Dyslipidemia  
+-Gout
+-Obesity
+-Alcoholism-Binge Drinking Type
+-Smoking (2 ppd x ___ yr = 60 pyh)
+ 
+Social History:
+___
+Family History:
+Strong family history of diabetes mellitus. + family H/O 
+hypertension. No family H/O heart attack, stroke or early or 
+sudden cardiac death. Maternal hypothyroidism. MGM with 
+laryngeal/vocal cord cancer.
+ 
+Physical Exam:
+On admission
+GENERAL: Young white man in NAD. Oriented x3. Mood, affect 
+appropriate.
+VS: T 98.1 BP 139/86 HR 94 RR18 SaO2 98% on RA; FSBS: 97
+Tele: NSR
+Weight: 112.6 kg (admit)
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.
+NECK: Supple without JVP. No carotid bruit.
+CARDIAC: Regular. normal S1, S2. No murmurs, rubs, gallops.
+LUNGS: CTA bilaterally--no crackles, wheezes or rhonchi. Resp 
+were unlabored, no accessory muscle use. 
+ABDOMEN: Protuberent. Soft, non-tender, not distended. No HSM or 
+tenderness.
+EXTREMITIES: Warm. No clubbing, cyanosis or edema. Right radial 
+arteriotomy site with dried blood. No hematoma. Right hand 
+neurovascularly intact. 
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Distal pulses palpable and symmetric.
+
+At discharge
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.    
+VS: T 97.9 BP 135/84 HR 67 RR 18 O2 sat 97% on RA
+NECK: Supple without JVP. No carotid bruit.
+CARDIAC: Regular. normal S1, S2. No murmurs, rubs, gallops.  
+LUNGS: CTA bilaterally: no crackles, wheezes or rhonchi. Resp 
+were unlabored, no accessory muscle use.
+ABDOMEN: Protuberent. Soft, non-tender, not distended. No HSM or 
+tenderness.  
+EXTREMITIES: Warm. No clubbing, cyanosis or edema. Right radial 
+arteriotomy site with dried blood. No hematoma. Right hand 
+neurovascularly intact. 
+PULSES: Distal pulses palpable and symmetric. 
+ 
+Pertinent Results:
+___ 06:53AM BLOOD WBC-13.0* RBC-4.84 Hgb-14.9 Hct-42.9 
+MCV-89 MCH-30.8 MCHC-34.7 RDW-13.4 RDWSD-43.6 Plt ___
+___ 06:53AM BLOOD Neuts-66.6 ___ Monos-7.1 Eos-1.0 
+Baso-0.5 Im ___ AbsNeut-8.70* AbsLymp-3.15 AbsMono-0.92* 
+AbsEos-0.13 AbsBaso-0.06
+___ 06:53AM BLOOD ___ PTT-27.7 ___
+
+___ 10:45AM BLOOD Glucose-97 UreaN-12 Creat-0.6 Na-141 
+K-4.0 Cl-108 HCO3-20* AnGap-17
+___ 10:45AM BLOOD ALT-29 AST-20 CK(CPK)-177 AlkPhos-109 
+TotBili-0.6
+___ 10:45AM BLOOD Albumin-4.3 Calcium-8.8 Phos-3.6 Mg-2.0
+___ 04:50PM BLOOD %HbA1c-6.6* eAG-143*
+___ 04:50PM BLOOD TCholest-127 Triglyc-142 HDL-30 
+CHOL/HD-4.2 LDLcalc-69
+
+___ 06:53AM BLOOD cTropnT-<0.01
+___ 10:45AM BLOOD CK-MB-12* MB Indx-6.8* cTropnT-0.35*
+___ 04:50PM BLOOD CK-MB-22* cTropnT-0.72*
+___ 08:00AM BLOOD CK-MB-11* MB Indx-5.9
+
+___ 07:50AM BLOOD WBC-10.5* RBC-4.95 Hgb-15.3 Hct-44.1 
+MCV-89 MCH-30.9 MCHC-34.7 RDW-13.4 RDWSD-43.8 Plt ___
+___ 07:50AM BLOOD Glucose-145* UreaN-9 Creat-0.6 Na-139 
+K-4.5 Cl-103 HCO3-23 AnGap-18
+___ 07:50AM BLOOD ALT-27 AST-17 AlkPhos-120 TotBili-0.6
+___ 07:50AM BLOOD Calcium-9.2 Phos-3.4 Mg-1.9
+
+ECG ___ 6:46:56 AM
+Sinus rhythm. Early R wave transition. Marked ST segment 
+elevations inferiorly consistent with acute myocardial injury. 
+Lateral ST segment depressions consistent with ongoing ischemia. 
+No previous tracing available for comparison. 
+
+ECG ___ 7:53:52 AM
+Sinus rhythm. Premature ventricular complexes. Non-specific ST 
+segment changes. Compared to tracing #1 the ventricular rate is 
+faster and ventricular ectopy is now appreciated. Markedly ST 
+segment elevations inferiorly and ST segment depressions in the 
+lateral and high lateral leads are no longer appreciated.
+
+ECG ___ 8:22:18 AM
+Sinus rhythm. Early R wave transition. Non-specific ST segment 
+changes inferiorly. Compared to tracing #2 the ventricular rate 
+is markedly slower and ventricular ectopy is no longer 
+appreciated. Consistent T wave inversions are now appreciated 
+inferiorly consistent with probable evolving myocardial 
+infarction.
+
+Coronary angiography ___
+Coronary Anatomy
+Dominance: Right
+  The LMCA had distal 40% stenosis. There were mild luminal 
+irregularities in the LAD. The Cx had mild luminal 
+irregularities. The RCA had a proximal ulcerated 90% lesion.
+Interventional Details
+  A 6 ___ JR4 guiding catheter was used to engage the RCA and 
+provided sub-optimal support. A 180 cm ChoICE ___ XS guidewire 
+was then successfully delivered across the lesion. Predilated 
+with a 2.5 mm balloon. Deployed a 3.0 x 26 mm Resolute stent. 
+Final angiography revealed normal flow, no dissection and 0% 
+residual stenosis.
+
+Impressions:
+1. Inferior STEMI successfully treated with primary PCI using 
+DES.
+Recommendations
+1. Secondary prevention CAD.
+2. ASA 81 mg a day.
+3. Ticagrelor 90 mg BID. Give dose tonight.
+4. Smoking cessation.
+
+Echocardiogram ___
+The left atrium is mildly dilated. The left atrium is elongated. 
+The estimated right atrial pressure is ___ mmHg. Left 
+ventricular wall thicknesses and cavity size are normal. There 
+is mild regional left ventricular systolic dysfunction with 
+basal inferior akinesis and inferolateral hypokinesis. The 
+remaining segments contract normally. Quantitative (3D) LVEF = 
+44%. Right ventricular chamber size and free wall motion are 
+normal. The diameters of aorta at the sinus, ascending and arch 
+levels are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis. Trace aortic regurgitation is seen. The mitral valve 
+leaflets are structurally normal. There is no mitral valve 
+prolapse. An eccentric, posteriorly-directed jet of mild (1+) 
+mitral regurgitation is seen. The pulmonary artery systolic 
+pressure could not be determined. There is no pericardial 
+effusion.
+IMPRESSION: Mild regional left ventricular systolic dysfunction, 
+c/w CAD. Mild ischemic mitral regurgitation.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with a history of hypertension, 
+hyperlipidemia, diabetes mellitus, significant tobacco and 
+alcohol use who presented with chest pain and was found to be 
+suffering an inferior wall STEMI with 90% stenosed ulcerated RCA 
+treated successfully with one drug eluting stent with 
+restoration of blood flow. He was started on a beta blocker and 
+dual antiplatelet therapy with ticagrelor and aspirin.
+
+# STEMI: Patient presented to ___ and was found to 
+be having an acute inferior wall STEMI on EKG. He was 
+transferred to ___ for coronary angiography which showed a 40% 
+distal LMCA lesion and a 90% stenosed RCA. Blood flow was 
+restored with a drug eluting stent deployed to the RCA. He was 
+started on a beta blocker and dual antiplatelet therapy with 
+ticagrelor and aspirin in addition to continuing his home 
+medications. Peak CK-MB was 22. Post PCI, he had mild 
+palpitations which correlated with short runs of non sustained 
+ventricular tachycardia on telemetry. He was not having 
+palpitations at the time of discharge with telemetry showing 
+intermittent, asymptomatic PVCs on metoprolol. Echocardiogram on 
+___ showed an EF 44% with basal inferior akinesis and 
+inferolateral hypokinesis. The remaining segments contract 
+normally. The importance of smoking cessation and benefits of 
+outpatient cardiac rehabilitation were discussed with the 
+patient, along with the importance of uninterrupted dual 
+anti-platelet therapy. The patient was provided with a 
+prescription and referral information for outpatient cardiac 
+rehabilitation.
+
+His discharge medications are as follows:
+- ASA 81 mg
+- Ticagrelor 60 mg BID
+- Atorvastatin 80 mg 
+- Metoprolol succinate 100 mg daily 
+- Lisinopril 10mg daily 
+
+# Lifestyle Modification: Patient is overweight and has a 
+significant history of tobacco and alcohol use. We discussed the 
+importance of lifestyle modification to improve his health. 
+- Nicotine patch provided during hospitalization and discharge. 
+- Alcohol use counseling provided
+- Discussed diet
+
+# ___ mellitus. Metformin held for 48 hours after 
+administration of iodinated contrast for his coronary 
+angiography and PCI. HbA1c 6.6%.
+
+*****TRANSITIONAL ISSUES*****
+# CODE: Full Code
+# Contact/HCP: ___
+# Cardiac rehab as outpatient
+# Discharge weight: 98.3 kg 
+# Started dual anti-platelet therapy with ASA and ticagrelor s/p 
+stent. He should NOT exceed more than 100 mg of aspirin daily 
+while on ticagrelor.
+# Started beta blocker post-MI
+# Smoking cessation - prescribed nicotine patch but likely needs 
+more support with personalizing a quit plan. 
+# Binge drinking - alcohol counseling provided, continue as 
+outpatient
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN (Glucophage) 1000 mg PO BID 
+2. Lisinopril 10 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. Aspirin 81 mg PO DAILY 
+5. OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN Pain - 
+Moderate 
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 100 mg PO DAILY 
+2.  Nicotine Patch 14 mg TD DAILY 
+3.  TiCAGRELOR 90 mg PO BID 
+4.  Aspirin 81 mg PO DAILY 
+5.  Atorvastatin 80 mg PO QPM 
+6.  Lisinopril 10 mg PO DAILY 
+7.  MetFORMIN (Glucophage) 1000 mg PO BID 
+8.  OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO Q6H:PRN Pain - 
+Moderate
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Inferior wall ST elevation myocardial infarction involving the 
+right coronary artery.
+-Tobacco (cigarette) depedence
+-Alcohol abuse
+-Diabetes mellitus, type 2
+-Hypertension
+-Hyperlipidemia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you during your stay at ___ 
+___.  
+
+You came to the hospital because you were having chest pain.  
+Your lab tests and heart's electrical activity indicated you 
+were having a type of heart attack known as "STEMI".  A cardiac 
+catheterization was performed and a stent was placed in a 
+blocked coronary artery to restore blood flow to your heart. 
+
+It is VERY important to take your new medications every day as 
+prescribed.  This will reduce the chances of serious 
+complications from your heart attack such as the stent closing 
+or having irregular heart rhythms.  
+
+We also discussed the need for several lifestyle modifications, 
+most importantly quitting smoking.  Your primary care doctor can 
+help you create a personalized quit plan that will have the 
+highest chance of success. 
+
+You will need to have labs drawn ___ and then follow up with 
+your primary care doctor and ___ cardiologist - see appointments 
+below.
+
+Best, 
+
+Your ___ medical team 
+ 
+Followup Instructions:
+___

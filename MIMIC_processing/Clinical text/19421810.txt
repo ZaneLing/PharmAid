@@ -1,0 +1,190 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+black stool
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Patient is a ___ yo M with N/V/D since three days and low grade 
+temp to 100.0, no abdominal pain, but some cramping. For symptom 
+relieve he took Kaopectate and to rehydrate him self he drank 
+GatorAde. Per wife he than turned very dark to almost black. She 
+called PCP,  who recommended ED eval. Pt denies any hx of GI 
+bleed, had no EGD, but colonoscopy in ___  showing  a single 
+sessile polyp of benign appearance colon otherwise nl colon. He 
+is not on anticoagulation with exception of baby aspirin for 
+ppx. Rarely GERD like symptoms, never had hemoptysis.
+He endorses some lightheaded but no dizzyness. No travel hx or 
+sick contact. Otherwise healthy and negative ROS.
+.  
+In the ED, initial vs were: T 99.6 81 BP 127/71 RR 18 O295% P BP 
+R O2 sat. Patient was given 2L NS and admitted for presumed GI 
+bleed and ARF - guaiac negative in ED. He was guaic negative, CT 
+scan positive for diverticulosis only.
+
+ 
+Past Medical History:
+1. Coronary artery disease status post RCA and left circumflex
+stents in 1990s.
+2. Hypertension.
+3. Hyperlipidemia.
+4. Seasonal allergies
+5. GERD
+ 
+Social History:
+___
+Family History:
+No family history of premature coronary artery disease, 
+unexplained heart failure, or sudden death. 
+ 
+Physical Exam:
+Vitals: T: 98.6 BP: 118/68 P: 77 R: 18 O2:98%RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, minimal LLQ tenderness no guarding or rebound, 
+not distended, bowel sounds present, 
+Ext: Warm, well perfused, 2+ pulses,
+ 
+Pertinent Results:
+___ 05:35AM BLOOD WBC-5.6 RBC-4.11* Hgb-12.9*# Hct-36.2*# 
+MCV-88 MCH-31.4 MCHC-35.7* RDW-13.0 Plt ___
+___ 01:10PM BLOOD WBC-9.6 RBC-5.22 Hgb-16.4 Hct-46.3 MCV-89 
+MCH-31.4 MCHC-35.4* RDW-13.2 Plt ___
+___ 05:35AM BLOOD Neuts-53.4 ___ Monos-10.4 Eos-1.5 
+Baso-0.5
+___ 01:10PM BLOOD Neuts-70.7* ___ Monos-9.4 Eos-0.4 
+Baso-0.5
+___ 01:10PM BLOOD ___ PTT-22.8 ___
+___ 05:35AM BLOOD Glucose-96 UreaN-19 Creat-1.0 Na-142 
+K-3.7 Cl-110* HCO3-23 AnGap-13
+___ 01:10PM BLOOD Glucose-122* UreaN-41* Creat-1.6* Na-139 
+K-3.6 Cl-100 HCO3-24 AnGap-19
+___ 05:35AM BLOOD ALT-48* AST-48* AlkPhos-40 TotBili-0.3
+___ 01:10PM BLOOD ALT-67* AST-63* LD(LDH)-180 AlkPhos-55 
+TotBili-0.4
+___ 05:35AM BLOOD Lipase-64*
+___:10PM BLOOD Lipase-41
+___ 05:35AM BLOOD Calcium-8.0* Phos-2.4* Mg-2.0
+.
+ 
+___ CT abd/pelvis:
+No acute intra-abdominal process.   
+Diverticulosis without evidence of diverticulitis. 
+
+ 
+Brief Hospital Course:
+This is a  ___ yo male with remote cardiac hx who presents with 
+n/v/d and black stool after he took Kaopectate, which contains 
+bismuth, and known to turn stool black.
+.
+#) Black stool: this was the reason why pt was refered to ED and 
+admitted to hospital. He is guaiac negative and rather 
+hemoconcentrated from what is most likely non bloody diarrhea 
+due to simple viral gastro enteritis. Kaopectate discontinued. 
+.  
+#) acute renal failure: likely pre-renal azotemia in the setting 
+of significant volume loss and ACE-I, improved to baseline with 
+2 L IVF. Held ACE-I and atenolol but resumed upon discharge.
+.  
+#) n/v/d/: no hx or physical to indicate bacterial/invasive 
+infection. most likely viral. Given supportive care with anti 
+emetic, 2IVF, and clear liquid diet was advanced to regular as 
+tolerated. c/o gas and given simethicone.
+.
+#)CAD: stable, cont ASA, bp meds held overnight and resumed upon 
+discharge with resolution of ARF.
+.
+# LFT elevation: most likely due to acute viral illness, also 
+predisposed to LFT elevation due to statin/fibrate combo. Had 
+elevation in the past. LFTs trened down with hydration, should 
+be followed as outpatient.
+.  
+#)General Care: FEN: 2IVF overnight, replete electrolytes, clear 
+diet advance as tolerated, Prophylaxis: pneumo boot, H2 blocker, 
+Access: peripherals, Code: full, Communication: Patient, 
+Discharged with resolution of ARF after hydration
+ 
+Medications on Admission:
+1. Atenolol 50 mg once a day    
+2. Fenofibrate Micronized 67 mg once a day with a meal 
+3. Fexofenadine 180 mg Tablet once a day  
+4. Fluticasone 50 mcg/Actuation Spray, 
+5. Lisinopril 5 mg Tablet 
+6. Nitroglycerin 0.3 mg Tablet, Sublingual 
+7. Simvastatin 80 mg once a day  
+8. Zolpidem 10 mg Tablet at bedtime as needed for insomnia 
+9. Aspirin 81 mg Tablet once a day  
+ 
+Discharge Medications:
+1. Atenolol 50 mg Tablet Sig: One (1) Tablet PO once a day.  
+2. Fenofibrate Micronized 67 mg Capsule Sig: One (1) Capsule PO 
+daily with meal ().  
+3. Fexofenadine 60 mg Tablet Sig: Three (3) Tablet PO DAILY 
+(Daily).  
+4. Fluticasone 50 mcg/Actuation Spray, Suspension Sig: Two (2) 
+Spray Nasal DAILY (Daily).  
+5. Lisinopril 5 mg Tablet Sig: One (1) Tablet PO once a day.  
+6. Omeprazole 20 mg Capsule, Delayed Release(E.C.) Sig: One (1) 
+Capsule, Delayed Release(E.C.) PO once a day.  
+7. Simvastatin 40 mg Tablet Sig: Two (2) Tablet PO DAILY 
+(Daily).  
+8. Zolpidem 5 mg Tablet Sig: Two (2) Tablet PO HS (at bedtime) 
+as needed for insomnia.  
+9. Aspirin 81 mg Tablet, Chewable Sig: One (1) Tablet, Chewable 
+PO DAILY (Daily).  
+10. Nitroglycerin 0.3 mg Tablet, Sublingual Sublingual
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Gastroenteritis
+Acute Renal Failure
+
+ 
+Discharge Condition:
+vitals signs stable, ambulating without assistance
+
+ 
+Discharge Instructions:
+You were admitted with diarrhea thought to be caused by a viral 
+gastroenteritis. You were also found to be dehydrated with a 
+mild amount of renal failure that resolved with IV fluids.  
+Also, your liver function tests were slightly above your 
+baseline which may be due to using your cholesterol medications 
+while dehydrated, please make sure to have these repeated by 
+your primary care doctor.
+.
+Please call Dr. ___ on ___ at ___ to schedule a 
+follow up appointment in the next ___ weeks.
+.
+No changes were made to your medication regimen.
+.
+If you develop any of the following, chest pain, shortness of 
+breath, cough, fever, chills, nausea, vomiting, worsening 
+diarrhea, abdominal pain, or dizziness please call your primary 
+care doctor or go to your local emergency room. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,160 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fall, Medflight to ___ s/p fall 30ft from balcony
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Mr. ___ is a ___ who was intoxicated (EtOH 268) at 
+gathering last night s/p fall off a balcony. Reason for fall is 
+under current investigation. He was intubated on scene and 
+brought to ___ for trauma evaluation/activation. Exam on 
+arrival revealed devastating neurologic injury with fixed 
+dilated pupils and no corneals. 
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+noncontributory 
+ 
+Physical Exam:
+Physical Exam on Admission
+Vitals: 91.2  110  144/95  100% FiO2 40% | 12x500 | 5 
+General: intubated, nonresponsive, GCS 3T
+HEENT: fixed, dilated pupils, multiple forehead abrasions, 
+c-collar in place, extravasation of blood from multiple orifices 
+including ears, nose, mouth 
+CV: sinus tachycardia, S1/S2
+Pulm: clear, transmitted mechanical breath sounds
+Abd: soft
+Ext: warm, no purposeful movements 
+Neuro: unable to assess 
+ 
+Pertinent Results:
+Admission Labs
+___ 07:08AM BLOOD WBC-13.7* RBC-2.82* Hgb-8.9* Hct-26.8* 
+MCV-95 MCH-31.6 MCHC-33.2 RDW-13.7 RDWSD-47.6* Plt ___
+___ 07:08AM BLOOD ___ PTT-75.0* ___
+___ 07:08AM BLOOD Glucose-177* UreaN-15 Creat-0.9 Na-143 
+K-4.9 Cl-115* HCO3-16* AnGap-17
+___ 07:08AM BLOOD Calcium-6.5* Phos-4.5 Mg-1.8
+___ 08:44AM BLOOD Type-ART Temp-35.2 pO2-112* pCO2-56* 
+pH-7.13* calTCO2-20* Base XS--11 Intubat-INTUBATED
+___ 08:44AM BLOOD Glucose-92 Lactate-4.9* Na-139 K-5.9* 
+Cl-116*
+___ 05:16AM BLOOD Glucose-123* Lactate-4.4* Na-143 K-3.6 
+Cl-115* calHCO3-17.9*
+Serum EtOH 268
+Serum Benzo, Tricyc - pending
+
+Imaging
+CT Head
+1. Diffuse cerebral edema with possible transtentorial 
+herniation and herniation through the foramen magnum. 
+2. Complex comminuted fracture involving the left frontal, 
+parietal, and temporal bones, as detailed above, with 
+involvement of the carotid canals and pterygoid plates 
+bilaterally. 
+3. Acute left-sided subdural hemorrhage measuring 9 mm in 
+maximal width and left cerebral convexity subarachnoid 
+hemorrhage.  3 mm of midline shift. 
+4. Bilateral orbital floor fractures and possible form plate 
+fractures. 
+
+CT C-spine
+Burst fracture of the entire C5 vertebral body, right lamina and 
+spinous 
+process. Widening of the right C5-6 facet joint suggesting 
+injury to the joint capsule. Minimal retropulsion of the 
+posterior component of the C5 vertebral body. Fracture of the 
+left C7 transverse process. 
+
+CT Torso
+1. Scattered areas of lung contusion involving both lungs.  
+Ill-defined 
+opacities in the dependent portions of the bilateral lower lobes 
+which may be compatible with aspiration versus less likely 
+laceration. 
+2. No fracture. 
+3. No hemoperitoneum or evidence of solid organ injury in the 
+abdomen or 
+pelvis. 
+
+CTA Head
+1. There is dissection of the left internal carotid artery at 
+its petrous 
+portion (2: 272). 
+2. There is abrupt cutoff at the supraclinoid portion the 
+bilateral ICAs.  
+There is no flow noted in the bilateral anterior cerebral 
+arteries. There is very diminutive flow noted in the M1 and M2 
+portions of the bilateral MCAs.  There is very diminutive flow 
+noted in the P1 and P2 portions of the bilateral posterior 
+cerebral arteries. These findings are likely secondary to 
+diffuse cerebral edema. 
+3. Complex fracture involving the left frontal, parietal, 
+temporal bones is described more in detail on the CT head study 
+from the same date. 
+4. Diffuse cerebral edema with transtentorial and tonsillar 
+herniation 
+Final read pending 3D reconstructions. 
+
+CXR
+No acute intrathoracic process.  Patient's lung contusions 
+characterized on same day CT torso  are unable to be appreciated 
+on this study. 
+
+ 
+Brief Hospital Course:
+Stat Trauma was activate on patient arrival to the trauma bay. 
+After primary and secondary exams, there was clear evidence of 
+neurogenic shock and an active skull base hemorrhage. Skull base 
+hemorrhage was ineffectively temporized with nasal and 
+oropharynx packing. CTA head showed evidence of devastating head 
+injury with herniation. Neurosurgery was consulted and deemed 
+that no surgical intervention would be beneficial in this 
+circumstance. Patient was admitted to the trauma ICU for 
+continued resuscitation, on pressors. He received a total of 2 
+blood transfusions. Patient's family arrived shortly thereafter 
+and after discussion patient was made CMO. Attempts to maintain 
+perfusion well enough to allow organ donation attempts were not 
+successful, likely due to the co-existant spinal cord injury 
+with neurigenic shock. The patient was pronounced dead at 13:03 
+(___).
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+deceased
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+fall
+ 
+Discharge Condition:
+deceased 
+ 
+Discharge Instructions:
+deceased 
+ 
+Followup Instructions:
+___

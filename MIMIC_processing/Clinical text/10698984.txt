@@ -1,0 +1,418 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+transient aphasia
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+HPI: 
+___ with PMH of cardiac cath s/p 2 stents, NSTEMI, HTN, NIDDM 
+who
+presented to the ED as a transfer from ___ after 2 episodes
+of aphasia.
+
+Patient states that she was in her usual state of health until
+day of presentation.  She states that around 12:30 ___, she had 
+an
+episode where she was having word finding difficulties.  She
+states that she was able to think of the words; however the 
+words
+just will not come out properly.  For example, instead of saying
+"because", she was a "broccoli".  This first episode lasted 
+about
+15 minutes.  She states that during this time, she was having
+difficulty writing email, because she just could not spell her
+words.  She was also having trouble typing on the keyboard.  She
+also cannot figure out how to print something.  These are
+typically tasks that she would not have any trouble with.  She
+denied other symptoms, no new weakness, numbness or tingling,
+changes in vision.  However, around 3:15 ___, she had another
+episode of word finding difficulty.  She thinks that the second
+episode lasted longer, about 20 minutes or so.  This was when 
+she
+went to the hospital in ___.  Patient states that she had 
+run
+out of her home aspirin several days ago, and not been taking
+aspirin during this time.
+
+Per report, at ___, she had trouble naming, and her
+speech was not fluent. NIHSS 2, for language.  Labs showed INR
+1.1,  troponin 0.07.  CTA head and neck was read as 'no
+occlusion, significant stenosis, or dissection.  No significant
+stenosis right or left internal carotid arteries.  Mild calcific
+plaque formation in both carotid bulbs.  Patent vertebral
+arteries bilaterally.'  Per report from outside hospital, her
+episode of aphasia lasted about 25 minutes, and then afterwards
+had been stuttering and intermittent.  She was given aspirin 325
+prior to transfer.  She was then transferred here for further
+management.
+ 
+ 
+Past Medical History:
+PMH:
+Cardiac cath with 2 stents
+NSTEMI
+HTN
+Laminectomy L4/L5
+Cholecystectomy ___
+Triple arthrodesis left foot
+Lumpectomy right breast
+Bilateral carpal tunnel release
+Bilateral cataract surgery
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:
+Mother had ___
+ 
+Physical Exam:
+PHYSICAL EXAMINATION: 
+Vitals: T: 98.6 BP: 130/80 HR: 81 RR: 17 SaO2: 95%
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted
+Pulmonary: Normal work of breathing.
+Cardiac: Warm, well-perfused.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, Able to relate history without 
+difficulty.
+Attentive, Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects on ___ stroke
+card.  Able to describe cookie picture.  Able to read without
+difficulty. No dysarthria. Able to follow both midline and
+appendicular commands. 
+
+-Cranial Nerves:
+II, III, IV, VI:  L pupil 4->2 R pupil 3->2 both postsurgical.
+EOMI without nystagmus. Normal saccades. VFF to confrontation. 
+
+V: Facial sensation intact to light touch.
+
+VII: R NLFF, present at bedside, her face looks her baseline
+VIII: Hearing intact to conversation.
+
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline 
+
+-Motor: No pronator drift. No adventitious movements, such as
+tremor or asterixis noted.
+  [Delt][Bic][Tri][ECR][FEx][IO][IP][Quad][Ham][TA][Gas]
+L    5    5    5    5    5    5   4+    5    5   5    5    
+R    5    5    5    5    5-   5-  4+    5    5   5    5    
+Patient states that she has bilateral leg weakness at baseline. 
+She states that she has had mild right hand weakness ever since
+her carpal tunnel surgery earlier ___.
+
+-Sensory: No deficits to light touch, pinprick, temperature, 
+vibration, or proprioception throughout. No extinction to DSS. 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   3     2      3      3     1
+R   3     2      3      3     1 
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF bilaterally.
+
+-Gait: Deferred 
+
+Discharge EXAM
+=================
+
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted
+Pulmonary: Normal work of breathing.
+Cardiac: Warm, well-perfused.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, Able to relate history without 
+difficulty.
+Attentive, Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects on ___ stroke
+card.  Able to describe cookie picture.  Able to read without
+difficulty. No dysarthria. Able to follow both midline and
+appendicular commands. 
+
+-Cranial Nerves:
+II, III, IV, VI:  L pupil 4->2 R pupil 3->2 both postsurgical.
+EOMI without nystagmus. Normal saccades. VFF to confrontation. 
+
+V: Facial sensation intact to light touch.
+
+VII: R NLFF, present at bedside, her face looks her baseline
+VIII: Hearing intact to conversation.
+
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline 
+
+-Motor: No pronator drift. No adventitious movements, such as
+tremor or asterixis noted.
+  [Delt][Bic][Tri][ECR][FEx][IO][IP][Quad][Ham][TA][Gas]
+L    5    5    5    5    5    5   4+    5    5   5    5    
+R    5    5    5    5    5    5   4+    5    5   5    5    
+
+-Sensory: No deficits to light touch
+-Reflexes:
+Not tested
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF bilaterally.
+
+-Gait: Deferred 
+
+ 
+Pertinent Results:
+Admission Labs
+===============
+
+___ 07:43PM BLOOD WBC-6.2 RBC-3.63* Hgb-9.8* Hct-32.3* 
+MCV-89 MCH-27.0 MCHC-30.3* RDW-14.6 RDWSD-46.7* Plt ___
+___ 07:43PM BLOOD Neuts-64.6 ___ Monos-7.4 Eos-3.7 
+Baso-0.5 Im ___ AbsNeut-4.00 AbsLymp-1.46 AbsMono-0.46 
+AbsEos-0.23 AbsBaso-0.03
+___ 07:43PM BLOOD ___ PTT-30.4 ___
+___ 07:43PM BLOOD Plt ___
+___ 07:43PM BLOOD Glucose-108* UreaN-22* Creat-0.8 Na-140 
+K-4.4 Cl-106 HCO3-23 AnGap-11
+___ 08:30PM BLOOD ALT-26 AST-22 AlkPhos-84 TotBili-0.3
+___ 08:30PM BLOOD cTropnT-0.01
+___ 08:30PM BLOOD Lipase-43
+___ 08:30PM BLOOD Albumin-3.5 Calcium-9.0 Phos-4.2 Mg-1.5*
+___ 07:04AM BLOOD %HbA1c-5.2 eAG-103
+___ 07:04AM BLOOD Triglyc-173* HDL-46 CHOL/HD-2.4 
+LDLcalc-31
+___ 07:04AM BLOOD TSH-<0.01*
+___ 07:04AM BLOOD Free T4-1.7
+___ 08:30PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+IMAGING
+============
+Radiology ReportMR HEAD W & W/O CONTRASTStudy Date of 
+___ 9:58 AM
+
+ 
+FINDINGS: 
+ 
+There are several punctate foci of increased signal intensity on 
+DWI
+bilaterally, in the left posterior and superior frontal lobe, 
+right superior
+frontal lobe, and left parietal lobe (5; 19, 23, 24, 27).  The 
+foci at the
+left parietal lobe and right superior frontal lobe correspond 
+with low signal
+on ADC and high signal on FLAIR, indicating that these lesions 
+are acute to
+early subacute infarcts.  In addition, there is a 
+periventricular chronic
+lacunar infarct in the left posterior frontal lobe (11; 17).  
+There are also
+multiple foci of decreased signal intensity on GRE in bilateral 
+parietal lobes
+and left posterior frontal lobe that are hypointense on T1, T2, 
+and FLAIR
+which could indicate chronic microhemorrhages or calcium 
+deposits (10; 19). 
+There is no evidence of mass, mass effect, or midline shift.
+ 
+ There are multiple foci of subcortical and periventricular 
+hyperintensities
+on T2 and FLAIR which are nonspecific and likely represent 
+chronic small
+vessel ischemic disease.  Prominent ventricles and sulci are 
+associated with
+age related involutional change.  Major flow voids are 
+preserved.
+ 
+The patient is status post bilateral lens replacements.
+ 
+There is no abnormal enhancement after contrast administration.
+ 
+IMPRESSION:
+ 
+ 
+1. Multiple scattered foci of acute to early subacute infarcts 
+in the left
+posterior and superior frontal lobe, right superior frontal 
+lobe, and left
+parietal lobe.  This pattern suggests a proximal embolic source.
+2. There is no evidence of intracranial mass.
+3. Possible chronic microhemorrhages in the bilateral parietal 
+lobes and left
+posterior frontal lobe.
+4. Chronic infarct in the left posterior frontal lobe.  Chronic 
+small vessel
+ischemic disease.
+
+Transthoracic Echocardiogram ___ 
+___ 11:18
+
+IMPRESSION: No structural cardiac source of embolism (e.g.patent 
+foramen ovale/atrial septaldefect, intracardiac thrombus, or 
+vegetation) seen. Normal left ventricular wall thickness 
+andcavity size with mild regional systolic dysfunction c/w CAD 
+in an LAD distribution vs. Takotsubocardiomyopathy. Restrictive 
+filling pattern. Increased PCWP. Normal right ventricular cavity 
+sizeand systolic function. Mild mitral regurgitation. Mild 
+tricuspid regurgitation. Trace aorticregurgitation. Moderate 
+pulmonary artery systolic hypertension.
+
+ 
+Brief Hospital Course:
+This is a ___ year old female with a pmhx of CAD w/ cardiac cath 
+s/p 2 stents, NSTEMI, HTN, NIDDM who presented to the ED as a 
+transfer from ___ after 2 episodes of aphasia. The episodes 
+were transient, but on exam she was noted to have some mild 
+paraphasic errors. She underwent MRI revealing miniscule 
+punctate scattered foci of acute to early subacute infarcts in 
+the left posterior and superior frontal lobe, right superior 
+frontal lobe, and left parietal lobe. This pattern suggests a 
+proximal embolic source. She had a TTE revealing EF of 49% RWMA 
+in the LAD territory without evidence of thrombus. A1c was 5.3. 
+LDL was 25. TSH was less that 0.01 and T4 was 1.7. This should 
+be followed up. No evidence of afib on telemetry. The patient 
+will be discharged on ziopatch for rhythm monitoring and will be 
+continued on her DAPT with asa/brilinta. She will continue on 
+her atorvastatin.
+
+TI
+----
+[] recommend repeating thyroid function studies (TSH <0.01, free 
+T4 1.7 on admission)
+[] ziopatch
+[] anemia workup
+[] f/u with patient's cardiologist to review echo findings
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+1. Dysphagia screening before any PO intake? (x) Yes
+2. DVT Prophylaxis administered? (x) Yes
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes Aspirin, Brillanta
+4. LDL documented? (x) Yes (LDL = 25)
+5. Intensive statin therapy administered? On atorvastatin 20, 
+LDL 25
+6. Smoking cessation counseling given? (x) non-smoker
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given in written 
+form? (x) Yes
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes
+9. Discharged on statin therapy? (x) Yes
+10. Discharged on antithrombotic therapy? (x) Yes Aspirin, 
+Brillanta indefinitely
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? (x) No 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+further investigation.
+1. Metoprolol Succinate XL 100 mg PO DAILY 
+2. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+3. TiCAGRELOR 90 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. MetFORMIN (Glucophage) 1000 mg PO DAILY 
+6. Tolterodine 4 mg PO DAILY 
+7. Atorvastatin 20 mg PO QPM 
+8. Vitamin D ___ UNIT PO 1X/WEEK (WE) 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 20 mg PO QPM  
+3.  Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY  
+4.  MetFORMIN (Glucophage) 1000 mg PO DAILY  
+5.  Metoprolol Succinate XL 100 mg PO DAILY  
+6.  TiCAGRELOR 90 mg PO DAILY  
+7.  Tolterodine 4 mg PO DAILY  
+8.  Vitamin D ___ UNIT PO 1X/WEEK (WE)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+=================
+ACUTE ISCHEMIC STROKE
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were hospitalized due to symptoms of trouble finding the 
+right words resulting from an ACUTE ISCHEMIC STROKE, a condition 
+where a blood vessel providing oxygen and nutrients to the brain 
+is blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms.
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+Hypertension
+Hyperlipidemia
+Diabetes
+
+We are changing your medications as follows:
+You will continue on aspirin and brilinta (You must take them 
+daily!!)
+You will continue on atorvastatin
+You will have a ziopatch 
+
+Please take your other medications as prescribed.
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

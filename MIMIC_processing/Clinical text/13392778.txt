@@ -1,0 +1,298 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with the past medical
+history of obesity, HTN, hyperlipidemia, venous stasis, DM2
+complicated by amputation of left lower extremity who is
+presenting with concerns for edema and erythema of right lower
+extremity and pain.
+
+He notes that in ___, he developed erythema in his right 
+leg
+and has intermittent courses of antibiotics with varying degrees
+of success.  He saw a vascular surgery PA who gave him venous
+compression device called "circaide" since he was unable to use
+compression stockings.  When he was getting his weekly wound
+check/dressing with his PCP, there was noted to be an ulceration
+at the area of the top part where the elastic pressed.  He noted
+that there is cramping pain in his leg, ___, improved with some
+walking, acute, and worse with the ER bed.  The leg is red, 
+warm,
+and weeping (no pus), but he reports no fever, shaking chills, 
+or
+night sweats.
+
+Vitals in the ER: 97.6  83  152/66  20  95% RA
+
+There, the patient received: 
+Vancomycin 1g IV 
+Zosyn 4.5g IV
+Tylenol ___ PO 
+Gabapentin 200mg PO 
+
+ 
+Past Medical History:
+obesity, HTN, hyperlipidemia, venous stasis, ___ 
+s/p partial amputation of LLE secondary to ___, now uses
+prosthesis 
+Quad surgery in right knee when it became detached after injury
+Syncope admission at ___ ___ years ago with unclear cause, but he
+reports seizure was ruled out.  
+s/p tonsillectomy age ___
+ 
+
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant for venous
+stasis. 
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: (see eFlowsheet)
+GENERAL: Alert, obese, and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular rate; normal perfusion, no appreciable JVD
+RESP: Symmetric breathing pattern with no stridor. Breathing is
+non-labored
+GI: Abdomen soft, non-distended, no hepatosplenomegaly
+appreciated.  
+GU: No suprapubic fullness or tenderness to palpation
+MSK:  Erythema present on lower extremity to level of the knee,
+evidence of linear abrasion across anterior shin with serous
+drainage noted. No pus, but blisters noted, no foul smell.  LLE
+has amputation 
+SKIN: Warm and tender over noted area otherwise no other rashes
+or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: normal thought content, logical thought process,
+appropriate affect
+
+DISCHARGE EXAM
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+MMMs
+CV: RRR no m/r/g
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present
+MSK: No erythema or swelling of joints
+SKIN: erythema of RLE from ankle to just distal to knee; several
+areas of tissue injury, the most notable of which is a ~8-10 cm
+horizontal linear wound across mid-shin; erythema improving. no 
+purulent discharge, although some weeping from wounds. no 
+significant tenderness to palpation
+EXTR: wwp moderate RLE edema
+NEURO: Alert, interactive, face symmetric, gaze conjugate with
+EOMI, speech fluent, motor function grossly intact/symmetric
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+=======================
+
+PERTINENT DATA
+
+WBC ___ 
+HGB ___
+Plts 200s
+
+BMP wnl
+
+CRP 40
+
+Blood cx NGTD
+
+XR tib/fib R ___
+No fracture or suspicious cortical lucency.  Diffuse soft tissue
+swelling.  
+Calcifications seen in the subcutaneous tissues are likely
+sequela of chronic 
+venous stasis. 
+
+=======================
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with obesity, HTN, 
+hyperlipidemia, venous stasis, DM2 complicated by amputation of 
+left lower extremity, recent cellulitis of RLE, who presented 
+with worsening R calf wounds at site of Circaid compression 
+device, concern for superinfection/cellulitis. 
+
+# Lower extremity cellulitis
+# Venous stasis
+# Tissue injury due to circaid compression device with 
+superinfection
+# Leukocytosis (chronic)
+# History of MRSA cellulitis
+Patient's wounds are consistent with injury from his compression 
+device based on the horizontal linear pattern. Given ?foul smell 
+and worsening of baseline stasis dermatitis erythema, felt to be 
+concerning for superinfection. Initially treated with broad 
+antibiotics in ED (vanc/zosyn) but narrowed upon arrival to 
+floor given lack of systemic toxicity and low risk for gram 
+negatives or anaerobes. His exam improved with IV vancomycin, 
+which was continued for 48 hours, and discharged with an 
+additional 5 days of doxycycline. At no point did he develop any 
+constitutional symptoms or evidence of systemic toxicity (his 
+leukocytosis confirmed to be in chronic range). His CRP was 
+elevated but there was no evidence of deeper space infection, 
+and so this was felt to be due to his cellulitis. Wound care 
+consulted and provided recommendations for daily wound care and 
+for Unna boot once antibiotic course complete. Patient has close 
+follow-up with PCP and vascular surgery who manages his R leg 
+edema. He was counseled to watch for any evidence of worsening 
+infection and seek immediate care should this occur. 
+
+# DM2: Continued home insulin regimen. Held metformin and 
+trulicity during admission
+
+# HTN: continue lisinopril and chlorthalidone
+
+===============================
+
+TRANSITIONAL/FOLLOW-UP ISSUES:
+
+- 5 days of doxycycline to complete antibiotic course
+
+- discharged with ___ for wound care; plan for Unna boot after 
+completion of antibiotics
+
+- close PCP and vascular surgery follow-up
+
+- consider repeat CRP as outpatient; if not resolved would 
+consider imaging to rule out deeper space infection
+
+- consider further work-up of chronic leukocytosis if 
+appropriate
+
+- referred to ___
+
+- could consider ___ clinic referral for challenging 
+right leg edema management
+
+===============================
+
+>30 minutes in patient care and coordination of discharge
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN XR (Glucophage XR) 1000 mg PO BID 
+2. Glargine 24 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+3. Gabapentin 200 mg PO TID 
+4. Lisinopril 10 mg PO DAILY 
+5. Chlorthalidone 25 mg PO DAILY 
+6. Trulicity (dulaglutide) 0.75 mg/0.5 mL subcutaneous 1X/WEEK 
+7. Simvastatin 10 mg PO QPM 
+8. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Doxycycline Hyclate 100 mg PO BID Duration: 5 Days 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth twice daily 
+Disp #*10 Tablet Refills:*0 
+3.  Glargine 24 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+4.  Aspirin 81 mg PO DAILY  
+5.  Chlorthalidone 25 mg PO DAILY  
+6.  Gabapentin 200 mg PO TID  
+7.  Lisinopril 10 mg PO DAILY  
+8.  MetFORMIN XR (Glucophage XR) 1000 mg PO BID  
+9.  Simvastatin 10 mg PO QPM  
+10.  Trulicity (dulaglutide) 0.75 mg/0.5 mL subcutaneous 1X/WEEK 
+ 
+11.Outpatient Physical Therapy
+Diagnosis: right leg pain and edema. 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# Lower extremity cellulitis
+# Venous stasis
+# Tissue injury due to circaid compression device
+# Leukocytosis (chronic)
+# Diabetes
+# Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with wounds of your leg that 
+were likely infected. Your wounds improved somewhat with wound 
+care and antibiotics. After discharge we have prescribed a 5 day 
+course of doxycycline, an antibiotic. (Of note, you need to 
+remain upright ___ minutes after taking this medication to 
+avoid an injury to your esophagus, called "pill esophagitis".) 
+Please return to care with any worsening appearance or smell of 
+your wounds. We have requested a visiting nurse to help with 
+your dressing changes, which should occur daily. We have also 
+set-up an appointment for you in your vascular surgery clinic. 
+After the resolution of your infection we have recommended that 
+they provide an Unna boot. 
+
+Wound care instructions are as follows:
+   
+-Moisturize both legs and feet, over intact skin only twice 
+daily with Sooth And Cool Ointment. 
+             
+Topical Therapy:
+-Wash lower leg with moisturizing foam cleanser and pat dry. 
+-Clean wounds with commercial wound cleaner or normal saline.
+-pat dry. 
+-Apply Aquacel AG to all open wounds. 
+-Secure with Kerlix wraps. 
+-Apply Ace wraps to right lower leg in a spiral pattern from the
+toes to just below the knee. 3 inch wrap at foot, changing to 4
+inch wrap to upper leg. (will need two 4 inch wraps)
+-Elevate leg as much as possible.
+-Remove ace wrap at night and elevate on two pillows
+-change daily
+-Ace wrap should be applied before getting out of bed for the 
+day
+or after legs have been elevated for ___ minutes. 
+ 
+You should see vascular surgeon for ___ Boot application
+after discharge once cellulitis has resolved.   
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,283 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pericardial effusion
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ w/PMHx history of TB, endometrial polyps and 
+incidentally-noted small pericardial effusions on prior imaging 
+p/w 2 weeks of worsening dyspnea and is being admitted for 
+pericardial effusion. Patient reports two weeks of shortness of 
+breath with both exertion and rest. Patient is able to exercise 
+on a stairmaster for 30 minutes and is able to walk 5 miles 
+without exertional symptoms. Patient denies any chest pain, but 
+notes that it is easier to breath with leaning forward. She also 
+notes the sensation of heart pounding, but no frank 
+palpitations. Patient was seen in urgent care, where she had 
+normal TSH and WBC count. She subsequently had a Holter monitor, 
+which showed many PVCs. Patient had a TTE today at ___, which 
+showed a moderate size effusion with evidence of tamponade 
+physiology, particularly of the right heart. Pulsus was 12. 
+Patient was subsequently sent to ___ for further evaluation.  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+ Basal cell carcinoma  
+ History of tuberculosis  
+ Colon adenoma  
+ Headache, migraine  
+ Ventricular bigeminy  
+ Dry eye syndrome  
+ Trichiasis  
+ History of abdominal cyst  
+ Pulmonary nodule  
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death. She does not know about her father. Her 
+mother was healthy with no issues. No autoimmune conditions in 
+the family.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+ VS: 98.3 PO 136 / 76 L Sitting 66 18 99 RA  
+ GENERAL: Well developed, lovely female in NAD. Oriented x3. 
+Mood, affect appropriate.  
+ HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. 
+No xanthelasma.  
+ NECK: Supple. JVP not elevated  
+ CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops. No thrills or lifts. No friction rub  
+ LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No 
+splenomegaly.  
+ EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.  
+ SKIN: No significant skin lesions or rashes.  
+ PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL EXAMINATION: 
+Vitals:  97.3 PO BP 121/70 HR 63 RR 16 O2 Sat 99% RA
+Pulsus paradoxus not present
+I/O= not recorded 
+Weight:  49.5 kg > 49.3 kg
+Weight on admission:  49.5 kg
+Telemetry: Sinus
+General: Pleasant woman lying in bed reading, NAD
+HEENT:  Atraumatic, normocephalic
+Lungs:  CTAB, with no crackles, rales or wheezes
+CV:  Normal S1, S2, no rubs, murmurs or gallops appreciated
+Abdomen:  Soft, nondistended, non-tender to palpation
+Ext:  Warm, well perfused, no peripheral edema
+ 
+Pertinent Results:
+Admission Labs:
+___ 11:34AM BLOOD WBC-4.7 RBC-4.05 Hgb-13.3 Hct-38.8 MCV-96 
+MCH-32.8* MCHC-34.3 RDW-11.7 RDWSD-41.1 Plt ___
+___ 11:34AM BLOOD Neuts-72.5* Lymphs-18.5* Monos-8.0 
+Eos-0.4* Baso-0.4 Im ___ AbsNeut-3.37 AbsLymp-0.86* 
+AbsMono-0.37 AbsEos-0.02* AbsBaso-0.02
+___ 11:34AM BLOOD ___ PTT-28.7 ___
+___ 11:34AM BLOOD Glucose-94 UreaN-8 Creat-0.6 Na-139 K-3.8 
+Cl-103 HCO3-24 AnGap-16
+___ 11:34AM BLOOD cTropnT-<0.01
+___ 11:42AM BLOOD Lactate-1.5
+
+___ 02:47PM URINE Color-Straw Appear-Clear Sp ___
+___ 02:47PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-NEG
+
+Pertinent Labs:
+
+___ 11:34AM BLOOD cTropnT-<0.01
+___ 09:43PM BLOOD cTropnT-<0.01
+___ 06:54AM BLOOD TSH-1.5
+___ 02:47PM BLOOD RheuFac-<10 ___ CRP-0.7
+
+Discharge Labs:
+___ 07:50AM BLOOD WBC-4.2 RBC-4.07 Hgb-13.4 Hct-40.3 
+MCV-99* MCH-32.9* MCHC-33.3 RDW-11.7 RDWSD-42.8 Plt ___
+___ 07:50AM BLOOD Glucose-95 UreaN-12 Creat-0.6 Na-141 
+K-4.3 Cl-106 HCO3-25 AnGap-14
+___ 07:50AM BLOOD Calcium-9.6 Phos-3.3 Mg-2.1
+
+Imaging/Reports:
+TTE at ___: 
+CONCLUSIONS  
+ 1. Overall left ventricular ejection fraction is normal, with 
+an estimated LVEF of 55-60%. Details above.  
+ 2. There is a mild to moderate pericardial effusion with the 
+greatest accumulation seen anteriorly and along the right heart. 
+Echo criteria for hemodynamically significant pericardial 
+effusion noted (right not left heart findings).  
+ 3. No significant valvular heart disease visualized on this 
+study.  
+ 4. No prior ___ report available for comparison. Findings 
+reviewed with patient in person.  
+ 
+
+TTE on ___: 
+The left atrium and right atrium are normal in cavity size. The 
+estimated right atrial pressure is ___ mmHg. Left ventricular 
+wall thickness, cavity size and regional/global systolic 
+function are normal (LVEF >55%). Doppler parameters are most 
+consistent with normal left ventricular diastolic function. 
+Right ventricular chamber size and free wall motion are normal. 
+The diameters of aorta at the sinus, ascending and arch levels 
+are normal. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic stenosis or 
+aortic regurgitation. The estimated pulmonary artery systolic 
+pressure is normal. There is a moderate sized pericardial 
+effusion. There is brief right atrial diastolic collapse. There 
+is right ventricular diastolic collapse, consistent with 
+impaired filling/tamponade physiology. 
+
+IMPRESSION: 
+1) Small to moderately sized serous pericardial effusion largely 
+located anterior to the apex of the RV. There is brief RA and 
+very subtle diastolic RV collapse suggestive of mild tamponade 
+physiology however there is no variation in mitral inflow 
+pattern. Pericardial tamponade is a clinical diagnosis and 
+echocardiographic signs are ancillary to this diagnosis.
+
+Micro:
+___ 2:47 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+___ 11:34 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+ 
+Brief Hospital Course:
+This is a ___ year old woman with a hx of childhood tuberculosis 
+and endometrial polyps who presented to ___ with intermittent 
+dyspnea after exercise for one year, worsening in the last 2 
+weeks, found to have a moderate to large pericardial effusion. 
+
+ACUTE ISSUES
+=============
+#Pericardial effusion: Patient has had trace pericardial 
+effusions seen on CT scans in the past, and presented now with 
+dyspnea after exercise x ___ year, with worsening over the past 
+two weeks. Possible etiologies include TB (per patient, treated 
+for 6 months in a sanatorium in ___ as a child), autoimmune 
+disease (patient states that her hands sometimes swell up; 
+negative RF, CRP 0.7, ___ neg), or malignancy (though less 
+likely given CT scan in the last 6 mo with no evidence). Could 
+also be another infectious source (patient has traveled through 
+rural ___ in last ___ years and reports a rabies exposure last 
+year). Less likely viral or idiopathic given chronicity of 
+symptoms. Trops <0.01 x2. She was started on ibuprofen and 
+colchicine. On ___, she was well appearing, with no pulsus 
+paradoxus present. TTE on ___ with effusion size of 1.8cm, 
+largely anterior to RV. Mild RV diastolic collapse. No variation 
+of mitral inflow pattern. Overall concerning for mild tamponade 
+physiology on echo. Given difficult location for 
+pericardiocentesis, and the fact that the patient exhibited no 
+clinical signs or symptoms of tamponade (no pulsus, no JVD, no 
+hypotension, nL heart sounds), a decision to defer drainage of 
+the effusion was made. On discharge, she was well-appearing, 
+with improved SOB with exertion. She continued on the ibuprofen 
+and colchicine to be followed up as outpatient.
+
+CHRONIC ISSUES
+===============
+#Tuberculosis: unclear if fully cleared as a child. No evidence 
+of active TB on CT scans or CXR. Pericardial effusion pattern 
+also not consistent with TB. 
+
+TRANSITIONAL ISSUES
+====================
+-Continue ibuprofen x2 weeks and colchicine x3 month (reassess 
+need at follow up appointment)
+-F/u ESR, blood cx
+-F/u with cardiology for repeat TTE
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Colchicine 0.6 mg PO BID 
+RX *colchicine 0.6 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+2.  Ibuprofen 400 mg PO Q8H 
+RX *ibuprofen 400 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*37 Tablet Refills:*0 
+3.  Acetaminophen 650 mg PO PRN Pain - Mild  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pericardial effusion
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+Why was I admitted to the hospital?  
+-You were admitted because you had shortness of breath and were 
+found to have fluid around your heart. 
+
+What happened while I was in the hospital?  
+-While you were in the hospital, you were started on 
+anti-inflammatory medications to decrease the fluid around your 
+heart. You also underwent an ultrasound of your heart to assess 
+the amount of fluid and the location of the fluid. The location 
+of the fluid was too risky to drain, so the fluid was not tapped 
+and you will be sent home with frequent monitoring to ensure 
+that the fluid does not worsen over time. 
+
+What should I do after leaving the hospital?  
+-  Please take your medications as listed in discharge summary 
+and follow up at the listed appointments. 
+-Please call your doctor or return to the hospital if you have 
+any of the danger signs noted below. 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+ Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

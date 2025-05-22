@@ -1,0 +1,391 @@
+Name:  ___                         Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Losartan / hydrochlorothiazide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Rash, swollen hands
+ 
+Major Surgical or Invasive Procedure:
+___: Skin biopsy. 
+
+ 
+History of Present Illness:
+___ w h/o HTN, BPH, presents for bilateral wrist and feet 
+swelling, rash. Noticed the swelling started on ___. He ate 
+very spicy ___ food on ___, felt chills overnight and 
+noted the swelling the following day. Noticed the rash about 3 
+days ago at ___ ___. The rash is not painful or pruritic. He 
+has never had this before. The feet swelling is somewhat painful 
+if he walks on them, otherwise not. No new meds. No animal 
+bites. No pets. He wonders if it could be due to ___ and 
+___ Sichuan cusine he ate on ___, though he has had this 
+medication many times before. He does report one past experience 
+of eating very spicy food and having chills overnight, but it he 
+did not have hand swelling or rash at that time.  
+ 
+No recent travel. No exposure to ticks or woods. From ___, 
+moved here ___ years ago. Former smoker ___ years. Social drinker. 
+Denies history of hepatitis.  
+
+Saw PCP 3 days ago. Bloodwork done, LDH elevated to 302. TSH 
+normal, ___ negative, CBC, LFT's, chem panel all normal. Also 
+noted to have a Left Axillary node for which ultrasound was 
+scheduled, but later cancelled as the node resolved.  
+ 
+In the ED, initial vitals were:  
+100.2 105 150/75 18 100% RA  
+Exam notable for  
+Diffuse Rash. Rash on ___ legs does not blanch. Swelling of 
+wrists, MCP, PIP, ankles bilaterally. Well appearing, lungs 
+clear. No adenopathy noted. No meningeal signs.  
+Labs showed  
+Unremarkable chem, cbc, ua, coags, LFTs  
+CRP 82  
+LDH 450  
+Imaging showed  
+___ XR Hands/wrists  
+IMPRESSION:  
+Minimal degenerative spurring involving the first CMC and 
+triscaphe joints bilaterally. No evidence for inflammatory 
+arthritis. Diffuse soft tissue swelling within the hands 
+bilaterally without subcutaneous gas.  
+___ CXR  
+IMPRESSION:  
+No acute cardiopulmonary abnormality.  
+Received  
+___ 23:55 PO Acetaminophen 1000 mg  
+Transfer VS were  
+100.3 86 158/74 16 98% RA  
+ 
+Decision was made to admit to medicine for further management.  
+On arrival to the floor, patient reports discomfort in his hands 
+and feet, which he describes as painful (___) pins and needles, 
+worst when he walks or uses his hands.  
+ 
+Past Medical History:
+ALLERGIC RHINITIS  
+HYPERTENSION  
+LOW HDL  
+LUTSS  
+-___: hospitalized for bilateral lower extremity rash thought 
+to be viral exanthem.
+-___: hospitalized due to bilateral hand swelling with 
+?Rheumatoid Arthritis
+ 
+Social History:
+___
+Family History:
+No family history of autoimmune disease or rashes.  
+Wife died with RA  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vital Signs: 100.4 125 / 57 105 18 95 ra  
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, no petechiae, 
+EOMI, neck supple, JVP not elevated  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+SKIN: Coalescing erythematous macules/erythroderma over LEs, 
+trunk, UEs, sparing central chest, anterior neck and face. 
+Petechiae over LEs, primarly over shins, sparing feet.  
+EXT: Bilateral hands and feet with non-pitting edema  
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vital Signs: 97.7-98.5, 124-145/68-78, 71-82, ___, 94-97% on 
+RA. 
+General: Laying in bed comfortably in NAD.   
+HEENT: Sclerae anicteric, MMM, oropharynx clear, no oral ulcers. 
+
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs. 
+Lungs: Clear to auscultation bilaterally.  
+Abdomen: soft, non-tender, non-distended, no rebound or 
+guarding. 
+SKIN: Morbilliform rash over LEs, receeding from the abdomen. 
+Petechiae over LEs, primarly over shins, sparing feet.  
+EXT: Bilateral hands and feet swelling are improving. Patient 
+now able to make a fist with his left hand but not his right.
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 09:40PM BLOOD WBC-6.1 RBC-4.46* Hgb-14.2 Hct-41.8 
+MCV-94 MCH-31.8 MCHC-34.0 RDW-12.6 RDWSD-43.4 Plt ___
+___ 09:40PM BLOOD Neuts-77.4* Lymphs-14.8* Monos-3.3* 
+Eos-3.8 Baso-0.2 Im ___ AbsNeut-4.73 AbsLymp-0.90* 
+AbsMono-0.20 AbsEos-0.23 AbsBaso-0.01
+___ 09:40PM BLOOD Glucose-118* UreaN-22* Creat-1.1 Na-132* 
+K-3.8 Cl-97 HCO3-22 AnGap-17
+___ 09:40PM BLOOD ALT-16 AST-24 LD(LDH)-450* AlkPhos-58 
+TotBili-0.7
+___ 09:40PM BLOOD Albumin-3.7 Calcium-7.7* Phos-3.0 Mg-2.5
+
+DISCHARGE LABS
+==============
+___ 05:05AM BLOOD WBC-7.5 RBC-4.17* Hgb-13.2* Hct-38.5* 
+MCV-92 MCH-31.7 MCHC-34.3 RDW-13.2 RDWSD-44.7 Plt ___
+___ 07:30AM BLOOD Neuts-87.7* Lymphs-6.6* Monos-2.1* 
+Eos-2.9 Baso-0.1 Im ___ AbsNeut-7.19*# AbsLymp-0.54* 
+AbsMono-0.17* AbsEos-0.24 AbsBaso-0.01
+___ 05:05AM BLOOD Glucose-104* UreaN-17 Creat-0.7 Na-136 
+K-4.2 Cl-99 HCO3-23 AnGap-18
+___ 05:05AM BLOOD LD(LDH)-330*
+___ 05:05AM BLOOD Calcium-8.1* Phos-3.2 Mg-2.7*
+
+RHEUMATOLOGY EVALUATION
+=======================
+___ 09:40PM BLOOD CRP-82.0*
+___ 09:40PM BLOOD IgG-764 IgA-203 IgM-60
+___ 09:40PM BLOOD C3-117 C4-33
+___ 07:30AM BLOOD Ferritn-508*
+___ 07:30AM BLOOD HBsAg-Negative HBsAb-Negative HAV 
+Ab-Negative IgM HBc-Negative IgM HAV-Negative
+___ 04:25AM BLOOD Smooth-NEGATIVE ANCA-NEGATIVE B
+___ 07:30AM BLOOD RheuFac-10
+___ 04:25AM BLOOD ___ dsDNA-PND
+___ 07:30AM BLOOD HCV Ab-Negative
+___ 11:10AM BLOOD SED RATE-Test
+___ 10:40AM BLOOD HIV Ab-Negative 
+
+___ 11:10 
+SED RATE 
+  Test                          Result              Reference 
+Range/Units
+SED RATE BY MODIFIED          6                   < OR = 20 mm/h
+___  
+
+CYCLIC CITRULLINATED PEPTIDE (CCP) ANTIBODY, IGG 
+  Test                          Result              Reference 
+Range/Units
+CYCLIC CITRULLINATED PEPTIDE  165  H              UNITS
+(CCP) AB (IGG)                                     
+Reference Range
+Negative:            <20
+Weak Positive:       ___
+Moderate Positive:   40-59
+Strong Positive:     >59
+ 
+RNP ANTIBODY 
+  Test                          Result              Reference 
+Range/Units
+RNP ANTIBODY                  <1.0 NEG            <1.0 NEG AI   
+
+URINE STUDIES
+=============
+___ 12:20PM URINE Color-Yellow Appear-Clear Sp ___
+___ 12:20PM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 12:20PM URINE RBC-2 WBC-1 Bacteri-NONE Yeast-NONE Epi-0
+___ 07:35AM URINE Hours-RANDOM Creat-198 TotProt-55 
+Prot/Cr-0.3*
+
+MICROBIOLOGY
+============
+___: BLOOD CULTURE X 2: PENDING
+___: URINE CULTURE: <10,000 CFU/mL.
+
+IMAGING
+=======
+___: CHEST X-RAY (PA AND LATERAL)
+FINDINGS:  
+Mild enlargement of the cardiac silhouette is unchanged. 
+Mediastinal and 
+hilar contours are normal.  Pulmonary vasculature is not 
+engorged. Lungs are clear. No focal consolidation, pleural 
+effusion or pneumothorax is 
+demonstrated. No acute osseous abnormality is visualized. 
+  
+IMPRESSION:  
+No acute cardiopulmonary abnormality. 
+
+___: HAND (PA, LATERAL, AND OBLIQUE) BILATERAL
+IMPRESSION: Minimal degenerative spurring involving the first 
+CMC and triscaphe joints bilaterally.  No evidence for 
+inflammatory arthritis.  Diffuse soft tissue swelling within the 
+hands bilaterally without subcutaneous gas. 
+
+___: SHOULDER ___ VIEWS NON TRUAMA BILATERAL
+IMPRESSION: Normal bilateral shoulder radiographs. 
+
+SKIN BIOPSY
+===========
+1. Skin, right lower leg, biopsy for H&E (1A):
+- Patchy vacuolar interface dermatitis and superficial 
+perivascular lymphocytic infiltrate with
+occasional eosinophils and red blood cell extravasation (see 
+note).
+2. Skin, anatomic site not specified, direct immunofluorescence:
+- No IgG, IgA, or IgM deposits seen.
+- Focal scant C3 in superficial capillary wall, non-specific.
+- Perivascular fibrinogen.
+Note: No vasculitis or features of Still's disease are seen. A 
+hypersensitivity reaction, as to a drug or
+other trigger, is favored, however a viral exanthem cannot be 
+entirely excluded.
+ 
+Brief Hospital Course:
+___ with history of hypertension, BPH, presenting with swelling 
+of hands and feet and erythematous/petechial rash concerning for 
+new inflammatory process. 
+
+# Bilateral Hand Swelling: Patient presented with acute onset 
+swelling of the bilateral hands with restriction in motion of 
+his hands and wrists. X-rays of the hands and wrists were 
+unremarkable. The hands/wrists were non-tender to palpation and 
+not warm to palpation. Rheumatology was consulted given concern 
+for an inflammatory arthropathy that was occurring. Labs that 
+were obtained showed negative hepatitis panel, negative ANCA, 
+negative anti-Smooth muscle antibody, normal rheumatoid factor, 
+negative ___, normal immunoglobulins, ESR of 6, anti-RNP normal, 
+normal complement levels, CRP 82.0, anti-CCP elevated at 165.  
+
+Etiology was thought to be in the setting of an herbal 
+supplement that was used when he was eating at a ___ 
+restaurant one week prior to presentation. However, after 
+discussion with rheumatology, the elevated anti-CCP makes new 
+diagnosis of Rheumatoid Arthritis possible.  
+
+He was initially started on naproxen 500 mg PO BID with no 
+improvement of symptoms. After discussion with Rheumatology, he 
+was started on prednisone 20 mg PO daily. After receiving 
+prednisone, his bilateral hand swelling improved dramatically. 
+He was discharged on a course of prednisone of 20 mg PO on ___, 
+prednisone 15 mg PO daily (on ___, prednisone 10 mg 
+PO daily (on ___, prednisone 5 mg PO daily until 
+follow up appointment with Rheumatology. 
+
+Labs pending at the time of discharge included dsDNA,. 
+   
+# Bilateral Lower Extremity Rash: Patient presented with 
+bilateral lower extremity rash prior to presenting to the 
+hospital. Patient was evaluated by Dermatology who recommended 
+biopsy of the lesion. Biopsy showed no evidence of vasculitis or 
+feature's of Still's disease seen. "A hypersensitivity reaction, 
+as to a drug or other trigger, is favored, however, a viral 
+exanthema cannot be entirely excluded." After discussion with 
+Dermatology they believed this was likely in the setting of a 
+viral process. They recommended topical triamcinolone 0.1% 
+ointment BID to trunk up to 14 days.     
+
+# Hypertension: continued on amlodipine 5 mg PO daily.
+
+# BPH: continued tamsulosin 0.4 mg PO QHS.
+
+TRANSITIONAL ISSUES
+===================
+-will need stitches from skin biopsy of the right lower 
+extremity removed on ___. 
+-prednisone course: 20 mg PO on ___, prednisone 15 mg PO daily 
+(on ___, prednisone 10 mg PO daily (on ___, 
+___, prednisone 5 mg PO daily until follow up appointment with 
+Rheumatology. 
+-labs pending at time of discharge: Labs pending at the time of 
+discharge included dsDNA, 
+-Can continue with triamcinolone 0.1% ointment with last day 
+___. 
+-Wound care: Vaseline and bandaid to be changed daily.
+-Code Status: Full Code (confirmed)
+-Contact Information: ___ (son): Phone: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Tamsulosin 0.4 mg PO QHS 
+2. amLODIPine 5 mg PO DAILY 
+3. azelastine 137 mcg (0.1 %) nasal BID 
+
+ 
+Discharge Medications:
+1.  PredniSONE 20 mg PO DAILY 
+Tapered dose - DOWN 
+RX *prednisone 5 mg 1 tablet(s) by mouth as directed in 
+discharge paperwork Disp #*25 Tablet Refills:*0 
+2.  Triamcinolone Acetonide 0.1% Ointment 1 Appl TP BID 
+Duration: 14 Days 
+RX *triamcinolone acetonide 0.1 % apply to rash twice a day 
+Refills:*0 
+3.  amLODIPine 5 mg PO DAILY  
+4.  azelastine 137 mcg (0.1 %) nasal BID  
+5.  Tamsulosin 0.4 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+-Bilateral hand swelling.
+-Bilateral lower extremity weakness
+
+SECONDARY DIAGNOSIS
+===================
+-Hypertension
+-BPH
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ due to 
+swelling of your hands and rash in your feet.
+
+In order to evaluate the hand discomfort swelling, you were seen 
+by the Rheumatologists. The initial thought for the cause of 
+hand swelling was secondary to a herbal supplement that was in 
+food you ate. There are still labs that are pending before a 
+final determination can be made about your hand swelling. You 
+were started on prednisone during the hospitalization which 
+significantly improved the hand swelling. Please follow the 
+prednisone taper as described below. Please note that you were 
+prescribed 5 milligram tablets.
+
+-20 milligrams daily (this represents 4 tablets) on ___.
+-15 milligrams daily (this represents 3 tablets daily) on ___, 
+___ milligrams daily (this represents 2 tablets daily) on ___, 
+___ milligrams daily (this represents 1 tablet daily) until your 
+follow up appointment with Rheumatology.
+
+You were also seen by the Dermatologists (skin doctors) to 
+evaluate your rash. The biopsy indicated that this was likely a 
+viral process that may have caused the rash. This improved on 
+triamcinolone 0.1% ointment EVERY 12 hours to the affected areas 
+(avoid face, skin folds and groin). You can continue this 
+medication until ___.
+
+With you skin biopsy, you had sutures placed. Please follow up 
+with your primary care physician to have the sutures removed on 
+___. 
+
+If you have any side effects from any of the medications, please 
+contact your primary care physician.
+
+It was a pleasure taking care of you during your 
+hospitalization. We wish you all the best!
+
+Sincerely,
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

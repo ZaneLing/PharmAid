@@ -1,0 +1,219 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+Relevant Labs: 
+==============
+___ 05:02PM BLOOD WBC-8.5 RBC-4.59 Hgb-15.0 Hct-43.7 MCV-95 
+MCH-32.7* MCHC-34.3 RDW-12.0 RDWSD-41.9 Plt ___
+___ 05:02PM BLOOD Neuts-65.2 ___ Monos-9.4 Eos-0.6* 
+Baso-0.8 Im ___ AbsNeut-5.52 AbsLymp-1.93 AbsMono-0.80 
+AbsEos-0.05 AbsBaso-0.07
+___ 06:18AM BLOOD WBC-6.0 RBC-4.31 Hgb-13.9 Hct-41.8 MCV-97 
+MCH-32.3* MCHC-33.3 RDW-12.0 RDWSD-43.3 Plt ___
+___ 05:02PM BLOOD ___ PTT-27.2 ___
+___ 06:18AM BLOOD Glucose-87 UreaN-8 Creat-0.7 Na-142 K-4.1 
+Cl-102 HCO3-26 AnGap-14
+___ 06:18AM BLOOD Calcium-9.2 Phos-4.4 Mg-2.0
+___ 06:18AM BLOOD Valproa-66 (within therapeutic range) 
+___ 05:02PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 05:10PM BLOOD Glucose-125* Lactate-2.7* Creat-0.7 
+Na-137 K-3.6 Cl-102 calHCO3-24
+
+Imaging: 
+========
+CT C-SPINE W/O CONTRAST ___
+FINDINGS:   
+Alignment is normal. No fractures are identified. 
+There are mild degenerative changes at C3-4 with loss of 
+intervertebral disc 
+height, anterior marginal osteophyte formation and bilateral 
+uncovertebral 
+hypertrophy.  There is no significant spinal canal or neural 
+foraminal 
+stenosis. There is no prevertebral soft tissue swelling.  
+There is biapical pleuroparenchymal scarring.  Otherwise, the 
+bilateral lung apices are clear.  There are no thyroid nodules.  
+
+IMPRESSION:  
+No acute fracture or traumatic malalignment of the cervical 
+spine. 
+
+CT HEAD W/O CONTRAST ___
+IMPRESSION: 
+1. No acute intracranial abnormality. 
+2. Small subgaleal hematoma overlying the right parietal bone 
+without 
+underlying fracture. 
+
+CT CHEST/ABD/PELVIS W/ CONTRAST ___
+IMPRESSION:   
+1. Nondisplaced fracture of the right clavicle. 
+2. Minimal anterior displacement of the coccyx, which is of 
+indeterminate 
+chronicity.  No underlying fracture.  Correlation with point 
+tenderness is 
+recommended. 
+3. Otherwise, no additional acute processes within the chest, 
+abdomen, or 
+pelvis. 
+
+CHEST X-RAY (PORTABLE AP) ___
+IMPRESSION:  
+No acute cardiopulmonary process. 
+
+ 
+Brief Hospital Course:
+___ y/o female with severe nonverbal autism, developmental and 
+intellectual disability, reactive attachment disorder, and 
+possible depression/ anxiety presenting on ___ s/p jump out of 
+a second story window. She sustained a fractured clavicle and 
+extracranial hematoma but has been medically cleared for 
+transfer to psychiatry. She was admitted under ___ given 
+suicide risk, while awaiting at inpatient psychiatric facility. 
+
+TRANSITIONAL ISSUES:
+====================
+[ ] Would benefit from admission to a developmental disability 
+unit
+[ ] Needs follow-up in 2 weeks in the Orthopedic Trauma Clinic 
+for her right clavicle fracture 
+[ ] Note that inpatient valproate level was 66 this 
+hospitalization, well below max range; can use this as guide if 
+inpatient team at ___ thinks that up-titration may be 
+appropriate. 
+
+ACUTE ISSUES:
+=============
+#Suicide risk
+Patient evaluated by psychiatry, and felt to be at continued 
+risk for self harm or aggression toward others. She was placed 
+under ___ and admitted while awaiting psychiatric 
+placement. While admitted to the medicine service, and on the 
+recommendation of the psychiatry team, her home buspirone, 
+fluoxetine, divalproex, trazodone, and lorazepam were continued. 
+
+
+#Clavicle fracture
+#Pain control
+Nondisplaced clavicle fracture noted after her fall. Her pain 
+was managed with acetaminophen 1g PO Q8H, she declined 
+narcotics. Per trauma recommendations, her right upper extremity 
+was placed in a sling and made non weight-bearing. She was 
+cleared for light ADLs, ROMAT at elbow, wrist and fingers. She 
+will need f/u in the ortho trauma clinic in 2 weeks. 
+
+#CODE: Full (presumed) 
+#CONTACT: ___ (Court appointed guardian)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. BusPIRone 15 mg PO BID 
+2. FLUoxetine 30 mg PO DAILY 
+3. Divalproex (DELayed Release) 750 mg PO QAM 
+4. Divalproex (DELayed Release) 500 mg PO QPM 
+5. TraZODone 125 mg PO QHS 
+6. LORazepam 1 mg PO Q6H:PRN anxiety 
+7. Benzonatate 200 mg PO TID:PRN cough 
+8. BusPIRone 10 mg PO DAILY 
+9. ___ FE ___ (28) (norethindrone-e.estradiol-iron) 1 mg-20 
+mcg (21)/75 mg (7) oral DAILY 
+10. Calcium Carbonate 300 mg PO BID 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. ferrous sulfate, dried 159 mg (45 mg iron) oral DAILY 
+13. Loratadine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Benzonatate 200 mg PO TID:PRN cough  
+3.  BusPIRone 15 mg PO BID  
+4.  BusPIRone 10 mg PO DAILY 
+Once daily, at 3pm  
+5.  Calcium Carbonate 300 mg PO BID  
+6.  Divalproex (DELayed Release) 750 mg PO QAM  
+7.  Divalproex (DELayed Release) 500 mg PO QPM  
+8.  ferrous sulfate, dried 159 mg (45 mg iron) oral DAILY  
+9.  FLUoxetine 30 mg PO DAILY  
+10.  ___ FE ___ (28) (norethindrone-e.estradiol-iron) 1 mg-20 
+mcg (21)/75 mg (7) oral DAILY  
+11.  Loratadine 10 mg PO DAILY  
+12.  LORazepam 1 mg PO Q6H:PRN anxiety  
+13.  TraZODone 125 mg PO QHS  
+14.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Jump from Window, Suicide Risk
+Clavicle Fracture 
+
+SECONDARY DIAGNOSIS:
+Autism
+Intellectual and development disability
+Reactive attachment disorder
+Anxiety/depression 
+ 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure caring for you at ___ 
+___.  
+
+WHY WAS I IN THE HOSPITAL?  
+================================
+- You were getting agitated and aggressive at your facility, and 
+jumped out a window from the second floor. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+=======================================
+- You had extensive imaging after your fall, which revealed that 
+you had a right clavicle fracture. The trauma team saw you and 
+felt that you did not need an operation, but would benefit from 
+outpatient follow-up and wearing a sling. 
+- The psychiatry team saw you, and felt that you would benefit 
+from transfer to an inpatient psychiatric facility, for further 
+treatment/evaluation, and for your safety.  
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+================================================
+- Continue to take all your medicines and keep your 
+appointments.  
+- You should follow up with the Ortho trauma clinic in 2 weeks 
+for your clavicle fracture. 
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team 
+ 
+Followup Instructions:
+___

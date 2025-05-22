@@ -1,0 +1,443 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+seizure
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ right-handed man with past medical
+history of frontal lobe epilepsy, migraines, rhabdomyolysis,
+mitochondrial metabolic myopathy presenting with increased
+seizure frequency.
+
+Patient was admitted to the Epilepsy service from ___.
+During his stay, EEG showed >100 electrographic seizures during
+sleep causing arousals. Onfi 5 mg QAM and 10 mg QPM was added 
+on.
+
+Patient was scheduled for a follow-up with Epilepsy attending,
+Dr. ___, in ___, but he had reschedule to ___ since
+he could not schedule the planned 48 hour ambulatory EEG in 
+time.
+
+After discharge, Onfi worked really well for first few days
+initially with no seizures at all. After ___ days, he started
+having a few of his typical episodes every 3 nights and then 
+fall
+asleep. In the past week, Onfi seems to have stopped working and
+he has had multiple episodes every day. Today, he had about 15
+tonight because he kept trying to fall asleep instead of taking 
+a
+break and getting up.  
+
+His episodes are described as a fully body jerk with R arm
+stiffening and R head turn. Both eyes have blurry vision during
+these episodes for ___ seconds.
+
+Sometimes episodes have woken him up at 6 am. He has lost some
+sleep as a result. 
+
+They only occur when he is about to fall asleep. He denies any
+warning or aura was prior to these episodes.
+
+Denies any symptoms of recent illness. Denies any new stressors
+in his personal or professional life. Denies any new dietary
+changes. He is unable to think of any significant change in his
+life recently. His migraines have been well controlled on
+verapamil and occur very infrequently.
+
+On previous admission in ___, he reported: 
+"Baseline frequency is about once every few weeks or few months.
+Starting in ___ he started having ___ episodes per week but
+each episode was isolated to one per night. Starting 2 weeks ago
+he started having multiple events per night. Frequency increased
+more this week and he had more than 20 last night. They are
+preventing him from sleeping which prompted him to present to 
+the
+ED. He sees Dr. ___ recurrent rhabdomyolysis and
+mitochondrial metabolic myopathy. He use to be followed for
+epilepsy at ___ for many years. Last year he is
+was seen at ___ epilepsy clinic but he is in the process of
+transferring his epilepsy care to ___ because he wanted this
+consistently see the same epileptologist instead of changing
+residents or fellows each year.
+In ___, he was taking lamotrigine 375 mg twice daily but
+was found to have supratherapeutic levels. In the ___ his 
+dose
+was decreased to 225 mg twice daily which led to worsening
+symptoms. Since ___, he has been taking lamotrigine 300
+mg twice daily and episodes returned to baseline frequency."
+
+Seizure History: 
+He has had epilepsy since age ___ which began with loss of vision
+and stumbling and progressed to generalized seizures at age ___.
+He has been has not had any generalized tonic-clonic seizures
+since age ___.
+
+___ notes from ___ detail that he also has seizures which 
+are
+complex partial seizures involving the loss of vision, right arm
+flexion, fumbling automatisms with right head turn. The notes 
+say
+that he has been seizure-free for ___ years, but has been having
+occasional myoclonus.
+
+He denies having episodes of complex partial seizures involving
+vision loss with right arm flexion and automatisms. Per ___ 
+note,
+"He will have occasional myoclonic jerks on falling asleep, but
+not in early morning hours; however, he is quite adamant that
+these myoclonic jerks are related to his epilepsy and different
+from the "usual" single limb jerks he might have on falling
+asleep sometimes."
+
+Denies any predisposing risk factors for epilepsy. He has had a
+couple of concussions which occurred after the onset of his
+epilepsy.
+
+Per last note from ___ by Dr. ___ and Dr. ___
+dated ___: "LTM study in ___ which captured 6 seizures in
+the awake ___ which are described as fumbling/automatisms on
+the left side with generalized electro-decremental EEG. From
+___ he seemed to have events described as stiffening of 
+his
+extremities and since seeing us in ___ has been seizure 
+free."
+"Doing well on LTG 300mg bid. No seizures. Still has occasional
+early morning myoclonus."
+
+"Seizure Semiology: 
+#1 Complex partial seizures Warning/Aura: None. Loses vision,
+feels that he going to fall Spell: Nocturnal, during transition
+to sleep, when patient is drowsy. Rarely occurs during the day.
+Turns his head and body to the right, with right arm flexion at
+the elbow and manual automatisms in his right hand. This spell
+last a few seconds, but can cluster several times. Recently, it
+clusters only twice in the same night. Patient has partial
+awareness of it. It does not typically evolve to GTC. 
+Post-ictal:
+falls asleep. Frequency: None in last few years Obs: Reportedly
+captured at ___ and found to be seizures according to
+patient. Records showed electrographic seizures occurring only
+during wakefulness. 
+
+#2 GTCs Spell: No aura, quick onset, GTCs are occasionally
+associated with urinary incontinence, but no tongue biting.
+Duration: 3 minutes. Post-ictal: migraine headache, tired,
+confused, sleeps for hours. No post-ictal aphasia. Frequency:
+rare Last time: more than ___ years ago. 
+
+#3 Whole-body jerks (? Myoclonic seizures) Spell: whole-body
+jerks, in isolation, typically in the morning or at night
+Frequency: 1/month 
+
+#4 Drops attacks (? Atonic seizures) Spell: In middle school,
+would fall to the ground, but quickly turn around and get back
+up. Not occurring since then. Current AED: lamotrigine 300mg bid 
+
+
+Prior AEDs:
+Topamax - concern for worsening hyperCKemia from 
+exercise-induced
+rhabo, but episodes of exercise-induced rhabo started before
+topamax and continued to happen afterwards 
+Dilantin - gum hyperplasia, breakthrough seizures 
+Keppra - Ineffective (patient states it made him angry) 
+Tegretol - Ineffective Lorazepam prn"
+
+"Epilepsy Risk Factors and Birth/Developmental History: no
+history of brain tumor, CNS infection, or family history of
+epilepsy. Normal birth and development. No history of febrile
+seizures. Epilepsy Workup: MRI brain ___: Normal, left
+temporal arachnoid cyst EEG : Ambulatory 24h EEG (Outside,
+___: This is an abnormal EEG due to the presence of
+generalized discharges present over the frontal-temporal regions
+bilaterally. Findings suggest the presence of a generalized
+seizure disorder, though the possibility of a secondary 
+bilateral
+synchrony could not be excluded. Routine EEG (Outside
+___: Normal awake and sleep. Routine EEG (Outside,
+___: This study is abnormal due to runs of rhythmical 
+fast
+waves both in wakefulness and sleep which showed predominance
+over the left hemisphere. In addition, there were distinct runs
+of bilaterally synchronous spike and wave or sharp and slow wave
+complexes. The latter findings indicate the presence of an
+epileptic disorder. Ambulatory 24h EEG (Outside, ___:
+Abnormal due to: 1. Numerous, often repetitive, left
+fronto-central parasagittal epileptiform sharp and wave
+discharges often spreading to midline and secondary, bilaterally
+synchronous, less well developed epileptiform discharges in the
+right fronto-central parasagittal region. Two partial onset
+electrographic seizures noted to emanate from the left
+fronto-central parasagittal region lasting 60 seconds on one
+occasion and 90 seconds on the other, both occurring during
+wakefulness and without notation of any clinical event in the
+patient's dairy."
+ 
+ROS: 
+On neurological review of systems, the patient denies headache,
+confusion, difficulties producing or comprehending speech, loss
+of vision, blurred vision, diplopia, dysarthria, dysphagia,
+lightheadedness, vertigo, tinnitus or hearing difficulty. Denies
+focal weakness, numbness, parasthesiae. No bowel or bladder
+incontinence or retention. Denies difficulty with gait.
+ 
+On general review of systems, the patient denies recent fever, 
+chills, night sweats, or recent weight changes. Denies cough,
+shortness of breath, chest pain or tightness, palpitations. 
+Denies nausea, vomiting, diarrhea, constipation or abdominal
+pain.  Denies dysuria, or recent change in bowel or bladder
+habits.  Denies arthralgias, myalgias, or rash.
+
+ 
+Past Medical History:
+#PILEPSY                                                        
+Since age ___. Well controlled with BID keppra. Will occasionally 
+have short little seizures at night (5x a month). Last grand Mal
+was around ___. Neurologist. Dr. ___ at ___    
+___ in ___.                                          
+
+MIGRAINE HEADACHES                                              
+Just started in ___. Twice a month. Started topamax in ___. With  resolution.                                      
+
+RHABDOMYOLYSIS                                                  
+Mitochondrial metabolic myopathy NOS. 
+
+ 
+Social History:
+Work: ___
+Multiple partners:  Present                                     
+___ activity:    Present                                     
+Contraception:      Condoms - Male                              
+Tobacco use:        Former smoker                               
+Smoking cessation   Yes                                         
+counseling offered:                                             
+     Year Quit:     ___                                        
+     Years Since    2                                           
+     Quit:                                                      
+Alcohol use:        Present                                     
+drinks per week:    ___                                          
+
+Recreational drugs  Present                                     
+(marijuana, heroin,                                             
+crack pills or                                                  
+other):                                                         
+Recreational drugs  daily marijuana use  
+
+ 
+Family History:
+Relative Status   Age Problem              Onset Comments       
+Mother   Living                                                 
+
+Father   Living       MIGRAINE HEADACHES                        
+                      HEMOCHROMATOSIS                           
+
+Brother  Living                                                 
+
+Sister   Living                                                 
+Paternal aunt - brain tumor
+___ grandmother - breast cancer  
+ 
+Physical Exam:
+Vitals: T:97.5   HR:85   BP:141/91   RR:18   SaO2:93% on RA
+
+General: Awake, cooperative young man sitting comfortably in 
+bed,
+looks more tired than previous ED visit, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple . No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented to self, ___, exact date. Able
+to relate history without difficulty. Attentive, able to name 
+___
+backward without difficulty. Language is fluent with intact
+repetition and comprehension. Normal prosody. There were no
+paraphasic errors. Able to name both high and low frequency
+objects.  Able to read without difficulty. No dysarthria. Able 
+to
+follow both midline and appendicular commands.  There was no
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation.  
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    5
+R    5    5    5    5    5    5   5    5    5   5    5    5
+
+-Sensory: No deficits to light touch throughout. No extinction 
+to
+DSS. Romberg absent.
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     1
+R   2     2      2      2     1 
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF bilaterally.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Able to walk in tandem without difficulty.
+
+DISCHARGE PHYSICAL EXAM:
+General: Awake, laying in bed
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented to self, ___, exact date. Able
+to relate history without difficulty. Language is fluent Normal 
+prosody. There were no paraphasic errors.  No dysarthria. Able 
+to follow both midline and appendicular commands.  There was no 
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to conversation
+IX, X: Palate elevates symmetrically.
+XI:
+XII: Tongue protrudes in midline 
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+IP ___ b/l
+
+-Sensory: No deficits to light touch throughout
+
+-Coordination: No intention tremor. 
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Able to walk in tandem without difficulty.
+
+ 
+Pertinent Results:
+___ 04:50AM BLOOD WBC-6.9 RBC-4.33* Hgb-13.5* Hct-41.7 
+MCV-96 MCH-31.2 MCHC-32.4 RDW-12.0 RDWSD-42.6 Plt ___
+___ 04:50AM BLOOD ___ PTT-31.6 ___
+___ 04:50AM BLOOD Glucose-94 UreaN-22* Creat-1.3* Na-142 
+K-4.5 Cl-103 HCO3-27 AnGap-12
+___ 04:50AM BLOOD CK(CPK)-100
+___ 04:50AM BLOOD Calcium-10.0 Phos-3.9 Mg-2.0
+___ 04:50AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 06:00AM URINE Color-Straw Appear-Clear Sp ___
+___ 06:00AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 06:00AM URINE bnzodzp-POS* barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+ 
+Brief Hospital Course:
+___ right-handed man with past medical history of 
+frontal lobe epilepsy, migraines, rhabdomyolysis, presenting 
+with increased seizure frequency. He was having more of his 
+typical seizures. His clobazam was increased to 10 mg in the 
+morning and 15 mg at night initially. He was hooked up to EEG, 
+which occurred after the increase in clobazam. He had no 
+seizures overnight on EEG after this increase initially. The 
+next night he had a few night time brief seizures, so his 
+clobazam was increased to 10 mg in the morning and 20 mg at 
+night, as most of his seizures are at night.
+
+TRANSITIONAL ISSUES:
+Elevated Cr: His Cr was 1.3 this admission (eGFR 60-75), at 
+baseline it appears to be around the 1.1-1.3 range. This seems 
+high for his age, could potentially benefit from seeing 
+nephrology outpatient.
+
+seizures:
+continue clobazam at 10 mg qam, 20 mg qpm as well as lamotrigine 
+300 mg BID. follow up drug levels from this admission. Follow up 
+in clinic
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LamoTRIgine 300 mg PO BID 
+2. Clobazam 10 mg PO QPM 
+3. Clobazam 5 mg PO QAM 
+4. Verapamil 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Clobazam 10 mg PO QAM 
+RX *clobazam 10 mg ___ tablet(s) by mouth twice a day Disp #*90 
+Tablet Refills:*2 
+2.  Clobazam 20 mg PO QPM  
+3.  LamoTRIgine 300 mg PO BID  
+4.  Verapamil 40 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+epilepsy
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were hospitalized because your seizures were becoming more 
+frequent. You were monitored on EEG and your medications 
+adjusted. We increased your clobazam to 10 in the morning and 20 
+mg at night. You had some brief night time seizures when you 
+were on 10 in the morning and 15 mg at night. As your seizure 
+control improved, you were discharged from the hospital. You 
+will follow up with Dr. ___ in epilepsy. If you feel too 
+sleepy on 10 in the morning and 20 mg at night, you could 
+decrease to 10 mg in the morning at 15 mg at night. Consider 
+talking to your primary care doctor about seeing a nephrologist 
+as your kidney function is somewhat impaired for your age.
+
+It was a pleasure taking care of you, sincerely,
+Your ___ neurology team
+ 
+Followup Instructions:
+___

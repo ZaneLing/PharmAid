@@ -1,0 +1,379 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Odynophagia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Per Dr. ___:
+HPI:
+___ year old male with esophageal cancer who presents with
+episodes of emesis.  His throat is hurting. Whenever he eats the
+food cannot go down. This has been occurring for 4 months. He 
+has
+been on chemotherapy and his last treatment was yesterday and he
+went for a CT scan after that. Before his treatment he was 
+unable
+to swallow food at all but towards the end he was able to 
+swallow
+a little bit. Once his treatment was complete he stopped taking
+tube feeds and tried to eat. He did not like  getting  tube 
+feeds
+because it resulted in diarrhea and he enjoys eating. Per the
+documentation from the rehab he has been having emesis since 
+this
+morning and then developed abdominal pain which was not improved
+with po oxycodone. An attempt was made to get labs at the rehab
+but they could not. Given this the attending for the rehab was
+notified and a decision was made to send him to ___. Of note 
+he
+had a watery bowel movement this morning at rehab. 
+He does not know why his rehab sent him here. 
+.
+He has lost 30lbs since being treated. He has been getting
+treatment for the past 4 months.  No fevers or chills. No chest
+pain or shortness of breath. His only complaint is throat pain
+and inability to eat. He does not report abdominal pain. 
+
+In ER: (Triage Vitals:9 |99.6 |94 |102/71|16|99% RA) 
+Meds Given: None
+Fluids given: 2L IV crystalloid 
+Radiology Studies: none
+consults called: The ED attempted to transfer him to ___ and
+___ ED but they declined to accept the patient. 
+
+ 
+Past Medical History:
+Malignant neoplasm of esophagus
+Alcohol absue
+Dysphagia
+gastrostomy status
+ 
+Social History:
+___
+Family History:
+Both of his parents died of old age.
+ 
+Physical Exam:
+97.2
+PO 101 / 65 61 18 98 Ra 
+GENERAL: Alert and in no apparent distress. Cachetic and thin.
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma.  
+
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally 
+GI: Abdomen soft, non-distended, but tender with palpation
+throughout. J tube in place c/d/i
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities 
+PSYCH: pleasant, appropriate affect
+NEUROLOGIC:
+MENTATION: alert and cooperative. Oriented to person and place
+and time.
+ 
+Pertinent Results:
+___ 07:50AM BLOOD WBC-2.5* RBC-3.26* Hgb-10.8* Hct-30.1* 
+MCV-92 MCH-33.1* MCHC-35.9 RDW-18.1* RDWSD-60.7* Plt ___
+___ 07:50AM BLOOD Glucose-93 UreaN-12 Creat-0.7 Na-142 
+K-4.0 Cl-102 HCO3-26 AnGap-14
+___ 09:15AM BLOOD ALT-15 AST-24 AlkPhos-75 TotBili-0.7
+___ 09:15AM BLOOD Lipase-47
+___ 07:50AM BLOOD Calcium-9.2 Phos-3.9 Mg-1.6
+___ 07:30PM BLOOD Lactate-1.0.
+.
+___BD & PELVIS WITH CO 
+EXAMINATION:  CT scan of the abdomen pelvis with intravenous 
+contrast. 
+  
+INDICATION:  ___ year old man with esophageal cancer ___ G tube// 
+increasing 
+abdominal pain, nausea, vomiting. 
+  
+TECHNIQUE:   Single phase split bolus contrast: MDCT axial 
+images were 
+acquired through the abdomen and pelvis following intravenous 
+contrast 
+administration with split bolus technique. 
+Oral contrast was administered. 
+Coronal and sagittal reformations were performed and reviewed on 
+PACS. 
+  
+DOSE:  Acquisition sequence: 
+   1) Sequenced Acquisition 0.5 s, 0.2 cm; CTDIvol = 7.3 mGy 
+(Body) DLP = 1.5 
+mGy-cm. 
+   2) Stationary Acquisition 19.0 s, 0.2 cm; CTDIvol = 254.1 mGy 
+(Body) DLP = 
+50.8 mGy-cm. 
+   3) Spiral Acquisition 7.5 s, 48.9 cm; CTDIvol = 5.3 mGy 
+(Body) DLP = 256.1 
+mGy-cm. 
+ Total DLP (Body) = 308 mGy-cm. 
+  
+COMPARISON:  No relevant prior imaging is available for 
+comparison. 
+  
+FINDINGS:  
+  
+LOWER THORAX: The lung bases are clear. No pleural or 
+pericardial effusion. 
+  
+HEPATOBILIARY: The liver is unremarkable. No biliary ductal 
+dilatation. 
+Unremarkable gallbladder. 
+  
+PANCREAS: Unremarkable. 
+  
+SPLEEN: Unremarkable. No splenomegaly. 
+  
+ADRENALS: The adrenal glands are normal in size and morphology. 
+  
+URINARY: Subcentimeter renal cortical hypodensities are too 
+small to 
+characterize but likely represent small cysts.  No 
+hydronephrosis.  
+Unremarkable bladder. 
+  
+GASTROINTESTINAL: The patient's primary esophageal carcinoma is 
+not clearly 
+identified on the current examination.  The stomach appears 
+unremarkable.  The 
+small and large bowel are normal in caliber.  There is a 
+percutaneous 
+jejunostomy tube in situ.  Mild apparent colonic wall thickening 
+involving the 
+descending and sigmoid colon are likely related to incomplete 
+oral contrast 
+opacification and admixture of fecal contents. 
+  
+REPRODUCTIVE ORGANS: Mild prostatomegaly. 
+  
+LYMPH NODES: Borderline prominent retroperitoneal lymph node at 
+the level of 
+the SMA measuring 8 mm (axial series 5, image 28; coronal series 
+7, image 20). 
+No pelvic or inguinal adenopathy. 
+  
+PERITONEUM, RETROPERITONEUM, MESENTERY: Unremarkable. 
+  
+VASCULAR: No abdominal aortic aneurysm. Mild to moderate 
+atherosclerotic 
+calcification. 
+  
+BONES: Posttraumatic deformity of the left lower ribs 
+posteriorly.  No 
+suspicious osseous lesion. 
+  
+SOFT TISSUES: Unremarkable. 
+  
+IMPRESSION: 
+  
+  
+1. No cause for the patient's symptoms is identified. 
+2. Percutaneous jejunostomy tube in situ. 
+3. The patient's primary esophageal carcinoma is not confidently 
+identified on 
+the current examination.  Single prominent retroperitoneal lymph 
+node. 
+4. No other evidence of metastatic disease within the abdomen or 
+pelvis is 
+identified. 
+
+ 
+Brief Hospital Course:
+___ year old ___ ___ speaking male with
+history of esophageal SCC ___ ___ CRT at ___ and ___
+jejunostomy for nutrition back up presents on ___ from ___ rehab with nausea, vomiting, abdominal pain and
+odynophagia.
+
+#ABdominal pain, nausea, vomiting
+-Workup with LFTs and lipase and CT A/P with contrast was 
+unrevealing for any acute pathology.
+-Patient had no abdominal pain since admission. His vomiting did 
+not recur. It was associated with the patient trying to eat at 
+Rehab when he developed odynophagia. The cause of his symptoms 
+is likely abdominal pain radiating from his odynophagia and 
+nausea induced by severe odynophagia.
+-J tube position was verified by the CT A/P
+
+#Odynophagia
+-This is in context of esophageal ___ ___ CRT a month ago.
+-Recent imaging ___ PET/CT) last week at ___ shows
+improvement in mid-esophageal mass, mediastinal, upper abdominal
+and right supraclavicular lymphadenopathy. However, there is
+diffuse esophageal uptake, slightly more intense at the level of
+mass. CT chest (___) with decreased thickening of esophagus
+with minimal asymmetry.
+-Main concern would be development of ?radiation esophagitis. A
+potential esophageal stricture ___ not have developed yet (only 
+1
+month ago he received RT).
+-I spoke with Dr. ___ oncologist on ___, regarding the 
+patient's
+complaint of odynophagia. He thinks it is probably related to 
+the
+radiation recently and is not unexpected. He prefers that any
+endoscopy should be performed at ___ rather than at
+___, but thinks it is reasonable to hold off on endoscopy at
+this time if his odynophagia improves on its own.
+-NPO upon discharge until instructed otherwise by his 
+oncologist.
+-Follow up with oncologist as scheduled for next week.
+
+#History of esophageal SCC ___ ___ CRT 
+-___: presented to the ___
+emergency department with 2 weeks of vomiting with all oral
+intake 
+-___: upper endoscopy with Dr. ___ at the
+___ showed food in the upper third of
+the esophagus with a malignant appearing intrinsic stenosis at 
+25
+cm from the incisors. The stenosis was severe and could not be
+transversed. Biospy at the ___ showed
+squamous cell carcinoma with foci suspicious for invasion
+associated with severe active esophagitis and ulceration 
+-___: CT of the chest at the ___ showed circumferential thickening involving the 
+proximal
+and mid esophagus without evidence enlarged adjacent lymph 
+nodes.
+There were ground glass opacities in the left lower lobe thought
+to be related to aspiration. 
+-___: The patient had a laparoscopic jejunostomy
+tube placed with Dr. ___. During this procedure he also had a
+bronchoscopy showing no endobronchial abnormalities. 
+-Followed by Dr. ___ at ___ (oncology) and Dr. ___ (thoracic surgery) and Dr. ___ (radonc)
+-___ completion of carboplatin/paclitaxel and radiation in 
+___
+at ___. 
+-___ had PET/CT and ___hest w/contrast were
+performed (see ___ note in OMR where the imaging reports are
+copied). Overall improvement was seen in disease burden. He
+should have continued outpatient follow up for question renal
+primary lesion and the focal uptake in the region of the right
+retromolar trigone suspicious for mucosal lesion. 
+-Dr. ___ per his last office note was going to use 
+results
+of imaging to determine need for ?surgery in the future
+
+-Patient's daughter, ___, was fully updated by phone on day 
+of discharge per patient's request and in agreement with 
+discharge plan.
+ 
+Greater than 30 minutes was spent on discharge planning and 
+coordination
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+2. Bisacodyl 10 mg PR QHS:PRN constipation 
+3. Fleet Enema (Saline) ___AILY:PRN constipation 
+4. GuaiFENesin 10 mL PO Q4H:PRN cough 
+5. Lidocaine Viscous 2% 15 mL PO QID:PRN mouth pain 
+6. Milk of Magnesia 30 mL PO Q6H:PRN constipation 
+7. Ondansetron ODT 8 mg PO Q8H:PRN nausea 
+8. Prochlorperazine 10 mg PO Q6H:PRN nausea 
+9. OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - Moderate 
+
+10. Senna 8.6 mg PO BID:PRN Constipation - First Line 
+11. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Lansoprazole Oral Disintegrating Tab 30 mg J TUBE BID  
+2.  Acetaminophen 650 mg NG 5X/DAY  
+3.  OxycoDONE Liquid 5 mg NG Q4H:PRN Pain - Moderate 
+RX *oxycodone 5 mg/5 mL 5 mg by mouth every four (4) hours 
+Refills:*0 
+4.  Bisacodyl 10 mg PR QHS:PRN constipation  
+5.  Fleet Enema (Saline) ___AILY:PRN constipation  
+6.  Lidocaine Viscous 2% 15 mL PO QID:PRN mouth pain  
+7.  Senna 8.6 mg NG BID:PRN Constipation - First Line  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Odynophagia
+Esophagitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Instructions: Dear Mr. ___, 
+
+It was a pleasure to be a part of your care team at ___ 
+___.
+
+====================================
+Why did you come to the hospital? 
+====================================
+
+-You had pain in the throat with swallowing, and vomiting.
+
+====================================
+What happened at the hospital? 
+====================================
+
+-Your throat pain with swallowing and vomiting episode was due 
+to esophagitis, inflammation of the esophagus, which is most 
+likely due to the recent radiation treatment you had over a 
+month ago.
+-We spoke to your oncologist, Dr. ___. The recommendation 
+is that if this gets worse over the next week, you ___ need an 
+endoscopy (camera procedure to look inside the esophagus). 
+-For the next week until you get to see Dr. ___ in follow up, 
+you should eat and drink nothing by mouth. There is a high risk 
+of aspiration (food/water going down into the lung instead of 
+stomach, which can cause infection or trouble breathing) and 
+worsening of your pain while there is esophagitis. You need to 
+give time for the area to heal and improve.
+-You will receive nutrition and hydration through your J tube.
+
+==================================================
+What needs to happen when you leave the hospital? 
+==================================================
+
+-Please do not take anything by mouth except for mouth swabs or 
+occasional ice chips. Do not eat or drink anything else until 
+instructed otherwise by your oncologist, Dr. ___.
+-Follow up with Dr. ___ as scheduled. He will give you more 
+information on recommendations of what to do about your cancer 
+in the future in addition to whether you need endoscopy 
+performed to evaluate your throat pain if it is not any better 
+by next week.
+
+It was a pleasure taking care of you during your stay! 
+
+Sincerely, 
+
+Your ___ team  
+
+ 
+Followup Instructions:
+___

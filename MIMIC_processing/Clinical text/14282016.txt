@@ -1,0 +1,349 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+facial weakness
+ 
+Major Surgical or Invasive Procedure:
+n/a 
+
+ 
+History of Present Illness:
+___ year old woman pmhx of DM, HTN, OSA not on CPAP, medication
+non compliance presents with headache and associated facial 
+droop
+and parasthesia. 
+Briefly, pt was in her USPH until this morning at 3;30 am she
+woke up to get ready for work as usual, and noted a pounding
+headache. She immediately took her BP as in the past she used to
+get HA associated with high BP. BP was 140/107. She states
+headache located "all over". No photo, phonophobia or nausea or
+emesis. No visual changes. She did notice that her lower face
+felt weird like her lower face "fell asleep". This got worse
+throughout the day. Her husband also noted that she had a
+transient left facial droop which lasted a few minutes and then
+self resolved. When she used to get these HA in the past she
+would just start taking her medication more regularly and try
+live a healthier life style. Sometimes she takes aleve with
+improvement. She did ASA 81 mg x1 this am. She states she
+currently still has the throbbing HA, but facial parasthesia 
+have
+improved. 
+ 
+Past Medical History:
+DM
+HTN
+OSA
+
+ 
+Social History:
+___
+Family History:
+Fam hx of stroke
+
+ 
+Physical Exam:
+EXAM ON DISCHARGE:
+Physical Exam:
+- General: Awake, cooperative, NAD.
+- HEENT: NC/AT
+- Neck: Supple
+- Pulmonary: no increased WOB
+- Cardiac: well perfused 
+- Abdomen: soft, nontender, nondistended
+- Extremities: no edema, pulses palpated
+- Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt was able to name both high and low frequency objects.  Able 
+to
+read without difficulty. Speech was not dysarthric. Able to
+follow both midline and appendicular commands. The pt had good
+knowledge of current events. There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk. VFF to confrontation.
+III, IV, VI: EOMI with couple of beat extinguishable end beat
+nystagmus b/l.
+V: Facial sensation intact to light touch.
+VII: subtle  left lower facial droop, symmetric activation
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+No adventitious movements, such as tremor, noted. No asterixis
+noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  5   5    5  5     5     5   5
+R  5    ___   ___  5   5    5  5     5     5   5
+
+-DTRs:  
+Trace reflexes BLE, 1+ BUE
+        
+Plantar response flexor bilaterally. 
+
+-Sensory: No deficits to light touch, pinprick, cold sensation,
+vibratory sense, proprioception throughout. No extinction to 
+DSS.
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Deferred
+ 
+Pertinent Results:
+___ 04:45AM BLOOD WBC-7.4 RBC-4.50 Hgb-12.3 Hct-38.5 MCV-86 
+MCH-27.3 MCHC-31.9* RDW-13.5 RDWSD-43.0 Plt ___
+___ 02:00PM BLOOD WBC-8.5 RBC-4.62 Hgb-12.7 Hct-39.6 MCV-86 
+MCH-27.5 MCHC-32.1 RDW-13.6 RDWSD-42.7 Plt ___
+___ 02:00PM BLOOD Neuts-62.9 ___ Monos-6.5 Eos-3.2 
+Baso-0.6 Im ___ AbsNeut-5.34 AbsLymp-2.22 AbsMono-0.55 
+AbsEos-0.27 AbsBaso-0.05
+___ 04:45AM BLOOD Plt ___
+___ 04:45AM BLOOD ___ PTT-32.4 ___
+___ 04:45AM BLOOD Glucose-112* UreaN-14 Creat-0.7 Na-144 
+K-3.9 Cl-100 HCO3-28 AnGap-16
+___ 02:00PM BLOOD ALT-14 AST-24 AlkPhos-64 TotBili-0.4
+___ 02:00PM BLOOD Triglyc-225* HDL-58 CHOL/HD-3.0 
+LDLcalc-73
+___ 03:37PM BLOOD %HbA1c-6.0 eAG-126
+
+Images:
+MRI BRAIN: No evidence of acute infarct.
+
+EXAMINATION:  CTA HEAD AND CTA NECK Q16 CT NECK
+ 
+INDICATION:  History: ___ with L facial numbness, headache and 
+facial droop
+earlier// concern for CVA/TIA. eval vessels.
+ 
+TECHNIQUE:  Contiguous MDCT axial images were obtained through 
+the brain
+without contrast material. Subsequently, helically acquired 
+rapid axial
+imaging was performed from the aortic arch through the brain 
+during the
+infusion of 70 mL of Omnipaque intravenous contrast material.
+Three-dimensional angiographic volume rendered, curved 
+reformatted and
+segmented images were generated on a dedicated workstation. This 
+report is
+based on interpretation of all of these images.
+ 
+DOSE:  Acquisition sequence:
+   1) Sequenced Acquisition 16.0 s, 16.0 cm; CTDIvol = 50.2 mGy 
+(Head) DLP =
+802.7 mGy-cm.
+   2) Stationary Acquisition 4.5 s, 0.5 cm; CTDIvol = 98.0 mGy 
+(Head) DLP =
+49.0 mGy-cm.
+   3) Spiral Acquisition 4.6 s, 36.2 cm; CTDIvol = 30.9 mGy 
+(Head) DLP =
+1,118.6 mGy-cm.
+ Total DLP (Head) = 1,970 mGy-cm.
+ 
+COMPARISON:  None.
+ 
+FINDINGS: 
+ 
+Head CT: No acute intracranial pathology.  No intracranial 
+hemorrhage. No loss
+of gray-white differentiation to suggest acute infarction. 
+Enlarged partially
+empty sella turcica.  No other features of hydrocephalus.  Small 
+mucous
+retention cyst present in the inferior aspect of the left 
+maxillary sinus. 
+Remainder the paranasal sinuses are clear.  The orbits are 
+unremarkable.  The
+mastoid air cells middle ears are well pneumatized and clear.  
+No acute
+osseous abnormality.
+ 
+CTA HEAD: The intracranial ICA, MCA, ACA and their major 
+branches are
+unremarkable without evidence of high-grade stenosis, occlusion 
+or aneurysm. 
+Posterior circulation is also unremarkable.
+ 
+ 
+CTA NECK: There is a 3 vessel arch.  Allowing for mild 
+atherosclerotic
+disease, the right brachiocephalic, bilateral common carotid, 
+subclavian and
+vertebral arteries are unremarkable there is no stenosis of the 
+cervical
+internal carotid arteries by NASCET criteria.
+ 
+OTHER:
+There is peribronchovascular airspace opacification with 
+associated
+cicatricial bronchiectasis in the upper lobes bilateral.  Right 
+lower
+paratracheal soft tissue most likely represents the azygos vein, 
+but lymph
+nodes cannot be excluded with certainty.  Visualized portion of 
+the thyroid
+gland is within normal limits. There is no lymphadenopathy by CT 
+size
+criteria.
+ 
+IMPRESSION:
+ 
+ 
+1. No acute intracranial abnormality on noncontrast head CT.  
+Specifically no
+large territory infarct or intracranial hemorrhage.
+2. No significant intracranial arterial stenosis, occlusion or 
+aneurysm.
+3. Unremarkable CTA of the neck without evidence of stenosis of 
+the cervical
+internal carotid arteries by NASCET criteria.
+4. Peribronchovascular airspace opacification in the upper lung 
+lobes. 
+Dedicated chest imaging is advised to further evaluate these 
+findings.
+ 
+Brief Hospital Course:
+SUMMARY: ___ year old woman with hx of DM, HTM OSA not on CPAP 
+and medication non compliance who presented on ___ with 
+headache
+associated with left facial parasthesia in V3 distribution as
+well as transient left facial droop. Exam on admission was 
+notable for mild left lower facial weakness, otherwise non 
+focal. She was admitted to ___ for workup for TIA. Underwent 
+MRI brain which was unremarkable, no evidence of stroke or other 
+significant abnormalities. 
+
+Differential includes TIA given stroke risk factors (DM, HTM
+OSA and medication non compliance) vs complex migraine (given
+gradual onset of positive symptoms such as parasthesia). Patient 
+was discharged on aspirin 81mg daily. LDL was 73, and offered a 
+statin but patient declined until further discussion with PCP. 
+She was arranged for outpatient TTE for risk stratification.
+
+Due to her OSA, she was ordered for home sleep study and 
+outpatient sleep medicine evaluation. 
+
+She was noted to have an incidentally found spiculated lung 
+lesion, for which PCP was contacted and will plan to order CT 
+chest w/ contrast for further evaluation. 
+
+TRANSITIONAL ISSUES:
+1. Continue aspirin 81mg daily
+2. Follow up CT chest w/ contrast (needs to be ordered by PCP) 
+for evaluation of spiculated lung lesion 
+3. Follow up outpatient TTE
+4. Follow up outpatient sleep study and sleep medicine 
+evaluation 
+5. Consider starting statin for elevated LDL to 73- this was 
+offered to patient who declined until further discussion with 
+PCP 
+ 
+___ on ___:
+The Preadmission Medication list is accurate and complete.
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Hydrochlorothiazide 25 mg PO DAILY  
+3.  MetFORMIN XR (Glucophage XR) 500 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+TIA vs complex migraine 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+You were admitted to ___ after having a headache associated 
+with sensory changes on the left side of your face. To look into 
+your symptoms, we completed an MRI of your brain, which did not 
+reveal any evidence of stroke or other notable abnormalities. 
+The cause of your symptoms is unclear. The two most likely 
+possibilities are a Transient Ischemic Attack (TIA) or complex 
+migraine. 
+
+A TIA is a condition where a blood vessel providing oxygen and 
+nutrients to the brain is blocked by a clot. The brain is the 
+part of your body that controls and directs all the other parts 
+of your body, so damage to the brain from being deprived of its 
+blood supply can result in a variety of symptoms.  
+ Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are: sleep apnea, diabetes, high 
+blood pressure and borderline high cholesterol. 
+
+In addition, during workup into your symptoms, it was noted that 
+there was a possible abnormality in your lung. We have spoken to 
+your primary care physician (PCP) about this, who will arrange 
+for you to 
+get a CT of your chest to look into this further. 
+
+It will be important for you to get an ultrasound of your heart, 
+called a TTE (Trans-thoracic echocardiogram) to see if there is 
+any abnormalities in the heart that may be causing your 
+symptoms.  
+
+Also, we have provided you with the contact information for the 
+sleep medicine center to be set up for a sleep study. It is 
+important that you get a sleep study done, as you may benefit 
+from wearing a CPAP machine. 
+
+ We are changing your medications as follows:  
+-Started aspirin 81mg daily 
+  
+ Please take your other medications as prescribed.  
+ Please follow up with Neurology and your primary care physician 
+as listed below.  
+ If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+ Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

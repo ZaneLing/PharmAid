@@ -1,0 +1,344 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+flecainide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+___ ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o male with a history of persistent afib 
+s/p DCCV (___) and HTN who presents with a syncopal 
+episode. 
+
+The patient has been followed by cardiology for atrial 
+fibrillation, initially diagnosed in ___. He underwent 
+successful cardioversion on ___ and remained in sinus rhythm 
+while taking metoprolol and flecainide. He was seen by Dr. 
+___ in ___, at which time both medications were stopped. 
+He continued to due to well until ___ when he had recurrence 
+of his atrial fibrillation. He was placed back on metoprolol 
+12.5 mg nightly and flecainide 100 mg BID in ___ and 
+underwent successful cardioversion on ___. 
+
+He presents today following a syncopal episode around noon on 
+___. The patient was undergoing strenuous exercise while 
+canoeing. After completely his exercise, he tripped while 
+exiting the canoe and then had a witnessed loss of consciousness 
+that lasted several seconds. He was noted to be diaphoretic, 
+pale and disoriented following the event. EMS found the patient 
+to be in a
+wide-complex tachycardia felt to be consistent with a 
+ventricular tachycardia and took the patient to ___, 
+where he spontaneously converted to atrial fibrillation. Labs 
+were notable for negative troponin, CK 108, TSH 6, free T4 1.35, 
+and CT head was negative. He remained HD stable throughout. 
+Decision made to transfer to ___ for further care. Of note, 
+the patient was
+wearing a ZioPatch monitor during the event. The ZioPatch was 
+initiated following a recent pre syncopal episode a week ago 
+that occurred while the patient was exercising on the 
+elliptical.  
+
+In the ED, initial VS were:  Temp 97.2F BP 120/86 HR 78 RR 16 
+100% on RA 
+
+Exam notable for: Irregularly irregular rhythm, CTAB. 
+
+ECG: Rate 72. Atrial fibrillation. Normal axis. Normal 
+intervals. T wave inversions I, V4-V6. No ST changes. 
+
+Labs showed: BUN 21, Cr 1.3, HCO3 21, WBC 7.7, Trop-T <0.01 
+
+Consults:  
+- Cardiology: Rhythm c/w regular WCT with RBBB morphology and 
+LAD. Consistent with VT but afib w/ aberrancy cannot be ruled 
+out. Recommended admission with EP consult and TTE. 
+
+Transfer VS were:  Temp 97.8F BP 135/86 HR 64 RR 14 97% on RA 
+
+On arrival to the floor, patient reports feeling well except for 
+fatigue and a slight headache. No chest pain, shortness of 
+breath, palpitations. He has been taking his medications daily 
+as prescribed.  No recent illness, including fever, chills, 
+dysuria, hematuria or diarrhea. Only other symptom has been 
+feeling more slow with walking up hills. No shortness of breath, 
+new ___ edema,
+orthopnea or PND.
+
+ 
+Past Medical History:
+- Atrial fibrillation
+- DVT (___)
+- Hypertension
+- Erectile dysfunction
+- External hemorrhoids 
+- Salivary gland mucocele 
+- Quadriceps tear s/p repair (___)
+- Cataract surgery OD ___ 
+ 
+Social History:
+___
+Family History:
+Father had lung cancer, died at age ___. Mother had dementia and 
+died at ___. No family history of early MI, arrhythmia, 
+cardiomyopathies, or sudden cardiac death.  
+ 
+Physical Exam:
+===============================
+ADMISSION PHYSICAL EXAMINATION:
+===============================
+
+VS: Temp 97.8 BP 121/78 HR 76 RR 16 97% on RA  
+GENERAL: WDWN male in NAD. Lying comfortably in bed.  
+HEENT: Scratch over nasal bridge. PERRL. Oropharynx clear. 
+NECK: supple, no LAD. JVP not elevated. 
+CV: Irregularly irregularly rhythm, normal rate, with normal 
+S1/S2. No murmurs, gallops, or rubs  appreciated. 
+PULM: Normal respiratory effort. CTAB without wheezes, rales or 
+rhonchi. 
+GI: Soft, NT/ND, normoactive BS. No guarding or masses.   
+EXTREMITIES: Warm, well perfused. Trace RLE edema, none on the 
+left. No erythema. 
+PULSES: 2+ radial pulses bilaterally  
+NEURO: Alert and interactive. CN II-XII grossly intact. ___ 
+strength   
+DERM: warm and well perfused, no excoriations or lesions, no 
+rashes 
+
+===============================
+DISCHARGE PHYSICAL EXAMINATION:
+===============================
+
+VS: 98.3, BP 119/73, HR 75, RR 16, O2sat 97%
+
+Telemetry: Afib on morning telemetry before ___ 
+GENERAL: WDWN male in NAD. Lying comfortably in bed eating 
+breakfast
+HEENT: Scratch over nasal bridge and on forehead. JVP not 
+elevated, prominent EJ pulsations
+CV: Regular rate and rhythm with normal S1/S2. No murmurs,
+gallops, or rubs  appreciated. Zio patch in place. 
+PULM: Normal respiratory effort. CTAB without wheezes, rales or 
+rhonchi. 
+GI: Soft, NT/ND, +BS. No guarding or rebound.   
+EXTREMITIES: Warm, well perfused. Trace RLE edema (chronic per 
+patient), none on the left. No erythema. 
+PULSES: 2+ radial pulses bilaterally  
+NEURO: Alert and interactive. CN II-XII grossly intact.  
+ 
+Pertinent Results:
+===============
+ADMISSION LABS:
+===============
+
+___ 07:22PM BLOOD WBC-7.7 RBC-4.46* Hgb-13.9 Hct-41.7 
+MCV-94 MCH-31.2 MCHC-33.3 RDW-14.2 RDWSD-48.4* Plt ___
+___ 07:22PM BLOOD Neuts-52.5 ___ Monos-9.8 Eos-0.5* 
+Baso-0.4 Im ___ AbsNeut-4.03 AbsLymp-2.79 AbsMono-0.75 
+AbsEos-0.04 AbsBaso-0.03
+___ 07:22PM BLOOD ___ PTT-31.1 ___
+___ 07:22PM BLOOD Glucose-88 UreaN-21* Creat-1.3* Na-143 
+K-4.6 Cl-109* HCO3-21* AnGap-13
+___ 07:22PM BLOOD cTropnT-<0.01
+
+======
+MICRO:
+======
+
+___ URINE CULTURE - <10,000 CFU/ml
+
+================
+IMAGING/REPORTS:
+================
+
+___ TTE
+The left atrial volume index is SEVERELY increased. The right 
+atrium is moderately enlarged. The estimated right atrial 
+pressure is >15mmHg. There is normal left ventricular wall 
+thickness with a normal cavity size. There is normal regional 
+and global left ventricular systolic function. The visually 
+estimated left ventricular ejection fraction is 65-100%. Left 
+ventricular cardiac index is normal (>2.5 L/min/m2). There is no 
+resting left ventricular outflow tract gradient. No ventricular 
+septal defect is seen. Mildly dilated right ventricular cavity 
+with normal free wall motion. The aortic sinus is mildly dilated 
+with normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal. There is no
+evidence for an aortic arch coarctation. The aortic valve 
+leaflets (3) appear structurally normal. There is no aortic 
+valve stenosis. There is trace aortic regurgitation. The mitral 
+valve leaflets are mildly thickened
+with no mitral valve prolapse. There is mild [1+] mitral 
+regurgitation. The tricuspid valve leaflets appear structurally 
+normal. There is physiologic tricuspid regurgitation. There is 
+mild pulmonary artery systolic hypertension. There is no 
+pericardial effusion.
+
+===============
+DISCHARGE LABS:
+===============
+
+___ 06:10AM BLOOD WBC-6.8 RBC-4.34* Hgb-13.8 Hct-40.9 
+MCV-94 MCH-31.8 MCHC-33.7 RDW-14.2 RDWSD-48.9* Plt ___
+___ 06:10AM BLOOD Glucose-94 UreaN-15 Creat-1.2 Na-141 
+K-4.7 Cl-106 HCO3-25 AnGap-10
+___ 06:10AM BLOOD Calcium-8.8 Phos-3.2 Mg-1.___ with a history of persistent atrial fibrillation, status 
+post DCCV (___), CKD, and HTN, who presented with a 
+syncopal episode after canoeing outside in the heat, found by 
+EMS to be in a new wide complex tachycardia and admitted for 
+evaluation.
+
+====================
+ACUTE/ACTIVE ISSUES:
+====================
+
+# Syncope
+# Wide complex tachycardia, likely organized 1:1 atrial flutter
+# Flecainide toxicity
+# Atrial fibrillation
+Patient with a history of atrial fibrillation, status post two 
+successful DCCV with subsequent conversion to atrial 
+fibrillation. Presented following a syncopal episode on ___ 
+after an afternoon out canoeing. Patient had a history of a 
+pre-syncopal event the week before admission for which he was 
+started on a Ziopatch for ongoing monitoring. Found to be in WCT 
+by EMS, concerning for VT. Spontaneously converted to atrial 
+fibrillation, which persisted upon transfer to ___ from 
+___ ED. Review of the EMS strip showed rhythm most 
+consistent with organized atrial flutter with 1:1 conduction, 
+likely secondary to flecainide toxicity. Given concern for 
+relation of syncope to arrhythmia, flecainide was discontinued. 
+Patient underwent successful ___ with 250J and was in sinus 
+rhythm upon discharge. Plan is for catheter ablation, which will 
+be scheduled with the patient directly. Discharge medications; 
+metoprolol succinate 25mg daily and dabigatran 150mg BID. 
+Patient should have Ziopatch removed upon completion of testing 
+and sent for analysis. 
+
+======================
+CHRONIC/STABLE ISSUES: 
+======================
+
+# Hypertension
+BP was stable on home regimen. Metoprolol dosing adjusted to 
+25mg daily upon discharge. 
+
+# CKD
+Creatinine 1.3 on admission, appeared within range of baseline 
+in 1.1-1.3 (GFR 55-65). 
+
+====================
+TRANSITIONAL ISSUES:
+====================
+
+MEDICATION CHANGES:
+[] changed metoprolol succinate to 25mg daily
+[] stopped flecainide 100mg Q12H
+
+[] AF: EP will schedule catheter ablation with patient early 
+next week
+[] FLECAINIDE: patient should not be prescribed this medication 
+in the future given adverse effect 
+[] ZIOPATCH: should be removed and sent for analysis upon 
+completion of monitoring 
+[] AORTIC SINUS DILATION: TTE demonstrated increase in aortic 
+sinus size from 39mm to 42mm
+
+==================================================
+# CODE STATUS: Full
+# CONTACT: ___, ___/wife, ___
+ 
+Medications on Admission:
+1. Dabigatran Etexilate 150 mg PO BID 
+2. Metoprolol Succinate XL 12.5 mg PO DAILY 
+3. Vitamin D 1000 UNIT PO DAILY 
+4. Flecainide Acetate 100 mg PO Q12H 
+5. Vitamin B Complex 1 CAP PO DAILY 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth Daily Disp 
+#*30 Tablet Refills:*0 
+2.  Dabigatran Etexilate 150 mg PO BID  
+3.  Vitamin B Complex 1 CAP PO DAILY  
+4.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+==================
+PRIMARY DIAGNOSES:
+==================
+
+Syncope, secondary to wide complex tachycardia, likely organized 
+1:1 atrial flutter in the setting of flecainide toxicity
+Atrial fibrillation, status post direct current cardioversion
+
+====================
+SECONDARY DIAGNOSES:
+====================
+
+Hypertension 
+Chronic kidney disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+WHY YOU CAME TO THE HOSPITAL  
+You were admitted because you had a fainting episode and the 
+emergency responders observed a heart rhythm that was 
+concerning. 
+  
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL
+- You were found to be in atrial fibrillation
+- Our electrophysiology doctors were ___ and ___ the 
+heart rhythm caused your fainting
+- This was likely secondary to flecainide
+- You were cardioverted with resolution of your atrial 
+fibrillation
+- Dr. ___ will contact you with a date for ablation to 
+prevent future atrial fibrillation 
+
+WHAT YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL
+- You need to follow-up with your PCP as arranged
+- You also need to follow-up with Dr. ___ as arranged
+- You should receive a phone call from the EP team to schedule 
+your ablation next week
+- It is important you continue to take all your medications as 
+prescribed
+- Pay close attention to your symptoms and return if you feel 
+faint or lightheaded
+
+It was a pleasure taking care of you!
+
+Your ___ Healthcare Team 
+
+MEDICATION CHANGES:
+[] changed metoprolol succinate to 25mg daily
+[] stopped flecainide 100mg Q12H
+ 
+Followup Instructions:
+___

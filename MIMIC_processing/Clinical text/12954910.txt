@@ -1,0 +1,324 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+gait unsteadiness
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Patient is a ___ yo man with a history of recent stroke 3 weeks
+ago (seen at ___ who presents to the ED with worsening of his
+residual dizziness and gait unsteadiness, and recurrence of his
+right facial droop from his recent stroke. Today at 6:30 pm he
+was taking a bath. He tried to stand up and felt faint. He
+slipped on the soap and fell back to the tub and had difficulty
+standing up. His dizziness felt worse than normal and he bumped
+into walls. He also has some recurrence of numbness in his right
+lower lip and his wife noted recurrence of asymmetric smile with
+slight right facial droop. His whole body was tremulous and his
+wife called ___.
+
+Per the patient and his wife, three weeks ago he was seen at ___
+with left sided vision problems, mild left sided weakness (found
+on exam), slurred speech, and dizziness. He was diagnosed with a
+stroke and discharged on aspirin. He is on a cardiac monitor to
+assess for underlying afib as the etiology. He has had 
+persistent
+dizziness since the stroke.
+
+He endorses having a sore throat and dysuria. He has chronic SOB
+with exertion. He has numbness/tingling in both hands of unknown
+chronicity but he thinks is from his diabetes. 
+ 
+ 
+Review of Systems:
+On ROS, the pt endorses residual left sided visual symptoms
+(flashers, floaters, vision difficulty), ongoing dizziness,
+dysuria x wks, patchy tingling, chronic dyspnea on exertion, 
+gait
+instability. He denies headache, focal weakness, recent fever or
+chills.  Denies cough, chest pain.  Denies nausea, vomiting,
+diarrhea, constipation or abdominal pain. 
+
+ 
+Past Medical History:
+CORONARY ARTERY DISEASE s/p CABG                                 
+
+
+HYPERLIPIDEMIA                                                  
+ANXIETY                                                         
+CAROTID STENOSIS                                                
+INSOMNIA                                                        
+DIABETES TYPE II                                                
+HYPERTENSION                                                    
+STROKE            
+ 
+Social History:
+___
+Family History:
+- DM and CAD in the family
+
+ 
+Physical Exam:
+ADMISSION NEUROLOGIC EXAMINATION
+
+___ Stroke Scale - Total [2]
+1a. Level of Consciousness -0
+1b. LOC Questions -1 (stated age as ___)
+1c. LOC Commands -0
+2. Best Gaze -0
+3. Visual Fields -0
+4. Facial Palsy -1 
+5a. Motor arm, left -0
+5b. Motor arm, right -0
+6a. Motor leg, left -0
+6b. Motor leg, right -0
+7. Limb Ataxia -0
+8. Sensory -0
+9. Language -0
+10. Dysarthria -0
+11. Extinction and Neglect -0
+
+ 
+-Mental Status: Alert, oriented. Has difficulty relating his
+history and becomes anxious and perseverative. Unable to name 
+his
+age. Language is fluent with intact repetition and 
+comprehension.
+Normal prosody.  There were no paraphasic errors.  Pt. was able
+to name both high and low frequency objects on the stroke card. 
+Able to read.  Speech was not dysarthric.  Able to follow both
+midline and appendicular commands. Difficulty describing cookie
+jar picture: sees a blob that may be a person and a window, 
+later
+can pick out a person on a stool.  Able to name ___ backward.
+There was no neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: Right pupil 3.5->2.5mm, left pupil 2.5->1.5mm. VFF to
+confrontation with finger wiggling in each eye. 
+III, IV, VI: EOMI without nystagmus.  Palpebral fissure smaller
+in left eye.
+V: Facial sensation intact to light touch in all distributions 
+VII: Slower activation of right lower face (inconsistent).
+VIII: Hearing intact to voice.
+IX, X: Palate elevates symmetrically.
+XI: full strength in trapezii bilaterally.
+XII: Tongue protrudes in midline 
+ 
+-Motor: No pronator drift bilaterally. Action tremor in all
+extremities.  
+ Delt Bic Tri WrE FFl FE IO  IP Quad Ham TA ___
+L  ___   ___  ___   5   5    5     5   5
+R  ___   ___  ___   5   5    5     5   5
+ 
+-DTRs:
+    Bi  Tri  ___  Pat  Ach
+L   2    2     2     2    2
+R   2    2     2     2    2
+- Toes were downgoing on left, mute on right.
+
+-Sensory: No deficits to light touch, pinprick. No extinction to
+DSS.
+
+-Coordination: No dysmetria on FNF or HKS bilaterally. No 
+truncal
+ataxia.
+
+-Gait: Good initiation. Narrow-based, normal stride. Romberg
+absent.
+============
+DISCHARGE NEUROLOGIC EXAMINAITON:
+
+MS: Back to baseline w/o deficits.
+CN: Mild decreased right lower face activation (inconsistent), 
+anisocoria (left pupil 1mm smaller).
+
+Exam otherwise unchanged.
+ 
+Pertinent Results:
+=====
+LABS:
+=====
+___ 05:35AM BLOOD WBC-6.9 RBC-4.72 Hgb-13.3* Hct-40.3 
+MCV-85 MCH-28.2 MCHC-33.0 RDW-13.2 RDWSD-40.7 Plt ___
+___ 06:05AM BLOOD WBC-7.9 RBC-4.92 Hgb-13.9 Hct-41.7 MCV-85 
+MCH-28.3 MCHC-33.3 RDW-13.3 RDWSD-40.8 Plt ___
+___ 08:18PM BLOOD WBC-13.0* RBC-5.07 Hgb-14.4 Hct-42.7 
+MCV-84 MCH-28.4 MCHC-33.7 RDW-13.2 RDWSD-40.1 Plt ___
+___ 08:18PM BLOOD ___ PTT-30.3 ___
+___ 05:35AM BLOOD Glucose-170* UreaN-16 Creat-1.0 Na-142 
+K-3.8 Cl-101 HCO3-30 AnGap-15
+___ 06:05AM BLOOD Glucose-106* UreaN-14 Creat-0.9 Na-143 
+K-3.3 Cl-103 HCO3-26 AnGap-17
+___ 08:29PM BLOOD Creat-1.1
+___ 08:18PM BLOOD UreaN-15
+___ 06:05AM BLOOD ALT-58* AST-36 LD(LDH)-161 AlkPhos-63 
+TotBili-0.8
+___ 05:35AM BLOOD Calcium-9.2 Phos-4.1 Mg-1.6
+___ 06:05AM BLOOD Calcium-9.6 Phos-3.9 Mg-1.4* Cholest-151
+___ 06:05AM BLOOD %HbA1c-7.9* eAG-180*
+___ 06:05AM BLOOD Triglyc-195* HDL-34 CHOL/HD-4.4 
+LDLcalc-78
+___ 06:05AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 08:24PM BLOOD Glucose-133* Na-144 K-3.8 Cl-104 
+calHCO3-22
+
+========
+IMAGING:
+========
+
+ 
+Brief Hospital Course:
+___ is a ___ man with a history of CAD s/p CABG, HTN, DM, 
+carotid stenosis, and a recent ischemic stroke 3 weeks ago (seen 
+at ___ who presented to ___ ED with worsening of his residual 
+dizziness, gait unsteadiness, facial asymmetry, and slurred 
+speech. On exam he had mild facial and pupillary asymmetry and 
+was mildly encephalopathic. 
+
+All of his neurologic symptoms had been present prior to 
+presentation. His labs were notable for WBC of 13k. A head CT 
+showed no acute hemorrhage. The morning after admission his 
+neurologic symptoms has returned to baseline. At the time of 
+discharge his WBC was 6.9k. MRI was negative for new stroke, but 
+confirmed old strokes. Carotid US showed open ICA's with <40% 
+stenosis. Risk factors assessed and found with HbA1C 7.9, Chol 
+151, Trig 195, LDL 78. No evidence of atrial fibrillation on 
+telemetry. His SBPs were 100-130s during admission off of 
+lisinopril and on half of metoprolol, pt discharged on 
+lisinopril 2.5mg daily (down from 20mg daily) and Metoprolol 
+succinate 25mg in morning and 50mg at night (down 50mg in the 
+morning and 100mg at night)
+ 
+TRANSITIONAL ISSUES:
+- Will need optimization of diabetic therapy.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 80 mg PO QPM 
+2. Acetaminophen 1000 mg PO Q6H:PRN pain 
+3. Lisinopril 20 mg PO DAILY 
+4. Clotrimazole 1 TROC PO TWICE A DAY FOR AT LEAST 2W 
+5. Lorazepam 1 mg PO TID 
+6. Metoprolol Succinate XL 50 mg PO TAKE 1 TABLET BY MOUTH EVERY 
+MORNING AND 2 AT NIGHTIME 
+7. MetFORMIN (Glucophage) 1000 mg PO BID 
+8. sitaGLIPtin 50 mg oral daily 
+9. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+10. Omeprazole 20 mg PO DAILY 
+11. Aspirin 325 mg PO DAILY 
+12. TraZODone 50 mg PO QHS:PRN TAKE 1 OR 2 TABLETS BY MOUTH 
+13. GlipiZIDE XL 10 mg PO DAILY 
+14. Fluvoxamine Maleate 100 mg PO 2 TABLET(S) BY MOUTH AT 
+BEDTIME 
+
+ 
+Discharge Medications:
+1. Acetaminophen 1000 mg PO Q6H:PRN pain 
+2. Aspirin 325 mg PO DAILY 
+3. Atorvastatin 80 mg PO QPM 
+4. Fluvoxamine Maleate 100 mg PO 2 TABLET(S) BY MOUTH AT BEDTIME 
+
+5. Lorazepam 1 mg PO TID 
+6. Omeprazole 20 mg PO DAILY 
+7. Clotrimazole 1 TROC PO TWICE A DAY FOR AT LEAST 2W 
+8. GlipiZIDE XL 10 mg PO DAILY 
+9. MetFORMIN (Glucophage) 1000 mg PO BID 
+10. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+11. sitaGLIPtin 50 mg oral daily 
+12. TraZODone 50 mg PO QHS:PRN TAKE 1 OR 2 TABLETS BY MOUTH 
+13. Lisinopril 2.5 mg PO DAILY 
+RX *lisinopril 2.5 mg 1 tablet(s) by mouth DAILY Disp #*14 
+Tablet Refills:*0
+14. Metoprolol Succinate XL 75 mg PO DAILY 
+Take 25mg in the morning and 50mg at night.  
+RX *metoprolol succinate 25 mg 3 tablet(s) by mouth DAILY Disp 
+#*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+___:
+PRIMARY DIAGNOSIS
+Lightheadedness
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+You were admitted with symptoms of dizziness and gait 
+unsteadiness that were not from a new stroke. You had brain 
+imaging that was showed your old strokes but did not show any 
+new infarct. Your symptoms may have been blood pressure related 
+as they occurred when you were taking a warm bath which dilates 
+your blood vessels and drops your blood pressure. You had 
+imaging of the vessels in your neck that did not show any 
+significant narrowing of blood vessels. 
+ 
+Your stroke risk factors were checked - Your HbA1C was too high. 
+Your LDL was 78, Triglycerides 195, and you did not have any 
+atrial fibrillation (arrhythmia) during this admission. You will 
+need to follow up with your neurologist and PCP to address these 
+risk factors. 
+
+Your blood pressures was adequately controlled while you were in 
+the hospital but you were not getting your lisinopril and you 
+were getting around half your home metoprolol dose. Therefore we 
+have given you prescriptions for decreased doses of both these 
+drugs - Lisinopril 2.5mg tabs and Metoprolol Succinate 25mg 
+tabs. You should take 1 tab of lisinopril daily. You should take 
+25mg of Metoprolol Succinate in the morning and 50mg at night. 
+
+Because of these changes above, it is very important that you 
+follow up with your primary care provider for blood pressure 
+check within one week to see if you can resume your prior doses 
+of blood pressure medications. 
+ 
+Please followup with Neurology and your primary care physician.  
+
+ 
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+- sudden partial or complete loss of vision  
+- sudden loss of the ability to speak words from your mouth  
+- sudden loss of the ability to understand others speaking to 
+you  
+- sudden weakness of one side of the body  
+- sudden drooping of one side of the face  
+- sudden loss of sensation of one side of the body  
+ 
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

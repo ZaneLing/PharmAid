@@ -1,0 +1,302 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pre-syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with a h/o Graves Disease, recent evaluation/workup for 
+bradycardia, who presents w/ presyncope while eating ___. She 
+developed sudden onset chest pressure, palpitations, and 
+weakness,. She felt "woosy" and anxious. Her chest pressure was 
+dull and located centrally. She denies SOB, cough, fever, 
+chills, dysuria, headache, abdominal pain, nausea, vomiting, 
+diarrhea, and constipation. She took 4 ASAs and called EMS.  
+
+Of note, she was recently seen at ___ in ___ clinic for 
+evaluation of sinus bradycardia, and had a ___ monitor 
+placed. She also had a stress test on ___, which showed 
+nonspecific EKG changes and some PVCs. She was wearing her 
+___ monitor at the time of the presenting event.  
+
+Per EMS, there was reportedly  a 4 beat run of V-Tach.  
+
+In the ED, initial vitals were: T 97.4, P 74, BP 210/89 (later 
+100-120's systolic without any intervention), RR 16, and O2sat 
+99% RA.
+
+EKG showed sinus rhythm with a rate in the high ___.   
+
+Labs/studies notable for negative troponin x1  
+
+On the floor, patient confirms the above with no new complaints. 
+ 
+
+10 point review of systems negative other than those stated in 
+HPI.  
+ 
+Past Medical History:
+Graves Disease  
+Sinus Bradycardia  
+HTN  
+ 
+Social History:
+___
+Family History:
+Hypertension in several family members; PAD in mother with leg 
+amputations, father with PAD also. Otherwise, negative for 
+premature CAD, arrhythmias, heart failure, cardiomyopathy, 
+sudden or unexpected death.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+==================
+VS: Afebrile, 150s/50s, HR 45, RR 12  
+GENERAL: WDWN black female in NAD. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM. Mild proptosis. 
+ 
+NECK: Supple. Thyroid not tender, mildly enlarged.  
+CARDIAC: Rate low, rhythm regular, no murmur or rub or gallop  
+LUNGS: CTAB, unlabored  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE PHYSICAL EXAM:
+=====================
+Vital signs: T 97.7-98, BP 100-134/50-65, P 41-45, RR ___. 
+O2sat 98-99% on RA. 
+Tele: Sinus brady 40-50s overnight
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. MMM. Mild proptosis. 
+ 
+NECK: Supple. Thyroid not tender, mildly enlarged.  
+CARDIAC: Bradycardic, regular rhythm, no murmurs, rubs, or 
+gallops  
+LUNGS: CTAB
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e  
+PULSES: Distal pulses palpable and symmetric  
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 10:15PM BLOOD WBC-7.5 RBC-3.70* Hgb-12.0 Hct-36.3 
+MCV-98 MCH-32.4* MCHC-33.1 RDW-12.6 RDWSD-45.1 Plt ___
+___ 10:15PM BLOOD Neuts-36.8 Lymphs-55.5* Monos-6.0 Eos-1.2 
+Baso-0.4 Im ___ AbsNeut-2.75 AbsLymp-4.16* AbsMono-0.45 
+AbsEos-0.09 AbsBaso-0.03
+___ 10:15PM BLOOD ___ PTT-33.1 ___
+___ 10:15PM BLOOD Glucose-118* UreaN-18 Creat-0.9 Na-141 
+K-3.5 Cl-106 HCO3-22 AnGap-17
+___ 09:00AM BLOOD ALT-20 AST-20
+___ 10:15PM BLOOD cTropnT-<0.01
+___ 10:15PM BLOOD Albumin-4.3 Calcium-9.7 Phos-3.7 Mg-1.9
+___ 09:00AM BLOOD TSH-1.5
+___ 09:00AM BLOOD T4-6.2 T3-102 calcTBG-0.93 TUptake-1.08 
+T4Index-6.7 Free T4-1.1
+
+OTHER PERTINENT LABS:
+=================
+___ 10:15PM BLOOD ALT-19 AST-20 AlkPhos-98 TotBili-0.4
+___ 07:20AM BLOOD cTropnT-<0.01
+___ 07:20AM BLOOD %HbA1c-4.8 eAG-91
+
+DISCHARGE LABS:
+=============
+___ 06:34AM BLOOD WBC-5.0 RBC-3.64* Hgb-11.6 Hct-36.8 
+MCV-101* MCH-31.9 MCHC-31.5* RDW-12.5 RDWSD-47.2* Plt ___
+___ 06:34AM BLOOD Glucose-94 UreaN-19 Creat-0.8 Na-141 
+K-4.3 Cl-105 HCO3-27 AnGap-13
+___ 06:34AM BLOOD Calcium-9.4 Phos-4.0 Mg-2.0
+
+IMAGING:
+==========
+CXR (___): IMPRESSION: Stable borderline to mildly enlarged 
+size of the cardiac silhouette.  No
+pulmonary edema.  No significant change.
+
+ECG (___): Sinus bradycardia. A-V conduction delay. Prolonged 
+Q-T interval.
+Non-specific anterior T wave inversions new since the previous 
+tracing.
+
+ECG (___): Sinus bradycardia. A-V conduction delay. 
+Non-specific right precordial
+T wave inversions. No major change from the previous tracing.
+
+___ Read ___:
+
+24 hours of ECG monitoring were performed in this patient with 
+history 
+of VEA/VT, palpitations, dysrhythmia and bradycardia to assess 
+rhythm 
+and rates. Reported medications include Amlodipine, Lorazepam, 
+Methimazole and Aspirin. 
+  
+The predominant rhythm was sinus bradycardia at rates 37 to 98 
+BPM, with 
+an overall average rate of 50 BPM. AV conduction was normal to 
+prolonged 
+with maximum PR .24 second. The QT intervals and QRS duration 
+were 
+within normal limits. The maximum RR interval for the recording 
+was 1.7 
+seconds seen at 7:33 am. 
+  
+A total of 218 isolated APBs, 21 atrial couplets, and 14 runs of 
+ectopic 
+atrial rhythm/atrial tachycardia, duration 3 to 19 beats, at 
+heart rates 
+of 85 to 104 BPM were identified. 
+  
+A total of 268 isolated VPBs and 9 venricular couplets were 
+documented. 
+Episodes of ventricular bigeminy were noted. 
+  
+The cardiolog was not returned. 
+  
+IMPRESSIONS: 
+1. Sinus rhythm/sinus bradycardia; intermittent PR prolongation, 
+no 
+   significant pauses. 
+2. Moderate amount of atrial ectopy (APBs, short runs of ectopic 
+atrial 
+   rhythm). 
+3. Moderate amount of ventricular ectopy (VPBs of at least 2 
+different 
+   morphologies, few couplets). 
+4. No cardiolog returned. 
+
+ECHO (___): The left atrium is normal in size. No atrial septal 
+defect is seen by 2D or color Doppler. The estimated right 
+atrial pressure is ___ mmHg. Left ventricular wall thickness, 
+cavity size and regional/global systolic function are normal 
+(LVEF >55%). There is no left ventricular outflow obstruction at 
+rest or with Valsalva. There is no ventricular septal defect. 
+Right ventricular chamber size and free wall motion are normal. 
+The diameters of aorta at the sinus, ascending and arch levels 
+are normal. The aortic valve leaflets (3) appear structurally 
+normal with good leaflet excursion and no aortic stenosis or 
+aortic regurgitation. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. There is no mitral 
+valve prolapse. The estimated pulmonary artery systolic pressure 
+is normal. There is no pericardial effusion. Compared with the 
+prior study (images reviewed) of ___, no change. 
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with a h/o Graves Disease and 
+recently evaluated sinus bradycardia who presented with 
+pre-syncope. 
+
+# Pre-syncope and sinus bradycardia : Unclear etiology for 
+pre-syncope, although the differential included vagal-mediated, 
+secondary to sinus bradycardia, medication effect, or 
+hypovolemia. More uncommon causes of sinus bradycardia could 
+include collagen vascular disease, viral myocarditis, or lyme 
+disease, although no evidence of these conditions was apparent. 
+ACS was also unlikely given negative trops x2 and recent 
+unrevealing stress test. Also, given hx of Graves disease, it 
+was postulated that symptoms could be due to hypothyroidism due 
+to overtreatment of Graves but this is unlikely in the setting 
+of normal TFTs. 
+
+Patient's ___ monitor was given to the lab so that recorded 
+events could be analyzed. Preliminary report was negative, 
+although finalized report should be discussed with Dr. ___ 
+at next visit. Patient was maintained on telemetry throughout 
+the admission, which showed sinus bradycardia but no other 
+changes. Orthostatic pressures were documented and were normal. 
+ECHO showed no abnormalities. Amlodipine was stopped in the 
+hospital due to normal blood pressures and bradycardia.
+
+Transitional Issues:
+=========================
+- Meds stopped: Amlodipine was stopped in the setting of 
+normotension and bradycardia. Can consider restarting in the 
+outpatient setting. 
+- Follow-up with your PCP, ___, and endocrinologist as 
+scheduled. 
+- Follow-up with Dr. ___ finalized ___ 
+monitoring report. Preliminary report shows predominant rhythm 
+sinus bradycardia, with normal AV conduction normal to 
+prolonged. She did have isolated APBs, with some atrial 
+tachycardia. Consider tachy-___ as etiology for symptoms and 
+further EP recommendations. 
+-ECHO showed no abnormalities, please follow up final read
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. amLODIPine 10 mg PO DAILY 
+3. Methimazole 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Methimazole 5 mg PO DAILY  
+3. HELD- amLODIPine 10 mg PO DAILY  This medication was held. Do 
+not restart amLODIPine until your primary care doctor sees you 
+and tells you it is safe to do so
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Sinus bradycardia
+
+Secondary:
+Grave's disease
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted because you were experiencing symptoms of 
+chest pressure and weakness. Your heart rate was also very slow. 
+
+
+Since you were wearing a ___ monitor when you experienced 
+these symptoms, the monitor was taken to the cardiology lab, and 
+the rhythms were analyzed to look for any abnormalities. You 
+should follow-up with your PCP and cardiologist.
+
+Your labs in the hospital were normal, showing no clear 
+infection, injury to your heart, or electrolyte imbalances to 
+explain your symptoms. Your heart rhythm was monitored, and 
+remained stable in rates of ___ to ___ without any irregularity. 
+ Your ECHO also showed no abnormalities. Your preliminary ___ 
+monitoring did not reveal any dangerous rhythm, but you should 
+follow-up with Dr. ___ the final report and 
+recommendations at your next appointment. 
+
+It was a pleasure taking care of you. 
+
+Sincerely, 
+Your ___ Team
+ 
+Followup Instructions:
+___

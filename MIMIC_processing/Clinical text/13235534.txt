@@ -1,0 +1,389 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+S/p fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is an ___ with a past medical history notable for
+Alzheimer's dementia who presents to the ED s/p fall. 
+
+Patient reports a history of several days of non-bloody diarrhea
+for and today attempted to rush to the bathroom to have a BM. 
+She
+tripped and fell forward with positive head strike onto the
+bathroom counter. Patient denies LOC. This event was 
+unwitnessed.
+EMS arrived and found her sitting up and alert. She was
+ambulatory on the scene afterwards with some help. 
+
+In the ED, she reported headache but denies neck pain, vision
+loss, abdominal pain, N/V. No palpitations, CP, dyspnea or any
+other symptoms prior to fall. Denies any recent fevers or
+dysuria. She reports a ___ lb. weight loss over the past week
+in the setting of her copious diarrhea. 
+
+Of note, patient sustained a fall two weeks ago when she 
+tripped.
+She has also recently been treated with macrobid for a UTI.
+
+In the ED, initial VS were: T 97.5, Tmax 100.6, HR 74 BP 147/69
+RR 18 O2 96% RA 
+  
+ECG: NSR, rate 76, normal axis, normal intervals, no ST-T 
+changes
+
+Labs showed:  
+- WBC 9.1, Hgb 12.1
+- Lactate 1.1
+- Trop <0.01 x2
+- Na 134, BUN 14, Cr 0.6
+- UA negative 
+- C.diff negative
+
+Imaging showed: 
+- CT C-spine:
+1. No acute fracture.
+2. Minimal anterolisthesis of C4 on C5 likely degenerative in
+nature.
+3. Multilevel degenerative changes of the cervical spine.
+
+- CT Head w/o con:
+1. No acute intracranial process.
+2. Right frontoparietal and left frontal subgaleal hematomas,
+without evidence
+of underlying fracture.
+
+- Hip XR:
+No evidence of acute fracture. Severe degenerative changes of 
+the
+right hip.
+
+- CXR: 
+No acute intrathoracic process
+  
+Patient received:  
+- IV acetaminophen 1000mg, Tdap IM, TMP-SMX DS 1 tab PO, 500ml 
+NS
+
+Transfer VS were: T 97.9 HR 75 BP 121/53 RR 18 O2 96% RA 
+
+On arrival to the floor, patient endorses the above history and
+adds that her diarrhea has been going on for about a month. It 
+is
+intermittent, watery, and non-bloody. She also reports decreased
+appetite for several days and ___. weight loss over unclear
+time period. Denies fevers, chills or night sweats. Does not
+believe she has had a recent colonoscopy or mammogram.
+ 
+Past Medical History:
+Alzheimer's dementia
+Breast cancer s/p partial mastectomy 
+HTN
+HLD
+OA
+ 
+Social History:
+___
+Family History:
+No family history of cancer that patient can recall
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: 98.2 161/70 57 17 95 Ra 
+GENERAL: Well-appearing, in NAD
+HEENT: 4mm lacteration on R forehead that has been sutured, ___
+in. laceration on top of head with crusted blood surrounding
+suture lines
+NECK: Supple, no LAD  
+CV: RRR, S1/S2, no murmurs, gallops, or rubs  
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+GI: Abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: Lower extremities symetrically edematous, mild
+erythema on bilateral lower ankles
+SKIN: Warm, well-perfused, no rashes
+NEURO: Alert, oriented x3, moving all 4 extremities with 
+purpose,
+face symmetric  
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: 24 HR Data (last updated ___ @ 753)
+    Temp: 98.7 (Tm 98.7), BP: 120/64 (97-120/60-67), HR: 73
+(73-86), RR: 20 (___), O2 sat: 95% (95-96), O2 delivery: RA,
+Wt: 113.1 lb/51.3 kg  
+GENERAL: NAD
+HEENT: 4mm lacteration on R forehead that has been sutured, 4-5
+cm laceration on top of head with crusted blood surrounding
+suture lines
+CV: RRR, S1/S2, no murmurs/gallops/rubs  
+PULM: CTAB, no wheezing/crackles/rhonchi
+ABD: Soft, NTND.  
+EXTREMITIES: Warm and well perfused. No ___ edema.
+NEURO: A&Ox3, following commands, grossly intact. 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 03:00PM BLOOD WBC-9.1 RBC-4.03 Hgb-12.1 Hct-36.1 MCV-90 
+MCH-30.0 MCHC-33.5 RDW-13.2 RDWSD-43.8 Plt ___
+___ 03:00PM BLOOD ___ PTT-24.1* ___
+___ 03:00PM BLOOD Glucose-107* UreaN-14 Creat-0.6 Na-134* 
+K-4.0 Cl-97 HCO3-21* AnGap-16
+___ 06:15AM BLOOD Calcium-9.0 Phos-3.0 Mg-2.0
+___ 03:51PM BLOOD Lactate-1.1
+___ 10:04PM BLOOD cTropnT-<0.01
+___ 03:00PM BLOOD cTropnT-<0.01
+
+DISCHARGE LABS:
+===============
+
+___ 07:10AM BLOOD WBC-6.5 RBC-3.52* Hgb-10.4* Hct-32.2* 
+MCV-92 MCH-29.5 MCHC-32.3 RDW-13.7 RDWSD-45.7 Plt ___
+___ 07:10AM BLOOD ___ PTT-27.2 ___
+___ 05:50AM BLOOD Glucose-87 UreaN-10 Creat-0.5 Na-142 
+K-4.2 Cl-104 HCO3-29 AnGap-9*
+___ 05:50AM BLOOD Calcium-9.1 Phos-3.0 Mg-2.0
+
+MICROBIOLOGY:
+=============
+___ 6:00 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+   MICROSPORIDIA STAIN (Pending): 
+
+   CYCLOSPORA STAIN (Pending): 
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   OVA + PARASITES (Pending): 
+
+   FECAL CULTURE - R/O VIBRIO (Final ___:    NO VIBRIO 
+FOUND. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      No E. coli O157:H7 found. 
+
+   Cryptosporidium/Giardia (DFA) (Final ___: 
+      NO CRYPTOSPORIDIUM OR GIARDIA SEEN. 
+
+   C. difficile PCR (Final ___: 
+      NEGATIVE. 
+           (Reference Range-Negative). 
+      The C. difficile PCR is highly sensitive for toxigenic 
+strains of C.
+      difficile and detects both C. difficile infection (CDI) 
+and
+      asymptomatic carriage. 
+      A negative C. diff PCR test indicates a low likelihood of 
+CDI or
+      carriage. 
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+IMAGING:
+========
+CT HEAD ___:
+1. No acute intracranial process. 
+2. Right frontoparietal and left frontal subgaleal hematomas, 
+without evidence 
+of underlying fracture. 
+
+CT C-SPINE ___:
+1. No acute fracture. 
+2. Minimal anterolisthesis of C4 on C5 likely degenerative in 
+nature. 
+3. Multilevel degenerative changes of the cervical spine. 
+
+HIP XR ___:
+No evidence of acute fracture.  Severe degenerative changes of 
+the right hip.
+
+CXR ___:
+AP portable semi upright view of the chest.  Clips are noted in 
+the right 
+axilla.  The lungs are clear bilaterally. There is no focal 
+consolidation, 
+effusion, or pneumothorax. The cardiomediastinal silhouette is 
+normal. Imaged 
+osseous structures are intact.  Hypertrophic changes at the AC 
+joints with 
+joint space narrowing consistent with OA. 
+  
+IMPRESSION:  
+  
+No acute intrathoracic process 
+
+KNEE XR ___:
+Status post total knee replacement.  The hardware is well 
+aligned.  The joint 
+anatomy is also well maintained.  Bones are severely osteopenic. 
+ No obvious 
+fractures are seen.  There are extensive vascular 
+calcifications.  Small joint 
+effusion is seen. 
+
+ 
+Brief Hospital Course:
+==================
+SUMMARY STATEMENT
+==================
+Ms. ___ is a ___ with past medical history of Alzheimer's 
+dementia who presents from her facility s/p mechanical fall with 
+head lacerations that were sutured in the ED.
+
+=====================
+TRANSITIONAL ISSUES 
+=====================
+[] Needs sutures in scalp removed on ___
+[] Will need further outpatient workup for chronic diarrhea, 
+C.diff was negative this admission 
+
+===========================
+HOSPITAL COURSE BY PROBLEM 
+===========================
+
+ACUTE ISSUES: 
+=============
+# S/p fall
+# Knee pain
+# Head laceration
+Patient presents s/p fall with scalp lacteration s/p suturing in 
+the ED. Also complaining of knee pain on arrival to floor. 
+Denies any symptoms preceding fall to suggest syncope, and no 
+cardiac hx to suggest cardiac syncope. ECG/troponins negative. 
+No events on telemetry. Orthostatics negative. Knee XR negative 
+for acute fracture or malalignment of hardware. CTH was notably 
+for subgaleal hematomas but no intracerebral hemorrhage. Given 
+the above her fall was thought to be entirely mechanical. 
+Sutures should be removed ___
+
+#Severe protein calorie malnutrition
+Pt and family report 15 lb weight loss in last month. Weight 
+loss likely multifactorial iso poor PO intake and diarrhea. No 
+symptoms to suggest malignancy, per family she is up to date on 
+malignancy screenings. 
+
+#Diarrhea 
+Pt and family noting ___ weeks of loose stool associated w/ 
+weight loss, no abdominal pain, nausea, fever or chills. 
+Improved on bland diet and then worsened w/ Bactrim. C.diff 
+negative. Given loperamide for symptomatic management with noted 
+improvement. Stool cultures negative
+
+#depression
+#passive SI 
+Pt noted hopelessness and desire to pass away to both ___ and 
+staff initially. No plan, no active SI. SW was consulted. We 
+continued her home sertraline. 
+
+========================
+CHRONIC/RESOLVED ISSUES: 
+======================== 
+#UTI, resolved
+Started on Bactrim at OSH last ___, finished ___. This medication was stopped on arrival. 
+
+# Alzheimer's dementia
+Continued home donepezil
+
+# HTN
+- Continued home enalapril
+
+# HLD
+- Continued home atorvastatin
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 10 mg PO QPM 
+2. Donepezil 10 mg PO QHS 
+3. Enalapril Maleate 10 mg PO DAILY 
+4. Sertraline 25 mg PO DAILY 
+5. Sulfameth/Trimethoprim DS 1 TAB PO BID 
+6. TraMADol 50 mg PO BID:PRN Pain - Moderate 
+
+ 
+Discharge Medications:
+1.  LOPERamide 2 mg PO BID:PRN Diarrhea  
+2.  Atorvastatin 10 mg PO QPM  
+3.  Donepezil 10 mg PO QHS  
+4.  Enalapril Maleate 10 mg PO DAILY  
+5.  Sertraline 25 mg PO DAILY  
+6.  TraMADol 50 mg PO BID:PRN Pain - Moderate  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+=================
+PRIMARY DIAGNOSIS
+=================
+Mechanical fall 
+
+===================
+SECONDARY DIAGNOSIS
+===================
+Diarrhea 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___ 
+
+___ see below for more information on your hospitalization. 
+It was a pleasure taking part in your care here at ___! 
+
+WHY WERE YOU ADMITTED TO THE HOSPITAL? 
+- You were admitted to the hospital because you fell and hit 
+your head 
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL? 
+- You had sutures placed for the cut on your head
+- You had a CT of your head that showed bruises (hematoma) but 
+no bleeding in your brain 
+- You had xrays of your neck and knee which were negative for 
+any broken bones 
+- You were seen by physical therapy 
+
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL? 
+- See your normal doctor for management of your diarrhea
+- Always use your walker when walking around 
+
+We wish you all the best! 
+- Your ___ Care Team
+ 
+Followup Instructions:
+___

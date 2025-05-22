@@ -1,0 +1,307 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with coronary angiography 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with a past medical history DMII 
+who presents to emergency department with shortness of breath 
+and chest pain for the past 4 days.
+
+Patient notes that 4 mornings ago he woke up and started to feel 
+generally weaker throughout the day. He noticed some chest 
+pressure, central, without radiation. This pressure would occur 
+with standing and exertion, walking and especially climbing any 
+stairs. The pressure would resolve with sitting/lying down and 
+recur with movement. Shortness of breath was only with activity. 
+He notes that the weakness he felt was a generalized feeling, 
+which happened with walking, and coincided with feeling 
+lightheaded. No associated diaphoresis, nausea, vomiting. No 
+orthopnea. No cough. No recent illness. Of note, patient works 
+as a ___. When he awoke today, he felt more SOB and 
+weaker than before (had been attributing to dehydration, but was 
+progressive). He could not walk across the room without SOB. He 
+decided he couldn't go to work and came to ___ where concern 
+given new PR prolongation and report of ?Mobitz type II on EKG 
+(I cannot access this on webepic currently, here patient with 
+Tyle I block)
+
+Also of note, patient has not had a cardiac workup in the past. 
+No echo or cath. He does not that chest pressure similar to the 
+past few days has been occurring intermittently the last ___ 
+years, about ___ times a year, feeling quite minor and often 
+resolving quickly. Unsure whether these episodes were with 
+exertion.
+
+In the ED, initial VS were 98.6 78 113/55 18 98% RA Exam notable 
+for well appearing, No murmurs or gallops, CTA bilat equal 
+pulses bilaterally. Labs showed initial trop at 0.44, and 6 
+hours later was 0.42. CKMD 5, CK 97. CBC with WBC 6.2, Hgb 13.5, 
+Plts 176. Coags WNL. Chem7 WNL except K 5.9 (hemolyzed, repeat 
+4.0). CXR showed no acute cardiopulmonary process Received 
+aspirin 324mg and started on a heparin gtt with bolus. Transfer 
+VS were HR 82 122/74 16 96% RA ___ cardiology was reportedly 
+consulted On arrival to the floor, patient reports he feels at 
+baseline. He feels no current chest pain or SOB. Feels as though 
+with hydration from IV fluids in the ED (only received fluids 
+with heparin). No fevers/chills. No recent diarrhea, vomiting, 
+dysuria, hematuria or GI bleeding. No changes in vision. 
+Weakness feels improved. 
+ 
+Past Medical History:
+T2DM
+ 
+Social History:
+___
+Family History:
+-Maternal uncle and maternal grandmother with some form of heart 
+disease, unsure what
+-Brother with history of 'blood cancer' which affected his 
+heart, died of CV disease NOS
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: 98.6 125/82 R Sitting 90 16 97 ra 
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+
+DISCAHRGE PHYSICAL EXAM:
+VITALS:  99.1 PO ___ 18 99 RA    
+WEIGHT:  84.8 kg   
+WEIGHT ON ADMISSION:  87.3 kg
+TELEMETRY:  AV delay
+GENERAL: WDWN. Pleasant, in NAD. Oriented x3. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple with no JVD. 
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills,
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. Right femoral and radial access site
+intact, no bruits or swelling. 
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric.   
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+====================
+___ 05:30PM BLOOD WBC-6.2 RBC-4.92 Hgb-13.5* Hct-42.4 
+MCV-86 MCH-27.4 MCHC-31.8* RDW-11.9 RDWSD-37.4 Plt ___
+___ 05:30PM BLOOD Neuts-63.9 ___ Monos-11.4 Eos-1.1 
+Baso-0.2 Im ___ AbsNeut-3.98 AbsLymp-1.44 AbsMono-0.71 
+AbsEos-0.07 AbsBaso-0.01
+___ 05:30PM BLOOD Glucose-136* UreaN-17 Creat-1.1 Na-134 
+K-5.9* Cl-101 HCO3-22 AnGap-17
+___ 10:55PM BLOOD cTropnT-0.42*
+___ 09:12PM BLOOD CK-MB-5 proBNP-699*
+
+INTERIM LABS:
+====================
+___ 05:15AM BLOOD WBC-5.2 RBC-4.49* Hgb-12.4* Hct-37.7* 
+MCV-84 MCH-27.6 MCHC-32.9 RDW-11.9 RDWSD-36.1 Plt ___
+___ 05:15AM BLOOD Plt ___
+___ 01:00AM BLOOD K-4.3
+___ 05:15AM BLOOD Glucose-186* UreaN-15 Creat-1.0 Na-138 
+K-3.9 Cl-103 HCO3-21* AnGap-18
+___ 01:00AM BLOOD cTropnT-0.73*
+___ 05:15AM BLOOD CK-MB-4 cTropnT-0.49*
+___ 12:58PM BLOOD CK-MB-4 cTropnT-0.47*
+___ 05:30PM BLOOD %HbA1c-7.4* eAG-166*
+
+DISCHARGE LABS:
+====================
+___ 06:10AM BLOOD WBC-5.1 RBC-4.36* Hgb-12.1* Hct-36.7* 
+MCV-84 MCH-27.8 MCHC-33.0 RDW-11.7 RDWSD-35.5 Plt ___
+___ 06:10AM BLOOD Plt ___
+___ 06:10AM BLOOD Glucose-166* UreaN-16 Creat-1.1 Na-137 
+K-4.2 Cl-103 HCO3-22 AnGap-16
+___ 06:10AM BLOOD Calcium-8.8 Phos-3.5 Mg-2.0
+
+MICROBIOLOGY:
+====================
+None. 
+
+IMAGING:
+=====================
+___ CARDIAC CATH:
+Coronary Anatomy
+Dominance: Co-dominant
+* Left Main Coronary Artery
+The LMCA is short and angiographically normal
+* Left Anterior Descending
+The LAD is a large vessel that extends to the apex and is 
+overall non obstructive
+a portion of the apical LAD wraps around the apex
+* Circumflex
+The Circumflex is co-dominant
+there is a 80-90% tubular lesion extending into the OM1
+* Right Coronary Artery
+The RCA is occluded in its mid segment (100%) with no antergrade 
+collaterals
+The Right PDA reconstituted via left sided retrograde 
+collaterals
+
+Impressions:
+1. Severe two vessel CAD in this co-dominant system
+2. Mid RCA 100% oocclusion successfully Rxed with a 2.5 DES 
+(Promus Premier)
+3. LCx/OM1 80-90% lesion succesfully Rxed with a 2.5 DES (Promus 
+Premier)
+4. Mildly elevated LV filling pressures
+
+Recommendations
+1. Dual anti plt Rx with ASA and Clopidogrel for a min of ___ year 
+post PCI
+2. Aggressive secondary risk factor modification
+3. Further recommendations as per inpatient Cardiology service
+
+___ ECHO:
+Conclusions   
+The left atrium and right atrium are normal in cavity size. Left 
+ventricular wall thicknesses and cavity size are normal. There 
+is mild regional left ventricular systolic dysfunction with 
+basal inferior hypokinesis. The remaining segments contract 
+normally. Quantitative (3D) LVEF = 47%. Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve leaflets are structurally 
+normal. Mild (1+) mitral regurgitation is seen. The estimated 
+pulmonary artery systolic pressure is normal. There is no 
+pericardial effusion. 
+
+IMPRESSION: Mild regional left ventricular systolic dysfunction, 
+c/w CAD. Mild mitral regurgitation.   
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with a past medical history T2DM 
+who presented to emergency department with shortness of breath 
+and chest pain for the past 4 days. He had positive troponins 
+(Trop T peak at 0.73) and was taken to the cardiac cath lab on 
+___ for coronary angiography. Findings included: LAD clean, 
+LCx 90% lesion in OM1, RCA mid segment 100% occlusion, DES 
+placed to both OM1/RCA. He was discharged on aspirin 81mg daily, 
+atorvastatin 80mg daily, and Plavix 75 daily (should continue 
+for minimum ___ year or otherwise directed by his cardiologist). 
+
+On telemetry the patient had ___ Mobitz II block that improved 
+with activity and increased HR to 1:1 AV delay, indicating 
+likely AV node origin. Denied lightheadedness, shortness of 
+breath or syncope. No need for emergent pacemaker, will have 
+outpatient ___ set up and close f/u with Dr. ___. 
+
+TRANSITIONAL ISSUES:
+=======================
+CODE: FULL CODE 
+Health care proxy name: ___. Relationship: wife Phone: 
+___ 
+
+[] Please ensure patient has ___ of Hearts monitor set up
+[] Can consider starting a beta blocker in the future, pending 
+above monitor results. Held off right now given new Mobitz II 
+block at times on telemetry. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN (Glucophage) 1000 mg PO BID 
+2. Lisinopril 5 mg PO DAILY 
+3. Sildenafil Dose is Unknown  PO PRN activity 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY to prevent stent thrombosis 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Sildenafil 20 mg PO PRN activity  
+5.  Lisinopril 5 mg PO DAILY  
+6.  MetFORMIN (Glucophage) 1000 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+===================
+NSTEMI
+CAD
+Prolonged PR interval
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It has been a pleasure caring for you at ___.
+
+Why was I here?
+-You were here because you were having chest pain.
+
+What was done while I was here?
+-You were taken to the cardiac cath lab to see if there were 
+blockages in the arteries of your heart. There was some, and 
+tubes called stents were placed to hold them open. 
+-You also have an abnormal heart rhythm and will be set up with 
+a heart monitor by your heart doctors to monitor this at home. 
+
+What should I do when I go home?
+-Please review the medication list below for any changes.
+-Please follow up with your PCP and heart doctors as noted 
+below. 
+
+We wish you the best!
+
+Sincerely,
+
+Your ___ Cardiology Team 
+
+ 
+Followup Instructions:
+___

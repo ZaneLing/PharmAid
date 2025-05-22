@@ -1,0 +1,116 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: CARDIOTHORACIC
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___
+ 
+Chief Complaint:
+Pulmonary embolism
+ 
+Major Surgical or Invasive Procedure:
+ECMO cannulation 
+
+ 
+History of Present Illness:
+This is a ___ year old male patient
+with a history of morbid obesity who presented to our facility 
+in
+cardiogenic shock from a pulmonary embolism. The patient
+underwent a sleeve gastrectomy approximately 2 weeks ago. The
+patient presented to an outside hospital with increasing
+shortness of breath, pleuritic CP and calf pain. He was 
+diagnosed
+with a pulmonary embolism and started on heparin. He then
+developed HIT and was transitioned to Bivalirudin. His course 
+had
+also been complicated by PNA and ___. On the morning of ___ the
+patient began to decompensate with worsening hypoxia and
+hypotension. He was intubated and underwent tPA therapy but
+continued to be unstable. The patient had a cardiac arrest at 
+the
+OSH with return of circulation. He required very high dose
+pressors  and the decision was made to proceed with ECMO
+placement. The outside facility could not staff the patient 
+there
+and was transferred to ___ for further care. 
+ 
+Past Medical History:
+Past Medical History: HTN, Diabetes
+Past Surgical History: Sleeve Gastrectomy ___
+ 
+Social History:
+___
+Family History:
+Deferred, patient intubated
+ 
+Physical Exam:
+General:
+Skin: Cold
+HEENT: Minimally reactive pupils
+Chest: Diminished breath sounds
+Heart: Heart sounds absent
+Abdomen: Firm, distended, absent bowel sounds
+Extremities: cold[], well-perfused []  Edema [x] __2+___
+Varicosities: None [x]
+Neuro: Intubated, sedated
+Pulses:
+Femoral      Right: absent  Left: absent
+DP           Right:  absent   Left: absent  
+___           Right: absent    Left: absent  
+Radial       Right: absent    Left: absent  
+ 
+Pertinent Results:
+___ 01:24AM BLOOD WBC-29.2* RBC-3.27* Hgb-9.0* Hct-28.8* 
+MCV-88 MCH-27.5 MCHC-31.3* RDW-17.0* RDWSD-54.1* Plt Ct-81*
+___ 01:24AM BLOOD Glucose-305* UreaN-36* Creat-4.2* Na-147 
+K-4.96 Cl-97 HCO3-19.7* AnGap-30*
+___ 01:24AM BLOOD ALT-4885* ___ LD(LDH)-PND 
+AlkPhos-133* TotBili-3.0*
+___ 01:24AM BLOOD Calcium-13.2* Mg-2.9*
+___ 01:31AM BLOOD pO2-57* pCO2-69* pH-7.10* calTCO2-23 Base 
+XS--9
+ 
+Brief Hospital Course:
+The patient arrived to the ___ on high doses of epinephrine
+and levophed along with boluses of epinephrine. His SBP on
+arrival fluctuated from 40-80. He was given multiple boluses of 
+epinephrine, calcium chloride and sodium bicarbonate with only 
+transient improvements in blood pressure Attempts were made to 
+peripherally place ECMO cannulas but this was difficult due to 
+the patients body size. The patient became less responsive to 
+epinephrine and boluses of epinephrine and developed PEA. CPR 
+was initiated. ECMO cannulation was
+unsuccessful and the patient had no return of circulation after
+15 minutes of CPR and multiple boluses of epinephrine, calcium 
+and sodium bicarbonate. The patient expired at 201 on ___. 
+Family and Medical examiner were notified. 
+ 
+Medications on Admission:
+Vasopressin, epinephrine, levophed, methylene blue
+ 
+Discharge Medications:
+Expired
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+Pulmonary embolism- Expired
+
+ 
+Discharge Condition:
+Expired
+
+ 
+Discharge Instructions:
+Expired
+ 
+Followup Instructions:
+___

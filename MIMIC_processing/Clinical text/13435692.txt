@@ -1,0 +1,317 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr ___ is a ___ year old man with a history of IBS-D,
+previous history of injection drug use, who presents to the ED
+for abdominal pain. This is his third presentation to the ED for
+similar symptoms in the past 4 days. He previously presented on
+___ for pain and dark stools. Stool was guaiac negative on
+rectal exam, hemoglobin was normal, and a CT of the abdomen was
+notable only for an appendicolith but no evidence of
+appendicitis. He was discharged from the ED with conservative
+treatment. He saw his PCP earlier today with ___ pain, the 
+most
+severe it has been over the past week. He was diffusely tender 
+on
+exam but had a soft abdomen. His PCP tried to schedule him for
+urgent outpatient endoscopy, but was unable to do so, so she
+referred him to the ED. Patient endorses watery bowel movements,
+relatively unchanged from prior. Denies fevers, chills, dyspnea,
+chest pain, myalgias, arthralgias, anorexia, nausea.
+
+- In the ED, initial vitals were:
+Temp 97.8 | HR 120 | BP 127/87 | RR 18 | SpO2 98% RA 
+
+-Repeat vitals were:
+Temp 97.9 | HR 80 | BP 153/74 | RR 18 | SpO2 100% RA 
+ 
+- Exam was notable for:
+Diffusely tender abdomen
+
+- Labs were relatively unremarkable
+
+- Studies were notable for:
+CT abdomen pelvis which revealed appendicolith, unchanged from
+prior, without any evidence of acute appendicitis
+
+- The patient was given:
+Ketorolac 15mg IV
+Acetaminophen 650mg PO
+1L NS
+
+- GI were consulted who recommended ED observation, stool
+softeners/laxatives and tylenol for pain control.
+
+On arrival to the floor, patient still complaining of ___
+abdominal pain. He says he feels miserable and just wants his
+pain to be decreased so that he can finally get some sleep. He
+understands the risks of using opioid medication, given his
+history of heroin use, but is willing to take that risk, as no
+other medications have seemed to help him.
+ 
+Past Medical History:
+IBS-D
+History of opioid use disorder, PWID
+Anxiety
+SIBO
+ 
+Social History:
+___
+Family History:
+Father with pancreatic tumor. Maternal grandmother with stomach
+cancer. Aunt with pancreatic cancer. Mother with brain cancer.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: ___ 0010 Temp: 97.4 PO BP: 136/83 HR: 61 RR: 18 O2
+sat: 99% O2 delivery: RA 
+GENERAL: Lying in bed, writhing in pain.
+HEENT: Sclera anicteric and without injection. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowel sounds. Soft. Diffusely tender to light
+palpation, worst in lower abdomen. No rebound or guarding. 
+EXTREMITIES: Warm. No clubbing, cyanosis, or edema. 
+NEUROLOGIC: AAOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. Normal sensation.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+PHYSICAL EXAM:
+VS: 24 HR Data (last updated ___ @ 805)
+    Temp: 97.8 (Tm 987.2), BP: 128/75 (106-132/68-79), HR: 61
+(54-77), RR: 18 (___), O2 sat: 99% (97-99), O2 delivery: Ra   
+GENERAL: NAD
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender, no rebound/guarding,
+no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial/DP pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: Warm and well perfused, no excoriations or lesions, no
+rashes
+ 
+Pertinent Results:
+===============
+ADMISSION LABS:
+___
+
+___ 07:12PM   GLUCOSE-100 UREA N-15 CREAT-0.8 SODIUM-141 
+POTASSIUM-4.3 CHLORIDE-104 TOTAL CO2-23 ANION GAP-14
+___ 07:12PM   ALT(SGPT)-52* AST(SGOT)-31 ALK PHOS-80 TOT 
+BILI-0.2
+___ 07:12PM   LIPASE-22
+___ 07:12PM   ALBUMIN-4.7
+___ 07:12PM   WBC-11.7* RBC-5.01 HGB-15.1 HCT-44.7 MCV-89 
+MCH-30.1 MCHC-33.8 RDW-13.4 RDWSD-43.8
+___ 07:12PM   NEUTS-65.2 ___ MONOS-7.2 EOS-1.4 
+BASOS-0.6 IM ___ AbsNeut-7.60* AbsLymp-2.91 AbsMono-0.84* 
+AbsEos-0.16 AbsBaso-0.07
+___ 07:12PM   PLT COUNT-299
+
+========================
+PERTINENT INTERVAL LABS:
+========================
+None
+
+===============
+DISCHARGE LABS:
+===============
+
+___ 08:10AM BLOOD WBC-8.8 RBC-5.03 Hgb-14.8 Hct-44.8 MCV-89 
+MCH-29.4 MCHC-33.0 RDW-13.7 RDWSD-44.5 Plt ___
+___ 08:10AM BLOOD Plt ___
+___ 08:00AM BLOOD Plt ___
+___ 08:00AM BLOOD ___ PTT-30.6 ___
+___ 08:00AM BLOOD ALT-49* AST-27 AlkPhos-69 TotBili-0.2
+___ 08:10AM BLOOD Calcium-9.5 Phos-3.9 Mg-2.2
+
+================
+IMAGING STUDIES:
+================
+___ CT ___ with contrast
+IMPRESSION: 
+   
+1. Appendicolith within the distal appendix which remains mildly 
+dilated to 9 
+mm, similar to that seen on the prior CT, though without 
+associated 
+inflammatory changes to suggest acute appendicitis.  
+Additionally, the mildly 
+enlarged size of the distal appendix is similar to that seen on 
+prior MR 
+enterography from ___. 
+2. No abnormality otherwise identified to account for the 
+patient's symptoms. 
+
+___ CT ___ with contrast
+IMPRESSION: 
+    
+1. Borderline appendix diameter measuring 7 mm proximally, 
+without 
+periappendiceal stranding.  The lack of periappendiceal 
+inflammation argues 
+against acute appendicitis.  Correlate with clinical concern for 
+such. 
+2. Fluid in the right colon and in some loops of small bowel is 
+nonspecific, 
+but could relate to a mild enterocolitis.  No bowel obstruction. 
+
+
+=============
+MICROBIOLOGY:
+=============
+
+___ 2:11 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+__________________________________________________________
+___ 5:15 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      VIRIDANS STREPTOCOCCI.    10,000-100,000 CFU/mL. 
+
+ 
+Brief Hospital Course:
+SUMMARY:
+=============================
+Mr. ___ is a ___ with hx IBS-D who presented with severe 
+abdominal pain and was found to have large stool burden 
+consistent with constipation. 
+
+ACUTE ISSUES:
+=============================
+
+# Abdominal pain
+On presentation CT A/P showed appendicolith with appendiceal 
+distention which was unchanged from prior imaging. General 
+Surgery was consulted but determined there was no surgical 
+indication for intervention. GI was also consulted, and on 
+further review of the CT, determined that there was a large 
+stool burden in the RLQ likely causing his pain. Two UAs with 
+urine cultures were negative. Home eluxadoline was held. Pain 
+was initially managed with hydromorphone IV in the ED that was 
+changed to PO oxycodone on day 1 before changing to dicyclomine 
+and Tylenol on days ___ prior to discharge. He was treated with 
+Miralax, Senna, mineral enemas, and milk of magnesia, with 
+subsequent large BM that brought immediate relief. 
+
+CHRONIC ISSUES:
+=============================
+# IBS-d
+Held home eluxadoline and started dicyclomine QID. Per GI notes, 
+his home regimen is BID as needed for cramps. 
+
+#Anxiety
+Continued home duloxetine.
+
+TRANSITIONAL ISSUES:
+=============================
+[ ] Follow up with GI for IBS to potentially change your 
+medicine regimen to balance between constipation and diarrhea
+
+MEDICATION CHANGES:
+=============================
+- Eluxadoline (Viberzi) was held per GI with plans to restart 
+___ days post discharge.
+- A prescription was provided for #28 dicyclomine 10 mg BID PRN 
+cramps per recent GI note.
+- Ramelteon rather than zolpidem was given effectively for 
+sleep. He will continue his home zolpidem pending further 
+outpatient visits.
+
+CODE STATUS: Full Code
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. DULoxetine ___ 90 mg PO DAILY 
+2. eluxadoline 100 mg oral BID 
+3. Zolpidem Tartrate 10 mg PO QHS:PRN Insomnia 
+
+ 
+Discharge Medications:
+1.  DICYCLOMine 10 mg PO BID cramps 
+RX *dicyclomine 10 mg 1 capsule by mouth twice a day as needed 
+Disp #*28 Capsule Refills:*0 
+2.  DULoxetine ___ 90 mg PO DAILY  
+3.  eluxadoline 100 mg oral BID  
+4.  Zolpidem Tartrate 10 mg PO QHS:PRN Insomnia  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+# Acute on chronic abdominal pain
+# Constipation
+
+SECONDARY:
+# Irritable bowel syndrome, diarrhea predominant
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+- You had worsening abdominal pain without a known cause.
+
+What did you receive in the hospital?
+- You had a CT scan which showed a large amount of stool in the 
+colon, meaning you were probably very constipated
+- You were seen by the Gastroenterology Team
+- You were given laxatives to make you have a bowel movement
+- You felt much better after having a large bowel movement and 
+were ready to go home!
+
+What should you do once you leave the hospital?
+- Please take your medications as prescribed and go to your 
+future appointments which are listed below.
+
+We wish you all the best!
+- Your ___ Care Team
+ 
+Followup Instructions:
+___

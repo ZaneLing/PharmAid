@@ -1,0 +1,227 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Atrial fibrillation
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with past mental history of
+psoriatic arthritis, hypertension, hypercholesterolemia who was
+seen at liver clinic for his initial visit in the setting of
+recent years of abnormal liver tests found to be a new atrial
+fibrillation. He was seen in liver clinic on ___ for abnormal
+liver tests for many years. He is a former heavy etoh user has
+just recently started cutting down roughly ___ year ago. 
+Throughout
+this whole time he denies any episodes of jaundice, abdominal
+distention or increasing girth, hematemesis, or confusion. His
+records show a panel of Tbili 1.6, ALT 21, AST 28, AP 217 in
+___ with a follow up test in ___ showing Tbili 2.2,
+ALT 37, AST 43, AP 189. Over this time his GGT has gone from 569
+to 746. He has had two MRIs in this time period that show fatty
+liver and a segment VI heterogenous enhancement. His liver 
+biopsy
+done ___ shows evidence of immune mediated injury, some fatty
+liver and signs of fibrosis secondary to toxic metabolic insult.
+His tumor markers including CEA, CA ___ and AFP are normal. In
+clinic, he was noted to be in atrial fibrillation, a new rhythm
+for him. Case was discussed with cardiology who recommended
+admission for further work up. 
+ 
+Past Medical History:
+-Hypertension
+-Hypercholesterolemia
+-Psoriatic arthritis
+-Appendectomy
+
+ 
+Social History:
+___
+Family History:
+No hx of liver disease, no IBD, no ___ no hemochromatosis.
+Mother, father, and brother all had heart disease
+ 
+Physical Exam:
+ON ADMISSION:
+=============
+VS: ___ 0543 Temp: 97.6 PO BP: 130/77 L Sitting HR: 78 RR:
+18 O2 sat: 98% O2 delivery: RA 
+GENERAL: NAD  
+HEENT: AT/NC, anicteric sclera, MMM  
+NECK: supple, no LAD  
+CV: irregularly irregular rhythm, S1/S2, no murmurs, gallops, or
+rubs  
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: trace lower extremity edema, no asterixis 
+PULSES: 2+ radial pulses bilaterally  
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric  
+DERM: warm and well perfused, no jaundice
+
+ON DISCHARGE:
+=============
+24 HR Data (last updated ___ @ 1133)
+Temp: 97.5 (Tm 97.6), BP: 142/80 (118-142/77-80), HR: 84 
+(78-84),
+RR: 17 (___), O2 sat: 100% (98-100), O2 delivery: Ra, Wt:
+170.19 lb/77.2 kg  
+GENERAL: NAD  
+HEENT: AT/NC, anicteric sclera, MMM
+CV: irregularly irregular rhythm, S1/S2, no murmurs/rubs/gallops 
+
+PULM: CTAB, no wheezes/crackles/rhonchi,breathing comfortably
+without use of accessory muscles  
+GI: Abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no palpable hepatosplenomegaly, normoactive BS
+EXTREMITIES: Warm and well perfused, no edema 
+PULSES: 2+ radial pulses bilaterally  
+NEURO: A&Ox3, Alert, moving all 4 extremities with purpose, face
+symmetric  
+ 
+ 
+Pertinent Results:
+ON ADMISSION:
+=============
+___ 10:24AM   WBC-4.4 RBC-3.29* HGB-11.0* HCT-33.8* 
+MCV-103* MCH-33.4* MCHC-32.5 RDW-17.0* RDWSD-64.1*
+___ 10:24AM   ALT(SGPT)-28 AST(SGOT)-42* ALK PHOS-178* TOT 
+BILI-1.2
+___ 10:24AM   TOT PROT-8.2 ALBUMIN-4.5 GLOBULIN-3.7 
+IRON-127 
+___ 10:24AM   GGT-559*
+___ 10:24AM   calTIBC-278 FERRITIN-291 TRF-214
+___ 10:24AM   IgG-1498 IgA-965* IgM-64
+___ 10:24AM   ___ AFP-6.7
+___ 10:24AM   AMA-NEGATIVE Smooth-NEGATIVE
+___ 10:24AM   HBsAg-NEG HBs Ab-NEG HBc Ab-NEG HAV Ab-NEG
+___ 10:24AM   HCV Ab-NEG
+___ 10:24AM   TSH-2.8
+
+ON DISCHARGE:
+=============
+___ 09:35AM   GLUCOSE-133* UREA N-20 CREAT-1.0 SODIUM-140 
+POTASSIUM-4.4 CHLORIDE-101 TOTAL CO2-23 ANION GAP-16
+___ 09:35AM   ALT(SGPT)-25 AST(SGOT)-34 LD(LDH)-135 ALK 
+PHOS-157* TOT BILI-1.2
+___ 09:35AM   CK-MB-<1 cTropnT-<0.01
+___ 09:35AM   WBC-3.9* RBC-3.00* HGB-10.1* HCT-30.0* 
+MCV-100* MCH-33.7* MCHC-33.7 RDW-17.2* RDWSD-62.9*
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with hypertension, 
+hyperlipidemia, and psoriatic arthritis with ongoing evaluation 
+for liver disease who was admitted for new atrial fibrillation.
+
+ACUTE ISSUES:
+===============
+#Atrial fibrillation
+Incidentally found while on scheduled visit to liver clinic on 
+___. EKG showed AFib, RBBB, V1-V3 T wave inversions. He 
+remained asymptomatic and HD stable throughout admission. HRs 
+___. Troponins neg x 2, TSH neg. CHADSVASC: 2. HASBLED: 3. 
+Will defer anticoagulation to outpatient cardiology.
+
+#Liver disease
+Elevated alk phos, GGT. Liver biopsy ___. Likely etoh 
+mediated liver disease vs autoimmune. Autoimmune markers sent at 
+outpt apt. Will need EGD for esophageal varices eval in future. 
+He was continued on ursodiol 300mg TID.
+
+CHRONIC ISSUES:
+===============
+#HTN: He was continued on home spironolactone.
+
+#Hypercholesterolemia: He was continued on home simvastatin.
+
+TRANSITIONAL ISSUES:
+====================
+[] Please evaluate the need for anticoagulation as an outpatient 
+- CHADSVASC 2.
+[] Pt was not initiated on rate control as his rates were in the 
+___ while inpatient. Please consider need for rate control as an 
+outpatient
+[] Pt will need continued liver follow up for his chronic liver 
+disease
+#CODE: Full (presumed)
+#CONTACT: ___ (wife) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. Simvastatin 20 mg PO QPM 
+3. Cyanocobalamin 1000 mcg PO DAILY 
+4. Vitamin D ___ UNIT PO DAILY 
+5. Ursodiol 300 mg PO TID 
+
+ 
+Discharge Medications:
+1.  Cyanocobalamin 1000 mcg PO DAILY  
+2.  Lisinopril 20 mg PO DAILY  
+3.  Simvastatin 20 mg PO QPM  
+4.  Ursodiol 300 mg PO TID  
+5.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+Atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___! Please see more 
+details listed below about what happened while you were in the 
+hospital and your instructions for what to do after leaving the 
+hospital. 
+
+WHY YOU WERE ADMITTED TO THE HOSPITAL:
+- You were found to have an abnormal heart rhythm while you were 
+at the liver clinic
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL:
+- You an EKG which showed an abnormal heart rhythm called atrial 
+fibrillation
+- You had lab tests to look for evidence of poor blood flow to 
+the heart which were normal
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL: 
+- Continue to take your medications as prescribed
+- Please follow up with cardiology (as below)
+
+It was a pleasure participating in your care. We wish you the 
+best! 
+
+Sincerely, 
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,342 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Keflex / Levaquin / Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+lightheadedness
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+PER ___ ___ NOTE:
+HPI:  This is a ___ year-old female with the history below who
+presented to the ___ Emergency room complaining of unsteady
+gait and lightheadedness.  The ___ MDs got ___ history of some 
+chest
+pressure, however, on my history with pt and daughter they did
+not corroborate this, denied any chest pressure or chest pain.
+
+Pt. developed sensation of lightheadeness and unsteady gait
+yesterday.  Has had poor appetite in the same interval.   Came 
+to
+the ___.  In the ___, BP quite high, ecg with sinus bradycardia
+without ischemia.  Labs as below.  Trop 0.03 but neg Ck and Mb 
+in
+setting of likely ckd.  Neuro exam normal including gait by ___
+MD, my exam below
+
+She was given clonidine and hctz.  On my exam daughter and pt.
+report pt feeling 'ok' she denies chest pain or pressure, sob,
+nausea.  Full ROS below;
+
+ROS:
+Positives on review of systems: some LH and unsteady gait
+starting yesterday. 
+All systems were reviewed and found to be negative.
+For further specific detail, pt denies: visual changes,
+numbness/weakness, chest pain, shortness of breath, fevers,
+nausea, vomiting, abdominal pain, diarrhea, bleeding, rash, 
+joint
+aches/pains.
+
+ 
+Past Medical History:
+HTN
+Chronic gait instability
+Venous stasis with hx ulcerations of ___
+Heart failure, type unspecified
+Anxiety
+Melanoma
+CKD3--ultimately found to have baseline Cr 1.7-1.8 per PCP
+ 
+___:
+___
+Family History:
+Family history reviewed and found to be
+noncontributory to this illness                         
+ 
+Physical Exam:
+ADMISSION EXAM
+
+VS:  Afebrile and vital signs stable.  BP high on presentation
+then improved with clonidine administration, then on repeat exam
+at 1800 in the ___ 170/73, asymptomatic
+General Appearance: pleasant, comfortable, no acute distress
+Eyes: PERRL, EOMO
+MMM
+Respiratory: CTA b/l with good air movement throughout
+Cardiovascular: RR, S1 and S2 wnl, ___ hsm, no rubs or gallops. 
+No JVD.  No carotid bruits
+Gastrointestinal: nd, +b/s, soft, nt, no masses or HSM
+Extremities: no cyanosis, clubbing or edema.  WWP
+Skin: warm, chronic excoriations and likely prior venous stasis
+ulcerations of the ___ noted, no evidence of cellulitis, no
+asymmetric edema. 
+Neurological: Alert, oriented to self, location, reason for
+hospitaliation.  Speech fluent. Full str throughout extremities. 
+
+Psychiatric: pleasant, appropriate affect
+GU: no urinary catheter in place
+
+============
+DISCHARGE EXAM
+AVSS, NAD
+RRR, ___ HSM throughout without radiation to carotids
+CTAB
+sntnd
+wwp, mild LLE per baseline with venous stasis changes and mild 
+venous stasis ulcer (baseline)
+A&Ox3, ___ BUE/BLE, SILT BUE/BLE, EOMI, PERRL, no droop
+
+ 
+Pertinent Results:
+ADMISSION RESULTS
+
+___ 06:52AM BLOOD WBC-5.2 RBC-3.15* Hgb-10.1* Hct-31.1* 
+MCV-99* MCH-32.1* MCHC-32.5 RDW-13.2 RDWSD-47.3* Plt ___
+___ 06:52AM BLOOD Neuts-54.0 ___ Monos-9.4 Eos-2.3 
+Baso-0.2 Im ___ AbsNeut-2.80 AbsLymp-1.76 AbsMono-0.49 
+AbsEos-0.12 AbsBaso-0.01
+___ 06:52AM BLOOD Glucose-93 UreaN-43* Creat-1.8* Na-144 
+K-4.7 Cl-111* HCO3-22 AnGap-11
+___ 10:24AM BLOOD ALT-11 AST-14 LD(LDH)-173 AlkPhos-106* 
+TotBili-0.3
+___ 06:52AM BLOOD cTropnT-0.03*
+___ 06:52AM BLOOD CK-MB-2
+___ 10:24AM BLOOD Calcium-8.7 Phos-3.6 Mg-1.8
+___ 08:16AM URINE Blood-NEG Nitrite-POS* Protein-TR* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG*
+___ 08:16AM URINE RBC-1 WBC-139* Bacteri-MOD* Yeast-NONE 
+Epi-<1
+
+CXR PA/Lat
+FINDINGS:  
+  
+Low lung volumes resulting crowding of the bronchovascular 
+structures and 
+accentuation of heart size.  6 mm calcified granulomas project 
+over the lower 
+right lung.  No focal consolidation.  No pleural effusion or 
+pneumothorax.  
+Heart size is mildly enlarged.  The aorta is moderately 
+calcified.  No 
+pulmonary edema. 
+  
+IMPRESSION:  
+  
+No evidence of an acute cardiopulmonary abnormality. 
+
+EKG: sinus bradycardia at 51, QTc 461, no change from baseline
+
+=========
+PERTINENT INTERVAL RESULTS
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------     4 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+BCx NGTD
+
+========
+DISCHARGE RESULTS
+___ 10:07AM BLOOD Glucose-120* UreaN-33* Creat-1.6* Na-145 
+K-4.7 Cl-110* HCO3-25 AnGap-10
+___ 10:07AM BLOOD WBC-4.2 RBC-2.96* Hgb-9.4* Hct-29.1* 
+MCV-98 MCH-31.8 MCHC-32.3 RDW-12.7 RDWSD-46.0 Plt ___ w chronic gait instability, venous stasis ___ 
+ulcerations, murmur, melanoma, HTN who presents with orthostatic 
+type symptoms. Appears to have orthostatic
+hypotension (symptomatic) which resolved with change of BP 
+regimen, holding diuretic and giving gentle IVF. Also with 
+asymptomatic bacteruria. 
+
+ACUTE/ACTIVE PROBLEMS:
+# unsteadiness
+# orthostasis
+Symptoms coincide with orthostasis, and she had orthostatic 
+hypotension by systolic criteria here on hospital day 1 (even 
+after IVF) but negative on hospital day 2. Suspect that her beta 
+blocker and heavy BP regimen, potentially also with home 
+diuretic and okay but not excessive po intake, led to this. No 
+signs of CVA, and is already being treated for B12 deficiency. 
+No vertigo. Received 2L IVF during 2d hospitalization, with 
+holding of home furosemide. Switched home labetalol (which 
+appeared to be causing sinus bradycardia) initially to no agent 
+but then given hypertension started amlodipine as below. 
+Monitored on telemetry throughout and no events. ___ saw patient 
+and recommended home with ___.
+
+# ? ___ on CKD3: it was initially unclear what her baseline was, 
+but after discussing with her PCP on day of discharge, it 
+appears most recently baseline was in the 1.7-1.8 range. Notably 
+after the above management, discharge creatinine 1.6 with lower 
+BUN. 
+
+# HFpEF: warm and dry as above. Held diuretic as above, 
+recommended resumption on ___. Discharge weight 64.7kg and 
+apparently euvolemic. Deferred TTE at this time given lack of 
+indication (murmur is old and not c/w AS)
+
+# pyuria: asymptomatic, on detailed questioning did not have any 
+symptoms referable to urinary tract. Received a dose of 
+ciprofloxacin 250mg po x1 on ___ ___, but given the lack of 
+symptoms and risks of abx, this was stopped. UCx returned E coli 
+pan sensitive as above. 
+
+# HTN: somewhat labile, but given orthostasis and advanced age, 
+would not want BP too low. BP was in the 160s-170s range when 
+off of labetalol so started amlodipine 2.5mg po qd on ___ pm, 
+with expectation that this will start to kick in over course of 
+days. Stopped labetalol as above. Substituted losartan 100mg po 
+qd for non-formulary Benicar at max dose while inpatient. 
+
+# anxiety: mild, not usually on frequent lorazepam. Did not need 
+any home lorazepam while inpt. 
+
+# b12 deficiency: continued home B12 as o/p
+# intermittent vertigo (not current): cont home meclizine prn
+
+[x ] Patient stable for discharge
+[x ] >30 minutes spent on patient care and coordination on day 
+of
+discharge
+
+===========
+TRANSITIONAL ISSUES
+- held furosemide until ___, verbally advised dtr to check 
+weight daily and to start earlier if weight goes up by more than 
+2 lbs
+- discharge weight 64.7kg, appeared euvolemic
+- changed home labetalol to amlodipine in setting of bradycardia 
+and orthostasis; consider uptitration of amlodipine as necessary 
+for goal BP
+- as discussed on phone with PCP, please have office schedule 
+follow up appointment or at least BP monitoring with ___ this 
+upcoming week
+- continue local wound care to ulceration on LLE as you are 
+doing
+- consider weaning off lorazepam given age
+- as above, patient noted to have asymptomatic bacteruria; if 
+develops symptoms of UTI, consider empiric treatment based on 
+sensitivities of bacteria as above
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Benicar (olmesartan) 40 mg oral DAILY 
+3. Calcium Carbonate 500 mg PO BID 
+4. Vitamin D 400 UNIT PO DAILY 
+5. Ferrex ___ (polysaccharide iron complex) 150 mg iron oral BID 
+
+6. Labetalol 100 mg PO BID 
+7. Furosemide 20 mg PO DAILY 
+8. Mirtazapine 30 mg PO QHS 
+9. Cyanocobalamin 1000 mcg IM/SC ONCE PER MONTH 
+10. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID 
+11. Floranex (Lactobacillus acidoph-L.bulgar) 1 tablet oral 
+DAILY 
+12. LORazepam 0.5 mg PO BID:PRN anxiety/insomnia 
+13. Meclizine 12.5 mg PO TID:PRN unknown 
+14. Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+
+ 
+Discharge Medications:
+1.  amLODIPine 2.5 mg PO DAILY 
+RX *amlodipine 2.5 mg 1.5 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*0 
+2.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+3.  Aspirin 81 mg PO DAILY  
+4.  Benicar (olmesartan) 40 mg oral DAILY  
+5.  Calcium Carbonate 500 mg PO BID  
+6.  Cyanocobalamin 1000 mcg IM/SC ONCE PER MONTH  
+7.  Ferrex ___ (polysaccharide iron complex) 150 mg iron oral 
+BID  
+8.  Floranex (Lactobacillus acidoph-L.bulgar) 1 tablet oral 
+DAILY  
+9.  LORazepam 0.5 mg PO BID:PRN anxiety/insomnia  
+10.  Meclizine 12.5 mg PO TID:PRN unknown  
+11.  Mirtazapine 30 mg PO QHS  
+12.  Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID  
+13.  Vitamin D 400 UNIT PO DAILY  
+14. HELD- Furosemide 20 mg PO DAILY  This medication was held. 
+Do not restart Furosemide until ___
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+orthostatic hypotension
+___ on CKD
+asymptomatic bacteruria
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___ was a pleasure caring for you. 
+You were admitted for lightheadedness, which we think is from 
+your blood pressure being a little too low. We initially thought 
+you might have a urinary tract infection but we ultimately do 
+not believe you do and there is just bacteria sitting in your 
+bladder but not causing infection (called "colonization" which 
+is very common, especially in older women). We think you were 
+slightly dehydrated and with low blood pressure and are now 
+better after some fluid and adjustments to your medications. We 
+expect your blood pressure to continue to go down as the 
+medication we added continues to work. 
+Please follow up with your primary care provider for ___ follow up 
+visit and blood pressure check this week to see if you need any 
+other adjustments to your medications.
+If you develop any pain with urination, feeling like you have to 
+go all of a sudden, back pain, or fevers or chills, please let 
+your doctor know so that she knows to potentially treat the 
+bacteria in your urine (in case this is not actually 
+"colonization").
+We wish you the best in your recovery!
+ 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,129 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catherization (___)
+
+attach
+ 
+Pertinent Results:
+Admission Labs:
+
+___ 07:31PM BLOOD WBC-6.1 RBC-4.77 Hgb-13.6* Hct-40.9 
+MCV-86 MCH-28.5 MCHC-33.3 RDW-12.8 RDWSD-39.7 Plt ___
+___ 07:31PM BLOOD Glucose-101* UreaN-14 Creat-1.0 Na-143 
+K-4.1 Cl-105 HCO3-27 AnGap-11
+___ 07:36AM BLOOD Triglyc-124 HDL-48 CHOL/HD-4.3 
+LDLcalc-134*
+___ 07:36AM BLOOD Calcium-9.7 Phos-3.6 Mg-2.0 Cholest-207*
+ 
+Brief Hospital Course:
+The patient is a ___ male with no significant past 
+___ history the presents for chest pain with exertion, with 
+positive exercise stress test in the emergency room, underwent 
+cardiac catheterization that showed nonobstructive coronary 
+artery disease, now pursuing medical management of CAD.
+
+Transitional Issues:
+==================
+PCP:
+[ ] Consider intiating warfarin given patient's history of 
+provoked thrombus. 
+
+CARDS:
+[ ] ASA, atorvastatin started for secondary prevention of CAD
+[ ] Started amlodipine for hypertension and anti-anginal effect
+[ ] ECHO showed mild AR and very mild WMA that should be 
+followed
+
+=============== 
+ACTIVE ISSUES: 
+=============== 
+# CP, possible unstable angina 
+Pt presents with 10 days of new onset exertional cp in the
+setting of a family hx of early CVD; w/u notable for negative
+cardiac biomarkers but STD in lateral leads on ETT. Cor angio
+without any obstructive disease but mild CAD. Will discharge on 
+medical management, including aspirin, atorvastatin 40 qPM, and 
+amlodipine 5 mg daily. 
+
+# Deep venous thrombosis in ___, unprovoked, now status post
+six months of warfarin therapy and currently not on AC per pt
+preference
+# heterozygous for the prothrombin gene mutation (2-fold
+increased risk for DVT)
+# heterozygous for the factor V Leiden mutation (7-fold 
+increased
+risk for DVT)
+Had a D-Dimer for 450, so low suspicion for PE as cause of chest 
+pain symptoms
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+Unstable Angina
+Coronary Artery disease
+
+Secondary
+Hypertension
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+  
+It was a pleasure caring of you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted to the hospital for chest pain  
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You underwent cardiac catheterization that showed coronary 
+artery disease, but no major blockages that needed intervention
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments, including close follow up with your new 
+cardiologist. 
+
+We wish you the best!  
+
+Sincerely, 
+ 
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,111 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+levofloxacin
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+Flexible sigmoidoscopy ___ 
+
+attach
+ 
+Pertinent Results:
+___ 
+WBC-6.2 RBC-3.52* Hgb-10.1* Hct-31.4* MCV-89 MCH-28.7 MCHC-32.2 
+RDW-13.2 RDWSD-42.9 Plt ___
+
+___ 
+___ PTT-28.8 ___
+
+___ 
+Glucose-129* UreaN-15 Na-143 K-4.7 Cl-103 HCO3-27 AnGap-13
+
+___
+ALT-13 AST-13
+
+___ 
+Calcium-8.7 Phos-3.0 Mg-2.0
+
+___
+CEA-7.1*
+
+ 
+Brief Hospital Course:
+___ yo M with hx of CAD s/p DESx1 in ___ transferred from 
+___ with hematochezia. 
+
+#) Hematochezia ___ rectal mass
+Patient had a CT at ___ which showed rectal wall 
+thickening. 
+
+Here he did not want to do prep for colonoscopy so had a flex 
+sigmoidoscopy on ___ which showed a 3 cm rectal mass with an 
+ulcer that was biopsied. 
+
+Colorectal surgery was consulted and recommended uploading CT 
+A/P from ___ to ___, and then as an outpatient 
+obtaining 
+- CT chest noncontrast
+- MR pelvis 
+- colonoscopy 
+
+GI will call patient about colonoscopy. 
+
+Colorectal will call patient with follow up appointment. 
+
+Transitional issues
+[ ] f/u pathology on rectal mass 
+[ ] upload CT A/P from ___ to Lifeimages - patient 
+instructed to get CDs and bring to next appointment
+For staging 
+[ ] outpatient CT chest 
+[ ] Outpatient MR pelvis 
+[ ] colonoscopy - GI will arrange
+[ ] f/u with colorectal surgery - they will arrange 
+
+The daughter ___ said she would like to be in charge of 
+scheduling for the patient which he agreed to. Her number is 
+___. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Lisinopril 40 mg PO DAILY 
+3. Rosuvastatin Calcium 40 mg PO QPM 
+4. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 10 mg PO DAILY  
+2.  Aspirin 81 mg PO DAILY  
+3.  Lisinopril 40 mg PO DAILY  
+4.  Rosuvastatin Calcium 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Rectal mass 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with rectal bleeding and found to have a mass. 
+You had biopsies done and we will inform you with the results 
+after discharge. 
+ 
+Followup Instructions:
+___

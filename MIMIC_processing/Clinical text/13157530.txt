@@ -1,0 +1,229 @@
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Requirement for ASA desensitization
+ 
+Major Surgical or Invasive Procedure:
+Diagnostic coronary angiogram (___)
+
+ 
+History of Present Illness:
+___ yo male with hypertension, hyperlipidemia, mild OSA and 
+Sampter triad (nasal polyps, asthma, ASA allergy) who is 
+presenting for ASA desensitization in anticipation for left 
+heart catheterization on ___. 
+
+For the last month, he has had an ongoing flare of his Sampter's 
+triad, specifically nasal congestion and mild dyspnea without 
+wheezing. He presented to ___ on ___ for elective nasal 
+polypectomy. During procedure, anesthesiology noted new t-wave 
+inversions on the monitor, so procedure was cancelled pending 
+cardiac evaluation.   On ___ he had exercise stress echo and 
+was noted to have 2mm ST depressions in lateral chest leads with 
+1mm depression in inferior limb leads so was referred for cath. 
+He presented to ___ on ___ in anticipation of 
+catheterization and received baby aspirin. He developed throat 
+tightness which improved with steroids. He was previously 
+desensitized to aspirin in ___ at ___ and 
+tolerated this well. 
+
+On arrival to the ICU, he reports feeling well overall and 
+denies any new complaints.  Previous to his Sampter's Triad 
+exacerbation, he exercised on the treadmill 30 minutes per day 
+and was able to walk 3 miles without chest pain or dyspnea.
+ 
+Past Medical History:
+HTN (no longer on meds)
+HLD
+OSA (mild) 
+Sampter's triad ( nasal polyps/asthma/asa sensitivity) 
+Nasal polypectomy x 3 
+deviated septum
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death.  Mother and Brother with DM.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+VS: 98.4 71 152/90 18 97%ra
+GENERAL: Well developed, well nourished in NAD. Oriented x3. 
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. 
+No xanthelasma.  
+NECK: Supple. JVP not elevated sitting at 45 degree angle.
+CARDIAC:  Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops.  
+LUNGS: No chest wall deformities or tenderness. Respiration is 
+unlabored with no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Obese, soft, non-tender, non-distended. No 
+hepatomegaly. No splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL EXAM:
+GENERAL: NAD. Oriented x3.
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI. 
+NECK: Supple. JVP not elevated 
+CARDIAC:  Regular rate and rhythm. Normal S1, S2. No m/g/r 
+LUNGS: unlabored, CTAB
+ABDOMEN: Obese, soft, non-tender, non-distended. No 
+hepatomegaly. No splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+ 
+Pertinent Results:
+======================
+ADMISSION LABS:
+======================
+___ 09:17PM BLOOD WBC-7.7 RBC-4.65 Hgb-13.7 Hct-40.7 MCV-88 
+MCH-29.5 MCHC-33.7 RDW-13.7 RDWSD-43.4 Plt ___
+___ 09:17PM BLOOD Neuts-54.4 ___ Monos-11.8 Eos-2.5 
+Baso-0.5 Im ___ AbsNeut-4.17 AbsLymp-2.33 AbsMono-0.90* 
+AbsEos-0.19 AbsBaso-0.04
+___ 09:17PM BLOOD Glucose-109* UreaN-12 Creat-0.7 Na-137 
+K-3.9 Cl-102 HCO3-22 AnGap-17
+___ 09:17PM BLOOD Calcium-8.3* Phos-3.8 Mg-2.5 Cholest-282*
+___ 09:17PM BLOOD Triglyc-262* HDL-53 CHOL/HD-5.3 
+LDLcalc-177*
+___ 09:17PM BLOOD %HbA1c-6.0 eAG-126
+
+======================
+IMAGING/STUDIES:
+======================
+
+Cardiac Cath ___:
+Coronary Anatomy
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is.
+* Left Anterior Descending
+The LAD has 30% mid.
+* Circumflex
+The Circumflex is nondominant.
+The ___ Marginal has a 40% stenosis.
+The distal Cx has a 40% stenosis.
+* Right Coronary Artery
+The RCA is nomal.
+Impressions:
+Nonobstructive CAD.
+Recommendations
+Med Rx.
+No cardiac contraindication to surgery.
+
+======================
+DISCHARGE LABS:
+======================
+
+___ 05:00AM BLOOD Glucose-106* UreaN-10 Creat-0.8 Na-137 
+K-4.1 Cl-103 HCO3-22 AnGap-16
+___ 05:00AM BLOOD Calcium-8.1* Phos-4.3 Mg-2.___ with hx of Sampter's Triad, HTN, HLD, admitted for ASA 
+desensitization for left heart cath, following positive pre-op 
+stress test.
+
+# ASA desensitization: tolerated well.
+
+# Possible CAD: LHC performed ___. Non-obstructive CAD noted. 
+Angiogram showed 30% mid-LAD disease, OM with 40% stenosis, and 
+distal circumflex with 40% stenosis. Patient should follow-up 
+with his cardiologist within one week of discharge. Medical 
+management with aspirin (see below) and statin initiated.
+
+TRANSITIONAL ISSUES:
+====================
+# Patient is s/p aspirin desensitization. Discussed with allergy 
+attending: In order to maintain the desensitization, he should 
+be on aspirin 325 BID. Given that his cardiac cath did not show 
+significant CAD, continuing aspirin should be discussed with the 
+patient's cardiologist and allergy specialist. The primary team 
+think that a dose of 325mg BID is a very elevated dose that will 
+hold more risk than benefit. If his dose is reduced, the patient 
+may lose the desensitization effect.
+# Given the high dose of aspirin the patient was started on 
+daily omeprazole after discussion with allergy attending.
+# Patient was found to have an LDL of 177 and was started on 
+atorvastatin 40 daily.
+# Patient was found to be persistently hypertensive to 150s/90s 
+and should be started on an antihypertensive as tolerated as 
+outpatient.`
+
+# CODE: FULL CODE
+# CONTACT/HCP: ___ (girlfriend) ___ ___ 
+___ (daughter) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 1 PUFF IH Q6H:PRN wheeze 
+2. Cialis (tadalafil) unknown  oral ONCE:PRN 
+
+ 
+Discharge Medications:
+1.  Aspirin 325 mg PO BID 
+RX *aspirin 325 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 40 tablet(s) by mouth QPM Disp #*30 
+Tablet Refills:*0 
+3.  Cetirizine 10 mg PO DAILY 
+RX *cetirizine 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth once a day Disp #*30 
+Capsule Refills:*0 
+5.  Cialis (tadalafil) 2.5 mg oral ONCE:PRN sexual activity  
+6.  Albuterol Inhaler 1 PUFF IH Q6H:PRN wheeze  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses 
+================= 
+Non-obstructive coronary artery disease 
+Sampter's triad s/p aspirin desensitization 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you during your stay at ___. You 
+were admitted for work-up of abnormalities seen during a stress 
+test. An aspirin desensitization was performed without issue due 
+to your history of allergy. Cardiac catheterization showed 
+coronary artery disease but no significant blockages. You should 
+continue to take aspirin daily, start a new medication called 
+atorvastatin, and follow up with your cardiologist for further 
+treatment.
+
+Wishing you well,
+Your ___ Cardiology Team
+ 
+Followup Instructions:
+___

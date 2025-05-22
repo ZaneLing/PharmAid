@@ -1,0 +1,208 @@
+Name:  ___              ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+ibuprofen / Amoxicillin / stevia
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___
+ 
+Major Surgical or Invasive Procedure:
+___: Left Distal Radius ORIF
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with a history of hypertension, 
+obesity, insomnia presented to ___ after falling asleep at the 
+wheel resulting in MVC vs. tree; he suffered traumatic fractures 
+to his bilateral distal radius.
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. Hypertension
+2. Obesity
+3. Fatty liver disease
+4. GERD
+5. Insomnia
+6. Seasonal allergies
+ 
+Social History:
+___
+Family History:
+No family history of pacemaker, ICD, or other heart disease.
+ 
+Physical Exam:
+GEN: NAD
+HEENT: NCAT, EOMI, no scleral icterus
+CV: RRR
+RESP: no respiratory distress, breathing comfortably on room air
+GI: obese, soft, non-TTP, no R/G/D
+EXT: WWP, no peripheral edema, L forearm and wrist splinted s/p 
+ORIF, R forearm and wrist splint, gross motor function and 
+sensation in tact b/l
+ 
+Pertinent Results:
+___ 09:54AM BLOOD WBC-13.6* RBC-4.89 Hgb-15.2 Hct-43.3 
+MCV-89 MCH-31.1 MCHC-35.1 RDW-11.9 RDWSD-38.0 Plt ___
+___ 09:54AM BLOOD Glucose-147* UreaN-12 Creat-1.0 Na-129* 
+K-3.6 Cl-93* HCO3-23 AnGap-17
+___ 01:45AM BLOOD Lipase-86*
+___ 01:45AM BLOOD cTropnT-<0.01
+___ 09:54AM BLOOD Calcium-9.0 Phos-2.3* Mg-1.8
+___ 05:42PM BLOOD TSH-2.1
+___ 01:51AM BLOOD Glucose-224* Lactate-2.2* Na-139 K-4.3 
+Cl-104 calHCO3-22
+
+CT TORSO ___:
+1.  No traumatic injury to the chest, abdomen, or pelvis. 
+2.  Hepatic steatosis. 
+
+TRAUMA CXR ___:
+No evidence of intrathoracic trauma on this portable single view 
+chest 
+radiograph. 
+
+LEFT HAND ___:
+1.  Comminuted, foreshortened distal radial fracture. 
+2.  Mildly distracted ulnar styloid fracture. 
+
+LEFT FOREARM ___:
+1.  Comminuted, foreshortened distal radial fracture. 
+2.  Mildly distracted ulnar styloid fracture. 
+
+BILATERAL WRIST ___:
+1.  Left distal radioulnar fracture status post reduction with 
+improved 
+alignment of the distal radius. 
+2.  Nondisplaced intra-articular right distal radial fracture. 
+ 
+Brief Hospital Course:
+Following diagnosis of his bilateral distal radius fractures, 
+the patient was admitted to the ACS service for monitoring and 
+cleared by the Cardiology service before going to the OR with 
+the orthopedics team for a Left ORIF. He tolerated the procedure 
+well and without complications; for further information 
+regarding the operation, please refer to the operative note in 
+the OMR. 
+
+The patient was sent back to the ACS service where he remained 
+for the duration of his stay. He was noticed to have some 
+substantial nighttime desaturations into the low ___ on SpO2 
+which was attributed to undiagnosed OSA. He was started on a 
+CPAP and saw substantial improvements in his oxygen saturations. 
+We consulted the medicine service during his stay to evaluate 
+the possibility of a syncopal episode contributing to his MVC. 
+They agreed that his episode of falling asleep at the wheel was 
+most likely secondary to excessive sleepiness from his OSA 
+rather than a syncopal event, although the patient did report 
+prior episodes of syncope. 
+
+The patient's discharge was begun. He was set up for an 
+outpatient sleep study with the Sleep Disorder Clinic at ___ 
+who was made aware of his visit. The patient was instructed that 
+he is not allowed to drive until cleared by both his PCP 
+regarding his OSA and sleepiness and his Orthopedic surgeon. His 
+Sodium levels were noted to be mildly low on the day of his 
+discharge and the patient was informed that he should get his 
+blood checked in the next week or when he follows up with his 
+PCP. By the time of his discharge, he was ambulating 
+independently, voiding, having bowel function and his pain was 
+controlled with pain medications by mouth. 
+ 
+Medications on Admission:
+1. Lisinopril 10mg daily
+2. Pantoprazole 40mg daily 
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth three times a day 
+Disp #*30 Tablet Refills:*0 
+2.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+RX *oxycodone 5 mg ___ tablet(s) by mouth three times a day Disp 
+#*20 Tablet Refills:*0 
+3.  Pantoprazole 40 mg PO Q24H  
+4.  Lisinopril 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+MVC; Bilateral Distal Radius Fractures
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+
+You were admitted to the Acute Care Surgery service at the ___ 
+___ for management of your traumatic 
+injuries following a motor vehicle accident. You suffered 
+bilateral fractures in your forearms for which you received a 
+left sided internal fixation by the orthopedic surgery team. You 
+have recovered well from this injury and are ready to return 
+home to finish your recovery. 
+
+Notably, you were found to have significant oxygen requirements 
+at night and you are suspected to have significant obstructive 
+sleep apnea, which can cause low oxygen levels, non-restorative 
+sleep and excessive daytime somnolence; this likely contributed 
+to you falling asleep at the wheel. We were unable to get an 
+appointment for a sleep study for definitive diagnosis of your 
+sleep apnea as an inpatient but please call the Sleep Disorder 
+Clinic at ___ if you do now hear from them by 
+___. They have been notified of your necessary 
+appointment. 
+
+With respect to your traumatic injuries, you are not to bear any 
+weight with your upper extremities. You are also NOT ___ until you are cleared to do so by both your Orthopedic 
+Surgeon AND the Sleep Specialists that you will see in follow 
+up. You will see the Orthopedic team for an appointment in 2 
+weeks. Please schedule the appointment as below.
+
+HOW YOU MAY FEEL: 
+ 
+- You may feel weak or "washed out" for 6 weeks. You might want 
+to nap often. Simple tasks may exhaust you.
+ 
+- You may have a sore throat because of a tube that was in your 
+throat during the endoscopy.
+ 
+YOUR BOWELS:
+- Constipation is a common side effect of medicine such as 
+Percocet or codeine. If needed, you may take a stool softener 
+(such as Colace, one capsule) or gentle laxative (such as milk 
+of magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.
+ 
+- If you go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon.
+
+***Finally, your Sodium levels were noticed to be mildly low 
+before your discharge. This should equilibrate as you return to 
+a regular diet but you should get your levels checked in the 
+next week. The order has been placed for you here. If you cannot 
+return to ___, your PCP may check your levels for you. 
+Otherwise, you can get your labs drawn at the laboratory here at 
+___.
+
+Good Luck 
+ 
+Followup Instructions:
+___

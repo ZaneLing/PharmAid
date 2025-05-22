@@ -1,0 +1,146 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+chocolate flavor / wheat / lactose / pineapple
+ 
+Attending: ___
+ 
+Pertinent Results:
+ADMISSION LABS:
+=============
+___ 09:00PM BLOOD WBC-5.1 RBC-4.11* Hgb-12.9* Hct-37.4* 
+MCV-91 MCH-31.4 MCHC-34.5 RDW-12.3 RDWSD-40.4 Plt ___
+___ 06:45AM BLOOD ___ PTT-40.4* ___
+___ 09:00PM BLOOD Glucose-79 UreaN-7 Creat-0.7 Na-138 K-4.5 
+Cl-98 HCO3-27 AnGap-13
+___ 10:37AM BLOOD ALT-12 AST-11 LD(LDH)-116 AlkPhos-51 
+TotBili-0.5
+___ 06:45AM BLOOD cTropnT-<0.01
+___ 09:00PM BLOOD Calcium-9.9 Phos-4.3 Mg-2.1
+___ 09:00PM BLOOD TSH-1.1
+
+UA: 10 ketones, otherwise neg
+UCx: negative
+
+DISCHARGE LABS:
+==============
+___ 06:50AM BLOOD WBC-4.8 RBC-4.03* Hgb-12.6* Hct-38.1* 
+MCV-95 MCH-31.3 MCHC-33.1 RDW-12.5 RDWSD-43.3 Plt ___
+___ 06:50AM BLOOD Glucose-72 UreaN-10 Creat-0.8 Na-143 
+K-4.3 Cl-104 HCO3-26 AnGap-13
+
+IMAGING:
+========
+EKG (___):
+Sinus brady at 49bpm with sinus arrhythmia, nl axis, PR 180, QRS
+86, QTC 410, no ischemic changes
+
+CXR (___):
+The lung volumes are normal.  Normal size of the cardiac
+silhouette.  Normal hilar and mediastinal contours.  No
+pneumonia, no pulmonary edema, no pleural effusions. 
+
+ 
+Brief Hospital Course:
+___ year old transgender female -> male with hx anxiety, 
+depression, OCD, anorexia nervosa (binge/purge subtype) admitted 
+voluntarily for medical stabilization and monitoring for 
+refeeding prior to transfer to eating disorder treatment 
+facility. 
+
+# Anorexia nervosa (purge subtype): # Severe malnutrition: 
+# Recent syncopal episode:  # Medically unstable eating 
+disorder: 
+Long history of binging/purging (~120 lbs weight loss over ___ 
+years) for which he follows with therapist ___ in 
+___ and nutritionist ___. Recently established 
+care with eating disorder specialist Dr. ___ (Adolescent 
+Medicine at ___, pager ___ ___. Has not tolerated 
+refeeding as an outpatient, with multiple recent syncopal 
+episodes (last ~2 weeks PTA to ___, reportedly discharged after 
+syncope w/u). Meets criteria for medically unstable eating 
+disorder based on recent syncope. There was no recurrent 
+pre-syncope or syncopal events during this hospitalization. 
+Patient monitored for several days and adhered fully to the 
+eating disorder protocol. Orthostatic vitals were negative and 
+there was no evidence of re-feeding. Medically cleared for 
+discharge with plan to pursue further voluntary treatment at an 
+out of state program. 
+
+# Sinus bradycardia:
+Noted to be in sinus bradycardia, likely related to restrictive 
+eating as above. Monitored on telemetry and no other concerning 
+arrhythmia identified. HRs increased appropriately with 
+activity. Suspect patient will continue to have low resting HRs 
+that should not raise any concern unless patient endorses 
+associated symptoms. 
+
+# Depression: # Anxiety: 
+# OCD: # Hx SI: 
+Mood stable. Patient pleasant and fully cooperative with care. 
+Seen by psychiatry as part of multidisciplinary eating disorder 
+team, who recommended Ativan 0.5 mg PO TIDAC prn with meals for 
+anxiety/nausea. There was consideration of SSRI initiation but 
+this was deferred. Patient was NOT on a ___ and thus 
+admission was entirely voluntary. 
+
+# Transgender female to male: 
+Patient was taking testosterone 5% gel to groin daily on 
+admission but was switched to weekly injection formulation prior 
+to discharge. Next due ___. Patient trained on how to 
+self-administration.  
+
+# Constipation: 
+Patient without bowel movement for several days prior to 
+admission. Given stool softener and daily miralax. There was no 
+concern for misuse. 
+
+TRANSITIONAL ISSUES: 
+===================
+[] Patient should continue weekly testosterone injections, he 
+has been trained on how to self-administer. 
+[] Monitor constipation and allow bowel regimen as indicated. No 
+concerns for misuse observed during this hospitalization. 
+[] Patient working to establish ___ PCP upon return to 
+___. 
+
+> 30 mins spent coordinating discharge
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Anorexia nervosa (purging subtype)
+Depression
+Obsessive compulsive disorder
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a privilege to care for you at the ___ 
+___. You were admitted for medical stabilization 
+prior to enrolling in a eating disorder program. You are now 
+medically stable for discharge to pursue the next steps of 
+treatment. 
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,285 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS:
+===========================
+Mr ___ is a ___ man with a history of HTN, T2DM, HLD, who
+presents for evaluation for chest pain. Patient reports he had 
+an
+episode of chest pain ~2 weeks ago. He did not come in for
+evaluation for his chest pain because he was going on vacation.
+Pain lasted ~1.5 weeks. Substernal, radiating into the shoulder.
+Associated with diaphoresis and some mild dyspnea. He went to 
+see
+his PCP earlier this week. He had an ECG that was read by a
+cardiologist today and he was told to present immediately to the
+ED. Code STEMI was activated and transferred to ___.
+
+On initial exam, patient appeared comfortable. Denied any 
+current
+symptoms. He was evaluated by cardiology. Bedside echo showed
+akinetic basal to mid infero and inferolateral wall. 
+Hyperdynamic
+anterior and anterior septum. ECG showed STE in inferior leads
+and prominent Q waves, consistent with missed STEMI. He was
+admitted to the cardiology service for further evaluation and
+management of missed STEMI. 
+
+On arrival to the floor, patient currently denies any chest 
+pain,
+dyspnea, palpitations, lightheadedness, dizziness, diaphoresis,
+nausea, abdominal pain.
+
+ 
+Past Medical History:
+Type 2 diabetes mellitus with diabetic chronic kidney disease
+Pure hypercholesterolemia 
+Benign hypertension
+ 
+Social History:
+___
+Family History:
+Family history of ischemic heart disease and diabetes.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: Temp: 98.4 PO BP: 194/110 L Lying HR: 91 RR: 18 O2 sat:
+97% O2 delivery: RA FSBG: 142 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowel sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: Warm. No clubbing, cyanosis, or edema. Pulses
+DP/Radial 2+ bilaterally.
+NEUROLOGIC: AAOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+Discharge Physical Exam:
+==========================
+24 HR Data (last updated ___ @ 1102)
+    Temp: 98.2 (Tm 98.4), BP: 144/83 (144-194/83-110), HR: 73
+(67-91), RR: 20 (___), O2 sat: 97% (96-97), O2 delivery: Ra,
+Wt: 208.99 lb/94.8 kg  
+Fluid Balance (last updated ___ @ 921) 
+  Last 8 hours  Total cumulative 120ml
+    IN: Total 120ml, PO Amt 120ml
+    OUT:  Total 0ml
+  Last 24 hours  Total cumulative 400ml
+    IN: Total 400ml, PO Amt 400ml
+    OUT:  Total 0ml  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowel sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: Warm. No clubbing, cyanosis, or edema. Pulses
+DP/Radial 2+ bilaterally.
+NEUROLOGIC: AAOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+ 
+Pertinent Results:
+Admission Labs:
+
+___ 07:35PM BLOOD WBC-8.5 RBC-5.04 Hgb-15.7 Hct-46.4 MCV-92 
+MCH-31.2 MCHC-33.8 RDW-11.9 RDWSD-40.3 Plt ___
+___ 07:35PM BLOOD Glucose-200* UreaN-11 Creat-0.8 Na-137 
+K-3.9 Cl-96 HCO3-22 AnGap-19*
+___ 07:35PM BLOOD cTropnT-0.12*
+___ 10:04PM BLOOD cTropnT-0.12*
+
+Discharge Labs:
+
+___ 06:20AM BLOOD WBC-6.9 RBC-5.12 Hgb-15.9 Hct-47.5 MCV-93 
+MCH-31.1 MCHC-33.5 RDW-11.9 RDWSD-40.9 Plt ___
+___ 06:20AM BLOOD Glucose-189* UreaN-14 Creat-1.0 Na-136 
+K-3.9 Cl-92* HCO3-28 AnGap-16
+___ 06:20AM BLOOD Calcium-9.2 Phos-3.8 Mg-1.9
+
+EKG:
+prominent q-waves and mild ST elevations in inferior leads 
+indicative of missed STEMI. 
+
+Imaging:
+=========================
+TTE ___
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+moderate cavity dilation and mild
+regional systolic dysfunction c/w CAD in a PDA distribution. 
+Mild to moderate ischemic mitral
+regurgitation. Mild aortic regurgitation. Indeterminate 
+pulmonary artery systolic pressure. Mild
+thoracic aortic dilation.
+
+Echo Stress Test ___
+CONCLUSION: Poor functional exercise capacity for age and 
+gender. Uninterpretable ECG with no
+symptoms to achieved treadmill stress. 2D echocardiographic 
+evidence of prior inferior infarction
+with no inducible ischemia to achieved low workload. 
+Mild-moderate mitral regurgitation at rest.
+Normal resting blood pressure with a normal blood pressure and a 
+normal heart rate response to
+achieved workload.
+
+ 
+Brief Hospital Course:
+====================
+PATIENT SUMMARY:
+====================
+Mr ___ is a ___ man with many cardiac risk factors who is
+admitted for medical management of a missed STEMI. He had 
+crushing substernal CP radiating to his left shoulder about 2 
+weeks prior to presentation. He did not seek medical care at 
+that time due to an upcoming vacation. When he presented to 
+___, he was evaluated by our STEMI team who did not recommend 
+intervention due to the timeframe of the missed STMEI.
+====================
+ACUTE ISSUES:
+====================
+
+#Missed STEMI
+Patient was ASA loaded prior to transfer. Per cardiology 
+evaluation in
+ED, there was no benefit to immediate revascularization. The 
+patient had q waves and ST elevations in inferior leads 
+indicating that territory was past the window of viability. We 
+got a TTE and an echo stress test which showed no inducible 
+ischemia in territories outside RCA.
+Mr. ___ was started on a new GDMT regimen and counseled 
+regarding the importance of adhering to the regimen.  
+
+CHRONIC/STABLE ISSUES:
+======================
+#Type II diabetes mellitus
+Patient recently discontinued glipizide. Is supposed to be on
+empagliflozin and metformin, per most recent PCP ___ (CHA
+records), but patient has not filled an active Rx. A1C was 
+elevated on admission to 9.2%. We continued lantus 20U qhs with 
+HISS and held trulicity during admission.
+
+#HTN
+We continued home amlodipine and HCTZ. We switched the patient 
+from atenolol to metoprolol and uptitrated Lisinopril. 
+
+#BPH
+Continued home Tamsulosin 0.4mg daily
+
+====================
+TRANSITIONAL ISSUES:
+====================
+[ ] 
+[ ] 
+[ ]patient was not taking empagliflozin and metformin for DMII. 
+Will defer to PCP for management. Patient may benefit from 
+starting insulin regimen. A1C on admission was 9.2. 
+
+For PCP:
+- please monitor patient's BP on new regimen 
+- please monitor patient's blood glucose. Please consider 
+starting insulin. 
+
+- New Meds:  Metoprolol 
+- Stopped/Held Meds:  
+- Changed Meds:  
+- Follow-up appointments: PCP, cardiology 
+- ___ Follow-up Labs Needed:  
+- Incidental Findings:  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Glargine 20 Units Bedtime
+2. Atorvastatin 80 mg PO DAILY 
+3. amLODIPine 10 mg PO DAILY 
+4. Atenolol 100 mg PO DAILY 
+5. Hydrochlorothiazide 50 mg PO DAILY 
+6. Lisinopril 40 mg PO DAILY 
+7. Tamsulosin 0.4 mg PO DAILY 
+8. Trulicity (dulaglutide) 0.75 mg/0.5 mL subcutaneous 1X/WEEK 
+9. Doxazosin 1 mg PO HS 
+10. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 200 mg PO DAILY  
+2.  amLODIPine 10 mg PO DAILY  
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 80 mg PO DAILY  
+5.  Doxazosin 1 mg PO HS  
+6.  Hydrochlorothiazide 50 mg PO DAILY  
+7.  Lisinopril 40 mg PO DAILY  
+8.  Tamsulosin 0.4 mg PO DAILY  
+9.  Trulicity (dulaglutide) 0.75 mg/0.5 mL subcutaneous 1X/WEEK  
+
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+1) missed STEMI
+1) HTN
+3) DMII
+4) HLD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___. 
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital because you had a heart 
+attack before your vacation.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- You were evaluated with blood tests, EKGs, and a stress test. 
+- You were started on a new heart medicine regimen to lower your 
+risk of complications and future heart attacks
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- You should continue to take your medications as prescribed. 
+- You should attend the appointments listed below.   
+- Seek medical attention if you have new or concerning symptoms 
+or you develop swelling in your legs, abdominal distention, or 
+shortness of breath at night.  
+  
+
+We wish you the best!
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

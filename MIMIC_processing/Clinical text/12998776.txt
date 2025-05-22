@@ -1,0 +1,346 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+seafood / lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope
+ 
+Major Surgical or Invasive Procedure:
+n/a
+
+ 
+History of Present Illness:
+Patient is a ___ year old man w/ PMHx of asthma, morbid obesity 
+who presents with syncope. 
+
+Patient has chronic intermittent cough usually secondary to 
+asthma with ___ exacerbations per year, most recently in ___. 
+He reports for the past week he has been having increasing dry 
+cough, in vigorous paroxysmal episodes. He saw his PCP for his 
+on ___, reported exposure to sick contact (daughter has been 
+diagnosed with pertussis). He reports having a sore throat, and 
+irritation in his throat that he cannot expel.  Cough was felt 
+to be possibly due to lisinopril as well as exposure to 
+pertussis and his lisinopril was changed to amlodipine and he 
+was prescribed a 5  day course of azithromycin which he 
+completed. Despite this , he has continued to cough. On ___, he 
+was in bed on his side, coughing vigorously and became 
+unresponsive for a brief period. Wife noticed that the patient 
+was somewhat rigid and was briefly unresponsive. He was seen in 
+the ___, felt to be low risk per prediction rules, and he was 
+discharged. 
+ 
+He saw his PCP after the ___ visit. Given his elevated BMI, large 
+neck circumference, and age, there was concern for OSA and he 
+was referred for sleep study. Last night, he was sitting on a 
+couch after dinner and coughing violently while sitting on cough 
+and on trying to get up syncopized with no prodrome. Woke up 
+within 10 seconds, wife who witnessed the episode confirmed 
+syncope and fall to the ground. He denies any chest pain 
+shortness of breath palpitation prior of the episode. He does 
+not report any prodromal lightheadedness. He reports that 
+throughout his life he is felt lightheaded after intense 
+coughing, however it has been worsening now that his cough has 
+been more persistent. He denies any new orthopnea or worsening 
+leg swelling. He denies any family history of sudden cardiac 
+death. 
+
+In the ___, initial VS were: 98.6 87 168/94 18 100% RA   
+___ labs including CBC, BMP, troponin unremarkable
+EKG: Sinus rhythm, 82, normal axis, QTC 475, no Brugada syndrome 
+or preexcitation
+  
+Transfer VS were: 98.8 86 128/62 16 100% RA 
+When seen on the floor, during interview, he has en episode of 
+persistent vigorous coughing, with his face becoming very red 
+before he recovered. 
+  
+REVIEW OF SYSTEMS: 
+ A ten point ROS was conducted and was negative except as above 
+in the HPI.
+ 
+Past Medical History:
+intermitt hoarse from ___
+urolith ___
+obesity
+hemorrhoids
+rectal bleed: ___: Adenoma polyp ___: due retest ___
+hx asthma
+hx gastric ulcer
+hx hiatal hernia
+prior EGD ___
+GERD
+back pain p otj ijury ___
+chonic polyarthralgia
+I&D right breast abcess: ___ ___
+ 
+Social History:
+___
+Family History:
+M dec'd: ___ yo complcns of DM/Htn/cva's
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+ Gen: NAD, lying in bed, obese
+ Eyes: EOMI, sclerae anicteric  
+ ENT: MMM, Mallampatti score of 4, tongue occluded almost all of 
+the oral cavity while coughing
+ Cardiovasc: RRR, no MRG, full pulses, no edema  
+ Resp: normal effort, no accessory muscle use, lungs CTA ___.
+ GI: soft, obese, NT, ND, BS+
+ MSK: No significant kyphosis. No palpable synovitis.
+ Skin: No visible rash. No jaundice.
+ Neuro: AAOx3. No facial droop.
+ Psych: Full range of affect
+============================
+DISCHARGE PHYSICAL EXAM
+ Vitals:97.7
+PO 127 / 78 72 18 97 Ra 
+ Gen: obese, NAD, lying in bed, obese
+ Eyes: EOMI, sclerae anicteric  
+ ENT: MMM, Mallampatti score of 4
+ Cardiovasc: RRR, no MRG, full pulses, no edema  
+ Resp: normal effort, no accessory muscle use, lungs CTA 
+bilaterally
+ GI: soft, NT, ND, BS+
+ MSK: No significant kyphosis. No palpable synovitis.
+ Skin: No visible rash. No jaundice.
+ Neuro: AAOx3. No facial droop.
+ Psych: Full range of affect
+ 
+ 
+Pertinent Results:
+___ 10:50PM   GLUCOSE-106* UREA N-15 CREAT-1.2 SODIUM-140 
+POTASSIUM-4.0 CHLORIDE-103 TOTAL CO2-23 ANION GAP-18
+___ 10:50PM   cTropnT-<0.01
+___ 10:50PM   CALCIUM-9.2 PHOSPHATE-3.6 MAGNESIUM-2.3
+___ 10:50PM URINE  HOURS-RANDOM
+___ 10:50PM URINE  UHOLD-HOLD
+___ 10:50PM   WBC-11.6* RBC-4.74 HGB-13.2* HCT-38.6* 
+MCV-81* MCH-27.8 MCHC-34.2 RDW-12.7 RDWSD-37.5
+___ 10:50PM   NEUTS-75.3* LYMPHS-14.4* MONOS-7.4 EOS-1.5 
+BASOS-0.5 IM ___ AbsNeut-8.77* AbsLymp-1.67 AbsMono-0.86* 
+AbsEos-0.17 AbsBaso-0.06
+___ 10:50PM   PLT SMR-NORMAL PLT COUNT-256
+___ 10:50PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 10:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-4* PH-7.0 
+LEUK-NEG
+___ 10:50PM URINE  RBC-1 WBC-3 BACTERIA-FEW YEAST-NONE 
+EPI-0
+___ 10:50PM URINE  MUCOUS-RARE
+
+CXR (___):
+No evidence of acute cardiopulmonary abnormality.
+
+ECHO (___): 
+Conclusions   
+ The left atrial volume index is normal. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is 
+normal. Due to suboptimal technical quality, a focal wall motion 
+abnormality cannot be fully excluded. Overall left ventricular 
+systolic function is normal (LVEF = 65%). The right ventricular 
+free wall thickness is normal. The right ventricular cavity is 
+mildly dilated with normal free wall contractility. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) appear structurally normal 
+with good leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve appears structurally normal with 
+trivial mitral regurgitation. The pulmonary artery systolic 
+pressure could not be determined. There is no pericardial 
+effusion.   
+
+DISCHARGE LABS: 
+
+___ 07:05AM BLOOD WBC-8.3 RBC-4.56* Hgb-12.6* Hct-37.2* 
+MCV-82 MCH-27.6 MCHC-33.9 RDW-12.6 RDWSD-37.5 Plt ___
+___ 07:05AM BLOOD Glucose-106* UreaN-16 Creat-0.8 Na-139 
+K-3.7 Cl-102 HCO3-25 AnGap-16
+___ 10:50PM BLOOD Glucose-106* UreaN-15 Creat-1.2 Na-140 
+K-4.0 Cl-103 HCO3-23 AnGap-18
+___ 10:50PM BLOOD Calcium-9.2 Phos-3.6 Mg-2.3
+ 
+Brief Hospital Course:
+SUMMARY: Mr. ___ is a ___ year old man w/ PMHx of asthma, 
+morbid
+obesity, and chronic intermittent cough usually secondary to 
+asthma who presented with syncope in the setting of coughing 
+fits during the past week.
+
+He did describe one more possible event overnight when he 
+remembers waking up from sleep in bed and remembers coughing 
+right before that however it sounded as if he simply fell asleep 
+while watching tv. He had no further events this 
+hospitalization. Echo was done which showed no abnormalities. 
+Telemetry monitoring revealed no concerning arrhythmias. 
+
+This morning, the patient's cough is improved and he denies any 
+chest pain, nausea, post-tussive vomiting.  He has been 
+ambulating well without issues. Pt is ready to go home. I 
+reviewed the plan, particularly the need for an outpatient sleep 
+study with the patient and his wife at the bedside and they are 
+in agreement. I explained the various reasons to come back to 
+the hospital immediately including recurrent syncope or any 
+other concerning symptoms. Mr. ___ wife plans to drive 
+home since the patient has been receiving codeine and was 
+counseled not to drive until his coughing has resolved. 
+
+Rest of hospital course and plan are outlined below by issue: 
+
+# Syncope: Most likely vasovagal syncope due to increased
+intrathoracic pressure/Valsalva during coughing fits leading to
+decreased venous return as well as transient hypoxia and airway
+obstruction from tongue occluding oropharyngeal airway. His
+obesity puts him at high risk for OSA and respiratory compromise
+during these coughing episodes. Unfortunately there is no rapid
+resolution to this, and treatment will have to approach his
+multifactorial cough and obesity.  ECG was unremarkable, no
+evidence of AV delay / block / conduction disease. CXR from ___ 
+showed no evidence of acute cardiopulmonary abnormality
+-he was monitored on telemetry overnight (no concerning events 
+were seen)
+
+# Cough
+# Chronic asthma
+Ddx for cough includes post-infectious cough vs ACEI-induced. 
+Notably daughter had been diagnosed with pertussis however he 
+has been adequately treated as he completed a 5d course of 
+azithromycin prior to admission. 
+-treated with guaifenesin-codeine, benznoatate
+-ACEI was discontinued
+-we continued his asthma regimen and he does not appear to be in 
+acute exacerbation.
+- continued Montelukast 10 mg PO DAILY 
+- continued Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+
+- continued albuterol
+- continued  Cetirizine 10 mg PO QHS 
+- added gaifenesin and tessalon pearles for cough PRN
+
+# Morbid obesity
+Noted to have high Mallampatti score. Given neck circumference,
+age, HTN, BMI, he most likely has undiagnosed OSA
+- outpatient sleep study as below
+
+# HTN
+- continued amLODIPine 5 mg PO DAILY 
+
+#Transitional Issues: 
+-scheduled for sleep study on ___
+-Rx: guaifenesin, benznoatate
+
+spent > 30 minutes seeing the patent and organizing his 
+discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Montelukast 10 mg PO DAILY 
+3. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+4. Ibuprofen 800 mg PO Q6H:PRN Pain - Severe 
+5. Aspirin 81 mg PO DAILY 
+6. Cetirizine 10 mg PO QHS 
+7. albuterol sulfate 2.5 mg /3 mL (0.083 %) inhalation QID:PRN 
+8. albuterol sulfate 90 mcg/actuation inhalation Q4H:PRN 
+
+ 
+Discharge Medications:
+1.  Benzonatate 200 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth every 8 hours Disp 
+#*30 Capsule Refills:*0 
+2.  GuaiFENesin ___ mL PO Q6H:PRN cough 
+RX *guaifenesin 200 mg 1 tablet by mouth every 4 hours Disp #*24 
+Tablet Refills:*0 
+3.  albuterol sulfate 2 puffs inhalation Q4H:PRN wheezing, 
+shortness of breath  
+4.  albuterol sulfate 2.5 mg /3 mL (0.083 %) inhalation QID:PRN  
+
+5.  amLODIPine 5 mg PO DAILY  
+6.  Aspirin 81 mg PO DAILY  
+7.  Cetirizine 10 mg PO QHS  
+8.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+9.  Ibuprofen 800 mg PO Q6H:PRN Pain - Severe  
+10.  Montelukast 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Syncope
+# Cough
+# Chronic asthma
+# Obesity
+# Likely obstructive sleep apnea
+ 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+ You were hospitalized at ___. 
+
+ 
+
+Why were you in the hospital?
+ =======================
+# Syncope
+# Cough
+# Chronic asthma
+# Obesity
+# Likely obstructive sleep apnea
+ 
+
+ 
+
+What did we do for you?
+ =======================
+ - your heart was monitored closely
+ - and echocardiogram was done
+ - you were given medications to help your cough
+
+ 
+
+ 
+
+What do you need to do?
+ =======================
+ - you should follow up with your primary care doctor within 1 
+week after discharge for a referral for nocturnal 
+polysomnography (sleep study) as you probably have obstructive 
+sleep apnea (OSA)
+ - your recent blood pressure medication lisinopril, may have 
+played a role in your cough and you should continue to hold this 
+medication and take your other antihypertensive medication 
+(amlodipine) as prescribed. 
+ - we recommend talking to your primary care doctor also about 
+weight loss strategies 
+ 
+
+ 
+
+ Please follow up with your primary care doctor.
+
+ 
+
+It was a pleasure taking care of you. We wish you the best!
+
+Sincerely,
+ Your ___ Medicine Team 
+ 
+Followup Instructions:
+___

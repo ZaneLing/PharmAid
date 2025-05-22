@@ -1,0 +1,232 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Oxycodone
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dyspnea 
+ 
+Major Surgical or Invasive Procedure:
+n/a 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ y/o woman with a PMH of stage IIB
+HR+/HER2- breast cancer (undergoing neoadjuvant ddACT, C1D29
+___, migraines, and HTN, who presents with chest
+pain, found to have subsegmental pulmonary embolism. She has 
+been
+experiencing two days of intermittent left-sided chest pressure,
+which has been lasting for several minutes, with occasional
+episodes of sharp left-sided chest pain, which has been more
+brief, lasting seconds. The pain was intermittent, 
+non-pleuritic,
+and occurred at both exertion and rest. One day prior to
+admission, she developed non-productive cough and dyspnea, as
+well as an episode of lightheadedness while walking her dog. She
+presented to ___-___, where her initial VS were T 98.7F, P
+___, BP 132/91 mmHg RR< O2 100% RA. Labs were notable for Cr 
+0.7,
+HCT 35.9%, troponin T of 0.06, and CKMB of 2.5. A CTA
+demonstrated R-sided subsegmental pulmonary embolism. She was
+initiated on heparin infusion. She was transferred to ___ for
+further management. 
+
+On arrival to ___, her initial VS were T 98.2F, P ___, BP
+120/79 mmHg RR 17 O2 98% RA. Bedside echo in the ED demonstrated
+no pericardial effusion, tachycardia, normal LV function and no
+evident RV dilation. ECG demonstrated sinus tachycardia, rate
+103, with S1Q3T3 pattern. Lower extremity ultrasound showed no
+DVT. Labs were notable for normal chemistries, WBC 4.3k, Hb 10.9
+g/dL, PLT ___, PTT 150, troponin 0.07x2, MB 2, proBNP 65. A
+MASCOT consultation was called, who advised that, given the
+presence of small sub-segmental PE with current stability and
+low-risk features, her case was not of sufficient complexity to
+warrant activation of the multidisciplinary team. It was
+recommended that she receive boluses of IV fluid targeted to
+resolution of tachycardia, aspirin 81 mg daily, trending
+troponin/CKMB q6h, and continuation of heparin gtt, with plan to
+transition to DOAC if acceptable from an oncology standpoint. 
+Her
+case was discussed with the oncology fellow on call, and she was
+deemed safe for admission to medicine. 
+
+Upon arrival to the floor, she reported that she felt well and
+that she had not had chest pain or shortness of breath since
+yesterday afternoon. She denied fevers or chills, although she
+did endorse a mild cough. She denied abdominal pain, nausea,
+vomiting, numbness, tingling, rash, dysuria, or hematuria. 
+ 
+Past Medical History:
+- stage IIB HR+/HER2- breast CA (diagnosed ___, invasive
+ductal carcinoma, grade 2, FNA of axillary lymph node positive,
+undergoing neoadjuvant dose-dense ACT, C1D29 ___
+- pre-diabetes
+- migraine headaches
+- cold-induced asthma
+- prolapse s/p partial hysterectomy (___)
+ 
+Social History:
+___
+Family History:
+Has ___ female first cousin that had breast cancer
+at age ___, another first cousin that had ovarian cancer at age
+___, her grandmother had ovarian cancer, father with lung and
+prostate cancer, and an aunt who died in her ___ from unknown
+metastatic cancer.
+ 
+Physical Exam:
+ON ADMISSION: 
+VS: T 97.5F BP 111/72 mmHg P ___ RR 18 O2 97% RA
+General: Comfortable, NAD. 
+HEENT: Anicteric sclerae, alopecia of scalp. MMM, OP clear.
+Neck: Supple; no JVD.
+CV: Tachycardic, regular, no MRGs; normal S1/S2.
+Pulm: CTA b/l; no wheezes, rhonchi, or rales.
+Abd: Soft, non-tender, non-distended, NABS.
+Ext: Warm and well-perfused. No edema. 2+ DP pulses.
+Neuro: A&Ox3. 
+
+ON DISCHARGE: 
+VS:  98.5 ___ 20 97RA
+GENERAL: NAD, alert, interactive  
+HEENT: Sclerae anicteric, MMM, PERRLA, EOMI 
+LUNGS: Clear to auscultation bilaterally, no w/r/r  
+HEART: Regular rhythm w/ tachycardia, clear S1&S2
+ABDOMEN: NABS, soft/NT/ND.  
+EXTREMITIES: Warm, well-perfused. No edema, no swelling or
+tenderness on lower extremities. 2+ DP pulses. 
+NEURO: A&Ox3, CNII-XII grossly intact.
+ 
+Pertinent Results:
+ON ADMISSION: 
+___ 04:10PM BLOOD WBC-4.3 RBC-3.20* Hgb-10.9* Hct-31.3* 
+MCV-98 MCH-34.1* MCHC-34.8 RDW-14.8 RDWSD-53.1* Plt ___
+___ 04:10PM BLOOD ___ PTT-150* ___
+___ 04:10PM BLOOD Glucose-98 UreaN-8 Creat-0.6 Na-140 K-4.1 
+Cl-105 HCO3-23 AnGap-12
+___ 04:10PM BLOOD CK(CPK)-50
+___ 04:10PM BLOOD cTropnT-0.07*
+___ 12:40AM BLOOD cTropnT-0.07*
+
+INTERIM LABS: 
+___ 04:35AM BLOOD CK-MB-2 cTropnT-0.07*
+___ 01:20PM BLOOD CK-MB-2 cTropnT-0.07*
+
+DISCHARGE LABS: 
+___ 04:35AM BLOOD WBC-3.9* RBC-3.01* Hgb-10.2* Hct-29.8* 
+MCV-99* MCH-33.9* MCHC-34.2 RDW-15.0 RDWSD-54.4* Plt ___
+___ 09:25AM BLOOD ___ PTT-59.9* ___
+___ 04:35AM BLOOD Glucose-99 UreaN-12 Creat-0.7 Na-140 
+K-3.9 Cl-104 HCO3-24 AnGap-12
+___ 01:20PM BLOOD CK-MB-2 cTropnT-0.07*
+
+TTE ___: 
+The left atrium is normal in size. The estimated right atrial 
+pressure is ___ mmHg. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size and regional/global systolic 
+function (LVEF>55%). Right ventricular chamber size and free 
+wall motion are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. The mitral valve leaflets are 
+mildly thickened. There is no mitral valve prolapse. The 
+pulmonary artery systolic pressure could not be determined. 
+There is a trivial/physiologic pericardial effusion. 
+
+IMPRESSION: Normal right ventricular cavity size and systolic 
+function. Mild symmetric left ventricular hypertrophy with 
+normal cavity size, and regional/global systolic function. 
+
+BILATERAL US OF LOWER EXTREMITIES
+no evidence of DVT
+ 
+Brief Hospital Course:
+___ h/o stage IIB breast cancer (HR+/Her2-) on neoaduvant 
+chemotherapy, HTN, migraines, presenting with dyspnea and chest 
+pain found to have R-sided submassive subsegmental PE at 
+___, transferred on heparin drip for management.
+
+#Submassive subsegmental PE (r-sided)
+Two-day h/o of dyspnea and chest tightness, intermittently on 
+exertion and at rest, w/ occasional sharp pangs of chest pain. 
+Found to have submassive subsegmental PE at ___ on CTA. 
+Troponin elevated to 0.07, stable when repeated. Normal proBNP. 
+Patient was transitioned from heparin gtt to lovenox ___ mg Q24H 
+per weight-based dosing as was recommended by her oncologist . 
+She was monitored on telemetry and noted to have ambulatory 
+heart rates into the 110-120s without exertional symptoms which 
+improved over the course of hospitalization. 
+
+# STAGE IIB BREAST CANCER, HR+/HER2-. Currently undergoing 
+ddACT, with C1D29 paclitaxel on ___, next date of 
+chemotherapy ___. 
+
+CHRONIC ISSUES
+# MIGRAINE: continued verapamil 120 mg q24h.
+
+Transitional issues: 
+[] patient will be discharged with script for lovenox ___ mg 
+Q24H, instructed on use of medication prior to discharge, 
+discuss duration of treatment with oncologist 
+[] discharged on 81 mg ASA for primary prevention 
+
+>30 minutes spent on discharge 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Verapamil SR 120 mg PO Q24H 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Enoxaparin Sodium 130 mg SC DAILY 
+Start: Today - ___, First Dose: Next Routine Administration 
+Time 
+RX *enoxaparin 150 mg/mL 130 mg SC Q24H Disp #*30 Syringe 
+Refills:*0 
+3.  Verapamil SR 120 mg PO Q24H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pulmonary embolism 
+Stage IIB breast cancer 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to ___ 
+because you were found to have a small blood clot in your lung 
+called a "pulmonary embolism." You had a cardiac ultrasound and 
+blood tests to make sure that this blood clot was not affecting 
+your heart. You will need to continue to take a blood thinner 
+called Lovenox or enoxaparin every day for now, for at least six 
+months and possibly longer. Please discuss how long you should 
+take this medication for with Dr. ___.
+
+It was a pleasure taking care of you and we wish you the best! 
+
+Sincerely, 
+Your ___ team 
+ 
+Followup Instructions:
+___

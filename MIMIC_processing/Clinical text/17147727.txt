@@ -1,0 +1,294 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine / Penicillins / Sudafed
+ 
+Attending: ___.
+ 
+Chief Complaint:
+somnolence
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo woman with history of Ehlers-Danlos 
+syndrome and chronic pain who presents to the ED after being 
+found minimally responsive at home. Stroke code was called on 
+arrival to the ED for slurred speech.  
+ 
+History is provided by Ms. ___ and ___ boyfriend, ___ 
+___.  
+ 
+___ reports that he last saw Ms. ___ well at approx. 10:30 
+pm, at which time he delivered her dinner to eat in a different 
+room  
+ 
+On neuro ROS, the pt denies headache, loss of vision, blurred 
+vision, diplopia, dysarthria, dysphagia, lightheadedness, 
+vertigo, tinnitus or hearing difficulty. Denies difficulties 
+producing or comprehending speech. Denies focal weakness, 
+numbness, parasthesiae. No bowel or bladder incontinence or 
+retention. Denies difficulty with gait.  
+ 
+On general review of systems, the pt denies recent fever or 
+chills. No night sweats or recent weight loss or gain. Denies 
+cough, shortness of breath. Denies chest pain or tightness, 
+palpitations. Denies nausea, vomiting, diarrhea, constipation or 
+abdominal pain. No recent change in bowel or bladder habits. No 
+dysuria. Denies arthralgias or myalgias. Denies rash. 
+ 
+Past Medical History:
+Thrombophlebitis of deep veins of LEs
+?Ehrlos Danlos syndrome
+Fibromyalgia
+Narcotic contract
+HLD
+Anemia
+Asthma
+Osteoporosis
+ 
+Social History:
+___
+___ History:
+Father  ___ Disease 
+Maternal Aunt  Cancer - ___ 
+Mother  ___ Hypertension; Osteoporosis; Stroke; 
+bruising[Other] [OTHER] 
+Paternal Aunt  Cancer - ___ 
+Paternal Grandmother  Cancer - ___ 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VITALS - T 98.2, BP 107/56, HR 68, RR 18, SpO2 100/RA
+GENERAL - alert and oriented, NAD. Speech very mildly slurred.
+HEENT - PERRLA, slightly dry mucus membranes
+NECK - supple
+CARDIAC - RRR, S1+S2, no M/R/G
+PULMONARY - CTAB, good air entry
+ABDOMEN - +BS, non-distended, soft, non-tender
+EXTREMITIES - warm, well-perfused. No tenderness, no edema.
+NEUROLOGIC - Strength and sensation gross intact. Face is 
+symmetric.
+PSYCHIATRIC - coherent line of thought, somewhat flat affect
+SKIN - no obvious rashes or lesions
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VITALS - T 98.2, BP 107/56, HR 68, RR 18, SpO2 100/RA
+GENERAL - alert and oriented, NAD. Speech very mildly slurred.
+HEENT - PERRLA, slightly dry mucus membranes
+NECK - supple
+CARDIAC - RRR, S1+S2, no M/R/G
+PULMONARY - CTAB, good air entry
+ABDOMEN - +BS, non-distended, soft, non-tender
+EXTREMITIES - warm, well-perfused. No tenderness, no edema.
+NEUROLOGIC - Strength and sensation gross intact. Face is 
+symmetric.
+PSYCHIATRIC - coherent line of thought, somewhat flat affect
+SKIN - no obvious rashes or lesions
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 12:43AM   PLT COUNT-151
+___ 12:43AM   NEUTS-52.4 ___ MONOS-9.3 EOS-8.2* 
+BASOS-0.9 IM ___ AbsNeut-2.83 AbsLymp-1.54 AbsMono-0.50 
+AbsEos-0.44 AbsBaso-0.05
+___ 12:43AM   WBC-5.4 RBC-3.58* HGB-10.7* HCT-34.4 MCV-96 
+MCH-29.9 MCHC-31.1* RDW-14.1 RDWSD-49.6*
+___ 12:43AM   ASA-NEG ETHANOL-32* ACETMNPHN-NEG 
+bnzodzpn-POS* barbitrt-NEG tricyclic-POS*
+___ 12:43AM   CREAT-0.7
+___ 12:43AM   GLUCOSE-104* UREA N-15 CREAT-0.7 SODIUM-137 
+POTASSIUM-3.8 CHLORIDE-100 TOTAL CO2-24 ANION GAP-17
+___ 12:50AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 12:50AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 12:50AM URINE  bnzodzpn-POS* barbitrt-POS* opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-POS* mthdone-NEG
+___ 01:21AM   GLUCOSE-96 LACTATE-2.7* NA+-140 K+-3.6 
+CL--108 TCO2-24
+___ 10:45AM   CALCIUM-8.2* PHOSPHATE-3.2 MAGNESIUM-1.8
+___ 10:45AM   ALT(SGPT)-10 AST(SGOT)-15 TOT BILI-<0.2 DIR 
+BILI-<0.2
+___ 11:57AM   ___ PO2-57* PCO2-54* PH-7.29* TOTAL 
+CO2-27 BASE XS--1 COMMENTS-GREEN TOP
+___ 06:32PM   PO2-95 PCO2-46* PH-7.41 TOTAL CO2-30 BASE 
+XS-3 COMMENTS-GREEN TOP
+
+DISCHARGE LABS
+==============
+___ 06:32PM   PO2-95 PCO2-46* PH-7.41 TOTAL CO2-30 BASE 
+XS-3 COMMENTS-GREEN TOP
+
+IMAGING
+=======
+CT HEAD WITHOUT CONTRAST (___)
+No acute intracranial process.
+
+CXR (___)
+No acute cardiopulmonary process.
+ 
+Brief Hospital Course:
+___ yoF with PMHx of headaches, asthma, and Eh___ 
+presents with AMS in setting of polypharmacy and positive EtOH 
+(level 32).
+
+ACTIVE ISSUES THIS ADMISSION
+#Toxic/Metabolic Encephalopathy: Patient was found drowsy and 
+sleeping and was brought by ambulance to the ED. After receiving 
+naloxone, she became more responsive. She was seen by neuro in 
+the ED, who evaluated her for stroke. Presentation unlikely 
+stroke as she had no focal neuro deficits, and just had altered 
+mental status. No electrolyte abnormalities, however her urine 
+and serum toxicology tests were positive for barbiturates, 
+benzos, oxycodone, +TCA. Positive EtOH level to 32. Toxicology 
+saw the patient and recommended monitoring of blood gases and 
+EKGs (QRS and QTc intervals). Initial VBG was ___ but 
+normalized by discharge. QRS and QTc within normal limits and 
+stable during admission. Patient strongly encouraged to abstain 
+from alcohol, especially in the setting of tricyclic 
+antidepressant use. Home doses of amitriptyline and diazepam 
+were continued, per toxicology recommendation.
+
+CHRONIC ISSUES
+#Ehrlos Danlos syndrome: continue home Amitriptyline 150 mg PO 
+QHS, OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO BID:PRN Pain. 
+Unclear that this is a true diagnosis. Some documentation in 
+rheumatology notes that this may be fibromyalgia.
+
+#Narcotic contract
+
+#Anemia: stable
+
+#Asthma: continued home albuterol and budenoside
+
+TRANSITIONAL ISSUES:
+#A thorough medication review may be helpful, to potentially 
+eliminate any non-essential medications and reduce complications 
+due to polypharmacy. Encourage continued tapering of diazepam 
+and TCA and alternative treatment to headaches than fiorect.
+#Consider discontinuing nadolol as patient had softer BPs during 
+hospitalization.
+#Patient taking spironolactone for hair growth. monitor BPs and 
+associated symptoms as outpatient as pressures were soft as 
+inpatient.
+#PCP ___ with Dr ___
+#Strict abstinence for alcohol
+#Full code, confirmed
+#CONTACT: ___, partner, ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amitriptyline 150 mg PO QHS 
+2. Ranitidine 300 mg PO BID 
+3. Cyproheptadine 8 mg PO DAILY 
+4. Nadolol 20 mg PO BID 
+5. Gabapentin 200 mg PO QID 
+6. Tizanidine ___ mg PO QHS:PRN severe facial pain 
+7. trospium 20 mg oral BID 
+8. Diazepam 5 mg PO BID:PRN anxiety, spasms 
+9. OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO BID:PRN Pain - 
+Moderate 
+10. Mupirocin Ointment 2% 1 Appl TP TID:PRN eye problems 
+11. Clobetasol Propionate 0.05% Cream 1 Appl TP BID 
+12. Tretinoin 0.025% Cream 1 Appl TP QHS 
+13. Aspirin-Caffeine-Butalbital 1 CAP PO Q6H:PRN Pain - Moderate 
+
+14. hydrocortisone-iodoquinol-aloe ___ % topical BID:PRN 
+15. albuterol sulfate 90 mcg/actuation inhalation Q6H:PRN 
+16. budesonide 180 mcg/actuation inhalation Q12H 
+17. Polyethylene Glycol 17 g PO DAILY:PRN constipation 
+18. ciclopirox 8 % topical QHS 
+19. Hydrocortisone ___. Cream 0.2% 1 Appl TP BID:PRN dermatitis 
+20. Ketoconazole 2%  1 Appl TP DAILY 
+
+ 
+Discharge Medications:
+1.  albuterol sulfate 90  mcg INHALATION Q6H:PRN wheezing  
+2.  Amitriptyline 150 mg PO QHS  
+3.  Aspirin-Caffeine-Butalbital 1 CAP PO Q6H:PRN Pain - Moderate 
+ 
+4.  Budesonide 180 mcg/actuation INHALATION Q12H  
+5.  ciclopirox 8 % topical QHS  
+6.  Clobetasol Propionate 0.05% Cream 1 Appl TP BID  
+7.  Cyproheptadine 8 mg PO DAILY  
+8.  Diazepam 5 mg PO BID:PRN anxiety, spasms  
+9.  Gabapentin 200 mg PO QID  
+10.  Hydrocortisone ___. Cream 0.2% 1 Appl TP BID:PRN dermatitis 
+ 
+11.  hydrocortisone-iodoquinol-aloe ___ % topical BID:PRN  
+12.  Ketoconazole 2%  1 Appl TP DAILY  
+13.  Mupirocin Ointment 2% 1 Appl TP TID:PRN eye problems  
+14.  Nadolol 20 mg PO BID  
+15.  OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO BID:PRN Pain 
+- Moderate  
+16.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+17.  Ranitidine 300 mg PO BID  
+18.  Spironolactone 100 mg PO DAILY  
+19.  Tizanidine ___ mg PO QHS:PRN severe facial pain  
+20.  Tretinoin 0.025% Cream 1 Appl TP QHS  
+21.  trospium 20 mg oral BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+ - toxic tricyclic antidepressant serum levels
+
+SECONDARY DIAGNOSES:
+ - ___ Syndrome
+ - Asthma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted at ___ on 
+___ for excessive sleepiness and elevated levels of 
+amitriptyline.
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?
+=============================================
+ - You had blood work done to monitor the effects of the 
+amitriptyline on your body.
+ - You had multiple electrocardiograms (EKGs) done to assess the 
+electrical rhythm of your heart, which can be dangerously 
+affected by high levels of amitriptyline in your blood. Your 
+heart rhythm was fine.
+
+WHAT WILL HAPPEN WHEN YOU LEAVE THE HOSPITAL?
+=============================================
+ - You will continue to take your medicines as prescribed.
+ - It is very important that you do not drink any alcohol 
+whatsoever, as it may cause dangerous reactions with your 
+medicines.
+ - You should make an appointment to see you primary care 
+doctor, ___ the next week.
+
+If you have any further questions about your care here, please 
+do not hesitate to contact us. We wish you the best with your 
+health going forward.
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

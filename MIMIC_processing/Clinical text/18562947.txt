@@ -1,0 +1,232 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+confusion, delirium
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with a history of a 
+previous
+psychiatric episode, who was brought in by her family after a
+psychotic break after the death of her son. She was stabilized 
+in
+the emergency room with a plan for discharge to a psychiatric
+facility. However, her urine culture returned on day 3 with
+Corynebacerium urealyticum > 100,000 CFU. On further 
+questioning,
+the patient endorsed urinary symptoms, including for the past
+several weeks. Given the highly resistant nature of her UTI, and
+concerns that it may influence her presentation, she was 
+admitted
+to medicine for treatment with vancomycin.
+
+On arrival to the floor, the patient is screaming obscenities 
+but
+shortly after interviewed in her room where she was noted to be
+much calmer and very pleasant. Her thought process was 
+non-linear
+and thus unable to appropriately obtain an accurate review of
+symptoms. She was able to affirm dysuria without abdominal or
+back pain. When asked if she any thoughts of hurting herself or
+others, replied, "Oh, I would never do that." 
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+Hx of UTI
+Diverticulitis
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ADMISSION EXAM: 
+VITALS: 
+___ Temp: 98.4 PO BP: 122/84 HR: 112 RR: 18 O2 sat: 
+98%
+O2 delivery: RA 
+GENERAL: disheveled woman resting in bed with sad affect,
+currently calm and cooperative. 
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout. 
+PSYCH: currently pleasant and calm, though with sad affect and
+non-linear speech. 
+
+DISCHARGE EXAM
+98.5. 135/83 67 18 100%RA
+GEN: pleasant elderly female in NAD
+HEENT: MMM
+CV:RRR
+RESP: CTAB 
+ABD: soft, NT, ND, NABS
+GU: no foley
+EXTR: warm, no edema
+NEURO: CN ___ intact, strength ___ in all four extremities 
+(proximal and distal muscle groups), Sensation intact, 
+Finger-nose-finger intact ___, rapid alternating movement intact 
+___, no pronator drift, negative rhomberg, normal gait.  Oriented 
+x 3
+ 
+Pertinent Results:
+___ 07:20AM BLOOD WBC: 5.7 RBC: 4.57 Hgb: 12.1 Hct: 36.7
+MCV: 80* MCH: 26.5 MCHC: 33.0 RDW: 13.8 RDWSD: 40.___ 
+
+___ head without contrast:
+No acute intracranial hemorrhage, or mass.
+
+___: 
+No acute cardiopulmonary process.
+
+Urine Cx 
+                            SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             CORYNEBACTERIUM SPECIES 
+(DIPHTHEROIDS)
+                             |   
+ERYTHROMYCIN----------     2 R
+GENTAMICIN------------     2 S
+PENICILLIN G----------   0.5 I
+VANCOMYCIN------------     1 S
+
+___ 07:45AM BLOOD Glucose-91 UreaN-13 Creat-1.3* Na-142 
+K-4.2 Cl-106 HCO3-20* AnGap-16
+___ 07:20AM BLOOD Glucose-84 UreaN-15 Creat-1.6* Na-140 
+K-4.3 Cl-106 HCO3-22 AnGap-12
+___ 01:01PM BLOOD Glucose-81 UreaN-9 Creat-1.2* Na-137 
+K-3.7 Cl-102 HCO3-23 AnGap-12
+___ 01:09PM BLOOD ALT-11 AST-21 AlkPhos-93 TotBili-0.5
+___ 01:01PM BLOOD Calcium-9.1 Phos-3.3 Mg-1.8
+___ 01:09PM BLOOD Folate-18
+___ 05:36PM BLOOD %HbA1c-5.6 eAG-114
+___ 01:09PM BLOOD TSH-0.87
+___ 01:09PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ woman who presents with acute 
+delirium/psychosis after the death of her son, found to have a 
+UTI and acute kidney injury.  Pt was treated with a 7 day course 
+of IV Vanc and renal function recovered with IVF.   
+
+Acute Corynebacterium urealyticum UTI
+Completed 7-day course of Vancomycin while inpatient and 
+symptoms resolved entirely.
+
+Acute kidney injury: creatinine peaked at 1.6 and came down to 
+1.2 by the time of discharge.   Pt should get follow up labs 
+when seen by PCP next week.  Verbal handoff provided to Dr. 
+___.
+
+Acute Encephalopathy/Delirium with possible underlying cognitive 
+deficit:  Pt presented with acute psychosis and was placed under 
+___ by psychiatry.   Pt was managed with low dose haldol 
+while getting medical treatment for UTI and ___.  Pt was 
+initially very confused but her mental status improved 
+significantly throughout the hospitalization and haldol was 
+discontinued.  Her neuro exam was entirely reassuring and OT had 
+recommended rehab because pt was still requiring prompting to 
+complete ADLs. Pt was noted to have a MOCA of ___ when 
+evaluated by psych on ___ suggesting some baseline cognitive 
+impairment.   However, by the time of discharge, pt was 
+consistently alert and oriented x3.  Pt was seen by multiple 
+family/sisters who felt that she was back to baseline functional 
+status.   Pt was very eager to return home and did not want to 
+go to rehab.  Her family was willing to coordinate to ___ care 
+in her home to help with the transition.   After coordinating 
+for home ___, OT, home safety evaluation and elder services 
+referral, pt was discharged home with the plan for 24hr care 
+with another sister living in her home.   I provided verbal 
+handoff to her PCP about the ongoing concern for underlying 
+cognitive deficit and pt will be following up next week at 
+___.  
+
+Transition issues:
+- follow up ___ given resolving ___ (creatinine 1.2 at 
+discharge)
+- follow up of neurocognitive status and ___ home safety 
+assessment
+
+> 30 min spent on clinical care on the day of discharge 
+coordinating safe transition home with family and providing 
+verbal handoff to PCP.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Encephalopathy
+Acute kidney injury
+Urinary tract infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent. Requires some prompting for 
+ADLs
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent. 
+
+ 
+Discharge Instructions:
+You were admitted to the hospital for a change in mental status 
+likely due to a urinary tract infection, dehydration causing 
+kidney injury and major stressors in your life.  You were 
+treated with IV antibiotics and fluids with improvement in 
+kidney function.  Your mental status has improved significantly 
+and your family will be staying with you on return home to 
+support you as you continue to recover.  You will have a 
+visiting nurse, occupational therapy and you are scheduled to 
+see Dr. ___ week. 
+
+Please make sure to keep the follow up appointments as scheduled 
+and get follow up labs at that appointment.
+
+Best wishes from your team at ___
+
+ 
+Followup Instructions:
+___

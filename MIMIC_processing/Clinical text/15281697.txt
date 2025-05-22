@@ -1,0 +1,273 @@
+Name:  ___                     Unit ___:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___ Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Left lower extremity swelling, DVT
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+CC: L lower extremity swelling
+============================
+HPI(4): ___ male with HTN, HLD, gout  who presents to us
+as a referral from his primary care physician with evidence of a
+left lower extremity DVT.
+He reports that he was in a GSOGH until 2.5 weeks ago when he
+slipped and fell backwards on ice hitting his shoulders. He was 
+a
+little sore but managed to get up, and continue his daily
+activities such as go to work etc. He has not been on bed rest.
+He then noticed swelling in his L leg 12 days ago. He noticed
+that before the fall when he was walking he had excruciating 
+pain
+which then resolved. It throbbed a little a few days after that
+and it then resolved. Even with the worsening swelling there has
+been minimal throbbing most notable after walking a great deal. 
+In terms of his breathing he has noticed that he is becoming
+short of breath when climbing the stairs. He has ___ had chest
+pain. He does have a dry cough. He has not had fevers or chills. 
+
+___ flights. In ___ he drove 4 hours to ___. 
+
+He commutes to work and he has been walking from his house to 
+the
+T daily. 
+___ LOC, ___ palpitations, chest pain, syncope surrounding the
+fall. He said it was like he slipped on a banana peel.
+
+Patient notes swelling in his left calf after activity and after
+showers. This is only mildly painful. He also notes erythema on
+the left compared to the right.
+
+Patient does not have a past medical history significant for
+cancer. He has gout, hypertension, and hyperlipidemia. He is not
+on any exogenous testosterone. He does not have a family history
+significant bleeding dyscrasias. He does not have a history of
+tobacco use.
+Upon arrival: VS: 0 |97.8 |72 |145/84 |18 |99% RA 
+ HCM: Recent normal colonoscopy. He quit tobacco ___ years ago
+after a 20 pack year of smoking. 
+.
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+Status post ORIF left anterior glenoid fracture
+with ORIF left proximal humerus fracture, performed ___
+ 
+Social History:
+___
+Family History:
+Brother passed away at age ___ from lung cancer.
+Mother died of DM
+Father with cardiac arrest. 
+ 
+Physical Exam:
+ADMISSION:
+===========
+VITALS: 
+98.8 ___
+GENERAL: Alert and in ___ apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, ___ murmur, ___ S3, ___ S4.  ___ JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  ___ HSM
+GU: ___ suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+___ with increased calf diameter and erythema compared to L
+SKIN: ___ rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE:
+==========
+24 HR Data (last updated ___ @ 1540)
+Temp: 98.6 (Tm 98.8), BP: 135/84 (127-154/80-94), HR: 76 
+(62-76),
+RR: 18, O2 sat: 96% (94-96%), O2 delivery: RA, Wt: 239.64
+lb/108.7 kg  
+Orthostatics negative
+94% on RA with ambulation
+GENERAL: NAD, lying comfortably in bed in NAD
+EYES: PERRL, anicteric sclerae
+ENT: OP clear
+CV: RRR, nl S1, S2, ___ M/R/G, ___ JVD
+RESP: CTAB, ___ crackles, wheezes, or rhonchi
+GI: + BS, soft, NT, ND, ___ rebound/guarding, ___ HSM
+GU: ___ suprapubic fullness or tenderness to palpation
+SKIN: ___ rashes or ulcerations noted
+MSK: ___ pitting edema ___ with superimposed erythema
+NEURO: AOx3, CN II-XII intact, ___ strength in all extremities,
+sensation grossly intact throughout, gait nl
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+ADMISSION:
+==========
+___ 05:45PM BLOOD WBC-6.3 RBC-4.14* Hgb-11.9* Hct-37.1* 
+MCV-90 MCH-28.7 MCHC-32.1 RDW-12.6 RDWSD-41.3 Plt ___
+___ 05:45PM BLOOD Neuts-56.7 ___ Monos-8.1 Eos-4.6 
+Baso-1.0 Im ___ AbsNeut-3.55 AbsLymp-1.84 AbsMono-0.51 
+AbsEos-0.29 AbsBaso-0.06
+___ 05:45PM BLOOD ___ PTT-27.2 ___
+___ 05:45PM BLOOD Glucose-122* UreaN-10 Creat-0.8 Na-139 
+K-4.4 Cl-100 HCO3-26 AnGap-13
+
+DISCHARGE:
+===========
+WBC 5, Hgb 12.0, Plt 253
+INR 1.2
+BMP WNL
+Ca/Mg/Phos WNL
+Trop <0.01, BNP 82
+
+IMAGING:
+========
+TTE (___):
+Mildly dilated normally functioning RV with mild pulmonary HTN.
+Mild symmetric LVH with nl cavity size and regional/global
+systolic function (EF 55-60%). Mild MR. ___ prior TTE for
+comparison.
+
+EKG (___):
+NSR at 67bpm, nl axis, PR 154, QRS 108, QTC 399, possible Q in
+III, baseline artifact but ___ clear ischemic changes ___ prior
+for comparison)
+
+CTA chest (___):
+1. Multiple bilateral pulmonary emboli, as above more extensive
+on the left than the right. 
+2. Mild straightening of the interventricular septum can be
+concerning for right heart strain.  Echocardiogram would provide
+further assessment. 
+3. Enlarged main pulmonary artery, measuring 3.0 cm, which can 
+be
+seen in pulmonary hypertension. 
+
+L ___ ___, OSH):
+Findings consistent with occlusive thrombosis extending from the
+left common femoral vein into the left femoral vein, popliteal
+vein, and calf veins.
+ 
+Brief Hospital Course:
+___ male with HTN, HLD, gout who presented to PCP with
+___ edema and was found to have ___ DVT, referred to ED where he
+was diagnosed with b/l submassive PE.
+
+# ___ DVT:
+# Bilateral sub-massive PE:
+# Pulmonary HTN:
+Patient presented to PCP ___ 3 weeks of ___ swelling and pain
+and was diagnosed on ___ with occlusive DVT extending from the
+common femoral to the L femoral vein, popliteal vein, and calf
+veins. He was referred to the ED by his PCP, where CTA chest
+showed multiple b/l pulmonary emboli, L>R, with an enlarged
+pulmonary artery measuring 3.0 cm. Trop/BNP WNL. TTE showed
+mildly dilated, normally functioning RV with mild pulmonary HTN
+(as well as mild symmetric LVH with nl regional/global systolic
+function). Orthostatics were nl, as was ambulatory saturation on
+RA. Discussed with ___ fellow (Dr. ___, who felt 
+that
+___ invasive interventions were warranted based on stability.
+Unclear precipitant for DVT/PE, likely unprovoked in absence of
+recent immobility and given that he is up-to-date on his
+age-appropriate cancer screening. Lovenox was initiated,
+transitioned to apixaban prior to discharge (10mg BID x 7d
+followed by 5mg BID). Would plan to treat for at least ___ 
+months
+but defer final course to PCP and outpatient cardiologist. He
+will schedule f/u with his PCP ___ 1 week. Would recommend
+referral by PCP to ___ cardiology for f/u of b/l PE and
+pulmonary HTN and consideration of hypercoagulable w/u. Of note,
+apixaban was provided for free x 1 month on d/c but will require
+prior authorization for additional supply. Will need to be
+pursued by PCP, with transition to alternative anticoagulation 
+if
+insurance will not cover. Patient notified of this prior to
+discharge. 
+
+# HLD:
+Continued home atorvastatin 20mg daily.
+
+# Gout:
+Continued home allopurinol ___ daily.
+
+** TRANSITIONAL **
+[ ] consider hypercoagulable w/u
+[ ] pursue prior auth for apixaban (pt given 1 month supply)
+[ ] referral to cardiology for b/l PE and pulmonary HTN
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 20 mg PO QPM 
+2. Allopurinol ___ mg PO DAILY 
+3. Lisinopril 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID 
+RX *apixaban [Eliquis] 5 mg (74 tabs) 10 mg by mouth twice a day 
+Disp #*1 Dose Pack Refills:*0 
+2.  Allopurinol ___ mg PO DAILY  
+3.  Atorvastatin 20 mg PO QPM  
+4.  Lisinopril 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+___ DVT
+Bilateral sub-massive PE
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital with a L leg blood clot and 
+bilateral blood clots in your lungs. You were started on a blood 
+thinner called apixaban, which you should take as follows:
+10mg twice a day x 7d, followed by 5mg twice a day
+You have been given a 1 month supply of this medication, but 
+additional supply will require a prior authorization. Please 
+ensure that your primary care doctor pursues this on your 
+behalf.
+
+It will be important that you arrange follow-up with your 
+primary care doctor for within 1 week of discharge and that you 
+be referred to a cardiologist within the ___ 
+system. Please contact your PCP on ___ to coordinate. 
+
+With best wishes,
+___ Medicine
+ 
+Followup Instructions:
+___

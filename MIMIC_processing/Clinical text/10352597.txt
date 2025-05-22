@@ -1,0 +1,238 @@
+Name:  ___                  ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abnormal labs
+ 
+Major Surgical or Invasive Procedure:
+EGD and colonoscopy
+
+ 
+History of Present Illness:
+___ female in her usual state of health who was referred
+to the ED by her primary care physician after routine outpatient
+labs demonstrated a hemoglobin of 6.5 and hematocrit of 22%. The
+patient was having blood work done prior to starting aspirin
+therapy.  On presentation, the patient denied chest pain,
+shortness of breath, dyspnea on exertion, weakness,
+lightheadedness, fevers, or chills.  She reported that she had
+been in her usual state of health.
+
+In the ED:
+
+Initial vital signs were notable for:
+T 97.8, HR 80, BP 124/63, RR 18, O2 sat 100% RA
+
+Exam notable for:
+Mucous, brown, guaiac positive stool on rectal exam
+
+Labs were notable for:
+Hemoglobin 6.5 -> 5.5
+WBC count 6.1, platelets 291
+Reticulocyte count 1.5%
+Cr 0.9
+INR 1.1
+LFTs WNL
+
+Patient was given:
+Omeprazole 40 mg p.o.
+1 unit PRBC ___ ordered but not given in ED as patient assigned
+bed) 
+
+GI consulted and recommended:
+Tentative clears, oral BID PPI, trend hgb and plan for ___
+tomorrow.
+
+Vitals on transfer:
+T 99.1, HR 74, BP 138/79, RR 18, O2 sat 100%
+
+Upon arrival to the floor, confirms above history. She was in 
+her
+usual state of health but does note being a little bit more 
+tired
+recently but not out of the ordinary.  She also reports that she
+was scheduled to have an endoscopy and colonoscopy today (___)
+at 1 ___ at ___ but was referred to the ED after unrelated
+outpatient lab showed anemia.  Patient was reportedly getting 
+EGD
+and colonoscopy prior to initiation of aspirin therapy.  Patient
+is unsure whether aspirin is for primary prevention or another
+reason.  Of note, patient has been chronically on 5 mg 
+prednisone
+wihtout GI prophylaxis for ___ years and so decision was made to
+evaluate endoscopically for bleeding risk prior to initiation of
+aspirin.  Patient also notes that she was previously admitted at
+___ approximately ___ years ago for severe anemia. 
+Notes that at that time she was transported to ___ for
+transfusions and was discharged.  Patient also has a known
+history of uterine fibroids and does have a history of
+menorrhagia.  She notes that she continues to have regular 
+menses
+on a monthly basis the last approximately ___ days.  Reports
+first 2 days of menses involve heavy bleeding where she has to
+change pads every few hours.  Importantly, notes no change to 
+her
+menstrual cycle in terms of duration or change in the amount of
+bleeding.  Currently denies any vaginal bleeding.  She has never
+had an EGD or colonoscopy previously.  Patient currently denies
+melena, hematochezia, or hematuria.  She also denies any family
+history of blood dyscrasias or thalassemia.
+ 
+Past Medical History:
+Asthma
+Sinusitis
+History of uterine fibroids
+Menorrhagia
+ 
+Social History:
+___
+Family History:
+No family history of blood dyscrasia/cancers or thalassemia.
+ 
+Physical Exam:
+========================
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS:98.6, 145/83, 70, 16, 100%Ra
+GENERAL: AAO Ã-3, NAD
+HEENT: NC/AT. PERRL, EOMI. Sclera anicteric and without
+injection. MMM.
+NECK: Supple, no JVD
+CARDIAC: RRR, + S1/S2, no murmurs
+LUNGS: CTAB, good air movement, no wheezing
+ABDOMEN: Soft, obese, nontender, nondistended, + BS, no
+organomegaly
+EXTREMITIES: No lower extremity edema, 2+ DPs bilaterally
+SKIN: Warm, no obvious rashes
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. 
+
+DISCHARGE PHYSICAL EXAM:
+Unchanged from admission
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 09:47AM BLOOD WBC-5.4 RBC-3.92 Hgb-6.5* Hct-25.8* 
+MCV-66* MCH-16.6* MCHC-25.2* RDW-20.7* RDWSD-47.7* Plt ___
+___ 09:47AM BLOOD ___ PTT-22* ___
+___ 09:47AM BLOOD Plt ___
+___ 01:00PM BLOOD Ret Aut-1.5 Abs Ret-0.05
+___ 09:47AM BLOOD Glucose-78 UreaN-14 Creat-0.9 Na-140 
+K-5.3 Cl-109* HCO3-17* AnGap-14
+___ 09:47AM BLOOD ALT-9 AST-34 AlkPhos-34* TotBili-0.3
+___ 09:47AM BLOOD Albumin-3.8 Calcium-8.4 Phos-4.0 Mg-2.1
+___ 09:47AM BLOOD Hapto-115
+
+DISCHARGE LABS:
+
+___ 06:15AM BLOOD WBC-8.8 RBC-4.26 Hgb-8.2* Hct-29.0* 
+MCV-68* MCH-19.2* MCHC-28.3* RDW-23.5* RDWSD-55.9* Plt ___
+___ 06:15AM BLOOD Glucose-74 UreaN-9 Creat-0.9 Na-143 K-4.0 
+Cl-112* HCO3-16* AnGap-15
+___ 06:15AM BLOOD Calcium-8.2* Phos-4.0 Mg-2.1 Iron-27*
+___ 06:15AM BLOOD calTIBC-420 Ferritn-12* TRF-323
+
+STUDIES:
+
+___ EGD: normal mucosa in esophagus, whole stomach and duodenum
+___ colonoscopy: normal mucosa in the whole colon and terminal 
+ileum. Heavy menstrual bleeding noted during procedure
+ 
+Brief Hospital Course:
+BRIEF SUMMARY:
+==============
+___ w/ uterine fibroids presenting with asymptomatic incidental 
+anemia likely secondary to blood loss anemia from menorrhagia, 
+received two transfusions with improvement.
+
+ACTIVE ISSUES:
+
+#) IRON DEFICIENCY ANEMIA:
+Hemoglobin initially 6.5. Received 2 transfusions with 
+improvement in hemoglobin to 8.2 on discharge. Remained 
+hemodynamically stable and workup notable for hypoproliferative 
+microcytic anemia and iron deficiency (ferritin 12); negative 
+hemolysis labs. Endoscopy and colonoscopy were unremarkable. 
+Likely has blood loss anemia in the setting of uterine fibroids 
+and menorrhagia. Needs to follow up with outpatient PCP, and 
+consideration of referral to hematology for IV iron infusions. 
+Needs to have repeat CBC checked in 1 week.
+
+CHRONIC ISSUES:
+===============
+#Asthma: continued home nebs, and prednisone; held home breo 
+(non-formulary)
+
+#Sinusitis: continued home fluticasone
+
+TRANSITIONAL ISSUES
+=================================
+[] Patient needs repeat CBC within 1 week of discharge
+[] If persistent guaiac positive after metro/menorrhagia 
+controlled or between menses, consider outpatient nonurgent 
+capsule
+[] Please refer patient to outpatient IV iron infusions.
+[] Please refer patient to gynecology for management of 
+menorrhagia and fibroids
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 5 mg PO DAILY 
+2. Breo Ellipta (fluticasone-vilanterol) 200-25 mcg/dose 
+inhalation DAILY 
+3. Albuterol Inhaler ___ PUFF IH Q6H:PRN wheezing 
+4. Tiotropium Bromide 1 CAP IH DAILY 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler ___ PUFF IH Q6H:PRN wheezing  
+2.  Breo Ellipta (fluticasone-vilanterol) 200-25 mcg/dose 
+inhalation DAILY  
+3.  PredniSONE 5 mg PO DAILY  
+4.  Tiotropium Bromide 1 CAP IH DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+- iron deficiency anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___.  You were admitted 
+because of your low blood counts.  You received 2 units of blood 
+with improvement in your blood count.  You underwent an 
+endoscopy and colonoscopy, which was normal.  You were found to 
+have iron deficiency, and need to follow up with your primary 
+care doctor within 1 week, and consider outpatient intravenous 
+iron infusions.  You should also be referred to gynecology for 
+management of your uterine fibroids and heavy periods, which is 
+likely contributing to your low blood counts and iron 
+deficiency.  
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

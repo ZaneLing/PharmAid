@@ -1,0 +1,268 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Percocet / seafood
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year-old female with a history of ocular
+toxoplasmosis and anxiety who presents with 3 weeks of
+intermittent epigastric pain.  The pain is primarily in
+epigastrium but radiates to left lateral flank and throughout
+lower abdomen.  It is associated with bloating.  It is worse 
+with
+food.  She describes a sensation of food being stuck in her
+epigastrium when she eats.  The pain is intermittent and 
+resolved
+after some period of time but about a week ago it recurred and
+worsened.  At that time, she saw her PCP and had an ultrasound
+which was within normal limits.  She was supposed to have a
+varicose vein surgery and reported this epigastric pain to her
+surgeon Dr. ___ a CT abdomen.  The CT abdomen had
+several notable findings as below including pancreatic
+inflammation and cyst.  She was therefore referred for MRCP 
+which
+showed similar findings as below..  She denies fevers, chills,
+nausea, vomiting, diarrhea, jaundice, abdominal trauma, ethanol,
+new medications (other than a single dose of ibuprofen (, herbal
+medications, family history of pancreatic issues, sick contacts,
+recent travel, abdominal surgeries.  She denies dysuria, frank
+flank pain similar to her kidney stones, vaginal discharge.  She
+is sexually active with her husband who has had a vasectomy.  
+She
+has baseline intermittent mild dyspareunia but this is not
+changed.  She denies vaginal discharge.  She reports a 10 pound
+weight loss over the last month which she thinks might be due to
+decreased p.o. intake.  She did not does not find any particular
+foods are worse for her pain.  On review of systems, she also
+reports some easy bruising recently occurred.
+She was referred after ___ to ___ ED.  there, her vital signs
+were within normal limitsand she had only very mild pain.  She
+was given 1 L of LR.  She ate some food in the emergency room. 
+She was seen by GI who thought she most likely had autoimmune
+pancreatitis but could not rule out malignancy or IgG disease. 
+They recommended that she be followed up as an outpatient.  She
+felt quite anxious with this plan and wanted to be admitted for
+observation.
+Currently, her pain is minimal and she is interested in eating. 
+She is quite anxious about the possibility of a malignancy.
+
+Denies confusion, rash, joint pain, dysuria, oral ulcers,
+headache (other than 1 headache a week ago which is normal for
+her) ROS: positive or negative as above, otherwise negative in 
+12
+systems
+
+ 
+Past Medical History:
+Ocular toxoplasmosis, treated at ___ several years ago,
+presumably from her farm exposures in ___ was thought at that
+time
+Nephrolithiasis
+Hypothyroidism, in remission
+Anxiety
+Varicose veins, has been operated on in the past
+ 
+Social History:
+___
+Family History:
+uncle with skin cancer on his nose, otherwise no cancers
+Aunt with pacemaker at young age
+Father and grandmother with diabetes
+Paternal grandmother with chronic kidney disease, 
+no pancreatic illnesses in family
+No autoimmune processes and family
+ 
+Physical Exam:
+Vitals: ___, 97 / 66 BP, 68 HR, 18 RR, 100 RA
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  
+GI: Abdomen soft, non-distended, mildly tender to palpation. 
+Bowel sounds present.  
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities
+PSYCH: pleasant, appropriate affect
+NEUROLOGIC:
+MENTATION: alert and cooperative. Oriented to person and place
+and time.
+ 
+Pertinent Results:
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW RDWSD Plt 
+Ct 
+___ 07:47    6.0 4.59 12.9 40.1 87 28.1 32.2 12.8 40.7 
+214 
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+___ 07:47    ___ 1432 4.2 ___ 
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase 
+TotBili DirBili 
+___ 07:47    18 25 144   69   0.4   
+OTHER ENZYMES & BILIRUBINS Lipase 
+___ 12:36    68* 
+Collection Date Tests Result 
+___ 07:47    IgG Subclasses 1,2,3,4 PND 
+___ 07:47    Strongyloides Antibody,IgG PND 
+OTHER URINE CHEMISTRY UCG 
+___ 21:43    NEG1 
+
+CT A/P with contrast on ___:
+IMPRESSION:  
+  
+1.  No acute intra-abdominal or intrapelvic process to explain 
+the patient's 
+symptoms. 
+  
+2.  Incidentally noted 2.1 cm rounded, irregular hypodensity in 
+the pancreatic 
+tail, incompletely characterized on the current CT but 
+concerning for an 
+underlying pancreatic lesion.  Focal pancreatitis is also in 
+differential 
+diagnosis, however, given the focal findings on CT, underlying 
+lesion is of 
+concern.  This should be worked up further by MRCP. 
+  
+3.  The gallbladder and appendix are unremarkable. 
+  
+RECOMMENDATION(S):  Further workup of the pancreatic lesion by 
+___. 
+
+ 
+Brief Hospital Course:
+___ year old ___ lady with history of left ocular
+toxoplasmosis treated at ___ several years ago, anxiety,
+hypothyroidism (no longer requiring replacement therapy) who was
+admitted on ___ for abdominal pain found to have possible
+pancreatic inflammation and now presumed autoimmune 
+pancreatitis. CT A/P showed "Incidentally noted 2.1 cm rounded, 
+irregular hypodensity in the pancreatic 
+tail, incompletely characterized on the current CT but 
+concerning for an 
+underlying pancreatic lesion."
+
+#Presumed autoimmune pancreatitis, plan as per gastroenterology 
+team:
+"Given her young age, female gender, lack of malignant or
+suggestive personal or family history, imaging findings and
+history of thyroid disease, autoimmune pancreatitis seems most
+likely to be the etiology of her symptoms and imaging findings. 
+
+The work up this far does not rule out malignancy, however this
+is felt to be less likely at this time and further work up to
+rule this out would be more successful after empiric treatment
+for autoimmune pancreatitis.  
+
+- sent IgG4 (pending at discharge)
+- sent strongyloides antibodies (pending at discharge, would 
+treat if positive)
+- prednisone 40mg daily, with plan to follow up with Dr. ___ in GI clinic next week. Plan for follow up with Dr. 
+___ that. 
+- current plan is to start tapering steroids in ___ weeks and
+total duration to be less than ___ weeks, so will defer TB and
+hepatitis testing at this time.
+- will plan to reimage in ___ months when pancreas less inflamed 
+
+- no role for EUS at this stage due to active inflammation, will
+discuss MRCP vs EUS for repeat imaging and testing after empiric
+treatment. Timing to be determined pending response to steroids"
+
+Pain control initiated with acetaminophen prn. The patient 
+tolerated regular diet at time of discharge without any nausea 
+or vomiting or worsening pain.
+
+The total time spent on discharge planning, counseling and 
+coordination of care was 35 minutes.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Abdominal pain 
+RX *acetaminophen 325 mg One to two tablet(s) by mouth every six 
+(6) hours Disp #*30 Tablet Refills:*0 
+2.  PredniSONE 40 mg PO DAILY 
+RX *prednisone 10 mg 4 tablet(s) by mouth once daily Disp #*56 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Autoimmune pancreatitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Instructions: Dear Ms. ___, 
+
+It was a pleasure to be a part of your care team at ___ 
+___.
+
+====================================
+Why did you come to the hospital? 
+====================================
+
+-You had abdominal pain. 
+
+====================================
+What happened at the hospital? 
+====================================
+
+-You were found to have inflammation in the pancreas by imaging 
+scans taken of your abdomen. This could be due to a condition 
+called autoimmune pancreatitis. You were started on a steroid 
+medication to reduce the inflammation. 
+
+==================================================
+What needs to happen when you leave the hospital? 
+==================================================
+
+-Take your medications every day as directed by your doctors. 
+
+-Please attend all of your doctor appointments, this is 
+especially important to help with your autoimmune pancreatitis 
+condition. When the inflammation improves over the next few 
+weeks, your GI doctor may have you undergo other imaging or 
+procedure tests to make sure this diagnosis is correct.
+
+-If you notice any new skin itching, rash, worsening or new 
+abdominal pain, nausea, vomiting, diarrhea, new cough, wheezing, 
+shortness of breath then you must notify your primary care 
+physician or GI doctor's office immediately. This could 
+represent a parasite infection that is worsening due to the 
+steroid medication being started.
+
+It was a pleasure taking care of you during your stay! 
+
+Sincerely, 
+
+Your ___ team  
+
+ 
+Followup Instructions:
+___

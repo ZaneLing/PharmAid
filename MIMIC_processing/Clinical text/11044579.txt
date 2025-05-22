@@ -1,0 +1,310 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hemoptysis
+ 
+Major Surgical or Invasive Procedure:
+___ FLEX AND RIGID BRONCHOSCOPY,EBUS TBNA BX
+
+ 
+History of Present Illness:
+___ is an ___ man with significant tobacco use
+hx (former smoker) but no PMHx and on no medications, who
+initially presented to ___ for a 3-week hx of hemoptysis
+with chest pain, was found on CT to have a 10cm thoracic mass
+abutting the trachea, now transferred here for further oncologic
+workup and management.
+
+Per history obtained in the ED, pt was in USOH until 3 weeks ago
+when he started to have ___ episodes of low-volume hemoptysis 
+per
+day producing dark blood with clots.  Three days after the onset
+of his hemoptysis, he noted L posterior chest pain that he
+described as ___, non-radiating, and non-positional that
+occasionally wakes him up at night. He also endorsed L anterior
+chest pain that was less severe than the posterior chest pain. 
+He
+did not seek medical attention until this morning when he went 
+to
+the ___ for evaluation of his hemoptysis. Reports that 
+he
+decided to present today because the pain was keeping him awake
+at night, preventing him from sleeping, and he was getting 
+tired.
+A chest CT was performed that revealed a 6 x 8 x 10 cm
+left/central thoracic mass bordering his trachea but with no
+signs of trachea compression.
+
+Throughout, he has not experienced dyspnea. Patient denies
+fevers, chills, night sweats, nausea, vomiting, abdominal pain,
+changes in stool or changes in urination. Does endorse a 5 lb
+weight loss but is unclear on the time period over which this
+occurred.
+
+- In the ED, initial vitals were:
+  - T 98 HR 60 BP 112/58 RR 16 O2 98% on RA
+- Exam was notable for:
+  - Midline trachea, decreased breath sounds in mid to superior 
+    L lung posteriorly, otherwise clear to auscultation. 
+- Labs were notable for
+
+       12.2         140 |103| 11
+   7.9>----<255     -------------<98     *Hemolyzed specimen
+       40.5         6.2*| 26| 0.9
+
+  - ___ 14.9, PTT 30.9, INR 1.3
+  - ALT 13, AST 30, AP 79, TBili 0.5, Alb 3.5
+  - Lactate 1.7
+  - K: 7.5 (hemolyzed) ---> 4.5
+- Studies were notable for: 
+  - OSH CT w/ 7.6x10x6cm left central tracheal mass that is 
+    adherent to the trachea but not causing compression.
+- The patient was given:
+  - Tranexamic acid NEB 500mg Q8H
+- Consults:
+  - IP: Bronch on ___, about 1tbsp of blood every time he 
+    coughs, if massive hemoptysis overnight, have him intubated 
+    with ET tube on R side. 
+
+ 
+Past Medical History:
+No past medical history.
+ 
+Social History:
+___
+Family History:
+Parents and siblings with HTN and diabetes
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS:
+24 HR Data (last updated ___ @ 2325)
+    Temp: 99.2 (Tm 99.2), BP: 130/69 (130-142/69-71), HR: 77
+(77-85), RR: 16 (___), O2 sat: 98% (97-98), O2 delivery: RA,
+Wt: 136.46 lb/61.9 kg  
+GENERAL:     Alert and interactive. In no acute distress.
+HEENT:       PERRL, EOMI. MMM.
+CARDIAC:     RRR no m/r/g
+LUNGS:       Decreased breath sound on the left in the upper 
+             lung lobe. Otherwise CTAB no r/r/w.
+ABDOMEN:     Soft, NT, ND, +BS
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN:        Warm. No rashes.
+NEUROLOGIC:  AOx3. CN2-12 intact. Moving all 4 limbs 
+             spontaneously. 
+
+DISCHARGE PHYSICAL EXAM:
+========================
+___ Temp: 97.8BP: 127/70, HR: 74, RR: 18, O2 sat: 96%, O2 
+delivery: Ra  
+GENERAL: NAD 
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: decrease breath sounds lower lobes, no wheezes, rales, 
+rhonchi,
+breathing comfortably without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: Warm and well perfused, no excoriations or lesions, no
+rashes
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 03:58PM BLOOD WBC-7.9 RBC-4.45* Hgb-12.2* Hct-40.5 
+MCV-91 MCH-27.4 MCHC-30.1* RDW-13.1 RDWSD-43.3 Plt ___
+___ 03:58PM BLOOD Neuts-62.9 ___ Monos-11.3 Eos-4.3 
+Baso-0.8 Im ___ AbsNeut-4.99 AbsLymp-1.62 AbsMono-0.90* 
+AbsEos-0.34 AbsBaso-0.06
+___ 03:58PM BLOOD ___ PTT-30.9 ___
+___ 03:58PM BLOOD Plt ___
+___ 03:58PM BLOOD Glucose-98 UreaN-11 Creat-0.9 Na-140 
+K-6.2* Cl-103 HCO3-26 AnGap-11
+___ 03:58PM BLOOD ALT-13 AST-30 AlkPhos-79 TotBili-0.5
+___ 03:58PM BLOOD Albumin-3.5
+___ 04:00PM BLOOD Lactate-1.7 K-7.5*
+___ 06:23PM BLOOD K-4.5
+
+RELEVANT LABS:
+=============
+___ 08:00AM BLOOD WBC-6.6 RBC-4.60 Hgb-12.8* Hct-42.0 
+MCV-91 MCH-27.8 MCHC-30.5* RDW-13.0 RDWSD-42.6 Plt ___
+___ 01:30PM BLOOD WBC-8.0 RBC-4.30* Hgb-11.9* Hct-39.1* 
+MCV-91 MCH-27.7 MCHC-30.4* RDW-12.9 RDWSD-42.6 Plt ___
+___ 08:00AM BLOOD Plt ___
+___ 01:30PM BLOOD ___ PTT-29.1 ___
+___ 01:30PM BLOOD Plt ___
+___ 08:00AM BLOOD Glucose-81 UreaN-13 Creat-1.0 Na-144 
+K-5.0 Cl-102 HCO3-25 AnGap-17
+___ 08:00AM BLOOD ALT-11 AST-12 LD(LDH)-241 AlkPhos-78 
+TotBili-0.5
+___ 08:00AM BLOOD Albumin-3.7
+___ 01:30PM BLOOD Calcium-9.6 Phos-3.1 Mg-2.1
+
+RELEVANT IMAGING:
+=================
+___ Pathology Tissue: Immunophenotyping specimen
+-Pending 
+
+___ Cytology FINE NEEDLE ASPIRATION
+-Pending 
+ 
+___ Imaging CHEST (PORTABLE AP) 
+IMPRESSION:  
+There is a large left supramediastinal mass.  This is better 
+assessed on the dedicated CT scan.  The rest of the lung fields 
+are clear.  Heart size is within normal limits.  No 
+pneumothoraces are seen. 
+
+___ Imaging MR HEAD W & W/O CONTRAS 
+IMPRESSION:  
+1. No evidence of metastases. 
+2. No acute intracranial abnormality is identified. 
+
+___ Pulm/Sleep Pulmonary/Bronchoscopy 
+Impression:
+- Bronchoscopy of lung nodule
+- Lung mass
+- Airway obstruction
+
+DISCHARGE LABS:
+=================
+___ 06:36AM BLOOD WBC-8.2 RBC-4.75 Hgb-13.1* Hct-42.8 
+MCV-90 MCH-27.6 MCHC-30.6* RDW-12.9 RDWSD-42.4 Plt ___
+___ 06:36AM BLOOD Plt ___
+___ 06:36AM BLOOD D-Dimer-1566*
+___ 01:30PM BLOOD ___
+___ 06:36AM BLOOD Glucose-103* UreaN-11 Creat-1.1 Na-142 
+K-4.8 Cl-101 HCO3-27 AnGap-14
+___ 06:36AM BLOOD Calcium-9.7 Phos-2.5* Mg-2.2
+ 
+Brief Hospital Course:
+Mr. ___ is an ___ man with significant tobacco 
+use hx (former smoker) but no PMHx and on no medications, who 
+initially presented hemoptysis with chest pain, was found on CT 
+to have a 10cm lung mass, now transferred here for further 
+oncologic workup and management. Currently post-op from Bronch 
+with biopsy on ___. MRI head was done during the 
+hospitalization and he will need a PET Scan as an out patient.
+
+ACTIVE ISSUES:
+# Lung Mass
+# Chest pain
+# Hemoptysis
+Patient with three weeks of hemoptysis and similar duration of 
+left sided back pain likely secondary to thoracic mass seen on 
+CT as EKG was negative for ischemic changes. Patient was 
+transferred to ___ from OSH for oncologic work-up. Of note the 
+mass is not compressing the trachea or compromising the airway. 
+Finding are concerning for malignancy. He has been 
+hemodynamically stable. H/H has been stable during the 
+admission. Bronchoscopic biopsy was done on ___ and MRI of head 
+did not show evidence of metastasis. Patient is currently 
+asymptomatic and will require a PET Scan for staging as 
+___. He has follow up with IP on ___ to communicate 
+biopsy results and discuss next steps. 
+
+#Anemia, normocytic
+Likely ___ subacute blood loss iso hemoptysis. H/H stable during 
+hospital stay without transfusions. Discharge Hgb 13.1.
+
+#Coagulopathy
+Mildly elevated INR in a patient with no medications at home. 
+Could be related to potential malignancy. Patient also had 
+elevated D-Dimer and Fibrinogen most likely related to the 
+malignancy. Patient does not have any clinical signs of DIC and 
+Wells score is of ___ so unlikely to be a PE. He also had a CT 
+of chest with contrast at ___ which which showed no 
+thrombus. He received a vitamin K challenge while in house. Can 
+consider checking INR at ___. Discharge INR 1.3 on 
+___.
+
+Transitional issues:
+------------------
+[ ] PET scan per oncology
+[ ] Consider repeat CBC and ___ in one week to trend 
+Hemoglobin and INR
+-- Discharge Hgb 13.1
+-- Discharge INR 1.3
+
+Code status: Full code (presumed)
+Name of health care proxy: ___
+Relationship: Wife
+Phone number: ___
+
+Patient seen and examined on day of discharge. >30 minutes on 
+discharge activities. 
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Lung mass concerning for malignancy
+Former tobacco use 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+====================== 
+DISCHARGE INSTRUCTIONS 
+====================== 
+Dear Mr. ___, 
+It was a privilege caring for you at ___ 
+___. 
+
+WHY WAS I IN THE HOSPITAL? 
+- You were in the hospital because you presented to ___ for 
+a 3-week history of coughing up of blood with chest pain
+- An image of your lungs showed a 10cm Lung mass
+- You were transferred her further cancer workup.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL? 
+- At the hospital we took a look at your lung by having a camera 
+go into your lungs and took a small piece of the lung mass to 
+identify what it is. 
+- We also did other imaging (MRI) to see if the cancer had 
+spread to the brain, but we did not see any evidence of 
+metastasis.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL? 
+- You do not have any new medications
+- You have a follow up with your oncologist to talk about 
+further workup for this lung mass. The results of your biopsy 
+may be back by then. You will also discuss a PET scan (this scan 
+will look for any spread of cancer to other parts of your body). 
+You should discuss this with your oncologist at your next 
+appointment.
+- It is important for you to set up a PCP for regular ___ 
+after discharge.
+
+We wish you the best! 
+
+Sincerely, 
+Your ___ Team 
+
+ 
+Followup Instructions:
+___

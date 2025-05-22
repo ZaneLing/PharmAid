@@ -1,0 +1,296 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+propofol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leg pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is an ___
+diabetic male, recent podiatry evaluation for high risk foot
+care, remote bilateral hip arthroplasties, otherwise
+non-contributory history, hospitalized for cellulitis. Patient
+was in his usual state of health until one week ago when he
+reportedly fell while negotiating a step in his shower. He 
+denies
+injury to his right lower extremity at that time, but 
+appreciated
+onset of "burning" erythema and swelling soon thereafter, which
+then worsened, ultimately prompting him to seek care at the
+request of his daughter and sister. He was transferred from
+urgent care to our emergency department, where he arrived
+afebrile and hemodynamically stable. He reportedly had struck 
+his
+head when falling, so underwent trauma survey in the context of 
+a
+supratherapeutic INR (3.6), which did not reveal an intracranial
+hemorrhage or cervical spine injury. His exam did indeed reveal
+impressive erythema and edema of his right lower extremity, so
+proceeded with right lower extremity ultrasound, which was not
+explanatory. White blood cell count is within normal limits. He
+was observed on cephalexin and doxycycline, yet erythema failed
+to recede, so was admitted for intravenous antibiotics. He
+received two doses of vancomycin. Of note, patient underwent
+routine diabetic foot exam on ___. Grossly elongated,
+atrophic toe nails were professionally trimmed without injury at
+that time. A left-sided second callus was debrided, but no frank
+ulcerations were noted. 
+
+REVIEW OF SYSTEMS: constitutionally, he denies fevers, rigors,
+night sweats, anorexia, or recent illnesses. He otherwise feels
+entirely fine and is requesting to leave, in that regard. He
+denies trauma to his right lower extremity while falling. He
+confirms he struck his head, but denies headache, nausea,
+vomiting, cognitive slowing since. He denies cardiopulmonary,
+gastrointestinal, or new urinary symptoms, but did have a
+distressing episode of urinary incontinence on arrival, which is
+not uncommon for him. 
+
+ 
+Past Medical History:
+-Non-insulin dependent type II diabetes. 
+-Atrial fibrillation. Anticoagulated with warfarin.
+-Cardioembolic stroke in the context of a PFO with small ASD.
+-Bilateral total hip arthroplasties.
+-Lumbar spinal stenosis.
+-Hypertension.
+-Hyperlipidemia.
+-Basal cell carcinoma.
+ 
+Social History:
+___
+Family History:
+N/A
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+GENERAL: Elderly male in no apparent physical distress, but
+argumentative and emotionally distressed from urinary
+incontinence. 
+HEENT: Anicteric sclerae. Oropharynx clear.
+CV: Irregular. Regular rate. S1/S2. No murmur or gallop.
+PULM: Unlabored, lungs clear bilaterally.
+ABDOMEN: Soft, non-distended, non-tender.
+RIGHT LOWER EXTREMITY: Warmth, erythema, ___ pitting edema to
+level of superior tibia. Minor tenderness throughout. No
+crepitus. Interdigital maceration. Onychomycosis. Onycholysis. 
+No
+obvious skin trauma, plantar wound or elsewhere.
+LEFT LOWER EXTREMITY: Within normal limits. 
+NEURO: Awake, alert, attentive, conversational, oriented but
+forgetful. Otherwise non-focal.
+
+DISCHARGE PHYSICAL EXAM:
+======================
+VS: 24 HR Data (last updated ___ @ 729)
+    Temp: 97.7 (Tm 98.1), BP: 165/84 (128-176/60-89), HR: 73
+(70-84), RR: 20 (___), O2 sat: 97% (96-99), O2 delivery: Ra  
+GENERAL: Alert and in no apparent distress
+RESP: Breathing is non-labored, no accessory muscle use
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs. RLE with erythema
+decreased from mark made yesterday morning. Swelling decreased
+and no pain to palpation. Remains markedly erythematous in
+comparison to left
+SKIN: No rashes or ulcerations noted. Erythema of RLE as noted
+above
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+=============
+___ 12:20PM BLOOD WBC-8.5 RBC-3.41* Hgb-10.9* Hct-34.0* 
+MCV-100* MCH-32.0 MCHC-32.1 RDW-12.6 RDWSD-46.7* Plt ___
+___ 12:20PM BLOOD Neuts-72.8* Lymphs-13.4* Monos-8.9 
+Eos-2.9 Baso-0.6 Im ___ AbsNeut-6.18* AbsLymp-1.14* 
+AbsMono-0.76 AbsEos-0.25 AbsBaso-0.05
+___ 12:20PM BLOOD ___ PTT-38.8* ___
+___ 12:20PM BLOOD Glucose-145* UreaN-31* Creat-1.1 Na-135 
+K-5.5* Cl-97 HCO3-26 AnGap-12
+___ 04:10PM BLOOD %HbA1c-6.6* eAG-143*
+___ 01:44PM BLOOD K-4.3
+
+DISCHARGE LABS:
+==============
+___ 11:20AM BLOOD WBC-9.6 RBC-3.53* Hgb-11.3* Hct-36.1* 
+MCV-102* MCH-32.0 MCHC-31.3* RDW-12.3 RDWSD-46.8* Plt ___
+___ 12:50PM BLOOD Glucose-164* UreaN-25* Creat-1.1 Na-138 
+K-3.8 Cl-96 HCO3-29 AnGap-13
+___ 12:50PM BLOOD Calcium-9.0 Phos-3.2 Mg-2.0
+
+MICROBIOLOGY:
+============
+- BCx x2 (___): NGTD
+
+IMAGING:
+=======
+___ 2:03 ___ ___ CT C-SPINE W/O CONTRAST
+No acute fracture.
+Degenerative changes spine.
+Periodontal disease.
+
+     
+___ 2:02 ___ ___ CT HEAD W/O CONTRAST
+1. No acute intracranial abnormality.
+2. Chronic infarcts basal ganglia, right occipital lobe.
+
+    
+___ 1:30 ___ ___ CHEST (PA & LAT)
+No acute intrathoracic process.
+    
+___ 1:02 ___ ___ UNILAT LOWER EXT VEINS
+.1 No evidence of deep venous thrombosis in the right lower 
+extremity veins.
+The peroneal veins were not well visualized.
+2. Substantial subcutaneous edema in the right calf.
+ 
+Brief Hospital Course:
+___ diabetic male, recent podiatry evaluation for high 
+risk foot care, remote bilateral hip arthroplasties, otherwise 
+non-contributory history, presented after a mechanical fall with 
+an impressive non-purulent cellulitis of his right lower 
+extremity, never with features of sepsis, yet failed to recede 
+on oral antibiotics alone, prompting hospitalization for 
+intravenous antibiotics. Cellulitis promptly lessened in 
+distribution, so was safe for discharge by third hospital day 
+with plan to complete a 14-day course of antibiotics in total.
+
+#Non-purulent cellulitis, right lower extremity. While 
+cellulitis does parallel a recent mechanical fall, no trauma to 
+that limb was appreciated. Instead, suspect pedal entry in the 
+context of tinea pedis with interdigital maceration, 
+onychomycosis and onycholysis. His nails were professionally 
+trimmed in recent weeks, but no iatrogenic injury was 
+documented, nor did he have any obvious skin trauma. While 
+cellulitis was non-purulent in nature without appreciable 
+abscess formation, his first exam was impressive, and 
+demarcation had yet to recede on oral antibiotics alone, so 
+concluded intravenous antibiotics were warranted. Agreed with 
+vancomycin, in that regard, which was commenced in the emergency 
+department, and added gram negative coverage in the form of 
+ceftriaxone, given relative immunosuppression, as a diabetic. He 
+was acceptably stable from a sepsis and hemodynamics 
+perspective, so was reasonable to defer Pseudomonal coverage. 
+There was likewise no concern for a deeper infection. Cellulitis 
+markedly improved thereafter, so was safe for discharge with 
+Bactrim and cephalexin by third hospital day with plan to 
+complete a 14-day course of antibiotics in total.
+
+#Atrial fibrillation. Rate proved well controlled on home Toprol 
+XL. His
+INR, however, was supratherapeutic (4.0), and rising (4.3), so 
+held
+warfarin dose for two days, but favored 2 mg on day of discharge 
+for INR 2.7, given what is seemingly an historical cardioembolic 
+stroke in the context of a
+PFO with ASD.
+
+#Urinary incontinence. No contraindication to his home 
+tamsulosin.
+
+TRANSITIONAL ISSUES
+[]Ensure compliance with Bactrim and cephalexin for completion 
+of a 14-day course of antibiotics in total (projected end date = 
+___.
+[]Consider topical azole for probable onychomycosis. 
+[]Confirm no growth on outstanding blood cultures. 
+[]INR supratherapeutic until day of discharge, which is 2.7, so 
+received 2 mg (see warfarin worksheet). Note theoretical 
+interaction between Bactrim and warfarin. Repeat INR tomorrow 
+and amend dosing, as indicated. Anticipate lower weekly dose 
+will be in order.
+[]Formal neurocognitive evaluation might be prudent for what is 
+seemingly an unspecified dementia, though not entirely confident 
+he would be amenable to this.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Tamsulosin 0.4 mg PO QHS 
+2. Metoprolol Succinate XL 50 mg PO DAILY 
+3. Warfarin 2 mg PO 2X/WEEK (___) 
+4. Warfarin 4 mg PO 5X/WEEK (___) 
+
+ 
+Discharge Medications:
+1.  Cephalexin 500 mg PO Q6H Duration: 12 Days 
+RX *cephalexin 500 mg 1 capsule(s) by mouth every six (6) hours 
+Disp #*48 Capsule Refills:*0 
+2.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 12 Days 
+RX *sulfamethoxazole-trimethoprim [Bactrim DS] 800 mg-160 mg 1 
+tablet(s) by mouth twice a day Disp #*24 Tablet Refills:*0 
+3.  Metoprolol Succinate XL 50 mg PO DAILY  
+4.  Tamsulosin 0.4 mg PO QHS  
+5. HELD- Warfarin 2 mg PO 2X/WEEK (___)  This medication was 
+held. Do not restart Warfarin until instructed by your primary 
+provider. You have an appointment tomorrow, ___. Dr. 
+___ will discuss your dose then.
+6. HELD- Warfarin 4 mg PO 5X/WEEK (___)  This 
+medication was held. Do not restart Warfarin until instructed by 
+your primary provider. You have an appointment tomorrow, 
+___. Dr. ___ will discuss your dose then.
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+-Cellulitis, right lower extremity.
+
+SECONDARY
+-Atrial fibrillation. 
+-Urinary incontinence.
+-Hypertension.
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - short distances without assistance 
+but requires rolling walker outside of his home.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___ 
+___. You were hospitalized for an infection of your 
+right leg called cellulitis. You received antibiotics through 
+your vein and the redness and swelling improved. You never had a 
+fever and your blood pressure was normal, so it was safe for you 
+to return home. Please continue to take two antibiotics by mouth 
+for 12 (twelve) more days. It is very important that you do not 
+miss any doses. You have an appointment with your primary doctor 
+tomorrow, ___. He will evaluate your leg at that time. 
+Your INR was above goal, so your warfarin (Coumadin) was held 
+for two days. On the day of discharge, you received 2 mg for an 
+INR of 2.7. Do not take another dose this evening. Your INR will 
+be checked again tomorrow, and Dr. ___ will advise on warfarin 
+(Coumadin) dose. We wish you all the ___.
+
+Sincerely,
+Your ___ care team   
+ 
+Followup Instructions:
+___

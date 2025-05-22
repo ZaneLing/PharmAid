@@ -1,0 +1,225 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Latex / Shellfish
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with a PMH notable for asthma
+who presents with dyspnea.
+
+The patient reports that approximately 5 days ago, she developed
+cold like symptoms with fevers, chills, congestion, and frontal
+headaches. The symptoms continued until 3 days ago when she
+developed wheezing. The wheezing progressed to become shortness
+of breath 2 days ago. Mild exertion would make the dyspnea 
+worse,
+such as walking up a flight of stairs from her first floor to 
+her
+second floor of the home. She started using nebulizer treatments
+and eventually required using it hourly to get relief. As a
+result, she presented to the ED for further evaluation. She
+reports no chest pain, but does have some tightness from the
+wheezing and dyspnea. There's been no nausea, vomiting, 
+abdominal
+pain, diarrhea, or rashes. She's been admitted to the ICU before
+for asthma exacerbations but have not been intubated. She says
+cold temperature and weather changes tend to exacerbate her
+symptoms. She's had no sick exposure or new allergen exposure
+that she's aware of.
+
+In the ___ ED, she was initially treated with stacked Duonebs
+and methylprednisolone 125 mg IV x1 with some mild improvement.
+She then received supplemental magnesium. Initial duoneb
+frequency was unable to be spaced out to Q3H, and she was going
+to be admitted to the ICU. However, with further treatment, she
+improved, and was then admitted to the general medical ward.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative.
+ 
+Past Medical History:
+- asthma
+- hypothyroidism
+- obesity
+- acrochrodon
+- basal cell carcinoma
+- alopecia
+- lentegines
+- fibroids
+- anemia
+- sleep apnea
+- s/p thyroidectomy
+- s/p cesarean section
+- basal cell carcinoma excision
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/reason for
+hospitalization.
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS: ___ Temp: 98.3 PO BP: 144/84 HR: 102 RR: 18 O2
+sat: 95% O2 delivery: 3L NC
+GENERAL: Alert and in mild distress.
+EYES: Anicteric, normal conjunctivae. Pupils equally round.
+ENT: Ears and nose without visible erythema, masses, or trauma.
+Oropharynx without visible lesion, erythema or exudate.
+CV: Heart tachycardic and regular, no murmur, no S3, no S4. No
+peripheral edema.
+RESP: Lungs with diffuse expiratory wheezing and end-inspiratory
+rhonchi with poor air movement bilaterally. Breathing is
+non-labored. Speaking in full sentences.
+GI: Abdomen soft, obese habitus, non-distended, non-tender to
+palpation. Bowel sounds present. No hepatomegaly or 
+splenomegaly.
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs.
+SKIN: No rashes or ulcerations noted.
+NEURO: Face symmetric, gaze conjugate with EOMI, speech fluent.
+Sensation to light touch grossly intact throughout.
+PSYCH: Good insight and judgment. Alert and oriented. Normal
+memory. Pleasant affect.
+
+DISCHARGE EXAM:
+VS: 98.0PO 114/77 75 18 90 RA    
+GENERAL: Alert and in mild distress.
+EYES: Anicteric, normal conjunctivae. Pupils equally round.
+ENT: Ears and nose without visible erythema, masses, or trauma.
+Oropharynx without visible lesion, erythema or exudate.
+CV: Heart tachycardic and regular, no murmur, no S3, no S4. No
+peripheral edema.
+RESP: Lungs with scattered expiratory wheezing, no rhonchi with 
+moderate air movement bilaterally. Breathing is non-labored. 
+Speaking in full sentences.
+GI: Abdomen soft, obese habitus, non-distended, non-tender to
+palpation. Bowel sounds present. No hepatomegaly or 
+splenomegaly.
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs.
+SKIN: No rashes or ulcerations noted.
+NEURO: Face symmetric, gaze conjugate with EOMI, speech fluent.
+Sensation to light touch grossly intact throughout.
+PSYCH: Good insight and judgment. Alert and oriented. Normal
+memory. Pleasant affect.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 12:45AM BLOOD WBC-11.2* RBC-4.20 Hgb-12.8 Hct-39.2 
+MCV-93 MCH-30.5 MCHC-32.7 RDW-13.3 RDWSD-45.3 Plt ___
+___ 12:45AM BLOOD Glucose-167* UreaN-10 Creat-0.9 Na-140 
+K-4.8 Cl-104 HCO3-20* AnGap-16
+___ 01:01AM BLOOD Lactate-2.2*
+
+IMAGING:
+CXR ___:
+No acute intrathoracic process identified.
+
+MICROBIOLOGY:
+Urine culture ___: negative
+
+DISCHARGE LABS:
+___ 07:28AM BLOOD WBC-12.2* RBC-4.16 Hgb-12.6 Hct-39.0 
+MCV-94 MCH-30.3 MCHC-32.3 RDW-13.5 RDWSD-46.1 Plt ___
+___ 07:28AM BLOOD Glucose-86 UreaN-13 Creat-0.7 Na-142 
+K-4.0 Cl-103 HCO3-24 AnGap-15
+___ 07:28AM BLOOD Calcium-8.1* Phos-4.3 Mg-2.___ female with a PMH notable for asthma who presents 
+with dyspnea and an asthma exacerbation.
+
+ACUTE/ACTIVE PROBLEMS:
+# Acute Hypoxemic Respiratory Failure
+# Asthma Exacerbation
+# Acute Upper Respiratory Infection:  Asthma exacerbation likely 
+triggered by an upper viral respiratory illness. Initially slow 
+to improve, but now improving each day, not hypoxic and not 
+requiring supplementary oxygen.  She will receive prednisone 40 
+mg daily for five days, followed by three days on 20 mg daily, 
+as has been done with other exacerbation.  Nebulizers were given 
+during hospitalization, and patient will resume inhalers as an 
+outpatient.  Nasal saline spray and oxymetolazine were provided 
+for nasal congestion, and acetaminophen was given for sinus 
+pressure.  Patient was 91% on room air on ambulation. She will 
+follow up with her PCP after discharge to assure her respiratory 
+status is stable.  She should also see her pulmonologist after 
+discharge.
+
+CHRONIC/STABLE PROBLEMS:
+# Hypothyroidism: continued Levothyroxine Sodium 125 mcg PO/NG 
+DAILY
+
+TRANSITIONS OF CARE
+-------------------
+# Follow-up: She will follow up with her PCP after discharge to 
+assure her respiratory status is stable.  She should also see 
+her pulmonologist after discharge.
+
+# Code Status/ACP: presumed FULL CODE
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 125 mcg PO DAILY 
+2. Albuterol Inhaler ___ PUFF IH Q4H:PRN shortness of breath 
+3. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+2.  Oxymetazoline 1 SPRY NU BID:PRN congestion Duration: 3 Days 
+RX *oxymetazoline 0.05 % 1 spray IH twice a day Disp #*1 Spray 
+Refills:*0 
+3.  PredniSONE 40 mg PO DAILY 
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*7 Tablet 
+Refills:*0 
+4.  Sodium Chloride Nasal ___ SPRY NU DAILY:PRN Nasal irritation 
+ 
+5.  Albuterol Inhaler ___ PUFF IH Q4H:PRN shortness of breath  
+6.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+7.  Levothyroxine Sodium 125 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Asthma exacerbation
+Upper respiratory tract infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you during your recent 
+hospitalization.  You came to the hospital with shortness of 
+breath.  Further testing showed that you had an asthma 
+exacerbation.  You are now being discharged.
+
+It is important that you continue to take your medications as 
+prescribed and follow up with the appointments listed below.
+
+Good luck!
+
+ 
+Followup Instructions:
+___

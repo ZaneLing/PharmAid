@@ -1,0 +1,223 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Malaise and cloudy urine.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+In brief, this patient is a ___ w/ HTN, T2DM, CKD, h/o bladder 
+cancer s/p cystectomy w/ ilal conduit, and R nephrectomy c/b 
+recurrent UTIs who presented with malaise and cloudy urine.
+
+She describes 5d of fatigue, poor glucose control, and squeezing 
+discomfort in L flank. Similar discomfort to previous UTIs. 
+Denies fevers, suprapubic pain, never feels dysuria. R 
+nephrectomy for abscesses and infection. Also no cough, 
+myalgias, nausea/vomiting, sick contacts, or recent travel.
+
+In the ED AFVSS on RA. Chem 7 w/ K 5.2, BUN/Cr 34/2.0, CBC wnl, 
+UA cloudy w/ >182 WBC, ___, nitrites, many bacteria. UCx/BCx 
+pending. Given 1g CTX, 1L LR.
+
+On the floor, felt feverish and had temp 100.4, VSS on RA. 
+Received 1g CTX. FSBG 154. This morning denies fever or L flank 
+discomfort. Also denies weakness or palpitations.
+ 
+Past Medical History:
+CKD (baseline Cr 2)
+T2DM
+HTN
+HLD
+Obesity
+h/o bladder cancer s/p resection, ileal conduit
+h/o UTI w/ MDR bacteria
+
+s/p hysterectomy
+s/p tubal ligation
+s/p R nephrectomy
+ 
+Social History:
+___
+Family History:
+Father with colon cancer and diabetes. 
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+General: Obese woman, lying in bed, pleasant NAD  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Obese with well-healed scar. Soft, non-tender, bowel 
+sounds present, no rebound or guarding. Urostomy in place 
+draining slightly cloudy fluid. No CVA tenderness  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+
+DISCHARGE EXAM
+==============
+GENERAL: Alert, oriented, NAD      
+RESP: CTAB  
+CV: Regular rate, no MRG 
+ABD: +BS, soft, NTND
+BACK: No CVA tenderness
+GU: Osotomy bag w/ foley draining cloudy urine, ostomy pink, no 
+TTP at site
+EXT: WWP, no edema  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 12:20PM BLOOD Glucose-198* UreaN-34* Creat-2.0* Na-134 
+K-5.2* Cl-102 HCO3-19* AnGap-18
+___ 12:20PM BLOOD WBC-10.0 RBC-4.25 Hgb-11.4 Hct-36.8 
+MCV-87 MCH-26.8 MCHC-31.0* RDW-14.0 RDWSD-44.3 Plt ___
+___ 12:20PM BLOOD Neuts-67.2 ___ Monos-9.0 Eos-1.7 
+Baso-0.6 Im ___ AbsNeut-6.71* AbsLymp-2.13 AbsMono-0.90* 
+AbsEos-0.17 AbsBaso-0.06
+
+NOTABLE LABS
+============
+___ 12:20PM BLOOD UreaN-34* Creat-2.0* 
+___ 06:31AM BLOOD UreaN-34* Creat-2.1* 
+___ 06:00AM BLOOD UreaN-34* Creat-2.2* 
+___ 12:45PM BLOOD UreaN-34* Creat-2.3*
+
+NOTABLE MICRO
+=============
+___ URINE - STAPH AUREUS COAG +
+SENSITIVITIES: MIC expressed in MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------   =>8 R
+NITROFURANTOIN--------  <=16 S
+OXACILLIN-------------   =>4 R
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------ <=0.5 S
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ w/ HTN, T2DM, h/o bladder cancer s/p 
+cystectomy + ileal conduit, R nephrectomy, h/o recurrent MDR 
+UTIs who presents with a complicated UTI.
+
+BRIEF HOSPITAL COURSE
+=====================
+#Complicated UTI
+UA w/ many WBC, bacteria in ED. Started on empiric CTX. On 
+admission unclear if pyelonephritis. Febrile to 101.0, described 
+L flank "squeezing", but no CVA tenderness. No fevers after 24hr 
+of CTX. Vanco added based on history of infection w/ 
+Vanc-sensitive S. Aureus and Enterococcus. Urine culture grew S. 
+Aureus sensitive to doxycycline, so started for a 14-day course. 
+
+
+#Diabetes Mellitus
+Blood sugars difficult to control iso infection, ranging from 
+150s-210s even after addition of Humalog sliding scale to home 
+lantus regimen. As infection was treated, blood sugar control 
+improved on the same regimen.
+
+CHRONIC PROBLEMS
+================
+#HTN
+Fractionated home metoprolol. SBP 110s-150s during admission. 
+One episode of asymptomatic hypotension to the ___ systolic that 
+resolved with 1.5L NS.
+
+ # CODE: Full (confirmed)  
+ # CONTACT: Husband ___ ___ 
+
+TRANSITIONAL ISSUES
+===================
+[ ] Follow up with PCP ___, ensure tolerating antibiotic 
+regimen with continue improvement of symptoms
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PNEUMOcoccal 23-valent polysaccharide vaccine 0.5 ml IM NOW 
+X1 
+2. Metoprolol Succinate XL 50 mg PO DAILY 
+3. Vitamin D2 (ergocalciferol (vitamin D2)) 50,000 unit oral 
+1X/WEEK 
+4. Pravastatin 80 mg PO QPM 
+5. Glargine 43 Units Bedtime
+
+ 
+Discharge Medications:
+1. Glargine 43 Units Bedtime
+2. Pravastatin 80 mg PO QPM 
+3. Metoprolol Succinate XL 50 mg PO DAILY 
+4. Vitamin D2 (ergocalciferol (vitamin D2)) 50,000 unit oral 
+1X/WEEK 
+5. Doxycycline Hyclate 100 mg PO Q12H 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth twice a day 
+Disp #*23 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+=================
+Complicated UTI
+Acute on Chronic Kidney Disease
+Diabetes Mellitus
+
+SECONDARY DIAGNOSES
+===================
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital because several tests 
+indicated that you were having another infection of your urine. 
+You were started on Ceftriaxone (an antibiotic) to begin your 
+treatment. You had a few fevers after admission, and Vancomycin 
+(another antibiotic) was added as well based on data from your 
+previous urinary tract infections. Eventually, the results from 
+your initial urine test revealed that you were infected with a 
+bacteria called Staph Aureus that was sensitive to Doxycycline, 
+so you were started on that antibiotic. You should continue to 
+take the doxycycline until ___.
+
+Please follow-up with your primary care physician after 
+discharge. It was a pleasure taking care of you, and we wish you 
+all the best!
+
+Sincerely,
+Your ___ Team 
+ 
+Followup Instructions:
+___

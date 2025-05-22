@@ -1,0 +1,159 @@
+Name:  ___.            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: OBSTETRICS/GYNECOLOGY
+ 
+Allergies: 
+Bactrim / Aspirin / lactose / gluten / NSAIDS (Non-Steroidal 
+Anti-Inflammatory Drug)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+vaginal bleeding
+ 
+Major Surgical or Invasive Procedure:
+exam under anesthesia
+
+ 
+Physical Exam:
+PHYSICAL EXAM AT DISCHARGE
+==========================
+Vitals
+24 HR Data (last updated ___ @ 434)
+    Temp: 97.9 (Tm 97.9), BP: 109/66 (109-128/66-84), HR: 72
+(72-75), RR: 18, O2 sat: 99% (99-100), O2 delivery: ra
+
+Fluid Balance (last updated ___ @ 607)
+  Last 8 hours  Total cumulative 53ml
+    IN: Total 878ml, PO Amt 360ml, IV Amt Infused 518ml
+    OUT:  Total 825ml, Urine Amt 825ml
+  Last 24 hours  Total cumulative 53ml
+    IN: Total 878ml, PO Amt 360ml, IV Amt Infused 518ml
+    OUT:  Total 825ml, Urine Amt 825ml
+
+General: NAD, A&Ox3
+CV: RRR, no m/r/g
+RESP: CTAB, no respiratory distress, normal work of breathing
+Abd: soft, non-tender, no rebound or guarding
+GU: scant spotting
+Extremities: no calf tenderness, wwp, pboots on and active
+bilaterally
+ 
+Pertinent Results:
+___ 08:21PM   PLT COUNT-267
+___ 08:21PM   WBC-9.4 RBC-3.94 HGB-11.7 HCT-36.6 MCV-93 
+MCH-29.7 MCHC-32.0 RDW-12.9 RDWSD-43.8
+___ 09:36PM   ___ PTT-44.3* ___
+___ 10:22PM   XI-32*
+___ 10:22PM   ___ PTT-41.1* ___
+ 
+Brief Hospital Course:
+Ms. ___ has a known history of factor XI deficiency, and had 
+previously undergone a cervical LEEP on ___. On ___ 
+she presented with vaginal bleeding and was found to be bleeding 
+from the LEEP bed. She was admitted to the GYN service after 
+undergoing an exam under anesthesia for vaginal bleeding. Please 
+see OMR for complete details. Immediately postoperatively, her 
+pain was controlled with Tylenol and Dilaudid, NSAIDs were held 
+given factor XI deficiency.  Her diet was advanced without 
+difficulty, and she was voiding urine without complication.  She 
+remained hemodynamically stable.
+
+She was continued on levothyroxine for hypothyroidism, for GERD 
+she was continued on omeprazole, for migraines she was continued 
+on topiramate. 
+
+On postop day 1, she was observed over several hours and her 
+vaginal bleeding was  scant.  She was discharged in stable 
+condition with outpatient follow-up scheduled.
+
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Patient is NPO or unable to 
+tolerate PO
+RX *acetaminophen [Acetaminophen Pain Relief] 500 mg ___ 
+tablet(s) by mouth every 6 hours as needed Disp #*50 Tablet 
+Refills:*1 
+2.  Ascorbic Acid ___ mg PO BID 
+take along with iron supplement 
+RX *ascorbic acid (vitamin C) 500 mg 1 tablet(s) by mouth twice 
+per day Disp #*60 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice per day 
+Disp #*30 Capsule Refills:*1 
+4.  Ferrous Sulfate 325 mg PO BID 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+twice per day Disp #*60 Tablet Refills:*0 
+5.  Citalopram 40 mg PO DAILY  
+6.  Diazepam 5 mg PO DAILY  
+7.  Levothyroxine Sodium 112 mcg PO DAILY  
+8.  Omeprazole 40 mg PO BID  
+9.  Topiramate (Topamax) 200 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+vaginal bleeding
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___:
+
+You were admitted to the gynecology service after your 
+procedure. You have recovered well and the team believes you are 
+ready to be discharged home. Please call Dr. ___ office 
+with any questions or concerns. Please follow the instructions 
+below.
+
+General instructions:
+* Take your medications as prescribed.
+* Do not drive while taking narcotics.
+* Take a stool softener such as colace while taking narcotics to 
+prevent constipation.
+* Do not combine narcotic and sedative medications or alcohol.
+* Do not take more than 4000mg acetaminophen (APAP) in 24 hrs.
+* No strenuous activity until your post-op appointment.
+* You may eat a regular diet.
+* You may walk up and down stairs.
+
+Call your doctor for:
+* fever > 100.4F
+* severe abdominal pain
+* difficulty urinating
+* vaginal bleeding requiring >1 pad/hr
+* abnormal vaginal discharge
+* nausea/vomiting where you are unable to keep down fluids/food 
+or your medication
+
+Constipation:
+* Drink ___ liters of water every day.
+* Incorporate 20 to 35 grams of fiber into your daily diet to 
+maintain normal bowel function. Examples of high fiber foods 
+include:
+Whole grain breads, Bran cereal, Prune juice, Fresh fruits and 
+vegetables, Dried fruits such as dried apricots and prunes, 
+Legumes, Nuts/seeds. 
+* Take Colace stool softener ___ times daily.
+* Use Dulcolax suppository daily as needed.
+* Take Miralax laxative powder daily as needed. 
+* Stop constipation medications if you are having loose stools 
+or diarrhea.
+To reach medical records to get the records from this 
+hospitalization sent to your doctor at home, call ___.
+
+ 
+Followup Instructions:
+___

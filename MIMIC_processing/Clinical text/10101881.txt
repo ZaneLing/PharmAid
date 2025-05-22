@@ -1,0 +1,282 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Urinary retention
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with past medical history of BPH,
+T2DM, lumbar stenosis who presents as a visit from ___ urgent
+care clinic after having difficulty urinating over last 48 hours
+and found to have urinary retention s/p foley placement. 
+
+At baseline, patient has LUTS with nocturia ___ times a night as
+well a slightly weakened urinary stream. On ___, he
+awoke and was having significant difficulty urinating. He denies
+taking any new medications prior but did attend a ___
+service the night prior and had several alcoholic beverages. 
+Over
+the next ___ hours, he had increasing difficulty urinating to the
+point where he was unable to void at all. He then presented to
+___ urgent care and a foley catheter was placed but without
+urine flow. Due to concern for continued obstruction, he was
+referred to ED for further evaluation.
+
+Of note, patient has a history of urinary retention due to
+underlying BPH and has needed foley catheter at least two times
+in the past. He states he has not needed one in at least a few
+years and follows annually with Urology at ___. He is on both
+Tamsulosin and finasteride and per last urology note, symptoms
+have been stable. 
+
+In the ED:
+- Initial vital signs were notable for:
+T 97.0 HR 78 BP 154/94 RR 16 SpO2 97% RA
+
+- Labs were notable for:
+BMP: Na 143, K 4.5, Cl 103, HCO3 19, BUN 47, Cr 4.8
+CBC: WBC 9.6, Hgb 13.3, plt 164
+UA: RBC >182, WBC 12, Bact none
+
+- Studies performed include:
+Bladder scan: 995cc
+Renal US:
+-Trace perinephric fluid bilaterally, without evidence of stones
+or
+hydronephrosis.
+-Prostatomegaly with a volume of 173 cc.
+
+- Consults:
+Renal:
+  - Continue Foley
+  - Consult urology
+  - Renal and bladder ultrasound
+  - Monitor urine output closely
+  - Continue tamsulosin and finasteride
+
+Vitals on transfer:
+T 98.6 HR 69 BP 157/83 RR 16 SpO2 95% RA
+
+Upon arrival to the floor, patient states his abdominal
+discomfort has improved after foley placement. He confirms the
+above history and has not additional complaints. He denies any
+pain at the catheter site. He is wondering how long he needs to
+stay in the hospital as he has a planned vacation to ___ 
+with
+flight leaving 8AM ___ and is wondering if he can make it. 
+
+REVIEW OF SYSTEMS: Complete ROS obtained and is otherwise
+negative.
+
+ 
+Past Medical History:
+- BPH with history of urinary retention in past (sees Dr. ___ in
+At___ ___
+- Lumbar stenosis without neurogenic claudication
+- Type 2 DM 
+- Obesity
+- Diverticulosis
+- Elevated PSA 
+   - ___ - PBx - vol 133.73 - path negative for 
+malignancy,
+but with acute and chronic inflammation. 
+   - f/u path of PBx ___ PSA 6.9 - vol 94.2gm - path benign
+   - Negative prostate MRI at ___ in ___. 
+
+ 
+Social History:
+___
+Family History:
+No family history of bladder or prostate cancer. Otherwise
+reviewed and non-contributory.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: ___ 2356 Temp: 97.9 PO BP: 136/72 L Lying HR: 68 
+RR:
+18 O2 sat: 94% O2 delivery: Ra FSBG: 92 
+GENERAL: Alert and interactive. In no acute distress.
+EYES: NCAT. PERRL, EOMI. Sclera anicteric and without injection. 
+
+ENT: MMM. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+RECTAL: Normal rectal tone. Enlarged prostate with smooth
+borders. No nodules palpated.
+MSK: No CVA tenderness. No clubbing, cyanosis, or edema. 
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal. AOx3.
+PSYCH: appropriate mood and affect
+
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 1659)
+Temp: 99.1 (Tm 99.1), BP: 132/81 (132-139/72-87), HR: 65 
+(65-86), RR: 18 (___), O2 sat: 95% (91-95), O2 delivery: Ra, 
+Wt: 192.1 lb/87.14 kg
+GENERAL: Continues alert and interactive. In no acute distress.
+EYES: NCAT. EOMI. Sclera anicteric and without injection. 
+ENT: MMM. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+GU: Foley in place without trauma or bleeding around meatus
+MSK: No CVA tenderness. No clubbing, cyanosis, or edema. 
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal. AOx3.
+PSYCH: appropriate mood and affect
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:00PM BLOOD WBC-9.6 RBC-4.32* Hgb-13.3* Hct-36.1* 
+MCV-84 MCH-30.8 MCHC-36.8 RDW-14.1 RDWSD-43.0 Plt ___
+___ 07:00PM BLOOD Neuts-81.7* Lymphs-10.7* Monos-7.2 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-7.86* AbsLymp-1.03* 
+AbsMono-0.69 AbsEos-0.00* AbsBaso-0.01
+___ 07:00PM BLOOD Glucose-122* UreaN-47* Creat-4.8*# Na-143 
+K-4.5 Cl-103 HCO3-19* AnGap-21*
+
+DISCHARGE LABS
+___ 07:42AM BLOOD Glucose-126* UreaN-29* Creat-1.5*# Na-145 
+K-4.1 Cl-107 HCO3-25 AnGap-13
+___ 03:35PM BLOOD Glucose-99 UreaN-22* Creat-1.3* Na-146 
+K-4.1 Cl-107 HCO3-26 AnGap-13
+___ 07:42AM BLOOD WBC-8.0 RBC-4.27* Hgb-13.3* Hct-36.0* 
+MCV-84 MCH-31.1 MCHC-36.9 RDW-14.2 RDWSD-43.1 Plt ___
+___ 07:42AM BLOOD Calcium-8.9 Phos-2.4* Mg-2.2
+___ 03:35PM BLOOD Calcium-8.8 Phos-2.6* Mg-2.2
+
+IMAGING AND STUDIES
+___ RENAL US
+Impression:
+1. Trace perinephric fluid bilaterally, more conspicuous on the 
+right, without 
+sonographic evidence of stones or hydronephrosis. 
+2. Prostatomegaly with a volume of 173 cc. 
+
+MICROBIOLOGY
+___ 6:45 pm URINE; URINE CULTURE (Pending)
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT
+=================
+Mr. ___ is a ___ year old man with past medical history of BPH, 
+T2DM, lumbar stenosis who presents as a visit from ___ 
+___ after having difficulty urinating over last 48 hours 
+and found to have urinary retention s/p foley placement.
+
+TRANSITIONAL ISSUES
+===================
+[] follow up with urologist Dr. ___ within 7 days after 
+discharge
+[] repeat chemistry panel outpatient mainly to assess for 
+resolution of acute kidney injury with BUN and Cr levels
+
+ACUTE ISSUES
+============
+#Urinary retention
+#Post-obstructive acute kidney injury
+Patient w/hx of BPH and past episodes of urinary retention 
+requiring foley catheterization, presented for 2 days of urinary 
+retention, foley introduced in ED with 1.6L of output. Renal US 
+without evidence of hydronephrosis. Suspect that his urinary 
+retention was due to post-obstructive process, particularly in 
+light of his BPH. He was found to have ___ which was rapidly 
+resolving post foley placement. He was deemed appropriate for 
+discharge with continuation of foley per urology and nephrology 
+services. 
+
+CHRONIC ISSUES
+==============
+# T2DM
+Kept on ISS during the short time he was admitted.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 40 mg PO QPM 
+2. Tamsulosin 0.4 mg PO QHS 
+3. Finasteride 5 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 40 mg PO QPM  
+2.  Finasteride 5 mg PO DAILY  
+3.  Multivitamins 1 TAB PO DAILY  
+4.  Tamsulosin 0.4 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Acute urinary retention secondary to prostate enlargement
+
+SECONDARY DIAGNOSIS
+===================
+Post-obstructive acute kidney injury
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You had urinary retention that required a catheter insertion. 
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You had a Foley catheter inserted and watched for recovery of 
+your kidney function due to the 2-day urinary obstruction.
+- You were seen by the general medicine service along nephrology 
+service and the urology service for your condition.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Please continue to take all of your medications as directed
+- Please follow up with all the appointments scheduled with your 
+doctor
+
+___ you for allowing us to be involved in your care, we wish 
+you all the best!  
+Your ___ Healthcare Team  
+ 
+Followup Instructions:
+___

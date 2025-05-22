@@ -1,0 +1,298 @@
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+EBUS ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo AAF with PMH Sickle Cell Disease 
+HB-C, depression, htn presented to ___ on ___ with 
+2 months worsening cough, dyspnea that worsened to shortness of 
+air at rest with findings concerning for BUL pneumonia. 
+
+Mr. ___ has not been hospitalized or received 
+antibiotics in the last several years. She denies chest pain, 
+only discomfort with cough. Lives at home with her 2 sons and 
+denies exposure to sick contacts or risk factors for TB. No 
+recent travel outside of ___, tick bites, mosquito bites. Denies 
+night sweats, fevers, weight loss, or hemoptysis/sputum 
+production. + dry cough that has been worsening in the last few 
+years. CXR in ED positive for RUL pneumonia bilaterally. 
+Interestingly, pt has a h/o abnormal CT chest in ___ that had 
+bilateral upper lobe "mass like" lesions and extensive LAD that 
+pt never followed up with pulmonary or had repeat imaging. This 
+was done due to fatigue and dyspnea as well. 
+
+Denies joint pains, rashes, sores in mouth or new lesions.
+
+H/o sick cell disease trait HBC. Has never had a crisis or 
+issues with sickle cell disease. Sister had full SS and is 
+deceased. H/H has been stable for several years with qyearly 
+checks ___ with 12.1/37.6 --> dropped to 7.8/22.8 ___ and 
+now 7.2/21.9 in emergency department. Denies hematochezia, 
+melena, hemoptysis, dysuria or any source of bleeding. Has 
+isolated H/H drop. No LFTs drawn in ED. Denies abdominal pain.  
+ 
+
+Review of systems:  
+(+) fatigue, dry cough, dyspnea on exertion, orthopnea
+(-) Denies ___ edema, rash, joint pains, dysuria, hematuria, 
+hematochezia, melena, abdominal pain, chest pain, confusion, 
+night sweats, weight loss abdominal pain
+10 pt ROS otherwise neg
+
+ 
+Past Medical History:
+SS - HB-C trait
+Depression d/o
+htn
+domestic abuse survivor
+
+PAST SURGICAL HISTORY:  
+2x c/s
+
+ 
+Social History:
+___
+Family History:
+mGM with breast CA, T2DM in family, no h/o autoimmune disease
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+Vitals: T 97.9 BP 144 / 87 HR 83 RR 18 O2 sat 95 RA  
+Gen: NAD, resting
+Eyes: EOMI, no scleral icterus
+HENT: NCAT, trachea midline
+CV: RRR, S1-S2,, loud holosystolic ___ murmur heard best at ___ 
+with radiation to apex no edema, 2+ ___ BLE, did not 
+appreciate JVD
+Lungs: mild ronchi at upper lobes did not appreciate at bases
+GI: +BS, soft, NTTP, ND
+GU: No foley
+MSK: ___ strength bilaterally, intact ROM
+Neuro: Moving all extremities, no focal deficits, A+Ox3
+Skin: No rash or ecchymosis
+Psych: Congruent affect, good judgment
+
+DISCHARGE PHYSICAL EXAM:
+Vitals: 97.9PO  119 / 83 ___
+Gen: NAD, resting
+Eyes: EOMI, no scleral icterus
+HENT: NCAT, trachea midline
+CV: RRR, S1-S2,, loud holosystolic ___ murmur heard best at ___
+with radiation to apex no edema, 2+ ___ BLE, did not 
+appreciate
+JVD
+Lungs: mild ronchi at upper lobes did not appreciate at bases
+GI: +BS, soft, NTTP, ND
+GU: No foley
+MSK: ___ strength bilaterally, intact ROM
+Neuro: Moving all extremities, no focal deficits, A+Ox3
+Skin: No rash or ecchymosis
+Psych: Congruent affect, good judgment 
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+___
+Na 141, Cl 103, K 3.1, HCO3 24, BUN 10, Cr 0.9, Gluc 87
+Trop <0.01
+Lactate 2.9
+WBC 4.3, Hgb 7.2, Hct 21.9, Plt 242
+BNP 910
+
+Atrius ___ H/H 7.8/22.8
+___ H/H 12.1/37.6
+
+IMAGING
+-------
+CT chest ___:
+IMPRESSION: 
+1. Given the reported chronicity of at least ___ years, 
+mediastinal and axillary lymphadenopathy and upper lobe 
+predominant fibrosis are most likely related to sarcoidosis with 
+resulting pulmonary hypertension as evidenced by marked 
+enlargement of the pulmonary arteries and right ventricle.  The 
+interlobular septal thickening, scattered ground-glass 
+attenuation, and small pleural effusions probably reflect heart 
+failure related to pulmonary hypertension.  For confirmation 
+that the adenopathy is related to sarcoidosis, 
+recommend ACE serology and/or axillary lymph node biopsy. 
+2. A 2.4 x 1.5 cm heterogeneously enhancing nodule abutting the 
+peritoneum and anterior wall of the stomach will be further 
+described on the dedicated abdominal CT, though differential 
+considerations include an enlarged gastroepiploic lymph node or 
+exophytic lesion such as a gist. 
+  
+RECOMMENDATION(S):  Given the reported chronicity of at least ___ 
+years, mediastinal and axillary lymphadenopathy and upper lobe 
+predominant fibrosis are most likely related to sarcoidosis with 
+resulting pulmonary hypertension as evidenced by marked 
+enlargement of the pulmonary arteries and right ventricle.  The 
+interlobular septal thickening, scattered ground-glass 
+attenuation, and small pleural effusions probably reflect heart 
+failure related to pulmonary hypertension.  For confirmation 
+that the adenopathy is related to sarcoidosis, recommend ACE 
+serology and/or axillary lymph node biopsy. 
+
+CT A/P ___:
+1. Mesenteric, retroperitoneal, pelvic, and inguinal 
+lymphadenopathy measuring up to 1.7 cm at the level of the iliac 
+bifurcation.  This is compatible with suspected sarcoidosis as 
+described on the recent chest CT.  if biopsy is desired, the 
+axillary nodes are the best target.  Please see the separate 
+chest CT dictation regarding intrathoracic findings. 
+2. Exophytic nodular lesion along the anterior gastric antrum 
+that measures 2.1 cm.  This could represent a gastroepiploic 
+lymph node versus an exophytic gastric lesion such as GIST, or 
+exophytic hepatic lesion such as a hemangioma. If sampling is 
+desired, endoscopic approach could be considered.  Attention on 
+follow-up imaging is recommended. 
+3. Small hiatal hernia. 
+
+___ CT chest with contrast
+1.  MEDIASTINAL AND BILATERAL HILAR
+     ADENOPATHY. LYMPH NODES IN EACH
+     AXILLA ARE SUBCENTIMETER AND NOT
+     SIGNIFICANT BY SIZE. 
+
+ 2.  MULTIFOCAL MASS-LIKE ALVEOLAR
+     DENSITIES IN THE LUNGS.  THE MOST
+     CONFLUENT DENSITY IS PLEURAL BASED,
+     IN THE LATERAL ASPECT OF THE RIGHT
+     UPPER LOBE.  POSSIBLE ETIOLOGIES 
+     DEPEND ON THE CHRONICITY OF THE 
+     FINDINGS.  IF ACUTE, BILATERAL PNEUMONIA
+     IS A POSSIBILITY.  IF CHRONIC, POSSIBLE
+     ETIOLOGIES INCLUDE LYMPHOMA,
+     SARCOIDOSIS, TB, BRONCHOALVEOLAR
+     CARCINOMA OR METASTATIC DISEASE. 
+ 
+STUDIES:  
+___ CXR reviewed by  me as well
+ Multifocal parenchymal opacities in the lungs, right greater 
+than left.  Findings may represent a multifocal potentially 
+atypical infection versus chronic underlying interstitial 
+abnormality.  Followup will be necessary. 
+
+___
+QTc 502, qwaves I,AVL nonsig q waves, no ST/TW changes, NSR
+
+ 
+Brief Hospital Course:
+___ year old female with history of sickle cell disease HB-C, 
+depression, hypertension presented to ___ on ___ 
+with two months of worsening cough, dyspnea, as well as 
+lymphadenopathy and pulmonary infiltrates that worsened to 
+shortness of breath at rest.
+
+# Dyspnea
+# Mediastinal/hilar lymphadenopathy
+# Likely pneumonia: very broad differentia for LAD.  Patient 
+presented with only dyspnea with dry cough and bilateral upper 
+lobe findings. Symptoms have been present for two months with 
+fatigue, orthopnea but no other signs of heart failure on exam 
+(BNP 900s). Has a CT from ___ in ___ records that showed 
+similar upper lobe lesions with "mass like" details and 
+extensive hilar/mediastinal LAD that makes sarcoidosis or 
+lymphoma in the differential.  Denies joint pains or rash/skin 
+lesions. No h/o autoimmune disease.  Patient has new 
+infiltrates, anemia with concern for hemolysis (pending labs) 
+and sickle cell trait so acute chest was a possibility but seems 
+unlikely in this disorder without ever having a sickling crisis 
+prior and no chest pain.  Patient has not had any recent risk 
+factors for TB - was in a shelter ___ years ago and does not 
+have night sweats, weight loss, hemoptysis or any other 
+concerning finding for TB, but thought to be less likely, 
+Quantiferon gold pending.  CT chest findings, similar to ___ 
+results, most consistent with sarcoidosis.  She was initially 
+started on empiric antibiotics, stopped when determined that 
+infection less likely.  Interventional Pulmonary was consulted, 
+and EBUS and biopsy was performed on ___, pathology pending on 
+discharge.  Pulmonary was consulted and recommended further 
+work-up for possible sarcoidosis, arranging outpatient f/u.  Pt 
+was sat'ing high 90's on RA on discharge.
+
+#  Anemia - FOBT negative in ED and no melena/hematochezia.  
+Baseline H/H ___ in ___.  Hemoglobin dropping, requiring 1 
+unit PRBC transfusion on admission.  No evidence of hemolysis 
+suggesting sickling crisis.  Mycoplasma PCR sent and pending.  
+Occult blood testing negative.
+
+# Holosystolic murmur
+# Pulmonary hypertension: denied murmur in past, ___ likely due 
+to anemia with radiation to apex.  TTE with poor image quality, 
+but evidence of pulmonary hypertension on CT chest and elevated 
+PASP on TTE.  Will need Pulmonary f/u on discharge.
+
+# Essential Hypertension - controlled.  Lisinopril was switched 
+out for losartan due to chronic cough, and HCTZ was continued.
+
+Greater than 30 minutes spent on discharge counseling and 
+coordination of care
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 40 mg PO DAILY 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. TraZODone 150 mg PO QHS:PRN insomnia 
+4. Sertraline 200 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Losartan Potassium 50 mg PO DAILY 
+RX *losartan [Cozaar] 50 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*2 
+2.  Hydrochlorothiazide 25 mg PO DAILY  
+3.  Sertraline 200 mg PO DAILY  
+4.  TraZODone 150 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Mediastinal Lymphadenopathy
+Cough
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to care for you during your recent admission 
+to ___.  You came for further evaluation of cough and 
+shortness of breath.  Further evaluation showed that you had 
+several enlarged lymph nodes that have been persistent for a 
+while.  You had a biopsy of these lymph nodes and the pathology 
+is still pending.  You will get called with these results.
+
+It was a pleasure taking care of you at ___
+
+It is important that you continue to take your medications as 
+prescribed and follow up with your appointments as listed below.
+
+Good luck!
+ 
+Followup Instructions:
+___

@@ -1,0 +1,334 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Sulfa (Sulfonamide Antibiotics) / Keflex / 
+Percocet / Codeine / Seasonal / Pet Dander / house dust / 
+Levaquin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest Pain, palpitations
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ woman with H/O hypothyroidism, asthma, osteoporosis, 
+hyperlipidemia, and anxiety who presents with palpitations and 
+chest pressure.
+
+Patient initially presented to ___ Urgent Care with 
+chest pressure for 1 day and palpitations. This was associated 
+with nausea, diarrhea, and flushing. The sensation started 
+overnight, resolved after a night's sleep, but recurred while at 
+work during the day. Chest pressure described as heaviness 
+without radiation, not associated with dyspnea. She denied lower 
+extremity edema. Patient was given ASA 324 mg and referred to 
+___ ED for further evaluation.
+
+In the ED, initial VS were: R 98.1 HR 100 BP ___ RR 18 SaO2 
+100% on RA. Exam notable for chronic left eye drift with 
+incomplete abduction. Labs showed: troponin-T <0.01 x2, D-dimer 
+184, lactate 1.6. Patient received: nitroglycerin 0.3 mg SL, KCl 
+20 mEq, NS 500 ml IV. Patient initially admitted to ED 
+observation, then developed recurrent chest pain at 1:30AM, 
+improved with SL nitroglycerin x1 with improvement in ST 
+depression on ECG. She was subsequently admitted to ___ for 
+further management. She was given Mg SO4 4 gm IV 
+prophylactically for incidentally noted long QTc on ECG. 
+Transfer VS were: HR 113 BP 127/86 RR 16 SaO2 99% on RA.
+
+On arrival to the cardiology ward, patient reported improvement 
+in chest pain from ___ in the ED to ___. She denied associated 
+dyspnea. She reported feeling generally unwell for the past few 
+months related to a concussion and has noticed increased fatigue 
+over the past week. She denied palpitations currently.
+ 
+Past Medical History:
+- Allergic Rhinitis
+- Asthma
+- Hypothyroidism
+- Osteoporosis 
+- Anxiety 
+- Hyperlipidemia
+- H/O tremor (improved) 
+- H/O Zoster complicated by corneal defects, cataracts
+ 
+Social History:
+___
+Family History:
+- Father with CAD, bipolar disorder, gout
+- Aunt with breast cancer
+- Aunt with ovarian cancer, lung cancer
+- Daughter with neurofibromatosis
+ 
+Physical Exam:
+On admission
+GENERAL: Middle aged white woman in NAD
+VS: T 98.1 BP 145/84 HR 81 RR 17 SaO2 99% on RA
+HEENT: Mucous membranes moist
+NECK: no JVD
+HEART: RRR, S1/S2; no murmurs, gallops, or rubs
+LUNGS: CTAB--no wheezes, rales, rhonchi
+ABDOMEN: soft, non-tender, not distended, normal active bowel 
+sounds
+EXTREMITIES: no edema, warm and well perfused
+PULSES: 2+ DP pulses
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: no rashes
+
+At discharge
+GENERAL: in NAD
+___ 0730 Temp: 98.6 PO BP: 100/66 HR: 85 RR: 20 O2 sat: 98% 
+O2 delivery: RA 
+HEENT: Mucous membranes moist
+NECK: no JVD
+HEART: RRR, S1/S2; no murmurs, gallops, or rubs
+LUNGS: CTAB--no wheezes, rales, rhonchi
+ABDOMEN: soft, non-tender, not distended, normal active bowel 
+sounds
+EXTREMITIES: no edema, warm and well perfused
+PULSES: 2+ DP pulses 
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: no rashes
+ 
+Pertinent Results:
+___ 07:15PM BLOOD WBC-7.8 RBC-4.57 Hgb-13.3 Hct-39.2 MCV-86 
+MCH-29.1 MCHC-33.9 RDW-12.8 RDWSD-39.4 Plt ___
+___ 07:15PM BLOOD Neuts-65.4 ___ Monos-8.0 Eos-3.1 
+Baso-0.9 Im ___ AbsNeut-5.13 AbsLymp-1.74 AbsMono-0.63 
+AbsEos-0.24 AbsBaso-0.07
+___ 07:15PM BLOOD ___ PTT-31.4 ___
+
+___ 07:15PM BLOOD Glucose-116* UreaN-16 Creat-0.7 Na-139 
+K-3.8 Cl-99 HCO3-22 AnGap-18
+___ 07:15PM BLOOD Calcium-10.1 Phos-2.0* Mg-2.1
+
+___ 07:15PM BLOOD cTropnT-<0.01
+___ 01:08AM BLOOD cTropnT-<0.01
+
+___ 01:07AM BLOOD D-Dimer-184
+___ 01:07AM BLOOD TSH-1.4
+___ 01:11AM BLOOD Lactate-1.6
+
+CXR ___
+No pneumothorax or pleural effusion. The heart size is within 
+normal limits. The lungs are clear.
+IMPRESSION: No acute cardiopulmonary abnormality.
+
+Exercise echocardiographic stress test ___
+This ___ year old woman was referred to the lab for evaluation of 
+chest discomfort. She exercised for 10.5 minutes on modified 
+___ protocol and stopped for fatigue. The peak estimated MET 
+capacity is 8.7, which represents a good exercise tolerance for 
+her age. At 8.5 minutes during exercise the patient reported an 
+intermittent non-progressive ___ central chest discomfort, 
+which resolved by 3 minutes post-exercise. No other chest, arm, 
+neck or back discomfort reported. No significant ST segment 
+changes noticed. Rhythm was sinus with no ectopy. Appropriate 
+hemodynamic response to exercise and recovery.
+IMPRESSION: Atypical/non-anginal symptoms in the absence of 
+ischemic EKG changes to the achieved workload. Good functional 
+capacity.
+IMAGIG: Resting images were acquired at a heart rate of 103 bpm 
+and a blood pressure of 128/86 mmHg. These demonstrated normal 
+regional and global left ventricular systolic function. Right 
+ventricular free wall motion is normal. There is no pericardial 
+effusion. Doppler demonstrated no aortic stenosis, aortic 
+regurgitation or significant mitral regurgitation or resting 
+LVOT gradient.
+  Echo images were acquired within 83 seconds after peak stress 
+at heart rates of 131-113 bpm. These demonstrated appropriate 
+augmentation of all left ventricular segments. There was 
+augmentation of right ventricular free wall motion. 
+IMPRESSION: Good functional exercise capacity for age and 
+gender. No ECG or 2D echocardiographic evidence of inducible 
+ischemia to achieved workload. Normal hemodynamic response to 
+exercise. 
+
+DISCHARGE LABS
+___ 06:15AM BLOOD WBC-9.0 RBC-4.33 Hgb-12.6 Hct-37.4 MCV-86 
+MCH-29.1 MCHC-33.7 RDW-13.0 RDWSD-40.8 Plt ___
+___ 06:15AM BLOOD Glucose-92 UreaN-12 Creat-0.6 Na-142 
+K-5.3 Cl-104 HCO3-22 AnGap-16
+___ 06:15AM BLOOD Calcium-9.0 Phos-3.6 Mg-3.3*
+ 
+Brief Hospital Course:
+___ yo woman with H/O hypothyroidism, asthma, osteoporosis, 
+hyperlipidemia and anxiety who presents with palpitations and 
+chest pressure. Initial concern for biomarker negative unstable 
+angina given EKG changes but stress echocardiogram without 
+inducible wall motion abnormalities or other objective evidence 
+of ischemia.
+
+# Cheat pain: With chest pain over the past 2 days associated 
+with shortness of breath, palpitations, wheezing, nausea, 
+flushing, and diarrhea, constellation seemingly associated with 
+a serotonin surge (toxin/GI related response to dinner?). She 
+was reported to have ST elevation in aVR and ST depressions in 
+V4-6 in the evening, which improved after patient given SL 
+nitroglycerin. Troponin-T negative x2. Concerning for ischemic 
+disease although has not had exertional symptoms otherwise. 
+Stress echocardiogram to ___ METs with no inducible wall motion 
+abnormalities or ischemic ECG changes and chest discomfort felt 
+atypical for ischemia. She was continued on aspirin 81 mg daily, 
+atorvastatin 40 mg qhs, and metoprolol succinate 25 mg daily on 
+discharge for empiric CAD therapy given dynamic ECG changes 
+reported.
+
+# Palpitations: Unclear etiology. Mild sinus tachycardia during 
+ED stay, no other arrhythmia noted. TSH WNL. No anemia. There 
+may be a component of anxiety. Also noted symptoms consistent 
+with possible serotonin surge vs. vagal response after eating 
+shrimp including palpitations, flushing, nausea, diarrhea. No 
+events on telemetry but did have prolonged QTc on EKG (511). 
+Discharged with ___ of ___ monitor to monitor for events.
+
+# Hypothyroidism on repletion: TSH within normal limits. 
+Continued home levothyroxine.
+
+# Asthma: Intermittent symptoms, reports only in the setting of 
+URI. Held home mometasone-formoterol BID (takes PRN) and 
+continued albuterol inhaler PRN.
+
+# Seasonal allergies: Held home azelastine nasal spray and home 
+olopatadine nasal spray.
+
+# Osteoporosis: Receives denosumab q6 months. Continued home 
+vitamin D. Held home calcium supplements.
+
+# H/O fall: Fell in ___, mechanical in nature, without loss 
+of consciousness. She had been referred to concussion clinic, 
+diagnosed with head injury rather than brain injury or 
+concussion given constellation of symptoms and absence of 
+post-traumatic amnesia. Cognitive issues reported felt to be 
+related to pain and lack of sleep at the time. Dizziness thought 
+to be due to BPPV and convergence insufficiency, referred to 
+___ rehab. She reports functional decline and persistent 
+fatigue since the fall, but was able to participate in stress 
+echocardiogram with no issues this admission.
+
+# Hyperlipidemia: Last LDL 140s, not on therapy. Started on 
+atorvastatin 40 mg qhs given EKG changes and chest pressure 
+during this admission.
+
+TRANSITIONAL ISSUES
+DISCHARGE WEIGHT: 66.5 kg
+DISCHARGE CR: 0.6
+
+NEW MEDICATIONS: 
+Atorvastatin 40 mg qhs
+Metoprolol succinate 25 mg qhs
+Aspirin 81 mg daily
+
+[] Follow-up repeat EKG for QTc (last 511)
+[] Follow-up cardiology for ___ of Hearts monitoring given 
+palpitations, and chest pressure with dynamic EKG changes on CAD 
+therapy (negative stress echo) 
+[] Follow-up BPs and HRs on metoprolol
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea 
+2. Betamethasone Dipro 0.05% Augmented Gel 1 Appl TP BID 
+3. Denosumab (Prolia) Dose is Unknown  SC Frequency is Unknown 
+4. Levothyroxine Sodium 88 mcg PO DAILY 
+5. azelastine 137 mcg (0.1 %) nasal BID 
+6. Triamcinolone Acetonide 0.1% Ointment 1 Appl TP TID:PRN 
+itchyness 
+7. Dulera (mometasone-formoterol) 200-5 mcg/actuation inhalation 
+BID:PRN 
+8. olopatadine 0.6 % nasal BID 
+9. Multivitamins 1 TAB PO DAILY 
+10. Vitamin D 1000 UNIT PO DAILY 
+11. Calcium Carbonate 500 mg PO Frequency is Unknown 
+12. Ranitidine 150 mg PO BID:PRN reflux 
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*1 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*1 
+3.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth at bedtime 
+Disp #*30 Tablet Refills:*1 
+4.  Calcium Carbonate 500 mg PO DAILY  
+5.  Denosumab (Prolia) 60 mg SC Q6 MONTHS  
+6.  Albuterol Inhaler 2 PUFF IH Q4H:PRN dyspnea  
+7.  azelastine 137 mcg (0.1 %) nasal BID  
+8.  Betamethasone Dipro 0.05% Augmented Gel 1 Appl TP BID  
+9.  Dulera (mometasone-formoterol) 200-5 mcg/actuation 
+inhalation BID:PRN  
+10.  Levothyroxine Sodium 88 mcg PO DAILY  
+11.  Multivitamins 1 TAB PO DAILY  
+12.  olopatadine 0.6 % nasal BID  
+13.  Ranitidine 150 mg PO BID:PRN reflux  
+14.  Triamcinolone Acetonide 0.1% Ointment 1 Appl TP TID:PRN 
+itchyness  
+15.  Vitamin D 1000 UNIT PO DAILY
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Chest pain without objective evidence of myonecrosis or 
+inducible ischemia, but reportedly dynamic electrocardiographic 
+abnormalities
+-Palpitations
+-Hypothyroidism 
+-Asthma
+-Seasonal allergies/allergic rhinitis
+-Osteoporosis 
+-Gastroesophageal reflux disease
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because you were having chest pain and 
+palpitations  
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You were found to have changes on your EKG concerning for 
+blockages of your heart vessels
+- You had a stress echocardiogram that was not concerning for 
+ischemia of your heart
+- You were started on heart healthy medications given the EKG 
+changes including aspirin, metoprolol, and atorvastatin (also 
+for your history of hyperlipidemia)
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Please take your medications as directed
+- Please follow up with your primary care and cardiology doctors 
+
+- Please make sure you follow directions for holter monitor, and 
+follow up with your cardiology for interpretation
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

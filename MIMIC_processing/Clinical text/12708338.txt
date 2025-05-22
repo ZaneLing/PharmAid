@@ -1,0 +1,383 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ y/o male with no significant pmh
+who presents with left sided chest pain, found to have left 
+upper
+lobe anterolateral lung abscess and pneumomediastinum.
+
+He was in his usual state of health until 3 weeks ago when he
+developed gradually worsening, sharp, persistent, left-sided
+chest pain, worse with inspiration.  He also has had a mild
+nonproductive cough.  He denies fevers, chills, chest trauma.  
+He
+denies abdominal pain, joint pain, joint swelling.  He denies
+sore throat.  He has never been incarcerated, works as a
+___, and has no known TB exposure or significant healthcare
+exposures.
+
+He initially presented to ___ on ___ following an
+abnormal CXR at urgent care.  Because urgent care xray revealed 
+a
+left upper lobe opacity, he underwent a CT scan which showed a
+3.6 x 4.3cm abscess vs mass.  He was discharged home with a
+diagnosis of PNA, and given Levaquin x4 days.
+
+Since then he has had resolution of the chest pain, but 
+continues
+to have an intermittent cough.  A repeat CT scan was performed
+___, ordered by his PCP, which showed evolution of the mass, now
+with possible involvement of the pleura, as well as
+pneumomediastinum.  Because of this he was referred to the ED at
+___, and given the findings, he was transferred to ___
+for further evaluation and thoracics consult.
+ 
+In the ___ ED, he was given IV Vancomycin.  Thoracics was
+consulted who recommended admission to medicine with ID consult
+and IV Antibiotics.
+
+Regarding prior antibiotic exposures, he reports a prior 7 day
+course of PO Abx in ___ for a R axillary abscess.  Other than
+this and the recent Levofloxacin, no other recent ABx.
+ 
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as
+per HPI  
+ 
+Past Medical History:
+- left inguinal hernia repair
+- prior R axillary abscess treated ___
+ 
+Social History:
+___
+Family History:
+Father - DM2
+Grandmother - ___, breast cancer
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+===============================
+VS: T 98.4, HR 77, BP 100/58, RR 16, 96% RA 
+GENERAL: NAD, well appearing
+HEENT: AT/NC, EOMI, anicteric sclera, MMM, oropharynx clear w/o
+lesion or exudate
+NECK: supple, no LAD  
+HEART: RRR 
+LUNGS: CTAB, no wheezes, breathing comfortably on RA
+ABDOMEN: nondistended, nontender 
+EXTREMITIES: no cyanosis, clubbing, or edema.  No joint effusion
+or swelling.
+PULSES: 2+ radial pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+
+DISCHARGE PHYSICAL EXAM:  
+=============================
+VS: 98.0PO 128 / 85 74 18 99 Ra 
+GENERAL: NAD, well appearing
+HEENT: EOMI, anicteric sclera, MMM
+HEART: RRR, no murmurs
+LUNGS: CTAB, no wheezes/crackles, breathing comfortably on RA
+ABDOMEN: Soft, nondistended, nontender, +BS
+EXTREMITIES: WWP, no edema. 
+NEURO: A&Ox3, moving all 4 extremities with purpose ==
+ 
+Pertinent Results:
+ADMISSION LABS:
+====================
+___ 07:52PM BLOOD WBC-10.4* RBC-4.25* Hgb-12.8* Hct-37.7* 
+MCV-89 MCH-30.1 MCHC-34.0 RDW-12.2 RDWSD-39.9 Plt ___
+___ 07:52PM BLOOD Neuts-61.9 ___ Monos-8.7 Eos-1.4 
+Baso-0.5 Im ___ AbsNeut-6.45* AbsLymp-2.80 AbsMono-0.91* 
+AbsEos-0.15 AbsBaso-0.05
+___ 07:52PM BLOOD Glucose-111* UreaN-13 Creat-0.9 Na-142 
+K-4.3 Cl-101 HCO3-28 AnGap-13
+___ 07:30AM BLOOD Calcium-9.1 Phos-3.7 Mg-2.4
+___ 03:57PM URINE Color-Straw Appear-Clear Sp ___
+___ 03:57PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.5 Leuks-NEG
+___ 03:57PM URINE barbitr-NEG opiates-NEG cocaine-POS* 
+amphetm-NEG oxycodn-NEG mthdone-NEG
+___ 07:30AM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG 
+Barbitr-NEG Tricycl-NEG
+
+PERTINENT LABS:
+====================
+___ 07:30AM BLOOD TSH-5.3*
+___ 03:30PM BLOOD T3-95 Free T4-1.2
+___ 08:10AM BLOOD ANCA-NEGATIVE B
+___ 08:10AM BLOOD ___ CRP-29.6*
+___ 07:30AM BLOOD HIV Ab-NEGATIVE
+___ 07:30AM BLOOD Vanco-19.4
+___ 11:44PM URINE Hours-RANDOM Creat-62 Na-56
+___ 11:44PM URINE Osmolal-197
+
+DISCHARGE LABS:
+====================
+___ 05:54AM BLOOD WBC-9.6 RBC-4.33* Hgb-12.6* Hct-38.4* 
+MCV-89 MCH-29.1 MCHC-32.8 RDW-12.0 RDWSD-39.2 Plt ___
+___ 05:54AM BLOOD Glucose-93 UreaN-11 Creat-1.3* Na-142 
+K-4.4 Cl-102 HCO3-29 AnGap-11
+___ 07:30AM BLOOD ALT-10 AST-14 LD(LDH)-141 AlkPhos-53 
+TotBili-0.2
+___ 05:54AM BLOOD Calcium-9.5 Phos-4.3 Mg-2.0
+
+IMAGING:
+====================
+ECHO ___
+The left atrium is normal in size. Left ventricular wall 
+thicknesses are normal. The left ventricular cavity size is 
+normal. There is mild global left ventricular hypokinesis (LVEF 
+= 45 %). Tissue Doppler imaging suggests a normal left 
+ventricular filling pressure (PCWP<12mmHg). Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+number of aortic valve leaflets cannot be determined. There is 
+no aortic valve stenosis. No aortic regurgitation is seen. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. The pulmonary artery systolic pressure could not 
+be determined. There is no pericardial effusion. 
+
+JUGULAR VEIN ULTRASOUND ___
+No evidence of deep vein thrombosis in the bilateral internal 
+and external 
+jugular veins. 
+
+CHEST XRAY ___
+1. Right-sided PICC line ends at the cavoatrial junction.  No 
+evidence of 
+pneumothorax. 
+2. Focal opacification located laterally within the left 
+hemithorax likely 
+represents infarct, secondary to adjacent pulmonary embolus as 
+seen on CT from ___. However in a patient of this 
+age, vasculitis cannot be entirely excluded. 
+3. Persistent pneumomediastinum. 
+
+MICROBIOLOGY:
+====================
+__________________________________________________________
+___ 7:03 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, in
+      infected patients the excretion of antigen in urine may 
+vary. 
+__________________________________________________________
+___ 8:21 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 7:52 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+___ 08:10AM BLOOD B-GLUCAN-PND
+___ 08:10AM BLOOD ASPERGILLUS GALACTOMANNAN ANTIGEN-PND
+ 
+Brief Hospital Course:
+___ man with no chronic medical problems who presented with left 
+sided chest pain and cough, with outpatient imaging showing left 
+upper lobe mass felt to be an abscess. He was treated with 
+vancomycin/zosyn and transitioned to ertapenem at discharge. 
+
+# Lung Abscess with Pneumomediastinum:  
+Patient presented with lung mass on CT scan, felt most likely an 
+abscess possibly precipitated by aspiration event in the setting 
+of alcohol/drug use v. small nodular bacterial pneumonia that 
+coalesced into abscess given inadequate treatment with 4 days of 
+PO levoquin as outpatient. Differential diagnosis also included 
+atypical infection (e.g. fungal) v. inflammatory process v. 
+malignant process, all felt much less likely. CT imaging ___ 
+with progression of mass and concern for pneumomediastinum. 
+Infectious disease was consulted who recommended treatment for 
+pyogenic lung abscess with vancomycin/zosyn. Thoracic surgery 
+and interventional pulmonology were consulted for consideration 
+of biopsy v. abscess drainage. Both teams recommended 
+conservative medical management with close follow up, given low 
+concern for pleural involvement and very low concern for 
+mediastinitis given patient very well appearing and stable 
+throughout admission. Pneumomediastinum may have occurred 
+secondary to intranasal cocaine use v. coughing. HIV was 
+negative. ___ and ANCA negative. Blood cultures were no growth 
+to date. TTE without evidence of pericardial seeding. Jugular 
+vein ultrasound without thrombosis. On discharge, he was 
+transitioned to ertapenem with plan for at least 4 weeks of 
+antibiotics [Day 1 ___, with repeat CT chest in 4 weeks and 
+close PCP, ___, interventional pulmonology, and 
+thoracic surgery follow up. He will need further workup if mass 
+persists on repeat imaging status post antibiotics. 
+
+# Reduced ejection fraction:
+Patient's TTE was notable for reduced ejection fraction of 45% 
+and mild global left ventricular hypokinesis. Most likely 
+secondary to alcohol and cocaine use. TSH was elevated at 5.3, 
+but T3 and free T4 were normal. He will need repeat TTE in 3 
+months and further outpatient work-up if persistent depression 
+of ejection fraction.
+
+# Acute kidney injury: 
+Patient developed ___ from 0.9 on admission to 1.3. This 
+remained stable the next day, without improvement with IV 
+fluids. ___ was felt secondary to zosyn he received in house. 
+Vancomycin level was 19, so vancomycin felt less likely to be 
+culprit. Urine sediment without concerning findings. Patient was 
+encouraged to continue good PO intake on discharge. He will need 
+a repeat creatinine in 1 week to ensure normalization. 
+
+TRANSITIONAL ISSUES:
+====================================
+Discharge Cr: 1.3
+
+OUTPATIENT LABS: Weekly CBC with differential, BUN, Cr, AST, 
+ALT, Total Bili, ALK PHOS
+ALL LAB RESULTS SHOULD BE SENT TO:
+ATTN: ___ CLINIC - FAX: ___
+
+FOLLOW UP:
+[] Patient was discharged with a ___ and plan for Ertapenem 1g 
+IV daily through at least ___. Final course to be determined 
+by infectious disease. 
+[] Please follow up creatinine within one week to ensure 
+continues to downtrend to baseline. If persistently elevated, 
+please pursue further work up.
+[] Consider re-checking thyroid function tests in 1 month.
+[] Please follow up beta glucan and aspergillus galactomannan 
+which were pending at discharge.
+[] Please follow up blood cultures which were pending at 
+discharge.
+[] Please follow up repeat CT Chest on ___.
+[] Patient will follow up with PCP, ___, 
+interventional pulmonology and thoracic surgery as an 
+outpatient. 
+[] Please repeat TTE in 3 months. If persistently depressed 
+ejection fraction, please continue workup as outpatient. 
+[] Please continue counseling patient on alcohol and 
+recreational drug cessation.  
+
+#CODE: Full (presumed)  
+#CONTACT:
+___ 
+___: MOTHER 
+___
+
+[x]>30 minutes spent on discharge planning and care coordination 
+on day of discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Ertapenem Sodium 1 g IV DAILY 
+RX *ertapenem [Invanz] 1 gram 1 g IV Daily Disp #*30 Vial 
+Refills:*0 
+3.Outpatient Lab Work
+ICD-9: 513.0 Lung Abscess
+LABS:WEEKLY CBC with differential, BUN, Cr, AST, ALT, Total 
+Bili, ALK PHOS
+FAX TO: ATTN: ___ CLINIC
+FAX: ___
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left upper lobe mass, presumed abscess 
+Pneumomediastinum 
+Reduced ejection fraction 
+Acute Kidney Injury 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital because you were having chest 
+pain and the CAT scan of your chest showed a mass.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- You were treated with antibiotics, because the mass in your 
+lung is most likely an infection/abscess.
+- You were evaluated by the infectious disease team, who 
+recommended a long course of antibiotics. 
+- You were evaluated by the thoracic surgeons and interventional 
+pulmonologists (lung specialists). They did not recommend biopsy 
+or other procedures at this time because they felt the 
+antibiotics alone should treat the infection.
+- You had an echo (an ultrasound of your heart) and an 
+ultrasound of the veins in your neck. There was no evidence that 
+the infection in your lungs had spread to those areas.
+- You had a PICC line placed so that you could get IV 
+antibiotics at home. 
+- Your blood tests showed some kidney injury. This may be from 
+one of the antibiotics you got in the hospital. You will be 
+taking a different antibiotic at home. Your primary care doctor 
+___ continue to monitor this to ensure it improves. 
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- You will need to complete at least 4 weeks of IV antibiotics. 
+The infectious disease doctors ___ be in touch with you 
+regarding the exact duration. 
+- ***You will need to get blood tests each week while on 
+antibiotics, starting on ___. *** This is to monitor 
+for side effects. 
+- Please keep all your follow up appointments as listed below.
+- You will see the infectious disease, interventional 
+pulmonology, and thoracic surgery doctors as ___ outpatient.
+- You will get a repeat CAT scan of your chest in ___ as 
+listed below to make sure the mass in your lungs improved with 
+antibiotics. If the mass is still there, you will likely need 
+additional testing and treatment.  
+- It is very important not to drink alcohol or use any other 
+recreational drugs while you are on antibiotics. 
+
+WHEN SHOULD I COME BACK TO THE HOSPITAL?
+- If you have fevers/chills, chest pain, difficulty breathing, 
+nausea/vomiting.
+- If you have pain, redness, swelling around your PICC line.
+
+It was a pleasure caring for you, and we wish you all the best.
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

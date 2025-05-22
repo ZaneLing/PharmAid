@@ -1,0 +1,263 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+PE
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ ___ woman w/ hx of pulmonary fibrosis possibly 
+UIP/IPF, thymoma s/p resection w/ associated myasthenia ___ 
+(now improved), HTN, DM, who is found to have a PE on outpatient 
+CTA.
+
+Patient reports that she was diagnosed with pulmonary fibrosis 
+in ___ and went to see ___ pulmonary for ___ opinion. She has 
+chronic dyspnea on exertion although notes been having increased 
+cough with occasional hemoptysis starting ___ weeks ago. She 
+reports that she is unable to walk more than 50 feet without
+getting winded as well. She went to ___ pulmonary who ordered 
+CTA, which revealed PE as well as pulmonary fibrosis. Patient is 
+not on home O2. She does note she was in a prolonged car ride, 
+~4 hours long in which she did not get up and move around. Has 
+had colonoscopy and mammography. Reports no previous hx of blood 
+clots and no family hx. She denies any recent fevers, chills, 
+chest pain, palpitations, N/V, lightheadedness, abd pain, 
+diarrhea, dysuria. She does note pain in her left thigh that 
+started ___ weeks ago
+
+In the ED:
+Initial vital signs were notable for: 97.8 68 162/74 18 98% RA
+
+Labs were unremarkable.
+
+Studies performed include:
+CTA:
+Pulmonary emboli in the left anterior upper lobe segment as well
+as left superior lingular segment. 
+Dilated pulmonary artery as well as dilatation of the right
+ventricle suggest pulmonary hypertension and pulmonary strain.
+Please note that underlying UIP/IPF may contribute to this. 
+UIP/IPF pulmonary fibrotic changes are noted and correlation 
+with
+outside/prior imaging is advised to assess stability. 
+Indeterminate 7 mm part solid nodule in the right lower lobe.
+
+___:
+Nonocclusive thrombosis in one of the paired peroneal veins in
+the left lower extremity compatible with deep venous thrombosis.
+
+Patient was given: heparin gtt
+
+Vitals on transfer: 59 153/70 18 99% RA
+
+Upon arrival to the floor, she reports history as above. She is 
+comfortable.
+ 
+Past Medical History:
+1.  Pulmonary fibrosis, status post lung biopsy, ?UIP/IPF
+2.  Diabetes, on insulin
+3.  History of myasthenia ___
+4.  History of thymoma status post resection
+5.  Hypertension
+
+ 
+Social History:
+___
+Family History:
+No known lung or autoimmune disease. No family history of 
+bleeding or clotting disorders
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: 98 190/81 65 95% RA
+GENERAL: laying comfortably in NAD
+HEENT: PERRL. EOMI. Nonicteric sclera
+NECK: no JVP noted
+CARDIAC: RRR. No mrg
+LUNGS: Bibasilar crackles diffusely besides upper lungs
+ABDOMEN: +BS. Soft, NTND
+EXTREMITIES: No ___ edema. WWP
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation.  AOx3.
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VS:
+24 HR Data (last updated ___ @ 1211)
+    Temp: 97.3 (Tm 98.7), BP: 136/64 (131-158/61-77), HR: 57 
+(57-67), RR: 18, O2 sat: 90% ambulating/stairs% (90% 
+ambulating/stairs-97), O2 delivery: RA  
+GENERAL: NAD, laying comfortably in bed
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: Diffuse crackles and slight inspiratory wheezes, worst in 
+lung bases
+GI: abdomen soft, nondistended, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no lower extremity edema, no calf or thigh 
+tenderness
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face 
+symmetric
+DERM: Warm and well perfused, no excoriations or lesions, no 
+rashes
+ 
+Pertinent Results:
+====
+LABS
+====
+___ 05:55PM BLOOD cTropnT-<0.01 proBNP-94
+___ 05:55PM BLOOD WBC-4.4 RBC-4.38 Hgb-13.8 Hct-40.5 MCV-93 
+MCH-31.5 MCHC-34.1 RDW-13.1 RDWSD-44.2 Plt ___
+___ 05:55PM BLOOD ___ PTT-27.3 ___
+___ 04:00PM BLOOD UreaN-17 Creat-0.9 Na-143 K-4.7 Cl-102 
+HCO3-29 AnGap-12
+___ 05:55PM BLOOD cTropnT-<0.01 proBNP-94
+___ 08:06AM BLOOD Calcium-9.4 Phos-3.9 Mg-1.7
+
+=====
+ECHO
+=====
+___
+Normal biventricular wall thicknesses, cavity sizes, and 
+regional/global systolic function. Mild mitral regurgitation 
+with normal valve morphology. Mild aortic regurgitation. Mild 
+pulmonary artery systolic hypertension.
+ 
+Brief Hospital Course:
+___ ___ woman w/ hx of pulmonary fibrosis possibly 
+UIP/IPF, thymoma s/p resection w/ associated myasthenia ___ 
+(now improved), HTN, DM, and ___ weeks of hemoptysis who was 
+found to have a PE on outpatient CTA.
+
+ACTIVE ISSUES:
+==============
+#Pulmonary Embolism
+#DVT
+#Hemoptysis
+Patient presented as an outpatient with new hemoptysis and 
+pleuritic back pain in the setting of underlying lung disease, 
+ultimately found to have two segmental LUL PEs on CTA and 
+non-occlusive LLE DVT without clear cause and was thought to be 
+an unprovoked PE. She was hemodynamically stable on room air, 
+but did have possible evidence of right heart strain on CTA, 
+with dilation of the left pulmonary artery and right ventricle. 
+However, this finding is hard to interpret in the setting of 
+chronic pulmonary fibrosis and possible pulmonary hypertension. 
+She had normal troponin and BNP. She received a TTE which showed 
+no evidence of right heart ___ was started on a heparin 
+drip while in the hospital which was transitioned to apixaban 
+prior to discharge. She was instructed to continue to take the 
+apixaban for at least ___ months post-discharge and to follow-up 
+with her primary care doctor.
+
+#Incidental lung nodule
+7mm nodule found incidentally on CTA. She has a follow-up 
+appointment with ___ pulmonology in ___. They are 
+aware of the nodule and recommend a repeat CT scan in 3 months.
+
+CHRONIC ISSUES:
+================
+#Pulmonary fibrosis
+Is followed at ___ for medical care, but received ___ opinion at 
+___. She has a follow-up appointment with ___ 
+___ in ___.
+
+#DM
+Her home regimen was continued while inpatient.
+
+#HTN
+Her home metoprolol was continued while inpatient.
+
+TRANSITIONAL ISSUES
+====================
+[] Will require follow-up of 7mm pulmonary nodule found 
+incidentally on CTA. Per pulmonary should repeat CT in 3 months. 
+
+[] Started on apixaban 10 mg PO BID, should decrease to 5 mg PO 
+BID on ___.
+[] PE appears to be unprovoked and would consider prolonged 
+anticoagulation. 
+
+#CODE: Has MOLST. Is DNR/DNI
+#CONTACT:Next of Kin: ___ 
+ Relationship: DAUGHTER 
+ Phone: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 50 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Glargine 17 Units Bedtime
+Humalog 6 Units Breakfast
+Humalog 6 Units Dinner
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID Duration: 7 Days 
+On ___, decrease to 5 mg BID 
+RX *apixaban [Eliquis] 5 mg 2 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*1
+RX *apixaban [Eliquis] 5 mg 2 tablet(s) by mouth twice a day 
+Disp #*70 Tablet Refills:*0 
+2.  Glargine 17 Units Bedtime
+Humalog 6 Units Breakfast
+Humalog 6 Units Dinner 
+3.  Metoprolol Succinate XL 50 mg PO DAILY  
+4. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until stopping Apixaban
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pulmonary embolism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___!
+
+WHY DID YOU COME TO THE HOSPITAL?
+- You were coughing blood and saw your outpatient lung doctor 
+who had you get a picture of your lungs that showed a blood 
+clot.
+
+WHAT HAPPENED WHEN YOU WERE HERE?
+- You received blood thinning medicine to help the blood clot in 
+your lungs resolve. 
+
+WHAT TO DO WHEN YOU LEAVE?
+- Follow-up with your primary care doctor within 1 week.
+- Follow-up with your lung doctor as scheduled.
+- Take your new blood thinning medicine every day as below.
+- Please come back to the hospital if you cough up any blood. 
+
+Best wishes,
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,254 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Throat swelling
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ yo M transferred to ___ for epiglottitis an admitted to the 
+MICU for airway monitoring. Pt had bilateral upper central 
+incisor implants 3 days ago. He was put on amoxicillin. Since 
+then he has had sore throat, and  progressive odynophagia with 
+muffled voice. No difficulity breathing. He went to ___ on 
+___, where he had a CT notable for epiglottitis. He received 
+zosyn and decadron before transfer. Labs at ___ notable for 
+WBC 19. 
+
+In the ED, initial vitals:  98.1 82 143/90 16 97% RA. Speakin in 
+full sentences, handling secretions, no stridor. Seen by ENT. 
+Exam notable for erythematous and edematous epiglottis and 
+vallecula cyst. No stridor or respiratory difficulty. While at 
+ED, received 10mg IV decadron and zosyn. 
+
+On transfer, vitals were: 98.7 85 127/82 15 100% RA
+
+ 
+Past Medical History:
+HTN
+HLD
+ 
+Social History:
+___
+Family History:
+No significant family history
+ 
+Physical Exam:
+Exam on Admission:
+Vitals: T:afebrile BP:139/85 P:85 R: 18 O2: 97 
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, no stridor  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+NEURO: CNII-XII intact, motor and sensory function intact
+
+Exam on Discharge:
+Vitals: T:98.0 BP:123/69 P:56 R:18 O2:96% RA   
+ GENERAL: Alert, oriented, no acute distress  
+ HEENT: Sclera anicteric, MMM, oropharynx clear, no stridor  
+ NECK: supple, JVP not elevated, no LAD  
+ LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+ EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+NEURO: No focal deficits
+Labs: see below  
+Imaging and studies: see below 
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 01:28AM BLOOD WBC-14.3* RBC-4.43* Hgb-14.2 Hct-40.1 
+MCV-91 MCH-32.1* MCHC-35.4 RDW-12.0 RDWSD-39.7 Plt ___
+___ 01:28AM BLOOD ___ PTT-26.3 ___
+___ 01:28AM BLOOD Glucose-159* UreaN-22* Creat-0.9 Na-141 
+K-4.0 Cl-107 HCO3-22 AnGap-16
+___ 01:28AM BLOOD ALT-30 AST-24 LD(LDH)-196 AlkPhos-87 
+TotBili-1.1
+___ 01:28AM BLOOD Albumin-3.3* Calcium-9.0 Phos-3.5 Mg-1.7
+
+Imaging:
+None
+
+MICROBIOLOGY:
+MRSA screen ___: negative
+
+DISCHARGE LABS:
+___ 07:31AM BLOOD WBC-15.3* RBC-4.62 Hgb-14.9 Hct-42.2 
+MCV-91 MCH-32.3* MCHC-35.3 RDW-11.9 RDWSD-39.8 Plt ___
+___ 07:31AM BLOOD Plt ___
+___ 07:31AM BLOOD ___ PTT-24.0* ___
+___ 07:31AM BLOOD Glucose-133* UreaN-25* Creat-1.0 Na-143 
+K-4.1 Cl-105 HCO3-28 AnGap-14
+___ 07:31AM BLOOD Calcium-9.1 Phos-4.0 Mg-2.0
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo M transferred to ___ for epiglottitis 
+an admitted to the MICU for airway monitoring.
+
+ACTIVE ISSUES:
+# Epiglotitis: Patient presented with sore throat since dental 
+implant three days ago prior to admission and progressive 
+odynophagia, difficulity speaking and found to have epiglottitis 
+on CT scan. Exam by ENT notable for erythematous and edematous 
+epiglottis and vallecula cyst. Patient was started on IV 
+Decadron and IV Zosyn for empiric coverage of infectious 
+etiologies of epiglottitis. He was admitted to the ICU for 
+airway monitoring.  Patient subjectively improved and on exam 
+had no stridor or wheeze.  He was able to swallow clears and 
+pills without difficulty.  ENT re-scoped patient on second day 
+of admission and found very similar findings to prior 
+examination. They recommended continuing close observation in 
+the ICU for additional 24 hours. He was called out of the ICU on 
+___ and continued to do well on the floor. ENT re-evaluated 
+patient on morning of ___ and noted significant improvement in 
+edema. Patient was discharged to home on Prednisone taper and 
+two week course of augmentin and flagyl. He is scheduled to 
+follow up with ENT on ___.
+
+# Cough: Patient with URI symptoms prior to presentation and was 
+being treated with Tessalon perles and Guaifenisen with Codeine. 
+ These medications were continued for patient's symptoms while 
+in house. Cough improved prior to discharge.
+
+CHRONIC ISSUES:
+# HLD: continued home Atorvastatin
+
+# HTN: continued home amlodipine
+
+# BPH: continued home finasteride
+
+TRANSITIONAL ISSUES
+===================
+-Prednisone Taper: ___: prednisone 50 mg, ___: prednisone 40 
+mg, ___: prednisone 30 mg, ___: prednisone 20 mg, ___: 
+prednisone 10 mg. 
+-Antibiotics: Augmentin/flagyl x 2 weeks end date ___. 
+-Patient has ENT follow up with Dr. ___ on ___. 
+-Communication: HCP: wife ___ ___ 
+-Code: Full Code (confirmed)
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 20 mg PO QPM 
+2. Amlodipine 5 mg PO DAILY 
+3. Finasteride 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Finasteride 5 mg PO DAILY 
+4. PredniSONE 50 mg PO ONCE Duration: 1 Dose 
+This is dose # 1 of 5 tapered doses
+RX *prednisone 10 mg 5 tablet(s) by mouth once ___ Disp #*5 
+Tablet Refills:*0
+5. PredniSONE 40 mg PO ONCE Duration: 1 Dose 
+Start: After 50 mg ONCE tapered dose 
+This is dose # 2 of 5 tapered doses
+RX *prednisone 10 mg 4 tablet(s) by mouth once ___ Disp #*4 
+Tablet Refills:*0
+6. PredniSONE 30 mg PO ONCE Duration: 1 Dose 
+Start: After 40 mg ONCE tapered dose 
+This is dose # 3 of 5 tapered doses
+RX *prednisone 10 mg 3 tablet(s) by mouth once ___ Disp #*3 
+Tablet Refills:*0
+7. PredniSONE 20 mg PO ONCE Duration: 1 Dose 
+Start: After 30 mg ONCE tapered dose 
+This is dose # 4 of 5 tapered doses
+RX *prednisone 10 mg 2 tablet(s) by mouth once ___ Disp #*2 
+Tablet Refills:*0
+8. PredniSONE 10 mg PO ONCE Duration: 1 Dose 
+Start: After 20 mg ONCE tapered dose 
+This is dose # 5 of 5 tapered doses
+RX *prednisone 10 mg 1 tablet(s) by mouth once ___ Disp #*1 
+Tablet Refills:*0
+9. MetRONIDAZOLE (FLagyl) 500 mg PO TID 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*40 Tablet Refills:*0
+10. Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tab by mouth 
+twice a day Disp #*27 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+=================
+-Epiglottitis
+
+Secondary Diagnosis
+===================
+-Hypertension
+-Hyperlipidemia
+-BPH
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to ___ after 
+experiencing sore throat and change in your voice. You underwent 
+an imaging study which showed inflammation of part of the body 
+called the epiglottis. This is known as epiglottitis. You were 
+seen by the Ears, Nose and Throat (ENT doctors) who did a 
+laryngoscopy which showed swelling of the epiglottis.
+
+You were treated with steroids to decrease the inflammation and 
+antibiotics. You were briefly kept in the Intensive Care Unit 
+for further monitoring.
+
+A repeat laryngoscopy by the ENT doctors revealed improvement in 
+the swelling.
+
+Please continue with the prednisone taper as follows: ___: 
+prednisone 50 mg, ___: prednisone 40 mg, ___: prednisone 30 
+mg, ___: prednisone 20 mg, ___: prednisone 10 mg.
+
+Please also continue to take augmentin/metronidazole with end 
+date ___. You should not drink alcohol while taking 
+Metronidazole.
+
+You are scheduled for follow up with ENT in one month. Dr. 
+___ like to see you in two weeks. Please call 
+___ to try and reschedule this appointment.
+
+It was a pleasure taking care of you during your 
+hospitalization! We wish you all the best!
+
+Sincerely,
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

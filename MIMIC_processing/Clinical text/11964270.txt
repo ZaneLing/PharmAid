@@ -1,0 +1,367 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fever, chills
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ w/ Hx of C6/C7 fracture from a fall s/p 
+repair w/ plate ___ ___, AAA (3.3 cm, stable), Asthma, Hx of 
+nephrolithiasis, HLD, orthostatic hypotension (previously on 
+midodrine, not currently), and SCC of the scalp s/p MOH's 
+surgery ___ days who ago presents with fevers (100.5) and shaking 
+chills for the past 1 day.  He had a resection of an SCC from 
+the top of his head and skin grafting from the L shoulder 12 
+days ago at a private dermatology practice ___ ___ 
+Dermatology, Dr. ___.  The procedure was uncomplicated, 
+but at his 1 week f/u visit, his shoulder was noted to have 
+pus/redness concerning for cellulitis, and ___ addition, his 
+scalp graft appeared purulent, so he was started on Cephalexin, 
+and wound Cx sent (unclear if from scalp or shoulder).  Pt was 
+called at home and his Rx was switched to Bactrim instead given 
+reported sensitivities.  During this time, he was also seen by 
+his PCP here, who noted continued erythema of shoulder wound and 
+that the skin graft appeared dead and may need removal (per 
+patient).  Last night (___), pt felt weak, and noted new 
+chills/rigors. Today he noted fever, weakness, rigors again, and 
+decided to come ___ for eval given symptoms despite abx and given 
+his recent foreign body implantation (metal plate ___ neck).   
+
+___ the ED, initial vitals were: 99.7 92 108/56 18 98% RA.  Exam 
+notable for well-appearing male w/ 3.5cm graft on scalp, dark, 
+with pus at edges, dehiscing on R aspect, erythema surrounding.  
+L shoulder sutures ___ place, no swelling or exudate, redness, 
+not warm to touch.  Remainder of exam WNL.  Labs were 
+significant for WBC 7.0 w/ 88% PMNs, Hgb 12.0, plts 216, BUN/Cr 
+___ (baseline 0.9), lytes WNL, Lactate 1.3.  BCx were drawn, 
+the patient was administered 1L NS, Clindamycin 600 mg IV and 
+Vancomycin 1000 mg IV, and was admitted.  Vitals prior to 
+transfer were: 98.4 79 113/52 17 96% RA.
+
+Currently, he is rigoring and feeling cold but otherwise has no 
+complaints. 
+ 
+
+ROS:  
+No night sweats, or weight changes. No changes ___ vision or 
+hearing, no changes ___ balance. No cough, no shortness of 
+breath, no dyspnea on exertion. No chest pain or palpitations. 
+No nausea or vomiting. No diarrhea or constipation. No dysuria 
+or hematuria. No hematochezia, no melena. No numbness or 
+weakness, no focal deficits.  
+
+ 
+Past Medical History:
+-AAA (3.3 cm, monitoring)
+-Orthostatic hypotension - formerly on midodrine, now weaned off
+-Asthma
+-Gout (3 attacks ___ ___
+-HLD
+-BPH
+-SCC s/p MOH's excision and skin grafting ___ ___
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+
+VS: 98.7 120/57 83 20 100% RA  
+GEN: Alert, lying ___ bed, rigoring, appears uncomfortable 
+HEENT: Moist MM, anicteric sclerae, no conjunctival pallor  
+NECK: Supple without LAD  
+PULM: Generally CTA b/l without wheeze or rhonchi  
+COR: RRR (+)S1/S2 but distant heart sounds, no m/r/g  
+ABD: Soft, non-tender, non-distended  
+EXTREM: Warm, well perfused, no ___ edema
+NEURO: CN II-XII grossly intact, motor function grossly normal  
+SKIN: L shoulder with well-healing ~8 cm surgical incision with 
+nonabsorbable sutures ___ place.  Mild poorly demarcated 
+surrounded erythema, no edema, warmth, induration, or tenderness 
+to palpation.  Scalp with ~2 x 2 cm necrotic, devitalized graft 
+with dehiscence posteriorly and purulent discharge.  Some 
+surrounding erythema but no fluctuance or palpable fluid 
+collection
+
+DISCHARGE PHYSICAL EXAM:
+========================
+
+VS:  100.5 97.9 119-129/60-68 ___ 16 98% RA
+GEN: Alert, lying ___ bed, appears comfortable
+HEENT: Moist MM, anicteric sclerae, no conjunctival pallor  
+NECK: Supple without LAD  
+PULM: Generally CTA b/l without wheeze or rhonchi  
+COR: RRR (+)S1/S2 but distant heart sounds, no m/r/g  
+ABD: Soft, non-tender, non-distended  
+EXTREM: Warm, well perfused, no ___ edema
+NEURO: CN II-XII grossly intact, motor function grossly normal  
+SKIN: L shoulder with well-healing ~8 cm surgical incision with 
+nonabsorbable sutures ___ place.  Mild poorly demarcated 
+surrounded erythema, no edema, warmth, induration, or tenderness 
+to palpation.  Scalp with ~2 x 2 cm necrotic, devitalized graft 
+with dehiscence posteriorly and purulent discharge.  Some 
+surrounding erythema but no fluctuance or palpable fluid 
+collection
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 04:37PM BLOOD WBC-7.0 RBC-3.98* Hgb-12.0* Hct-35.9* 
+MCV-90# MCH-30.2 MCHC-33.4 RDW-14.8 RDWSD-49.1* Plt ___
+___ 04:37PM BLOOD Neuts-88.3* Lymphs-2.4* Monos-7.5 
+Eos-0.9* Baso-0.3 Im ___ AbsNeut-6.22* AbsLymp-0.17* 
+AbsMono-0.53 AbsEos-0.06 AbsBaso-0.02
+___ 07:15AM BLOOD ___ PTT-31.1 ___
+___ 04:37PM BLOOD Glucose-107* UreaN-21* Creat-1.7* Na-137 
+K-4.4 Cl-102 HCO3-22 AnGap-17
+___ 04:37PM BLOOD Calcium-9.2 Phos-2.9 Mg-1.9
+___ 04:49PM BLOOD Lactate-1.3
+
+PERTINENT MICRO:
+================
+
+___ 3:24 pm SWAB      Source: Scalp wound. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      1+    (<1 per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+
+   WOUND CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH OF TWO COLONIAL 
+MORPHOLOGIES. 
+         Staphylococcus species may develop resistance during 
+prolonged
+         therapy with quinolones.   Therefore, isolates that are 
+initially
+         susceptible may become resistant within three to four 
+days after
+         initiation of therapy.  Testing of repeat isolates may 
+be
+         warranted. 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    RARE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed ___ 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------  0.25 S
+OXACILLIN-------------   0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S 
+
+___  BLOOD CULTURE Blood Culture, Routine-NEGATIVE
+___  BLOOD CULTURE Blood Culture, Routine-NEGATIVE 
+
+PERTINENT IMAGING:
+==================
+
+ECG ___:
+Sinus rhythm. Normal ECG. No previous tracing available for 
+comparison.  
+  
+  Intervals     Axes 
+Rate PR QRS QT QTc (___)    P QRS T 
+81 ___ 394   63 28 44 
+ 
+
+DISCHARGE LABS:
+===============
+
+___ 07:15AM BLOOD WBC-6.2 RBC-3.86* Hgb-11.5* Hct-35.0* 
+MCV-91 MCH-29.8 MCHC-32.9 RDW-14.8 RDWSD-49.4* Plt ___
+___ 06:38AM BLOOD Glucose-108* UreaN-14 Creat-1.1 Na-138 
+K-3.7 Cl-105 HCO3-23 AnGap-14
+___ 06:38AM BLOOD Calcium-8.5 Phos-3.3 Mg-2.0
+___ 06:10PM URINE Color-Yellow Appear-Clear Sp ___
+___ 06:10PM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 06:10PM URINE RBC-6* WBC-<1 Bacteri-NONE Yeast-NONE 
+Epi-0
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ w/ Hx of C6/C7 fracture from a fall s/p 
+repair w/ plate ___ ___, AAA (3.3 cm, stable), Asthma, Hx of 
+nephrolithiasis, HLD, orthostatic hypotension (previously on 
+midodrine, not currently), and SCC of the scalp s/p ___'s 
+surgery ___ days who ago presents with fevers (100.5) and shaking 
+chills and evidence of a devitalized / infected skin graft.
+
+ACTIVE ISSUES:
+==============
+
+# Necrotic skin graft with cellulitis: 
+Purulence on exam coupled with fever/chills suggests this is the 
+source of his infection.  Was covered as an outpatient initially 
+with cephalexin, then switched to Bactrim (on ___ or ___ 
+given sensitivities, suggesting that he has been appropriately 
+covered for at least a few days.  Presence of pus suggests 
+purulent infection.  He was started on Vancomycin and 
+defervesced.  He received vancomycin for ~48 h and also received 
+standing tylenol for rigors. BCx were negative, wound Cx pending 
+at the time of discharge. Dermatology evaluated him and felt the 
+dead graft did not require removal or debridement, and advised 
+treating through, as it should function like a scab and protect 
+the wound. When his symptoms improved, he was transitioned to 
+Doxycycline + Keflex (Doxycycline given sensitivities on outside 
+culture and Keflex to cover possible strep) to complete a total 
+of 10 days of ABx. He was discharged home.
+
+  
+# ___: 
+Patient's recent baseline Cr 0.9 ___ ___ Cr on admission 
+1.7.  Etiology most likely pre-renal given insensible losses 
+from fever, normal lactate reassuring that he is not 
+hypoperfusing.  His Cr improved back to baseline with IVF.
+
+CHRONIC ISSUES:
+===============
+
+# Orthostatic hypotension: 
+Not currently an active issue; not currently on midodrine.  Pt 
+reports that his typical baseline systolic BPs are ___ the 110s.  
+He was not orthostatic on this admission.
+
+# Hx of nephrolithiasis: 
+Not currently an active issue.  His home potassium citrate was 
+held (nonformulary)
+
+# Asthma:
+He was continued on his home Montelukast and 
+fluticasone/salmeterol
+
+# Gout:
+Not currently an active issue
+
+# AAA:
+Not currently an active issue
+
+# HLD:
+His home statin was continued
+
+# BPH: 
+His home tamsulosin was held given the possibility of 
+hypotension; it was restarted at discharge.
+ 
+# CODE STATUS: Full (confirmed)
+# CONTACT:  Wife/HCP (h ___, c: ___
+
+TRANSITIONAL ISSUES:
+====================
+- Patient discharged on Doxycycline + Keflex to complete a total 
+of 10 days of ABx (last day ___
+- Patient's shoulder and scalp sutures were removed
+- Patient was instructed to follow-up with his outpatient 
+dermatologist within the next ___ days.
+- Wound culture was with sparse growth of S. aureus at the time 
+of discharge; final sensitivities were pending.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH DAILY 
+2. Montelukast 10 mg PO DAILY 
+3. potassium citrate 30  mEq oral BID 
+4. Simvastatin 20 mg PO QPM 
+5. Tamsulosin 0.4 mg PO QHS 
+6. Ocuvite (vit C-vit E-lutein-min-om-3) 150-30-5-150 
+mg-unit-mg-mg oral DAILY 
+7. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+8. Guaifenesin ER 600 mg PO Q12H 
+9. Vitamin D Dose is Unknown  PO DAILY 
+10. Calcium Carbonate Dose is Unknown  PO Frequency is Unknown 
+
+ 
+Discharge Medications:
+1. Acetaminophen 325-650 mg PO Q6H:PRN pain 
+2. Calcium Carbonate unknown  PO Frequency is Unknown 
+3. Guaifenesin ER 600 mg PO Q12H 
+4. Ocuvite (vit C-vit E-lutein-min-om-3) 150-30-5-150 
+mg-unit-mg-mg oral DAILY 
+5. potassium citrate 30  mEq oral BID 
+6. Tamsulosin 0.4 mg PO QHS 
+7. Vitamin D unknown  PO DAILY 
+8. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH DAILY 
+9. Montelukast 10 mg PO DAILY 
+10. Simvastatin 20 mg PO QPM 
+11. Cephalexin 500 mg PO Q6H 
+last day of antibiotics: ___ 
+RX *cephalexin 500 mg 1 capsule(s) by mouth every 6 hours Disp 
+#*28 Capsule Refills:*0
+12. Doxycycline Hyclate 100 mg PO Q12H 
+last day of antibiotics: ___ 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth every 12 
+hours Disp #*14 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Purulent cellulitis
+
+Secondary: Orthostatic hypotension, history of squamous cell 
+carcinoma of the scalp, aortic aneurysm
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was our pleasure caring for you at ___ 
+___.  You were admitted to the hospital with fever 
+and chills ___ the setting of having a skin infection around the 
+site of your recent surgery.  Your kidneys function was also 
+mildly decreased.  We gave you fluids through the IV, and your 
+kidney function improved back to normal.  Our dermatologists 
+evaluated you and felt that the skin graft on your head was 
+likely dead, but recommended leaving it ___ place because it will 
+act like a scab and help protect the wound while it heals.  They 
+did not think you needed any more surgery, and recommended 
+continuing to treat with antibiotics.  
+
+For your infection, we treated you initially with antibiotics 
+through the IV.  We checked for evidence of bacteria ___ your 
+blood and did not find any.  Over the next two days, your fever 
+and rigors gradually disappeared.  When you were feeling better, 
+we transitioned you to two oral antibiotics (Doxycycline and 
+Keflex) that you will continue to take for 7 more days (last day 
+___.  You should call your dermatologist to schedule a 
+follow-up appointment to be seen ___ the next few days.
+
+Thank you for allowing us to participate ___ your care.
+ 
+Followup Instructions:
+___

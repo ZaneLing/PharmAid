@@ -1,0 +1,124 @@
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Pneumococcal Vaccine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p MVC with intrusion into driver's side
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ s/p MVC restr driver with intrusion, L comminuted clavicle 
+Fx, small R abdominal hematoma extending to L iliacus with ? 
+bone fragment vs small extrav by R iliac crest, L5 R TP Fx
+ 
+Past Medical History:
+PMH: chron MRSA, A fib, ?CKD, pulmonary infection
+PSH: hx RLL resection
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+Exam at discharge:
+Vitals: 98.0F, HR 60, RR 18, SpO2 97% RA, BP 148/74
+Gen app: sitting upright in bedside chair, appears comfortable, 
+NAD
+HEENT: EOMI, PERRL.  There is erythema of the left eye but no 
+drainage or pain.  Vision grossly intact.  Oral mucosa pink and 
+moist.
+Neck: trachea midline
+CV: RRR, no m/r/g
+Lungs: CTA
+Abd: bowel sounds present. Soft, NT.
+Extrem: warm, well-perfused
+Neuro: CN II-XII intact.  Sensation intact and symmetric 
+throughout.  Strength ___ in all muscle groups, except for LUE, 
+which was unable to be tested ___ presence of sling.  Gait 
+intact.
+Skin: large ecchymosis at left upper chest and over the left 
+shoulder.  
+ 
+Pertinent Results:
+On admission:
+
+___ 10:44AM BLOOD WBC-9.0 RBC-4.32* Hgb-13.8 Hct-42.9 
+MCV-99* MCH-31.9 MCHC-32.2 RDW-12.6 RDWSD-46.0 Plt ___
+___ 10:44AM BLOOD ___ PTT-37.3* ___
+___ 10:44AM BLOOD UreaN-19
+___ 05:00AM BLOOD Calcium-9.1 Phos-3.8 Mg-2.1
+
+On day of discharge:
+___ 03:20PM BLOOD Hct-37.6*
+___ 05:00AM BLOOD WBC-8.9 RBC-3.69* Hgb-11.9* Hct-36.8* 
+MCV-100* MCH-32.2* MCHC-32.3 RDW-12.7 RDWSD-46.6* Plt ___
+ 
+Brief Hospital Course:
+Pt brought to ___ via EMS after ___ where pt was the driver of 
+a car that was T-boned with intrusion into the driver's side.  
+Found to have L comminuted and displaced clavicular fx, L5 right 
+transverse process fx, and R abdominal wall hematoma.  On CT 
+abdomen/pelvis, there was a small hyperdense area in the R low 
+abdomen that was felt to represent either a bone fragment or 
+possible extravasation of IV contrast.  Given that pt was on 
+Eliquis, the pt was admitted for observation.  His hematocrits 
+were trended and initially dropped from 42.9 on arrival to 36.8. 
+ Subsequent labs demonstrated stable hemocrit with last value 
+prior to discharge 37.6.  He was seen and evaluated by the 
+orthopedic service for his clavicle fracture.  They recommended 
+sling for the L arm and follow up in their clinic in 2 weeks.  
+His pain was well controlled with Tylenol alone.  He was doing 
+well and was discharged to home.  He was instructed to stop his 
+Eliquis until he sees his cardiologist.  
+ 
+Medications on Admission:
+Eliquis
+Bactrim 
+ 
+Discharge Medications:
+Bactrim
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+1. s/p motor vehicle collision
+2. Displaced comminuted left clavicle fx
+3. Right abdominal wall hematoma
+4. L5 right transverse process fx
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came to the hospital after a car accident.  You were found 
+to have a broken left collarbone, a broken piece of bone in your 
+low back, and a blood collection in your right abdomen.  You 
+were monitored overnight to ensure there was no evidence of 
+continued bleeding.  Your blood counts decreased initially but 
+were stable on repeat lab work.  You were discharged to home in 
+stable condition.  You should not restart your Eliquis unless 
+told to do so by your cardiologist.  You should keep your left 
+arm in the sling until told otherwise by the orthopedic surgeons 
+at your follow up appointment.  You may take Tylenol for the 
+pain.  You should take no more than 3,000mg of Tylenol per day.
+ 
+Followup Instructions:
+___

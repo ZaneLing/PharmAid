@@ -1,0 +1,321 @@
+Name:  ___              ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+chest tube placement
+
+ 
+History of Present Illness:
+___ is a ___ year old female with a long history 
+of smoking and breast cancer diagnosed ___ years ago s/p 
+lumpectomy and radiation who now presents with gradual onset 
+progressively worsening SOB and DOE for 2 weeks followed by 
+acute onset ___ left-sided back pain x3 days. Patient states 
+she was in remission from breast cancer and in her
+usual state of health until 2 weeks ago when she first 
+experienced SOB with minimal exertion as well as while 
+ambulating and talking. She denies cough, chest pain, 
+fevers/chills, weight
+loss or any other symptoms. She describes her back pain as sharp 
+non-radiating pain in left flank to lower ribs with associated 
+tingling in left shoulder. Pain exacerbates with deep breathing. 
+She also reports significant decrease in appetite for several 
+weeks. She quit smoking a week ago and endorses to being a 
+smoker for ___ years (0.5 - 2.5 packs) with intermittent attempts 
+to quit. 
+
+She initially presented to the urgent care clinic 3 days ago for 
+back pain. Following a CXR which was inconclusive she was 
+scheduled for a CT-scan this afternoon at ___. Her chest 
+CT showed multiple lobular and confluent pleural masses at the 
+left lung base concerning for metastatic disease with large 
+left-sided pleural effusion as well as collapsed left lung and
+mediastinal shift. She was then transferred to the ED and 
+thoracic surgery was consulted. Patient received IV morphine in 
+the ED with improvement in pain and currently reports to be
+comfortable. Patient has no obvious dyspnea and is able to speak 
+in full sentences effortlessly. 
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:
+Breast Cancer s/p lumpectomy and radiation
+
+PAST SURGICAL HISTORY:
+Tonsillectomy
+Open appendectomy
+ 
+Social History:
+___
+Family History:
+None
+ 
+Physical Exam:
+ADMISSION
+=========
+PHYSICAL EXAM:   Height: 1.65 m    Weight: 68.039 kg
+Temp: 97.8   HR: 98   BP: 141/74    RR: 19  O2 Sat: 96% RA
+GENERAL        
+[x] WN/WD  [x] NAD  [x] AAO  [ ] abnormal findings:
+
+HEENT          
+[x] NC/AT   [x] EOMI   [x] PERRL/A   [x] Anicteric
+[x] OP/NP mucosa normal     [x] Tongue midline
+[x] Palate symmetric  [x] Neck supple/NT/without mass
+[x] Trachea midline [x] Thyroid nl size/contour
+[ ] Abnormal findings:
+
+RESPIRATORY    
+[x] No respiratory distress   [x] posterior thorax TTP
+[x] Decreased fremitus and egophony over left lung, no breath
+sounds over left chest, no wheezing/rales/rhonchi b/l
+
+CARDIOVASCULAR 
+[x] RRR    [x] No JVD   [x] PMI nl  [x] No edema
+[x] Peripheral pulses nl    [x] No abd/carotid bruit
+[x] Abnormal findings: Loud systolic murmur heard best over left
+sternal border
+
+GI             
+[x] Soft    [x] NT   [x] ND  [x] No mass/HSM   [x] No hernia
+[x] Well-healed appendectomy scar
+[ ] Abnormal findings:
+
+GU             [x] Deferred  
+[ ] Nl genitalia    [ ] Nl pelvic/testicular exam    [ ] Nl DRE
+[ ] Abnormal findings:
+
+NEURO          
+[x] No facial asymmetry [x] Cognition intact
+[x] Cranial nerves intact   [ ] Abnormal findings:
+
+MS          
+[x] No clubbing   [x] No cyanosis   [x] No edema   [x] No
+tenderness  [x] Tone/align/ROM nl   [x] Palpation nl
+[x] Nails nl   [ ] Abnormal findings:
+
+LYMPH NODES   
+[x] Cervical nl      [x] Supraclavicular nl     [x] Axillary nl
+[ ] Abnormal findings:
+
+SKIN           
+[x] No rashes/lesions/ulcers
+[x] No induration/nodules/tightening     [ ] Abnormal findings:
+
+PSYCHIATRIC    
+[x] Nl judgment/insight    [x] Nl memory   [x] Nl mood/affect
+[ ] Abnormal findings:
+
+DISCHARGE
+=========
+VS 97.8 100-114/64-73  HR 97-102  RR18  96% RA (from 2L)
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM,  
+NECK: nontender supple neck 
+LYMPH NODES: no cervical, supra/infra-clavicular, or axillary 
+LAD
+CARDIAC: RRR, III/VI holosystolic murmur loudest at RUSB
+CHEST: left lung with decreased breath sounds at base, breath 
+sounds otherwise symmetric, no rales, 
+Chest tube out, L flank with dressing clean/dry 
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes
+
+ 
+Pertinent Results:
+ADMISSION
+=========
+___ 09:28PM BLOOD WBC-10.1* RBC-4.29 Hgb-12.9 Hct-38.2 
+MCV-89 MCH-30.1 MCHC-33.8 RDW-12.3 RDWSD-39.8 Plt ___
+___ 09:28PM BLOOD Neuts-72.7* Lymphs-18.0* Monos-7.1 
+Eos-0.7* Baso-0.6 Im ___ AbsNeut-7.36* AbsLymp-1.82 
+AbsMono-0.72 AbsEos-0.07 AbsBaso-0.06
+___ 10:22PM BLOOD ___ PTT-27.9 ___
+___ 09:28PM BLOOD Glucose-103* UreaN-12 Creat-0.6 Na-133 
+K-4.1 Cl-98 HCO3-23 AnGap-16
+
+PERTINENT
+=========
+___ 10:33AM PLEURAL WBC-450* ___ Polys-7* Lymphs-79* 
+Monos-13* Macro-1*
+___ 10:33AM PLEURAL TotProt-4.7 Glucose-92 LD(___)-338 
+Albumin-3.1 ___ Misc-BNP = 97 P
+___ 05:08AM BLOOD TotProt-6.4 Calcium-9.7 Phos-4.3 Mg-2.1
+___ 05:08AM BLOOD LD(LDH)-252*
+
+DISCHARGE
+=========
+___ 06:32AM BLOOD WBC-9.0 RBC-4.46 Hgb-13.0 Hct-38.9 MCV-87 
+MCH-29.1 MCHC-33.4 RDW-12.1 RDWSD-38.8 Plt ___
+___ 06:32AM BLOOD Glucose-115* UreaN-14 Creat-0.6 Na-136 
+K-3.9 Cl-96 HCO3-30 AnGap-14
+___ 06:32AM BLOOD Calcium-9.8 Phos-4.0 Mg-2.0
+
+MICROBIOLOGY
+============
+___ 10:33 am PLEURAL FLUID
+
+   GRAM STAIN (Final ___: 
+      1+    (<1 per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+      This is a concentrated smear made by cytospin method, 
+please refer to
+      hematology for a quantitative white blood cell count.. 
+
+   FLUID CULTURE (Final ___:    NO GROWTH. 
+
+   ANAEROBIC CULTURE (Preliminary):    NO GROWTH. 
+
+CYTOLOGY
+=========
+POSITIVE FOR MALIGNANT CELLS
+Consistent with metastatic lung adenocarcinoma.
+Note: The tumor cells are immunoreactive for TTF-1 and Napsin 
+and negative for ER, PR, GCDFP and mammaglobin. 
+
+IMAGING
+=======
+Chest CT ___:
+1. Compared with the outside hospital chest CT of 3 days prior, 
+there has been interval placement of a left-sided pleural 
+pigtail catheter, with significant drainage of the pleural 
+effusion. Only a small amount of pleural fluid remains. 
+2. In the left lower lobe, a large area of peribronchovascular 
+consolidations surrounded by ground-glass is presumably due to 
+re-expansion pulmonary edema. This could be confirmed by serial 
+radiographs, which are recommended at this time. 
+3. In the lingula, a large mass corresponds with findings on the 
+recent chest CT, and is concerning for a primary lung 
+malignancy. Given the nodular pleural thickening and history of 
+prior treated breast cancer, metastatic disease is also 
+considered. 
+4. Supraclavicular, mediastinal, and hilar lymphadenopathy is 
+detected, as described above. 
+5. Irregular soft tissue mass in the region of the left adrenal 
+gland appears contiguous with nodes in the retroperitoneum, also 
+concerning for malignancy/metastatic disease. 
+
+CT from ___ (___): Multiple pleural masses at the 
+left lung base consistent with metastatic disease. Large left 
+pleural effusion occupying most of the left hemithorax. Collapse 
+of most of the left lung. 5cm mass in left prevascular region 
+extending into the anterior left mediastinum which could 
+represent metastatic disease or pleural disease involving the 
+mediastinum. 
+ 
+Brief Hospital Course:
+___ woman with h/o L-sided breast cancer (s/p lumpectomy, XRT) 
+and ___ smoking history presenting with 2 weeks dyspnea on 
+exertion found to have massive left-sided pleural effusion and 
+pleural nodules concerning for metastatic disease.
+
+#Pleural Effusion: Most likely malignant given history of breast 
+CA and long smoking history with concern for metastatic disease 
+on CT. If malignant, most likely primary lung CA given recent 
+negative mammogram. Less likely infectious given absence of 
+fever, cough and CT findings. Less likely auto-immune given no 
+history of auto-immune conditions, no associated symptoms and CT 
+findings. Thoracentesis drained more than 5L of serosaguinous 
+fluid; chest tube was in place through ___. Pleural fluid 
+with ___ RBCs, 450 WBCs, TP 4.7, LDH 338, glu 92, pH 7.39, 
+most consistent with non-infectious exudative effusion. CT from 
+___ confirming lingular mass concerning for primary lung 
+malignancy as well as nodes in the retroperitoneum concerning 
+for metastatic disease. Cytology shows adenocarcinoma of the 
+lung. Serial CXRs and CT showed continued reexpansion pulmonary 
+edema which was treated with lasix. Patient has primary care 
+follow up and will be referred for oncology followup from there 
+with her prior breast cancer oncologist. She had an MRI done at 
+___ in the past several months, so no repeat MRI for 
+staging was conducted. She should have a PET scan done as an 
+outpatient for further staging purposes. 
+
+TRANSITIONAL ISSUES
+===================
+-follow up additional cytology results
+-close follow up with outpatient oncology- could consider 
+speaking with breast oncologist Dr. ___ (former 
+oncologist for breast cancer) about who she would recommend. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H pain 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth every 6 hours Disp 
+#*60 Tablet Refills:*0
+2. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 4 hours as needed 
+Disp #*30 Tablet Refills:*0
+3. Ondansetron 4 mg PO Q8H:PRN Nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth three times a day Disp 
+#*20 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY
+=======
+Pleural effusion
+Adenocarcinoma of the lung
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+Thank you for choosing to receive your care at ___. You were 
+admitted with shortness of breath, and found to have a large 
+left-sided pocket of fluid at the base of your lung called a 
+pleural effusion. The interventional pulmonology team here was 
+able to insert a drain into the pocked of fluid and evacuate it. 
+Studies of the fluid suggest that it may be coming from a tumor 
+in your lung, identified as a type of lung cancer called 
+adenocarcinoma, which was also seen on a cat scan of your chest. 
+
+
+You should avoid stressing your lungs (heavy lifting or 
+exercise, airplane flights) over the next 2 weeks. 
+
+We're sorry to give you such concerning news, and will make sure 
+you are connected with close outpatient care so that you can 
+continue the process of managing this illness moving forward. 
+Your follow up appointments are listed below. 
+
+We wish you all the best with your ongoing recovery. 
+
+Sincerely, 
+
+Your ___ care team.  
+ 
+Followup Instructions:
+___

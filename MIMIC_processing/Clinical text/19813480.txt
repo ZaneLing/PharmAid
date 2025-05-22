@@ -1,0 +1,248 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+SOB
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Pt is a ___ M with history of HTN, DM2 c/b neuropathy, L ankle, 
+chronic LBP presenting with SOB.
+
+Pt had been on a cruise to ___ when appx 3 days ago, he 
+developed acutely worsening SOB upon awakening in the AM.  Also 
+notes possible URI symptoms developing 1 day PTA.  Pt states he 
+also has had cough, sputum production, wheezing.  Also c/o 
+orthopnea and bilateral leg swelling which is new.  Denies 
+fevers/chills, n/v/d.
+
+Of note, pt had TTE in ___ to ___ tortuous aorta seen on chest 
+CT and this showed preserved EF: 70-75% with no significant 
+abnormalities.
+
+On arrival to the ED, VS: 97.8, 69, 123/90, 18, 98% RA
+Labs notable for WBC: 11.3, negative trop, BNP: 250
+EKG non-ischemic
+CXR showing pulmonary edema
+Pt given CTX/azithro, and admitted to medicine for further w/u 
+and management
+
+ROS: rest of 10-point ROS reviewed and is negative except as 
+noted above.
+
+ 
+Past Medical History:
+HTN
+DM2 c/b neuropathy
+OA in L ankle and back
+
+PAST SURGICAL HISTORY:
+Parotid tumor removal
+Schwannoma removal
+Lap band ___
+
+ 
+Social History:
+___
+Family History:
+Parotid tumor removal
+Schwannoma removal
+Lap band ___
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS: 98.0PO 125 / 70 72 20 96 4LNC
+GENERAL: Obese male in NAD, speaking in full sentences
+EYES: no scleral icterus, EOMI
+ENT: MMM, clear OP, normal hearing
+NECK: supple, JVP up at earlobe
+RESP: Diffuse wheezing and rhonchi in all lung fields.  Crackles 
+at bilateral bases, no respiratory distress
+CV: RRR, no m/r/g
+GI: obese, soft, NT/ND, +BS
+GU: no foley
+EXT: wwp, 2+ pitting edema in b/l ___
+SKIN: no rash, no jaundice
+NEURO: AOx3, no facial droop, moving all extremities with 
+purpose
+PSYCH: pleasant, normal mood and affect
+
+DISCHARGE EXAM:
+VITALS:98.6PO 141 / 80 71 17 95 Ra 
+GENERAL: Obese male in NAD, speaking in full sentences
+EYES: no scleral icterus, EOMI
+ENT: MMM, clear OP, normal hearing
+NECK: supple, no JVD
+RESP: CTA B/l, no respiratory distress
+CV: RRR, no m/r/g
+GI: obese, soft, NT/ND, +BS
+GU: no foley
+EXT: wwp, 1+ pitting edema in b/l ___
+SKIN: no rash, no jaundice
+NEURO: AOx3, no facial droop, moving all extremities with 
+purpose
+PSYCH: pleasant, normal mood and affect 
+ 
+Pertinent Results:
+ADMISSION LABS:
+=============
+___ 04:35AM BLOOD WBC-11.3* RBC-4.83 Hgb-15.3 Hct-46.1 
+MCV-95 MCH-31.7 MCHC-33.2 RDW-13.6 RDWSD-47.7* Plt ___
+___ 04:35AM BLOOD Neuts-77.5* Lymphs-11.3* Monos-9.5 
+Eos-0.2* Baso-0.2 Im ___ AbsNeut-8.78* AbsLymp-1.28 
+AbsMono-1.08* AbsEos-0.02* AbsBaso-0.02
+___ 04:35AM BLOOD Glucose-123* UreaN-30* Creat-0.9 Na-137 
+K-6.1* Cl-102 HCO3-25 AnGap-16
+___ 04:35AM BLOOD Calcium-8.5 Phos-3.9 Mg-1.9
+
+IMAGING:  
+========
+CXR ___: 
+1. Wedge-shaped retrocardiac opacity most likely represents 
+atelectasis 
+although. 
+2. Cardiomegaly and pulmonary vascular congestion 
+3. COPD 
+4. Probable trace bilateral pleural effusions 
+
+DISCHARGE LABS:
+==============
+___ 09:10AM BLOOD WBC-8.6 RBC-5.37 Hgb-16.4 Hct-50.7 MCV-94 
+MCH-30.5 MCHC-32.3 RDW-13.4 RDWSD-47.1* Plt ___
+___ 09:10PM BLOOD Glucose-184* UreaN-32* Creat-1.1 Na-137 
+K-4.1 Cl-93* HCO3-35* AnGap-13
+___ 09:10PM BLOOD Calcium-9.6 Phos-4.0 Mg-2.___SSESSMENT/PLAN:
+___ M with hx of HTN, DM2,c/b neuropathy and OA presenting with 
+acute SOB, likely HFpEF exacerbation iso dietary indiscretion 
+with possible component of RAD exacerbation.
+
+# SOB
+# HFpEF exacerbation
+Pt with SOB, wheezing, elevated JVD, peripheral edema, and 
+pulmonary infiltrates on CXR c/w acute HFpEF exacerbation likely 
+___ dietary indiscretion given pt's recent cruise.  Was diuresed 
+on the cruise without much improvement but may have been 
+slightly underdiuresed.  He was started IV Lasix 40mg with good 
+output (appx net negative 2L/24 hours).  TTE was ordered but not 
+done given the weekend and pt elected to have it performed 
+shortly after discharge.  He will be discharged on 40mg Lasix 
+for 5 more days as he was felt to still be slightly hypervolemic 
+on discharge but otherwise asymptomatic and sat'ing well on RA.  
+He will call his PCP on ___ morning to arrange for close ___. 
+ He was otherwise continued on his home BB and ___.
+
+# ?RAD exacerbation
+Pt also reports cough preceding symptoms of SOB with sputum 
+production and diffuse wheezing on exam.  Possible wheezing 
+could be attributed to cardiac wheeze, but as pt has been on 
+inhalers in the past, suspect possible component of RAD/COPD 
+given his extensive smoking history.  He was treated with 
+prednisone burst, nebs, and azithro with improvement in wheezing 
+and symptoms.
+
+# DM2 c/b neuropathy: Home metformin held and ISS started.  
+Continued home gabapentin
+
+# OA: Held home meloxicam until PCP ___, started Tylenol prn OA 
+pain
+
+TRANSITIONAL:
+============
+[ ] Pt needs OP TTE, ordered in ___, but pt would prefer it done 
+in ___ if possible.  Will call his PCP to see if this can be 
+changed.  
+[ ] Consider PFT's to evaluate for COPD given possible reactive 
+airway disease exacerbation on admission.  
+[ ] Also continue to encourage complete smoking cessation
+
+Billing: greater than 30 minutes spent on discharge counseling 
+and coordination of care
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. meloxicam 7.5 mg oral BID 
+2. Gabapentin 600 mg PO TID 
+3. MetFORMIN (Glucophage) 500 mg PO BID 
+4. Metoprolol Tartrate 100 mg PO BID 
+5. Losartan Potassium 50 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth every 6 hours Disp 
+#*30 Tablet Refills:*0 
+2.  Albuterol Inhaler ___ PUFF IH Q4H:PRN SOB 
+RX *albuterol sulfate [Ventolin HFA] 90 mcg 2 puff inhaled every 
+4 hours Disp #*2 Inhaler Refills:*0 
+3.  Azithromycin 500 mg PO Q24H Duration: 5 Doses 
+RX *azithromycin 500 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0 
+4.  Furosemide 40 mg PO DAILY Duration: 5 Days 
+RX *furosemide 40 mg 1 tablet(s) by mouth every day Disp #*5 
+Tablet Refills:*0 
+5.  PredniSONE 50 mg PO DAILY Duration: 5 Days 
+RX *prednisone 50 mg 1 tablet(s) by mouth daily Disp #*2 Tablet 
+Refills:*0 
+6.  Gabapentin 600 mg PO TID  
+7.  Losartan Potassium 50 mg PO DAILY  
+8.  MetFORMIN (Glucophage) 500 mg PO BID  
+9.  Metoprolol Tartrate 100 mg PO BID  
+10. HELD- meloxicam 7.5 mg oral BID  This medication was held. 
+Do not restart meloxicam until you discuss this with your PCP, 
+it may worsen fluid retention
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+CHF exacerbation (unknown recent EF)
+Viral URI
+Exacerbation of reactive airway disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came in with shortness of breath.  We think this may have 
+been due to a combination of a viral respiratory infection 
+causing bronchitis/COPD flare and a congestive heart failure 
+exacerbation caused by eating too much salt on your cruise.  We 
+treated you for both and you improved.
+
+We have scheduled you for an outpatient echocardiogram to be 
+done within 7 days.  It is currently scheduled at ___.  
+However, if you would like to change it to be done at ___, 
+please call your PCP or the ___ lab at ___ to 
+see if the referral can be transferred.
+
+Please also discuss with your PCP if formal testing for COPD 
+with pulmonary function testing would be helpful.
+
+Please continue taking all of your medications as prescribed and 
+return if you have worsening shortness of breath, chest pain, 
+swelling in your legs, or if you have any other concerns.
+
+It was a pleasure taking care of you at ___ 
+___.
+ 
+Followup Instructions:
+___

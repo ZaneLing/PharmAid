@@ -1,0 +1,545 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+scallops / oyster shell calcium
+ 
+Attending: ___
+ 
+Chief Complaint:
+Weakness and numbness
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+NIHSS Total: 3
+
+1a. Level of Consciousness: 0
+ 1b. LOC Question: 0
+ 1c. LOC Commands: 0 
+ 2.  Best gaze: 0
+ 3.  Visual fields: 0
+ 4.  Facial palsy: 1
+ 5a. Motor arm, left: 0
+ 5b. Motor arm, right: 0
+ 6a. Motor leg, left: 0
+ 6b. Motor leg, right: 0
+ 7.  Limb Ataxia: 0
+ 8.  Sensory: 1
+ 9.  Language: 0
+ 10. Dysarthria: 1
+ 11. Extinction and Neglect: 0
+
+Mr. ___ is a healthy ___ yo gentleman who presents w/ 
+L.
+weakness and numbness as a transfer from an OSH with concern for
+R.IPH. 
+
+___ notes that he was at his usual state of health until
+6:30 ___ this evening.  Patient notes that earlier today he was
+out shoveling snow for about ___ hours, he felt totally fine
+and had no issues completing this task.  He then went inside
+around 6:00 did some chores in the house for about half hour and
+then was talking to his wife when he felt as if he was acutely
+weak on the left side of his body, he notes that the left side 
+of
+his body "was not there".  He fell left into a door top desk
+though did not hit the ground, or his head.  He then took a few
+steps with the assistance of his wife towards a chair, declined
+help and fell again.  He and his wife note this is incredibly
+atypical for him, he does not have any difficulties ambulating 
+at
+baseline.  He additionally notes that he felt like his speech 
+was
+slurred at this time.  He reports holding his phone in his left
+hand and being unsure whether or not it was actually in his 
+hand.
+He denies any confusion, any difficulty performing tasks, any
+difficulty with language outside of the slightly slurred speech. 
+
+
+His wife brought him into ___ where he was reported
+to have a "right basal ganglia hemorrhage" and was transferred
+here for further care, however we do not have access to this
+imaging. He was notably noted to be hypertensive with systolics
+ranging 150s to the 170s.
+
+Since that time he feels as though his weakness and numbness has
+been overall improving.  He categorically denies any headache. 
+Nothing like this is ever happened before he, he has never had
+periods of weakness, paresthesias, or slurred speech that has
+resolved.  He denies any known history of hypertension, though
+notes that he has been fairly healthy and does not always see a
+doctor.
+ 
+Past Medical History:
+Glaucoma
+ 
+Social History:
+___
+Family History:
+Reports that his parents both died at relatively young ages, 
+though denies any known history of stroke or other neurologic 
+diseases   
+ 
+Physical Exam:
+Vitals: 97.2, HR 89, BP 168/92, RR 16, 94% RA 
+ General: Awake, cooperative, sitting up in bed.
+ HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted 
+in
+oropharynx.
+ Neck: Supple, no carotid bruits appreciated. No nuchal 
+rigidity.
+ Pulmonary: Normal work of breathing.
+ Cardiac: RRR, warm, well-perfused.
+ Abdomen: Soft, non-distended.
+ Extremities: 1+ ___ edema 
+ Skin: No rashes or lesions noted.
+  
+ Neurologic:
+ -Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. + mild dysarthia. Able to follow both 
+midline
+and appendicular commands. There was no evidence of apraxia or
+neglect. No agraphathesia. No extinction. 
+
+-Cranial Nerves:
+ II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation.  
+ V: Facial sensation decreased to light touch 
+ VII: L. NLFF, mild decreased activation 
+ VIII: Hearing intact to finger-rub bilaterally.
+ IX, X: Palate elevates symmetrically.
+ XI: ___ strength in trapezii bilaterally.
+ XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. + subtle pronator 
+drift.
+decreased rapid movement of left hand. No adventitious 
+movements,
+such as tremor or asterixis noted.
+   [___]
+  L   5-   5    5    5-   5    5   5-   5    5   5    5    4+
+  R   5    5    5    5    5    5   5    5    5   5    5    4+
+
+-Sensory: Decreased sensation to pinprick on essentially left
+hemibody (notes 30% compared to 100% on right) slightly more
+prominent at proximal > distal ext. Similarly decreased 
+sensation
+to temperature. Though proprioception is relatively intact to
+large excusrions of finger and thumb, possibly some subtle
+decrease to small excrusions on left. No extinction. 
+
+-Reflexes:
+   [Bic] [Tri] [___] [Pat] [Ach]
+ L   2     2      2      2     0
+ R   2     2      2      2     0 
+ Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. Slight dysmetria w/ FNF of
+left hand and HKS of left leg. 
+
+-Gait: Did not ambulate as pt was being taken to CT 
+
+====
+Physical Exam at Discharge:
+ PHYSICAL EXAMINATION: 
+ Vitals: reviewed in metavision 
+ General: Awake, cooperative, sitting up in bed.
+ HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted 
+in
+oropharynx.
+ Neck: Supple, no carotid bruits appreciated. No nuchal 
+rigidity.
+ Pulmonary: Normal work of breathing.
+ Cardiac: RRR, warm, well-perfused.
+ Abdomen: Soft, non-distended.
+ Extremities: 1+ ___ edema 
+ Skin: No rashes or lesions noted.
+  
+ Neurologic:
+ -Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. + mild dysarthia represented as intermittent
+slurring of speech. Able to follow both midline and appendicular
+commands. There was no evidence of apraxia or neglect. . No
+extinction. 
+
+-Cranial Nerves:
+ II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation.  
+ V: Facial sensation decreased to light touch 
+ VII: L. NLFF, mild decreased activation 
+ VIII: Hearing intact to finger-rub bilaterally.
+ IX, X: Palate elevates symmetrically.
+ XI: ___ strength in trapezii bilaterally.
+ XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. + subtle pronator 
+drift.
+decreased rapid movement of left hand. No adventitious 
+movements,
+such as tremor or asterixis noted.
+   [___]
+  L   5    5    5    5    5    5   4+   5    5   5    5    4
+  R   5    5    5    5    5    5   5    5    5   5    5    4+
+
+-Sensory: Decreased sensation to L on soft touch.  No 
+extinction.
+
+-Reflexes:DIffered. 
+
+-Coordination: No intention tremor. Slight dysmetria w/ FNF of
+left hand and HKS of left leg. No pronation or drift. No 
+rebound.
+
+-Gait: normal gait.  walked forward, backward, turned in 
+circles.
+
+ 
+Pertinent Results:
+___ 06:40AM BLOOD WBC-8.7 RBC-4.48* Hgb-13.9 Hct-41.6 
+MCV-93 MCH-31.0 MCHC-33.4 RDW-12.9 RDWSD-43.8 Plt ___
+___ 11:05PM BLOOD Neuts-53.5 ___ Monos-13.9* 
+Eos-4.0 Baso-1.1* Im ___ AbsNeut-4.45 AbsLymp-2.24 
+AbsMono-1.15* AbsEos-0.33 AbsBaso-0.09*
+___ 06:40AM BLOOD Plt ___
+___ 06:40AM BLOOD ___ PTT-29.0 ___
+___ 06:40AM BLOOD Glucose-98 UreaN-13 Creat-0.9 Na-141 
+K-4.0 Cl-106 HCO3-23 AnGap-12
+___ 06:40AM BLOOD ALT-10 AST-18 AlkPhos-95 TotBili-0.5
+___ 06:40AM BLOOD %HbA1c-5.5 eAG-111
+___ 06:40AM BLOOD Triglyc-102 HDL-43 CHOL/HD-3.9 
+LDLcalc-103
+___ 06:40AM BLOOD TSH-3.1
+
+==============
+
+Final Report 
+EXAMINATION:  CTA HEAD AND CTA NECK ___ CT HEADNECK 
+  
+INDICATION:  History: ___ with left sided weakness and slurred 
+speech. 
+  
+TECHNIQUE:  Helically acquired rapid axial imaging was performed 
+from the 
+aortic arch through the brain during the infusion of intravenous 
+contrast 
+material. Three-dimensional angiographic volume rendered, curved 
+reformatted 
+and segmented images were generated on a dedicated workstation. 
+This report is 
+based on interpretation of all of these images. 
+  
+DOSE:  Acquisition sequence: 
+   1) Stationary Acquisition 3.5 s, 0.5 cm; CTDIvol = 17.4 mGy 
+(Body) DLP = 
+8.7 mGy-cm. 
+   2) Spiral Acquisition 5.1 s, 39.7 cm; CTDIvol = 15.2 mGy 
+(Body) DLP = 604.7 
+mGy-cm. 
+ Total DLP (Body) = 613 mGy-cm. 
+  
+COMPARISON:  CT head ___ at 12:06 a.m., less than 1 
+hour prior. 
+Subsequent MRI Head ___. 
+  
+FINDINGS:  
+  
+Some of the images have been degraded by streak artifact from 
+dental amalgam.  
+Allowing for this; 
+  
+CTA NECK: 
+Bilateral carotid and vertebral artery origins are patent. 
+There is ___ stenosis, by NASCET criteria, of the bilateral 
+proximal 
+internal carotid arteries secondary to predominantly calcified 
+plaque on the 
+right and calcified plaque on the left.  Bilateral cervical 
+vertebral arteries 
+are widely patent. 
+  
+CTA HEAD: 
+There is atheromatous calcification of the carotid siphons 
+bilaterally and in 
+the proximal V4 segment the left vertebral artery without 
+flow-limiting 
+stenosis.  No evidence for flow-limiting stenosis elsewhere in 
+the major 
+intracranial arteries.  No evidence for an aneurysm or 
+arteriovenous 
+malformation.  The dural venous sinuses are patent. 
+  
+OTHER: 
+Right basal ganglia hemorrhage with intraventricular extension 
+is again noted, 
+better assessed on the preceding noncontrast head CT.  There is 
+mild mucosal 
+thickening in the ethmoid and frontal sinuses.  Mastoid air 
+cells and 
+pneumatized left petrous apex air cells are well aerated. 
+  
+The thyroid is unremarkable.  No cervical lymphadenopathy by CT 
+criteria.  
+There are numerous nonenlarged bilateral paratracheal and AP 
+window lymph 
+nodes.  Several right paratracheal lymph nodes contains small 
+calcifications, 
+suggesting prior granulomatous disease.  There is mild 
+atelectasis in the 
+included upper lungs.  There is also mild pleural/parenchymal 
+scarring at the 
+lung apices, right greater than left, with small calcifications 
+on the left.  
+There is multilevel cervical spondylosis. 
+  
+IMPRESSION: 
+  
+  
+1. No evidence for an intracranial aneurysm or arteriovenous 
+malformation. 
+2. ___ stenosis of bilateral proximal internal carotid 
+arteries by NASCET 
+criteria. 
+3. Right basal ganglia hemorrhage with intraventricular 
+extension, better 
+assessed on the immediately preceding noncontrast head CT. 
+4. Numerous nonenlarged paratracheal and AP window lymph nodes, 
+etiology 
+unclear.  Several right paratracheal lymph nodes contain 
+calcifications, 
+suggesting prior granulomatous disease. 
+=========
+Final Report 
+EXAMINATION:  MR HEAD W AND W/O CONTRAST T9112 MR HEAD. 
+  
+INDICATION:  History: ___ with left sided weakness  // eval 
+hemorrhagic 
+stroke. 
+  
+TECHNIQUE:  Sagittal and axial T1 weighted imaging were 
+performed. After 
+administration of 8 mL of Gadavist intravenous contrast, axial 
+imaging was 
+performed with gradient echo, FLAIR, diffusion, and T1 
+technique. Sagittal 
+MPRAGE imaging was performed and re-formatted in axial and 
+coronal 
+orientations. 
+  
+COMPARISON:  CTA head and neck ___, CT head ___. 
+  
+FINDINGS:  
+  
+There are several scattered areas of low signal on GRE 
+corresponding with 
+hemorrhage, in the region of the right basal ganglia 
+particularly in the 
+putamen and thalamus, the largest measuring about 2.8 x 1.1 cm 
+(11; 14).  
+There is intraventricular extension of hemorrhage into the  
+lateral 
+ventricles, with layering blood in the bilateral occipital horns 
+(11; 13, 15). 
+  
+There is an area of restricted diffusion in the right basal 
+ganglia extending 
+into the right temporal lobe, corresponding with increased 
+signal intensity on 
+DWI and low signal on ADC, and increased signal on FLAIR (5, 6; 
+18).  There is 
+associated edema around this diffusion abnormality (11, 12; 14). 
+ There is 
+minimal mass effect with no midline shift or hydrocephalus. 
+  
+Cavum septum pellucidum et vergae is redemonstrated.  Prominent 
+ventricles and 
+sulci are associated with age related involutional change.  
+There are multiple 
+foci of subcortical and periventricular hyperintensities on T2 
+and FLAIR which 
+are nonspecific and likely represent chronic small vessel 
+ischemic disease.  
+Flow voids are preserved. 
+  
+Mucosal thickening of the ethmoid air cells is seen.  The 
+visualized portion 
+of the orbits is normal. 
+  
+There is no abnormal enhancement after contrast administration. 
+  
+IMPRESSION: 
+  
+  
+1. Scattered right basal ganglia hemorrhage, with 
+intraventricular extension, 
+and minimal mass effect, which is most likely a hypertensive 
+hemorrhage due to 
+its location and distribution, or alternatively due to 
+hemorrhagic 
+transformation of an acute right basal ganglia infarct. 
+2. No evidence of underlying tumor or mass. 
+3. Chronic small vessel ischemic disease. 
+=============
+EKG: Sinus rhythm
+within normal limits
+No previous ECGs available
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo w/ pmhx of glaucoma who is admitted to 
+the Neurology stroke service for evaluation of left sided 
+weakness and numbness. On CTH found to have R.IPH (likely tail 
+of putamen vs IC, and thalamus) and tiny area of 
+intraventricular extension (ICH1). Etiology of IPH most likely 
+hypertensive given past history and presentation on imaging. 
+Unable to exclude ischemic stroke with hemorrhagic 
+transformation. MRI conducted on ___ corroborated CT findings 
+of stable hemorrhage in the right basal ganglia with 
+intraventricular extension - no evidence of underlying tumor or 
+mass. EKG showed NSR. On physical exam, weakness and numbness 
+improved throughout hospital stay (reported sensation at 80% on 
+left lower extremity with no weakness at discharge). Slight 
+dysarthria and R NFLL remains due to facial droop. 
+Patient started on lisinopril 5 mg to control hypertension for 
+stroke prevention. 
+Other vascular risk factors within normal limits.
+His exam on discharge was notable for left nasolabial fold 
+flattening, slight dysarthria, and 80% sensation on left lower 
+extremity.
+His stroke risk factors include the following:
+1) Hypertension (BP on admission 168/92)
+
+-----------
+Transitional issues:
+- Follow-up with your primary care provider for hypertension 
+management and other primary prevention.
+-Obtain repeat MRI with and without contrast in 2 to 3 months to 
+rule out underlying mass.
+-Follow-up with stroke neurology in 2 to 3 months.
+
+========================================
+
+AHA/ASA Core Measures for Intracerebral Hemorrhage
+1. Dysphagia screening before any PO intake? (x) Yes - () No. If 
+no, reason why:
+2. DVT Prophylaxis administered? () Yes - (x) No. bleeding risk 
+and ambulating 
+3. Smoking cessation counseling given? (x) Yes - () No [reason 
+() non-smoker - () unable to participate]
+4. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given in written 
+form?
+(x) Yes - () No
+5. Assessment for rehabilitation and/or rehab services 
+considered? (x) Yes - () No. If no, why not? (I.e. patient at 
+baseline functional status)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Calcium Carbonate 500 mg PO QID:PRN Reflux 
+2. Timolol Maleate 0.25% 1 DROP BOTH EYES BID 
+
+ 
+Discharge Medications:
+1.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth once a day Disp #*90 
+Tablet Refills:*0 
+2.  Calcium Carbonate 500 mg PO QID:PRN Reflux  
+3.  Timolol Maleate 0.25% 1 DROP BOTH EYES BID  
+4.Outpatient Occupational Therapy
+Evaluation and Treatment:
+
+Nontraumatic intracerebral hemorrhage, unspecified
+ICD 10 code: ___.9
+5.Outpatient Physical Therapy
+Evaluation and Treatment:
+
+Nontraumatic intracerebral hemorrhage, unspecified
+ICD 10 code: ___.9
+6.Outpatient Speech/Swallowing Therapy
+Evaluation and Treatment:
+
+Nontraumatic intracerebral hemorrhage, unspecified
+ICD 10 code: ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hemorrhagic Stroke 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+==================================================
+Dear Mr. ___,
+
+You were hospitalized due to symptoms of left sided weakness and 
+numbness resulting from an ACUTE HEMORRHAGIC STROKE, a condition 
+where a blood vessel providing oxygen and nutrients to the brain 
+is blocked by lack of blood flow secondary to a bleed. The brain 
+is the part of your body that controls and directs all the other 
+parts of your body, so damage to the brain from being deprived 
+of its blood supply can result in a variety of symptoms.
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+
+-Age, hypertension.
+
+We are changing your medications as follows:
+
+- Starting lisinopril 5 mg daily
+
+-You will need to follow-up with your primary care provider, as 
+well as the stroke neurologist for ongoing management.  You will 
+need a repeat MRI with and without contrast and 2 to 3 months to 
+rule out underlying mass.
+
+Please take your other medications as prescribed.
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+======================================
+
+ 
+Followup Instructions:
+___

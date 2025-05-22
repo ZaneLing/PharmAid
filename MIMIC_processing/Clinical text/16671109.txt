@@ -1,0 +1,296 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 08:12AM BLOOD WBC-7.0 RBC-4.36* Hgb-13.5* Hct-41.5 
+MCV-95 MCH-31.0 MCHC-32.5 RDW-14.6 RDWSD-51.0* Plt ___
+___ 08:12AM BLOOD ___
+___ 08:12AM BLOOD Glucose-108* UreaN-16 Creat-0.9 Na-143 
+K-4.7 Cl-105 HCO3-27 AnGap-11
+___ 08:12AM BLOOD ALT-24 AST-23 AlkPhos-64 TotBili-2.6* 
+DirBili-0.5* IndBili-2.1
+___ 08:12AM BLOOD Lipase-10
+___ 10:00AM BLOOD CK-MB-4 cTropnT-0.02*
+___ 03:56PM BLOOD cTropnT-0.02*
+___ 08:12AM BLOOD Calcium-9.1 Phos-2.9 Mg-2.0
+___ 08:12AM BLOOD CRP-74.9*
+___ 08:12AM BLOOD TSH-0.44
+
+DISCHARGE LABS
+==============
+___ 08:35AM BLOOD WBC-6.2 RBC-4.53* Hgb-13.8 Hct-43.7 
+MCV-97 MCH-30.5 MCHC-31.6* RDW-14.4 RDWSD-51.4* Plt ___
+___ 08:35AM BLOOD Plt ___
+___:35AM BLOOD Glucose-140* UreaN-18 Creat-1.0 Na-143 
+K-4.3 Cl-105 HCO3-24 AnGap-14
+___ 08:12AM BLOOD ALT-24 AST-23 AlkPhos-64 TotBili-2.6* 
+DirBili-0.5* IndBili-2.1
+
+IMAGING
+=======
+CXR ___
+Comparison to ___.  No relevant change is seen.  
+Moderate 
+cardiomegaly persists.  No pulmonary edema.  Mild retrocardiac 
+atelectasis.  No pleural effusions.  No pneumothorax. 
+
+ABDOMINAL ULTRASOUND ___
+IMPRESSION: 
+1. No focal liver lesion, no gallstones and no biliary 
+dilatation. 
+2. Pulsatile flow in the main portal vein and a distended IVC 
+are consistent with right heart failure. 
+3. Splenomegaly.  Two slightly hyperechoic splenic lesions 
+likely represent hemangiomas. 
+4. Atherosclerotic ectatic distal aorta measuring up to 2.8 cm.  
+Follow-up 
+ultrasound in ___ years should be obtained to assess stability. 
+5. Trace right and left pleural effusions. 
+RECOMMENDATION(S):  Follow-up ultrasound of the aorta should be 
+obtained in ___ years to assess stability. 
+
+TTE ___
+Quantitative biplane left ventricular ejection fraction is 52 % 
+(normal 54-73%).IMPRESSION: Severe concentric left ventricular 
+hypertrophy with mildly reduced global and normal regional left 
+ventricular systolic function. Severely hypertrophied right 
+ventricle with dilated right ventricle and mild global 
+hypokinesis. Strain measurements are highly  Consistent with 
+known amyloid cardiomyopathy. Dilated thoracic aorta. At least 
+moderate pulmonary hypertension.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+24 HR Data (last updated ___ @ 738)
+    Temp: 97.6 (Tm 98.3), BP: 128/78 (124-140/76-82), HR: 55
+(55-67), RR: 20 (___), O2 sat: 97% (97-99), O2 delivery: Ra,
+Wt: 199.51 lb/90.5 kg  
+Fluid Balance (last updated ___ @ 922) 
+  Last 8 hours  Total cumulative 0ml
+    IN: Total 0ml
+    OUT:  Total 0ml, Urine Amt 0ml
+  Last 24 hours  Total cumulative -1000ml
+    IN: Total 600ml, PO Amt 600ml
+    OUT:  Total 1600ml, Urine Amt 1600ml, Emesis 0ml  
+ 
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no 
+pallor
+or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple with JVP of 10 cm.   
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills,
+lifts.  
+LUNGS: Resp were unlabored, no accessory muscle use. Mild fine
+bibasilar crackles, no wheezes or rhonchi.  
+ABDOMEN: Soft, mild epigastric tenderness. No HSM or tenderness. 
+
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+ 
+Brief Hospital Course:
+Brief Hospital Course:
+======================
+Mr. ___ is a ___ man with a history of HTN, HLD, CHF (LVEF 
+40-45%, ___, single kidney d/t congenital anomaly, cardiac 
+amyloidosis ddx ___ on PYP, who presented to the ___ 
+emergency department from ___ with complaint of chest 
+pain, fine crackles on lung exam and elevated JVP 12 appearing 
+to be slightly volume up. There was initial concern for 
+pericarditis and echocardiogram was obtained which demonstrated 
+elevated filling pressures and signs of volume overload but 
+otherwise no significant changes from previous transthoracic 
+echocardiograms. He was given 20mg of IV Lasix to which he 
+responded well with improvement in his symptoms. He was 
+transitioned to 20mg PO Lasix on day of discharge for further 
+diuresis with instructions to continue daily Lasix for 3 days 
+after discharge followed by as needed Lasix dosing based on his 
+dry weight obtained at home after completing his ___ day of 
+daily dosing. While hospitalized he experienced LUQ pain and 
+underwent abdominal ultrasound which demonstrated small splenic 
+lesions likely hemangiomas and was otherwise unrevealing for 
+cause of pt's pain which he noted did improve somewhat with 
+movement of his bowels. Recommended he ensure adequate bowel 
+movements and increase his daily fiber with further outpatient 
+followup as needed. In addition he experience a slight gout 
+flare following IV Lasix for which he was prescribed a 3-day 
+course of colchicine. He was discharged home in stable condition 
+with instructions regarding his as needed Lasix dosing to which 
+he demonstrated good understanding. 
+
+TRANSITIONAL ISSUES
+===================
+[] ___ NP f/u in ___ days for volume status exam, gout 
+as well as ___ function and electrolytes given 
+additional diuresis and colchicine. 
+[] Primary care f/u for further workup and evaluation of 
+patient's acute on chronic LUQ pain after pt continues with 
+bowel regimen and increased fiber intake.
+[] Abdominal ultrasound demonstrated atherosclerotic ectatic 
+distal aorta measuring up to 2.8 cm.  Follow-up ultrasound in 
+___ years should be obtained to assess stability. 
+
+#Atypical chest pain
+# TTR Amyloidosis: 
+# HFrEF (LVEF 40-45%) 
+Pt presented with atypical chest pain with EKG w/ no concerning 
+STTWC, cardiac enzymes w/in normal limits, bedside TTE w/o 
+evidence of effusion or tamponade. Though initially appearing 
+euvolemic by exam, echocardiogram demonstrated elevated filling 
+pressures and JVP on re-evaluation was thought to be elevated. 
+Initial concern for pericarditis vs GI cause vs tifamidis AE was 
+considered. Echo did not demonstrate pericarditis, no known AE 
+of tifamidis causing GI discomfort or pericarditis and pt's 
+symptoms of chest pain and pressure improved with diuresis 
+lessoning c/f GI as underlying cause. His cardiologist Dr. ___ 
+was notified regarding patient's status and hospitalization. He 
+was continued on Eliquis for left arial contractile dysfunction. 
+
+PRELOAD: Lasix (standing for 3 days post discharge then PRN) 
+AFTERLOAD: lisinopril, eplerenone
+NHBK: Held as BB CI in amyloid cardiomyopathy
+
+#Gout
+Pain in right great toe after receipt of Lasix concerning for 
+gout flare. Prescribed colchicine upon discharge. 
+
+#MGUS
+Last seen by Oncologist Dr. ___ ___. At that time 
+noted to have low M spike, no evidence of anemia, renal failure 
+or hypercalcemia. No bone marrow biopsy was done. No B symptoms 
+such as fever, night sweats or weight loss to suggest a 
+lymphoproliferative disorder. 
+
+#Abdominal pain 
+Screening AAA US in ___ which was normal. History of congenital 
+unilateral kidney, on right. History of hernia. History of 
+functional intestinal d/o and colonic adenoma. Lipase and LFTS 
+were within normal limits and abdominal ultrasound was 
+ressuring. Suspect possible constipation given improvement in 
+symptoms with bowel movement though further workup may be 
+warranted given ongoing symptoms. Recommended increased fiber 
+and ensuring regular bowel movements. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 40 mg PO DAILY 
+2. Eplerenone 25 mg PO DAILY 
+3. Apixaban 5 mg PO BID 
+4. Multivitamins 1 TAB PO DAILY 
+5. tafamidis 61 mg oral DAILY 
+6. Aspirin 81 mg PO ONCE 
+
+ 
+Discharge Medications:
+1.  Colchicine 0.6 mg PO DAILY 
+For gout flare take 2 tabs. One hour later take 1 tab. Then take 
+1 tab daily until flare is over.  
+RX *colchicine 0.6 mg 1 tablet(s) by mouth once a day Disp #*10 
+Capsule Refills:*0 
+2.  Furosemide 20 mg PO DAILY:PRN weight gain  Duration: 1 Dose 
+Please take for 2lb weight gain in 24-hours.  
+RX *furosemide 20 mg 1 tablet(s) by mouth daily as needed Disp 
+#*30 Tablet Refills:*0 
+3.  Apixaban 5 mg PO BID  
+4.  Aspirin 81 mg PO ONCE Duration: 1 Dose  
+5.  Eplerenone 25 mg PO DAILY  
+6.  Lisinopril 40 mg PO DAILY  
+7.  Multivitamins 1 TAB PO DAILY  
+8.  tafamidis 61 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+Acute Heart Failure Exacerbation
+
+Secondary Diagnosis 
+HTN
+Cardiac amyloidosis
+MGUS
+Congenital solitary kidney
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure taking care of you at ___ 
+___.  
+
+WHY WAS I ADMITTED TO THE HOSPITAL?  
+=====================================
+- You were admitted to the hospital because you were having 
+chest pain and tightness with breathing.
+ 
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+============================================
+- While in the hospital we did some tests and took pictures of 
+your heart with an EKG and echocardiogram to look at how it is 
+pumping and functioning.  
+- We felt you had extra fluid in your body based on your exam 
+and the echocardiogram of your heart and felt this was 
+contributing to your symptoms. To help we gave you a dose of 
+Lasix (water pill) which helped eliminate the extra fluid in 
+your body and improved your symptoms. 
+- Because you were also having abdominal pain, we did an 
+ultrasound of your abdomen which showed some small lesions on 
+your liver thought to be hemangiomas which do not require 
+intervention. 
+  
+ WHAT SHOULD I DO WHEN I GO HOME?
+================================== 
+- You should continue to take your medications as prescribed.  
+- If you are experiencing new or concerning chest pain that is 
+coming and going you should call the heartline at ___. 
+If you are experiencing persistent chest pain that isnt getting 
+better with rest or nitroglycerine you should call ___.  
+- You should also call the heartline if you develop swelling in 
+your legs, abdominal distention, or shortness of breath at 
+night.  
+- Please attend your appointments. 
+
+Regarding your diuresis:
+- Take 20mg of Lasix in the morning on ___ 
+___, and ___ - then stop taking daily lasix. On 
+___ morning, weigh yourself. This will be your "dry weight". 
+- Weigh yourself every morning. If your weight increases by 2lbs 
+or more, take 20mg of Lasix and make sure you start urinating 
+more than usual. Weigh yourself the next day and if your weight 
+is still above your dry weight by 2lbs or more, call your 
+cardiologist or nurse practitioner for further guidance 
+regarding your Lasix dosing. 
+
+ We wish you the best!  
+ Your ___ Care Team  
+ 
+Followup Instructions:
+___

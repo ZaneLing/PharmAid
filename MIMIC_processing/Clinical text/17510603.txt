@@ -1,0 +1,180 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Major Surgical or Invasive Procedure:
+none
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 07:38AM BLOOD WBC-7.1 RBC-3.95 Hgb-12.0 Hct-36.7 MCV-93 
+MCH-30.4 MCHC-32.7 RDW-12.9 RDWSD-44.4 Plt ___
+___ 07:38AM BLOOD Glucose-97 UreaN-11 Creat-0.7 Na-142 
+K-3.9 Cl-103 HCO3-26 AnGap-13
+___ 07:38AM BLOOD Calcium-9.6 Phos-3.6 Mg-2.0
+
+___ imaging:
+- Left hand and wrist plain films (___):
+IMPRESSION: Diffuse degenerative change and bony 
+demineralization
+without displaced fracture or dislocation of the wrist or hand.
+
+- CXR (___): No evidence of acute cardiopulmonary process.
+
+- ___ (___): IMPRESSION:
+1. Small curvilinear area of hyperdensity within a sulcus along
+the medial margin of the right frontal lobe concerning for a
+subarachnoid hemorrhage. This may represent benign
+mineralization, however, no prior studies are available for
+comparison and in the setting of trauma, this could represent a
+small bleed. Consider short-term follow-up interval CT scan of
+the head to assess for stability.
+2. Advanced parenchymal atrophy and nonspecific white matter
+disease.
+
+- CTA head and neck (___):
+In comparison to the outside head CT ___ at 14:44,
+there is a similar interval appearance of a small curvilinear
+hyperdensity within the right frontal lobe adjacent to the
+anterior horn of the right lateral ventricle, consistent with a
+small focus of subarachnoid blood (2:14). No new sites of
+hemorrhage are identified. No midline shift. Basal cisterns are
+patent. No intraventricular extension.
+
+The ___ is patent. There is no high-grade stenosis,
+occlusion delete or aneurysm greater than 3 mm. Specifically, no
+vascular abnormalities identified in the right frontal lobe.
+
+There is a focal out-pouching of an extra-foraminal portion of
+the right carotid ICA which will be better evaluated on the
+reformatted images (3:184).
+
+The left vertebral artery is hypoplastic from its origin. The
+proximal aspect of the V3 segment is difficult to definitively
+visualize as it leaves the transverse foramen heading towards 
+the
+dura (3:205).
+
+MRI
+1. Gyriform gradient echo susceptibility artifact overlying the 
+medial right 
+frontal lobe, with corresponding T2 hypointense signal and 
+likely cortical 
+volume loss, suggesting superficial siderosis and mild 
+underlying 
+encephalomalacia rather than acute subarachnoid hemorrhage. 
+2. No acute infarct.  No intracranial mass. 
+3. Additional findings described above. 
+
+EEK: no seizure activity
+
+DISCHARGE LABS:
+
+___ 05:30AM BLOOD WBC-6.6 RBC-3.70* Hgb-11.5 Hct-34.5 
+MCV-93 MCH-31.1 MCHC-33.3 RDW-12.7 RDWSD-43.8 Plt ___
+___ 10:20AM BLOOD Glucose-100 UreaN-17 Creat-0.7 Na-142 
+K-4.1 Cl-102 HCO3-24 AnGap-16
+___ 05:30AM BLOOD Calcium-8.8 Phos-3.8 Mg-2.0 UricAcd-5.___ year old female with HTN, dementia, who presents after 
+episode of unresponsiveness found to have small SAH on CT scan. 
+Repeat scan showed stability. she was evaluated by the neurology 
+team and recommend an MRI with and w/o IPH protocol which showed 
+siderosis without SAH, suggestive of cerebral amyloid 
+angiopathy. She was referred to ___ for further 
+follow up. Otherwise, EEG was unremarkable. The etiology of her 
+LOC was without a focal source. Tele did not demonstrate any 
+arrhythmia. Cardiac work up including EKG and trop were 
+unrevealing. 
+
+ACUTE/ACTIVE PROBLEMS:
+# Nonaneurysmal SAH:
+Patient with stable SAH from her 2 CT scans 12 hours apart. Seen
+by neurosurgery with no plans for any surgical intervention. 
+Neurology was consulted and recommended MRI to eval for cerebral 
+amyloid angiopathy. MRI performed for further evaluation of SAH 
+and cause of it, which revealed siderosis suggestive of CAA for 
+which she was referred to ___ Neurology. EEG was 
+unremarkable. 
+
+# Unresponsive episode
+# ?Syncope
+Episode of unresponsiveness was less than ___, did not appear to 
+be post-ictal as described by witness. EEG was performed to eval 
+for seizure, which revealed no epileptic form activity. She was 
+monitored on telemetry w/ no arrhythmia. She had no further 
+episodes of unresponsiveness.  
+
+# Dementia
+Appears to be at baseline per family
+
+# Code Status
+Currently full code, but explained to family her elderly age and 
+dementia. Family currently in discussion, but thinking about 
+making patient DNR in near future
+
+CHRONIC/STABLE PROBLEMS:
+# Hypertension:
+- Lotrel NF; continued amlodipine 10mg and lisinopril 40mg while 
+inpatient
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amlodipine-benazepril ___ mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Doxycycline Hyclate 100 mg PO BID 
+RX *doxycycline hyclate 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*10 Tablet Refills:*0 
+2.  amlodipine-benazepril ___ mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Subarachnoid Hemorrhage
+Unresponsive episode
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you.
+
+You were admitted because you had an episode of 
+unresponsiveness. A CT scan of your head revealed a small bleed 
+in your brain. You had an MRI which revealed siderosis 
+suggestive of cerebral amyloid angiopathy (CAA). No acute 
+arachnoid hemorrhage was seen. EEG was pending prior to 
+discharge but the preliminary read did not show any seizure 
+activity. Given the finding of siderosis and possible CAA she 
+should follow up with a neurologist. In addition, you were found 
+to have a cellulitis of your left hand for which you were given 
+doxycycline with significant improvement.  
+
+ 
+Followup Instructions:
+___

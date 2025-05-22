@@ -1,0 +1,160 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+CC: BRBPR x 1 
+ 
+Major Surgical or Invasive Procedure:
+colonoscopy
+ 
+History of Present Illness:
+___ year old F with a PMH of hypothyroidism and anxiety who 
+presents with BRBPR after a recent colonoscopy. 
+
+Patient in her USOH and got a routine screening colonoscopy at 
+___ on ___. During the colonoscopy 3 polyps were removed 
+and she did well at home initially. Yesterday evening she had a 
+bowel movement with bright red blood that filled the toilet. 
+Denied any abdominal pain or rectal pain. Unclear if stool was 
+dark. She reported feeling a little lightheaded and off balance 
+following the episode. 
+
+She decided to come to the ED where she had another episode of 
+blood on her toilet paper after going to the bathroom. Currently 
+denies dizziness/lightheaded. No chest pain, shortness of 
+breath, nausea, vomiting, abdominal pain. No headaches, fevers, 
+chills.  Has never had GI bleeding in the past.   
+
+In the ED, patient with a T of 98 HR 61 RR 18 BP 146/77 O2: 100% 
+on RA. She had maroon heme + stool but PE otherwise normal. Her 
+hemoglobin was 11.3. 
+
+ 
+Past Medical History:
+Depression
+ 
+Social History:
+___
+Family History:
+no history of colon cancer 
+
+ 
+Physical Exam:
+Vitals: 98.3 PO 138 / 75 59 18 99 RA 
+Gen: Lying in bed in no apparent distress, awake and alert
+HEENT: AT, NC, PERRL, EOMI, MMM, hearing grossly intact
+CV: S1, S2, RRR no M/R/G
+Pulm: CTA b/l, no wheeze, rhonchi, or rales
+GI: (+) BS, soft, NT, ND, no HSM 
+MSK: No edema
+Skin: No rashes or ulcerations evident
+Neuro: A+O x4, speech fluent, face symmetric, moving all 
+extremities
+Psych: calm mood, appropriate affect
+
+ 
+Pertinent Results:
+Admission Labs:
+
+___ 09:00AM BLOOD WBC-7.1 RBC-3.87* Hgb-11.3 Hct-35.2 
+MCV-91 MCH-29.2 MCHC-32.1 RDW-15.9* RDWSD-53.0* Plt ___
+___ 09:00AM BLOOD Glucose-95 UreaN-23* Creat-0.8 Na-142 
+K-5.4* Cl-105 HCO3-25 AnGap-12
+___ 09:11AM BLOOD Lactate-1.6 K-5.6 -> 3.9*
+
+Discharge Labs:
+
+___ 06:22AM BLOOD WBC-4.4 RBC-3.70* Hgb-11.0* Hct-33.3* 
+MCV-90 MCH-29.7 MCHC-33.0 RDW-15.6* RDWSD-51.3* Plt ___
+___ 06:22AM BLOOD Glucose-85 UreaN-7 Creat-0.8 Na-140 K-4.1 
+Cl-103 HCO3-24 AnGap-13
+
+Colonoscopy
+A first polypectomy site with two ulcerations was seen at 35cm. 
+There was a heme pigmented spot (stigmata of recent bleeding) on 
+one of them. (endoclip)
+A second polypectomy site was visualized at the hepatic flexure. 
+There was a 1cm ulcerated polypectomy site with stigmata of 
+recent bleeding. There was a small amount of clot noted with no 
+active bleeding seen. There was surrounding erythema at the 
+polypectomy site. (endoclip)
+A third polypectomy site was seen in the cecum. Initially there 
+was a small amount of fresh blood that cleared with irrigation. 
+The polypectomy site was erythematous and there was a small 
+central pigmented spot that appeared to be a source of some 
+bleeding. The area of erythema may be residual polyp vs erythema 
+from the polypectomy. (endoclip)
+Diverticulosis of the ascending colon
+Polyp in the sigmoid
+Otherwise normal colonoscopy to cecum
+ 
+Brief Hospital Course:
+___ year old F with a PMH of hypothyroidism and anxiety who 
+presents with BRBPR after a recent colonoscopy. 
+
+#Lower GIB 
+Had a screening colonoscopy with 3 polyps removed at OSH on 
+___. Presents with BRBPR. Colonoscopy showed ulcerations with 
+stigmata of recent bleeding at each polypectomy site s/p 
+endoclip. H/H remained stable. GI recommends f/u Dr. ___ 
+consider repeat ___ in one year. They also recommend she 
+follow-up with her PCP prior to the next GI appointment to 
+discuss whether work-up for bleeding diathesis is necessary. She 
+was instructed to resume her home ASA in one week.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Levothyroxine Sodium Dose is Unknown  PO DAILY 
+3. Citalopram 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Levothyroxine Sodium 75 mcg PO DAILY  
+2.  Citalopram 20 mg PO DAILY  
+3. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until one week from your colonoscopy.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Lower gastrointestinal bleed
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital due to bleeding from your 
+lower GI tract after recently having a screening colonoscopy. 
+You were seen by the GI team and had a repeat colonoscopy that 
+showed evidence of previous bleeding from the sites in your 
+colon where the polyps were removed. During the procedure, they 
+placed clips to help prevent further bleeding at these site. 
+
+You were likely more prone to bleeding because you take aspirin. 
+However, the GI team recommends you speak to your PCP about the 
+possible need to be worked up for a bleeding disorder before 
+your next colonoscopy.
+
+Please hold off taking aspirin for one week.
+ 
+Followup Instructions:
+___

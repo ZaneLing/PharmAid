@@ -1,0 +1,291 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization, including coronary angiography
+
+attach
+ 
+Pertinent Results:
+===============
+ADMISSION LABS:
+===============
+___ 03:35PM BLOOD WBC-4.4 RBC-4.45* Hgb-13.2* Hct-40.9 
+MCV-92 MCH-29.7 MCHC-32.3 RDW-12.8 RDWSD-43.0 Plt ___
+___ 03:35PM BLOOD Neuts-57.8 ___ Monos-13.3* 
+Eos-1.4 Baso-0.5 Im ___ AbsNeut-2.57 AbsLymp-1.19* 
+AbsMono-0.59 AbsEos-0.06 AbsBaso-0.02
+___ 03:35PM BLOOD ___ PTT-31.2 ___
+___ 03:35PM BLOOD Plt ___
+___ 03:35PM BLOOD Glucose-83 UreaN-13 Creat-0.8 Na-140 
+K-5.0 Cl-103 HCO3-26 AnGap-11
+___ 03:35PM BLOOD CK(CPK)-83
+___ 03:35PM BLOOD CK-MB-1
+___ 03:35PM BLOOD cTropnT-0.13*
+___ 10:00PM BLOOD cTropnT-0.10*
+___ 03:50AM BLOOD cTropnT-0.07*
+___ 03:35PM BLOOD Cholest-231*
+___ 03:35PM BLOOD %HbA1c-5.2 eAG-103
+___ 03:35PM BLOOD Triglyc-106 HDL-57 CHOL/HD-4.1 
+LDLcalc-153*
+
+========
+REPORTS:
+========
+CARDIAC CATH ___:
+Coronary Description The coronary circulation is right dominant. 
+
+
+LM:The Left Main, arising from the left cusp, is a large caliber 
+vessel. This vessel bifurcates into the Left Anterior Descending 
+and Left Circumflex systems. There is a 30% stenosis in the 
+proximal and mid segments.
+LAD:The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel. There is a 40% stenosis in the 
+proximal segment. There is a 40% stenosis in the mid segment. 
+The Diagonal, arising from the proximal segment, is a medium 
+caliber vessel. 
+Cx:The Circumflex artery, which arises from the LM, is a large 
+caliber vessel. The ___ Obtuse Marginal, arising from the 
+proximal segment, is a medium caliber vessel. The ___ Obtuse 
+Marginal, arising from the mid segment, is a small caliber 
+vessel. There is a 100% stenosis in the ostium. 
+RCA:The Right Coronary Artery, arising from the right cusp, is a 
+large caliber vessel. There is a 60% stenosis in the distal 
+segment. The Right Posterior Descending Artery, arising from the 
+distal segment, is a medium caliber vessel. The Right 
+Posterolateral Artery, arising from the distal segment, is a 
+medium caliber vessel.
+
+Interventional Details 
+A 6 ___ EBU3.5 guide provided adequate support. Crossed with 
+a Prowater wire into the distal OM2. The wire was not free and 
+it became evident there was a wire-induced dissection in OM2. We 
+were unable to wire with ___ XT. Final angiography showed 
+OM2 continued to be totally occluded with left-left collaterals. 
+The procedure was not feasible without moderate sedation. Risks, 
+benefits and alternatives were discussed and informed consent 
+obtained. With rhythm, blood pressure and oxygen saturation 
+monitors, constant nursing observation, and direct attending 
+supervision, the patient received an appropriate level of 
+sedation (see medication list ). The attending was at the 
+bedside continuously for min during sedation. The patient was 
+subsequently observed with serial examinations until the return 
+of pre-sedation mental status.
+ 
+Complications 
+Complication: Vessel dissection during procedure. 
+
+Findings
+ Occluded small OM2 with failed PCI and robust left-left 
+collaterals. Given occluded OM2 is a small vessel with good 
+collaterals and the patient is pain free, did not proceed with 
+further attempts at wiring/POBA.  Negative RFR of intermediate 
+lesion in RCA (0.96) 
+
+TTE ___:
+CONCLUSION: 
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect by 2D/color Doppler. The estimated right 
+atrial pressure is ___ mmHg. There is mild symmetric left 
+ventricular hypertrophy with a normal cavity size. There is a 
+small area of regional left ventricular systolic dysfunction 
+with subtle hypokinesis of the inferior wall (see schematic). 
+Quantitative biplane left ventricular ejection fraction is 66 % 
+(normal 54-73%). There is no resting left ventricular outflow 
+tract gradient. No ventricular septal defect is seen. Diastolic 
+parameters are indeterminate. Normal right ventricular cavity 
+size with normal free wall motion. The aortic sinus diameter is 
+normal for gender with a normal ascending aorta diameter for 
+gender. The aortic arch diameter is normal. There is no evidence 
+for an aortic arch coarctation. The aortic valve leaflets (3) 
+are mildly thickened. There is no aortic valve stenosis. There 
+is no aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with no mitral valve prolapse. There is 
+trivial mitral regurgitation. The pulmonic valve leaflets are 
+normal. The tricuspid valve leaflets appear structurally normal. 
+There is physiologic tricuspid regurgitation. The estimated 
+pulmonary artery systolic pressure is normal. There is no 
+pericardial effusion. 
+
+IMPRESSION: 
+Mild symmetric left ventricular hypertrophy with subtle 
+hypokinesis of the inferior wall in the setting of globally 
+preserved biventricular systolic function. No clinically 
+significant valvular disease. Normal pulmonary pressure.
+
+===============
+DISCHARGE LABS:
+===============
+___ 06:18AM BLOOD WBC-6.0 RBC-4.42* Hgb-13.2* Hct-39.9* 
+MCV-90 MCH-29.9 MCHC-33.1 RDW-12.7 RDWSD-41.7 Plt ___
+___ 06:18AM BLOOD Plt ___
+___ 06:18AM BLOOD Glucose-94 UreaN-12 Creat-0.9 Na-142 
+K-5.0 Cl-103 HCO3-28 AnGap-11
+___ 06:18AM BLOOD Calcium-9.6 Phos-3.8 Mg-1.9
+ 
+Brief Hospital Course:
+==================
+SUMMARY STATEMENT:
+==================
+Mr. ___ is a ___ male with no PMH HLD who presents with
+NSTEMI found to have multivessel coronary disease with suspect
+lesion occluded second OM that could not be intervened upon d/t
+subsequent dissection, being treated medically. 
+
+==============
+ACTIVE ISSUES:
+==============
+#NSTEMI:
+Patient with 1 week of stuttering chest pain that progressed to 
+rest pain found to have NSTEMI, who underwent cardiac cath on 
+___ notable for multivessel coronary disease with suspect 
+lesion
+occluded second OM that could not be intervened upon d/t 
+subsequent dissection, being treated medically. He was started 
+on optimal medical management consisting of lisinopril 5mg 
+daily, ASA 81mg daily, atorvastatin 80mg daily, Plavix 75mg 
+daily for minimum ___ year, and metoprolol succinate XL 25mg 
+daily, Imdur 30mg daily. Notably patient did not have extremely 
+high risk profile - found to have hyperlipidemia and mild 
+hypertension, but no diabetes, smoking, mild family history and 
+no known inflammatory condition. Patient did have prior history 
+of obesity. The day prior to discharge he underwent TTE that 
+demonstrated mild symmetric left ventricular hypertrophy with 
+subtle hypokinesis of the inferior wall in the setting of 
+globally preserved biventricular systolic function. On day of 
+discharge he was chest pain free. He will follow up with 
+cardiology in one week to ensure tolerability of ACE and further 
+optimization of regimen. 
+
+#Alcohol use
+Patient reports drinking ___ drinks, 6 nights per week. Patient 
+was counseled on limiting alcoholic drinks to a maximum of 2 
+standard drinks per night. 
+
+# Hypertension
+Patient started on lisinopril as above with stable renal 
+function. 
+================
+CHRONIC ISSUES:
+================
+Hyperlipidemia:
+- Found to have elevated total cholesterol 231 and started on 
+atorvastatin as above
+I saw and examined the patient, reviewed the note, and agree 
+with
+the plan as outlined.
+
+>30 minutes at patient's bedside/coordination of care/discharge 
+planning.
+ 
+Medications on Admission:
+1. Advil PRN
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+4.  Isosorbide Mononitrate (Extended Release) 30 mg PO DAILY 
+RX *isosorbide mononitrate 30 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+5.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+6.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+7.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+RX *nitroglycerin 0.3 mg 1 tablet(s) sublingually As needed for 
+chest pain Disp #*15 Tablet Refills:*0 
+8.Outpatient Lab Work
+I21.4
+Please obtain serum creatinine, BUN, sodium, potassium, 
+chloride, bicarbonate and fax results to Dr. ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+-Non-ST segment elevation myocardial infarction
+
+SECONDARY DIAGNOSIS:
+====================
+-Dyslipidemia
+-Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+It was a pleasure taking care of you at ___ 
+___.  
+ 
+WHY WAS I ADMITTED TO THE HOSPITAL?  
+- You were admitted to the hospital because you had chest pain 
+that was found to be a heart attack.
+ 
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?  
+- You underwent a cardiac catheterization which allowed us to 
+view the blood vessels of your heart. We saw moderate blockages 
+of several arteries and a 100% blockage of a smaller artery. 
+Testing done during the procedure determined the moderate 
+blockages did not reduce blood flow enough to warrant any 
+further invasive intervention. We decided to maximally manage 
+the blockages with medications to help slow further progression 
+of the disease. These include 2 medications to prevent your 
+platelets from causing clots (aspirin and Plavix), a medication 
+to reduce heart rate (metoprolol-a beta blocker), a medication 
+to reduce blood pressure (lisinopril), and a medication to 
+reduce your cholesterol (atorvastatin). We also discussed 
+healthy lifestyle choices, such as: reducing alcohol intake to 
+no more than 2 standard drinks per night and exercising for 30 
+mins of moderate intensity 5 times per week.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+- You should continue to take your medications as prescribed.  
+- You can resume previous activity levels but should avoid heavy 
+lifting or vigorous exercise as your heart and arm recover
+- You should not take Viagra, Cialis or other medications for 
+erectile dysfunction as you are on a nitrate medication for 
+chest pain
+- If you are experiencing new or concerning chest pain that is 
+coming and going you should call the heartline at ___. 
+If you are experiencing persistent chest pain that is not 
+getting better with rest or nitroglycerine you should call ___.  
+
+- You should also call the heartline if you develop swelling in 
+your legs, abdominal distention, or shortness of breath at 
+night.  
+- You should attend the appointments listed below.  
+
+We wish you the best!  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

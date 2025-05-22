@@ -1,0 +1,229 @@
+Name:  ___                  Unit ___:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+___ Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+C2 fracture s/p seizures
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ PMH seizure disorder who had 2 seizures on ___ afternoon 
+while sitting on his bed and hit his head against thewall. He 
+presented to an OSH this am because his fiancé brought him. The 
+OSH got a CT neck which showed odontoid type 2 fracture; he was 
+placed in a C-collar and transferred to ___. He denies
+neck pain. Denies parethesias in his extremities or change in 
+motor function. Denies headache. Of note, patient is a poor 
+historian. ___ family present to supplement HPI. 
+
+ 
+Past Medical History:
+-Seizure disorder
+-TBI
+-Anxiety
+
+ 
+Social History:
+___
+Family History:
+Denies family history of seizures
+ 
+Physical Exam:
+Gen: WD/WN, comfortable, NAD. ___ J collar in place. 
+HEENT: PERRLA 
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, strange
+affect.
+Orientation: Oriented to person, place, and date.
+Motor:
+      D    B     T    WE   WF    IP    Q  H     AT    ___    G
+
+Sensation: Intact to light touch 
+
+EXAM ON DISCHARGE: 
+General:
+[x]AVSS   T:98   BP:153/91   HR:80   RR:18   O2sats:97%  RA 
+
+Exam:
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Speech Fluent: [x]Yes [ ___
+
+Comprehension intact [x]Yes [ ___
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+
+ 
+Pertinent Results:
+Please refer to ___ for important imaging and lab results.
+ 
+Brief Hospital Course:
+Mr. ___ presented from an OSH in a C-collar after CT 
+C-spine showed odontoid type 2 fracture. He was seen by the 
+neurosurgery service in the ED and admitted to the floor. He was 
+neurovascularly intact. 
+
+#C2 fracture
+Patient was placed in a hard cervical collar. Neurologic 
+examination reassuring. Imaging was reviewed.On ___, MRI C-spine 
+showed some associated ligamentous injuries It was determined 
+fracture would be managed conservatively with hard cervical 
+collar at all times and follow up with repeat imaging in 1 
+month. 
+
+#Seizures 
+Patient was admitted after unwitnessed seizure. Known history 
+seizures takes oxycarbmazipine, risperidone and Ativan at home 
+for his seizures. Neurology was consulted for his seizures. 
+Levels of home AED  were sent and are still pending at time of 
+discharge. MRI was done to r/o any source of seizure which was 
+unrevealing. Investigation was done to determine frequency of 
+patients seizures as this may impact whether or not he is a good 
+surgical candidate.  However, the patient is very unreliable and 
+cannot provide details regarding his AEDs raising suspicion for 
+AED noncompliance even though he strongly denies this.  Also per 
+his PCP, he has history of alcohol and cocaine abuse which can 
+also provoke seizures. Patient did not have any further seizures 
+while admitted. He was discharged on his home AEDs with follow 
+up with Neurology. 
+
+#SVT 
+On the morning on ___, he had supraventricular tachycardia to 
+the 160s. Medicine was consulted. He required adenosine x2. 
+Repeat EKG showed ___ ST changes. Medicine recommended continue 
+to monitor on telemetry and discharge with Holter monitor and 
+close PCP follow ___ further episodes of SVT were noted 
+during this hospitalization. At time of discharge Holter monitor 
+was ordered however patient does not have access to a landline 
+telephone so he was unable to receive the monitor. He was 
+scheduled for the next available Cardiology appointment to 
+continue to monitor. 
+
+#?Horner Syndrome
+Neurologic examination was positive for a L horner's syndrome. 
+Given recent fall there was concern for possible dissection. A 
+CTA head was obtained on ___ to further evaluate vascular injury 
+___ left ptosis, which was read as preliminarily having ___ 
+abnormalities, negative for dissection. 
+ 
+Dispo: 
+On ___ the patient continued to remain neurologically intact, 
+with ___ more episodes of SVT or evidence of seizures during this 
+admission. After further discussion with medicine and neurology 
+it was determined that the patient was able to be discharged 
+home with home services for home safety eval. The patient has 
+been instructed to follow up with his PCP, ___, and 
+Neurology for further evaluation and management. He will follow 
+up with Neurosurgery in 1 month with CT of c-spine.
+ 
+ 
+
+ 
+Medications on Admission:
+- Hydroxyzine 50mg
+- Risperidone 0.5 BID
+- Oxcarbazepine 900mg QHS 
+- Lorazepam 1mg BID
+- Omeprazole 20mg
+- Pantoprazole 40mg BID
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Q4-6H PRN pain Disp 
+#*84 Tablet Refills:*0 
+3.  HydrOXYzine 50 mg PO DAILY  
+4.  LORazepam 1 mg PO BID  
+5.  Omeprazole 20 mg PO DAILY  
+6.  OXcarbazepine 900 mg PO QHS  
+7.  RisperiDONE 0.5 mg PO BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+C2 fracture
+Seizure 
+SVT
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Activity
+ You must wear your cervical collar at all times. The collar 
+helps with healing and alignment of your fracture. You must wear 
+this collar at all times until you are seen in follow up in 1 
+month with Dr. ___. 
+You must wear your cervical collar while showering. 
+You may remove your collar briefly for skin care (be sure not 
+to twist or bend your neck too much while the collar is off). It 
+is important to look at your skin and be sure there are ___ 
+wounds of the skin forming. 
+We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+You may take leisurely walks and slowly increase your activity 
+at your own pace. ___ try to do too much all at once.
+___ driving while taking any narcotic or sedating medication. 
+___ contact sports until cleared by your neurosurgeon. 
+Do NOT smoke. Smoking can affect your healing.
+
+Medications
+Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+You may use Acetaminophen (Tylenol) for minor discomfort if you 
+are not otherwise restricted from taking this medication.
+*Please remember to take your anti-seizure medications as 
+prescribed. 
+
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the incision 
+site. 
+Fever greater than 101.5 degrees Fahrenheit
+New weakness or changes in sensation in your arms or legs.
+
+You had an irregular heart rhythm while you were admitted: 
+Supraventricular Tachycardia. You were evaluated by the Medicine 
+team who recommended you follow up with a Cardiologist. 
+
+Contact your PCP or seek medical attention in the ER if you 
+experience 
+ Pain in chest, arm, back, or jaw
+  Shortness of breath
+  Palpitations
+  Dizziness or lightheadedness
+ 
+Followup Instructions:
+___

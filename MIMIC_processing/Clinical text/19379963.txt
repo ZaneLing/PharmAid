@@ -1,0 +1,374 @@
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman ___ DM who presented with 2 
+episodes of syncope at home morning of admission.
+
+Patient describes 2 syncopal events morning of admission. 
+Estimates short loss of consciousness <3 minutes. Patient denied 
+any prodromal symptoms such as nausea, vomiting, 
+lightheadedness. No chest pain or dypsnea. Felt hot and flushed 
+afterwards but otherwise denied urinating herself or biting her 
+tongue.
+
+She had a cough and muscle aches since ___, worse on 
+___. No fever that she knows of. + sick contacts, + flu 
+vaccine. 
+
+While in the ED triggered for hypotension to the ___, started 
+IVF bolus. Bedside FAST exam with no evidence of intraperitoneal 
+fluid.
+
+In the ED, initial VS were: 
+96.4  72  97/53  16  100% RA  
+ 
+Exam notable for: 
+CV - RRR, no murmurs, rubs, gallops
+Pulm - CTAB, no wheezes, ronchi, crackles 
+
+Labs showed: 
+Creatinine 1.5 (baseline unknown), WBC 3.9, lactate 3.0 -> 1.3 
+with IVF, FluA positive
+
+Imaging showed: Subtle pulmonary opacities in the right lower 
+lobe could represent a developing pneumonia in the appropriate 
+clinical setting. 
+
+Consults: Plastic Surgery 
+
+Patient received: 
+___ 07:20 IVF  NS 1000 mL 
+___ 08:41 IVF  NS 1000 mL   
+___ 10:39 PO/NG OSELTAMivir 75 mg  
+___ 10:39 IV CefTRIAXone  
+___ 10:43 IV Azithromycin  
+___ 16:42 IVF  NS 1000 mL   
+ 
+Transfer VS were: 
+75  115/63  18  100% RA 
+ 
+On arrival to the floor, patient reports story as above. 
+Currently feeling relatively well, no chest pain of dyspnea, 
+only has mild back pain. 
+
+ 
+Past Medical History:
+1. HYPERTENSION
+2. HYPERLIPIDEMIA
+3. DIABETES MELLITUS
+ 
+ 
+Social History:
+___
+Family History:
+Father was deceased at ___ with MI. Mother with MI and DM, now on 
+insulin. 
+ 
+Physical Exam:
+===============================
+ADMISSION PHYSICAL EXAMINATION:
+===============================
+
+VS: Temp 99.0  BP 116/80  HR 75  RR 20  97% RA  
+GENERAL: NAD  
+HEENT: Nasal septum laceration with sutures, no active bleeding; 
+PERRL  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi
+ABDOMEN: Nondistended, nontender in all quadrants
+EXTREMITIES: No cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: Warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+===============================
+DISCHARGE PHYSICAL EXAMINATION:
+===============================
+
+VS: Temp: 98.5 (Tm 98.5), BP: 109/70 (109-134/70-88), HR: 58
+(58-69), RR: 16 (___), O2 sat: 98% (98-100), O2 delivery: RA
+
+GENERAL: lying comfortably in bed, no acute distress
+HEENT: nasal septum laceration with sutures, no conjunctival
+pallor, anicteric sclera, MMM
+CV: RRR, S1 and S2 normal, no murmurs/gallops/rubs  
+RESP: good air entry bilaterally, mild diffuse rhonchi
+___: soft, non-tender, no distention, BS normoactive
+EXTREMITIES: warm, well perfused, no lower extremity edema
+NEURO: A/O x3, grossly intact
+SKIN: no skin rashes/lesions
+ 
+Pertinent Results:
+===============
+ADMISSION LABS:
+===============
+
+___ 06:26AM BLOOD WBC-3.9* RBC-5.07 Hgb-14.5 Hct-44.2 
+MCV-87 MCH-28.6 MCHC-32.8 RDW-13.6 RDWSD-43.3 Plt ___
+___ 06:26AM BLOOD Neuts-54.4 ___ Monos-16.0* 
+Eos-1.0 Baso-0.5 Im ___ AbsNeut-2.10 AbsLymp-1.07* 
+AbsMono-0.62 AbsEos-0.04 AbsBaso-0.02
+___ 06:26AM BLOOD ___ PTT-27.2 ___
+___ 06:26AM BLOOD Glucose-226* UreaN-16 Creat-1.5* Na-137 
+K-4.4 Cl-97 HCO3-22 AnGap-18
+___ 06:26AM BLOOD Lipase-75*
+___ 06:26AM BLOOD cTropnT-<0.01
+___ 06:40AM BLOOD Calcium-8.6 Phos-3.4 Mg-1.4*
+___ 06:34AM BLOOD Lactate-3.0*
+___ 01:42PM BLOOD Lactate-1.3
+
+======
+MICRO:
+======
+
+___ Blood culture x2 - no growth at time of discharge
+___ Urine culture - no growth
+
+================
+IMAGING/STUDIES:
+================
+
+___ CXR 
+Subtle pulmonary opacities in the right lower lobe are 
+demonstrated on AP and lateral views which could represent a 
+developing pneumonia in the appropriate clinical setting. There 
+is no, effusion or pneumothorax. The 
+cardiomediastinal silhouette is normal. 
+
+===============
+DISCHARGE LABS:
+===============
+
+___ 06:47AM BLOOD WBC-3.0* RBC-4.61 Hgb-13.3 Hct-39.9 
+MCV-87 MCH-28.9 MCHC-33.3 RDW-13.3 RDWSD-41.5 Plt ___
+___ 06:47AM BLOOD Neuts-18.0* Lymphs-70.3* Monos-10.2 
+Eos-0.6* Baso-0.6 Im ___ AbsNeut-0.56* AbsLymp-2.20 
+AbsMono-0.32 AbsEos-0.02* AbsBaso-0.02
+___ 06:47AM BLOOD Glucose-120* UreaN-12 Creat-1.1 Na-142 
+K-4.2 Cl-103 HCO3-25 AnGap-14
+___ 06:47AM BLOOD Calcium-9.0 Phos-3.5 Mg-1.___ with a background history of diabetes mellitus, HTN and 
+hyperlipidemia, who presented with two episodes of syncope, 
+found to be flu positive with possible pneumonia.
+
+====================
+ACUTE/ACTIVE ISSUES:
+====================
+
+# Syncope
+Patient presented with two episodes of syncope on the morning of 
+admission. No prodromal or postictal symptoms, but was 
+associated with loss of consciousness of unknown duration. 
+Second episode also notable for laceration of nose. In the ED, 
+found to be hypotensive to the ___, responsive to IV fluids. 
+Found to be influenza A positive. CXR with right lower lobe 
+opacity, concerning for underlying pneumonia. Most likely 
+etiology for syncope was hypovolemia and orthostasis in the 
+setting of influenza/CAP. There was low concern for cardiac 
+etiology as EKG in ED non-revealing, no history of arrhythmia or 
+structural heart disease, and telemetry unremarkable throughout 
+hospital stay. History was also not consistent with a seizure 
+episode. 
+
+# Influenza A
+# Community-acquired pneumonia
+Patient presented with a two to three day history of cough and 
+myalgia. Found to be influenza A positive. CXR demonstrated 
+subtle RLL opacity, concerning for pneumonia. Although symptoms 
+onset possibly >72 hours, patient was started on oseltamivir, 
+ceftriaxone and azithromycin in ED, before transitioning to 
+levofloxacin for CAP management. Symptoms improved throughout 
+admission, and patient remained afebrile. Will be discharged to 
+complete a five day course of levofloxacin and oseltamivir.
+
+# ___
+Baseline creatinine unclear. On presentation to ED, creatinine 
+elevated to 1.5. This was felt likely pre-renal in etiology, in 
+the setting of hypovolemia secondary to infection. Received IVF 
+in the ED, with improvement in creatinine to 1.1. 
+
+# Nasal laceration
+Patient sustained complex nasal laceration following second 
+syncope episode. Reviewed by plastic surgery in the ED, who 
+cleaned wound and placed sutures. Bacitracin was applied twice 
+daily to prevent wound infection. Patient should continue 
+Bacitracin for an additional day post discharge, and then apply 
+Vaseline daily while sutures remain in place. Plastic surgery 
+will see patient in their clinic for suture removal within seven 
+days of discharge. Patient has been given instructions in how to 
+make this appointment.
+
+======================
+CHRONIC/STABLE ISSUES:
+======================
+
+# Hypertension
+Lisinopril, HCTZ and spironolactone were held during admission, 
+initially in the setting of hypotension, and subsequently 
+normotension. These will be held at discharge, and decision 
+if/when to restart is deferred to outpatient providers.
+
+# Type II diabetes mellitus
+Home metformin was held. Patient refused insulin sliding scale. 
+Blood glucose levels remained stable without treatment.
+
+====================
+TRANSITIONAL ISSUES:
+====================
+
+- discharge WBC: 3.0 (lymphocyte predominant)
+- discharge Creatinine: 1.1
+
+MEDICATION CHANGES:
+[] started levofloxacin 750mg daily for total course of 5 days 
+(last day ___
+[] started oseltamivir 75mg BID for total course of 5 days (last 
+day ___
+[] held lisinopril 20mg daily
+[] held spironolactone 12.5mg daily
+[] held HCTZ 12.5mg daily 
+
+[] Follow-up with plastic surgery to be arranged by patient 
+within seven days of discharge in the plastic surgery chief's 
+clinic, ___ Dr. ___ (___).  Pt. to continue one 
+additional day of bacitracin and then vaseline/petroleum jelly 
+until suture removal
+[] Any questions regarding return to work should be directed to 
+employee health 
+[] Decision if/when to restart anti-hypertensives is deferred to 
+outpatient provider
+[] If recurrent episodes of syncope consider further evaluation 
+for arrhythmia with ___ monitor 
+[] Patient with leukopenia and lymphocyte predominance; CBC with 
+diff should be repeated at next PCP appointment to ensure 
+resolution
+
+=============================================
+# CODE STATUS: Full (presumed) 
+# CONTACT: ___, ___ 
+ 
+Medications on Admission:
+1. Lisinopril 20 mg PO DAILY 
+2. Atorvastatin 5 mg PO QPM 
+3. Spironolactone 25 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Hydrochlorothiazide 12.5 mg PO DAILY 
+6. Vitamin D ___ UNIT PO DAILY 
+7. MetFORMIN XR (Glucophage XR) 1000 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Bacitracin Ointment 1 Appl TP BID 
+Apply to nose for one further day 
+RX *bacitracin zinc 500 unit/gram Apply to sutures on nose twice 
+a day Refills:*0 
+2.  Levofloxacin 750 mg PO DAILY Duration: 3 Doses 
+Last day ___ 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth Daily Disp #*3 
+Tablet Refills:*0 
+3.  OSELTAMivir 75 mg PO Q12H Duration: 7 Doses 
+Last day ___ 
+RX *oseltamivir [Tamiflu] 75 mg 1 capsule(s) by mouth twice a 
+day Disp #*7 Capsule Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 5 mg PO QPM  
+6.  MetFORMIN XR (Glucophage XR) 1000 mg PO BID  
+7.  Vitamin D ___ UNIT PO DAILY  
+8. HELD- Hydrochlorothiazide 12.5 mg PO DAILY  This medication 
+was held. Do not restart Hydrochlorothiazide until advised by 
+your PCP
+9. HELD- Lisinopril 20 mg PO DAILY  This medication was held. Do 
+not restart Lisinopril until advised by your PCP
+10. HELD- Spironolactone 25 mg PO DAILY  This medication was 
+held. Do not restart Spironolactone until advised by your PCP
+
+ 
+___:
+Home
+ 
+Discharge Diagnosis:
+==================
+PRIMARY DIAGNOSES:
+==================
+
+Syncope
+Influenza A
+Right lower lobe pneumonia
+Acute kidney injury 
+Nasal laceration
+
+====================
+SECONDARY DIAGNOSES:
+====================
+
+Hypertension
+Hyperlipidemia
+Type II diabetes mellitus 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+WHY YOU CAME TO THE HOSPITAL
+You came to the ED following two episodes of fainting at home, 
+in the setting of body aches and cough
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL
+- Plastic surgery saw you in ED and repaired the cut on your 
+nose
+- You were found to have the flu and pneumonia
+- You were started on antibiotics and anti-viral medications for 
+these
+- We gave you IV fluids, with improvement in your blood pressure 
+and kidney function
+
+WHAT YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL
+- You need to follow-up with your PCP as arranged
+- You need to arrange an appointment with Plastic surgery (see 
+below)
+- If you have any questions about returning to work, please 
+speak with employee health
+- You will need to repeat a chest X-ray in four weeks time to 
+make sure the pneumonia has resolved
+- You should not take your blood pressure medications until your 
+PCP advises you
+
+___ was a pleasure taking care of you!
+
+Your ___ Healthcare Team
+
+MEDICATION CHANGES:
+[] started levofloxacin 750mg daily for three days (last day 
+___
+[] started oseltamivir 75mg BID for three days (last day 
+___
+[] held lisinopril 20mg daily
+[] held spironolactone 12.5mg daily
+[] held HCTZ 12.5mg daily 
+ 
+Followup Instructions:
+___

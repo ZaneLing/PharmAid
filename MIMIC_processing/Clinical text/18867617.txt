@@ -1,0 +1,225 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lipitor / Naprosyn / Plaquenil
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Tremor 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old woman with PMHx notable for OA, DM2 on oral agents, 
+HLD, depression, GERD who presents with intermittent 
+tremulousness on the day of admission that occurred following 
+taking 20mg (2x her dose) of cyclobenzaprine. She reports that 
+she has a long history with difficulty sleeping. She reports 
+that her PCP started cyclobenzaprine 10mg PO QHS and then the 
+patient took 20mg as she couldn't sleep;. She reports a couple 
+of hours following taking the high dose she felt that her left 
+leg was twitching and then through her whole body. She reports 
+that she did not lose consciousness and had control of her 
+limbs. She reports that she felt very restless and was agitated 
+per her husband. She reports that she had no numbness, weakness, 
+or speech changes. She reports that she had been having R sided 
+muscle aches and spasms after a fall about 3 months ago. She 
+reports that otherwise she was in her usual state of health. 
+
+In the ED the patient triggered for possible stroke. Her neuro 
+exam was non-focal but she was found to have a sodium of 124 
+with a normal glucose. She was admitted to the medical service 
+for further evaluation and management. 
+
+ROS: A ten point ROS was conducted and was negative except as 
+above in the HPI.
+ 
+Past Medical History:
+1.  Diffuse OA
+2.  Diabetes mellitus ___ years.  
+3.  Dyslipidemia, previously on pravastatin.
+4.  Depression.
+5.  GERD.
+6.  Idiopathic angioedema.
+7.  Chronic anemia.
+9.  S/p total hysterectomy in the ___.
+ 
+Social History:
+___
+Family History:
+Her mother had CVA and diabetes.  
+Her father died of coronary artery disease.  
+She has 10 siblings, most of whom are healthy as far as she 
+knows.
+ 
+Physical Exam:
+Admission Physical Exam:
+Vitals: 97.9, 118/74, 90, 18, 100%RA
+Gen: NAD, lying in bed
+Eyes: EOMI, sclerae anicteric
+ENT: MMM, OP clear
+CV: RRR, no murmur
+PULM: normal effort, no accessory muscle use, lungs CTA ___.
+GI: soft, NT, ND, BS+
+MSK: No significant kyphosis. No palpable synovitis.
+Skin: No visible rash. No jaundice.
+Neuro: AAOx3. Fluent speech, no facial droop.
+Psych: Full range of affect
+
+Discharge Physical Exam:
+Vitals: 97.8, 123/63, 80, 18, 98%RA
+Gen: NAD, lying in bed and walking around the room
+Eyes: EOMI, sclerae anicteric
+ENT: MMM, OP clear
+CV: RRR, no murmur
+PULM: normal effort, no accessory muscle use, lungs CTA ___.
+GI: soft, NT, ND, BS+
+MSK: No significant kyphosis. No palpable synovitis.
+Skin: No visible rash. No jaundice.
+Neuro: AAOx3. Fluent speech, no facial droop. ___ strength in 
+the upper and lower extremities proximal and distal muscle 
+groups in flexion and extension. 
+Psych: Full range of affect
+ 
+Pertinent Results:
+Admission Labs:
+___ 06:20AM BLOOD WBC-9.8 RBC-3.60* Hgb-10.5* Hct-31.4* 
+MCV-87 MCH-29.2 MCHC-33.4 RDW-11.9 RDWSD-37.6 Plt ___
+___ 06:20AM BLOOD Neuts-54.6 ___ Monos-9.3 Eos-1.6 
+Baso-0.5 Im ___ AbsNeut-5.36 AbsLymp-3.25 AbsMono-0.92* 
+AbsEos-0.16 AbsBaso-0.05
+___ 06:20AM BLOOD Glucose-136* UreaN-11 Creat-0.6 Na-124* 
+K-4.2 Cl-90* HCO3-21* AnGap-17
+___ 06:20AM BLOOD Calcium-9.1 Phos-3.0 Mg-1.8
+___ 06:20AM BLOOD Osmolal-257*
+___ 07:53AM URINE Color-Straw Appear-Clear Sp ___
+___ 07:53AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 07:53AM URINE Hours-RANDOM Creat-8 Na-39 K-16 Cl-37
+___ 07:53AM URINE Osmolal-141
+
+Imaging: 
+EXAMINATION:  CHEST (PA AND LAT) 
+  
+INDICATION:  ___ year old woman with persistent cough  // ? 
+infiltrate     
+  
+IMPRESSION:  
+In comparison with study in ___, there is little 
+change and no acute cardiopulmonary disease.  No pneumonia, 
+vascular congestion, or pleural effusion. 
+
+DISCHARGE LABS:
+
+___ 12:50PM BLOOD Glucose-171* UreaN-10 Creat-0.6 Na-132* 
+K-3.9 Cl-97 HCO3-23 AnGap-16
+___ 06:20AM BLOOD WBC-7.9 RBC-3.61* Hgb-10.6* Hct-31.5* 
+MCV-87 MCH-29.4 MCHC-33.7 RDW-11.8 RDWSD-38.1 Plt ___
+
+ 
+Brief Hospital Course:
+___ year old woman with PMHx notable for OA, DM2 on oral agents, 
+HLD, depression, GERD who presents with intermittent 
+tremulousness on the day of admission that occurred following 
+taking 20mg (2x her dose) of cyclobenzaprine.
+
+# Tremulousness/Anxiety: Likely related to additional dose 
+cyclobenzaprine. Irritability (1% to 3%) and nervousness (1% to 
+3%) are both side effects. Improved to baseline within 24 hours 
+of holding cyclobenzaprine. She was instructed to not restart 
+cyclobenzaprine on discharge.
+
+# Hyponatremia: Presented with sodium of 124. Patient husband 
+has been low over the last 2 months on the outpatient setting in 
+the setting of hyperglycemia. Urine osoms and exam consistent 
+with hypovolemia. Sodium improved to 132 (corrected to 134 based 
+on sugar of 171) at time of discharge. She was instructed to 
+drink at least 2L of fluid and continue to eat a diabetic diet. 
+Her FSBS were in the 160s during her stay and responded to low 
+dose insulin. 
+
+# DM2: Worsening coverage with upcoming appointment on ___ 
+with ___. Her home metformin was continued and she was 
+covered with a low dose insulin sliding scale and her FSBS 
+improved to the 160s. She will resume outpatient glipizide for 
+coverage. She can likely uptitrate her home metformin from 500mg 
+PO BID to ___ PO BID as well.  
+
+# HLD: Has a history of HLD but is not on medication as has a 
+history of myopathy with statin. 
+
+# Cough: Reports chronic cough that is worse with laying down. 
+Her CXR was unchanged from prior witout acute process. Could be 
+due to GERD vs post nasal drip. She was given a prescription for 
+a 2 week trial of high dose omeprazole (40mg PO BID x 14 days).
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gabapentin 800 mg PO QHS 
+2. MetFORMIN (Glucophage) 500 mg PO BID 
+3. Multivitamins W/minerals 1 TAB PO DAILY 
+4. Omeprazole 20 mg PO DAILY 
+5. Aspirin 81 mg PO DAILY 
+6. GlipiZIDE 1.25-2.5 mg PO DAILY:PRN High blood sugars 
+7. Cyclobenzaprine 10 mg PO HS:PRN muscle spasm/insomnia 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Gabapentin 800 mg PO QHS 
+3. MetFORMIN (Glucophage) 500 mg PO BID 
+4. Multivitamins W/minerals 1 TAB PO DAILY 
+5. Omeprazole 20 mg PO DAILY 
+6. Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram/dose 17 gram by mouth Daily 
+Refills:*0
+7. Senna 8.6 mg PO BID 
+RX *sennosides 8.6 mg 1 Tablet by mouth twice a day Disp #*30 
+Tablet Refills:*0
+8. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0
+9. GlipiZIDE 1.25-2.5 mg PO DAILY:PRN High blood sugars 
+RX *glipizide 5 mg 0.25-0.5 tablet(s) by mouth Daily Disp #*7 
+Tablet Refills:*0
+10. Omeprazole 40 mg PO BID Duration: 2 Weeks 
+RX *omeprazole 40 mg 1 capsule(s) by mouth twice a day Disp #*28 
+Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hyponatremia
+Adverse reaction to cyclobenzaprine
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Ms ___,
+
+It was a pleasure taking care of you in the hospital. You were 
+admitted with shaking and found to have low sodium. The 
+agitation and shaking was likely due to the cyclobenzaprine as 
+it resolved with holding this medication. The low sodium appears 
+to be from being dehydrated, likely from poor control of your 
+blood sugar. You were rehydrated and your sodium improved. 
+
+Please take your medications as directed and make sure to stay 
+hydrated. 
+ 
+Followup Instructions:
+___

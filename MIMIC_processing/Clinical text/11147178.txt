@@ -1,0 +1,416 @@
+Name:  ___                        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Suprapubic mass
+
+ 
+Major Surgical or Invasive Procedure:
+___ - ___ suprapubic abscess aspiration and drainage 
+
+ 
+History of Present Illness:
+History obtained from patient from me (patient is ___
+speaking but also speaks ___, daughter ___-
+___- ___ speaking), OSH records and ED dashboard. 
+
+Ms. ___ is a ___ ___ female
+with a history of hypertension, hyperlipidemia, history of
+palpitations, 2 C-sections in ___ (18 and ___ years ago), and
+surgery on her neck in ___ to remove a "lump" (unclear
+diagnosis, no chemo or radiation, occurred ___ years ago) who
+presents with ~3 weeks of a lower abdominal mass.
+
+She states that she has noted progressive pain and swelling in 
+an
+area just above her pubis for about 3 weeks now. Her PCP had
+ordered an ultrasound for next week, but this had not occurred
+yet and patient presented due to pain intolerance. 
+
+She does not recall any trauma or skin barrier disruption, and
+she has no known major immunosuppression, prior skin infection,
+or skin  inflammation.
+
+The area has become progressively painful and swollen, and she
+notices an indurated mass when she feels in that area. She took
+Tylenol at home which seemed to help with the pain (the pain
+waxes and wanes). Sometimes she cannot sleep because of the pain
+she cannot lay flat and has to sleep on her side but otherwise 
+no
+obvious factors seem to trigger the pain. In particular, bowel
+and urinary movements don't cause the pain.
+
+She has not had fevers or chills (although daughter states she
+may have had some chills and sweats in the last day in the ED).
+She has not had any recent increase in malaise or fatigue, 
+weight
+loss, or appetite changes. No frank abdominal pain. No nausea or
+vomiting. No diarrhea or constipation. No dysuria. No hematuria,
+hematochezia, or melena. No vaginal symptoms. No chest pain or
+shortness of breath. She has not noticed any swollen lumps
+anywhere else in her body. She has not had any issues with her
+neck since her neck surgery ___ years ago.
+
+Her history is significant for having had a colonoscopy about 
+two
+months ago which was normal. She had some black stools for a few
+days after colonoscopy, now resolved. She has never been
+hospitalized for any infections or received antibiotics; only
+stay in hospital is two C-sections as above.
+
+In the ED, initial vitals: 10 | 97.1 | 94 | 162/92 | 16 | 100% 
+RA
+
+- Exam notable for: "There is an indurated lump just above the
+pubic symphysis measuring about 3 cm in diameter, slightly left
+of midline, with some surrounding fullness. This mass occurs at
+the bottom of a vertical incision scar that the patient 
+indicates
+was for her prior C-sections. There are no overlying skin
+changes. Otherwise, no rash, warm and dry."
+
+- Labs notable for WBC of 11.5 with 72.5% neutrophils; otherwise
+negative lactate. 
+
+- Imaging notable for:  
+___ CT PELVIS w/ CONTRAST 
+Redemonstration of 2.7 x 2.3 x 4.1 cm rim enhancing,
+multiloculated, hypodense collection in the subcutaneous soft
+tissues of the left aspect of the mons pubis, likely reflective
+of an abscess. 
+Recommend correlation with direct sampling of fluid and ensuring
+clinical resolution of this finding after treatment.
+
+___ US ABDOMINAL WALL SOFT TISSUE U/S: 2.9 x 2.0 x 3.8 cm
+heterogeneous, hypoechoic area on the left side of the pubis 
+mons
+with peripheral vascularity without demonstrable central
+vascularity. Findings are most consistent with underlying soft
+tissue abscess.
+
+She was given:  
+- 1459: 4mg IV morphine
+- 1503: 4mg IV zofran
+- 1L NS
+- ___: 4mg Ondansetron
+- ___: 1g IV Acetaminophen 
+
+- Vitals prior to transfer: 
+T 97.9 HR 55 BP 116/64 RR 16 O2 Sat 99% RA
+
+On the floor, patient's pain is ___. She is otherwise resting
+comfortably. Patient and daughter are hopeful that she will be
+able to be discharged soon, before ___.
+
+ 
+Past Medical History:
+- HTN
+- HLD
+- GERD
+- Restless legs
+- Cervical dorsopathy
+- Cough variant asthma
+- Allergic rhinitis
+- Arthritis - lower back
+- Vitamin d deficiency
+- Migraines
+- Left kidney cyst and a right simple cyst on cardiac MRI 
+___
+- 2 x C-section with BTL during after second C-section
+
+ 
+Social History:
+___
+Family History:
+No major medical problems, immunocompromise or malignancy other
+than her father having lung cancer (alcohol use and smoker)
+Father- deceased
+Mother- alive in ___
+2 brothers- healthy
+1 sister- healthy
+2 children- healthy
+
+ 
+Physical Exam:
+ADMISSION EXAM
+===============
+VITALS: T 98.4 BP  153/87 HR  53 RR 16 O2 Sat  96%  RA  
+BMI 23, normal weight.
+General: Well-appearing female in no acute distress
+HEENT: PERRL, EOMI. No cervical or supraclavicular
+lymphadenopathy; no thyroidomegaly.
+CV:  Regular rate and rhythm, no murmurs
+Lungs:   Clear to auscultation bilaterally, normal work of
+breathing, appears comfortable. No wheezes or crackles.
+Abdomen: Prior vertical incision. Patient has 3 x 3 x 4 cm mass
+left of the pubic symphysis which is tender to palpation. There
+is no erythema or induration over. No skin trauma. No pelvic
+lymphadenopathy appreciated.
+Ext:  No lower extremity edema
+Skin:  No rashes. No bruising or hematoma.
+Neuro: Alert, oriented, appropriate. No neuro deficits
+appreciated.
+
+DISCHARGE EXAM
+===============
+VITALS: Reviewed in OMR
+General: Well-appearing female in no acute distress
+HEENT: PERRL, EOMI.
+CV:  Regular rate and rhythm, no murmurs
+Lungs:   Clear to auscultation bilaterally, normal work of
+breathing, appears comfortable. No wheezes or crackles.
+Abdomen: Prior vertical incision. Patient has 3 x 3 x 4 cm mass
+left of the pubic symphysis which is tender to palpation. There
+is no erythema or induration over. No skin trauma. No pelvic
+lymphadenopathy appreciated.
+Ext:  No lower extremity edema
+Skin:  No rashes. No bruising or hematoma.
+Neuro: Alert, oriented, appropriate. No neuro deficits
+appreciated.
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:53PM BLOOD WBC-11.5* RBC-4.61 Hgb-13.2 Hct-42.4 
+MCV-92 MCH-28.6 MCHC-31.1* RDW-13.3 RDWSD-45.0 Plt ___
+___ 01:53PM BLOOD Neuts-72.5* ___ Monos-6.7 
+Eos-0.3* Baso-0.5 Im ___ AbsNeut-8.33* AbsLymp-2.25 
+AbsMono-0.77 AbsEos-0.04 AbsBaso-0.06
+___ 01:53PM BLOOD Glucose-102* UreaN-7 Creat-0.5 Na-144 
+K-3.7 Cl-103 HCO3-27 AnGap-14
+___ 01:53PM BLOOD ALT-8 AST-15 AlkPhos-98 TotBili-0.3
+___ 01:53PM BLOOD Lipase-20
+___ 01:53PM BLOOD Albumin-4.5
+___ 01:53PM BLOOD TSH-0.80
+___ 01:53PM BLOOD CRP-2.1
+___ 01:56PM BLOOD Lactate-1.2
+
+MICRO/OTHER PERTINENT LABS
+===========================
+___ 1:53 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+___ 9:26 am ABSCESS      Source: suprapubic abscess. 
+
+   GRAM STAIN (Pending): 
+
+   FLUID CULTURE (Pending): 
+
+   ANAEROBIC CULTURE (Pending): 
+
+   FUNGAL CULTURE (Pending): 
+
+   ACID FAST SMEAR (Pending): 
+
+   ACID FAST CULTURE (Pending): 
+
+IMAGING
+========
+ABD US ___
+2.9 x 2.0 x 3.8 cm heterogeneous, irregularly marginated, 
+hypoechoic area with 
+mild internal vascularity, most consistent with soft tissue 
+phlegmon/abscess.  
+If I&D is not performed, short interval ultrasound follow-up, 
+i.e.   in ___ 
+weeks, is recommended to ensure resolution. 
+
+CT PELVIS ___
+Redemonstration of 2.7 x 2.3 x 4.1 cm rim enhancing, 
+multiloculated, hypodense 
+collection in the subcutaneous soft tissues of the left aspect 
+of the mons 
+pubis, likely reflective of an abscess.  Recommend correlation 
+with direct 
+sampling of fluid and ensuring clinical resolution of this 
+finding after 
+treatment. 
+
+ASPIRATION ___
+1. Successful ultrasound-guided aspiration of a midline/left 
+parasagittal 
+suprapubic subcutaneous abscess measuring 2.3 x 2.7 cm 
+2. Purulent fluid was aspirated with total of 5 cc which was 
+sent for 
+microbiology and culture. 
+  
+DISCHARGE LABS
+===============
+___ 07:40AM BLOOD WBC-10.2* RBC-4.33 Hgb-12.6 Hct-38.4 
+MCV-89 MCH-29.1 MCHC-32.8 RDW-13.1 RDWSD-43.0 Plt ___
+___ 07:40AM BLOOD Glucose-62* UreaN-13 Creat-0.6 Na-144 
+K-3.5 Cl-103 HCO3-23 AnGap-18
+___ 07:40AM BLOOD Glucose-62* UreaN-13 Creat-0.6 Na-144 
+K-3.5 Cl-103 HCO3-23 AnGap-18
+ 
+Brief Hospital Course:
+SUMMARY
+=======
+Ms. ___ is a ___ woman with a history of 
+hypertension, hyperlipidemia, palpitations, 2 C-sections in 
+___, and surgery on her neck in ___ to remove a "lump," who 
+presents with 3 weeks of a lower abdominal swelling over her 
+mons pubis. She underwent ultrasound guided aspiration of the 
+abscess which was purulent in nature and was sent for gram stain 
+and cultures. She was discharged with a 5 day course of Bactrim 
+and 1 week follow up with her PCP.
+
+ACUTE ISSUES
+============
+# Suprapubic lesion
+Presented with 3 weeks of worsening hip pain. CT pelvis with 
+contrast and focused ultrasound demonstrating approximately 3 cm 
+collection consistent mostly with abscess versus phlegmon. 
+Patient did have risk factors for TB as she was born in an 
+endemic area. She is up-to-date on age-appropriate cancer 
+screening on day of admission. On admission she was not started 
+on antibiotics as her white count was essentially normal, she 
+did not have fevers or chills, and aside from pain was 
+essentially asymptomatic. Interventional radiology sampled this 
+collection which was purulent, and it was sent for gram stain 
+and cultures. Suprapubic subcutaneous abscess was measured as 
+2.3 x 2.7 cm and 5cc was drained. Her pain was well controlled 
+with Tylenol and she was discharged with 1 week follow up with 
+her PCP. Discharged with 5 day course of Bactrim for soft tissue 
+infection, pending grain stain and cultures. 
+
+CHRONIC/STABLE PROBLEMS
+=======================
+# Hypertension
+Continued lisinopril 20mg daily and verapamil 120mg daily
+
+# Hyperlipidemia: 
+Continued atorvastatin 40mg daily
+
+# GERD without esophagitis
+Continued omeprazole 20mg daily
+
+# Seasonal allergies:
+# Allergic rhinitis:
+On PRN loratidine 10mg daily and fluticasone which patient is 
+not taking regularly
+
+# Mild intermittent asthma, uncomplicated with cough variant
+On PRN albuterol and cheratussin PRN which patient is not 
+regularly taking
+
+# Macular degeneration: On Alaway
+Held while inpatient due to being nonformulary, patient only 
+uses PRN
+
+# Hx of iron deficiency anemia:
+Hx of ferrous sulfate 650mg daily- no longer taking. Hgb Stable 
+here
+
+TRANSITIONAL ISSUES
+===================
+Discharge WBC: 10.2
+
+[ ] Follow up on pain/swelling on mons pubis. If concern for 
+worsening infection, would consider surgical consult for I&D.
+[ ] Follow up gram stain and cultures from I&D of abscess ___
+
+#CODE: FULL CODE presumed
+#CONTACT: ___ (daughter)- ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+2. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+3. Atorvastatin 40 mg PO QPM 
+4. Loratadine 10 mg PO DAILY 
+5. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+QID:PRN 
+6. Lisinopril 20 mg PO DAILY 
+7. Alaway (ketotifen fumarate) 0.025 % (0.035 %) ophthalmic 
+(eye) Q8H 
+8. Omeprazole 20 mg PO DAILY 
+9. Cheratussin AC (codeine-guaifenesin) ___ mg/5 mL oral 
+Q8H:PRN 
+10. Verapamil SR 120 mg PO Q24H 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 5 Days 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth twice a day Disp #*10 Tablet Refills:*0 
+3.  Alaway (ketotifen fumarate) 0.025 % (0.035 %) ophthalmic 
+(eye) Q8H  
+4.  Atorvastatin 40 mg PO QPM  
+5.  Cheratussin AC (codeine-guaifenesin) ___ mg/5 mL oral 
+Q8H:PRN  
+6.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+7.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+8.  Lisinopril 20 mg PO DAILY  
+9.  Loratadine 10 mg PO DAILY  
+10.  Omeprazole 20 mg PO DAILY  
+11.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+QID:PRN  
+12.  Verapamil SR 120 mg PO Q24H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+=======
+Soft Tissue Abscess
+
+Secondary
+=========
+Hypertension
+Hyperlipidemia
+Gastroesophageal Reflux Disease
+Restless Leg Syndrome
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+Thank you for coming to ___ for your care. Please read the 
+following directions carefully:
+
+WHY WAS I ADMITTED TO THE HOSPITAL? 
+- You were admitted to the hospital because you had 3 weeks of 
+pelvic pain and a growing lump.
+
+WHAT WAS DONE FOR ME WHILE I WAS HERE?
+- You had a CT scan and an ultrasound which were concerning for 
+a developing abscess. 
+
+- Our interventional radiology colleagues sampled the area which 
+showed an infection. The fluid was drained and you were 
+prescribed a 5 day course of antibiotics to treat your 
+infection.
+
+WHAT DO I NEED TO DO WHEN I LEAVE THE HOSPITAL? 
+
+-Please take all your medications as prescribed.  Please keep 
+all your appointments as listed below
+ 
+Followup Instructions:
+___

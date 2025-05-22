@@ -1,0 +1,370 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+leg weakness, slurred speech
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with hyperlipidemia 
+presenting
+from ___ with 2 days of slurred speech and left sided
+weakness. 
+
+Yesterday, he was with a friend (who is a physician) who noted
+that he appeared to have left sided facial droop and slurred
+speech.  He did not notice it himself, and says that he mumbles
+at baseline.  Today he was in a store with the same friend who
+mentioned that he appeared to be dragging his left leg.  He did
+notice this and said that his leg felt like it was heavy, and
+there was a subtle paresthesia in his left leg that was "not
+quite pins and needles". He denies feeling weakness in his left
+arm at the time, though when questioned says he feels like he
+probably would not be able to lift something heavy with both
+arms. 
+
+He presented to ___ where CTA was performed did not show
+any large vessel occlusions.  Noncontrast CT showed a small
+likely colloidial cyst at the foramen of ___. 
+
+He notes a new intermittent headache for the last few weeks,
+occurring on ___ days out of the week that his alternatively
+bifrontal or occipital in location, ___ dull intensity, and
+not associated with any migrainous symptoms.  He sometimes wakes
+up with the headache, but other times it starts spontaneously
+during the day.  It usually resolves after a few hours and with
+Tylenol or aspirin.  It does not worsen with position or
+Valsalva.
+
+He has a history of hyperlipidemia. He was on atorvastatin but
+stopped taking it ___ years ago due to muscle pains.  He does not
+visit the doctor often, but says his blood pressure has always
+been excellent. 
+
+He notes increasing clumsiness over the last several years, 
+which
+he has attributed to getting older.  He did fall in ___ of last
+year, and while landing on his left hand he fractured his left
+elbow. 
+
+ROS: 
++ Headache
++ Facial droop, dysarthria, arm and leg weakness
++ Paresthesia in left leg (now resolved)
++ Increasing 
+- No confusion, difficulties producing or comprehending speech,
+loss of vision, blurred vision, diplopia, dysarthria, dysphagia,
+lightheadedness, vertigo, tinnitus or hearing difficulty. No
+bowel or bladder incontinence or retention. Denies difficulty
+with gait.
+
+ 
+Past Medical History:
+Hyperlipidemia 
+Left elbow fracture 
+
+ 
+Social History:
+___
+Family History:
+Mother had TIA in her ___.  No known history of bleeding or
+clotting disorders. 
+ 
+Physical Exam:
+ADMISSION EXAM: 
+
+NIHSS Performed within 6 hours of presentation at: ___  
+NIHSS Total: 0
+
+PHYSICAL EXAMINATION: 
+Vitals: T: 98   HR: 93   BP: 132/86   RR: 16   SaO2:98%
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR on telemetry, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands. Able to register 3 objects and recall
+___ at 10 minutes. There was no evidence of apraxia or neglect.
+Calculation was intact. 
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+  [___]
+L   5     5    4+   4+   4+   5   4+   5    4+  4+   5    5
+R   5     5    5    5    4+   5   5    5    5   5    5    5
+
+-Sensory: No deficits to light touch or pinprick througout. No
+extinction to DSS. Romberg absent. 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach] [Toes]
+L   1            1      2     0     Up
+R   1            1      2     0     Up
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF and able to continue with eyes
+closed. 
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Able to walk in tandem without difficulty. 
+
+DISCHARGE EXAM: 
+
+PHYSICAL EXAMINATION: 
+Vitals: T: 97.9  HR: 72   BP: 146/90   RR: 20   SaO2:98%
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, 
+Neck: Supple. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR on telemetry, warm, well-perfused.
+Abdomen: Soft, obese, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands. Able to register ___ objects at 5 
+minutes and ___ objects with prompt. Able to calculate. 
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted. No 
+bradykinesia or dyskinesia. 
+  [___]
+L   5     5    4+  5-   5-   5   5    5    5-  5-   5    5
+R   5     5    5    5    ___    5    5   5    5    5
+
+-Sensory: No deficits to light touch or pinprick througout. No
+extinction to DSS. Romberg absent. 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach] [Toes]
+L   1            1      2     0     down
+R   1            1      2     0     down
+No Palmomental reflex
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF and able to continue with eyes
+closed. 
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Able to walk in tandem without difficulty. 
+
+ 
+Pertinent Results:
+  
+  MR ___ w/o contrast
+1. No evidence for an acute infarction. 
+2. Incidental note of a 5 mm colloid cyst near the foramen of 
+___. 
+3. Probable mild chronic small vessel disease. 
+4. Additional findings described above. 
+
+___ 12:46AM   %HbA1c-6.3* eAG-134*
+___ 10:30PM   GLUCOSE-93 UREA N-20 CREAT-0.9 SODIUM-140 
+POTASSIUM-4.7 CHLORIDE-102 TOTAL CO2-23 ANION GAP-15
+___ 10:30PM   CHOLEST-284*
+___ 10:30PM   TRIGLYCER-527* HDL CHOL-35* CHOL/HDL-8.1 
+___
+___ 10:30PM   TSH-7.4*
+___ 10:30PM   WBC-5.7 RBC-4.67 HGB-14.0 HCT-40.7 MCV-87 
+MCH-30.0 MCHC-34.4 RDW-12.7 RDWSD-39.9
+___ 10:30PM   NEUTS-39.8 ___ MONOS-11.8 EOS-2.3 
+BASOS-0.5 IM ___ AbsNeut-2.25 AbsLymp-2.56 AbsMono-0.67 
+AbsEos-0.13 AbsBaso-0.03
+___ 10:30PM   PLT COUNT-243
+___ 10:30PM BLOOD T3-103 Free T4-1.1
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old many with hyperlipidemia who 
+presented with left leg weakness and dysarthria who was admitted 
+to the Neurology stroke service. Fortunately, his symptoms 
+improved and by the time that he was examined on rounds, he had 
+returned to his baseline. Thus, this is most likely a TIA 
+secondary to vascular risk factors. He does have significant 
+vascular risk factors and received detailed education about his 
+risk factors and what the appropriate treatment for each of his 
+risk factors is. His LDL was significantly elevated to 173. We 
+started ___ 10 mg for this, considering that he had 
+previously proximal muscle pain when he was on a low dose of 
+Atorvastatin .  HbA1c 6.3. TSH slightly elevated at 7.4, T3 and 
+free T4 were normal. Emphasized the importance of healthy diet, 
+daily exercise, preventative health care and routine primary 
+care follow up. 
+
+His stroke risk factors include the following: 
+ 1) DM: A1c 6.3% 
+ 2) Hyperlipidemia: LDL 173, ___ started
+ 3) Obesity BMI 32.5
+ 4) Snoring with suspected sleep apnea
+
+Transitional issues: 
+[ ] Hg A1c 6.3%
+[ ] PCP to ___ as tolerated, goal LDL <70
+[ ] no follow up is needed for incidentally found colloid cyst 
+seen on MR brain
+[ ] needs sleep study to evaluate for sleep apnea
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack 
+ 1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed â () No 
+ 2. DVT Prophylaxis administered? (x) Yes - () No 
+ 3. Antithrombotic therapy administered by end of hospital day 
+2? () Yes - (x) No 
+ 4. LDL documented? (x) Yes (LDL = 173 ) - () No 
+ 5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 100) (x) Yes - () No [if 
+LDL if LDL >70, reason not given: 
+ [ ] Statin medication allergy 
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist 
+ [ ] LDL-c less than 70 mg/dL] 
+ 6. Smoking cessation counseling given? () Yes - () No [reason 
+(x) non-smoker - () unable to participate] 
+ 7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No 
+ 8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No 
+ 9. Discharged on statin therapy? (x) Yes - () No [if LDL >70, 
+reason not given: 
+ [ ] Statin medication allergy 
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist 
+ [ ] LDL-c less than 70 mg/dL 
+ 10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No 
+ 11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - (x) N/A 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Fish Oil (Omega 3) 1000 mg PO BID  
+2.  Rosuvastatin Calcium 10 mg PO QPM 
+RX *rosuvastatin [___] 10 mg 1 tablet(s) by mouth nightly 
+Disp #*30 Tablet Refills:*2 
+3.  Aspirin 81 mg PO DAILY  
+4.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+TIA
+Prediabetes
+Hyperlipidemia
+Obesity
+
+ 
+Discharge Condition:
+Patient was alert and oriented. Stable gait. 
+
+ 
+Discharge Instructions:
+ Dear Mr. ___,
+  
+ You were hospitalized due to symptoms of left leg weakness 
+resulting from a TRANSIENT ISCHEMIC ATTACK, oxygen and nutrients 
+temporarily do not get to the brain because the vessel is 
+blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms.  
+ Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+ High cholesterol
+ snoring with concern for sleep apnea
+ Obesity
+ Pre-diabetes
+ Poor diet with low fiber, high simple sugar intake
+ Lack of exercise
+ 
+ We are changing your medications as follows:  
+ Start ___ 10 mg nightly
+ Start Fish Oil 1000 mg BID
+
+ Please take your other medications as prescribed.  
+ Please follow up with your primary care physician as listed 
+below.  
+
+ If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+ Sincerely,  
+
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

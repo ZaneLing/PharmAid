@@ -1,0 +1,289 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization (___)
+
+ 
+History of Present Illness:
+___ male with history of HIV, hepatitis C (cured),
+hypertension, former IV drug abuse, former alcohol abuse, and
+smoking transferred from ___ for chest pain.  He
+reports that symptoms began 2 days ago while resting on the 
+couch
+around 930-10 ___.  Symptoms were initially tolerable so he
+ignored them and went to bed for the night.  The next morning he
+continued to have intermittent chest pain throughout the day
+while at work.  Around 6 ___, pain was becoming increasingly
+severe and so he presented to outside hospital for evaluation. 
+At outside hospital, initial troponin was 1.6 with EKG found to
+be normal sinus rhythm.  Patient was diagnosed with NSTEMI,
+placed on heparin drip and transferred here.
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS
+ - hypertension
+ - smoking 1 ppd
+ - HIV
+
+2. CARDIAC HISTORY  
+No history of previous PCI, CABG, or pacemaker.
+
+3. OTHER PAST MEDICAL HISTORY
+ - Hepatitis C
+ - former IV drug abuse
+ - former alcohol abuse
+ 
+Social History:
+___
+Family History:
+No known history of coronary artery disease or sudden cardiac
+death.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: afebrile, HR 91 BP 155/77 99% r.a.
+Gen: AAOx3. Comfortable, appears stated age.
+HEENT: Normocephalic, atraumatic. No carotid bruit.
+Cardiac: Regular rate & rhythm. No murmurs.
+Pulmonary: Clear to auscultation bilaterally. Breathing
+comfortable.
+Abd: Soft, non-tender, non-distended.
+Ext: Non-edematous. Warm, well perfused.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: 98.6, 131/80, 82, 18, 96% RA 
+Gen: AAOx3. Comfortable, appears stated age.
+HEENT: Normocephalic, atraumatic. No carotid bruit.
+Cardiac: Regular rate & rhythm. No murmurs.
+Pulmonary: Clear to auscultation bilaterally. Breathing
+comfortable.
+Abd: Soft, non-tender, non-distended.
+Ext: Non-edematous. Warm, well perfused.
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 09:30AM   ___ PTT-40.5* ___
+___ 08:36AM   CK(CPK)-843*
+___ 08:36AM   cTropnT-0.65*
+___ 08:36AM   CK-MB-127* MB INDX-15.1*
+___ 08:36AM   ASA-NEG ACETMNPHN-NEG bnzodzpn-NEG 
+barbitrt-NEG tricyclic-NEG
+___ 03:20AM URINE  HOURS-RANDOM
+___ 03:20AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-POS* 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 03:20AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 03:20AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-5.5 
+LEUK-NEG
+___ 03:20AM URINE  RBC-<1 WBC-1 BACTERIA-FEW* YEAST-NONE 
+EPI-0
+___ 03:20AM URINE  HYALINE-5*
+___ 03:20AM URINE  MUCOUS-RARE*
+___ 02:48AM   ___ PTT-57.9* ___
+___ 02:20AM   GLUCOSE-98 UREA N-17 CREAT-1.2 SODIUM-133 
+POTASSIUM-4.6 CHLORIDE-97 TOTAL CO2-20* ANION GAP-16
+___ 02:20AM   estGFR-Using this
+___ 02:20AM   CK(CPK)-870*
+___ 02:20AM   cTropnT-0.54*
+___ 02:20AM   CK-MB-116* MB INDX-13.3*
+___ 02:20AM   WBC-10.3* RBC-5.04 HGB-15.5 HCT-46.0 MCV-91 
+MCH-30.8 MCHC-33.7 RDW-13.8 RDWSD-46.7*
+___ 02:20AM   NEUTS-69.1 LYMPHS-15.3* MONOS-12.0 EOS-2.3 
+BASOS-0.8 IM ___ AbsNeut-7.11* AbsLymp-1.57 AbsMono-1.23* 
+AbsEos-0.24 AbsBaso-0.08
+___ 02:20AM   PLT COUNT-182
+
+DISCHARGE/PERTINENT LABS:
+=========================
+___ 05:52AM BLOOD WBC-9.5 RBC-4.61 Hgb-14.5 Hct-42.8 MCV-93 
+MCH-31.5 MCHC-33.9 RDW-13.8 RDWSD-47.1* Plt ___
+___ 05:52AM BLOOD ___ PTT-29.7 ___
+___ 05:52AM BLOOD Glucose-82 UreaN-14 Creat-0.7 Na-138 
+K-4.4 Cl-101 HCO3-21* AnGap-16
+___ 05:52AM BLOOD ALT-15 AST-63* AlkPhos-60 TotBili-0.3
+___ 05:52AM BLOOD CK-MB-24* cTropnT-1.12*
+___ 05:52AM BLOOD Albumin-3.7 Calcium-8.6 Phos-2.8 Mg-2.0 
+Cholest-114
+___ 05:52AM BLOOD Triglyc-62 HDL-54 CHOL/HD-2.1 LDLcalc-48
+
+MICROBIOLOGY:
+=============
+URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+IMAGING/PROCEDURES:
+===================
+CARDIAC CATH:  
+1. Moderate three vessel CAD in this right dominant coronary 
+system with culprit lesion in the mid LCx (70%)
+2. Successful PCI of the mid LCx with a 2.75 BMS, posted with a
+2.75 NC balloon up to 20 ATM
+
+ECHO:
+Left ventricular wall thicknesses are normal. The left 
+ventricular cavity size is normal. Overall left ventricular 
+systolic function is normal (LVEF = 65%). However, the 
+midventricular and apical segments of the lateral wall are 
+mildly hypokinetic. Tissue Doppler imaging suggests a normal 
+left ventricular filling pressure (PCWP<12mmHg). Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The number of aortic valve leaflets cannot be 
+determined. The aortic valve leaflets are mildly thickened (?#). 
+There is no aortic valve stenosis. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. The 
+pulmonary artery systolic pressure could not be determined. 
+There is no pericardial effusion.  
+ 
+Brief Hospital Course:
+___ with history notable for HIV, HepC, HTN, former alcohol/IV 
+drug abuse transferred from OSH with NSTEMI. Proceeded directly 
+to cath with right radial access, 70% occlusion of circumflex 
+(culprit lesion), 30% LAD, 40-50% RCA. Intervention with bare 
+metal stent to circumflex. Hospital course uneventful otherwise. 
+TTE prior to discharge showed overall left ventricular systolic 
+function is normal (LVEF = 65%) with mild hypokinesis of the 
+midventricular and apical segments of the lateral wall. He was 
+started on aspirin, clopidogrel, metoprolol succinate 100 mg 
+daily, and atorvastatin 80 mg daily.
+
+#NSTEMI s/p PCI: Initially presented with chest pain at rest. 
+Risk factors included long history of smoking, HIV, and 
+hypertension. At outside hospital, initial troponin was 1.6 with 
+EKG found to be normal sinus rhythm.  Patient was diagnosed with 
+NSTEMI, placed on heparin drip and transferred here. In the ED 
+initial vitals were: 98.4 68 128/80 18 96%. Labs notable for 
+troponin peak of 1.12. EKG with normal sinus rhythm, leftward 
+axis, no ST elevations or depressions. Patient received aspirin 
+81 mg, atorvastatin 80 mg, nitro 0.4 SL, and started on heparin 
+gtt 850/hr. He was admitted directly to cath lab and prioritized 
+due to ongoing chest pain in waiting area. Successfully 
+underwent PCI with BMS to LCx (70% stenosis) and loaded with 
+Plavix & aspirin prior to floor. Vitals remained stable with 
+complete resolution of symptoms. Monitored overnight with no 
+complications following cath. Started multiple new medications 
+for CAD/PCI including aspirin, Plavix, atorvastatin (per 
+pharmacy, best option despite HIV meds), and metoprolol 
+tartrate. Next morning he remained stable and asymptomatic and 
+so was able to be discharged home with plan for cardiologist 
+follow up.
+
+#Hypertension: Remained stable throughout admission. Continued 
+home lisinopril.
+
+#HIV: Patient reported that he had not been able to take regular 
+HIV medications for past ___ days as they were not available at 
+his regular pharmacy. Resumed his HIV regimen with therapeutic 
+equivalent of Triumeq (which was not on hospital formulary) and 
+advised him to ensure he obtains his medications once discharged 
+home.
+
+TRANSITIONAL ISSUES:
+====================
+# Patient requires follow-up with Dr. ___ 3 weeks 
+of discharge.
+# The patient was started on Aspirin/Clopidogrel and should be 
+continued on this combination for at least 1 month and should 
+not be stopped without prior discussion and approval from 
+cardiologist.
+# The patient was started on Metoprolol 100mg XL for 
+cardioprotective/mortality benefits. Please uptitrate to a HR of 
+<60.
+# The patient was also started on Atorvastatin 80mg PO daily.
+
+#Proxy name: ___  Phone: ___
+#CODE STATUS: full (confirmed)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Triumeq (abacavir-dolutegravir-lamivud) 600-50-300 mg oral 
+DAILY 
+2. Lisinopril 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Aspir-81] 81 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily at night Disp 
+#*30 Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+5.  Lisinopril 10 mg PO DAILY 
+RX *lisinopril 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+6.  Triumeq (abacavir-dolutegravir-lamivud) 600-50-300 mg oral 
+DAILY 
+RX *abacavir-dolutegravir-lamivud [Triumeq] 600 mg-50 mg-300 mg 
+1 tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+NSTEMI
+
+SECONDARY DIAGNOSES:
+HIV
+HEPATITIS C
+HYPERTENSION
+SMOKING
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you. You were admitted to the 
+___ because you had chest pain 
+that was concerning for a heart attack. We did EKGs and lab 
+tests that showed that your heart was not getting enough blood 
+because of a narrowing of one of your arteries. 
+
+We did a cardiac catheterization that confirmed the severe 
+narrowing of one of your arteries so we placed a stent to open 
+up this artery. You did very well after the procedure and your 
+chest pain resolved.
+
+You should continue to take all your medications as prescribed. 
+You should not stop any medications without talking to your 
+cardiologist. In particular, you should not stop or miss any 
+doses of your clopidogrel (Plavix) for the first month after 
+your procedure. 
+
+Please keep all the appointments scheduled for you below.
+
+Wishing you a speedy recovery.
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

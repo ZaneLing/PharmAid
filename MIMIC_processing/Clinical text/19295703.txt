@@ -1,0 +1,273 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Aphasia
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+The patient is a ___ PMHx cigarette smoking who presents
+with word finding and comprehension difficulty. History is
+provided from family, OMR and OSH records.
+
+Pt was in his usual state of health ___. He ate dinner with
+his son around 21:00 and was acting like his usual self. On 
+___,
+around 2:30p, pt was scheduled for a doctor's apt (steroid
+injections into lower back) and his daughter was planning on
+meeting him at the ___. He never showed up so his daughter
+called him. At that time, she said that he was mumbling and she
+could not understand what he was saying on the phone. She called
+EMS.
+
+He was initially brought to an OSH. At OSH, MRI/A brain revealed
+subacute embolic infarcts in L MCA territory with complete
+occlusion of the L ICA and abnormal signal on T1 fat suppressed
+images consistent with dissection. He was given 300 PR aspirin
+and transferred to ___ for further management.
+
+Pt denies any recent falls or head injuries (although he is
+somewhat unreliable and does not consistently say yes or no
+appropriately due to aphasia).
+
+ROS unable to be reliably obtained.
+
+ 
+Past Medical History:
+Lower back pain
+ 
+Social History:
+___
+Family History:
++MI, Celiac disease, CREST syndrome
+No family history of stroke or neurologic disorders
+ 
+Physical Exam:
+Vitals: 99.2 73 149/67 20 97% RA 
+General: NAD, resting comfortably, well-appearing
+HEENT: NCAT, no oropharyngeal lesions
+Neck: Supple
+___: RRR
+Pulmonary: CTAB
+Abdomen: Soft, NT, ND
+Extremities: Warm, no edema
+Skin: No rashes or lesions
+
+Neurologic Examination:
+- Mental Status - Awake, alert. Can say "yes", "no" and "I try"
+only; no dysarthria. Cannot name any items on stroke card. 
+Cannot
+repeat. When asked to show his left thumb, he shows me his left
+hand. When asked to stick out his tongue, just opens his mouth.
+Is able to follow commands during examination. No evidence of
+hemineglect. No left-right agnosia.
+
+- Cranial Nerves - PERRL 3->2 brisk. VF full to finger wiggling.
+EOMI, no nystagmus. V1-V3 without deficits to light touch
+bilaterally. R NLFF but activates well. Hearing intact to finger
+rub bilaterally. Palate elevation symmetric. Trapezius strength
+___ bilaterally. Tongue midline.
+
+- Motor - Normal bulk and tone. No drift. No tremor or 
+asterixis.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  5   5    5  5     5     5
+R  5    ___   ___  5   5    5  5     5     5
+
+- Sensory - No deficits to light touch bilaterally.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   2
+R  2  2    2    2   2
+Plantar response flexor bilaterally.
+
+- Coordination - No dysmetria with finger to nose testing
+bilaterally. 
+
+- Gait - Deferred.
+
+###DISCHARGE EXAM###
+Patient is able to speak in ___ word phrases and then has 
+intermittent word finding difficulty. He can state his name, but 
+not location or date. He cannot name objects. He can read and 
+repeat. He is able to sing without difficulty in word 
+production. R facial droop. Full strength ___ in arms/legs. 
+ 
+Pertinent Results:
+___ 08:10PM BLOOD cTropnT-<0.01
+___ 05:25AM BLOOD %HbA1c-5.5 eAG-111
+
+___ Echocardiogram
+The left atrium is mildly dilated. No atrial septal defect or 
+patent foramen ovale is seen by 2D, color Doppler or saline 
+contrast with maneuvers. However, image quality was degraded and 
+reduces confidence to exclude PFO. Normal left ventricular wall 
+thickness, cavity size, and regional/global systolic function 
+(biplane LVEF = 57 %). Right ventricular chamber size and free 
+wall motion are normal. The aortic valve leaflets (3) appear 
+structurally normal with good leaflet excursion and no aortic 
+stenosis or aortic regurgitation. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. There is 
+no mitral valve prolapse. The estimated pulmonary artery 
+systolic pressure is normal. There is no pericardial effusion. 
+
+IMPRESSION: No echocardiographic evidence of cardiac source of 
+embolus seen. No clear echocardiographic evidence of a PFO 
+visualized.  
+
+___ CTA Head/Neck: 1. Evolving left MCA territory infarct. 
+
+2. Occlusion of the left internal carotid artery from the level 
+of the 
+bifurcation with reconstitution in the cavernous segment, 
+unchanged from prior MRA. 
+3. Occlusion of the distal left M1 segment to left M2 segment of 
+the MCA, with distal reconstitution also unchanged. 
+4. The left A1 segment is diminutive.  It is uncertain whether 
+this is 
+secondary to congenital hypoplasia versus thrombus. 
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted to the stroke service after a L MCA 
+infarct with L M1 cutoff and ICA stenosis from bifurcation to 
+clinoid segment. There was no evidence of dissection, and it was 
+thought this was most likely atherosclerosis with underlying 
+risk factors of smoking and a possible familial hyperlipidemia 
+syndrome by PCP ___. 
+
+Echocardiogram was normal, EF 57% with no intracardiac thrombus. 
+He was monitored on telemetry with no evidence of atrial 
+fibrillation. A1C 5.5. LDL pending at the time of discharge but 
+documented as 103 at OSH. 
+
+He was started on aspirin 81mg and atorvastatin 40mg as 
+secondary stroke prevention. He was counseled on smoking 
+cessation. 
+
+He was evaluated by ___ and speech who felt he was appropriate 
+for discharge to rehab.  
+
+##Transitional Issues##
+1. Continue aspirin 81mg daily and atorvastatin 40mg daily
+2. Lisinopril 10mg home dose was held and should continue to be 
+held as BP normotensive during admission.
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack  
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed  () No  
+2. DVT Prophylaxis administered? (x) Yes - () No  
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No  
+4. LDL documented? (x) Yes (LDL = ) - () No  
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 100) (x) Yes - () No [if 
+LDL >100, reason not given: ]  
+6. Smoking cessation counseling given? (x) Yes - () No [reason 
+() non-smoker - () unable to participate]  
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No  
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >100, 
+reason not given: ]  
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No  
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - (x) N/A  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 10 mg PO DAILY 
+2. Atorvastatin 10 mg PO BID 
+3. HYDROcodone-acetaminophen ___ mg PO QID:PRN 
+4. Ibuprofen 200 mg PO DAILY:PRN Pain 
+
+ 
+Discharge Medications:
+1. Atorvastatin 40 mg PO QPM 
+2. Aspirin 81 mg PO DAILY 
+3. Lisinopril 10 mg PO DAILY 
+4. Ibuprofen 200 mg PO DAILY:PRN Pain 
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Ischemic infarct due to occlusion of the left carotid artery
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+[ Discharge Worksheet for Stroke]  
+ 
+Dear Mr. ___,  
+ 
+You were hospitalized due to symptoms of speech changes 
+resulting from an ACUTE ISCHEMIC STROKE, a condition where a 
+blood vessel providing oxygen and nutrients to the brain is 
+blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms.  
+ 
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+- Smoking
+- High choelsterol
+ 
+We are changing your medications as follows:  
+- Take aspirin 81mg daily. Increase atorvastatin to 40 mg daily
+ 
+Please take your other medications as prescribed.  
+ 
+Please followup with Neurology and your primary care physician.  
+
+ 
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+- sudden partial or complete loss of vision  
+- sudden loss of the ability to speak words from your mouth  
+- sudden loss of the ability to understand others speaking to 
+you  
+- sudden weakness of one side of the body  
+- sudden drooping of one side of the face  
+- sudden loss of sensation of one side of the body  
+ 
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

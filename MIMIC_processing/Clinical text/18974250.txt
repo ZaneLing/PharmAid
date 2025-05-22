@@ -1,0 +1,544 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+blurry vision
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+This is a ___ year old woman with remote history of hypertension
+(now off anti-hypertensives), migraines, and GERD c/b frequent
+peptic ulcers with one peptic ulceration through gastric wall
+necessitating surgery who brought her self into the ED after she
+was told by ___ yesterday that she had a stroke on
+MRI and would need to be transferred to ___. History obtained
+by patient with supplementation by chart review. 
+
+The patient reports that she was in her usual state of health
+leading up to ___ afternoon. She smoked 1 marijuana joint on
+___, which was not typical for her. She does not think it was
+laced. Later that afternoon, she became acutely vertiginous 
+after
+having a bowel movement. She reports falling off the toilet and
+she thinks she lost consciousness. She hit the front of her head
+and "has a bruise to prove it." She woke up and got herself up
+and walked down to the stairs to her friends. She told them she
+fell when they asked her what took her so long, although she is
+not sure how much time truly passed. She continued to relax with
+her friends but endorses some blurry vision (bilateral) without
+diplopia and a minor frontal throbbing headache that was not
+positional. She had no gait abnormalities or weakness that she
+noticed, although she did endorse some transient tingling in her
+abdomen as well as in her left arm that migrated up her hand,
+lasting < 1 minute and coming on/off throughout the day. 
+
+Later that night, she was sleeping by her boyfriend when he
+noticed that her body suddenly stiffened during sleep and then
+started to "full body shake." He reported no incontinence. He
+held on to her to prevent her from falling off the bed. This
+lasted ___ minutes and he did not try to wake her up when it 
+was
+over. She woke up unaware of the event until he told her. Later
+that day she presented to ___ for evaluation as she 
+still
+had a throbbing frontal headache with blurry vision. She was a
+little nauseous then but did not vomit. At ___, she
+reportedly had CTH and MRI and was told she had a stroke and
+needed to be transferred to ___ for neurology workup. She did
+not want to wait for transfer from ___ and instead 
+presented
+by herself to ___ on the next day.
+
+Since leaving ___, she endorses the same symptoms of blurry
+vision, occasional throbbing frontal headache which is improving
+since the initial head injury on ___, and transient rising
+sensations of numbness from her abdomen and from her left hand 
+up
+to her arm. These sensations occur several times a day and last 
+a
+minute or less. She does not feel confused during these events.
+
+She is uptodate on her cancer screening and says that she had a
+normal mammogram ___ years ago and normal colonoscopy recently.
+No recent unexpected weight loss, night sweats. No history of
+clots in the family. She endorsed a remote history of
+palpitations with an anti-hypertensive medication several years
+ago but has not felt a similar sensation for years. She has no
+history of febrile seizures as a child.
+ 
+ROS: 
+====
+Positive for blurry vision, nausea, frontal throbbing headache,
+left arm rising parasthesias.
+
+Negative for confusion, difficulties producing or comprehending
+speech,  diplopia, dysarthria, dysphagia, lightheadedness,
+vertigo, tinnitus or hearing difficulty. Denies focal 
+weakness.No
+bowel or bladder incontinence or retention. Denies difficulty
+with gait.
+ 
+On general review of systems, the patient denies recent fever, 
+chills, night sweats, or recent weight changes. Denies cough,
+shortness of breath, chest pain or tightness, palpitations. 
+Denies nausea, vomiting, diarrhea, constipation or abdominal
+pain.  Denies dysuria, or recent change in bowel or bladder
+habits.  Denies arthralgias, myalgias, or rash. 
+
+ 
+Past Medical History:
+GERD
+visual migraines - sees colors, started getting them after she
+turned ___; only gets them with menses
+PUD complicated by ruptured ulcer
+nephrolithiasis
+Abdominal surgery ___ ruptured PUD
+ 
+Social History:
+___
+Family History:
+DM2
+CAD
+grandmother on mother's side had stroke
+no known history of blood clots
+no known history of seizures
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=========================
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands.  There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Very slow with smooth pursuit. Normal saccades. Left
+homonymous hemianopsia. OS ___, OD ___. Fundoscopic exam
+with crisp optic discs.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    5
+R    5    5    5    5    5    5   5    5    5   5    5    5
+
+-Sensory: No deficits to light touch, pinprick, temperature, 
+vibration, or proprioception throughout. No agraphasthesia. No
+extinction to DSS. Romberg absent. 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   3     3      3      3     2
+R   3     3      3      3     2 
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Some difficulty with walking with tandem.
+
+DISCHARGE PHYSICAL EXAM
+=========================
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands.  There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. Left homonymous hemianopsia.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    5
+R    5    5    5    5    5    5   5    5    5   5    5    5
+
+-Sensory: No deficits to light touch, pinprick, temperature, 
+vibration, or proprioception throughout. No agraphasthesia. No
+extinction to DSS. Romberg absent. 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   3     3      3      3     2
+R   3     3      3      3     2 
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing. 
+ 
+Pertinent Results:
+ADMISSION LABS
+================
+___ 12:51AM BLOOD WBC-7.9 RBC-4.60 Hgb-14.4 Hct-41.9 MCV-91 
+MCH-31.3 MCHC-34.4 RDW-12.9 RDWSD-42.2 Plt ___
+___ 12:51AM BLOOD Neuts-49.2 ___ Monos-5.3 Eos-1.4 
+Baso-0.5 Im ___ AbsNeut-3.88 AbsLymp-3.43 AbsMono-0.42 
+AbsEos-0.11 AbsBaso-0.04
+___ 08:05PM BLOOD Neuts-53.9 ___ Monos-4.4* Eos-2.0 
+Baso-0.3 Im ___ AbsNeut-3.43 AbsLymp-2.50 AbsMono-0.28 
+AbsEos-0.13 AbsBaso-0.02
+___ 08:05PM BLOOD ___ PTT-27.5 ___
+___ 09:24AM BLOOD ___ PTT-28.1 ___
+___ 05:15AM BLOOD ___ PTT-27.8 ___
+___ 12:51AM BLOOD Plt ___
+___ 09:24AM BLOOD ProtCFn-102 ProtSFn-87
+___ 09:24AM BLOOD Lupus-NEG
+___ 12:51AM BLOOD Glucose-95 UreaN-18 Creat-0.8 Na-140 
+K-4.0 Cl-101 HCO3-24 AnGap-15
+___ 08:05PM BLOOD Glucose-178* UreaN-13 Creat-0.7 Na-139 
+K-3.8 Cl-101 HCO3-25 AnGap-13
+___ 08:05PM BLOOD ALT-5 AST-13 LD(LDH)-176 CK(CPK)-538* 
+AlkPhos-56 TotBili-0.4
+___ 12:51AM BLOOD ALT-7 AST-13 AlkPhos-61 TotBili-0.2
+___ 08:05PM BLOOD GGT-15
+___ 12:51AM BLOOD Lipase-32
+___ 08:05PM BLOOD CK-MB-1 cTropnT-<0.01
+___ 12:51AM BLOOD cTropnT-<0.01
+___ 08:05PM BLOOD TotProt-6.7 Albumin-4.0 Globuln-2.7 
+Cholest-148
+___ 12:51AM BLOOD Albumin-4.4 Cholest-161
+___ 08:05PM BLOOD D-Dimer-426
+___ 05:15AM BLOOD D-Dimer-390
+___ 08:05PM BLOOD %HbA1c-4.9 eAG-94
+___ 12:51AM BLOOD %HbA1c-5.1 eAG-100
+___ 08:05PM BLOOD Triglyc-119 HDL-39* CHOL/HD-3.8 
+LDLcalc-85
+___ 12:51AM BLOOD Triglyc-128 HDL-44 CHOL/HD-3.7 LDLcalc-91
+___ 08:05PM BLOOD TSH-0.60
+___ 12:51AM BLOOD TSH-1.6
+___ 08:05PM BLOOD CRP-5.3*
+___ 09:24AM BLOOD CRP-6.4*
+___ 12:51AM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG 
+Barbitr-NEG Tricycl-NEG
+
+DISCHARGE LABS
+==================
+___ 05:15AM BLOOD WBC-5.7 RBC-4.39 Hgb-13.5 Hct-39.8 MCV-91 
+MCH-30.8 MCHC-33.9 RDW-12.5 RDWSD-41.1 Plt ___
+___ 05:15AM BLOOD Plt ___
+___ 05:15AM BLOOD Glucose-96 UreaN-15 Creat-0.7 Na-139 
+K-4.2 Cl-100 HCO3-26 AnGap-13
+___ 05:15AM BLOOD Calcium-9.1 Phos-4.0 Mg-1.7
+
+IMAGING
+========
+CTA HEAD W&W/O C & RECONS Study Date of ___  
+IMPRESSION:
+1. Severe luminal stenosis of the proximal P2 segment of the 
+right PCA, with segments distal to this not well seen/opacified. 
+ Relative oligemia of the right temporo-occipital PCA 
+distribution infarct. 
+2. 2 x 2 mm posteromedially projecting infundibulum arising from 
+the expected location of the origin of the right posterior 
+communicating artery. 
+3. Mild focal luminal stenosis of the proximal segment of the 
+right MCA 
+presumably due to underlying atheromatous disease. 
+4. Otherwise, patent and unremarkable circle ___ vasculature. 
+
+5. Hypodensity in the right medial temporal and occipital lobes 
+corresponding to known acute infarct in this location.  No 
+acuteintracranial hemorrhage. 
+6. Patent bilateral vertebral and carotid arteries in the neck.  
+No ICA 
+stenosis by NASCET criteria. 
+
+BILAT LOWER EXT VEINS Study Date of ___
+IMPRESSION:  
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins.
+
+MRI: OSH
+
+TTE ___
+The left atrial volume index is normal. There is no evidence of 
+an atrial septal defect or patent foramen ovale by 2D/color 
+Doppler or agitated saline at rest and with maneuvers. The 
+estimated right atrial
+pressure is ___ mmHg. There is normal left ventricular wall 
+thickness with a normal cavity size. There is normal regional 
+left ventricular systolic function. Overall left ventricular 
+systolic function is normal.
+Quantitative biplane left ventricular ejection fraction is 69 %. 
+Left ventricular cardiac index is normal (>2.5 L/min/m2). Tissue 
+Doppler suggests a normal left ventricular filling pressure 
+(PCWP less than
+12mmHg). There is normal diastolic function. Normal right 
+ventricular cavity size with normal free wall motion. The aortic 
+sinus diameter is normal for gender with normal ascending aorta 
+diameter for gender.
+The aortic arch diameter is normal. The aortic valve leaflets 
+(?#) appear structurally normal. There is no aortic valve 
+stenosis. There is no aortic regurgitation. The mitral valve 
+leaflets appear structurally normal with no mitral valve 
+prolapse. There is trivial mitral regurgitation. The tricuspid 
+valve leaflets appear structurally normal. There is trivial 
+tricuspid regurgitation. The estimated pulmonary artery systolic 
+pressure is normal. There is no pericardial effusion.
+
+IMPRESSION: No structural cardiac source of embolism (e.g.patent 
+foramen ovale/atrial septal defect, intracardiac thrombus, or 
+vegetation) seen.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a past medical history of 
+diet-controlled hypertension, migraines, and GERD complicated by 
+frequent peptic ulcers with one peptic ulceration who presented 
+to ___ with with blurry vision, witnessed 
+generalized tonic clonic seizure at home. There, MRI 
+demonstrated posterior circulation stroke and she was referred 
+to ___ for further management. 
+
+#Right PCA infarct:
+Reported becoming acutely vertiginous at home while bearing down 
+on toilet. Later developed bilateral blurry vision, throbbing 
+frontal headache, transient tingling in left upper extremity. 
+Notably smoked 1 marijuana joint prior to symptom onset. That 
+evening, had one generalized tonic clonic seizure witnessed by 
+partner in bed, (see #GTC below). Presented to OSH where MRI 
+demonstrated "stroke". Transferred to ___. Here, NIHSS was ___xam notable for left homonymous hemianopsia 
+and decreased visual acuity bilaterally. Imaging notable for MRI 
+with right acute PCA territory infarct involving mesial 
+temporal, right occipital lobe, right lateral thalamus. CTA with 
+diminished flow through the right PCA. TTE with bubble study was 
+unremarkable, thus clinically significant PFO is unlikely. Will 
+have ___ arranged as outpatient (ordered prior to discharge). 
+Hypercoagulability workup was unremarkable (bilateral DVT 
+ultrasounds, d-dimer, sed rate, beta 2 glycoprotein, 
+cardiolipin, lupus anticoagulant all negative, not pregnant with 
+no family history of hypercoagulable state). In terms of her 
+risk factors, she is an active smoker with a 33 pack year 
+smoking history. Stroke risk factors notable for HgA1C: 4.9, 
+LDL: 85. She was initiated on aspirin 81 mg daily, atorvastatin 
+40 mg daily. Etiology of her stroke is unclear, she may have had 
+embolus through her posterior circulation during valsalva. The 
+tingling in her left extremity may be the result of thalamic 
+involvement of her stroke. She will have TEE performed as an 
+outpatient, this study was ordered prior to discharge. A ___ of 
+hearts monitor was also placed prior to discharge. ___ and OT 
+recommended discharge home with outpatient ___. At the 
+time of discharge, she continued to have left homonymous 
+hemianopsia.
+
+#Generalized tonic clonic seizure:
+Witnessed first-time seizure while in bed with her partner. 
+Described as her body suddenly stiffening during sleep and 
+subsequent "full body shaking." Lasted ___ minutes at most. 
+Patient was unaware of this event. EEG on admission did not 
+capture any seizure activity. ___ have occurred in hyperacute 
+period following stroke as above. Given recurrence rate of 30% 
+after first unprovoked seizure, antiepileptic agent initiation 
+was deferred. Patient was counseled prior to discharge to NOT 
+drive for the next 6 months and she expressed understanding of 
+this plan.
+
+#GERD:
+Continued home omeprazole.
+
+#HTN:
+Reported as diet-controlled. Remained normotensive in-house.
+
+TRANSITIONAL ISSUES:
+======================
+[] please ensure TEE scheduling (order placed prior to discharge 
+___
+[] continue to monitor for additional seizures
+[] discharged with ___ of hearts monitor, ___ results
+[] initiated aspirin 81 mg daily, atorvastatin 40 mg daily for 
+stroke prevention
+[] continue to encourage smoking cessation (smokes ___ PPD, ___ 
+year pack history)
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack 
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed () No. If no, reason why: 
+2. DVT Prophylaxis administered? (x) Yes - () No. If no, why not 
+(I.e. bleeding risk, hemorrhage, etc.) 
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No. If not, why not? (I.e. bleeding risk, 
+hemorrhage, etc.)
+4. LDL documented? (x) Yes (LDL = 85) - () No 
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) (x) Yes - () No [if LDL 
+>70, reason not given: 
+ [ ] Statin medication allergy 
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist 
+ [ ] LDL-c less than 70 mg/dL 
+6. Smoking cessation counseling given? (x) Yes - () No [reason 
+() non-smoker - () unable to participate] 
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No 
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No. If no, why not? (I.e. patient at baseline 
+functional status)
+9. Discharged on statin therapy? () Yes - () No [if LDL >70, 
+reason not given: 
+ [ ] Statin medication allergy 
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist 
+ [ ] LDL-c less than 70 mg/dL 
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No 
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - If no, why not (I.e. 
+bleeding risk, etc.) (x) N/A 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Nicotine Patch 21 mg TD DAILY 
+RX *nicotine [Nicoderm CQ] 21 mg/24 hour 1 patch daily daily 
+Disp #*30 Patch Refills:*0 
+4.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+5.Outpatient Occupational Therapy
+ICD 10 ___.82
+
+6.Outpatient Physical Therapy
+ICD10 ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#R PCA infarct
+#Generalized tonic clonic seizure
+#GERD
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+ You were hospitalized due to symptoms of blurry vision 
+resulting from an ACUTE ISCHEMIC STROKE, a condition where a 
+blood vessel providing oxygen and nutrients to the brain is 
+blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms.
+
+ Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+ 1) high cholesterol
+
+ We are changing your medications as follows:  
+ 1) addition of "aspirin" to help keep your blood thin to 
+prevent you from getting future strokes
+ 2) addition of "atorvastatin" to help lower your cholesterol
+
+ Please take your other medications as prescribed.  
+ Please follow up with Neurology and your primary care physician 
+as listed below
+
+ If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+ Additionally, you had a seizure at home before you came to the 
+hospital. You also have difficulty with your vision from your 
+stroke. In accordance with ___ law, you should 
+not drive for the next 6 months. You will be evaluated by a 
+doctor within the next 6 months, at that time it will be 
+determined when you may resume driving.
+
+ Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

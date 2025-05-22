@@ -1,0 +1,129 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+___ 04:40AM BLOOD WBC-5.7 RBC-3.95 Hgb-12.5 Hct-38.4 MCV-97 
+MCH-31.6 MCHC-32.6 RDW-12.8 RDWSD-45.8 Plt ___
+___ 04:40AM BLOOD Glucose-111* UreaN-16 Creat-1.1 Na-141 
+K-4.0 Cl-104 HCO3-25 AnGap-12
+___ 01:20PM BLOOD ALT-10 AST-17 AlkPhos-88 TotBili-0.6
+___ 04:40AM BLOOD Calcium-9.2 Phos-3.6 Mg-1.9 UricAcd-8.8*
+___ 04:40AM BLOOD VitB12-253
+___ 04:40AM BLOOD Ammonia-14
+___ 04:40AM BLOOD TSH-2.6
+
+IMPRESSION: 
+  
+  
+1. No acute intracranial process. 
+2. Chronic infarcts are seen involving the left frontoparietal 
+region and the 
+right basal ganglia.  MRI is more sensitive in detecting acute 
+ischemia. 
+3. Paranasal sinus disease. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ woman with history of HTN, HLD, 
+depression, CVA ___, who presents with worsening lethargy.
+
+# Acute metabolic encephalopathy:
+# Lethargy:
+# Depression
+3 weeks worsening lethargy.  She was seen in ___ clinic and 
+___ increased to 30mg daily though this has not changed her 
+course much.  Medically she has no acute abnormalities which 
+would explain this: labs stable, CT head neg.  UA positive but 
+with several epis and no sxs I felt UTI unlikely.  PCP gives 
+collateral of a normally active person withdrawn lately and less 
+interactive.  Psych consulted and recommended to cont Paxil with 
+caution given drug-drug interactions.  Can follow up with psych 
+as outpatient if needed.  Arranged for home ___ for safety eval 
+and ___.
+
+# Asymptomatic bacteriuria
+UA positive for infection.  No symptoms of UTI.  Several epis.  
+I di not feel she had infection at this time and stopped 
+antibiotics
+# HTN
+- Continued home meds
+
+# HLD
+- Continued home simvastatin 40 mg daily.
+
+# CVA
+Prior CVA ___. CT head with old left frontoparietal infarct. No 
+neuro deficits on exam.
+
+# Gout
+- Uric acid mildly elevated. Consider discontinuing HCTZ in 
+outpatient setting.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO DAILY 
+2. Hydrochlorothiazide 12.5 mg PO DAILY 
+3. Indomethacin 25 mg PO TID:PRN Pain - Moderate 
+4. Lisinopril 20 mg PO DAILY 
+5. PARoxetine 30 mg PO DAILY 
+6. Simvastatin 40 mg PO QPM 
+7. Aspirin 81 mg PO DAILY 
+8. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atenolol 25 mg PO DAILY  
+3.  Hydrochlorothiazide 12.5 mg PO DAILY  
+4.  Indomethacin 25 mg PO TID:PRN Pain - Moderate  
+5.  Lisinopril 20 mg PO DAILY  
+6.  PARoxetine 30 mg PO DAILY  
+7.  Simvastatin 40 mg PO QPM  
+8.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+1. Lethargy
+2. Depression
+3. Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with not feeling your self.  Medical 
+evaluation was negative for any infection or metabolic 
+derangements.  Thinking this was related to your mood, we had 
+psychiatry see you and they agree with continuing Paxil for now. 
+ You will be discharged home with ___ and home safety/OT 
+evaluations.  Please follow up with your PCP ___ 1 week for a 
+check up.
+ 
+Followup Instructions:
+___

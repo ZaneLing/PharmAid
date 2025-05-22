@@ -1,0 +1,273 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Demerol / codeine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization
+
+ 
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS: 
+Mr. ___ is a ___ male with history of ___
+esophagus, HTN, HLD, and a history of smoking who presents with 
+1
+week of worsening reflux symptoms radiating to jaw, concerning
+for ACS. 
+
+The patient reports that he normally has GERD-related substernal
+chest pain intermittently. Typically, his GERD pain is a
+substernal burning that is intermittent, worsening w/ food, and
+accompanied by belching and coughing. However, he reports that
+over the past week, his chest pain has been more intense
+(___). Additionally, he has noticed that his chest pain has
+been radiating into bilateral jaws and also occurs while
+standing, while previously he only had chest pain with lying
+down. Otherwise, he describes his chest pain as being
+non-exertional. He reports that his reflux was previously stable
+and he has been compliant with all his medications. His diet had
+not changed this week either. He otherwise denies SOB,
+fevers/chills, productive cough. 
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:
+=======================
+GASTROESOPHAGEAL REFLUX c/b ___ ESOPHAGUS   
+COLONIC POLYPS   
+
+1. CARDIAC RISK FACTORS
+- Diabetes
+- Hypertension
+- Dyslipidemia
+2. CARDIAC HISTORY
+- None
+3. OTHER PAST MEDICAL HISTORY
+- GERD w/ ___ esophagus
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.
+ 
+Physical Exam:
+Admission PHYSICAL EXAMINATION:
+=======================
+VS: T 98.2F, BP 132/72, HR 60, and O2 sat 96%
+GENERAL: Patient appears to be in no apparent distress
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.
+NECK: Supple. Unable to appreciate JVP
+CARDIAC: Normal S1, S2 without murmurs, rubs, or gallops
+LUNGS: clear to auscultation bilaterally
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.
+SKIN: No significant skin lesions or rashes.
+PULSES: Distal pulses palpable and symmetric.
+
+Discharge Physical Exam:
+PHYSICAL EXAMINATION:
+=======================
+24 HR Data (last updated ___ @ 444)
+    Temp: 98.5 (Tm 98.6), BP: 121/81 (102-134/65-83), HR: 54
+(54-69), RR: 18 (___), O2 sat: 96% (94-97), O2 delivery: Ra  
+
+GENERAL: Patient appears to be in no apparent distress
+HEENT: Normocephalic atraumatic. 
+CARDIAC: Normal S1, S2 without murmurs, rubs, or gallops
+LUNGS: clear to auscultation bilaterally no crackles or wheezes. 
+
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema. No hematoma in right wrist. 2+ pulses 
+bilateral upper and lower extremities. 
+SKIN: No significant skin lesions or rashes.
+PULSES: Distal pulses palpable and symmetric.
+
+ 
+Pertinent Results:
+Admission Labs:
+___ 12:40PM BLOOD WBC-7.8 RBC-5.26 Hgb-14.7 Hct-43.7 MCV-83 
+MCH-27.9 MCHC-33.6 RDW-14.0 RDWSD-42.1 Plt ___
+___ 12:40PM BLOOD Glucose-102* UreaN-24* Creat-1.0 Na-140 
+K-4.1 Cl-101 HCO3-24 AnGap-15
+___ 03:30PM BLOOD ALT-20 AST-36 CK(CPK)-184 AlkPhos-54 
+TotBili-0.4
+___ 12:40PM BLOOD cTropnT-0.04*
+___ 03:30PM BLOOD cTropnT-0.06*
+___ 11:24PM BLOOD CK-MB-9 cTropnT-0.21*
+___ 07:38AM BLOOD CK-MB-8 cTropnT-0.24*
+___ 08:40AM BLOOD CK-MB-7 cTropnT-0.22*
+
+Pertinent Interval Labs:
+___ 07:59AM BLOOD WBC-6.7 RBC-4.96 Hgb-13.7 Hct-42.0 MCV-85 
+MCH-27.6 MCHC-32.6 RDW-14.5 RDWSD-43.8 Plt ___
+___ 07:59AM BLOOD Glucose-107* UreaN-14 Creat-1.0 Na-141 
+K-4.4 Cl-104 HCO3-25 AnGap-12
+___ 08:40AM BLOOD CK-MB-7 cTropnT-0.22*
+___ 07:59AM BLOOD Calcium-9.3 Phos-2.8 Mg-2.0
+
+Catheterization Results: 
+1 vessel disease: Cx: The Circumflex artery, which arises from 
+the LM, is a large caliber vessel. There is a 95% stenosis
+in the proximal segment. There is a moderate thrombus in the 
+proximal segment.
+The Obtuse Marginal, arising from the proximal segment, is a 
+medium caliber vessel.
+
+A 6 ___ EBU3.5 guide provided adequate support. Crossed with 
+a Prowater wire into the distal Cx.
+Predilated with a 2.5 mm balloon and then deployed a 2.5 mm x 15 
+mm DES. Postdilated with a 3.5mm
+balloon proximally. Final angiography revealed normal flow, no 
+dissection and 0% residual stenosis.
+
+TTE:
+IMPRESSION: Normal biventricular wall thicknesses, cavity sizes, 
+and regional/global systolic
+function. Mild pulmonary artery systolic hypertension.
+ 
+Brief Hospital Course:
+=====================
+ASSESSMENT AND PLAN:
+=====================
+Dr. ___ is a ___ male with history of ___ 
+esophagus, HTN, HLD, and a history of smoking who presents with 
+1 week of worsening non exertional reflux symptoms with 
+additional occasional features of chest pressure radiating to 
+jaw. Found to have uptrending troponins and NSTEMI with plan for 
+cardiac catheterization. 
+
+===============
+ACTIVE ISSUES:
+===============
+#NSTEMI 
+Dr. ___ presented with a one-week history of worsening 
+nonexertional reflux symptoms. With occasional feelings of chest 
+pressure which radiated to the jaw. There was no associated 
+nausea vomiting or diaphoresis he presented to the emergency 
+department on a day off. His electrocardiogram on admission was 
+notable for T-wave inversion in lead III however no ST changes. 
+Q waves were noted in inferior leads as well. Troponins were 
+notable for uptrending which she was started on a heparin drip. 
+Catheterization showed 95% lesion in the circumflex which was 
+successfully stented with a drug-eluting stent. He has been 
+started on ticagrelor BID and aspirin. An echocardiogram was 
+performed after procedure which showed LV EF of 67% with normal 
+biventricular wall thickness, cavity sizes, and regional/global 
+systolic function. Mild pulmonary artery systolic hypertension. 
+Patient will need ___ with outpatient cardiologist for 
+continued medical management of coronary artery disease but 
+prefers to set up ___ himself. 
+
+Chronic Problems
+=====================
+GERD: 
+Patient also noted worsening of his reflux symptoms. He was 
+started on Maalox as needed.
+
+#Hypertension
+- Continued home lisinopril
+- HCTz held pending possible coronary angiography
+
+==================
+CORE MEASURES:
+==================
+# CODE STATUS: Full code
+# CONTACT: ___ (wife, ___
+
+TRANSITIONAL ISSUES
+==================
+[] NSTEMI, Onyx DES to LCx: Patient started on DAPT with aspirin 
+and ticagrelor and should continue for at least one year. Do not 
+stop taking medication without consulting a cardiologist
+[] New diagnosis of coronary artery disease. BB was not started 
+as patient with HR in the ___. Consider adding BB if heart 
+rates allow as outpatient.
+[] New medications: Atorvastatin 80mg QHS, ticagrelor 90mg BID, 
+aspirin 81mg daily.
+[] Patient will be discharged with PCP ___ but would like 
+to arrange his own Cardiology ___ as outpatient. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Calcitrate-Vitamin D (calcium citrate-vitamin D3) 315-250 
+mg-unit oral DAILY 
+3. Nexium 40 mg Other DAILY 
+4. Atorvastatin 40 mg PO QPM 
+5. lisinopril-hydrochlorothiazide ___ mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Aluminum-Magnesium Hydrox.-Simethicone ___ mL PO QID:PRN 
+Heartburn 
+RX *alum-mag hydroxide-simeth 200 mg-200 mg-20 mg/5 mL 5 mL by 
+mouth every 6 hours Disp #*1 Bottle Refills:*0 
+2.  TiCAGRELOR 90 mg PO BID to prevent stent thrombosis 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+3.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth every evening Disp 
+#*30 Tablet Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Calcitrate-Vitamin D (calcium citrate-vitamin D3) 315-250 
+mg-unit oral DAILY  
+6.  lisinopril-hydrochlorothiazide ___ mg oral DAILY  
+7.  Nexium 40 mg Other DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+NSTEMI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Why was I admitted to the hospital?
+What was done while I was in the hospital?
+A cardiac catheterization was performed which revealed a 
+blockage in 1 of the main vessels in your heart.  The blockage 
+was able to be repaired with a stent.
+-He was started on a new medication called to capsular which 
+helps to keep the stent open and prevents the stent being 
+blocked again.  It is important that she maintain taking this 
+medication
+
+What should I do when I go home?
+-Continue taking aspirin and ticagrelor for at least one year to 
+ensure that your stent does not become blocked again. Do not 
+stop taking medication without consulting a cardiologist
+-Continue taking you statin everyday. 
+-See a cardiologist within two weeks of discharge.
+-Please see your primary care physician in the next ___ days. 
+-If she notes symptoms similar to the chest pain that brought 
+you to the hospital you should return to the hospital as this 
+may be an indicator that you are having another heart attack.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,270 @@
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Subdural hematoma
+ 
+Major Surgical or Invasive Procedure:
+___ - Right burr hole for evacuation of subdural hematoma
+ 
+History of Present Illness:
+___ y/o male s/p fall with headstrike in ___ now
+found to have bilateral acute on chronic subdural hematomas. The
+patient states that ___ experienced a mechanical fall in ___
+with headstrike. ___ did not seek medical attention after the
+fall. ___ suffered from headaches but those have resolved. ___
+started to experience difficulty walking five days ago. ___ also
+endorses difficulty with his fine motor skills including using
+utensils and typing. ___ wife has noticed that his processing
+ability has slowed. ___ was scheduled to undergo a CT head
+scheduled by his PCP today but decided to come into the ED
+overnight as ___ was having difficulty using a knife and fork at
+dinner. 
+ 
+Past Medical History:
+Recently diagnosed with CLL
+Renal insufficiency
+Bradycardia
+
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Upon Admission:
+===============
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: 3-2mm bilaterally.  EOMs intact throughout. 
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech fluent with good comprehension and repetition.
+Naming intact. No dysarthria or paraphasic errors.
+
+Cranial Nerves:
+I: Not tested.
+II: Pupils equally round and reactive to light, 3mm to
+2mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift.
+
+Sensation: Intact to light touch bilaterally.
+
+Handedness: Left 
+
+Upon Discharge:
+===============
+Opens eyes: [ ]spontaneous [x]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  Right 3-2mm;  Left 3-2mm
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [x]No   
+
+Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+Right    5         5      5       5      5
+Left     5         5      4+      4+      5 
+
+IPQuadHamATEHLGast
+Right5        5       5      5        5       5
+Left5        5       5      5        5       5
+
+[x]Sensation intact to light touch
+
+Wound: 
+          [x]Clean, dry, intact  Sutures in place
+
+ 
+Pertinent Results:
+Please see OMR for relevant findings.
+ 
+Brief Hospital Course:
+___ is a ___ year old male who presents with 
+bilateral acute on chronic subdural hematomas, right greater 
+than left.
+
+#Subdural hematoma
+___ was admitted to the ___ for close neurological monitoring. 
+___ was started on Keppra for seizure prophylaxis. On ___, ___ 
+underwent right sided burr hole for evacuation. The procedure 
+was uncomplicated. For further procedure details, please see 
+separately dictated operative report by Dr. ___ was 
+extubated in the operating room and transported to the PACU for 
+recovery. Once stable, ___ was transferred back to ___. 
+Post-operative NCHCT showed some residual collection with 
+pneumocephalus and ___ was placed on a nonrebreather.  His mental 
+status improved.  On ___ head CT was repeated and was stable.  
+
+#Bradycardia
+The patient has a known junctional rhythm and ___ became 
+bradycardic to low ___, asymptomatic. Cardiology was consulted 
+and did not recommend pacemaker placement.
+
+At the time of discharge ___ was tolerating a regular diet, 
+ambulating without difficulty, afebrile with stable vital signs.
+
+___ will follow up with Dr. ___ week in clinic with a 
+repeat head CT.  Dr. ___ was at bedside to council the 
+patient prior to discharge.
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Moderate  
+2.  Bisacodyl 10 mg PO/PR DAILY:PRN constipation   
+3.  Docusate Sodium 100 mg PO BID  
+4.  LevETIRAcetam 500 mg PO BID 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*14 Tablet Refills:*0 
+5.  OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO Q4H:PRN pain 
+RX *oxycodone-acetaminophen 5 mg-325 mg 1 tablet(s) by mouth 
+every 4 hours Disp #*20 Tablet Refills:*0 
+6.  Senna 8.6 mg PO BID:PRN constipation   
+7.Outpatient Physical Therapy
+Bilateral SDH
+s/p Right Craniotomy ___ for ___ evacuation
+Left sided weakness
+Please Evaluate and Treat
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Bilateral Acute on Chronic ___
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+
+Brain Hemorrhage with Surgery
+
+Surgery
+*** You underwent a surgery called a craniotomy to have blood 
+removed from your brain. 
+Please keep your sutures along your incision dry until they 
+are removed.
+It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+No driving while taking any narcotic or sedating medication. 
+If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+***Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+***You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+You may have difficulty paying attention, concentrating, and 
+remembering new information.
+Emotional and/or behavioral difficulties are common. 
+Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+Headaches:
+Headache is one of the most common symptoms after a brain 
+bleed. 
+Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the incision 
+site. 
+Fever greater than 101.5 degrees Fahrenheit
+Nausea and/or vomiting
+Extreme sleepiness and not being able to stay awake
+Severe headaches not relieved by pain relievers
+Seizures
+Any new problems with your vision or ability to speak
+Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+Sudden numbness or weakness in the face, arm, or leg
+Sudden confusion or trouble speaking or understanding
+Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

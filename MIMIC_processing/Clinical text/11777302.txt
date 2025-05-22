@@ -1,0 +1,245 @@
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+finger redness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old F w/ hx of MGUS, fibromyalgia, and
+GERD who was referred to the ED for concern for finger necrosis.
+Two weeks ago, she noticed an area of redness on her L finger.
+She was seen by a dermatologist who took a biopsy; cultures were
+negative. She then went to ___ to see family, but presented
+to an ED there due to worsening pain and swelling of her L index
+finger. There, they suspected herpetic whitlow and prescribed 
+her
+acyclovir, which she took for three days. However, over the last
+2 days she has noted rapidly progressive erythema, white 
+plaques,
+and swelling over the left index finger. It has been exquisitely
+painful and she also has since developed two new spots on her R
+index finger, which were similar to how her L finger developed.
+She also endorses pain with swallowing and red dots on the roof
+of her mouth. She has a history of oral HSV, but has not had any
+flares in one year. She denies a history of Zoster or rashes on
+her back or feet. She had one episode of diarrhea. Denies 
+fevers,
+chills, or night sweats. She was seen by her Dermatologist this
+AM who referred her in for further workup. 
+
+In the ED, vitals were unremarkable for fevers or hemodynamic
+instability. Exam showed L finger erythema from the MCP to 
+distal
+phalynx and R finger with two small areas of erythema.
+Dermatology was consulted who took a culture in the ED and
+recommended starting IV antibiotics and high dose steroids. Hand
+Surgery was consulted who also recommended antiviral therapy.
+Hand x-ray showed no evidence of osteomyelitis or soft tissue
+gas. She was given IV vanc, ceftriaxone, and 50 mg
+methylprednisolone IV. 
+
+Upon arrival to the floor, the patient reports her hand pain is
+improving, although still very tender. She also continues to 
+have
+some tender submandibular lymphadenopathy.  
+
+ 
+Past Medical History:
+MGUS
+Osteoporosis
+GERD
+Fibromyalgia 
+Migraines
+Rosacea  
+Oral HSV
+ 
+Social History:
+___
+Family History:
+Mother - DM, stroke
+Brother - melanoma
+ 
+Physical ___:
+GENERAL: Pleasant elderly woman standing up next to bed in no
+acute distress. Appears younger than stated age. 
+HEENT: PERRL, EOMI, anicteric sclera, MMM, petechiae noted on
+palate and oropharynx. No exudates
+NECK: supple, mild tender submandibular lymphadenopathy 
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+SKIN: R index finger with two red nodules. L
+index finger with 4" x 1" area of red, purple, and white
+discoloration; very tender to palpation; no discrete vesicular
+lesions. Erythema is markedly improved and receding from 
+demarcation.
+PULSES: 2+ radial and DP pulses bilaterally
+NEURO: AAOx3, CN II-XII intact, strength ___ x4 extremities, 
+gait
+normal 
+ 
+Pertinent Results:
+See WebOMR
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old F w/ hx of MGUS, fibromyalgia, and 
+GERD presenting with acute, bilateral painful lesions on index 
+fingers, thought to be secondary to an atypical presentation of 
+a neutrophilic dermatosis.
+
+TRANSITIONAL ISSUES:
+======================
+[] Discharged on 40mg prednisone daily for 7 days (last dose 
+___.
+[] Bactrim DS 2 tabs BID x 7 days (last dose ___.
+[] Consider Chem-7 at PCP follow up given discharged on Bactrim.
+[] Final pathology pending at discharge.
+[] ___ positive, titer pending at discharge, rheumatology to 
+follow up as outpatient if titer is > 340.
+[] UPEP and CCP pending at discharge.
+[] She was trained by OT on a ROM HEP that she will start 
+performing 3x/day. I would anticipate progression back to a full 
+composite and hook fist in ___ weeks. 
+[] She needs hepatitis B vaccination (hep B non-immune).
+
+ACTIVE ISSUES:
+===============
+# Bilateral hand lesions
+# Atypical presentation of a neutrophilic dermatosis
+Presented with rapidly progressive painful hand lesions with 
+epidermolysis and desquamation. Improved rapidly on IV 
+vancomycin/ceftriaxone/acyclovir/methylpred. Transitioned to PO 
+prednisone 40mg daily and Bactrim DS BID and tolerated this well 
+prior to discharge. Dermatology, rheumatology, and hand surgery 
+were consulted. Also seen by OT and was trained on a ROM HEP 
+that she will start performing 3x/day with anticipate 
+progression back to a full composite and hook fist in ___ weeks. 
+
+Preliminary outpatient biopsy result from outpatient dermatology 
+note below. Per dermatology, likely atypical Sweet's syndrome. 
+Several studies sent, detailed below:
+- ___ positive, titer pending, rheumatology to follow up on this 
+and contact patient if needed.
+- SPEP negative, Free K/L normal, UPEP pending
+- Hepatitis B non-immune, HCV negative, HIV negative
+- ANCA negative, RA negative
+- CCP pending at discharge
+- Wound cultures negative
+- Blood cultures NGTD at discharge
+- Punch Bx (___) left index finger (Prelim): Neutrophilic 
+infiltrate with fibrin thrombi, c/w Sweets +/- vasculitis. 
+?Pustular vasculitis of the hands. Bug stains are negative. 
+Wound cx (___) Final, no growth.
+
+# Palatal petechiae
+# Cervical lymphadenopathy
+Initially, concerning for cocksackivirus related to skin 
+lesions, but did not self-resolve. Likely viral in etiology. 
+Consider further work up if persists after discharge.
+
+CHRONIC ISSUES:
+===============
+# Vitamin D deficiency - Held vitamin D and calcium while 
+hospitalized
+# HLD - Held coQ10 and fish oil while hospitalized
+# Chronic pain - Continued home gabapentin
+# Rosacea - Held prn metronidazole given no active flare
+# Intertrigo, bilateral breasts - Continued home nystatin BID
+
+Greater than 30minutes spent on discharge planning and 
+cordination. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ascorbic Acid ___ mg PO DAILY 
+2. Centrum Silver 
+(multivit-min-FA-lycopen-lutein;<br>mv-min-folic acid-lutein) 
+0.4-300-250 mg-mcg-mcg oral DAILY 
+3. Fish Oil (Omega 3) 1000 mg PO DAILY 
+4. Calcium Carbonate 500 mg PO BID 
+5. Vitamin D 3000 UNIT PO DAILY 
+6. coenzyme Q10 10 mg oral DAILY 
+7. Gabapentin 200 mg PO QHS 
+8. metroNIDAZOLE 0.75 % topical DAILY:PRN rosacea flare 
+9. Nystatin Cream 1 Appl TP BID under breasts 
+10. Gabapentin 100 mg PO QAM 
+11. Gabapentin 100 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  PredniSONE 40 mg PO DAILY 
+Last dose ___. 
+RX *prednisone 20 mg 2 tablet(s) by mouth once a day Disp #*10 
+Tablet Refills:*0 
+2.  Sulfameth/Trimethoprim DS 2 TAB PO BID 
+Last dose ___ 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 2 tab-cap by 
+mouth twice a day Disp #*22 Tablet Refills:*0 
+3.  Ascorbic Acid ___ mg PO DAILY  
+4.  Calcium Carbonate 500 mg PO BID  
+5.  Centrum Silver 
+(multivit-min-FA-lycopen-lutein;<br>mv-min-folic acid-lutein) 
+0.4-300-250 mg-mcg-mcg oral DAILY  
+6.  coenzyme Q10 10 mg oral DAILY  
+7.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+8.  Gabapentin 200 mg PO QHS  
+9.  Gabapentin 100 mg PO QAM  
+10.  Gabapentin 100 mg PO QPM  
+11.  metroNIDAZOLE 0.75 % topical DAILY:PRN rosacea flare  
+12.  Nystatin Cream 1 Appl TP BID under breasts  
+13.  Vitamin D 3000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY: Atypical presentation of a neutrophilic dermatosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were at ___ because of a skin lesion.
+
+WHILE YOU WERE HERE:
+- You were put on broad spectrum IV antibiotics and IV steroids.
+- You improved a great deal on these medications.
+- You were stable on oral antibiotics and steroids.
+
+WHEN YOU GO HOME:
+- Please take the medications below.
+- Please go to your follow up appointments, below.
+- Practice the exercises taught by OT 3x/day.
+
+It was a pleasure taking care of you and we wish you good 
+health.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

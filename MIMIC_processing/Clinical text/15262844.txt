@@ -1,0 +1,315 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right upper extremity weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo gentleman with Type 2 DM and dementia
+who presented to an OSH with acute onset R-sided hemiparesis
+around 7am on the morning of presentation. He was evaluated as a
+telestroke by the ___ stroke fellow and on head CT was found 
+to
+have a moderate-sized L parietal intraparenchymal hemorrhage. He
+was transferred to ___ for further management. 
+
+He was in his USOH this morning after waking up his morning.
+Shortly after having coitus, his wife came back from the 
+bathroom
+to find him unable to get out of bed due to right-sided 
+weakness.
+He could push himself up from the bed to get up to walk. He was
+quiet but was able to respond to her normally with speech
+unchanged from baseline. His granddaughter, who is a ___,
+instructed her mother to have him smile and they did not
+appreciate any facial droop. 
+
+He has had a mild cough for the past week but no fever or other
+constitutional symptoms. He denies headache or any pain. He saw
+his PCP 5 days ago for RUE paresthesias, which were new for him,
+and PCP instructed him to perform some exercises (unclear
+diagnosis). It seems these symptoms have improved.
+ 
+ROS: Reviewed and negative except as indicated in HPI.
+
+ 
+Past Medical History:
+- Type 2 Diabetes Mellitus
+- Dementia (unclear details; has been prescribed Donepezil, per
+family without effect so takes it irregularly)
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals: T 98.1 F, HR 93, BP 117/71, RR 17, O2 99% (RA)
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented to person, ~place (___), but not month or year (baseline per family). States
+he is in the hospital because he has a problem with his R arm.
+Somewhat inattentive. Speaks in short phrases. There were no
+paraphasic errors. Able to name both high and low frequency
+objects.  Able to read without difficulty. No dysarthria. Able 
+to
+follow both midline and appendicular commands. 
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, ?delayed activation with R side of face.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii on L, no effort on R.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout.
+  [Delt][Bic][Tri][ECR][FEx][IP][Quad][Ham][TA][Gas]
+L    5    5    5    5    5    5    5    5   5    5    
+R    0    0    0    0    0    5    4+   5   4+   5    
+
+-Sensory: No deficits to light touch or pinprick throughout.
+Extinguish R side to DSS. 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     1
+R   2     2      2      2     1 
+Plantar response was flexor bilaterally.
+
+-Coordination: No dysmetria on FNF with L hand (unable to 
+perform
+with R)
+
+-Gait: Deferred
+
+DISCHARGE PHYSICAL EXAM
+========================
+Vitals: afebrile, BP 91-108/50-60, HR 60-80, 90s on RA
+General: Awake, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+ 
+Neurologic:
+-Mental Status: Alert, oriented to person, ___, hospital, not
+time (baseline per wife). Somewhat inattentive. Speaks in short
+phrases, ___ and limited ___. Able to follow simple
+commands. 
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. 
+V: Facial sensation intact to light touch.
+VII: No facial droop
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii on L, no effort on R.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout.
+  [Delt][Bic][Tri][ECR][FEx][IP][Quad][Ham][TA][Gas]
+L    5    5    5    5    5    5    5    5   5    5    
+R    0    0    4    0    0    4    4    4   4    4    
+
+-Sensory: No deficits to light touch or gentle pinch throughout.
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     1
+R   2     2      2      2     1 
+Plantar response was flexor bilaterally.
+
+-Coordination: No dysmetria on FNF with L hand (deferred R)
+
+-Gait: Deferred
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 12:36PM BLOOD Neuts-78.7* Lymphs-14.6* Monos-6.0 
+Eos-0.1* Baso-0.4 Im ___ AbsNeut-7.94* AbsLymp-1.47 
+AbsMono-0.60 AbsEos-0.01* AbsBaso-0.04
+___:36PM BLOOD ___ PTT-26.9 ___
+___ 12:36PM BLOOD Plt ___
+___ 12:36PM BLOOD Glucose-148* UreaN-15 Creat-0.7 Na-138 
+K-4.0 Cl-102 HCO3-22 AnGap-14
+___ 12:38PM BLOOD Lactate-1.8
+
+IMAGING
+=======
+MR HEAD W & W/O CONTRAST Study Date of ___  
+IMPRESSION
+1. Left parietal intraparenchymal hematoma measuring 2.8 x 4.0 x 
+2.8 cm (AP X TR X SI) with associated subarachnoid hemorrhage 
+and small subdural hematoma. 
+2. Fluid levels in the inferior portion of the hematoma likely 
+reflect 
+hyperacute blood products, concerning for active bleeding. 
+3. Mild surrounding edema exhibiting mild mass effect on the 
+adjacent brain parenchyma and subjacent body of the left lateral 
+ventricle.  No midline shift. 
+4. Small patchy area of contrast enhancement anteriorly to the 
+superior aspect of the hematoma is nonspecific, felt likely to 
+represent breakdown of blood brain barrier.  No evidence of 
+abnormal vasculature or large draining vein to definitively 
+suggest an underlying vascular malformation at this time. 
+5. Hemosiderin staining along the right parietal gyri suggests 
+prior 
+intracranial hemorrhages.  Given suggestion of prior 
+hemorrhages, this could represent sequela of amyloid angiopathy 
+despite lack of prominent peripherally located microhemorrhages.
+
+DISCHARGE LABS
+==============
+___ 07:10AM BLOOD WBC-7.3 RBC-4.80 Hgb-14.5 Hct-42.5 MCV-89 
+MCH-30.2 MCHC-34.1 RDW-13.2 RDWSD-42.7 Plt ___
+___ 07:00AM BLOOD ___ PTT-27.7 ___
+___ 07:10AM BLOOD Glucose-129* UreaN-8 Creat-0.7 Na-145 
+K-3.9 Cl-105 HCO3-24 AnGap-16
+___ 07:10AM BLOOD Calcium-8.8 Phos-3.3 Mg-2.3
+___ 07:10AM BLOOD %HbA1c-6.8* eAG-148*
+___ 07:10AM BLOOD Triglyc-90 HDL-51 CHOL/HD-2.8 LDLcalc-76
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo man with Type 2 DM and dementia who 
+presented to an OSH with acute onset right upper extremity 
+hemiparesis found to have L parietal precentral gyrus IPH.
+
+#L parietal precentral gyrus IPH:
+Right sided hemiparesis began acutely following coitus (no 
+medications taken for sexual enhancement). Initial NIHSS 8. 
+Found to have L parietal precentral gyrus IPH on non-contrast 
+head CT. MRI with left parietal intraparenchymal hematoma, no 
+obvious microhemorrages to suggest underlying CAA although 
+cannot exclude entirely as this may be first presentation. 
+Etiology most likely hypertensive, as symptoms began post 
+coital. Risk factors notable for A1C 6.8, LDL 76. SBP was 
+maintained <150. At time of discharge, exam notable right upper 
+extremity weakness (triceps ___, plegic elsewhere in RUE).
+
+TRANSITIONAL ISSUES:
+====================
+[] goal SBP <150
+
+AHA/ASA Core Measures for Intracerebral Hemorrhage 
+1. Dysphagia screening before any PO intake? (x) Yes - () No. If 
+no, reason why: 
+2. DVT Prophylaxis administered? (x) Yes - () No. If no, why not 
+(bleeding risk, hemorrhage, etc.) 
+3. Smoking cessation counseling given? () Yes - () No [reason 
+(x) non-smoker - () unable to participate] 
+4. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given in written 
+form?
+(x) Yes - () No 
+5. Assessment for rehabilitation and/or rehab services 
+considered? () Yes - (x) No. If no, why not? (I.e. patient at 
+baseline functional status) 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Donepezil 5 mg PO DAILY 
+2. MetFORMIN (Glucophage) 1000 mg PO DAILY 
+3. Glargine 20 Units Bedtime
+4. Januvia (SITagliptin) 50 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Glargine 15 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+2.  Donepezil 5 mg PO DAILY  
+3.  Januvia (SITagliptin) 50 mg oral DAILY  
+4.  MetFORMIN (Glucophage) 1000 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Intraparenchymal Hemorrhage (left parietal precentral gyrus)
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+You were hospitalized due to symptoms of right arm weakness 
+resulting from an ACUTE HEMORRHAGIC STROKE, a condition where a 
+blood vessel providing oxygen and nutrients to the brain leaks 
+blood. The brain is the part of your body that controls and 
+directs all the other parts of your body, so damage to the brain 
+can result in a variety of symptoms.  
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+Your risk factors are:  
+ 1) Diabetes
+
+Please take your medications as prescribed.  
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+Sincerely,  
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

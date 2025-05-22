@@ -1,0 +1,320 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization ___
+
+ 
+History of Present Illness:
+___ female with PMHx small vessel CAD, COPD not on meds, 
+former smoker, who presents as transfer from ___ for chest 
+pressure. 
+
+Patient with previous history of small vessel CAD seen on 
+cardiac cath in ___. Had previously had intermittent substernal 
+chest pain, but within the past year they have been increasing 
+in severity. States that she saw her cardiologist again and had 
+another stress test which was normal. She was started on 
+metoprolol, which she state she has not tolerated well secondary 
+to weight gain, hair loss. 
+
+She states that 2 days ago, while sitting at her desk she 
+developed substernal ___ chest pain that radiated to back, 
+described as tightness that was associated with nausea and 
+diaphoresis. No association with exertion or shortness of 
+breath. She went to ___ where she was given SL nitro & full 
+dose ASA which helped relieved the pain to ___. Trop negative, 
+EKG at baseline at OSH. 
+
+Of note, patient is followed by Dr ___. Attending physician at 
+___ spoke w/ cards covering for Dr ___ rec'd transfer for 
+admission + possible cath. 
+ 
+In the ___, initial VS were:  97.5 56 136/84 18 96% RA
+
+Exam was unremarkable
+ 
+Labs showed: 
+Trop neg
+BMP wnl
+11.6>13.6/40.5<258
+
+Imaging showed:
+COPD without superimposed pneumonia or edema. 
+ 
+Patient received: atorvastatin 80mg, SL nitro x1. ASA 325mg at 
+___
+ 
+Cardiology consulted:
+"Patient presents with unstable angina. Should be admitted for 
+further ischemic evaluation, likely with cor angio. Currently 
+with very mild chest pain, recommend redosing SL nitro. 
+-Admit to ___
+-Trend troponin, CK-MB, ECG Q8hr
+-Please give SL nitro; if patient still has chest pain 
+afterward, please call cardiology fellow and start nitro gtt
+-Keep NPO at midnight for possible cath tomorrow
+-Give atorvastatin 80mg this evening
+-Please call cardiology fellow for any hemodynamic instability 
+or new symptoms"
+
+Transfer VS were: 98.5 56 127/58 15 94% RA  
+
+On arrival to the floor, patient reports after receiving 
+additional SL nitro, she is now chest pain free. She relates to 
+the history above. She does note that she recently had 
+bronchitis that was treated with prednisone and azithromycin, in 
+which she just finished her course of prednisone a few days ago. 
+She states she does not take any medications for COPD, although 
+gets rather sick when she develops a viral illness. She 
+currently denies any fevers, chills, N/V, SOB, chest pain, 
+abdominal pain, dysuria, constipation, diarrhea, ___ 
+weakness/tingling, swelling. 
+
+ 
+Past Medical History:
+COPD - former smoker 60 pack years. Quit ___ years ago. Not on 
+any controller medications
+Small Vessel CAD
+HLD
+Uterine Prolapse s/p suspension
+Diverticulosis s/p polypectomy  
+ 
+Social History:
+___
+Family History:
+Father died of lung CA at age ___. Mother died of CVA at age
+___. Mother had valve replacement in her ___.  She has three
+siblings who are all healthy without any known heart disease,
+arrhythmias, or sudden cardiac death.  
+ 
+Physical Exam:
+ADMISSION Physical:
+===================
+VITALS: 97.9 131/75 90 18 98% RA  
+GENERAL: pleasant, well appearing in no acute distress
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no 
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: No elevated JVP  
+CARDIAC: RRR. S1, S2. No mrg. No tenderness to palpation
+LUNGS: CTA B/l
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: Warm, well perfused. No ___ edema 
+NEURO: AOx3. CN II-XII grossly intact. Moving all 4 extremities 
+spontaneously
+
+DISCHARGE Physical:
+==================
+VITALS: 97.9 131/75 90 18 98% RA  
+GENERAL: pleasant, well appearing in no acute distress
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. 
+NECK: No elevated JVP  
+CARDIAC: RRR. S1, S2. No mrg. No tenderness to palpation
+LUNGS: CTA B/l, noisy upper airway sounds.
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: Warm, well perfused. No ___ edema 
+NEURO: AOx3. CN II-XII grossly intact. Moving all 4 extremities
+spontaneously
+ 
+Pertinent Results:
+ADMISSION Labs:
+===============
+___ 08:47PM BLOOD WBC-11.6* RBC-4.36 Hgb-13.6 Hct-40.5 
+MCV-93 MCH-31.2 MCHC-33.6 RDW-12.9 RDWSD-43.9 Plt ___
+___ 08:47PM BLOOD ___ PTT-28.3 ___
+___ 08:47PM BLOOD Glucose-90 UreaN-10 Creat-0.6 Na-142 
+K-4.3 Cl-102 HCO3-26 AnGap-14
+___ 08:47PM BLOOD cTropnT-<0.01
+___ 07:35AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 08:47PM BLOOD Albumin-4.0 Calcium-9.1 Phos-3.3 Mg-2.1
+
+MICRO:
+========
+None to report
+
+IMAGING/Procedures:
+===================
+CXR ___: COPD without superimposed pneumonia or edema.
+
+Cardiac Catheterization ___:
+Coronary Anatomy
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is normal
+* Left Anterior Descending
+The LAD is normal. On initial injection there was slow flow 
+which normalized with further injections
+* Circumflex
+The Circumflex is normal
+* Ramus
+The Ramus is normal.
+* Right Coronary Artery
+The RCA is normal.
+
+DISCHARGE Labs:
+================
+___ 07:35AM BLOOD WBC-10.5* RBC-4.50 Hgb-13.7 Hct-41.7 
+MCV-93 MCH-30.4 MCHC-32.9 RDW-12.7 RDWSD-43.2 Plt ___
+___ 07:35AM BLOOD ___ PTT-28.0 ___
+___ 07:35AM BLOOD Glucose-88 UreaN-10 Creat-0.6 Na-143 
+K-4.4 Cl-100 HCO3-26 AnGap-17
+___ 07:35AM BLOOD Calcium-9.2 Phos-3.7 Mg-2.2
+ 
+Brief Hospital Course:
+Patient Summary for Admission:
+===============================
+Ms. ___ is a ___ female with PMHx small vessel 
+CAD diagnosed in ___, COPD, former smoker, who presented as 
+transfer from ___ for chest pressure and further 
+evaluation of unstable angina. Patient's EKG and troponins were 
+negative for ischemia while at ___. Upon transferring 
+patient had ongoing chest pain which was alleviated by 
+nitroglycerin. EKG on admission was negative for ischemic 
+changes and troponins were negative. However, patient has 
+significant risk factors for CAD and a stress test completed by 
+her outpatient cardiologist was notable for a reversible defect 
+possibly suggestive of LAD ischemia. As a result patient 
+underwent cardiac catheterization which did not show evidence of 
+coronary artery disease. As a result patient's Metoprolol was 
+discontinued and as patient was chest pain free. She was felt 
+safe to discharge home.
+
+ACUTE Issues Addressed:
+========================
+#Unstable Angina:
+#Chest Pain:
+Patient presented to ___ with a one week history of 
+worsening substernal chest pain and subsequently transferred to 
+___ for further evaluation. EKG on admission was negative for 
+ischemic changes and troponins were negative. Ms. ___ 
+experienced ongoing chest pain following admission that resolved 
+with nitroglycerin. Per report, patient underwent stress testing 
+with imaging in ___ that was concerning for possible LAD 
+ischemia. Giver her history of small caliber vessels with 
+luminal irregularites in ___ and her significant CAD risk 
+factors, catheterization was pursued ___ which did not 
+demonstrate coronary artery disease (LMCA, LAD, RCA, Ramus and 
+Circ were normal). Chest pain could have been in the setting of 
+possible coronary vasospasm. She continued her home Imdur 60mg 
+daily while inpatient, and Simvastatin. Patient's Metoprolol 
+Succinate 25mg ER was discontinued inpatient as patient is 
+without coronary artery disease.
+
+#COPD: On admission, patient's CXR notable for hyperinflation, 
+consistent with COPD. Patient not currently on any controller 
+medications. Patient should be evaluated by PCP for further 
+medical management as appropriate.
+
+CHRONIC Issues Addressed:
+=========================
+#Smoking Cessation: Patient continued home Buproprion.
+
+TRANSITIONAL Issues:
+=====================
+[]PCP ___ should be scheduled by patient. Patient to call 
+___ within one week of discharge.
+[]Cardiology ___ with Dr. ___ be arranged as 
+needed by PCP.
+[]Outpatient cardiologist could consider Diltiazem initiation as 
+appropriate for further management of potential coronary 
+vasospasm.
+[]Metoprolol Succinate 25mg ER discontinued while inpatient as 
+patient without significant coronary artery disease.
+[]Patient not currently on any controller medications for COPD. 
+Patient should be evaluated by PCP for need for repeat PFTs and 
+further medical management as appropriate.
+[]Ongoing work up regarding patient's known colonic polyps, 
+patient to follow up with GI ___ at 12:30 ___
+
+Medication Changes:
+-Started: None
+-Stopped: Metoprolol Succinate ER 25mg daily
+-Changed: None
+
+Code Status: Full Code
+HCP: ___ (daughter) ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY 
+2. Oxybutynin 5 mg PO QHS 
+3. Simvastatin 40 mg PO QPM 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. Aspirin 81 mg PO DAILY 
+6. BuPROPion (Sustained Release) 150 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  BuPROPion (Sustained Release) 150 mg PO BID  
+3.  Isosorbide Mononitrate (Extended Release) 60 mg PO DAILY  
+4.  Oxybutynin 5 mg PO QHS  
+5.  Simvastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+===================
+Unstable Angina
+Chest pain
+
+Secondary Diagnosis:
+====================
+COPD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+Thank you for choosing ___ as 
+your site of care!
+
+Why was I admitted to the hospital?
+-You were admitted to the hospital because you were having chest 
+pain at home.
+
+What was done for me while I was in the hospital?
+-A tracing of your heart called an EKG did not show obvious 
+changes.
+-Your heart markers (troponins) were negative.
+-However, because of your history and concerning chest pain you 
+had a procedure completed called a cardiac catheterization.
+-This procedure showed you do no have disease in your heart 
+vessels.
+-You were continued on your home medications while inpatient and 
+your metoprolol was discontinued.
+
+What should I do when I go home?
+-Please continue taking your medications as prescribed.
+-You will follow up with your providers, as detailed below.
+-If you notice worsening chest pain or shortness of breath, 
+please return to the emergency department.
+
+We wish you the best!
+
+Your ___ treatment team
+ 
+Followup Instructions:
+___

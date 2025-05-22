@@ -1,0 +1,324 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered Mental Status  
+
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Mr. ___ is an ___ male with history of dementia
+(living in memory unit) who presents with altered mental status. 
+
+
+ 
+Per history obtained in the ED, from patient's wife and 
+daughter,
+patient has been having more difficulty ambulating with his
+walker for the last 2 days and has overall been weak. He had 
+some
+vomiting of clear sputum and was also noted to have 
+___
+urine and desquamation on the tip of his penis. He has not had
+fevers, purulent sputum, or bloody stools. He has had 2 
+minimally
+traumatic falls recently.  
+
+In the ED, initial vitals were: T:98.5 P:68 BP:109/61 R:17 O2
+Sat:97% RA  
+ 
+Exam was notable for:  
+ - General: Minimally verbal  
+ - Neck: Full ROM  
+ - Respiratory: Minimal effort on respiratory exam  
+ - GU: +desquamation at tip of penis  
+ 
+Labs were notable for:  
+ - WBC: 22.2, Neutrophilic predominance, Hgb: 12.2, BUN: 22,
+Lactate: 1.8  
+ - UA: Moderate blood, Positive nitrite, 100 protein, large
+leukocytes, 106 RBC, >182 WBC, few bacteria, many clumps of WBC  
+
+ Studies were notable for:  
+ - CXR:  
+ 
+Increased opacity in the right infrahilar region, behind the
+heart which could potentially be a focal consolidation or be due
+to atelectasis. Probable moderate hiatal hernia. Small right
+pleural effusion. PA and lateral views are suggested if patient
+is amenable to further clarify these findings.  
+ - CT Head w/o Contrast:  No evidence of acute intracranial
+abnormality, although there were technical limitations to study. 
+
+
+ - EKG: Sinus rhythm with old RBBB  
+ 
+The patient was given:  
+- Azithromycin, Ceftriaxone, 2 L LR    
+ 
+Per HPI, otherwise, ___ review of systems was within normal
+limits. 
+ 
+Past Medical History:
+-___ dementia ___ late onset Alzhiemer's disease 
+-Essential tremor 
+-Multifactorial gait disorder 
+-History of HTN per chart review, not on medications 
+-Dysthymia, started on SSRI in ___
+-Basal cell carcinoma, seborrhetic kerotosis
+-GERD
+ 
+ 
+Social History:
+___
+___ History:
+Brother: ___ Cancer  
+Father: Lung Cancer 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=======================
+VITALS:  24 HR Data (last updated ___ @ 158)
+    Temp: 98.2 (Tm 98.2), BP: 135/78, HR: 65, RR: 20, O2 sat:
+95%, O2 delivery: Ra, Wt: 163.8 lb/74.3 kg  
+GENERAL: Lying in bed, no acute distress 
+HEENT: Pupils equal, no scleral icterus, moist mucous membranes.
+Some red scaling skin on temple.   
+CARDIAC: S1/S2 regular with no murmurs, rubs or S3/S4.  
+LUNGS: Limited exam, but no obvious rales, wheezes or ronchi.
+Patient not coughing. No increased work of breathing, no use of
+accessory muscles. 
+BACK: No CVA tenderness.  
+ABDOMEN: Soft, ___. 
+GU: Distal portion of penis is erythematous without drainage,
+skin blanches, no obvious desquamation. 
+EXTREMITIES: Warm extremities. No lower extremity edema. 
+NEUROLOGIC: Awake, responding to basic questions appropriately.
+Unable to follow commands such as taking a deep breath. Moving
+all extremities. 
+
+DISCHARGE PHYSICAL EXAM:
+=======================
+GENERAL: Lying in bed, no acute distress 
+HEENT: moist mucous membranes. Some red scaling skin on temple
+and bilateral cheeks. 
+CARDIAC: S1/S2 regular with no murmurs, rubs or S3/S4.  
+LUNGS: Limited exam, but no obvious rales, wheezes or ronchi.
+Patient not coughing. No increased work of breathing, no use of
+accessory muscles. 
+ABDOMEN: Soft, ___. 
+EXTREMITIES: Warm extremities. No lower extremity edema. 
+NEUROLOGIC: Awake. Unable to follow commands such as taking a
+deep breath. Moving all extremities. 
+Skin: 0.5 cm erythematous patch on dorsal side of penile glans.
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 04:32PM BLOOD ___ 
+___ Plt ___
+___ 04:32PM BLOOD ___ 
+___ Im ___ 
+___
+___ 04:32PM BLOOD ___ 
+___
+___ 04:44PM BLOOD ___
+
+NOTABLE LABS:
+============
+___ 08:54AM BLOOD ___ 
+___ Plt ___
+___ 06:40AM BLOOD ___ 
+___ Plt ___
+___ 06:40AM BLOOD ___ 
+___ Plt ___
+
+MICROBIOLOGY:
+=============
+Blood culture ___: No growth to date. 
+Urine culture ___:    
+ESCHERICHIA COLI
+AMPICILLIN------------   <=2 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+IMAGING:
+========
+CXR ___: 
+Increased opacity in the right infrahilar region, behind the 
+heart which could potentially be a focal consolidation or be due 
+to atelectasis. Probable  moderate hiatal hernia.  Small right 
+pleural effusion.  PA and lateral views are suggested if patient 
+is amenable to further clarify these findings. 
+
+CT Head w/o Contrast ___:
+IMPRESSION:  
+Study is severely limited in the setting of motion artifact. Of 
+note, the scan does not extend high enough to include the 
+entirety of the head, as the vertex is not visualized on the 
+current study. Within these limitations, there is no evidence of 
+acute intracranial abnormality. 
+
+CT Head w/o Contrast ___:
+IMPRESSION:  
+No acute intracranial abnormality. 
+
+DISCHARGE LABS:
+===============
+___ 08:26AM BLOOD ___ 
+___ Plt ___
+___ 08:26AM BLOOD ___ 
+___
+___ 08:26AM BLOOD ___
+
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES:
+===================
+[]Continue taking Bactrim PO daily until ___. 
+[]Continue Nystatin ointment for penile lesion with wound care 
+recs listed separately.
+
+BRIEF HOSPITAL COURSE:
+=====================
+Mr. ___ is an ___ male with history of dementia 
+(living in memory unit) who presents with altered mental status, 
+found to have a UTI and was started on antibiotics. 
+ 
+# Altered Mental Status 
+# UTI
+# Possible pneumonia
+# Leukocytosis  
+Concern for infection/sepsis given significant leukocytosis and 
+new encephalopathy on admission. Initially with WBC 22.8 on 
+admission and somewhat hypotensive in the ED but responded to 
+IVF. Patient was empirically started on azithromycin and 
+ceftriaxone due to concern for UTI vs pneumonia, but was 
+narrowed to Bactrim PO x 7 days once urine culture grew E.coli. 
+Per family, patient is back to baseline. WBC on discharge ___: 
+6.6. 
+
+#Fall
+Patient with unwitnessed fall ___ night. CT head normal. No 
+spinal tenderness. Moves all extremities.   
+
+# Erythematous penis
+Noted to have some erythema and thick yellow drainage on penile 
+shaft, thought to be possibly fungal and patient was started on 
+nystatin cream BID. Rash improving. Wound care consulted and 
+recommended no diapers and using large Sofsorb pads under 
+patient to wick moisture from skin. No Rinse foam cleanser and 
+disposable wash cloths. Pat tissue dry. Apply a thin layer of 
+Critic Aid Clear daily and every third cleansing.
+
+#Insomnia
+Continued home gabapentin 100mg QHS  
+ 
+#DEMENTIA  
+Secondary to Alzheimer's. Recently established with Geriatrics
+here. 
+ 
+#DEPRESSION  
+Continued home Sertraline 50mg daily 
+
+#CODE: DNR/DNI
+#HCP: Daughter, ___ 
+#CONTACT: Next of Kin: ___, Relationship: WIFE, 
+Phone:
+___ Next of Kin: ___, Phone: 
+___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sertraline 50 mg PO DAILY 
+2. Gabapentin 100 mg PO QHS 
+3. Melatin (melatonin) 3 mg oral QHS 
+4. Acetaminophen 500 mg PO DAILY:PRN Pain - Mild/Fever 
+
+ 
+Discharge Medications:
+1.  Nystatin Ointment 1 Appl TP BID  
+2.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 7 Days 
+Please continue until ___.   
+3.  Acetaminophen 500 mg PO DAILY:PRN Pain - Mild/Fever  
+4.  Gabapentin 100 mg PO QHS  
+5.  Melatin (melatonin) 3 mg oral QHS  
+6.  Sertraline 50 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+Urinary tract infection
+
+SEONDARY DIAGNOSIS:
+===================
+Alzheimer Dementia 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+ 
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were in the hospital because you were having an 
+increasingly hard time walking and were noted to seem weak. You 
+also were having some ___ urine. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- In the hospital, we diagnosed you with a urinary tract 
+infection and started you on antibiotics. 
+- You also had a fall and we checked a CT scan of your head 
+which was normal.   
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Please continue to take all of your medications and ___ 
+with your appointments as listed below.
+- Specifically, continue taking the Bactrim until ___.  
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

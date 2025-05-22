@@ -1,0 +1,235 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever, chest pain, cough 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ male with no significant past medical history who presents 
+with one day of chest pain.  
+ He stated that yesterday in the late evening he was cleaning 
+his apartment with chlorine and started to feel some chest pain. 
+It was sharp, non-radiating, substernal, unremitting. It is 
+worse with sitting up and standing, but improves when he walks 
+or is active. He felt unwell and had some chills, and thought 
+that he may have a fever. He took Tylenol and had some 
+improvement in the chest pain. He also took Delsym.  
+ In the ED, initial vitals were: 100.3, HR 116 improving to the 
+___, BP 130/80s, RR 18, 100% RA  
+ - Exam notable for:  
+ diaphoretic, somewhat uncomfortable-appearing young man  
+ ___ systolic murmur best auscultated to LSB.  
+ chest: no crepitus. pain is mildly reproduced with palpation of 
+lower sternum.  
+ lungs: clear to auscultation  
+ abd: soft, nontender. no epigastric tenderness.  
+ skin: no rash, no stigmata of ivdu. skin is warm and sweaty  
+ neuro: alert, oriented. no focal deficits  
+ - Labs notable for: WBC 7.1, no bands, 17% monocytes, no 
+atypicals, trop <0.01, D dimer 223, lactate 1.3, Cr 1.0, UA 80 
+ketones, few bacteria, otherwise negative  
+ 
+ - Imaging was notable for:  
+ The lungs are well inflated and are clear without focal 
+consolidation. There is no pulmonary edema, pneumothorax, or 
+pleural effusion. Rounded calcification overlies the left lung 
+laterally, likely a calcified granuloma. The cardiomediastinal 
+silhouette and hilar contours appear normal.  
+ - Patient was given:  
+ ___ 19:29 PO Acetaminophen 1000 mg ___  
+ ___ 20:42 IVF NS ( 1000 mL ordered) ___  
+ Upon arrival to the floor, patient reports that he feels a 
+little better now. He corroborates the above history. He denies 
+weight loss, fatigue, new rashes or joint pains, shortness of 
+breath, dysuria. He reports that he had abdominal pain earlier 
+today associated with his episode of emesis.
+ 
+Past Medical History:
+GERD  
+ 
+Social History:
+___
+Family History:
+Denies family history of heart or lung problems, diabetes, 
+cancer.  
+ 
+Physical Exam:
+ADMISSION: 
+Vital Signs: afebrile, BP 120/80s, HR ___, RR 16, 100% RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL.  
+Neck: Supple. JVP not elevated. no LAD  
+CV: Regular rate and rhythm. Normal S1+S2, systolic murmur best 
+appreciated at ___. No chest pain with palpation.  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. No rashes, splinter hemorrhages, joint effusions. No 
+spinal tenderness.  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, gait deferred. 
+
+DISCHARGE: 
+VS: 98.4 120/80 88 18 96% on RA
+General: Alert, oriented, no acute distress  
+CV: Regular rate and rhythm. Normal S1+S2, systolic murmur best 
+appreciated at ___. No chest pain with palpation.  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding   
+Ext: Warm, well perfused, no clubbing, cyanosis or edema. No 
+rashes, splinter hemorrhages, joint effusions. No spinal 
+tenderness.  
+Neuro: Grossly intact
+ 
+Pertinent Results:
+ADMISSION: 
+___ 06:04PM BLOOD WBC-7.1 RBC-4.88 Hgb-14.3 Hct-41.1 MCV-84 
+MCH-29.3 MCHC-34.8 RDW-12.4 RDWSD-37.7 Plt ___
+___ 06:04PM BLOOD Neuts-72.5* Lymphs-8.9* Monos-17.3* 
+Eos-0.3* Baso-0.4 Im ___ AbsNeut-5.11 AbsLymp-0.63* 
+AbsMono-1.22* AbsEos-0.02* AbsBaso-0.03
+___ 06:04PM BLOOD Glucose-105* UreaN-13 Creat-1.0 Na-138 
+K-3.8 Cl-100 HCO3-23 AnGap-19
+___ 07:50AM BLOOD ALT-20 AST-23 LD(LDH)-178 AlkPhos-38* 
+TotBili-0.4
+___ 06:04PM BLOOD cTropnT-<0.01
+___ 07:50AM BLOOD Albumin-4.6 Calcium-9.5 Phos-3.0 Mg-1.9
+___ 06:04PM BLOOD D-Dimer-233
+___ 06:04PM BLOOD CRP-13.6*
+___ 06:04PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 06:13PM BLOOD Lactate-1.3
+
+DISCHARGE: 
+___ 06:50AM BLOOD WBC-3.8* RBC-5.26 Hgb-15.2 Hct-44.9 
+MCV-85 MCH-28.9 MCHC-33.9 RDW-12.5 RDWSD-39.1 Plt ___
+___ 06:50AM BLOOD Neuts-46.1 ___ Monos-8.0 Eos-0.0* 
+Baso-0.3 AbsNeut-1.73# AbsLymp-1.71 AbsMono-0.30 AbsEos-0.00* 
+AbsBaso-0.01
+
+STUDIES:
+
+___ CXR:
+No acute cardiopulmonary process
+
+___ TTE:
+The left atrium and right atrium are normal in cavity size. No 
+atrial septal defect is seen by 2D or color Doppler. The 
+estimated right atrial pressure is ___ mmHg. Left ventricular 
+wall thickness, cavity size and regional/global systolic 
+function are normal (LVEF >55%). Doppler parameters are most 
+consistent with normal left ventricular diastolic function. 
+There is no ventricular septal defect. Right ventricular chamber 
+size and free wall motion are normal. The diameters of aorta at 
+the sinus, ascending and arch levels are normal. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis. No masses or vegetations are 
+seen on the aortic valve. Trace aortic regurgitation is seen. 
+The mitral valve appears structurally normal with trivial mitral 
+regurgitation. There is no mitral valve prolapse. No mass or 
+vegetation is seen on the mitral valve. The estimated pulmonary 
+artery systolic pressure is normal. There is no pericardial 
+effusion. 
+
+IMPRESSION: Normal biventricular size and systolic function. 
+Trace aortic regurgitation. No definitive 2D echo evidence of 
+endocarditis.  
+ 
+Brief Hospital Course:
+___ year old male with no known history of medical problems with 
+mild fever, chest pain, and cough admitted for chest pain in the 
+setting of cleaning his apartment with chlorine. He ruled out 
+for ACS, improved with cough regimen and had a normal 
+echocardiogram. His chest pain and cough may have been a mild 
+chlorine-related pneumonitis. He was discharged to followup with 
+his PCP. 
+
+#Chest pain: 
+#Fever:
+Most likely chlorine-related pneumonitis versus viral syndrome 
+with costochondritis. No EKG changes and troponin negative. No 
+risk factors for endocarditis and clinically not consistent with 
+viral myocarditis. Lastly, in this young male with exertional 
+CP, unclear family history, and EKG with marked LVH, we 
+considered possible HOCM. Echo was done with normal EF and no 
+hypertrophy. He will follow with his PCP and was discharged home 
+in good condition. 
+
+#Cough: chemical irritation vs viral syndrome. He improved with 
+symptomatic treatment and was discharged with benzonatate. 
+
+#Monocytosis: 
+Most likely reactive to viral infection. Improved prior to 
+discharge. 
+
+#Calcified granuloma: 
+Incidental, patient denies a history of tuberculosis. Could have 
+had fungal exposures given his history of working outside. 
+
+# ETOH use: reports drinking 5 beers a night, however no 
+withdrawal symptoms during admission. 
+
+Transitional issues:
+[] Will f/u with his PCP for additional workup of cough and 
+atypical chest pain
+[] Prescribed benzonatate for cough
+[] Should have repeat CXR or CT scan as outpatient to ensure 
+calcified granuloma stable
+
+Code: Full
+Next of Kin: ___ 
+ Relationship: OTHER 
+ Phone: ___ 
+ 
+Discharge Medications:
+1.  Benzonatate 100 mg PO TID 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*21 Capsule Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Atypical chest pain, fever
+
+Secondary: GERD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You came to ___ with chest pain and a cough. This was not 
+related to an issues with your heart and your condition 
+improved. Please follow with your PCP. 
+
+It was a pleasure taking care of you, best of luck. 
+Your ___ medical team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,328 @@
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+hydrochlorothiazide / shellfish derived
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization with coronary angiography and 
+percutaneous coronary intervention with DES
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 09:23PM BLOOD WBC-7.2 RBC-4.41* Hgb-13.1* Hct-39.6* 
+MCV-90 MCH-29.7 MCHC-33.1 RDW-13.9 RDWSD-45.6 Plt ___
+___ 09:23PM BLOOD Neuts-51.1 ___ Monos-11.0 Eos-1.7 
+Baso-0.7 Im ___ AbsNeut-3.65 AbsLymp-2.52 AbsMono-0.79 
+AbsEos-0.12 AbsBaso-0.05
+___ 09:23PM BLOOD ___ PTT-150* ___
+___ 09:23PM BLOOD Plt ___
+___ 09:23PM BLOOD Glucose-101* UreaN-16 Creat-1.0 Na-141 
+K-4.1 Cl-103 HCO3-27 AnGap-11
+___ 09:23PM BLOOD CK-MB-4 cTropnT-1.53*
+___ 02:59AM BLOOD CK-MB-3 cTropnT-1.67*
+___ 07:10AM BLOOD CK-MB-4 cTropnT-1.37*
+___ 09:23PM BLOOD Calcium-9.0 Phos-3.0 Mg-2.2
+___ 09:23PM BLOOD %HbA1c-5.8 eAG-120
+___ 07:10AM BLOOD Triglyc-66 HDL-44 CHOL/HD-3.2 LDLcalc-83
+
+REPORTS:
+=========
+TTE ___:
+CONCLUSION:
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect by 2D/color Doppler.
+There is mild symmetric left ventricular hypertrophy with a 
+normal cavity size. There is a small to moderate
+area of regional left ventricular systolic dysfunction with 
+hypokinesis of the basal inferior wall and mid to distal
+anterior/ anterolateral/lateral walls(see schematic) and 
+preserved/normal contractility of the remaining
+segments. Quantitative 3D volumetric left ventricular ejection 
+fraction is 47 % (normal 54-73%).
+Left ventricular cardiac index is low normal (2.0-2.5 L/min/m2). 
+There is no resting left ventricular outflow
+tract gradient. Tissue Doppler suggests an increased left 
+ventricular filling pressure (PCWP greater than 18
+mmHg). Normal right ventricular cavity size with normal free 
+wall motion. The aortic sinus diameter is normal
+for gender with a normal ascending aorta diameter for gender. 
+The aortic arch diameter is normal with a
+normal descending aorta diameter. The aortic valve leaflets are 
+moderately thickened. There is moderate
+aortic valve stenosis (valve area 1.0-1.5 cm2). There is trace 
+aortic regurgitation. The mitral valve leaflets are
+mildly thickened with no mitral valve prolapse. There is mild 
+[1+] mitral regurgitation. The pulmonic valve
+leaflets are normal. The tricuspid valve leaflets appear 
+structurally normal. There is mild [1+] tricuspid
+regurgitation. The estimated pulmonary artery systolic pressure 
+is high normal. There is a trivial pericardial
+effusion.
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+mild regional systolic dysfunction
+most consistent with multivessel coronary artery disease, with 
+mildly depressed ejection fraction.
+Normal right ventricular size and function. Moderate aortic 
+stenosis. Mild mitral and tricuspid
+regurgitation.
+
+CARDIAC CATHETERIZATION ___:
+Coronary Description
+The coronary circulation is left dominant.
+LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel and is normal. This vessel
+bifurcates into the Left Anterior Descending and Left Circumflex 
+systems.
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a large caliber vessel. There
+are tandem 80% stenoses in the mid segment which is small in 
+caliber (approx 2.0 mm) and calcified.
+The Diagonal, arising from the proximal segment, is a medium 
+caliber vessel.
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber and dominant vessel vessel.
+There is a 90% stenosis in the proximal segment.
+The ___ Obtuse Marginal, arising from the proximal segment, is a 
+small caliber vessel.
+The ___ Obtuse Marginal, arising from the mid segment, is a 
+medium caliber vessel.
+The Atrioventricular Circumflex, arising from the mid segment, 
+is a medium caliber vessel.
+The Left Posterior Descending Artery, arising from the distal 
+segment, is a medium caliber vessel.
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a small caliber and non-dominant
+vessel and is normal.
+Interventional Details
+Had detailed discussion with the patient and referring 
+cardiologist (together with review of images).
+Very likely culprit stenosis here is in the LCX. Option of CABG 
+discussed. Decision made to perform
+PCI on the LCX. Percutaneous Coronary Intervention: Percutaneous 
+coronary intervention (PCI) was
+performed on an ad hoc basis based on the coronary angiographic 
+findings from the diagnostic portion
+of this procedure. A 6 ___ EBU 3.75 guide provided adequate 
+support. Crossed with a Prowater wire
+into the distal LCX. Predilated with a 3.0 mm balloon. There was 
+subsequent dissection at the site of
+angioplasty with slow flow distally, so this segment was quickly 
+stented. Deployed a 3.5 mm x 24 mm
+Promus DES at high pressure which was further post-dilated using 
+a 3.5mm NC balloon. IVUS was then
+performed showing presence of intramural hematoma without 
+dissections proximal or distal to the
+stented segment. The stent appeared under-sized compared to the 
+vessel, so was further postdilated with
+a 4.0 mm balloon at high pressure. Final angiography revealed 
+normal flow, no dissection and 0%
+residual stenosis.
+Intravascular Ultrasound Imaging: An intravascular ultrasound 
+(IVUS) imaging catheter was passed
+over the coronary wire distal to the region of interest. 
+Coronary IVUS images were acquired by
+automated catheter pullback. After completion of intravascular 
+imaging, the IVUS catheter was removed
+and control angiography performed to confirm vessel patency.
+Complications
+There were no clinically significant complications.
+Findings
+ Two vessel coronary artery disease.
+ Successful PCI with drug-eluting stent of the circumflex 
+coronary artery.
+Recommendations
+ ASA 81mg per day indefinitely.
+ ___ 75mg/day for 12 months minimum
+ Secondary prevention of CAD
+ Medical management of mid to distal LAD disease.
+I was physically present during all critical and key components
+
+DISCHARGE LABS:
+===============
+___ 06:00AM BLOOD WBC-7.2 RBC-4.42* Hgb-13.2* Hct-40.1 
+MCV-91 MCH-29.9 MCHC-32.9 RDW-14.1 RDWSD-46.9* Plt ___
+___ 06:00AM BLOOD ___ PTT-26.4 ___
+___ 06:00AM BLOOD Plt ___
+___ 06:00AM BLOOD Glucose-101* UreaN-13 Creat-1.0 Na-138 
+K-4.1 Cl-104 HCO3-24 AnGap-10
+___ 06:00AM BLOOD Calcium-8.8 Phos-3.4 Mg-2.0
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT:
+==================
+Mr. ___ is a ___ year old ___ man with 
+hypertension, hyperlipidemia, AAA under surveillance, atrial 
+fibrillation on Coumadin who presented to ___ with 
+exertional chest pain. He was found to have troponin elevation 
+with no ischemic changes on EKG. He was loaded with ASA and 
+started on heparin gtt before being transferred to ___ 
+for further management. He underwent cardiac catheterization 
+that demonstrated 2 vessel disease (LCx and LAD) with a 
+drug-eluting stent placed in the LCx. On day of discharge he was 
+optimized on medical management and was chest pain free.
+
+TRANSITIONAL ISSUES:
+====================
+[] Pt on triple therapy of ASA, ___, and Warfarin for DES and 
+afib. Should remain on triple therapy for 1 month. After 1 month 
+would d/c ASA and continue on ___ for another 11 
+months. After a total of 12 months on ___ need 
+reassessment for need of DAPT. Will likely d/c ___ and 
+re-introduce ASA after ___ year.
+[] Pt Coumadin was held for cardiac catheterization. Given 
+CHADS-Vasc < 7, heparin bridge was not necessary on 
+re-introduction of warfarin. His last dose was 3.75mg on 
+___ with INR 1.2.
+[] Pt with several episodes of inattentiveness and 
+disorientation. Delirium vs more chronic problem. Pt may benefit 
+from further neurocognitive testing.
+
+ACTIVE ISSUES: 
+=============== 
+#NSTEMI:
+Presented to his cardiologist with recent stable and unstable 
+angina, sent to the ___, where he was found to have 
+troponin peak at 1.67, EKG without evidence ischemia. He was ASA 
+loaded and started on heparin gtt. After transfer patient had 
+TTE that demonstrated LVEF 47% and mild symmetric left 
+ventricular hypertrophy with mild regional systolic dysfunction 
+most consistent with multi-vessel coronary artery disease. He 
+subsequently underwent a cardiac catheterization initially with 
+R radial access, however due to tortuosity of radial artery was 
+switched to R femoral. Coronary angiography revealed a tandem 
+80% stenosis in a small caliber mid-LAD, as well as a 90% 
+stenosis in the proximal Circumflex, which was a large caliber 
+and dominant vessel. Successful PCI with drug-eluting stent was 
+placed in Cx. The LAD lesions were not intervened upon. He was 
+loaded with ___ and continued on DAPT in addition to warfarin 
+for afib. He will remain on triple therapy for 1 month, followed 
+by only ___ + warfarin for 11 months, followed by ASA + 
+warfarin indefinitely. On day of discharge he was chest pain 
+free and recovered appropriately from catheterization.
+
+#Paroxysmal Afib:
+On admission his Coumadin was held iso NSTEMI and anticipated 
+catheterization. After the procedure he was restarted on home 
+Coumadin. Given a CHADs-VASC: 3 he was not bridged with an 
+additional anticoagulant while waiting for therapeutic INR. On 
+day of discharge he was given home dose warfarin 3.75mg with INR 
+1.2.
+
+#Episode of confusion
+#?Delirium
+Unclear exactly the etiology of this episode, but wife reports 
+it was associated with a period of hypotension, with SBPs in the 
+___ on their home monitor. No reported neurologic deficits. Also 
+mildly hypoglycemic on arrival to ___ (glucose 64). During 
+the hospitalization patient had several episodes of confusion 
+that were not associated with change in vitals or medications. 
+Pt did not have altered consciousness but did lose attentiveness 
+and was disoriented. 
+
+#HTN: 
+Held home lisinopril initially, but was resumed on day of 
+discharge
+
+CHRONIC ISSUES: 
+================ 
+#BPH:
+S/p TURP, asymptomatic during hospitalization. Continued home 
+tamsulosin
+
+#HLD:
+Continued home atorvastatin 80mg
+
+#AS:
+Stable
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO DAILY 
+2. Fish Oil (Omega 3) 1000 mg PO DAILY 
+3. Simvastatin 40 mg PO QPM 
+4. Tamsulosin 0.4 mg PO BID 
+5. Warfarin 3.75 mg PO DAILY16 
+6. Lisinopril 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 80 mg PO QPM  
+3.  Clopidogrel 75 mg PO DAILY to prevent stent thrombosis  
+4.  Metoprolol Succinate XL 25 mg PO DAILY  
+5.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+6.  Lisinopril 5 mg PO DAILY  
+7.  Tamsulosin 0.4 mg PO BID  
+8.  Warfarin 3.75 mg PO DAILY16  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+- Coronary artery disease - 2 vessel (LCx and LAD)
+- Non-ST segment elevation myocardial infarction
+ 
+
+SECDONARY DIAGNOSIS:
+====================
+- Paroxysmal atrial fibrillation 
+- Hypertension
+- Benign prostatic hyperplasia
+- Hyperlipidemia
+- Aortic stenosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+It was a pleasure taking care of you at ___ 
+___.  
+  
+WHY WAS I ADMITTED TO THE HOSPITAL?  
+- You were admitted to the hospital because you had chest pain 
+and were found to have a heart attack
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?  
+- You had blood tests that showed evidence of heart attack
+- You underwent a procedure called cardiac catheterization that 
+allowed us to map out the vessels in your heart. We saw a 
+blockage of 2 of the vessels, which is consistent with your pain 
+that brought you into the hospital.
+- One of the vessels had a stent placed to help keep it open
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+- You should continue to take your medications as prescribed.  
+- If you are experiencing new or concerning chest pain that is 
+coming and going you should call the heartline at ___. 
+If you are experiencing persistent chest pain that is not 
+getting better with rest or nitroglycerine you should call ___.  
+
+- You should attend the appointments listed below.   
+
+We wish you the best!  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

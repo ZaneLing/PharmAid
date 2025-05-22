@@ -1,0 +1,200 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___
+ 
+___ Complaint:
+EtOH intoxication
+ 
+Major Surgical or Invasive Procedure:
+___: Intubation 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo F with a sig PMHx of sickle cell disease
+who presents with acute alcohol intoxication. A limited history
+was obtained given her altered mental status. 
+
+Briefly, the patient was at a party and consumed 8 servings of
+hard alcohol. She was found to be altered and EMS was called.
+When they arrived, she was vomiting in the bathroom and
+unresponsive. She was arousable to sternal rub. She was brought
+to ___ for further management. En route, she was de-satting to
+88% and continuing to actively vomit. 
+
+On arrival, the patient was intubated (MAC 3, 7.0 ETT) for 
+airway
+protection and transferred to the MICU.
+
+In the ED: 
+- Initial vitals were:  
+T97.8 HR68 BP102/66 RR20 SPO2 100% intubated 
+
+- Exam notable for:  
+Patient was clearly intoxicated. She was actively vomiting and
+was not clearing her secretions. Her head was needed to be held
+up so she did aspirate
+
+- Labs notable for:  
+VBG: pH 7.33 pCO2 45 pO2 92 HCO3 25 
+Lactate: 1.8
+CBC: Hb 8.6 -> 9.7 WBC 4.1 
+BMP: Na 140 BUN/Cr ___
+LFTs: AST 41 ALT 9
+serum etoh: 215
+serum acetamin: pos
+serum asa 0.30
+serum bzd, barb, tca: neg
+
+- Imaging was notable for: 
++CXR: pnd
+
+- Patient was given:  
+IV DRIP Fentanyl Citrate  
+IV DRIP Midazolam 
+
+Upon arrival to the ICU, patient is intubated and sedated.  
+Review of systems was negative except as detailed above.
+
+ 
+Past Medical History:
+Sickle Cell Disease
+ 
+Social History:
+___
+Family History:
+Unable to obtain
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS: Reviewed in MetaVision.
+GENERAL: intubated and sedated. 
+HEENT: Small amount of bloody secretions coming from OG tube, NG
+tube in place, NC/NT     
+CARDIAC: RRR, no m/r/g
+PULMONARY: CTA ___
+ABDOMEN: Abdomen distended but not tense
+EXTREMITIES: No clubbing, cyanosis or edema     
+SKIN: Warm and dry
+NEURO: Pupils (3-->2 mm) equal and reactive 
+
+DISCHARGE EXAM:
+VITALS: Reviewed in MetaVision.
+GENERAL: Awake and conversant  
+HEENT: Small amount of bloody secretions coming from OG tube, NG
+tube in place, NC/NT     
+CARDIAC: RRR, no m/r/g
+PULMONARY: CTA ___
+ABDOMEN: Non tender non distended abdomen 
+EXTREMITIES: No clubbing, cyanosis or edema     
+SKIN: Warm and dry
+NEURO: Pupils (3-->2 mm) equal and reactive 
+ 
+Pertinent Results:
+PERTINENT RESULTS:
+
+___ 03:05AM BLOOD WBC-6.0 RBC-2.43* Hgb-8.6* Hct-24.8* 
+MCV-102* MCH-35.4* MCHC-34.7 RDW-16.3* RDWSD-59.4* Plt ___
+___ 03:05AM BLOOD Glucose-147* UreaN-5* Creat-0.6 Na-139 
+K-3.1* Cl-104 HCO3-23 AnGap-12
+___ 03:05AM BLOOD ASA-0.30* ___ Acetmnp-POS* 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+CXR:
+"Interval placement of endotracheal tube ending 1.5 cm above the 
+carina. 
+1-2 cm retraction is recommended.
+2. No evidence of consolidation, effusion, or pneumothorax."
+ 
+
+ 
+Brief Hospital Course:
+Key Information for Outpatient Providers:Ms. ___ is a ___ yo 
+F with a history of sickle cell disease
+who presents with acute alcohol intoxication.
+
+#Acute Hypoxic Respiratory Failure: 
+The patient presented after significant vomiting due to alcohol 
+consumption. She initially desaturated en route, and given her 
+altered mental status, she was intubated for airway protection. 
+Her mental status improved and she was able to be extubated 
+without issue.
+
+#Toxic Metabolic Encephalopathy:
+#ETOH Intoxication: 
+The patient presented after significant alcohol consumption and 
+intoxication that was likely accidental. On arrival, she
+was obtunded and only arousal to sternal rub. Serum ETOH 215 was 
+likely the source of her altered mentation. Of note, the patient 
+had a positive toxicology screen for ASA and Acetaminophen as 
+well. She was given IV fluids and he repeat Tylenol level was 
+negative. 
+
+#Sickle cell disease:
+The patient's hemoglobin was 9.2 on admission and she had a low 
+haptoglobin. Therefore, there was concern for a sickle crisis. 
+Her repeat hemoglobin was stable so she was discharged home 
+after getting IV fluids. 
+
+TRANSITIONAL ISSUES: 
+=================================
+[ ] Please limit alcohol intake 
+[ ] monitor CBC to ensure anemia resolving
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+Acute Hypoxic Respiratory Failure
+Toxic Metabolic Encephalopathy
+Alcohol Intoxication
+
+Secondary Diagnosis:
+Sickle Cell disease 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+You were admitted because you were intoxicated and we were 
+worried about your safety. 
+
+WHAT WAS DONE WHILE I WAS HERE?
+We put a breathing tube down your airway and connected you to a 
+breathing machine because we were worried about your breathing.  
+We gave you fluids and monitored you until you were safe to 
+breathe on your own and then we removed the tube. We monitored 
+your lab work closely. 
+
+WHAT SHOULD I DO NOW?
+You should take your medications as instructed.
+You should go to your doctors ___ as below.
+
+We wish you the best!
+
+-Your ___ Care Team 
+ 
+Followup Instructions:
+___

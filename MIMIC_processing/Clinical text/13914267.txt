@@ -1,0 +1,263 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+=
+================================================================
+HOSPITALIST ADMISSION NOTE  
+Date of admission: ___ 
+=
+================================================================
+PCP: ___
+CC: ___ pain, dyspnea, cough
+
+HISTORY OF THE PRESENTING ILLNESS:  
+Mr. ___ is a ___ year old gentleman with a history of ?CAD
+and COPD who presents with chest pain, dyspnea, and cough. He
+notes he has had substernal chest pain for 3 weeks with
+associated dyspnea and chest pain. Chest pain and dyspnea are
+non-exertional though he has not been very active. He notes that
+at rest he is relatively asymptomatic though chest pain and
+dyspnea occurs mainly when he coughs. He states that he coughs
+"almost every minute" and the chest pain and dyspnea is 
+primarily
+worsened by cough. He has been coughing for the past 3 weeks.
+
+Of note he was in a 7 hr car ride with his daughter coming from
+___ yesterday. Given worsening symptoms he presented to his
+PCP and was referred to the ED after EKG changes revealed ST
+depression II, III, aVF. He denies fevers, chills, nausea,
+vomiting, bowel changes, urinary changes, abdominal pain,
+paresthesias or weakness. 
+
+In the ED, initial vitals were: 98.7 86 127/88 16 100% RA
+Labs were notable for WBC 15.6 otherwise WNL CBC, chemistry WNL,
+trop x1 negative, D-dimer 445, lactate 1.2. 
+Pneumonia was considered given cough, leukocytosis and he was
+given levofloxacin.  
+He was seen by cardiology who recommended admission for ischemic
+workup/stress test.
+
+Vitals on transfer: 98.9 64 121/76 18 97% RA
+He received nitroglycerin and aspirin prior to transfer
+
+On the floor, he is lying comfortably. He is accompanied by his
+daughter who assists with the history above. 
+
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats. States that he's lost 40
+pounds since ___. Endorses mild headache, denies sinus
+tenderness, rhinorrhea or congestion. Denies nausea, vomiting,
+diarrhea, constipation or abdominal pain. No recent change in
+bowel or bladder habits. No dysuria. Denies arthralgias or
+myalgias.  
+ 
+Past Medical History:
+COPD
+Lumbar radiculitis
+ 
+Social History:
+___
+Family History:
+Mother, deceased, hypertension
+Father, deceased, MI at age ___
+Brother, healthy
+Sister, healthy
+ 
+Physical Exam:
+Vital Signs: 97.8 PO 144 / 85 64 18 99 RA  
+General: Thin appearing gentleman, lying in bed in NAD 
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Decreased air movement throughout, no wheeze  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding
+MSK: No rib tenderness with palpation  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Neuro: Alert and oriented x3  
+ 
+Pertinent Results:
+___ 09:43PM   cTropnT-<0.01
+___ 03:25PM   LACTATE-1.2
+___ 01:00PM   GLUCOSE-101* UREA N-19 CREAT-0.8 SODIUM-136 
+POTASSIUM-4.4 CHLORIDE-98 TOTAL CO2-28 ANION GAP-14
+___ 01:00PM   estGFR-Using this
+___ 01:00PM   cTropnT-<0.01
+___ 01:00PM   proBNP-224
+___ 01:00PM   D-DIMER-445
+___ 01:00PM   WBC-15.6*# RBC-4.06* HGB-13.2* HCT-41.4 
+MCV-102* MCH-32.5* MCHC-31.9* RDW-12.4 RDWSD-46.5*
+___ 01:00PM   NEUTS-79.3* LYMPHS-10.7* MONOS-7.9 EOS-1.4 
+BASOS-0.1 IM ___ AbsNeut-12.37* AbsLymp-1.67 AbsMono-1.23* 
+AbsEos-0.22 AbsBaso-0.02
+___ 01:00PM   PLT COUNT-161
+___ 01:00PM   ___ PTT-29.5 ___
+
+CT CHEST:
+FINDINGS: 
+ 
+The thyroid gland is homogeneous.  There is no mediastinal or 
+hilar
+lymphadenopathy.  Heart size is normal and there is no 
+pericardial effusion. 
+The great vessels are normal in caliber.  The esophagus is 
+normal in course
+and caliber.  Limited images of the upper abdomen demonstrate a 
+simple cyst in
+left kidney.
+ 
+There are mild secretions within the upper thoracic trachea as 
+well as mucous
+plugging in the left lower lobe. In addition to mucoid impaction 
+of a left
+lower lobar, posterior segment airways, there is heterogeneous 
+alveolar
+opacification, representing pneumonia.
+There is diffuse centrilobular and paraseptal emphysema, upper 
+lobe
+predominant. Dystrophic calcification in the right upper lobe is 
+associated
+with postsurgical changes.
+ 
+Osseous structures are intact without evidence acute fracture.
+ 
+IMPRESSION:
+ 
+ 
+1. Heterogeneous left lower lobe consolidation compatible with 
+pneumonia.
+2. Diffuse, upper lobe predominant emphysema.
+ This preliminary report was reviewed with Dr. ___, 
+___
+radiologist.
+
+ETT MIBI:
+IMPRESSION: Non-anginal type symptoms. Uninterpretable ST 
+segments for
+ischemia in the setting of prominent voltage and IVCD/LBBB. 
+Abnormal
+heart rate response in association with pre-syncopal type 
+symptoms (see
+note). Nuclear report sent separately.
+
+IMPRESSION:
+ 
+1. Normal myocardial perfusion.  Anterior wall defect most 
+consistent with
+attenuation.
+ 
+2. Normal left ventricular cavity size.  Moderate systolic 
+dysfunction with
+global hypokinesis and abnormal septal motion consistent with 
+LBBB or
+ventricular interaction.  
+ 
+3. Increased right ventricular uptake, consistent with pulmonary 
+hypertension. 
+
+DC LABS:
+
+___ 06:10AM BLOOD WBC-8.1 RBC-3.41* Hgb-11.0* Hct-34.2* 
+MCV-100* MCH-32.3* MCHC-32.2 RDW-12.1 RDWSD-45.2 Plt ___
+___ 06:10AM BLOOD Glucose-113* UreaN-22* Creat-1.1 Na-140 
+K-3.9 Cl-103 HCO3-25 AnGap-16
+ 
+Brief Hospital Course:
+___ is a ___ year old gentleman with a history of 
+COPD who presents with chest pain, dyspnea, and subjective 
+fevers, admitted for treatment of possible pneumonia and 
+ischemic workup.
+
+Acute bacterial PNA:
+COPD:
+CT confirmed LLL consolidation and in conjunction with symptoms 
+was consistent with CAP.  He had been initiated on Levofloxacin 
+and is clinically improved.  His underlying COPD is also noted 
+on imaging and undoubtedly contributes to his respiratory 
+symptoms.  He was discharged to complete a course of 
+Levofloxacin and was initiated on Advair and albuterol.  Pulm 
+follow up is recommended
+
+Chest pain:
+Abnormal EKG:
+Atypical CP likely related to PNA, but underlying CAD is of 
+consideration.  Trop negative and BNP wnl.  EKG is c/w LVH.  
+Echo with depressed EF.  NO evidence of diabetes and LDL well 
+controlled.  ETT MIBI with abnormal Stress portion with 
+presyncope after 4.25min, junctional rhythm and drop in HR and
+BP.  This is of unclear significance and could be concerning for 
+underlying CAD.  Cardiology was consulted and did not feel that 
+he needed a cath.  He likely has conduction disease but is not 
+requiring urgent evaluation or intervention.  THey recommended 
+outpatient cardiology follow up.  Pacemaker could be considered 
+in the future depending on his future cardiac symptoms.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO OCCASIONALLY:PRN pain 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler ___ PUFF IH QID:PRN sob 
+RX *albuterol sulfate [ProAir HFA] 90 mcg ___ puffs inhaled four 
+times a day Disp #*1 Inhaler Refills:*0 
+2.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+RX *fluticasone-salmeterol [Advair Diskus] 250 mcg-50 mcg/dose 1 
+puff inhaled twice a day Disp #*1 Disk Refills:*0 
+3.  Levofloxacin 750 mg PO DAILY 
+take one dose on ___ 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth once a day Disp #*1 
+Tablet Refills:*0 
+4.  Aspirin 325 mg PO OCCASIONALLY:PRN pain  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Bacterial PNA
+COPD
+Abnormal stress test
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+
+You were admitted for evaluation of shortness of breath, cough, 
+and pneumonia.  You were treated with antibiotics.  Please 
+continue the course prescribed.  Please follow up closely with 
+your PCP next week.  You will need a referral to see a 
+cardiologist.
+ 
+Followup Instructions:
+___

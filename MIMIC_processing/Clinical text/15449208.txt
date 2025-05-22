@@ -1,0 +1,339 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+Coronary angio s/p 2 DES to RCA - ___ 
+
+ 
+History of Present Illness:
+___ hx of recently diagnosed HTN, HLD, not on medications, who
+presents with chest pain.
+
+He reports that he woke up feeling lightheaded, short of breath,
+and diaphoretic. Also had chest pain, described as pressure like
+midsternal that radiated to the back. Also with some mild
+abdominal discomfort as well. He felt very short of breath, that
+he had to rest while making a sandwich for his son. He went to
+the PCP, where EKG was unremarkable and was recommended to go to
+the ED. He denies any fevers, chills, cough, URI sx, diarrhea,
+melena, dysuria, swelling in his legs. In the ED, patient 
+reports
+that his chest pain started to decline since arriving to the ED,
+even prior to getting SLNTG. There was a holdup in giving SLNTG,
+as patient's BP were persistently less than ___. He received 2L
+LR with some improvement in his BP and was then given SLNTG. 
+
+Of note, patient recently diagnosed at PCP ___ ___ with HTN,
+BP~140s, and HLD. He was recommended to take atorvastatin, but 
+pt
+declined given the side effect profile. Instead, he did 
+intensive
+lifestyle modification, following dash diet, and exercises every
+single day (from previous once a week). He has lost over 20
+pounds since ___, and he states he has never been in a
+better shape. Of note, FHx notable for father who had MI at age
+___ ___s DM. 
+ 
+In the ED, initial vitals: 97.7 71 108/61 18 100% RA 
+- Exam unremarkable
+- Labs notable for:  
+Trop 0.37
+
+   14.8
+___  
+------------<125 
+4.8  25  1.2  
+
+- Imaging notable for:
+CTA chest:
+No evidence of pulmonary embolism or acute aortic abnormality. 
+No
+acute intrathoracic process.  
+
+Bedside TTE - negative for pericardial effusion
+
+Consults:
+Currently pain free, no notable ECG changes. Medical management
+of NSTEMI for now, agree with admission for cath.
+
+- Pt given:  1L LR, SLNTG, morphine IV 4mg, heparin gtt,
+atorvastatin 80. 
+
+- Vitals prior to transfer: 78 116/46 16 96% RA
+
+Upon arrival to the floor, the patient reports history as above.
+He states that his chest pain has now resolved and that he is
+thirsty.
+
+REVIEW OF SYSTEMS:  
+A 10-point ROS was taken and is negative except otherwise stated
+in the HPI. 
+
+ 
+Past Medical History:
+HTN
+HLD
+Testosterone Deficiency on testosterone supplement
+ 
+ 
+Social History:
+___
+Family History:
+Father - MI at age ___, DM
+Mother - GI cancer
+Brother - healthy
+
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM:  
+========================
+VITALS: 97.8 91/59 61 16 97% RA  
+General: Laying comfortably in bed in no acute distress
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL
+NECK: JVP not elevated
+CV: RRR. S1, S2. No mrg. No TTP over chest
+Lungs: CTA b/l. Unlabored breathing.   
+Abdomen: Soft, NTND. +BS 
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Neuro: CNII-XII grossly intact. No focal deficits. Moving all
+extremities.  
+
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 425)
+    Temp: 97.9 (Tm 98.4), BP: 107/70 (93-112/56-70), HR: 78
+(70-78), RR: 16 (___), O2 sat: 97% (95-99), O2 delivery: Ra  
+General: Laying comfortably in bed in no acute distress
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL
+NECK: JVP not elevated
+CV: RRR. S1, S2. No mrg. No TTP over chest
+Lungs: CTA b/l. Unlabored breathing.   
+Abdomen: Soft, NTND. +BS 
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Neuro: CNII-XII grossly intact. No focal deficits. Moving all
+extremities.  
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 09:22PM BLOOD WBC-18.0* RBC-5.21 Hgb-14.8 Hct-45.5 
+MCV-87 MCH-28.4 MCHC-32.5 RDW-14.0 RDWSD-44.5 Plt ___
+___ 09:22PM BLOOD Neuts-85.6* Lymphs-9.5* Monos-4.2* 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-15.42* AbsLymp-1.72 
+AbsMono-0.76 AbsEos-0.02* AbsBaso-0.04
+___ 09:22PM BLOOD ___ PTT-28.8 ___
+___ 09:22PM BLOOD Glucose-125* UreaN-21* Creat-1.2 Na-143 
+K-4.8 Cl-104 HCO3-25 AnGap-14
+___ 09:22PM BLOOD ALT-35 AST-93* LD(LDH)-255* CK(CPK)-980* 
+AlkPhos-65 TotBili-0.3
+___ 09:22PM BLOOD cTropnT-0.37*
+___ 09:22PM BLOOD CK-MB-76* MB Indx-7.8*
+___ 09:22PM BLOOD Calcium-10.1 Phos-3.9 Mg-2.4
+___ 01:05AM BLOOD Lactate-0.9
+
+RELEVANT LABS:
+==============
+
+___ 09:22PM BLOOD cTropnT-0.37*
+___ 01:00AM BLOOD CK-MB-96* cTropnT-0.64*
+___ 04:48AM BLOOD CK-MB-134* cTropnT-1.31*
+___ 01:17PM BLOOD CK-MB-153* cTropnT-3.66*
+___ 04:25AM BLOOD CK-MB-54* cTropnT-4.64*
+___ 12:53PM BLOOD CK-MB-33* cTropnT-3.13*
+___ 04:48AM BLOOD Triglyc-99 HDL-40* CHOL/HD-4.0 
+LDLcalc-101
+___ 04:48AM BLOOD Calcium-9.0 Phos-3.8 Mg-2.3 Cholest-161
+___ 04:48AM BLOOD %HbA1c-5.5 eAG-111
+
+IMAGING:
+=======
+
+Coronary CATH ___:
+The left main is without significant disease.
+The left anterior descending is with 50% proximal.
+The circumflex is with mild irregularities throughout.
+The right coronary artery is with ___ diffuse proximal 
+disease followed by mid subtotal thrombotic
+occlusion and TIMI 2 flow beyond. 
+
+TTE ___:
+The left atrial volume index is normal. There is normal left 
+ventricular wall thickness with a normal cavity size.
+There is normal regional left ventricular systolic function. 
+Quantitative 3D volumetric left ventricular ejection fraction is 
+62 %. Global longitudinal strain is depressed (-17.1 %; normal 
+less than -20%) Mildly
+dilated right ventricular cavity with moderate global free wall 
+hypokinesis. Tricuspid annular plane systolic
+excursion (TAPSE) is depressed. The aortic sinus diameter is 
+normal for gender with normal ascending aorta diameter for 
+gender. The aortic arch diameter is normal. The aortic valve 
+leaflets (3) appear structurally
+normal. There is no aortic valve stenosis. There is no aortic 
+regurgitation. The mitral valve leaflets appear structurally 
+normal with no mitral valve prolapse. There is mild [1+] mitral 
+regurgitation. The tricuspid valve leaflets appear structurally 
+normal. There is mild [1+] tricuspid regurgitation. The 
+estimated pulmonary artery systolic pressure is normal. There is 
+no pericardial effusion.
+IMPRESSION: 1) Mild ischemic cardiomyopathy c/w prior myocardial 
+infarction in RCA territory. Normal radial contractile function 
+in setting of mild reduction in global longitudinal strain.
+
+CTA ___:
+  
+1. No evidence of pulmonary embolism or acute aortic 
+abnormality. No acute 
+intrathoracic process. 
+2. Diffuse bronchial wall thickening may reflect chronic small 
+airway disease. 
+3. Mild bilateral gynecomastia. 
+
+CXR ___:
+=No acute intrathoracic process.
+
+DISCHARGE LABS:
+==============
+
+___ 04:25AM BLOOD WBC-13.1* RBC-4.24* Hgb-12.1* Hct-37.7* 
+MCV-89 MCH-28.5 MCHC-32.1 RDW-14.5 RDWSD-46.6* Plt ___
+___ 04:25AM BLOOD Glucose-117* UreaN-17 Creat-1.1 Na-142 
+K-4.3 Cl-107 HCO3-25 AnGap-___RIEF HOSPITAL COURSE:
+======================
+___ hx of recently diagnosed HTN, HLD, not on medications, who 
+presents with chest pain and found to have a type 1 NSTEMI with 
+midsubtotal thrombitic occlusion in the RCA s/p DES x2 given 
+concern for small dissection. 
+
+COR: LAD 50% proximal stenosis, LCx mild irregularities 
+throughout, RCx ___ diffuse ___ dx with midsubtotal 
+thrombotic occlusion s/p DES x2 to the RCA.
+PUMP: 62% EF 
+Rhythm: sinus 
+
+#Type 1 NSTEMI
+#CAD 
+Patient presented with chest pain and found to have an NSTEMI 
+with troponin elevated to peak of 4.64. EKG showed q waves in 
+the inferior leads with nonspecific ST segment changes. CTA 
+without evidence of aortic dissection or PA. Was loaded with 
+aspirin and initially on a heparin gtt. Echo showed EF 62% with 
+dilated right ventricular cavity with moderate global free wall 
+hypokinesis consistent with the RCA infarct seen on coronary 
+cath. Had 2 DES placed in the RCA. Risk factors include HLD and 
+started on atorvastatin 80mg daily and testosterone use for low 
+energy and low testosterone. A1C of 5.5%. The patient has made 
+significant lifestyle modifications including starting a DASH 
+diet and daily exercise. Regimen includes: aspirin 81mg daily, 
+metoprolol succinate 25mg BID, lisinopril 2.5mg daily, and 
+atorvastatin 80mg daily. 
+
+#Leukocytosis
+WBC elevated to max of 18 iso stress from NSTEMI. No localizing 
+symptoms for infection with CTA without evidence of pneumonia. 
+
+TRANSITIONAL ISSUES:
+=====================
+[] Would benefit from cardiac rehab 
+[] Recommend stopping testosterone. 
+[] continue DAPT for at least 12 months (until ___ and may 
+continue for longer. Aspirin 81mg indefinitely. 
+[] Uptitrate lisinopril and metoprolol as tolerated by BP. 
+
+#CODE: Full confirmed
+#CONTACT:
+Next of Kin: ___ 
+ Relationship: WIFE 
+ Phone: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Multivitamins 1 TAB PO DAILY 
+2. Testosterone Cypionate 100 mg IM QWEEK 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*90 Tablet 
+Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*90 
+Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY to prevent stent thrombosis 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*90 
+Tablet Refills:*0 
+4.  Lisinopril 2.5 mg PO DAILY 
+RX *lisinopril 2.5 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+5.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+6.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+DIAGNOSIS:
+==========
+Coronary artery disease
+Type 1 NSTEMI  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___. 
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital because you had chest pain 
+consistent with a heart attack. 
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- You were started multiple medications as below for your heart 
+attack to prevent further disease from developing.
+- You had a coronary angiogram which showed a blockage in one of 
+the arteries that supple blood to the heart and 2 stents were 
+placed in your right coronary artery.
+- Continue taking aspirin and Plavix to prevent your stents from 
+clotting off. 
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- Continue to discuss with your doctors regarding your 
+___ injections. This increases your risk of developing 
+heart disease. 
+- You should continue to take your medications as prescribed. 
+- You should attend the appointments listed below. 
+
+We wish you the best!
+Your ___ Care Team 
+
+ 
+Followup Instructions:
+___

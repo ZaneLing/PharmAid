@@ -1,0 +1,300 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dizziness, nausea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with PMH HTN,
+chronic hand pain, chronic headaches, prediabetes, who presents
+from home with dizziness and nausea. Reports of onset of 
+symptoms
+are variable, with ED reporting last ___, patient reporting 
+2d
+PTA, outpatient notes reporting 4d PTA. Patient reported
+hyperacute onset of dizziness, feeling like the room is spinning
+around him, at first lasting a few minutes, then up to an hour,
+with nausea started day PTA, no vomiting, and feeling sweaty,
+resolving without intervention. Worse with opening his eyes (has
+been keeping them closed), head turn (esp to the right), 
+position
+changes. Associated with R side tinnitus, which patient has had
+intermittently over years. No ear pain, fevers. No falls, LOC.
+
+In the ED at 12:30 ___, code stroke was called given patient's
+severe nystagmus.   
+ 
+PE showed:
+General: unwell appearing ___ male n NAD
+HEENT: NC, AT. Significant nystagmus with central gaze. Right
+beating nystagmus, which initially appeared direction changing.
+Neck: no cervical lymphadenopathy
+Chest: CTAB
+CV: RRR, nrml s1/s2, no m/g/r.
+Abdomen: soft, ___, no HSM
+Ext: no edema
+Neuro: AOx3, ___ intact, ataxia appreciated, strength ___ in
+all extremities, FNF intact, HINTS (performed after CT/CTA)
+corrective saccade and right beating nystagmus. No dysarthria. 
+No
+aphasia. Symmetric face.
+
+CTA head and neck was done.
+CT head: No acute intracranial hemorrhage or infarct.
+
+CTA head and neck: The major vessels of the neck, circle of
+___, and their principal intracranial branches appear without
+flow limiting stenosis, occlusion, or formation of aneurysms
+larger than 3 mm. Hypoplastic left venous sinus.
+
+Final read pending reformats.
+
+Neurology recommendations:
+___ man who presented as a code stroke after several
+episodes of room spinning vertigo over the past 3 days.
+
+There are several reassuring findings on exam: Right beating
+nystagmus with rightward and leftward gaze, corrective saccades
+to the right, no nystagmus with vertical gaze, and absence of
+other neurological signs. The nystagmus worsened when fixation
+was interrupted, another feature of peripheral vertigo.
+
+Recommendations
+-symptomatic treatment of vertigo per ED
+-treatment of lab abnormalities per ED
+-return to ED if new symptoms such as weakness, aphasia, etc...
+-dispo per ED
+-if symptoms persist for more than 1 week, will need PCP 
+referral
+to ___ neurologist"
+
+Per conversation with ED, symptoms most consistent with
+vestibular neuritis. Otoscope exam was normal. Patient was not
+walking independently in ED, had assistance (counter to
+documented code stroke exam), but was initially feeling better
+and considered going home, but then had recurrence of symptoms.
+ 
+He received: 
+___ 17:13 IV LORazepam 1 mg 
+___ 22:31 PO Meclizine 25 mg 
+___ 22:31 PO Potassium Chloride 40 mEq   
+___ 22:33 PO Acetaminophen 650 mg
+
+Upon arrival to floor, patient reported the above story. He felt
+some relief with meclizine and Ativan. Reported almost blacking
+out when sat up for the CT scanner. Reported occasional R ear
+tinnitus (ringing, not pulsatile), usually if congested. He
+denied nasal congestion, sore throat, cough, dyspnea, CP,
+palpitations, lightheadness, abdominal pain,
+weakness/numbness/tingling, diarrhea, poor UOP. Reported poor PO
+intake today but good appetite. Has daily headaches for which he
+usually takes Excedrin. He has chronic hand pain related to MVC 
+___
+years ago and occasionally takes NSAIDs for this. 
+ 
+Past Medical History:
+Essential hypertension 
+obesity 
+Colon adenoma
+ 
+Social History:
+___
+Family History:
+Father  Cancer - ___ (70); Heart ___ 
+Mother ___ No Significant Medical History
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: 97.6 PO 137 / 85 L Lying 57 20 95 RA 
+GENERAL: Alert, uncomfortable 
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+Neck: no cervical LAD
+CV: Heart regular, no murmur, no S3, no S4. No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is ___
+GI: Abdomen soft, ___ to palpation.  Bowel
+sounds present.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+central gaze and R beating nystagmus (do not see any on the
+left), speech fluent, moves all limbs, sensation to light touch
+grossly intact throughout, strength ___ throughout, ni tact FNF,
+deferred ambulation
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM
+24 HR Data (last updated ___ @ 727)
+    Temp: 97.8 (Tm 97.8), BP: 124/76 (___), HR: 58
+(___), RR: 18 (___), O2 sat: 97% (___), O2 delivery: RA,
+Wt: 285 lb/129.28 kg  
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+MMMs
+CV: RRR no m/r/g
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is ___
+GI: Abdomen soft, ___ to palpation.  
+EXTR: wwp no edema
+NEURO: Alert, interactive, face symmetric, gaze conjugate with
+EOMI with severe horizontal nystagmys with rightward gaze, 
+speech
+fluent, motor function grossly intact/symmetric, FTN intact
+bilaterally
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+Labs
+___ 04:10PM BLOOD ___ 
+___ Plt ___
+___ 07:15AM BLOOD ___ 
+___ Plt ___
+___ 04:10PM BLOOD ___ ___
+___ 04:10PM BLOOD ___ 
+___
+___ 07:15AM BLOOD ___ 
+___
+___ 05:18PM BLOOD ___
+___ 05:18PM BLOOD cTropnT-<0.01
+___ 05:18PM BLOOD ___
+___ 07:15AM BLOOD ___
+___ 05:18PM BLOOD ___ 
+___
+___ 05:28PM BLOOD ___ 
+___
+
+CTA head/neck
+1. Normal head CT.
+2. Patent circle of ___ without evidence of 
+stenosis,occlusion,or aneurysm.
+3. Patent bilateral cervical carotid and vertebral arteries 
+without evidence of stenosis, occlusion, or dissection.
+
+ 
+Brief Hospital Course:
+#Suspected vestibular neuritis
+___ is a ___ man with HTN, chronic hand 
+pain, chronic headaches, and prediabetes, who presented from 
+home with dizziness and nausea, likely due to vestibular 
+neuritis. His symptoms began several days before the admission 
+and were rapid in onset, causing severe nausea and gait 
+instability. He was evaluated by neurology and noted to have 
+rightward nystagmus, most severe with rightward eye movements. 
+HINTS exam and all clinical features felt to be consistent with 
+peripheral cause of vertigo and most consistent with vestibular 
+neuritis. He was started on meclizine with slight improvement. 
+Other treatments were held per neurology recommendations given 
+lack of evidence for efficacy. The patient was able to tolerate 
+POs and ambulate and preferred to return home. He was counseled 
+on safety while at home and still symptomatic, as well as red 
+flags that should prompt immediate return to care. He was given 
+a small amount of meclizine in case there are moments when he 
+needs symptom control in the upcoming days, but otherwise he was 
+encouraged to avoid ___ to allow for recovery of his 
+vestibular system. He was provided with a referral to vestibular 
+___ and should ___ closely with his PCP. Referral to 
+neurology can be considered as an outpatient. 
+
+# Leukocytosis
+In absence of other infectious symptoms, signs, possibly stress 
+reaction. Improving prior to discharge
+
+# HTN
+Held amlodipine and HCTZ initially since not eating/drinking 
+well, but restarted at discharge since PO intake improved. 
+
+# Chronic headaches
+Reports frequent headaches relieved by Excedrin, not thought to 
+be migraines, unclear cause. Consider outpatient referral to 
+headache clinic.
+
+======================
+TRANSITIONAL ISSUES:
+
+- close PCP ___
+- consider neurology referral if persistent symptoms
+- return to ED if new neurologic features
+- vestibular ___ referral given to patient
+
+======================
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+3. Diclofenac Sodium ___ 50 mg PO TID:PRN pain 
+4. Excedrin Extra Strength (___) 
+___ mg oral DAILY:PRN headache 
+
+ 
+Discharge Medications:
+1.  Meclizine 25 mg PO DAILY:PRN vertigo Duration: 3 Days 
+RX *meclizine 25 mg 1 tablet(s) by mouth daily as needed Disp 
+#*3 Tablet Refills:*0 
+2.  amLODIPine 5 mg PO DAILY  
+3.  Diclofenac Sodium ___ 50 mg PO TID:PRN pain  
+4.  Excedrin Extra Strength (___) 
+___ mg oral DAILY:PRN headache  
+5.  Hydrochlorothiazide 25 mg PO DAILY  
+6.Outpatient Physical Therapy
+___ rehabilitation
+Diagnosis: vestibular neuritis (ICD 10 H81.2)
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Suspected vestibular neuritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital because of severe dizziness, 
+which we suspect was due to vestibular neuritis, which is an 
+inflammation of the vestibular system, which is involved in 
+balance. It is often caused by a virus. This condition typically 
+___, and we expect that your symptoms will gradually 
+improve in the upcoming ___. We have provided a 
+referral for vestibular physical therapy, which can help in the 
+recovery process. We have prescribed several pills of meclizine 
+which you can take if needed for ongoing symptoms. As we 
+discussed, you should exercise additional precautions when you 
+return home to remain safe from falls if your symptoms persist. 
+
+You should call ___ if you develop new symptoms of blurry or 
+double vision, difficulty with speech, weakness, numbness, 
+difficulty walking, or worsened coordination. 
+
+If your current symptoms are slow to improve or are not 
+improving over the upcoming days, then you should contact your 
+primary care doctor. 
+ 
+Followup Instructions:
+___

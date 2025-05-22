@@ -1,0 +1,388 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Weakness/Neglect 
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Reason for Consult: stroke, L hemiparesis
+
+HPI:
+___ (BID #: ___) is a ___ year-old man with 
+DM2,
+HTN, HLD who presents as a transfer from ___ ED with
+concerns for stroke.
+
+He reports that he was well at dinner time last night, but later
+in the evening began to feel dizzy and noticed that his walking
+felt "unbalanced" so that he needed to hold onto furniture and
+door knobs to steady himself. He went to bed and woke up this
+morning at approximately 5AM, continuing to feel dizzy. EMS was
+called. Upon their arrival, he was reportedly complaining of
+chest pain, but EMS noted that he had a L facial droop and was
+not weight bearing on the left. He was brought to ___ 
+where
+he was noted to be in atrial fibrillation and plegic on the 
+left.
+His NIHSS was 8. CT showed a a hypodensity in R posterior
+parietal area (superior division of R MCA). CTA head with M2
+cutoff. tPA was deferred for LKW being last night (>3 hours). He
+was then transferred to the ___ for further evaluation and
+treatment. 
+
+Upon arrival to the ___ ED, his NIHSS had improved to 4 (+1 
+for
+L visual field cut, +1 for L leg drift, +1 for language, +1 for
+extinction on L). 
+
+___ phone interpreter was used, but Mr. ___ had
+extreme difficulty using the phone, although the interpreter
+stated that he was able to say "good morning" appropriately and
+clearly. 
+
+He reports that he woke up with a "pressure headache" this
+morning, but this has resolved. 
+
+Remainder of ROS is difficult as he seems to have anosognosia,
+but he denies loss of vision, blurred vision, diplopia,
+dysarthria, dysphagia, vertigo, tinnitus, hearing difficulty.
+Denies focal weakness, numbness, parasthesiae. Denies bowel or
+bladder incontinence or retention. Denies difficulty with gait.
+
+On general review of systems, the pt denies recent illness, 
+fever
+or chills.  No night sweats or recent weight loss or gain. 
+Denies
+cough, shortness of breath.  Denies chest pain or tightness,
+palpitations.  Denies nausea, vomiting, diarrhea, constipation 
+or
+abdominal pain.  No recent change in bowel or bladder habits.  
+No
+dysuria.  Denies arthralgias or myalgias. Denies rash.
+
+ 
+Past Medical History:
+- HTN                               
+- HLD
+- DM2
+
+ 
+Social History:
+___
+Family History:
+- Mother: stroke
+- Father: MI
+- Grandfather: stroke      
+ 
+Physical ___:
+Admission Exam: 
+Vitals: 
+T: 98.2
+HR: 88
+BP: 176/90
+RR: 21
+SpO2: 98% NC
+
+General: Awake, alert, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, full ROM. 
+Pulmonary: breathing comfortably on RA
+Cardiac: warm and well perfused, brisk capillary refill
+Abdomen: soft, NT/ND
+Extremities: No C/C/E bilaterally
+Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Awake, alert. Has difficulty following
+instructions -- initially thought to be due to language barrier,
+but he is unable to speak with ___ interpreter on the 
+phone.
+Neglects L. Struggles with naming objects. Eventually, reveals
+stories about his time in ___ in ___. Appears to be
+unaware of his deficits. Intact repetition. Able to read without
+difficulty. Speech was not dysarthric. 
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus, although demonstrates a right gaze preference. Normal
+saccades. Left field cut, but difficult to tell if this is a
+hemianopia vs quadrantanopia. 
+V: Facial sensation intact to light touch and pin.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. No adventitious movements, such as tremor, noted. 
+No
+asterixis noted. He struggles with confrontational strength
+testing due to difficulty with directions, but appears to be
+stronger on the R compared to left. He is antigravity throughout
+but better able to resist examiner in the R vs L. 
+
+-Sensory: Reports equal sensation to LT and pin throughout,
+although he appears to be anosagnosic. + extinction to DSS
+(neglects L).
+
+-DTRs:
+  Bi ___ Pat Ach
+L  2   2      2     1
+R  2   2     2     1
+Plantar response was flexor on the right but up-going on the L. 
+
+-Coordination: No intention tremor. No dysmetria on FNF
+bilaterally.
+
+-Gait: deferred
+
+Discharge Exam: 
+MS: awake, alert and oriented to date and locale.  Speech
+is fluent with normal language functions.  Left sided neglect
+persists.  
+CN: Pupils are symmetric and reactive to light.  Eyes
+conjugate in mid position.  Left visual field cut is present. 
+Face is symmetrical.  
+Motor: Left upper extremity drift. 
+   Delt Bic Tri WrE FE IP Quad Ham TA Gastroc 
+ L  4    ___  ___   3* 5     5    
+ R  5    ___  ___    5  5     5   
+Sensory: Extinguishes
+on the left arm and leg to double simultaneous stimulation.
+
+-Coordination: No intention tremor or dysmetria on FNF
+bilaterally.
+ 
+Pertinent Results:
+___ 05:24AM BLOOD WBC-6.3 RBC-4.59* Hgb-13.9 Hct-40.1 
+MCV-87 MCH-30.3 MCHC-34.7 RDW-12.3 RDWSD-39.0 Plt ___
+___ 04:35AM BLOOD Neuts-72.2* Lymphs-15.9* Monos-9.3 
+Eos-1.6 Baso-0.5 Im ___ AbsNeut-6.20* AbsLymp-1.37 
+AbsMono-0.80 AbsEos-0.14 AbsBaso-0.04
+___ 05:24AM BLOOD Plt ___
+___ 04:35AM BLOOD ___ PTT-27.5 ___
+___ 05:24AM BLOOD Glucose-165* UreaN-21* Creat-0.9 Na-142 
+K-3.5 Cl-101 HCO3-25 AnGap-16
+___ 04:35AM BLOOD Glucose-121* UreaN-19 Creat-0.9 Na-142 
+K-3.4 Cl-97 HCO3-31 AnGap-14
+___ 07:54AM BLOOD ALT-16 AST-20 AlkPhos-61 TotBili-1.8*
+___ 07:54AM BLOOD Lipase-38
+___ 04:35AM BLOOD CK-MB-3 cTropnT-<0.01
+___ 04:35AM BLOOD TotProt-5.7* Albumin-3.7 Globuln-2.0 
+Cholest-133
+___ 05:24AM BLOOD Calcium-8.6 Phos-3.3 Mg-1.4*
+___ 04:35AM BLOOD %HbA1c-7.3* eAG-163*
+___ 04:35AM BLOOD Triglyc-109 HDL-39* CHOL/HD-3.4 
+LDLcalc-72
+___ 07:54AM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG 
+Barbitr-NEG Tricycl-NEG
+___ 08:07AM BLOOD Glucose-211* Na-139 K-3.5 Cl-94* 
+calHCO3-29
+___ 09:50AM URINE Color-Straw Appear-Clear Sp ___
+___ 09:50AM URINE Blood-NEG Nitrite-NEG Protein-30* 
+Glucose-300* Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.0 Leuks-NEG
+___ 09:50AM URINE RBC-4* WBC-0 Bacteri-NONE Yeast-NONE 
+Epi-<1
+
+**FINAL REPORT ___
+URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+MRI Brain: 
+Multiple infarcts in the distribution of the right MCA involving 
+the right 
+frontoparietal area and insular cortex as well as the inferior 
+right occipital lobe in the watershed territory between the 
+right MCA and PCA. 
+Minimal blooming seen in the right parietal cortex in relation 
+to the area of infarct most likely represent cortical blood 
+products/hemorrhage. No large intraparenchymal hemorrhage seen 
+on the MR or the CT done 1 hour prior to suggest 
+intraparenchymal hemorrhagic transformation. 
+
+Echo: 
+The left atrium is moderately dilated. There is mild symmetric 
+left ventricular hypertrophy. The left ventricular cavity size 
+is normal. Overall left ventricular systolic function is mildly 
+depressed (LVEF = 45%) secondary to inferior posterior 
+hypokinesis. Right ventricular chamber size and free wall motion 
+are normal. The ascending aorta is mildly dilated. The aortic 
+valve leaflets (3) are mildly thickened but aortic stenosis is 
+not present. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. An eccentric, posteriorly 
+directed jet of Moderate to severe (3+) mitral regurgitation is 
+seen. Due to the eccentric nature of the regurgitant jet, its 
+severity may be significantly underestimated (Coanda effect). 
+Moderate [2+] tricuspid regurgitation is seen. There is moderate 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion.    
+___ Accredited   
+
+CTA H/N: 
+  
+1. Moderate narrowing of the right vertebral artery due to 
+cervical 
+degenerative changes. 
+2. 60 % stenosis of the right internal carotid artery by NASCET 
+criteria. 
+3. Moderate narrowing of the left supraclinoid carotid artery. 
+4. Moderate narrowing of the right subclavian artery with 
+partially calcified 
+atherosclerotic fibrofatty plaque. 
+  
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted for Left sided weakness and neglect, 
+found to have a inferior division of right MCA territory 
+infarction.  This is likely cardioembolic in setting of 
+paroxysmal atrial fibrillation. MRI confirms infarct, without 
+evidence of hemorrhagic transformation. Apixaban was started on 
+discharge for treatment of afib. 
+#Stroke Risk Factors: CTA H/N with  R M2 cutoff, + 
+atherosclerosis. Echo with EF 45%, ___ and 
+hypokinesis. A1c 7.1%, LDL 72 (Simvastatin was discontinued in 
+favor of atorvastatin).  
+#Social Work was consulted for patient's wife who was placed in 
+a rehab. Elder services and community social work were involved. 
+
+
+Of note, he was continued on his home meds; except diabetic meds 
+were held during admission. 
+
+Transitional Issues: 
+Follow up with outpatient neurology
+No need for outpatient holter
+Consider outpatient cards vs pcp follow up given echo results. 
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack  
+ 1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - (x) Not confirmed () No  
+ 2. DVT Prophylaxis administered? (x) Yes - () No  
+ 3. Antithrombotic therapy administered by end of hospital day 
+2? (x) Yes - () No  
+ 4. LDL documented? (x) Yes (LDL = 72 ) - () No  
+ 5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) (x) Yes - () No [if LDL 
+>70, reason not given:  
+ [ ] Statin medication allergy  
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist  
+ [ ] LDL-c less than 70 mg/dL  
+ ]  
+ 6. Smoking cessation counseling given? (x) Yes - () No [reason 
+() non-smoker - () unable to participate]  
+ 7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+ 8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No  
+ 9. Discharged on statin therapy? (x) Yes - () No [if LDL >70, 
+reason not given:  
+ [ ] Statin medication allergy  
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist  
+ [ ] LDL-c less than 70 mg/dL  
+ 10. Discharged on antithrombotic therapy? (x) Yes 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 20 mg PO QPM 
+2. MetFORMIN XR (Glucophage XR) 500 mg PO BID 
+3. GlipiZIDE XL 5 mg PO DAILY 
+4. Hydrochlorothiazide 25 mg PO DAILY 
+5. Levemir (insulin detemir) 100 unit/mL subcutaneous DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID  
+2.  Atorvastatin 40 mg PO QPM  
+3.  GlipiZIDE XL 5 mg PO DAILY  
+4.  Hydrochlorothiazide 25 mg PO DAILY  
+5.  Levemir (insulin detemir) 100 unit/mL subcutaneous DAILY  
+6.  MetFORMIN XR (Glucophage XR) 500 mg PO BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+ You were hospitalized due to symptoms of left sided weakness 
+resulting from an ACUTE ISCHEMIC STROKE, a condition where a 
+blood vessel providing oxygen and nutrients to the brain is 
+blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms.  
+
+ Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+ Diabetes
+ High Cholesterol 
+ High Blood Pressure 
+ Paroxysmal Atrial Fibrillation 
+
+ We are changing your medications as follows:  
+  START Apixaban 5 mg BID 
+ Start Atorvastatin 40 mg nightly 
+
+ Please take your other medications as prescribed.  
+
+ Please followup with Neurology and your primary care physician. 
+ 
+
+ If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+ Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

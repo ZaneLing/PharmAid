@@ -1,0 +1,204 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Hematemesis
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+
+ 
+History of Present Illness:
+___ male with no significant past medical history 
+presents with hematemesis. Patient states that he is taking 
+Excedrin daily for migraines. He has had 2 days of mild 
+abdominal discomfort, mostly in the left lower quadrant. He 
+awoke this morning and had two episodes of hematemesis, one with 
+about two cups of bright red blood. A few hours later the 
+patient had an episode of diarrhea which was predominantly dark 
+brown with some bright red blood as well. The patient has had no 
+other systemic symptoms, though he does endorse a ___ pound 
+weight loss over the past year or two which he has attributed to 
+stress at work. He called his primary care doctor who told him 
+to come to the ED.
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Mother with stroke, HTN, bladder cancer, breast cancer  
+ 
+Physical Exam:
+ADMISSION EXAM:
+===============
+VITALS:  98.0PO 145 / 83L Sitting 60 18 97   
+GENERAL: AOx3, NAD  
+HEENT: Normocephalic, atraumatic. Pupils equal, round, and 
+reactive bilaterally, extraocular muscles intact. Sclera 
+anicteric and without injection. Moist mucous membranes, good 
+dentition. Oropharynx is clear.  
+NECK: No LAD, no supraclavicular LAD  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No 
+murmurs/rubs/gallops. No JVD.  
+LUNGS: Clear to auscultation bilaterally w/appropriate breath 
+sounds appreciated in all fields. No wheezes, rhonchi or rales. 
+No increased work of breathing.
+BACK: No CVA tenderness.  
+ABDOMEN: Normal bowels sounds, non distended, Mild tenderness to 
+palpation in the left lower and right lower quadrants, worse on 
+the left. No epigastric tenderness. Negative ___ sign. 
+EXTREMITIES: No clubbing, cyanosis, or edema.
+SKIN: No evidence of ulcers, rash or lesions suspicious for 
+malignancy  
+NEUROLOGIC: No focal deficits
+
+DISCHARGE EXAM:
+===============
+VITALS: ___ 0005 Temp: 97.6 PO BP: 111/64 HR: 53 RR: 18 O2
+sat: 98% O2 delivery: Ra 
+GEN: alert, oriented, conversant 
+EYES: PERRL, EOMI, conjunctiva clear, anicteric
+CV: RRR s1s2 nl, no m/r/g
+PULM: CTA, no r/r/w 
+GI: Abd soft, mild tenderness to deep palpation in LLQ. No
+guarding or rebound. 
+NEURO: A & O x3, no neurologic deficits
+ 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 06:35PM BLOOD WBC-7.4# RBC-3.76* Hgb-10.2*# Hct-32.9*# 
+MCV-88 MCH-27.1# MCHC-31.0* RDW-13.0 RDWSD-41.2 Plt ___
+___ 06:35PM BLOOD ___ PTT-40.2* ___
+___ 06:35PM BLOOD Glucose-100 UreaN-35* Creat-0.7 Na-139 
+K-4.6 Cl-101 HCO3-26 AnGap-12
+___ 06:35PM BLOOD ALT-17 AST-16 AlkPhos-65 TotBili-0.2
+___ 06:35PM BLOOD Albumin-3.7
+
+DISCHARGE LABS:
+==============
+___ 05:33AM BLOOD WBC-4.3 RBC-3.32* Hgb-9.0* Hct-28.8* 
+MCV-87 MCH-27.1 MCHC-31.3* RDW-12.8 RDWSD-39.8 Plt ___
+___ 05:33AM BLOOD Glucose-118* UreaN-12 Creat-0.9 Na-144 
+K-4.6 Cl-104 HCO3-27 AnGap-13
+___ 06:35PM BLOOD ALT-17 AST-16 AlkPhos-65 TotBili-0.2
+___ 05:33AM BLOOD Calcium-9.1 Phos-3.5 Mg-2.___ male with no significant past medical history 
+presenting with hematemesis and melena in the setting of heavy 
+NSAID use for migraines.
+
+#GI bleed: The patient presented with two episodes of 
+hematemesis and melena, as well as left lower quadrant abdominal 
+pain in the setting of recent daily NSAID use. Given his NSAID 
+use, as well as his pain being worse with PO intake, peptic 
+ulcer disease was thought to be very likely. His hemoglobin was 
+9.9 in the ED down from a baseline of 13. He was hemodynamically 
+stable, and was started on a PPI. His repeat hemoglobin showed 
+that it was stable at 10.2. Notably, the patient refused 
+consenting for blood products should he need them despite 
+explanation that it could be a life saving measure. This 
+conversation is documented in OMR. The patient was admitted for 
+monitoring of his CBC, and was seen be the gastroenterologists 
+who recommended an upper GI endoscopy, which showed a large 
+gastric ulcer with a necrotic core. The patient was made NPO, 
+and was started on high dose IV PPI. A repeat scope in two days 
+showed improvment in the ulcer, and the gastroenterologists 
+recommended transition to a PO PPI and follow up as an 
+outpatient.
+
+TRANSITIONAL ISSUES:
+====================
+- The patient should have a repeat CBC at follow up (Discharge 
+Hgb 9.0)
+- The patient should have a colonoscopy as he has not had one, 
+and has had a 15 pound weight loss over the last year
+
+#Code status: DNR/DNI
+#Health care proxy/emergency contact: ___ 
+___ 
+
+I have seen and examined M, reviewed the findings, data, and 
+discharge plan of care documented by Dr. ___, MD dated 
+___ and agree with the plan, except for any additional 
+comments below.
+
+___, MD, PharmD
+Section of Hospital Medicine
+___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Excedrin Extra Strength (aspirin-acetaminophen-caffeine) 
+250-250-65 mg oral BID:PRN 
+2. Multivitamins 1 TAB PO DAILY 
+3. Ascorbic Acid ___ mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth every twelve (12) 
+hours Disp #*60 Tablet Refills:*0 
+2.  Ascorbic Acid ___ mg PO DAILY  
+3.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: Upper GI bleed
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+WHY WAS I ADMITTED?
+- You were admitted when you vomited some blood and saw some 
+blood in your stool
+- Your blood counts were slightly low and you were admitted to 
+ensure that you were not bleeding further
+
+WHAT WAS DONE WHILE I WAS HERE?
+- You got some medications to decrease acid in your stomach to 
+help with bleeding
+- The gastroenterology specialists saw you and recommended a 
+scope of your upper GI track
+- A large ulcer was found in your stomach
+- You had a repeat scope that showed healing of the ulcer
+- When we were sure the bleeding had stopped, and your blood 
+counts were stable, you were discharged home with the plan to 
+continue an oral acid blocker (pantoprazole) and follow up with 
+gastroenterology to have a repeat scope in 10 weeks. 
+
+WHAT SHOULD I DO NOW?
+-You should take your medications as instructed
+-Please avoid foods that cause high acid production such as 
+tomatoes, red sauce, coffee, tea, dairy products 
+-You should go to your doctor's appointments as below
+
+We wish you the best!
+-Your ___ Care Team
+
+ 
+Followup Instructions:
+___

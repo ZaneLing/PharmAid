@@ -1,0 +1,140 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+___ 10:50AM BLOOD WBC-7.1 RBC-4.12 Hgb-13.1 Hct-40.7 
+MCV-99* MCH-31.8 MCHC-32.2 RDW-13.5 RDWSD-49.1* Plt ___
+___ 10:50AM BLOOD Neuts-70.1 ___ Monos-7.7 Eos-1.1 
+Baso-0.8 Im ___ AbsNeut-5.00 AbsLymp-1.41 AbsMono-0.55 
+AbsEos-0.08 AbsBaso-0.06
+___ 10:50AM BLOOD ___ PTT-24.3* ___
+___ 10:50AM BLOOD Glucose-133* UreaN-11 Creat-0.9 Na-141 
+K-4.5 Cl-103 HCO3-25 AnGap-13
+___ 10:50AM BLOOD ALT-24 AST-25 AlkPhos-80 TotBili-0.5
+___ 10:50AM BLOOD Lipase-33
+___ 10:50AM BLOOD cTropnT-<0.01
+___ 10:50AM BLOOD Albumin-3.9 Calcium-9.4 Phos-3.3 Mg-2.0
+___ 05:00PM BLOOD Lactate-3.3*
+___ 11:00AM BLOOD Glucose-136* Lactate-2.9* Creat-0.7 
+Na-139 K-4.2 Cl-105 calHCO3-26
+___ 11:00AM BLOOD Hgb-13.8 calcHCT-41
+
+IMAGING
+-------
+None new
+
+DISCHARGE LABS
+--------------
+___ 10:50AM BLOOD WBC-8.2 RBC-4.35 Hgb-13.7 Hct-43.4 
+MCV-100* MCH-31.5 MCHC-31.6* RDW-13.9 RDWSD-51.0* Plt ___
+___ 10:50AM BLOOD Glucose-137* UreaN-16 Creat-0.8 Na-144 
+K-4.0 Cl-105 HCO3-25 AnGap-14
+___ 10:50AM BLOOD CK(CPK)-99
+___ 10:50AM BLOOD Calcium-9.4 Phos-3.4 Mg-1.___ woman with Alzheimer's disease who presents with 
+unintential overdose of her memantine, donepezil, and atenolol. 
+
+ACUTE/ACTIVE PROBLEMS:
+# Unintentional overdose of memantine, donepezil, and atenolol: 
+patient had bradycardia to low ___.  She had some agitation 
+which could signify some cholinergic toxicity.  Atenolol 
+half-life was ___ hours in normal renal function.  Memantine and 
+donepezil have longer half-lives of 60-70 hours.  All 
+medications can influence heart
+rate and cardiac conduction.  Patient was monitored on telemetry 
+with no cardiac conduction abnormalities.  QTc was high normal.  
+Atenolol was stopped due to risk of bradycardia if patient 
+develops renal failure.  Donepezil and memantine will be 
+restarted on discharge.  Care should be taken to prevent taking 
+multiple doses of medications going forward.
+
+# Hypertension: atenolol was stopped as noted above.  Amlodipine 
+5 mg PO daily was started in its place with controlled blood 
+pressure on discharge.
+
+# Elevated lactic acid: likely from medication overdose, 
+improved soon after admission.
+
+# Alzheimer's dementia: ramelteon QHS given during admission.
+
+TRANSITIONS OF CARE
+-------------------
+# Follow-up: patient's blood pressure should be monitored on new 
+dose of amlodipine.  Medications may need to be further 
+titrated.  Care should be taken to prevent patient taking 
+multiple doses of medications going forward.
+
+# Contacts/HCP/Surrogate and Communication: son, ___
+# Code Status/Advance Care Planning: confirmed full (please also
+see current POE order)
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 10 mg PO QPM 
+2. Atenolol 50 mg PO DAILY 
+3. Donepezil 10 mg PO QHS 
+4. Namenda XR (MEMAntine) 28 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY  
+2.  Atorvastatin 10 mg PO QPM  
+3.  Donepezil 10 mg PO QHS  
+4.  Namenda XR (MEMAntine) 28 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Medication overdose
+Sinus bradycardia
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you during your recent 
+hospitalization.  You came to the hospital after taking too much 
+of your medications.  Further testing showed that your heart 
+rate was slowed by this, but did not continue to worsen over 
+time.  By now, most of the medications should be out of your 
+system.  You are now being discharged.
+
+You will not continue on atenolol any longer.  Amlodipine is 
+being given instead to control your blood pressure.
+
+It is important that you continue to take your medications as 
+prescribed and follow up with the appointments listed below.
+
+Good luck!
+
+ 
+Followup Instructions:
+___

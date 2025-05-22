@@ -1,0 +1,272 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+___: ERCP with sphincterotomy and stent
+___: laparoscopic cholecystectomy
+
+ 
+History of Present Illness:
+This is a ___ year old female with PMH of Hypertension and GERD 
+who presented from ___, where she was evaluated for 
+nausea, vomiting, diarrhea, and abdominal pain. She has been in 
+her usual state of health and was on a cruise for 18 days to 
+___. In the last ___ days she has experienced nausea, 
+vomiting, loose stool, and abdominal pain. Once she got off her 
+cruise today (___) she went to the ED at ___ where 
+she was transferred to ___ for further workup. 
+
+She describes having had nausea/vomiting, last episode yesterday 
+evening, and several episodes of loose stool, which have stopped 
+on their own. No sick contacts, and no one else on her cruise 
+ship was ill. Also describes a sharp, wringing/squeezing type of 
+abdominal pain underneath both her left and right ribs. She 
+endorses a history of chronic dull left sided achiness that has 
+come and gone for about a year. This squeezing pain is described 
+as new, severe and sharp in nature, prompting her evaluation in 
+the ED. 
+
+While on her cruise ship she notes having had some more fatty 
+food than usual. Also states she has been consuming ___ beers 
+per night. No change in pain with eating or food. Describes her 
+pain as under control presently, but previously was 
+severe/sharp, and resolved on its own.
+
+At ___ she was found to have elevated LFT's and lipase, 
+as well as gallstones seen on RUQ u/s, for which she was 
+transferred to ___ for possible ERCP. 
+
+ROS: positive for abdominal pain, presently denies 
+nausea/vomiting/diarrhea, denies fever/chills/sob/cp or any 
+other complaints. Rest ROS negative unless stated above. 
+
+ 
+Past Medical History:
+Hypertension
+GERD
+Eczema
+Arthritis 
+ 
+Social History:
+___
+Family History:
+Son - diabetes
+Sister - diabetes, eczema
+ 
+Physical Exam:
+At admission: 
+Vitals: 
+T 98.0, BP 134/81, HR 83, RR 18, O2 95% RA
+Gen - no distress, resting in bed and comfortable appearing
+HEENT - nc/at, dry mucous membranes, op clear no exudates
+Neck - supple, no LAD
+___ - RRR, s1/2, no m/r/g
+Lungs - cta b/l, no w/r/r
+Abd - soft, non distended, +slight tenderness on deep palpation 
+diffusely but no rebound/guarding/rigidity, +bowel sounds in all 
+4 quadrants
+Ext - no c/c/e
+Skin - warm, dry, no rashes
+Psych - calm, cooperative
+
+At discharge: 
+
+GEN: NAD
+HEENT: sclera anicteric, EOMI
+CV: RRR
+PULM: nonlabored breathing, on room air 
+ABD: soft, appropriately TTP near incisions, abdominal port 
+incisions x4 with clean/dry dressings 
+EXT-no edema 
+PSYCH-appropriate mood, appropriate affect 
+ 
+Pertinent Results:
+___ 08:25PM   WBC-7.5 RBC-4.48 HGB-13.8 HCT-40.6 MCV-91 
+MCH-30.8 MCHC-34.0 RDW-12.9 RDWSD-42.4  PLT COUNT-325
+___ 08:25PM   GLUCOSE-85 UREA N-17 CREAT-0.8 SODIUM-134 
+POTASSIUM-3.1* CHLORIDE-93* TOTAL CO2-26 ANION GAP-18
+___ 08:25PM   ALT(SGPT)-156* AST(SGOT)-128* ALK PHOS-328* 
+TOT BILI-2.0* DIR BILI-1.0* INDIR BIL-1.0
+___ 08:25PM   LIPASE-89*
+___ 08:32PM   LACTATE-1.1
+
+RUQ u/s: hardcopy in chart
+Impression: cholelithiasis, no biliary dilatation
+ 
+Brief Hospital Course:
+Mrs. ___ was admitted to ___ on ___ with abdominal 
+pain. She was found to have gallstone pancreatitis and underwent 
+ERCP with sphincterotomy and stent placement on ___. She was 
+started on prophylactic ciprofloxacin x 5 days which she will 
+complete on ___. She was taken to the Operating Room on 
+___ where she underwent laparoscopic cholecystectomy. She 
+was extubated and returned to the PACU in stable condition. Upon 
+satisfactory recovery from anesthesia, she was transferred to 
+the surgical floor for further monitoring. 
+
+Diet was advanced as tolerated without issue. Pain was well 
+controlled with oral medication. She had no issues voiding after 
+surgery. She was ambulating independently around the ward. 
+
+She was discharged home on a ___ with instructions to follow 
+up in clinic on ___.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. Spironolactone 25 mg PO DAILY 
+3. Hydrochlorothiazide 25 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+Do not exceed 4000 mg daily.   
+2.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 5 Days 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*3 Tablet Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe 
+Do not drink alcohol or drive while taking this medication.  
+RX *oxycodone 5 mg 1 tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Hydrochlorothiazide 25 mg PO DAILY  
+6.  Omeprazole 20 mg PO DAILY  
+7.  Spironolactone 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+gallstone pancreatitis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___, 
+
+___ were admitted to the hospital with gallstone pancreatitis  
+___ underwent ERCP and were taken to the operating room and had 
+your gallbladder removed laparoscopically. ___ tolerated the 
+procedure well and are now being discharged home to continue 
+your recovery with the following instructions.
+ 
+Please follow up in the Acute Care Surgery clinic at the 
+appointment listed below.
+
+Please follow up with Dr. ___ at the appointment listed below 
+for repeat ERCP and stent removal. 
+ 
+ACTIVITY:
+ 
+o Do not drive until ___ have stopped taking pain medicine and 
+feel ___ could respond in an emergency.
+o ___ may climb stairs. 
+o  ___ may go outside, but avoid traveling long distances until 
+___ see your surgeon at your next visit.
+o  Don't lift more than ___ lbs for 4 weeks. (This is about 
+the weight of a briefcase or a bag of groceries.) This applies 
+to lifting children, but they may sit on your lap.
+o ___ may start some light exercise when ___ feel comfortable.
+o ___ will need to stay out of bathtubs or swimming pools for a 
+time while your incision is healing. Ask your doctor when ___ 
+can resume tub baths or swimming.
+ 
+HOW ___ MAY FEEL: 
+o  ___ may feel weak or "washed out" for a couple of weeks. ___ 
+might want to nap often. Simple tasks may exhaust ___.
+o  ___ may have a sore throat because of a tube that was in your 
+throat during surgery.
+o  ___ might have trouble concentrating or difficulty sleeping. 
+___ might feel somewhat depressed.
+o  ___ could have a poor appetite for a while. Food may seem 
+unappealing.
+o  All of these feelings and reactions are normal and should go 
+away in a short time.  If they do not, tell your surgeon.
+ 
+YOUR INCISION:
+o Tomorrow ___ may shower and remove the gauzes over your 
+incisions. Under these dressing ___ have small plastic bandages 
+called steri-strips. Do not remove steri-strips for 2 weeks. 
+(These are the thin paper strips that might be on your 
+incision.) But if they fall off before that that's okay).
+o Your incisions may be slightly red around the stitches. This 
+is normal.
+o ___ may gently wash away dried material around your incision.
+o Avoid direct sun exposure to the incision area.
+o Do not use any ointments on the incision unless ___ were told 
+otherwise.
+o ___ may see a small amount of clear or light red fluid 
+staining your dressing or clothes. If the staining is severe, 
+please call your surgeon.
+o ___ may shower. As noted above, ask your doctor when ___ may 
+resume tub baths or swimming.
+ 
+YOUR BOWELS:
+o Constipation is a common side effect of narcotic pain 
+medications. If needed, ___ may take a stool softener (such as 
+Colace, one capsule) or gentle laxative (such as milk of 
+magnesia, 1 tbs) twice a day. ___ can get both of these 
+medicines without a prescription.
+o If ___ go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon. 
+ 
+PAIN MANAGEMENT:
+o It is normal to feel some discomfort/pain following abdominal 
+surgery. This pain is often described as "soreness". 
+o Your pain should get better day by day. If ___ find the pain 
+is getting worse instead of better, please contact your surgeon.
+o ___ will receive a prescription for pain medicine to take by 
+mouth. It is important to take this medicine as directed. o Do 
+not take it more frequently than prescribed. Do not take more 
+medicine at one time than prescribed.
+o Your pain medicine will work better if ___ take it before your 
+pain gets too severe.
+o Talk with your surgeon about how long ___ will need to take 
+prescription pain medicine. Please don't take any other pain 
+medicine, including non-prescription pain medicine, unless your 
+surgeon has said its okay.
+o If ___ are experiencing no pain, it is okay to skip a dose of 
+pain medicine.
+o Remember to use your "cough pillow" for splinting when ___ 
+cough or when ___ are doing your deep breathing exercises.
+If ___ experience any of the following, please contact your 
+surgeon:
+- sharp pain or any severe pain that lasts several hours
+- pain that is getting worse over time
+- pain accompanied by fever of more than 101
+- a drastic change in nature or quality of your pain
+ 
+MEDICATIONS:
+Take all the medicines ___ were on before the operation just as 
+___ did before, unless ___ have been told differently.
+If ___ have any questions about what medicine to take or not to 
+take, please call your surgeon.
+
+Thank ___ for allowing us to participate in your care. 
+
+Sincerely, 
+
+Your ___ Surgery Team 
+ 
+Followup Instructions:
+___

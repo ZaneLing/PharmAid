@@ -1,0 +1,308 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Cath
+
+ 
+History of Present Illness:
+___ with morbid obesity and no other past medical history 
+presenting as a transfer for N STEMI. Patient states that he 
+awoke this morning with slight chest pain and while showering 
+developed worsening pressure tight chest pain, substernal, 
+radiating to left arm, associated with lightheadedness. Not 
+associated with shortness of breath, sweating. Pain better when 
+lying down, non-pleuritic. Was brought to ___, where he was 
+tachycardic to 128, normotensive. He was given aspirin, SL nitro 
+X2, which relieved his symptoms and started on heparin gtt. 
+Initial troponin negative, second troponin 3.3. Negative 
+d-dimer, negative chest x-ray. Patient states that he has never 
+had symptoms like this in the past, and has never had chest pain 
+in the past, even with exertion. 5-pack-year smoking history, 
+currently ___. No drug use besides hx of occasional marijuana 
+in the past. Mother died from MI at ___.  
+ 
+ In the ED, initial VS were: 97.4 108 151/80 16 97% RA  
+ Exam notable for:  
+ Tachycardic, normotensive  
+ Comfortable, morbidly obese  
+ Tachycardic, regular rhythm, no murmurs  
+ CTABL  
+ 1+ pitting edema to mid-shins  
+ Labs showed:  
+ Trop 1.16 -> 1.09  
+ ___ AGap=13  
+ --------------  
+ 4.4 28 1.0  
+ EKG: NSR @ 99. S1Q3T3. RBBB. No ischemic changes  
+ OSH:  
+ Negative initial trop, then second with trop-I of 3.39  
+ Negative D-Dimer  
+ Imaging showed:  
+ CHA TTE:  
+ CONCLUSIONS  
+ -----------  
+ 1. Technically limited study, compromised by the patient's 
+morbid obesity at 5'7", 308 lb. The test was performed urgently 
+in the ED.  
+ 2. LV ejection fraction is 70%.  
+ 3. There is a focal area of akinesis in the apex.  
+ 4. Neither the atrial nor the valves could be adequately 
+imaged.  
+ 
+ Patient received: heparin gtt, metop tartrate 25mg  
+ 
+ Cardiology was consulted: Trend troponins, likely will need 
+cath  
+ Transfer VS were: 89 137/87 21 98% RA  
+ On arrival to the floor, patient corroborates the history as 
+above. He reports that he is chest pain free. No chest pain 
+since he was given the ___ nitro at OSH.
+ 
+Past Medical History:
+Hx of active TB s/p treatment ___ 
+ 
+Social History:
+___
+Family History:
+Mother passed away from MI at ___ yo
+ 
+Physical Exam:
+ADMISSION EXAM:
+===============
+VS: 98.1 ___ 18 96% RA  
+GENERAL: pleasant, obese, in NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM  
+NECK: unable to assess JVP due to thick neck  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: soft, nontender, nondistended.  
+EXTREMITIES: no cyanosis, clubbing, or edema  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+
+DISCHARGE EXAM:
+===============
+VS: 98.5 123/85 80 18 95 Ra 
+GENERAL: pleasant, obese, in NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM  
+NECK: unable to assess JVP due to thick neck  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: soft, nontender, nondistended.  
+EXTREMITIES: no cyanosis, clubbing, or edema, R radial access 
+site w/o hematoma, distal pulses and sensation intact 
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 05:20PM BLOOD WBC-14.4* RBC-6.16* Hgb-15.4 Hct-47.4 
+MCV-77* MCH-25.0* MCHC-32.5 RDW-13.5 RDWSD-36.9 Plt ___
+___ 05:20PM BLOOD Neuts-74.8* ___ Monos-4.6* 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-10.78* AbsLymp-2.82 
+AbsMono-0.66 AbsEos-0.02* AbsBaso-0.04
+___ 05:20PM BLOOD ___ PTT-52.5* ___
+___ 05:20PM BLOOD Plt ___
+___ 05:20PM BLOOD Glucose-88 UreaN-14 Creat-1.0 Na-142 
+K-4.4 Cl-101 HCO3-28 AnGap-13
+___ 05:20PM BLOOD cTropnT-1.16*
+___ 09:31PM BLOOD cTropnT-1.09*
+___ 05:20PM BLOOD Cholest-283*
+___ 05:20PM BLOOD %HbA1c-5.3 eAG-105
+___ 05:20PM BLOOD Triglyc-236* HDL-32* CHOL/HD-8.8 
+LDLcalc-204*
+
+STUDIES/IMAGING:
+================
+TTE:
+The left atrium is normal in size. The estimated right atrial 
+pressure is ___ mmHg. Left ventricular wall thicknesses and 
+cavity size are normal. There is mild regional left ventricular 
+systolic dysfunction with focal inferoapical hypokinesis. The 
+remaining segments contract normally (LVEF = 55-60 %). No masses 
+or thrombi are seen in the left ventricle. There is no 
+ventricular septal defect. Right ventricular chamber size and 
+free wall motion are normal. The diameters of aorta at the 
+sinus, ascending and arch levels are normal. The aortic valve 
+leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. There 
+is no aortic valve stenosis. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. The 
+estimated pulmonary artery systolic pressure is normal. There is 
+an anterior space which most likely represents a prominent fat 
+pad. 
+
+IMPRESSION: Mild regional left ventricular systolic dysfunction 
+suggestive of either PDA or distal LAD lesion. 
+
+CORONARY ANGIOGRAM:
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is normal
+* Left Anterior Descending
+The LAD had an ulcerated 80% mid lesion
+* Circumflex
+The Circumflex is normal
+* Right Coronary Artery
+The RCA is normal.
+
+Interventional Details
+The left main was engaged with a ___ Fr XBLAD 3.5 guide. The LAD 
+lesion was crossed with a Prowater
+wire, dilated with a 3.0 balloon and stented with a 3.5x18 Onyx 
+___ to 3.5 mm at 18 at.m
+There was no residual, normal flow.
+Intra-procedural Complications: None
+Impressions:
+Successful DES of LAD
+Recommendations
+Continue aspirin uninterrupted indefinitely, clopidogrel ___ year
+
+DISCHARGE LABS:
+===============
+
+___ 06:10AM BLOOD Hct-48.2 Plt ___
+___ 06:10AM BLOOD Plt ___
+___ 06:10AM BLOOD ___ PTT-36.6* ___
+___ 06:10AM BLOOD Glucose-83 UreaN-13 Creat-0.9 Na-141 
+K-4.5 Cl-101 HCO3-28 AnGap-12
+___ 06:10AM BLOOD CK-MB-9 cTropnT-1.02*
+___ 06:10AM BLOOD Calcium-9.2 Phos-4.1 Mg-2.3 Cholest-243*
+___ 06:10AM BLOOD Triglyc-183* HDL-29* CHOL/HD-8.4 
+LDLcalc-177*
+ 
+Brief Hospital Course:
+___ year old male with PMHx obesity, active smoker who presents 
+for chest pain found to have NSTEMI with LAD lesion.
+
+#NSTEMI
+Patient presenting with chest pain with elevated troponin of 
+1.16 with peak at 1.76. EKG with S1Q3T3 and IVCD but no ST or 
+other T wave changes. D- dimer at OSH negative. Limited TTE done 
+at CHA, but did reveal focal akinesis at apex, repeat echo ___ 
+showed focal anteroinferior hypokinesis. Started on heparin gtt, 
+ASA, metoprolol 25 q6h, atorvastatin 80mg. Cholesterol levels 
+elevated, HDL low. Cath ___ showed 80% LAD lesion, normal 
+coronaries otherwise, 1 DES placed, loaded with Plavix and 
+started on 75mg daily. Patient remained chest pain free 
+throughout his admission. Patient counseled on smoking cessation 
+and diet, nutrition was consulted and provided educational 
+information. ___ consulted and evaluated patient prior to 
+discharge and recommended outpatient cardiac rehab.
+
+Transitional Issues
+===================
+[]ASA for life, Plavix for at least one year.
+[]Needs OP sleep study, concern for OSA given S1Q3T3 on EKG and 
+morbid obesity. 
+[]Consider starting ACEi in OP setting
+[]Has a reported history of active TB treated in ___, would try 
+to obtain records for treatment.
+[]Patient will need diet and lifestyle modification counseling, 
+and may benefit from outpatient follow up with a nutritionist.
+[]Please continue to counsel on smoking cessation, patient 
+seemed very motivate to quit at time of discharge
+[]Consider referral for outpatient cardiac rehab 
+#New: Atorvastatin 80 mg daily, metoprolol succinate 100 mg 
+daily, ASA 81 mg daily, Plavix 75 mg daily
+#CODE: Full 
+#CONTACT: ___ 
+ Relationship: SISTER 
+ Phone: ___ 
+ 
+___ on Admission:
+NONE
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*2 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*2 
+3.  Clopidogrel 75 mg PO DAILY to prevent stent thrombosis 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*2 
+4.  Metoprolol Succinate XL 100 mg PO DAILY 
+RX *metoprolol succinate 100 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*2 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+=======
+NSTEMI
+
+Secondary
+=========
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+Why was I admitted to the hospital?  
+-You were admitted because you had a mild heart attack
+
+What happened while I was in the hospital?  
+-  You were started on medications to help prevent damage to 
+your heart
+-You had a cardiac catheterization which showed a blockage of 
+one of the arteries, so a stent was placed to keep the artery 
+open.
+
+What should I do after leaving the hospital?  
+-  Please take your medications as listed in discharge summary 
+and follow up at the listed appointments. 
+- It is very important to take your aspirin and clopidogrel 
+(also known as Plavix) every day.  
+- These two medications keep the stents in the vessels of the 
+heart open and help reduce your risk of having a future heart 
+attack.  
+- If you stop these medications or miss ___ dose, you risk causing 
+a blood clot forming in your heart stents, and you may die from 
+a massive heart attack.  
+-Please do not stop taking either medication without taking to 
+your heart doctor.  
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+ Your ___ Healthcare Team  
+ 
+Followup Instructions:
+___

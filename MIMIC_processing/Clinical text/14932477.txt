@@ -1,0 +1,359 @@
+Name:  ___                         Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+L sided weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ R handed man primarily ___ 
+speaking (moved to US ___ years ago with wife) who presents with 
+5 days of lethargy, gait instability and mild L sided weakness. 
+
+His daughter was at bedside and provided ___ interpretation 
+for the encounter. 
+
+Briefly, the patient states that he was feeling well last 
+weekend and ___ morning. He drives ___ as a living. He left 
+the house in the morning and did a few rides. In the afternoon, 
+he got out of the car to go into the grocery store when he noted 
+that he was feeling off balance and was leaning to the L , and 
+having difficulty walking, particularly feeling slightly weak in 
+his L leg. He was unsure what was occurring as it was quite 
+subtle. The patient proceeded to grocery shop and go home. 
+
+Throughout the rest of the week, the patient continued to feel 
+tired, and "dizzy" which on further clarification means just off 
+balance due to L sided weakness. On ___, his wife noted 
+that he was having difficulty drinking from a glass using his 
+left hand. While eating, he was dropping things from his spoon 
+and needed his R hand to support the left. Of note, the patient 
+just started taking aspirin on ___ when he was not feeling 
+well, but prior to this was not taking it regularly. 
+ 
+On neuro ROS, the pt denies headache, loss of vision, blurred 
+vision, diplopia, dysarthria, dysphagia, lightheadedness, 
+vertigo, tinnitus or hearing difficulty. Denies difficulties 
+producing or comprehending speech.  Denies focal numbness, 
+parasthesiae. No bowel or bladder incontinence or retention. 
+ 
+On general review of systems, the pt denies recent fever or 
+chills.  No night sweats or recent weight loss or gain. Denies 
+cough, shortness of breath.  Denies chest pain or tightness, 
+palpitations.  Denies nausea, vomiting, diarrhea, constipation 
+or abdominal pain.  No recent change in bowel or bladder habits. 
+ No dysuria.  Denies arthralgias or myalgias. Denies rash.
+ 
+
+ 
+Past Medical History:
+Hypertension
+Hyperlipidemia
+ 
+Social History:
+Lives with his wife in ___. Has a daughter who was 
+interpreting at bedside. Patient smokes ___ cigarettes per day. 
+No ETOH use. 
+ 
+- Modified Rankin Scale:
+[X] 0: No symptoms
+[] 1: No significant disability - able to carry out all usual 
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without 
+assistance but unable to carry out all previous activities
+[] 3: Moderate disability: requires some help but able to walk 
+unassisted
+[] 4: Moderately severe disability: unable to attend to own 
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and 
+attention, bedridden, incontinent
+[] 6: Dead
+
+ 
+Family History:
+Father with stroke at age ___, died from this. Mother still 
+alive. Siblings healthy. 
+ 
+Physical Exam:
+========================
+ADMISSION PHYSICAL EXAM:
+========================
+Vitals: T: 97.5, HR 70, BP 144/93, RR 14, 98% on RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Normal work of breathing
+Cardiac: RRR, warm, well-perfused
+Abdomen: soft, non-distended
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x place, date, location. Able to 
+relate history without difficulty. Attentive, able to name ___ 
+backward without difficulty. Language is fluent with intact 
+repetition and comprehension. Normal prosody. There were no 
+paraphasic errors. Pt was able to name both high and low 
+frequency objects.  Able to read without difficulty. Able to 
+follow both midline and appendicular commands. There was no 
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without 
+nystagmus. Normal saccades. VFF to confrontation. Visual acuity 
+___ bilaterally. 
+V: Facial sensation intact to light touch.
+VII: Mild L NLFF and slower to activate on L 
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength 
+full with tongue-in-cheek testing. *mild dysarthria 
+
+-Motor: Normal bulk, tone throughout. No pronator drift 
+bilaterally. Mild tremor in LUE. 
+  Delt Bic Tri WrE  FE  IP Quad Ham  TA ___  ___ 
+L  4+   ___   ___   5   5    5       5   
+R  5    ___   5    ___   5    5       5   
+
+-Sensory: No deficits to light touch, pinprick, cold sensation, 
+vibratory sense, proprioception throughout. No extinction to 
+DSS. Romberg absent. 
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  3  3    3    3   1
+R  2  2    2    2   1
+Plantar response was flexor on R, equivocal on L 
+
+-Coordination: Mild intention tremor. Normal finger-tap 
+bilaterally. No dysmetria on FNF or HKS bilaterally.
+
+-Gait: deferred 
+
+========================
+DISCHARGE PHYSICAL EXAM:
+========================
+General: Awake, cooperative, NAD
+HEENT: No scleral icterus, MMM
+CV: Warm and well-perfused
+Pulmonary: Breathing comfortably in room air
+
+Neurologic: 
+-Mental Status: Alert, speaking in ___ with Dr. ___.
+
+-Cranial Nerves: Mild left NLFF. Mild dysarthria.
+
+-Motor: Normal bulk throughout. Cupping and drift on the left. 
+   Delt Bic Tri FE IP Quad Ham TA
+ L  5    ___   5 
+ R  5    ___  ___   5
+ 
+Pertinent Results:
+___ 11:47PM BLOOD %HbA1c-5.5 eAG-111
+___ 09:47PM BLOOD LDLmeas-152*
+___ 09:47PM BLOOD TSH-4.1
+
+========================
+CTA head and neck, ___:
+========================
+1. Known probable late acute versus early subacute infarct 
+within the right corona radiata, better characterized on 
+subsequent MRI examination. 
+2. No evidence for acute intracranial hemorrhage. 
+3. Abrupt cutoff of the proximal right M1 segment with 
+subsequent 
+recanalization in the distal right M1 segment. 
+4. Extensive bilateral maxillary sinus disease and numerous 
+periapical 
+lucencies involving the maxillary and mandibular teeth. 
+5. Additional findings as above. 
+
+================
+MRI brain, ___:
+================
+1. Moderate size region of acute infarction predominantly within 
+the right 
+frontal radiata in lenticulostriate territory. 
+2. Few additional punctate foci of acute infarct involve the 
+white matter of the right parietal lobe, medial and posterior 
+right temporal lobe. 
+3. Mild white matter small vessel disease. 
+
+===================
+TTE, ___ and ___:
+===================
+Adequate image quality. No structural cardiac source of embolism 
+(e.g. atrial septal defect, intracardiac thrombus, or 
+vegetation) seen. Mild symmetric left ventricular hypertrophy 
+with normal cavity size, and regional/global systolic function. 
+Mild aortic regurgitation.
+
+Negative bubble study
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ primarily ___ man 
+with history of smoking, HTN, and HLD who presented with 5 days 
+of left sided weakness and gait instability on ___,  with 
+imaging consistent with a right corona radiata stroke. 
+
+#Ischemic stroke:
+CTA head and neck showed absence of flow in the proximal right 
+M1 segment of the MCA with subsequent recanalization. MRI 
+demonstrated a right corona radiata infarct. His neurologic exam 
+was notable for mild left extremity weakness and left lower 
+facial weakness in an upper motor neuron pattern. 
+
+Stroke work-up included echocardiogram (without bubble study) 
+which showed was normal without evidence of a PFO, lipid panel 
+(LDL 152), and HgbA1c (5.2%). 
+
+For treatment, he was started on dual anti-platelet therapy with 
+aspirin 81 mg and Plavix 75 mg for a planned 3-month duration. 
+His statin therapy was intensified to atorvastatin 80 mg. The 
+goals of Mr. ___ treatment also includes intensive control of 
+his vascular risk factors through lifestyle counseling (quit 
+smoking, healthy diet, regular exercise). We recommend that he 
+continue to work on lifestyle changes after discharge. 
+
+He was evaluated by the physical therapy and occupational 
+therapy, who recommended acute rehab.
+
+#HTN: We initially held Mr. ___ home Amlodipine to allow for 
+blood pressure auto-regulation. Given the narrowing of the MCA, 
+goal SBP was 110-140. He was started on half of his home 
+amlodipine dose (5 mg daily).
+
+TRANSITIONAL ISSUES:
+[]Continue to monitor BP. Goal SBP 110-140.
+
+========================================================
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+========================================================
+1. Dysphagia screening before any PO intake? (X) Yes, confirmed 
+done 
+2. DVT Prophylaxis administered? (X) Yes - boots, SC heparin
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(X) Yes - aspirin
+4. LDL documented? (X) Yes (LDL = 152) 
+5. Intensive statin therapy administered? (X) Yes - atorvastatin 
+80 
+6. Smoking cessation counseling given?(X) Yes 
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for follow up) given (verbally or 
+written)? (X) Yes 
+8. Assessment for rehabilitation or rehab services considered? 
+(X) Yes 
+9. Discharged on statin therapy? (X) Yes 
+10. Discharged on antithrombotic therapy? (X) Yes [Type: (X) 
+Antiplatelet]
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter?(X) N/A  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 40 mg PO DAILY 
+2. amLODIPine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*5 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*5 
+3.  Clopidogrel 75 mg PO DAILY 
+Take for 3 months in addition to aspirin, then stop and take 
+only aspirin. 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*2 
+4.  amLODIPine 5 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+acute ischemic stroke
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+  
+You were hospitalized due to symptoms of left-sided weakness 
+resulting from an ACUTE ISCHEMIC STROKE, a condition where a 
+blood vessel providing oxygen and nutrients to the brain is 
+blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms.  
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are: hypertension, hyperlipidemia, 
+and smoking. 
+
+In order to reduce your risk of future stroke, you should make 
+important changes to your lifestyle. This includes stopping 
+smoking, eating a healthy diet, and exercising on a daily basis. 
+
+
+We are changing your medications as follows:  
+- Increasing atorvastatin (medication for high cholesterol) to 
+80 mg daily
+- Started on two blood thinner medications: Plavix 75 mg daily 
+and aspirin 81 mg daily
+- Decreased amlodipine to 5 mg daily. You should continue to 
+follow up with primary care doctor for management of your high 
+blood pressure. 
+
+Please take your other medications as prescribed.  
+
+Please follow up with Neurology and your primary care physician 
+as listed below.  
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+Sincerely,  
+Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

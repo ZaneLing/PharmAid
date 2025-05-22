@@ -1,0 +1,293 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+weakness
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+ 
+History of Present Illness:
+Mr. ___ is a ___ YO gentleman with PMH HIV (last CD4 unk, off 
+all ART ___ years), who presents with overall constitutional 
+symptoms x ___ months. 
+
+He was previously followed at ___ but was lost 
+to follow up for the past ___ years as he was unable to attend his 
+doctors ___ to distance and losing his driver's 
+license. He states he has been off all medications for the past 
+___ years, including his anti-retrovirals. He called trying to 
+make a new appointment but was unable to do so and after a year 
+of trying he gave up. 
+
+For the past ___ months he has felt that his body is "shutting 
+down". His stools are "tar-like" and constipated. He denies any 
+diarrhea. He has had white sputum production and a recent sore 
+throat. He endorses full body aches, fevers/chills at home, 
+unintentional weight loss of 50 lbs. His biggest complaint is 
+fatigue. He is taking naps during the day.  He went to bed at 
+2pm
+and slept until the next day. No fevers. He has persistent night 
+sweats. He has not had sob or chest pain. He is not coughing. He 
+is not having nausea or vomiting. His appetite is very poor. It 
+hurts to swallow and it feels like the food is coming through 
+his chest. The pain is so severe it prevents him from eating. He 
+usually has diffuse myalgias but none now. No sick contacts or
+foreign travel. 
+
+Records from ___ are notable for:
+Hep B immunization from ___
+Hep A immunization ___
+Pneumococcal conjugate vaccine ___, pneumococcal polysaccharide
+vaccine ___
+Tdap ___
+
+He was admitted to the medical service for further management of 
+HIV/AIDS. 
+ 
+Past Medical History:
+HIV diagnosed in ___. He has been off ARV for ___ years and was 
+on
+it for ___ years before that. It was transmitted in heterosexual
+relationship. He has never been hospitalized. 
+ 
+Social History:
+___
+Family History:
+Notable for colon cancer in father at age ___
+___ in mother
+ 
+Physical ___:
+ADMISSION EXAM:
+Vitals: 98.3 PO 125 / 78 55 18 99 Ra 
+CONS: NAD, comfortable appearing  
+HEENT: ncat anicteric MMM    
++ thrush under the tongue
+CV: s1s2 rr no m/r/g  
+RESP: b/l ae no w/c/r  
+GI: +bs, soft, NT, ND, no guarding or rebound  
+back:  
+GU: No foley 
+MSK:no c/c/e 2+pulses  
+SKIN: no rash  
+NEURO: face symmetric speech fluent  
+PSYCH: calm, cooperative  
+LAD: No cervical LAD
+Psychiatric [] WNL
+[X] Appropriate [] Flat affect [] Anxious [] Manic [] 
+Intoxicated
+[X] Pleasant [] Depressed [] Agitated [] Psychotic 
+
+Discharge exam:
+97.4 PO 110 / 60 R Lying 60 18 96 Ra 
+Gen - no distress, sitting up in bed, well appearing 
+HEENT - nc/at, moist oral mucosa, no visible oropharyngeal 
+exudate or thrush
+Eyes - anicteric, perrl
+Neck - supple, no LAD, no JVD
+___ - RRR, s1/2, no m/r/g
+Pulm - CTA b/l, no w/r/r
+GI - soft, NT, ND, +BS 
+Ext - no cyanosis/edema 
+Skin - warm and dry
+Psych - calm, cooperative 
+Neuro - moving all extremities, non focal, aaox3, speech clear 
+and coherent 
+ 
+Pertinent Results:
+WBC 5.6, Hg 11.8, Hct 35.3, Plt 97
+Eos 12.8%, abs eo 710 
+Na 140, K 4.0, Cl 103, Co2 24, Bun 14, Cr 0.7, Glu 95
+
+CD4 3
+CD4% 1% 
+HIV VL 5.1 
+
+-___ Quant Gold: Indeterminate 
+-___ Hep A/B/C serologies: HAV Ab+, hepB negative (non immune) 
+,
+Hep C neg
+-___ HSV IgG: HSV1 positive, HSV 2 negative 
+-___ VZV IgG: pending
+-___ Toxo IgM/IgG: pending
+-___ RPR w/ Prozone: negative 
+
+Micro:
+-___ Flu A&B PCR: negative
+-___ BCx: negative
+-___ Blood fungal/AFB Cx: NGTD
+-___ UCx: BETA STREPTOCOCCUS GROUP B. 10,000-100,000 CFU/mL.  
+-___ Crypto Ag: negative
+-___ Sputum immunocfluorescent test for PJP: negative
+-___ Stool Cx: neg/final 
+-___ Stool C. diff: NEGATIVE
+-___ AFB smear #1: none seen
+-___ AFB Cx: PND
+-___ AFB smear #2: none seen
+-___ AFB Cx: PND
+-___ AFB smear #3: none seen 
+-___ AFB Cx: PND
+-___ Varicella serology pending
+-___ Toxoplasma serology pending 
+-___ Stool O&P pending 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ y/o M w/ HIV diagnosed in ___ who has not 
+been on ART for past ___ years who presents with severe 
+intermittent dysphagia with reduced PO intake and corresponding 
+progressive unintentional weight loss and generalized weakness. 
+He was started on an empiric trial of fluconazole which worked 
+well for his dysphagia and was seen by infectious disease for 
+re-initiation of HAART therapy and prophylaxis. His workup 
+revealed a CD4 count of 3. He had an EGD that showed some 
+gastritis but no overt candidal esophagitis, but was continued 
+on a course of fluconazole given his improvement. 
+
+# Dysphagia/Odynophagia 
+Severe dysphagia leading to decreased PO intake and weight loss. 
+Thought to be from candidal esophagitis given his rapid 
+improvement with fluconazole. He received 1 week of therapy 
+before he had his EGD; EGD did not appear to be consistent with 
+candidal infection but biopsies were taken. A PPI was started 
+for a 6 week course for gastritis. EGD had findings that may 
+have represented eosinophilic esophagitis, the patient is noted 
+to have a peripheral eosinophilia, and will need his biopsies 
+followed and a CBC as outpatient. He was discharged with a 
+prescription to complete 1 additional week of fluconazole for 2 
+weeks total. 
+
+# Weight loss
+EGD did not show mass or tumor. He did not have imaging in the 
+hospital to further work up an etiology, and TSH was 4.4. He 
+will need a colonoscopy given his family history of colon cancer 
+as well as his slight anemia with microcytosis. Anemia could be 
+related to HIV/AIDS, but should pursue further weight loss 
+workup as outpatient. 
+
+# HIV / AIDS
+His Viral load is 5.1, CD4 count 3. Genotyping is pending. He 
+will need hepatitis B vaccination as an outpatient. He was 
+started on tivicay and descovy, with prophylactic azithromycin 
+weekly and Bactrim DS daily. He tolerated this regimen well. In 
+the hospital he had a quantiferon which was indeterminate, and 3 
+acid fast sputum tests which were negative. He was initially on 
+airborne precautions but these were discontinued when the ___ 
+AFB returned negative. Much of his testing including final AFB 
+cultures and HIV genotyping is pending at the time of discharge. 
+He is set up for follow up with the ID team in 2 weeks. 
+
+# Fatigue, aches
+# Severe Malnutrition 
+Attributed to AIDS with progressive malnutrition. He was seen by 
+nutrition who encouraged PO intake and helped with 
+recommendations for weight gaining supplements. 
+
+# Pancytopenia
+Likely related to his HIV/AIDS. Anemia as above, with iron 
+deficiency, he will need outpatient colonoscopy, he had one a 
+few years ago but not clear if microcytosis was present at that 
+time. Will need a CBC with differential within the next few 
+weeks to monitor his eosinophil count as well. 
+
+# Disposition
+Discharged home with HAART+prophylactic abx, fluconazole x 1 
+week and omeprazole x 6 weeks. Set up for ___ clinic. Will need 
+to establish care with a PCP. As he does not have one, a 
+notification upon discharge was not sent. 
+
+Time spent: 50 minutes 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Azithromycin 1200 mg PO 1X/WEEK (FR) 
+RX *azithromycin 600 mg 2 tablet(s) by mouth weekly Disp #*8 
+Tablet Refills:*0 
+2.  Dolutegravir 50 mg PO DAILY 
+RX *dolutegravir [Tivicay] 50 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+3.  Emtricitabine-Tenofovir alafen (200mg-25mg) *DESCOVY* 1 TAB 
+PO DAILY 
+RX *emtricitabine-tenofovir alafen [Descovy] 200 mg-25 mg 1 
+tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 
+4.  Fluconazole 200 mg PO Q24H Duration: 7 Days 
+RX *fluconazole 200 mg 1 tablet(s) by mouth daily Disp #*7 
+Tablet Refills:*0 
+5.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth daily Disp #*42 
+Capsule Refills:*0 
+6.  Sulfameth/Trimethoprim DS 1 TAB PO DAILY 
+RX *sulfamethoxazole-trimethoprim [Bactrim DS] 800 mg-160 mg 1 
+tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Esophagitis
+Gastritis  
+HIV
+Eosinophilia 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to the hospital with difficulty swallowing and 
+this is attributed to a fungal infection in your esophagus 
+causing trouble swallowing. You improved with a medication 
+called Fluconazole. You had an upper endoscopy that showed some 
+inflammation and gastritis, but did not clearly show fungal 
+infection. It is possible that you did have an infection that 
+cleared up, or that you have something else, so biopsies were 
+taken of your esophagus and the gastroenterology team will call 
+you with results. In the meantime you will be started on a 
+medication to suppress acid for a few weeks. 
+
+You will be started on 2 new drugs for HIV and 2 prophylactic 
+antibiotics to protect you from infections that can occur with 
+HIV. 
+
+Your preliminary testing for TB is negative but your final 
+testing will be pending for several weeks. Please discuss your 
+test results when you follow up with the Infectious Disease 
+clinic. 
+
+You will need a colonoscopy and further weight loss workup as an 
+outpatient. Once you establish care with a PCP you may ask if 
+you require any imaging (such as a CT scan) to look for other 
+causes of weight loss. Please make sure to have a set of labwork 
+including a CBC with differential to evaluate your blood counts, 
+one of which was slightly abnormal while you were in the 
+hospital. 
+
+We wish you the best going forward. 
+
+Sincerely, 
+Your care team at ___
+ 
+Followup Instructions:
+___

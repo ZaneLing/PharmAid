@@ -1,0 +1,242 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left- sided abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o gentleman with no significant PMH 
+presenting with 2 hours of acute onset left-sided chest, 
+abdominal, and back pain.  
+
+Per patient, he was in his normal state of health until about 8 
+pm on the night of presentation to the ED. While moving very 
+light benches around the barbershop, where he works, sat down 
+and then suddenly noticed sharp left-sided pain in his chest, 
+abdomen, and back pain. He is not sure if he felt anything 
+similar to that, but was concerned enough to present to the ED. 
+He denies any associated fevers, chills, SOB, N/V, diarrhea. ROS 
+also negative for associated dysuria or increased ___ swelling.  
+
+In the ED, initial vitals: 98.8, 68, 182/101, 20, 100% RA  
+ 
+ - Exam notable for: soft with TTP along the left hemiabdomen 
+worse in the LLQ, 1+ left radial pulse compared with right  
+ - Labs notable for: CBC 9.7/12.8/38.6/233, Cr 0.8, Trp <0.01, 
+lacate 1.3  
+ - Imaging: CTA C/A/P: Uncomplicated diverticulitis. No PE. No 
+acute aortic abnormality  
+ - Patient was given: Oxycodone, Flagyl, Morphine  
+ 
+ - Vitals on transfer: 99.1, 65, 154/92, 20, 100% RA  
+
+On the floor, the patient feels much more comfortable. He denies 
+any ongoing pain. He endorses the above history and has no more 
+complaints.  
+
+Review of systems: As per HPI  
+
+ 
+Past Medical History:
+1. Probable HTN  
+2. Admitted for some sort of illness in his lungs (he cannot 
+remember) years ago  
+3. Tobacco abuse  
+
+ 
+Social History:
+___
+Family History:
+Mother- ___ cancer (dx and d. ___)
+Father- unknown 
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM
+=======================VS: 99.0 127/76 80 18 98 Ra  
+Gen: Lying in bed, in NAD  
+HEENT: NC/AT, EOMI, PERRL, MMM, tongue midline on protrusion, 
+symmetric palatal elevation; symmetric smile and eyebrow raise  
+NECK: supple, symmetric  
+CV: RRR, S1, S2, +S4; no m/r; no reproducible chest pain on 
+palpation of anterior chest  
+Pulm: CTAB no c/r/w  
+Abd: Soft, ND, minimal TTP in LLQ, no r/g, BS+  
+GU: no foley  
+Ext: WWP, no pitting edema in b/l ___  
+Skin: intact, moist  
+Neuro: alert and interactive appropriately; strength ___ in b/l 
+UE and able to lift both legs up against gravity in bed; 
+sensation to light touch intact and symmetric along all 
+divisions of CN5, UE, torso, and ___ bilaterally 
+
+DISCHARGE PHYSICAL EXAM
+======================= 
+VS: 99.3 PO 130 / 79 77 18 95 RA 
+Gen: Lying in bed, in NAD  
+HEENT: NC/AT, PERRL, EOMI, MMM 
+NECK: supple, no JVD 
+CV: RRR, S1 + S2 present, no mrg 
+RESP: CTAB, no wheezes/crackles
+Abd: Soft, non-distended, mildly TTP LLQ, no rebound/guarding, 
++BS
+GU: no foley   
+Ext: WWP, PPP, no ___ edema
+Skin: intact, moist  
+Neuro: CNII-XII intact, ___ strength in UE and ___, AOx3  
+ 
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 10:05PM BLOOD WBC-9.7 RBC-4.31* Hgb-12.8* Hct-38.6* 
+MCV-90 MCH-29.7 MCHC-33.2 RDW-13.1 RDWSD-43.4 Plt ___
+___ 10:05PM BLOOD Neuts-71.1* Lymphs-16.6* Monos-8.1 
+Eos-3.6 Baso-0.2 Im ___ AbsNeut-6.92* AbsLymp-1.62 
+AbsMono-0.79 AbsEos-0.35 AbsBaso-0.02
+___ 10:05PM BLOOD Plt ___
+___ 10:35PM BLOOD ___ PTT-28.7 ___
+___ 10:05PM BLOOD Glucose-111* UreaN-15 Creat-0.8 Na-139 
+K-3.7 Cl-102 HCO3-23 AnGap-18
+___ 10:05PM BLOOD ALT-11 AST-16 AlkPhos-74 TotBili-0.2
+___ 10:05PM BLOOD Lipase-24
+___ 10:05PM BLOOD cTropnT-<0.01
+___ 10:05PM BLOOD Albumin-4.1
+
+DISCHARGE LABS
+==============
+___ 02:07AM BLOOD Lactate-1.3
+___ 06:25AM BLOOD WBC-10.5* RBC-4.35* Hgb-12.8* Hct-39.4* 
+MCV-91 MCH-29.4 MCHC-32.5 RDW-13.3 RDWSD-43.9 Plt ___
+___ 06:25AM BLOOD Neuts-76.8* Lymphs-14.3* Monos-6.9 
+Eos-1.3 Baso-0.3 Im ___ AbsNeut-8.09* AbsLymp-1.51 
+AbsMono-0.73 AbsEos-0.14 AbsBaso-0.03
+___ 06:25AM BLOOD Plt ___
+___ 06:25AM BLOOD Glucose-97 UreaN-11 Creat-0.8 Na-138 
+K-4.0 Cl-104 HCO3-20* AnGap-18
+___ 06:25AM BLOOD ALT-10 AST-14 LD(LDH)-156 AlkPhos-71 
+TotBili-0.3
+___ 06:25AM BLOOD cTropnT-<0.01
+___ 06:25AM BLOOD Albumin-3.9 Calcium-8.8 Phos-3.7 Mg-2.3
+
+IMAGES
+======
+EKG (___): Sinus, rate 63, normal axis; LVH criteria; probable 
+left atrial abnormality; J point elevation with asymmetrically 
+tall T-waves c/w repol abnl; overall consistent with prior on 
+___  
+
+CTA C/A/P (___):  
+1. Uncomplicated diverticulitis involving the descending and 
+sigmoid colons.  
+2. No pulmonary embolus or acute aortic abnormality.  
+
+MICRO
+=====
+
+Blood culture (___): pending
+Urine culture (___): pending  
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ without known ___ p/w sudden onset 
+left abdomen/flank pain found to have uncomplicated 
+diverticulitis on CT A/P.
+
+# Diverticulitis, uncomplicated. Pt p/w left abdominal pain, 
+found to have diverticulitis on CT A/P in the ED. AF, no 
+leukocytosis and abdominal exam benign, pain now resolved. Pt 
+was started on IV cipro/flagyl and transitioned to augmentin for 
+10D course. Pt was tolerating full diet prior to discharge. 
+
+# HTN. Initially hypertensive to 182/101 on admission to the ED, 
+possibly ___ pain. BP since 120s-130s, however EKG with signs of 
+LVH and h/o ETOH use is c/f undiagnosed hypertension. 
+
+# Anemia, normocytic: Hgb 12.8 on admission, unclear baseline 
+though stable from ___ ED admission. Of note, presented to ED 
+___ with a CC of BRBPR. Denies any blood in stool currently. 
+Given pt's age, family history of ___ cancer, and personal h/o 
+GIB pt requires outpatient colonoscopy. 
+
+TRANSITIONAL ISSUES:
+====================
+[ ] Pt requires outpatient blood pressure monitoring. Given LVH 
+on EKG and h/o ETOH usage there is concern that pt has 
+undiagnosed hypertension, though SBPs were 120-130s at time of 
+discharge
+[ ] Requires outpatient colonoscopy 
+[ ] Outpatient smoking/etoh cessation counseling
+
+#CODE: Full
+#Contact: ___ (___) 
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 9 Days 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 TAB by mouth 
+twice a day Disp #*18 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS 
+=================
+Diverticulitis
+
+SECONDARY DIAGNOSIS
+===================
+Hypertensive Urgency
+Smoking 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Señor ___,
+
+Fue un placer ser ___.
+
+Fue ___ hospital porque tenía dolor ___ estómago. 
+Recibió un TAC para ___ dolor y discubrimos ___ tiene una 
+___ colón ___ se llama diverticulitis. Este occure 
+porque ___ colón son débiles ___ 
+___ condición ___ es muy común ___ se llama 
+diverticulosis) y este diverticulosis ___ mas fácil obtener 
+infecciones, ___ diverticulitis. 
+
+Recibió ___ antibióticos ___ hospital y debe continuar 
+tomando antibióticos por nueve días más, dos ___ dia. 
+
+También es importante ___ reciba una colonoscopia cuando ___ 
+hospital.
+
+Si tenga mas dolor ___ estómago o ___ debe 
+___ hospital para evaluación. 
+
+Ojalá ___ se sienta mejor
+- ___ medico de ___ 
+ 
+Followup Instructions:
+___

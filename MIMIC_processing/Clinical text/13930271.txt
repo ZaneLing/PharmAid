@@ -1,0 +1,278 @@
+Name:  ___.              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+iodine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Right-sided weakness, slurred speech
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with unknown PMH who
+presents with acute onset slurred speech, R sided weakness, and 
+R
+sided numbness. He is visiting from ___ for a ___ game and had
+imbibed 10 beers and 2 shots. His friend went to get something 
+to
+eat, and when he got back at 4pm, he found Mr ___ slumped on
+the R side leaning against a column with slurred speech saying
+that he cannot feel his right side. He was brought to ___ 
+where
+a code stroke was called. EtOH level was 320.
+
+Pt was unable to give a coherent history but did mention that he
+had a TIA ___ years ago with similar symptoms. He was supposed to
+be on ASA 81mg daily, but he does not take this. He has not seen
+a doctor in at least ___ years, and his friend did not know him
+well enough to tell the team his medical history. Apparently has
+an allergy to contrast dye. 
+
+NIHSS initially 5 for ED but on re-examination was 3 for
+bilateral ataxia and R pronator drift 
+ 
+Past Medical History:
+- TIA ___ years ago with R sided weakness and numbness; also 
+transiently (<10 mins) 1.5 months ago while dancing. 
+- Cholecystectomy ___ years ago
+
+ 
+Social History:
+___
+Family History:
+Unknown
+ 
+Physical Exam:
+=== INITIAL EXAM ===
+- Mental status: Awake, alert, oriented to self, hospital, ___,
+and age. Unable to relate history well. Inattentive, tangential,
+making inappropriate comments. Speech is fluent with full
+sentences, intact repetition, and intact verbal comprehension.
+Naming intact. No paraphasias. No dysarthria. Normal prosody. No
+apraxia. No evidence of hemineglect. No left-right confusion.
+Able to follow both midline and appendicular commands.
+
+- Cranial Nerves: PERRL 3->2 brisk. VF full to number counting.
+EOMI, no nystagmus. V1-V3 without deficits to light touch
+bilaterally. No facial movement asymmetry. Hearing intact to
+finger rub bilaterally.  Palate elevation symmetric.
+SCM/Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor:  Normal bulk and tone. +R pronator drift. No tremor or
+asterixis. Difficult to do formal motor exam as pt was not
+following instructions well. ___ in bilateral deltoid, biceps,
+triceps, IP, and quad. L hamstring ___, R hamstring 4+/5,
+bilateral TA and gastroc ___. 
+
+- Reflexes: unable to obtain, pt refused
+
+- Sensory: No deficits to light touch or pinprick throughout. No
+exinction to DSS.
+
+- Coordination: bilateral dysmetria on FNF
+
+- Gait: unable to assess ___ pt cooperation, per nurse, he was
+lilting to the right when walking to the bathroom
+
+=== DISCHARGE EXAM === 
+Improved to baseline. Essentially normal. Fully alert and 
+oriented to personal history and medical details. Normal speech, 
+fluent, no dysarthria. No cranial nerve abnormalities. ___ 
+strength in all upper and lower limb muscle groups. No drift. 
+Normal tone.  Normal gait. No upper or lower limb ataxia. 
+ 
+Pertinent Results:
+=== LABS ===
+___ 10:34AM BLOOD WBC-6.6 RBC-4.57* Hgb-14.2 Hct-40.9 
+MCV-90 MCH-31.1 MCHC-34.7 RDW-13.2 RDWSD-43.6 Plt ___
+___ 10:34AM BLOOD Neuts-72.7* ___ Monos-5.3 
+Eos-0.8* Baso-0.5 Im ___ AbsNeut-4.79 AbsLymp-1.34 
+AbsMono-0.35 AbsEos-0.05 AbsBaso-0.03
+___ 01:27PM BLOOD ___ PTT-26.2 ___
+___ 10:34AM BLOOD Plt ___
+___ 01:27PM BLOOD ProtCFn-PND ProtSFn-PND
+___ 01:27PM BLOOD Lupus-PND
+___ 10:34AM BLOOD Glucose-73 UreaN-9 Creat-0.8 Na-141 K-4.0 
+Cl-106 HCO3-21* AnGap-18
+___ 05:30PM BLOOD Creat-1.3*
+___ 10:34AM BLOOD ALT-24 AST-28 LD(LDH)-191 AlkPhos-60 
+TotBili-0.6
+___ 10:34AM BLOOD Albumin-4.2 Calcium-8.7 Phos-2.3* Mg-2.0 
+Cholest-199
+___ 07:26PM BLOOD %HbA1c-5.0 eAG-97
+___ 10:34AM BLOOD Triglyc-94 HDL-57 CHOL/HD-3.5 LDLcalc-123
+___ 05:20PM BLOOD TSH-1.1
+___ 05:20PM BLOOD ASA-NEG ___ Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 05:30PM BLOOD Glucose-93 Na-139 K-3.6 Cl-103 calHCO3-22
+
+=== IMAGING === 
+- NCHCT: No acute intracranial abnormality
+
+- TTE ___
+The left atrial volume index is normal. No atrial septal defect 
+is seen on color flow Doppler, but there is early appearance of 
+agitated saline/microbubbles in the left atrium/ventricle at 
+rest most consistent with an atrial septal defect or stretched 
+patent foramen ovale (though a very proximal intrapulmonary 
+shunt cannot be fully excluded). The estimated right atrial 
+pressure is ___ mmHg. Mild symmetric left ventricular 
+hypertrophy with normal cavity size, and regional/global 
+systolic function (3D LVEF = 57 %). Right ventricular chamber 
+size and free wall motion are normal. The aortic root is mildly 
+dilated at the sinus level. The number of aortic valve leaflets 
+cannot be determined. There is no aortic valve stenosis. No 
+aortic regurgitation is seen. The mitral valve appears 
+structurally normal with trivial mitral regurgitation. There is 
+no mitral valve prolapse. There is mild pulmonary artery 
+systolic hypertension. There is no pericardial effusion. 
+ IMPRESSION: 
+ 1) ASD/stretched PFO present.
+ 2) Mild symmetric left ventricular hypertrophy with normal 
+biventricular regional/global systolic function and type I 
+diastolic dysfunction.  
+
+- MRI/MRA Brain and Neck WO Contrast ___. No acute intracranial abnormalities identified. 
+2. Unremarkable MRA of the brain and neck. 
+
+- Bilateral Lower Extremity Doppler ___
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+
+- MRV Pelvis ___
+Negative for thrombus
+
+ 
+Brief Hospital Course:
+Mr ___ is a ___ man with history of TIA ___ y.a.), poor 
+medical follow-up (none for ___ yrs.), who presented with acute 
+onset dysarthria, R sided weakness and numbness. He came in 
+acutely intoxicated (ethanol ___ from a Redsox game. Prior TIA 
+___ years ago also right-sided symptoms; also had similar 
+symptoms 1.5 months ago while dancing. CT negative for acute 
+stroke (CTA not done due to possible contrast allergy). Admitted 
+for workup of TIA. His symptoms improved rapidly and he was at 
+baseline by the morning following admission. MRI/MRA was 
+negative for any acute intracranial processes or vascular 
+abnormalities. TTE showed stretched ASD/PFO (only with 
+Valsalva). Lower extremity Dopplers were negative for DVT.  An 
+MRV of the pelvic veins was done, which found no thrombus. 
+
+He was discharged on aspirin 81mg (which he was supposed to be 
+taking since his prior TIA, but had stopped), lisinopril 10mg 
+DAILY (for SBPs 150s-170s), and simvastatin 40mg DAILY. He does 
+not have insurance so simvastatin was chosen in lieu of 
+atorvastatin, as it is on the low-cost medication formulary. 
+
+Follow-up is planned with his PCP back in his home state of 
+___. He is also to follow-up with Dr. ___ 
+neurology) here, once he obtains insurance. He has 
+hypercoagulability labs that were drawn in the hospital and are 
+pending. Cardiac monitoring with a 30-day event monitor will be 
+deferred for now until we have clearer picture and he has 
+established follow up. 
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack  
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed  () No  
+2. DVT Prophylaxis administered? (x) Yes - () No  
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No  
+4. LDL documented? (x) Yes (LDL = 122) - () No  
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 100) (x) Yes - () No [if 
+LDL >100, reason not given: ]  
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]  
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No  
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >100, 
+reason not given: ]  
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No  
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - (x) N/A  
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Lisinopril 10 mg PO DAILY  
+3.  Simvastatin 40 mg PO DAILY
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Transient Ischemic Attack
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+You were hospitalized due to symptoms of weakness and speech 
+difficulties resulting from an TRANSIENT ISCHEMIC ATTACK, a 
+condition where a blood vessel providing oxygen and nutrients to 
+the brain is blocked by a clot, but resolves before any 
+permanent damage is done. The brain is the part of your body 
+that controls and directs all the other parts of your body, so 
+damage to the brain from being deprived of its blood supply can 
+result in a variety of symptoms.  
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+- High Cholesterol
+- High Blood Pressure
+- Alcohol Use
+
+We are changing your medications as follows:  
+- START aspirin 81mg DAILY
+- START lisinopril 10mg DAILY  
+- START simvastatin 40mg DAILY
+
+Please take your other medications as prescribed.  
+Please followup with Neurology and your primary care physician 
+as listed below.  
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+- Sudden partial or complete loss of vision  
+- Sudden loss of the ability to speak words from your mouth  
+- Sudden loss of the ability to understand others speaking to 
+you  
+- Sudden weakness of one side of the body  
+- Sudden drooping of one side of the face  
+- Sudden loss of sensation of one side of the body  
+
+ 
+Followup Instructions:
+___

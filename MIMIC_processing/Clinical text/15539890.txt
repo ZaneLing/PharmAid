@@ -1,0 +1,366 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+HOSPITALIST INITIAL NOTE
+
+PCP:
+Name: ___. MD 
+Location: INTERNAL MEDICINE ASSOCIATES - ___ 
+Address: ___ FLOOR, ___ 
+Phone: ___ 
+Fax: ___ 
+
+HPI:
+Mr. ___ is a lovely ___ yo M with BPH who presents with 2 days of 
+high fever to 103 with chills and sweating.  Leading up to this 
+he was in his usual state of health.  His symptoms began rather 
+suddenly.  He reports mild sore throat but otherwise denies HA, 
+vision change, sinus congestion, cough, CP, SOB, n/v/d, pain or 
+burning with urination, leg pain/swelling, rash.  He has not had 
+recent procedures.  He states that a long time ago in ___ he 
+had a bacterial infection in the lung that was "Atypical" and 
+was told it came from the water.  At this time he denies any 
+pain.
+
+ED course reviewed.
+
+10 point review of systems reviewed otherwise negative except as 
+listed above
+ 
+Past Medical History:
+BPH
+Colonic polyps
+ 
+Social History:
+___
+Family History:
+Father and mother both died of cancer: colon (F), bladder (M)
+ 
+Physical Exam:
+ADMISSION EXAM:
+================
+VS: 97.9 PO 124 / 77 103   98 Ra 
+GEN: sitting in bed in NAD
+HEENT: NC/AT, MMM, OP clear, anicteric sclera
+NECK: supple no LAD full ROM
+CV: tachy no mrg
+PULM: CTAB no wheezes or crackles
+GI: soft NT/ND +BS no rebound or guarding
+GU: no CVA tenderness.  Prostate enlarged and firm not boggy, 
+and not tender to palpation
+EXT: warm well perfused no pitting edema
+SKIN: no rashes or bruising noted
+NEURO: no focal deficits. awake and alert with fluent speech
+PSYCH: pleasant with good eye contact
+.
+.
+DISCHARGE EXAM:
+================
+VS: 24 HR Data (last updated ___ @ 1532)
+Temp: 97.7 (Tm 98.0), BP: 128/86 (117-128/75-86), HR: 86 
+(86-98), RR: 18 (___), O2 sat: 96% (94-98), O2 delivery: RA  
+Gen: NAD, well-appearing
+HEENT: EOMI, anicteric, OP clear w/o erythema or tonsillar 
+exudates, nares patent, no drainage from ears or nose
+Neck: no LAD appreciated on palpation, no JVD or elevated JVP
+Cards: RR, no m/r/g, 2+ DP and radial pulses, good capillary 
+refill in b/l hands and feet, no peripheral edema
+Chest: CTAB, normal WOB, normal percussion
+Abd: S, ND, no tenderness to deep palpation of the epigastrium 
+today; no tenderness to palpation in any quadrant; BS+; no 
+rebound or guarding
+Ext: WWP, no cyanosis or clubbing, no stigmata of endocarditis 
+in b/l fingers/toes; no swelling or erythema or tenderness to 
+palpation of any joints of upper or lower extremities
+Neuro: AAOx4, clear speech, no facial droop, conversant, normal 
+attention, no resting tremor, normal coordination
+Psych: calm, cooperative
+ 
+Pertinent Results:
+ADMISSION LABS:
+=================
+___ 08:44PM BLOOD WBC-10.5* RBC-4.35* Hgb-14.1 Hct-40.2 
+MCV-92 MCH-32.4* MCHC-35.1 RDW-13.1 RDWSD-44.9 Plt ___
+___ 08:44PM BLOOD Neuts-94* Bands-1 Lymphs-3* Monos-1* 
+Eos-0 Baso-1 ___ Myelos-0 AbsNeut-9.98* 
+AbsLymp-0.32* AbsMono-0.11* AbsEos-0.00* AbsBaso-0.11*
+___ 08:44PM BLOOD Glucose-155* UreaN-22* Creat-1.0 Na-139 
+K-4.0 Cl-102 HCO3-20* AnGap-17
+___ 08:44PM BLOOD ALT-18 AST-21 AlkPhos-58 TotBili-0.8
+___ 08:44PM BLOOD Lipase-11
+___ 08:44PM BLOOD cTropnT-<0.01
+___ 08:44PM BLOOD Albumin-3.9
+___ 10:56PM BLOOD Lactate-1.4
+.
+.
+.
+.
+MICRO:
+======
+-___ BCx: Klebsiella pneumoniae (pan-sensitive)
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      KLEBSIELLA PNEUMONIAE.    FINAL SENSITIVITIES. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--     4 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+-___ UCx: mixed bacterial flora (final)
+-___ BCx: Klebsiella pneumoniae (pan-sensitive)
+-___ BCx: Klebsiella pneumoniae (pan-sensitive)
+-___ BCx: NGTD
+-___ BCx: NGTD
+-___ BCx: NGTD
+-___ BCx: NGTD
+.
+.
+.
+.
+IMAGING:
+==========
+
+___ CXR: 
+FINDINGS: The lungs are well inflated.  No focal consolidations. 
+ No pulmonary edema.  Normal cardiomediastinal silhouette.  No 
+pleural effusion.  No pneumothorax. 
+IMPRESSION:  No evidence of pneumonia. 
+
+___ CT abd/pelvis:
+FINDINGS:
+
+LOWER CHEST: There is evidence of mild interstitial pulmonary 
+edema in the 
+visualized lower lungs.  There is trace bilateral pleural 
+effusion and 
+subsegmental atelectasis. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: The liver demonstrates homogenous attenuation 
+throughout.  
+There is no evidence of focal lesions.  There is no evidence of 
+intrahepatic 
+or extrahepatic biliary dilatation.  The gallbladder is within 
+normal limits. 
+  
+PANCREAS: The pancreas is normal in morphology and attenuation.  
+There is no 
+focal pancreatic lesion or pancreatic duct dilatation.  Minimal 
+stranding is 
+noted adjacent to the head of the pancreas. 
+  
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without 
+evidence of focal lesions. 
+  
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.  
+There is an 11 mm cyst arising from the lateral interpolar left 
+kidney.  
+Additional subcentimeter cortical hypodensities bilaterally are 
+too small to 
+characterize.  There is no hydronephrosis.  There is no evidence 
+of a renal or 
+perirenal abscess.  There is no perinephric abnormality. 
+  
+GASTROINTESTINAL: The stomach is unremarkable.  There is mild 
+thickening and 
+adjacent stranding involving the first and second portion of the 
+duodenum.  
+There is no extraluminal air or fluid collection to suggest 
+perforation.  
+Remainder of the small bowel loops are normal in caliber, wall 
+thickness and 
+enhancement.  The colon and rectum are within normal limits.  
+The appendix is 
+normal. 
+  
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no 
+free fluid in the pelvis. 
+  
+REPRODUCTIVE ORGANS: The prostate is mildly enlarged.  There is 
+no evidence of 
+a prostate abscess. 
+  
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There 
+is no pelvic or inguinal lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease 
+is noted. 
+  
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture. 
+  
+SOFT TISSUES: Mild fat stranding is noted within the left 
+posterior gluteal 
+fold.  No fluid collection seen in this region. 
+
+IMPRESSION: 
+  1. Moderate inflammation of the proximal duodenum and adjacent 
+fat stranding may be secondary to duodenitis.  Less likely, 
+these changes can be seen with groove pancreatitis.  Correlation 
+with serum lipase is recommended. 
+  2. Fat stranding noted within the left posterior gluteal 
+cleft. Clinical correlation is recommended. 
+.
+.
+.
+.
+DISCHARGE LABS
+===============
+___ 08:03AM BLOOD WBC-6.4 RBC-4.06* Hgb-13.1* Hct-36.8* 
+MCV-91 MCH-32.3* MCHC-35.6 RDW-13.4 RDWSD-44.2 Plt ___
+___ 08:03AM BLOOD Glucose-122* UreaN-11 Creat-0.6 Na-138 
+K-3.4 Cl-101 HCO3-24 AnGap-13
+___ 08:03AM BLOOD Albumin-3.0* Calcium-8.1* Phos-2.4* 
+Mg-2.1
+ 
+Brief Hospital Course:
+# Klebsiella bacteremia
+- presented w/ fevers, chills, and severe weakness/fatigue with 
+no localizing signs/symptoms
+- was started on empiric cefepime in ED when BCx turned positive
+- last fever was prior to arrival on the medical floor
+- CT abd/pelvis done to evaluate for occult source of infection 
+revealed only duodenitis as potential source of infection
+- last positive BCx was on ___
+- BCx grew pan-sensitive Klebsiella pneumoniae
+- transitioned to oral Ciprofloxacin 500 mg BID on ___
+- will need to complete 14 days of abx from first negative 
+culture day, so from ___ - ___
+- QTc checked prior to starting Cipro and was 427 msec
+.
+.
+# Duodenitis
+- most likely source of his bacteremia
+- though he initially denied any GI symptoms, he had vomiting 
+during attempt to consume PO contrast in preparation for CT 
+abd/pelvis, and after the CT scan he started to complain of some 
+mild epigastric & mid abdominal discomfort, anorexia, and 
+PO-induced nausea/vomiting
+- his symptoms gradually improved w/ conservative measures and 
+empiric abx for his bacteremia
+- on day of discharge, he was tolerating PO with only mild 
+nausea, no significant pain or vomiting, no abdominal tenderness 
+to palpation on exam, and reported feeling much better
+.
+.
+# ___: mild, now resolved.
+Cr 1 on admission, down to 0.6 w/ IVF resuscitation and empiric 
+abx, stable renal function labs after that.
+.
+.
+# BPH: 
+Continued home finasteride, resumed home doxazosin once patient 
+was clinically improved. Discharged on his usual home regimen.
+.
+.
+# Microscopic hematuria: 
+[] Please repeat UA as outpatient once patient's acute illness 
+has resolved ---> If persistent on repeat UA, will need 
+outpatient Urology f/u.
+.
+.
+.
+.
+Time in care: 
+[x] Greater than 30 minutes in discharge-related activities 
+today.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Doxazosin 1 mg PO HS 
+2. Finasteride 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+Last dose on ___. 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*25 Tablet Refills:*0 
+2.  Doxazosin 1 mg PO HS  
+3.  Finasteride 5 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Klebsiella bacteremia
+# Duodenitis
+# Microscopic hematuria
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to the hospital with fevers and chills and 
+were found to have bacteria growing in your blood. You were 
+started on antibiotics and underwent a CT scan of the abdomen 
+which revealed inflammation of the duodenum ("duodenitis") which 
+was thought to be the most likely source of your infection.  The 
+bacteria in your blood was identified as Klebsiella pneumonia.  
+Once you were feeling better, had been without fevers or chills 
+for more than 24 hours, and were able to eat and drink food 
+without vomiting, you were transitioned to an oral antibiotic 
+(Ciprofloxacin) that you will need to take until ___.
+
+Please seek immediate medical attention, preferably at the ___ 
+Emergency Department, if you develop recurrent fevers, shaking 
+chills or persistent vomiting in the next 3 weeks.
+
+It was a pleasure caring for you while you were hospitalized, 
+and we wish you a full and speedy recovery.
+
+Sincerely,
+The ___ Medicine Team
+ 
+Followup Instructions:
+___

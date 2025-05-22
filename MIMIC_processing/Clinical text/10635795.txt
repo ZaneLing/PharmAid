@@ -1,0 +1,261 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Leg pain, palpitations
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ female past medical history significant for LLE DVT 
+just diagnosed on ___ started on Lovenox (70mg BID) 
+presenting to the emergency department with worsening of her 
+left knee pain. She reports this pain had started 6 weeks ago 
+and initial ___ ultrasound did not show a thrombus. When the pain 
+continued, she had a repeat ultrasound on ___ at 
+___ which showed a DVT in the left popliteal and femoral 
+veins. She was started on therapeutic lovenox. She continued to 
+have LLE pain in her popliteal fossa which then extended to her 
+left thigh. She presented to the ED as recommended by her PCP. 
+
+Patient denies any chest pain or shortness of breath. Patient 
+denies any numbness, weakness, tingling. Patient denies any 
+hemoptysis or recent immobility. In the ED, initial vitals were: 
+T 99.3, HR 145, BP 164/89, RR 18,
+Sat 100% RA 
+- Labs unremarkable
+- Imaging was notable for: 
+CTA chest: Pulmonary arteries are well opacified to the 
+subsegmental level, with evidence of filling defect within the 
+main, right pulmonary artery lobar and subsegmental lobar, 
+segmental or subsegmental pulmonary arteries. The main and right 
+pulmonary arteries are normal in caliber, and there is no
+evidence of right heart strain.
+- EKG showed sinus tachycardia to the 130s without evidence of 
+strain. Normal axis. No ST segment changes.
+- Patient was given: 1L NS.
+
+Upon arrival to the floor, patient confirms the above history. 
+Continues to have tenderness in the left popliteal fossa which 
+extends to the left thigh. No numbness or tingling. Strength is 
+normal. Pain worse with walking. Denies SOB, cough, hemoptysis. 
+Denies personal history of clots. No history of malignancy or
+family history of malignancy. Has a maternal aunt who passed 
+away from "clots" in her ___ but unclear what the exact cause 
+was. Maternal great grandmother with breast cancer. She is up to 
+date with malignancy screening with her last pap smear last year 
+which she reports was normal. Takes OCPs but no history of 
+smoking 
+ 
+Past Medical History:
+IBS-Constipation
+Vitamin B12 Deficiency
+Dysmenorrhea 
+Ovarian cyst s/p rupture
+ 
+Social History:
+___
+Family History:
+Has a maternal aunt who passed away from "clots" in her ___ but 
+unclear what the exact cause was. Maternal great grandmother 
+with breast cancer.
+ 
+Physical Exam:
+ADMISSION:
+24 HR Data (last updated ___ @ 1608)
+    Temp: 98.0 (Tm 98.0), BP: 150/90, HR: 117, RR: 18, O2 sat:
+97%, O2 delivery: Ra  
+GENERAL:  Very pleasant ___ female resting in bed
+with NAD.
+HEENT:  NC/AT. no scleral icterus or conjunctival injection. 
+MMM.
+CARDIAC:  Tachycardic with regular rhythm. Normal S1, S2. No
+MRGs.
+LUNGS: No increased WOB. CTAB. No wheezes, rales, rhonchi  
+ABDOMEN:  Hyperactive BS. Soft, NT, ND. 
+EXTREMITIES:  Left lower extremity with TTP in the left calf,
+popliteal fossa and thigh. WWP. Pulses in ___ 2+. 
+NEUROLOGIC:  Alert and oriented. Moving all extremities with
+purpose. 
+SKIN:  No lesions identified.
+
+DISCHARGE:
+___ 0424 Temp: 98.2 PO BP: 112/75 HR: 70 RR: 18 O2
+sat: 98% O2 delivery: Ra 
+GENERAL: Alert and oriented, no acute distress
+ENT: NT/AC, PERRLA, EOMI
+CV: Tachycardic, regular rhythm, no murmurs, rubs, or gallops
+RESP: CTAB
+GI: NT/ND, BS+
+Extremities: Warm, distal pulses intact. RLE non-edematous, LLE
+with trace edema in the calf. Strength and sensation intact
+bilaterally.
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 09:57AM   ___ PTT-89.5* ___
+___ 09:57AM   PLT COUNT-200
+___ 09:57AM   NEUTS-61.7 ___ MONOS-4.8* EOS-1.8 
+BASOS-0.2 IM ___ AbsNeut-3.77 AbsLymp-1.89 AbsMono-0.29 
+AbsEos-0.11 AbsBaso-0.01
+___ 09:57AM   WBC-6.1 RBC-5.33* HGB-13.1 HCT-41.3 MCV-78* 
+MCH-24.6* MCHC-31.7* RDW-12.2 RDWSD-34.4*
+___ 09:57AM   HCG-<5
+___ 09:57AM   ALBUMIN-4.2
+___ 09:57AM   proBNP-52
+___ 09:57AM   cTropnT-<0.01
+___ 09:57AM   LIPASE-32
+___ 09:57AM   ALT(SGPT)-18 AST(SGOT)-22 ALK PHOS-91 TOT 
+BILI-0.3
+___ 09:57AM   estGFR-Using this
+___ 09:57AM   GLUCOSE-92 UREA N-9 CREAT-1.0 SODIUM-140 
+POTASSIUM-3.7 CHLORIDE-101 TOTAL CO2-21* ANION GAP-18
+
+DISCHARGE LABS:
+
+___ 06:02AM BLOOD WBC-3.2* RBC-4.52 Hgb-11.2 Hct-35.3 
+MCV-78* MCH-24.8* MCHC-31.7* RDW-12.4 RDWSD-35.1 Plt ___
+ 
+Brief Hospital Course:
+SUMMARY
+=======
+___ female past medical history significant for LLE DVT 
+just diagnosed on ___ started on Lovenox (70mg BID) who 
+presented with in ___ pain and bilateral pulmonary embolism while 
+on lovenox without evidence of right heart strain. She also was 
+tachycardic on admission, which resolved with IV fluid 
+administration and good PO intake.
+
+ACUTE ISSUES
+============
+#Bilateral Pulmonary Embolism
+#DVT
+#Sinus Tachycardia
+LLE femoral and popliteal DVT diagnosed on ___ and started on 
+therapeutic lovenox. Has had progression of her DVT and 
+diagnosed with PE in the main, right pulmonary artery lobar and 
+subsegmental lobar, segmental or subsegmental pulmonary 
+arteries. No evidence of right heart strain. VSS aside from 
+sinus tachycardia, which improved after fluids and 
+anticoagulation. Not entirely clear whether PE was asymptomatic 
+and preceded Lovenox or if it developed while on Lovenox. Pt has 
+one family member (aunt) who died from potential clotting 
+disorder. No other problems with clotting in the past. On OCP, 
+but does not smoke. She was initially placed on a heparin drip 
+and transitioned to Apixaban. Plan for outpatient follow-up with 
+hematology for hypercoagulability workup due to unprovoked DVT 
+and possible development of PE while on lovenox treatment.
+
+#Hgb Drop
+Likely dilutional in the setting of IVF administration, as plt 
+and WBC went down as well. No signs/symptoms of bleeding, and 
+Hgb normalized.
+
+CHRONIC/RESOVLED ISSUES
+=======================
+#IBS-C 
+Currently stable. Has used Linzess in the past to positive 
+effect, no longer on this med now. Occasionally uses mag citrate 
+when constipated for several days. No issues this admission
+
+#Vitamin B12 deficiency:
+- Continued home vitamin B12 100mcg daily
+
+TRANSITIONAL ISSUES
+===================
+[] Follow up with hematology on ___ for hypercoagulability 
+workup.
+[] Follow up with OB/GYN to change to a new contraceptive 
+regimen in light of recent unprovoked DVT/PE.
+[] WBC 3.5 on discharge. Likely dilutional in the setting of 
+recent IVF administration, although WBC didn't improve like Hgb 
+and Plt did after 24 hr without therapy. Repeat in 1 month to 
+ensure normalization.
+[] Continue to watch for signs/symptoms of bleeding with new 
+anticoagulation regimen.
+
+# CODE: Full (presumed) 
+# CONTACT: ___ (Mother): ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cyanocobalamin 100 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID Duration: 7 Days 
+RX *apixaban [Eliquis] 5 mg (74 tabs) asdir tablets(s) by mouth 
+asdir Disp #*1 Dose Pack Refills:*0 
+2.  Cyanocobalamin 100 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Pulmonary Embolism
+
+Secondary:
+-Deep Vein Thrombosis
+-Tachycardia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You had increased leg pain from your blood clot in your leg 
+and a high heart rate. You were found to have a pulmonary 
+embolism.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You were given IV fluids and we monitored your heart rate, 
+which came down to normal levels.
+
+- You were treated with IV medication to thin your blood and 
+then changed to an oral blood thinner called Apixaban (or 
+Eliquis), which you will continue to take for the next 6 months 
+or until directed to stop by hematology.
+
+- We stopped your oral contraceptive because they can increase 
+the risk of future blood clots.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL? 
+- You should follow up with hematology as below.
+
+- You should also follow up with your new PCP, ___, as 
+below.
+
+- You should follow up with your OB/GYN Dr. ___ to discuss 
+___ contraceptive options.
+
+- Continue to take all your medicines including your Apixaban as 
+directed.
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___

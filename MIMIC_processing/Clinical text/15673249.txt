@@ -1,0 +1,395 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodinated Contrast Media - IV Dye
+ 
+Attending: ___.
+ 
+Chief Complaint:
+headache, fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with no significant PMH presents with 10 days of HA and 
+fever. Patient awoke 10 days prior to admission with headache. 
+Bilateral, circumfrential HA, not a/w phtophobia, phonophobia, 
+nausea or vomiting. Headache did not resolve for days. She 
+called and was seen by urgent care and was told to take 
+ibuprophen and Benadryl to help with symptoms management, which 
+did not relieve her pain. She presented to her PCP 2 days PTA 
+and was administered a dose of toradol IM which helped relieve 
+the frontal portion of the headache but also caused her to have 
+abdominal discomfort and nausea. Of note, patient did not have a 
+fever at her PCP ___. Patient continued to have pain and 
+started to also experience dizziness, lightheadedness and 
+weakness, for which she presented to BID ED.  
+ Of note, patient denies any sick contacts. Denies spending a 
+lot of time outside or in wooded areas.  
+ 
+ In the ED, initial vitals were: 102.5 115 125/79 18 100% RA  
+ 
+ Exam notable for: Not recorded  
+ Labs notable for: Hyponatremia to 132, mildly elevated LFTS 
+with ALT at 105 and AST at 79, otherwise nml. No leukocytosis. 
+Bland UA  
+ Imaging notable for: CTH w/No acute intracranial process. 
+Please note that the sensitivity for detection of subarachnoid 
+hemorrhage decreases over time.  
+ Patient was given: 1L NS, vancomycin, CTX, metoclopramide, 1gm 
+Tylenol, 1mg lorazepam and Benadryl  
+ Vitals prior to transfer:  
+ 98.5 87 109/65 16 100% RA  
+ On the floor, patient reports that her HA has improved. Denies 
+neck stiffness or pain. No nausea or photophobia. 
+ 
+Past Medical History:
+Teratoma removed from right ovary as child  
+ 
+Social History:
+___
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+ADMISSION
+=========
+ Vital Signs: 98.7 PO 109/63 92 20 100 RA  
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation. No neck stiffness  
+
+DISCHARGE
+=========
+VS:  T 101.1 (97.7-101.1) | 115/70 | 89 | 18 | 100%RA  
+General: Well-appearing. Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Non-distended, bowel sounds present, soft, mild TTP in 
+RUQ with palpable liver edge, no rebound or guarding. Murphys 
+sign negative. No tenderness over McBurney's point.   
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+RUE: full range of motion. empty can test negative. Can reach 
+behind back without pain. 
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation. No neck stiffness  
+ 
+ 
+Pertinent Results:
+ON ADMISSION
+=============
+
+___ 08:12PM BLOOD WBC-7.0 RBC-4.86 Hgb-13.3 Hct-40.8 MCV-84 
+MCH-27.4 MCHC-32.6 RDW-13.1 RDWSD-39.3 Plt ___
+___ 08:12PM BLOOD Neuts-35 Bands-0 ___ Monos-9 Eos-2 
+Baso-0 Atyps-7* ___ Myelos-0 Plasma-2* Other-0 AbsNeut-2.45 
+AbsLymp-3.64 AbsMono-0.63 AbsEos-0.14 AbsBaso-0.00*
+___ 08:12PM BLOOD Hypochr-NORMAL Anisocy-NORMAL 
+Poiklo-NORMAL Macrocy-NORMAL Microcy-NORMAL Polychr-NORMAL
+___ 08:12PM BLOOD Glucose-89 UreaN-11 Creat-0.9 Na-132* 
+K-4.4 Cl-98 HCO3-22 AnGap-16
+___ 08:12PM BLOOD ALT-105* AST-79* AlkPhos-52 TotBili-0.4
+___ 08:12PM BLOOD Albumin-3.8 Calcium-8.7 Phos-2.7 Mg-1.7
+
+ON DISCHARGE
+============
+
+___ 10:20AM BLOOD WBC-5.6 RBC-4.40 Hgb-12.3 Hct-37.7 MCV-86 
+MCH-28.0 MCHC-32.6 RDW-13.3 RDWSD-41.5 Plt ___
+___ 10:20AM BLOOD Neuts-47 Bands-0 ___ Monos-8 Eos-0 
+Baso-0 Atyps-5* ___ Myelos-0 AbsNeut-2.63 AbsLymp-2.52 
+AbsMono-0.45 AbsEos-0.00* AbsBaso-0.00*
+___ 10:20AM BLOOD Glucose-96 UreaN-5* Creat-0.7 Na-137 
+K-4.1 Cl-101 HCO3-28 AnGap-12
+___ 06:00AM BLOOD ALT-238* AST-181* AlkPhos-61 TotBili-0.4
+___ 10:20AM BLOOD Albumin-3.3* Calcium-8.5 Phos-2.7 Mg-1.9
+
+ALT Trend
+=========
+
+ENZYMES & BILIRUBINALT
+___ 06:00  238*
+___ 10:20  170*
+___ 06:15  122*
+___ 06:20  107*
+___ 10:20  107*
+___ 20:12  105*
+
+AST TREND
+==========
+
+ENZYMES & BILIRUBINAST
+___ 06:00  181*
+___ 10:20  110*
+___ 06:15  83*
+___ 06:20  66*
+___ 10:20  78*
+___ 20:12  79*
+
+MICROBIOLOGY
+=============
+___ 6:15 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+Time Taken Not Noted     Log-In Date/Time: ___ 12:50 am
+      SEROLOGY/BLOOD      ADDED TO SPEC ___ ___. 
+
+                            **FINAL REPORT ___
+
+   MONOSPOT (Final ___: 
+      NEGATIVE by Latex Agglutination. 
+           (Reference Range-Negative). 
+__________________________________________________________
+___ 10:15 pm URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 9:20 pm Blood (EBV)
+
+                            **FINAL REPORT ___
+
+   ___ VIRUS VCA-IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+
+   ___ VIRUS EBNA IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+
+   ___ VIRUS VCA-IgM AB (Final ___: 
+      NEGATIVE <1:10 BY IFA. 
+      INTERPRETATION: RESULTS INDICATIVE OF PAST EBV INFECTION. 
+      In most populations, 90% of adults have been infected at 
+sometime
+      with EBV and will have measurable VCA IgG and EBNA 
+antibodies.
+      Antibodies to EBNA develop ___ weeks after primary 
+infection and
+      remain present for life. Presence of VCA IgM antibodies 
+indicates
+      recent primary infection. 
+__________________________________________________________
+___ 9:20 pm Blood (CMV AB)
+
+                            **FINAL REPORT ___
+
+   CMV IgG ANTIBODY (Final ___: 
+      POSITIVE FOR CMV IgG ANTIBODY BY EIA. 
+      155 AU/ML. 
+      Reference Range:  Negative < 4 AU/ml, Positive >= 6 AU/ml. 
+
+
+   CMV IgM ANTIBODY (Final ___: 
+      NEGATIVE FOR CMV IgM ANTIBODY BY EIA. 
+      INTERPRETATION:  INFECTION AT UNDETERMINED TIME. 
+      A positive IgG result generally indicates past exposure. 
+      Infection with CMV once contracted remains latent and may 
+reactivate
+      when immunity is compromised. 
+      Greatly elevated serum protein with IgG levels ___ mg/dl 
+may cause 
+      interference with CMV IgM results. 
+      If current infection is suspected, submit follow-up serum 
+in ___
+      weeks. 
+__________________________________________________________
+___ 9:20 pm BLOOD CULTURE      1 OF 2. 
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 10:30 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+__________________________________________________________
+___ 8:18 pm BLOOD CULTURE      X2. 
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 8:18 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+HBsAg: Negative 
+HBs-Ab: Negative 
+HBc-Ab: Negative 
+HAV-Ab: Positive 
+IgM-HAV: Negative 
+HCV-Ab: Negative
+
+IMAGING
+========
+___ HEAD W/O CONTRAST
+No acute intracranial process.  Please note that the sensitivity 
+for detection of subarachnoid hemorrhage decreases over time.
+
+___ OR GALLBLADDER US
+Normal right upper quadrant ultrasound.
+
+___ (PORTABLE AP)
+Mildly enlarged globular heart, distinctly abnormal for 
+___. 
+Recommend cardiac echo.
+
+___
+Very small anterior pericardial effusion with no 2D echo 
+evidence of tamponade. Normal biventricular systolic function. 
+
+ 
+Brief Hospital Course:
+___ with no significant PMH presented with 10d history of 
+persistent global headaches and malaise. On night of admission 
+she mounted a fever to 102.5F. There was initial concern for 
+meningitis in ED, LP was attempted multiple times without 
+success leading to admission to medicine. 
+
+#Mononucleosis-like illness: On admission Ms. ___ had 
+profound malaise, intermittent fevers up to 102.5F, atypical 
+lymphocytes on smear and transaminase elevations (ALT>AST). Her 
+initial infectious work-up including UA, Blood Cultures, CXR 
+were negative. Monospot negative, CMV IgM negative (IgG 
+positive), EBV VCA IgM (VCA/EBNA IgG positive) negative. Her 
+fevers improved in frequency and maximum temperature over her 
+admission. 
+
+#Acute hepatitis: On admission patient had transaminase 
+elevation with ALT predominance and no ALP or significant GGT 
+elevation, consistent with hepatocellular pattern. Had 
+mild-moderate RUQ pain and shoulder pain presumed to be 
+secondary to hepatic capsule distension. RUQ-US without acute 
+gallbladder pathology or liver abnormality. HAV IgM negative, 
+HBsAg/HBcAb negative, HCV Ab negative. CMV and EBV negative. RUQ 
+pain and right shoulder pain resolved on the day prior to 
+discharge. His ALT and AST even though in the 100-300 range 
+continued rising slowly but bilirubin and INR were normal and no 
+signs of encephalopathy so not meeting any criteria for liver 
+failure. 
+
+#Enlarged cardiac silhouette: Initial CXR reported as 
+"distinctly enlarged globular heart". Patient did not have 
+dyspnea, peripheral edema or elevated JVP. Transthoracic echo 
+reported as trivial pericardial effusion with no tamponade 
+physiology with normal biventricular function and size. 
+
+#Headache: 10 day history of headache prior to admission. First 
+documented fever on presentation to care, but she reports having 
+chills and sweats in the days prior. Given the timeframe, it is 
+unlikely for her to have bacterial meningitis, since she would 
+have deteriorated rapidly in a shorter time frame. Viral 
+meningitis is a possibility. No associated GI symptoms, but she 
+does mild hepatocellular pattern on LFTs. Concern for HSV 
+meningitis is present but very small given no encephalitic 
+symptoms. Does not have risk factors for tick borne illness. 
+Discussed with patient and mother that her risk of herpes 
+meningoencephalitis is small but present and that getting an LP 
+would be the only way to exclude the diagnosis, which carries 
+significant risks. We also discussed that typical viral 
+meningitides do not need any treatment beyond symptomatic 
+relief. Patient opted to hold off on lumbar puncture for now and 
+to re-address if needed in case of neurological deterioration. 
+During her course her headache improved, became intermittent and 
+fully responsive to ibuprofen 400mg prn. 
+
+TRANSITIONAL ISSUES:
+#Atypical lymphocytes: Repeat CBC with differential on ___ to 
+assess for resolution
+#Transaminasemia: Repeat full LFT/Bili/INR on ___ to assess 
+for trend. If persistence beyond 2 weeks would consider 
+hepatology consultation for further work-up. 
+#Verify if up to date with ___ age appropriate screening 
+including HIV
+#PPD placed at request of PCP ___ ___ in forearm, marked and 
+dated. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. norethindrone-e.estradiol-iron 1 mg-20 mcg (21)/75 mg (7) 
+oral DAILY 
+
+ 
+Discharge Medications:
+1. norethindrone-e.estradiol-iron 1 mg-20 mcg (21)/75 mg (7) 
+oral DAILY 
+2. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth every six (6) 
+hours Disp #*28 Tablet Refills:*0
+RX *acetaminophen 650 mg 1 tablet(s) by mouth every six (6) 
+hours Disp #*28 Tablet Refills:*0
+3. Ibuprofen 400 mg PO Q8H:PRN Headache 
+RX *ibuprofen 400 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*15 Tablet Refills:*0
+4. Cetirizine 10 mg PO DAILY 
+RX *cetirizine 10 mg 1 tablet(s) by mouth once a day Disp #*14 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Mononucleosis-like Syndrome
+Acute hepatitis
+
+SECONDARY DIAGNOSIS
+Trace pericardial effusion
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You came in with 10 days of headache and fatigue as well a new 
+fever. There was some suspicion for meningitis and the initial 
+attempts at obtaining a lumbar puncture to rule this out failed. 
+Taking into account your disease presentation we feel that a 
+meningitis is very unlikely but the only way to fully rule it 
+out is a lumbar puncture. We discussed the risks and benefits of 
+deferring the lumbar puncture and you decided to avoid it. Your 
+presentation and labs are more compatible with a 
+mononucleosis-like viral illness leading to some inflammation in 
+your liver. You may continue to have fevers and general malaise 
+for a few more days.  We recommend that you abstain from contact 
+sports for 3 months due to an increased risk of rupture of your 
+spleen. You should follow-up with Dr. ___ on ___. 
+
+It was a pleasure to take care of you.
+Your ___ Medicine team. 
+ 
+Followup Instructions:
+___

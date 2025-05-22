@@ -1,0 +1,424 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+acute nausea/vomiting
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Time and date the patient was last known well: 21:00 on ___
+___ Stroke Scale Score: 0
+t-PA given: No 
+Reason t-PA was not given or considered: outside window, low
+NIHSS 
+Thrombectomy performed: No 
+If no, reason thrombectomy was not performed or considered: low
+NIHSS, no large vessel cut off
+
+The NIHSS was performed: 
+Date: ___
+Time: 2:30pm
+(within 6 hours of patient presentation or neurology consult) 
+ 
+___ Stroke Scale score was : 0
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0
+2. Best gaze: 0
+3. Visual fields: 0
+4. Facial palsy: 0
+5a. Motor arm, left: 0
+5b. Motor arm, right: 0
+6a. Motor leg, left: 0
+6b. Motor leg, right: 0
+7. Limb Ataxia: 0
+8. Sensory: 0
+9. Language: 0
+10. Dysarthria: 0
+11. Extinction and Neglect: 0
+ 
+REASON FOR CONSULTATION: Vertigo and vomiting
+ 
+HPI: 
+Ms. ___ is a ___ female with history of CAD, HTN and
+HLD, presenting with acute onset vertigo and nausea/vomiting
+since this morning.  
+
+She was in her USOH last night when she ate her typical dinner 
+of
+cereal.  She went to bed and when she woke up this morning 
+around
+6am she felt light-headed and nauseous, and unsteady on her 
+feet.
+She continued to have nausea and vomited for the first time
+around 7am.  She continued to have intermittent symptoms of
+room-spinning particularly when standing up and had difficulty
+walking due to this (would lean from side to side).  She vomited
+a total of 3 times since this morning.  She feels better when 
+she
+rests, but she states she still feels a little light-headed.  
+Her
+granddaughter thinks her speech is more slurred than usual in
+addition to being quiet and tired sounding.  She feels she has
+some difficulty getting her words out clearly.  
+
+No recent trauma, MVCs, or neck manipulation.  No vision changes
+or hearing changes.  Reports recent airplane ride to ___
+last week, during which her ears popped several times and she 
+has
+had productive cough since then without fever or chills.  She
+endorses chronic neck pain and headache.
+
+She thinks she had similar symptoms a few months ago when she 
+was
+in ___ that ultimately resolved after being hospitalized
+for a few days.  
+
+She came to the ED today for further evaluation.  They noted 
+that
+she seemed unsteady and continued to have intermittent symptoms
+so requested Neurology consultation.  They reported her
+___ was negative.  
+ 
+On neuro ROS, she denies headache, current changes in vision,
+diplopia, tinnitus or hearing difficulty.  Denies difficulties
+producing or comprehending speech.  Denies focal weakness,
+numbness, parasthesiae. No bowel or bladder incontinence or
+retention. 
+ 
+On general review of systems, she denies recent fever or chills. 
+
+No night sweats or recent weight loss or gain. Denies cough,
+shortness of breath.  Denies chest pain or tightness,
+palpitations.   
+ 
+
+ 
+Past Medical History:
+CAD 
+HLD
+HTN
+joint pains
+vaginal prolapse s/p hysterectomy in early ___
+ 
+Social History:
+Lives with several of her daughters on different days of the 
+week
+while in the ___.  She spends half the year in ___ and 
+plans
+to go back in ___.  She uses a cane, but otherwise is
+independent and cooks and cleans on her own.  When in ___
+she is the sole caretaker of her husband.  
+ 
+- Modified Rankin Scale:
+[] 0: No symptoms
+[] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+[x] 3: Moderate disability: requires some help but able to walk
+unassisted
+[] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+[] 6: Dead
+ 
+Family History:
+Unknown 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Orthostatics:
+Supine: HR 58, BP 135/57 
+Sitting: HR 63, BP 141/68 
+Standing: HR 63, BP 134/68 
+
+General: Lying in bed, appears uncomfortable but NAD
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no nuchal rigidity
+Pulmonary: Normal work of breathing
+Cardiac: RRR, warm, well-perfused
+Abdomen: soft, non-distended
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented to self, place (hospital) and
+month/year (___) but not day. Able to relate history
+without difficulty. Language is fluent with intact repetition 
+and
+comprehension. There were no paraphasic errors. Pt was able to
+name both high and low frequency objects.  Speech was not
+dysarthric. Able to follow both midline and appendicular
+commands. There was no evidence of apraxia or neglect.
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. Subtle 
+vertical
+skew (right sits slightly higher than left). No catch up 
+saccade.
+
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to conversation bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions.  
+
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+No adventitious movements noted. Strength ___ throughout. 
+
+-Sensory: No deficits to light touch throughout.  
+
+-DTRs: 2+ in biceps, patellae and ankles 
+
+-Coordination: Very slight intention tremor. No dysmetria on FNF
+bilaterally.
+
+DISCHARGE PHYSICAL EXAM:
+General: eating lunch, comfortable appearing
+HEENT: no scleral icterus, pain to palpation on the bilateral 
+trapezius and occiput
+MS: awake, alert, oriented, conversational in ___ with no 
+dysarthria. 
+CN: pupils 2.5-->2, EOMI with no nystagmus, no skew deviation, 
+face symmetric, tongue midline, no uvula deviation
+
+Motor: no pronator drift
+Full strength upper and lower extremities bilaterally
+
+Coordination: no dysmetria on finger to nose bilaterally
+
+Gait: able to stand independently, walks without assistance with 
+normal based gait and steady steps
+ 
+Pertinent Results:
+___ 05:30AM BLOOD WBC-5.4 RBC-3.81* Hgb-11.6 Hct-36.2 
+MCV-95 MCH-30.4 MCHC-32.0 RDW-13.2 RDWSD-45.3 Plt ___
+___ 05:30AM BLOOD Plt ___
+___ 05:30AM BLOOD ___ PTT-25.0 ___
+___ 05:30AM BLOOD Glucose-117* UreaN-15 Creat-0.8 Na-147 
+K-4.3 Cl-110* HCO3-26 AnGap-11
+___ 05:30AM BLOOD ALT-10 AST-16 LD(LDH)-190 CK(CPK)-50 
+AlkPhos-56 TotBili-0.3
+___ 05:30AM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 05:30AM BLOOD TotProt-6.0* Albumin-3.4* Globuln-2.6 
+Cholest-152
+___ 05:30AM BLOOD %HbA1c-6.4* eAG-137*
+___ 05:30AM BLOOD Triglyc-172* HDL-54 CHOL/HD-2.8 
+LDLcalc-64
+___ 05:30AM BLOOD TSH-2.6
+___ 12:05PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+MRI Brain without Contrast
+FINDINGS:  
+  
+There is no evidence of acute infarction.  A single punctate 
+gradient echo 
+susceptibility artifact overlying the right parietal occipital 
+lobe (series 
+11, image 15) is likely sequela of prior microhemorrhage.  No 
+other 
+intracranial hemorrhage. No mass, mass effect, edema or midline 
+shift. 
+  
+The ventricles and sulci are mildly prominent.  Periventricular 
+and 
+subcortical white matter FLAIR hyperintensities are noted, a 
+nonspecific 
+finding that most likely represents the sequelae of chronic 
+small vessel 
+ischemic disease.   There is gross preservation of the principal 
+intracranial 
+vascular flow voids. 
+  
+Mucosal thickening is seen within the maxillary sinuses, 
+sphenoid sinuses, and 
+bilateral ethmoid air cells.  Trace mastoid fluid is also seen 
+bilaterally.  
+The orbits are unremarkable. 
+  
+IMPRESSION: 
+  
+  
+1. No evidence for acute intracranial abnormality.  Specifically 
+no acute 
+intracranial hemorrhage or infarct. 
+2. Background global parenchymal volume loss and evidence of 
+chronic small 
+vessel ischemic disease. 
+3. Multifocal paranasal sinus disease as well as fluid in the 
+mastoid air 
+cells.  Clinical correlation with patient's symptoms is 
+recommended. 
+4. Additional findings described above. 
+
+CT/CTA Head and Neck
+FINDINGS:  
+  
+CT HEAD WITHOUT CONTRAST: 
+There is no evidence of infarction, hemorrhage, edema, or mass. 
+The ventricles 
+and sulci are normal in size and configuration. 
+  
+There is bilateral, left greater than right, mucosal thickening 
+in the 
+maxillary sinuses as well as extensive mucosal thickening of the 
+anterior 
+ethmoidal air cells and mild mucosal thickening of the left 
+greater than right 
+sphenoid sinuses.  Air-fluid levels are noted in the left 
+maxillary sinus.  
+The visualized portion of the paranasal sinuses, mastoid air 
+cells, and middle 
+ear cavities are clear.  Incidentally noted scleral plaque in 
+the right orbit. 
+Otherwise, the visualized portion of the orbits are 
+unremarkable. 
+  
+CTA HEAD: 
+The vessels of the circle of ___ and their principal 
+intracranial branches 
+appear normal with no evidence of stenosis, occlusion, or 
+aneurysm. The dural 
+venous sinuses are patent. 
+  
+IMPRESSION: 
+  
+  
+1. No acute intracranial abnormality. 
+2. Extensive sinus disease, as described above. 
+3. Normal CTA of the head. 
+
+ 
+Brief Hospital Course:
+___ is a pleasant ___ ___ speaking woman 
+with history of hypertension who presented with acute onset 
+vertigo, nausea, and vomiting in the setting of recent viral 
+upper respiratory tract infection. Her initial exam concerning 
+for subtle vertical skew without diplopia or nystagmus. Vitals 
+notable for 20 point drop in SBP from lying to standing. On 
+re-evaluation she did not have any evidence of nystagmus or EOM 
+abnormality. She did become symptomatic on standing. NCHCT and 
+CTA head unremarkable. MRI with no evidence of stroke. Stroke 
+risk factors checked with A1C of 6.5% and LDL of 64. We started 
+aspirin 81mg for stroke prevention. Her fingerstick blood 
+glucose was checked Q6H, and she did not require sliding scale 
+insulin. She was evaluated by physical therapy, who recommended 
+short term acute rehab. Etiology of her symptoms likely post 
+viral peripheral vestibulopathy. She was found to have 
+significant muscle tension on exam, so she was given a soft 
+cervical collar to sleep with at night, as well as a 
+prescription for physical therapy for myofascial release.
+
+Transitional Issues: 
+# PCP follow up one week after discharge for follow up of BPPV 
+and diabetes 
+# ___ for myofascial release
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rosuvastatin Calcium 20 mg PO QPM 
+2. Ranolazine ER 500 mg PO BID 
+3. Omeprazole 20 mg PO DAILY 
+4. Carvedilol 12.5 mg PO BID 
+5. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+ASDIR 
+6. Voltaren (diclofenac sodium) 50 mg topical Frequency is 
+Unknown 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Adult Aspirin Regimen] 81 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*3 
+2.  Diclofenac Sodium ___ ___ sodium) 50 mg topical 
+DAILY:PRN joint pain  
+3.  Carvedilol 12.5 mg PO BID  
+4.  Omeprazole 20 mg PO DAILY  
+5.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+ASDIR  
+6.  Ranolazine ER 500 mg PO BID  
+7.  Rosuvastatin Calcium 20 mg PO QPM  
+8.Outpatient Physical Therapy
+For myofascial release
+
+723.1
+9.Soft cervical collar
+Wear nightly during sleep to help with pain
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Post viral peripheral vestibulopathy
+Hypertension 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear ___,  
+ 
+___ were hospitalized due to symptoms of dizziness, nausea, and 
+vomiting concerning for a stroke. We imaged your brain with a 
+head CT and an MRI which did not show evidence of a stroke. We 
+checked your stroke risk factors and found your hemoglobin A1C 
+at 6.5%, your bad cholesterol LDL was 64. We think the cause of 
+your dizziness is likely an inner ear process related to your 
+recent cold and expect it will resolve spontaneously. We did 
+find that your blood pressure dropped on standing and gave ___ 
+IV fluids. Please continue to hydrate well with oral fluids. We 
+continued all your home medications with no change. We started 
+aspirin to try to prevent strokes since ___ have risk factors 
+for stroke. Please follow up with your primary care physician as 
+listed below, who can help monitor your blood sugar and may 
+start medications for diabetes. We also found that ___ had 
+muscle tension in your neck muscles, so we gave ___ a soft 
+cervical collar to wear while ___ sleep. We also gave ___ a 
+prescription for physical therapy so that they can help with 
+muscle tension release. 
+If ___ experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms: 
+ 
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+___  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+ 
+35 minutes were spent on discharge.
+
+Sincerely,  
+ 
+Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

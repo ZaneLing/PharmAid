@@ -1,0 +1,353 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___
+ 
+Chief Complaint:
+Shortness of breath 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS: Mr. ___ is a ___ year old man 
+with
+a history of RLE unprovoked DVT, GERD, hypertension who presents 
+with a chiefcomplaint of shortness of breath.
+
+Patient was in his normal state of health until several days 
+prior to presentation when he developed pain, redness and heat 
+over the back of his left calf. He states his symptoms were 
+similar to his prior DVTs though he denies any recent travel by 
+plane, long car rides.  He is a non-smoker and does not take 
+hormone replacement. Patient states that pain improved somewhat 
+over the course the next days but on ___ day of 
+presentation he developed shortness of breath when walking up 
+the stairs and doing minimal activity which prompted 
+presentation to ___ emergency department.  
+
+At ___ patient had CT Angiogram of the chest which 
+demonstrated a large, central right pulmonary embolism.  Labs 
+notable for troponin I of 0.05 with EKG showing sinus rhythm 
+with frequent PVCs and borderline left axis deviation. Patient 
+was started on a heparin gtt. Patient's case was discussed with 
+___ ___ team and transfer was recommended for possibility 
+of TPA.
+Patient underwent ED-ED transfer. 
+
+In the ED, initial vitals notable for HR 101, BP 114/81 SaO2 95%
+4 L NC
+- Exam notable for:  Lungs CTA B/l, peaking in full sentences.
+- Labs notable for:  TropT < .01, NTpBNP 1538, INR 1.3
+- Imaging notable for:  None at ___
+- Bedside echo without RV strain 
+- Pt given:  IV heparin
+- Vitals prior to transfer: HR 75 BP 145/86 RR 20 SaO295% RA
+
+Upon arrival to the floor, the patient reports the above 
+history. Denies current SOB, chest pain, fevers, chills, 
+abdominal pain, dysuria, constipation, N/V. 
+
+REVIEW OF SYSTEMS:  
+A 10-point ROS was taken and is negative except otherwise stated
+in the HPI. 
+
+ 
+Past Medical History:
+- ? Right Past DVT possibly c/b venous insufficency, PTS managed
+with 
+compression stockings. Had right calf swelling and redness at
+least ___ years ago, seen by PCP, had ___ in ED but then sent
+home. Saw a specialist (doesn't remember what type) who
+recommended compression stockings but has never been on
+anti-coagulation.
+- hypertension
+- tonsillectomy
+- appendectomy at age ___
+ 
+Social History:
+___
+Family History:
+No known family history of VTE.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+========================
+VITALS:  ___ 2241 Temp: 97.7 PO BP: 139/74 HR: 78 RR: 18 O2
+sat: 95% O2 delivery: Ra 
+
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Both lower extremities with diffuse, slight erythema, tight
+1+ pitting edema. LLE > RLE, negative ___ sign
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally.
+
+DISCHARGE PHYSICAL EXAM: 
+========================
+24 HR Data (last updated ___ @ 805)
+    Temp: 97.8 (Tm 98.1), BP: 141/82 (131-146/68-84), HR: 78
+(55-78), RR: 18 (___), O2 sat: 96% (94-99), O2 delivery: Ra,
+Wt: 266.53 lb/120.9 kg  
+General: Alert, oriented, no acute distress  
+HEENT: MMM, JVP not elevated 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops, heaves
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound or guarding  
+GU: No foley  
+Ext: Both lower extremities with diffuse, slight erythema, tight
+1+ pitting edema LLE > RLE
+Skin: Warm, dry, no rashes or notable lesions. 
+Neuro: AAOx3 
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===============
+___ 05:05PM BLOOD WBC-9.9 RBC-5.59 Hgb-16.6 Hct-50.6 MCV-91 
+MCH-29.7 MCHC-32.8 RDW-13.5 RDWSD-44.5 Plt ___
+___ 05:05PM BLOOD Neuts-57.5 ___ Monos-8.1 Eos-2.9 
+Baso-0.6 Im ___ AbsNeut-5.66 AbsLymp-3.01 AbsMono-0.80 
+AbsEos-0.29 AbsBaso-0.06
+___ 05:05PM BLOOD ___ PTT-150* ___
+___ 05:05PM BLOOD Glucose-107* UreaN-25* Creat-1.0 Na-143 
+K-3.7 Cl-104 HCO3-19* AnGap-20*
+___ 05:05PM BLOOD cTropnT-<0.01 proBNP-1538*
+___ 05:05PM BLOOD Calcium-10.1 Phos-3.3 Mg-1.8
+
+IMAGING: 
+========
+CTA Chest 
+IMPRESSION:
+1. There is a large central right pulmonary embolism which is
+near occlusive centrally. There is evidence of associated right
+heart strain. No left pulmonary emboli are identified. I
+discussed this with Dr. ___ at the time of this report.
+2. Mild cardiomegaly and mild coronary calcification. There is
+evidence of right heart strain without evidence of acute
+congestive heart failure.
+3. A few small scattered calcified and noncalcified nodules most
+likely reflect a benign etiology.
+
+CXR (___)
+1. There is no evidence of an acute cardiac or pulmonary 
+process.
+
+LENIS - ___: 
+FINDINGS:  
+  
+There is normal compressibility, color flow, and spectral 
+doppler of the 
+bilateral common femoral, femoral, and popliteal veins. Normal 
+color flow and  compressibility are demonstrated in the 
+posterior tibial and peroneal veins. 
+  
+There is normal respiratory variation in the common femoral 
+veins bilaterally. 
+  
+No evidence of medial popliteal fossa (___) cyst.  
+  
+IMPRESSION:  
+  
+No evidence of acutedeep venous thrombosis in the right or left 
+lower 
+extremity veins. 
+
+Transthoracic Echocardiogram Report
+Name: ___ MRN: ___ Date: ___ 08:30
+The left atrial volume index is moderately increased. The right 
+atrium is mildly enlarged. The estimated
+right atrial pressure is >15mmHg. There is mild symmetric left 
+ventricular hypertrophy with a normal
+cavity size. There is suboptimal image quality to assess 
+regional left ventricular function. Overall left
+ventricular systolic function is low normal. There is 
+beat-to-beat variability in the left ventricular
+contractility due to the irregular rhythm. The visually 
+estimated left ventricular ejection fraction is
+50-55%. Left ventricular cardiac index is normal (>2.5 
+L/min/m2). There is no resting left ventricular
+outflow tract gradient. There is Grade II diastolic dysfunction. 
+Moderately dilated right ventricular
+cavity with low normal free wall motion. Tricuspid annular plane 
+systolic excursion (TAPSE) is
+depressed. There is abnormal interventricular septal motion c/w 
+right ventricular pressure and volume
+overload. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for
+gender. The aortic arch is mildly dilated. The aortic valve 
+leaflets (3) are mildly thickened. There is no
+aortic valve stenosis. There is no aortic regurgitation. The 
+mitral valve leaflets appear structurally
+normal. There is trivial mitral regurgitation. The tricuspid 
+valve is not well seen. There is trivial
+tricuspid regurgitation. There is mild-moderate pulmonary artery 
+systolic hypetension. There is no
+pericardial effusion.
+IMPRESSION: Suboptimal image quality. Right ventricular cavity 
+dilatation w/ mild global free
+wall hypokinesis. Mild-moderate pulmonary artery systolic 
+hypertension. Abnormal septal motion
+c/w pressure/volume overload. Mild symmetric left ventricular 
+hypertrophy with low normal
+global systolic function.
+
+DISCHARGE LABS: 
+===============
+___ 05:10AM BLOOD WBC-7.7 RBC-4.94 Hgb-14.6 Hct-44.3 MCV-90 
+MCH-29.6 MCHC-33.0 RDW-13.3 RDWSD-43.2 Plt ___
+___ 05:10AM BLOOD ___ PTT-62.4* ___
+___ 05:10AM BLOOD Glucose-100 UreaN-22* Creat-1.1 Na-145 
+K-3.7 Cl-107 HCO3-23 AnGap-15
+___ 05:10AM BLOOD Calcium-9.1 Phos-3.2 Mg-1.___RIEF HOSPITAL COURSE:
+======================
+Mr. ___ is a ___ year old man with a history of RLE 
+unprovoked DVT ___ yrs ago, not on anti-coagulation), GERD and 
+hypertension who presents with a chief complaint of shortness of 
+breath and was found to have submassive PE. He was treated with 
+heparin initially, then transitioned to apixaban for 
+anticoagulation on discharge.
+
+ACUTE/ACTIVE PROBLEMS: 
+#Sub-massive pulmonary embolism. 
+Patient presented with several days of left lower extremity 
+swelling and SOB found to have new onset hypoxia c/f DVT/PE. 
+Found to have large central right pulmonary embolism, nearly 
+occlusive, with elevated NT proBNP of 1538 and elevated troponin 
+I at ___ of 0.05 (i.e. evidence of myocardial necrosis), 
+with
+resolution of troponin to 0.01 on admission to ___. ___ (PE 
+consultants) was consulted upon arrival to ___ with evaluation 
+consistent with submassive PE with low risk features overall. 
+Per ___, patient was without indication for tPA. Patient was 
+initiated on Heparin gtt. Patient's O2 requirement and 
+tachycardia resolved by Day 2 of hospitalization. LENIs were 
+performed to assess for clot burden which did not demonstrate 
+evidence of thrombi. TTE was obtained to rule out right heart 
+strain which demonstrated RV cavity dilation and low-normal RV 
+function. Patient was transitioned to apixaban on discharge. Of 
+note, patient with reported prior RLE thrombi ___ years ago) 
+treated with compression stockings (no anticoagulation in the 
+past). Patient does not have clear risk factors for thrombi 
+outside of prolonged car travel in early ___. 
+
+CHRONIC/STABLE PROBLEMS: 
+# Hypertension. 
+- Patient continued on home amlodipine and HCTZ.
+
+# GERD. 
+- Patient continued on home omeprazole 20 mg daily 
+
+TRANSITIONAL ISSUES: 
+====================
+[] Patient with multiple unprovoked DVT. Outpt follow up with 
+hematology for thrombophilia workup should be pursued if unable 
+to obtain records indicating prior workup completed.
+[] Please ensure age-appropriate cancer screening
+[] Aspirin discontinued given initiation of apixaban, only 
+indication was primary prevention
+[] Consider repeat interval TTE to ensure resolution of above RV 
+dilatation and pHTN
+
+GENERAL/SUPPORTIVE CARE: 
+#CODE: DNAR/DNI confirmed: Patient recently filled out power of 
+attorney with wife and would "not want any heroic measures." 
+Specifically would not want chest compressions or intubation, 
+even if there was a reasonable chance he could be weaned quickly 
+from vent 
+#CONTACT: ___ (wife) 
+___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Hydrochlorothiazide 50 mg PO DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -200 unit oral DAILY 
+5. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 2 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*3 
+2.  amLODIPine 5 mg PO DAILY  
+3.  Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -200 unit oral DAILY  
+4.  Hydrochlorothiazide 50 mg PO DAILY  
+5.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES: 
+==================
+Pulmonary Embolism
+Deep Vein Thrombosis
+
+SECONDARY DIAGNOSES: 
+====================
+HYPERTENSION
+GERD
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ 
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+
+- You were admitted because you were feeling short of breath and 
+had swelling in your left leg.   
+ 
+What was done for me while I was in the hospital?  
+
+- Imaging was performed that showed that you had a blood clot in 
+your lungs. This is called a pulmonary embolism. 
+- We gave you a blood thinner to prevent the clot from getting 
+larger and prevent future clots
+- We also looked at the blood vessels in  your legs to make sure 
+you didn't have any additional clots, which you did not.
+
+What should I do when I leave the hospital?  
+
+- Be aware that you might bleed or bruise more easily
+- Call your doctor should you have any severe bleeding, or minor 
+bleeding that does not stop within approximately 30 minutes
+- You may return to your regular activities, but be aware that 
+it may take some time for your symptoms to improve 
+
+Sincerely,  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

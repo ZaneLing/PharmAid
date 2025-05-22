@@ -1,0 +1,205 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+NSAIDS (Non-Steroidal Anti-Inflammatory Drug) / Benadryl / 
+vancomycin / Phenergan
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ ___ woman who presented to the ED with pain "all
+over her body" in the setting of a self-reported sickle cell 
+disease.  Patient
+reports that her pain began approximate 2 days ago and was not
+controlled with oxycodone 30mg prescribed by her PCP in ___.
+She denies any fevers or chills. No shortness of breath. No 
+cough
+or headache. No recent illnesses.  Patient reports that she did
+experience bilateral lower extremity swelling earlier this week. 
+
+Patient moved from ___ 2 months ago.
+
+ 
+Past Medical History:
+Sickle cell disease
+ 
+Social History:
+___
+Family History:
+Brother - sickle cell disease
+Sisters - sickle cell trait
+Cousin - ___
+Cousin - ___ Cancer
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+================
+GENERAL: AAOx3, NAD
+HEENT: NC/AT, PERRL, EOMI, Sclera anicteric, MMM
+NECK: supple, no LAD
+CARDIAC: RRR, +S1/2, no murmurs
+LUNGS: CTAB, no wheezing, rales, rhonchi
+ABDOMEN: soft, obese, NTND, +BS
+EXTREMITIES: No clubbing, cyanosis, or edema
+SKIN: warm, no rashes
+NEUROLOGIC: CN2-12 intact, ___ strength throughout, Normal
+sensation
+
+DISCHARGE EXAM:
+===============
+VITALS: ___ 2336 Temp: 98.2 PO BP: 120/77 L Lying HR: 72 
+RR:
+18 O2 sat: 98% O2 delivery: Ra 
+GENERAL: AAOx3, NAD, lying comfortably in bed
+HEENT: NC/AT, PERRL, EOMI, Sclera anicteric, MMM
+NECK: supple, no LAD
+CARDIAC: RRR, +S1/2, no murmurs
+LUNGS: CTAB, no wheezing, rales, rhonchi
+ABDOMEN: soft, obese, NTND, +BS
+EXTREMITIES: No clubbing, cyanosis, or edema. Strong pulses
+bilaterally
+SKIN: warm, no rashes
+NEUROLOGIC: CN2-12 intact, ___ strength throughout, Normal
+sensation
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+-----------------
+___ 07:08AM BLOOD WBC-6.6 RBC-4.55 Hgb-12.2 Hct-38.6 MCV-85 
+MCH-26.8 MCHC-31.6* RDW-14.2 RDWSD-43.6 Plt ___
+___ 07:28AM BLOOD ___ PTT-30.9 ___
+___ 07:08AM BLOOD Glucose-119* UreaN-9 Creat-0.9 Na-139 
+K-5.6* Cl-99 HCO3-25 AnGap-15
+___ 06:05AM BLOOD LD(LDH)-263* TotBili-0.3 DirBili-<0.2 
+IndBili-0.3
+___ 06:05AM BLOOD Calcium-8.8 Phos-3.2 Mg-2.2
+
+DISCHARGE LABS:
+----------------
+___ 06:05AM BLOOD WBC-5.8 RBC-4.44 Hgb-11.5 Hct-37.1 MCV-84 
+MCH-25.9* MCHC-31.0* RDW-13.5 RDWSD-41.4 Plt ___
+___ 06:05AM BLOOD Glucose-77 UreaN-7 Creat-0.6 Na-143 K-4.2 
+Cl-105 HCO3-22 AnGap-16
+___ 06:05AM BLOOD Calcium-8.8 Phos-3.2 Mg-2.2
+___ 06:05AM BLOOD Hapto-194
+___ 07:08AM BLOOD 25VitD-11*
+___ 07:08AM BLOOD HCG-<___ with PMH of self-reported history of sickle cell disease 
+presenting with pain syndrome.
+
+#Pain Syndrome
+Recent immigrant from ___ who presented with a 2-day history 
+of worsening body aches and pains similar to prior pain crises. 
+Occasionally able to control with PO Oxycodone 30mg Q4 at home, 
+though did not have any oral given no PCP ___. The patient was 
+given 3mg IV Dilaudid every ___ hours overnight. On the day 
+after admission she was changed to oral Oxycodone 15mg PO Q4 
+hours PRN which continued to control her pain. She was 
+discharged on this regimen with PCP follow up on ___. She also 
+received a total of 4L NS during admission. Her clinical history 
+seems consistent with sickle cell disease, however her labs were 
+not overall consistent with this diagnosis. Hgb electrophoresis 
+was sent while she was inpatient, and she will follow up with 
+Heme/Onc as well to confirm this diagnosis.
+
+** Addendum **
+
+Post discharge the patient's hemoglobin electrophoresis returned 
+showing no abnormal hemoglobin bands
+
+Hemogloblin A:    97.6 %
+Hemogloblin S:    0%
+Hemoglobin C:     0%
+Hemoglobin A2:   2.4%
+Hemoglobin F:      0%
+
+#Vitamin D deficiency: Vitamin D 50,000IU weekly x 8 weeks then 
+recheck
+
+TRANSITIONAL ISSUES:
+====================
+[] Please follow up gel electrophoresis to confirm sickle cell 
+disease (not anemic, no sickle cells on RBC morphology, 
+normocytic)
+[] Pain: The patient will likely require a narcotics contract, 
+pain well controlled on 15mg PO Oxycodone Q4 hours PRN
+- Discharged with a four day supply for a total of 24 tablets
+[] Please recheck vitamin D after repletion course
+
+#CODE: Full (presumed)
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FoLIC Acid 1 mg PO DAILY 
+2. OxyCODONE (Immediate Release) 30 mg PO PRN Pain - Moderate 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth Every eight hours 
+Disp #*30 Tablet Refills:*0 
+2.  Vitamin D ___ UNIT PO 1X/WEEK (TH) Duration: 8 Weeks 
+RX *ergocalciferol (vitamin D2) 50,000 unit 1 capsule(s) by 
+mouth Every ___ Disp #*8 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) 15 mg PO Q4H:PRN Pain - Severe 
+
+RX *oxycodone 15 mg 1 tablet(s) by mouth Every four hours Disp 
+#*24 Tablet Refills:*0 
+4.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+- Pain syndrome NOS
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital because:
+- You developed severe pain
+- This was because of a flair of your sickle cell disease
+
+While you were here:
+- You were treated with IV pain medications
+- You were given fluid through your IV
+- We helped you find insurance and scheduled follow up 
+appointments
+- You were given oral pain medications to go home with until 
+your follow up appointments
+
+When you leave:
+- Please take all of your medications as prescribed
+- Please attend all of your follow up appointments as arranged
+
+It was a pleasure to care for you during your hospitalization!
+
+- Your ___ care team
+ 
+Followup Instructions:
+___

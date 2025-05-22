@@ -1,0 +1,438 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Erythrocin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+acute onset episode of being unable to speak or move his 
+extremities
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+NEUROLOGY STROKE ADMISSION/CONSULT NOTE
+
+no code stroke 
+
+___ Stroke Scale Score: 1
+
+t-PA administered: 
+[] Yes - Time given: __
+[x] No - Reason t-PA was not given or considered: nihss 1
+
+Thrombectomy performed: 
+[] Yes 
+[x] No - Reason not performed or considered: nihss 1
+
+NIHSS performed within 6 hours of presentation at: 2200 
+time/date
+___
+NIHSS Total: 1
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0 
+2.  Best gaze: 0
+3.  Visual fields: 0
+4.  Facial palsy: 1
+5a. Motor arm, left: 0
+5b. Motor arm, right: 0
+6a. Motor leg, left: 0
+6b. Motor leg, right: 0
+7.  Limb Ataxia: 0
+8.  Sensory: 0
+9.  Language: 0
+10. Dysarthria: 0
+11. Extinction and Neglect: 0
+ 
+
+REASON FOR CONSULTATION: L vertebral stenosis
+ 
+HPI: 
+
+___ male PMH of longstanding DM2, hypertension, chronic 
+R
+eye blindness and exodeviation after childhood injury 
+transferred
+from ___ after he presented with an acute onset episode
+of being unable to speak or move his extremities which slowly
+resolved over several hours with CTA showing stenosis of the 
+left
+vertebral artery. Neurology is consulted for further work-up. 
+
+History obtained from the patient and his wife. He woke up this
+morning he was at his recent baseline which is notable for
+progressive issues with cognition over the past ___ years (he
+repeats questions, has trouble with names, forgets 
+conversations,
+gets confused re the date). He went out to mow the grass on the
+riding lawn mower. Around ___ he reports that he suddenly lost
+control of the ability to move his arms or legs. He did not lose
+tone or pass out. Due to this he ran the lawn rower into the 
+fire
+pit. This caught his wife's attention and she rushed over to
+check on him. She reports that he was looking dazed and 
+answering
+"yes" or "no" questions but not following commands or speaking.
+Patient says that he heard his wife talking to him but could not
+tell what she was saying to him. She did try to help him stand 
+up
+off the lawn ___ which he was able to do with significant
+support. He reports that he did not have any vision change,
+tingling or numbness. He does report that he had pain in the 
+back
+of his neck but no other headache. He also felt dizziness off 
+and
+on which was not spinning but rather a lightheaded sensation. 
+
+He was initially taken to ___ at which time he was
+improving slowly. He initially could say his name but was not
+talking. He reportedly couldn't lift up legs but would dorsiflex
+and plantar flex his feet; he had full strength in the arms and
+was otherwise reportedly neuro intact. His sbp was 200s
+initially. His BG was 147 and otherwise labs unremarkable. He 
+had
+CTH showing atrophy and microvascular changes and CTA with
+extracranial and intracranial atherosclerosis with right
+vertebral stenosis. He slowly progressed back to normal while at
+___ but was transported to ___ for further evaluation
+and management. 
+
+At ___ he feels essentially back to normal. Perhaps slightly
+off balance. He denies fatigue or shaking after the event, loss
+of bowel or bladder function. He denies recent illness. He 
+denies
+new medications. He has never had a stroke or seizure. 
+
+Of note, his wife reports his cognitive decline has been
+progressive for at least over a year. He has also had about ___
+falls in the past year which has not been evaluated formally but
+he is doing ___ therapy. She tells me he falls backward when he
+falls. She says some days he seems more lucid than others. He
+also has had some anxiety over the past year which is also
+episodic. No hallucinations. He has had no bowel or bladder
+symptoms. He does report anosmia for several years, increasingly
+quiet voice and restless leg syndrome. He is not sure if he 
+moves
+in the night as his wife does not sleep with him due to restless
+leg syndrome. He has no tremors. Retrospectively, I see a note
+from neurology in ___ by Dr. ___ patient was having some
+foot numbness right>left. At that time he had EMG which showed
+chronic lumbosacral polyradiculopathy. There was mild
+degenerative changes on MRI L spine. 
+ 
+ROS: Positive as above, otherwise negative
+
+ 
+Past Medical History:
+DM2
+HTN
+RLS
+R eye blindness from gun injury as a child
+lumbosacral polyradiculopathy
+ 
+ 
+Social History:
+___
+Family History:
+no strokes or seizures 
+ 
+Physical Exam:
+ON ADMISSION:
+==================
+PHYSICAL EXAMINATION: 
+Vitals:  96.9 69 14 172/64
+
+General: Awake, cooperative 
+HEENT: NC/AT, no scleral icterus noted, poor dentition 
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented to self, ___ ___, able to relay events which brought him to the hospital.
+Unable to do DOWB. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands. Calculations intact. No right left
+confusion, can id digits. There was no evidence of ideomotor
+apraxia or neglect.
+
+-Cranial Nerves: Right eye exodeviation, clouded. Left eye 3->2
+brisk. R eye doesn't completely ___ on right gaze, L eye
+doesn't completely ___ on left gaze. Full fields to digits in
+left eye. Facial sensation intact to light touch. Left NLFF with
+slight slow activation. Hearing symmetric. Tongue midline with
+good excursions. 
+
+-Motor: Normal bulk. Tone increases with augmentation L>R. No
+tremor at rest or with action. There is immediate decrement with
+fingertaps. Slight pronation on right without drift. No
+asterixis. 
+  [Delt][Bic][Tri][ECR][FEx][IP][Quad][Ham][TA][Gas]
+L    5    5    5    5    5   5    5    5   5     5    
+R    5    5    5    5    5   5    5    5   5    5    
+
+-Sensory: No deficits to light touch, denies deficits to pin.
+Temperature decreased in length dep fashion. Vibration <3 
+seconds
+at toes bl, <5 seconds at ankles, prop diminished for small and
+medium excursions at the toes. There is no extinction to DSS.  
+vibration, or proprioception throughout. No extinction to DSS.
+Romberg absent. 
+
+-Reflexes:
+  [Bic] [___] [Pat] [Ach]
+L   1      0      1     0
+R   2      0      1     0 
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. No dysmetria on FNF
+
+-Gait: Good initiation. Narrow-based, short shuffling stride, 
+arm
+swing diminished bilaterally R>L.
+
+ON DISCHARGE:
+================
+___ 1622 Temp: 98.0 PO BP: 164/70 HR: 71 RR: 18 O2 sat: 98% 
+
+No orthostatic hypotension.
+
+General: Awake, cooperative 
+HEENT: NC/AT, no scleral icterus noted, poor dentition 
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented to person place and time, able 
+to relay events which brought him to the hospital.
+Unable to do DOWB. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands. Calculations intact. No right left
+confusion, can id digits. There was no evidence of ideomotor
+apraxia or neglect.
+
+-Cranial Nerves: Right eye exodeviation, clouded. Left eye 3->2
+brisk. R eye doesn't completely ___ on right gaze, L eye
+doesn't completely ___ on left gaze. Full fields to digits in
+left eye. Facial sensation intact to light touch. Left NLFF with
+slight slow activation. Hearing symmetric. Tongue midline with
+good excursions. +hypophonia 
+
+-Motor: Normal bulk. Tone increases with augmentation L>R. No
+tremor at rest or with action. There is immediate decrement with
+fingertaps. Slight pronation on right without drift. No
+asterixis. 
+  [Delt][Bic][Tri][ECR][FEx][IP][Quad][Ham][TA][Gas]
+L    5    5    5    5    5   5    5    5   5     5    
+R    5    5    5    5    5   5    5    5   5     5    
+
+-Sensory: No deficits to light touch, denies deficits to pin.
+Temperature decreased in length dep fashion. There is no 
+extinction to DSS.  
+vibration, or proprioception throughout. Romberg absent. 
+
+-Reflexes:
+  [Bic] [___] [Pat] [Ach]
+L   1      0      1     0
+R   2      0      1     0 
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor. No dysmetria on FNF
+
+-Gait: Good initiation. Narrow-based, short shuffling stride, 
+arm
+swing diminished bilaterally R>L. Postural instability with 
+retropulsion, examiner had to catch patient
+ 
+Pertinent Results:
+ON ADMISSION:
+=================
+___ 07:40PM BLOOD WBC: 7.6 RBC: 3.54* Hgb: 11.0* Hct: 33.8*
+MCV: 96 MCH: 31.1 MCHC: 32.5 RDW: 12.4 RDWSD: 43.___ 
+___ 07:40PM BLOOD Glucose: 123* UreaN: 14 Creat: 1.2 Na: 
+140
+K: 4.9 Cl: 101 HCO3: 24 AnGap: 15 
+___ 07:51PM BLOOD %HbA1c: 6.4* eAG: 137* 
+___ 07:43PM URINE Blood: NEG Nitrite: NEG Protein: NEG
+Glucose: NEG Ketone: NEG Bilirub: NEG Urobiln: NEG pH: 7.0 
+Leuks:
+NEG 
+
+STROKE RISK FACTORS:
+=====================
+___ TSH-2.0
+___ %HbA1c-6.4* eAG-137*
+___ LDLmeas-78
+
+DIAGNOSTICS:
+====================
+EKG: SR, prolonged PR
+
+CTA head and neck: Impression:
+1. At the left vertebral artery origin, there is a severe focal
+stenosis in the distal left vertebral artery, calcified plaque
+causes moderate stenosis.
+2. On the right, calcified plaque in the carotid bulb, proximal
+ICA, and ECA causes mild, less than 50%, stenosis. On the left,
+calcified plaque in the proximal ICA causes mild, less than 50%,
+stenosis. 
+
+MR Brain:
+IMPRESSION:
+1.  Study is moderately degraded by motion.
+2. No acute intracranial abnormality with no definite evidence 
+of acute
+infarct.
+3. Severe changes of chronic white matter microangiopathy.
+4. Global parenchymal volume loss.
+
+Extended Routine EEG: FINAL RESULT PENDING. Preliminary: No 
+epileptiform activty
+
+ 
+Brief Hospital Course:
+Mr. ___ was admitted with an episode of pallor, feeling 
+'stuck' or 'shut down', with particular difficulty moving both 
+legs, with preserved ability to stand and walk with assistance. 
+This does not localized to a focal neurologic deficit and is 
+therefore unlikely to reflect TIA. The closest localization 
+would be bilateral ACA territory, and to have vascular lesion in 
+this region alone requires an azygous ACA, which Mr. ___ does 
+not have. MRI brain confirmed no ischemia, but showed atrophy 
+and severe microvascular white matter changes. CTA head/neck 
+shows scattered moderate atherosclerotic changes, but they are 
+unlikely to be related to the etiology of this event given that 
+it cannot be localized to a vascular territory. 
+
+Possible etiologies for the event include hypertensive 
+encephalopathy (supported by SBP>200 on EMS arrival), arrhythmia 
+or vasovagal event(supported by pallor). Seizure possible, but 
+less likely. Extended routine EEG performed prior to discharge, 
+results pending at time of discharge but preliminarily without 
+epileptic activity. 
+
+Additionally, his history of a year or more of fluctuating 
+cognitive decline, falls (all backward), anosmia, restless leg 
+syndrome, combined with his exam findings of masked facies, 
+reduced blink rate, hypophonia, slowed and hypometric upward 
+saccades, bradykinesia and rigidity that augments, as well as 
+postural instability with retropulsion all raise high suspicion 
+for an underlying neurodegenerative condition, likely a 
+Parkinsonian syndrome. He will need follow up with Neurology. 
+
+===================================
+Transitional Issues: 
+[ ] PCP: refer to ___ Neurology, prefer ___ if 
+possible given his subspecialization in movement disorders. 
+[ ] PCP: consider workup for cardiopulmonary causes of this 
+event. 
+[ ] Neurology: consider underlying Parkinsonian syndrome
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. rOPINIRole 0.5 mg PO QPM 
+2. Losartan Potassium 25 mg PO DAILY 
+3. TraMADol 50 mg PO QHS 
+4. MetFORMIN (Glucophage) 850 mg PO BID 
+5. Atorvastatin 40 mg PO QPM 
+6. Aspirin 81 mg PO DAILY 
+7. Cyanocobalamin 1000 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 40 mg PO QPM  
+3.  Cyanocobalamin 1000 mcg PO DAILY  
+4.  Losartan Potassium 25 mg PO DAILY  
+5.  MetFORMIN (Glucophage) 850 mg PO BID  
+6.  rOPINIRole 0.5 mg PO QPM  
+7.  TraMADol 50 mg PO QHS  
+8.Outpatient Occupational Therapy
+Evaluate and treat
+Dx: R26.89
+9.Outpatient Physical Therapy
+Evaluate and treat
+Dx: R26.89
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Encephalopathy, transient, of undetermined etiology (possibly 
+hypertensive)
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Mr. ___, 
+You were admitted after you had an episode during which you were 
+'stuck' and couldn't move, particularly your legs. You were also 
+very pale during this time. We did tests including a CT scan 
+that showed there was no bleeding in the brain, a CT scan with 
+dye showing that the blood vessels going to your brain have 
+cholesterol plaques, but are all open, and an MRI scan showing 
+you did NOT have a stroke. 
+It is difficult to say for sure what it was that happened 
+yesterday. We will need to continue testing after you leave the 
+hospital to look into this. Though we don't know for sure what 
+caused this event, we have been able to rule out many dangerous 
+causes with the testing we did in the hospital. 
+We did an EEG test (a brain wave test) while you were here, and 
+the results are pending. 
+You were also seen by physical and occupational therapy, who 
+recommended continuing to see both physical and occupational 
+therapy as an outpatient.
+
+We did not change any of your medications. You are already 
+taking the right medications to treat the cholesterol plaques in 
+your blood vessels. 
+
+It is very important to follow up with your Primary Care 
+Physician to continue to look into potential causes of this 
+episode. Talk to them about whether or not it could have been 
+related to your heart. 
+
+It is also very important to follow up with Neurology. Your 
+Primary Care Physician ___ refer you to a Neurologist at ___ 
+(___), or to one here at ___. 
+___ will work with you to figure out why you have 
+had memory problems and falls over the past months-years, and 
+also continue to think about whether or not the episode 
+yesterday may have been from a brain problem. 
+ 
+Please do not hesitate to call us at ___ if you have 
+any questions/concerns. 
+
+Sincerely, 
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

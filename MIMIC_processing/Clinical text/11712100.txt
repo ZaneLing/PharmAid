@@ -1,0 +1,243 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fever, Dysuria
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with a h/o COPD, BPH, recently discovered lung mass, who 
+presents with fever, chills, dysuria, urinary frequency.
+
+He underwent bronchoscopy with IP on ___ for a lung nodule. 
+The patient reports that immediately after the procedure he had 
+difficulty urinating and required a straight catheter, but he 
+was ultimately discharged without a catheter in place. He went 
+home and was able to urinate on his own. However, over the past 
+day, he had increasing difficulty urinating, dysuria, lower 
+abdominal pain, chills, and fever.
+
+He reports ongoing lower urinary tract symptoms for some time.  
+This includes urinary frequency and incomplete voiding.  He has 
+followed with a ___ Urologist for elevated PSA and had 
+prostate biopsy showing high grade intraepithelial neoplasia.  
+He also has a history of microscopic hematuria, as well as 
+atypical cells on urine cytology, which was worked up with a 
+negative cystoscopy and negative CT scan.
+
+He also has had several months of bilateral low back pain.  He 
+says this pain is now slightly worse.  He denies any cough or 
+shortness of breath.  He has no chest pain at present, but in 
+the ED did endorse chest pressure while urinating at one point.
+
+In the ED,
+- Initial vitals:  101.9, HR 102, BP 165/92, RR 18, 98% RA 
+- Tmax 103.3
+- Given Tylenol, 1L NS, 1g CTX
+- Rectal exam was without evidence of prostatitis, did show 
+enlarged prostate
+- Labs notable for troponin negative, elevated WBC, and initial 
+lactate 2.6 which improved to 1.1 after IVF
+- UA showing WBC and Nitrite
+
+On arrival to the floor, pt without new complaint, though with 
+ongoing dysuria.
+
+ 
+Past Medical History:
+COPD
+BPH
+Focal high grade prostatic intraepithelial neoplasia
+Nodular thyroid disease
+GERD, ___ Esophagus
+ 
+Social History:
+___
+Family History:
+- Mother: non-smoker, developed small cell lung cancer
+ 
+Physical Exam:
+ADMISSION EXAM
+=======================
+Vitals:  98.6, 136/75, HR 89, RR 16, 96 Ra 
+General: Alert, oriented, no acute distress, pleasant
+HEENT: Sclerae anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: CTAB, no wheezes or rales  
+CV: RRR, S1/S2, no m/r/g
+Abdomen: soft, mild lower abdominal tenderness, +BS, no rebound 
+or guarding
+Ext: warm, well perfused, 2+ pulses, no edema 
+Neuro: CN2-12 intact, no focal deficits 
+Skin:  No rash or lesion
+
+DISCHARGE EXAM
+=======================
+General: Alert, oriented, no acute distress, pleasant, seen 
+ambulating the halls without difficulty
+HEENT: Sclerae anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: CTAB, no wheezes or rales  
+CV: RRR, S1/S2, no m/r/g
+Abdomen: soft, nontender, no distension
+Ext: warm, well perfused, 2+ pulses, no edema 
+Neuro: CN2-12 intact, no focal deficits 
+Skin:  No rash or lesion
+ 
+Pertinent Results:
+ADMISSION LABS
+=========================
+___ 09:35PM BLOOD WBC-15.5*# RBC-4.33* Hgb-14.4 Hct-41.2 
+MCV-95 MCH-33.3* MCHC-35.0 RDW-12.3 RDWSD-43.0 Plt ___
+___ 09:35PM BLOOD Neuts-92.9* Lymphs-3.7* Monos-1.3* 
+Eos-0.7* Baso-0.4 Im ___ AbsNeut-14.44* AbsLymp-0.57* 
+AbsMono-0.20 AbsEos-0.11 AbsBaso-0.06
+___ 09:35PM BLOOD Glucose-121* UreaN-20 Creat-0.8 Na-133 
+K-6.9* Cl-95* HCO3-23 AnGap-15
+___ 09:35PM BLOOD cTropnT-<0.01
+___ 09:35PM BLOOD Calcium-8.8 Phos-2.9 Mg-1.9
+___ 09:53PM BLOOD Lactate-2.6* K-4.1
+
+OTHER PERTINENT LABS
+=========================
+___ 01:20PM BLOOD WBC-22.5* RBC-4.05* Hgb-13.3* Hct-38.2* 
+MCV-94 MCH-32.8* MCHC-34.8 RDW-12.1 RDWSD-42.2 Plt ___
+___ 06:07AM BLOOD WBC-17.6* RBC-4.18* Hgb-14.0 Hct-39.0* 
+MCV-93 MCH-33.5* MCHC-35.9 RDW-12.3 RDWSD-42.3 Plt ___
+___ 06:07AM BLOOD Glucose-137* UreaN-12 Creat-0.7 Na-137 
+K-3.7 Cl-99 HCO3-19* AnGap-19*
+___ 06:07AM BLOOD Calcium-8.3* Phos-2.4* Mg-2.0
+___ 07:37AM BLOOD Lactate-1.1
+
+REPORTS
+=========================
+CXR ___. Emphysematous changes and left hilar adenopathy better 
+appreciated on recent chest CT. 
+2. No acute intrathoracic process.
+
+MICROBIOLOGY
+=========================
+___ 9:30 pm URINE
+
+   URINE CULTURE (Preliminary): 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION.
+
+___ Blood cultures - NGTD at time of discharge
+ 
+Brief Hospital Course:
+___ with a h/o COPD, BPH, recently discovered lung mass s/p EBUS 
+and biopsy ___, who presented with fever, chills, urinary 
+symptoms, consistent with UTI.
+
+He was found to have pyuria and a nitrite positive UA, along 
+with a leukocytosis and a fever. He was started on IV 
+Ceftriaxone, given IV fluids, and admitted to medicine. He 
+remained hemodynamically stable following admission, his WBC 
+downtrended, and he had no further fevers. He was ambulating the 
+halls, well appearing, and felt ready to go home. He was 
+discharged home with PO Ciprofloxacin to complete a 14 day 
+course for a complicated UTI.
+
+He also noted a several month history of lower urinary tract 
+symptoms. He had an enlarged prostate on initial physical exam 
+(with no evidence of prostatitis). He was started on Tamsulosin. 
+He will follow up with his PCP and ___ regarding these 
+symptoms, as well as his elevated PSA which is already being 
+followed.
+
+CHRONIC ISSUES
+=====================
+# COPD:  CXR showing stable emphysematous changes, no acute 
+findings
+- Continue home Advair: patient reports not taking because he 
+does not know how to use
+
+# Lung Mass:  Underwent EBUS and biopsy as outpatient on ___
+- F/u cytology results as outpatient
+
+# GERD - continue home ranitidine
+
+TRANSITIONAL ISSUES
+=====================
+- Urine and blood cultures still pending at time of discharge. 
+Will follow up results and contact patient if resistant to Cipro
+- Continue Ciprofloxacin to treat UTI with ___mg BID x12 more days, last day ___
+- Initiated Tamsulosin 0.4mg QHS to treat lower urinary tract 
+symptoms. Urology follow up has been scheduled
+- Cytology from EBUS/Biopsy ___ still pending at this time. 
+Results to be followed up by ordering providers, and he is 
+scheduled in Pulmonary Clinic next week.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Ranitidine 150 mg PO BID 
+2. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth every 6 hours Disp 
+#*30 Tablet Refills:*0 
+2.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 12 Days 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice daily 
+Disp #*24 Tablet Refills:*0 
+3.  Tamsulosin 0.4 mg PO QHS 
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth nightly Disp #*30 
+Capsule Refills:*1 
+4.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID  
+5.  Ranitidine 150 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Urinary tract infection
+Lower urinary tract symptoms
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___.  You were 
+admitted because of fevers and urinary symptoms.  You were found 
+to have an infection of the urine.  We treated you with 
+antibiotics and you got better.
+
+You will need to continue to take the antibiotic, as prescribed, 
+for 12 more days to completely kill the bacteria.
+
+We also started you on a medication called Tamsulosin (AKA 
+Flomax) to help treat your ongoing urinary symptoms and 
+difficulty urinating.
+
+Please take the medications as prescribed.  Please follow up 
+with your PCP and ___ as scheduled below.  Please also 
+follow up with the Lung Doctors, as was already scheduled.
+
+It was a pleasure, we wish you the best,
+___ Medicine Team
+ 
+Followup Instructions:
+___

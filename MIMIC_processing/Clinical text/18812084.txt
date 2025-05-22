@@ -1,0 +1,305 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Palpitations
+ 
+Major Surgical or Invasive Procedure:
+Transesophageal Echocardiogram with cardioversion 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with history of hypertension, HFrEF
+(EF 18%), paroxysmal supraventricular tachycardia, and
+nonischemic cardiomyopathy who presents as transfer for
+tachycardia requiring diltiazem drip. 
+
+Patient reports that he woke up around 6AM with palpitations and
+a rapid heart rate. He felt lightheaded but had no shortness of
+breath or chest pain. He went to an outside hospital where he 
+was
+found to be in SVT. He converted after 12mg IV adenosine, had a
+recurrent episode of SVT, was given 12mg IV adenosine again and
+converted again but was then found to be in atrial fibrillation
+(no history) with HR 110-120s. He received IV boluses of
+diltiazem and was started on a dilt drip.
+
+Of note, patient was recently hospitalized at ___ after presenting on ___ with dyspnea and leg
+swelling x1 week. BNP 3172, TTE diagnosed new HFrEF with EF 18%.
+Cath confirmed nonischemic cardiomyopathy. He was negative for
+hepatitis C, iron overload, HIV, TSH, and it was thought that 
+his
+excessive alcohol use played a role. He had a few episodes of
+paroxysmal supraventricular tachycardia while admitted and
+carvedilol was started at 12.5mg BID. He was discharged on Lasix
+20mg PO daily, Entresto (to replace hydral and iso) and an event
+monitor to wear for one month. 
+
+In the ED, after discussion with Atrius cardiology his dilt was
+turned off given reduced EF and he was given IV metoprolol for
+rate control. 
+ 
+Past Medical History:
+- Hypertension  
+- ___ cath showed non obstructive coronary artery diseaese 
+HFrEF EF18%
+- paroxysmal supraventricular tachycardia
+- gout 
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.  
+ 
+Physical Exam:
+Admission Physical Exam: 
+VS: 98.7PO 108 / 68L Lying 85 18 94 Ra
+GENERAL: Well developed, well nourished male in NAD. Oriented 
+x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: Supple. JVP of 4 cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. Regular rate and rhythm. Normal S1, S2. No murmurs, rubs,
+or gallops. no thrills or lifts.  
+LUNGS: CTAB
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+plenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+eripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+Discharge Physical Exam: 
+24 HR Data (last updated ___ @ 428)
+    Temp: 97.6 (Tm 98.7), BP: 155/97 (106-155/69-97), HR: 98
+(86-118), RR: 16 (___), O2 sat: 99% (97-99), O2 delivery: RA  
+GENERAL: Well developed, well nourished male in NAD. Oriented 
+x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: Supple. JVP not noted with patient at ___ 
+CARDIAC: irregular rhythm, tachycardia Normal S1, S2. No 
+murmurs,
+rubs, or gallops. 
+LUNGS: CTAB, no wheezes crackles or rhonchi. 
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+plenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+eripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric. 
+ 
+Pertinent Results:
+Admission Labs: 
+
+___ 06:32PM BLOOD WBC-10.0 RBC-5.15 Hgb-14.4 Hct-44.3 
+MCV-86 MCH-28.0 MCHC-32.5 RDW-15.3 RDWSD-47.7* Plt ___
+___ 06:32PM BLOOD Neuts-58.2 ___ Monos-9.7 Eos-1.6 
+Baso-0.5 Im ___ AbsNeut-5.81 AbsLymp-2.97 AbsMono-0.97* 
+AbsEos-0.16 AbsBaso-0.05
+___ 06:32PM BLOOD ___ PTT-26.4 ___
+___ 06:32PM BLOOD Glucose-100 UreaN-27* Creat-1.1 Na-140 
+K-4.0 Cl-105 HCO3-20* AnGap-15
+___ 06:32PM BLOOD cTropnT-0.12* proBNP-878*
+___ 06:32PM BLOOD Calcium-7.9* Phos-4.6* Mg-2.1
+
+Pertinent Interval Labs: 
+___ 07:00AM BLOOD WBC-7.6 RBC-5.66 Hgb-16.3 Hct-48.7 MCV-86 
+MCH-28.8 MCHC-33.5 RDW-15.0 RDWSD-47.3* Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 07:00AM BLOOD Glucose-100 UreaN-22* Creat-1.1 Na-141 
+K-4.9 Cl-100 HCO3-25 AnGap-16
+___ 01:19PM BLOOD CK-MB-5 cTropnT-0.10*
+___ 07:00AM BLOOD Calcium-9.3 Phos-4.0 Mg-2.1
+
+Imaging Studies: 
+Transeesophageal Echo: 
+There is mild spontaneous echo contrast in the body of the left 
+atrium and in the left atrial appendage.
+No thrombus/mass is seen in the body of the left atrium/left 
+atrial appendage. The left atrial appendage
+ejection velocity is mildly depressed. No spontaneous echo 
+contrast or thrombus is seen in the body of
+the right atrium/right atrial appendage. There is no evidence 
+for an atrial septal defect by 2D/color
+Doppler. Overall left ventricular systolic function is 
+depressed. The aortic valve leaflets (3) are mildly
+thickened. No masses or vegetations are seen on the aortic 
+valve. No abscess is seen. There is no aortic
+regurgitation. The mitral valve leaflets appear structurally 
+normal with no mitral valve prolapse. No
+masses or vegetations are seen on the mitral valve. No abscess 
+is seen. There is mild [1+] mitral
+regurgitation. The tricuspid valve leaflets appear structurally 
+normal. No mass/vegetation are seen on the
+tricuspid valve. No abscess is seen. There is mild [1+] 
+tricuspid regurgitation.
+IMPRESSION: No thrombus in the left atrium/left atrial 
+appendage/right atrium/right atrial appendage
+ 
+Brief Hospital Course:
+Patient Summary Statement for Admission: 
+=========================================
+Mr. ___ is a ___ man with history of hypertension, HFrEF
+(EF 18%), paroxysmal supraventricular tachycardia, and
+nonischemic cardiomyopathy who presents as transfer for
+tachycardia and new afib with major risk factors being HFrEF, 
+HTN
+
+# ATRIAL FIBRILLATION with RVR
+Patient with a history of SVT at ___ that broke 
+with adenosine 12 mg x2. He was in atrial fibrillation on 
+admission with rates in 130-150s. He has no prior diagnosis of 
+atrial fibrillation. Most likely etiology being his new heart 
+failure. (CHF and hypertension history). CHADsVASC 2. He was 
+initially on a diltiazem drip in
+the emergency department, which was stopped transitioned to 25mg 
+Metop PO q6hrs. His heart rates remained elevated to 110s-130s 
+am ___ without BP room to increase metoprolol. Patient remained 
+asymptomatic throughout. TEE with cardioversion was performed 
+___ with successful conversion to sinus rhythm. He remained in 
+sinus rhythm on through day of discharge. After cardioversion 
+his metop was consolidated to 100mg q12hr. Decision was made on 
+___ to transition to carvedilol 25mg BID which will be started 
+in the evening of ___. For anticoagulation he was started on 
+rivaroxaban. Patient was counseled regarding the importance of 
+taking medication with food. 
+
+# Chronic HFrEF (EF 18%)
+Patient with recent diagnosis of heart failure with reduced 
+ejection fraction at ___. Cardiac 
+catheterization was without significant coronary artery disease. 
+Etiology of his new heart failure is unknown. Patient was 
+euvolemic on exam. He is at his dry weight of 176lbs. He 
+reported taking 40mg Lasix daily at home which was continued 
+while inpatient. He was continued on home entresto BID and was 
+started on eplerenone. He is to take eplerenone every other day 
+until demonstrated that his potassium is stable. He will require 
+careful monitoring of potassium in the week after discharge. 
+
+#Type II NSTEMI type II i/s/o of tachycardia 
+Patient presented with troponin-T elevation to 0.12. This was 
+considered to be demand ischemia in the setting of A. fib with 
+RVR. There were no concerning ST changes on EKG. The troponins 
+were trended to peak 0.16. 
+
+Chronic Issues:
+===============
+# GOUT
+- continued home allopurinol ___ daily
+
+#History of SVT:
+- appears to have h/o AVNRT in the past per review of 
+cardiology. NO episodes of AVNRT while inpatient at ___. 
+
+#Lung nodule on MRI
+-4 mm pulmonary nodule, noted incidentally on cMRI will require
+dedicated CT imaging as an outpatient. 
+
+Transitional Issue: 
+==================
+[ ] Hx of AVNRT: does patient require ablation will have to 
+assess if ablation indicated in the future
+[ ] Started eplerenone will need K monitoring. Once K has been 
+demonstrated to be stable can advance to daily. Please follow up 
+complete metabolic panel on ___.
+[ ] Monitoring of blood pressure: please ensure patient is not 
+hypotensive on current regimen. Carvedilol was increased from 
+home dosage. 
+[ ] Consider ablation if A. Fib remains a problem for patient. 
+If early reversion then may start amiodarone 400 TID x 10 g
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Magnesium Oxide 420 mg PO DAILY 
+2. Furosemide 40 mg PO DAILY 
+3. Carvedilol 12.5 mg PO BID 
+4. Sacubitril-Valsartan (24mg-26mg) 1 TAB PO BID 
+5. Colchicine 1.2 mg PO PRN gout flare 
+6. Allopurinol ___ mg PO DAILY 
+7. Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath 
+
+ 
+Discharge Medications:
+1.  Eplerenone 25 mg PO EVERY OTHER DAY 
+RX *eplerenone 25 mg 1 tablet(s) by mouth every other day Disp 
+#*15 Tablet Refills:*0 
+2.  Rivaroxaban 20 mg PO DINNER 
+RX *rivaroxaban [Xarelto] 20 mg 1 tablet(s) by mouth daily with 
+dinner Disp #*30 Tablet Refills:*0 
+3.  Carvedilol 25 mg PO BID 
+RX *carvedilol 25 mg 1 tablet(s) by mouth twice daily Disp #*60 
+Tablet Refills:*0 
+4.  Albuterol Inhaler 2 PUFF IH Q4H:PRN shortness of breath  
+5.  Allopurinol ___ mg PO DAILY  
+6.  Colchicine 1.2 mg PO PRN gout flare  
+7.  Furosemide 40 mg PO DAILY  
+8.  Magnesium Oxide 420 mg PO DAILY  
+9.  Sacubitril-Valsartan (24mg-26mg) 1 TAB PO BID  
+10.Outpatient Lab Work
+I50.2 
+Lab Test: Basic Metabolic Profile, Calcium, Magnesium, PO4
+
+Fax results to:    ___.  ___ fax number: 
+___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Atrial Fibrillation with rapid ventricular response 
+Heart Failure with reduced ejection fraction 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___ 
+
+It was a pleasure taking care of you while you were at ___, 
+
+Why was I admitted to the hospital?
+-Your heart was beating at a dangerously fast rate. This needed 
+to be corrected. 
+
+What happened while I was at the hospital? 
+-We performed a procedure called a cardioversion to get your 
+heart out of an unhealthy rhythm. Prior to performing the 
+cardioversion we performed a transesophageal echocardiogram to 
+make sure that you would not have a stroke while the 
+cardioversion occurred. 
+-Your heart returned to a normal rhythm after the cardioversion. 
+
+-We adjusted your medications to treat your heart failure. 
+
+What should I do when I go home? 
+-Continue taking all of your medications as prescribed. 
+-Have labs checked on ___ to make sure that your 
+potassium is not elevated. 
+-Keep all of your appointments with your doctors. 
+ 
+Followup Instructions:
+___

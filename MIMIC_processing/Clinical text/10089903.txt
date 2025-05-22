@@ -1,0 +1,369 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+persistent cough, SOB
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ PMH COPD, depression presenting with productive cough and
+shortness of breath. 
+
+He was treated for pneumonia at ___ earlier this month
+(discharged on ___. He says he was in the hospital for around 
+6
+days and received IV antibiotics during that time. He was
+discharged on a 4 day course of oral antibiotics which he took 2
+pills in the morning and 2 pills in the evening. 
+
+He states since leaving the hospital, his breathing has 
+improved.
+His cough has somewhat worsened. His sputum is white colored
+mainly. He has not had a fever in awhile and no shaking chills. 
+
+Patient endorses a history of depression after his wife died ___
+years ago. He has also been living on the streets and drinking
+alcohol daily since then (7 42 ounce beers a day) . His last
+drink was immediately prior to showing up in the emergency
+department. He states that he is just at a point in his life
+where he is just tired of living. It has been rough for him on
+the streets. He has never hurt himself before. He has a history
+of withdrawal seizures, the most recent one being many years 
+ago.
+
+In the ED apparently, he told someone that he would hear a voice
+telling him not to kill himself. Upon asking him at the end of
+the interview, he was too somnolent to answer appropriately. 
+
+In the ED, 
+
+- Initial vitals were: 98.3 97 116/88 18 95% RA 
+ 
+- Labs were notable for:  
+WBC 5.4 H/H ___ Plt 329
+BMP wnl with Cr 0.7 and BUN 5
+LFTs wnl 
+Serum tox positive for ethanol ___ 
+Lactate 3.5 -> 2.9 
+Influenza negative 
+
+- Studies were notable for:  
+CXR: Ill-defined patchy opacity in the right upper lobe
+concerning for pneumonia. Follow up radiographs after treatment
+are recommended to ensure resolution of this finding. 
+
+- Psych consulted: Attempted to see patient at 0230. Patient was
+sedated and unable to participate fully in formal interview.
+Patient may not leave the hospital. Continue constant 
+observation
+as safety assessment on-going.
+
+- Patient was given:  
+___ 21:29 IH Ipratropium-Albuterol Neb 1 NEB  
+___ 21:29 PO Diazepam - CIWA protocol 10 mg  
+___ 23:08 IV Thiamine 200 mg 
+___ 23:43 IVF  NS 500 mL 
+___ 00:15 IV CefePIME 2g  
+___ 02:52 IV Vancomycin 1000 mg   
+___ 03:04 PO Diazepam - CIWA protocol 10 mg
+
+On arrival to the floor, he states he has had a rough go. He
+states his breathing is better but his cough is worse. He has 
+not
+had any fevers. 
+ 
+Past Medical History:
+-Alcohol use disorder
+-COPD 
+-Depression 
+ 
+Social History:
+___
+Family History:
+Father with MI
+Rest of family history difficult to attain as patient was
+somnolent 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+========================  
+VITALS: reviewed in ___ 
+GENERAL: somnolent but answers questions upon shaking 
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM. 
+
+NECK: supple  
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.  
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.  
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants
+EXTREMITIES: No clubbing, cyanosis, or edema.
+SKIN: Warm. No rashes.  
+NEUROLOGIC: AOx3. Moving all 4 limbs spontaneously. ___ strength
+throughout. 
+
+DISCHARGE PHYSICAL EXAM:  
+=======================
+PHYSICAL EXAM:  
+24 HR Data (last updated ___ @ 920)
+    Temp: 97.4 (Tm 98.8), BP: 163/90 (123-163/80-97), HR: 77
+(77-110), RR: 18 (___), O2 sat: 95% (93-96), O2 delivery: RA   
+
+
+GENERAL: Sitting up in bed watching TV, in NAD. 
+HEENT: Head is normocephalic. Sclera anicteric.
+CARDIAC: Audible S1 and S2. RRR. No r/m/g
+LUNG: Appears in no respiratory distress. CTAB posteriorly.
+Bibasilar hyperresonance to percussion bilaterally.
+ABD: Soft, nontender to palpation, nondistended. No rebound or
+guarding. 
+EXT: Warm, well perfused, no lower extremity edema. 2+ radial
+pulses
+NEURO: Alert, oriented, moves all extremities.
+SKIN: No rashes noted on extremities or face/neck or 
+extremities.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 07:35PM   PLT COUNT-329
+___ 07:35PM   NEUTS-46.9 ___ MONOS-8.1 EOS-4.1 
+BASOS-0.9 IM ___ AbsNeut-2.54 AbsLymp-2.13 AbsMono-0.44 
+AbsEos-0.22 AbsBaso-0.05
+___ 07:35PM   WBC-5.4 RBC-4.60 HGB-16.0 HCT-47.4 MCV-103* 
+MCH-34.8* MCHC-33.8 RDW-13.4 RDWSD-51.5*
+___ 07:35PM   ASA-NEG ___ ACETMNPHN-NEG 
+tricyclic-NEG
+___ 07:35PM   ALBUMIN-4.6
+___ 07:35PM   estGFR-Using this
+___ 07:35PM   GLUCOSE-104* UREA N-5* CREAT-0.7 SODIUM-141 
+POTASSIUM-4.4 CHLORIDE-101 TOTAL CO2-24 ANION GAP-16
+___ 07:40PM   LACTATE-3.5*
+
+OTHER STUDIES:
+___ 06:21PM URINE Streptococcus pneumoniae Antigen 
+Detection-PND
+___ 11:35PM OTHER BODY FLUID FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+
+MICRO:
+___ 6:21 pm URINE      Source: ___ MORE THAN 12 HRS OLD. 
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, in
+      infected patients the excretion of antigen in urine may 
+vary. 
+__________________________________________________________
+___ 11:50 am SPUTUM      Source: Expectorated. 
+
+                            **FINAL REPORT ___
+
+   GRAM STAIN (Final ___: 
+      ___ PMNs and >10 epithelial cells/100X field. 
+      Gram stain indicates extensive contamination with upper 
+respiratory
+      secretions. Bacterial culture results are invalid. 
+      PLEASE SUBMIT ANOTHER SPECIMEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+__________________________________________________________
+___ 5:28 am MRSA SCREEN      Source: Nasal swab. 
+
+   MRSA SCREEN (Pending): 
+__________________________________________________________
+___ 12:00 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 7:40 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+IMAGING:
+___ CXR
+FINDINGS: 
+Heart size is normal.  The thoracic aorta is tortuous.  
+Mediastinal and hilar
+contours are otherwise unremarkable.  The pulmonary vasculature 
+is normal. 
+Lungs are hyperinflatedA.  Ill-defined patchy opacity is seen 
+within the right
+upper lobe posteriorly.  Minimal scarring versus atelectasis is 
+seen in the
+left lung base.  No pleural effusion or pneumothorax is seen. 
+There are no
+acute osseous abnormalities.
+ 
+IMPRESSION: 
+Ill-defined patchy opacity in the right upper lobe concerning 
+for pneumonia. 
+Follow up radiographs after treatment are recommended to ensure 
+resolution of
+this finding.
+
+DISCHARGE LABS:
+___ 06:10AM BLOOD WBC-4.4 RBC-3.78* Hgb-13.2* Hct-40.3 
+MCV-107* MCH-34.9* MCHC-32.8 RDW-13.3 RDWSD-53.1* Plt ___
+___ 06:10AM BLOOD Glucose-90 UreaN-8 Creat-0.9 Na-143 K-4.6 
+Cl-107 HCO3-26 AnGap-10
+___ 06:10AM BLOOD Calcium-9.1 Phos-4.4 Mg-1.5*
+ 
+Brief Hospital Course:
+This is a ___ year old male with past medical history of COPD, 
+depression, recent reported OSH admission for pneumonia, 
+admitted ___ with cough secondary to acute COPD 
+exacerbation in setting of his inhalers being stolen, course 
+complicated by alcohol withdrawal, restarted on bronchodilators 
+and treated with benzodiazpines per CIWA, subsequently stable 
+and off benzodiazepines for greater than 1 day, able to be 
+discharged  
+
+# Acute COPD exacerbation
+# Recent bacterial pneumonia
+Patient recently discharged from ___ on ___ 
+after admission for reported necrotizing pneumonia (per verbal 
+report was streptococcus and legionella positive, AFB 
+negative). Patient reported improvement to baseline following 
+that admission, with subsequent worsening of his symptoms after 
+having his home tiotropium and albuterol inhaler stolen at a 
+shelter.  He presented with cough and wheezing.  CXR showed a 
+RUL consolidation.  In absence of leukocytosis and fever, his 
+symptoms were felt to be secondary to COPD exacerbation without 
+new acute pnuemonia--consolidation was felt to be explained by 
+recent pnuemonia.  He was treated with restarting of 
+bronchodilator regimen.  Over subsequent day his symptoms 
+resolved without the need for antibiotics or systemic steroids. 
+ He was able to ambulate without symptom or issue.  Patient was 
+re-prescribed tiotropium and albuterol inhalers, which were 
+delivered to his bedside.  
+
+# Orthostatic hypotension: 
+Patient reported sensation of lightheadedness at time of 
+admission. He had nonfocal neuro exam.  Workup notable for 
+orthostatic hypotention.  Felt to be secondary to poor PO 
+intake in setting of alcohol binge.  Resolved with IV fluids.  
+
+# Unspecified Depressive disorder, likely alcohol-induced mood 
+disorder
+In ED patient reported thoughts of hurting self.  He was 
+initially placed on 1:1 sitter and admitted to medicine.  Once 
+no longer intoxicated he denied any thoughts of hurting self or 
+others.  Psychiatry felt safe for discharge. He was seen by 
+___ social work, but declined all outpatient supports.  A 
+referral was made to elder services for at risk elder.
+
+# Alcohol withdrawal
+# Alcohol Use Disorder
+Patient with longstanding heavy alcohol use, with prior alcohol 
+withdrawal and seizures, presented to ED intoxicated with 
+alcohol level of ~300.  Course was complicated by withdrawal 
+for which patient was treated with diazapem per CIWA.  Treated 
+with folate, multivitamin and high dose thiamine.  He was seen 
+by social work, but was not ready to think about quitting.  He 
+was monitored off of benzodiazepines for > 24 hours without 
+signs of ongoing withdrawal.  
+
+# ___ 
+Patient was offered resources for safety or shelter referrals, 
+which he declined.  He was referred to Elder Services as an at 
+risk elder.
+
+TRANSITIONAL ISSUES:
+=================
+[ ] Would repeat CXR in ___ weeks to assess for resolution of 
+RUL consolidation. 
+
+# CODE: Full code presumed 
+# CONTACT: none 
+
+> 30 minutes spent on discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Tiotropium Bromide 1 CAP IH DAILY 
+2. Albuterol Inhaler 2 PUFF IH Q4H:PRN sob 
+
+ 
+Discharge Medications:
+1.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tab-cap by mouth once a day Disp #*30 Tablet 
+Refills:*0 
+3.  Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth once a 
+day Disp #*30 Tablet Refills:*0 
+4.  Albuterol Inhaler 2 PUFF IH Q4H:PRN sob 
+RX *albuterol sulfate 90 mcg 2 PUFF IH every four (4) hours Disp 
+#*1 Inhaler Refills:*3 
+5.  Tiotropium Bromide 1 CAP IH DAILY 
+RX *tiotropium bromide [Spiriva Respimat] 1.25 mcg/actuation 1 
+IH once a day Disp #*1 Inhaler Refills:*3 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+COPD
+EtOH use disorder
+Depression 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+It was a privilege taking care of you at ___ 
+___.  
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+===================================
+-You were admitted to the hospital because you felt short of 
+breath. 
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+==========================================
+-Your COPD inhalers were re-started and your breathing improved.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+============================================  
+- Please continue to take all your medications and follow up 
+with your doctors at your ___ appointments.  
+
+We wish you all the best!
+
+Sincerely,  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

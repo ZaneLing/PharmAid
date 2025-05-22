@@ -1,0 +1,301 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+PRIMARY:
+Acute Coronary Syndrome Rule-Out
+Episodic Dizziness
+
+SECONDARY:
+Hypertension
+Type II Diabetes Mellitus
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+===================================================  
+MEDICINE NIGHTFLOAT ADMISSION NOTE - ___ ___  
+===================================================  
+OUTPATIENT CARDIOLOGIST:  
+PCP: ___.  
+ 
+CHIEF COMPLAINT: dizziness  
+REASON FOR TRANSFER: concern for NSTEMI  
+ 
+HISTORY OF PRESENTING ILLNESS: This is a ___ with a history of 
+HTN, DM2, strong family history of CAD who presents with 
+dizziness and chest tightness.  
+She notes that 2 weeks ago she had an episode of dizziness 
+('world spinning around her') that improved on its own. Last 
+night, she felt so dizzy again that she 'couldn't breath' and 
+'was going to die'. This was associated with chest tightness and 
+a strong sensation that she 'needed air.' She went to work and 
+had the school RN check her blood pressure (she thinks systolic 
+was 160) as she was concerned about this and her blood sugar as 
+possible causes of her symtpoms.  
+She called her PCP who recommended that she be evaluated in the 
+ED. She initially went to ___ where VS were 98.3 125/72 18 
+69 99%RA. Labs were notable for troponin I of 0.08, d-dimer 205, 
+and normal CBC and electrolyte panel (Cr 0.8). She underwent CXR 
+that showed heart size within normal limits, no pleural fluid or 
+pneumo.  
+Given concern for an NSTEMI, she was given asa and a heparin gtt 
+and  
+was transferred to ___ for higher level of care.  
+In the ED, initial vitals were 98.8 75 151/93 16 100% RA  
+Labs were notable for trop < 0.01, INR 1.2, H/H ___ with 
+MCV 80  
+She received nitro SL x2 and continued on heparin gtt.  
+On arrival to the floor, the patient reports feeling well. She 
+does not have any further dizziness or chest tightness. She 
+thinks the nitro SL was helpful in relieving the latter. No 
+dizziness with movement from lying to sitting. No leg pain, N/V. 
+Has a history of chronic constipation.  
+Of note, she has a strong family history of heart disease on her 
+maternal side.  
+ 
+Review of sytems:  
+(+) Per HPI  
+ 
+ 
+Past Medical History:
+Hypercholesterolemia  
+HISTORY HYSTERECTOMY  
+Hypertension, essential, benign  
+Obesity  
+Type 2 diabetes mellitus  
+Glaucoma primary - unclear status  
+
+ 
+Social History:
+___
+Family History:
+Mother had MI versus stroke in ___. Maternal aunt had heart 
+surgery, maternal uncles had 'heart problems', died from MI. 
+Aunt has diabetes. Glaucoma runs in her father's side. 
+ 
+Physical Exam:
+PHYSICAL EXAMINATION:  
+VS: Weight 84.5kg, 98 120/57 65 15 99/RA  
+General: NAD, lying comfortable in bed  
+HEENT: NCAT, one beat of horizantal nystagmus, moist mucous 
+membranes  
+Neck: supple, no JVD  
+CV: regular rhythm, no m/r/g  
+Lungs: no crackles or wheezes  
+Abdomen: soft, non distended, non tender. no rebound or 
+guarding.  
+Ext: WWP, no c/c/e, 2+ distal pulses bilaterally  
+Neuro: moving all extremities grossly. Unable to perform ___ 
+___  
+
+DISCHARGE PHYSICAL EXAMINATION:  
+Vitals = 98.1, 103-120/48-85, ___, 98-100% on RA, FSBG 77-111, 
+___ Pain or Dyspnea, 84.5kg< ins 368, Outs 0, negative 
+orthostatics
+Telemetry = Sinus 80-80s with one alarm for HR >120 with ?SVT  
+General: NAD, lying comfortable in bed, able to walk around 
+hospital floor with MD without difficulty
+HEENT: NCAT, one beat of horizantal nystagmus, moist mucous 
+membranes  
+Neck: supple, no JVD  
+CV: regular rhythm, no m/r/g  
+Lungs: no crackles or wheezes  
+Abdomen: soft, non distended, non tender. no rebound or 
+guarding.  
+Ext: WWP, no c/c/e, 2+ distal pulses bilaterally  
+Neuro: Moving all extremities grossly. ___ negative  
+ 
+Pertinent Results:
+ADMISSION/DISCHARGE LABS:
+___ 05:25PM BLOOD WBC-7.6 RBC-5.32 Hgb-14.1 Hct-42.5 
+MCV-80* MCH-26.6* MCHC-33.2 RDW-14.4 Plt ___
+___ 06:40AM BLOOD WBC-7.2 RBC-5.04 Hgb-13.2 Hct-40.1 
+MCV-79* MCH-26.1* MCHC-32.8 RDW-13.8 Plt ___
+___ 05:25PM BLOOD Neuts-37.8* Lymphs-54.4* Monos-6.1 
+Eos-1.4 Baso-0.4
+___ 05:25PM BLOOD ___ PTT-94.3* ___
+___ 05:25PM BLOOD Glucose-102* UreaN-10 Creat-0.8 Na-140 
+K-3.4 Cl-99 HCO3-28 AnGap-16
+___ 06:40AM BLOOD Glucose-111* UreaN-14 Creat-0.7 Na-140 
+K-4.0 Cl-102 HCO3-26 AnGap-16
+___ 05:25PM BLOOD cTropnT-<0.01
+___ 06:40AM BLOOD CK-MB-1 cTropnT-<0.01
+___ 05:25PM BLOOD Calcium-10.4* Phos-2.8 Mg-2.0
+___ 06:40AM BLOOD Calcium-9.5 Phos-3.8 Mg-2.0
+
+OSH CXR: ___ Hear size within normal limits, lungs clear, no 
+pleural fluid or pneumothorax
+EKG ___:  NSR at 80bpm, normal axis, normal intervals, ?q 
+waves in V1-V3 with poor R wave progression
+
+EXERCISE STRESS ELECTROCARDIOGRAM ___ = 
+INTERPRETATION: This ___ year old woman with a h/x of HTN, NIDDM, 
+HLD
+and a strong family history of CAD, presented to the ED with 
+chest pain,
+shortness of breath and dizziness. The patient completed 9.25 
+minutes of
+a Modified ___ protocol ___ METS) representing an average 
+exericse
+tolerance for her age. The test was stopped due to fatigue. 
+Toward peak
+exercise the patient reproted brief (seconds) right sided chest 
+pain,
+that resolved almost immediately. There were no ST segement 
+changes seen
+throughout the study. The rhythm was sinus with no ectopy. The 
+heart
+rate reponse was blunted in the presence of beta blocker 
+thearpy.
+Appropriate systolic and diastolic blood pressure response to 
+exercise. 
+IMPRESSION: Average exericse tolerance. No ischemic EKG changes 
+with
+non-anginal type symptoms at the achieved level of work. Blunted 
+heart
+rate response to exercise. Appropriate blood pressure response.
+ 
+Brief Hospital Course:
+___, a ___ yo F PMHx T2DM and HTN presented with two 
+non-exertional episodes of dizziness improved with 
+time/hydration with one episode with dyspnea/chest pain and was 
+referred to ___ by PCP.  She had an elevated troponin (but 
+no subsequent elevated troponin) and was referred to ___ for 
+possible cardiac catheterization.  She had no subsequent 
+symptoms, had negative troponins here, and had a negative stress 
+EKG and she was discharged to outpatient stress imaging.  
+
+# Acute Coronary Syndrome Rule-Out: Patient with HTN, T2DM, and 
+strong family history of CAD presented with two episodes of 
+dizziness ('world spinning around her') one associated with 
+chest tightness and dyspnea.  Patient called her PCP and was 
+referred to ___.  She later wondered if her symptoms 
+were stress-related as she had recently come back from vacation 
+to stressful job.  There she was found to have an elevated 
+troponin I of 0.07 and was referred to ___ for concern of 
+NSTEMI.  She had an unchanged EKG and normal troponin T <0.02 x2 
+(not consistent with prior elevated cardiac enzyme of any 
+variety).  She had negative D-dimer and normal vital signs and 
+physical examination.  She was initially started on aspirin and 
+heparin GTT (discontinued on floor).  She had no further 
+symptoms once presenting to hospital/ED.  She had a stress test 
+that was negative for any anginal symptoms or ischemic EKG 
+changes.  She was discharged on aspirin for primary prevention 
+and followup for possible outpatient stress imaging (nuclear or 
+echocardiographic) within 24 hours of admission.
+
+# Dizziness: The patient's chief complaint is dizziness with a 
+sensation of the 'world spinning'. Has had this happen two weeks 
+ago that self-resolved. Unclear etiology of this symptoms and 
+differential for vertigo would be broad (including cardiac, 
+vestibular/neuro, metabolic). No signs of bleeding or H/H drop. 
+Orthostatics and ___ maneuvers were negative and gait 
+and ability to walk were normal.  Can continue dizziness workup 
+as outpatient.
+
+# Diabetes Mellitus type 2: A1c of 6.5 in ___ on metformin 
+alone.  Holding metformin in favor in ISS.
+# Hypertension: Normotensive, continued on home HCTZ and 
+losartan
+# Hyperlipidemia: Continue pravastatin
+# Glaucoma: The patient reports she doesn't have acute angle 
+glaucoma yet although is being closely followed 'and is close'.  
+Continued home eye drops.
+
+# Code Status: Full Code confirmed.  Emergency contact is 
+husband ___ ___
+# ___: Home without Services
+
+# Transitional Issues: E-Mailed Primary Care Provider about key 
+portions
+[] Continue dizziness workup as outpatient
+[] Consider further outpatient stress imaging (nuclear stress 
+testing or stress echocardiography)
+[] Discharged on aspirin 81mg for primary prevention of 
+cardiovascular disease
+[] Emphasize heart-healthy and diabetic diet and lifestyle
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pravastatin 20 mg PO DAILY 
+2. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+3. Hydrochlorothiazide 25 mg PO DAILY 
+4. Losartan Potassium 50 mg PO DAILY 
+5. Timolol Maleate 0.25% 1 DROP BOTH EYES BID 
+6. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS 
+
+ 
+Discharge Medications:
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES HS 
+3. Losartan Potassium 50 mg PO DAILY 
+4. Pravastatin 20 mg PO DAILY 
+5. Timolol Maleate 0.25% 1 DROP BOTH EYES BID 
+6. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+7. Aspirin 81 mg PO Q48H 
+RX *aspirin 81 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+Acute Coronary Syndrome Rule-Out
+Episodic Dizziness
+
+SECONDARY:
+Hypertension
+Type II Diabetes Mellitus
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+It was a pleasure to take care of you at ___ 
+___.  You were admitted to the hospital because your 
+primary care provider was concerned about you have chest pain 
+and shortness of breath when you were feeling dizzy.  The 
+doctors at ___ were concerned that you had some 
+evidence of heart damage (elevated troponin I).  When we 
+repeated the tests here, your heart muscle enzyme levels were 
+normal.  We also did a stress test that showed no chest pain 
+with exercise and no areas of the heart that weren't getting 
+enough blood.  You had no further chest pain, difficulty 
+breathing, or dizziness in the hospital and were discharged 
+feeling overall well.  Best of luck to you in your future 
+health.
+
+Please take all medications as prescribed, attend all doctor 
+appointments as scheduled, follow a heart healthy diet and 
+lifestyle, and call a doctor if you have any questions or 
+concerns.  You should followup with your primary care provider 
+___ ___ weeks for possible further stress testing and workup your 
+dizziness.  We also started you on low-dose aspirin to reduce 
+your likelihood of having a heart attack.
+
+Sincerely, 
+Your ___ Care Team
+ 
+Followup Instructions:
+___

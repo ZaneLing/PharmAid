@@ -1,0 +1,331 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+acetaminophen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with dementia and
+hypertension who presented to the ED after a fall at her nursing
+home (___).
+
+Patient reports that she got up from bed to use the restroom and
+tripped over a rug on the floor. She struck her head on a piece
+of furniture resulting in two lacerations on her scalp. At that
+point, she used her call button to summon a nurse. She denies
+loss of consciousness, dizziness, lightheadedness, or 
+presyncopal
+symptoms prior to the fall. She also landed on her left wrist.
+
+Patient states that she was feeling well prior to the fall.
+Patient and facility both deny any preceding illness, nausea,
+vomiting, and diarrhea. Review of systems also negative for
+abdominal pain and dysuria.
+
+In the ED, initial vitals:  T 96.8  HR 60  BP 156/52  RR 16  
+SpO2
+98%RA
+
+- Exam notable for two lacerations on her left scalp and
+tenderness of her left wrist.
+- Labs were notable for:
+   H/H 11.3/34.3, Plts 134
+   BUN/Cr 38/1.6
+   UA with small ___, mod blood, 30 protein, few bacteria, 6 epi
+- Imaging:  Head CT without acute intracranial abnormality, L
+hand XR with lateral subluxation of the ulna, and R tib/fib XR
+without fracture or dislocation.
+- Patient was given:  500mL NS, acetaminophen 1g, primidone
+250mg, pramipexole 0.25mg
+- Consults: Hand surgery
+
+The patient's scalp lacerations were stapled in the ED. Hand
+surgery was consulted and felt that this was likely chronic 
+ulnar
+variance with chronic degenerative chances and superimposed 
+acute
+sprain or exacerbation. They recommended a volar splint and
+follow up in ___ in hand surgery
+clinic.
+
+She was admitted to medicine given concern for acute renal
+failure. 
+
+- Vitals prior to transfer were: T 98  HR 58  BP 114/91  RR 16 
+SpO2 99%RA.
+
+On arrival to the floor, patient endorses the above history. She
+denies any current complaints.
+ 
+Past Medical History:
+Dementia
+Hypertension
+Tremor
+ 
+Social History:
+___
+Family History:
+Per patient, no history of chronic illnesses.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=============================
+VS: 97.6 125 / 66  54  18  97% RA 
+GENERAL: Pleasant elderly female lying in bed comfortably. NAD  
+HEENT:  Normocephalic. Two lacerations on the left side of her
+scalp with staples in place. PERRLA, EOMI. Sclera anicteric. 
+MMM.
+CARDIAC: Regular rate and rhythm, normal S1/S2. No murmurs, 
+rubs,
+or gallops.
+LUNG: Clear to auscultation bilaterally. No wheezes, rales, or
+rhonchi. No increased WOB.  
+ABD: Soft, nontender, nondistended. NABS.
+EXT: Warm, well perfused, no lower extremity edema  
+NEURO: AAOx3. CN II-XII grossly intact. ___ strength throughout.
+Slightly slow to answer questions.
+SKIN: No lesions or rashes 
+
+DISCHARGE PHYSICAL EXAM
+=============================
+VITALS: ___ 0747 Temp: 97.5 PO BP: 132/55 HR: 59 RR: 18 O2
+sat: 97% O2 delivery: Ra 
+GENERAL: Pleasant elderly female lying in bed comfortably. NAD  
+HEENT:  Normocephalic. Two lacerations on the left side of her
+scalp with staples in place. PERRLA, EOMI. Sclera anicteric. 
+MMM.
+CARDIAC: Regular rate and rhythm, normal S1/S2. No murmurs, 
+rubs,
+or gallops.
+LUNG: Clear to auscultation bilaterally. No wheezes, rales, or
+rhonchi. No increased WOB.  
+ABD: Soft, nontender, nondistended. NABS.
+EXT: Warm, well perfused, no lower extremity edema  
+NEURO: AAOx3. CN II-XII grossly intact. ___ strength throughout.
+Slightly slow to answer questions.
+SKIN: No lesions or rashes 
+ 
+Pertinent Results:
+ADMISSION LABS
+====================
+___ 03:31AM BLOOD WBC-8.8 RBC-3.53* Hgb-11.3 Hct-34.3 
+MCV-97 MCH-32.0 MCHC-32.9 RDW-14.3 RDWSD-51.1* Plt ___
+___ 03:31AM BLOOD Glucose-122* UreaN-38* Creat-1.6* Na-143 
+K-4.3 Cl-104 HCO3-28 AnGap-11
+___ 03:31AM BLOOD Neuts-76.4* Lymphs-12.1* Monos-8.0 
+Eos-2.4 Baso-0.5 Im ___ AbsNeut-6.76* AbsLymp-1.07* 
+AbsMono-0.71 AbsEos-0.21 AbsBaso-0.04
+___ 07:10AM BLOOD Calcium-8.2* Phos-2.6* Mg-2.2
+
+INTERVAL LABS
+====================
+___ 03:31AM BLOOD CK(CPK)-93
+
+DISCHARGE LABS
+====================
+___ 09:30AM BLOOD WBC-8.5 RBC-3.48* Hgb-11.1* Hct-33.7* 
+MCV-97 MCH-31.9 MCHC-32.9 RDW-14.3 RDWSD-50.5* Plt ___
+___ 09:30AM BLOOD Glucose-107* UreaN-22* Creat-0.9 Na-144 
+K-3.7 Cl-106 HCO3-28 AnGap-10
+___ 09:30AM BLOOD Calcium-8.5 Phos-2.4* Mg-2.3
+
+MICROBIOLOGY
+====================
+Urine culture with mixed flora likely contaminant.
+
+IMAGING STUDIES
+====================
+CT C-Spine ___. Streak artifact from dental amalgam limits evaluation at C2.  
+No displaced fracture seen. 
+2. Normal alignment. 
+3. Multilevel degenerative disease. 
+4. Partially visualized right thyroid lobe is larger than the 
+left with probable nodularity, which is difficult to measure 
+accurately.
+
+CT Head W/O Contrast ___
+Linear hyperdensity along the anterior left temporal cortex is 
+most likely artifactual rather than related to hemorrhage.  
+However, given the ipsilateral scalp laceration and hematoma, a 
+repeated head CT would be helpful for reassessment. 
+
+CT Head W/O Contrast ___. No evidence for acute hemorrhage or other acute intracranial 
+abnormalities. The linear hyperdensity along the left temporal 
+lobe on the earlier CT was likely artifactual. 
+2. Left parietal scalp laceration status post able repair.  No 
+evidence for a fracture. 
+
+Tib/Fib Right ___
+No fracture or dislocation.
+
+Left Hand X-Ray ___
+Lateral subluxation of the ulna at the distal radioulnar joint, 
+resulting in positive ulnar variance.  No acute fracture 
+identified.  Chronic old fracture deformities of the distal 
+radius and ulna. 
+ 
+Brief Hospital Course:
+___ with HTN and dementia presents after a fall at home that 
+resulted in scalp lacerations and right ulnar subluxation. Upon 
+presentation, she was noted to have an acute kidney injury.
+
+# Fall
+Patient presented after falling from her bed at ___ while 
+attempting to go to the restroom. She reported hitting her head 
+on a piece of furniture next to her bed but did not lose 
+consciousness. During her fall, she sustained two lacerations to 
+the left side of her scalp and a subluxation of her left ulna. 
+Favor mechanical fall as patient denies preceding syncopal/ 
+presyncopal events, palpitations, or other symptoms that would 
+suggest alternative etiologies. Orthostatic vital signs were 
+negative. EKG in the ED showed sinus bradycardia and no 
+indication of arrhythmia. She was evaluated by physical therapy 
+while inpatient who recommended she return home with a walker 
+for additional stability while ambulating.
+
+# ___
+Patient presented with a Cr of 1.6 from reported baseline in 
+___ of 0.7. Suspect prerenal etiology based on history of 
+dizziness. Notably, patient also had moderate blood on urine 
+dipstick in the absence of RBCs on urine microscopy, possibly 
+suggestive of myoglobinuria and rhabdomyolysis. However, a CK 
+was checked on admission and was not elevated. Furthermore, the 
+patient reported only being down for a few minutes. She was 
+given IVF with resolution of her ___ the morning after 
+admission. Her losartan was held in the setting of ___. On 
+discharge, she remained normotensive despite being off of the 
+losartan, so it was held pending further evaluation in the 
+outpatient setting.
+
+# Left ulnar subluxation
+Sustained during fall, as above. No acute fracture on imaging. 
+Seen by hand surgery in ED, who felt that this was likely acute 
+on chronic subluxation with some degenerative changes. They 
+recommended a volar brace and follow up with Dr. ___ in 
+hand surgery clinic within two weeks after discharge.
+
+# Scalp lacerations
+Two scalp lacerations on the left sustained during fall. Stapled 
+in the ED. CT head without acute intracranial abnormalities. 
+Staples should be removed within ___ days. This can be done by 
+her primary care physician or she can return to the ___ ED to 
+have this done.
+
+Transitional Issues
+========================
+# Losartan - held in the setting of ___. Patient was 
+normotensive while holding. Can be reevaluated in the outpatient 
+setting.
+# Left ulnar subluxation - to follow up in hand surgery clinic 
+with Dr. ___ 2 weeks (on or around ___.
+# Scalp lacerations - stapled in the ED on ___. Staples can 
+be removed in ___ days, either by her primary care physician or 
+by the ___ ED, whichever is more convenient.
+# Ambulation - physical therapy recommended the use of a walker 
+while ambulating. A script for this was supplied to the patient 
+on discharge.
+
+# CODE: Full (presumed) 
+# CONTACT:
+___ (daughter) ___
+___ (daughter) ___
+___ (daughter) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Donepezil 10 mg PO QHS 
+2. Losartan Potassium 50 mg PO DAILY 
+3. PrimiDONE 250 mg PO BID 
+4. Pramipexole 0.25 mg PO BID 
+5. Simvastatin 40 mg PO QPM 
+6. Propranolol LA 160 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Donepezil 10 mg PO QHS  
+2.  Pramipexole 0.25 mg PO BID  
+3.  PrimiDONE 250 mg PO BID  
+4.  Propranolol LA 160 mg PO DAILY  
+5.  Simvastatin 40 mg PO QPM  
+6. HELD- Losartan Potassium 50 mg PO DAILY  This medication was 
+held. Do not restart Losartan Potassium until instructed to do 
+so by your primary care physician.
+7.Durable Medical Equipment
+ICD 10: R26.2 Difficulty in walking, not elsewhere classified
+Durable Medical Equipment: ___
+Contact Info: ___ (___)
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+====================
+Mechanical fall
+Acute kidney injury
+Acute on chronic subluxation of the left ulna
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ from ___.
+
+WHY WAS I ADMITTED?
+=======================
+- You fell getting out of your bed and hit your head.
+- You had a mild kidney injury, likely from being a little 
+dehydrated.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+=============================================
+- The cuts on your head were stapled.
+- We took images of your head to make sure you weren't bleeding 
+into your brain.
+- You had x-rays of your arm that show a mild dislocation.
+- We gave you IV fluids to help your kidneys.
+- Our physical therapists saw you and recommended you use a 
+walker.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+==============================================
+- Take all of your medications as prescribed.
+- Call your primary care physician to schedule an appointment 
+within a week to have your staples removed (on or around 
+___. Alternatively, you can return to the emergency 
+department and they will be able to remove them for you.
+- Call the hand surgeon (Dr. ___ at ___ and 
+schedule an appointment to be seen within the next two weeks.
+
+It was a pleasure caring for you!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

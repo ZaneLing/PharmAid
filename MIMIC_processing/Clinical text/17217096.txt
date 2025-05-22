@@ -1,0 +1,381 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo M w/ no known PMH presenting with traumatic SAH after
+witnessed fall with head strike. 
+
+History obtained with aid of son. Yesterday evening ___
+patient was in the restroom and fell backwards with positive
+posterior head strike. No loss of consciousness, nausea,
+vomiting, amnesia. Otherwise also denied any preceding CP, SOB,
+palpitations, unilateral numbness or weakness, or slurred 
+speech.
+Per son patient returned to baseline within 1 minute. No recent
+fevers, cough or cold, urinary or bowel symptoms. Patient was
+initially seen at ___ where a head CT demonstrated a small
+subarachnoid hemorrhage for which the patient was transferred to
+___ for neurosurgical evaluation. Neuro exam at this time was
+initially intact with no signs of trauma. 
+
+Notably in the ED just after 8 am on ___, patient triggered
+following a possible syncopal episode. Per report, patient was
+standing up to urinate and developed light headedness. He began
+to fall, but his son caught him and helped him to the edge of 
+the
+bed. There was possible decreased responsiveness for less than a
+minute. Patient states that he recalls the whole event and
+describes a similar sensation to when he fell the prior night at
+home. No extremity shaking, RN reports eye deviation to the 
+left,
+but no incontinence or tongue biting. He returned to his 
+baseline
+state within 1 minute.
+
+Per family, patient has possibly had prior falls at home in 
+___
+with similar episodes of lightheadedness. The family has been
+concerned with decreased PO intake.
+
+In the ED, initial vitals were:
+T 98.3, HR 96, BP 179/91, RR 16, O2 99 RA
+Orthostatics by neurology:
+Supine  BP 144/72, HR 82
+Sitting  BP 89/60, HR 93
+Standing  BP 64/43, HR 105
+
+Exam was notable for: 
+Neuro exam within normal limits aside from lightheadedness while
+standing. No weakness or sensory deficits. Positive orthostatics
+
+Labs were notable for:
+WBC 5.4  Hgb 12.5 Plt 186
+Na 138  K 4.1  Cl 101  HCO3 26  BUN 18  Cr 1.2
+U/A: 1WBC, no bacteria, negative nitrites
+Utox: negative
+LFTs: unremarkable
+Serum tox: neg for ASA, EtOH, Acetaminophen, Tricyclics
+Trop: negative
+
+Studies were notable for:
+CT noncon head: unchanged right parietoocciptal SAH from 
+previous
+study ___ 19:03.
+EKG: sinus rhythm, early R wave progression, LVH, nonspecific ST
+changes
+
+The patient was given:
+1000mL LR
+500mL NS
+Thiamine 100mg
+Multivitamins 1 TAB
+
+Trauma surgery, neurosurgery, and neurology were consulted
+Trauma surgery: no evidence of other traumatic injuries. No need
+for further imaging from trauma perspective.
+Neurosurgery: No neurosurgical intervention or f/u needed.
+Neurology: Likely syncope secondary to orthostatic hypotension.
+Also consider seizure, micturition syncope. 
+RECOMMENDATIONS:
+- IV fluids
+- admit to medicine for workup/management of orthostatic
+hypotension
+- consider workup for prostate cause of urinary frequency
+- consider bladder scan prior to void to assess for bladder
+distension. Would counsel pt to void sitting down to avoid
+compounding orthostatic hypotension.
+- no AEDs needed given low suspicion for seizure
+
+On arrival to the floor, patient and son repeat the above story.
+Patient states that he felt better following fluid 
+administration
+and denies any other symptoms at this time.
+
+ 
+Past Medical History:
+Remote hx knee surgery following car accident ___ yrs ago.
+
+ 
+Social History:
+___
+Family History:
+No seizures, cardiac issues. Son with HTN and borderline DM.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=======================
+
+VS: T 97.8, HR 73, BP 162/83 lying 138/66 sitting 86/62 
+standing,
+RR 18. O2 97 RA
+
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm
+NEUROLOGIC: AOx3 to name, place, date. CN2-12 intact. Moving all
+4 limbs spontaneously. ___ strength throughout. Normal 
+sensation.
+
+DISCHARGE PHYSICAL EXAM:
+=======================
+
+VS: 24 HR Data (last updated ___ @ 2259)
+    Temp: 97.9 (Tm 98.3), BP: 171/84 (78-171/53-92), HR: 93
+(77-93), RR: 18 (___), O2 sat: 97% (95-98), O2 delivery: Ra   
+
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. dry
+oral mucosa, bruising on R aspect of tongue consistent with
+biting
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. 
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+SKIN: Warm
+NEUROLOGIC: AOx3 to name, place, date. CN2-12 intact. Moving all
+4 limbs spontaneously. ___ strength throughout. Normal 
+sensation.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+
+___ 10:25PM BLOOD WBC-5.4 RBC-3.85* Hgb-12.5* Hct-37.4* 
+MCV-97 MCH-32.5* MCHC-33.4 RDW-11.5 RDWSD-40.4 Plt ___
+___ 10:25PM BLOOD Neuts-52.8 ___ Monos-7.6 Eos-0.6* 
+Baso-0.2 Im ___ AbsNeut-2.83 AbsLymp-2.06 AbsMono-0.41 
+AbsEos-0.03* AbsBaso-0.01
+___ 10:25PM BLOOD Glucose-112* UreaN-18 Creat-1.2 Na-138 
+K-4.1 Cl-101 HCO3-26 AnGap-11
+
+DISCHARGE LABS
+===============
+
+___ 07:17AM BLOOD WBC-4.6 RBC-3.77* Hgb-12.2* Hct-36.4* 
+MCV-97 MCH-32.4* MCHC-33.5 RDW-11.6 RDWSD-40.8 Plt ___
+___ 07:17AM BLOOD Glucose-112* UreaN-25* Creat-1.2 Na-138 
+K-5.0 Cl-100 HCO3-27 AnGap-11
+___ 07:17AM BLOOD Calcium-9.9 Phos-3.4 Mg-2.0
+
+OTHER PERTINENT LABS
+=====================
+
+___ 08:20AM BLOOD ALT-12 AST-22 AlkPhos-51 TotBili-0.4
+___ 08:20AM BLOOD cTropnT-<0.01
+___ 08:20AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 08:14AM BLOOD Cortsol-15.1
+___ 08:14AM BLOOD TSH-0.85
+
+IMAGING/STUDIES
+===============
+
+___ Imaging CT HEAD W/O CONTRAST 
+ 
+There is redemonstration of the right parietooccipital 
+subarachnoid 
+hemorrhage, unchanged from prior study dated ___.  
+There is no 
+mass-effect or midline shift.  There is no evidence of acute 
+large territorial infarction, edema,or mass.  There is 
+prominence of the ventricles and sulci suggestive of 
+involutional changes.  Bilateral periventricular and subcortical 
+white matter hypodensities are nonspecific but compatible with 
+sequelae of chronic small vessel ischemic disease. 
+  
+There is no evidence of fracture.  The visualized portion of the 
+paranasal 
+sinuses, mastoid air cells, and middle ear cavities are clear.  
+The visualized portion of the orbits are unremarkable. 
+  
+IMPRESSION:  
+  
+Unchanged right parieto-occipital subarachnoid hemorrhage. 
+
+___ Cardiovascular Transthoracic Echo Report 
+CONCLUSION:
+The left atrial volume index is normal. The estimated right 
+atrial pressure is ___ mmHg. There is normal left ventricular 
+wall thickness with a small cavity. There is normal regional and 
+global left ventricular systolic function. Overall left 
+ventricular systolic function is hyperdynamic. The visually 
+estimated left ventricular ejection fraction is 80%. There is a 
+mild mid cavitary gradient but no RESTING left ventricular 
+outflow tract gradient. There is Grade I diastolic dysfunction. 
+Normal right ventricular cavity size with normal free wall 
+motion. Tricuspid annular plane systolic excursion (TAPSE) is 
+normal. The aortic sinus diameter is normal for gender with 
+mildly dilated ascending aorta. The aortic arch diameter is 
+normal with a normal descending aorta
+diameter. The aortic valve leaflets (3) are mildly thickened. 
+There is no aortic valve stenosis. There is trace aortic 
+regurgitation. The mitral valve leaflets appear structurally 
+normal with no mitral valve prolapse. There is trivial mitral 
+regurgitation. The pulmonic valve leaflets are normal. There is 
+mild pulmonic regurgitation. The tricuspid valve leaflets appear 
+structurally normal. There is mild [1+] tricuspid regurgitation. 
+There is mild pulmonary artery systolic hypertension. There is 
+no pericardial effusion.
+IMPRESSION: small, hyperdynamic left ventricle without resting 
+outflow tract obstruction
+ 
+Brief Hospital Course:
+___ yoM w/ no known PMH on no medications who presented from OSH
+with small SAH after fall and subsequent episode of
+lightheadedness in the ED, found to have orthostatic 
+hypotension.
+
+====================
+ACUTE/ACTIVE ISSUES:
+====================
+
+# Syncope/Light-headedness
+# Orthostatic Hypotension
+# Subarachnoid hemorrhage
+Presented with fall/lightheadedness with standing in the setting 
+of decreased PO intake. Upon admission he was found to be 
+orthostatic with transiently improved symptoms after IVF. CT was 
+notable for stable right parieto-occipital SAH. Despite his 
+tongue bite, seizure was considered less likely given no limb 
+jerking, incontinence, or postictal period. ECG was notable for 
+likely L atrial enlargement and
+possible inferior infarct, however there was no arrhythmia on 
+telemetry or ECG. TTE demonstrated hyperdynamic circulation with 
+EF 80%, intracavitary gradient without LVOT obstruction at rest. 
+This was most likely explained by hypovolemia and the patient 
+was given further IVF and encouraged to increase PO intake. 
+Repeat orthostatics were positive, although the patient was not 
+symptomatic. It was thought that there may likely be an element 
+of age related vasoplegia and dysautonomia given supine 
+hypertension. We counseled the patient and family with 
+precautionary measures, instructing him to rise slowly from bed 
+and sit on the toilet when going to the bathroom. 
+
+#Severe Malnutrition 
+The patient had been living in ___ until 3 weeks prior to 
+admission. His son described that in ___, the patient was 
+often unable to go out and get food due to civil unrest, 
+contributing to his malnutrition. Nutrition consulted during 
+admission with recs for ensure supplements TID and multivitamin 
+with minerals. 
+
+# Urinary frequency
+The patient reported chronically increased frequency without 
+infectious symptoms such as dysuria, flank pain, fevers. UA 
+unremarkable. This was thought most likely to be related to due 
+to BPH or overactive bladder. Bladder scans with < 100cc PVR 
+which did not suggest retention. We deferred Tamsulosin or 
+empiric BPH treatment given orthostasis.
+
+TRANSITIONAL ISSUES
+===================
+
+# Living situation
+# Unintentional Weight Loss
+# Food insecurity
+[] Lives in ___, unclear if he has been getting regular 
+medical care given not on any medications. Would recommend 
+getting all outpatient cancer screening here in the ___
+
+# Urinary frequency
+[] Consider initiation of finasteride for empiric BPH treatment. 
+Would avoid alpha blockers given symptomatic orthostatic 
+hypotension
+
+# Orthostatic hypotension with systolic hypertension
+[] Recommend increased PO intake and precautionary measures like 
+getting up from bed slowly. If he needs to be started on an 
+antihypertensive, would avoid alpha blockers.
+
+# CODE: full code (confirmed)
+# CONTACT: ___, ___, ___
+
+>30 min spent on discharge planning, including face to face 
+time. 
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Multivitamins W/minerals 1 TAB PO DAILY 
+RX *multivitamin,tx-minerals  1 tab-cap by mouth once a day Disp 
+#*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+=================
+Syncope/Light-headedness
+Orthostatic Hypotension
+Subarachnoid hemorrhage
+
+SECONDARY DIAGNOSES:
+=====================
+Severe Malnutrition 
+Increased Urinary frequency
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ 
+ WHY WERE YOU ADMITTED TO THE HOSPITAL?
+ - You were admitted to the hospital because you fell at home.  
+
+ WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?  
+ - You were found to have a bleed in your brain from the fall.
+ - We found that you fall was likely due to being dehydrated. We 
+gave you fluids though the IV. 
+ - You improved and were ready to leave the hospital.  
+
+ WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+ - Please take all of your medications as prescribed and go to 
+your follow up appointments with your doctors ___ below)   
+ - Weigh yourself every morning, before you eat or take your 
+medications. Call your doctor if your weight increases by more 
+than 3 pounds  
+ - Please maintain a low salt diet and monitor your fluid intake 
+ 
+ - Seek medical attention if you have new or concerning symptoms 
+
+
+ It was a pleasure participating in your care. We wish you the 
+best!
+ 
+ - Your ___ Care Team  
+ 
+Followup Instructions:
+___

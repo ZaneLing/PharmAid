@@ -1,0 +1,242 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+___
+ 
+Major Surgical or Invasive Procedure:
+Pacemaker placement ___
+
+ 
+History of Present Illness:
+Mr ___ is a ___ y/o M with PMH significant for hyperlipidemia
+and rheumatic heart disease who presents with slow heart rates.
+
+About 1 week ago the patient notes that he developed worsening
+malaise.  He checked his heart rate at this time and noted that
+his heart rate was in the low ___.  He has a heart rate that
+typically runs in the ___ but this was lower than usual for him. 
+
+He is otherwise been healthy and lives an active lifestyle.  He
+denies any lightheadedness, dizziness, syncope at home.
+
+He visited his primary care doctor who ordered an EKG that 
+showed
+bradycardia with concern for heart block.  He was then referred
+to the ___ emergency room.  In the ED, an EKG revealed 
+complete
+heart block.  He was started on dopamine and then sent 
+emergently
+for pacemaker placement, which was done successfully.
+
+Post procedure, patient is feeling well.  He denies any chest
+pain, dyspnea, palpitations at this time.
+ 
+REVIEW OF SYSTEMS:  
+10 point ROS completed and negative except as above
+ 
+Past Medical History:
+Rheumatic heart disease
+Hyperlipidemia
+ 
+Social History:
+___
+Family History:
+Non-contributory to presenting complaint.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM 
+=====================  
+___ 2100 BP: 137/75 HR: 60 RR: 20 O2 sat: 96% O2 delivery:
+RA 
+GEN: Well appearing, NAD
+HEENT: Conjunctiva clear, PERRL, MMM
+NECK: No JVD. 
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. I/VI SEM.  Pacemaker site C/D/I
+ABD: NT/ND, normal bowel sounds. 
+EXTREMITIES: No edema. WWP.
+SKIN: No rashes.
+NEURO: AOx3
+
+DISCHARGE PHYSICAL EXAM
+=======================
+24 HR Data (last updated ___ @ 725)
+    Temp: 97.9 (Tm 98.5), BP: 160/87 (135-160/75-90), HR: 60, 
+RR:
+18 (___), O2 sat: 95% (94-96), O2 delivery: Ra, Wt: 184
+lb/83.46 kg  
+ GEN: Well appearing, NAD
+NECK: No JVD. 
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. I/VI SEM.  Pacemaker site C/D/I
+EXTREMITIES: No edema. WWP.
+NEURO: AOx3
+ 
+Pertinent Results:
+ADMISSION LABS
+==================
+
+___ 03:01PM   GLUCOSE-96 UREA N-19 CREAT-1.2 SODIUM-142 
+POTASSIUM-4.3 CHLORIDE-101 TOTAL CO2-27 ANION GAP-14
+___ 03:01PM   estGFR-Using this
+___ 03:01PM   cTropnT-<0.01
+___ 03:01PM   proBNP-159
+___ 03:01PM   CALCIUM-10.0 PHOSPHATE-3.8 MAGNESIUM-2.2
+___ 03:01PM   WBC-7.3 RBC-5.32 HGB-16.0 HCT-50.1 MCV-94 
+MCH-30.1 MCHC-31.9* RDW-14.5 RDWSD-50.0*
+___ 03:01PM   NEUTS-60.9 ___ MONOS-9.4 EOS-2.2 
+BASOS-1.0 IM ___ AbsNeut-4.42 AbsLymp-1.90 AbsMono-0.68 
+AbsEos-0.16 AbsBaso-0.07
+___ 03:01PM   ___ PTT-28.1 ___
+___ 03:01PM   PLT COUNT-194
+
+DISCHARGE LABS
+====================
+___ 07:00AM BLOOD WBC-7.5 RBC-4.75 Hgb-14.7 Hct-44.4 MCV-94 
+MCH-30.9 MCHC-33.1 RDW-14.2 RDWSD-48.7* Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 07:00AM BLOOD Glucose-92 UreaN-17 Creat-1.2 Na-139 
+K-4.8 Cl-106 HCO3-24 AnGap-9*
+ 
+Brief Hospital Course:
+=======================
+SUMMARY STATEMENT
+=======================
+
+Mr ___ is a ___ y/o M with PMH significant for rheumatic heart
+disease who presented with several weeks of lightheadedness and 
+bradycardia, found to have complete heart block. On ___, he 
+underwent uncomplicated ___ pacemaker insertion (dual 
+chamber pacemaker implantation via the right cephalic vein).
+
+ACUTE ISSUES:
+=============
+
+# Complete heart block s/p PPM
+Patient with known conduction disease, with prior EKG from ___
+showing Wenkebach. Patient's current presentation was likely
+progression of his known underlying conduction disease, given
+history of heart block and rheumatic heart disease. He is now
+status post pacemaker placement. After the procedure, he 
+remained hemodynamically stable in sinus rhythm. Device 
+interrogation prior to discharge revealed that his pacer 
+function is normal with acceptable lead measurements and battery 
+status. EKG and CXR were appropriate, revealing correct lead 
+placement and appropriate functioning of pacemaker. No evidence 
+of pneumothorax, tamponade or other serious complication. He 
+will follow-up with Dr. ___ in the next 2 weeks.
+
+#Tick bite. 
+During transportation to the hospital before patient was 
+evaluated in the ED for his bradycardia, he removed a tick from 
+his right torso. On further discussion, patient revealed that 
+the tick had been engorged but that it had definitely been 
+attached for less than 24 hours. On examination, he did have 
+bruising at the area of the bite. Decided to initiate treatment 
+with doxycycline 100mg QD for 10 days. He had follow-up with his 
+PCP next week.
+
+#History of rheumatic heart disease
+Continued home aspirin
+
+===================
+TRANSITIONAL ISSUES 
+==================== 
+DISCHARGE WEIGHT: 84.7 kg
+DISCHARGE Cr/BUN: 1.___.
+MEDICATION CHANGES: 
+- NEW: 
+Amlodipine 5 mg daily
+Doxycycline 100mg QD
+
+- STOPPED: None
+- CHANGED: None
+
+[] Needs to see Dr. ___ 2 weeks. Appointment was 
+pending on discharge
+[] Started on a 10 day course of doxycycline due to recent 
+history of tick bite
+[] Started on amlodipine 5mg for hypertension (SBPs in the 
+160s). Please uptitrate as tolerated
+[] Please continue alcohol cessation counseling as an outpatient 
+as patient reported drinking at least 2 drinks a night right 
+before he was discharged.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+Take 1 pill of amlodipine 5 mg daily.  
+2.  Doxycycline Hyclate 100 mg PO DAILY 
+1 tab daily for 10 days  
+3.  Aspirin 81 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis
+------------------
+Bradycardia
+
+Secondary diagnosis
+------------------
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+ Dear Mr. ___,  
+
+ It was a pleasure taking care of you at ___ 
+___.  
+ 
+WHY WAS I ADMITTED TO THE HOSPITAL?  
+ - You were admitted because your heart rate was very slow  
+ 
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?  
+ - Your EKG showed that the chambers of your heart were not 
+beating together, which is called complete heart block. This was 
+causing your heart to beat much slower than usual. In the 
+hospital, you had a pacemaker. Additionally, your blood 
+pressures were elevated in the hospital, so we started you on an 
+antihypertensive agent called amlodipine at a dose of 5 mg. 
+-You also mentioned that you had a recent tick bite and we 
+started you on an antibiotic called Doxycycline for 10 days. If 
+you notice any new rashes, please call your primary care doctor 
+right away.
+ 
+WHAT SHOULD I DO WHEN I GO HOME?  
+ - You should continue to take your amlodipine 5 mg as 
+prescribed.  
+ - You should attend the appointments with Dr. ___ your 
+primary care doctor, as listed below.  
+ - Seek medical attention if you have new or concerning symptoms 
+or you develop swelling in your legs, abdominal distention, or 
+shortness of breath at night.  
+
+ We wish you the best!  
+ Your ___ Care Team  
+ 
+Followup Instructions:
+___

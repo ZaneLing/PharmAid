@@ -1,0 +1,274 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac cath:
+Coronary Anatomy
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is free of significant stenosis.
+* Left Anterior Descending
+The LAD is free of significant stenosis.
+* Circumflex
+There is a 99% stenosis in the Mid Circumflex. The lesion has a 
+TIMI flow of 2 and has no noted
+calcification. This lesion is further described as diffusely 
+diseased. An intervention was performed on the
+Mid Circumflex with a final stenosis of 0%. There were no lesion 
+complications.
+* Right Coronary Artery
+The RCA has mild irregularities.
+Interventional Details
+Heparin 3000 with ACT ___. Ticagrelor in ED. ___ FrenchXB LAD 3.5 
+guide provided good support.
+Prowater wire to disatl LPL. 2.5 x 12 balloon at 6 ATM x 3 
+inflations with loss of distal flow. 3.0 x 32
+Promus ___ at 12 ATM with restoration of flow. Stent 
+post-dilated with 3.0 x 20 NC balloon at
+___ ATM. Final angio showed no residual, no dissection and 
+TIMI ___levation resolved.
+
+ 
+History of Present Illness:
+Mr ___ is a ___ year old man with a history of hypertension, 
+presenting with acute onset chest pain, diagnosed with 
+inferior/posterior STEMI, now s/p DES to the left circumflex.  
+ Patient is generally healthy and active with frequent exercise. 
+Only medical comorbidity to this point is hypertension. He was 
+exercising in the gym (weight lifting and running) around 7pm, 
+and near the end of the work-out developed stabbing retrosternal 
+chest pain radiating to the arm. He returned home, and with rest 
+and a shower felt a little improvement in his chest pain. He 
+went to sleep still having chest pain, but around 1130 woke with 
+worsening pain, diaphoresis, dyspnea, and decided to come to the 
+ED.  
+ In the ED, initial vitals were: T 97.9, HR 89, BP 167/90, RR 
+18, SPO2 100% on RA.  
+ EKG showed ST elevations in leads II, III, aVF, ST depressions 
+in leads V1-2.  
+ - Labs notable for:  
+ --troponin 0.10  
+ --normal chem 7, normal CBC, normal coags,  
+ - Patient was given: aspirin 324mg PO, heparin bolus 4000U IV, 
+morphine 4mg IV, ticagrelor 180mg PO.  
+ He was taken to the cath lab emergently. Cath demonstrated 99% 
+stenosis in the mid circumflex, and a DES was deployed there. 
+There was question of LCx dissection with balloon inflation, 
+improved with the expansion of the stent. Door to balloon time 
+was 60 minutes. Access via right radial artery.  
+ Upon arrival to the floor, patient reports that he is pain 
+free, and denies other symptoms.  
+ 
+
+ 
+Past Medical History:
+Hypertension  
+Appendectomy  
+ 
+Social History:
+___
+Family History:
+father with hypertension  
+
+ 
+Physical Exam:
+VS: T98, BP 121/73, HR 62, RR 18, O2 96% on RA   
+Tele: no alarms  
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric
+Neck: Supple 
+CV: RRR, nl S1 S2, no m/r/g 
+Lungs: CTA b/l, no wheezes, rales, rhonchi  
+Abdomen: Soft, non-tender, non-distended
+GU: No foley  
+Ext: WWP, DP 2+ bilaterally  
+Neuro: CNII-XII intact
+ 
+Pertinent Results:
+admissions labs:
+___ 05:46AM   GLUCOSE-93 UREA N-14 CREAT-0.9 SODIUM-138 
+POTASSIUM-4.1 CHLORIDE-104 TOTAL CO2-20* ANION GAP-18
+___ 05:46AM   CALCIUM-9.1 PHOSPHATE-3.6 MAGNESIUM-2.7* 
+CHOLEST-173
+___ 05:46AM   %HbA1c-5.6 eAG-114
+___ 05:46AM   TRIGLYCER-126 HDL CHOL-36 CHOL/HDL-4.8 
+LDL(CALC)-112
+___ 05:46AM   WBC-5.8 RBC-5.28 HGB-15.9 HCT-46.9 MCV-89 
+MCH-30.1 MCHC-33.9 RDW-12.4 RDWSD-40.7
+___ 05:46AM   PLT COUNT-285
+___ 01:39AM   TYPE-ART PH-7.35 INTUBATED-NOT INTUBA
+___ 01:39AM   GLUCOSE-104 NA+-131* K+-3.5 CL--97 TCO2-24
+___ 01:39AM   freeCa-1.13
+___ 12:45AM   GLUCOSE-117* UREA N-15 CREAT-1.0 SODIUM-138 
+POTASSIUM-3.9 CHLORIDE-98 TOTAL CO2-26 ANION GAP-18
+___ 12:45AM   estGFR-Using this
+___ 12:45AM   cTropnT-0.10*
+___ 12:45AM   WBC-7.7# RBC-5.50 HGB-16.5 HCT-49.0 MCV-89 
+MCH-30.0 MCHC-33.7 RDW-12.4 RDWSD-40.6
+___ 12:45AM   NEUTS-23.2* LYMPHS-60.9* MONOS-10.5 EOS-3.5 
+BASOS-1.8* IM ___ AbsNeut-1.80 AbsLymp-4.71* AbsMono-0.81* 
+AbsEos-0.27 AbsBaso-0.14*
+___ 12:45AM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-NORMAL MACROCYT-NORMAL MICROCYT-NORMAL 
+POLYCHROM-NORMAL
+___ 12:45AM   PLT COUNT-296
+___ 12:45AM   ___ PTT-31.1 ___
+
+Discharge labs:
+___ 07:00AM BLOOD WBC-5.6 RBC-5.15 Hgb-15.9 Hct-46.2 MCV-90 
+MCH-30.9 MCHC-34.4 RDW-12.4 RDWSD-41.1 Plt ___
+___ 07:00AM BLOOD Plt ___
+___ 07:00AM BLOOD Glucose-94 UreaN-21* Creat-1.2 Na-140 
+K-4.5 Cl-101 HCO3-25 AnGap-19
+___ 07:00AM BLOOD Calcium-9.4 Phos-4.2 Mg-2.2
+
+CARDIAC CATH:
+Coronary Anatomy
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is free of significant stenosis.
+* Left Anterior Descending
+The LAD is free of significant stenosis.
+* Circumflex
+There is a 99% stenosis in the Mid Circumflex. The lesion has a 
+TIMI flow of 2 and has no noted
+calcification. This lesion is further described as diffusely 
+diseased. An intervention was performed on the
+Mid Circumflex with a final stenosis of 0%. There were no lesion 
+complications.
+* Right Coronary Artery
+The RCA has mild irregularities.
+Interventional Details
+Heparin 3000 with ACT ___. Ticagrelor in ED. ___ FrenchXB LAD 3.5 
+guide provided good support.
+Prowater wire to disatl LPL. 2.5 x 12 balloon at 6 ATM x 3 
+inflations with loss of distal flow. 3.0 x 32
+Promus ___ at 12 ATM with restoration of flow. Stent 
+post-dilated with 3.0 x 20 NC balloon at
+___ ATM. Final angio showed no residual, no dissection and 
+TIMI ___levation resolved.
+Intra-procedural Complications: None
+--------------
+
+Conclusions   
+ The left atrium and right atrium are normal in cavity size. 
+Color-flow imaging of the interatrial septum raises the 
+suspicion of an atrial septal defect, but this could not be 
+confirmed on the basis of this study. The estimated right atrial 
+pressure is at least 15 mmHg. There is mild symmetric left 
+ventricular hypertrophy with normal cavity size. There is mild 
+regional left ventricular systolic dysfunction with hypokinesis 
+of the basal inferior and basal-mid inferolateral walls. The 
+remaining segments contract normally. Overall left ventricular 
+systolic function is low normal (quantitative biplane LVEF 51%). 
+Doppler parameters are indeterminate for left ventricular 
+diastolic function. There is no left ventricular outflow 
+obstruction at rest or with Valsalva. Right ventricular chamber 
+size and free wall motion are normal. The diameters of aorta at 
+the sinus, ascending and arch levels are normal. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis. Trace aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. There is 
+no mitral valve prolapse. Mild (1+) mitral regurgitation is 
+seen. The pulmonary artery systolic pressure could not be 
+determined. There is no pericardial effusion. 
+IMPRESSION: Mild regional left ventricular dysfunction c/w CAD, 
+with borderline systolic function. Mild mitral regurgitation.  
+
+ 
+Brief Hospital Course:
+___ with PMH of HTN, p/w STEMI s/p DES to LCx. 
+
+#STEMI: acute onset CP with exertion, found to have STEMI in 
+inferior leads, s/p DES to LCx. Question of dissection during 
+catheterization, but resolved s/p stent. TTE shows LVEF 51%, 
+mild regional left ventricular dysfunction c/w CAD, mild mitral 
+regurgitation. Patient was discharged home on ASA 81 mg, 
+ticagrelor 90 mg bid(30d supply. Also taking atorvastatin 80 mg, 
+metoprolol xl 25 mg. 
+
+# Hypertension: continued home amlodipine. Stopped HCTZ and 
+started lisinopril given CAD.
+
+Transitional issues:
+- patient will need to follow up with a cardiologist
+- needs to be reminded to take DAPT consistently 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin [Aspir-81] 81 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Lisinopril 2.5 mg PO DAILY 
+RX *lisinopril 2.5 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+5.  TiCAGRELOR 90 mg PO BID 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth every 12 
+hours Disp #*60 Tablet Refills:*0 
+6.  amLODIPine 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+STEMI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+  
+ It was a pleasure taking care of you at the ___ 
+___. You were admitted because you had a 
+heart attack.  
+ It is very important to take all of your heart healthy 
+medications. Very importantly, you are now taking aspirin 81 mg 
+once a day and ticagrelor 90 mg twice a day. These two 
+medications keep the stents in the vessels of the heart open and 
+help reduce your risk of having a future heart attack. If you 
+stop these medications or miss ___ dose, you risk causing a blood 
+clot forming in your heart stents, and you may die from a 
+massive heart attack. Please DO NOT STOP taking either 
+medication without taking to your heart doctor, even if another 
+doctor tells you to stop the medications. 
+
+Also, take Lisinopril 2.5 mg PO/NG DAILY, amLODIPine 10 mg PO/NG 
+DAILY,  Metoprolol Succinate XL 25 mg PO DAILY for your heart 
+health. 
+ 
+ We wish you the best with your health,  
+ Your ___ Cardiac Care Team  
+
+ 
+Followup Instructions:
+___

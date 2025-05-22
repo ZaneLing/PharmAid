@@ -1,0 +1,224 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin / aspirin / G6PD
+ 
+Attending: ___.
+ 
+Chief Complaint:
+cough
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+HPI: The patient is a ___ male w/PMHx G6PD deficiency and
+hypertension presenting with influenza and possible bacterial
+pneumonia.  He was in his USOH until ___ when he
+developed cough, went to ___ on ___,
+was given Zithromax, cough medication and Tylenol.  He went home
+and ___ had sweats and T 101, got the cough medication,
+felt worse ___ and then the cough became productive of
+yellow sputum, and he felt worse so he came to ___ today.  He
+also notes malaise, myalgias, sore abdomen from coughing and
+congestion.  No chest pains but a bit of chest tightness
+associated with congestion.  Of note, an office mate had the flu
+recently.
+
+In the ED: Tmax 100.1, HR 53-106 (w/fever), BP 
+110s-130s/70s-90s,
+RR ___, sat 100% on RA.  Given IVF, APAP, ketorolac, CXR 
+showed
+possible PNA, flu swab positive for flu B. Cr 1.6, WBC 2.4 w/49%
+PMNs, Plt 123.
+
+ROS: [x] As per above HPI, otherwise reviewed and negative in 
+all
+systems
+
+Primary Care Provider: ___, MD
+
+ 
+Past Medical History:
+PMHx:
+Hypertension
+Headaches
+G6PD deficiency diagnosed as a child
+
+PSHx:
+No surgeries
+
+ 
+Social History:
+___
+Family History:
+FHx:
+No h/o G6PD or respiratory problems
+
+ 
+Physical Exam:
+Admission Physical Exam:
+VS: T 98.3, HR 82, BP 119/92, RR 20, O2 sat 100% on RA
+Lines/tubes: PIV
+Gen: middle aged man lying in bed, alert, cooperative, fatigued
+but otherwise NAD
+HEENT: anicteric, PERRL, MMM, no oral lesions
+Chest: equal chest rise, CTAB posteriorly, no sig adventitial
+sounds, no WOB or cough while I'm in the room
+Cardiovasc: RRR, no m/r/g
+Abd: soft, NTND
+Extr: WWP, no edema
+Skin: no rashes noted on limited exam
+Neuro: no obvious focal deficits noted
+Psych: normal affect
+
+Discharge Physical Exam:
+
+ 
+Pertinent Results:
+Labs and Micro:
+___: WBC: 2.4*
+___: HGB: 11.9*
+___: HCT: 36.6*
+___: Plt Count: 123*
+___: ___: 10.4
+___: INR: 1.0
+___: PTT: 30.4
+___: Na: 137
+___: K: 3.5
+___: Cl: 100
+___: CO2: 30
+___: BUN: 15
+___: Creat: 1.6*
+___: eGFR: 57
+___: Glucose: 93
+___: ALT: 11
+___: AST: 27
+___: Alk Phos: 44
+___: Total Bili: 0.6
+___: Alb: 3.6
+
+Imaging:
+CXR -- IMPRESSION: Probable developing right lower lobe
+pneumonia.
+
+Influenza swab -- Flu B positive
+
+BCx x 2 NGTD
+
+___ 01:41PM BLOOD WBC-2.4* RBC-4.31* Hgb-11.9* Hct-36.6* 
+MCV-85 MCH-27.6 MCHC-32.5 RDW-12.2 RDWSD-37.2 Plt ___
+___ 06:27AM BLOOD WBC-1.9* RBC-4.00* Hgb-10.9* Hct-34.1* 
+MCV-85 MCH-27.3 MCHC-32.0 RDW-12.0 RDWSD-37.9 Plt ___
+___ 06:55AM BLOOD WBC-3.4*# RBC-4.01* Hgb-10.9* Hct-34.4* 
+MCV-86 MCH-27.2 MCHC-31.7* RDW-11.9 RDWSD-37.6 Plt ___
+___ 01:41PM BLOOD Neuts-48.6 ___ Monos-17.3* 
+Eos-0.8* Baso-0.4 AbsNeut-1.15* AbsLymp-0.78* AbsMono-0.41 
+AbsEos-0.02* AbsBaso-0.01
+___ 06:27AM BLOOD Neuts-38 Bands-0 ___ Monos-10 Eos-0 
+Baso-0 Atyps-1* ___ Myelos-0 AbsNeut-0.72* AbsLymp-0.99* 
+AbsMono-0.19* AbsEos-0.00* AbsBaso-0.00*
+___ 06:55AM BLOOD Neuts-57.0 ___ Monos-10.5 
+Eos-0.3* Baso-0.3 AbsNeut-1.95# AbsLymp-1.09* AbsMono-0.36 
+AbsEos-0.01* AbsBaso-0.01
+___ 01:41PM BLOOD Plt ___
+___ 06:27AM BLOOD Plt Smr-LOW Plt ___
+___ 06:55AM BLOOD Plt ___
+___ 01:41PM BLOOD Glucose-93 UreaN-15 Creat-1.6* Na-137 
+K-3.5 Cl-100 HCO3-30 AnGap-11
+___ 06:27AM BLOOD Glucose-113* UreaN-11 Creat-1.5* Na-137 
+K-4.0 Cl-105 HCO3-27 AnGap-9
+___ 06:55AM BLOOD Glucose-93 UreaN-8 Creat-1.2 Na-141 K-3.9 
+Cl-108
+___ 06:55AM BLOOD TotBili-0.9 DirBili-<0.2 IndBili-0.9
+___ 06:27AM BLOOD Calcium-7.9* Phos-1.6* Mg-1.8
+___ 06:55AM BLOOD Calcium-8.2* Phos-2.2* Mg-1.7
+___ 10:35AM BLOOD calTIBC-192* VitB12-309 Folate-5.1 
+Ferritn-299 TRF-148*
+___ 06:55AM BLOOD Hapto-178
+___ 10:35AM BLOOD HIV Ab-Negative
+ 
+Brief Hospital Course:
+ASSESSMENT
+___ man w/PMHx G6PD deficiency, hypertension, admitted with 
+Influenza B and suspected bacterial pneumonia.  Treating as 
+noted below.
+
+HOSPITAL COURSE
+Influenza B and suspected bacterial pneumonia
+- BCx show no growth to date, and he did well on levofloxacin 
+and oseltamivir here on the floor and will complete ___t home of each.  A note for work and FMLA form was provided to 
+him, and faxed to his insurance (respectively)
+
+Acute renal failure
+- was pre-reanl etiology and normalized after IVF
+
+Hypertension
+- HCTZ restarted on discharge
+
+Pancytopenia
+- suspect ___ influenza.  NEutropenia resolved.  
+Thromboctyopenia and anemia are mild and persist, and he was 
+instructed to ___ with his PCP for further ___.  An HIV Ab 
+test was negative.
+
+FEN
+- regular diet, replete electrolytes PRN (goal K >=4.0, Mg 
+>=2.0)
+
+Care Preferences: has not done other forms of advance care 
+planning (e.g. living will) and has not thought about the kind 
+of care he'd want if he got really sick some day
+
+Transitional issues: 
+1) Needs f/u for anemia and thrombocytopenia as outpatient
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. Levofloxacin 750 mg PO DAILY 
+RX *levofloxacin [Levaquin] 750 mg 1 tablet(s) by mouth daily 
+Disp #*3 Tablet Refills:*0
+3. OSELTAMivir 75 mg PO Q12H 
+RX *oseltamivir [Tamiflu] 75 mg 1 capsule(s) by mouth twice a 
+day Disp #*7 Capsule Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute influenza
+Comm Acquired pneumonia
+Pancytopenia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with acute influenza and possible bacterial 
+pneumonia.  You were treated with oseltamivir and antibiotics. 
+Your course was complicated by low blood counts, presumably from 
+the viral infection. The white blood cell count improved on its 
+own, though you still have mildly low red blood cell (anemia) 
+and platelets (thrombogytopenia) which will need follow-up with 
+your PCP -- an appointment was made for ___ **please keep 
+this appointment**.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,189 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal Pain
+ 
+Major Surgical or Invasive Procedure:
+N/A
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o M who presents to ___ for recurrent 
+epigastric abdominal pain.
+
+Pt seen in ED on ___ with similar pain that started a few days 
+prior, found to have acute pancreatitis with lipase 600.  
+Unclear trigger.  No cholelithiasis noted.  ___ wnl.  He was 
+admitted to ED obs and treated with IVF's, cautious advancement 
+of diet and
+pain meds with significant improvement.
+
+However, after discharge, he's had progressive recurrence of 
+pain, nausea/vomiting, and bloating.  Also feels constipated as 
+he hasn't had BM in 4 days.  Febrile to 100.8.  No SOB, cough, 
+chest pain, diarrhea.  Pt reports being unable to sleep due to 
+the pain.  Thinks he also has a headache due to uncomfortable 
+positioning.
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+No family history of autoimmune diseases or GI issues.
+ 
+Physical Exam:
+ADMISSION:
+VITALS: 98.9PO 136 / 82 72 18 95 RA  
+GENERAL: well-appearing, laying in bed, in NAD
+EYES: no scleral icterus, no conjunctival injection
+ENT: MMM, clear OP, normal hearing
+NECK: Supple, no appreciable LAD
+RESP: CTA b/l, no w/r/r, non-labored breathing
+CV: RRR, no m/r/g
+GI: Soft, mildly TTP in epigastric region, non-distended,
+normoactive BS
+GU: no foley
+EXT: wwp, no edema
+SKIN: no lesions, no rashes
+NEURO: AOx3, moving all extremities purposefully
+PSYCH: normal mood and affect
+
+DISCHARGE:
+VITALS: ___ Temp: 99.0 PO BP: 139/88 HR: 71 RR: 18 O2
+sat: 98% O2 delivery: RA 
+GENERAL: well-appearing, laying in bed, in NAD
+EYES: no scleral icterus, no conjunctival injection
+ENT: MMM, clear OP, normal hearing
+NECK: Supple, no appreciable LAD
+GI: Soft, nontender to palpation, non-distended, normoactive BS
+GU: no foley
+SKIN: no lesions, no rashes
+NEURO: AOx3, moving all extremities purposefully
+PSYCH: normal mood and affect
+
+ 
+Pertinent Results:
+ADMISSION:
+___ 02:30AM BLOOD WBC-7.9 RBC-4.12* Hgb-12.3* Hct-40.0 
+MCV-97 MCH-29.9 MCHC-30.8* RDW-12.9 RDWSD-46.2
+___ 02:43AM BLOOD Lactate-1.1
+___ 02:30AM BLOOD Creat-0.7
+___ 10:47AM BLOOD Lipase-64*
+___ 10:47AM BLOOD Albumin-3.4* Calcium-8.8 Phos-1.8* Mg-2.1
+
+DISCHARGE:
+___ 05:08AM BLOOD WBC-10.1* RBC-3.87* Hgb-11.2* Hct-34.3* 
+MCV-89 MCH-28.9 MCHC-32.7 RDW-12.5 RDWSD-40.7 Plt ___
+___ 05:08AM BLOOD Glucose-94 UreaN-5* Creat-0.7 Na-144 
+K-4.1 Cl-103 HCO3-29 AnGap-12
+___ 05:08AM BLOOD Calcium-8.4 Phos-3.5 Mg-1.8
+
+IMAGING:
+
+CT ABDOMEN/PELVIS ___:
+1. Acute interstitial edematous pancreatitis without evidence of 
+drainable
+fluid collection or pancreatic necrosis.  The superior 
+mesenteric and splenic
+veins remain widely patent.
+2. A 1.6 x 1.1 cm hypodense mass in the left adrenal could 
+represent adrenal
+adenoma, however is incompletely characterized on this contrast 
+enhanced exam.
+3. Horseshoe kidney with 1.2 cm indeterminate renal lesion in 
+the right upper
+pole.
+4. Hypodense area in segment four of the liver, potentially 
+focal fat.
+5. Bilateral small pleural effusions, left greater than right 
+with associated
+compressive atelectasis.
+ 
+RECOMMENDATION(S):  A non urgent follow-up left adrenal MRI is 
+recommended to
+further characterize the left adrenal mass.  Further 
+characterization of the
+presumed hepatic focal fat and right renal lesion can be 
+performed at this
+time.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ yo M with no past medical history who 
+presented to hospital for abdominal pain and fevers found to 
+have pancreatitis. He was initially treated in ED obs for this 
+however after discharge home from ED obs he had recurrent 
+symptoms and re-presented one day after discharge. At that time 
+he was admitted to inpatient medicine.
+
+Upon admission, he was treated with bowel rest, IV fluids and 
+pain medications. Diet advanced as tolerated. He was given bowel 
+regimen for constipation likely ___ oxycodone. He was discharged 
+to home on ___ when symptoms improved.
+
+Note he had CT abdomen that showed left adrenal incidentaloma 
+that will require outpatient follow up (radiology suggests MRI 
+for better visualization).
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Naproxen 500 mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice daily 
+Disp #*14 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth every 6 hours Disp #*10 
+Tablet Refills:*0 
+4.  Senna 8.6 mg PO BID:PRN Constipation - First Line 
+RX *sennosides [senna] 8.6 mg 1 by mouth daily Disp #*7 Tablet 
+Refills:*0 
+5.  Naproxen 500 mg PO Q8H:PRN Pain - Mild  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pancreatitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital for pancreatitis, an 
+inflammatory disease of your pancreas. This was treated with 
+bowel rest, IV fluids, and slow re-introduction of normal diet.
+
+After discharge, please continue to eat bland foods for the next 
+1 week until you feel like you are ready to advance back to your 
+usual diet. Please call your primary care doctor to schedule an 
+appointment within ___ weeks to follow up.
+
+It was a pleasure taking care of you!
+
+Sincerely, your ___ team
+ 
+Followup Instructions:
+___

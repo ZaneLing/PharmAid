@@ -1,0 +1,221 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+B/L upper extremity hand tingling
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ hx HTN presenting with
+numbness/tingling of her LLE and arms which began yesterday at
+3pm. She was sitting and felt like her left leg fell asleep;
+however, it felt more numb and tingly than usual and had some
+cramping. She then sat up and felt warm/flushed and light 
+headed.
+She walked around and still felt light headed and also
+experienced some tingling in both of her arms w/her LLE symptoms
+resolving. Patient currently feels a little light headed.
+Notably, patient recently drastically changed her diet and cut
+out all junk food and is eating much less. She has lost about
+15lbs. She states her SBP at triage of 160  is much higher than
+her baseline.  She notes that although she has been prescribed
+HCTZ for BP for years she was only compliant with it daily
+recently in conjunction with the change in her diet.  
+ROS: 
+She does not report, n/v/d. She does not have cp, nor cough, nor
+shortness of breath nor dysuria.  She now feels very well with
+resolution of her sx with IVF and potassium supplementation.
+Pertinent positives and negatives as noted in the HPI.  All 
+other
+systems were reviewed and are negative. 
+In the ED VS on presentation:
+0 |98.1 |100 |160/108 |18 |100% RA 
+CXR demonstrated 
+Her HR increased with sitting up and thus a CXR demonstrated:
+6.5 x 4.1 cm right paratracheal opacity which causes leftward
+mass effect on the trachea. Chest CTA demonstrated a 4.6 x4.7x
+7.1 cm posterior mediastinal mass which exerts mass effect on 
+the
+lower trachea and right thyroid lobe. She was admitted for
+further evaluation. 
+ 
+Past Medical History:
+HTN
+ 
+Social History:
+___
+Family History:
+Her father died of cirrhosis. 
+She is estranged from her mother and thinks that her mother is
+healthy. 
+ 
+Physical Exam:
+EXAM(8)
+VITALS: 
+___ ___ Temp: 98.6 PO BP: 122/94 HR: 81 RR: 16 O2 sat: 97%
+O2 delivery: RA 
+GENERAL: Alert, well appearing and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+No stridor
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+LABS:
+___ 06:05PM BLOOD WBC-4.1 RBC-4.67 Hgb-13.1 Hct-38.3 MCV-82 
+MCH-28.1 MCHC-34.2 RDW-12.2 RDWSD-36.9 Plt ___
+___ 06:10AM BLOOD WBC-4.8 RBC-4.51 Hgb-12.8 Hct-37.0 MCV-82 
+MCH-28.4 MCHC-34.6 RDW-12.1 RDWSD-36.4 Plt ___
+___ 06:05PM BLOOD Neuts-49.9 ___ Monos-10.2 
+Eos-0.2* Baso-0.7 Im ___ AbsNeut-2.05 AbsLymp-1.60 
+AbsMono-0.42 AbsEos-0.01* AbsBaso-0.03
+___ 06:10AM BLOOD ___ PTT-30.7 ___
+___ 06:05PM BLOOD Glucose-98 UreaN-14 Creat-1.0 Na-136 
+K-3.1* Cl-91* HCO3-27 AnGap-18
+___ 06:05PM BLOOD Calcium-9.6 Phos-1.9* Mg-1.8
+___ 06:10AM BLOOD Glucose-69* UreaN-9 Creat-0.9 Na-142 
+K-3.0* Cl-98 HCO3-23 AnGap-21*
+___ 06:10AM BLOOD Calcium-8.8 Phos-2.8 Mg-2.1
+___ 06:10AM BLOOD LD(LDH)-166
+
+IMAGING:
+CXR:
+IMPRESSION: 
+6.5 x 4.1 cm right paratracheal opacity which causes leftward 
+mass effect on
+the trachea. Differential diagnosis includes a large, substernal 
+right lobe of
+the thyroid, but other mediastinal masses are not excluded.  
+Recommend chest
+CT for further assessment.
+
+CT chest with contrast:
+IMPRESSION:
+1. Please note that there was leakage of contrast during the 
+exam which limits
+evaluation of intrathoracic structures.
+2. Within these limitations, there is a heterogeneously 
+enhancing 4.6 x 4.7 x
+7.1 cm posterior mediastinal mass which exerts mass effect on 
+the lower
+trachea and right thyroid lobe and remains nonspecific with 
+somewhat broad
+differential considerations include, goiter/large thyroid 
+nodule, and less
+likely neurogenic tumor or lymphoma.
+3. No evidence of pulmonary embolism or aortic dissection.
+RECOMMENDATION(S):  Dedicated MRI can be obtained for further 
+evaluation.
+Alternatively, tissue sampling can be considered with 
+bronchoscopic approach.
+
+CT head:
+IMPRESSION: 
+No acute intracranial process.
+ 
+Brief Hospital Course:
+SUMMARY:
+Ms. ___ is a ___ female with HTN who presented with 
+hypokalemia & paresthesias found to have a mediastinal mass.
+
+HOSPITAL COURSE BY PROBLEM:
+# HYPOKALEMIA
+# PARESTHEIAS
+-  Her hypokelmia  may be secondary to her alteration in po 
+intake  and her diuretic
+- diuretic held as she is normotensive
+- paresthesias resolved with resolution of hypokalemia. She was 
+started on potassium chloride 20 mEq daily. 
+
+# MEDIASTINAL MASS
+- Thoracic surgery and ___ consult
+- pt is clear that she cannot stay longer than today because she
+must feed her cat
+- her case was discussed with thoracic surgery and IP. The case 
+was also reviewed with Dr. ___ (H&N surgery). The mass is 
+most likely a goiter. She will follow up with Dr. ___ in 
+clinic this week. 
+
+CHRONIC/STABLE PROBLEMS:
+# HTN:   HCTZ on hold for now given hypokalemia and improved BP 
+(normotensive) in the setting of intentional weight loss
+
+>30 minutes spent on complex discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Potassium Chloride 80 mEq PO ONCE Duration: 1 Dose 
+RX *potassium chloride 20 mEq 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+2. HELD- Hydrochlorothiazide 25 mg PO DAILY  This medication was 
+held. Do not restart Hydrochlorothiazide until instructed by 
+your primary care doctor
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Intrathoracic mass
+Hypokalemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+You were admitted to the hospital for paresthesias (likely due 
+to low potassium level). You were found to have a mass in your 
+chest that is most likely a goiter. This will have to be 
+surgically removed. Dr. ___ is our head & neck surgery 
+specialist who will see you in his clinic - likely on ___ but 
+his administrative people will call you to schedule an 
+appointment.
+You should stop taking the hydrochlorothiazide. You should start 
+taking potassium 20 mEq daily. Follow up with your primary care 
+doctor next week as detailed below to check on your blood 
+pressure and potassium level.
+If you have shortness of breath, difficulty swallowing, 
+swelling, chest pain, or lightheadedness/dizziness. You should 
+return to the emergency department. 
+Best wishes for your continued health.
+Take care,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

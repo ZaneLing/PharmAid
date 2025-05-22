@@ -1,0 +1,288 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+___: Coronary angiogram with ___ 
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man w/ PMH HTN, HLD, pre-DMII, OSA 
+who presents with chest pain.
+
+He woke up on the morning of admission at 0800 and noticed left 
+sided CP with associated L arm numbness and nausea but no 
+dyspnea. Later developed some diaphoresis as well. He also 
+described the symptoms as vague and at one point thought this 
+was in indigestion. However, he then walked upstairs and noticed 
+that he really felt unwell and told his wife to call the 
+ambulance.
+
+He presented to ___ where ECG showed ___levations in leads 
+I and aVL. Trop I was 0.05 with increase to 0.26. Pain improved 
+from ___ to ___ with nitroglycerin x3 so he was started on 
+nitroglycerin gtt and heparin gtt. He was also given ASA 325 mg.
+
+Upon arrival to ED, initial vitals: pain ___ | 96.5 | 78 | 
+128/72 | 14 | 95%/RA. 
+- Labs notable for troponin-T 0.16. 
+- Heparin gtt., atorvastatin 80 mg, APAP and nitroglycerin gtt. 
+were started.
+
+Decision was made to take him for cardiac cath.
+
+In cath, he had 80% mid to ___ LAD lesion. DES placed in LAD. 
+Right radial access. Loaded with Plavix 600 mg and then sent to 
+the floor.
+
+Upon arrival to the floor, he reports that his pain is gone. He 
+feels well, denies SOB, indigestion, nausea, diaphoresis. He is 
+asking for his CPAP tonight. He denies history of CAD.
+
+ 
+Past Medical History:
+- Obstructive sleep apnea
+- Obesity
+- Asthma
+- Hypertension
+- Meralgia paresthetica
+- Impaired glucose tolerance
+- Erectile dysfunction 
+- ___
+
+ 
+Social History:
+___
+Family History:
+mother - coronary artery disease, hypertension 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS - AF, 120s/70s, 70s, 100% on RA
+GENERAL - well-appearing overweight man in NAD
+HEENT - EOMI. PERLLA. No lymphadenopathy.
+NECK - supple, no JVD appreciated
+CARDIAC - Normal S1, S2. No r/m/g.
+LUNGS - CTAB
+ABDOMEN - soft, NTND.
+EXTREMITIES - wwp, no edema.
+SKIN - no rashes appreciated
+NEUROLOGIC - AAOX3, moving all extremities.
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VS: T 98.3 BP 134/84 (120-150s/60-80s) HR 66 (60-80s) O2 Sat 92% 
+RA
+GENERAL: obese man, lying comfortably in bed, alert and awake, 
+in NAD
+HEENT: EOMI, MMM, OP clear, no xanthalemas
+NECK: supple, unable to appreciate JVD.
+CARDIAC: RRR, normal s1/s2, no r/m/g.
+LUNGS: CTAB, no wheezes, rhonchi, or crackles
+ABDOMEN: +BS, soft, NTND, no rebound or guarding
+EXTREMITIES: WWP, no peripheral edema, no cyanosis/clubbing
+SKIN: No venous dermatitis, no rashes
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 02:00PM BLOOD WBC-10.0 RBC-5.11 Hgb-14.6 Hct-43.5 
+MCV-85 MCH-28.6 MCHC-33.6 RDW-13.4 RDWSD-41.8 Plt ___
+___ 02:00PM BLOOD Neuts-86.8* Lymphs-9.4* Monos-2.5* 
+Eos-0.2* Baso-0.4 Im ___ AbsNeut-8.69* AbsLymp-0.94* 
+AbsMono-0.25 AbsEos-0.02* AbsBaso-0.04
+___ 02:00PM BLOOD ___ PTT-106.6* ___
+___ 02:00PM BLOOD Glucose-123* UreaN-19 Creat-1.0 Na-140 
+K-4.3 Cl-104 HCO3-24 AnGap-16
+___ 02:00PM BLOOD ALT-22 AST-26 AlkPhos-75 TotBili-0.2
+___ 02:00PM BLOOD CK-MB-7 cTropnT-0.16*
+___ 02:00PM BLOOD Albumin-4.1
+
+NOTABLE LABS:
+=============
+___ 02:00PM BLOOD CK-MB-7 cTropnT-0.16*
+___ 11:55PM BLOOD cTropnT-0.36*
+___ 04:52AM BLOOD cTropnT-0.39*
+
+DISCHARGE LABS:
+==============
+___ 05:10AM BLOOD Glucose-95 UreaN-17 Creat-1.1 Na-142 
+K-4.0 Cl-103 HCO3-29 AnGap-14
+___ 05:10AM BLOOD Calcium-8.9 Phos-3.8 Mg-2.0
+
+IMAGING:
+=========
+___ Cardiovascular ECHO 
+The left atrium is mildly dilated. No atrial septal defect is 
+seen by 2D or color Doppler. The estimated right atrial pressure 
+is ___ mmHg. There is mild symmetric left ventricular 
+hypertrophy with normal cavity size and regional/global systolic 
+function (LVEF>70%). Tissue Doppler imaging suggests a normal 
+left ventricular filling pressure (PCWP<12mmHg). Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) appear structurally normal 
+with good leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve leaflets are structurally 
+normal. There is no mitral valve prolapse. No mitral 
+regurgitation is seen. The pulmonary artery systolic pressure 
+could not be determined. There is an anterior space which most 
+likely represents a prominent fat pad. 
+
+IMPRESSION: Normal biventricular chamber size and 
+global/regional systolic function. No pathologic valvular flow.  
+
+
+REPORTS:
+========
+Cardiac Angiography ___:
+Coronary Anatomy
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is normal.
+* Left Anterior Descending
+The LAD has a highly eccentric and hazy 85% stenosis in the 
+proximal segment. There is mild luminal
+irregularity distally.
+* Circumflex
+The Circumflex has tandem 40% stenoses in the mid segment.
+* Right Coronary Artery
+The RCA is a large caliber, mildly ectatic vessel with mild 
+luminal irregularities.
+
+Impressions:
+1 vessel CAD.
+Successful PTCA/stent of proximal LAD using drug-eluting stent.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man w/ PMH HTN, HLD, pre-DMII, OSA 
+who presented with chest pain with elevated troponins, on cath 
+found to have 80% occlusion of mid to ___ LAD, s/p DES.
+
+# NSTEMI: He presented with chest pain to an OSH, with rising 
+troponin and EKG changes (ST changes in I and aVL). He was 
+started on nitroglycerin gtt and heparin gtt, and given 325 mg 
+aspirin. He was then transferred to ___ for cardiac 
+catheterization which showed 80% mid to ___ LAD lesion s/p 1 
+DES. He was loaded with Plavix and started on aspirin, 
+atorvastatin, metoprolol, and lisinopril. TTE showed normal EF, 
+no wall motion abnormalities.
+
+CHRONIC ISSUES:
+# HYPERTENSION: Started on lisinopril prior to discharge. Was 
+previously not on any medications.
+
+#Pre-DMII/Obesity: HA1C 6.1% in ___. Not currently on any 
+medications for this. Was taking supplements for the past week 
+or so to help lose weight.
+
+TRANSITIONAL ISSUES:
+- New medications: Aspirin 81 mg, Plavix 75 mg, Atorvastatin 80 
+mg, Metoprolol Succinate 25 mg daily, Lisinopril 5 mg, 
+Sublingual nitroglycerin as needed
+- Held medications: Sildenafil, herbal supplements
+
+- Patient needs follow up with PCP and cardiologist
+- Adjust Lisinopril as needed for BP control.
+- Adjust Metoprolol as needed for HR control and reduction of 
+angina symptoms.
+- Patient should be set up with cardiac rehab.
+# CONTACT: ___ (wife) ___
+# CODE: Full Code, confirmed
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Gabapentin 300 mg PO DAILY 
+2. Garcinia Cambogia (chromium-brindal berry) 200-500 mcg-mg 
+oral DAILY 
+3. Glucosamine 1500 Complex (glucosamine-chondroit-vit C-Mn) 
+500-400 mg oral Frequency is Unknown 
+4. Sildenafil 20 mg PO PRN before sex 
+5. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth QPM Disp #*30 Tablet 
+Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+4.  Lisinopril 2.5 mg PO DAILY 
+RX *lisinopril 2.5 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+5.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+6.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+RX *nitroglycerin 0.4 mg 1 tablet(s) sublingually q5min Disp 
+#*30 Tablet Refills:*0 
+7.  Glucosamine 1500 Complex (glucosamine-chondroit-vit C-Mn) 
+500-400  mg oral DAILY  
+8.  Gabapentin 300 mg PO DAILY  
+9.  Multivitamins 1 TAB PO DAILY  
+10. HELD- Garcinia Cambogia (chromium-brindal berry) 200-500 
+mcg-mg oral DAILY  This medication was held. Do not restart 
+Garcinia Cambogia until talking to your cardiologist
+11. HELD- Sildenafil 20 mg PO PRN before sex  This medication 
+was held. Do not restart Sildenafil until speaking with your 
+doctor.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Non-ST elevation myocardial infarction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It has been a pleasure taking care of you at ___.
+
+Why was I here?
+- You were admitted for a heart attack.
+
+What was done for me here?
+- You had a cardiac catheterization where a stent was placed to 
+open the blockage in one of the arteries in your heart.
+- You were started on medications to prevent future heart 
+attacks.
+
+What should I do when I go home?
+- You should take all of your medications as prescribed.
+- DO NOT stop your Plavix without talking to your cardiologist.
+- DO NOT stop your aspirin without talking to your cardiologist.
+- You should follow up with your primary care doctor and your 
+cardiologist.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

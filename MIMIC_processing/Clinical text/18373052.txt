@@ -1,0 +1,443 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers, Chills 
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with no past medical history presenting as
+transfer from ___ for fevers/chills,
+diarrhea, chest and abdominal pain with RLL consolidation seen 
+on
+CT Abd/Pelvis. Patient was transferred to ___ with concern 
+that
+he may have abscess that could require drainage.  
+
+The patient reports that he had been feeling well up until ___,
+when he developed chills, watery diarrhea (up to 15 stools per
+day), and shortness of breath. He has had two episodes of 
+emesis.
+No cough. No blood in stool. He has had minimal po intake, 
+mainly
+just fruit, and has tried staying hydrated with Pedialyte. 
+Denies
+any blood in his stool. Denies any recent course of antibiotics.
+Does not take any medications normally. He had started taking
+Advil PRN for fever over the past several days but discontinued
+it as he did not find it effective in controlling his
+temperature. 
+
+No known sick contacts. No recent travel (originally from 
+___
+but lived in ___ since ___. He currently lives on ___ working in ___. 
+
+He presented to ___ where he had a CT A/P which showed evidence
+of RLL consolidation consistent with pneumonia with concerns for
+possible abscess. Given this findings, he was transferred to
+___ for further evaluation of his infection and consideration
+of drainage of his abscess. 
+
+In the ED, initial vitals were: 
+T 101.4 (Tmax 102.9), BP 118/63, RR18, 97% RA 
+
+Exam notable for:  
+Gen: Tired-appearing
+HEENT: Dry mucous membranes
+CV: RRR, soft systolic murmur
+Lungs: Crackles at R base
+Abd: Diffusely tender to palpation, worst in RUQ, no
+rebound/guarding
+Ext: WWP
+
+Labs notable for: 
+WBC 9.0, Hgb 13.6, Plt 221
+INR 1.5, ___ 16.1, PTT 25.4
+ALT 126, AST 179, AP 89, TBili 0.8, Alb 3.5
+Lactate 1.3 > 2.4 > 1.5  
+
+Imaging was notable for:
+CT Abd/Pelvis ___):
+RLL subpleural masslike consolidation, 5.5 x 4.5 cm, with 
+central
+hypointensity suggestive of pneumonia with intraparenchymal
+abscess, also consider septic embolus given peripheral location
+  
+CTA Chest: 
+Right lower lobe consolidation likely represents pneumonia.
+Additionally, mediastinal soft tissue presumably represents
+reactive lymphadenopathy. Given degree of lymphadenopathy,
+recommend repeat CT chest in 3 months to ensure resolution. No
+pulmonary embolism or acute aortic abnormality. 
+
+Patient was given:  
+- 1L LR, 2L NS 
+- Ceftriaxone 1g
+- Azithromycin 500mg 
+- Acetaminophen 1000mg
+
+Upon arrival to the floor, patient reports the symptoms as noted
+above. His main concern is his ongoing diarrhea. He notes that 
+he
+has had 5 BMs since presenting to the hospital, all watery in
+nature. Denies much of an appetite. Does feel shortness of
+breath, worsening with exertion, but denies any cough. 
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+Non-contributory for this presentation.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+=========================
+VITAL SIGNS: ___ 1615 Temp: 100.6 PO BP: 101/69 HR: 90 RR:
+18 O2 sat: 96% O2 delivery: ra  
+GENERAL:  well developed, NAD
+HEENT: NC/AT, PERRL, EOMI. MMM.
+CARDIAC: RRR, normal S1 and S2, no MGR.
+LUNGS: nonlabored respirations, diminished breath sounds in RLL
+with E-to-A changes, clear to auscultation elsewhere
+ABDOMEN: normoactive bowel sounds, nondistended, nontender to
+palpation
+EXTREMITIES: no lower extremity edema  
+NEUROLOGIC: AOx3. Moving all four extremities with purpose.
+Normal speech.
+SKIN: Warm to touch, no rashes, healed scar on the right arm. 
+
+ADMISSION PHYSICAL EXAM:  
+=========================
+VITALS: ___ 1145 Temp: 97.5 PO BP: 102/65 HR: 63 RR: 18 O2
+sat: 98% O2 delivery: Ra 
+GENERAL: Alert and NAD, well appearing
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: CTAB, decrease breath sound in the RLL field
+GI: Abdomen soft, non-distended,+voluntary guarding
+SKIN: Healed scar on right arm
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 05:10AM BLOOD WBC-9.0 RBC-4.37* Hgb-13.6* Hct-39.5* 
+MCV-90 MCH-31.1 MCHC-34.4 RDW-12.5 RDWSD-41.3 Plt ___
+___ 05:10AM BLOOD Neuts-71.5* Lymphs-15.5* Monos-11.5 
+Eos-0.0* Baso-0.3 Im ___ AbsNeut-6.41* AbsLymp-1.39 
+AbsMono-1.03* AbsEos-0.00* AbsBaso-0.03
+___ 05:10AM BLOOD Plt ___
+___ 05:10AM BLOOD ___ PTT-25.4 ___
+___ 09:29AM BLOOD Glucose-98 UreaN-15 Creat-1.3* Na-132* 
+K-4.8 Cl-96 HCO3-19* AnGap-17
+___ 05:10AM BLOOD Glucose-105* UreaN-16 Creat-1.4* Na-127* 
+K-4.8 Cl-92* HCO3-17* AnGap-18
+___ 05:10AM BLOOD ALT-126* AST-179* AlkPhos-89 TotBili-0.8
+___ 05:10AM BLOOD Albumin-3.5
+___ 05:33AM BLOOD Lactate-1.3
+___ 09:44AM BLOOD Lactate-2.4*
+___ 01:39PM BLOOD Lactate-1.5
+
+  
+
+Test                          Result              Reference 
+Range/Units
+LEGIONELLA PNEUMOPHILA AB     <1:64               
+(IGG), IFA                                        
+ 
+REFERENCE RANGE:  <1:64
+ 
+A single titer >256 may provide
+Presumptive evidence of infection
+at an undetermined time. A single
+titer of <256 is not considered
+evidence of infection. A four-fold
+rise in titer to >128 from the acute
+to the convalescent ___ weeks post
+acute) phase provides evidence of a
+recent infection with Legionella.
+THIS TEST WAS PERFORMED AT:
+___ INFECTIOUS DISEASE, ___LD B-WEST WING
+___, ___  ___ 
+___
+
+  
+
+Test                          Result              Reference 
+Range/Units
+LEGIONELLA PNEUMOPHILA        <1:256              
+ANTIBODY (IGM), IFA                               
+ 
+REFERENCE RANGE: <1:256
+ 
+This indirect immunofluorescent assay detects serum IgM
+antibodies to Legionella pneumophila serogroups ___.
+A single IgM titer of greater than 256 is presumptive
+evidence of infection at an undetermined time. The best
+serologic evidence of current or recent infection with
+Legionella is IgG seroconversion or a fourfold rise in
+IgG titers between acute and convalescent sera.
+ 
+Most seroconversions occur within 3 weeks, but patients
+should be monitored for 6 weeks, and some patients never
+seroconvert. IgM antibody can persist for considerable
+lengths of time, making separation of new from old disease
+by the assessment of IgM antibody levels unfeasible.
+ 
+This test was developed and its analytical performance
+characteristics have been determined by ___
+Infectious Disease. It has not been cleared or approved by
+FDA. This assay has been validated pursuant to the ___
+regulations and is used for clinical purposes.            
+                       
+THIS TEST WAS PERFORMED AT:
+___ INFECTIOUS DISEASE, ___LD B-WEST WING
+___, ___  ___ 
+___
+
+RELEVANT LABS:
+=============
+___ 06:35AM BLOOD WBC-10.0 RBC-4.09* Hgb-12.8* Hct-37.6* 
+MCV-92 MCH-31.3 MCHC-34.0 RDW-12.9 RDWSD-43.4 Plt ___
+___ 06:35AM BLOOD Plt ___
+___ 06:35AM BLOOD ___ PTT-29.2 ___
+___ 06:40PM BLOOD Glucose-127* UreaN-6 Creat-0.9 Na-134* 
+K-4.4 Cl-95* HCO3-24 AnGap-15
+___ 06:35AM BLOOD Glucose-91 UreaN-7 Creat-1.1 Na-133* 
+K-4.6 Cl-97 HCO3-18* AnGap-18
+___ 06:35AM BLOOD ALT-106* AST-142* LD(LDH)-468* AlkPhos-99 
+TotBili-0.6
+___ 06:35AM BLOOD Calcium-8.1* Phos-2.7 Mg-1.9
+___ 06:40PM BLOOD Calcium-8.0* Phos-2.5* Mg-1.7
+
+RELEVANT MICROBIOLOGY:
+=======================
+___ 5:28 am BLOOD CULTURE
+
+   Blood Culture, Routine (Preliminary): 
+      CORYNEBACTERIUM SPECIES (DIPHTHEROIDS). 
+         Isolated from only one set in the previous five days. 
+
+   Aerobic Bottle Gram Stain (Final ___: 
+      Reported to and read back by ___ @ ___ ON 
+___ - ___. 
+      GRAM POSITIVE ROD(S). 
+
+___ 9:29 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+___ 9:29 am URINE
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, in
+      infected patients the excretion of antigen in urine may 
+vary. 
+
+___ 11:47 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+___ 11:47 am BLOOD CULTURE      X2. 
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+___ 9:36 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+___ 1:28 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+RELEVANT IMAGING:
+=================
+___ Imaging CHEST (PA & LAT)
+IMPRESSION: 
+Right lower lobe pneumonia.
+
+___ Imaging CTA CHEST 
+1. Right lower lobe consolidation likely represents pneumonia.
+2. Additionally, mediastinal soft tissue presumably represents 
+reactive
+lymphadenopathy. Given degree of lymphadenopathy, recommend 
+repeat CT chest in 3 months to ensure resolution.
+3. No pulmonary embolism or acute aortic abnormality.
+ 
+DISCHARGE LABS:
+=================
+___ 06:50AM BLOOD WBC-9.5 RBC-4.21* Hgb-13.0* Hct-38.9* 
+MCV-92 MCH-30.9 MCHC-33.4 RDW-12.9 RDWSD-43.6 Plt ___
+___ 06:50AM BLOOD Plt ___
+___ 06:50AM BLOOD Glucose-100 UreaN-7 Creat-1.0 Na-137 
+K-4.7 Cl-100 HCO3-23 AnGap-14
+___ 06:50AM BLOOD ALT-80* AST-94* AlkPhos-98 TotBili-0.3
+___ 06:50AM BLOOD Calcium-8.4 Phos-3.5 Mg-1.8
+___ 09:33AM BLOOD HIV Ab-NEG
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ with no significant PMH who presented with 
+fevers, chills, and diarrhea x2 weeks duration. He was found to 
+have RLL consolidation on CT scan at ___, 
+and was transferred to ___ for further workup. He was 
+diagnosed with a community acquired pneumonia.
+
+ACUTE ISSUES:
+=============
+# Fevers, Chills
+# RLL Pneumonia
+Patient presented with fevers, chills. He is not 
+immunocompromised, has no risk factors for HAP and remained 
+hemodynamically stable throughout much of his hospitalization 
+with the exception mild orthostatic hypotension. He remained 
+stable on RA throughout his hospitalization as well. Initially 
+there was some concern for an abscess on CT scan at OSH, but 
+repeat CT at ___ showed no evidence of abscess. He was also 
+tested for HIV, which was negative. He was legionella negative 
+and his urine strep antigen was pending at the time of discharge 
+returned negative. He was started on ceftriaxone/azithromycin 
+for CAP. Of note, his blood cultures returned with gram positive 
+rods in ___ cultures (diphtheroids). The patient's blood 
+cultures from ___ were negative. Thus, this was deemed a 
+contaminat. The patient was discharged on total 7-day course of 
+antibiotics (cefpodoxime, azithromycin) to end ___.
+
+# Diarrhea
+Etiology of his diarrhea is unclear. While the onset of his 
+symptoms correlates with fevers and shortness of breath and was 
+concerning for legionella, his urine legionella and blood 
+IgG/IgM was negative. It is unlikely to be an inflammatory 
+process as there was no blood in stools and he did not have any 
+pain/discomfort. Of note, he was also C. diff negative. Due to 
+his volume loss from the diarrhea, he was found to have 
+orthostatic hypotension, which resolved with IV fluids. His 
+diarrhea resolved by the time of discharge.
+
+# Hyponatremia
+He had hyponatremia on admission (127) that improved to 132 with 
+IV fluid resuscitation. This was likely due to hypovolemic 
+hyponatremia due to GI losses. On discharge sodium was 137.
+
+# Transanimitis
+His ___ is also of unclear etiology. It is possibly 
+elevated due to the acute infection. His abdomen remained soft 
+on exam without tenderness and on discharge his LFTs were 
+downtrending. He should have his LFTs checked again 1 week after 
+discharge to ensure they continue downtrending. IF remain 
+elevated, would consider evaluation for other causes of LFT 
+elevation.
+
+# Acute renal failure
+On admission his Cr was 1.3. There was no baseline creatinine to 
+compare, however, he had no history of renal dysfunction. Given 
+his diarrhea of 2 weeks, this was likely a prerenal ___ due to 
+poor intake and ongoing GI losses. On discharge was his 
+creatinine improved to 1.0
+
+Transitional Issues:
+
+[] Complete 7 day antibiotic course (cefpodoxime/azithromycin) 
+___ to end ___- The patient received medications to bedside 
+on discharge
+[] PCP to ensure that patient gets a repeat CT in 3 months to 
+ensure resolution of mediastinal soft tissue (presumably 
+represents reactive lymphadenopathy currently) and exclude 
+malignancy- This was communicated to the patient
+[] Patient needs repeat LFTs in 1 week to ensure they continue 
+to improve
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO DAILY Duration: 3 Doses 
+RX *azithromycin 250 mg 1 tablet(s) by mouth once a day Disp #*3 
+Tablet Refills:*0 
+2.  Cefpodoxime Proxetil 200 mg PO Q12H 
+RX *cefpodoxime 200 mg 1 tablet(s) by mouth twice a day Disp #*6 
+Tablet Refills:*0 
+3.Outpatient Lab Work
+Labs in one week to trend LFTs: AST, ALT, Alk phos.
+ICD 10 J18.9 pneumonia
+Please fax to patient PCP. He will provide the fax number.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+======================
+COMMUNITY ACQUIRED PNEUMONIA 
+
+Secondary Diagnosis
+======================
+___ 
+Diarrhea 
+Hyponatremia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+  
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were having fevers, chills, and diarrhea. You were found 
+to have evidence of pneumonia on a CT scan at the outside 
+hospital, so you were transferred to ___ for further 
+workup.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You were treated with antibiotics.
+- You were also found to have low blood pressure due to your 
+diarrhea and received fluids through your IV to hydrate you. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- You need to take antibiotics for a few more days. Your LAST 
+DAY of antibiotics is ___.
+- Please continue to take all of your medications and follow-up 
+with your appointments as listed below.
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___

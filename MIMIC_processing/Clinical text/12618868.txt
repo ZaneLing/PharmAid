@@ -1,0 +1,275 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+s/p fall 
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ y/o w/CAD (stents, pacemaker, ASA, Plavix) and
+___ s/p fall while using cane instead of walker. NCHCT
+revealed left SDH. He was transferred from OSH to ___ for
+further evaluation. He underwent a NCHCT in the ED at ___ upon
+arrival which was stable. He was admitted to the ___ for close
+neurologic monitoring. 
+ 
+Past Medical History:
+___ disease 
+Coronary artery disease with unstable angina 
+Pacemaker 
+GERD (gastroesophageal reflux disease) 
+Hemangioma of liver 
+Depression
+TIA
+Pancreatic insufficiency 
+Anxiety 
+Benign prostatic hyperplasia
+Hypertension  
+Diverticulitis 
+Hyperlipidemia
+Urge incontinence   
+ 
+Social History:
+___
+Family History:
+Family Hx:
+Colon cancer 
+ 
+Physical Exam:
+PHYSICAL EXAMINATION ON ADMISSION:
+Temp: 98.2. Pulse: 60. RR: 16. BP: 174/94 O2: 92% RA 
+
+GCS at the scene: unknown
+
+GCS upon Neurosurgery Evaluation: 15        
+Time of evaluation: ___, 00:01
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [x]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam:
+
+Gen: WD/WN, comfortable, NAD.
+
+HEENT:
+Pupils: PERRL 
+EOMs: Intact 
+
+Extrem: warm and well perfused
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to person, place, and date.
+
+Language: Speech is fluent with good comprehension. 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 2 to 1
+mm bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+PHYSICAL EXAMINATION ON DISCHARGE:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  Right 3-2mm     Left 3-2mm
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift: [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact: [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+Right    5         5      5       5      5
+Left     5         5      5       5      5
+
+IPQuadHamATEHLGast
+Right5        5       5      5        5       5
+Left5        5       5      5        5       5
+
+[x]Sensation intact to light touch
+
+ 
+Pertinent Results:
+Please see OMR for pertinent lab and imaging results. 
+ 
+Brief Hospital Course:
+#Left SDH; tSAH 
+The patient was transferred from OSH to the ED at ___ for 
+further evaluation of the left SDH and tSAH. He underwent a CT 
+head without contrast upon arrival which was stable. He was 
+admitted to the ___ on ___ for close neurologic monitoring. 
+The patient was evaluated by ___ and cleared to discharge to 
+home. He remained neurologically intact and was discharged on 
+___. The risks of discontinuing Aspirin and Plavix for cardiac 
+stent placement in the setting of intracranial hemorrhage were 
+discussed. Specifically, the risk of stroke. The patient 
+verbally stated he understands these risks. 
+
+#Pacemaker
+On ___, the patient's pacemaker was interrogated by EP and 
+determined to be working well. 
+ 
+Medications on Admission:
+Medications:
+Plavix 75mg PO daily 
+Aspirin 81mg PO daily 
+Atorvastatin 80mg PO daily 
+Metoprolol Succinate ER 25mg PO daily 
+Sertraline 100mg PO daily 
+Carbidopa-Levodopa ___: 1 tab TID 
+Bupropion 200mg PO qAM 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+2.  LevETIRAcetam 500 mg PO BID 
+RX *levetiracetam [Keppra] 500 mg 1 tablet(s) by mouth twice a 
+day Disp #*13 Tablet Refills:*0 
+3.  Atorvastatin 80 mg PO QPM  
+4.  BuPROPion (Sustained Release) 200 mg PO DAILY  
+5.  Carbidopa-Levodopa (___) 1 TAB PO TID  
+6.  Metoprolol Succinate XL 25 mg PO DAILY  
+7.  Sertraline 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Left Subdural Hematoma 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+Brain Hemorrhage without Surgery
+
+Activity
+We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+No driving while taking any narcotic or sedating medication. 
+If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+You may have difficulty paying attention, concentrating, and 
+remembering new information.
+Emotional and/or behavioral difficulties are common. 
+Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+Headaches:
+Headache is one of the most common symptom after a brain 
+bleed. 
+Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the incision 
+site. 
+Fever greater than 101.5 degrees Fahrenheit.
+Nausea and/or vomiting.
+Extreme sleepiness and not being able to stay awake.
+Severe headaches not relieved by pain relievers.
+Seizures.
+Any new problems with your vision or ability to speak.
+Weakness or changes in sensation in your face, arms, or leg.
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+Sudden numbness or weakness in the face, arm, or leg.
+Sudden confusion or trouble speaking or understanding.
+Sudden trouble walking, dizziness, or loss of balance or 
+coordination.
+Sudden severe headaches with no known reason.
+
+ 
+Followup Instructions:
+___

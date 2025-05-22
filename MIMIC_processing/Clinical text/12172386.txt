@@ -1,0 +1,232 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Muscle pain
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+___ year old male with PMH of hypertension who is presenting with 
+myalgias and malaise. On ___, he began experiencing diffuse 
+myalgias including his extremities as well as some aching 
+substernal pain that he says feels similar to his extremities. 
+Endorses chills. The aching substernal sensation is not 
+exacerbated or alleviated by anything in particular. It is not 
+positional. It is nonradiating. It is nonmigratory. He has no 
+associated dyspnea or cough. He is also experiencing 
+lightheadedness, by which he means that when he stands up he 
+feels uneasy. There is no vertiginous component. He states his 
+symptoms feel similar to an episode ___ years ago when he was 
+diagnosed with the flu.
+No recent travel, no sick contacts. He works as a ___.
+History obtained using ___ interpreter.
+In the ED:
+- Initial vital signs: 99.5 ___ 22 99% RA
+- Exam:
+Nontender abdomen
+Fatigued appearing
+Tachycardic
+- Labs:
+Lactate 1.7
+BMP and CBC within normal limits
+Flu negative
+- Studies:
+CXR with left lower lobe pneumonia.
+- Meds:
+CTX 1 gm
+Azithromycin 500mg
+1L NS
+Tylenol ___
+Upon arrival to the floor, he states he is feeling weak but does 
+not have any other complaints.
+ROS: Complete ROS obtained and is otherwise negative
+ 
+Past Medical History:
+Hypertension
+GERD
+Esophageal abnormality
+ 
+Social History:
+___
+Family History:
+Denies illness that he is aware of in his family.
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: T 98.4 BP 136/91 HR 99 RR 18 O2 sat 93 Ra
+GENERAL: Laying in bed, NAD
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection. MMM.
+NECK: Thyroid is normal in size and texture, no nodules. No 
+cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No 
+murmurs/rubs/gallops.
+LUNGS: left lower lobe crackles. No wheezes or rhonchi. No 
+increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep 
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+ bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+
+DISCHARGE EXAM
+Temp 98.2 BP 128/87 HR 86 RR 16 95%Ra 
+GENERAL: Laying in bed, NAD
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection. MMM.
+NECK: Thyroid is normal in size and texture, no nodules. No 
+cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No 
+murmurs/rubs/gallops.
+LUNGS: left lower lobe fine crackles. No wheezes or rhonchi. No 
+increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep 
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+ bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 07:35PM BLOOD WBC-8.2 RBC-5.92 Hgb-16.7 Hct-50.8 MCV-86 
+MCH-28.2 MCHC-32.9 RDW-13.5 RDWSD-42.1 Plt ___
+
+NOTABLE LABS
+___ 07:35PM BLOOD proBNP-37
+___ 07:35PM BLOOD cTropnT-<0.01
+___ 07:43PM BLOOD Lactate-1.7
+
+DISCHARGE LABS
+___ 04:32AM BLOOD WBC-6.8 RBC-5.06 Hgb-14.4 Hct-42.8 MCV-85 
+MCH-28.5 MCHC-33.6 RDW-13.7 RDWSD-42.5 Plt ___
+___ 04:32AM BLOOD Glucose-96 UreaN-9 Creat-0.7 Na-142 
+K-3.4* Cl-104 HCO3-23 AnGap-15
+
+MICROBIOLOGY
+___ 8:35 pm BLOOD CULTURE      2 OF 2. 
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+Time Taken Not Noted     Log-In Date/Time: ___ 8:34 pm
+      BLOOD CULTURE      #1. 
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 7:35 pm URINE
+
+   URINE CULTURE (Pending): 
+
+IMAGING & PROCEDURES
+CXR ___
+  
+There is a left lower lobe opacity, compatible with pneumonia.  
+Cardiomediastinal silhouette is stable.  No pleural effusion or 
+pneumothorax. 
+  
+IMPRESSION:  
+  
+Left lower lobe pneumonia. 
+
+ 
+Brief Hospital Course:
+SUMMARY
+===============
+Mr. ___ is a ___ man with hypertension who presents with 
+myalgias and malaise found to have a lower left lobe pneumonia. 
+
+ACUTE ISSUES
+===============
+#Pneumonia
+Mr. ___ presented with 1 day of myalgias and malaise. On 
+arrival to the ED he was noted to be mildly tachycardic but was 
+otherwise stable. A flu swab was negative. A chest x ray showed 
+a left lower lobe infiltrate. He was given ceftriaxone and 
+azithromycin on ___ and transitioned to levofloxacin on ___ and 
+should continue a 5 day course to end on ___. 
+
+CHRONIC ISSUES
+===============
+#HTN
+Held home triamterene-Hctz due to subjective light headedness on 
+day of admission. Instructed patient to restart medication on 
+___
+
+Transitional Issues
+====================
+- Patient is a current everyday smoker. Encouraged patient to 
+stop smoking. 
+- Antibiotics: Levofloxacin 750 mg for 5 day course (D1 ___ | 
+projected end date ___
+- Holding home triamterene-Hctz due to subjective light 
+headedness on day of admission. Instructed patient to restart 
+medication on ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY 
+
+ 
+Discharge Medications:
+1.  Levofloxacin 750 mg PO DAILY Duration: 3 Doses 
+Start date: ___ 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth Daily Disp #*3 
+Tablet Refills:*0 
+2.  Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+===================
+Pneumonia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure to care for you at the ___ 
+___.  
+
+Why did you come to the hospital?  
+-  You were having muscle pain and flu-like symptoms. 
+
+What did you receive in the hospital?  
+-  You had a flu test done which was negative. You had a chest 
+x-ray that showed a pneumonia. We started you on antibiotics to 
+treat the pneumonia. 
+
+What should you do once you leave the hospital?  
+- You should take your medicines as directed. 
+- You should follow up with your primary care doctor in the next 
+week. 
+- You should quit smoking because this increases your risk of 
+infection. 
+
+We wish you the best!  
+
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,337 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L hemiparesis/numbness
+
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+The patient is a ___ yo RH M PMHx HTN who was transferred
+from ___ after presenting with L-sided plegia and numbness
+with NCHCT revealing a R thalamic hemorrhage.
+
+Pt has been feeling well over the past several days. On the AM 
+of
+presentation, he worked outside de-constructing a fence and
+moving dead brush without issue. Around 11:30, he went inside to
+took a break. He was stretching on his back (per ED, he was
+masturbating at this time) when he tried to stand up and 
+suddenly
+noticed he was weak on his left side. He also felt numbness and
+tingling in his left arm and leg. He crawled to the bathroom to
+check his glucose which was 127. He was then able to stand up 
+and
+walk slowly. He called his son-in-law who drove him to 
+___.
+This had never happened before. He reported a mild pressure-like
+headache.
+
+He arrived at ___ at 14:28. BP on presentation was 155/85.
+___ revealed the R thalamic hemorrhage. While at ___, BP
+fluctuated between SBP 130s-160s and he was given labetalol 20mg
+IV x3 (15:33, 15:48, 16:14). He was started on labetalol gtt at
+16:36 (for transfer), but this was discontinued after the pump
+malfunctioned.
+
+On neurologic review of systems, the patient reports chronic
+neuropathy in his hands and toes. He denies headache,
+lightheadedness, or confusion. Denies difficulty with producing
+or comprehending speech. Denies loss of vision, diplopia,
+vertigo, dysarthria, or dysphagia. 
+
+On general review of systems, the patient denies fevers, chest
+pain, palpitations, cough, nausea, vomiting, diarrhea,
+constipation, abdominal pain, dysuria or rash.
+
+ 
+Past Medical History:
+T2DM (A1C 7.7% ___
+Glaucoma
+Colon cancer (dx ___, in remission since ___ s/p resection 
+and
+chemotherapy -- still has port in
+HTN
+HLD
+
+ 
+Social History:
+___
+Family History:
+Father with stroke, diabetes, heart disease.
+Heart disease in family.
+
+ 
+Physical Exam:
+====================
+PHYSICAL EXAMINATION
+====================
+Vitals: 99.2 60 127/65 20 99% RA 
+General: NAD, resting comfortably, well-appearing
+HEENT: NCAT, no oropharyngeal lesions
+Neck: Supple
+___: RRR
+Pulmonary: CTAB
+Abdomen: Soft, NT, ND
+Extremities: Warm, no edema
+Skin: No rashes or lesions
+
+Neurologic Examination:
+- Mental Status - Awake, alert, oriented to person, place and
+time. Attention to examiner easily maintained. Recalls a 
+coherent
+history. Speech is fluent with full sentences, intact 
+repetition,
+and intact verbal comprehension. Content of speech demonstrates
+intact naming (high and low frequency) and no paraphasias. 
+Normal
+prosody. No dysarthria. No evidence of hemineglect. No 
+left-right
+agnosia.
+
+- Cranial Nerves - PERRL 3->2 brisk. VF full to finger wiggling.
+EOMI, no nystagmus. V1-V3 without deficits to light touch
+bilaterally. L ptosis (pt states is old). L NLFF, but activates
+well. Hearing intact to finger rub bilaterally. Palate elevation
+symmetric. Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor - Normal bulk and tone. No drift. No tremor or 
+asterixis.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  4-   5   4+  ___  5  4+  5    4+ 5     5     5
+R  5    ___   ___  5   5    5  5     5     5
+
+- Sensory - Decr temperature to 90% L arm/leg. 
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   2
+R  2  2    2    2   2
+Plantar response extensor bilaterally.
+
+- Coordination - No dysmetria with finger to nose testing
+bilaterally.
+
+- Gait - Deferred.
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+Awake & alert. ___ intact. CN: II-XIi intact; L
+UE monoparesis ___ proximally; ___ distally. L ___ ___.
+Sensations intact. RRR. CTA.
+
+ 
+Pertinent Results:
+==============
+ADMISSION LABS
+==============
+___ 07:46PM BLOOD WBC-4.7 RBC-3.74* Hgb-12.9* Hct-37.1* 
+MCV-99* MCH-34.5* MCHC-34.8 RDW-12.8 RDWSD-46.7* Plt ___
+___ 07:46PM BLOOD Neuts-68.2 ___ Monos-10.7 
+Eos-0.6* Baso-0.6 Im ___ AbsNeut-3.17 AbsLymp-0.91* 
+AbsMono-0.50 AbsEos-0.03* AbsBaso-0.03
+___ 07:46PM BLOOD ___ PTT-30.1 ___
+___ 07:46PM BLOOD Plt ___
+___ 07:46PM BLOOD Glucose-132* UreaN-13 Creat-0.9 Na-137 
+K-3.5 Cl-99 HCO3-26 AnGap-16
+___ 07:46PM BLOOD ALT-30 AST-44* CK(CPK)-330* AlkPhos-56 
+TotBili-0.9
+___ 07:46PM BLOOD CK-MB-6
+___ 07:46PM BLOOD cTropnT-<0.01
+___ 07:46PM BLOOD Albumin-4.5 Calcium-9.5 Phos-2.6* Mg-1.7 
+Cholest-123
+___ 07:46PM BLOOD %HbA1c-6.7* eAG-146*
+___ 07:46PM BLOOD Triglyc-58 HDL-49 CHOL/HD-2.5 LDLcalc-62
+___ 07:46PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+============
+INTERIM LABS
+============
+___ 05:55AM BLOOD WBC-4.3 RBC-3.76* Hgb-12.7* Hct-36.9* 
+MCV-98 MCH-33.8* MCHC-34.4 RDW-12.9 RDWSD-46.1 Plt ___
+___ 05:55AM BLOOD Plt ___
+___ 01:43AM BLOOD cTropnT-<0.01
+___ 05:55AM BLOOD Calcium-9.3 Phos-4.1 Mg-1.8
+
+=======
+IMAGING
+=======
+___ CTA H/N:
+1. Redemonstration of 1.2 cm right thalamic intraparenchymal 
+hematoma with 
+mild surrounding edema and no midline shift. 
+2. Approximately 60% stenosis of the proximal left internal 
+carotid artery by NASCET criteria. 
+3. No evidence of aneurysm greater than 3 mm, dissection or 
+vascular 
+malformation.
+
+___ ___:
+OSH head CT showed acute right thalamic hemorrhage.
+
+___ CXR: 
+OSH CXR with no acute pulmonary process.
+ 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ y/o right handed man with history of HTN who 
+was transferred to ___ from ___ after presenting with 
+L-sided plegia and numbness with NCHCT revealing a R thalamic 
+hemorrhage. 
+
+Hospital course by system:  
+
+# Neuro: Right thalamic bleed etiology most likely secondary to 
+hypertension vs AVM. He was evaluated with CTA head and neck in 
+ED showed right thalamic intraparenchymal hematoma with mild 
+surrounding edema, no midline shift and 60% stenosis of the 
+proximal LT ICA. MRI brain w/wo contrast scheduled outpatient in 
+6 weeks. We have ASA, NSAIDs, and any other anti-platelet 
+agents. Blood pressure was well controlled with minimal 
+interventions for a goal of SBP < 140. Worked with ___ who 
+recommended discharge home with home ___.
+ 
+# CV: Has known history of HTN, HLD, and TWI on EKG. On 
+admission troponins were trended and negative. He was monitored 
+on telemetry. We continued his home HCTZ 25mg PO daily and 
+started captopril 12.5 TID, which was then transitioned to 
+lisinopril 5mg daily. We have held his statin in the setting of 
+his hemorrhage, may resume as outpatient once discussed with his 
+PCP. 
+ 
+# ENDO: Has known type 2 diabetes. Blood sugars were monitored 
+while he continued his home metformin. HbA1c was 6.7%. 
+
+===================
+Transitional issues
+===================
+1. Holding Aspirin and statin.
+2. Adding lisinopril 5mg for better BP control.
+
+-------------------
+AHA/ASA Core Measures for Intracerebral Hemorrhage  
+1. Dysphagia screening before any PO intake? (x) Yes - () No  
+2. DVT Prophylaxis administered? (x) Yes - () No  
+3. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]  
+4. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+5. Assessment for rehabilitation and/or rehab services 
+considered? (x) Yes - () No  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. MetFORMIN (Glucophage) 850 mg PO BID 
+3. Hydrochlorothiazide 25 mg PO DAILY 
+4. Pyridoxine 100 mg PO BID 
+5. Centrum Silver 
+(multivit-min-FA-lycopen-lutein;<br>mv-min-folic acid-lutein) 
+400-250 mcg oral DAILY 
+6. Fish Oil (Omega 3) 1000 mg PO BID 
+7. Pravastatin 10 mg PO QPM 
+8. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+9. dorzolamide-timolol 22.3-6.8 mg/mL ophthalmic BID 
+10. Cyanocobalamin Dose is Unknown  IM/SC ONCE 
+
+ 
+Discharge Medications:
+1. Hydrochlorothiazide 25 mg PO DAILY 
+2. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+3. MetFORMIN (Glucophage) 850 mg PO BID 
+4. Pyridoxine 100 mg PO BID 
+5. Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*3
+6. Centrum Silver 
+(multivit-min-FA-lycopen-lutein;<br>mv-min-folic acid-lutein) 
+400-250 mcg oral DAILY 
+7. Cyanocobalamin unknown  IM/SC ONCE Duration: 1 Dose 
+8. dorzolamide-timolol 22.3-6.8 mg/mL ophthalmic BID 
+9. Fish Oil (Omega 3) 1000 mg PO BID 
+10. Straight cane
+Dx: Right thalamic hemorrhage
+Px: Good
+___: 13 months
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary: 
+Right thalamic hemorrhage
+
+Secondary: 
+Hypertension
+Hyperlipidemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___,
+  
+You were hospitalized due to symptoms of left sided weakness 
+resulting from an ACUTE thalamic hemorrhage in your brain. We 
+think the cause is your high blood pressure. We have monitored 
+you with a head CT and have ordered an MRI in 6 weeks.
+
+The brain is the part of your body that controls and directs all 
+the other parts of your body, so damage to the brain from being 
+deprived of its blood supply can result in a variety of 
+symptoms.
+  
+A hemorrhage can have many different causes, so we assessed you 
+for medical conditions that might raise your risk of having 
+stroke or hemorrhage. In order to prevent future bleeds, we plan 
+to modify those risk factors. We are changing your medications 
+as follows: holding the aspirin and statin for 2 weeks please 
+resume when seen by your PCP, we have added a blood pressure 
+medication called lisinopril 5mg oral daily. 
+
+Instructions: 
+Please take your other medications as prescribed.  
+Please follow up with Neurology and your primary care physician 
+as listed below.  
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+- sudden partial or complete loss of vision  
+- sudden loss of the ability to speak words from your mouth  
+- sudden loss of the ability to understand others speaking to 
+you  
+- sudden weakness of one side of the body  
+- sudden drooping of one side of the face  
+- sudden loss of sensation of one side of the body  
+ 
+Followup Instructions:
+___

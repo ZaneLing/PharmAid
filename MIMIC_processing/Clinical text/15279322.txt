@@ -1,0 +1,257 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ year old woman with PMH ulcerative colitis and paroxysmal 
+atrial fibrillation presents with severe back pain which started 
+shortly after lifting a heavy object. She was cooking on the 
+night of presentation when she had gradually worsening back pain 
+over the course of the evening, peaking with severe spasms every 
+few minutes.  She described the pain as sharp, spasmodic and 
+localized to the upper back. It was not alleviated by Tylenol x2 
+and Orphenadrine. She presented to the ED for evaluation of her 
+back pain. Routine UA had + ___ and ___ bacteria.  Renal 
+ultrasound done in the ED showed no nephrolithiasis or 
+hydronephrosis. She denied dysuria, abdominal pain, fevers, 
+urinary frequency, urinary hesitancy.
+
+ 
+Past Medical History:
+- Ulcerative colitis, s/p 
+- h/o IMV and SMV thrombosis 
+- Atrial fibrillation on apixiban
+- Anxiety disorder and depression
+- Hypertension
+- Ovarian cyst
+- Basal cell carcinoma
+- Ulnar surgery
+ 
+Social History:
+___
+Family History:
+Daughter with ulcerative colitis and the other daughter with
+juvenile rheumatoid arthritis.  No family history of Crohn's
+disease, colon cancer, or colon polyps.  Her mother and father
+are alive at ___ and ___.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: 97.8 BP 124 / 70 102 18 96 RA 
+GENERAL: NAD
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+BACK: Mild R sided trapezius spasm, otherwise non-tender. Full
+ROM. No CVAT.
+
+DISCHARGE PHYSICAL EXAM:
+GENERAL: NAD
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+BACK: Mild R sided tenderness throughout, otherwise non-tender. 
+Full ROM. No CVAT. 
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 11:21PM BLOOD WBC-9.1 RBC-4.62 Hgb-12.2 Hct-36.8 
+MCV-80* MCH-26.4 MCHC-33.2 RDW-14.8 RDWSD-42.7 Plt ___
+___ 11:21PM BLOOD Neuts-80.4* Lymphs-14.4* Monos-4.0* 
+Eos-0.2* Baso-0.8 Im ___ AbsNeut-7.28* AbsLymp-1.30 
+AbsMono-0.36 AbsEos-0.02* AbsBaso-0.07
+___ 11:21PM BLOOD Glucose-121* UreaN-24* Creat-1.0 Na-138 
+K-4.5 Cl-104 HCO3-20* AnGap-14
+___ 11:25PM BLOOD Lactate-1.4
+
+___ 09:56PM URINE Blood-TR* Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG*
+___ 09:56PM URINE RBC-12* WBC-77* Bacteri-FEW* Yeast-NONE 
+Epi-1
+___ 09:56PM URINE CastHy-10*
+___ 09:56PM URINE Color-Yellow Appear-Hazy* Sp ___
+___ 09:56PM URINE CaOxalX-RARE*
+___ 09:56PM URINE Mucous-OCC*
+
+DISCHARGE LABS (same as above)
+Urine culture- no growth (final)
+Blood culture- no growth x2 (final)
+ 
+Brief Hospital Course:
+SUMMARY:
+=========
+___ year old woman with PMH ulcerative colitis, paroxysmal atrial 
+fibrillation and recurrent UTIs who presents with severe back 
+pain and asymptomatic bacteriuria.
+
+ACUTE ISSUES:
+============
+# Musculoskeletal Back pain
+# Trapezius strain
+The patient presented with acute onset back pain on ___ that 
+started shortly after lifting a heavy object. It was described 
+as sharp, spasmodic and localized to the upper back. It was not 
+alleviated by Tylenol x2 and Orphenadrine. Given her history, 
+exam and lack of neurological deficits, the pain was presumed to 
+be musculoskeletal in origin, like a back spasm. In the ED, she 
+received cyclobenzaprine and IV narcotics for pain control, and 
+admitted for further management. In the hospital, the patient 
+was encouraged ambulate frequently. Her pain was treated with a 
+lidocaine patch, hot packs and Tylenol. She was discharged with 
+a short prescription for valium which she was encouraged to only 
+use if she has severe back spasms and outpatient follow up with 
+physical therapy.
+
+# Asymptomatic Bacteriuria
+In the ED, a routine UA showed + ___ and ___ bacteria. The pt 
+denied dysuria, abdominal pain, fevers, urinary frequency and 
+urinary hesitancy. On further evaluation the patient had no 
+fever, leukocytosis, or signs or symptoms of a urinary tract 
+infection. She had a CTU which was negative for nephrolithiasis 
+or obstruction. She received one dose of Ceftriaxone in the ED 
+for empiric therapy. Given that the patient was otherwise 
+healthy and asymptomatic, antibiotics were discontinued in the 
+hospital. Of note, the patient has a history of recurrent UTIs, 
+which she reports have resolved since she started taking 
+D-Mannose and Allegra per her urologist's recommendation. She 
+should continue her home prophylaxis for UTIs and follow up with 
+her PCP if she experiences any symptoms concerning for a UTI.
+
+CHRONIC ISSUES:
+===============
+# Ulcerative colitis, s/p IPAA, in remission. Continued to 
+monitor.
+
+# Paroxysmal atrial fibrillation, ___. Continued on home 
+ditiazem and apixaban. 
+
+# HTN: Continued on home losartan.
+
+# Depression: Continued home paroxetine.
+
+TRANSITIONAL ISSUES:
+====================
+[] Follow up with your PCP ___ ___ days.
+[] Follow up with outpatient physical therapy for 
+musculoskeletal back pain
+[] If she experiences severe back pain, okay to take ___ tablets 
+of Valium as needed every 8 hours until spasm resolves
+[] Please follow up for any urinary symptoms, and consider 
+treatment of a possible urinary infection
+[] Please follow up blood and urine cultures which were pending 
+at discharge
+ 
+Medications on Admission:
+.1. Diltiazem Extended-Release 120 mg PO DAILY 
+2. Apixaban 5 mg PO BID 
+3. PARoxetine 10 mg PO DAILY 
+4. Vitamin D ___ UNIT PO 1X/WEEK (___) 
+5. Losartan Potassium 50 mg PO DAILY 
+6. Fexofenadine Dose is Unknown  PO DAILY 
+7. d-mannose    oral DAILY 
+
+ 
+Discharge Medications:
+1.  Diazepam 2.5 mg PO Q8H:PRN severe muscle spasms 
+Take ___ tabs for severe muscle spasms. Do not take with alcohol 
+or while driving 
+RX *diazepam 5 mg 0.5 (One half) tabs by mouth every 8 hours 
+Disp #*10 Tablet Refills:*0 
+2.  Fexofenadine 60 mg PO DAILY  
+3.  Apixaban 5 mg PO BID  
+4.  d-mannose    oral DAILY  
+5.  Diltiazem Extended-Release 120 mg PO DAILY  
+6.  Losartan Potassium 50 mg PO DAILY  
+7.  PARoxetine 10 mg PO DAILY  
+8.  Vitamin D ___ UNIT PO 1X/WEEK (___)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+1. Back spasm
+
+SECONDARY DIAGNOSES
+====================
+1.Asymptomatic bacteriuria
+2.Ulcerative colitis
+Paroxysmal atrial fibrillation
+Hypertension
+Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+WHY WERE YOU ADMITTED?
+
+You came to ___ because you had back pain. You were found to 
+muscle spasms in your back and bacteria in your urine. Please 
+see more details listed below about what happened while you were 
+in the hospital and your instructions for what to do after 
+leaving the hospital.  
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL:  
+- Because of your history of frequent urinary infections, we 
+looked for kidney infections or stones in your urine. We found 
+some bacteria and inflammation but no signs of active infection. 
+You were given one dose of antibiotics but this was stopped 
+because you do not have an infection.
+- We determined that your pain was from muscle spasms from 
+lifting.
+- We gave you some medications to help with the pain
+- You improved considerably and were ready to leave the hospital 
+ 
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL:  
+- Please follow up with your primary care doctor ___ below)  
+- Please take all of your medications as prescribed (see below)  
+
+- Please try using heat packs, Tylenol for pain management. If 
+you have severe spasms, please take valium ___ tablets. Please 
+do not combine this medication with others and do not drive 
+while taking this medication
+- Seek medical attention if you have worsening back pain, pain 
+with urination, fever, chills or other symptoms of concern.  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,471 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lithium
+ 
+Attending: ___.
+ 
+Chief Complaint:
+SI
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo CF with PMH CKD
+Stage III-IV ___ lithium and bipolar disorder presents to ___
+ED with severe depression/SI admitted pending psychiatric
+inpatient bed. 
+
+Ms. ___ has a depressed affect on exam. Answers questions
+appropriately. seems unclear why went to the ED. States has
+issues with depression and SI in the past with most recent a few
+weeks ago but denies SI currently. Did read psychiatric note 
+with
+concern of mother and husband. Dx bipolar age ___ with last
+suicide attempt at age ___ per patient. Support system is her
+husband, ___. 
+
+Per CKD: States known CKD from lithium use. +pruritis at scalp
+but not generalized, intermittent nausea but none currently, and
+no confusion. Cr 2.7 with last in our system 2.2 in ___. GFR 
+18.
+
+Currently denies urinary hesitation, dysuria or any UTI 
+symptoms.
+UA with >180 WBC ___ but neg Nitrite and small amt bacteria.
+Given cipro x 1 in ED.
+ 
+ 
+Past Medical History:
+Stage III-IV ___ lithium and bipolar disorder 
+ 
+Social History:
+___
+Family History:
+Mother had CVA
+Aunt with mental illness
+ 
+Physical Exam:
+98.2 145/86 106 18
+eyes are open
+she does not reply verbally to questions of orientation
+no obvious akethesia
+respirations unlabored
+no peripheral edema
+ 
+Pertinent Results:
+___ 
+Na 142, Cl 105, K 4.9, Cr 2.7, BUN 34, Glucose 117, HCO3 22
+WBC 10.4, Hgb 12.6, Hct 40, Plt 472
+UA WBC >182, Large ___, Neg nitrite, few bacteria, 30 +prot
+Utox neg, ASA/Tylenol neg
+
+___ 06:45AM BLOOD WBC-9.1 RBC-4.45 Hgb-12.1 Hct-38.7 MCV-87 
+MCH-27.2 MCHC-31.3* RDW-13.8 RDWSD-43.7 Plt ___
+___ 05:15AM BLOOD Glucose-121* UreaN-36* Creat-3.2* Na-143 
+K-4.0 Cl-106 HCO3-22 AnGap-19
+___ 10:00PM BLOOD Calcium-9.4 Mg-2.6
+___ 06:45AM BLOOD TSH-3.4
+___ 06:25AM BLOOD Osmolal-316*
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo CF with PMH CKD Stage III-IV ___ lithiumand 
+bipolar disorder presents to ___ ED with severe depression/SI 
+admitted pending psychiatric inpatient bed. 
+
+Psychiatry noted: "Her exam continues to be notable for 
+anxious/fearful appearance, long response latency, apparent 
+thought blocking. She had previously endorsed racing thoughts. 
+She is inattentive and partially disoriented. This presentation, 
+coupled with past history, continues to be suggestive of 
+bipolar-mixed state"  
+
+#  Acute SI
+#  Bipolar D/O 
+
+Patient was placed on ___.  I have included psychiatry 
+consult and progress notes for your review.  They are concerned 
+for bipolar mixed state and risk of suidcide given disinhibition 
+and confusional state.
+
+She was started on rispderdal which was increased to 1.5mg BID 
+with additional doses PRN anxiety/agitation.
+
+Because her mother stated that her symptoms improved on the past 
+with use of Depakote, please consider the addition of Depakote 
+to current regimen to assist with mood stabilization.
+
+The following is the initial psychiatry consult note including 
+impression:
+
+Ms ___ is a ___ yo F with a PMHx
+significant for Bipolar Disorder with multiple distant suicide
+attempts, who self-presented to the Emergency Department, and
+presents with escalating anxiety, depression and thoughts of
+suicide for the past month.
+
+Patient reports that she has been feeling increasingly anxious
+and depressed for the past month following marriage to her
+now-husband with whom she had been in a romantic relationship 
+for
+the past ___ years.  She endorses anxiety symptoms of "twitching,"
+as well as ruminative thoughts.  She also endorses depressive
+symptoms of hopelessness, sleep disturbances, guilt, and 
+suicidal
+ideation "every minute," without a plan.  She also endorses
+auditory hallucinations in the form of "bangs," which she
+experienced ___ years ago when she was first diagnosed with
+Bipolar Disorder as a teenager.  
+
+Patient states that her symptoms peaked this past ___ when 
+she
+was at work (in customer service for the ___ of ___, where
+she "lost control;" she reports not being able to complete her
+daily tasks, including scheduling, counting, inputting
+information into the computer and stamping checks.  When asked 
+to
+elaborate on her loss of control, she said she felt
+"overwhelmed," by her tasks and froze, unable to perform as
+expected.  
+
+Patient states that she recently married her boyfriend of ___
+years, ___.  They married about 1 month ago.  She denies any
+concerns with their relationship and feels that the marriage is
+going well.
+
+Patient states that she has been off of psychiatric medications
+for the past ___ years, when she self-discontinued the Depakote
+and Wellbutrin she had been on for ___ years.  Has not seen a
+psychiatrist during this time.  
+
+Unable to provide many details of her presentation, as patient
+expresses that the questions were "too much" on several 
+occasions
+and that she was feeling overwhelmed by them.  
+
+Collateral: 
+Husband, ___ (___)
+- ___ started about 2 weeks started; Per ___, patient has
+stated that she will feel better if she goes to the hospital.  
+- Feeling very depressed, not typical for her
+- Been in a relationship with her for ___ years 
+
+Mother, ___ (___)
+- ___ of moving - had been living in ___, and she
+moved in with ___ after mom moved to ___ (in ___
+- Patient has said to mom that this is her "last time" - mother
+believes that this represents thoughts of suicide
+
+Psychiatric ROS:
+- Depression - Reports symptoms including anhedonia,
+hopelessness, guilt, fatigue, and sleep disturbances.
+- Psychosis - Reports auditory hallucinations ("bangs"), and
+recent paranoia (unable to further describe)
+- Mania- Reports some irritability which she says is consistent
+with prior manic episodes ~ ___ years ago, but no recent symptoms
+including NO elevated mood or irritability, marked increases in
+goal-directed behavior, racing thoughts, a decreased need for
+sleep, or social/economic indiscretion
+- Anxiety - report symptoms including panic attacks and
+ruminative thoughts
+
+PAST PSYCHIATRIC HISTORY:
+- Sx/Dx: Bipolar Disorder
+- Hospitalizations: 
+   * per OMR: "went to an inpatient program in ___ at 
+some
+point which taught them how to live their daily lives, for
+example, how to get up in the morning, how to take a shower, how
+to take your medicines daily, how to not miss any doctors'
+appointments.  This program helped to change her life." 
+   * Multiple inpatient hospitalizations in her ___, none
+recently
+- Current treaters and treatment: 
+   * Therapist: ___: ___
+   * Psychiatrist: None for ___ years
+- Medication and ECT trials: Lithium for ___ years, felt "numb"
+and developed kidney injury; Was on Depakote and Wellbutrin
+subsequently, took herself off of these ___ years ago
+- Self-injury/Suicide attempts: She had tried to commit suicide
+multiple times, particularly in her teens-___, including trying
+to jump out of a second story window, trying to break a glass
+vase over her head, trying to stab herself in the groin area.
+- Harm to others: Denies
+
+PAST MEDICAL HISTORY:
+- Iron deficiency anemia
+- Hypothyroidism, now resolved per patient.
+- Chronic Kidney Disease secondary to lithium use x ___ years
+- Sleep Apnea, no CPAP
+
+MEDICATIONS:
+- Lisinopril 2.5 mg PO Daily
+- Quetiapine 50 mg PO QHS
+
+ALLERGIES: 
+NKDA
+
+SUBSTANCE ABUSE HISTORY:
+- EtOH: Denies
+- Illicits: Denies
+- Tobacco: Denies
+
+FORENSIC HISTORY:
+- Arrests: Denies
+- Convictions and jail terms: Denies
+
+FAMILY PSYCHIATRIC HISTORY:
+- Fam Dx: 
+   * Aunt and grandmother with Bipolar Disorder 
+   * Nephew with ___, ADHD and OCD 
+   * Father with EtOH use disorder, completed suicide
+   * Sister with EtOH & substance abuse
+- Fam Hospitalizations: Unknown
+- Fam Treatment Hx/Med Trials: Unknown
+- Fam Hx Suicide: Father
+
+SOCIAL HISTORY:
+- B/R: ___
+- Family: Mother lives in ___, but had been living with 
+patient
+in ___ up until one month ago.  Patient has good support
+from her sister.  
+Per OMR: 
+   * "She has two sisters and a brother.  Her father had been an
+alcoholic who committed suicide many years ago.  She used to be
+really close to her mother and had even gone out to bars with 
+her
+mother when younger.  Her mother had always been very supportive
+of her throughout her difficulties with her Bipolar disorder." 
+   * "The patient feels that her older sister is very supportive
+of her still.  She has an aunt who also really suffered from
+Bipolar Mood Disorder and Lithium toxicity."
+- Housing: Currently lives with her husband of one month, ___,
+and five house-mates in ___
+- Education: Completed 2 ___ degrees
+- Employment/Income: Currently works in Customer Service for the
+___
+- Spiritual: Says she "tries to be;" Raised Catholic, has
+followed the Quaker and Buddhist faiths in the past.
+- Access to Weapons: Denies
+
+Medical ROS:
+- A 10-point ROS was negative, including: no fever, HA, eye 
+pain,
+hearing deficit, chest pain, difficulty breathing, abdominal
+pain, constipation, diarrhea, musculoskeletal pain
+
+EXAM: 
+ *VS: T 98.3; HR 78; BP 135/115; RR 16; O2 99% RA   
+  
+Neurological:  
+  *Station and Gait: not observed; patient evaluated in ED bed
+  *Tone and Strength: Normal bulk and tone; moves all 4
+extremities anti-gravity
+  Abnormal Movements: no tics, tremors, evidence of EPS
+  Cranial Nerves: II-XII intact and symmetric to observation,
+with no evidence of focal deficits.
+
+Cognition: 
+  Wakefulness/alertness: alert and engaged in interview 
+  *Attention: impaired to interview; required asking questions
+multiple times on several occasions.  
+  *Orientation: oriented x3 (self, location and date) 
+  *Memory:   In tact to recent and distant events.  
+  *Fund of knowledge:  appropriate for level of education     
+  *Speech: Non-spontaneous, monotone
+  *Language: fluent ___ speaker without paraphasic errors.
+  
+ Mental Status:
+  *Appearance:  Pt appears stated age, adequate grooming
+  Behavior: Struggles being cooperative, stating twice that the
+questions were "too much," and made her feel "overwhelmed."
+  *Mood and Affect:  "Anxious"; Affect blunted, dysphoric,
+anxious 
+  *Thought process / *associations:  Logical and linear, without
+loosening of associations or tangentiality.
+  *Thought Content: Reports current suicidal ideation without
+plan; Reports AH in the form of "bangs," which started ___ weeks
+ago.  Denies HI, Denies VH 
+  *Judgment and Insight:  Impaired/impaired.
+
+DATA:
+ Labs:
+  ___: Na: 142
+  ___: K: 4.9
+  ___: Cl: 105
+  ___: CO2: 22
+  ___: BUN: 34*
+  ___: Creat: 2.7*
+  ___: Glucose: 117* (If fasting, 70-100 normal, >125
+provisional diabetes)
+
+  ___: WBC: 10.4*
+  ___: HGB: 12.6
+  ___: HCT: 40.3
+  ___: Plt Count: 472*
+
+Serum toxicology: Pending
+Urine toxicology: Pending
+
+DSM 5 DIAGNOSIS:
+- Bipolar Disorder, by history
+- Adjustment Disorder, with mixed anxiety and depressed mood
+
+ASSESSMENT: Ms ___ is a ___ yo F with a PMHx significant for
+Bipolar Disorder with multiple distant suicide attempts, who
+self-presented to the Emergency Department, and presents with
+escalating anxiety, depression and thoughts of suicide for the
+past month.  On interview, the patient endorses worsening
+depression and anxiety for the past several weeks, with
+near-constant thoughts of suicide, though currently without 
+plan.
+She also endorses auditory hallucinations in the form of 
+"bangs,"
+which she says she has not experienced in nearly ___ years since
+she was diagnosed with bipolar disorder.  The timeline of
+symptoms corresponds to the month following marriage to her
+long-time boyfriend and subsequent moving in with him and five
+other roommates.  Patient admits to self-discontinuing her
+psychiatric medications approximately ___ years ago, but is unable
+to cite a reason for doing so.  Collateral was concerning for a
+notable change in mood by mother and husband for two weeks, with
+comments that are considered to be suggestive of thoughts to end
+her life.  On exam the patient is very anxious appearing and
+distracted, struggling to answer many questions and requiring
+some questions to be asked multiple times and becoming
+overwhelmed when inquiring about specific details of her
+symptoms.  The neurologic exam was within normal limits. 
+
+Given the timeline of symptoms, the presentation is most
+consistent with an adjustment disorder with mixed anxiety and
+depression in the context of recent marriage, moving out of her
+home where she lived with her mother and moving into a new home
+with her husband and roommates.  Alternatively, this may also
+represent a manifestation of her existing Bipolar Disorder,
+particularly given that she has been off her psychiatric
+medications for the past ___ years, and reports similar 
+auditory
+hallucinations that she experienced when she was first 
+diagnosed.
+
+RISK ASSESSMENT:
+# Static Risk Factors:
+- history of suicide attempts 
+- history of abuse 
+- chronic mental illness 
+- Caucasian race 
+- family history of completed suicide
+- chronic medical illness.   
+
+# Modifiable Risk Factors:
+- suicidal ideation 
+- possible psychosis 
+- medication noncompliance 
+- poorly controlled mental illness 
+- hopelessness 
+- insomnia
+
+# Protective Factors
+- help-seeking nature 
+- future-oriented viewpoint 
+- spirituality 
+- no history of substance use disorder 
+- strong social supports.  
+
+Based on the current presentation and assessment, the patient
+currently meets ___ criteria and would benefit from
+inpatient hospitalization for stabilization,
+psychopharmacological optimization, and aftercare planning.  
+This
+is currently the least restrictive level of care that is
+appropriate for the patient.
+
+#Acute on Chronic Kidney disease:
+
+I reviewed ___ records at on ___ creat 2.69 and back in ___
+creat as high as 3.28
+
+I understand that lithium, which she is off is felt to relate to 
+chronic kidney disease.  Her records do not state if she has 
+diabetes insipidus, but she did briefly develop some 
+hypernatremia during hospitalization.
+
+Her creat ranged from 2.7 to as high as 3.5 during 
+hospitalization and is 3.2 during hospitalization.  Her Fena was 
+not low.  She did not have clinically evident hypovolemia, but 
+may have been mildly dry given mood disorder and possible lack 
+of sufficient oral intake.
+
+While her mood disorder is being addressed and she may have 
+reduced oral intake, we have chosen to stop her ace-inhibitor, 
+lisinopril which is indicated for some sub-nephrotic 
+proteinuria.  
+
+Make sure she has plenty of water to consume and address thirst 
+seriously.  
+
+She should have repeat chem7 on ___ and lisinopril 
+2.5mg can be resumed if her creatinine is improved.  If her 
+creatinine is rising >3.5 please contact her nephrologist at ___ 
+Dr. ___ (fellow) with attending nephrologist, Dr. 
+___.  
+ 
+# Pyuria: repeat urine culture without specific bacterial 
+pathogen on two urine cultures, did not treat for UTI other than 
+cipro x1.  
+
+# Contact  Husband ___ ___, Mother ___ ___
+
+ 
+___ on Admission:
+=The Preadmission Medication list is accurate and complete.
+1. Lisinopril 2.5 mg PO DAILY 
+2. QUEtiapine Fumarate 50 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q4H:PRN Pain  
+2.  RisperiDONE 1.5 mg PO BID  
+3.  RisperiDONE 0.5 mg PO BID:PRN anxiety/agitation  
+4. HELD- Lisinopril 2.5 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until repeat creat is in stable range 
+in the mid 2.5 range
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+escalating anxiety, depression and thoughts of
+suicide for the past month.
+chronic kidney disease
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+you were hospitalized for treatment of escalating anxiety, 
+depression and thoughts of suicide for the past month.
+
+because of risk of self-injury we currently have a ___ to 
+help keep you safe while you proceed with further psychiatric 
+care.
+
+you have chronic kidney disease and we have stopped your 
+lisinopril while your kidney function is being monitored
+ 
+Followup Instructions:
+___

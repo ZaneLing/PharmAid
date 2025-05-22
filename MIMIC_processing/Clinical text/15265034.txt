@@ -1,0 +1,308 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left leg pain
+ 
+Major Surgical or Invasive Procedure:
+___: Left lower extremity angiogram and iliofemoral 
+embolectomy.
+
+ 
+History of Present Illness:
+___ with history of afib on Pradaxa, ___ transferred from
+for management of his left iliac artery occlusion. Patient
+reports he was walking yesterday about 1pm when he experienced
+acute onset left leg pain, numbness and weakness. He went to
+___ who proceeded with a neurological work up that was
+negative and got a CTA with runoff that demonstrated left common
+iliac and external iliac occlusion. He was started on heparin 
+and
+was transferred here for vascular surgery. His symptoms have
+improved since his arrival to ___. He denies numbness and
+only has thigh pain with ambulation. Of note the patient reports
+he may have missed a dose of pradaxa.
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:
+A-Fib
+HTN
+HLD
+BPH
+     
+PAST SURGICAL HISTORY 
+Transurethral resection of the prostate                          
+
+
+ 
+Social History:
+___
+Family History:
+mother had strokes, father had coronary disease
+ 
+Physical Exam:
+Vitals: 24 HR Data (last updated ___ @ 1118)
+    Temp: 98.3 (Tm 99.9), BP: 170/89 (114-170/69-94), HR: 82
+(76-95), RR: 18, O2 sat: 96% (___), O2 delivery: Ra
+GENERAL: [x]NAD  []A/O x 3  []intubated/sedated []abnormal
+CV: [x]RRR  [] irregularly irregular []no MRG  []Nl S1S2
+[]abnormal
+PULM: []CTA b/l  [x]no respiratory distress  []abnormal
+ABD: [x]soft  []Nontender  []appropriately tender 
+[]nondistended  []no rebound/guarding  []abnormal
+WOUND: [x]CD&I, no palpable hematoma or overlying ecchymosis
+EXTREMITIES: []no CCE []abnormal
+PULSES: R: p/ / p/p    L: p/ / p/p
+ 
+Pertinent Results:
+___ 05:17AM BLOOD WBC-9.2 RBC-4.60 Hgb-14.2 Hct-41.8 MCV-91 
+MCH-30.9 MCHC-34.0 RDW-12.9 RDWSD-41.8 Plt Ct-99*
+___ 05:17AM BLOOD Plt Ct-99*
+___ 05:00AM BLOOD Glucose-120* UreaN-18 Creat-0.7 Na-141 
+K-4.1 Cl-107
+___ 05:00AM BLOOD Calcium-8.6 Phos-4.2 Mg-2.1
+___ 05:00AM BLOOD %HbA1c-5.6 eAG-114
+
+REPORTS:
+TEE CONCLUSION:
+The left atrial volume index is SEVERELY increased. The right 
+atrium is markedly enlarged. There is no
+evidence for an atrial septal defect by 2D/color Doppler. The 
+estimated right atrial pressure is ___ mmHg.
+There is normal left ventricular wall thickness with a normal 
+cavity size. There is normal regional and global
+left ventricular systolic function. No thrombus or mass is seen 
+in the left ventricle. Quantitative biplane left
+ventricular ejection fraction is 65 % (normal 54-73%). There is 
+no resting left ventricular outflow tract
+gradient. Mildly dilated right ventricular cavity with normal 
+free wall motion. The aortic sinus is mildly dilated
+with mildly dilated ascending aorta. The aortic arch diameter is 
+normal with a normal descending aorta
+diameter. There is no evidence for an aortic arch coarctation. 
+The aortic valve leaflets (3) are mildly
+thickened. There is no aortic valve stenosis. There is trace 
+aortic regurgitation. The mitral valve leaflets are
+mildly thickened with no mitral valve prolapse. There is trivial 
+mitral regurgitation. The pulmonic valve leaflets
+are normal. The tricuspid valve leaflets appear structurally 
+normal. There is mild to moderate [___] tricuspid
+regurgitation. There is mild pulmonary artery systolic 
+hypertension. There is a trivial pericardial effusion.
+IMPRESSION: No definite left ventricular or atrial thrombi 
+identified. Normal left ventricular wall
+thickness, cavity size, and regional/global systolic function. 
+Mild right ventricular cavity dilation
+with normal systolic function. Mild to moderate tricuspid 
+regurgitation. Mild pulmonary artery
+systolic hypertension.
+RECOMMEND: Of note, a transthoracic echocardiogram cannot 
+exclude presence of thrombus in the
+left atrial appendage, which would
+ 
+Brief Hospital Course:
+___ with history of afib on Pradaxa is transferred from OSH for 
+management of his acute left iliac artery occlusion. 
+
+ 
+Patient was started on a heparin infusion and brought to the 
+operating room for exploration and angigram given the acute limb 
+ischemia. A LLE angiogram was performed followed by left 
+iliofemoral embolectomy.  Vascular medicine was consulted who 
+recommended a transthoracic echocardiogram.  This ECHO can not 
+exclude the presence of thrombus in the left atrial appendage 
+but no further workup was needed. Additionally, they recommend 
+changing pradaxa to eliquis for anticoagulation. 
+
+Medications for chronic medical conditions were continued 
+thoughout hospitalization. 
+
+Lifelong anticoagulation for AF is indicated. 
+Dabigatran(pradaxa) was changed to apixaban(eliquis). Aspirin 
+and statin for vascular disease is also recommended. On the day 
+of discharge, he was ambulatory ad lib, pain free , tolerating 
+regular diet and voiding QS. 
+We have arranged follow up  with PCP ___ ___ days and Dr. ___ 
+in 1 month.  
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Lisinopril 40 mg PO DAILY 
+2. amLODIPine 2.5 mg PO DAILY 
+3. ALPRAZolam 0.25 mg PO TID:PRN anxiety 
+4. Simvastatin 40 mg PO QPM 
+5. Atenolol 50 mg PO DAILY 
+6. Dabigatran Etexilate 150 mg PO BID 
+7. Jalyn (dutasteride-tamsulosin) 0.5-0.4 mg oral DAILY 
+8. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN pain/headache  
+2.  Apixaban 10 mg PO BID Duration: 7 Days 
+Take this dose for 1 week after discharge from the hospital 
+RX *apixaban [Eliquis] 5 mg 2 tablet(s) by mouth twice a day 
+Disp #*28 Tablet Refills:*0 
+3.  Apixaban 5 mg PO BID 
+Take this dose after completing the 1 week of higher dose 
+Eliquis  
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*180 Tablet Refills:*0 
+4.  Aspirin EC 81 mg PO DAILY  
+5.  ALPRAZolam 0.25 mg PO TID:PRN anxiety  
+6.  amLODIPine 2.5 mg PO DAILY  
+7.  Atenolol 50 mg PO DAILY  
+8.  Jalyn (dutasteride-tamsulosin) 0.5-0.4 mg oral DAILY  
+9.  Lisinopril 40 mg PO DAILY  
+10.  Omeprazole 20 mg PO DAILY  
+11.  Simvastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left lower extremity acute limb ischemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+It was a pleasure taking care of you at ___ 
+___.  You were admitted to the hospital for workup of 
+your sudden onset of left lower pain.   We found a clot in the 
+artery was the cause of the pain.  We removed the clot in the 
+operating room.  after a peripheral angiogram.   To remove the 
+clot, a small incision was made in one of your arteries.  The 
+area heals on its own: there are no stitches to remove.  We feel 
+this clot was from missing pradaxa doses in combination with 
+your atrial fibrillation.   You tolerated the procedure well and 
+are now ready to be discharged from the hospital.   Please 
+follow the recommendations below to ensure a speedy and 
+uneventful recovery.
+
+Vascular Leg Surgery Discharge Instructions
+
+What to except:
+
+It is normal feel tired for ___ weeks after your surgery
+It is normal to have leg swelling.  Keep your leg elevated as 
+much as possible.  This will decrease the swelling. 
+Your leg will feel tired and sore.   This usually passes 
+within a few weeks.
+Your incision will be sore, slightly raised, and pink.  Any 
+drainage should decrease or stop with in the first 2 weeks. 
+If you are home, you will likely receive a visit from a 
+Visiting Nurse ___.  Members of your health care team will 
+discuss this with you before you go home.   
+
+Medications:
+Before you leave the hospital, you will be given a list of all 
+the medicine you should take at home.  If a medication that you 
+normally take is not on the list or a medication that you do not 
+take is on the list please discuss it with the team!  
+
+It is very important that you take Aspirin every day!  You 
+should never stop this medication before checking with your 
+surgeon
+
+Pain Management:
+It is normal to feel some discomfort/pain following surgery.  
+This pain is often described as soreness. 
+You may take Tylenol (acetaminophen ) as needed for pain.   
+You will also receive a prescription for stronger pain medicine, 
+ if the Tylenol doesnt work, take prescription medicine. 
+Narcotic pain medication can be very constipating, please also 
+take a stool softner such as Colace.   If constipation becomes a 
+problem, your pharmacist can suggest additional over the counter 
+medications. 
+Your pain medicine will work better if you take it before your 
+pain gets to severe. 
+Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon. 
+
+
+Activity:
+Do not drive until your surgeon says it is okay.  In general, 
+driving is not allowed until
+-the staples in your leg have been taken out
+-your leg feels strong
+-you have stopped taking pain medication and feel you could 
+respond in an emergency
+Walking is good because it helps your muscles get stronger and 
+improves blood flow. Start with short walks.  If you can, go a 
+little further each time, letting comfort be your guide.  
+Try not to go up and downstairs too much in the first weeks.  
+Use stairs only once or twice a day until your incision is fully 
+healed and you are back to your usual strength.
+Avoid things that may constrict blood flow or put pressure on 
+your incision, such as tight shoes, socks or knee highs.
+Do not take a tub bath or swim until your wound is healed. 
+When you sit, keep your leg elevated to reduce swelling.
+If swelling in your leg is getting worse, lie down with your 
+leg up on a pillows.  If your swelling continues, please call 
+your surgeon.  You may be instructed to use special elastic 
+bandages or stockings.
+Try not to sit in the same position for a long while.  For 
+example, ___ go on a long car ride. 
+You may go outside.  But avoid traveling long distances until 
+you see your surgeon at your next visit. 
+You may resume sexual activity after your incisions are well 
+healed.
+
+Your incision
+
+Your incision may be slightly red, this is normal.
+It is normal to have a small amount of clear or light red 
+fluid coming from your incision.
+This will decrease and stop in a few days.  If it does not stop, 
+or if you have a lot of fluid coming out., please call your 
+surgeon.
+You may shower 48 hours after your surgery.  Do not let the 
+shower spray right on the incision,  Let the soapy water run 
+over the incision, then rinse.  Gently pat the area dry.  Do not 
+scrub the incision,  Do not apply ointment or lotions to the 
+incision.
+You do not need to cover the incision if there is no drainage, 
+ If there is a small amount of drainage, put a small sterile 
+gauze or Bandaid over the incison.
+It is normal to feel a firm ridge along the incision,  This 
+will go away as your wound heals. 
+Avoid direct sun exposure to the incision area for 6 months.  
+This will help keep the scar from becoming discolored.
+Over ___ months, your incision will fade and become less 
+prominent.
+
+Diet and Bowels
+It is normal to have a decreased appetite.  Your appetite will 
+return over time.   Follow a well-balanced, health healthy diet, 
+without too much salt and fat. 
+Prescription pain medicine might make you constipated.  If 
+needed, you may take a stool softener (such as Colace) or gentle 
+laxative (ask your pharmacist for recommendations).
+Drinking more fluid may also help.
+If you go 48 hours without a bowel movement, or having pain 
+moving your bowels, call your primary care physician.
+
+ 
+Followup Instructions:
+___

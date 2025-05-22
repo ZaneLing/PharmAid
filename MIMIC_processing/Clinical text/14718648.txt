@@ -1,0 +1,307 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ is a ___ with a PMHx of hypothyroidism, GERD and 
+HTN who presented with chest pain. The patient notes CP that 
+started 4d PTA that was dull in nature, without radiation. He 
+notes pleuritic component as well as positional pain, with 
+worsening of the pain with twisting movements and leaning 
+forward. He does note worsening of the pain with exertion, but 
+denies any pain with exertion prior to the onset of his 
+symptoms, and denies a prior history of CP or DOE or at rest. He 
+saw his PCP who felt his EKG was changed from prior, and they 
+felt that he needed additional testing, and sent him to the ED.
+
+Notably, the patient has no history of personal malignancy or 
+TB. He has not been incarcerated and has not had homelessness. 
+Last sexual contact was with a female partner 6d PTA. 
+
+In the ED, initial vitals were:  
+99.7 75 131/73 16 96% RA 
+ - Exam notable for:  
+none documented
+ - Labs notable for:  
+CRP >300, mild anemia at 11.9
+ - Imaging was notable for: 
+See below for full imaging details. Notably, no acute 
+intrathoracic process or findings suggestive of ACS on stress 
+testing
+ - Patient was given:  
+___ 13:52 PO Aspirin 324 mg 
+___ 08:21 PO/NG amLODIPine 5 mg   
+___ 08:21 PO/NG Levothyroxine Sodium 150 mcg  
+___ 08:21 PO Omeprazole 20 mg  
+___ 09:06 PO Levofloxacin 750 mg 
+ 
+Past Medical History:
+Hypothyroidism 
+TOBACCO DEPENDENCE(aka SMOKER) 
+Screen for colon cancer 
+Polysubstance abuse 
+Abnormal EKG 
+Overweight 
+Hypertension 
+ 
+Social History:
+___
+Family History:
+No family history of premature cardiac disease or rheumatologic 
+disorders
+ 
+Physical Exam:
+ADMISSION PHYSCIAL EXAM
+98.0 71 111/65 24 94% RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL.  
+Neck: Supple. JVP at clavicle at 30 degrees, negative HJR. no 
+LAD  
+CV: Regular rate and rhythm. Normal S1+S2, no murmurs, rubs, 
+gallops.  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+
+DISCHARGE PHYSICAL EXAM
+VS: 98.3, 109/71, 72, 16, 95%RA  
+GENERAL: NAD  
+HEENT: AT/NC, no conjunctival injection/erythema
+NECK: nontender supple neck, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: no gross motor/coordination abnormalities
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes
+ 
+Pertinent Results:
+ADMISSION/IMPORTANT LABS
+___ 12:35PM BLOOD WBC-8.2 RBC-3.92* Hgb-11.9* Hct-36.2* 
+MCV-92 MCH-30.4 MCHC-32.9 RDW-13.4 RDWSD-45.1 Plt ___
+___ 12:35PM BLOOD Neuts-65.7 ___ Monos-12.7 
+Eos-0.5* Baso-0.1 Im ___ AbsNeut-5.39 AbsLymp-1.69 
+AbsMono-1.04* AbsEos-0.04 AbsBaso-0.01
+___ 09:46AM BLOOD ___ PTT-32.1 ___
+___ 06:20AM BLOOD ___ PTT-31.9 ___
+___ 06:20AM BLOOD Ret Aut-1.6 Abs Ret-0.06
+___ 12:35PM BLOOD Glucose-90 UreaN-11 Creat-1.1 Na-136 
+K-3.9 Cl-97 HCO3-24 AnGap-19
+___ 06:20AM BLOOD ALT-33 AST-28 AlkPhos-72 TotBili-1.0
+___ 12:35PM BLOOD cTropnT-<0.01
+___ 07:27PM BLOOD cTropnT-<0.01
+___ 06:20AM BLOOD Calcium-9.2 Phos-4.0 Mg-2.3 Iron-26*
+___ 09:46AM BLOOD D-Dimer-5281*
+___ 06:20AM BLOOD calTIBC-192* Ferritn-698* TRF-148*
+___ 06:20AM BLOOD TSH-6.7*
+___ 06:20AM BLOOD Free T4-1.1
+___ 06:20AM BLOOD HIV Ab-Negative
+___ 06:20AM BLOOD HIV1 VL-NOT DETECT
+
+DISCHARGE LABS
+___ 01:00PM BLOOD WBC-6.7 RBC-3.82* Hgb-11.5* Hct-34.9* 
+MCV-91 MCH-30.1 MCHC-33.0 RDW-13.2 RDWSD-44.4 Plt ___
+___ 06:20AM BLOOD Glucose-104* UreaN-12 Creat-1.1 Na-138 
+K-4.4 Cl-101 HCO3-27 AnGap-14
+___ 06:20AM BLOOD Calcium-9.2 Phos-4.0 Mg-2.3 Iron-26*
+
+STUDIES/IMAGING
+--------------------
+CXR ___:
+Bibasilar patchy opacities may reflect atelectasis, though 
+infection in the 
+left lung base is not completely excluded.  Trace left pleural 
+effusion. 
+
+CARDIAC PERFUSION ___:
+Rest perfusion images demonstrated no perfusion defects.
+
+CTA ___:
+1. Somewhat limited assessment of the subsegmental pulmonary 
+arteries in the 
+left lower lobe due to motion degradation from respiration.  
+Otherwise, no 
+evidence of pulmonary embolism or acute aortic abnormality. 
+2. Moderate pericardial effusion.  In some areas, it measures 
+greater than 
+simple fluid and underlying hemopericardium is not excluded. 
+3. Small bilateral left greater than right pleural effusions. 
+4. Main pulmonary artery is mildly dilated measuring 3.3 cm in 
+maximal 
+diameter.  This may represent underlying pulmonary hypertension. 
+
+
+TTE ___:
+The left atrial volume index is moderately increased. No atrial 
+septal defect is seen by 2D or color Doppler. The estimated 
+right atrial pressure is ___ mmHg. Normal left ventricular wall 
+thickness, cavity size, and regional/global systolic function 
+(biplane LVEF = 61 %). The estimated cardiac index is normal 
+(>=2.5L/min/m2). The aortic arch is mildly dilated. The aortic 
+valve leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis or aortic regurgitation. The 
+mitral valve appears structurally normal with trivial mitral 
+regurgitation. The estimated pulmonary artery systolic pressure 
+is high normal. There is a small circumferential pericardial 
+effusion. There are no echocardiographic signs of tamponade. 
+
+ IMPRESSION: Small circumferential pericardial effusion without 
+echocardiographic signs of tamponade. Normal biventricular 
+cavity sizes with preserved regional and global biventricular 
+systolic function. Mildly dilated aortic arch. Biatrial 
+enlargement. 
+ 
+Brief Hospital Course:
+___ is a ___ with a PMHx of hypothyroidism, GERD and 
+HTN who presented with chest pain with an elevated CRP, diffuse 
+ST elevations, pericardial effusion, and concerning for 
+pericarditis.
+
+#Pericarditis
+#Pericardial effusion
+Mr. ___ presented with multiple days of positional and 
+pleuritic chest pain. CTA was negative for PE, but with moderate 
+pericardial effusion, cannot exclude hemopericardium, and small 
+bilateral pleural effusions. He also had mildly dilated 
+pulmonary artery at 3.3cm. EKG findings with ST elevations in 
+multiple vascular territories. CRP was elevated. These findings 
+were consistent with a diagnosis of pericarditis, possibly viral 
+in nature given his recent non-productive cough. He had no TB 
+risk factors or symptoms. Pulsus paradoxus was not elevated at 
+4. TTE was done as an inpatient and revealed small 
+circumferential pericardial effusion without echocardiographic 
+signs of tamponade. His Hgb remained stable but was low (anemia 
+discussed below). He was not started on indomethacin out of 
+concern for hemopericardium given CTA and anemia, although this 
+is unlikely. Colchicine 0.6 BID was started and he was 
+discharged for plan for close cardiology follow up and repeat 
+echocardiogram. HIV was pending at time of discharge.
+
+#Normocytic Anemia: Unclear etiology. ___ be due to underlying 
+chronic inflammatory process. Reticulocyte index is 1.35, 
+indicating an underproduction of reticulocytes. Iron was low at 
+26, and ferritin was elevated at 698. There was concern for 
+hemopericardium, which is why indomethacin was held. Hgb 
+remained stable making hemopericardium less likely. Consider 
+further workup of anemia of inflammation as an outpatient if 
+persists.
+
+CHRONIC ISSUES: 
+#Hypothyroidism: TSH elevated at 6.7 and free T4 normal at 1.1. 
+He was continued on home levothyroxine. Consider repeat thyroid 
+studies as an outpatient.
+
+#GERD: Continued omeprazole
+
+#HTN: Held amlodipine during this admission, re-started at 
+discharge
+
+===============================
+TRANSITIONAL ISSUES
+=============================== 
+[ ] Colchicine 0.6 BID was started.
+[ ] Close cardiology follow up.
+[ ] Repeat echocardiogram in the next week to assess for 
+resolving effusion.
+[ ] HIV test was pending at time of discharge.
+[ ] TSH elevated at 6.7 and free T4 normal at 1.1. Consider 
+repeat thyroid studies as an outpatient.
+[ ] Consider further workup of anemia of inflammation as an 
+outpatient if persists.
+
+#CODE: Full (presumed)
+#DISPO: Name of health care proxy: ___
+Relationship: sister
+Phone number: ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. Cialis (tadalafil) 20 mg oral prn 
+3. Levothyroxine Sodium 150 mcg PO DAILY 
+4. amLODIPine 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Colchicine 0.6 mg PO BID 
+RX *colchicine 0.6 mg 1 capsule(s) by mouth twice a day Disp 
+#*60 Capsule Refills:*0 
+2.  amLODIPine 5 mg PO DAILY  
+3.  Cialis (tadalafil) 20 mg oral prn  
+4.  Levothyroxine Sodium 150 mcg PO DAILY  
+5.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+- Pericarditis, likely viral in etiology
+
+Secondary:
+- Pericardial effusion without tamponade
+- Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to ___ because you were having 
+chest pain.
+
+WHILE YOU WERE HERE:
+- You were found to have "pericarditis." This is inflammation of 
+the tissue layer around the heart.
+- You were found to have a "pericardial effusion." This is fluid 
+around the heart.
+- Your heart pumping function was not affected by the fluid.
+- This can be caused by a virus, but often, we do not know why 
+people get this condition.
+- You had low blood counts, which were stable during the 
+admission.
+- You were started on a new medication called colchicine.
+
+WHEN YOU GO HOME:
+- Please take the colchicine.
+- Your follow up plan and medications are below. Please follow 
+up with your primary care doctor and cardiologist.
+
+It was a pleasure taking care of you and we wish you good 
+health.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

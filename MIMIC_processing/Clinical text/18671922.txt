@@ -1,0 +1,396 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+dizziness, stuttered speech, right sided weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The pt is a ___ right-handed man with Hep C, HTN, DM c/b 
+retinopathy and neuropathy, and positive smoking history who 
+presents with episode of stuttering and leaning to the right 
+side x10-15mins that self-resolved this morning at approximately 
+11:30am.
+
+As per the pt, this morning (___) he awoke at approximately 
+8:30am and gave himself 60U Lantus without checking his blood 
+glucose.  He proceeded to leave the house and go to Stop and 
+Shop with other members from his apartment complex without 
+eating or drinking anything since he "knew that his blood sugar 
+was high since he didn't take his insulin yesterday."  After he 
+returned from Stop and Shop, he was talking with a neighbor at 
+approximately ___ when he started to notice that he was 
+stuttering which he reports is odd for him as he has not 
+stuttered since he was a child.  As he was walking with his 
+neighbor, he felt "dizzy" (unsteady on his feet) and noted that 
+he was leaning towards the right as he walked.  He also noticed 
+that when he would walk that his strides were shorter with the 
+right leg and he was shuffling the leg instead of taking a 
+normal stride.  Since he sometimes feels off and gets hot and 
+sweaty(though not having any at the present time) when he is 
+hypoglycemic, he went home and ate a sandwich and felt better. 
+He then laid down for a nap and slept for ___.  When he awoke 
+at approximately 7pm he was asymptomatic, but due to concerns 
+that this may have been a stroke, he came to the ED to be
+evaluated.  His blood sugar when awoke was 133.
+
+Pt reports that he had another episode approximately ___ 
+ago at ___ when he found himself also listing to the right 
+when he walked to his car. He states that he had a transient 
+episode of confusion when he went to put the car in gear looking 
+for the gear shift on the steering wheel instead of the middle
+console, but his confusion quickly abated and he was able to 
+drive home. He had no further symptoms and did not see medical 
+attention at that time.
+
+On neuro ROS, the pt denies headache, loss of vision, blurred 
+vision, diplopia, dysarthria, dysphagia, vertigo, tinnitus or 
+hearing difficulty. Denies difficulties producing or 
+comprehending speech.  Denies numbness, parasthesiae. No bowel 
+or bladder incontinence or retention. 
+
+On general review of systems, the pt denies recent fever or 
+chills.  No night sweats or recent weight loss or gain. Denies 
+cough, shortness of breath.  Denies chest pain or tightness, 
+palpitations.  Denies nausea, vomiting, diarrhea, constipation 
+or abdominal pain.  No recent change in bowel or bladder habits. 
+ No dysuria.  Denies arthralgias or myalgias. Denies rash.
+
+NIHSS: Total _0
+1a.    Level of Consciousness _ 0
+1b.    LOC Questions _0
+1c.    LOC Commands _0
+2.     Best Gaze _0
+3.     Visual _0
+4.     Facial Palsy _0
+5a.    Left arm Motor 0_
+5b.    Right arm Motor 0_
+6a.    Left leg Motor _0
+6b.    Right leg Motor _0
+7.     Limb Ataxia _   0
+8.     Sensory _0
+9.     Best Language _0
+10.    Dysarthria _0
+11.    Extinction/Inattention _ 0
+ 
+Past Medical History:
+Hep C, HTN, DM c/b retinopathy and neuropathy
+
+ 
+Social History:
+___
+Family History:
+Dad: DM. No FHx of stroke, seizure, sudden death ___, easy 
+bleeding/bruising.
+
+ 
+Physical Exam:
+Admission Physical Exam:
+Vitals: T97.9 HR 85 BP 168/91 RR 16 98%RA
+General: awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: supple, no nuchal rigidity
+Pulmonary: breathing comfortably on room air
+Cardiac: RRR, nl
+Abdomen: soft, NT/ND
+Extremities: warm, well perfused
+Skin: no rashes or lesions noted
+
+Neurologic:
+Mental Status: Alert, oriented x 3. Able to relate history 
+without difficulty. Attentive. Language is fluent with intact 
+repetition and comprehension. Normal prosody. There were no 
+paraphasic errors. Pt was able to name both high and low
+frequency objects.  Speech was not dysarthric. Able to follow 
+both midline and appendicular commands. There was no evidence of 
+apraxia or neglect.
+
+Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without 
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally. +b/l leg shaking/tremor when sitting, no tremor in 
+UE. No
+asterixis noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  5   5    5  5     5     5   5
+R  5    ___   ___  5   5    5  5     5     5   5
+
+Sensory: No deficits to light touch, pinprick throughout. No 
+extinction to DSS.
+
+DTRs:
+  Bi ___ Pat Ach
+L  2   2    2   1
+R  2   2    2   1
+Plantar response was flexor bilaterally.
+
+Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF or HKS bilaterally.
+
+Gait: Good initiation. Narrow-based, normal stride and arm 
+swing. Able to walk in tandem without difficulty. Romberg 
+absent.
+
+Exam on discharge unchanged, as described above.
+ 
+Pertinent Results:
+ADMISSION LABS 
+___ 08:21PM   WBC-7.1 RBC-5.86 HGB-13.4* HCT-43.9 MCV-75* 
+MCH-22.9* MCHC-30.5* RDW-13.8 RDWSD-36.7
+___ 08:21PM   CK-MB-3
+___ 08:21PM   cTropnT-<0.01
+___ 08:21PM   ALT(SGPT)-18 AST(SGOT)-20 CK(CPK)-101 ALK 
+PHOS-55 TOT BILI-0.6
+___ 08:29PM   %HbA1c-8.2* eAG-189*
+___ 01:45AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-300* KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 01:45AM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-POS* amphetmn-NEG oxycodn-NEG mthdone-NEG
+
+PERTINENT LABS
+___ 10:11AM   CK-MB-3 cTropnT-<0.01
+___ 10:11AM   TRIGLYCER-153* HDL CHOL-47 CHOL/HDL-3.0 
+LDL(CALC)-65
+___ 10:11AM   TSH-0.72
+
+CT, CTA H/N ___ 
+No evidence of acute territorial infarction or intracranial 
+hemorrhage. Chronic bilateral basal ganglia lacunar infarcts.  
+No definite acute changes. Minimal right ICA origin narrowing. 
+Intracranial atherosclerotic disease, multivessel narrowing, as 
+above. Suggestion of pulmonary artery hypertension. 
+
+MR HEAD ___ 
+1. No acute intracranial abnormality on noncontrast MRI head. 
+Specifically no acute infarct. 
+2. Millimetric focus of mildly increased signal on diffusion in 
+the left 
+frontal subcortical white matter is equivocal, but may represent 
+a late 
+subacute to chronic infarction. 
+3. Additional findings described above. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ right-handed male with a history of 
+Hep C, hypertension, tobacco use, and poorly controlled diabetes 
+mellitus c/b retinopathy and neuropathy, who was admitted to 
+___ following an episode of stuttering, unsteadiness and right 
+leg weakness that lasted ___, but self-resolved. CT/CTA 
+were notable for two old chronic infarcts in bilateral basal 
+ganglia, as well as severe stenosis of the M1 L MCA and moderate 
+stenosis of the M1 R MCA. MRI similarly negative for acute 
+infarct but noted an area suspicious for late subacute to 
+chronic infarction in the left frontal subcortical white matter. 
+Described symptoms appear most consistent with a TIA in the 
+setting of intracranial atherosclerosis with superimposed 
+metabolic derangements (hypoglycemia)contributing. NIHSS on 
+admission was 0 and neurologic exam remained non-focal through 
+discharge. 
+
+#Chronic Bilateral Basal Ganglia Infarcts: Given the chronic 
+timeline of infarcts, patient was not a candidate for tPA. He 
+was however assessed for stroke risk factors and instructed to 
+continue taking aspirin daily. In addition to known hypertension 
+and hyperlipidemia (on atorvastatin at home, LDL pending) 
+patient was found to have poorly controlled diabetes HbA1c 8%. 
+He was counseled on smoking cessation as well as educated on the 
+importance of checking blood glucose levels with meals. 
+Atorvastatin was increased from 40mg to 80mg. 
+
+#MCA stenosis: CTA on admission revealed severe M1 left MCA 
+stenosis and moderate stenosis of the M1 right MCA. Treatment 
+was directed towards medical optimization with an increase in 
+atorvastatin from 40mg to 80mg daily. Patient was also started 
+on dual antiplatelet therapy--prescribed Plavix for 3 months in 
+addition to daily aspirin. Patient will benefit from tighter 
+glycemic control.
+
+#Episode of Stuttering/R leg weakness: Patient has described at 
+least 2 similar episodes in the past ___ months in various 
+situations, raising suspicion for TIA in the setting of 
+intracranial stenosis. CTA on admission revealed severe stenosis 
+of the M1 left MCA which may correlate with symptoms of R leg 
+weakness. Of note, patient reports waking up the morning of 
+admission and administering 60U lantus without breakfast as he 
+missed his pm dose of insulin. ___ hours later he noted the 
+onset of dizziness and listing to the right. He attributed these 
+to hypoglycemia and felt better after eating. Given this history 
+in the setting of known intracranial stenosis, described episode 
+may be a recrudescence of stroke symptoms in the setting of 
+metabolic derangement (hypoglycemia). Patient was counseled on 
+stroke prevention and risk factors were addressed as above. 
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack  
+ 1. Dysphagia screening before any PO intake? (X) Yes, confirmed 
+done - () Not confirmed () No  
+ 2. DVT Prophylaxis administered? (X) Yes - () No  
+ 3. Antithrombotic therapy administered by end of hospital day 
+2? (X) Yes - () No  
+ 4. LDL documented? (X) Yes (LDL =65) - () No  
+ 5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) (X) Yes - () No [if LDL 
+>70, reason not given:  
+ [ ] Statin medication allergy  
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist  
+ [ ] LDL-c less than 70 mg/dL   
+ 6. Smoking cessation counseling given? (X) Yes - () No [reason 
+() non-smoker - () unable to participate]  
+ 7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (X) Yes - () No  
+ 8. Assessment for rehabilitation or rehab services considered? 
+(X) Yes - () No  
+ 9. Discharged on statin therapy? (X) Yes - () No [if LDL >70, 
+reason not given:  
+ [ ] Statin medication allergy  
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist  
+ [ ] LDL-c less than 70 mg/dL  
+ 10. Discharged on antithrombotic therapy? (X) Yes [Type: (X) 
+Antiplatelet - () Anticoagulation] - () No  
+ 11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - (X) N/A  
+
+Transitional Issues:
+[]CTA with bilateral chronic lacunar infarcts and intracranial 
+stenosis: patient will benefit from optimization of 
+cardiovascular risk factors, especially glycemic control (HbA1c 
+8%). Aspirin/Plavix x 3 months, and then continue with aspirin 
+daily 
+[]Urine on admission positive for cocaine. Patient also has long 
+history of smoking. Counseled on substance abuse. Please 
+continue to offer resources in outpatient setting 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Glargine 65 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin
+4. Lisinopril 10 mg PO DAILY 
+5. Pregabalin 75 mg PO BID 
+6. Victoza (liraglutide)  1.8 mg subcutaneous QAM 
+7. Verapamil SR 240 mg PO Q24H 
+
+ 
+Discharge Medications:
+1.  Clopidogrel 75 mg PO DAILY 
+You will need to take it for 3 months  
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth each evening Disp 
+#*30 Tablet Refills:*0 
+4.  Glargine 65 Units Bedtime
+Insulin SC Sliding Scale using HUM Insulin 
+5.  Lisinopril 10 mg PO DAILY  
+6.  Pregabalin 75 mg PO BID  
+7.  Verapamil SR 240 mg PO Q24H  
+8.  Victoza (liraglutide)  1.8 mg subcutaneous QAM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Transient Ischemic Attack 
+Chronic Ischemic Stroke(bilateral basal ganglia infarcts)
+Intracranial Arterial Stenosis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+ You were hospitalized due to symptoms of dizziness and right 
+leg weakness that resolved before you arrived at the hospital. 
+You have experienced similar episodes previously. These symptoms 
+are due to a TIA or Transient Ischemic Attack. You mostly likely 
+suffered these symptoms because of atherosclerosis (blockage) 
+found in the large vessels that provide blood flow to your 
+brain. Your symptoms may have also been exacerbated by your low 
+blood sugar. Although you did not have a new stroke, imaging 
+showed that you had evidence of prior ISCHEMIC STROKES, a 
+condition where a blood vessel providing oxygen and nutrients to 
+the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms. 
+
+ Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+ <>  high blood pressure
+ <>  high cholesterol 
+ <>  diabetes 
+ <>  smoking 
+
+ We are changing your medications as follows:  
+ <>  You were started on a new medication called Plavix 
+(clopidogrel 75mg). You will need to take this daily for 3 
+months
+ <>  The dose of your atorvastatin was increased to 80mg daily 
+ <>  Continue to take aspirin daily 
+
+ Please take your other medications as prescribed.  It is also 
+very important that you check your blood sugar with meals before 
+administering insulin. 
+
+ Please follow up with Neurology and your primary ___ physician 
+as listed below.  
+
+ If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+ Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

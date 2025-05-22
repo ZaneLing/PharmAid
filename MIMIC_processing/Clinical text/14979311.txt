@@ -1,0 +1,442 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mrs. ___ is an ___ female with history
+significant for dementia and gait instability, who presents 
+after
+a mechanical fall, no e/o traumatic injuries, found to have
+asymptomatic bacteriuria. 
+
+Patient was in her usual state of health when she fell around 4
+AM when she was on her way to use the restroom. Her husband 
+heard
+the fall and went to check in on her and found her lying on a 
+wet
+floor. He thinks she slipped. She struck her right knee and 
+right
+elbow. She denies head strike or LOC. She denies any head pain 
+or
+neck pain. Patient does not remember the exact circumstances
+surrounding her fall. She denies any dizziness or lightheadness,
+diaphoresis, or palpitations just prior to the fall. She did not
+want to call the ambulance and tried to get her husband to help
+her up to the couch. She laid there until about 10 AM, unable to
+get up herself and until her husband tired out and decided to
+call ___. Patient denied any CP, SOB, or abdominal pain. 
+
+In the ED, initial vitals were: T97.5F, HR 98, BP 166/66, RR 16,
+O2Sat 96% 
+
+Exam was notable for:
+Constitutional: NAD. 
+HEENT: NCAT, PERRLA, EOMI. 
+Neck: no midline tenderness to palpation. Full ROM without pain
+Chest/Resp: CTAB.
+Cardiovascular: RRR, Normal S1/S2.
+Abdomen: Soft, NTND. 
+MSK: edema and ecchymosis over right elbow, able to move full
+rom. right knee with swelling, ecchymosis.
+
+Labs were notable for: (use specific numbers)
+CBC: Hgb 10.6, unclear baseline 
+BMP: BUN/Cr: 37/1.4, unclear baseline 
+CK: 362
+UA: ___, Nit+ 
+UTox: negative 
+
+Studies were notable for: 
+CT Head and CSpine: no acute abnormalities or fractures. 
+Although
+evidence of ventricular enlargement out of proportion to the
+sulci, potentially due to disproportionate central volume loss. 
+
+Right elbow, knee, and ankle: no fractures
+
+ECG: sinus rhythm, abnormal R-wave progression, early transition 
+
+
+The patient was given:
+- 1g CTX given UA findings c/f UTI 
+
+On arrival to the floor, patient is lying in her bed in NAD.
+Conversations were held in ___ with assistance of Vartan
+Pahalyants. She insists that she feels fine and has no medical
+problems. She is uncomfortable in her bed and wants to sit,
+otherwise no complaints. She denies any dizziness, 
+lightheadness,
+palpitations, chest pain, SOB, nausea, vomiting, diarrhea,
+constipation, dysuria, muscle or bone pain. 
+
+REVIEW OF SYSTEMS:
+==================
+Per HPI, otherwise, 10-point review of systems was within normal
+limits.
+
+ 
+Past Medical History:
+HTN
+CKD
+Vertigo
+Mild cognitive disorder 
+Vitamin D deficiency 
+Gout
+Monoclonal gammopathy of unknown significance (IgM)
+ 
+Social History:
+___
+Family History:
+Her mother died of a stroke in her ___. 
+Her father died of stomach cancer. 
+Her daughter has hypertension. 
+
+ 
+Physical Exam:
+Admission Physical Exam
+=======================
+VITALS: ___ Temp: 99.5 PO BP: 161/76 HR: 83 RR: 18 O2
+sat: 95% O2 delivery: RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. Round hyperpigmented plaque on right
+face. 
+NEUROLOGIC: AOx2 (name, place, does not know the date or year).
+CN2-12 intact. Moving all 4 limbs spontaneously. ___ strength
+throughout. Normal sensation.
+
+Discharge Physical Exam
+=======================
+VS: ___ 1522 Temp: 98.4 PO BP: 177/75 HR: 97 RR: 18 O2 sat: 
+95% O2 delivery: RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+Hyperpigmented plaque noted on right cheek
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally. Ecchymosis noted on medial right elbow and on right
+knee
+SKIN: Warm. Cap refill <2s. Round hyperpigmented plaque on right
+face. 
+NEUROLOGIC: AOx2 (name, place, does not know the date or year).
+CN2-12 intact. Moving all 4 limbs spontaneously. ___ strength
+throughout. Normal sensation.
+
+ 
+Pertinent Results:
+___ 01:02PM BLOOD WBC-9.8 RBC-3.50* Hgb-10.6* Hct-32.4* 
+MCV-93 MCH-30.3 MCHC-32.7 RDW-12.6 RDWSD-42.7 Plt ___
+___ 05:38AM BLOOD WBC-7.1 RBC-3.33* Hgb-10.0* Hct-31.6* 
+MCV-95 MCH-30.0 MCHC-31.6* RDW-12.7 RDWSD-43.6 Plt ___
+___ 06:03AM BLOOD WBC-6.1 RBC-3.35* Hgb-10.0* Hct-31.3* 
+MCV-93 MCH-29.9 MCHC-31.9* RDW-12.8 RDWSD-43.8 Plt ___
+___ 01:02PM BLOOD Neuts-82.7* Lymphs-11.5* Monos-5.2 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-8.09* AbsLymp-1.12* 
+AbsMono-0.51 AbsEos-0.00* AbsBaso-0.01
+___ 01:02PM BLOOD Plt ___
+___ 05:38AM BLOOD Plt ___
+___ 06:03AM BLOOD Plt ___
+___ 01:02PM BLOOD Glucose-134* UreaN-37* Creat-1.4* Na-141 
+K-3.8 Cl-102 HCO3-19* AnGap-20*
+___ 06:03AM BLOOD Glucose-125* UreaN-34* Creat-1.4* Na-145 
+K-3.6 Cl-108 HCO3-21* AnGap-16
+___ 06:26PM BLOOD CK(CPK)-309*
+___ 01:02PM BLOOD CK(CPK)-362*
+___ 01:02PM BLOOD cTropnT-<0.01
+___ 01:02PM BLOOD Calcium-9.1 Phos-2.6* Mg-1.8
+___ 06:03AM BLOOD Calcium-9.0 Phos-3.2 Mg-1.8
+___ 06:26PM BLOOD ___ Folate-10
+___ 06:26PM BLOOD TSH-0.18*
+___ 06:03AM BLOOD Free T4-1.4
+___ 06:26PM BLOOD 25VitD-17*
+___ 06:26PM BLOOD Trep Ab-NEG
+___ 06:26PM BLOOD HIV Ab-NEG
+___ 01:02PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 01:26PM BLOOD Glucose-138* Lactate-1.2 Creat-1.3* 
+Na-139 K-3.5 Cl-107
+___ 01:26PM BLOOD ___ pO2-99 pCO2-35 pH-7.43 
+calTCO2-24 Base XS-0 Comment-GREEN TOP
+___ 01:26PM BLOOD Hgb-11.0* calcHCT-33
+
+Imaging
+=======
+
+Elbow XRAY ___
+
+IMPRESSION:  
+  
+Swelling over the dorsal aspect of the proximal forearm.  No 
+fracture. 
+
+Ankle XRAY ___
+ 
+IMPRESSION:  
+  
+No fracture. 
+
+Knee XRAY- ___
+
+IMPRESSION:  
+  
+No fracture 
+
+CT HEAD W/out contrast ___
+
+IMPRESSION:  
+  
+No evidence of acute intracranial process. 
+Ventricular enlargement out of proportion to the sulci, 
+potentially due to 
+disproportionate central volume loss.  Correlate clinically 
+regarding 
+possibility of NPH. 
+
+CT C-SPINE ___
+
+IMPRESSION:  
+  
+No acute fracture or traumatic malalignment of the cervical 
+spine 
+
+ 
+Brief Hospital Course:
+Mrs. ___ is an ___ female with history
+significant for dementia and gait instability, who presents 
+after
+a mechanical fall, no e/o traumatic injuries on exam or imaging,
+found to have bacteriuria on urine studies and treated for 
+suspected UTI. 
+
+TRANSITIONAL ISSUES
+===================
+[ ] Blood pressure medication regimen changed while patient was 
+hospitalized: 
+ - Given poor BP control, metoprolol was discontinued, and 
+carvedilol 3.125mg BID was started
+ - Given concern that her evening dose of Diovan (which contains 
+HCTZ, a diuretic) was causing nocturia, and possibly 
+precipitating falls, the patient's Diovan was stopped and was 
+changed to valsartan 160mg BID and HCTZ 25mg daily (to take in 
+the morning). 
+[ ] Please closely monitor blood pressure in the outpatient 
+setting, and up-titrate medications as needed. 
+
+[ ] Inpatient work-up for NPH considered, but patient reluctant 
+to pursue LP. Referred to neurology on discharge, can consider 
+outpatient work-up. Of note, CT head did note ventriculomegaly, 
+possibly consistent with NPH. 
+[ ] Patient found to have TSH of 0.18 but a normal free T4 of 
+1.4; drawn as part of work-up to help rule our reversible causes 
+of her memory problems. We recommend outpatient followup with a 
+repeat TSH
+[ ] Patient was found to have a low Vit D of 17, was discharged 
+with daily ___ units. We recommend outpatient follow up to 
+monitor Vit D level and ongoing need for repletion. 
+[ ] Family expressing concern that patient has depression, and 
+has been reluctant to engage with provided care. She would 
+benefit from outpatient social work referral and possible 
+psychiatry/therapy referral, possible consideration of starting 
+SSRI. 
+[ ] Please continue to encourage the patient to use her walker 
+at home. 
+[ ] Patient discharged with home ___, OT, ___, and home health 
+aide. Patient's family provided with resources on private pay 
+home health care services for additional supervision at home. 
+[ ] Consider outpatient referral for formal cognitive 
+evaluation. 
+
+ACUTE/ACTIVE ISSUES:
+====================
+# Fall 
+# Chronic gait instability 
+# ?Vertigo
+Patient has been previously seen by neurology in ___ for gait
+instability, thus suspect that her fall is mechanical. She
+stopped taking meclezine as outpatient, which was prescribed to
+her for vertigo, as it was not helping. She has refused to use
+assistive devices at home, although has a walker and has been 
+recommended to use this. She also has history of orthostasis per 
+family, although patient adamantly denies it. She has had 
+urinary incontinence x2 days, and urine culture grew E.coli, so 
+she was treated with CTX for suspected infection that may have 
+contributed to her fall. Low suspicion for arrythmias given 
+normal BMP and no history of palpitations. No arrhythmia 
+observed on telemetry. Orthostatic hypotension is a possible due 
+to her decreased PO intake, however orthostasis were checked and 
+found to be negative. She has no new neurological deficits to 
+suggest a TIA. She denies LOC, reassuring against vasovagal 
+syncope as the etiology of her fall. We consulted ___ who 
+recommended discharge at home with services, no rehab needs as 
+it was felt that her fall was mechanical and that patient was at 
+her baseline. 
+
+# UTI and urinary incontinence 
+Patient without leukocytosis, but with UA with ___. UCx
+grew E. Coli, and patient endorsed incontinence over the 
+preceding 2 days. We treated her with ceftriaxone for 3 days, 
+last dose on ___. Will require outpatient monitoring to ensure 
+resolution of her sxs. 
+
+# Dementia 
+Patient has history of worsening short term memory over the last
+couple of years. Just over a year ago, she got lost when outside
+her house and since then she has been staying inside. Does not
+remember the date or year on exam. Her symptoms, duration, and
+progression of her disease is most consistent with Alzheimer's
+dementia. CT Head with dilated ventricles, gait instability, and
+history of frequent urination raises suspicion for NPH. She
+opted against LP for NPH workup, given our relatively low 
+suspicion at this time, but consented to HIV/syphilis blood work 
+to rule out other possible causes of dementia. She had negative 
+HIV, normal B12, negative RPR, with a low TSH and normal free 
+T4. We recommend followup with outpatient neurologist, can 
+consider LP going forward if within GOC. 
+
+# HTN 
+Patient was on combination valsartan-HCTZ BID at home. Non 
+formulary here. BPs were elevated. We stopped her home 
+metoprolol and started carvedolol BID to help
+better manage her blood pressure. We also stopped Diovan (given 
+concern that HCTZ component was causing nocturia, and increasing 
+her fall risk), and instead started valsartan 160mg BID and HCTZ 
+25mg daily (to take in the morning). 
+
+CHRONIC/STABLE ISSUES:
+======================
+# CKD (baseline Cr. 1.5)
+Patient Cr at baseline, was 1.4 at discharge. Encouraged PO 
+intake. 
+
+# MGUS
+Patient noted to have elevated IgM to 687 in ___. CBC with diff
+unremarkable. Cr stable, no hyperCa, no history of bone
+tenderness and no lytic lesions noted on recent imaging. She has
+declined further work up in the past, given low suspicion for
+progression to myeloma will defer further work up. 
+
+CORE MEASURES:
+=============
+# EMERGENCY CONTACT: ___ ___ (grandson) 
+# HCP: ___ ___ (son in law) 
+# DISPO: Medicine pending ___ evaluation 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Diovan HCT (valsartan-hydrochlorothiazide) 160-12.5 mg oral 
+BID HTN 
+2. Cyanocobalamin 1000 mcg PO DAILY 
+3. Metoprolol Tartrate 50 mg PO BID HTN 
+4. Allopurinol ___ mg PO DAILY Gout 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO TID:PRN Pain - Mild/Fever 
+RX *acetaminophen 650 mg 1 tablet(s) by mouth three times a day 
+Disp #*50 Tablet Refills:*0 
+2.  CARVedilol 3.125 mg PO BID 
+RX *carvedilol 3.125 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+3.  Hydrochlorothiazide 25 mg PO DAILY 
+RX *hydrochlorothiazide 25 mg 2 tablet(s) by mouth once a day, 
+in the morning Disp #*60 Tablet Refills:*0 
+4.  Valsartan 160 mg PO BID 
+RX *valsartan 160 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+5.  Vitamin D ___ UNIT PO DAILY 
+RX *ergocalciferol (vitamin D2) 50 mcg (2,000 unit) 1 capsule(s) 
+by mouth once a day Disp #*60 Capsule Refills:*0 
+6.  Allopurinol ___ mg PO DAILY Gout  
+7.  Cyanocobalamin 1000 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis
+=================
+Fall
+HTN
+Dementia
+Asymptomatic bacteriuria
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+Dear ___,  
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You came into the hospital because of your fall at home
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You had imaging to look for fractures. You had CT head of your 
+head, which did not show any bleeding in your head or fractures. 
+You also had imagining of your spine, elbow, knee and ankle 
+which did not show any fractures. You have urine that showed 
+bacteria in your urine. You were given antibiotics to treat your 
+urinary infection. You had blood work to find some cause of your 
+memory problems, HIV was negative, Syphilis was negative. You 
+had physical therapy see you and they felt you are well to go 
+home
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+-Please continue to take all of your medications and follow-up 
+with your appointments as listed below.
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

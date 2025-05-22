@@ -1,0 +1,281 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abnormal MRI
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ woman with history of depression, tremors,
+hyperlipidemia, migraines, atrial fibrillation who presents for
+evaluation of new brain mass.
+
+She developed a cough earlier this year that was initially
+treated as pneumonia. However, due to persistent cough, she
+underwent a CT scan which showed left lower lobe ground glass,
+and she ultimately underwent bronchoscopy with biopsy on the 
+week
+prior to this admission, which demonstrated adenocarcinoma of 
+the
+lung.
+
+Yesterday, she had an MRI brain at ___ in ___
+which showed a new 3 cm brain mass in the cerebellum with 
+several
+other lesions possibly consistent with metastatic disease. She
+was referred here by her nurse practitioner for neurosurgical
+evaluation. 
+
+In the ED, she had no focal complaints. No neurologic symptoms
+and a entirely normal neurologic exam. 
+
+Neurosurgery eval'd:
+Patient seen and examined, imaging reviewed. MRI shows a <2cm
+cerebellar lesion as well as small L frontal and R frontal
+lesions, likely metastatic given recent diagnosis of
+adenocarcinoma. Lesions should be amenable to SRS. Recommend
+medicine admission for completion of metastatic workup and
+staging, Radiation Oncology consult. If lesion enlarges or is 
+not
+responsive to SRS, neurosurgery is available to re-evaluate.
+ 
+In the ED...  
+- Initial vitals:  98.9 67 136/87 16 95% RA
+- Labs/studies notable for: All within normal limits
+- Patient was given: nothing   
+ 
+On the floor, patient continues to note no focal neurologic
+complaints.
+ 
+Past Medical History:
+AF
+HLD
+Depression
+Migraines
+ 
+Social History:
+___
+Family History:
+Maternal FH of breast cancer
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+___ 1617 Temp: 97.8 PO BP: 111/73 R Sitting HR: 65 RR: 18 
+O2
+sat: 90% O2 delivery: Ra 
+GEN: Well appearing, NAD
+HEENT: Conjunctiva clear, PERRL, MMM 
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. No m/r/g.
+ABD: NT/ND, normal bowel sounds. 
+EXTREMITIES: No edema. WWP.
+SKIN: No rashes.
+NEURO: AOx3. CN II-XII intact. ___ Strength in UE and ___. Normal
+Sensation. Normal finger-nose testing. 
+
+DISCHARGE PHYSICAL EXAM
+VITALS: Reviewed in OMR
+GEN: Well appearing, NAD
+HEENT: Conjunctiva clear, PERRL, MMM 
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. No m/r/g.
+ABD: NT/ND, normal bowel sounds. 
+EXTREMITIES: No edema. WWP.
+SKIN: No rashes.
+NEURO: AOx3. CN II-XII intact. ___ Strength in UE and ___. Normal
+Sensation. Normal finger-nose testing. 
+ 
+Pertinent Results:
+ADMISSION LABS
+==================
+___ 09:51AM BLOOD WBC-6.6 RBC-4.80 Hgb-14.8 Hct-44.9 MCV-94 
+MCH-30.8 MCHC-33.0 RDW-12.0 RDWSD-41.6 Plt ___
+___ 09:51AM BLOOD Neuts-70.2 ___ Monos-8.1 Eos-1.5 
+Baso-0.8 Im ___ AbsNeut-4.60 AbsLymp-1.25 AbsMono-0.53 
+AbsEos-0.10 AbsBaso-0.05
+___ 09:51AM BLOOD ___ PTT-29.9 ___
+___ 09:51AM BLOOD Glucose-104* UreaN-18 Creat-0.9 Na-136 
+K-4.7 Cl-101 HCO3-21* AnGap-14
+___ 09:51AM BLOOD Calcium-9.3 Phos-4.7* Mg-2.2
+___ 12:30PM URINE Color-Straw Appear-Clear Sp ___
+___ 12:30PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+
+DISCHARGE LABS
+==================
+___ 07:07AM BLOOD WBC-6.2 RBC-4.83 Hgb-14.8 Hct-45.7* 
+MCV-95 MCH-30.6 MCHC-32.4 RDW-12.0 RDWSD-41.9 Plt ___
+___ 07:07AM BLOOD Glucose-104* UreaN-16 Creat-0.9 Na-139 
+K-4.5 Cl-104 HCO3-24 AnGap-11
+___ 07:07AM BLOOD Calcium-9.1 Phos-5.2* Mg-2.1
+
+IMAGING
+=========
+CHEST X RAY ___
+There is again seen consolidation throughout the majority of the 
+left lower lobe and portions of the left upper lobe as compared 
+to the CT scan. Cardiomediastinal silhouette is within normal 
+limits.  There are no 
+pneumothoraces. There is likely a small left-sided pleural 
+effusion. 
+
+MICROBIOLOGY
+================
+___ 12:30 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION.
+ 
+Brief Hospital Course:
+Ms ___ is a ___ y/o F with PMH of AF, HLD, and depression, 
+who
+presents as a transfer after recent new diagnosis of alveolar
+lung cancer, with head MRI reveal multiple new brain lesions. 
+
+TRANSITIONAL ISSUES
+====================
+[] PET scan scheduled for ___ at ___
+[] Appointment on ___ with Dr. ___ for transition of 
+care to ___ oncology
+[] Referred to neuro-oncology (Dr. ___ and radiation 
+oncology for further evaluation of cerebellar lesion
+[] No indication for steroids or AED at this time per NSGY
+[] Recent baseline O2 in high ___ to low ___ per patient, noted 
+to be in low ___ on room air while inpatient. Consider 
+evaluation for home O2 if worsening hypoxia at follow-up.
+[] Hold Aspirin from ___ in anticipation of lumbar puncture on 
+___ at neuro-oncology appointment
+[] Will need repeat brain MRI with brain tumor protocol per 
+neuro-oncology
+
+New Medications:
+None
+
+Changed Medications:
+None
+
+Stopped/Held Medications:
+None
+
+ACUTE ISSUES:
+=============
+# New Diagnosis of Adenocarcinoma
+# Brain Metastasis
+Patient with recent diagnosis of lung cancer, with MRI head 
+(performed for screening at ___ revealing multiple CNS 
+lesions, including 3 cm lesion in cerebellum. Reassuringly 
+without focal neurologic deficit or any indication for steroids 
+at this time. Was admitted at the recommendation of neurosurgery 
+for expedited workup of cancer, however follows with ___ 
+___ and is scheduled to get PET scan for staging there on 
+___. Patient notes that she would like to transition care to BI, 
+has appointment on ___ with Dr. ___. As patient already has 
+tissue diagnosis, brain MRI, scheduled for upcoming PET scan, 
+and has outpatient appointment this week with ___ oncology, 
+does not appear to be role for ___ medical oncology 
+evaluation at this time. Discussed with neurosurgery and medical 
+oncology, and plan for continued outpatient work-up with PET 
+scan on ___ at ___, medical oncology follow-up on ___ at ___, 
+and referral to radiation oncology and neuro-oncology.
+
+#Hypoxic Respiratory Failure
+Patient reports hx of baseline hypoxia to high ___ low ___ in 
+setting of recent lung CA diagnosis. O2 stable in 90-92% range 
+on day of discharge without associated pulmonary symptoms.
+
+CHRONIC ISSUES:
+===============
+# AF
+CHADS2-Vasc 1 (female sex).
+- Rate: Continued home diltiazem 
+- Anticoag: None. Reportedly on ASA 162 for this purpose, which 
+was continued
+
+# Depression 
+- Continued home escitalopram 15 mg
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Diltiazem Extended-Release 180 mg PO DAILY 
+2. Simvastatin 10 mg PO QPM 
+3. Escitalopram Oxalate 15 mg PO DAILY 
+4. Aspirin 162 mg PO DAILY 
+5. Fish Oil (Omega 3) Dose is Unknown  PO BID 
+
+ 
+Discharge Medications:
+1.  Fish Oil (Omega 3) 1000 mg PO BID  
+2.  Aspirin 162 mg PO DAILY  
+3.  Diltiazem Extended-Release 180 mg PO DAILY  
+4.  Escitalopram Oxalate 15 mg PO DAILY  
+5.  Simvastatin 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+===================
+Lung adenocarcinoma
+Cerebellar Mass
+
+SECONDARY DIAGNOSIS
+===================
+Hypoxic Respiratory Failure
+Atrial Fibrillation
+Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure caring for you at ___ 
+___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You had a brain MRI showing a new brain mass concerning for 
+metastasis of lung cancer.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You were evaluated by neurosurgery, who assessed that surgical 
+intervention was not indicated at this time. Per discussion with 
+medical oncology, neuro-oncology, and radiation oncology, plan 
+was made to continue outpatient work-up and follow-up as 
+previously scheduled. You were also referred to the brain tumor 
+and radiation oncology clinics for further evaluation.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___

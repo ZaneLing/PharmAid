@@ -1,0 +1,208 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+PCP: ___ (___)
+. 
+CC: neutropenia
+ 
+Major ___ or Invasive Procedure:
+None
+ 
+History of Present Illness:
+ ___ woman h/o Hep C, cirrhosis (reported), IVDU (heroine) 
+admitted with neutropenia, chest/back pain.   Ms. ___ 
+reportedly at baseline, functional and independent, no real 
+baseline chest/back pain, good PO intake.  Yesterday, endorsed 
+development of symmetric, bilateral chest and back pain 
+localized to subcostal region started after eating lunch 
+yesterday. Described single episode of vomiting and nausea 
+worsened with standing.  Denies any SOB, pleuritic pain.  Had 
+decreased PO intake past 1.5 days.  Noted subjective fever 1 
+week ago.  
+    Presented to OSH, where CXR was performed, along with labs, 
+which were notable for WBC 1.6 ANC 0.9 plts 34k, Cr 0.85, 
+negative CRP.  She was sent here for further eval of 
+neutropenia. 
+    Here in ED, vital signs stable.  CTA chest without any lung 
+abnl or evidence of PE.  Given acetaminophen and nicotine patch. 
+ Admitted for workup of neutropenia. 
+
+ROS: per HPI, denies  night sweats, headache, vision changes, 
+rhinorrhea, congestion, sore throat, shortness of breath, 
+diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, 
+hematuria.  A 10 pt review of sxs was otherwise negative.
+ 
+Past Medical History:
+# IVDU
+# Hep C
+# Bipolar disorder
+# h/o SDH ___ (s/p assault)
+# skin grafts secondary to burns
+ 
+Social History:
+___
+Family History:
+Non-contributory.  Difficult to obtain given pt not close to 
+parents or immediate family (other than twin sister)
+
+ 
+Physical Exam:
+Vital Signs: 98.1  108 / 69 58 18 96% RA 
+glucose: 
+. 
+GEN: NAD, disheveled appearing woman, sitting in chair, in mild 
+distress in pain
+EYES: PERRL, EOMI, conjunctiva clear, anicteric
+ENT: moist mucous membranes, no exudates 
+NECK: supple 
+CV: RRR s1s2 nl, no m/r/g
+PULM: CTA, no r/r/w, no CVA tenderness 
+GI: normal BS, NT/ND, + splenomegaly - tip felt below R CM 
+EXT: warm, no c/c, trace PE bilaterally at ankle
+SKIN: no rashes 
+NEURO: alert, oriented x 3, answers ? appropriately, follows 
+commands, non focal
+PSYCH: appropriate
+ACCESS: PIV
+FOLEY: absent
+
+ 
+Pertinent Results:
+# Chest CTA (___): 1. No evidence of acute pulmonary embolism. 
+
+2. No osseous lesion identified.  3. Possible lymphadenopathy in 
+the porta hepatic region, but not completely imaged or fully 
+evaluated on this exam. 
+
+# RUQ U/S (___): 1. Patent portal and hepatic veins. 
+2. Massive splenomegaly.  Trace ascites. 
+
+___ 05:08AM BLOOD WBC-1.7*# RBC-4.11 Hgb-13.0 Hct-37.8 
+MCV-92 MCH-31.6 MCHC-34.4 RDW-15.0 RDWSD-50.7* Plt Ct-35*#
+___ 05:08AM BLOOD Glucose-97 UreaN-14 Creat-0.8 Na-137 
+K-4.2 Cl-102 HCO3-26 AnGap-13
+___ 05:08AM BLOOD ALT-54* AST-78* AlkPhos-104 TotBili-1.0
+___ 05:08AM BLOOD Albumin-2.6*
+___ 05:05PM BLOOD HBsAg-Negative HBsAb-Negative
+___ 05:05PM BLOOD HIV Ab-Negative
+___ 05:05PM BLOOD HCV VL-PND
+ 
+Brief Hospital Course:
+ASSESSMENT & PLAN: ___ woman h/o Hep C, cirrhosis (reported), 
+IVDU (heroine) admitted with neutropenia, chest/back pain.
+
+# Neutropenia: Ms. ___ was admitted with neutropenia.  
+Throughout this hospitalization, there was no evidence of fever 
+or active infection.  She did not meet criteria for severe 
+neutropenia and thus did not warrant neutropenic 
+precaution/diet.
+     She refused to obtain blood draws from phlebotomist (due to 
+difficult stick from past IV drug use) and thus the ___ could 
+not be monitored closely.  However, the etiology of the 
+neutropenia was attributed to cirrhosis and associated 
+splenomegaly (with sequestration), possibly compounded by poor 
+PO intake. RUQ U/S Duplex here did not show any evidence of PV 
+thrombosis.  HIV was negative.
+   She was treated with daily MVI, folate.  She understands that 
+management of her cirrhosis as outpt will be important. 
+
+# Chest/back pain: no clear signs of physiological cause of 
+pain.   This was potentially caused by discomfort from 
+splenomegaly.  CTA chest was negative, no focal tenderness to 
+suggest fracture, CRP normal at OSH - makes infection unlikely, 
+trop <0.01.   There was concern for narcotic seeking behavior - 
+given active heroine use and repeated emphasis on IV pain 
+medications, however after repeated assertion that opiates would 
+not be given during the ___ day of admission, she did not bring 
+up use of opiates later during this hospitalization.
+   She received. tramadol PRN.  Tizanidine PRN for component of 
+muscle spasm
+ 
+# Hep C cirrhosis (untreated): no active Etoh use.  Signs of 
+cirrhosis with splenomegaly, elevated INR (1.4) and 
+hypoalbuminemia.  No signs of encephalopathy, GI bleed.  Hep C 
+viral RNA was sent but was pending on day of discharge.
+   She understands the importance of hepatology f/u as outpt and 
+also the need to remain clean and off IV heroine before getting 
+Hep C treatment
+
+# Tob abuse: Nicotine patch
+
+# OTHER ISSUES AS OUTLINED. 
+. 
+#FEN:   [] IVF   [X] Oral   [] NPO   [] Tube Feeds   [] 
+Parenteral
+#DVT PROPHYLAXIS: will hold off heparin given low plts
+#LINES/DRAINS:   [X] Peripheral   [] PICC   [] CVL   [] Foley
+#PRECAUTIONS: [X] Fall   [] Aspiration   [] 
+MRSA/VRE/CDiff/ESBL/Droplet /Neutropenic
+#COMMUNICATION: pt
+#CONSULTS: none for now.  benefit from hepatology as outpt
+#CODE STATUS: [X]full code []DNR/DNI
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. TraZODone 100 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Tizanidine 4 mg PO TID:PRN Spasm pain 
+RX *tizanidine 4 mg 1 tablet(s) by mouth three times a day Disp 
+#*20 Tablet Refills:*0 
+2.  TraZODone 100 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Neutropenia Mild (from splenic sequestration)
+Cirrhosis, Hepatitis C
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+   It was a pleasure looking after you.  As you know, you were 
+admitted with chest/back pain.  Extensive evaluation showed no 
+concerning causes (no heart attack, no lung clots, no pneumonia 
+or fracture, or signs of infection).  Chest CT scan here did not 
+identify any significant abnormalities other than an enlarged 
+spleen.  This large spleen is likely caused by your liver 
+cirrhosis (from Hepatitis C) and can cause the white count (in 
+the blood) to be low as well.
+    You also obtained a liver ultrasound - which showed that 
+fortunately, there was no clot in the portal vein system (which 
+can possibly lead to even greater increased size in the spleen). 
+ 
+     While here, no opiate medications were needed.  HIV and 
+Hepatitis B tests were negative.  A viral load for Hepatitis C 
+was sent but still pending at the time of discharge.
+    It is important to set up a primary care doctor and to 
+obtain a follow up with a hepatologist (liver expert) to ensure 
+your Hepatitis C and cirrhosis is appropriately managed. 
+    We wish you best of luck on staying clean and getting back 
+on track to good health.
+
+Your ___ Team
+    
+  
+    
+ 
+Followup Instructions:
+___

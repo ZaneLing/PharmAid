@@ -1,0 +1,404 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+knee pain
+ 
+Major Surgical or Invasive Procedure:
+Left knee arthrocentesis x2
+
+ 
+History of Present Illness:
+Mrs. ___ is a ___ ___ woman with hx EIN and
+fibroid uterus s/p TAH-BS who presents with L knee pain. 
+
+She was evaluated in the ED on ___ for the same complaint. At
+that time she reported 1 week of gradually worsening L knee pain
+and swelling. X-rays showed no evidence of fracture. WBC was 
+wnl,
+CRP was 41. She was discharged on Tylenol and Ibuprofen with 
+plan
+to follow up with her PCP and ___. 
+
+Today she re-presented to the ED with worsening left knee pain,
+swelling and warmth since discharge. She describes pain that is
+___ radiating to the thigh and down the leg, with pain worse 
+at
+the medial and lateral aspects of the knee. She denies any 
+trauma
+to the knee. 
+
+In the ED:
+- Initial vital signs were notable for:
+T 98.5  HR 84  BP 117/88  RR 18  SaO2 99% RA 
+- Exam notable for:
+"Con: In no acute distress
+HEENT: Normocephalic, atraumatic, Pupils equal, round and
+reactive to light, Extraocular muscles intact
+Resp: Clear to auscultation
+CV: Regular rate and rhythm, normal ___ and ___ heart sounds, no
+___ heart sound, no JVD, no pedal edema, 2+ distal upper
+extremity and lower extremity pulses. Capillary refill less than
+2 seconds.
+Abd: Soft, Nontender, Nondistended
+GU: No costovertebral angle tenderness
+MSK: Left anterior, lateral and posterior knee swelling, warmth,
+mild redness, range of motion limited by pain. No cyanosis,
+clubbing or edema
+Skin: No rash, Warm and dry, No petechiae
+Neuro: Alert and following commands, moving all extremities
+spontaneously, sensation intact to light touch, speech fluent
+Psych: Normal mood/mentation"
+
+- Labs were notable for:
+Hb 10.8, WBC 9.7, plt 395
+CRP 105
+Cr 0.5
+Joint Fluid: WBC ___, RBC 1393, Poly 76%, Lymph 18%, no
+crystals
+
+- Studies performed include:
+
+Knee 3-View
+Persistent moderate to large left suprapatellar effusion. No
+fracture.
+
+LLE Doppler
+No evidence of deep venous thrombosis in the left lower 
+extremity
+veins.
+
+Arthrocentesis performed with of aspiration of 60 cc clear 
+fluid.
+
+- Patient was given:
+___ 17:26 PO/NG OxyCODONE (Immediate Release) 5 mg 
+___ 21:25 PO Acetaminophen 1000 mg  
+___ 21:25 PO Ibuprofen 600 mg 
+___ 22:33 PO OxyCODONE (Immediate Release) 5 mg 
+___ 23:18 IVF  LR Started 125 mL/hr 
+___ 07:31 PO OxyCODONE (Immediate Release) 5 mg  
+
+- Consults:
+Ortho: 
+Discussed at rounds. Would like time for cultures to grow and
+keep patient. Either:
+ 1. Obs pt. in ED for ___ hours to watch cultures
+ 2. If unable to obs, admit to medicine for following of 
+cultures
+and possible rheum workup
+
+Vitals on transfer: 
+T 98.0  HR 72  BP 100/65  RR 18  SaO2 99% RA 
+
+Upon arrival to the floor, the patient complains of severe left
+knee pain. She endorses the above history and adds that she has
+been having diarrhea for the past several months, up to 7 BM
+daily, although this stopped in the past few days. She also
+reports L shoulder pain for the past week that is now improving,
+as well as R buttock pain that is chronic. 
+
+ 
+Past Medical History:
+Endometrial intraepithelial neoplasia
+Uterine fibroid
+Endometriosis
+S/p total laparoscopic hysterectomy and bilateral salpingectomy
+___
+ 
+Social History:
+___
+Family History:
+Mother - GI bleed
+No hx malignancy or autoimmune disorders
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: ___ 1540 Temp: 98.5 PO BP: 100/64 L Lying HR: 89 
+RR:
+18 O2 sat: 96% O2 delivery: Ra 
+GENERAL: ___ only, appears uncomfortable, holding
+her knee, alert and oriented
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No spinous process tenderness. No CVA tenderness. + R SI
+joint tenderness on palpation. 
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: L knee warmer than R with significant edema, mild
+erythema, tenderness to palpation diffusely. No ___ edema, pulses
+intact bilaterally, warm feet. 
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal. AOx3.
+
+DISCHARGE PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 1444)
+    Temp: 98.1 (Tm 98.2), BP: 98/67 (98-105/65-72), HR: 68
+(68-79), RR: 20 (___), O2 sat: 98% (97-98), O2 delivery: Ra   
+GENERAL: ___ only, appears comfortable, alert and
+oriented
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing. 
+ABDOMEN: Normal bowels sounds, non distended, soft abd.
+EXTREMITIES: L knee warmer than R with significant swelling.  No
+erythema. No pitting edema. Tenderness to palpation diffusely.
+Can bend knee only until about 100 degrees. No ___ edema, pulses
+intact bilaterally, warm feet. 
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. AOx3.
+ 
+Pertinent Results:
+ADMISSION LABS:
+====================
+___ 05:20PM BLOOD WBC-9.7 RBC-3.53* Hgb-10.8* Hct-34.0 
+MCV-96 MCH-30.6 MCHC-31.8* RDW-12.7 RDWSD-44.6 Plt ___
+___ 05:20PM BLOOD Neuts-70.7 Lymphs-14.7* Monos-13.5* 
+Eos-0.5* Baso-0.2 Im ___ AbsNeut-6.88* AbsLymp-1.43 
+AbsMono-1.31* AbsEos-0.05 AbsBaso-0.02
+___ 05:20PM BLOOD ___ PTT-28.6 ___
+___ 05:20PM BLOOD Glucose-118* UreaN-9 Creat-0.5 Na-139 
+K-4.1 Cl-103 HCO3-22 AnGap-14
+___ 10:29AM BLOOD Free T4-1.0
+___ 10:29AM BLOOD TSH-1.2
+___ 05:20PM BLOOD CRP-105.0*
+
+DISCHARGE LABS:
+=====================
+___ 07:50AM BLOOD WBC-5.0 RBC-3.39* Hgb-10.7* Hct-33.4* 
+MCV-99* MCH-31.6 MCHC-32.0 RDW-12.7 RDWSD-45.3 Plt ___
+___ 07:50AM BLOOD Glucose-92 UreaN-7 Creat-0.5 Na-139 K-4.4 
+Cl-105 HCO3-24 AnGap-10
+___ 07:50AM BLOOD Calcium-8.7 Phos-3.7 Mg-2.2 UricAcd-4.1
+
+OTHER PERTINENT LABS:
+======================
+___ 04:14PM BLOOD calTIBC-215* Ferritn-237* TRF-165*
+___ 04:14PM BLOOD Calcium-8.8 Phos-3.4 Mg-2.0 Iron-13*
+___ 04:14PM BLOOD RheuFac-16* ___
+
+MICROBIOLOGY:
+=======================
+__________________________________________________________
+___ 3:30 pm JOINT FLUID      Source: Knee. 
+
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Preliminary): 
+__________________________________________________________
+___ 5:08 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 4:43 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 7:30 pm JOINT FLUID      JOINT TEST. 
+
+   GRAM STAIN (Final ___: 
+      2+   ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      NO MICROORGANISMS SEEN. 
+
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+__________________________________________________________
+___ 3:30 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+__________________________________________________________
+___ 3:50 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___: 
+      CANCELLED.    Culture negative as of: ___ AT 20:52. 
+         Test canceled/culture discontinued per: ___. 
+         PATIENT CREDITED. 
+
+IMAGING:
+=====================
+___ Imaging UNILAT LOWER EXT VEINS  
+No evidence of deep venous thrombosis in the left lower 
+extremity veins.
+
+___ Imaging KNEE (AP, LAT & OBLIQUE 
+Persistent moderate to large left suprapatellar effusion.  No 
+fracture.
+
+___ Imaging PELVIS & SACRO-ILIAC 
+There is no evidence of acute fracture or dislocation. There is 
+mild 
+subchondral sclerosis along the ilial site of the bilateral 
+sacroiliac joints 
+(right greater than left), which is nonspecific but may 
+represent enteropathic 
+arthropathy, inflammatory arthropathy or osteitis condensans 
+ilii. There are 
+no significant degenerative changes in the hips. 
+
+ 
+Brief Hospital Course:
+SUMMARY:
+=========================
+Ms. ___ is a ___ woman who presented with acute left knee pain 
+and swelling. She had arthrocentesis performed which was 
+consistent with an inflammatory arthritis. Cultures and gram 
+stain were negative. She was treated with Tylenol, ketorolac, 
+and oxycodone PRN, transitioned to naproxen and TYlenol on 
+discharge. She received a glucocorticoid injection by 
+rheumatology.
+
+ACUTE ISSUES:
+=========================
+
+# Left knee pain
+# Acute inflammatory monoarthritis
+The patient presented with approximately 1 week of worsening 
+left knee pain and swelling. She was seen by Ortho in the ED and 
+underwent arthrocentesis which showed: TNC ___, RBC 1393, 
+Polys 76%, Lymph 18%. Gram stain negative, cultures no growth. 
+CRP was elevated to 105 (from 41 on initial ED presentation 2 
+days prior). Differential initially included septic arthritis 
+(although less likely given arthrocentesis results) versus 
+inflammatory arthritis such as RA, AS, reactive arthritis, 
+versus Lyme infection (although no known tick exposure), versus 
+crystal arthropathy (although no crystals seen on initial 
+arthrocentesis) versus IBD (history of diarrhea that had 
+recently resolved). She was treated with ketorolac and Tylenol 
+as well as oxycodone PRN. Her pain was persistent, limiting 
+mobility. On ___ Rheumatology was consulted and performed repeat 
+arthrocentesis which showed 10,000 WBCs. Intraarticular 
+glucocorticoid injection was performed simultaneously. ___, RF, 
+and anti-CCP were sent for rheumatologic work-up. RF was 
+borderline elevated at 16. Studies pending at discharge were 
+___, anti-CCP, Lyme Ab, and urine chlamydia/gonorrhea.
+
+# SI joint pain, possible sacroiliitis
+Pt reported R SI joint pain that appears to be chronic and comes 
+and goes. She was tender to palpation on exam, thus pelvic x-ray 
+was obtained. This showed mild subchondral sclerosis of 
+bilateral SI joints, R>L. Her pain was improved with the above 
+pain regimen. 
+
+# Mild normocytic anemia
+Pt initially had Hb 11.8 on presentation which downtrended 
+slightly to the ___. No clinical evidence of bleeding. Iron 
+studies showed: iron 13, TIBC 215, ferritin 237, suggesting 
+anemia of chronic inflammation.
+
+TRANSITIONAL ISSUES:
+=========================
+[] Consider repeat CRP in 1 week to monitor trend
+[] Follow up studies pending at discharge: ___, anti-CCP, Lyme 
+Ab, urine chlamydia/gonorrhea
+[] Follow up studies from repeat arthrocentesis on ___: cell 
+count, crystals, gram stain, culture
+[] Consider HLA-B27 testing given consideration of IBD-related 
+arthritis
+[] Should follow up with PCP and ___ within the next 
+___ weeks
+[] The patient was discharged with crutches but is allowed to 
+bear weight as tolerated
+[] Monitor CBC for anemia. Consider repeat iron studies after 
+knee pain/edema resolves. 
+
+MEDICATION CHANGES:
+=========================
+- Naproxen 500mg BID x1 week standing, then BID as needed for 
+knee pain
+- Tylenol ___ Q6H PRN for knee pain
+
+CODE STATUS: Full Code
+CONTACT:
+Name of health care proxy: ___ 
+___: Husband 
+Phone number: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+
+ 
+Discharge Medications:
+1.  Naproxen 500 mg PO Q12H 
+Standing for 7 days
+Then as needed for pain 
+RX *naproxen 500 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+2.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth every six (6) 
+hours Disp #*60 Capsule Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute monoarthritis
+Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+- You had a swollen, painful knee
+
+What did you receive in the hospital?
+- Fluid was removed from the knee and sent for testing
+- You did not have an infection in the knee. It is likely 
+inflammation. 
+
+What should you do once you leave the hospital?
+- Please take your medications as prescribed and go to your 
+future appointments which are listed below.
+- Take the following medications for pain as needed:
+     Naproxen 500mg twice daily as needed
+     Tylenol ___ every 6 hours as needed
+
+We wish you all the best!
+- Your ___ Care Team
+ 
+Followup Instructions:
+___

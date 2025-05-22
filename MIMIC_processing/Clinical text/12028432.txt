@@ -1,0 +1,220 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+strawberries
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Weakness, fevers
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ man with a history of hyperlipidemia who presented
+from home to ___ today with increased weakness
+for 4 days, fever yesterday, unable to stand today, found to 
+have
+babesiosis. 
+
+He presented to ___ yesterday w/ weakness x4 days,
+inability to stand, episode of abdominal pain and fever to 103
+the day prior, episode of incontinence the day of presentation.
+Noted to be gardening as a hobby. No complaints other than
+weakness in ___ ___, but found to have petechial rash. 
+
+CT abdomen pelvis was obtained which did not show acute 
+findings.
+Noncontrast head CT did not show any acute findings. He had
+thrombocytopenia and hyperbilirubinemia. 
+
+A parasite smear was sent and showed evidence of babesiosis (%
+<1%). He was given ceftriaxone, azithromycin, and atovaquone
+after consultation with ID. He was transferred here for further
+evaluation. He denies any complaints here.  
+
+In the ___, initial VS were: T 99.9, HR 70, BP 132/74, RR 18, 98%
+on RA  
+Exam notable for:  
+NAD. HEENT, heart, lungs unremarkable. Abdomen soft. ___
+without edema. Neuro AOx3 without facial droop or gross focal
+deficit.  
+ECG: SR @ 70 bpm, LAD, RBBB, LVH  
+Labs showed:  
+- Hgb 12.4, Hct 38, platelets 61  
+- CBC with lymphocytosis  
+Imaging showed: none performed  
+Consults: none  
+Patient received: Tylenol 1g  
+Transfer VS were: T 100.6, HR 87, BP 138/76, RR 16, O2 sat 96%
+on RA  
+
+On arrival to the floor, history is limited iso AMS. Endorses
+persistent fatigue, but denies any other sx. 
+ 
+Past Medical History:
+Hyperlipidemia
+ 
+Social History:
+___
+Family History:
+Non contributory
+ 
+Physical Exam:
+ ADMISSION PHYSICAL EXAM:  
+ VS:  24 HR Data (last updated ___ @ 748)
+    Temp: 98.2 (Tm 99.1), BP: 113/69 (113-116/69-80), HR: 78
+(78-80), RR: 20 (___), O2 sat: 94% (94-96), O2 delivery: Ra,
+Wt: 164.24 lb/74.5 kg  
+
+ GENERAL: alert, oriented to person and place, thinks it is
+___, does not know why he is in the hospital or what
+happened during the last 4 days. Comfortable. Pleasant. 
+ HEENT: AT/NC, anicteric sclera, MMM  
+ NECK: supple, no LAD  
+ CV: RRR, S1/S2, no murmurs, gallops, or rubs  
+ PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+ EXTREMITIES: no cyanosis, clubbing, or edema. +petechial rash 
+on
+both shins.   
+ PULSES: 2+ radial pulses bilaterally  
+ DERM: no other rashes apart from petechial. 
+
+ 
+Pertinent Results:
+___ 10:55PM   WBC-5.5 RBC-4.11* HGB-12.4* HCT-38.0* MCV-93 
+MCH-30.2 MCHC-32.6 RDW-15.5 RDWSD-52.6*
+___ 10:55PM   GLUCOSE-114* UREA N-14 CREAT-1.2 SODIUM-136 
+POTASSIUM-4.3 CHLORIDE-99 TOTAL CO2-27 ANION GAP-10
+___ 11:07PM   LACTATE-1.4
+___ 10:55PM   HYPOCHROM-NORMAL ANISOCYT-NORMAL 
+POIKILOCY-1+* MACROCYT-NORMAL MICROCYT-NORMAL POLYCHROM-NORMAL 
+OVALOCYT-1+*
+___ 10:55PM   NEUTS-23* BANDS-0 LYMPHS-71* MONOS-5 EOS-1 
+BASOS-0 ___ MYELOS-0 AbsNeut-1.27* AbsLymp-3.91* 
+AbsMono-0.28 AbsEos-0.06 AbsBaso-0.00*
+ 
+Brief Hospital Course:
+___ year old male with a history of hyperlipidemia who presented 
+to ___ with increased weakness, fever, lower 
+extremity rash, found to have babesiosis. 
+
+ACUTE ISSUES
+------------
+
+# Babesiosis: 
+Found to have babesiosis on smear at <1% parasitemia. Patient 
+with risk factor of gardening though no known tick bites. 
+Complicated by mild anemia, thrombocytopenia, mild acute kidney 
+injury, and mild transaminitis. Continued Azithromycin and 
+Atovaquone for Babesia treatment and added doxycycline for 
+suspected coinfection (anaplasma PCR and lyme serology pending 
+on discharge). Plan for likely 10 days of therapy though will 
+have ID follow up prior to end to ensure that patient remains 
+clinically well and to repeat labs.
+
+CHRONIC ISSUES
+--------------
+
+# HLD 
+Continued home atorvastatin.
+
+CORE
+----
+
+# CODE: Full (presumed)
+# CONTACT: Daughter, HCP: ___, ___ 
+
+TRANSITIONAL ISSUES
+-------------------
+
+[ ] Discharged azithromycin, atovaquone, and doxycycline. Will 
+follow up with ID prior to end to ensure that patient remains 
+clinically well.
+[ ] Please follow up lyme serologies and anaplasma PCR (pending 
+on discharge).
+[ ] Patient had thrombocytopenia to ___, mild transaminitis (ALT 
+42, AST 65), mild acute kidney injury (Cr 1.2 on discharge) 
+during hospitalization, likely in setting of babesiosis. Please 
+repeat labs within 2 weeks to ensure resolution.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 20 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Atovaquone Suspension 750 mg PO BID 
+RX *atovaquone 750 mg/5 mL 5 ML by mouth Twice a day Refills:*0 
+2.  Azithromycin 250 mg PO/NG Q24H 
+RX *azithromycin 250 mg 1 tablet(s) by mouth once a day Disp 
+#*10 Tablet Refills:*0 
+3.  Doxycycline Hyclate 100 mg PO Q12H 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth once a day 
+Disp #*10 Tablet Refills:*0 
+4.  Atorvastatin 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+-----------------
+# Babesiosis
+
+SECONDARY DIAGNOSES
+-------------------
+# Anemia
+# Thrombocytopenia
+# Acute kidney injury
+# Transaminitis
+# Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+WHY YOU WERE ADMITTED?
+- You came in with weakness and fevers.
+
+WHAT WE DID FOR YOU?
+- You were found to have an infection in your blood by a 
+parasite called Babesia.
+
+WHAT YOU SHOULD DO WHEN YOU LEAVE?
+- You will need to take several antibiotics - atovaquone, 
+azithromycin, doxycycline, until ___.
+- You will follow up with Infectious Disease who may decide you 
+need to take antibiotics for longer.  They will call you to make 
+an appointment. 
+- You should also follow up with your primary care provider ___ 
+___ weeks as detailed below. 
+
+It was a pleasure caring for you!
+
+Sincerely,
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

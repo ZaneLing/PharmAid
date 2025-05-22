@@ -1,0 +1,313 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Headaches, vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ y/o M with lifestyle-controlled T2DM
+who p/w headache, fevers, n/v, weakness for 6 days. 
+
+Per history obtained in the ED,
+
+6 days ago he started having had subjective fever, n/v, 
+headache,
+and dizziness. He works behind the hot food counter at a ___.
+He notes that the day before sx started, he spilled raw chicken
+juice on face and chest twice. Headache was diffuse, throbbing.
+No photophobia, vision changes, neck stiffness. Had intermittent
+diarrhea, loose and black but not tarry in color on ___.
+Brown and less loose this AM. No sick contacts. Vomiting really
+started on ___.   
+
+Patient was seen in the ED on ___. Tmax 102, measured
+in ED. Had an LP which was bland, not c/f meningitis. Was given
+presumptive Dx of Lyme disease and sent home with PO doxycycline
+x 3 wks. Knows to take doxy with food, otherwise has 
+stomachache.
+
+Felt better ___. From ___ on, his symptoms worsened. This
+morning, he vomited over 20 times and they have all been a 
+yellow
+mucous color. Had throbbing headaches, abdominal cramping.
+Headache has been his most consistent symptom. Has had reduced 
+PO
+intake. 
+
+Denies chest pain/sob. No dysuria. No rashes, arthralgias. Has
+not traveled recently, lives in ___. ___ wks ago visited
+his parents, who live in a wooded area, played with dogs. 
+
+Has hx of a "gagging tic" since he was ___. 
+
+In the ED, initial vitals were: 
+T 96.4 HR 74 BP 114/97 RR 19 SaO2 > 97% RA 
+
+Exam was notable for:
+- A&Ox3, diaphoretic
+- neck tenderness
+- abdomen soft, non-tender 
+
+Labs were notable for: (use specific numbers)
+- CBC 7.1 > 14.3 < 228 
+- CMP AG 19, BUN/Cr = ___
+- lactate 1.9
+- lipase 31
+
+Studies were notable for: 
+- CTh w/o contrast no acute intracranial abnl
+
+The patient was given:
+- 2L NS 
+- Zofran, prochlorperazine 10mg, diphenhydramine 50mg
+- acetaminophen 650mg 
+
+Consults: none
+
+On arrival to floor, headache and nausea had resolved. Able to
+tolerate ___ sandwich for dinner. 
+
+ 
+Past Medical History:
+ADHD 
+elbow and shoulder tendonitis 
+H/o T2DM, diet-controlled 
+ 
+Social History:
+___
+Family History:
+Does not know. Was adopted from ___ as a child. 
+ 
+Physical Exam:
+ADMISSION EXAM:
+========================
+VITALS: T afebrile HR ___ BP 110s/90s SaO2 > 95% RA 
+GENERAL: Alert and interactive. NAD. 
+HEENT: PERRL, EOMI. MMM.
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: CTAB. No wheezes, rhonchi or rales. No increased work of
+breathing.
+ABDOMEN: Normal bowels sounds, non distended, non tender, neg
+___ no rebound/guarding
+EXTREMITIES: No edema. Pulses DP/Radial 2+ bilaterally. 
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. Moving all 4 limbs spontaneously. Normal
+sensation.
+
+DISCHARGE EXAM:
+=========================
+T:97.8 PO BP:104/64 HR:72 RR:18 O2:97 Ra 
+GENERAL: Alert and interactive. NAD. 
+HEENT: PERRL, EOMI. MMM.
+CARDIAC: RRR. Audible S1 and S2. No murmurs/rubs/gallops.
+LUNGS: CTAB. No wheezes, rhonchi or rales. No increased work of
+breathing.
+ABDOMEN: Normal bowels sounds, non distended, non tender, neg
+___ no rebound/guarding
+EXTREMITIES: No edema. Pulses DP/Radial 2+ bilaterally. 
+SKIN: Warm. No rashes.
+NEUROLOGIC: AOx3. Moving all 4 limbs spontaneously. Normal
+sensation.
+ 
+Pertinent Results:
+ADMISSION LABS
+======================
+___ 11:00AM BLOOD WBC-7.1 RBC-5.07 Hgb-14.3 Hct-42.8 MCV-84 
+MCH-28.2 MCHC-33.4 RDW-13.5 RDWSD-41.7 Plt ___
+___ 11:00AM BLOOD Neuts-84* Lymphs-12* Monos-3* Eos-0* 
+Baso-0 Atyps-1* AbsNeut-5.96 AbsLymp-0.92* AbsMono-0.21 
+AbsEos-0.00* AbsBaso-0.00*
+___ 11:00AM BLOOD Plt Smr-NORMAL Plt ___
+___ 11:00AM BLOOD Glucose-155* UreaN-20 Creat-0.8 Na-141 
+K-4.5 Cl-104 HCO3-19* AnGap-18
+___ 11:00AM BLOOD ALT-82* AST-69* AlkPhos-175* TotBili-0.4
+___ 11:00AM BLOOD Lipase-31
+___ 11:00AM BLOOD Albumin-4.2
+___ 11:19AM BLOOD Lactate-1.9
+
+PERTINENT LABS
+======================
+NONE
+
+DISCHARGE LABS
+======================
+___ 04:40AM BLOOD WBC-7.1 RBC-4.61 Hgb-12.9* Hct-39.6* 
+MCV-86 MCH-28.0 MCHC-32.6 RDW-13.9 RDWSD-43.2 Plt ___
+___ 04:40AM BLOOD Plt ___
+___ 04:40AM BLOOD Glucose-100 UreaN-13 Creat-0.8 Na-144 
+K-4.2 Cl-106 HCO3-22 AnGap-16
+___ 04:40AM BLOOD ALT-86* AST-76* AlkPhos-138* TotBili-0.4
+___ 04:40AM BLOOD Calcium-8.8 Phos-3.6 Mg-2.3 Iron-182*
+___ 04:40AM BLOOD calTIBC-269 Ferritn-865* TRF-207
+___ 04:40AM BLOOD HCV Ab-NEG
+___ 04:40AM BLOOD HBsAg-NEG HBsAb-POS HBcAb-NEG
+
+STUDIES
+======================
+___ CT HEAD
+IMPRESSION:  
+No acute intracranial abnormality. 
+
+___ RUQUS
+IMPRESSION:  
+Normal hepatic parenchyma.  No evidence of cholecystitis. 
+
+MICROBIOLOGY
+======================
+___ 7:40 pm URINE
+
+   URINE CULTURE (Pending): 
+
+ 
+Brief Hospital Course:
+SUMMARY
+======================
+Mr. ___ is ___ male with lifestyle-controlled T2DM 
+who presented with 7 days of headache, fever, nausea/vomiting, 
+and general malaise. Notably he previously presented to ___ ED 
+on ___, underwent a LP with normal results, and was prescribed 
+doxycycline for presumed tick-borne illness that patient has 
+been taking. Mr. ___ improved on this admission after 
+being provided with IV fluids and medications for nausea and 
+headache and was stable at time of discharge. 
+
+TRANSITIONAL ISSUES:
+====================
+For PCP:
+[] Please ensure he completed full course of doxycycline for 21 
+days 
+[] Please follow-up elevated LFTs with repeat labs in 1 week 
+[] He had elevated ferritin. Please follow-up iron studies given 
+concern for potential hemochromatosis in the setting of 
+tranaminitis 
+[] F/u final anaplasma titers 
+
+Code status: Full
+Contact: None 
+
+ACUTE/ACTIVE ISSUES:
+====================
+#Fevers
+#Nausea 
+#Headache 
+#Diarrhea 
+Mr. ___ had presented with combination of nausea, 
+diarrhea, and diffuse headache on ___. Predominant symptom was 
+throbbing headache. He was worked up for meningitis/Lyme. He had 
+negative lumbar puncture and was sent home on doxycycline for 
+presumed Lyme disease. Given history of visiting parents in 
+wooded area, anaplasma and lyme serologies were ordered, 
+although patient did not have rash, anemia, or thrombocytopenia. 
+Lyme is very unlikely with no rash, no arthralgias however he 
+should complete course. While patient had transaminitis, 
+___ was negative and there was no abdominal pain that 
+correlated with eating. Hence, biliary colic or cholecystitis 
+was very unlikely. This was most likely viral/bacterial 
+gastroenteritis that appeared to be self-resolving by day 7. 
+Supportive treatments including IV fluids and Zofran were used 
+during this admission with good effect. He was discharged to 
+finish 21 day course of doxycycline and new anti-emetic with 
+follow-up at PCP ___ 1 week. 
+
+#Mild transaminitis
+Patient was found to have mild transaminitis, likely in the 
+setting of viral illness vs NAFLD given history of obesity/T2DM. 
+HepB serology, hepC antibody and viral load, and ferritin were 
+checked with results still pending at time of discharge. RUQ 
+ultrasound performed on ___ was normal. If transaminitis was 
+not his baseline, LFTs should be repeated in 6 months as 
+outpatient. 
+
+#Anion gap metabolic acidosis, likely ketosis 
+Patient had ketones on U/A on ___ ED visit and was encouraged 
+to increase PO intake. He had normal HCO3 upon discharge.
+
+CHRONIC/STABLE ISSUES:
+======================
+#History of T2DM, diet-controlled
+Mr. ___ was previously on metformin and insulin for T2DM 
+and sees Endocrinology once a year. He lost 100 lbs with 
+lifestyle changes and is no longer on meds. His last A1c 5.9% 
+___ and is due to see PCP this week. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Doxycycline Hyclate 100 mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+Duration: 5 Days 
+RX *ondansetron 4 mg 1 tablet(s) by mouth 3 times per day Disp 
+#*16 Tablet Refills:*0 
+2.  Doxycycline Hyclate 100 mg PO Q12H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=====================
+Gastroenteritis
+
+SECONDARY DIAGNOSIS
+=====================
+Transaminitis
+T2DM
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ 
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+- You were admitted for various symptoms including headache, 
+nausea, and vomiting. 
+ 
+What was done for me while I was in the hospital?  
+- We gave you IV fluids to help with hydration.
+- We gave you medications to help with your headache and nausea.
+- We performed an ultrasound on your abdomen because you had 
+mildly elevated enzymes of the liver. This imaging was normal. 
+
+What should I do when I leave the hospital?  
+- You will have anti-nausea medication to take as you need it. 
+Take it 30 minutes prior to your doxycycline dose.
+- Continue taking the antibiotic doxycycline as prescribed.
+- You will have a follow-up appointment with your primary care 
+physician. Please attend this appointment.
+- Try to avoid foods that can be upset the stomach e.g. dairy, 
+spicy and fatty foods.
+- You may take ibuprofen for headaches. 
+- If your symptoms are not improving or worsening, please reach 
+out to your healthcare provider.
+ 
+We wish you all the best!
+ 
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

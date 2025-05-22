@@ -1,0 +1,256 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+flank/abdominal pain and fevers
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Dr. ___ is a ___ male (vascular surgeon at ___,
+otherwise healthy, presenting with severe abdominal pain and
+fever. 
+
+He was in his usual state of health until last week when he
+developed a productive cough. He was treated for suspected
+pneumonia with azithromycin.
+
+He reports that he completed four doses of azithromycin on this
+___ but then developed severe right flank pain as well 
+as
+diffuse myalgias throughout his body. He thought this was
+rhabdomyolysis given that he has a history of rhabdo (in 
+response
+to Cialis) which was treated with plenty of fluids. He opted not
+to take his fifth dose of azithromycin and continued to hydrate
+and overall felt better. He developed a high fever T = 104 on
+___ but took tylenol and remained hydrated, then went 
+to
+work. Then on ___, he got a flu shot (as was required per
+___ and afterwards promptly felt worse again. He continued to
+spike fevers requiring Tylenol and then described severe
+abdominal pain which then became bilateral flank pain and
+periumbilical pain. He took one dose of cipro given that he
+thought he might have pyelonephritis or even a kidney stone. He
+has never had a history of kidney stones. He had some nausea but
+reported no vomiting or diarrhea. Given decreased PO intake, he
+also reports that he had not had a bowel movement in a couple of
+days.
+
+On further questioning, he reports that he has a remote history
+of urethritis with chlamydia and gonorrhea (> ___ years ago) but
+nothing recently. During that episode, he presented with penile
+discharge. Now, he states that he has some dysuria (and is
+amenable to testing for gonorrhea and chlamydia) but denies any
+penile discharge.
+
+He also reports that his mother told him he had rheumatic heart
+disease as a child, so when this presentation came on, he 
+thought
+he might have an endocarditis. Of note, in the past, he had
+auscultated a murmur and so got a TTE at ___ but was noted to be
+normal without any valvular dysfunction.
+
+ 
+Past Medical History:
+No active medical problems
+He has never been hospitalized before
+ 
+Social History:
+___
+Family History:
+Father- ulcerative colitis s/p colectomy
+Brother- ulcerative colitis
+Other brother- healthy
+Sister- healthy
+No other rheumatologic or autoimmune history
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: T 98.0 BP 106 / 63 HR 86 RR 18 O2 Sat  97 Ra 
+GENERAL: Alert and interactive. In no acute distress. Laying in
+bed, able to ambulate without issue.
+EYES: NCAT. PERRL, EOMI. 
+ENT: MMM. No thyroid nodules or lymphadenopathy
+CARDIAC: Tachycardic with HR 100. Normal rhythm without murmurs.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. Normal work of breathing
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.
+MSK: No spinous process tenderness. No flank/CVA tenderness. No
+edema in lower extremities. Pulses DP/Radial 2+ bilaterally.
+SKIN: Warm. No rashes.
+NEUROLOGIC: CN II-XII Grossly intact, no focal neuro deficits.
+PSYCH: appropriate mood and affect
+
+DISCHARGED PHYSICAL EXAM:
+GENERAL: Alert and interactive. In no acute distress. Laying in
+bed, able to ambulate without issue.
+EYES: NCAT. PERRL, EOMI. 
+ENT: MMM. No thyroid nodules or lymphadenopathy
+CARDIAC: Normal rhythm without murmurs.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. Normal work of breathing
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants.
+MSK: No spinous process tenderness. No flank/CVA tenderness. No
+edema in lower extremities. Pulses DP/Radial 2+ bilaterally.
+SKIN: Warm. No rashes.
+NEUROLOGIC: CN II-XII Grossly intact, no focal neuro deficits.
+PSYCH: appropriate mood and affect
+
+ 
+Pertinent Results:
+___ 06:53AM BLOOD WBC-4.2 RBC-4.63 Hgb-14.4 Hct-41.2 MCV-89 
+MCH-31.1 MCHC-35.0 RDW-11.6 RDWSD-37.2 Plt ___
+___ 07:22AM BLOOD WBC-4.1 RBC-4.12* Hgb-12.2* Hct-36.2* 
+MCV-88 MCH-29.6 MCHC-33.7 RDW-11.5 RDWSD-36.4 Plt ___
+___ 09:18PM BLOOD WBC-8.3 RBC-4.72 Hgb-14.1 Hct-41.4 MCV-88 
+MCH-29.9 MCHC-34.1 RDW-11.2 RDWSD-36.2 Plt ___
+___ 09:18PM BLOOD Neuts-74.5* Lymphs-17.8* Monos-6.9 
+Eos-0.2* Baso-0.2 Im ___ AbsNeut-6.15* AbsLymp-1.47 
+AbsMono-0.57 AbsEos-0.02* AbsBaso-0.02
+___ 06:53AM BLOOD Glucose-88 UreaN-8 Creat-0.7 Na-144 K-4.4 
+Cl-106 HCO3-27 AnGap-11
+___ 09:18PM BLOOD ALT-22 AST-24 CK(CPK)-81 AlkPhos-53 
+TotBili-0.8
+___ 06:53AM BLOOD Calcium-8.9 Phos-3.2 Mg-2.1
+___ 09:18PM BLOOD TSH-0.44
+___ 06:53AM BLOOD CRP-67.2*
+___ 07:22AM BLOOD CRP-93.2*
+___ 09:18PM BLOOD CRP-82.4*
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE
+=====================
+Dr. ___ is a ___ male (vascular surgeon at ___,
+otherwise healthy, presenting with severe abdominal pain and
+fever. Patient was given IV Zosyn and Tylenol for fever and 
+possible infection on which he improved. His blood work was 
+notable for an up-trending CRP that is a nonspecific marker for 
+inflammation. All other blood work was unremarkable. Otherwise 
+he was stable and was discharged. 
+
+ACTIVE ISSUES
+=============
+# Fever
+# Abdominal pain/ flank pain
+# Diffuse myalgias
+Pt presented to the ED with flank/abdominal pain and 
+intermittent fevers for 1 week duration. Patient had a fever of 
+103 upon arrival to the ED. Lab work was notable for an elevated 
+CRP 82.4 ___ and up-trended to 93.2 ___, but declined to 67.2 
+___. Lactate normalized from 2 to 0.7 with IV fluids, and CBC 
+shows no evidence of leukocytosis. Otherwise, all other blood 
+work was unremarkable. His Chest xray demonstrated No acute 
+cardiopulmonary process. His CT abdomen and pelvis demonstrated 
+No acute intra-abdominal process, no findings to explain 
+patient's symptoms. During his hospital stay his tmax was 100.3 
+on ___. He was treated with IV Zosyn empirically in the ED and 
+his symptoms improved overall. Initial differential concerning 
+for infectious etiologies such as appendicitis, peritonitis, and 
+acute mesenteric ischemia,
+gastroenteritis, pyelonephritis although CT was overall
+unremarkable. Could also consider gastritis,
+esophagitis vs peptic ulcer, notably no blood in stool per
+patient. Other non-infectious causes to consider include
+inflammatory bowel diseases, pancreatitis, polyarteritis nodosa,
+familial Mediterranean fever- not the right demographic,
+porphyria, and malignancies; he does have a strong family 
+history
+of IBD and had a sigmoidoscopy ___ years ago which was normal;
+could consider this an early ulcerative colitis presentation. He
+has no skin lesions to suggest skin infection such as porphyria.
+TSH normal. Flu negative in the ED. CK normal ruling out
+rhabdomyolysis. Suggested patient to follow up with a PCP for 
+further immunology workup with ___ and RF. Discharged on course 
+of Cipro in the event this episode represented a UTI or 
+pyelonephritis.
+
+# Dysuria 
+Pt reports intermittent dysuria for the past week. He is unsure 
+if he passed a stone. However, pt does not have a history of 
+renal stones. UA with expanded metabolite panel is pending. 
+Urine Culture is negative. He has a history of STI in the past, 
+which was pending for urine gonorrhea and chlamydia. HIV ab was 
+pending. During his hospital stay he did not have any urinary 
+symptoms or changes. Etiology of his symptoms are unknown and 
+could possibly related to passing a micro stone. Advised the 
+patient to follow up with his PCP if he continues to have 
+dysuria. We will reach out to him if his pending lab work is 
+abnormal. 
+
+TRANSITIONAL ISSUES
+[ ] Advised patient to continue short course of cipro on 
+discharge for presumed partially treated UTI (though UA here was 
+negative)
+[ ] blood cultures still pending on day of discharge but have 
+shown no growth
+
+>30 min spent on discharge planning including face to face time
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q24H Duration: 3 Days 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*10 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+======================
+Fevers, flank and abdominal pain
+Concern for passed renal stone or UTI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,  
+
+WHY WERE YOU HERE?
+- You had fevers and flank/abdominal pain and were concerned 
+about an infection.
+
+WHAT WAS DONE WHILE YOU WERE IN THE HOSPITAL?  
+-  You were given antibiotics and had an infectious workup 
+including CT abdomen, CBC, CRP that was notable for elevated CRP 
+to ___ but CT did not show any intra-abdominal findings to 
+explain your symptoms.
+- We ordered rheumatological studies that are pending at time of 
+discharge, however it is unlikely that your symptoms are due to 
+a rheumatological etiology.
+- It is possible that you had a renal stone that passed, so you 
+are being discharged with a course of ciprofloxacin.
+ 
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+- Take all of your medications as prescribed (listed below)  
+- Follow up with your doctors as listed below  
+
+Please see below for more information on your hospitalization. 
+It was a pleasure taking part in your care here at ___. We 
+wish you all the best,
+
+- Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,248 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+SOB, DOE
+ 
+Major Surgical or Invasive Procedure:
+NA
+
+ 
+History of Present Illness:
+CHIEF COMPLAINT:  SOB
+
+HISTORY OF PRESENT ILLNESS:  
+___ PMH of Anxiety, ETOH Use Disorder, recently diagnosed CML,
+presented to clinic with SOB, was admitted for observation 
+during
+initiation of Dasatnib
+
+Per review of clinic notes, patient was recently diagnosed with
+AML and was on hydrea, with plan to start imatinib in the
+outpatient setting. In the interim, she developed shortness of
+breath, so was admitted direct from clinic for observation 
+during
+initiation of imatinib. CTA done prior to admission revealed no
+PE or acute pulmonary abnormality. 
+
+Pt reports that she has had intermittent shortness of breath for
+weeks which has been unchanged over time. She noted that it is
+worse at night, better during the day time. Nothing makes it
+better, but allowing time for it to go away. She noted that it 
+is
+associated with some nasal congestion, but has no hx of
+allergies, and stated that she is otherwise without any
+infectious symptoms (no fever or productive cough) and no sick
+contacts. She noted that she does not have a history of asthma
+and did not sound like she was wheezing during these events. 
+ 
+REVIEW OF SYSTEMS:  
+A complete 10-point review of systems was performed and was
+negative unless otherwise noted in the HPI. 
+ 
+
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY:  
+Per last outpatient note by Dr ___:
+"- ___: She was initially seen by her primary care doctor on
+___ and had been feeling fatigue, light headed, and nauseated
+for about a month; blood work revealed a white blood cell count
+27.3, neutrophil predominant, with 6% basophils. She also had
+thrombocythemia with a platelet count of 775,000.  Hemoglobin 
+was
+14.4.  She had a repeat CBC on ___ which showed a white blood
+cell count of 14.9, hemoglobin 14.4, PLT 775,000, basophils 20%. 
+
+Additionally, peripheral blood was sent for BCR/ABL 
+rearrangement
+which was positive in 116 out of 200 of the nuclei analyzed.
+- ___: Initial evaluation and bone marrow biopsy at ___.
+Bone marrow biopsy with "marked hypercellular marrow with
+increased myeloid precursors, neutrophils, eosinophils and
+basophils, and no significant dysplasia...blasts are not
+increased"
+
+PAST MEDICAL HISTORY:  
+ETOH use disorder (quit ___
+Anxiety
+Insomnia
+Gastritis
+Eating disorder
+ 
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  
+PGM: Liver cancer in her ___. No family history of blood
+disorders. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+========================
+Vitals:  ___ 1841 Temp: 97.2 PO BP: 115/76 HR: 73 RR: 16 O2
+sat: 97% O2 delivery: RA 
+GENERAL: sitting in bed, appears comfortable, NAD
+EYES: PERRLA, aanicteric
+HEENT:  OP clear, MMM
+NECK:  supple, normal ROM
+LUNGS:  CTA b/l, speaking in full sentences, no cough, no
+increased WOB
+CV:  RRR normal distal perfusion, no edema
+ABD: SOFT, NT, ND, normoactive BS
+GENITOURINARY: no foley or suprapubic tenderness
+EXT:  warm, no deformity, normal muscle bulk
+SKIN:  warm, dry, no rash
+NEURO: AOx3, fluent speech
+ACCESS: PIV
+
+DISCHARGE PHYSICAL EXAM:
+=======================
+PHYSICAL EXAM:  
+Vitals:  ___ 0325 Temp: 97.6 PO BP: 99/63 HR: 69 RR: 18 O2
+sat: 97% O2 delivery: RA  
+GENERAL: sitting in bed, appears comfortable, NAD
+EYES: PERRLA, aanicteric
+HEENT:  OP clear, MMM
+NECK:  supple, normal ROM, no LAD 
+LUNGS:  CTA b/l, speaking in full sentences, no cough, no
+increased WOB
+CV:  RRR normal distal perfusion, no edema
+ABD: SOFT, NT, ND, normoactive BS
+GENITOURINARY: no foley or suprapubic tenderness
+EXT:  warm, no deformity, normal muscle bulk
+SKIN:  warm, dry, no rash
+NEURO: AOx3, fluent speech
+ACCESS: PIV 
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 11:52AM BLOOD WBC-20.2* RBC-4.60 Hgb-13.3 Hct-41.4 
+MCV-90 MCH-28.9 MCHC-32.1 RDW-14.2 RDWSD-45.1 Plt ___
+___ 11:52AM BLOOD Neuts-53.9 ___ Monos-1.7* Eos-7.0 
+Baso-14.0* Im ___ AbsNeut-10.82* AbsLymp-4.18* 
+AbsMono-0.35 AbsEos-1.42* AbsBaso-2.83*
+___ 11:52AM BLOOD Glucose-76 UreaN-9 Creat-0.7 Na-140 K-4.5 
+Cl-105 HCO3-24 AnGap-11
+___ 11:52AM BLOOD ALT-47* AST-32 LD(LDH)-221 AlkPhos-79 
+TotBili-0.2
+___ 11:52AM BLOOD TotProt-6.5 Albumin-4.3 Globuln-2.2 
+Calcium-9.1 Phos-3.3 Mg-1.9
+
+DISCHARGE LABS/RESULTS:
+=======================
+
+___ 05:40AM BLOOD WBC-20.1* RBC-4.37 Hgb-12.6 Hct-40.1 
+MCV-92 MCH-28.8 MCHC-31.4* RDW-14.3 RDWSD-46.5* Plt ___
+___ 12:00AM BLOOD Neuts-52.7 ___ Monos-1.7* Eos-6.9 
+Baso-12.6* Im ___ AbsNeut-11.56* AbsLymp-5.26* 
+AbsMono-0.38 AbsEos-1.51* AbsBaso-2.78*
+___ 05:40AM BLOOD Plt ___
+___ 05:40AM BLOOD ___
+___ 05:40AM BLOOD ALT-43* AST-33 LD(LDH)-235 AlkPhos-81 
+TotBili-0.2
+___ 12:00AM BLOOD Ferritn-80
+___ 12:00AM BLOOD TSH-1.4
+___ 01:00PM BLOOD Glucose-86 UreaN-7 Creat-0.7 Na-144 K-4.3 
+Cl-111* HCO3-24 AnGap-9*
+
+EKG ___: Normal sinus rhythm, normal EKG
+
+NECK XR ___:
+IMPRESSION:  
+Unremarkable radiographs of the neck. 
+
+ECHO ___:
+IMPRESSION: Normal study. Normal biventricular cavity sizes and 
+regional/global biventricular
+systolic function. No valvular pathology or pathologic flow 
+identified. Normal estimated pulmonary
+artery systolic pressure.
+
+ 
+Brief Hospital Course:
+See d/c worksheet
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. CloNIDine Dose is Unknown  PO QHS 
+2. Hydroxyurea 500 mg PO DAILY 
+3. HydrOXYzine 25 mg PO DAILY:PRN anxiety 
+4. Minocycline 100 mg PO Q24H 
+5. Sertraline 100 mg PO DAILY 
+6. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Cetirizine 10 mg PO DAILY 
+RX *cetirizine [24Hour Allergy] 10 mg 1 tablet(s) by mouth once 
+a day Disp #*30 Tablet Refills:*2 
+2.  DASatinib 100 mg PO DAILY )
+ ( )  
+3.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - First 
+Line 
+RX *prochlorperazine maleate [Compazine] 10 mg 1 tablet(s) by 
+mouth once a day Disp #*10 Tablet Refills:*0 
+4.  HydrOXYzine 25 mg PO DAILY:PRN anxiety  
+5.  Minocycline 100 mg PO Q24H  
+6.  Sertraline 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+CML
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+DISCHARGE PAPERWORK
+=====================
+
+Dear Ms. ___,  
+
+It was a privilege taking care of you at ___ 
+___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You came in with worsening shortness of breath and very high 
+platelets 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You got a scan of your lungs yesterday, which did not show a 
+clot
+- You were started on a chemotherapy for your CML called 
+dasatinib
+- You had imaging of your heart done before you started 
+chemotherapy so that we have a baseline of their function 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  
+
+We wish you the best.
+
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

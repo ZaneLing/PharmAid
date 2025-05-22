@@ -1,0 +1,246 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Somnolence
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+___ man with chronic back pain, presenting after sudden onset 
+lightheadedness, somnolence, and generalized weakness. He was in 
+his USOH until ___ when he was driving in his car, and acutely 
+felt above sx. He also endorses feeling that his vision became 
+progressively darker at that moment, his mouth felt dry, and had 
+mild tremors starting from the legs up to his arms. He denies 
+headache or chest pain. At that point, his wife asked him to 
+pull over, and EMS was called.
+His PMH is significant for presyncope once after suddenly 
+arising from his couch, when acute flare of chronic back pain 
+caused him to become short of breath and lightheaded, which 
+resolved with rest. He has had back pain for ___, unknown 
+cause, denies any trauma, and takes occasional Tylenol, but no 
+other pain medications. However, pt endorses that his current 
+event was different in that he did not experience any back pain 
+or shortness of breath.
+Of note, his social history is significant for immigrating from 
+___ ___ ago, where he worked in pig farms. Currently, he 
+works as a ___ for the past ___, but denies any 
+changes in ___ supplies or occupational hazards.
+ 
+Past Medical History:
+Chronic back pain
+ 
+Social History:
+___
+Family History:
+Mother had high blood pressure.
+ 
+Physical Exam:
+ADMISSION EXAM
+Vitals: T 97.6 BP 98/61 HR 65 RR 16 O2 98% RA
+GEN: AOx3, NAD
+HEENT: MMM, oropharynx clear.
+Neck: Supple. JVP not elevated. No carotid bruit.
+CV: RRR. Normal S1+S2, no murmurs, rubs, gallops.
+Lungs: Bilaterally clear to auscultation, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley
+Ext: Warm, well perfused, 2+ pulses, no cyanosis or edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, normal finger-to-nose.
+
+===============
+DISCHARGE EXAM
+Vitals: T 98.3, BP 129/80, HR 67, RR 18, O2 97% Ra
+GEN: AOx3, NAD
+HEENT: MMM, oropharynx clear.
+Neck: Supple. JVP not elevated. No carotid bruit.
+CV: RRR. Normal S1+S2, no murmurs, rubs, gallops.
+Lungs: Bilaterally clear to auscultation, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley
+Ext: Warm, well perfused, 2+ pulses, no cyanosis or edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, normal finger-to-nose.
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 02:50PM BLOOD WBC-10.6* RBC-4.42* Hgb-14.4 Hct-41.4 
+MCV-94 MCH-32.6* MCHC-34.8 RDW-12.2 RDWSD-42.5 Plt ___
+___ 02:50PM BLOOD Neuts-54.7 ___ Monos-6.1 Eos-0.3* 
+Baso-0.3 Im ___ AbsNeut-5.78 AbsLymp-4.04* AbsMono-0.64 
+AbsEos-0.03* AbsBaso-0.03
+___ 03:37PM BLOOD Glucose-166* UreaN-18 Creat-0.9 Na-141 
+K-3.6 Cl-105 HCO3-23 AnGap-17
+___ 03:37PM BLOOD ALT-24 AST-20 AlkPhos-58 TotBili-0.4
+___ 03:37PM BLOOD Albumin-3.9 Calcium-8.5 Phos-2.4* Mg-1.8
+___ 02:50PM BLOOD D-Dimer-283
+___ 03:19PM BLOOD Type-ART pO2-63* pCO2-43 pH-7.39 
+calTCO2-27 Base XS-0
+___ 02:54PM BLOOD Lactate-2.7*
+___ 03:19PM BLOOD O2 Sat-89
+___ 03:37PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+DISCHARGE LABS:
+================
+___ 08:00AM BLOOD WBC-8.0 RBC-4.20* Hgb-13.5* Hct-40.5 
+MCV-96 MCH-32.1* MCHC-33.3 RDW-12.9 RDWSD-45.3 Plt ___
+___ 08:00AM BLOOD Glucose-105* UreaN-15 Creat-0.9 Na-141 
+K-4.0 Cl-105 HCO3-25 AnGap-15
+___ 08:00AM BLOOD Calcium-8.9 Phos-2.3* Mg-2.3
+___ 08:00AM BLOOD %HbA1c-5.3 eAG-105
+___ 08:00AM BLOOD TSH-0.67
+
+IMAGING:
+=========
+
+CT HEAD (___):
+1. No acute intracranial abnormality. 
+2. Bilateral parenchymal calcifications without surrounding 
+edema.  These 
+could be sequela of prior infection such as neurocysticercosis.  
+
+Alternatively, numerous cavernomas can have this appearance 
+3. Paranasal sinus disease. 
+
+CXR (___):
+No acute cardiopulmonary process.
+ 
+Brief Hospital Course:
+This is a ___ year old male with no past medical history who 
+presented with episode of confusion and global weakness, without 
+focal neurologic or cardiac findings, status post 
+volume resuscitation, felt to have been dehydrated now feeling 
+at baseline, notably found to have abnormal head CT finding
+
+# Acute metabolic encephalopathy
+# Dehydration and presumed orthostatic hypotension
+Patient presented with sudden onset lightheadedness and 
+somnolence while driving, in the setting of a day of nausea and 
+poor PO intake.  In the ED, exam initially notable for sinus 
+tachycardia to HR 131 and somnolence.  He had an episode of 
+emesis at that time as well.  Workup notable for mild 
+leukocytosis, negative cardiac enzymes, negative D-dimer (sent 
+due to an S1Q3T3 finding on his EKG, that was subsequently 
+suspected to be normal variant), and  negative tox screen. 
+Workup for infection with chest xray was reassuring.  CT-head 
+showed no acute abnormalities, but did reveal bilateral 
+parenchymal calcifications without surrounding edema concerning 
+for cavernomas or prior neurocysticercosis. He received 1L NS 
+and Zofran x1 with complete resolution of symptoms at time of 
+admission.  His neurologic exam was unremarkable and clinical 
+picture, corroborating history from family did not include any 
+urinary incontinence, tongue biting, or rhythmic limb motions, 
+and clinical picture on admission was not felt to be consistent 
+with postictal state.  He was monitored for 1 day without 
+abnormality on telemetry.  Leukocytosis resolved on repeat labs. 
+He ambulated without symptoms or signs of orthostatic 
+hypotension.   Given history of poor PO intake and emesis it was 
+felt he likely had presented with metabolic encephalopathy 
+secondary to dehydration from a viral gastroenteritis.  
+
+# Abnormal CT head finding - CT head performed for above reasons 
+incidentally showed 
+"Bilateral parenchymal calcifications without surrounding edema. 
+These could be sequela of prior infection such as 
+neurocysticercosis.  Alternatively, numerous cavernomas can have 
+this appearance".  His social history was notable for working in 
+pig farms ___ ago, raising concern for prior 
+neurocysticercosis.  Given he was felt to be asymptomatic from 
+these findings, arranged for close outpatient ID follow-up.  
+Sent cysticercus antibody, as well as quantiferon-gold, HIV, 
+toxoplasma antibody, to be followed-up and communicated if 
+positive.  
+
+Transitional Issues 
+- Patient discharged home
+- Head CT incidentally showed "Bilateral parenchymal 
+calcifications without surrounding edema. These could be sequela 
+of prior infection such as neurocysticercosis.  
+Alternatively, numerous cavernomas can have this appearance". 
+Given history of prior pig exposure, there was clinical concern 
+for prior neurocysticercosis infection.  Given absence of active 
+symptoms, arranged for outpatient ID follow-up (patient will be 
+called with appointment by ID). Cysticercosis antibody pending 
+at discharge, will be followed up and communicated if positive
+- Given episode of presyncope while driving, advised patient NOT 
+drive for the next 2 weeks and he verbalized understanding; 
+recommended discussion with PCP regarding clearance for driving; 
+
+ 
+Medications on Admission:
+None.
+ 
+Discharge Medications:
+None.
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Presyncope
+Acute metabolic encephalopathy
+Orthostatic hypotension secondary to dehydration
+Presumed viral gastroenteritis 
+Abnormal Head CT 
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital after feeling lightheaded and 
+generally weak with mild tremors while driving. In the emergency 
+department, you were noted to be somnolent and difficult to 
+arouse, which returned to normal on its own. You also had some 
+vomiting. 
+
+Vital signs and laboratory testing determined that you did not 
+have a heart attack, blood clot, active infection, or 
+toxin-related problem. Chest x-ray did not reveal any problems 
+with your lungs. EKG did not show any signs of heart disease. 
+
+CT-scan of the brain showed some calcifications without 
+swelling, which raised the possibility of "neurocysticercosis", 
+a type of parasite infection which is possible in the setting of 
+your distant history of working with pigs. However, we do not 
+believe you had any seizures and, as such, this is appropriate 
+for outpatient work up.
+
+You received some IV fluids and anti-nausea medications, and 
+your symptoms resolved completely, suggesting that your symptoms 
+were most likely due to dehydration.
+
+*** DO NOT DRIVE FOR AT LEAST 2 WEEKS FROM DATE OF DISCHARGE. IF 
+NO RECURRENT SYMPTOMS DURING THIS TIME, YOU CAN THEN REQUEST 
+CLEARANCE FROM YOUR PRIMARY CARE DOCTOR TO RETURN TO DRIVING ***
+
+We wish you the best in the future.
+- From your ___ Medicine team.
+
+ 
+Followup Instructions:
+___

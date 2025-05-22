@@ -1,0 +1,343 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea on exertion, PE, transfer
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with history of gout, HTN,
+Graves' disease s/p thyroidectomy, asthma, who presents with
+dyspnea. He states that ___ months ago he started having dyspnea
+worse on exertion, but it was not that bothersome to him. He 
+then
+went to ___ 3 weeks ago and while on a bike ride, he
+developed acute shortness of breath which caused him to fall. He
+also sustained a right wrist fracture. He has had progressive
+shortness of breath since that time. Upon arriving back from
+___, he saw his PCP who diagnosed him with pneumonia and
+treated him with 5 days of antibiotics, which he finished on the
+day of presentation. Upon awakening on the morning of
+presentation, he had acute worsening of his shortness of breath
+and thus presented to ___. There, he was found to have
+bilateral segmental PEs with with evidence of right heart strain
+on CTA. He had negative troponin and BNP at this time. He
+therefore was transferred to ___.
+
+Upon arrival to ___ ED, he was asymptomatic while lying in 
+bed.
+Vitals notable for hypertension to 185/98, improved to 160/98
+prior to transfer to the floor. Otherwise unremarkable with SpO2
+98% on room air and no tachycardia. Exam notable for flat neck
+veins, unremarkable pulmonary and cardiac exams. Bedside echo
+without dilated RV ___ sign. He was started on a 
+heparin
+gtt and admitted to medicine.
+
+Upon arrival to the floor, he endorses the story as above. He
+notes that he is up to date on all cancer screening: had a
+colonoscopy ___ year ago with 3 polyps removed that were all
+benign, had a prostate biopsy prior to travel to ___ this 
+year
+that was benign.
+ 
+Past Medical History:
+Asthma
+Hypertension
+Gout
+Graves' disease
+S/p thyroidectomy
+ 
+Social History:
+___
+Family History:
+-Brother 1: Graves' disease (required 2 doses of I-131)
+-Brother 2: bipolar disorder, medication-induced cirrhosis,
+deceased
+-Brother 3: T1DM (diagnosed at age ___
+-Father: colon cancer
+-Mother: stroke
+-M grandmother: T2DM
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: ___ Temp: 98.2 PO BP: 165/91 L Lying HR: 79 
+RR:
+18 O2 sat: 94% O2 delivery: RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: Sclera anicteric and without injection. MMM.
+NECK: No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+EXTREMITIES: R forearm with cast in place. No clubbing, 
+cyanosis,
+or edema.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. Moving all 4 limbs spontaneously.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: 24 HR Data (last updated ___ @ 1123)
+    Temp: 98.2 (Tm 99.0), BP: 131/80 (131-167/74-92), HR: 90
+(84-116), RR: 20 (___), O2 sat: 96% (92-97%), O2 delivery: Ra  
+
+
+GENERAL: Sitting up in bed, NAD
+PULM: Breathing comfortably. Crackles auscultated in R middle
+lung field.
+CARDIAC: RRR. Audible S1/S2.
+EXTREMITIES: R forearm in cast.
+NEURO: A&Ox3
+ 
+Pertinent Results:
+Initial Labs:
+___ 09:13PM   GLUCOSE-105* UREA N-17 CREAT-1.1 SODIUM-141 
+POTASSIUM-4.2 CHLORIDE-104 TOTAL CO2-25 ANION GAP-12
+___ 09:13PM   ALT(SGPT)-66* AST(SGOT)-27 ALK PHOS-107 TOT 
+BILI-0.4
+___ 09:13PM   cTropnT-<0.01
+___ 09:13PM   CALCIUM-8.7 PHOSPHATE-3.6 MAGNESIUM-2.1
+___ 09:13PM   WBC-8.7 RBC-4.28* HGB-13.2* HCT-38.5* MCV-90 
+MCH-30.8 MCHC-34.3 RDW-12.3 RDWSD-40.2
+___ 09:13PM   PLT COUNT-251
+___ 09:13PM   ___ PTT-79.5* ___
+
+Discharge Labs:
+___ 06:29AM BLOOD WBC-12.1* RBC-4.45* Hgb-13.5* Hct-40.0 
+MCV-90 MCH-30.3 MCHC-33.8 RDW-12.1 RDWSD-40.1 Plt ___
+___ 06:29AM BLOOD ___ PTT-40.4* ___
+___ 06:29AM BLOOD Glucose-109* UreaN-23* Creat-1.3* Na-143 
+K-4.6 Cl-104 HCO3-23 AnGap-16
+___ 06:29AM BLOOD Calcium-8.8 Phos-3.6 Mg-2.3
+
+================
+
+___   ___ 5:01 ___ 
+EMERG BILAT LOWER EXT VEINS
+Reason: eval for DVT  
+
+Final Report 
+EXAMINATION:  EMERG BILAT LOWER EXT VEINS 
+  
+INDICATION:  ___ year old man with PE// eval for DVT 
+  
+TECHNIQUE:  Grey scale, color, and spectral Doppler evaluation 
+was performed 
+on the bilateral lower extremity veins. 
+  
+COMPARISON:  None. 
+  
+FINDINGS:  
+There is nonocclusive thrombus of the right common femoral vein 
+and occlusive 
+thrombus of the proximal femoral vein.  The mid femoral vein 
+bifurcates, with 
+the deeper branch showing occlusive thrombus and the more 
+superficial branch 
+demonstrating compressibility.  The right popliteal vein and 
+peroneal veins 
+demonstrate normal color flow and compressibility.  The right 
+posterior tibial 
+veins are noncompressible. 
+There is normal compressibility, color flow, and spectral 
+doppler of the left 
+common femoral, femoral, and popliteal veins. Normal color flow 
+and 
+compressibility are demonstrated in the posterior tibial and 
+peroneal veins. 
+There is normal respiratory variation in the common femoral 
+veins bilaterally. 
+No evidence of medial popliteal fossa (___) cyst. 
+  
+IMPRESSION: 
+1. Nonocclusive thrombus of the right common femoral vein and 
+occlusive 
+thrombus of the right femoral vein and posterior tibial veins. 
+2. No evidence of deep venous thrombosis in the leftlower 
+extremity veins. 
+  
+BY ELECTRONICALLY SIGNING THIS REPORT, I THE ATTENDING PHYSICIAN 
+ATTEST THAT ___ HAVE REVIEWED THE ABOVE IMAGES FOR THE ABOVE 
+EXAMINATION(S) AND AGREE WITH THE FINDINGS AS DOCUMENTED ABOVE. 
+  
+___, MD 
+___, MD electronically signed on SAT ___ 6:19 
+___ 
+ 
+==============
+
+Transthoracic Echo Report, ___
+Cardiology Echo Attending: ___, MD
+Sonographer: ___, ___
+INDICATION(S): right heart strain, dyspnea, pulmonary embolus
+
+CONCLUSION:
+The left atrial volume index is normal. There is normal left 
+ventricular wall thickness with a normal
+cavity size. There is normal regional and global left 
+ventricular systolic function. Quantitative 3D
+volumetric left ventricular ejection fraction is 60 % (normal 
+54-73%). Left ventricular cardiac index
+is normal (>2.5 L/min/m2). There is no resting left ventricular 
+outflow tract gradient. Normal right
+ventricular cavity size with normal free wall motion. The aortic 
+sinus diameter is normal for gender with
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal with a normal
+descending aorta diameter. The aortic valve leaflets (?#) appear 
+structurally normal. There is no aortic
+valve stenosis. There is no aortic regurgitation. The mitral 
+valve leaflets appear structurally normal with
+no mitral valve prolapse. There is trivial mitral regurgitation. 
+The pulmonic valve leaflets are normal.
+The tricuspid valve leaflets appear structurally normal. There 
+is physiologic tricuspid regurgitation. The
+pulmonary artery systolic pressure could not be estimated. The 
+end-diastolic PR velocity is elevated
+suggesting pulmonary artery diastolic hypertension. There is no 
+pericardial effusion.
+
+IMPRESSION: Suboptimal image quality. Normal biventricular 
+cavity sizes and regional/global biventricular systolic 
+function. No valvular pathology or pathologic flow identified. 
+Indeterminate pulmonary artery systolic pressure. Increased 
+pulmonary artery diastolic pressure.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with history of gout, HTN, 
+Graves' disease s/p thyroidectomy, asthma, who presents with 
+dyspnea. He states that ___ months ago he started having dyspnea 
+worse on exertion, but it was not that bothersome to him. He 
+then went to ___ 3 weeks ago and while on a bike ride, he 
+developed acute shortness of breath which caused him to fall. He 
+also sustained a right wrist fracture. He has had progressive 
+shortness of breath since that time. Upon awakening on the 
+morning of presentation on ___, he had acute worsening of his 
+shortness of breath and thus presented to ___. There, he 
+was found to have bilateral segmental PEs on CTA. He was 
+transferred to ___ for further evaluation and treatment. 
+
+#Acute bilateral segmental PE
+#Right lower extremity DVT
+Patient with recent travel to ___ with fall and fractured 
+bone during the trip, presented with worsening shortness of 
+breath. CTA at ___ showed bilateral segmental pulmonary 
+embolism with beside echocardiography not suggest of right heart 
+strain and biomarkers within normal limits. After transfer to 
+___, patient was started on heparin gtt and was transitioned 
+to Apixaban on ___. Lower extremity U/S revealed right lower 
+extremity DVT. TTE did not reveal right heart strain and showed 
+normal systolic function. He improved with anticoagulation and 
+was able to ambulate without desaturating below 92% on room air 
+prior to discharge.
+
+CHRONIC ISSUES
+#Asthma
+Patient was on Fluticasone 110 mcg 1 puff BID in place of home 
+budesonide as this is non formulary.
+
+#Hypothyroidism 
+TSH was checked in hospital and was normal at 1.2. We continued 
+home levothyroxine. 
+
+#Hypertension
+We continued home amlodipine and monitored his BP.
+
+#Gout
+We continued home allopurinol. 
+
+TRANSITIONAL ISSUES:
+-Continue Apixaban for ___ months. Follow respiratory status. 
+Thought to be a provoked DVT in the setting of prolonged 
+immobility with travel and fracture. Can discuss lifelong given 
+his ongoing risk factors.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Allopurinol ___ mg PO DAILY 
+2. amLODIPine 2.5 mg PO DAILY 
+3. Multivitamins 1 TAB PO DAILY 
+4. Levothyroxine Sodium 125 mcg PO 6X/WEEK (___) 
+5. budesonide 180 mcg/actuation inhalation BID 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID Duration: 7 Days  
+2.  Apixaban 5 mg PO BID: Start after completing 7 days of 10 mg 
+Apixaban BID  
+3.  Allopurinol ___ mg PO DAILY  
+4.  amLODIPine 2.5 mg PO DAILY  
+5.  budesonide 180 mcg/actuation inhalation BID  
+6.  Levothyroxine Sodium 125 mcg PO 6X/WEEK (___)  
+
+7.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+Acute bilateral segmental pulmonary embolism
+Deep Vein Thrombosis of right leg
+
+Secondary Diagnosis:
+Asthma
+Hypertension
+Gout
+Hypothyroidism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were transferred to ___ for worsening shortness of 
+breath. You were found to have clots in multiple arteries (known 
+as a pulmonary embolism) in both lungs. You were also found to 
+have multiple clots (known as a deep vein thrombosis) in the 
+veins of your right leg. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- During your hospital stay, you had an ultrasound scan of your 
+legs to check for clots. You had an ultrasound scan of your 
+heart. You were treated for your lung and leg clots with heparin 
+and was switched to apixaban. Your shortness of breath was 
+closely monitored and treated.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+-Please continue to take all of your medications and follow-up 
+with your appointments as listed below.
+-Please continue activity as tolerated. 
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

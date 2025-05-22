@@ -1,0 +1,194 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+rollover MVC; grade 1 splenic lac, bilat ___ ribs subacute fx, 
+L3 compression fx
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+This patient is a ___ year old female who is transferred from
+outside hospital for head injury, low sodium, elevated
+troponin. She has a history of a seizure disorder, prior
+stroke with residual left-sided weakness. She was going to
+see her doctor today for routine ___, was leaving her
+parking space and accidentally pressed on the accelerator
+instead of the brake and went up an embankment and flipped
+her car over. She needed to be extricated. She had left
+eyebrow laceration that required sutures. At outside
+hospital, sodium was 121 and troponin was 0.06 so
+transferred here for further evaluation. She denies chest
+pain or trouble breathing. She states that her sodium has
+been low in the past but never this low. She remembers the
+details of the event and denies any loss of consciousness.
+She had a CT head and C-spine which showed an old stroke but
+no acute ICH or fracture. She also had a normal chest x-ray
+and pelvis x-ray.
+
+ 
+Past Medical History:
+PMH:
+HTN
+HyperC
+Stroke at age ___
+
+ 
+Social History:
+___
+Family History:
+N/C
+ 
+Physical Exam:
+Gen: NAD, AxOx3
+HEENT: Left periorbital mild swelling, sutured 4cm laceration 
+supraorbital in browline 
+Card: RRR, no m/r/g
+Pulm: CTAB, no respiratory distress
+Abd: Soft, non-tender, non-distended, normal bs.  
+Wounds: c/d/i
+Ext: No edema, warm well-perfused
+
+ 
+Pertinent Results:
+___ 08:10PM   cTropnT-0.14*
+___ 08:10PM   WBC-5.7 RBC-3.77* HGB-11.9 HCT-33.5* MCV-89 
+MCH-31.6 MCHC-35.5 RDW-12.8 RDWSD-41.5
+___ 08:10PM   PLT COUNT-234
+___ 05:42PM URINE  HOURS-RANDOM SODIUM-42
+___ 05:42PM URINE  OSMOLAL-214
+___ 05:42PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 05:42PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 05:42PM URINE  RBC-<1 WBC-<1 BACTERIA-NONE YEAST-NONE 
+EPI-<1
+___ 05:42PM URINE  MUCOUS-RARE*
+___ 04:46PM   COMMENTS-GREEN TOP
+___ 04:46PM   GLUCOSE-107* CREAT-0.4 NA+-124* K+-4.3 
+TCO2-24
+___ 04:46PM   estGFR-Using this
+___ 04:34PM   UREA N-7
+___ 04:34PM   cTropnT-0.14*
+___ 04:34PM   CALCIUM-9.3 PHOSPHATE-3.4 MAGNESIUM-1.7
+___ 04:34PM   OSMOLAL-250*
+___ 04:34PM   WBC-6.5 RBC-3.99 HGB-12.5 HCT-35.1 MCV-88 
+MCH-31.3 MCHC-35.6 RDW-12.7 RDWSD-41.3
+___ 04:34PM   NEUTS-78.8* LYMPHS-10.9* MONOS-9.3 EOS-0.2* 
+BASOS-0.5 IM ___ AbsNeut-5.16 AbsLymp-0.71* AbsMono-0.61 
+AbsEos-0.01* AbsBaso-0.03
+___ 04:34PM   PLT COUNT-245
+___ 04:34PM   ___ PTT-29.2 ___
+ 
+Brief Hospital Course:
+ The patient presented on ___ after a fall in which she 
+sustained a grade 1 splenic laceration, bilateral rib fractures 
+___ and a non-operative L3 compression fracture. All injuries 
+were managed non-operatively. The L3 fracture was managed with 
+the use of a TLSO brace. General Surgery service watched her H/H 
+for her grade 1 splenic laceration. 
+
+ #SURGICAL COURSE: 
+ #NEURO: The patient was alert and oriented throughout 
+hospitalization; pain was controlled on oral pain medication. 
+Pain was very well controlled.  
+ #CV: The patient's initial inciting event was syncope. 
+Cardiology and EP cardiology both were consulted and recommended 
+medical management of the patients gustatory sweating after 
+meals and syncope.   
+ #PULMONARY: The patient remained stable from a pulmonary 
+standpoint; vital signs were routinely monitored. Good pulmonary 
+toilet, early ambulation and incentive spirometry were 
+encouraged throughout hospitalization.  
+ #GI/GU/FEN: The patient was voiding normally. The patient was 
+tolerating a regular diet prior to discharge.  
+ #ID: The patient's fever curves were closely watched for signs 
+of infection, of which there were none.  
+ #HEME: Patient received BID SQH for DVT prophylaxis, in 
+addition to encouraging early ambulation and Venodyne 
+compression devices.  
+
+ #TRANSITIONAL ISSUES  
+ --------------------  
+ At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The patient was tolerating diet as 
+above per oral, ambulating, voiding without assistance, and pain 
+was well controlled. She deferred wearing her TLSO brace for 
+comfort as it was not comfortable. The patient was discharged 
+home without services. The patient received discharge teaching 
+and ___ instructions with understanding verbalized and 
+agreement with the discharge plan.  
+
+ 
+Medications on Admission:
+Meds:
+Carbamazapine 500 TID 
+Lisinopril 20mg HS
+Tegretol XR 400mg TID
+simvastatin 20mg QPM
+Doxycycline 100 
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Docusate Sodium 100 mg PO BID  
+3.  Glycopyrrolate 1 mg PO BID 
+RX *glycopyrrolate 1 mg 1 (One) tablet(s) by mouth twice a day 
+Disp #*30 Tablet Refills:*2 
+4.  Ibuprofen 400 mg PO Q8H:PRN Headache  
+5.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - First 
+Line  
+6.  Senna 8.6 mg PO BID:PRN Constipation - First Line  
+7.  Simvastatin 20 mg PO QPM  
+8.  CarBAMazepine 400 mg PO TID  
+9.  FoLIC Acid 1 mg PO DAILY  
+10.  LevETIRAcetam 500 mg PO TID  
+11.  Lisinopril 20 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+grade 1 splenic laceration
+
+bilateral rib fractures ___
+
+L3 compression fracture
+
+Secondary:
+
+Hyponatremia
+
+elevated troponins
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted to the hospital after you were involved in a 
+motor vehicle crash. You sustained a laceration to your spleen, 
+rib fractures, and a fracture to your lower back. You were also 
+noted to have elevated cardiac markers and the Cardiology 
+service was consulted.  You were evaluated by the Orthopedic 
+Spine service who recommended a back brace for comfort.  You rib 
+pain was controlled with oral analgesia.  No surgery was 
+indicated for the splenic laceration. You were seen by physical 
+therapy and cleared for discharge home with the following 
+instructions.  
+ 
+Followup Instructions:
+___

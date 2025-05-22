@@ -1,0 +1,447 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Left-sided weakness and facial droop
+ 
+Major Surgical or Invasive Procedure:
+- Endovascular thrombectomy (___)
+
+ 
+History of Present Illness:
+Neurology at bedside for evaluation after emergent stroke 
+consult
+activation within: <10> minutes
+
+Time/Date the patient was last known well: ___ 2300 ___
+
+Pre-stroke mRS ___ social history for description): 0
+
+t-PA Administration 
+ [] Yes - Time given: 
+ [X] No - Reason t-PA was not given/considered: Outside of time
+window
+
+Endovascular intervention: [X]Yes []No
+
+I was present during the CT scanning and reviewed the images
+within 20 minutes of their completion.
+
+___ Stroke Scale - Total [10] 
+
+ 1a. Level of Consciousness - 0
+ 1b. LOC Questions - 0
+ 1c. LOC Commands - 0
+ 2. Best Gaze - 0
+ 3. Visual Fields - 1
+ 4. Facial Palsy - 2
+ 5a. Motor arm, left - 4
+ 5b. Motor arm, right - 0
+ 6a. Motor leg, left - 1
+ 6b. Motor leg, right - 0
+ 7. Limb Ataxia - 0
+ 8. Sensory - 1
+ 9. Language - 0
+ 10. Dysarthria - 0
+ 11. Extinction and Neglect - 1
+
+***
+HPI: 
+Mr. ___ is a ___ yo man with HTN and hypothyroidism who 
+presents
+to ED for evaluation of left sided weakness and facial droop. He
+was transferred from OSH ___.
+
+Patient was last known well at 11 ___ when he went to bed. At 
+4:30
+AM, he woke up feeling "off balance", ataxic and fell out of 
+bed.
+He was able to walk to bathroom, but partner noted some
+difficulty.  He went back to sleep and at 0545, he did not get 
+up
+at his usual time so his family checked on him at 6AM when he 
+was
+found to have L sided weakness (arm and leg) as well as a facial
+droop. He was then taked to OSH ___ for evaluation. He was
+noted to have L arm ___ on motor exam) and leg weakness ___ on
+motor exam), a mild left facial droop. Weakness was worse in arm
+than leg. He was given a ___ stroke scale of 9. His BP was 
+166/68
+with HR of 76. EKG showed NSR. ___: 12.6 INR: 1.1 He received a
+___ CT that showed subtle hypodenisty of the right ___ of the
+caudate suggestive of early acute right MCA infarction. He was
+then transferred to ___ for further evaluation. 
+
+Per EMS, on his way to ___, he has loss of sensation in his L
+arm. In the ___ ED, he denied headache. He had CTA and CT
+perfusion per Defuse 3 Research Protocol which showed 
+hypodensities in
+right MCA distribution and Rt ICA vessel cut off for which he 
+was
+taken to IA therapy. 
+
+He has been taking ASA 81 for primary prevention since he was ___
+yo. He had been off of his usual aspirin for ~5 days to prepare
+for a dental procedure. He has no history of stroke. No hx of
+neck injury or recent trauma.
+ 
+Past Medical History:
+Hypertension
+Hypothyroidism
+ 
+Social History:
+___
+___ History:
+Unknown
+ 
+Physical Exam:
+==============
+ADMISSION EXAM
+==============
+Vitals: BP: 165/74 HR: 82 RR: 20 99% RA
+General: NAD  
+HEENT: NCAT, no oropharyngeal lesions, 
+Pulmonary: no work of breathing
+Extremities: Warm, no edema  
+
+Neurologic Examination:  
+___ stroke scale: as above
+
+MS: Awake, alert, oriented x 3. Able to relate history without
+difficulty.  Speech is fluent with full sentences, and intact
+verbal comprehension. Naming intact. No paraphasias. No
+dysarthria. Normal prosody. No apraxia. Able to follow both
+midline and appendicular commands. 
+ 
+Cranial Nerves - PERRL 3->2 ___. He has a left superior
+quadrantanopia. EOMI, no nystagmus. V1-V3 without deficits to
+light touch bilaterally. Left facial droop (mostly asymmetric
+smile). Tongue deviates slightly to left.  
+
+Motor - Unable to move left arm at all. Left leg can be held up
+for 10 seconds but with significant drift. 
+
+Sensory - Intact sensation bilaterally to light touch. +
+extinction to DSS on the left upper and lower extremities
+
+DTRs:  ___, especially arms, L>R
+Plantar response flexor bilaterally.  
+
+Coordination - No dysmetria with finger to nose testing
+bilaterally (tested only on Rt) 
+
+Gait - Deferred.
+
+==============
+DISCHARGE EXAM
+==============
+Tmax: 99
+Tcurrent: 98.2
+HR: ___
+BP: 123-139/70-78mmHg
+RR: 16- 18insp/min
+SpO2: 96-98% 
+Heart rhythm: SR (Sinus Rhythm)
+
+-GEN: Awake in bed, NAD
+-HEENT: NC/AT
+-NECK: Supple
+-CV: RRR, no m/r/g
+-PULM: CTA anteriorly. 
+-ABD: Soft, NT/ND. Bowel sounds present. 
+-EXT: Warm, well-perfused. No clubbing, cyanosis, or edema. 
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Able to relate 
+history without difficulty. Attentive, able to name ___ backward 
+without difficulty. Speech is fluent with full sentences, intact 
+repetition, and intact verbal comprehension. Naming intact.  No 
+paraphasias.  No dysarthria. Normal prosody. Able to register 3 
+objects and recall ___ at 5 minutes. No apraxia. No evidence of 
+hemineglect. No left-right confusion.  Able to follow both 
+midline and appendicular commands.
+
+- Cranial Nerves: PERRL 2.5->2. VF full to number counting. 
+EOMI, no nystagmus. Slight ptosis on right. V1-V3 without 
+deficits to light touch bilaterally. Left lower facial droop. 
+Hearing intact to finger rub bilaterally.  Palate elevation 
+symmetric. SCM/Trapezius strength ___ bilaterally. Tongue 
+midline.
+
+- Motor: Subtle drift asterexis of LUE.
+  Delt Bic Tri ECR IO IP Quad Ham TA Gas ___
+L 5    ___   ___    ___   5    5
+R 5    ___   ___    ___   5    4-  
+
+- Reflexes: 
+   [Bic] [Tri] [___] [Quad] [Gastroc]
+ L  2+    2+     2+      2+       0
+ R  2+    2+     2+      2+       2+ 
+Plantar response extensor on left. 
+
+- Sensory: Extinction to DSS on LUE/LLE. Intact to LT and PP in 
+all four extremities. 
+
+- Coordination: No dysmetria with finger to nose testing 
+bilaterally. Good speed and intact cadence with rapid 
+alternating movements.
+
+- Gait: Normal initiation. Narrow base. Normal stride length and 
+arm swing. Stable without sway. Negative Romberg.
+
+ 
+Pertinent Results:
+====
+LABS
+====
+___ 08:30AM BLOOD WBC-9.5 RBC-4.45* Hgb-14.5 Hct-42.5 
+MCV-96 MCH-32.6* MCHC-34.1 RDW-13.7 RDWSD-48.6* Plt ___
+___ 06:50AM BLOOD WBC-8.6 RBC-3.51* Hgb-11.3*# Hct-34.1* 
+MCV-97 MCH-32.2* MCHC-33.1 RDW-14.4 RDWSD-51.3* Plt ___
+___ 07:10AM BLOOD WBC-9.1 RBC-3.50* Hgb-11.3* Hct-33.6* 
+MCV-96 MCH-32.3* MCHC-33.6 RDW-13.8 RDWSD-48.7* Plt ___
+___ 08:30AM BLOOD ___ PTT-31.2 ___
+___ 08:30AM BLOOD UreaN-21*
+___ 08:30AM BLOOD Creat-1.1
+___ 06:50AM BLOOD Glucose-105* UreaN-13 Creat-0.9 Na-138 
+K-3.5 Cl-103 HCO3-23 AnGap-16
+___ 07:10AM BLOOD Glucose-107* UreaN-10 Creat-0.9 Na-138 
+K-3.5 Cl-103 HCO3-22 AnGap-17
+___ 06:50AM BLOOD Calcium-8.3* Phos-2.9 Mg-2.1
+___ 07:10AM BLOOD Calcium-8.4 Phos-2.4* Mg-2.0 Cholest-185
+___ 07:10AM BLOOD %HbA1c-5.4 eAG-108
+___ 07:10AM BLOOD Triglyc-116 HDL-61 CHOL/HD-3.0 
+LDLcalc-101
+
+=======
+IMAGING
+=======
+- ___ CTA ___ & Neck (8:44AM)
+1. Edema in the right MCA territory noted on noncontrast ___ CT 
+concerning for an acute infarct. 
+2. Greater than 90% stenosis of the right internal carotid 
+artery at the carotid bifurcation with decreased distal flow and 
+the cervical internal carotid arteries 
+3. Abrupt drop-off of the right M1 and nonvisualization of the 
+right M2 segments with collateral vessel seen in the right M3 
+and M4 regions could be due to intrinsic thrombus in the M1 
+segment. 
+
+- ___ Neuro Intervention
+1. Tandem occlusion of the internal carotid artery at the 
+carotid bifurcation and the carotid terminus. 
+2. Successful placement of right carotid stent 
+3. Successful mechanical thrombectomy with stent retrieval 
+device and suction aspiration catheter. TICI 2B recanalization. 
+
+- ___ CT ___ WO Contrast (5:21PM)
+1. There is acute infarct in the right insula, also seen earlier 
+today.  There is zone of mild hyperdensity in the right putamen, 
+caudate ___, most consistent with contrast staining given 
+clinical circumstance, and likely represents evolving infarct or 
+tissue at risk for infarct.  Some of this hyperdense zone 
+demonstrated low-attenuation areas of acute infarct on ___ CT 
+of earlier today.  Hemorrhage is unlikely.  Close clinical and 
+imaging follow-up recommended.  Possible additional tiny zone of 
+contrast staining in the cortex of right middle frontal gyrus. 
+
+- ___ MRI/MRA/MR-Perfusion ___ & Neck WWO Contrast
+1. Acute right basal ganglia infarct involving the insular 
+cortex with punctate areas of acute infarct in the right frontal 
+convexity region. 
+2. Small area hemorrhage within the right putamen. 
+3. Unsuccessful dynamic susceptibility perfusion imaging 
+secondary to 
+technical reasons. 
+4. No significant abnormalities on MRA of the ___. 
+5. Neck MRA shows flow proximal and distal to the site of the 
+stent with decreased flow signal intrinsically within the stent. 
+ It is unclear whether this is secondary to intra stent stenosis 
+or artifacts. 
+
+- ___ MR ___ W Contrast
+1. Decreased blood flow, blood volume with increased mean 
+transit time centered in the right putamen and posterior right 
+insula compatible with regions of known infarct. 
+2. T-max demonstrates hypoperfusion along the right frontal, 
+parietal and temporal lobe with dominant region centered at the 
+angular and supra marginal gyrus. 
+
+- ___ TTE
+The left atrium is normal in size. No atrial septal defect or 
+patent foramen ovale is seen by 2D, color Doppler or saline 
+contrast with maneuvers. Left ventricular wall thicknesses are 
+normal. The left ventricular cavity size is normal. Due to 
+suboptimal technical quality, a focal wall motion abnormality 
+cannot be fully excluded. Overall left ventricular systolic 
+function is normal (LVEF = 65%). Right ventricular chamber size 
+and free wall motion are normal. The diameters of aorta at the 
+sinus, ascending and arch levels are normal. The aortic valve 
+leaflets (3) are mildly thickened but aortic stenosis is not 
+present. No aortic regurgitation is seen. The mitral valve 
+leaflets are mildly thickened. Trivial mitral regurgitation is 
+seen. The estimated pulmonary artery systolic pressure is 
+normal. There is no pericardial effusion.  
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year-old man hypertension and hypothyroidism 
+who presented with left-sided face/arm/leg weakness and was 
+found to have an right carotid occlusion and M1 cutoff. He was 
+outside of the tPA window and underwent thrombectomy under the 
+DEFUSE-3 trial protocol. His symptoms resolved to near baseline 
+following the procedure. Only immediate residua are mild left 
+arm drift, extinction to double simultaneous stimulation on the 
+left, and left extensor plantar reflex. Etiology is 
+cardioembolic vs atheroembolic vs paradoxical-embolic. Home 
+pending TTE. 
+
+Mr. ___ is a ___ year-old man with hypertension and 
+hypothyroidism who presented with left-sided face/arm/leg 
+weakness, left superior quadrantanopia, and sensory extinction. 
+He was found to have a right internal carotid occlusion at the 
+bifurication and at the terminus. He was outside of the tPA 
+window and was enrolled in the DEFUSE-3 trial. He underwent 
+mechanical thrombectomy 10.5 hours after he was last known well. 
+A stent was placed in the proximal right carotid and clot was 
+retrieved from the carotid terminus with successful TICI IIb 
+re-perfusion. By the subsequent day almost all of his symptoms 
+had resolved - the only residua being mild left lower facial 
+weakness, and intermittent extinction to simultaneous 
+stimulation on the left side. His ultimate areas of stroke on 
+MRI included the right basal ganglia involving the insula and 
+right frontal convexity.  His stroke risk factors were assessed 
+and minimal -- A1c was 5.6%, LDL 101. TTE did not reveal any 
+embolic source. The most likely mechanism of the right MCA 
+occlusion was artery-to-artery from the right ICA, possibly made 
+more likely by his recent 5-day discontinuation of his home 
+aspirin for an upcoming dental procedure. 
+- CONTINUE Plavix for the next 3 months, for the stability of 
+the ICA stent. 
+- CONTINUE aspirin 325mg DAILY indefinitely. 
+- CONTINUE atorvastatin 40mg DAILY indefinitely. 
+- Follow-up with stroke neurology (Dr. ___ in 4 
+weeks and 3 months.
+
+=====================================
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed  () No
+2. DVT Prophylaxis administered? (x) Yes - () No
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No
+4. LDL documented? (x) Yes (LDL = 101) - () No
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 100) (x) Yes - () No [if 
+LDL >100, reason not given: ]
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >100, 
+reason not given: ]
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - (x) N/A
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Levothyroxine Sodium 50 mcg PO DAILY 
+3. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth QPM Disp #*30 Tablet 
+Refills:*3 
+2.  Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth DAILY Disp #*30 
+Tablet Refills:*2 
+3.  Aspirin 325 mg PO DAILY 
+RX *aspirin 325 mg 1 tablet(s) by mouth DAILY Disp #*30 Tablet 
+Refills:*3 
+4.  Hydrochlorothiazide 25 mg PO DAILY  
+5.  Levothyroxine Sodium 50 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute Ischemic Stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were hospitalized due to symptoms of left-sided weakness 
+resulting from an ACUTE ISCHEMIC STROKE, a condition where a 
+blood vessel providing oxygen and nutrients to the brain is 
+blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms. Fortunately, we were able to remove 
+the clot which reversed most of your symptoms and before more 
+permanent damage occurred. 
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+- High cholesterol
+- High blood pressure
+
+We are changing your medications as follows:
+- STOP aspirin 81mg. 
+- START aspirin 325mg DAILY. Take this indefinitely. 
+- START Plavix (clopidogrel) 75mg DAILY for the next 3 months. 
+- START Lipitor (atorvastatin) 40mg DAILY. Take this 
+indefinitely. 
+
+Please take your other medications as prescribed.
+
+Please followup with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

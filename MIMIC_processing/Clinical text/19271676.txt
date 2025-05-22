@@ -1,0 +1,173 @@
+Name:  ___.             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+colchicine / tamsulosin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers, Altered Mental Status
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+___ h/o CAD, HTN, HLD, and afib on Apixiban was brought in with 
+altered mental status. History obtained from both the patient 
+and his son, who was at the bedside. Per report, the patient was 
+in his USOH until last night, when he awoke confused. Per the 
+patient's son, he was oriented to place at the time (although ED 
+notes suggest that he was not). He was agitated and was trying 
+to leave his house. There may have also been a complaint of 
+dizziness, per ED notes. The patient was also noted to have low 
+grade fevers at that time. His family brought him to the ED for 
+evaluation. 
+
+On arrival to the floor, the patient denies any acute 
+complaints. He is not happy about being admitted to the 
+hospital. Per his son, his mental status has returned to 
+baseline. He denies any recent cough, NVD, or urinary symptoms.
+
+ROS: As above otherwise 10point ROS negative 
+ 
+Past Medical History:
+CAD, HLD, HTN, A fib
+ATYPICAL NEVI
+ 
+Social History:
+___
+Family History:
+Father with DM. Brother with colon CA. 
+ 
+Physical Exam:
+-Vitals: reviewed, tmax ___, HR 63-84, BP 147/87-172/115, SpO2 
+93-96%  
+-GEN: Alert, NAD
+-HEENT: moist mucus membranes, PERRL, EOMi, ataumatic, 
+normocephalic 
+-CV: irregularly irregular. No murmur
+-RESP: clear b/l, no wheeze, no rales 
+-GI: soft, nontender, nondistended, bowel sounds present 
+-MSK: No pedal edema or calf tenderness
+-SKIN: No apparent rashes, no jaundice 
+-NEURO: mild cognitive impairment (son notes currently at 
+baseline), EOMI, PERRL
+droop on the L (son notes baseline)
+-PSYCH: appropriate mood and affect 
+ 
+Pertinent Results:
+LABS
+___ 06:02AM BLOOD WBC-7.3 RBC-5.04 Hgb-15.8 Hct-47.7 MCV-95 
+MCH-31.3 MCHC-33.1 RDW-13.9 RDWSD-48.0* Plt ___
+___ 06:02AM BLOOD Neuts-61.3 ___ Monos-8.4 Eos-3.3 
+Baso-0.4 Im ___ AbsNeut-4.48 AbsLymp-1.91 AbsMono-0.61 
+AbsEos-0.24 AbsBaso-0.03
+___ 06:02AM BLOOD ___ PTT-28.7 ___
+___ 06:02AM BLOOD Glucose-96 UreaN-25* Creat-1.0 Na-143 
+K-5.0 Cl-105 HCO3-24 AnGap-14
+___ 06:02AM BLOOD ALT-30 AST-41* AlkPhos-358* TotBili-0.9
+___ 06:02AM BLOOD Lipase-26
+___ 06:02AM BLOOD cTropnT-<0.01
+___ 06:02AM BLOOD Albumin-4.5 Calcium-9.7 Phos-3.1 Mg-2.2
+___ 06:05AM BLOOD Lactate-1.0
+
+IMAGING
+-CT HEAD ___:  No acute intracranial abnormality. Suggestion 
+of 2.1 cm sebaceous cyst right neck, clinically correlate. 
+-CXR ___: Right lower lobe opacity could reflect 
+atelectasis, although infection cannot  be excluded.  Moderate 
+cardiomegaly. 
+
+ 
+Brief Hospital Course:
+___ h/o CAD, HTN, HLD, and A fib on Apixiban presented with 
+altered mental status found to have pneumonia. 
+
+Community acquired pneumonia
+-CXR concerning for possible right lower lobe pneumonia with 
+fever at home started on ceftriaxone and azithromycin with 
+resolution of acute encephalopathy.  He was transitioned to 
+augmentin + azithromycin at discharge to complete 5 day course.  
+Influenza negative.
+
+Acute encephalopathy h/o mild cognitive impairment 
+-CT head without acute process. Clinically patient does not 
+offer any other localizing or acute symptoms and labs do not 
+reflect metabolic or infection abnormalities. CXR with possible 
+pneumonia was the only noticeable abnormality and he was started 
+on antibiotics with resolution of encephalopathy.  Neurology saw 
+patient who agrees that presentation is likely acute delirium in 
+setting of suspected dementia.  Consider outpatient follow up 
+with ___ clinic. 
+
+CHRONIC MEDICAL PROBLEM
+1. A fib: continue atenolol and apixaban
+2. HTN: continue quinapril, atenolol, amlodipine
+3. HLD, CAD: continue atorvastatin and PRN nitroglycerin. 
+Patient is not on aspirin.  
+
+>30 minutes spent on discharge planning 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Quinapril 20 mg PO DAILY 
+2. Atenolol 25 mg PO DAILY 
+3. amLODIPine 10 mg PO DAILY 
+4. Apixaban 5 mg PO BID 
+5. Atorvastatin 60 mg PO QPM 
+6. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN CP 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 3 Days 
+___ 
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tab by mouth 
+twice a day Disp #*6 Tablet Refills:*0 
+2.  Azithromycin 250 mg PO DAILY Duration: 3 Doses 
+take through ___ 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0 
+3.  amLODIPine 10 mg PO DAILY  
+4.  Apixaban 5 mg PO BID  
+5.  Atenolol 25 mg PO DAILY  
+6.  Atorvastatin 60 mg PO QPM  
+7.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN CP  
+8.  Quinapril 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Community acquired bacterial pneumonia
+Acute encephalopathy h/o mild cognitive impairment 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted with confusion found to have pneumonia. You 
+were treated with antibiotics with improvement.  You will 
+continue oral antibiotics at discharge and follow up with your 
+PCP.
+
+It was a pleasure taking care of you.
+-Your ___ team 
+ 
+Followup Instructions:
+___

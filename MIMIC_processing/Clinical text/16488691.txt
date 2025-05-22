@@ -1,0 +1,194 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+none
+
+attach
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 11:19PM BLOOD WBC-16.4* RBC-4.43 Hgb-13.4 Hct-41.1 
+MCV-93 MCH-30.2 MCHC-32.6 RDW-18.8* RDWSD-62.4* Plt ___
+___ 11:19PM BLOOD Neuts-88.3* Lymphs-3.9* Monos-6.5 
+Eos-0.0* Baso-0.4 Im ___ AbsNeut-14.45* AbsLymp-0.63* 
+AbsMono-1.06* AbsEos-0.00* AbsBaso-0.06
+___ 11:42PM BLOOD ___ PTT-36.6* ___
+___ 11:19PM BLOOD Glucose-106* UreaN-18 Creat-0.7 Na-129* 
+K-4.2 Cl-94* HCO3-20* AnGap-15
+___ 11:19PM BLOOD ALT-17 AST-58* AlkPhos-44 TotBili-2.2* 
+DirBili-0.2 IndBili-2.0
+___ 12:05PM BLOOD Calcium-8.8 Phos-2.6* Mg-2.0
+___ 11:19PM BLOOD Albumin-3.8
+___ 11:43PM BLOOD Lactate-1.5
+
+Imaging:
+========
+CT Chest
+1. Bilateral lower lobe consolidations consistent with 
+multifocal
+pneumonia.
+2. No evidence of pulmonary embolism or aortic abnormality.
+3. Thoracic spine ankylosis.
+Non urgent CT of the chest in three-month is recommended to
+follow-up resolution of airspace opacities.
+
+CXR 
+Bilateral lower lobe opacities consistent with multifocal
+pneumonia.
+
+Discharge Labs:
+===============
+___ 07:27AM BLOOD WBC-6.9 RBC-3.91 Hgb-11.6 Hct-36.5 MCV-93 
+MCH-29.7 MCHC-31.8* RDW-18.0* RDWSD-61.6* Plt ___
+___ 07:27AM BLOOD Glucose-78 UreaN-16 Creat-0.6 Na-142 
+K-3.8 Cl-105 HCO3-24 AnGap-13
+___ 07:27AM BLOOD ALT-27 AST-19 AlkPhos-52 TotBili-0.4
+___ 07:27AM BLOOD Calcium-9.1 Phos-3.1 Mg-1.8
+
+Discharge Physical Exam:
+========================
+VITALS: see Eflowsheets  
+GENERAL: Alert and in no apparent distress, frequent coughing
+fits
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+Mucous membranes dry
+CV: Heart regular, no murmur
+RESP: Lungs diminished at bilateral bases, no rhonchi or rales 
+or
+wheezes
+GI: Abdomen soft, non-distended, non-tender to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+ 
+Brief Hospital Course:
+___ with history of pericarditis diagnosed in ___ on 
+prednisone/colchicine, psoriatic arthritis on methotrexate, who 
+presented with sepsis secondary to pneumonia.
+
+ACUTE/ACTIVE PROBLEMS:
+# Community Acquired Pneumonia
+# Sepsis: Patient presented with fever, leukocytosis, 
+tachycardia, ongoing productive cough with CXR and CT evidence 
+of multifocal pneumonia. Patient has relative immunosuppression 
+on methotrexate and prednisone taper.
+She was started on CTX and doxycycline for community acquired 
+pneumonia with rapid improvement. Urine Legionella antigen was 
+negative. Sputum gram stain was positive for GNRs, with culture 
+pending at time of discharge.
+Given her immunosuppression, she was discharged on levofloxacin 
+500mg daily to complete a 7 day course (day 7 = ___. QTc was 
+429 on day of discharge (read as prolonged on initial EKGs but 
+this was in the setting of a rate related RBBB - likely 
+overestimated given QRS prolongation).
+At time of discharge she had been afebrile for nearly 72 hours 
+and was breathing well on room air.
+
+# Pericarditis: Recently diagnosed. The most likely etiology is 
+drug-induced lupus (pericaditis, pleuritis induced by 
+infliximab), ISO POSITIVE,
+high titer ___, anti-dsDNA, anti-histone.
+Recent cardiac MR was obtained and showed early and late 
+gadolinium enhancement in the pericardium consistent with 
+pericarditis, but no evidence of constriction.
+She underwent TTE this admission which showed no effusion.
+Continued colchicine and prednisone. Held furosemide in the 
+setting of infection but resumed at discharge.
+Decreased prednisone to 10mg at discharge per discussion with 
+patient's outpatient rheumatologist.
+
+CHRONIC/STABLE PROBLEMS:
+# Psoriatric arthritis: decreased prednisone as above to 10mg 
+daily at discharge. She will resume weekly methotrexate and 
+folic acid
+
+> 30 minutes spent on discharge coordination and planning
+
+Transitional Issues:
+====================
+- discharged on levofloxacin with plans for a 7 day course (day 
+___ = ___
+- prednisone decreased to 10mg daily, patient will follow up 
+with her rheumatologist as an outpatient
+- sputum culture and Strep pneumo antigen pending at time of 
+discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 15 mg PO DAILY 
+This is dose #  of  tapered doses
+2. Methotrexate 20 mg PO QWED 
+3. FoLIC Acid 1 mg PO DAILY 
+4. Furosemide 20 mg PO DAILY 
+5. Colchicine 0.6 mg PO BID 
+6. Fluticasone Propionate NASAL 1 SPRY NU DAILY:PRN rhinitis 
+7. Vitamin D Dose is Unknown  PO DAILY 
+
+ 
+Discharge Medications:
+1.  Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*30 Capsule Refills:*0 
+2.  LevoFLOXacin 500 mg PO Q24H Duration: 4 Days 
+RX *levofloxacin 500 mg 1 tablet(s) by mouth once a day Disp #*4 
+Tablet Refills:*0 
+3.  PredniSONE 10 mg PO DAILY 
+This is dose #  of  tapered doses 
+4.  Colchicine 0.6 mg PO BID  
+5.  Fluticasone Propionate NASAL 1 SPRY NU DAILY:PRN rhinitis  
+6.  FoLIC Acid 1 mg PO DAILY  
+7.  Furosemide 20 mg PO DAILY  
+8.  Methotrexate 20 mg PO QWED  
+9.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+Community Acquired Pneumonia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You came in with fever, cough, and shortness of breath. You were 
+found to have a pneumonia. You were treated with antibiotics and 
+your breathing improved. It will be important to continue the 
+antibiotics for four more days after leaving the hospital.
+
+Dr. ___ like you to decrease your 
+prednisone dose to 10mg daily. You should follow up with her in 
+clinic. You can continue taking the methotrexate as you were 
+previously taking it.
+
+It was a pleasure taking care of you, and we are happy that 
+you're feeling better!
+ 
+Followup Instructions:
+___

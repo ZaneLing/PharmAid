@@ -1,0 +1,542 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Right face and arm weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ right-handed woman with 
+a history of mild cognitive impairment, ___ disease, 
+hypertension, and gait unsteadiness with walker dependence, who 
+presented with a one-day history of right face and arm weakness.
+
+On ___, patient woke up between 7:30 AM and 8 AM feeling in 
+her usual state of health. While eating breakfast around 9 AM, 
+she felt that she had difficulty using her right arm.  She felt 
+that her right arm was both weak and shaky.  She did not notice 
+that food was dripping out of her mouth while eating.  She 
+denied having any difficulties with understanding or expressing 
+speech.  When she went to stand up from the table, she felt like 
+she was going to fall with her walker, but had difficulty 
+describing why exactly this was the case when probed further.  
+She was initially assessed by staff, where she was found to have 
+musculoskeletal shoulder pain, even some discomfort with passive 
+range of movement.  However, when reassessed later in the day at 
+approximately 4:45 ___, the right arm seemed weaker and she had 
+increased blood pressure to 178/82.
+She otherwise was felt to be at her baseline.  Staff discussed 
+this with her daughter, who sent her to ___ 
+emergency department for further evaluation.
+
+On arrival to ___ emergency department, 
+patient reported that the right arm felt "shaky," but otherwise 
+felt like her usual self.  Her daughter notes that she is at her 
+baseline cognitively, apart from the mild right arm weakness and 
+possible facial droop.
+
+Patient and daughter denied any recent illness, fever/chills, 
+recent medication changes, or any recent stressors.
+ 
+On neuro ROS, the patient reported mild right arm weakness and 
+difficulty ambulating.  She denied headache, loss of vision, 
+blurred vision, diplopia, dysarthria, dysphagia, 
+lightheadedness, vertigo, tinnitus or hearing difficulty, 
+difficulties producing or comprehending speech, focal weakness, 
+numbness, parasthesiae, and bowel or bladder incontinence or 
+retention. 
+ 
+On general review of systems, the patient denied recent fever or 
+chills.  No night sweats or recent weight loss or gain. Denied 
+cough, shortness of breath, chest pain or tightness, 
+palpitations. Denied nausea, vomiting, diarrhea, constipation or 
+abdominal pain.  No recent change in bowel or bladder habits.  
+No dysuria.  Denied arthralgias or myalgias. Denied rash.
+ 
+Past Medical History:
+___ disease
+Hypertension
+Hyperlipidemia
+Mild cognitive impairment
+Chronic walker dependence
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+ADMISSION EXAM:
+===============
+Vitals: T 98.5F, HR 72, BP 170/76, RR 18, O2 99% RA 
+
+General: Awake, elderly, frail woman, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Normal work of breathing
+Cardiac: RRR, warm, well-perfused
+Abdomen: soft, non-distended
+Extremities: No ___ edema.
+Skin: no rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented to self, place, and situation.
+Not oriented to year or month. Able to relate basic history
+without difficulty but not more detailed history. Mildly
+inattentive. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt was able to name high frequency objects, does not name some
+low frequency objects (calls 'cactus' a 'plant,', calls 
+'hammock'
+'between two trees.'.  Able to read without difficulty. Speech
+was not dysarthric. Able to follow both midline and appendicular
+commands. There was no evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation.
+ V: Facial sensation intact to light touch.
+VII: Right lower facial droop at rest, activates fairly
+symmetrically  
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk, tone throughout. Bilateral arm postural
+tremor. Mild cogwheeling bilaterally. Right arm pronator drift. 
+No asterixis noted.
+  Delt Bic Tri WrE  FE  IP Quad Ham  TA ___  ___ 
+L  5    ___   ___    5    5    5      5
+R  4    ___   4-  5   5    5    5    5      5
+
+-Sensory: No deficits to light touch, pinprick, proprioception
+throughout. No extinction to DSS. 
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   1
+R  2  2    2    2   1
+Plantar response was withdrawal bilaterally.
+
+-Coordination: No intention tremor. Normal finger-tap
+bilaterally. No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Deferred (walker dependent and no walker readily 
+available
+at this time) 
+
+DISCHARGE EXAM:
+===============
+
+Vitals: T 98.5, BP 168 / 94, HR 69, RR 20, O2 sat 97% on RA 
+General: Awake, elderly, frail woman, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented to self and situation. Thought 
+she was at the ___. Able to identify 
+that she was in a hospital when given options for locations, 
+i.e. grocery store, hospital. Knew that it was ___ and 
+"20-something." Able to name months of the year backwards. 
+Language is fluent with intact repetition for "Today is a sunny 
+day in ___ but not "No ifs ands or buts." Intact 
+comprehension. Normal prosody. No dysarthria. There were no 
+paraphasic errors. Patient was able to name high frequency 
+objects and low frequency objects (cactus, hammock, glove, 
+chair). Able to read without difficulty. Able to follow both 
+midline and appendicular commands. There was no evidence of 
+apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 2 to 1mm and brisk. EOMI without 
+nystagmus or diplopia. Normal saccades. Restricted horizontal 
+upgaze.
+V: Facial sensation intact to light touch.
+VII: Right lower facial droop at rest, activates fairly 
+symmetrically.  
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength 
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk throughout. Increased tone bilaterally. 
+Bilateral arm postural tremor.  No asterixis noted.
+  Delt Bic Tri WrE  FE  IP Quad Ham  TA ___  ___ 
+L  5    ___   ___    5    5    5      5
+R  4+   4+  4+  ___   5    5    5    5      5
+
+-Sensory: No deficits to light touch, pinprick, proprioception 
+throughout. No extinction to DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   1
+R  2  2    2    2   1
+Plantar response was withdrawal bilaterally.
+
+-Coordination: Postural tremor. No dysmetria on FNF or HKS 
+bilaterally.
+
+-Gait: Deferred (walker dependent and no walker readily 
+available at this time) 
+ 
+Pertinent Results:
+LAB:
+___ 06:45PM BLOOD WBC-6.3 RBC-4.27 Hgb-12.9 Hct-38.1 MCV-89 
+MCH-30.2 MCHC-33.9 RDW-13.1 RDWSD-42.6 Plt ___
+___ 05:05AM BLOOD WBC-6.5 RBC-4.15 Hgb-12.4 Hct-37.1 MCV-89 
+MCH-29.9 MCHC-33.4 RDW-12.8 RDWSD-42.1 Plt ___
+___ 05:10AM BLOOD WBC-6.7 RBC-4.12 Hgb-12.3 Hct-37.2 MCV-90 
+MCH-29.9 MCHC-33.1 RDW-13.1 RDWSD-43.3 Plt ___
+___ 06:45PM BLOOD Neuts-56.3 ___ Monos-14.1* 
+Eos-1.9 Baso-0.3 Im ___ AbsNeut-3.53 AbsLymp-1.70 
+AbsMono-0.88* AbsEos-0.12 AbsBaso-0.02
+___ 05:05AM BLOOD Neuts-62.8 ___ Monos-15.0* 
+Eos-2.3 Baso-0.2 Im ___ AbsNeut-4.10 AbsLymp-1.27 
+AbsMono-0.98* AbsEos-0.15 AbsBaso-0.01
+___ 06:45PM BLOOD ___ PTT-31.5 ___
+___ 05:05AM BLOOD ___ PTT-30.1 ___
+___ 06:45PM BLOOD Glucose-90 UreaN-15 Creat-0.7 Na-130* 
+K-4.6 Cl-90* HCO3-23 AnGap-17
+___ 05:05AM BLOOD Glucose-77 UreaN-10 Creat-0.5 Na-134* 
+K-4.1 Cl-95* HCO3-28 AnGap-11
+___ 05:10AM BLOOD Glucose-87 UreaN-24* Creat-0.8 Na-136 
+K-4.7 Cl-97 HCO3-27 AnGap-12
+___ 06:45PM BLOOD ALT-<5 AST-22 AlkPhos-57 TotBili-0.4
+___ 05:05AM BLOOD ALT-10 AST-18 LD(LDH)-165 AlkPhos-53 
+TotBili-0.5
+___ 06:45PM BLOOD Albumin-4.2 Calcium-9.7 Phos-2.9 Mg-2.0 
+Cholest-239*
+___ 05:05AM BLOOD Albumin-4.0 Calcium-9.7 Phos-3.1 Mg-2.0 
+Cholest-215*
+___ 05:10AM BLOOD Calcium-9.5 Phos-3.1 Mg-2.0
+___ 02:49AM BLOOD %HbA1c-5.5 eAG-111
+___ 05:05AM BLOOD %HbA1c-5.6 eAG-114
+___ 06:45PM BLOOD Triglyc-56 HDL-88 CHOL/HD-2.7 
+LDLcalc-140*
+___ 05:05AM BLOOD Triglyc-43 HDL-81 CHOL/HD-2.7 LDLcalc-125
+___ 05:05AM BLOOD TSH-4.9*
+___ 05:10AM BLOOD TSH-4.7*
+___ 05:10AM BLOOD Free T4-1.1
+___ 06:45PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+MICRO:
+___ 6:45 pm URINE      SOURCE: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+IMAGING/STUDIES:
+
+CTA HEAD/NECK ___:
+FINDINGS:  
+CT HEAD: 
+There is no evidence for acute intracranial hemorrhage, vascular 
+territorial infarction, mass effect, or edema. 
+The ventricles and sulci are enlarged, compatible global 
+parenchymal volume loss.  Periventricular and subcortical white 
+matter FLAIR hyperintensities are noted, a nonspecific finding 
+that most likely represents the sequelae of chronic small vessel 
+ischemic disease. 
+The right-sided mastoid air cells are underpneumatized with 
+increased 
+sclerosis, which may relate to prior surgery or infection.  The 
+remainder of the paranasal sinuses, middle ear cavities, and 
+mastoid air cells are clear. The orbits are grossly unremarkable 
+bilaterally. 
+CTA HEAD AND NECK: 
+A normal 3 vessel aortic arch is identified.  Mild 
+calcifications are seen 
+within the proximal right V1 segment.  Additional foci minimal 
+calcification are seen within the proximal right V2 segment and 
+at the origin of the left V1 segment.  The vertebral arteries 
+are patent without high-grade stenosis or 
+occlusion. 
+The bilateral common carotid arteries are patent.  There is 
+bilateral 
+tortuosity above the cervical carotid bifurcations (image 32, 
+series 601), 
+mild calcifications are seen at the bilateral carotid bulbs.  
+There is no 
+evidence of internal carotid stenosis by NASCET criteria. 
+Minimal calcifications are seen in the bilateral cavernous 
+internal carotid arteries.  Mild irregular narrowing of the left 
+greater than right 
+supraclinoid ICA is likely secondary to atherosclerotic disease. 
+ Mild 
+narrowing within the proximal left M1 segment likely also 
+reflects 
+atherosclerotic disease. 
+Allowing for this, the intracranial vasculature is grossly 
+patent without 
+high-grade stenosis, occlusion, or aneurysm greater than 3 mm. 
+The dural 
+venous sinuses are patent. 
+OTHER: 
+Mild dependent atelectasis is seen bilaterally.  The thyroid 
+gland is mildly heterogeneous, with a 1.2 cm nodule in the 
+inferior right pole.  There is no cervical lymphadenopathy by CT 
+size criteria.  Multilevel degenerative changes are visualized 
+throughout the cervical spine consistent with anterior and 
+posterior spondylosis, sclerotic changes, more significant from 
+C3-C4 through C6-C7 levels.  Diffuse osteopenic changes are 
+visualized in the upper thoracic spine with calcification of the 
+anterior longitudinal ligament, partially 
+evaluated in this examination. 
+IMPRESSION: 
+1. No evidence for acute intracranial hemorrhage or large 
+vascular territorial infarction. 
+2. Moderate global parenchymal volume loss and evidence of 
+chronic small 
+vessel ischemic disease. 
+3. Focal sites of sclerosis within the intracranial and cervical 
+vasculature, as detailed above, without high-grade stenosis, 
+occlusion, or aneurysm greater than 3 mm. 
+4. Heterogeneous thyroid gland with a 1.2 cm right thyroid 
+nodule. 
+5. Multilevel degenerative changes throughout the cervical 
+spine. 
+RECOMMENDATION(S):  Thyroid nodule.  No follow up recommended. 
+Absent suspicious imaging features, unless there is additional 
+clinical 
+concern, ___ College of Radiology guidelines do not 
+recommend further 
+evaluation for incidental thyroid nodules less than 1.0 cm in 
+patients under age ___ or less than 1.5 cm in patients age ___ or 
+___. 
+
+CT HEAD W/O CONTRAST ___:
+FINDINGS:  
+Study is mildly degraded by motion.  There is no evidence of 
+acute infarction, hemorrhage, edema, or mass.  There is 
+prominence of the ventricles and sulci suggestive of 
+involutional changes.  Periventricular and subcortical white 
+matter hypodensities are nonspecific, but are likely sequela of 
+chronic small vessel ischemic disease.  Atherosclerotic vascular 
+calcifications are noted of bilateral cavernous portions of 
+internal carotid arteries. 
+There is no evidence of fracture.  The visualized portion of the 
+paranasal 
+sinuses, mastoid air cells, and middle ear cavities are clear.  
+The visualized portion of the orbits are unremarkable. 
+IMPRESSION: 
+1. No evidence of acute hemorrhage or mass effect. 
+2. Please note MRI of the brain is more sensitive for the 
+detection of acute infarct. 
+3. Atrophy, probable small vessel ischemic changes, and 
+atherosclerotic 
+vascular disease as described. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ right-handed woman with 
+a history of mild cognitive impairment, ___ disease, 
+hypertension, and gait unsteadiness with walker dependence who 
+presented with a one-day history of right face and arm weakness. 
+Her history was notable for a somewhat insidious onset of 
+symptoms over the course of the day on ___, with worse right 
+arm weakness and right facial droop noted by staff at her ___ 
+living ___ in the later part of the day.  At baseline, she 
+has difficulty with ambulation. On examination, the patient had 
+mild right hemiparesis, with mild right lower facial weakness 
+and right arm upper motor neuron pattern of weakness.  There was 
+no focal weakness noted in the right leg and with 
+confrontational testing, and no evidence of aphasia or cortical 
+sensory loss. Initial non-contrast head CT at presentation 
+showed severe global atrophy and a small hypodensity adjacent to 
+the occipital horn of the left lateral ventricle, possibly 
+representing a lacunar infarct. The patient refused an MRI, so a 
+repeat noncontrast head CT was performed that redemonstrated the 
+small hypodensity. Because of this, aspirin 81mg was stopped, 
+and she was started on Plavix 75mg daily. She was also started 
+on atorvastatin 40mg daily for elevated cholesterol. 
+
+In addition, the patient described symptoms of urgency and 
+frequency of urination, but no dysuria, numbness, or tingling. 
+Her urinanalysis at the time of presentation showed few 
+bacteria, trace protein, and small leukocytes. She was started 
+on a 3-day course of Bactrim (Day 1 = the evening of ___ 
+for an uncomplicated urinary tract infection. Her last day of 
+Bactrim should be ___ in the morning. 
+
+We recommended that she see her primary care physician for 
+ongoing management of her ___ disease, chronic walker 
+dependence, and limited right shoulder range of motion and pain.
+
+Medicine changes:
+- Start atorvastatin 40mg daily
+- Start clopidogrel 75mg daily 
+- Continue Bactrim DS 1 tab bid x 3 days (Day 1 = ___ End 
+date = ___
+- stop aspirin 81mg daily
+
+Transitional issues:
+- Blood pressure evaluation and medication management to reduce 
+risk of future TIA's/stroke
+- Evaluation of right shoulder limited range of motion and pain
+- Evaluate tolerance to newly started atorvastatin (40mg daily)
+- Follow up for symptomatic cystitis s/p antibiotic treatment 
+(Day 1 = ___ End date = ___
+- Physical therapy and safety evaluation is needed to improve 
+function 
+ 1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed () No  
+ 2. DVT Prophylaxis administered? (x) Yes - () No  
+ 3. Antithrombotic therapy administered by end of hospital day 
+2? (x) Yes - () No  
+ 4. LDL documented? (x) Yes (LDL = 125) - () No  
+ 5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) (x) Yes - () No [if LDL 
+>70, reason not given:  
+ [ ] Statin medication allergy  
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist  
+ [ ] LDL-c less than 70 mg/dL  
+ ]  
+ 6. Smoking cessation counseling given? () Yes - () No [reason 
+(x) non-smoker - () unable to participate]  
+ 7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+ 8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No  
+ 9. Discharged on statin therapy? (x) Yes - () No [if LDL >70, 
+reason not given:  
+ [ ] Statin medication allergy  
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist  
+ [ ] LDL-c less than 70 mg/dL  
+ 10. Discharged on antithrombotic therapy? () Yes [Type: () 
+Antiplatelet - (x) Anticoagulation] - () No  
+ 11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - (x) N/A 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. melatonin 1 mg oral QHS:PRN insomnia 
+2. Ferrous Sulfate 325 mg PO DAILY 
+3. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+4. Carbidopa-Levodopa (___) 1 TAB PO TID 
+5. Bisacodyl 10 mg PR QHS:PRN constipation 
+6. amLODIPine 5 mg PO DAILY 
+7. Vitamin D 1000 UNIT PO DAILY 
+8. Hydrocortisone Cream 1% 1 Appl TP QHS 
+9. Hemorrhoidal Suppository ___ID PRN hemorrhoids 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 40 mg PO QPM  
+2.  Clopidogrel 75 mg PO DAILY  
+3.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 3 Days  
+4.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+5.  amLODIPine 5 mg PO DAILY  
+6.  Bisacodyl 10 mg PR QHS:PRN constipation  
+7.  Carbidopa-Levodopa (___) 1 TAB PO TID  
+8.  Ferrous Sulfate 325 mg PO DAILY  
+9.  Hemorrhoidal Suppository ___ID PRN hemorrhoids  
+10.  Hydrocortisone Cream 1% 1 Appl TP QHS  
+11.  melatonin 1 mg oral QHS:PRN insomnia  
+12.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES: 
+Transient ischemic attack 
+Urinary tract infection 
+ 
+SECONDARY DIAGNOSES: 
+Hypertension 
+Hyperlipidemia 
+___ disease 
+Mild cognitive impairment 
+Chronic walker dependence 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+  
+ You were hospitalized due to symptoms of right sided weakness 
+resulting from an temporary diminished flow of blood to the 
+brain thereby reducing oxygen and nutrients to the brain. The 
+brain is the part of your body that controls and directs all the 
+other parts of your body, so damage to the brain from being 
+deprived of its blood supply can result in a variety of 
+symptoms. Stroke can have many different causes, so we assessed 
+you for medical conditions that might raise your risk of having 
+stroke. Some of these risk factors include high blood pressure 
+and high lipid levels. We have prescribed a two new medications, 
+called atorvastatin and plavix, to help reduce the risk of 
+future stroke. Please also continue to take the medication 
+amlodipine, which helps lower blood pressure.
+
+ We also found that you were having symptoms of a urinary tract 
+infection, and gave you an antibiotic medication called Bactrim 
+to treat this. Please continue to take Bactrim for a total of 3 
+days. Please take your other medications as prescribed. Please 
+also follow up with Neurology and your primary care physician as 
+listed below.
+  
+ If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body
+
+Thank you for allowing us to care for you.
+
+ Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

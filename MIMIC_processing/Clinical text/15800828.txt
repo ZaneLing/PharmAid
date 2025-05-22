@@ -1,0 +1,208 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lidocaine / Tetracyclines
+ 
+Attending: ___
+ 
+Pertinent Results:
+___ 01:40AM BLOOD WBC-9.7 RBC-3.23* Hgb-9.7* Hct-31.0* 
+MCV-96 MCH-30.0 MCHC-31.3* RDW-13.7 RDWSD-48.8* Plt ___
+___ 05:50AM BLOOD WBC-7.0 RBC-3.40* Hgb-10.0* Hct-32.6* 
+MCV-96 MCH-29.4 MCHC-30.7* RDW-13.4 RDWSD-47.8* Plt ___
+___ 01:40AM BLOOD Glucose-106* UreaN-18 Creat-0.9 Na-143 
+K-4.1 Cl-110* HCO3-22 AnGap-11
+___ 05:50AM BLOOD Glucose-99 UreaN-15 Creat-0.8 Na-145 
+K-4.2 Cl-106 HCO3-24 AnGap-15
+___ 01:40AM BLOOD ALT-265* AST-397* AlkPhos-91 TotBili-0.3
+___ 05:50AM BLOOD ALT-98* AST-40 AlkPhos-81 TotBili-0.2
+___ 01:40AM BLOOD Lipase-16
+___ 01:40AM BLOOD TotProt-6.1* Albumin-3.6 Globuln-2.5 
+Iron-12*
+___ 05:50AM BLOOD Mg-2.0
+___ 01:40AM BLOOD calTIBC-231* Ferritn-1580* TRF-178*
+___ 01:40AM BLOOD TSH-1.7
+___ 01:40AM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG IgM HAV-NEG
+___ 01:40AM BLOOD CMV IgG-PND CMV IgM-PND CMVI-PND EBV 
+IgG-PND EBNA-PND EBV IgM-PND EBVI-PND
+___ 01:40AM BLOOD tTG-IgA-PND
+___ 01:40AM BLOOD HoldBLu-HOLD
+___ 01:40AM BLOOD HCV Ab-NEG
+___ 02:07AM BLOOD Lactate-1.6
+
+EXAMINATION:  MRCP. 
+  
+INDICATION:  Dilated bile duct.  Liver function tests elevation 
+without 
+hyperbilirubinemia. 
+  
+TECHNIQUE:  Multiplanar T1- and T2-weighted images of the 
+abdomen were 
+obtained on a 1.5 tesla magnet including sequences obtained 
+prior to and 
+following intravenous gadolinium contrast.  8 cc of Magnevist 
+was administered 
+intravenously. 
+  
+COMPARISON:  CT is available from ___. 
+  
+FINDINGS:  
+  
+Heart is mildly enlarged. 
+  
+No focal liver lesions are identified.  There is moderate 
+intrahepatic and 
+extrahepatic biliary dilatation down to the ampulla.  The common 
+bile duct 
+measures up to 11 mm in diameter.  However, the degree of 
+dilatation is not 
+necessarily out of proportion to prior cholecystectomy and a. 
+The pancreatic 
+duct is top-normal in size measuring up to 3 mm in diameter.  No 
+filling 
+defects are found or evidence for stricture.  Spleen is normal 
+in size and 
+appearance.  Adrenals are unremarkable.  Scattered small cysts 
+are found in 
+the kidneys. 
+  
+Stomach and visualized bowel appear within normal limits.  Major 
+vascular 
+structures appear patent.  There is no free fluid or 
+lymphadenopathy.  Bone 
+marrow signal intensities are unremarkable. 
+  
+  
+  
+IMPRESSION:  
+  
+Moderate biliary dilatation.  No evidence for stones, solid 
+masses or 
+strictures.  Correlation with clinical circumstances is 
+recommended. Although 
+papillary stenosis or sphincter of Oddi dysfunction can not be 
+excluded, the 
+findings could be within normal limits following prior 
+cholecystectomy.  No 
+definite hepatic parenchymal abnormality. 
+  
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female
+transferred from outside hospital for concerns for cholangitis 
+in
+the setting of fevers and rigors and CT scan showing concerns 
+for
+either ileus versus early SBO or cholangitis. Repeat labs here
+show elevated LFTs in a hepatocellular pattern, mild anemia but
+no elevation in white count. Her transaminitis is of unclear
+etiology, but biliary pathology is less likely given normal
+bilirubin. She also denies alcohol use. Will further workup up
+her LFT elevation with hepatitis panel, ferritin, and ___
+MRCP. 
+
+ACUTE/ACTIVE PROBLEMS:
+#Abdominal Pain
+#Hepatocellular transaminitis
+#Acute liver injury
+___ 01:40AM BLOOD ALT: 265* AST: 397* AlkPhos: 91 TotBili:
+0.3 
+Ddx initially included hepatitis, food borne illness, CMV, EBV, 
+celiac
+disease. Pt denied significant etoh use but has been taking up 
+to
+4g tylenol daily for dental surgery.
+- trend LFTs daily
+- MRCP ordered given biliary dilatation and was consistent with 
+a post-cholecystectomy state
+- Hepatitis panels negative, consented verbally for HIV testing
+- SPEP, ___, EBV, CMV, TTG ordered
+- ferritin elevated at 1580 but T sat ~5%
+- held statin
+- advised to stay under 3 g tylenol daily
+
+#Diarrhea
+three episodes over the past few days. Pt describes it as
+explosive with stool incontinence.
+- c diff PCR negative; started immodium prn
+- stool cultures, CMV, EBV all unremarkable
+- TTG pending at time of discharge
+
+CHRONIC/STABLE PROBLEMS:
+#HTN
+- continued home valsartan
+
+#HLD
+- held home statin in the setting of transaminitis
+
+#Depression/Anx
+- advised pt to bring in home Welbutrin (has intolerance to
+generic version)
+
+TRANSITIONAL ISSUES
+[] Transaminitis: consider restarting statin at outpatient 
+follow up once LFTs have been repeated. Follow up anti-smooth 
+ab. Encourage pt to take no more than 3g tylenol daily. If LFT 
+elevation recurs consider testing for HIV as well.
+[] Diarrhea: follow up pending labwork (TTG, stool studies)
+[] ___: repeat iron panel and consider ferrlicet infusion given 
+T sat ~5%. This was not given inpatient as the patient's 
+ferritin was very elevated 
+[] Pt is HBV nonimmune and may benefit from a vaccination series
+
+>30 min spent on discharge planning including >50% face to face 
+time
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Pravastatin 40 mg PO QPM 
+2. Benicar (olmesartan) 40 mg oral DAILY 
+3. BuPROPion (Sustained Release) 150 mg PO QAM 
+
+ 
+Discharge Medications:
+1.  Benicar (olmesartan) 40 mg oral DAILY  
+2.  BuPROPion (Sustained Release) 150 mg PO QAM  
+3. HELD- Pravastatin 40 mg PO QPM  This medication was held. Do 
+not restart Pravastatin until your primary care doctor rechecks 
+your liver enzymes
+4.Outpatient Lab Work
+Comprehensive metabolic panel
+ICD:R74.0
+PCP: ___. ___
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Transaminitis
+Diarrhea
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with abdominal pain, diarrhea 
+and elevated liver enzymes. We were not able to find a cause for 
+your symptoms but ruled out several dangerous etiologies, 
+including viral hepatitis, CMV, c diff colitis, infectious 
+mononucleosis and bile duct stones. Your liver enzymes have 
+normalized. You should follow up with your primary care doctor 
+in ___ weeks so she can recheck them to ensure they are stable. 
+Please do not take more than 3 grams of tylenol daily until your 
+appointment to allow your liver inflammation to resolve.
+ 
+Followup Instructions:
+___

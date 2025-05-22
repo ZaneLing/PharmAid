@@ -1,0 +1,374 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+"Facial Jerking"
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+The pt is a ___ year-old with history of HTN who presents with 
+dysarthria and facial twitching found to have R IPH on OHS 
+NCHCT.
+
+Pt flew from ___ to ___ ___ evening for business. 
+___ morning he was having a meeting with a business 
+colleague and when he spoke, he noticed that his speech was 
+slurred. This lasted through to ___ ___ when he felt that 
+his speech improved - it was still not back to normal but the 
+slurring was not as noticeable. He then got on a plane back to 
+___ that evening. When on the plane, he had a several minute 
+episode of feeling his tongue jerk uncontrollably in his mouth 
+and that his oral muscles were spasming. He could not talk or 
+swallow during these minutes. This resolved spontaneously. When 
+he talked to the cab driver on the ride home in ___, he felt 
+that his speech was more slurred again. He took a nap when he 
+arrived home around 11:30PM and when he woke up to use the 
+bathroom at 12AM, he and his wife witnessed facial jerking - 
+unclear which side - that lasted several minutes. They called 
+911, and on the ambulance ride to ___, another several 
+minute episode of facial jerking occurred. At ___, they 
+obtained ___ that showed R frontotemporal IPH and transferred 
+for further management. 
+
+On arrival the patient is mildly dysarthric with L NLFF that is 
+subtle. 
+
+He does mention that the ___ prior to these events he was 
+doing a different exercise at the gym and felt that his right 
+hand grip was slightly weaker. 
+
+On neuro ROS, the pt denies headache, loss of vision, blurred 
+vision, diplopia, lightheadedness, vertigo, tinnitus or hearing 
+difficulty. Denies difficulties producing or comprehending 
+speech.  Denies focal weakness, numbness, parasthesiae. Denies 
+difficulty with gait.
+
+On general review of systems, the pt denies recent fever or 
+chills. Denies cough, shortness of breath.  Denies chest pain or 
+tightness, palpitations.  Denies nausea, vomiting, diarrhea, 
+constipation or abdominal pain.  No recent change in bowel or 
+bladder habits.  No dysuria.  Denies arthralgias or myalgias. 
+Denies rash.
+
+ 
+Past Medical History:
+HTN
+ 
+Social History:
+___
+Family History:
+Maternal Grandfather - cerebral aneurysm
+___ grandmother - cerebral aneurysm - rupture. 
+ 
+Physical Exam:
+==============
+ADMISSION EXAM
+==============
+Vitals: ___, HR 64, SBP initially 150s, quickly decreased to 
+120s/80s without treatment, RR 14, 99% on RA
+
+Neurologic:
+
+-Mental Status: Alert, oriented x 3. Able to relate history 
+without difficulty. Attentive, able to name ___ backward without 
+difficulty. Language is fluent with intact repetition and 
+comprehension. Normal prosody. There were no paraphasic errors. 
+Pt was able to name both high and low frequency objects.  Able 
+to read without difficulty. Speech was mildly dysarthric - with 
+guttural sounds more than lingual sounds. No deficit with labial 
+sounds. Able to follow both midline and appendicular commands. 
+Pt was able to register 3 objects and recall ___ at 5 minutes. 
+There was no evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without 
+nystagmus. Normal saccades. VFF to confrontation.
+V: Facial sensation intact to light touch.
+VII: Mild L NLFF, symmetric activation
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: R palate elevates more than L.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue deviates to left. Has left tongue weakness on
+testing. 
+
+-Motor: Normal bulk, tone throughout. No pronator drift 
+bilaterally. No adventitious movements, such as tremor, noted. 
+No asterixis
+noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  5   5    5  5     5     5   5
+R  5    ___   ___  5   5    5  5     5     5   5
+
+-Sensory: No deficits to light touch throughout. No extinction 
+to DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  3  3    3    3   2
+R  3  3    3    3   2
+Plantar response was flexor bilaterally. Crossed adductors and 
+pectoral jerks present bilaterally. No sustained clonus. 
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Deferred. No historical difficulty
+
+=================
+EXAM ON DISCHARGE
+=================
+LT NASOLABIAL FOLD FLATTENING.
+ 
+Pertinent Results:
+====
+LABS
+====
+___ 03:09AM   WBC-9.8 RBC-4.46* HGB-13.3* HCT-40.5 MCV-91 
+MCH-29.8 MCHC-32.8 RDW-12.2 RDWSD-40.1
+___ 03:09AM   NEUTS-65.0 ___ MONOS-5.7 EOS-3.1 
+BASOS-0.3 IM ___ AbsNeut-6.36* AbsLymp-2.51 AbsMono-0.56 
+AbsEos-0.30 AbsBaso-0.03
+___ 03:09AM   PLT COUNT-202
+___ 03:09AM   ___ PTT-29.9 ___
+___ 03:09AM   CHOLEST-175
+___ 03:09AM   TRIGLYCER-146 HDL CHOL-53 CHOL/HDL-3.3 
+LDL(CALC)-93
+___ 03:09AM   cTropnT-<0.01
+___ 03:23AM   LACTATE-1.0
+___ 03:09AM   GLUCOSE-104* UREA N-22* CREAT-1.1 SODIUM-138 
+POTASSIUM-4.2 CHLORIDE-102 TOTAL CO2-25 ANION GAP-15
+___ 04:45AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-10 BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 04:45AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 06:10AM BLOOD WBC-10.1* RBC-4.41* Hgb-13.3* Hct-40.4 
+MCV-92 MCH-30.2 MCHC-32.9 RDW-12.4 RDWSD-41.4 Plt ___
+___ 06:10AM BLOOD Plt ___
+___ 06:10AM BLOOD ___ PTT-28.8 ___
+___ 06:10AM BLOOD Glucose-105* UreaN-20 Creat-1.1 Na-145 
+K-4.2 Cl-106 HCO3-30 AnGap-13
+___ 06:10AM BLOOD Calcium-9.2 Phos-5.1* Mg-2.2
+
+========
+IMAGING:
+========
+
+CTA HEAD W&W/O C & RECONS (___) 
+1. A 2.4 cm right frontal intraparenchymal hematoma with mild 
+surrounding 
+edema and local mass effect with no midline shift. 
+2. No evidence of aneurysm greater than 3 mm, dissection, 
+vascular 
+malformation or significant luminal narrowing. 
+
+MR HEAD W & W/O CONTRAST (___)
+1. 2.8 x 2.8 x 2.1 right frontal lobe hematoma with surrounding 
+edema and mild  local mass effect.  No evidence of associated 
+abnormal enhancement or vascular  malformation. 
+
+CT ABD & PELVIS WITH CONTRAST (___)
+1. 2.1 x 1.9 cm relatively hyperdense lesion at the lower pole 
+of the left kidney, incompletely characterized on this 
+single-phase study.  While this 
+could represent a high-density cyst, a primary renal malignancy 
+cannot be 
+excluded.  Renal MRI is recommended for further 
+characterization. 
+2. A 9 x 6 mm lucency with a sclerotic rim in the left iliac 
+bone most likely represents a benign bone lesion, though 
+malignancy cannot be entirely excluded, particularly in the 
+absence of prior studies to document stability. 
+3. 1.3 x 1.0 cm exophytic hypodensity arising from the lower 
+pole of the left  kidney, likely a simple renal cyst. 
+4. Nonobstructing left renal stone. 
+5. Multiple subcentimeter hypodensities scattered throughout the 
+liver, likely  simple cysts or hematomas. 
+
+CT CHEST W/O CONTRAST
+1. No evidence of intrathoracic malignancy.  Essentially normal 
+chest CT except  for right lower lobe potentially calcified 
+pulmonary nodule that will be  suggesting prior granulomatous 
+exposure. 
+
+CEREBRAL ANGIOGRAM ___:
+Unremarkable 5 vessel cerebral angiogram.
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ man with a history of HTN who 
+presented with dysarthria and facial twitching, who was found to 
+have a right intraparenchymal hemorrhage, predominantly in the 
+premotor region on an outside hospital ___. CTA head and neck 
+showed no stenosis, significant atherosclerosis, large aneurysm, 
+or AVM. Etiology presumed to be hypertensive, exacerbated by 
+periods of overexertion. In addition, there could have been an 
+underlying cavernous hemangioma that bled under the 
+circumstances mentioned above. He underwent conventional 
+angiography which showed no evidence of AVM. However he will 
+follow with Dr. ___ in ___ clinic to determine the 
+need for a repeat angio. We would prefer to wait until the 
+hemorrhage has cleared and then repeat an MRI with contrast to 
+see if there is any abnormality.
+
+In terms of risk modification, we have counseled him that overly 
+vigorous exercise may increase his risk of future hemorrhagic 
+events. We advised him to continue his home lisinopril, avoid 
+extreme exercise, and monitor daily blood pressure/heart rate to 
+maintain them in an appropriate range. 
+
+Also, a CT torso done in the context of supraclavicular nodes 
+demonstrated a left renal hypodensity, likely a cyst, to be 
+followed-up with an outpatient MRI. 
+
+He will follow-up with neurosurgery, neurology and his PCP.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 5 mg PO DAILY 
+2. Propranolol 20 mg PO DAILY:PRN Anxiety 
+
+ 
+Discharge Medications:
+1. Lisinopril 5 mg PO DAILY 
+2. LevETIRAcetam 750 mg PO BID 
+RX *levetiracetam [Keppra] 750 mg 1 tablet(s) by mouth twice a 
+day Disp #*60 Tablet Refills:*3
+3. Propranolol 20 mg PO DAILY:PRN Anxiety 
+4. ChlorproMAZINE 25 mg PO Q8H:PRN hiccups 
+RX *chlorpromazine 25 mg 1 tablet(s) by mouth q___ PRN Disp #*10 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+Right intraparenchymal hemorrhage
+
+Secondary:
+Hypertension
+Possible renal cyst
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital due to symptoms of difficulty 
+speaking and facial twitching, resulting from an acute 
+intracerebral hemorrhage, a condition where there is bleeding 
+from a blood vessel in the brain. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain can result in a variety of symptoms. 
+Imaging of your head and neck (non-contrast head CT and CTA head 
+and neck) showed a right sided intraparenchymal hemorrhage. It 
+did not show evidence of a mass or an arteriovenous malformation 
+(AVM). This was confirmed with another type of imaging, MRI. You 
+also had an angiogram performed by the vascular neurosurgeons, 
+and they will see you as an outpatient for follow up. We are 
+recommending a CT angiogram of your head and neck in ___ months 
+before you are submitted to another conventional angiography. 
+
+Also, a CT of your torso showed what is likely a cyst in your 
+left kidney. This will be followed-up with an outpatient MRI for 
+further investigation.  
+
+Bleeding in the brain can have many different causes, so we 
+assessed you for medical conditions that might raise your risk 
+of this. We do think that the cause is likely hypertension. In 
+order to prevent future bleeding in the brain, we plan to modify 
+those risk factors. Your risk factors are:  
+- Hypertension
+- Overexertion during exercise
+
+Our plan is as follows:
+- Continue Lisinopril 5mg daily, your blood pressure medication.
+- Monitor blood pressure at home.
+- Avoid exercise that excessively increases your heart rate.
+  
+Instructions: 
+Please take your other medications as prescribed.  
+Please follow-up with Neurology and your primary care physician 
+as listed below.  
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since hemorrhagic stroke 
+can recur, please pay attention to the sudden onset and 
+persistence of these symptoms:  
+- sudden partial or complete loss of vision  
+- sudden loss of the ability to speak words from your mouth  
+- sudden loss of the ability to understand others speaking to 
+you  
+- sudden weakness of one side of the body  
+- sudden drooping of one side of the face  
+- sudden loss of sensation of one side of the body  
+
+ANGIOGRAM DISCHARGE INSTRUCTIONS: 
+Activity
+You may gradually return to your normal activities, but we 
+recommend you take it easy for the next ___ hours to avoid 
+bleeding from your groin.
+Heavy lifting, running, climbing, or other strenuous exercise 
+should be avoided for ten (10) days. This is to prevent bleeding 
+from your groin.
+You make take leisurely walks and slowly increase your 
+activity at your own pace. ___ try to do too much all at once.
+Do not go swimming or submerge yourself in water for five (5) 
+days after your procedure.
+You make take a shower.
+Medications
+Resume your normal medications and begin new medications as 
+directed.
+You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+Care of the Puncture Site
+You will have a small bandage over the site.
+Remove the bandage in 24 hours by soaking it with water and 
+gently peeling it off.
+Keep the site clean with soap and water and dry it carefully.
+You may use a band-aid if you wish.
+
+What You ___ Experience:
+Mild tenderness and bruising at the puncture site (groin).
+Soreness in your arms from the intravenous lines.
+The medication may make you bleed or bruise easily.
+Fatigue is very normal.
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the puncture 
+site. 
+Fever greater than 101.5 degrees Fahrenheit
+Constipation
+Blood in your stool or urine
+Nausea and/or vomiting
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+Sudden numbness or weakness in the face, arm, or leg
+Sudden confusion or trouble speaking or understanding
+Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

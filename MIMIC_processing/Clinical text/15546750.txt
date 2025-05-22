@@ -1,0 +1,235 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ male with family history of sudden cardiac death
+presented to BID-P with chest pain and NSTEMI, transferred to
+___ for further evaluation.
+
+The patient reported that he was feeling well until this past
+___, when he had to leave work early because he felt
+feverish.  He was feeling feverish with intermittent body aches
+until ___.  He took his temperature, and it was 99.4.  He
+started feeling better on ___.  He had no cough, 
+congestion,
+chest pain, shortness of breath at that time.
+
+On ___ morning, he had an episode of chest pain that lasted
+approximately 1 hour.  It woke him from sleep. Pain radiated up
+to the left shoulder without an exertional component, but with
+shortness of breath. 
+
+Patient denies any lightheadedness, presyncopal symptoms, cough,
+abdominal pain, nausea, vomiting. Patient states that the pain
+resolved just after arriving at outside hospital.
+
+Evaluation at ___ was notable for elevated troponin I to
+0.50 -> 1.22. He was given a full dose aspirin, started on a
+heparin gtt, and an echo was performed. It was normal. He was
+transferred to ___ for further evaluation.
+
+At ___,
+- Vitals: T 97.8   HR ___   BP 120s-140s/80s-90s  SpO2 97%RA
+- ECG: Sinus arrhythmia with rate 73. Normal axis, intervals.
+Evidence of LVH.
+- Labs: WBC 11.7, troponin 0.13, MB 13 (MBI 9.8). H/H and BMP
+wnl.
+- Cardiology was consulted, who recommended admission to ___,
+stopping heparin gtt, trending cardiac enzymes.
+ 
+On the floor the patient verifies the above story. Reports that
+he feels well. 
+
+Of note, he had 2 episodes where he lost consciousness.  The
+first episode occurred when he was ___ years old.  He went to 
+___ at the time and was referred to ___ 
+___.  He reports the evaluation at ___ was unremarkable.  He again lost consciousness in 
+___, and he presented to ___.  No further
+diagnostics were performed at that time.
+ 
+REVIEW OF SYSTEMS:  
+Full 10 point review of systems negative except as documented in
+HPI.
+ 
+Past Medical History:
+Two episodes of syncope
+ 
+Social History:
+___
+Family History:
+Family history of sudden cardiac death (paternal grandfather in 
+his ___ and heart disease on maternal side 
+ 
+Physical Exam:
+Admission Exam:
+VITALS:  Reviewed
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: no elevated JVP
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills,
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+Discharge Exam:
+24 HR Data (last updated ___ @ 846) 
+Temp: 98.3 (Tm 98.5), BP: 131/69 (114-131/69-74), HR: 74 
+(62-97),
+RR: 20 (___), O2 sat: 99% (97-99), O2 delivery: RA, Wt: 150.4
+lb/68.22 kg (150.13-150.4) 
+I/O: None recorded  
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, MMM. No xanthelasma.  
+NECK: No elevated JVP
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. RRR, normal S1, S2. No murmurs or friction rubs.
+LUNGS: Resp were unlabored, no accessory muscle use. No 
+crackles,
+wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No lower extremity edema.  
+SKIN: Warm, well-perfused
+PULSES: Distal pulses palpable and symmetric  
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 10:46PM   ALT(SGPT)-13 AST(SGOT)-22 ALK PHOS-64 TOT 
+BILI-0.2
+___ 10:46PM   CK-MB-7 cTropnT-0.11*
+___ 10:46PM   TSH-2.1
+___ 05:21PM   GLUCOSE-97 UREA N-12 CREAT-0.7 SODIUM-142 
+POTASSIUM-4.3 CHLORIDE-105 TOTAL CO2-22 ANION GAP-15
+___ 05:21PM   cTropnT-0.13*
+___ 05:21PM   CK-MB-13* MB INDX-9.8*
+___ 05:21PM   WBC-11.7* RBC-5.26 HGB-14.1 HCT-43.9 MCV-84 
+MCH-26.8 MCHC-32.1 RDW-13.7 RDWSD-41.9
+___ 05:21PM   NEUTS-62.6 ___ MONOS-12.1 EOS-1.1 
+BASOS-0.5 IM ___ AbsNeut-7.35* AbsLymp-2.72 AbsMono-1.42* 
+AbsEos-0.13 AbsBaso-0.06
+___ 05:21PM   PLT COUNT-273
+___ 05:21PM   ___ PTT-38.3* ___
+
+No microbiology
+
+No studies performed (TTE performed at OSH)
+ 
+Brief Hospital Course:
+___ year old male with history notable for recurrent syncope 
+(once at age ___, once this past ___) of unclear etiology and 
+family history of sudden cardiac death (paternal grandfather 
+died in his ___ presents with chest pain and NSTEMI. TTE was 
+unremarkable, ECG showed no signs of pericarditis or ischemia, 
+and cardiac enzymes downtrended without intervention. Overall, 
+presentation is most consistent with myocarditis, likely in the 
+setting of a recent viral infection.
+
+# CORONARIES:  Unknown
+# PUMP:  Unknown
+# RHYTHM:  Sinus arrhythmia
+
+# Myocarditis
+Presented to outside hospital with chest pain and found to have 
+troponin elevation to 1.22, and was placed on a heparin drip. 
+ECG was without concerning changes (no ST changes to suggest 
+ischemia, no signs of WPW, HCM, ARVD, and Brugada. Notably, 
+patient was recently with viral illness, noting myalgias and 
+sore throat, raising concern for viral myocarditis. TTE showed 
+no significant abnormalities. heparin drip was discontinued on 
+admission to ___. Troponin down-trended to 0.13 -> 0.11. MB -> 
+7. Patient's chest pain resolved prior to discharge.
+- f/u Lyme serology
+- Patient discharged on metoprolol-succinate 25 mg
+- Follow-up troponin and MB in 1 week after discharge to ensure 
+decreasing trajectory
+
+# Elevated INR
+Elevated ___, PTT, and INR. No known history of coagulopathy,
+though remote history increased daily alcohol use. AST, ALT, ALP 
+within normal limits. Possibly ___
+poor PO intake in the setting of acute illness.
+- F/u ___, PTT, INR as an outpatient outside of the setting of 
+acute illness
+
+# History of Syncope
+Unclear etiology. Per patient, work-up thus far at ___ was unremarkable. Formal TTE at ___
+without ___. Patient reported a family history of sudden 
+cardiac death (grandfather passed in his ___, but is unable to 
+provide more specific history. 
+
+ 
+Medications on Admission:
+Not on any home medications
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Myocarditis
+NSTEMI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___. 
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital because you were found to 
+have chest pain and elevated heart enzyme levels. This was 
+thought to be due to inflammation of the muscle around your 
+heart, most likely from a viral infection.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- You were treated with blood thinning medication (heparin and 
+aspirin)
+- An echocardiogram (ultrasound of the heart) showed no 
+significant abnormalities
+- An electrocardiogram did not show signs of an acute heart 
+attack
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- You should continue to take your medications as prescribed. 
+- You should attend the appointments listed below. 
+
+We wish you the best!
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

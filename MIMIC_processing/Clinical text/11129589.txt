@@ -1,0 +1,328 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ year-old woman with past medical history 
+significant for hypertension, tobacco use, and pseudotumor 
+cerebri, who presents with acute onset chest pain
+
+Patient was working as a ___ at ___ when she began to feel 
+chest pain and shortness of breath. This was a discomfort on the 
+right side of her chest that radiated to her right jaw. It felt 
+almost like a dull cramp and hurt when she took a deep breath or 
+inhaled. She also noted pain in her back with taking a deep 
+breath. She denied dyspnea, paroxysmal nocturnal dyspnea, 
+orthopnea, palpitations, pre-syncope, syncope.
+
+Past medical history is notable for 2 spontaneous pneumothoraces 
+in the 1990s for which she underwent VATS. She is S/P roux-en-Y 
+gastric bypass surgery with subsequent ulceration at the 
+anastomosis for which she takes ompeprazole BID. She has not 
+followed with her PCP in ___ number of years as she became 
+disillusioned with physicians given her experience related to 
+pseudotumor cerebri.
+
+In the ED initial vitals were: T 98.1 HR 88 BP 181/87 RR 16 SpO2 
+100% on RA. EKG showed NSR with normal axis and normal 
+intervals. There was ___epression in V4-V6 in a strain 
+pattern. Labs/studies notable for WBC 9.3, Hg 10.1, Hct 34.7, 
+Plts 370, Na 138, K 3.7 BUN 2, Cr 0.7, glc 100, TropT < 0.01 x 
+2. Patient was given aspirin 324 mg PO, heparin gtt, morphine 
+sulfate 4 mg IV, Nitroglycerin SL x 3. Cardiology saw that 
+patient and recommended CTA to rule out dissection, cardiac 
+biomarkers, echocadiogram, and admission for hypertensive 
+emergency. They also recommended deferring heparin gtt in the 
+setting of negative troponin, but recommended continuing 
+aspirin, atorvastatin, and beta-blockade. CTA chest showed no 
+evidence of pulmonary embolism or aortic abnormality, no 
+evidence of dissection. Vitals on transfer: T 98.4 HR 70 BP 
+119/70 RR 20 SaO2 100% on RA.
+
+After arrival to the cardiology ward, patient noted improvement 
+of right-sided chest discomfort. She continued to have mild 
+headache which was made worse after receiving nitroglycerin in 
+the ED. She denied diaphoresis, dyspnea, palpitations.
+ 
+Past Medical History:
+1. CAD RISK FACTORS
+- Tobacco use
+- Hypertension
+
+2. CARDIAC HISTORY
+- none
+
+3. OTHER PAST MEDICAL HISTORY
+- Gastric ulcer
+- Pseudotumor cerebri
+- Gastric bypass
+ 
+Social History:
+___
+Family History:
+Mother had hypertension, CHF, pulmonary hypertension. Father had 
+hypertension, HLD. Paternal grandfather had stroke and heart 
+attack.
+ 
+Physical Exam:
+On admission
+GENERAL: Middle aged white woman lying comfortably in bed. Mood, 
+affect appropriate.
+VS: ___ 1653 Temp: 98.8 PO BP: 172/93 HR: 68 RR: 16 O2 sat: 
+99% O2 delivery: RA
+HEENT: PERRL. EOMI. Conjunctiva were pink. No pallor or cyanosis 
+of the oral mucosa.
+NECK: Supple. No JVD.
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops.
+LUNGS: No chest wall deformities or tenderness. Lungs clear to 
+auscultation. No crackles, wheezes or rhonchi.
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.
+PULSES: 2+ peripheral pulses.
+
+At discharge
+GENERAL: Lying comfortably in bed. Mood, affect appropriate.
+VS: ___ ___ Temp: 98.4 PO BP: 152/83 HR: 59 RR: 16 O2 sat: 
+99% O2 delivery: RA
+HEENT: Conjunctiva were pink. No pallor or cyanosis of the oral 
+mucosa.
+NECK: Supple. No JVD.
+CARDIAC: Regular rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops. 
+LUNGS: No chest wall deformities or tenderness. Lungs clear to 
+auscultation. No crackles, wheezes or rhonchi.
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.
+PULSES: 2+ peripheral pulses.
+ 
+Pertinent Results:
+___ 09:56AM BLOOD WBC-9.3 RBC-5.65* Hgb-10.1* Hct-34.7 
+MCV-61* MCH-17.9* MCHC-29.1* RDW-22.1* RDWSD-45.1 Plt ___
+___ 09:56AM BLOOD Neuts-62.4 ___ Monos-6.6 Eos-1.3 
+Baso-0.6 Im ___ AbsNeut-5.78 AbsLymp-2.67 AbsMono-0.61 
+AbsEos-0.12 AbsBaso-0.06
+___ 09:56AM BLOOD ___ PTT-29.3 ___
+
+___ 09:56AM BLOOD Glucose-100 UreaN-2* Creat-0.7 Na-138 
+K-3.7 Cl-99 HCO3-22 AnGap-17
+
+___ 09:56AM BLOOD cTropnT-<0.01
+___ 02:22PM BLOOD cTropnT-<0.01
+___ 11:45PM BLOOD CK-MB-<1 cTropnT-<0.01
+
+___ 07:05AM BLOOD WBC-5.2 RBC-4.73 Hgb-8.6* Hct-28.9* 
+MCV-61* MCH-18.2* MCHC-29.8* RDW-21.3* RDWSD-44.8 Plt ___
+___ 07:05AM BLOOD Glucose-91 UreaN-9 Creat-0.8 Na-141 K-4.5 
+Cl-102 HCO3-22 AnGap-17
+___ 07:05AM BLOOD calTIBC-460 ___ Ferritn-5.3* 
+TRF-354
+___ 12:46PM BLOOD %HbA1c-5.5 eAG-111
+___ 07:05AM BLOOD Calcium-9.4 Phos-4.9* Mg-2.1 Iron-15* 
+Cholest-191
+___ 07:05AM BLOOD Triglyc-144 HDL-32* CHOL/HD-6.0 
+LDLcalc-130*
+___ 07:05AM BLOOD TSH-3.2
+
+CTA Chest ___
+HEART AND VASCULATURE: Pulmonary vasculature is well opacified 
+to the subsegmental level without filling defect to indicate a 
+pulmonary embolus. The thoracic aorta is normal in caliber 
+without evidence of dissection or intramural hematoma. The 
+heart, pericardium, and great vessels are within normal limits. 
+No pericardial effusion is seen.
+AXILLA, HILA, AND MEDIASTINUM: There are few measurable 
+mediastinal lymph nodes measuring up to 8 mm. Otherwise, no 
+axillary, mediastinal, or hilar lymphadenopathy is present by CT 
+size criteria. No mediastinal mass.
+PLEURAL SPACES: No pleural effusion or pneumothorax.
+LUNGS/AIRWAYS: There is dependent posterior subsegmental 
+atelectasis. There is biapical paraseptal emphysema and 
+scarring. There is right apical linear hyperdensities which 
+likely represents suture lines. There are a few millimetric 
+right pulmonary nodules (03:54, 84, 138) and few scattered 
+calcified granulomas. There are lungs are without masses or 
+areas of parenchymal opacification. The airways are patent to 
+the level of the segmental bronchi bilaterally.
+BASE OF NECK: Visualized portions of the base of the neck 
+demonstrates a 1.7 cm hypodense nodule in the left thyroid lobe. 
+Otherwise, unremarkable.
+ABDOMEN: Included portion of the upper abdomen demonstrates a 
+surgically absent gallbladder, status post Roux-en-Y anatomy. 
+Otherwise, unremarkable.
+BONES: No suspicious osseous abnormality is seen.? There is no 
+acute fracture.
+IMPRESSION:
+1. No evidence of pulmonary embolism or aortic abnormality. No 
+evidence of dissection.
+2. Incidental 1.7 cm left thyroid lobe nodule warrants 
+evaluation with thyroid ultrasound on a non urgent basis.
+3. Few millimetric pulmonary nodules. Attention on follow-up 
+imaging.
+RECOMMENDATION(S): Thyroid ultrasound.
+
+Stress echocardiogram ___
+The patient exercised on a modified ___ treadmill (3 min 
+stages) protocol for 7 min 0 sec ___ METS) representing a fair 
+exercise capacity for age and gender. The test was stopped due 
+to fatigue. In response to stress, the patient had no symptoms.
+Hemodynamics: There was a normal resting blood pressure. In 
+response to stress, the heart rate increased to 110 bpm (66 % 
+APMHR) with a peak systolic blood pressure of 174 mmHg (peak 
+rate-pressure product = ___.
+ECG: The stress ECG showed showed non-specific changes.
+Rest echo: Resting echo images demonstrated normal left 
+ventricular wall thicknesses with a normal cavity size. There is 
+normal regional left ventricular systolic function and normal 
+global systolic function. Quantitative/biplane resting left 
+ventricular end-diastolic volume was 96 mL with an ejection 
+fraction of 69 %. The right ventricular cavity size is normal 
+with normal free wall motion. There is no pericardial effusion. 
+Doppler demonstrates no aortic valve stenosis, no aortic 
+regurgitation, trivial mitral regurgitation and no resting left 
+ventricular outflow tract gradient. The resting estimated 
+pulmonary artery systolic pressure is normal.
+Stress echo: Echo images were acquired within 60 sec post stress 
+at heart rates of 107 to 96 bpm. These demonstrated appropriate 
+augmentation of all left ventricular segments. There was 
+appropriate augmentation of right ventricular free wall motion. 
+This demonstrated no change in the severity of mitral 
+regurgitation. The pulmonary artery systolic pressure was 24mmHg 
+(+ right atrial pressure) at post exercise at a heart rate of. 
+This value is similar to baseline/rest.
+Exercise conclusion: Fair functional exercise capacity for age 
+and gender. Non-specific ECG changes in the setting of an 
+abnormal baseline, with no symptoms, and no 2D echocardiographic 
+evidence of inducible ischemia to achieved treadmill stress. 
+Normal resting blood pressure with a normal blood pressure and a 
+blunted heart rate (beta blocker) response to achieved treadmill 
+stress. There is no change in severity of mitral regurgitation 
+post exercise. Normal pulmonary artery systolic pressure at rest 
+with no change after exercise.
+Suboptimal Study: Poor post- exercise image quality and target 
+heart rate not achieved.
+ 
+Brief Hospital Course:
+___ with H/O hypertension, tobacco use, pseudotumor cerebri, 
+prior gastric bypass who presented with acute onset chest pain. 
+She was found to be hypertensive SBP in 180s. ECG showed diffuse 
+ST depression and biphasic T waves with isolated ST elevation in 
+aVR. Troponin-T negative x3. CTA without evidence of pulmonary 
+embolus or aortic dissection. Patient wast treated initially 
+with ASA, heparin and sl nitroglycerin. Patient underwent 
+exercise stress echocardiogram on ___ with normal resting LVEF 
+69%. She exercised to ___ METs (fair functional capacity for age) 
+with no inducible symptoms, non-specific ECG changes, normal 
+augmentation of the left ventricle and no echocardiographic 
+evidence of inducible ischemia. She was started on aspirin 81 
+mg. She had a HgbA1c and lipid panel checked to further guide 
+primary preventative therapy based on estimated ASCVD risk but 
+patient requested discharge prior to lab results returning. 
+During hospitalization, patient was also found to have 
+microcytic anemia with Hgb 8.6 likely due to post gastric bypass 
+iron deficiency anemia. Iron studies were checked but patient 
+requested discharge prior to these labs returning. Patient was 
+prescribed iron supplementation.
+
+TRANSITIONAL ISSUES: 
+- Tobacco Cessation: Patient advised to quit smoking but 
+declined tobacco replacement therapy. Importance of tobacco 
+cessation should be re-addressed in outpatient setting.
+- Anemia: Hgb8.6, microcytic with no signs of bleeding or 
+hemolysis. Likely iron deficiency anemia given H/O ___ and 
+gastric bypass. Started PO iron but should f/u repeat CBC and 
+iron studies.
+- Thyroid nodule: Incidental 1.7 cm left thyroid lobe nodule on 
+CTA Chest. TSH drawn prior to d/c. Please f/u TSH and obtain 
+thyroid ultrasound
+- Pulmonary Nodules: Few millimetric pulmonary nodules that 
+should warrant CT follow-up in 12 months given patient is smoker 
+and thus at high-risk for malignancy
+- ASCVD Risk: HgbA1c and lipid panel drawn during 
+hospitalization but patient wanted to leave before these results 
+came back. Please follow up and consider starting statin based 
+on ASCVD ___ year risk predicted by ___/ACC ___ risk calculator
+# CODE STATUS: Full Code (confirmed)
+# CONTACT: ___ - boyfriend (___)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Topiramate (Topamax) 200 mg PO QHS 
+2. Omeprazole 40 mg PO BID 
+3. HydrOXYzine 100 mg PO QHS:PRN insomnia
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Ferrous Sulfate 325 mg PO DAILY 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+3.  Labetalol 200 mg PO BID 
+RX *labetalol 200 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+4.  HydrOXYzine 100 mg PO QHS:PRN insomnia  
+5.  Omeprazole 40 mg PO BID 
+RX *omeprazole 20 mg 2 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0 
+6.  Topiramate (Topamax) 200 mg PO QHS
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Chest pain without evidence of cardiac myonecrosis nor 
+inducible ischemia on exercise echocardiogram
+-Hypertensive urgency
+-Cigarette use
+-Microcytic anemia
+-Iron deficiency anemia
+-Prior gastric bypass surgery
+-Prior gastric ulcer
+-Thyroid nodule
+-Pulmonary nodules
+-Pseudotumor cerebri
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+  
+You were admitted to the hospital because you had chest pain. 
+You had an electrocardiogram, blood tests, and a stress test 
+that were normal. You were also found to have low red blood cell 
+counts. You should follow up with your doctors as listed below. 
+
+WHAT DO YOU NEED TO DO WHEN YOU LEAVE THE HOSPITAL?  
+ - Take all of your medications as prescribed (listed below)  
+ - Follow up with your doctors as listed below  
+ - Seek medical attention if you have new or concerning symptoms 
+or you develop chest pain, swelling in your legs, abdominal 
+distention, or shortness of breath.  
+ 
+It was a pleasure participating in your care. We wish you the 
+best!  
+ -Your ___ Care Team  
+ 
+Followup Instructions:
+___

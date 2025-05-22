@@ -1,0 +1,272 @@
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+AMS with left sided weakness 
+ 
+Major Surgical or Invasive Procedure:
+___ R craniotomy for ___ evacuation
+ 
+History of Present Illness:
+___ yo F early Alzheimer's d/o presents with worsening
+cognition and left sided weakness for several days. At baseline
+her family notes that she has significant short term memory
+issues. Son and Daughter at bedside note that for the past week
+or so he memory issues and processing have been declining. Two
+days ago they noticed that she was moving the left side less and
+began to walk more slowly, had difficulty eating and had
+difficulty dressing herself and using the bathroom. ___ was seen
+by her PCP this morning who sent her for ER evaluation. CT head
+showed large right sided SDH and the patient was transferred to
+___ for further care. Of note family notes fall several weeks
+ago in ___.
+ 
+Past Medical History:
+___
+Memory loss
+multinodular goiter
+early Alzheimer's
+Dysthymia
+s/p tonsillectomy
+bone marrow Donor
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ON ADMISSION:
+Gen: WD/WN, comfortable, NAD.
+HEENT: normocephalic, atraumatic
+Neck: Supple.
+Extrem: Warm and well-perfused.
+Neuro:
+Mental status: Awake and alert, cooperative with exam,
+inattentive and forgetful
+Orientation: Oriented to person, place, but not date (baseline
+per family)
+Language: Speech fluent with good comprehension and repetition.
+Names pen and phone, unable to name "ID", "badge" or "nametag". 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to 2mm
+bilaterally. Visual fields unable to test
+III, IV, VI: Extraocular movements intact bilaterally with 2
+beats of nystagmus bilaterally.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. 
++ Neglect of the left side
+Motor:
+      Trap Deltoid Bicep Tricep Grip
+Right  5   5       5     5      5
+Left   4   4       4     4      3
+
+      IP Quad Ham AT ___
+Right 3  4    ___   4
+Left  5  5    ___   5
+
+Toes downgoing bilaterally
+
+Coordination: unable to complete
+
+ON DISCHARGE:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [ ]Time (baseline not to time)
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  ___
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+DeltoidBicepTricepGrip
+Right5        5        5      5
+Left5        5        5      4+
+
+IPQuadHamATEHLGast
+Right5       5       5        5      5       5
+Left5       5       5        5      5       5
+
+[x]Sensation intact to light touch
+
+Wound: 
+     [x]Clean, dry, intact 
+     [x]Staples 
+
+ 
+Pertinent Results:
+Please see OMR for pertinent lab and imaging results. 
+ 
+Brief Hospital Course:
+Ms. ___ was sent to the ED from her PCP's office with 
+AMS and left sided weakness. A CT head revealed a R SDH and she 
+was taken to the OR for urgent right craniotomy for ___ 
+evacuation. A subdural and subgalead drains were left in place. 
+The procedure was uncomplicated and the patient tolerated it 
+well. Please see separately dictated operative report by Dr. 
+___ for complete details of the procedure. The 
+patient was extubated in the OR and transferred to the PACU for 
+recovery. Her post-op head CT showed improvement and she was 
+placed on a non-rebreather for pneumocephalus. She remained 
+neurologically and hemodynamically stable. 
+
+#R SDH
+Patient remained neurologically and hemodynamically stable and 
+was transferred to the floor. Her subdural drain was removed on 
+POD1 and the subgaleal drain was removed on POD2. She was 
+tolerating a PO diet and worked with ___ who recommended ___ more 
+visits. Her left sided weakness improved during her stay. She 
+was re-evaluated by ___ who recommended home with home 
+therapy. She was tolerating a PO diet and voiding without 
+difficulty on discharge. She was discharged with follow-up for 
+staple removal and repeat NCHCT. 
+ 
+Medications on Admission:
+Aricept 10mg QHS
+magnesium Aspartate 500mg Daily
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Moderate 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Do not exceed 4GM acetaminophen in 24 hours.   
+2.  LevETIRAcetam 1000 mg PO Q12H Duration: 5 Days 
+RX *levetiracetam 1,000 mg 1 tablet(s) by mouth twice a day Disp 
+#*10 Tablet Refills:*0 
+3.  Donepezil 10 mg PO QHS  
+4.  magnesium 500 mg oral twice a week   
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+R subdural hematoma
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory 
+
+ 
+Discharge Instructions:
+Discharge Instructions
+
+Surgery
+You underwent a surgery called a craniotomy to have blood 
+removed from your brain. 
+Please keep your staples along your incision dry until they 
+are removed.
+It is best to keep your incision open to air but it is ok to 
+cover it when outside. 
+Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+No driving while taking any narcotic or sedating medication. 
+If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+You may have difficulty paying attention, concentrating, and 
+remembering new information.
+Emotional and/or behavioral difficulties are common. 
+Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+You may also experience some post-operative swelling around 
+your face and eyes. This is normal after surgery and most 
+noticeable on the second and third day of surgery.  You apply 
+ice or a cool or warm washcloth to your eyes to help with the 
+swelling. The swelling will be its worse in the morning after 
+laying flat from sleeping but decrease when up. 
+You may experience soreness with chewing. This is normal from 
+the surgery and will improve with time. Softer foods may be 
+easier during this time. 
+Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+Headaches:
+Headache is one of the most common symptoms after a brain 
+bleed. 
+Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the incision 
+site. 
+Fever greater than 101.5 degrees Fahrenheit
+Nausea and/or vomiting
+Extreme sleepiness and not being able to stay awake
+Severe headaches not relieved by pain relievers
+Seizures
+Any new problems with your vision or ability to speak
+Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+Sudden numbness or weakness in the face, arm, or leg
+Sudden confusion or trouble speaking or understanding
+Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+Sudden severe headaches with no known reason
+ 
+Followup Instructions:
+___

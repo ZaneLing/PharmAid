@@ -1,0 +1,391 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain  
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o man with
+history of hypertrophic obstructive cardiomyopathy (septal wall
+2.0 cm, inferolateral wall 1.8 cm, peak LVOT gradient 138 mm Hg,
+peak resting gradient 95 mm Hg in ___ who presents with
+intermittent exertional chest tightness and decreased exercise
+tolerance.
+
+The patient reports that he has had intermittent twinges in his
+chest for ___ weeks and decreased exercise tolerance for 2
+months. Patient was evaluated in the pain management clinic
+earlier today during which she reported the above symptoms. He
+tells me that the twinges in his chest have occurred mostly
+during mild exercise, walking a few blocks. The twinge is in his
+left side of his chest, lasts "milliseconds," does not radiate,
+and is not associated with shortness of breath, nausea, 
+vomiting,
+diaphoresis or any other symptoms. He tells me that he has been
+feeling fatigued for several months now with decreased exercise
+tolerance, which he had attributed to his back discomfort 
+related
+to a fall, kyphoplasty, and recent car accident. The patient 
+also
+notes that he has had a dry cough over the past few months. He
+was recently started on Tymlos for osteoporosis, and reports 
+that
+over the weekend he experienced a squeezing in his rib cage and
+frequent urination. This symptoms resolved within a few hours 
+and
+have not recurred. His endocrinologist did not this that these
+were likely to be related to the Tymlos. 
+
+An EKG was performed in pain clinic that showed LVH with
+worsening repolarization abnormalities. He was sent to the
+emergency room for further evaluation.
+
+At the time of cardiology evaluation in the emergency room, the
+patient denied any chest pain, dyspnea, palpitations, nausea, or
+diaphoresis at rest. He also denied any recent presyncope,
+syncope or falls. He did report an episode of severe
+lightheadedness over the last month.
+
+In the ED initial vitals were: 97.8 76 136/74 18 97% RA  
+Exam: Cardiovascular exam with JVP ~7 cm H2O, harsh
+crescendo-decrescendo systolic murmur best heard over the 
+without
+radiation to the carotids, the intensity of the murmur decreases
+in intensity with hand grip and increasing in intensity with
+valsalva, lungs clear to auscultation, abdomen soft/NT/ND with
+normoactive bowel sounds, no peripheral edema. 
+EKG: NSR at 70 bpm, LAD, LVH with anterolateral repolarization
+changes, increased from prior
+Labs/studies notable for: H/H 13.2/38.4; BUN/Cr 34/1.2; trop-T
+<0.01 x2
+Consults:
+- Cardiology: Overall patient's presentation is most consistent
+with symptomatic hypertrophic obstructive cardiomyopathy. Less
+likely coronary artery disease. Although plan by the ED was to
+obtain a stress test, given significant LVOT obstruction at 
+rest,
+a stress test is likely not safe in this case. 
+- Obtain anther set of troponin
+- Obtain transthoracic echocardiogram to assess for progression
+of wall thickness, LVOT obstruction and mitral regurgitation
+- Given patient is symptomatic despite a significant dose of
+verapamil, he may need to be considered for invasive treatment
+(surgical myomectomy vs alcohol ablation) based on the findings
+from the TTE
+- If LVOT gradient is not significant on the TTE, consider 
+stress
+test to evaluate for coronary disease
+- Continue home verapamil
+Patient was given: Nothing
+ 
+Vitals on transfer: 98.5 83 143/81 16 97% RA   
+
+On the floor, the patient reports that he feels well and has no
+complaints.
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Hyperlipidemia
+
+2. CARDIAC HISTORY  
+- Hypertrophic obstructive cardiomyopathy
+- Mitral regurgitatation
+
+3. OTHER PAST MEDICAL HISTORY  
+- GERD 
+- Gout
+- Osteoporosis
+- Glaucoma
+ 
+ 
+Social History:
+___
+Family History:
+- No known family history of early MI, arrhythmia,
+cardiomyopathies, or sudden cardiac death.  
+- Mother deceased at ___ from dementia, also with congestive
+heart failure.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+VS: 99.0 137/74 80 18 96   
+GENERAL: In NAD. Oriented x3.
+HEENT: Sclera anicteric. PERRL. EOMI. Conjunctiva were pink.
+NECK: Supple. JVP of 5 cm.  
+CARDIAC: RRR, loud crescendo-decrescendo systolic murmur
+LUNGS: CTAB, no w/r/r 
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused. No peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric. 
+
+DISCHARGE PHYSICAL EXAMINATION:   
+VS: 98.9PO, 111 / 69, 76, 20, 94 RA  
+GENERAL: In NAD. Oriented x3.
+HEENT: Sclera anicteric. EOMI. Conjunctiva were pink.
+NECK: Supple. JVP not elevated.  
+CARDIAC: RRR, loud crescendo-decrescendo systolic murmur
+LUNGS: CTAB, no w/r/r 
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused. No peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+ 
+Pertinent Results:
+ADMISSION LABS: 
+===============
+___ 11:45AM BLOOD WBC-8.2 RBC-4.21* Hgb-13.2* Hct-38.4* 
+MCV-91 MCH-31.4 MCHC-34.4 RDW-13.2 RDWSD-44.3 Plt ___
+___ 11:45AM BLOOD Neuts-58.7 ___ Monos-8.3 Eos-1.1 
+Baso-0.4 Im ___ AbsNeut-4.82 AbsLymp-2.58 AbsMono-0.68 
+AbsEos-0.09 AbsBaso-0.03
+___ 11:45AM BLOOD Glucose-98 UreaN-34* Creat-1.2 Na-144 
+K-4.8 Cl-105 HCO3-25 AnGap-14
+___ 11:45AM BLOOD cTropnT-<0.01
+___ 06:10AM BLOOD Calcium-9.6 Phos-3.9 Mg-1.9
+
+RELEVANT LABS: 
+==============
+___ 11:45AM BLOOD cTropnT-<0.01
+___ 03:45PM BLOOD cTropnT-<0.01
+
+STUDIES: 
+========
+CHEST (PORTABLE AP) Study Date of ___ 
+No acute cardiopulmonary abnormality.  Normal heart size. 
+  
+Transthoracic Echocardiogram Report ___ 
+The left atrial volume index is moderately increased. There is 
+no evidence for an atrial septal defect by 2D/color Doppler. 
+There is SEVERE symmetric left ventricular hypertrophy with a 
+normal cavity size. Global left
+ventricular systolic function is hyperdynamic. Quantitative 
+biplane left ventricular ejection fraction is 87 %.Left 
+ventricular cardiac index is low normal (2.0-2.5L/min/m2) There 
+is a SEVERE resting left ventricular
+outflow tract gradient. Tissue Doppler suggests an increased 
+left ventricular filling pressure (PCWP greater than 18mmHg). 
+The right ventricular free wall is hypertrophied. Normal right 
+ventricular cavity size with normal free wall motion. The aortic 
+sinus diameter is normal with mildly dilated ascending aorta. 
+The aortic arch diameter is normal. The aortic valve leaflets 
+(3) are mildly thickened. There is no aortic valve stenosis. 
+There is mild [1+] aortic regurgitation. The mitral leaflets are 
+mildly thickened. There is valvular systolic
+anterior motion (___). There is severe [4+] mitral 
+regurgitation. There is mild pulmonic regurgitation. The 
+tricuspid valve leaflets are mildly thickened. There is 
+physiologic tricuspid regurgitation. The estimated
+pulmonary artery systolic pressure is high normal. There is no 
+pericardial effusion.
+
+IMPRESSION: Good image quality. Severe symmetric left 
+ventricular hypertrophy with hyperdynamic left ventricular 
+function. Severe dynamic eft ventricular outflow tract 
+obstruction. Severe mitral regurgitation
+related to systolic anterior motion of the anterior leaflet of 
+the mitral valve. Right ventricular hypertrophy with normal 
+cavity size and systolic function.
+Compared with the prior TTE (images not available for review) of 
+___ , the severity of mitral regurgitation is now 
+increased.
+
+DISCHARGE LABS: 
+================
+___ 06:00AM BLOOD WBC-11.3* RBC-4.22* Hgb-13.3* Hct-38.3* 
+MCV-91 MCH-31.5 MCHC-34.7 RDW-13.1 RDWSD-43.0 Plt ___
+___ 06:00AM BLOOD Neuts-61.1 ___ Monos-6.7 Eos-0.7* 
+Baso-0.4 Im ___ AbsNeut-6.93* AbsLymp-3.47 AbsMono-0.76 
+AbsEos-0.08 AbsBaso-0.04
+___ 06:00AM BLOOD Glucose-101* UreaN-27* Creat-1.2 Na-142 
+K-4.6 Cl-105 HCO3-22 AnGap-15
+___ 06:00AM BLOOD Mg-2.___ man with history of hypertrophic obstructive 
+cardiomyopathy, HLD, who presented with intermittent left chest 
+"twinging" and decreased exercise tolerance. Denies 
+dizziness/syncope/presyncope. TTE showed worsening HCM and 
+obsctruction with progressed MR since last echo.
+
+==============
+ACTIVE ISSUES:
+============== 
+
+# Chest pain: 
+Patient presenting with intermittent left chest "twinge" both at 
+rest and with exertion, as well as mildly increased dyspnea on 
+exertion. EKG without changes and trops were negative. There was 
+concern this could represent progression of his hypertrophic 
+obstructive cardiomyopathy, as detailed below. He did not have 
+any symptoms this admission and felt well. 
+
+# Hypertrophic obstructive cardiomyopathy: 
+# Mitral regurgitation: 
+Progressed hypertrophy with worse obstruction and worse MR on 
+most recent echo compared to ___ echo. He has known HCM with 
+previously documented resting gradient of 95 mmHg and peak 
+inducible gradient of 138 mmHg across the left ventricular 
+outflow tract, with septal wall 2.0 cm and inferolateral wall 
+1.8 cm, on his most recent TTE in ___. 
+
+As above, there was concern that his presenting symptoms could 
+have been related to progression of dynamic outflow tract 
+obstruction. Repeat TTE was obtained this admission (___) 
+and showed: "Severe symmetric left ventricular hypertrophy with 
+hyperdynamic left ventricular function. Severe dynamic eft 
+ventricular outflow tract obstruction. Severe mitral 
+regurgitation related to systolic anterior motion of the 
+anterior leaflet of the mitral valve. Right ventricular 
+hypertrophy with normal cavity size and systolic function. 
+Compared with the prior TTE (images not available for review) of 
+___ , the severity of mitral regurgitation is now 
+increased." 
+
+Overall disease appeared to have progressed based on echo. He 
+was monitored on telemetry without arrhythmias or events. He 
+denied any recent palpitations, dizziness, syncope, or 
+presyncope. His verapamil was increased to 240mg daily. Given 
+that the patient had minimal to no symptoms, no intervention was 
+performed and he was discharged with close outpatient cardiology 
+follow up. The Structural Heart Team was notified of him this 
+admission, but he will likely have to follow up with them as an 
+outpatient (at the discretion of his primary cardiologist). 
+
+===============
+CHRONIC ISSUES:
+===============
+
+# Hyperlipidemia: Transitional issue to consider starting statin 
+outpatient. 
+# Chronic back pain: Continued home Tylenol and gabapentin PRN 
+for now; held home diclofenac while inpatient 
+# GERD: Continued home omeprazole 
+# Gout: Continued home allopurinol
+# Osteoporosis: Continued home Tymlos 
+# Glaucoma: continued home Lumigan on discharge 
+
+=====================
+TRANSITIONAL ISSUES: 
+=====================
+
+NEW MEDS: none 
+CHANGED MEDS: Verapamil SR increased 240 mg (from 120 mg) 
+STOPPED MEDS: none
+
+- Discharge weight: 82.6 kg/182.1 lb
+- Discharge creatinine: 1.2 
+
+[] Consider starting a statin for hyperlipidemia as an 
+outpatient. 
+[] Scheduled for follow up with cardiologist Dr. ___ to 
+further discuss his HCM and MR; will need ongoing consideration 
+of whether any interventions are indicated. 
+
+# CODE STATUS: Full presumed
+# CONTACT: ___ 
+Relationship: partner 
+Phone number: ___ 
+Cell phone: ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 1000 mg PO BID 
+2. Gabapentin 300 mg PO QHS 
+3. Allopurinol ___ mg PO DAILY 
+4. Fish Oil (Omega 3) 1000 mg PO TID 
+5. ALPRAZolam 1 mg PO QHS:PRN SLEEP 
+6. Verapamil SR 120 mg PO Q24H 
+7. Multivitamins 1 TAB PO DAILY 
+8. Acyclovir 400 mg PO Q8H WHEN NEEDED 
+9. Diclofenac Sodium ___ 75 mg PO BID 
+10. abaloparatide 80 mcg (3,120 mcg/1.56 mL) subcutaneous DAILY 
+11. bimatoprost 0.03 % ophthalmic (eye) DAILY 
+12. Omeprazole 20 mg PO DAILY 
+13. Aspirin 81 mg PO DAILY 
+14. turmeric root extract unknown  oral DAILY 
+
+ 
+Discharge Medications:
+1.  Verapamil SR 240 mg PO Q24H 
+RX *verapamil 240 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  abaloparatide 80 mcg (3,120 mcg/1.56 mL) subcutaneous DAILY  
+
+3.  Acetaminophen 1000 mg PO BID  
+4.  Acyclovir 400 mg PO Q8H WHEN NEEDED  
+5.  Allopurinol ___ mg PO DAILY  
+6.  ALPRAZolam 1 mg PO QHS:PRN SLEEP  
+7.  Aspirin 81 mg PO DAILY  
+8.  bimatoprost 0.03 % ophthalmic (eye) DAILY  
+9.  Diclofenac Sodium ___ 75 mg PO BID  
+10.  Fish Oil (Omega 3) 1000 mg PO TID  
+11.  Gabapentin 300 mg PO QHS  
+12.  Multivitamins 1 TAB PO DAILY  
+13.  Omeprazole 20 mg PO DAILY  
+14.  turmeric root extract 10 units oral DAILY 
+"10 units" entered as placeholder because system will not accept 
+unknown dose.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+hypertrophic cardiomyopathy
+
+SECONDARY DIAGNOSIS: 
+hyperlipidemia, chronic back pain, GERD, osteoporosis, glaucoma 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure caring for you at ___ 
+___. 
+
+WHY WERE YOU ADMITTED? 
+- You had a "twinging" in your chest and some shortness of 
+breath with exertion. There was concern that this could 
+represent progression of your underlying heart condition 
+(hypertrophic cardiomyopathy). 
+
+WHAT HAPPENED IN THE HOSPITAL? 
+- You had an ultrasound of your heart that showed hypertrophic 
+cardiomyopathy with an associated leaky heart valve (mitral 
+regurgitation). These problems had progressed from the last 
+heart ultrasound you had several years ago. Your verapamil 
+dosing was increased for this. Because you felt very well and 
+your symptoms had basically resolved, we did not perform any 
+procedures to fix the heart problem. You should follow up with 
+your heart doctor as scheduled to continue discussing this. 
+
+WHAT SHOULD YOU DO ON DISCHARGE? 
+- Take your medications as prescribed, detailed in the following 
+pages. 
+- Go to your follow up appointments as scheduled. 
+
+We wish you the best, 
+Your ___ team
+ 
+Followup Instructions:
+___

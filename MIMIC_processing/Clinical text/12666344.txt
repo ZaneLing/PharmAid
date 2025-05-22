@@ -1,0 +1,167 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ sp TACE
+
+ 
+Major Surgical or Invasive Procedure:
+TACE ___
+ 
+History of Present Illness:
+___ with PMHx of HCV (genotype 1a, last VL 7.6M in ___, HIV 
+(dx ___, currently on salvage therapy), stage IV hepatic 
+fibrosis (no prior hx of ascites, jaundice, HE, no varices), 
+GERD, HCC, h/o IVDU, currently incarcerated, who presents for 
+post-TACE monitoring. 
+
+Pt underwent abdominal MRI in outpatient setting on ___ and 
+was found to have a 3.5x2.5cm lesion at the dome of the liver 
+which demonstrated arterial enhancement, washout and a 
+pseudocapsule. Pt was referred for evaluation by Heme/Onc (Dr. 
+___ and ___ and was scheduled for TACE. He underwent 
+uneventful TACE on ___ccess. 
+
+Post-procedure, pt reports feeling well, without any complaints. 
+
+
+On ROS, he denies CP, SOB, nausea, vomiting, fevers, chills or 
+abd pain. 10 point ROS otherwise negative. 
+
+ 
+Past Medical History:
+HCV (genotype 1a, last VL 7.6M in ___, HIV (dx ___, 
+currently on salvage therapy), stage IV hepatic fibrosis (no 
+prior hx of ascites, jaundice, HE, no varices), GERD, HCC
+ 
+Social History:
+___
+Family History:
+Uncle - HCV, ___  
+Grandfather - MI
+ 
+Physical ___:
+ADMISSION
+VS: 97.8, 110/62, 56, 18, 98%RA
+Gen: Pleasant, NAD
+HEENT: PERRL, EOMI, MMM
+Neck: Supple, no JVD or LAD
+Lungs: LCTA-bl, no w/r/r
+Heart: RRR, no MRG, nl S1 and S2
+Abd: +NABS, Soft, NTND, no HSM
+Ext: FROM, no c/e/e; L radial site with dressing c/d/i
+Neuro: CNII-XII intact, strength symmetric and intact (with 
+limitation of pt being in handcuffs). No asterixis on 
+brief/limited exam (attempting to keep L wrist in neutral 
+position)
+
+DISCHARGE
+VS: 98.3, 146/82, 68, 18, 98%RA
+Pain 0
+Gen: Pleasant, NAD
+HEENT: anicteric sclera
+Neck: Supple
+Lungs: CTAB
+Heart: RRR, no MRG, nl S1 and S2
+Abd: +NABS, Soft, NTND, no HSM
+Ext: no c/e/e
+Neuro: alert, answering questions appropriately, follows 
+commands
+ 
+Pertinent Results:
+___ 11:45AM BLOOD WBC-9.7 RBC-4.72 Hgb-14.5 Hct-43.0 MCV-91 
+MCH-30.7 MCHC-33.7 RDW-13.9 RDWSD-46.4* Plt ___
+___ 11:45AM BLOOD ___
+___ 11:45AM BLOOD UreaN-14 Creat-0.7 Na-139 K-4.0 Cl-105
+___ 11:45AM BLOOD ALT-120* AST-129* AlkPhos-156* 
+TotBili-1.1
+___ 11:45AM BLOOD Calcium-9.9
+___ 11:45AM BLOOD AFP-751.4*
+
+ 
+TACE FINDINGS: 
+1. Variant hepatic arterial anatomy with a replaced right 
+hepatic artery 
+arising from the superior mesenteric artery. The left hepatic 
+artery arises from the left gastric artery. A middle hepatic 
+artery arises from the common hepatic artery. 
+2. Pre-embolization arteriogram showing tumor blush in segment 
+8, supplied by branches of the replaced right hepatic artery. 
+3. Successful chemoembolization of branches of the replaced 
+right hepatic 
+artery. 
+4. Post embolization noncontrast cone beam CT demonstrates good 
+treatment 
+staining of the tumor. 
+IMPRESSION:  
+Successful left radial artery approach trans-arterial 
+chemoembolization of 
+segment 8 hepatic tumor with DEB TACE. 
+
+ 
+Brief Hospital Course:
+___ w/advanced liver fibrosis, HCV and HIV who was found to have 
+a 3.5 cm mass on MRI meeting OPTN5B criteria for hepatocellular 
+carcinoma, stage IV fibrosis, ECOG 0, presenting s/p TACE. Pt 
+received 1000ml D5NS continuous at 100ml/hr for 24 hours. He had 
+no pain or fever following procedure. His labs remained stable. 
+He will need to follow up with ___ clinic in 1 week, MRI in 1 
+month and oncology as previously scheduled.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Abacavir Sulfate 300 mg PO BID 
+2. Fosamprenavir 700 mg PO Q12H 
+3. Raltegravir 400 mg PO BID 
+4. RiTONAvir 100 mg PO BID 
+5. Omeprazole 20 mg PO BID 
+
+ 
+Discharge Medications:
+1. Abacavir Sulfate 300 mg PO BID 
+2. Fosamprenavir 700 mg PO Q12H 
+3. Omeprazole 20 mg PO BID 
+4. Raltegravir 400 mg PO BID 
+5. RiTONAvir 100 mg PO BID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Hepatocellular carcinoma
+# HIV
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to participate in your care at ___. You were 
+admitted for a TACE procedure. You were monitored after the 
+procedure. Please follow up with your hematologist and in the 
+___ clinic in 1 week. We recommend a repeat MRI of your liver 
+in 1 month.
+
+Best Regards,
+Your ___ Medicine Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,339 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with a history of a congenitally 
+enlarged right ventricle, Raynaud's syndrome, and history of 
+spontaneous pneumothorax who presents from an OSH after a 
+syncopal episode during exercise.
+
+Mr. ___ states that he was exercising (cardio, weights) at the 
+gym with a trainer when he began to develop nausea and 
+diaphoresis. He endorses tachycardia at this time but feels that 
+it was consistent with his exertion at the time. He denies 
+palpitations or chest pain. He then went to the bathroom in an 
+attempt to vomit but was unable to; he then woke up on the floor 
+approximately 30 seconds later. He felt weak and fatigued after 
+the episode, though per his trainer's report, he did not have 
+any tonic clonic movements or tongue biting. Upon trying to 
+stand, he was unable to bear weight on his left leg. Of note, 
+this was the first time that Mr. ___ had worked out with a 
+trainer in 3 months, though he states he exercised at home in 
+the interim. Prior to exercising he notes that he ate 4 eggs and 
+denies any supplement use.
+
+EMS was then contacted and he was transported to ___. 
+En route, he developed a headache that was ___ in intensity, 
+started in the left occipital region and spread to encompass his 
+entire head. He states that he felt "foggy" throughout this 
+time. He was also noted to be hypotensive but was normotensive 
+upon arrival to the OSH.
+
+At the OSH, he continued to endorse generalized weakness. An EKG 
+showed sinus rhythm. Both a CT/CTA of the head and neck and MRI 
+of the cervical and thoracic spine were performed. The CT/CTA of 
+the head was negative for any acute pathology including 
+hemorrhage, acute infarct, mass, vessel thrombus or dissection. 
+Of note, there was a  right inferior lobe thyroid nodule with 
+extension into the superior mediastinum. The MRI of the cervical 
+and thoracic spine was negative for ischemia or cord injury. He 
+was subsequently transferred here for evaluation of a potential 
+spinal cord injury.
+
+In the ED, initial vitals were: T 99, HR 104, BP 127/77, RR 18, 
+O2 100% RA. Repeat EKG showed sinus tachycardia. Labs were 
+notable for a bicarb of 20, CK of 122, TSH of 0.99, and WBC of 
+12. He was given ondansetron 4 mg IV, morphine sulfate 4 mg IV, 
+and 1L NS. Neurology was consulted and felt that neither his 
+sensory nor motor exam were consistent with a specific pattern. 
+Cardiology was consulted and recommended echo, which 
+demonstrated right ventricular cardiomyopathy. He was then 
+transferred to the floor for further workup and management.
+
+On the floor, he states that he is much improved, noting a ___ 
+headache and improved strength. 
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. RVH in-utero (care at ___)
+2. Lethargy/twitches seen at ___ as child
+3. Spontaneous pneumothorax
+4. Raynaud's syndrome
+5. Strep bacteremia at 6 months old
+6. s/p tonsillectomy
+7. s/p adenoidectomy
+ 
+Social History:
+___
+Family History:
+Father (___); anxiety, HTN, hypercholesterolemia. Mother (___); no 
+known history. Grandfather and aunt with epilepsy. No known 
+history of thyroid disease or bleeding disorders. 
+ 
+Physical Exam:
+===================
+Admission Exam: 
+===================
+Vital Signs:  T 98.5 P 82 (82-85) BP 126/87 (126-133/77-87) O2 
+98 RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI with slight 
+nystagmus/jerk upon left lateral gaze, PERRL, neck supple, no 
+LAD, thyroid with no appreciable nodules 
+CV: Regular rate and rhythm, split S1, normal S2, no murmurs, 
+rubs, gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, non-edematous
+Neuro: CNII-XII intact, ___ strength left lower extremity, ___ 
+strength upper extremities bilaterally and right lower 
+extremity, grossly normal sensation, gait deferred, no 
+dysmetria, no dysdiadochokinesia 
+ 
+===================
+Discharge Exam: 
+===================
+Vital Signs:  T 97.8 P 75 (71-75) BP 100/60 (100-133/60-87) R 22 
+(___) O2 100 RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI with slight 
+nystagmus/jerk upon left lateral gaze, PERRL
+CV: Regular rate and rhythm, split S1, normal S2, no murmurs, 
+rubs, gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, non-edematous
+Neuro: CNII-XII intact, ___ strength throughout, grossly normal 
+sensation, gait deferred, no dysmetria, no dysdiadochokinesia 
+  
+ 
+Pertinent Results:
+===================
+ADMISSION RESULTS
+===================
+___ 11:30PM BLOOD WBC-12.0* RBC-4.59* Hgb-14.1 Hct-40.0 
+MCV-87 MCH-30.7 MCHC-35.3 RDW-12.2 RDWSD-39.1 Plt ___
+___ 11:30PM BLOOD Neuts-76.9* Lymphs-14.3* Monos-7.5 
+Eos-0.7* Baso-0.4 Im ___ AbsNeut-9.26* AbsLymp-1.72 
+AbsMono-0.90* AbsEos-0.08 AbsBaso-0.05
+___ 11:30PM BLOOD Plt ___
+___ 11:30PM BLOOD Glucose-65* UreaN-19 Creat-0.8 Na-140 
+K-3.8 Cl-107 HCO3-20* AnGap-17
+___ 11:30PM BLOOD CK(CPK)-122
+___ 11:30PM BLOOD Calcium-9.3 Phos-4.3 Mg-2.1
+___ 11:30PM BLOOD TSH-0.99
+___ 11:30PM BLOOD ASA-NEG Acetmnp-NEG Bnzodzp-NEG 
+Barbitr-NEG Tricycl-NEG
+___ 01:00AM URINE Color-Yellow Appear-Clear Sp ___
+___ 01:00AM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-150 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 01:00AM URINE RBC-1 WBC-1 Bacteri-NONE Yeast-NONE Epi-0
+___ 01:00AM URINE Mucous-RARE
+___ 01:00AM URINE bnzodzp-NEG barbitr-NEG opiates-POS 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+===================
+DISCHARGE RESULTS 
+===================
+___ 06:25AM BLOOD WBC-5.7# RBC-4.72 Hgb-14.4 Hct-41.9 
+MCV-89 MCH-30.5 MCHC-34.4 RDW-12.2 RDWSD-39.8 Plt ___
+___ 06:25AM BLOOD Plt ___
+___ 06:25AM BLOOD Glucose-89 UreaN-13 Creat-0.8 Na-139 
+K-4.4 Cl-103 HCO3-26 AnGap-14
+___ 06:25AM BLOOD Calcium-10.0 Phos-3.3 Mg-1.8
+===================
+MICROBIOLOGY
+===================
+None 
+===================
+IMAGING 
+===================
+ECG Study Date of ___  6:39:52 ___ 
+Sinus tachycardia. Non-specific ST-T wave abnormalities, 
+probably rate 
+related with upsloping ST segment depressions in leads V2-V6. No 
+previous 
+tracing available for comparison. Clinical correlation is 
+suggested.  
+Heart Rate 113 PR129 QRS91 QT318 QTc410/436
+
+EEG Study Date of ___ 
+Impression: Normal routine EEG during wakefulness and brief 
+drowsiness.   
+
+Portable TTE (Congenital, complete) Done ___ at 12:21:55 
+___      FINAL 
+The left atrium is normal in size. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF = 60%). Tissue Doppler imaging suggests a normal 
+left ventricular filling pressure (PCWP<12mmHg). The right 
+ventricular free wall thickness is normal. The right ventricular 
+cavity is mildly dilated with mild global free wall hypokinesis 
+(fractional area change = 34%; normal > 40%). The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve appears structurally normal with 
+trivial mitral regurgitation. The pulmonary artery systolic 
+pressure could not be determined. There is no pericardial 
+effusion. 
+IMPRESSION: right ventricular cardiomyopathy  
+
+MR HEAD W/O CONTRAST Study Date of ___ 8:30 AM   
+1. Unremarkable MRI and MRV of the brain with no evidence for 
+sinus venous 
+thrombosis. 
+
+ 
+Brief Hospital Course:
+======================
+Hospital Course
+======================
+Mr. ___ is a ___ year old male with a history of a congenitally 
+enlarged right ventricle who presented from an OSH after a 
+syncopal episode followed by left sided weakness and headache, 
+likely consistent with a neurocardiogenic etiology. 
+
+# Syncope: Mr. ___ experienced a syncopal episode in the 
+setting of exertion that was followed by a few hours of 
+confusion/fatigue, as well as two days of left sided weakness 
+that gradually improved. By the time of discharge, Mr. ___ was 
+fully functional. This was thought to be neurocardiogenic in 
+etiology given prodrome of nausea and diaphoresis in the setting 
+of volume depletion and intense exercise. However, to rule out 
+other etiologies including seizure, acute intracranial processes 
+(e.g. hemorrhage, ischemia), and cardiac arrhythmia, cardiology 
+and neurology were consulted. Mr. ___ underwent various studies 
+while hospitalized including EKG (normal sinus rhythm), 
+telemetry (no arrhythmia noted), EEG (negative for epileptiform 
+changes), and MRI/MRV (normal without evidence of sinus venous 
+thrombosis). Of note, echocardiogram demonstrated right 
+ventricular cardiomyopathy. This was considered as a potential 
+contributing factor but less likely given lack of arrhythmia on 
+telemetry/EKG.
+
+# Muscle weakness: Mr. ___ developed left sided weakness after 
+his syncopal event that had resolved by the time of discharge. 
+This was thought to be secondary to muscle fatigue. Other 
+etiologies were also considered but felt to be less likely, 
+including post-ictal state (EEG normal), electrolyte abnormality 
+(electrolytes were normal), myopathy (CK normal), and focal 
+neurologic process (MRI/MRV were normal).
+
+# Ketonuria: Urinalysis demonstrated 150 ketones upon admission. 
+This was likely secondary to starvation/carbohydrate-poor diet 
+(for example, ate only 4 eggs prior to workout). This is less 
+likely secondary to diabetes given lack of hyperglycemia 
+(glucose on admission was 53). 
+
+# Anion gap metabolic acidosis: Mr. ___ had a bicarb of 20 on 
+admission with a slightly elevated anion gap of 13; resolved to 
+26 on the day of discharge. Given history of exertion and 
+syncope, this was likely secondary to lactic acidosis. 
+
+# Leukocytosis: Mr. ___ had a WBC of 12 on admission, decreased 
+to 5.7 on day of discharge. Though to be secondary to stress; 
+less likely infection given lack of localizing signs or 
+symptoms.
+
+======================
+Transitional Issues
+======================
+======================
+Transitional Issues
+======================
+1. Right ventricular cardiomyopathy was demonstrated on echo. 
+Given history of enlarged right ventricle in-utero, patient will 
+need cardiology follow-up and consider cardiac MRI. Please 
+ensure this occurs. 
+2. Thyroid nodule demonstrated on CT extending into the 
+mediastinum. TSH was normal at 0.99. Consider further evaluation 
+by ultrasound or other workup as clinically warranted. 
+
+======================
+Other
+======================
+# CODE:  Full code (presumed)
+# CONTACT:  ___ (mother) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+===================
+Primary Diagnoses
+===================
+1. Syncope
+
+===================
+Secondary Diagnoses
+===================
+1. Thyroid nodule
+2. Muscle weakness
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you during your stay at ___. 
+
+You were admitted to the hospital after you passed out while 
+exercising. This was likely due to exercising without enough 
+fluid and food in your body. You had an EEG which did not show 
+any signs of seizure. You also had an MRI which did not show any 
+signs of abnormalities in your brain or blood vessels. While in 
+the hospital, you remained on a heart monitor which did not show 
+any irregular rhythms. In the future, you should be sure to 
+drink plenty of fluids prior to exercising. 
+
+On one of the imaging tests we performed, we also found a nodule 
+on your thyroid. While your thyroid function tests were normal, 
+it is very important that you follow up further imaging or 
+workup of this nodule with your primary care physician. 
+
+Please follow up with your primary care physician (PCP) in the 
+next few days after you leave the hospital. You will also need 
+follow up with a cardiologist after you leave the hospital and 
+with the neurology urgent care clinic in 2 weeks. We have 
+provided you with phone numbers that you can call to make your 
+cardiology and neurology appointments. 
+ 
+
+Best wishes!
+Your ___ Team
+ 
+Followup Instructions:
+___

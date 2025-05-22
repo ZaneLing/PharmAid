@@ -1,0 +1,290 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ PMH hypothyroidism, no cardiac hx, who presents with chest
+pain and non-specific EKG changes.
+
+The patient has been experiencing this particular pain for ~6
+months, during which she has experienced it 3 times. This is
+non-exertional tightness that occurs in a band under the breasts
+bilaterally and is accompanied by dyspnea, nausea, and radiates
+to the neck. The discomfort goes away spontaneously within 5
+minutes every time. She experienced this symptoms on ___
+morning (5 min) and then they were so bad that they woke her 
+from
+sleep at 3 AM last night. Her doctor told her to present to the
+ED. She has no chest pain in the ED and the nitro that she
+received did not affect the way she felt. Denies recent fevers,
+chills, shortness of breath, cough, vomiting, diarrhea, leg
+swelling, personal history of heart disease, family history of
+heart disease aside from above. 
+
+In the ED initial vitals were:  98.3 70 135/75 18 99% RA 
+
+EKG: Sinus 62, NL axis, Q3, TWI 3, TWI V3, TWF V4-V5
+
+Labs/studies notable for:  
+Trop-T: <0.01
+143  ___   AGap=14 
+=============
+4.0  23  0.7  
+
+5.9 > 13.9 < 206 
+      41.5  
+
+CTA CHEST: 
+1. Motion limited exam. No evidence of acute central pulmonary
+embolism or aortic abnormality.
+2. Mild cardiomegaly. No pulmonary edema or pleural effusion.
+3. 9 mm right upper outer breast/axilla soft tissue nodule of
+uncertain etiology. Recommend dedicated imaging with mammography
+and/or ultrasound if not already performed to further evaluate.
+4. Indeterminate 8-mm left T8 vertebral body sclerotic lesion,
+could be a bone island.
+5. 8 mm hypodense right thyroid nodule. Given small size and
+patient age, no specific imaging follow-up is required unless 
+the
+patient has specific risk
+factors.
+
+CXR:
+Mild cardiomegaly, pectus excavatum deformity of the sternum,
+otherwise unremarkable. 
+
+Patient was given:  Nitro 0.4mg, Diphenhydramine 25mg
+
+Vitals on transfer: 97.9 72 111/63 18 99% RA 
+
+On the floor patient is completely asymptomatic. She tells me 
+she
+did not think that she was having a heart attack and she is only
+here because her doctor told her to. 
+
+REVIEW OF SYSTEMS:  
+Complete ROS obtained and is otherwise negative.
+ 
+Past Medical History:
+Hypothyroidism 
+Colon adenoma (last ___ normal bx in ___
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.
+ 
+Physical Exam:
+Admission Exam: 
+============
+VITALS:  97.6 131/85 62 16 100 RA 
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor.  
+NECK: Supple with JVP wnl.  
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops.
+LUNGS: Resp were unlabored, no accessory muscle use. No 
+crackles,
+wheezes or rhonchi. 
+ABDOMEN: Soft, NTND. No tenderness.  
+EXTREMITIES: No c/c/e.
+SKIN: No lesions, WWP.  
+PULSES: Distal pulses palpable and symmetric 
+
+Discharge Exam: 
+============
+VITALS: T 97.8  BP 116 / 73HR 78 RR 16SO2 96 RA
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor.  
+NECK: Supple with JVP wnl.  
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops.
+LUNGS: Resp were unlabored, no accessory muscle use. No 
+crackles,
+wheezes or rhonchi. 
+ABDOMEN: Soft, NTND. No tenderness.  
+EXTREMITIES: No c/c/e.
+SKIN: No lesions, WWP.  
+PULSES: radialis and dorsalis pedis pulses palpable bilaterally
+
+ 
+Pertinent Results:
+Labs on Admission: 
+==============
+___ 01:47PM BLOOD WBC-5.9 RBC-4.66 Hgb-13.9 Hct-41.5 MCV-89 
+MCH-29.8 MCHC-33.5 RDW-12.4 RDWSD-40.4 Plt ___
+___ 01:47PM BLOOD Neuts-51.2 ___ Monos-5.6 Eos-6.3 
+Baso-0.8 Im ___ AbsNeut-3.03 AbsLymp-2.12 AbsMono-0.33 
+AbsEos-0.37 AbsBaso-0.05
+___ 01:47PM BLOOD Plt ___
+___ 01:47PM BLOOD Glucose-98 UreaN-13 Creat-0.7 Na-143 
+K-4.0 Cl-106 HCO3-23 AnGap-14
+___ 01:47PM BLOOD cTropnT-<0.01
+___ 05:43PM BLOOD cTropnT-<0.01
+
+Labs on Discharge:
+==============
+___ 05:25AM BLOOD WBC-4.8 RBC-4.61 Hgb-13.6 Hct-41.1 MCV-89 
+MCH-29.5 MCHC-33.1 RDW-12.5 RDWSD-40.6 Plt ___
+___ 05:25AM BLOOD ___
+___ 05:25AM BLOOD Glucose-84 UreaN-17 Creat-0.9 Na-142 
+K-4.4 Cl-107 HCO3-23 AnGap-12
+___ 05:25AM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 05:25AM BLOOD Calcium-8.8 Phos-4.5 Mg-2.4 Cholest-133
+___ 05:25AM BLOOD Triglyc-44 HDL-77 CHOL/HD-1.7 LDLcalc-47
+
+Imaging:
+======
+___:
+INTERPRETATION: This ___ yo woman was referred to the lab from 
+the
+inpatient floor following negative serial cardiac enzymes for 
+evaluation
+of chest discomfort and abnormal EKG. The patient exercised for 
+10
+minutes of ___ protocol and was stopped for fatigue. The 
+estimated
+peak MET capacity was 11, which represents a good exercise 
+tolerance for
+her age. There were no reports of chest, back, neck, or arm 
+discomforts
+during the study. There were no significant ST changes noted 
+during
+exercise. The baseline NSSTTWs normalized during exercise and 
+returned
+back to baseline during recovery. However by 9 minutes of 
+recovery,
+0.5-___epression was noted in the inferior 
+leads and
+V4-V6. These changes resolved back to baseline by 18 minutes of 
+recovry.
+Rhythm was sinus with rare isolated APBs and one VPB. There was 
+an
+appropriate heart rate and blood pressure response during 
+exercise and
+recovery.
+IMPRESSION: Borderline ischemic EKG changes during recovery in 
+the
+absence of anginal type symptoms. Good functional capacity.
+  
+___ CHEST:
+1.  No evidence of acute pulmonary embolism to the proximal 
+segmental level. 
+No aortic abnormality.
+2.  No pulmonary edema or pleural effusion.
+3.  9 mm right upper outer breast/axilla soft tissue nodule of 
+uncertain
+etiology though likely a lymph node.  Recommend dedicated 
+imaging with
+mammography and/or ultrasound if not already performed to 
+further evaluate.
+4.  Indeterminate 8-mm left T8 vertebral body sclerotic lesion, 
+likely a bone
+island.
+   
+___ (PA & LAT):
+Mild cardiomegaly, pectus excavatum deformity of the sternum, 
+otherwise
+unremarkable.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo F c a PMH of hypothyroidism, no cardiac 
+history, who presented with chest pain and non-specific EKG 
+change. 
+
+#Chest Pain:
+History is atypical for ischemia with non-specific EKG changes.
+A CT was negative for PE or aortic disease. Serial troponin 
+levels were normal. 
+She underwent exercise tolerance testing. The patient was 
+asymptomatic during the study and there were no significant ST 
+changes noted.
+The patient was discharged to follow-up with her primary care 
+physician for referral for outpatient stress echocardiography. 
+The patient was instructed to immediately return to the 
+emergency department for recurrent chest pain. 
+
+#Incidental Findings: 
+- A right upper outer breast/axilla soft tissue nodule of 
+uncertain
+etiology was noted on CT imaging. Recommend dedicated imaging 
+with mammography and/or ultrasound if not already performed to 
+further evaluate. 
+
+- An 8 mm hypodense right thyroid nodule was noted on CT 
+imaging. Given small size and patient age, no specific imaging 
+follow-up is required unless the
+patient has specific risk factors. 
+
+Transitional Issues: 
+====================
+[] patient needs outpatient stress echocardiography
+[] patient needs mammography and/or ultrasound for right upper 
+outer breast/axilla soft tissue nodule 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 25 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Levothyroxine Sodium 25 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+chest pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You presented to the hospital after an episode of chest pain. 
+Serial blood test were reassuring for NO signs of an acute 
+myocardial infarction (heart attack). An exercise tolerance test 
+was reassuring as you did not experience any symptoms while you 
+where exercising and the EKG did not show signs of inadequate 
+blood supply to your heart. 
+
+Please follow-up with your primary care physician ___ 4 days 
+of discharge for an outpatient stress echocardiogram. 
+
+Please present to the emergency department for recurrent chest 
+pain. 
+
+It was a pleasure providing care for you! We wish you the best 
+in your health!
+
+Sincerely, your ___ CARDIOLOGY team!
+ 
+Followup Instructions:
+___

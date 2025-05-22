@@ -1,0 +1,220 @@
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+s/p fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo M w/ h/o CHF (LVEF ___, AF on Coumadin, ICD d/t VT, 
+presents from OSH s/p fall with SDH now s/p K centra and vit K. 
+Pt was standing at bottom of stairs when tripped backwards, 
+losing balance, falling/hitting back L of head. No LOC or 
+preceding symptoms. Went to PCP, then OSH where CT head showed 
+small SDH, so pt given K centra and vit K. 
+ 
+Past Medical History:
+Atrial fibrillation on Coumadin  
+ ICD ___ placed ___ at ___  
+ non-ischemic cardiomyopathy  
+ Mitral Valve insufficiency  
+Asthma  
+
+ 
+Social History:
+___
+Family History:
+noncontributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+O: T: 98.1 BP: 111/60   HR: 60    R: 18 
+Gen: WD/WN, comfortable, NAD.
+HEENT: L scalp laceration with sutures. 
+Pupils:  PERRL  EOMs Full
+Neck: Supple.
+Lungs: No respiratory distress
+Abd: NT/ND
+Extrem: Warm and well-perfused.
+Neuro: Mental status: Awake and alert, cooperative with exam,
+normal affect. 
+
+Discharge Physical Exam:
+VS: 97.8, 61, 102/60, 18, 97%ra
+Gen: A&O x3, ___ speaking
+HEENT: left scalp lac, scabbed over
+CV: HRR
+Pulm: LS ctab
+Abd: soft NT/ND
+Ext: No edema
+
+ 
+Pertinent Results:
+___ 05:15AM BLOOD WBC-5.9 RBC-4.58* Hgb-10.5* Hct-34.2* 
+MCV-75* MCH-22.9* MCHC-30.7* RDW-15.7* RDWSD-41.9 Plt ___
+___ 10:10PM BLOOD WBC-10.2*# RBC-4.85 Hgb-11.4* Hct-36.0* 
+MCV-74* MCH-23.5* MCHC-31.7* RDW-15.8* RDWSD-41.1 Plt ___
+___ 05:15AM BLOOD Glucose-107* UreaN-25* Creat-1.1 Na-141 
+K-3.8 Cl-106 HCO3-25 AnGap-14
+___ 10:10PM BLOOD Glucose-125* UreaN-44* Creat-1.4* Na-135 
+K-5.0 Cl-100 HCO3-22 AnGap-18
+___ 05:15AM BLOOD Calcium-8.4 Phos-2.5* Mg-2.4
+
+Radiology: 
+___ - CT head: small SDH at the left frontoparietal lobe
+___ - CT chest: left medical clavicular Fx, left 4th rib Fx
+ 
+Brief Hospital Course:
+___ y/o M with Afib on Coumadin, s/p mechanical fall with SDH. 
+Also found to have left 4th rib fracture and left clavicle 
+fracture. INR 1.1 at time of transfer to ___.  Neurosurgery 
+was consulted and recommended repeat Head CT, which was stable. 
+The patient was hemodynamically stable. He was admitted for 
+neurological monitoring and ___. 
+
+Neurosurgery recommended keppra x 7 days and vitamin K x 3 days. 
+Coumadin was to be held for 7 days. Tertiary exam was negative 
+for any other injuries. The patient worked with ___ who cleared 
+him for home. The patient remained  neurologically and 
+hemodynamically intact. 
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs.  The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled.  The patient was discharged home without services. 
+The patient and family member received discharge teaching and 
+follow-up instructions with understanding verbalized and 
+agreement with the discharge plan
+ 
+Medications on Admission:
+Amiodarone, Furosemide, Lisinopril, Metoprolol
+Succinate XL
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth every six (6) 
+hours Disp #*40 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*20 Capsule Refills:*0 
+3.  LevETIRAcetam 500 mg PO BID Duration: 7 Days 
+RX *levetiracetam 500 mg 1 tablet(s) by mouth twice a day Disp 
+#*13 Tablet Refills:*0 
+4.  Phytonadione 10 mg PO ONCE Duration: 1 Dose 
+take on ___.  TraMADol 50 mg PO Q6H:PRN Pain - Moderate 
+RX *tramadol 50 mg 1 tablet(s) by mouth every six (6) hours Disp 
+#*15 Tablet Refills:*0 
+6.  Amiodarone 200 mg PO DAILY  
+7.  Furosemide 20 mg PO DAILY  
+8.  Lisinopril 5 mg PO DAILY  
+9.  Metoprolol Succinate XL 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Left subdural hematoma
+Left clavicular fracture 
+Left 4th rib fracture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to ___ after a mechanical fall. CT scan 
+revealed you had an intracranial bleed, a left sided rib 
+fracture and a left clavicle fracture. Because you are on a 
+blood thinner, a repeat head CT scan was obtained, which did not 
+show the bleeding in your head to be getting any worse. You have 
+worked with Physical Therapy, and you are medically clear to be 
+discharged home to continue your recovery. You should not take 
+your Coumadin for 7 days (___). You are also being 
+prescribed a new medication, Keppra, to prevent seizures from 
+the blood in your head. You should take this for 7 days. You 
+will also need one more dose of Vitamin K tomorrow. You will be 
+provided with prescriptions for these medications, and pain 
+medicine. You will need to follow-up at the appointments listed 
+below. Please note the following discharge instructions:
+
+* Your injury caused one rib fracture and a left clavicle 
+fracture which can cause severe pain and subsequently cause you 
+to take shallow breaths because of the pain.
+ 
+* You should take your pain medication as directed to stay ahead 
+of the pain otherwise you won't be able to take deep breaths. If 
+the pain medication is too sedating take half the dose and 
+notify your physician.
+ 
+* Pneumonia is a complication of rib fractures.  In order to 
+decrease your risk you must use your incentive spirometer 4 
+times every hour while awake.  This will help expand the small 
+airways in your lungs and assist in coughing up secretions that 
+pool in the lungs.
+ 
+* You will be more comfortable if you use a cough pillow to hold 
+against your chest and guard your rib cage while coughing and 
+deep breathing.
+ 
+* Symptomatic relief with ice packs or heating pads for short 
+periods may ease the pain.
+ 
+* Narcotic pain medication can cause constipation therefore you 
+should take a stool softener twice daily and increase your fluid 
+and fiber intake if possible.
+ 
+* Do NOT smoke
+ 
+* If your doctor allows, non-steroidal ___ drugs 
+are very effective in controlling pain ( ie, Ibuprofen, Motrin, 
+Advil, Aleve, Naprosyn) but they have their own set of side 
+effects so make sure your doctor approves.
+ 
+* Return to the Emergency Room right away for any acute 
+shortness of breath, increased pain or crackling sensation 
+around your ribs (crepitus).
+
+Return to the Emergency Department or see your own doctor right 
+away if any problems develop, including the following:
+ Persistent nausea or vomiting.
+ Increasing confusion, drowsiness or any change in alertness.
+ Loss of memory.
+ Dizziness or fainting.
+ Trouble walking or staggering.
+ Worsening of headache or headache feels different.
+ Trouble speaking or slurred speech.
+ Convulsions or seizures. These are twitching or jerking 
+movements of the eyes, arms, legs or body.
+ A change in the size of one pupil (black part of your eye) as 
+compared to the other eye.
+ Weakness or numbness of an arm or leg.
+ Stiff neck or fever.
+ Blurry vision, double vision or other problems with your 
+eyesight.
+ Bleeding or clear liquid drainage from your ears or nose.
+ Very sleepy (more than expected) or hard to wake up.
+ Unusual sounds in the ear.
+ Any new or increased symptoms
+
+ 
+ 
+Followup Instructions:
+___

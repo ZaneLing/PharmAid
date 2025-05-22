@@ -1,0 +1,333 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Coronary angiogram (___)
+
+ 
+History of Present Illness:
+___ with h/o HTN who is not compliant with medications presents
+to the ED from OSH with c/o chest pain. He states that he was
+walking up stairs at work yesterday when he developed a crushing
+chest pain radiating under both armpits and down both arms. He
+denied any associated shortness of breath, nausea, or 
+diaphoresis
+at that time. The pain resolved but came back later in the day
+and persisted. He was seen at ___ where he had a negative
+troponin but dynamic T-wave changes. He was given 3x doses of
+sublingual nitroglycerin, full dose ASA, and heparin. He was
+started on a nitroglycerin drip and has been persistently
+hypertensive with SBP 150s. He was transferred to ___ as an
+NSTEMI with plans to go the cath lab. He was brought to the ED
+where he continued to have crushing chest pain. The nitro gtt
+brought the chest pain down to ___. He underwent a coronary
+angiogram, which showed clean coronaries.
+
+In the ED...  
+- Initial vitals: BP 134/118, HR 78, RR 17, 98% RA
+
+- EKG: New TWIs in V4-V6
+ 
+- Labs/studies notable for:  
+Trop: 0.04
+CBC, Chem-7 unremarkable
+
+- Patient was given: 
+Heparin gtt
+Nitro gtt
+  
+- Vitals on transfer: BP 113/68, HR 72, RR 16, 93% RA
+ 
+Upon admission to the cardiology service, patient endorsed the
+above history. He states that the pain was not associated with
+eating, nausea, vomiting, or heartburn. He denies any recent
+trauma to the area. He has never had this pain before. He denies
+claudication symptoms and denies numbness or tingling in his
+fingers and toes. 
+ 
+REVIEW OF SYSTEMS: 10 point ROS was obtained and was otherwise
+negative except as mentioned in the HPI. 
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS   
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+Migraine
+Pituitary adenoma
+Tobacco dependence
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.  
+ 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+========================
+VITALS: ___ 1113 Temp: 97.5 PO BP: 119/75 L Lying HR: 70 
+RR:
+16 O2 sat: 95% O2 delivery: Ra   
+GENERAL: Appears younger than stated age. Laying in bed. NAD.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: JVP not elevated at 45 degrees. 
+CARDIAC: RRR, S1, S2. No murmurs/rubs/gallops. Chest pain
+non-reproducible upon palpation.
+LUNGS: Resp were unlabored, no accessory muscle use. No 
+crackles,
+wheezes or rhonchi.  
+ABDOMEN: +BS. Non-distended, soft, non-tender to palpation.  
+EXTREMITIES: Warm, no edema.  
+PULSES: Distal pulses palpable and symmetric.
+ 
+DISCHARGE PHYSICAL EXAM
+========================
+VITALS: ___ 1551 Temp: 98.2 PO BP: 147/93 R Sitting HR: 99 
+RR: 16 O2 sat: 97% O2 delivery: RA 
+GENERAL: Appears younger than stated age. Laying in bed. NAD.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: JVP not elevated at 45 degrees. 
+CARDIAC: RRR, S1, S2. No murmurs/rubs/gallops. Chest pain
+non-reproducible upon palpation.
+LUNGS: Resp were unlabored, no accessory muscle use. No 
+crackles,
+wheezes or rhonchi.  
+ABDOMEN: +BS. Non-distended, soft, non-tender to palpation.  
+EXTREMITIES: Warm, no edema.  
+PULSES: Distal pulses palpable and symmetric.
+ 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 06:26AM BLOOD WBC-7.3 RBC-5.53 Hgb-15.1 Hct-47.8 MCV-86 
+MCH-27.3 MCHC-31.6* RDW-13.7 RDWSD-43.2 Plt ___
+___ 06:26AM BLOOD Neuts-72.8* ___ Monos-4.0* 
+Eos-0.3* Baso-0.3 Im ___ AbsNeut-5.32 AbsLymp-1.62 
+AbsMono-0.29 AbsEos-0.02* AbsBaso-0.02
+___ 06:26AM BLOOD Glucose-123* UreaN-15 Creat-1.0 Na-142 
+K-4.3 Cl-105 HCO3-21* AnGap-16
+___ 06:26AM BLOOD cTropnT-0.04*
+___ 01:16PM BLOOD CK-MB-29* cTropnT-0.33*
+___ 09:30PM BLOOD CK-MB-35* cTropnT-1.01*
+
+DISCHARGE LABS
+===============
+___ 05:55AM BLOOD WBC-8.1 RBC-5.31 Hgb-14.2 Hct-44.9 MCV-85 
+MCH-26.7 MCHC-31.6* RDW-14.0 RDWSD-43.0 Plt ___
+___ 05:55AM BLOOD Glucose-99 UreaN-8 Creat-0.9 Na-143 K-4.2 
+Cl-106 HCO3-24 AnGap-13
+___ 03:02AM BLOOD CK-MB-27* cTropnT-1.22*
+___ 09:32AM BLOOD CK-MB-19* cTropnT-0.82*
+___ 05:55AM BLOOD Calcium-9.7 Phos-2.5* Mg-2.0
+
+IMAGING
+========
+TTE (___)
+--------------
+CONCLUSION: The left atrium is mildly dilated. The estimated 
+right atrial pressure is ___ mmHg. There is normal left 
+ventricular wall thickness with a normal cavity size. There is 
+mild regional left ventricular systolic dysfunction with 
+hypokinesis of the basal to mid inferolateral wall (see 
+schematic) and preserved/normal contractility of the remaining 
+segments. This was not picked up on speckle tracking, but 
+visually is hypokinetic relative to other segments. Quantitative 
+3D volumetric left ventricular ejection fraction is 51 %. Left 
+ventricular cardiac index is normal (>2.5 L/min/m2). There is no 
+resting left ventricular outflow tract gradient. Normal right 
+ventricular cavity size with normal free wall motion. The aortic 
+sinus is mildly dilated with mildly dilated ascending aorta. The 
+aortic arch is mildly dilated with a normal descending aorta 
+diameter. The aortic valve leaflets (3) appear structurally 
+normal. There is no aortic valve stenosis. There is an eccentric 
+jet of mild [1+] aortic regurgitation. The mitral valve leaflets 
+appear structurally normal with no mitral valve prolapse. There 
+is mild [1+] mitral regurgitation. The pulmonic valve leaflets 
+are normal. The tricuspid valve leaflets are mildly thickened. 
+There is mild [1+] tricuspid regurgitation. The estimated 
+pulmonary artery systolic pressure is borderline elevated. There 
+is no pericardial effusion.
+IMPRESSION: Normal left ventricular cavity size with mild 
+regional systolic dysfunction (see above). Mild eccentric aortic 
+regurgitation. Mild mitral regurgitation. No prior TTE available 
+for comparison.
+
+MICROBIOLOGY
+=============
+None
+ 
+Brief Hospital Course:
+SUMMARY
+========
+___ yo M with cardiac risk factors (HTN, HLD, current smoker) who 
+presented with typical chest pain, troponin leak, and ischemic 
+EKG changes, found to only have 60% stenosis of distal OM1 which 
+was not intervened upon.
+
+ACUTE ISSUES
+=============
+#MINOCA
+Patient presented with typical chest pain, elevated troponin to 
+peak of 1.22, new TWI's on EKG. He was taken straight to 
+coronary angiogram on ___, which showed only 60% stenosis of 
+distal OM1. Patient was started on nitro gtt which decreased his 
+chest pain to ___. Etiology most likely MINOCA with some 
+component of coronary vasospasm. Patient underwent TTE which 
+showed EF 51%, mild regional left ventricular systolic 
+dysfunction with hypokinesis of the basal to mid inferolateral 
+wall and preserved/normal contractility of the remaining 
+segments. Patient was started on aspirin, Rosuvastatin 40 mg, 
+diltiazem, pantoprazole, and clopidogrel; he was discharged on 
+these medications.
+
+#Hypertension
+- Started on diltiazem, and his home amlodipine was discontinued 
+given that patient was not taking it for 2 months prior to 
+arrival.
+
+#Tobacco use
+- Patient declined nicotine patch.
+
+CHRONIC ISSUES
+=============== 
+#Hyperlipidemia
+- Started on Rosuvastatin 40 mg and discontinued his home 
+simvastatin (patient was not taking it anyway).
+
+#GERD
+- Started on pantoprazole 40 mg and discontinued his home 
+omeprazole (patient was not taking it anyway).
+
+CORE MEASURES: 
+============== 
+# CODE: Full (confirmed) 
+# CONTACT: None given
+
+TRANSITIONAL ISSUES
+====================
+[ ] MINOCA - Patient will likely get cardiac MRI as outpatient.
+[ ] Tobacco use - Please continue to encourage smoking 
+cessation; patient not taking Chantix at home.
+[ ] Medication non-compliance - Please continue to reiterate 
+with patient how important it is for him to take his 
+medications.
+
+MEDICATIONS:
+-------------
+NEW:
+[]Aspirin 81 mg QD
+[]Plavix 75 mg QD
+[]Rosuvastatin 40 mg QD
+[]Diltiazem 240 mg ER QD
+[]Pantoprazole 40 mg QD
+
+DISCONTINUED (patient not taking, and we are not restarting):
+[]Amlodipine
+[]Simvastatin
+[]Omeprazole
+[]Varenicline
+[]Multivitamin
+[]Tolnaftate
+
+DISCHARGE WEIGHT: 106.3 kg (234.35 lb) 
+DISCHARGE CR: 0.9
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+2.  Clopidogrel 75 mg PO DAILY  
+3.  Diltiazem Extended-Release 240 mg PO DAILY 
+RX *diltiazem HCl 240 mg 1 capsule(s) by mouth Daily Disp #*30 
+Capsule Refills:*0 
+4.  Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+5.  Rosuvastatin Calcium 40 mg PO QPM 
+RX *rosuvastatin 40 mg 1 tablet(s) by mouth QPM Disp #*30 Tablet 
+Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+Myocardial infarction with non-obstructive coronary arteries
+
+SECONDARY DIAGNOSES
+====================
+Hypertension
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you here at ___ 
+___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted because you were having chest pain and found 
+to be having a heart attack. 
+
+WHAT WAS DONE WHILE I WAS HERE?
+- You underwent a procedure called a coronary angiogram. This 
+looked at your heart vessels and showed that there was no major 
+blockage.
+- You were started on several medications to reduce your heart 
+disease risk and to reduce the risk of you having another heart 
+attack.
+
+WHAT DO I NEED TO DO ONCE I LEAVE?
+- Please take all of your medications as prescribed.
+- Please keep your appointments.
+- If you have another episode of chest pain, please call our 
+Heartline at ___ to speak to one of our cardiac nurses 
+or cardiologists.
+
+Be well,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,288 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amoxicillin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain, nausea, projectile emesis
+ 
+Major Surgical or Invasive Procedure:
+Small Bowel Singe Balloon Enteroscopy (___)
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo female with PMHx DM II, glaucoma, 
+depression and previous hospitalizations at ___ for 
+intussusception s/p bowel resection in ___ who presented 
+to ___ with nausea, vomiting and abdominal pain and was 
+subsequently found to have 3 area of jejunal intussusception on 
+CT. Now being transferred for further work-up and management. 
+
+Patient presented to ___ with acute onset of emesis that 
+started around 3 hours prior to presentation. She states that 
+she was in his usual state of health when she felt intense LLQ 
+pain (dull, achy, ___ and burping. She says that her burping 
+tasted both acidic and sulfurous, and says she was also passing 
+feculent material through her mouth.  She also endorses one 
+episode of scant, loose stool. She then progressed to projectile 
+vomiting, ~3 episodes.
+
+Of note, she has had these episodes several times before, 
+starting around ___ years ago. She says that she has had 3 
+episodes of intense abdominal pain, nausea, emesis (sometimes 
+with diarrhea and sometimes without) that she did not seek 
+medical attention for. She says that she usually stops eating 
+for ~ 2 days and these episodes abate. She has been twice at 
+___ for abdominal pain and has been diagnosed with 
+diverticulitis twice (once requiring a ___ hospital stay ! ___ 
+year ago, with abx management). She had an episode that she says 
+in similar to all her previous in ___ of this year and was 
+found to have a small intestinal intussusception on CT in 
+___ (record currently not available). She underwent small 
+bowel resection without issue.
+
+In ___, initial vitals were:  98.3 HR 79 RR 18 BP 120/57 
+Sa 99% on RA
+
+Labs notable for WBC 9.8, H&H 14.2 and 42.9. Plts 269
+ Na 139, K 3.9, Cl 105. AST 14 ALT 24 ALP 81 TP 7.5 Alb 4.3 
+Lipase 83 
+Imaging notable for  "Redemonstration of a jejunojejunal 
+intussusception in at least 3 areas. No dilation proximally to 
+suggest obstruction, although contrast does not pass the second 
+and third intussusception points."
+Decision was made to admit for workup and management of 
+intussusception.
+
+On the floor, patient is in no acute distress. She endorses dull 
+abdominal pain in the LLQ. Also reports that she is not passing 
+gas. Otherwise ROS negative.
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+Type II Diabetes with microalbuminuria
+Glaucoma
+Depression
+HLD
+HTN
+Diverticulitis
+
+Past Surgical History:
+ex-lap with bowel resection ___, ___,
+prolapsed bladder sling, tubal ligation, tonsillectomy, ectopic
+pregnancy s/p exploration
+ 
+Social History:
+___
+Family History:
+paternal grandmother died of colon cancer
+ 
+Physical Exam:
+ADMISSION PHYSICAL
+=============
+Vitals: 97.7 BP 108/60 HR 68 RR 20 97%Ra 
+General: Alert, oriented, no acute distress. Pleasant. 
+Conversational.  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft. +BS. Tenderness to deep palpation in LLQ. 
+Non-distended, no rebound tenderness or guarding, no 
+organomegaly  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin:  Purple linear surgical scar ~5 cm vertical over abdomen. 
+Well-healed. No signs of infection.
+
+DISCHARGE PHYSICAL EXAM
+=================
+Physical exam:
+VS:  98.5 110/66 HR 62 RR 18 99%ra 
+GENERAL: NAD, alert, interactive. Conversational.
+HEENT: NC/AT, sclerae anicteric, MMM  
+LUNGS: Clear to auscultation bilaterally, otherwise no w/r/r  
+HEART: NRRR. Normal S1 and S2
+ABDOMEN: NABS, soft/ND.  Slight distension. Slight TTP in LLQ. 
+Active BS
+EXTREMITIES: WWP  
+NEURO: awake, A&Ox3  
+
+ 
+Pertinent Results:
+LABS ON ADMISSION
+=============
+___ 01:00AM BLOOD WBC-7.1 RBC-4.15 Hgb-12.1 Hct-38.0 MCV-92 
+MCH-29.2 MCHC-31.8* RDW-12.6 RDWSD-41.9 Plt ___
+___ 01:00AM BLOOD Neuts-55.7 ___ Monos-8.3 Eos-3.2 
+Baso-0.3 Im ___ AbsNeut-3.95 AbsLymp-2.28 AbsMono-0.59 
+AbsEos-0.23 AbsBaso-0.02
+___ 01:00AM BLOOD ___ PTT-31.0 ___
+___ 01:00AM BLOOD Glucose-105* UreaN-13 Creat-0.6 Na-138 
+K-3.6 Cl-104 HCO3-26 AnGap-12
+___ 01:00AM BLOOD ALT-14 AST-13 AlkPhos-60 TotBili-0.5
+___ 09:25AM BLOOD Albumin-3.8 Calcium-8.1* Phos-3.3 Mg-1.8
+
+NOTABLE LABS DURING HOSPITAL STAY
+========================
+___ 07:40AM BLOOD IgA-165
+___ 06:33PM BLOOD HIV Ab-Negative
+___ 07:40AM BLOOD tTG-IgA-7
+
+LABS ON DISCHARGE
+=============
+___ 08:41AM BLOOD WBC-6.8 RBC-4.67 Hgb-13.5 Hct-42.2 MCV-90 
+MCH-28.9 MCHC-32.0 RDW-12.4 RDWSD-41.0 Plt ___
+___ 08:41AM BLOOD Plt ___
+___ 08:41AM BLOOD Glucose-250* UreaN-7 Creat-0.8 Na-139 
+K-3.5 Cl-101 HCO3-29 AnGap-13
+___ 08:41AM BLOOD Calcium-9.2 Phos-3.7 Mg-1.8
+
+MICROBIOLOGY & PATHOLOGY
+===================
+Jejunal wall Biopsy (___) 1A. Random small bowel:Small bowel 
+mucosa, unremarkable. 
+
+IMAGING & PROCEDURES
+================
+CT Abdomen (___)
+ Outside report. Images uploaded in life images. Re-read 
+requested.
+
+Small intestine Enteroscopy (___)
+Impression:
+Normal mucosa in the whole esophagus
+Normal mucosa in the whole stomach
+Normal mucosa in the whole duodenum
+Normal mucosa in the whole jejunum (biopsy)
+Otherwise normal small bowel enteroscopy to mid jejunum and 
+distal jejunum
+
+ 
+Brief Hospital Course:
+Ms. ___ is a very pleasant ___ year old female who presented 
+to OSH with projectile emesis and abdominal pain and was 
+subsequently found to have recurrent jejunojejunal 
+intussusception in at least ___bdomen. During her 
+hospital course the following issues were addressed:
+
+# Intussusception. Patient presented to ___ with acute 
+onset of abdominal pain, nausea, and burping/belching of foul 
+smelling, sulfurous air that tasted like fecal matter. This 
+progressed to several episodes of projectile emesis and ___ 
+loose bowel movements. CT scan with read "compared to ___ CT, 
+redemonstration of a jejunojenunal intussusception in at least 3 
+areas. No dilation proximal intussusception to suggest 
+obstruction but no contrast gets past ___ intussusception 
+points. Sigmoid diverticulosis, no diverticulitis." On arrival 
+to ___ she reported some abdominal discomfort but no further 
+emesis. On night of admission she was not passing gas, but began 
+passing flatus on hospital day 2 and tolerated clears for the 
+remainder of her hospital stay.  Patient was seen by both GI and 
+surgery. GI did a single balloon enteroscopy on ___ and found 
+no mucosal abnormality, no tumor, no evidence of obstruction and 
+no other abnormality that may have caused a lead point. Biopsies 
+were taken of the jejunum and were unremarkable. Patient had 
+previous small bowel resection in ___ for intussusception, 
+with op report noting numerous adhesions and a firm, atretic, 
+scarred down area that was resected. The etiology of this 
+episode remains unclear. Still possibly partial SBO second to 
+her known adhesions, undetected malignancy or mass serving as a 
+lead point (small bowel lymphoma, mets, intestinal polyp, 
+intestinal lipoma small bowel hemangioma), or lymphoid 
+hyperplasia. HIB Ab negative, TTG negative, no evidence of bowel 
+wall inflammation (IBD and celiac's disease can sometimes 
+present with associated intussusception). Patient was discharged 
+with no evidence of current obstruction, tolerating a solid soft 
+diet.
+
+# Diarrhea. On ___ patient began complaining of watery, frothy 
+stools and had 7 BMs that day. C. diff was obtained which was 
+negative and diarrhea resolved after she began a diet of soft 
+solids. Thought to be due to her clear diet.
+
+CHRONIC ISSUES
+===========
+# DM II. Insulin sliding scale. Hold home metformin and 
+lirglutide
+# HLD. Continue home simvastatin 
+# HTN. Continue home losartan 
+# Depression. Continue home citalopram when patient is able to 
+tolerate PO meds. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 20 mg PO QPM 
+2. Citalopram 40 mg PO DAILY 
+3. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+4. MetFORMIN XR (Glucophage XR) 750 mg PO BID 
+5. Losartan Potassium 25 mg PO DAILY 
+6. liraglutide 3 mg/0.5 mL (18 mg/3 mL) subcutaneous DAILY 
+
+ 
+Discharge Medications:
+1.  Citalopram 40 mg PO DAILY  
+2.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+3.  liraglutide 3 mg/0.5 mL (18 mg/3 mL) subcutaneous DAILY  
+4.  Losartan Potassium 25 mg PO DAILY  
+5.  MetFORMIN XR (Glucophage XR) 750 mg PO BID  
+6.  Simvastatin 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary 
+========
+Intussusception
+
+Secondary
+=========
+Type II Diabetes 
+Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+It was a pleasure caring for you here at ___. You came from an 
+outside hospital with abdominal pain, nausea and vomiting and 
+were subsequently found to have an intussusception along a 
+portion of your small intestine. We had our gastroenterologists 
+and our surgeons follow your case, and you were taken for a 
+single balloon enteroscopy. This showed healthy bowel, with no 
+evidence of obstruction at the time of the scoping procedure. 
+Biopsies were taken which showed normal bowel. You had tests 
+run, which were negative for HIV and celiac's disease. You 
+showed no evidence of obstruction while in the hospital, and 
+tolerated a diet of clear liquids well. You did have some 
+diarrhea on your last day of hospital stay. A sample of your 
+stool was sent to test for clostridium difficile, a bug that can 
+cause diarrhea in the hospital. This was negative.
+
+Please take all of your medications as prescribed. 
+
+Best wishes, 
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

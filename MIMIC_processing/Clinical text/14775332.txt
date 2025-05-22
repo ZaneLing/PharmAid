@@ -1,0 +1,243 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ciprofloxacin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers, abdominal pain 
+
+ 
+Major Surgical or Invasive Procedure:
+___ Renal Coiling (___)
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old M w/ hx of UTI (x2) and proteinuria
+s/p renal biopsy 1 week ago presenting with two days of fevers,
+chills, abdominal pain, and pain around his biopsy site. He
+underwent biopsy 1 week ago for proteinuria (previously followed
+for ___ years with imaging/labs/urine studies, then got new
+nephrologist who recommended biopsy) with drop in crit post
+procedure.  Ultrasound noted perinephric hematoma at that time
+but this was felt to be stable. Patient reported over the 
+weekend
+he had some night chills and he had dysuria on ___ then
+resolved. He felt fine on ___ and ___ daytime. Starting
+___ evening, he developed fever, chills and left CVA pain and
+LLQ pain w/ BM. On ___ he developed a fever up to 101.4 and
+he continued to have pain. He also reported feeling stiff in his
+back and he had more pain with position change. He reports
+pinkish urine this morning. He had some headache w/ fever, no
+changes in UOP. 
+
+In the ED, initial vitals notable for HR 119 and T 100.6. Exam
+showed tenderness around site of biopsy. Labs were notable for
+WBC 11.1. Initial CT showed moderate sized left RP
+hematoma--decision was made to observe with serial CBC. Hgb
+subsequently dropped from 11.6 to 8.7 and the patient became
+tachycardic in the 120s. UA was notable for 14 RBCs. CTA A/P was
+concerning for pseudoaneurysm in the kidney. He was given 1L LR
+bolus and started on IV Zosyn. His lowest BP was 120/78. He was
+taken to ___ where the pseudoaneurysm was coiled via R femoral
+approach (hemostasis with manual pressure), and he was given 1U
+PRBCs. Post-coiling angiogram revealed cessation of flow in
+pseudoaneurysm.
+
+Upon arrival to the ICU, he endorses feeling better than
+previously. He has minimal pain in his L flank when lying down.
+He has some pain in his R groin at access site. Otherwise no
+complaints.
+
+ROS: Positives as per HPI; otherwise negative.  
+ 
+Past Medical History:
+UTIs
+Proteinuria s/p renal biopsy
+s/p tonsillectomy 
+
+ 
+Social History:
+___
+Family History:
+Negative for kidney disease
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+======================== 
+VS: reviewed in metavision
+GEN: Well-appearing, NAD 
+EYES: No scleral icterus
+HENNT: NCAT, MMM, no JVD
+CV: Tachycardic, regular, no r/m/g 
+RESP: CTAB 
+GI: Soft, NNTD 
+EXT: WWP, no ___ edema. 2+ DP pulses bilaterally. R leg in
+immobilizer. R groin with ~3 cm soft hematoma, no pulsatility.  
+SKIN: No visible rash 
+NEURO: AO x 3, moving all extremities 
+PSYCH: Affect appropriate
+
+Discharge Exam:
+===============
+VS: ___ 0725 Temp: 97.4 PO BP: 122/85 R Sitting HR: 96 RR:
+18 O2 sat: 98% O2 delivery: Ra 
+GEN: Well appearing, NAD
+LUNGS: CTAB
+HEART: RRR, nl S1, S2. No m/r/g.
+ABD: NT/ND, normal bowel sounds.
+EXTREMITIES: No edema. WWP. Right groin access site well
+appearing, mildly tender. Lt ___ MCP swelling, redness, warmth,
+tenderness full ROM.
+NEURO: AOx3. 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 11:43AM BLOOD WBC-11.1* RBC-3.85* Hgb-11.6* Hct-34.6* 
+MCV-90 MCH-30.1 MCHC-33.5 RDW-12.5 RDWSD-40.0 Plt ___
+___ 04:00AM BLOOD ___ PTT-28.2 ___
+___ 11:43AM BLOOD Glucose-81 UreaN-11 Creat-0.8 Na-140 
+K-3.9 Cl-100 HCO3-28 AnGap-12
+___ 04:00AM BLOOD Calcium-7.5* Phos-3.2 Mg-1.9
+___ 12:03PM BLOOD Lactate-1.6
+
+DISCHARGE LABS
+===============
+___ 08:49AM BLOOD WBC-6.9 RBC-3.58* Hgb-10.7* Hct-32.6* 
+MCV-91 MCH-29.9 MCHC-32.8 RDW-12.7 RDWSD-42.1 Plt ___
+___ 04:51AM BLOOD ___ PTT-28.7 ___
+___ 08:49AM BLOOD Plt ___
+___ 08:49AM BLOOD Glucose-89 UreaN-10 Creat-0.7 Na-144 
+K-4.5 Cl-105 HCO3-25 AnGap-14
+___ 08:49AM BLOOD Calcium-9.0 Phos-4.2 Mg-2.1
+
+IMAGING/STUDIES
+================
+___ CTA Abd
+1. Large left retroperitoneal hematoma.  No active bleeding 
+though probable pseudoaneurysm along the left lower pole cortex. 
+
+2. Small left pleural effusion appears simple with mild 
+subjacent compressive lower lobe atelectasis. 
+
+___ XR Hand
+Unremarkable left hand radiographs
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ y/o M with history of proteinuria, who is 
+s/p renal biopsy 1 week ago, who presented with CVA pain and 
+found to have RP hematoma. He was evaluated by interventional 
+radiology, and oon ___ underwent coiling pseudoaneurysm at the 
+site of prior biopsy. He did have fevers at the time of 
+presentation and received IV antibiotics. He was admitted to the 
+MICU where is pain was improved post procedure and he was 
+hemodynamically stable. Antibiotics were discontinued given low 
+concern for urinary tract infection or infection of the 
+hematoma. He was then transferred to the floor, where he was 
+hemodynamically stable, afebrile, with well controlled pain at 
+the time of discharge. He improved and was ready to d/c. 
+
+ACUTE ISSUES:
+=============
+# Acute blood loss anemia
+# Renal pseudoaneurysm
+Peudoanuerysm likely a complication of renal biopsy. He is now
+s/p coiling with ___, with post-procedure angiogram without flow
+to pseudoaneurysm. His subsequent CBCs were stable after 
+procedure.
+His pain was controlled with Tylenol alone adequately.
+
+# Fever
+Initially was given antibiotics given concern of sepsis from 
+possible urinary tract infection or patient of hematoma. 
+However, urinalysis was unremarkable and ultimately antibiotics 
+were discontinued given low concern for infection.
+
+# Rt ___ MCP joint arthritis:
+On day of discharge he did have some Rt ___ MCP joint redness 
+and pain. No appreciable effusion. XR showed no abnormalities. 
+Unclear if this was related to minor trauma. In light of 
+proteinuria, may represent possible rheumatologic condition and 
+could consider work-up with RF, ___ as outpt
+
+CHRONIC ISSUES 
+=============== 
+# Proteinuria
+The patient will follow up with renal as outpatient for biopsy 
+results.
+
+TRANSITIONAL ISSUES 
+==================
+[ ] F/u CBC, back pain at PCP appointment in 1 week
+[ ] Follow up pathology results from biopsy
+[ ] Consider referral to rheumatology for broad work-up given 
+proteinuria, ?arthritis. consider work-up with RF, ___, 
+___.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Vitamin D ___ UNIT PO 1X/WEEK (___) 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Vitamin D ___ UNIT PO 1X/WEEK (___)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary
+Acute blood loss anemia
+Renal pseudoaneurysm
+
+Secondary
+Proteinuria
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Mr ___,
+  
+It was a pleasure caring of you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted for back pain
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You were found to have bleeding around the site of your 
+previous biopsy
+- You had an interventional radiology procedure in which a coil 
+was placed to stop the bleeding
+- You were briefly given antibiotics, which were then stopped
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments. 
+- Seek medication attention if you have worsening joint pain, 
+swelling, redness or if you have any bleeding, dizziness, or 
+other concerning symptoms
+- Do not take ibuprofen or other NSAID medications
+
+We wish you the best!  
+
+Sincerely,  
+
+Your ___ Team
+ 
+Followup Instructions:
+___

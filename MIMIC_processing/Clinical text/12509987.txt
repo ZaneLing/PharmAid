@@ -1,0 +1,234 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+Bactrim DS / Erythromycin Base / Wellbutrin / Sulfa (Sulfonamide 
+Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ disease
+ 
+Major Surgical or Invasive Procedure:
+___ - Left DBS stage 1 and 2
+
+ 
+History of Present Illness:
+___ right-handed woman who has suffered with ___ 
+disease since ___.  At that time she developed a tremor that 
+involved both the right hand and
+the right leg.  She was referred to Dr. ___ who 
+diagnosed her with ___ disease in ___.  She 
+was trialed on a number of medications none of which improved 
+her symptoms adequately.  In the ___ she was started on 
+levodopa, which improved her tremor somewhat.  Over time her
+levodopa requirements have escalated in control of her tremor 
+has been less satisfactory.  She has almost exclusively 
+right-sided symptoms.  She now requires medications every 2 
+hours.  She has tremors of the right hand and right foot right 
+foot, as well as shoulder stiffness and off state dystonia of 
+both the hand and foot.  She denies any gait imbalance or 
+difficulties walking.  She denies hallucinations.  It is for 
+better control of her right-sided symptoms that she wishes to 
+consider ___ brain stimulation surgery.
+
+ 
+Past Medical History:
+___ disease, Graves' disease (status post ablation), 
+asthma, depression, oral herpes, and surgery for right wrist 
+bursitis
+ 
+Social History:
+___
+Family History:
+Her family history is significant for cancer, Crohn's disease,
+heart disease, COPD, and back problems.
+ 
+Physical Exam:
+On Discharge
+------------
+General:
+VS:
+24 HR Data (last updated ___ @ 755)
+    Temp: 97.5 (Tm 98.3), BP: 125/80 (95-125/56-80), HR: 63
+(61-64), RR: 18 (___), O2 sat: 95% (95-98), O2 delivery: Ra  
+
+Bowel Regimen: [x]Yes [ ]No    Last BM: PTA
+
+Exam:
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  PERRL 3-2mm
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [x]No   - Notable RUE tremor, worst at the
+hand  
+
+Speech Fluent: [x]Yes [ ]No
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+Wound: 
+          [x]Clean, dry, intact 
+
+ 
+Pertinent Results:
+Please see OMR for pertinent lab/imaging studies.
+ 
+Brief Hospital Course:
+#DBS stage ___
+On ___ the patient presented to pre-op holding for elective 
+left internal globus pallidus DBS placement, stage 1 and 2. She 
+was taken to the OR for the procedure which was uncomplicated. 
+Please see OMR for full operative note for greater detail. 
+Intra-operative CT was without hemorrhage. She was extubated in 
+the OR and transferred to PACU for close monitoring. She 
+remained hemodynamically and neurologically stable and was 
+transferred to the floor. Post-operative MRI was performed which 
+showed good placement of the DBS electrode. On ___, her pain 
+was well controlled, she was able to perform all ADLs at 
+baseline and ambulated well. She was discharged home with ___ 
+services without incident.
+ 
+Medications on Admission:
+albuterol 1 puff q4-6hrs prn SOB/wheeze
+Carbidopa 25mg 5x/day
+Carbidopa-levodopa 25mg-100mg as directed
+citalopram 40mg qd
+levothyroxine 112mcg qd 6x/week
+lorazepam 0.25mg qd prn anxiety
+valacyclovir 1g qd prn cold sore
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+2.  Codeine Sulfate ___ mg PO Q4H:PRN pain 
+RX *codeine sulfate 15 mg 1 - 2 tablet(s) by mouth q6hr Disp 
+#*40 Tablet Refills:*0 
+3.  Docusate Sodium 100 mg PO BID  
+4.  Senna 17.2 mg PO QHS  
+5.  Albuterol Inhaler 1 PUFF IH Q4H:PRN SOB, wheeze  
+6.  Carbidopa-Levodopa ___ TAB PO 5X/DAY  
+7.  carbidopa 25 mg oral 5X/DAY  
+8.  Citalopram 40 mg PO DAILY  
+9.  Levothyroxine Sodium 112 mcg PO 6X/WEEK (___)  
+
+10.  LORazepam 0.5 mg PO DAILY:PRN anxiety   
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+___ disease, refractory to medication
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+Dr. ___ Brain ___ 
+
+Surgery
+
+ You underwent both Stage I & II.
+
+Activity
+
+ You may gradually return to your normal activities, but we 
+recommend you take it easy for the next ___ hours.
+
+ Heavy lifting, running, climbing, or other strenuous exercise 
+should be avoided for ten (10) days.
+
+ You may take leisurely walks and slowly increase your activity 
+at your own pace. ___ try to do too much too soon.
+
+ Do not go swimming or submerge yourself in water for fourteen 
+(14) days after your procedure.
+
+ The dressing covering your head incision(s) may be removed 
+after 48 hours. You may use a damp washcloth to remove any dried 
+blood or iodine from your skin but do not get your head wet in 
+the shower until your staples or sutures are removed.
+
+ The incision on your chest has absorbable sutures and skin 
+sealant. You may take a shower and get your chest wet after 5 
+days.
+
+Medications
+
+ Resume your normal ___ medications. The neurologist 
+programming your device may adjust your medications once 
+programming begins. 
+
+ Take any new medications (i.e. pain medications) as directed.
+
+ If you were on a medication such as Coumadin (Warfarin), or 
+Plavix (Clopidogrel), or Aspirin, do not take this until cleared 
+by your Neurosurgeon. 
+
+ Do not take any anti-inflammatory medicines such as Motrin, 
+Aspirin, Advil, or Ibuprofen etc. until follow up.
+
+ You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+
+ Mild tenderness along the incisions. 
+
+ Soreness in your arms from the intravenous lines.
+
+ Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+Call Your Doctor at ___ for:
+
+ Severe pain, swelling, redness or drainage from the incision 
+site. 
+
+ Fever greater than 101.5 degrees Fahrenheit
+
+ Severe Constipation
+
+ Blood in your stool or urine
+
+ Nausea and/or vomiting
+
+ Extreme sleepiness
+
+ Severe headaches not relieved by pain relievers
+
+ Seizures
+
+ Any new problems with your vision or ability to speak
+
+ Weakness or changes in sensation in your face, arms, or leg
+
+ 
+Followup Instructions:
+___

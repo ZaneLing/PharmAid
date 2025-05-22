@@ -1,0 +1,221 @@
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Rash, leg pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old F with a history of HTN who is admitted due to
+concern of cellulitis in both extremities. Pt reports swelling
+L>R and erythema at the ankles. Pt with discomfort and feeling 
+of
+"tightness" on the left foot. Pt has had swelling and erythema 
+in
+the past on 2 occasions. She was previously on furosemide for
+control of her hypertension which was discontinued in ___. It 
+is
+unclear if her episodes of edema occurred after this. Most
+recently, she was given a small supply of furosemide by a
+covering physician which helped. Pt denies fevers or chills. No
+injury, travel, or insect or animal bites. 
+
+In the ED, pt was afebrile and without leukocytosis. She had
+erythema and edema in L ankle greater than R ankle. Pt given
+doxycycline due to concern for infection. Venous duplex
+ultrasound of left lower extremity was negative. 
+
+On arrival to the floor, pt generally feels well. Provides above
+history. She reports that she was not taking her two
+antihypertensives for the past 2 months and restarted them two
+days ago. She denies chest pain or shortness of breath. She does
+not know if she has had cardiac workup with echocardiogram in 
+the
+past. Denies jaundice or abdominal swelling.
+
+ROS: As above. Denies headache, lightheadedness, dizziness, sore
+throat, sinus congestion, chest pain, heart palpitations,
+shortness of breath, cough, nausea, vomiting, diarrhea,
+constipation, urinary symptoms, muscle or joint pains, focal
+numbness or tingling, skin rash. The remainder of the ROS was
+negative.
+ 
+Past Medical History:
+HTN
+Chronic HBV
+NAFLD
+ 
+Social History:
+___
+Family History:
+No family history of heart disease that she knows of.
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS - 98.1 171/87 71 18 98 RA 
+GEN - NAD, well appearing
+HEENT - no scleral icterus or sublingual icterus
+NECK - no LAD
+CV - regular rate and rhtythm, S4 present, no murmurs
+RESP - no rales
+ABD - soft, nontender, nondistended
+EXT - edema to upper shins L >R
+SKIN - erythema at both ankles but more extensive on L, both
+within bounds of marking in ED, very mild tenderness to 
+palpation
+at both ankles, no excess warmth
+NEURO - alert and oriented x 3
+PSYCH - appropriate, calm
+
+DISCHARGE EXAM:
+
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+___ 05:20PM BLOOD WBC-7.5 RBC-4.56 Hgb-12.4 Hct-39.6 MCV-87 
+MCH-27.2 MCHC-31.3* RDW-12.5 RDWSD-39.3 Plt ___
+___ 05:20PM BLOOD Neuts-64.7 ___ Monos-7.2 Eos-1.5 
+Baso-0.5 Im ___ AbsNeut-4.84 AbsLymp-1.95 AbsMono-0.54 
+AbsEos-0.11 AbsBaso-0.04
+___ 05:20PM BLOOD Glucose-94 UreaN-11 Creat-0.6 Na-143 
+K-4.3 Cl-104 HCO3-27 AnGap-12
+___ 05:20PM BLOOD ALT-16 AST-16 AlkPhos-79 TotBili-0.3
+___ 05:20PM BLOOD proBNP-285*
+___ 05:48PM BLOOD Lactate-1.2
+
+IMAGING
+-------
+TTE:
+The left atrium is normal in size. No atrial septal defect is 
+seen by 2D or color Doppler. Left ventricular wall thickness, 
+cavity size and regional/global systolic function are normal 
+(LVEF >55%). There is no ventricular septal defect. Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. Trace aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. Moderate 
+(2+) mitral regurgitation is seen. The tricuspid valve leaflets 
+are mildly thickened. There is mild pulmonary artery systolic 
+hypertension. There is no pericardial effusion.   
+
+EKG: Sinus rhythm. Normal ECG. No previous tracing available for 
+comparison. 
+
+___ ___: 
+No DVT within the left lower extremity.
+
+Left foot XR ___: 
+No acute fracture or dislocation of the bilateral feet.  No
+cortical destruction to suggest acute osteomyelitis
+radiographically. 
+
+Ankle XR b/l ___: 
+No acute fracture or dislocation of the bilateral ankles.
+
+DISCHARGE LABS
+--------------
+___ 12:49PM BLOOD WBC-5.1 RBC-4.72 Hgb-13.0 Hct-40.4 MCV-86 
+MCH-27.5 MCHC-32.2 RDW-12.3 RDWSD-38.7 Plt ___
+___ 12:49PM BLOOD Glucose-113* UreaN-16 Creat-0.6 Na-144 
+K-4.2 Cl-104 HCO3-25 AnGap-15
+___ 12:49PM BLOOD Calcium-9.1 Phos-3.8 Mg-2.___ year old female with chronic HBV and hypertension who is 
+admitted due to swelling of left lower extremity edema with 
+associated erythema over malleolus in the left greater than 
+right. 
+
+# Bilateral lower extremity edema 
+# Rash: skin marked, antibiotics stopped on admission given no 
+leukocytosis, fever, or significant warmth of areas on ankles.  
+Lower extremity ultrasounds were unremarkable for DVT.  X-ray 
+imaging of feet and ankles were unremarkable. BNP mildly 
+elevated.  LFTs normal.  She recently stopped taking her 
+antihypertensives.  No fevers were noted over the course of her 
+admission.  Rash has been regressing off of antibiotics.  
+Differential includes stasis dermatitis, chronic venous stasis 
+changes, hematoma, and less likely cellulitis.  TTE showed no 
+overt heart failure mild pulmonary hypertension.  Pain and 
+extent of rash has been improving.  Patient will follow up with 
+her PCP within ___ week of discharge.
+
+# Hypertension: on high doses of antihypertensives, and states 
+she has not been taking these for last two months, just 
+restarted.  It is possible her lower extremity edema has 
+worsened in the setting of worsened hypertension, and some 
+stiffness of the left ventricle.  Her home doses or lisinopril 
+and metoprolol succinate were restarted, and should be continued 
+as an outpatient.  She will need continued close monitoring of 
+her blood pressure as an outpatient.
+
+# Chronic HBV: does not exhibit stigmata of advanced fibrosis, 
+cirrhosis.  LFTs were normal.
+
+TRANSITIONS OF CARE
+-------------------
+# Follow-up: She will need continued close monitoring of her 
+blood pressure as an outpatient.  Patient will follow up with 
+her PCP within ___ week of discharge.  Rash should be monitored 
+for resolution.
+
+# Code status: full code
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 200 mg PO DAILY 
+2. Lisinopril 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Lisinopril 40 mg PO DAILY  
+2.  Metoprolol Succinate XL 200 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Leg rash
+Hypertension
+Mild pulmonary hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you during your recent visit to 
+___.  You came for further evaluation of a rash on your legs.  
+Further evaluation showed this was likely not due to an 
+infection, and more likely related to swelling in your legs that 
+causes something called venous stasis and a resultant 
+inflammation of your skin.  This should resolve over time, and 
+with resuming your blood pressure medications.
+
+It is important that you continue to take all of your 
+medications as prescribed and follow up with all appointments 
+listed below.
+
+Good luck!
+ 
+Followup Instructions:
+___

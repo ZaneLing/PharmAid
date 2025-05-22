@@ -1,0 +1,434 @@
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___, Rash on Legs
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with HCV and EtOH cirrhosis s/p
+liver transplant in ___ with recurrent, well-compensated
+cirrhosis due to recurrent HCV (s/p 12 week tx w/ Epclusa
+initiated in ___, CKD, who presents as transfer from
+___ for bilateral leg purpura. 
+
+With regard to his liver history, he received a liver transplant
+at ___ in ___ for cirrhosis from EtOH and hepatitis C. 
+After receiving his liver, he moved to ___ for approximately
+___ years. He moved back to ___ and then moved from
+___ to ___ in ___. He has not had regular 
+liver
+care. He saw Dr. ___ in ___ at some point but never
+followed-up.
+
+He was last seen in liver clinic on ___ ___. At 
+that
+time was doing well with plan for q6month MRI for elevated AFP.
+Most recent MRI was ___ with recurrent cirrhosis after liver
+transplant, small volume ascites, moderate splenomegaly, but no
+focal hepatic lesions. He was also found to have probable
+pancreatic side branch IPMNs. He was scheduled to complete 12
+week course of epclusa on ___. He was continued on tacrolimus
+for immunosuppression. His last EGD was in ___, which was
+normal. 
+
+Over the past ___ weeks, the patient developed bilateral lower
+extremity edema, erythema (initially to his mid shins, now
+decreased and localized to his ankles), and purpura. He 
+indicates
+that he has sharp pain in his feet, which started around the 
+same
+time. Mr. ___ says he has no pain when lying down but has ___
+pain when he bears weight on his feet. He presented to ___ for these symptoms. Initially, they felt that his
+presentation could be secondary to cellulitis, and he was 
+treated
+with IV ceftriaxone. Thereafter, they were worried about 
+possible
+drug effect from his tacrolimus. He was transferred here as he
+was seen by Liver at ___. 
+
+Outside of his lower extremity symptoms, he feels well. Denies
+any subjective fevers, chills, cough, chest pain, sob, abdominal
+pain, hematemesis, changes in bowel movements, fatigue. 
+
+OSH Labs on ___:
+WBC 3.5, Hgb 8.4, Ht 26.5, Plt Count 135
+Na 138, K 4.2, Cl 106, Bicarb 24, BUN 55, Cr 2.61, Gluc 211, Ca
+7.8
+UA: <1 epi, neg nit, neg ___, neg protein, no bacteria
+
+Earlier in the hospitalization, his AST was elevated to the 150s
+but his ALT was normal. 
+
+REVIEW OF SYSTEMS: Positive per HPI, remaining 10 point ROS
+reviewed and negative.
+ 
+Past Medical History:
+HCV/EtOH cirrhosis s/p liver transplant
+EtOH use
+CKD
+Insomnia
+Depression
+Chronic back pain
+Osteoarthritis
+GERD
+
+ 
+Social History:
+___
+Family History:
+Mother with ALS, father with lung cancer. Two sisters and
+daughter in good health
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+___ Temp: 98.3 PO BP: 180/71 HR: 88 RR: 18 O2 sat: 
+100%
+O2 delivery: RA 
+GENERAL: NAD, pleasant, lying in bed comfortably, confused but
+A&Ox3
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, MMM
+NECK: supple, no JVD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: mildly distended, nontender in all quadrants, no
+rebound/guarding, +hepatosplenomegaly 
+EXTREMITIES: Warm and well perfused. 2+ pitting edema 
+bilaterally
+to knee. No asterixis bl. 
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: Confluent petechial and purpuric rash on mid shins
+bilaterally. Bilateral erythema of feet extending to ankle. 
+
+DISCHARGE PHYSICAL EXAMINATION:
+24 HR Data (last updated ___ @ 1105)
+    Temp: 98.9 (Tm 98.9), BP: 126/74 (111-148/63-80), HR: 83
+(78-89), RR: 18 (___), O2 sat: 96% (95-100), O2 delivery: Ra,
+Wt: 216.9 lb/98.39 kg  
+GENERAL: NAD, pleasant, lying in bed comfortably, confused but
+A&Ox3
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, MMM
+NECK: supple, no JVD
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+ABDOMEN: mildly distended, nontender in all quadrants, no
+rebound/guarding, +hepatosplenomegaly 
+EXTREMITIES: Warm and well perfused. 2+ pitting edema 
+bilaterally
+to knee. No asterixis bl. 
+PULSES: 2+ DP pulses bilaterally
+NEURO: A&Ox3, moving all 4 extremities with purpose
+SKIN: Confluent petechial and purpuric rash on mid shins
+bilaterally- appears to be fading. Bilateral erythema of feet
+extending to ankle
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 11:27PM GLUCOSE-184* UREA N-46* CREAT-2.0* SODIUM-136 
+POTASSIUM-4.3 CHLORIDE-103 TOTAL CO2-25 ANION GAP-8*
+___ 11:27PM estGFR-Using this
+___ 11:27PM ALT(SGPT)-21 AST(SGOT)-50* LD(LDH)-188 ALK 
+PHOS-93 TOT BILI-0.6
+___ 11:27PM TOT PROT-6.4 ALBUMIN-3.0* GLOBULIN-3.4 
+CALCIUM-8.7 PHOSPHATE-3.2 MAGNESIUM-2.6
+___ 11:27PM HBsAg-NEG HBs Ab-POS HBc Ab-POS* HAV Ab-POS*
+___ 11:27PM ANCA-NEGATIVE B
+___ 11:27PM RHEU ___ CRP-46.8* dsDNA-NEGATIVE
+___ 11:27PM PEP-ABNORMAL B IFE-LOW CONCEN
+___ 11:27PM C3-109 C4-13
+___ 11:27PM tacroFK-5.3
+___ 11:27PM HCV VL-NOT DETECT
+___ 11:27PM WBC-4.1 RBC-3.55* HGB-9.2* HCT-29.9* MCV-84 
+MCH-25.9* MCHC-30.8* RDW-15.7* RDWSD-47.1*
+___ 11:27PM NEUTS-43.3 ___ MONOS-10.2 EOS-7.0 
+BASOS-0.7 IM ___ AbsNeut-1.78 AbsLymp-1.58 AbsMono-0.42 
+AbsEos-0.29 AbsBaso-0.03
+___ 11:27PM PLT COUNT-164
+___ 11:27PM ___ PTT-30.0 ___
+___ 11:27PM ___
+
+PERTINENT STUDIES:
+==================
+___ US (COMPLETE ST
+1. Coarsened hepatic echotexture with patent hepatic vasculature 
+with
+appropriate waveforms.
+2. Small volume ascites.
+3. Splenomegaly.
+
+___ 11:27PM BLOOD HBsAg-NEG HBsAb-POS HBcAb-POS* HAV 
+Ab-POS*
+___ 11:27PM BLOOD ANCA-NEGATIVE B
+___ 11:27PM BLOOD RheuFac-125* CRP-46.8* dsDNA-NEGATIVE
+___ 11:27PM BLOOD PEP-ABNORMAL B IFE-LOW CONCEN
+___ 11:27PM BLOOD C3-109 C4-13
+___ 06:39AM BLOOD tacroFK-4.1*
+
+DISCHARGE LABS:
+===============
+
+___ 06:39AM BLOOD WBC-3.4* RBC-3.41* Hgb-8.7* Hct-28.1* 
+MCV-82 MCH-25.5* MCHC-31.0* RDW-15.6* RDWSD-46.5* Plt ___
+___ 06:39AM BLOOD ___ PTT-32.7 ___
+___ 06:39AM BLOOD Glucose-145* UreaN-24* Creat-1.7* Na-138 
+K-4.6 Cl-104 HCO3-24 AnGap-10
+___ 06:39AM BLOOD ALT-16 AST-38 AlkPhos-82 TotBili-0.5
+___ 06:39AM BLOOD Albumin-2.5* Calcium-8.8 Phos-4.2 Mg-1.9
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with HCV and EtOH cirrhosis s/p 
+liver transplant in ___ at ___ with recurrent, 
+well-compensated cirrhosis due to recurrent HCV (s/p 12 week tx 
+w/ Epclusa), CKD, who presents as transfer from 
+___ for bilateral leg purpura thought 
+secondary to LCV and pre-renal ___
+
+# Lower extremity purpura/petechiae
+# Leukocytoclastic vasculitis > cryoglobulinemia
+Patient presents with report of ___ weeks of bilateral lower 
+extremity annular macules and patches with fading purpuric 
+border and and central yellow/purple area over the b/l lower 
+legs, with only recent new medications being epclusa (end ___, 
+allopurinol (start ___, as well as oxycodone. He was seen by 
+dermatology, who noted that overall the patient's rash appears 
+consistent with a resolving
+small vessel vasculitis with differential including resolving 
+leukocytoclastic vasculitis (LCV) v. somewhat less likely 
+resolving vasculitis secondary to cryoglobulinemia in the 
+setting of HCV. 
+
+LCV is a reactive process that can occur in the setting of 
+infection, medication exposure, autoimmune process (much less 
+likely in this patient given no other symptoms to suggest an 
+autoimmune process and other etiologies that are much more 
+likely), or can be idiopathic. Given that these were old and 
+resolving cutaneous lesions, it was thought that biopsy was not 
+likely to aid with diagnosis or differentiation between LCV and 
+cryoglobulinemic vasculitis. 
+
+Broad work up was sent; C3/C4 normal, CH50 pending. U/A was 
+normal arguing against a systemic vasculitic process. ANCA was 
+negative. dSDNA was negative. ___ was negative. CRP and 
+RF both elevated, although no arthralgias or any manifestations 
+to suggest RA. Cryoglobulins were sent but pending at time of 
+discharge. SPEP pending. Hepatitis C viral load is also pending. 
+
+
+# HCV and EtOH cirrhosis s/p liver transplant ___
+# Hepatitis C, genotype 3, s/p epclusa
+With regard to his liver history, he received a liver transplant 
+at ___ in ___ for cirrhosis from EtOH and hepatitis C. 
+After receiving his liver, he moved to ___ for approximately 
+___ years. He moved back to ___ and then moved from 
+___ to ___ in ___. He has not had regular 
+liver care. He saw Dr. ___ in ___ at some point but 
+never followed-up.
+
+He was last seen in liver clinic on ___ ___. At 
+that time was doing well with plan for q6month MRI for elevated 
+AFP. Most recent MRI was ___ with recurrent cirrhosis after 
+liver
+transplant, small volume ascites, moderate splenomegaly, but no 
+focal hepatic lesions. He was also found to have probable 
+pancreatic side branch IPMNs- for which he requires follow up 
+with Dr. ___. He was scheduled to complete 12 week course of 
+epclusa on ___. He was continued on tacrolimus for 
+immunosuppression. His last EGD was in ___, which was
+normal. 
+
+Upon closer review of patient's medication and refill history, I 
+called all of his pharmacies including Stop and Shop, ___ 
+specialty pharmacy as well as prescription solutions center. It 
+is unclear who is currently writing his script for tacrolimus. 
+Based on patient's physical medication bottles, it appears that 
+he last filled tacrolimus 1 gm BID on ___, and this was 
+written by ___ @ CHA. His PCP was contacted for 
+further information, unfortunately unable to reach her prior to 
+discharge. He tells us that there is 1 big bottle of tacrolimus 
+that he has at home, all 1 mg tablets, but he does not know the 
+prescriber nor when he had filled this. On discharge we will 
+continue him on tacrolimus 1 gm BID, with ___ assistance for 
+medication management. Discussed that he will bring all of his 
+medications to his next liver clinic appointment for review. 
+
+HCV viral load is pending at time of discharge. Note through 
+___ Pharmacy that he did get refills for entire ___ on CKD, resolved
+OSH paperwork notes that Cr in outpatient setting prior to 
+admission was 1.7. Cr elevated to 3.5 on admission to OSH, 
+subsequently decreased to 2.6 on transfer after IVF and holding 
+diuretics, indicating likely pre-renal cause. U/A without 
+evidence of infection. Initially continued to hold home 
+torsemide, restarted on ___ when Cr improved to 1.6 given 
+evidence ___ edema. Discharge Cr 1.7. Discharge weight 98.39 
+kg (216.91 lb). Please recheck Cr at PCP follow up appointment. 
+
+# Altered mental status, resolved
+Unclear precipitant, details are unclear from OSH notes. Patient 
+is able to recall some details of his hospitalization at OSH. We 
+note concern for polypharmacy particularly with multiple 
+sedating medications including quetiapine, oxycodone, and 
+trazodone. Home trazodone was held during stay and also at 
+discharge, and there was no need for oxycodone throughout stay. 
+We maintained him on lactulose for goal ___ bowel movements/day, 
+which was continued at discharge.
+
+# Medication reconciliation:
+Patient was initially uncertain about what medications he takes, 
+noting that "it's all in the system". Reviewed his medication 
+bottles that came from OSH, which included old medications that 
+were first filled in ___, as well as duplicate medications (had 
+bottle of spironolactone 100 mg tabs, and another of 
+spironolactone 25 mg tabs, both of which were not on his most 
+recent CHA medication list, as well as three different bottles 
+of omeprazole). He then told us that he keeps all of his 
+medications and only takes the ones he needs, but that his 
+friends had grabbed all his pill bottles. With direct 
+questioning he was able to tell us that he takes the following 
+at home: paroxetine 20 mg daily, trazodone 50 mg qHS, tacrolimus 
+1 gm BID, "water pill", quetiapine 100 mg daily, ranitidine 150 
+mg BID, as well as allopurinol ___ mg daily. This appears 
+consistent with CHA medication list and Stop and Shop Refills. 
+However, as above, there is concern regarding who is currently 
+prescribing his tacrolimus. This warrants further clarification. 
+We had planned to keep patient for further medication teaching 
+but he strongly desired to leave. As such, with his permission, 
+we disposed of all old medications, and will arrange for ___. He 
+is instructed to bring all his medications to next appointment.
+
+CHRONIC ISSUES:
+#Insomnia: Seroquel and trazodone initially held due to prior 
+report of confusion; Seroquel restarted by time of discharge.
+#GERD: Continue home ranitidine 150mg BID
+#Gout: Restarted allopurinol at time of discharge given rash 
+started prior to this medication, and ongoing diuresis. Note 
+that this appears to have been a clinical diagnosis and there 
+was report of high uric acid to 9.8 in OSH ED, does not appear 
+to be crystal confirmed. He was off oxycodone throughout stay 
+with us, without significant erythema/edema in toe/ankle.
+#Depression: Paroxetine 20 mg daily
+
+======================
+TRANSITIONAL ISSUES
+======================
+Discharge weight: 98.39 kg (216.91 lb)
+Discharge Cr: 1.7
+Discharge diuretic regimen: torsemide 10 mg daily
+Discharge immunosuppression: tacrolimus 1 mg BID
+
+[] Please recheck Chem-7 at next PCP ___
+[] Please reconcile medications at next liver appointment and 
+clarify prescriber for tacrolimus; as above he is discharged on 
+tacrolimus 1 mg BID and has bottle of medication
+[] Please follow up pending labs: HCV viral load, cryoglobulins, 
+CH50
+[] Trazodone held at time of discharge, restart as needed
+[] Requires q6 month MRI for elevated AFP, next due in ___
+[] Patient needs follow up with Dr. ___ probable 
+pancreatic side branch IPMNs at pancreatic cyst clinic 
+[] Patient needs colonoscopy in ___ given multiple colonic 
+adenomas on prior colonoscopy ___, as well as repeat EGD in ___ 
+years
+
+# CODE: FULL
+# CONTACT: HCP (___, granddaughter: ___
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. OxyCODONE (Immediate Release) 5 mg PO Q8H:PRN Pain - Moderate 
+
+2. Allopurinol ___ mg PO DAILY 
+3. Torsemide 10 mg PO DAILY 
+4. Ranitidine 150 mg PO BID 
+5. QUEtiapine Fumarate 100 mg PO QHS 
+6. TraZODone 50 mg PO QHS:PRN sleep 
+7. PARoxetine 20 mg PO DAILY 
+8. Tacrolimus 1 mg PO Q12H 
+9. Capsaicin 0.025% 1 Appl TP TID 
+
+ 
+Discharge Medications:
+1.  Lactulose 30 mL PO TID 
+RX *lactulose 10 gram/15 mL 30 gm by mouth three times a day 
+Refills:*0 
+2.  Allopurinol ___ mg PO DAILY  
+3.  PARoxetine 20 mg PO DAILY  
+4.  QUEtiapine Fumarate 100 mg PO QHS  
+5.  Ranitidine 150 mg PO BID  
+6.  Tacrolimus 1 mg PO Q12H  
+7.  Torsemide 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Lower extremity rash, likely leukocytoclastic vasculitis
+Acute kidney injury likely secondary to volume depletion
+EtOH cirrhosis s/p liver transplant
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___!
+
+You came to us initially because you had a rash on your legs as 
+well as acute kidney injury.
+While you were here, we had our dermatologists see you. They 
+think that this is a rash from "leukocytoclastic vasculitis", 
+which can be seen in the setting of hepatitis C or certain 
+medications. As it was resolving it was thought that there was 
+no need for a biopsy.
+
+Your kidney function improved with some fluids as well as 
+titration of water pills. On discharge, you will be on torsemide 
+10 mg daily, which is the same dose as your primary care doctor 
+had placed you on. Your weight at discharge is  98.39 kg   
+(216.91 lb). Please weigh yourself daily and call your doctor if 
+your weight goes up by more than 3 lbs in 2 day.
+
+In addition, we reviewed your medications. We would strongly 
+suggest throwing away any medications that you no longer need. 
+We were also uncertain who was prescribing your 
+immunosuppressive medication (tacrolimus); it appears that the 
+last time you had this filled was in ___. We tried to contact 
+your primary care doctor but had some difficulty reaching her. 
+For now, we will continue you on the same dose of 1 mg twice 
+daily as you had been doing at home. However, it is VERY 
+IMPORTANT that  you bring all of your medications to your next 
+appointment with the ___ so that we can review them.
+
+Please take care, we wish you the very best!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

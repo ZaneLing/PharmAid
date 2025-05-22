@@ -1,0 +1,225 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Fosamax
+ 
+Attending: ___.
+ 
+Chief Complaint:
+small bowel mass
+ 
+Major Surgical or Invasive Procedure:
+Laparoscopically assisted small bowel resection.
+
+ 
+History of Present Illness:
+___ woman previously found to have an intussusception 
+that resolved, but imaging was concerning for a small bowel 
+mass.
+ 
+Past Medical History:
+PMH:
+Amblyopia 
+Leiomyoma - Uterus
+Angiomyolipoma - Kidney 
+Colonic adenoma
+Small bowel mass 
+Osteoporosis 
+Plantar fasciitis 
+Seborrheic keratosis 
+ 
+Family History:
+Non-contributory
+ 
+Physical Exam:
+General: Awake and alert in no apparent distress
+Cardiac: Regular rate and rhythm
+Pulm: No respiratory distress on room air
+GI: Soft, non-tender, non-distended. Incisions c/d/i
+ 
+Pertinent Results:
+___ 07:23AM BLOOD WBC-6.4 RBC-4.15 Hgb-9.9* Hct-32.8* 
+MCV-79* MCH-23.9* MCHC-30.2* RDW-14.3 RDWSD-41.1 Plt ___
+___ 07:02AM BLOOD WBC-9.9 RBC-4.35 Hgb-10.5* Hct-34.6 
+MCV-80* MCH-24.1* MCHC-30.3* RDW-14.2 RDWSD-40.6 Plt ___
+___ 07:23AM BLOOD Glucose-94 UreaN-9 Creat-0.6 Na-142 K-4.0 
+Cl-108 HCO3-27 AnGap-11
+___ 07:02AM BLOOD Glucose-108* UreaN-10 Creat-0.5 Na-141 
+K-4.7 Cl-108 HCO3-26 AnGap-12
+ 
+Brief Hospital Course:
+Mrs. ___ presented to ___ holding at ___ on ___ for a 
+laparoscopic small bowel resection. She tolerated the procedure 
+well without complications (Please see operative note for 
+further details). After a brief and uneventful stay in the PACU, 
+the patient was transferred to the floor for further 
+post-operative management.  
+.
+ Neuro: Post-operatively, the patient received a PCA with good 
+effect and adequate pain control. When tolerating oral intake, 
+the patient was transitioned to oral pain medications.
+ .
+ CV: The patient was stable from a cardiovascular standpoint; 
+vital signs were routinely monitored.
+ .
+ Pulmonary: The patient was stable from a pulmonary standpoint; 
+vital signs were routinely monitored.
+ .
+ GI/GU: Post-operatively, the patient was given IV fluids until 
+tolerating oral intake. Her diet was advanced when appropriate, 
+which was tolerated well. She was also started on a bowel 
+regimen to encourage bowel movement. Foley was removed on POD#1. 
+Intake and output were closely monitored.
+ .
+ ID: The patient's temperature was closely watched for signs of 
+infection.
+ .
+ Prophylaxis: The patient received subcutaneous heparin during 
+this stay, and was encouraged to get up and ambulate as early as 
+possible.
+ .  
+On ___, the patient was discharged to home. At discharge, 
+she was tolerating a regular diet, passing flatus, stooling, 
+voiding, and ambulating independently. She will follow-up in the 
+clinic in ___ weeks. This information was communicated to the 
+patient directly prior to discharge.  
+.
+Include in Brief Hospital Course for Every Patient and check of 
+boxes that apply:  
+Post-Surgical Complications During Inpatient Admission:  
+[ ] Post-Operative Ileus resolving w/o NGT  
+[ ] Post-Operative Ileus requiring management with NGT  
+[ ] UTI  
+[ ] Wound Infection  
+[ ] Anastomotic Leak  
+[ ] Staple Line Bleed  
+[ ] Congestive Heart failure  
+[ ] ARF  
+[ ] Acute Urinary retention, failure to void after Foley D/C'd  
+[ ] Acute Urinary Retention requiring discharge with Foley  
+Catheter  
+[ ] DVT  
+[ ] Pneumonia  
+[ ] Abscess  
+[x] None  
+Social Issues Causing a Delay in Discharge:  
+[ ] Delay in organization of ___ services  
+[ ] Difficulty finding appropriate rehabilitation hospital  
+disposition.  
+[ ] Lack of insurance coverage for ___ services  
+[ ] Lack of insurance coverage for prescribed medications.  
+[ ] Family not agreeable to discharge plan.  
+[ ] Patient knowledge deficit related to ileostomy delaying  
+discharge.  
+[x] No social factors contributing in delay of discharge.  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Multivitamins 1 TAB PO DAILY 
+2. Calcarb 600 With Vitamin D (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -200 unit oral DAILY 
+
+ 
+Discharge Medications:
+1. Calcarb 600 With Vitamin D (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -200 unit oral DAILY 
+2. Multivitamins 1 TAB PO DAILY 
+3. Acetaminophen 325-650 mg PO TID 
+Do not take more than 3000mg per day 
+4. OxycoDONE (Immediate Release)  5 mg PO Q4H:PRN pain 
+Do not use machinery or drive when taking 
+RX *oxycodone 5 mg ___ tablet(s) by mouth Every 4 hours Disp 
+#*30 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+small bowel mass
+
+ 
+Discharge Condition:
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after a laparoscopically 
+assisted small bowel resection. You have recovered from this 
+procedure well and you are now ready to return home. Samples 
+were taken and this tissue has been sent to the pathology 
+department for analysis. You will receive these pathology 
+results at your follow-up appointment. If there is an urgent 
+need for the surgeon to contact you regarding these results they 
+will contact you before this time. You have tolerated a regular 
+diet, are passing gas and your pain is controlled with pain 
+medications by mouth. You may return home to finish your 
+recovery.  
+ 
+Please monitor your bowel function closely. You may or may not 
+have had a bowel movement prior to your discharge which is 
+acceptable, however it is important that you have a bowel 
+movement in the next ___ days. After anesthesia it is not 
+uncommon for patients to have some decrease in bowel function 
+but you should not have prolonged constipation. Some loose stool 
+and passing of small amounts of dark, old appearing blood are 
+expected. However, if you notice that you are passing bright red 
+blood with bowel movements or having loose stool without 
+improvement please call the office or go to the emergency room 
+if the symptoms are severe. If you are taking narcotic pain 
+medications there is a risk that you will have some 
+constipation. Please take an over the counter stool softener 
+such as Colace, and if the symptoms do not improve call the 
+office. If you have any of the following symptoms please call 
+the office for advice or go to the emergency room if severe: 
+increasing abdominal distension, increasing abdominal pain, 
+nausea, vomiting, inability to tolerate food or liquids, 
+prolonged loose stool, or extended constipation.  
+ 
+You have laparoscopic surgical incisions on your abdomen which 
+are closed with internal sutures and a skin glue called 
+Dermabond. These are healing well however it is important that 
+you monitor these areas for signs and symptoms of infection 
+including: increasing redness of the incision lines, 
+white/green/yellow/malodorous drainage, increased pain at the 
+incision, increased warmth of the skin at the incision, or 
+swelling of the area. Please call the office if you develop any 
+of these symptoms or a fever. You may go to the emergency room 
+if your symptoms are severe.  
+
+You may shower; pat the incisions dry with a towel, do not rub. 
+The small incisions may be left open to the air. If closed with 
+steri-strips (little white adhesive strips) instead of 
+Dermabond, these will fall off over time, please do not remove 
+them. Please no baths or swimming for 6 weeks after surgery 
+unless told otherwise by your surgical team.
+ 
+You will be prescribed pain medication. This medication should 
+be taken when you have pain and as needed as written on the 
+bottle. This is not a standing medication. You should continue 
+to take Tylenol for pain around the clock and you can also take 
+Advil. Please do not take more than 3000mg of Tylenol in 14 
+hours. Do not drink alcohol while taking narcotic pain 
+medication or Tylenol. Please do not drive a car while taking 
+narcotic pain medication.
+  
+No heavy lifting greater than 6 lbs for until your first 
+post-operative visit after surgery. Please no strenuous activity 
+until this time unless instructed otherwise by Dr. ___ Dr. 
+___.  
+ 
+Thank you for allowing us to participate in your care! Our hope 
+is that you will have a quick return to your life and usual 
+activities. Good luck!
+ 
+Followup Instructions:
+___

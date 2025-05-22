@@ -1,0 +1,203 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+vancomycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+arm erythema
+ 
+Major Surgical or Invasive Procedure:
+LUE abscess I&D
+
+ 
+History of Present Illness:
+ Ms ___ is a pleasant ___ woman with a history of 
+diabetes, last HbA1c 6.8%, presented to the emergency department 
+with arm erythema. Patient removed an insulin pouch on ___ and 
+subsequently noticed purulent, white discharge. On ___, she 
+followed up with her primary care physician who noticed ___ 3 cm 
+radius of erythema in the area, patient was started on Keflex. 
+On ___, she was reassessed and the erythema was noted to be 
+expanding to radius of 9 cm and the rash was marked, at which 
+time Bactrim was added.  She presented to ___ today at which 
+time the decision was made to admit her given worsening 
+errythema.  She denies any fever/chills but does endorse general 
+malaise and diaphoresis.  
+
+In the ED, initial vitals were:98.01 96 128/81 18 100% RA.  She 
+was noted to have an abscess on her right posterior arm on the 
+tricep, with drainage and 25 cm radius of erythema.  US showed 
+drainable pocket.  Labs were unremarkable.  Abscess was I&D'd 
+and packed and she was started on vancomycin prior to transfer 
+to the floor.  She subsequently developed a non itchy rash on 
+her L distal arm, which appears to be hives based on picture 
+shown to me.  She was therefore started on Benadryl.  She was 
+also given ibuprofen and vanc as well as a 1 L fluid bolus.
+
+On the floor, c/o pain at insulin pod site.  Rash on L arm 
+resolved.  She states that her sugars have been well controlled. 
+ She tells me she recently decided she is not going to continue 
+insulin pump and was therefore switched to tresiba by her ___ 
+MD.  ___ took 25 units of this at noon and planned to continue 
+25 units starting in AM.  Denies throat swelling, difficulty 
+breathing, does endorse pain in the back of her arm and diarrhea 
+when she started abx however this has since resolved.  
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath. Denies chest pain 
+or tightness, palpitations. Denies nausea, vomiting, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denies arthralgias or myalgias. 10 
+pt ros otherwise negative.
+ 
+Past Medical History:
+T1DM
+ADHD
+ 
+Social History:
+___
+Family History:
+Father with type 2 DM, htn in both parents, ovarian ca. 
+ 
+Physical Exam:
+Vitals: 98.3 ___
+Constitutional: Alert, oriented, no acute distress
+EYES: Sclera anicteric,  EOMI, PERRL
+ENMT: MMM, oropharynx clear, normal hearing, normal nares
+Neck: Supple
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Respiratory: Clear to auscultation bilaterally, no wheezes, 
+rales, rhonchi
+GI: Soft, non-tender, non-distended, bowel sounds present, no 
+organomegaly, no rebound or guarding
+GU: No foley
+EXT: Warm, well perfused, no CCE
+NEURO: aaox3 CNII-XII and strength grossly intact 
+SKIN: no visible rash on L forearm currently, prior picture 
+shows erythematous, circular lesions.  R proximal arm with 
+approx. 10 cm of erythema, outlined, no fluctuance, dressing in 
+place.
+
+Discharge exam
+Vitals: Afebrile and stable (see Eflowsheets)
+Constitutional: Alert, oriented, no acute distress
+EYES: Sclera anicteric,  EOMI, PERRL
+ENMT: MMM, oropharynx clear, normal hearing, normal nares
+Neck: Supple
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Respiratory: Clear to auscultation bilaterally, no wheezes, 
+rales, rhonchi
+GI: Soft, non-tender, non-distended, bowel sounds present, no 
+organomegaly, no rebound or guarding
+GU: No foley
+EXT: Warm, well perfused, no CCE
+NEURO: aaox3 CNII-XII and strength grossly intact 
+SKIN: LUE erythema significantly receded from marked border, 
+packing in place with small amount of dried blood
+
+ 
+Pertinent Results:
+___ 04:38PM   LACTATE-2.0
+___ 04:20PM   GLUCOSE-142* UREA N-8 CREAT-0.7 SODIUM-136 
+POTASSIUM-4.2 CHLORIDE-101 TOTAL CO2-21* ANION GAP-14
+___ 04:20PM   estGFR-Using this
+___ 04:20PM   WBC-9.6 RBC-4.32 HGB-12.7 HCT-38.7 MCV-90 
+MCH-29.4 MCHC-32.8 RDW-12.2 RDWSD-40.0
+___ 04:20PM   NEUTS-58.3 ___ MONOS-5.7 EOS-4.4 
+BASOS-0.4 IM ___ AbsNeut-5.57 AbsLymp-2.95 AbsMono-0.54 
+AbsEos-0.42 AbsBaso-0.04
+___ 04:20PM   PLT COUNT-333
+
+BCx ___ - NGTD
+ 
+Brief Hospital Course:
+Pleasant ___ yo F with well controlled T1DM, admitted with 
+abscess and cellulitis.  
+
+# abscess/cellulitis: currently stable with no systemic sxs.  
+Developed hives with vanco, will therefore not re-challenge.  No 
+cxs sent from I&D. She received a dose of daptomycin with 
+significant improvement in cellulitis. She was transitioned to 
+doxycycline 100 mg q12h to complete a 7 day course. Patient was 
+given instructions to removed packing from I&D site after 48 
+hours then cover with sterile gauze daily. 
+
+# T1DM: pt is very diligent with sugar control.  Has correction 
+factor of 1:6 for carbs, sensitivity factor of 1:25.  Plan for 
+pump holiday given infx. She was continued on Tresiba 25 U q AM 
+and Humalog sliding scale with good glycemic control. 
+
+# Anxiety: cont Prozac, Ativan
+
+# ADHD: continue vyvanse
+
+Transitional care issues
+-monitor for recurrence of cellulitis on doxy
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. tresiba 25 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+2. Vyvanse (lisdexamfetamine) 60 mg oral DAILY 
+3. FLUoxetine 40 mg PO DAILY 
+4. LORazepam 0.5 mg PO DAILY:PRN anxiety, insomnia 
+5. Loryna (28) (drospirenone-ethinyl estradiol) ___ mg oral 
+DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  Doxycycline Hyclate 100 mg PO Q12H Duration: 11 Doses 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth every 12 
+hours Disp #*11 Tablet Refills:*0 
+3.  Ibuprofen 600 mg PO Q8H:PRN Pain - Moderate  
+4.  tresiba 25 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin 
+5.  FLUoxetine 40 mg PO DAILY  
+6.  LORazepam 0.5 mg PO DAILY:PRN anxiety, insomnia  
+7.  Loryna (28) (drospirenone-ethinyl estradiol) ___ mg oral 
+DAILY  
+8.  Vyvanse (lisdexamfetamine) 60 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Left upper extremity abscess
+Cellulitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted for an abscess and skin infection. You had an 
+incision and drainage and briefly received IV antibiotics with 
+improvement in your infection. You will complete another 6 days 
+of oral antibiotics after you are discharged. The packing should 
+stay in for another 24 hours then can be taken out. After that, 
+keep the area clean and dry with gauze bandages which you should 
+change daily. 
+ 
+Followup Instructions:
+___

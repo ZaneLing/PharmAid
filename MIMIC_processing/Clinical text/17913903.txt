@@ -1,0 +1,536 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Vertigo
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+___ is a ___ year-old right-handed man with HTN, HLD, 
+recent right cerebellar infarct who presents with spells of 
+severe vertigo.  Referred to the ED today by Dr. ___.
+
+The patient is a poor historian so the details of the HPI are 
+limited. He was well until ___ when he developed sudden 
+onset severe nausea and room-spinning vertigo that was worse 
+with position change.  He presented to a local urgent care at 
+that time and was diagnosed with peripheral vertigo, given 
+meclizine. His nausea resolved but when room-spinning persistent 
+he called his PCP who eventually got an outpatient MRI that in 
+fact confirmed a right cerebellar infarct.  Subsequent admission 
+to ___ where CTA was done showed a diminutive 
+ectatic right vertebral artery with diffuse atherosclerosis of 
+the posterior circulation/basilar. Normal echo, A1c 6.4%. He has 
+been on ASA 325mg and since that time continues to have 
+intermittent neurological symptoms--predominantly right sided 
+headaches and a positional "lightheadedness" that is worse on 
+standing, resolves with rest.  He has been told he has positive 
+orthostatics in the past and has been drinking fluids to 
+compensate.  Presented to our ED on ___ for LLE swelling and 
+had negative DVT workup,
+treated for gout flare.
+
+He presents back to our today acutely after 3 brief vertigo 
+spells in the past 24 hours that are supposedly different from 
+his usual dizziness-- reportedly more severe and unprovoked.  
+First was yesterday at 3PM while sitting down reading.  Lasted 1 
+minute, no associated HA, vision change, weakness, 
+incoordination.  He resumed normal activity that day and went to 
+bed normally.  He had at least 2 more discrete spells today, one 
+that was definitely with leftward head turn.  He was very 
+concerned that he was having another stroke, contacted ___ and 
+reached Dr. ___ heard the limited history and urged ED 
+eval.  Code Stroke called on arrival by ED resident who was 
+unsure of time LSW, and fear that he may have had another spell 
+in the
+waiting room.  NIHSS-0.  CTA unchanged from ___. No tPA was 
+given. 
+
+On neuro ROS, the pt denies headache, loss of vision, blurred 
+vision, diplopia, dysarthria, dysphagia, tinnitus or hearing 
+difficulty. Denies difficulties producing or comprehending 
+speech.  Denies focal weakness, numbness, parasthesiae. No bowel 
+or bladder incontinence or retention. Denies difficulty with 
+gait.
+
+On general review of systems, the pt denies recent fever or 
+chills.  No night sweats or recent weight loss or gain. Denies 
+cough, shortness of breath.  Denies chest pain or tightness, 
+palpitations.  Denies nausea, vomiting, diarrhea, constipation 
+or abdominal pain.  No recent change in bowel or bladder habits. 
+ No dysuria.  Denies arthralgias or myalgias. Denies rash.
+
+Prior studies (done after his right cerebellar stroke was 
+discovered):
+
+MRI of the brain with and without contrast and of the internal 
+auditory canal on ___ at ___:
+Results:  There is no evidence of a mass or abnormal contrast 
+enhancement in either cerebellopontine angle or internal 
+auditory canal.  No enhancing mass is seen elsewhere in the 
+brain. Diffusion weighted images show multiple foci of 
+hyperintense signal in the right cerebellum, most of which are 
+located posteriorly in the right cerebellar hemisphere.  
+However, there is also one involving the right cerebellar 
+tonsil, which demonstrates decreased signal on the apparent 
+diffusion coefficient images and increased signal on the FLAIR 
+and T2-weighted images.  No associated contrast enhancement is 
+seen.  No abnormal mass effect is seen in the brain.  No midline 
+shift or hydrocephalus is noted.  No focal abnormal extraaxial 
+fluid collection is seen.  The cerebellar tonsils are normal in 
+location.  The paranasal and mastoid sinuses are clear.
+Impression:
+1.  No evidence of an acoustic neuroma.
+2.  Multiple right cerebellar lesions are seen that do not show 
+contrast enhancement or abnormal mass effect, most compatible 
+with subacute infarcts.  Followup MRI was recommended in three 
+months to exclude other etiologies.
+
+CT angiogram of the head and neck from ___ done at 
+___ : Impression:  No evidence for dissection or 
+abrupt occlusion.  The right vertebral artery is markedly 
+diminutive.
+Results:  The origins of the common carotid and left vertebral 
+arteries are normal.  The right vertebral artery is markedly 
+diminutive, but is contiguous.  There is no abrupt occlusion or 
+signs of dissection.  The basilar artery is normally opacified.  
+There is no evidence of an aneurysm involving the circle of 
+___.  There are no enhancing parenchymal mass lesions.  
+Paranasal sinuses are clear.  The nasopharyngeal, oropharyngeal, 
+and hypopharyngeal soft tissues are symmetric.  The 
+submandibular and parotid glands are normal.  There are no 
+apical lung lesions.
+
+Ultrasound of the left leg from ___:
+Impression:  No acute deep venous thrombosis.
+
+Transthoracic echocardiogram from ___ done at ___ 
+___: Conclusions:
+1.  Technically difficult study with suboptimal views.
+2.  Left ventricular size and wall thickness are normal.
+3.  Estimated left ventricular ejection fraction of 60%.
+4.  Doppler indices indicate impaired LV relaxation.
+5.  Aortic valve leaflets are mildly thickened.
+6.  Mild mitral annular calcification is present.
+7.  Mild mitral regurgitation is present.
+8.  Trace mild (physiologic) pulmonic regurgitation is present.
+
+Carotid ultrasound done on ___ at ___:
+Impression:
+1.  The internal carotid arteries bilaterally demonstrate mildly 
+irregular heterogeneous plaque with flow velocities compatible 
+with ___ range of stenosis bilaterally.
+2.  The vertebral arteries demonstrate antegrade flow 
+bilaterally with the left vertebral artery being dominant.
+
+ESR on ___ was 51 (reference range less than 15 mm/hr).
+
+ 
+Past Medical History:
+-HTN
+-HLD
+-gout
+-R cerebellar stroke
+-DM
+-hypothyroidism
+-low back pain, hx of lumbar surgery
+-anxiety
+ 
+Social History:
+___
+Family History:
+Father with DM and throat cancer.  Mother with DM and stroke in 
+old age.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM (___):
+
+Vitals: 98.2 65 128/86 16 100% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in 
+oropharynx, no tenderness to palpation of the temporal arteries, 
+intact temporal artery pulsations.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or 
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses 
+bilaterally.
+Skin: no rashes or lesions noted.
+
+ADMISSION NEUROLOGIC EXAM (___):
+
+-Mental Status: Alert, oriented x 3. Able to relate history 
+without difficulty. Attentive, able to name ___ backward without 
+difficulty. Language is fluent with intact repetition and 
+comprehension. Normal prosody. There were no paraphasic errors. 
+Pt was able to name both high and low frequency objects.  Able 
+to read without difficulty. Speech was not dysarthric. Able to 
+follow both midline and appendicular commands. Pt was able to 
+register 3 objects and recall ___ at 5 minutes. There was no 
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without 
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift 
+bilaterally. No adventitious movements, such as tremor, noted. 
+No asterixis noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  5   5    5  5     5     5   5
+R  5    ___   ___  5   5    5  5     5     5   5
+
+-Sensory: No deficits to light touch, pinprick, cold sensation, 
+vibratory sense, proprioception throughout. No extinction to 
+DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   1
+R  2  2    2    2   1
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF or HKS bilaterally.  Head impulse negative.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm 
+swing.   Romberg absent.
+
+DISCHARGE PHYSICAL EXAM (___):
+
+Vitals: 97.8  128/86 16 100% RA 
+General: Anxious, generally well-appearing, NAD
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in 
+oropharynx
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Lungs CTA bilaterally without R/R/W
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or 
+organomegaly noted.
+Extremities: No C/C/E bilaterally, 2+ radial, DP pulses 
+bilaterally.
+Skin: no rashes or lesions noted.
+
+DISCHARGE NEUROLOGIC EXAM (___):
+
+-Mental Status: Alert, oriented x 3. Able to relate history 
+without difficulty. Attentive, able to name ___ backward without 
+difficulty. Language is fluent with intact repetition and 
+comprehension. Normal prosody. There were no paraphasic errors. 
+Pt was able to name both high and low frequency objects.  Able 
+to read without difficulty. Speech was not dysarthric. Able to 
+follow both midline and appendicular commands. Pt was able to 
+register 3 objects and recall ___ at 5 minutes. There was no 
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without 
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally, negative head 
+impulse test.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk, tone throughout. No pronator drift 
+bilaterally. No adventitious movements, such as tremor, noted. 
+No asterixis noted.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA ___
+L  5    ___   ___  5   5    5  5     5     5   5
+R  5    ___   ___  5   5    5  5     5     5   5
+
+-Sensory: No deficits to light touch, pinprick, cold sensation, 
+vibratory sense, proprioception throughout. No extinction to 
+DSS.
+
+-DTRs:
+  Bi Tri ___ Pat Ach
+L  2  2    2    2   1
+R  2  2    2    2   1
+Plantar response was flexor bilaterally.
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF or HKS bilaterally.  Head impulse negative.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm 
+swing.   Romberg absent.
+
+ 
+Pertinent Results:
+LABS ON ADMISSION (___):
+
+___ 06:31PM   CREAT-0.9
+___ 06:31PM   estGFR-Using this
+___ 06:28PM   GLUCOSE-180* NA+-139 K+-4.0 CL--103 TCO2-23
+___ 06:05PM   UREA N-23*
+___ 06:05PM   WBC-6.8 RBC-4.57* HGB-13.0* HCT-38.3* MCV-84 
+MCH-28.4 MCHC-33.9 RDW-12.4 RDWSD-37.5
+___ 06:05PM   NEUTS-79.2* LYMPHS-16.5* MONOS-3.2* EOS-0.0* 
+BASOS-0.1 IM ___ AbsNeut-5.38 AbsLymp-1.12* AbsMono-0.22 
+AbsEos-0.00* AbsBaso-0.01
+___ 06:05PM   PLT COUNT-334
+___ 06:05PM   ___ PTT-33.8 ___
+
+IMAGING:
+
+CTA HEAD & NECK (___):
+Focal hypodensity in the right cerebellar hemispheres on image 
+4:6, most 
+likely in keeping with a chronic infarct. 
+  
+There is no evidence of no evidence of recent infarction, 
+hemorrhage, edema, 
+or mass. The ventricles and sulci are normal in size and 
+configuration. 
+  
+There is intracranial atherosclerotic calcification. 
+  
+The visualized portion of the paranasal sinuses, mastoid air 
+cells, and middle 
+ear cavities are clear. The visualized portion of the orbits are 
+unremarkable. 
+  
+CTA HEAD: 
+Atherosclerotic calcification of bilateral cavernous carotid and 
+supraclinoid 
+carotid arteries.  The vessels of the circle of ___ and their 
+principal 
+intracranial branches otherwise appear unremarkable without  
+occlusion or 
+aneurysm formation. The dural venous sinuses are patent. 
+  
+CTA NECK: 
+The left vertebral artery arises from the aortic arch.  The 
+right vertebral 
+artery is hypoplastic and gives nearly all its flow to the 
+posterior inferior 
+cerebellar artery with a tiny branch continue point join the 
+basilar artery.  
+Mild atherosclerosis near the bifurcation of left internal 
+carotid artery.  
+The vertebral arteries appear unremarkable.  There is no 
+evidence of internal 
+carotid stenosis by NASCET criteria. 
+  
+OTHER: 
+The visualized portion of the lungs are clear.  The visualized 
+portion of the 
+thyroid gland is within normal limits. There is no 
+lymphadenopathy by CT size 
+criteria. 
+
+IMPRESSION:  
+1. Mild atherosclerotic calcification. 
+2. Chronic infarct in the right cerebellar hemisphere. 
+3. No acute intracranial abnormality.
+
+MRI & MRA BRAIN AND MRA (___):
+Results: 
+There is no evidence of hemorrhage, edema, masses, mass effect, 
+midline shift 
+or infarction.   The ventricles and sulci are normal in caliber 
+and 
+configuration.  There is no abnormal enhancement after contrast 
+administration. 
+  
+Few scattered foci of T2/FLAIR hyperintensity in the subcortical 
+and 
+periventricular white matter, see image 11:13 an 11:16.  These 
+are 
+nonspecific, can be seen with small vessel ischemic disease, 
+headache are 
+hypertension. 
+  
+Focal FLAIR signal abnormality in the right cerebellar 
+hemisphere posteriorly 
+on image 11:5 in keeping with a prior insult. 
+  
+The orbits are unremarkable.  Visualized paranasal sinuses and 
+left mastoid 
+air cells are clear.  Nonspecific fluid opacification of right 
+mastoid air 
+cells. 
+The neck vessels cannot be reliably evaluated on this 
+examination. 
+MRA brain:  Luminal irregularity and narrowing involving the 
+left vertebral 
+artery, likely secondary to atherosclerotic calcification.  The 
+right 
+vertebral artery is very diminutive.  Also seen is luminal 
+irregularity 
+involving bilateral cavernous and supraclinoid internal carotid 
+arteries in 
+keeping with atherosclerotic calcification.  The intracranial 
+vertebral and 
+internal carotid arteries and their major branches appear 
+otherwise 
+unremarkable without evidence of stenosis, occlusion, or 
+aneurysm formation. 
+  
+MRA neck:  There is delayed contrast opacification of bilateral 
+carotid 
+arteries.  This severely compromises the quality of the study.  
+The neck 
+vessels cannot be reliably evaluated on this examination. 
+
+IMPRESSION: 
+1. No acute intracranial abnormality. 
+2. Intracranial atherosclerotic calcification.  Otherwise, 
+unremarkable MRA of 
+the brain. 
+3. Technically unsuccessful and nondiagnostic MRA of the neck. 
+
+LABS ON DISCHARGE (___):
+
+NONE
+
+ 
+Brief Hospital Course:
+Patient is a ___ year old man with a past medical history 
+significant for HTN, HLD, DM, and recent right cerebellar stroke 
+in ___, who presented to ___ with three episodes of 
+vertigo for the past 24 hours, which he describes to have been 
+more severe than his usual dizziness. One episode was provoked 
+by head turning to the left, while another episode occurred 
+while patient was lying down with his eyes closed. The third 
+episode occurred while sitting down and reading. There was no 
+associated headache, vision change, jaw claudication, weakness, 
+incoordination, etc. Concerned he was having another stroke, 
+patient went to ED after conveying a limited history to Dr. 
+___.
+
+In the ED, code stroke was called by ED resident who was unsure 
+of a left-sided weakness and fear that he may have had another 
+episode in the waiting room. NIHSS was 0, CTA was unchanged from 
+___. No iv tPA was given. CTA brain/neck showed no acute 
+intracranial hemorrhage or acute large territorial infarct. 
+There was 50% narrowing of the left vertebral artery due to 
+atherosclerosis, especially in the left V4 segment, however. The 
+right vertebral also showed a small diameter that seems 
+congenitally smaller. The right vertebral primarily ends as the 
+right posterior inferior cerebellar artery but there is a small 
+branch that continues distally to supply the basilar artery. 
+Outpatient TTE on ___ (without bubbles) did not show any 
+intracardiac source of embolism. There was no PFO or ASD 
+detected. The etiology of his chronic right cerebellar infarct 
+was likely due to artery to artery embolism from the right 
+vertebral artery. TTE without bubbles did not show a 
+cardioembolic or paradoxical embolic source but this study was 
+done without bubbles. Given some concern of temporal arteritis 
+by his PCP, patient was on prednisone at this time.
+
+On admission to ___ Neurology, patient underwent further 
+evaluation for vertigo, including a negative ___ (see 
+admission neurologic exam) and negative orthostatics. Labs were 
+negative for r/o etiologies. Patient also received an MRI brain, 
+MRA brain and MRA neck, which showed the chronic infarcts in the 
+right cerebellar hemisphere. There were a few non-specific, 
+scattered foci of T2/FLAIR hyperintensity in the subcortical and 
+periventricular white matter, which may be due to small vessel 
+ischemic disease and HTN. However, there was no evidence of 
+acute hemorrhage, edema, masses, mass effect, midline shift, or 
+acute infarction. Given these exam, lab, and imaging findings 
+for vertiginous episodes that were associated w/ head turning 
+and eye-closing, patient was assessed to likely have a 
+peripheral vestibulopathy. GCA was determined to be unlikely 
+given patient's age, lack of clinical symptoms and good temporal 
+pulses on exam, and prednisone was thus discontinued. TIA was 
+also found to be less likely given stereotyped nature of events. 
+At this point, plan is for patient to receive vestibular therapy 
+on an outpatient basis and follow-up with PCP. Also, given 
+dizziness is a potential side effect of fluoxetine (incidence of 
+9%), patient can be observed to see if dizziness resolves since 
+fluoxetine was recently stopped per patient's report.
+
+For secondary stroke prevention, he should continue aspirin 
+325mg daily. He should continue atorvastatin 20mg qhs for a goal 
+LDL of less than 70. He should continue metformin. He should aim 
+for a hb1ac of less than 7%. He is not currently needing an 
+anti-hypertensive medication. Over the long term, he should aim 
+for BP less than 140/90 but should be careful not to be 
+hypotensive (BP less than 90/60) given that he has 
+atherosclerosis of his vertebral arteries and a small right 
+vertebral artery. 
+
+There was no apparent swelling or erythema of his left leg 
+during this admission. He did have some pain of the dorsum of 
+his left foot and ankle. Given concern regarding his episodic 
+left leg swelling and pain, and concern for gout, will refer him 
+to Rheumatology at ___. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 325 mg PO DAILY 
+2. Levothyroxine Sodium 175 mcg PO DAILY 
+3. Atorvastatin 20 mg PO QPM 
+4. MetFORMIN (Glucophage) 500 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Outpatient Physical Therapy
+Vestibular Therapy 
+ICD 9 386.10 
+2. Aspirin 325 mg PO DAILY 
+3. Levothyroxine Sodium 175 mcg PO DAILY 
+4. MetFORMIN (Glucophage) 500 mg PO DAILY 
+5. Atorvastatin 20 mg PO QPM 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Peripheral Vertigo 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to stroke neurology for dizziness. You had 
+brain imaging that did not find new stroke. You dizziness is 
+likely due to an inner ear pathology, so recommend vestibular 
+therapy as an outpatient. 
+
+We recommend using ice and NSAIDs to control your foot pain. You 
+may discuss continuation of steroids with your PCP, but these 
+have undesirable side effects for your diabetes and we do no 
+recommend you take them.
+
+Please follow up with your PCP & Neurology. 
+Please take all your medications as prescribed. 
+
+Sincerely, 
+YOUR ___ Neurology Team 
+ 
+Followup Instructions:
+___

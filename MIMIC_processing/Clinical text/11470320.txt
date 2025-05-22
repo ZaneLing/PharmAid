@@ -1,0 +1,170 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+High calcium
+ 
+Major Surgical or Invasive Procedure:
+N/A
+
+ 
+History of Present Illness:
+ ___ male with a history of DM2, HTN, ___ stage 3, GERD, 
+and chronic hepatitis B who presents at the suggestion of his 
+PCP with hypercalcemia. The patient's primary language is 
+___.
+
+The patient had labs checked by his PCP for ___ which reveal 
+hypercalcemia. He suggested the patient go to the emergency 
+department where calcium was found to be 14.1. He denies any 
+symptoms including constipation, changes in urinary habits, 
+abdominal discomfort, or pain in his extremities. His family has 
+not noticed any changes in cognition. He reports drinking a fair 
+amount of milk and taking antacids frequently. He has no known 
+history of malignancy.
+
+In the ED 1 L of NS was started. He was hemodynamically stable.
+
+ 
+Past Medical History:
+DM2, HTN, ___ stage 3, GERD, and chronic hepatitis B    
+ 
+Social History:
+___
+Family History:
+No Family History of metabolic disorders  
+ 
+Physical Exam:
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric
+ENT: Ears and nose without visible erythema, masses, or trauma.  
+
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation
+MSK: Neck supple, moves all extremities
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, speech fluent
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+___ 10:09AM BLOOD Hgb: 10.0* 
+___ 04:28AM BLOOD Hgb: 9.6* 
+___ 10:09AM BLOOD Creat: 2.4* 
+___ 04:28AM BLOOD Creat: 2.3* 
+___ 09:00AM BLOOD Creat: 2.3* 
+___ 10:09AM BLOOD Calcium: 14.1* 
+___ 04:28AM BLOOD Calcium: 13.5* 
+___ 09:00AM BLOOD Calcium: 12.4* 
+___ 04:28AM BLOOD PTH: 18 
+___ 10:09AM BLOOD TSH: 2.5 25VitD: 33 
+___ 09:41AM BLOOD freeCa: 1.63* 
+___ 04:51AM BLOOD freeCa: 1.73* 
+
+XR: Suggestion of mediastinal lesion. No intraparenchymal 
+process
+
+___ 02:00AM BLOOD Hgb: 8.3* 
+___ 02:00AM BLOOD Creat: 2.2* UreaN: 43* Calcium: 10.2 Mg: 
+1.5* Phos: 2.7 
+___ 04:28AM BLOOD PTH: 18 
+___ 09:00AM BLOOD PSA: 0.3 
+
+CT Chest: 
+1. No findings to suggest the presence of a primary lung 
+malignancy.  No
+mediastinal mass or lymphadenopathy.
+2. Mild emphysema with diffuse bronchial wall thickening 
+consistent with
+chronic bronchitis and stable compared to prior.
+3. Mild ectasia of the ascending thoracic aorta.
+4. Enlarged main pulmonary artery, a finding which can be seen 
+in pulmonary
+arterial hypertension.
+
+CT Abd:
+  
+No evidence of malignancy within the abdomen or pelvis within 
+the limitation 
+of a non-enhanced study.  No suspicious osseous lesions. 
+
+___ 05:44AM BLOOD WBC-5.2 RBC-2.77* Hgb-8.7* Hct-25.9* 
+MCV-94 MCH-31.4 MCHC-33.6 RDW-12.3 RDWSD-41.4 Plt ___
+___ 05:44AM BLOOD Glucose-99 UreaN-32* Creat-2.2* Na-138 
+K-3.7 Cl-102
+___ 05:44AM BLOOD Calcium-9.1 Mg-2.2
+___ 06:02AM BLOOD freeCa-1.20
+ 
+Brief Hospital Course:
+# Hypercalcemia: Presented with severe (>14) hypercalcemia. PTH 
+was low (<20). Malignancy is the first concern with hose lab 
+findings. CT chest/abd/pelvis (without contrast) did not show 
+clear signs of malignancy or lytic lesions, however. PSA was 
+WNL. No total protein-albumin gap was present, though he does 
+have concomitant anemia (iron studies consistent with anemia of 
+chronic disease) and renal dysfunction. SPEP, free light chains, 
+UPEP, PTHrP, and vitamin D 1,25-OH are pending. Fluids and 
+calcitonin were given initially, and his calcium normalized. It 
+then stayed normal after IVF were discontinued. Milk-alkali 
+syndrome possible given the patients reported calcium carbonate 
+ingestion, though often see alkalosis and hypophosphatemia with 
+this as well. Bisphosphonates were not given renal function, 
+though some studies have suggested it is safe to use. If 
+malignancy is the underlying cause, zolendronic acid may be 
+useful to prevent recurrence. The patient requested to leave the 
+hospital and continue workup as an outpatient. As his calcium 
+remained normal even off of fluids, this plan was discussed with 
+his PCP. He will therefore follow up closely in clinic and see 
+nephrology in the outpatient setting as well for his ___.
+
+Mr. ___ was seen and examined on the day of discharge and is 
+clinically stable for discharge today. The total time spent 
+today on discharge planning, counseling and coordination of care 
+was greater than 30 minutes.
+ 
+Medications on Admission:
+No medication changes other than avoiding calcium supplements
+ 
+Discharge Medications:
+Continue home medications other than calcium supplements
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypercalcemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted to ___ with high calcium levels in your 
+blood. We gave you fluids through an IV to help bring this down. 
+We looked for causes of this but so far do not have an exact 
+answer. Taking too much calcium may have been the cause, but we 
+would also like to rule out other causes. Your primary care 
+doctor ___ continue to work with you on this.
+
+Please do not take any medications with calcium (like tums) or 
+calcium supplements
+ 
+Followup Instructions:
+___

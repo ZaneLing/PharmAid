@@ -1,0 +1,326 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Zestril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Exertional chest pain
+ 
+Major Surgical or Invasive Procedure:
+Transesophageal Echocardiogram
+Direct Current Cardioversion
+
+ 
+History of Present Illness:
+___ year old male with PMHx of HTN, HLD, and DM, presented with 
+exertional chest pain to ___ Urgent Care. Patient was 
+climbing the stairs at ___ when he started having chest 
+pain. At the request of his PCP, he presented to ___ urgent 
+care and was found to be in atrial flutter with diffuse ST 
+depressions. He was given aspirin and then transferred to 
+___ for further management. His pain lasted ___ minutes 
+and resolved spontaneously. He had not had a recurrence of chest 
+pain since arriving on the ward.
+ 
+Past Medical History:
+Diabetes
+Hypertension
+Dyslipidemia
+Hypothyroidism
+Trigeminal Neuralgia
+GERD
+Semicircular canal dehiscensce s/p brain surgery Mass Eye Ear
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death. 
+ 
+Physical Exam:
+ON ADMISSION:
+=============
+VITALS: T 98.5 PO, BP 138/90, HR 114, O2 sat 96% on RA
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect 
+appropriate.  
+HEENT: Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no 
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple with no elevated JVP
+CARDIAC: Tachycardiac. No m/r/g 
+LUNGS: CTAB 
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No edema.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+AT DISCHARGE:
+=============
+VITALS: 
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect 
+appropriate.  
+NECK: Supple with no elevated JVP
+CARDIAC: RRR. S1, S2 present. No m/r/g 
+LUNGS: CTAB 
+ABDOMEN: Soft, NT. Distended (per patient, at baseline). No HSM 
+or tenderness.  
+EXTREMITIES: No edema/swelling.
+PULSES: DP 2+ ___.
+ 
+Pertinent Results:
+LABS on ADMISSION:
+==================
+___ 07:45PM BLOOD WBC-10.9* RBC-5.06 Hgb-15.3 Hct-44.1 
+MCV-87 MCH-30.2 MCHC-34.7 RDW-14.1 RDWSD-44.9 Plt ___
+___ 07:45PM BLOOD Neuts-54.7 ___ Monos-7.5 Eos-3.1 
+Baso-0.4 Im ___ AbsNeut-5.98 AbsLymp-3.57 AbsMono-0.82* 
+AbsEos-0.34 AbsBaso-0.04
+___ 07:45PM BLOOD ___ PTT-29.8 ___
+___ 07:45PM BLOOD Glucose-268* UreaN-21* Creat-1.2 Na-135 
+K-4.1 Cl-95* HCO3-26 AnGap-14
+___ 07:45PM BLOOD cTropnT-<0.01
+___ 07:45PM BLOOD TSH-4.5*
+
+LABS at DISCHARGE:
+==================
+___ 10:32AM BLOOD WBC-9.0 RBC-4.94 Hgb-14.8 Hct-44.3 MCV-90 
+MCH-30.0 MCHC-33.4 RDW-14.2 RDWSD-46.3 Plt ___
+___ 10:32AM BLOOD ___ PTT-31.0 ___
+___ 10:32AM BLOOD Glucose-171* UreaN-16 Creat-1.0 Na-139 
+K-4.6 Cl-101 HCO3-26 AnGap-12
+___ 10:32AM BLOOD Calcium-9.0 Phos-3.3 Mg-1.8
+
+IMAGING/STUDIES:
+================
+TTE ___
+CONCLUSION:
+The left atrium is mildly dilated. There is normal left 
+ventricular wall thickness with a normal cavity size. There is 
+normal regional and global left ventricular systolic function. 
+The visually estimated left
+ventricular ejection fraction is 55-60%. There is no resting 
+left ventricular outflow tract gradient. Normal right 
+ventricular cavity size with normal free wall motion. The aortic 
+sinus is mildly dilated with
+mildly dilated ascending aorta. The aortic valve leaflets (3) 
+are mildly thickened. There is no aortic valve stenosis. There 
+is no aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with
+no mitral valve prolapse. There is trivial mitral regurgitation. 
+The tricuspid valve leaflets appear structurally normal. There 
+is physiologic tricuspid regurgitation. The estimated pulmonary 
+artery systolic pressure is normal. There is no pericardial 
+effusion.
+
+IMPRESSION: Normal biventricular cavity sizes, regional/global 
+systolic function. No valvular pathology or pathologic flow 
+identified. Normal estimated pulmonary artery systolic pressure.
+
+TEE ___
+CONCLUSION:
+There is no spontaneous echo contrast or thrombus in the body of 
+the left atrium/left atrial appendage. The left atrial appendage 
+ejection velocity is normal. There is no evidence for an atrial 
+septal defect by 2D/color Doppler. Overall left ventricular 
+systolic function is normal. There are simple atheroma in the 
+aortic arch with no atheroma in the descending aorta. The aortic 
+valve leaflets (3) appear structurally normal. No masses or 
+vegetations are seen on the aortic valve. No abscess is seen. 
+There is no aortic regurgitation. The mitral valve leaflets 
+appear structurally normal. No masses or vegetations are seen on 
+the mitral valve. No abscess is seen. There is physiologic 
+mitral regurgitation. The tricuspid valve
+leaflets appear structurally normal. No mass/vegetation are seen 
+on the tricuspid valve. No abscess is seen. There is no 
+tricuspid regurgitation.
+
+IMPRESSION: No spontaneous echo contrast/thrombus in the ___. 
+Normal left ventricular systolic function. Mild aortic arch 
+atheroma.
+
+CARDIAC CATH ___
+Coronary Description
+
+The coronary circulation is right dominant.
+
+LM: The left main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the left anterior 
+descending and left circumflex systems. There is a 20% stenosis 
+in the mid and distal segments.
+
+LAD: The left anterior descending artery, which arises from the 
+LM, is a smaller caliber vessel. There is a 20% stenosis in the 
+proximal segment. It runs toward but not around the apex. The 
+septal perforator, arising from the mid segment, is a small 
+caliber vessel.
+
+Left Circumflex: The Circumflex artery, which arises from the 
+left main is a large caliber and large distribution vessel. 
+There is a 20% stenosis in the proximal segment. The OMBs extend 
+toward the lateral wall of the myocardium without disease.
+
+RCA: The right coronary artery, arising from the right cusp, is 
+a large caliber vessel. There is a 20% stenosis in the proximal 
+segment. It is a hyperdominant vessel. The SinoAtrial, arising 
+from the proximal segment, is a small caliber vessel. The Right 
+Posterolateral Artery, arising from the distal segment, is a 
+large caliber vessel.
+
+The Right Posterior Descending Artery, arising from the distal 
+segment, is a large caliber vessel.
+
+Aortogram: No evidence of an anomalous coronary artery
+
+Findings
+ No angiographically apparent coronary artery disease.
+ New onset atypical atrial flutter
+ 
+Brief Hospital Course:
+___ year old male with PMHx of HTN, HLD, and DM, arrived at 
+___ Urgent Care with exertional chest pain and found 
+to be in new atrial flutter. Patient was transferred to ___ 
+for further evaluation. Patient underwent cardiac catherization 
+with only mild stenosis of his cardiac arteries identified. He 
+had a TEE to rule out thrombus and subsequently underwent DCCV. 
+He had remained in sinus rhythm with stable vital signs since 
+undergoing DCCV. A repeat TTE was performed without identifiable 
+concerns. Patient was discharged in good condition.
+
+==============
+ACTIVE ISSUES:
+==============
+# Atrial Flutter: Patient presented with chest pain iso new 
+onset of atrial flutter. Chest pain resolved spontaneously after 
+___ minutes. He had been asymptomatic since his arrival on the 
+ward. TEE and DCCV were performed. Patient restored to sinus 
+rhythm which was sustained after DCCV. VSS. TTE was performed 
+prior to discharge. Patient was started on apixaban for 
+anticoagulation and Metoprolol XL for rate control.
+
+===============
+CHRONIC ISSUES:
+===============
+# HTN
+- Continued losartan
+- Started on Metoprolol XL
+
+====================
+TRANSITIONAL ISSUES:
+====================
+
+MEDICATIONS:
+============
+New:
+- Apixaban 5mg PO BID
+- Metoprolol Succinate XL PO 50mg Q Daily
+
+Changed:
+- None
+
+Stopped:
+- Aspirin
+
+[ ] PCP ___
+[ ] Cardiology ___
+[ ] Repeat EKG to see if patient remains in sinus rhythm
+[ ] Check blood pressure to ensure that patient is tolerating 
+the additional Metoprolol XL
+
+CODE: FULL
+CONTACT: HCP: None chosen by patient
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Glargine 60 Units Bedtime
+2. Atorvastatin 80 mg PO QPM 
+3. MetFORMIN (Glucophage) 1000 mg PO BID 
+4. glimepiride 2 mg oral DAILY 
+5. Losartan Potassium 100 mg PO DAILY 
+6. Bydureon (exenatide microspheres) 2 mg/0.65 mL subcutaneous 
+QWEEKLY 
+7. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0 
+2.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+3.  Glargine 60 Units Bedtime 
+4.  Atorvastatin 80 mg PO QPM  
+5.  Bydureon (exenatide microspheres) 2 mg/0.65 mL subcutaneous 
+QWEEKLY  
+6.  glimepiride 2 mg oral DAILY  
+7.  Losartan Potassium 100 mg PO DAILY  
+8.  MetFORMIN (Glucophage) 1000 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+- Atrial Flutter
+
+SECONDARY DIAGNOSIS:
+====================
+- Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because you were having exertional chest 
+pain and was found to have an abnormal heart rhythm called 
+"atrial flutter".
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You had a procedure called "cardiac catheterization" which 
+showed mild narrowing in the blood vessels supplying your heart.
+- We checked your heart for blood clot by placing a probe down 
+your throat. No blood clot was identified.
+- A procedure called "Direct Current Cardioversion" was 
+performed to shock your abnormal heart rhythm back to normal 
+sinus rhythm.
+- We started you on medications to control your heart rate and 
+prevent blood clots.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Please follow up with your primary care doctor.
+- Please follow up with your cardiologist.
+- While in the hospital, we stopped your aspirin, please do not 
+take this medicine after leaving the hospital.
+- Please take your other medicines as prescribed.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!
+
+Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

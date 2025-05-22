@@ -1,0 +1,354 @@
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Sulfa (Sulfonamide Antibiotics) / naproxen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Confusion, weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with a history of ulcerative 
+colitis s/p colectomy, anxiety/depression, recent Bell's palsy 
+now presenting with weakness and confusion, found to have ___.
+
+The patient reports that she was in her usual state of health 
+until about ___ weeks ago. She noted that she had increased 
+anxiety related to life stressors. Her husband has ___ 
+and has been declining, and they recently moved to an assisted 
+living facility. She traveled to ___ to visit her twin 
+sister at the beginning of ___, and reports feeling physically 
+well while there but emotionally distress. She returned to 
+___ in early ___ and saw her PCP, who prescribed a trial of 
+buspirone; however, this made her feel unwell and foggy, so it 
+was subsequently discontinued. Her Ativan dose was increased 
+instead to treat her anxiety.
+
+She subsequently developed unsteady gait, and left facial droop 
+and slurred speech. She also reports mental fogginess and 
+short-term memory loss. She presented to BID-N for these issues 
+on ___, where she had a MRI/MRA of the head and neck that 
+revealed small-vessel ischemic disease but no acute process to 
+explain her symptoms. She was thought to have Bell's palsy, and 
+was prescribed a course of valacyclovir and prednisone. She 
+reports that her facial droop and speech have improved since 
+then. However, her gait instability and mental processing issues 
+have persisted. She denies any numbness, tingling, or focal 
+weakness. She denies fevers or chills. No abdominal pain or 
+nausea. She reports chronic diarrhea related to her UC but none 
+recently; she does note that she was treated for C. diff 
+infection in ___ of this year. She denies any cough or 
+shortness of breath. No dysuria. No other medication changes 
+aside from the above.
+
+She went to her chiropracter today, who told her that she seemed 
+unwell and recommended that she been seen.
+
+In the ED, vitals: 98 84 145/66 18 98% RA 
+
+Exam notable for: 
+- Neuro: AAOx3. Cranial nerves II through XII intact though very 
+mild asymmetric smile is noted. Strength 5 out of 5 in bilateral 
+upper and lower extremities. Sensation grossly intact in upper 
+and lower extremities. 
+- Psych: Normal mentation. 
+- Gait: Patient able to ambulate unassisted. 
+
+Labs notable for: BUN/Cr ___ UA bland with spec ___ 1.007
+
+On arrival to the floor, the patient reports that she feels 
+tired and thirsty but otherwise has no acute complaints. ROS: 
+Pertinent positives and negatives as noted in the HPI. All other 
+systems were reviewed and are negative. 
+ 
+Past Medical History:
+- Ulcerative colitis s/p total colectomy
+- Anxiety, depression, panic disorder
+- Breast cancer
+- Hyperlipidemia
+ 
+Social History:
+___
+Family History:
+- Daughter with papillary thyroid cancer
+- Son died at ___ from aplastic anemia
+- Brother with HTN, CAD
+- Twin sister with HTN
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: 98.3 ___ 97 RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round, left ptosis
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation. Bowel
+sounds present.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, orientedx3, attentive, CN II-XII intact, left
+nasolabial fold flattening, gaze conjugate with EOMI, speech
+fluent, moves all limbs, sensation to light touch grossly intact
+throughout
+PSYCH: Very pleasant, appropriate affect
+
+DISCHARGE EXAM:
+VITALS: 97.9 PO    120 / 75   L ___   ___
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, left ptosis
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation. Bowel 
+sounds present.
+GU: No suprapubic fullness or tenderness to palpation
+EST: moves all extremities, strength grossly full and symmetric 
+bilaterally in all limbs, 1+ nonpitting edema
+SKIN: No rashes or ulcerations noted; chronic venous stasis 
+changes on the legs
+NEURO: Alert, orientedx3, attentive, CN II-XII intact, left 
+nasolabial fold flattening, gaze conjugate with EOMI, speech 
+fluent, moves all limbs, sensation to light touch grossly intact 
+throughout
+PSYCH: Very pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+===========
+___ 04:48PM BLOOD WBC-7.6 RBC-3.99 Hgb-12.7 Hct-38.8 MCV-97 
+MCH-31.8 MCHC-32.7 RDW-16.3* RDWSD-57.6* Plt ___
+___ 04:48PM BLOOD Neuts-73.4* Lymphs-16.4* Monos-7.9 
+Eos-1.2 Baso-0.3 Im ___ AbsNeut-5.57 AbsLymp-1.24 
+AbsMono-0.60 AbsEos-0.09 AbsBaso-0.02
+___ 04:48PM BLOOD Glucose-96 UreaN-31* Creat-2.6* Na-136 
+K-3.8 Cl-96 HCO3-26 AnGap-14
+___ 04:48PM BLOOD ALT-35 AST-53* AlkPhos-52 TotBili-1.5
+___ 04:48PM BLOOD Albumin-4.7
+___ 04:48PM BLOOD VitB12-715 Folate->20
+___ 04:48PM BLOOD TSH-111*
+___ 04:48PM BLOOD Free T4-<0.1*
+___ 04:48PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 09:03PM BLOOD Lactate-1.7
+
+INTERVAL:
+=======
+___ 07:35AM BLOOD Glucose-99 UreaN-25* Creat-2.1* Na-142 
+K-3.7 Cl-99 HCO3-32 AnGap-11
+___ 07:35AM BLOOD ALT-33 AST-50* LD(LDH)-413* CK(CPK)-484* 
+AlkPhos-47 TotBili-2.0*
+___ 07:35AM BLOOD Trep Ab-NEG
+___ 12:40AM URINE Color-Straw Appear-Clear Sp ___
+___ 12:40AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 01:55PM URINE Hours-RANDOM UreaN-199 Creat-42 Na-111
+___ 01:55PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+
+DISCHARGE:
+========
+___ 07:00AM BLOOD WBC-4.5 RBC-3.93 Hgb-12.5 Hct-37.8 MCV-96 
+MCH-31.8 MCHC-33.1 RDW-16.5* RDWSD-57.2* Plt ___
+___ 07:00AM BLOOD Glucose-79 UreaN-23* Creat-1.9* Na-143 
+K-3.5 Cl-100 HCO3-29 AnGap-14
+___ 07:00AM BLOOD ALT-29 AST-47* LD(LDH)-409* AlkPhos-46 
+TotBili-1.9* DirBili-0.3 IndBili-1.6
+
+MICROBIOLOGY:
+==========
+___ CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+___ CULTURE X2: PENDING
+
+IMAGING:
+======
+___ CXR
+No acute cardiopulmonary abnormality.
+
+___ ABD U/S
+1. No evidence of intrahepatic biliary ductal dilation.  Mildly 
+prominent CBD measures 10 mm, within the upper limits of normal 
+given patient's age.  However if elevated liver function tests 
+is suggestive of an obstructive etiology, then further 
+evaluation with MRCP could be considered.
+2. No evidence of hydronephrosis.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ woman with a history of ulcerative 
+colitis s/p colectomy, anxiety/depression,
+recent Bell's palsy who presented with weakness, confusion, and 
+___, found to have profound hypothyroidism.
+
+# Hypothyroidism
+# Gait instability
+# Encephalopathy
+Patient presented with several weeks of gait instability, 
+encephalopathy, and some  dysarthria. TSH on admission was 111, 
+Free T4 <0.1, which may ultimately be the cause of her symptoms 
+and further lab abnormalities detailed below. Endocrinology was 
+consulted for further management. She began to improve after 
+receiving a loading dose of 300 mcg Levothyroxine, continued on 
+50 mcg daily maintenance with plan to follow up outpatient in 6 
+weeks. Patient had recent MRI/MRA without acute process. 
+Neurology was consulted in the ED, initially recommended a 
+toxic-metabolic workup (including vitamin B12, folate, Tox 
+screen, Treponemal antibodies, blood and urine cultures workup), 
+which was unremarkable (apart from ___, then recommended 
+patient follow up in Cognitive Neurology Clinic if symptoms do 
+not improve with treatment of hypothyroidism. ___ was consulted 
+and recommended home with home ___. Patient's daughter/HCP will 
+check on patient frequently at her ALF after discharge.
+
+# Acute kidney injury: 
+Patient with recent creatinine of 1.3 on ___, 2.6 on admission. 
+Improved to ___ s/p 2L IVF in the ED, did not further improve 
+with more IVF though urine lytes were consistent with prerenal 
+etiology. No evidence of hydronephrosis on ultrasound. Possibly 
+some dysfunction related to hypothyroidism vs valtrex (though 
+suspect less likely). Please repeat 1 week after discharge and 
+if worsening, consider nephrology referral.
+
+# Abnormal LFTs
+Also noted on labs prior to hospitalization. Mixed picture with 
+mild AST elevation (which could be related to mild CK elevation, 
+though this is of unclear etiology). Tbili mildly elevated as 
+well but predominantly indirect, which can be seen in 
+hypothyroidism. Ultrasound showed no evidence of intrahepatic 
+biliary ductal dilation, though CBD
+was within the upper limits of normal. Would recheck at 
+followup. 
+
+# Thrombocytopenia 
+Noted incidentally on routine CBC, no signs of bleeding, please 
+repeat at followup. As above, she had mildly elevated indirect 
+hyperbilirubinemia. She also had elevated LDH, but no anemia or 
+other signs of hemolysis.
+
+# Anxiety/Depression:  Continued citalopram, held lorazepam 
+briefly for AMS as above.
+
+# History of breast cancer:  Continued anastrazole
+
+# Hyperlipidemia:  Continued statin
+
+TRANSITIONAL ISSUES:
+===============
+[] Needs repeat CBC, CMP in one week (communicated to patient, 
+family, and PCP)
+[] If LFTs still abnormal at followup and following an 
+obstructive pattern, consider MRCP
+[] Nonurgent thyroid ultrasound to assess for nodules
+[] Continue Levothyroxine 50 mcg daily, TSH check prior to 
+endocrine followup appointment
+[] Patient should follow up in Cognitive Neurology Clinic if 
+symptoms do not improve with treatment of hypothyroidism
+[] Held lorazepam given encephalopathy; could restart if 
+improving 
+[] Left anterior fascicular block noted on EKG
+[] Discharged home with home ___.
+
+>30 minutes spent in coordination of care and discharge planning
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Escitalopram Oxalate 10 mg PO DAILY 
+2. LORazepam 0.5 mg PO BID:PRN Anxiety 
+3. Anastrozole 1 mg PO DAILY 
+4. Halobetasol Propionate 0.05 % topical 2X/WEEK 
+5. LOPERamide 2 mg PO QID:PRN Diarrhea 
+6. Multivitamins 1 TAB PO DAILY 
+7. Vitamin D 1000 UNIT PO DAILY 
+8. Ascorbic Acid ___ mg PO DAILY 
+9. Aspirin 81 mg PO DAILY 
+10. Pravastatin 20 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Levothyroxine Sodium 50 mcg PO DAILY 
+RX *levothyroxine 50 mcg 1 tablet(s) by mouth once a day Disp 
+#*30 Tablet Refills:*1 
+2.  Anastrozole 1 mg PO DAILY  
+3.  Ascorbic Acid ___ mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  Escitalopram Oxalate 10 mg PO DAILY  
+6.  Halobetasol Propionate 0.05 % topical 2X/WEEK  
+7.  LOPERamide 2 mg PO QID:PRN Diarrhea  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Pravastatin 20 mg PO QPM  
+10.  Vitamin D 1000 UNIT PO DAILY  
+11. HELD- LORazepam 0.5 mg PO BID:PRN Anxiety  This medication 
+was held. Do not restart LORazepam until discussing with Dr. 
+___
+
+ 
+___ Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+hypothyroidism
+gait instability 
+___
+abnormal LFTs
+thrombocytopenia
+elevated CK
+Left anterior fascicular block
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory 
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+___ came to the hospital because ___ were not feeling like 
+yourself and having difficult walking.
+
+While ___ were here, ___ were diagnosed with hypothyroidism and 
+started on levothyroxine to help with this.
+
+It is possible many of your symptoms are related to having a low 
+level of thyroid hormone in your blood.
+
+___ also had some other labs that were not normal and ___ will 
+need to have them rechecked in about 1 week at your primary care 
+doctor's office:
+- CBC (complete blood count, to check the platelet level)
+- basic metabolic panel (to check the kidneys)
+- liver function tests
+- have an ultrasound of your thyroid scheduled by Dr. ___
+
+___ will also have physical therapy at home to work on getting 
+stronger.
+
+Please see below for your medicines and followup appointments.
+
+It was a pleasure caring for ___ and we wish ___ the best,
+Your ___ Team
+ 
+Followup Instructions:
+___

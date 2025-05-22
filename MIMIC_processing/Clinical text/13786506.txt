@@ -1,0 +1,333 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a pleasant ___ y/o man with PMH notable for ILD on 
+chronic prednisone and 4L home O2 as well as dermatomyositis, 
+presenting with increasing SOB.
+
+The patient states that he was visiting from ___ and at the ___ 
+___ game the night prior to presentation. He was feeling about 
+his baseline, perhaps slightly worse on the night of the game. 
+However, due to 2 rain delays and cold weather, he began feeling 
+slight more dyspneic. He did not have any oxygen with him. With 
+increased exertion walking around the stadium and difficulty 
+keeping up with his son, he began to feel more dyspneic and 
+needed to go to the medical facility in the ___. There he 
+was actually recommended to present to the ED for further 
+management but elected to go home, where he had oxygen 
+available.
+
+Upon returning home, he continued to feel worse despite going 
+through ___ tanks of oxygen. In retrospect, he has been having 2 
+weeks now of productive cough with yellow sputum production 
+(different from baseline). He denies any associated chest pain, 
+palpitation, N/V, abdominal pain, diarrhea, dysuria, or 
+increased ___ swelling. He has not had any recorded fevers and 
+has been without any chills. He does state that his temp was 
+recorded somewhere as ___.
+
+Given his persistent symptoms, he presented to the ___ ED for 
+further evaluation. Of note, he states that he was recently 
+admitted back in ___ for about 4 days due to fluid 
+overload. He states that he has never had any issues with his 
+heart.
+
+He does add that he is quite limited chronically with dyspnea 
+with exertion that has progressed over the past ___ years. He 
+uses 4L NC O2 intermittently while at home, whenever he is 
+sitting around not doing anything else or after he exerts 
+himself.
+
+In the ED, initial VS were:
+-100.2 120 135/87 24 97% NRB (bad pleth given his peripheral 
+cyanosis)
+-subsequently 98% on nasal cannula (unclear how much O2) 
+
+Exam notable for: nothing
+
+Labs showed:
+-CBC with WBC 16.4 (74.6% PMNs), Hgb 15.9, Plt 113
+-Chem10 wnl
+-lactate 2.9
+-INR 1.5
+-Trop <0.01
+-D-Dimer 805
+-VBG with 7.43/44
+
+Imaging showed  
+-CXR showing: Extensive parenchymal opacities which could 
+reflect multifocal pneumonia versus chronic lung disease. Please 
+correlate clinically. Mild cardiomegaly. 
+
+-CTA chest notable for: no PE, findings likely consistent with 
+NSIP with superimposed ground glass findings consistent with 
+possible infection or pulmonary nodules
+
+-ECG per my read: sinus rhythm, ventricular rate of 119; right 
+axis deviation; biatrial abnormality per II and V1; inferior Q 
+waves and deep Q waves along anterior pre-cordial leads and 
+TWI's with delayed RWP consistent with right heart strain vs. 
+counterclockwise rotation and possible RV hypertrophy; no prior
+for comparison.
+
+Received:
+- Ceftriaxone 1g IV x1
+- Azithromycin 500mg IV x1
+- NS 500cc IV x1
+ 
+On arrival to the floor, patient endorses the above story and 
+c/o ongoing coughing. otherwise, no acute issues.
+ 
+Past Medical History:
+-Dermatomyositis diagnosed in ___
+-Interstitial Lung Disease on up to 4L NC at home
+-Cannot recall any history of heart disease
+-No prior surgeries
+ 
+Social History:
+___
+Family History:
+No family history of autoimmune or rheumatologic conditions. 
+Father survived with one lung, former smoker.
+
+ 
+Physical Exam:
+==================
+ADMISSION PHYSICAL EXAM:
+==================
+VS: 99.2 138/84 109 20 96 3L NC 
+GENERAL: NAD, sitting about 30 degrees back in bed; speaking in
+full sentences, but intermittently stopping for several seconds
+to catch his breath
+HEENT: AT/NC, +proptosis, EOMI, PERRL, anicteric sclera, pink
+conjunctiva, MMM, tongue midline on protrusion, no obvious 
+facial
+asymmetry
+NECK: supple, symmetric; possible anterior cervical LAD R>L, JVD
+appears elevated to mid-neck with patient at 30 degrees  
+HEART: accelerated rate, regular rhythm, fixed split S1 and S2
+with minimal respirophasic variation; no m/r  
+LUNGS: good air movement throughout with bronchial breath sounds
+and bibasilar crackles; no wheezing or rhonchi appreciated; no
+accessory muscle use
+ABDOMEN: nondistended, nontender in all quadrants, no r/g, BS+
+EXTREMITIES: clubbing, cyanosis, 2+ pitting edema in b/l ___
+(warm, well perfused; improved from prior per patient); large
+firm subcutaneous mass, non-mobile, non-tender (4x5 cm), chronic
+PULSES: strong pulses bilaterally
+NEURO: A&Ox3; moving all extremities well with purpose
+SKIN: warm and well perfused
+
+=======================
+Discharge Physical Exam:
+=======================
+Vitals:  T97.9 PO BP 129 / 82 HR 91RR 18 SpO2 933L
+GENERAL: NAD, sitting up in bed
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera
+NECK: supple
+HEART: regular fixed split S1 and S2, no murmurs
+LUNGS: slightly tachypneic but good air movement throughout with
+scattered crackles, no wheezing or rhonchi appreciated; no
+accessory muscle use
+ABDOMEN: nondistended, nontender in all quadrants, no rebound
+tenderness or guarding, BS+
+EXTREMITIES: 2+ edema to the mid-shin, WWP. Finger clubbing 
+bilaterally
+PULSES: strong pulses bilaterally
+NEURO: A&Ox3; moving all extremities well with purpose
+
+ 
+Pertinent Results:
+Admission Labs:
+===============
+
+___ 06:45PM BLOOD WBC-16.4* RBC-5.29 Hgb-15.9 Hct-50.1 
+MCV-95 MCH-30.1 MCHC-31.7* RDW-16.5* RDWSD-56.9* Plt ___
+___ 06:45PM BLOOD Neuts-74.6* Lymphs-16.9* Monos-7.2 
+Eos-0.1* Baso-0.6 Im ___ AbsNeut-12.19* AbsLymp-2.76 
+AbsMono-1.18* AbsEos-0.02* AbsBaso-0.10*
+___ 08:00PM BLOOD ___ PTT-32.5 ___
+___ 06:45PM BLOOD Plt ___
+___ 06:45PM BLOOD Glucose-76 UreaN-11 Creat-0.9 Na-136 
+K-4.8 Cl-97 HCO3-23 AnGap-21*
+___ 08:00PM BLOOD cTropnT-<0.01
+___ 08:00PM BLOOD D-Dimer-805*
+___ 08:17PM BLOOD ___ pO2-37* pCO2-44 pH-7.43 
+calTCO2-30 Base XS-3
+___ 06:46PM BLOOD Lactate-2.9*
+
+MICROBIOLOGY:
+(___) Urine culture: negative
+(___) Legionella urine antigen: negative
+(___) Blood culture x2: pending
+
+IMAGING:
+(___) CHEST CT Angiogram: 
+1. Mildly limited study due to respiratory motion.  Within these 
+limits, no
+evidence of central acute pulmonary embolism.
+2. Evidence pulmonary arterial hypertension and right heart 
+failure.  Further
+evaluation with echocardiogram would be helpful if clinically 
+indicated.
+3. Findings most consistent with interstitial lung disease, 
+favoring usual
+interstitial pneumonia with reactive lymphadenopathy.  Other 
+areas of
+ground-glass opacities measuring up to 17 mm may represent 
+superimposed
+infection or exacerbation of UIP.  Attention on follow-up is 
+recommended.
+
+(___) Chest x-ray
+Extensive parenchymal opacities which could reflect multifocal 
+pneumonia
+versus chronic lung disease.  Please correlate clinically.  Mild 
+cardiomegaly.
+
+DISCHARGE RESULTS:
+===============
+___ 06:25AM BLOOD WBC-8.7 RBC-4.70 Hgb-14.1 Hct-43.8 MCV-93 
+MCH-30.0 MCHC-32.2 RDW-14.9 RDWSD-51.6* Plt ___
+___ 06:25AM BLOOD Plt ___
+___ 06:25AM BLOOD Glucose-78 UreaN-11 Creat-0.7 Na-141 
+K-3.8 Cl-100 HCO3-30 AnGap-15
+___ 06:25AM BLOOD Calcium-8.6 Phos-3.3 Mg-2.0
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ y/o man with PMH notable for ILD on chronic 
+prednisone and 4L home O2 as well as dermatomyositis, who 
+presented with increased shortness of breath. Both clinical exam 
+and imaging on admission were suggestive of a community acquired 
+pneumonia. He was treated with azithromycin and ceftriaxone for 
+3 days and transitioned to Levofloxacin for an additional 3 days 
+at discharge. His clinical status improved, including that he 
+appeared comfortable on his home oxygen requirement of 4L by 
+nasal cannula.
+
+==============================
+Acute medical/surgical issues
+==============================
+
+# Community acquired pneumonia
+# Interstitial lung disease
+Patient has had progressive, 2 week history of increased sputum 
+production with acute worsening in dyspnea on the night prior to 
+admission. Given history of cough, fever, and leukocytosis, this 
+was thought to be CAP. Patient without significant risk factors 
+for HCAP and improved to baseline on CAP treatment. PE was 
+considered given tachycardia and elevated D-dimer but CTPE was 
+negative. Patient discharged on levofloxacin 500mg daily and to 
+complete a 5 day course. Last dose on ___.
+
+#Sinus tachycardia 
+The patient has sinus tachy up to 170's I/s/o acute infectious 
+vs. inflammatory process. EKG on admission showed right axis 
+deviation, biatrial enlargement and possible T-wave inversions 
+in lead V1 and V2. Patient without chest pain and troponin 
+negative. He was given 500cc IVF with no improvement. Likely not 
+due to fluid depletion. Sinus tachycardia is probably secondary 
+to acute infectious process. No evidence of SVT or A-fib on 
+telemetry and EKG unchanged from admission EKG. 
+
+=======================================
+Chronic issues pertinent to admission:
+=======================================
+# ILD: baseline ILD with 4L O2 requirement. Likely has 
+associated RHF based on clinical exam, history, and imaging on 
+CT. Patient was continued on home O2 of 4L, home prednisone 
+dose, and home Lasix dose.
+
+TRANSITIONAL ISSUES:
+- Mr. ___ should complete his antibiotic course for community 
+acquired pneumonia (3 additional days of Levofloxacin)
+- Mr. ___ should have regular cardiology follow-up given 
+abnormal EKG findings.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 20 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Aspirin 81 mg PO DAILY 
+4. Omeprazole 20 mg PO DAILY 
+5. Sulfameth/Trimethoprim SS 1 TAB PO 3X/WEEK (___) 
+6. Ibuprofen 800 mg PO Q8H:PRN Pain - Mild 
+7. Furosemide 20 mg PO DAILY 
+8. Benzonatate 100 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Levofloxacin 500 mg PO Q24H Duration: 3 Days 
+RX *levofloxacin 500 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 40 mg PO QPM  
+4.  Benzonatate 100 mg PO DAILY  
+5.  Furosemide 20 mg PO DAILY  
+6.  Ibuprofen 800 mg PO Q8H:PRN Pain - Mild  
+7.  Omeprazole 20 mg PO DAILY  
+8.  PredniSONE 20 mg PO DAILY  
+9.  Sulfameth/Trimethoprim SS 1 TAB PO 3X/WEEK (___)  
+10.OXYGEN
+ICD-10: J___.9: INTERSTITIAL LUNG DISEASE
+SUPPLEMENTAL OXYGEN at 4L BY NASAL CANNULA
+AMOUNT: TWO TANKS OF SUPPLEMENTAL OXYGEN
+NO REFILLS
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Community Acquired Pneumonia
+Secondary Diagnosis: ILD, Dermatomyositis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to care for you during your admission at 
+___.
+
+You were admitted with worsening shortness of breath and found 
+to have evidence of pneumonia on exam and imaging. You received 
+antibiotics, along with your usual home doses of Lasix and 
+prednisone, and these symptoms improved.
+
+You should complete a course of antibiotics: you will have 3 
+days remaining of Levofloxacin. Please also follow-up with your 
+Primary Care Physician when you return to ___.
+
+It was a privilege to participate in your care.
+
+Best wishes,
+
+Your ___ Team
+
+ 
+Followup Instructions:
+___

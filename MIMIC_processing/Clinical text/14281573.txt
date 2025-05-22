@@ -1,0 +1,193 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+GIB
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+
+ 
+History of Present Illness:
+___ female who initially presented to ___ w/ fatigue and
+dark stools x3 days. 
+
+Patient was recently diagnosed with calcific tendinitis in the
+shoulder and started on ibuprofen which she was taking 600 mg 3
+times a day (for approx. 10 days 2 weeks ago). Patient also
+received a steroid injection.
+
+Seen in urgent care earlier the day of presentation; had a 
+rectal
+exam that was guaiac positive with dark stool. Then presented to
+___ where labs were notable for a hgb of 7.9, nl plt, nl coags,
+Cr 0.5. Given pantoprazole 80 IV, 1L IVF and 1u pRBCs.
+
+On arrival to ___, HR 80, BP 100/70. No hypoxemia or fevers.
+hgb 7.1; labs otherwise unchanged. lactate 0.6. No imaging.
+Consulted GI, but "haven't heard back".
+
+No fevers or chills. No cough. No abdominal pain. No prior
+history of GI bleeds.
+ 
+Past Medical History:
+- calcific tendinitis
+- Vit D deficiency
+ 
+Social History:
+___
+Family History:
+- no fhx of GI illness
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VS: 98.6F, 72, 98/60, 15, 99% on RA
+GEN:  NAD, appearing stated age
+HEENT:  PERRL, EOMI, sclera anicteric, pale conjunctiva
+NECK:  supple
+CV:  rrr, s1s2
+RESP:  CTAB
+GI:  flat, soft, nt
+SKIN:  no rash
+NEURO:  AAOx3, moving all extremities anti gravity
+PSYCH:  appropriate mood and affect
+
+DISCHARGE EXAM:
+========================
+VS: ___ 0725 Temp: 99.7 PO BP: 94/57 HR: 76 RR: 16 O2 sat: 
+99% O2 delivery: Ra 
+GENERAL: no acute distress, lying in bed, comfortable
+HEENT: MMM, normocephalic, atraumatic
+CV: RRR, ___ systolic murmur at upper sternal border
+LUNGS: CTAB
+ABDOMEN: soft, no tenderness to palpation, normoactive bowel 
+sounds
+NEURO: alert and oriented x3, speech fluent
+PSYCH: behavior and affect appropriate
+ 
+Pertinent Results:
+.
+ADMISSON LABS
+=============
+___ 02:15AM BLOOD WBC-10.7* RBC-2.47* Hgb-7.1* Hct-23.3* 
+MCV-94 MCH-28.7 MCHC-30.5* RDW-12.8 RDWSD-44.1 Plt ___
+___ 02:15AM BLOOD Neuts-62.1 ___ Monos-7.0 Eos-2.4 
+Baso-0.5 Im ___ AbsNeut-6.64* AbsLymp-2.93 AbsMono-0.75 
+AbsEos-0.26 AbsBaso-0.05
+___ 02:15AM BLOOD ___ PTT-28.2 ___
+___ 02:15AM BLOOD Glucose-101* UreaN-19 Creat-0.5 Na-139 
+K-3.9 Cl-111* HCO3-21* AnGap-7*
+___ 02:15AM BLOOD Calcium-8.1* Phos-3.6 Mg-1.9
+___ 02:23AM BLOOD Lactate-0.6
+.
+DISCHARGE LABS
+=================
+___ 07:08AM BLOOD WBC-8.7 RBC-2.46* Hgb-7.2* Hct-21.5* 
+MCV-87 MCH-29.3 MCHC-33.5 RDW-13.4 RDWSD-42.3 Plt ___
+___ 07:08AM BLOOD Glucose-101* UreaN-9 Creat-0.5 Na-142 
+K-3.8 Cl-104 HCO3-28 AnGap-10
+___ 07:08AM BLOOD Calcium-8.5 Phos-4.7* Mg-1.9
+.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female who initially p/w fatigue and 
+dark stools x3
+days, found to have anemia and guaiac positive stool, c/f UGIB 
+in setting of 
+recent NSAID use.
+ 
+ACUTE ISSUES  
+===============  
+# Acute blood loss anemia:
+# Upper GI bleed:
+# Duodenal ulcer:
+Initially admitted to MICU for monitoring overnight. Did not 
+require any pressors or critical interventions. GI bleed nad 
+ulcer possibly iso NSAID use. No BMs since arrival to ___ ED, 
+so less c/f ongoing brisk bleed. Admitted to MICU.  Blood 
+pressures borderline, but per pt at baseline. Lactate was flat.  
+Was called out of MICU for EGD evaluation that revealed duodenal 
+ulcer, which is the likely source of the bleed. Biopsies taken, 
+and testing for H. Pylori sent. Post-EGD tolerated diet and 
+feeling much improved with stable hemoglobin x3. Discharge 
+hemoglobin was 7.2.
+
+#CODE STATUS:  FULL (presumed)
+
+CHRONIC ISSUES  
+===============  
+# Calcific tendinitis
+- APAP given prn, patient counseled on avoiding NSAIDs
+
+TRANSITIONAL ISSUES
+===============
+[] Repeat labs w/ CBC at PCP within one week after discharge
+[] H. Pylori biopsy and serologies pending
+[] Needs H. Pylori stool antigen testing since unable to have BM 
+prior to d/c - patient provided with stool cup to go home with, 
+instructed to bring in to PCP for testing
+[] BID PPI for AT LEAST 8 weeks, written for script for 
+pantoprazole
+
+She was discharged to home on ___.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*1 
+2.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Duodenal ulcer
+Upper GI bleed
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to the hospital for fatigue and dark stools, 
+likely due to bleeding from an ulcer in your small bowel. You 
+had an endoscopy procedure on ___, which saw the ulcer, and 
+biopsies were taken. The pathology from the biopsies is still 
+pending at discharge. You will need to take a powerful antacid 
+medication (PPI) twice daily for 8 weeks to calm down the ulcer. 
+Please do not take any NSAID pain medications (including but not 
+limited to Advil, Aleve, Motrin, or their generic equivalents 
+ibuprofen and naproxen). You will also need to ___ with 
+your primary care doctor to have your labs rechecked within one 
+week.
+
+It was a pleasure taking care of you!
+
+Sincerely, the ___ Team
+ 
+Followup Instructions:
+___

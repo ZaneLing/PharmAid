@@ -1,0 +1,278 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Optic Disc Edema
+ 
+Major Surgical or Invasive Procedure:
+___: ___ line placement
+
+ 
+History of Present Illness:
+___ with hx of HBV and HIV (last CD4 600, VL undetectable) with 
+recent treatment for condyloma ___ ___ syphilis (RPR 1:256) 
+treated with IM pencillin G x 2 on ___ who presented for 
+routine ophthalmology followup and was found to have optic 
+neuritis with a field cut on the right. Patient otherwise is 
+asymptomatic with no complaints of visual deficits, pain, or 
+headache. He denies any weakness or numbness. After discussion 
+with his PCP and given his recent history of syphilis, patient 
+was sent to the ED for further evaluation.  
+ In the ED, initial vital signs were: 98.6 73 120/69 18 99% RA  
+ - Labs were notable for:  
+ 7.3 > 14.7/43.1 < 222  
+ 
+ 137 | 103 | 15  
+ -------------< 99  
+ 3.5 | 24 | 0.9  
+ ALT: 35 AST: 31 AP: 173 Tbili: 0.6 Alb: 4.0  
+ - Imaging:  
+ CT Head w/o Contrast: No acute intracranial hemorrhage. There 
+is an equivocal thrombosed cortical vein in the right parietal 
+region. No evidence of large vascular territory infarct is seen. 
+Consider MRI for further assessment.  
+ MRI Orbits/Head: No significant enhancement of the optic nerves 
+to suggest active optic neuritis. No evidence of infarction, 
+edema, hemorrhage or focal lesion.  
+ - The patient was given:  
+ ___ 23:24 IV Lorazepam 1 mg  
+ - Patient was seen by ID and ophthalmology in the ED and 
+recommended MRI and LP prior to administration of empiric 
+treatment for neurosyphilis. Patient was then admitted to the 
+medicine service.  
+ Upon arrival to the floor, patient states that he feels well 
+with no complaints of vision loss, pain, or 
+headache/weakness/paresthesias. His rash on his scrotum has now 
+resolved after abx treatment. Otherwise, no other complaints.  
+
+ 
+Past Medical History:
+ -HBV eAg positive  
+ -HIV (last CD4 600, VL undetected)  
+ -ADHD  
+ -primary syphilis with condyloma ___  
+
+ 
+Social History:
+___
+Family History:
+Mother with MS.
+ 
+___ Exam:
+ADMISSION EXAM
+=========================
+VITALS: 97.7 113/76 68 18 99%RA  
+ GENERAL: Pleasant, well-appearing Caucasian male, A&O x 3 in no 
+apparent distress.  
+ HEENT: normocephalic, atraumatic, no conjunctival pallor or 
+scleral icterus, EOM intact. PERRLA, no ___ pupil 
+noted  
+ NECK: Supple, no LAD, no thyromegaly, JVP flat.  
+ CARDIAC: RRR, normal S1/S2, no murmurs rubs or gallops.  
+ PULMONARY: Clear to auscultation bilaterally, without wheezes 
+or rhonchi.  
+ ABDOMEN: Normal bowel sounds, soft, non-tender, non-distended, 
+no organomegaly.  
+ EXTREMITIES: Warm, well-perfused, no cyanosis, clubbing or 
+edema.  
+ SKIN: no evidence condyloma ___  
+ NEUROLOGIC: A&Ox3, CN II-XII grossly normal, normal sensation, 
+with strength ___ throughout.  
+
+DISCHARGE EXAM
+===========================
+VS - Tmax 97.9, HR 58-61, BP 110-113/69-72, RR 18, 98% RA  
+General:  well appearing, NAD
+HEENT: Pupils equally round and reactive to light and 
+accommodation. Sclera anicteric
+Neck: no JVD, no LAD
+CV: rrr, no m/r/g
+Lungs: CTAB, breathing comfortably  on RA
+Abdomen: soft, nontender, nondistended, no HSM appreciated  
+Ext: warm and well perfused, no edema  
+Neuro: normal sensation x4 extremities, strength ___ x4 
+extremities, CN's intact, A+Ox3
+ 
+Pertinent Results:
+ADMISSION LABS
+===========================
+___ 08:10PM BLOOD WBC-7.3 RBC-5.26 Hgb-14.7 Hct-43.1 MCV-82 
+MCH-27.9 MCHC-34.1 RDW-13.1 RDWSD-38.5 Plt ___
+___ 08:10PM BLOOD Neuts-39.3 ___ Monos-5.7 Eos-4.5 
+Baso-0.7 Im ___ AbsNeut-2.88 AbsLymp-3.64 AbsMono-0.42 
+AbsEos-0.33 AbsBaso-0.05
+___ 08:10PM BLOOD Glucose-99 UreaN-15 Creat-0.9 Na-137 
+K-3.5 Cl-103 HCO3-24 AnGap-14
+___ 08:10PM BLOOD ALT-35 AST-31 AlkPhos-173* TotBili-0.6
+___ 08:10PM BLOOD Albumin-4.0
+
+DISCHARGE LABS
+===========================
+___ 08:30AM BLOOD WBC-5.9 RBC-5.32 Hgb-14.8 Hct-44.8 MCV-84 
+MCH-27.8 MCHC-33.0 RDW-13.6 RDWSD-41.1 Plt ___
+___ 08:30AM BLOOD Glucose-91 UreaN-10 Creat-0.9 Na-139 
+K-4.2 Cl-104 HCO3-27 AnGap-12
+___ 08:30AM BLOOD Calcium-9.6 Phos-3.1 Mg-2.2
+
+MICROBIOLOGY
+==========================
+CSF culture pending on discharge
+CSF VDRL pending on discharge
+Bartonella pending on discharge
+Blood culture pending on discharge
+Lyme serology pending on discharge
+Repeat CD4 count pending on discharge
+
+RPR 1:256 (was 1:256 on ___ treponemal confirmatory test 
+pending
+Hep B Viral Load ___: undetectable
+HIV VL ___: undetectable
+CD4 count ___: 612 ___ records)
+
+REPORTS
+============================
+MRI Brain/Orbit ___. No abnormal signal or enhancement of the optic nerves to 
+suggest optic 
+neuritis. 
+2. No evidence of acute infarct. 
+3. Previously described possible thrombosed cortical vein on CT 
+examination is a developmental venous anomaly. 
+
+CT Head ___
+No acute intracranial hemorrhage.  There is an equivocal 
+thrombosed cortical vein in the right parietal region.  No 
+evidence of large vascular territory infarct is seen.  Consider 
+MRI for further assessment.  Please note that MRI is more 
+sensitive and the more appropriate study in detecting optic 
+neuritis.
+
+CXR ___
+Right-sided PICC line tip is in the mid SVC. 
+ 
+Brief Hospital Course:
+___ y/o M with a h/o well controlled HIV, Hep B, and recently 
+treated syphilis (condyloma ___, who presents as a referral 
+for ophtho for concern for optic neuritis given optic disc edema 
+noted on exam.
+
+ACTIVE ISSUES
+==========================
+# Optic Disc Edema: Pt has been asymptomatic, but routine ophtho 
+exam noted the finding of optic disc edema. MRI brain was 
+without radiologic evidence of optic neuritis. CSF showed normal 
+protein and mild pleocytosis. He had a normal neurologic exam. 
+DDx includes neurosyphilis, Lyme, Bartonella, and less likely MS 
+___ has a FHx of MS, but this would require multiple lesions, 
+multiple deficits, over time). The most likely diagnosis is 
+optic disc edema in the setting of syphillis. Pt was recently 
+treated for condyloma ___ with IM PCN. RPR this admission is 
+1:256, confirmatory trepnemal test pending but had been positive 
+in the past. Ophthalmology and Infectious Disease were 
+consulted. Repeat Ophthalmology exam was done ___. ID 
+recommended empiric treatment with 4 million units of IV PCN, 
+q4h, for 10 days. PICC line access was obtained, with home 
+infusion services arranged. Studies pending on discharge were 
+CSF VDRL, CSF culture, Bartonella, Lyme, EBV CSF PCR.
+
+CHRONIC ISSUES
+===========================
+# HIV, Hepatitis B: HIV managed at ___, Hepatitis B managed 
+at ___. Per ___ records, last HIV VL 
+undetectable, last CD4 612. Last Hep B viral load undetectable 
+(___). Continued home Stribild. Repeat CD4 pending on 
+discharge.
+
+# Insomnia: Ambien 5mg QHS PRN, home med, was continued.
+
+TRANSITIONAL ISSUES
+===========================
+- Patient will complete a 10 day course of IV Pencillin, 4 
+million units every 4 hours, which will be completed at home, 
+with a pump, via a PICC line. Last day ___.
+- For laboratory monitoring, please check CBC with differential, 
+BUN, Cr, Electrolytes, and LFTs. This is for medication 
+monitoring while taking IV Penicillin. This needs to be done 
+once, on ___.
+- Studies pending on discharge: CSF VDRL, Bartonella panel, Lyme 
+panel, CSF EBV, repeat CD4 count. The patient and PCP are aware 
+that these studies are pending on discharge.
+- CT scan finding showed an "equivocal thrombosed cortical 
+vein," but on MRI this was described as a "developmental venous 
+anomaly." Discussed with ___, and this is certainly a 
+developmental
+anomaly, given the superior nature of MRI in diagnosing said 
+lesions.
+- If no improvement of optic disk edema is found, ___ consider 
+Neurology referral for further workup. Of note, the patient has 
+a family history of multiple sclerosis in his mother.
+- Ophthalmology follow up scheduled for ___
+- Full code
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Stribild 1 TAB PO DAILY 
+2. Zolpidem Tartrate 5 mg PO QHS:PRN insomnia 
+3. Viagra (sildenafil) 100 mg oral PRN sexual activity 
+
+ 
+Discharge Medications:
+1. Stribild 1 TAB PO DAILY 
+2. Zolpidem Tartrate 5 mg PO QHS:PRN insomnia 
+3. Viagra (sildenafil) 100 mg ORAL PRN sexual activity 
+4. Penicillin G Potassium 4 Million Units IV Q4H 
+RX *penicillin G pot in dextrose 2 million unit/50 mL 4 million 
+units IV every 4 hours Disp #*100 Intravenous Bag Refills:*0
+5. Ondansetron 4 mg PO Q8H:PRN nausea 
+RX *ondansetron HCl 4 mg 1 tablet(s) by mouth q8h:PRN Disp #*8 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Hyperemic edematous optic nerve head OD concerning for 
+syphilis
+
+Secondary: HIV, Hepatitis B, Syphilis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure caring for you at ___. You admitted to us 
+after your ophthalmologists saw concerning findings on your 
+visual exam. The eye doctors here noted that you have some 
+swelling of your optic disk. The concern is that these findings 
+could be due to syphilis. Because of this, you were seen by our 
+infectious disease team. Because of this, you will be treated 
+with intravenous penicillin for 10 total days. You will follow 
+up with your eye doctors in ___.
+
+There are some blood tests that are still pending on discharge. 
+If any of these come back concerning, we will call you and let 
+you know. It is important that you follow up with your primary 
+care doctor. See below for your appointments.
+
+It was a pleasure caring for you, and if you have any questions 
+do not hesitate to ask.
+- ___ Medicine Team
+ 
+Followup Instructions:
+___

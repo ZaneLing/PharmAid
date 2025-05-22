@@ -1,0 +1,340 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Headache, neck pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with history notable for 
+hepatitic C and intravenous amphetamine use presenting with one 
+day of neck pain and headaches. He reports abrupt onset of neck 
+pain around 9 ___ the day prior to admission, which radiated up 
+his neck and around his head bilaterally. He describes the 
+sensation as a "vice" around his head, and denies associated 
+photophobia, nausea, or vomiting. He does report restriction of 
+his neck range of motion, noting that he had difficulty looking 
+to his left while driving and accidentally jumped a curb. He 
+attempted to sleep for a few hours without relief of his neck 
+pain, prompting eventual presentation to the ED. Aside from his 
+neck pain, he also reports noticing hoarseness of his voice as 
+well as worsening 'drooping' of his right eyelid, although the 
+latter finding may have been present previously as pointed out 
+to him by a family member. 
+
+On review of systems, he denies significant vision change, 
+diplopia, lightheadedness, dysphagia, dysarthria, focal 
+weakness, numbness, or focal sensory change. He additionally 
+denies chest discomfort, palpitations, abdominal pain, changes 
+in bowel or bladder habits, or loss of bowel or bladder 
+continence. He does, however, report a syncopal episode and a 
+presyncopal episode in the past month, both while rapidly 
+climbing a flight of stairs. He denies chest discomfort or 
+diaphoresis associated with these episodes, and denies further 
+evaluation of his symptoms. 
+ 
+Past Medical History:
+Hepatitis C, s/p treatment
+IV amphetamine use
+Tobacco use disorder 
+ 
+Social History:
+___
+Family History:
+Non-contributory. 
+ 
+Physical Exam:
+ON ADMISSION 
+============
+Vitals: T: 99.0 P: 118 R: 18 BP: 163/100 SpO2: 97% RA
+ General: Awake, cooperative, in moderate discomfort.
+ HEENT: NC/AT, no scleral icterus noted, MMM
+ Neck: Restricted AROM of neck, able to slightly flex neck but
+pain-limited, negative Kernig's
+ Pulmonary: No tachypnea or increased WOB
+ Cardiac: Warm, well-perfused
+ Abdomen: soft, NT/ND
+ Extremities: No ___ edema
+ Skin: no rashes or lesions noted
+
+Neurologic: 
+-Mental Status: Alert, oriented x 3. Attentive, able to name ___ 
+backward without difficulty. Language is fluent with intact 
+comprehension. Speech was not dysarthric. Able to follow both 
+midline and appendicular commands.
+-Cranial Nerves:
+ II, III, IV, VI:  Anisocoric pupils (5 to 3 mm OS, 4.5 to 3 mm
+OD). EOMI without nystagmus. VFF to confrontation. Ptosis OD.
+ V: Facial sensation intact to light touch.
+ VII: No facial droop, facial musculature symmetric.
+ VIII: Hearing intact to conversation.
+ IX, X: Slight left-sided palatal deviation on elevation; hoarse
+voice.
+ XI: ___ strength in trapezii bilaterally.
+ XII: Tongue protrudes in midline.
+-Motor: Normal bulk, tone throughout. No pronator drift
+bilaterally.
+ No adventitious movements, such as tremor, noted.
+   Delt Bic Tri WrE FFl FE IO IP Quad Ham TA Gastroc
+ L  5    ___   ___  5   5    5  5     5   
+ R  5    ___   ___  5   5    5  5     5   
+-Sensory: No deficits to light touch or cold sensation
+throughout. No extinction to DSS.
+-DTRs:
+   Bi Tri ___ Pat Ach
+ L  1  1    1    2   1
+ R  1  1    1    2   1
+-Coordination: No intention tremor or dysmetria on FNF
+bilaterally.
+-Gait: Narrow-based and steady albeit with short, hesitant
+strides. Unable to tandem.
+ 
+ON DISCHARGE
+============
+Vitals: Temp: 97.9 (Tm 98.4), BP: 133/77 (124-148/77-95), HR: 
+103
+(102-115), RR: 18 (___), O2 sat: 94% (93-94), O2 delivery: RA  
+
+General: Awake, cooperative
+HEENT: NC/AT, no scleral icterus noted, MMM
+Neck: Restricted AROM of neck, able to slightly flex neck but
+pain-limited, negative Kernig's
+Pulmonary: No tachypnea or increased WOB
+Cardiac: Warm, well-perfused
+Abdomen: soft, NT/ND
+Extremities: No ___ edema
+Skin: no rashes or lesions noted
+
+Neurologic: 
+Mental Status: Alert, oriented x 3. Attentive, able to name ___ 
+backward without difficulty. Language is fluent with intact 
+comprehension. Speech was not dysarthric. Able to follow both 
+midline and appendicular commands.
+Cranial Nerves:
+ II, III, IV, VI:  Anisocoric pupils (5 to 3 mm OS, 4.5 to 3 mm
+OD). EOMI without nystagmus. No fatiguable upgaze. VFF to
+confrontation. Slight ptosis OD.
+ V: Facial sensation intact to light touch.
+ VII: No facial droop, facial musculature symmetric.
+ VIII: Hearing intact to conversation.
+ IX, X: Palate elevates symmetrically. Voice without hoarseness
+ XI: ___ strength in trapezii bilaterally.
+ XII: Tongue protrudes in midline.
+Motor: Normal bulk, tone throughout. No pronator drift 
+bilaterally. No adventitious movements, such as tremor, noted. 
+Full strength throughout. No decrement in strength with 
+activity.
+Sensory: No deficits to light touch or cold sensation 
+throughout. No extinction to DSS.
+DTRs: deferred
+___: No intention tremor or dysmetria on FNF
+bilaterally.
+Gait: narrow based, steady.
+
+ 
+Pertinent Results:
+LABORATORY:
+___ 01:11AM BLOOD %HbA1c-6.0 eAG-126
+___ 05:30AM BLOOD Triglyc-71 HDL-56 CHOL/HD-3.5 LDLcalc-124
+___ 01:00AM BLOOD TSH-4.3*
+___ 01:00AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 01:36AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-POS* oxycodn-NEG mthdone-NEG
+
+___ 01:40PM CEREBROSPINAL FLUID (CSF)- tube 1 TNC-316* 
+RBC-___* Polys-64 Bands-1 ___ Metas-1
+___ 01:40PM CEREBROSPINAL FLUID (CSF)- tube 4 TNC-97* 
+RBC-4910* Polys-51 ___ Monos-20 Eos-1
+___ 01:40PM CEREBROSPINAL FLUID (CSF) TotProt-100* 
+Glucose-62
+
+MICROBIOLOGY:
+___ 1:36 am URINE
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+CSF CRYPTOCOCCAL ANTIGEN (Final ___: 
+      CRYPTOCOCCAL ANTIGEN NOT DETECTED. 
+
+___ 8:30 am CSF;SPINAL FLUID     Site: LUMBAR PUNCTURE      
+#1. 
+   GRAM STAIN (Final ___: 
+      NO POLYMORPHONUCLEAR LEUKOCYTES SEEN. 
+      NO MICROORGANISMS SEEN. 
+   FLUID CULTURE (Preliminary):    NO GROWTH. 
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+RAPID PLASMA REAGIN TEST (Final ___: 
+      NONREACTIVE. 
+
+IMAGING:
+MRI HEAD W/ AND W/O CONTRAST:
+1. No evidence for infarction or acute intracranial hemorrhage. 
+No abnormal enhancing intracranial mass or edema. 
+2. Incidental note is made of the right posterior communicating
+artery minimally contacting the cisternal segment of the right
+third cranial nerve.  Otherwise, unremarkable and symmetric
+appearance to the bilateral cranial nerves.
+
+CTA HEAD AND NECK:
+1. No evidence for acute intracranial abnormalities. 
+2. No evidence for dissection or flow-limiting stenosis in the 
+major cervical or intracranial arteries.  No evidence for an 
+intracranial aneurysm. 
+3. Periapical lucency and caries ___ 30.  Please correlate 
+clinically 
+whether active dental inflammation may be present. 
+4. Paranasal sinus disease.  Please note that odontogenic 
+etiology should be considered in the setting of the 
+above-described abnormalities related to ___ 30.
+
+TTE:
+The left atrial volume index is normal. No atrial septal defect 
+is seen by 2D or color Doppler. The estimated right atrial 
+pressure is ___ mmHg. Left ventricular wall thicknesses are 
+normal with normal cavity size and systolic function (biplane EF 
+70%). No masses or thrombi are seen in the left ventricle. The 
+right ventricular free wall is hypertrophy. The right 
+ventricular cavity is mildly dilated with moderate global free 
+wall hypokinesis. There is abnormal septal motion/position 
+consistent with right ventricular pressure/volume overload. The 
+ascending aorta and aortic arch are mildly dilated. The aortic 
+valve leaflets (3) are mildly thickened. There is no aortic 
+valve stenosis. No aortic regurgitation is seen. The mitral 
+valve leaflets are mildly thickened. There is no mitral valve 
+prolapse. Mild [1+] mitral regurgitation is seen. The tricuspid 
+valve leaflets are mildly thickened. No valvular vegetations or 
+masses are seen. There is severe pulmonary artery systolic 
+hypertension. There is no pericardial effusion. 
+IMPRESSION: Severe pulmonary artery systolic hypertension. Right 
+ventricular cavity dilation with free wall hypokinesis. Normal 
+left ventricular cavity size and regional/global systolic 
+function. Mildly diilated ascending aorta and aortic arch. No 
+definite structural cardiac source of embolism identified.
+CLINICAL IMPLICATIONS: 
+ The patient has a mildly dilated ascending aorta. Based on ___ 
+ACCF/AHA Thoracic Aortic Guidelines, if not previously known or 
+a change, a follow-up echocardiogram is suggested in ___ year; if 
+previously known and stable, a follow-up echocardiogram is 
+suggested in ___ years.   
+
+CHEST X-RAY:
+No focal consolidations or masses.  No acute cardiopulmonary 
+process.
+ 
+
+ 
+Brief Hospital Course:
+Mr ___ is a ___ year old man with a history of IV 
+methamphetamine use who presented after an acute onset headache. 
+
+
+#Horner's syndrome: On admission, he was noted to have a 
+Horner's syndrome (ptosis and miosis) on the right. He was 
+admitted to rule out ischemic stroke as a cause of central 
+Horner's syndrome. His MRI did not show any area of infarct. On 
+further questioning, he states that his right eyelid droop has 
+been present for months. Although this makes ischemia less 
+likely, myasthenia ___ was also considered. However, he did 
+not have any signs of fatigable muscle weakness on exam. A chest 
+x-ray was obtained and did not show any evidence of Pancoast 
+tumor or other compressive cause of Horner's syndrome. HIV, RPR, 
+and Lyme serologies were obtained. Transthoracic echocardiogram 
+was obtained as part of the stroke work-up and showed evidence 
+of pulmonary artery hypertension, but was otherwise was 
+unremarkable.
+
+#Headache, neck stiffness: His initial exam was notable for 
+restricted range of motion of the neck, raising the possibility 
+of meningitis. The acuity of onset was also concerning for 
+subarachnoid hemorrhage. An LP was obtained and, although 
+traumatic, showed no xanthochromia. There was also no evidence 
+of meningitis in the CSF. Overall, we feel muscle spasm is the 
+most likely cause of his headache. 
+
+TRANSITIONAL ISSUES: 
+-Stroke risk factors: A1c 6.0, LDL 124
+-Started on Atorvastatin 40mg for primary prevention
+-Consider addition of Aspirin 81mg daily for primary prevention
+-Pending results at time of discharge: Lyme IgG/IgM, blood 
+cultures
+-Continue smoking, illicit drug cessation counseling
+-The patient has a mildly dilated ascending aorta. Based on ___ 
+ACCF/AHA Thoracic Aortic Guidelines, if not previously known or 
+a change, a follow-up echocardiogram is suggested in ___ year
+-Recommend referral to Sleep clinic for evaluation of excessive 
+daytime sleepiness
+-Recommend evaluation of pulmonary hypertension discovered on 
+echocardiogram
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*3 
+2.  Tizanidine 4 mg PO Q8H:PRN muscle spasm 
+RX *tizanidine 4 mg 2 tablet(s) by mouth three times a day Disp 
+#*30 Tablet Refills:*3 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Muscle spasm 
+Horner's syndrome 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___.
+
+You were in the hospital after you experienced a sudden onset 
+headache. In the hospital, we found that you had a stiff neck as 
+well as a drooping right eyelid. 
+
+We performed several tests. You had an MRI of your head, which 
+did not show any evidence of stroke. You also had a lumbar 
+puncture (or spinal tap), which showed that you did not have any 
+bleeding or infection around your brain. You also had an 
+echocardiogram (ultrasound of your heart). This showed some high 
+pressure in your pulmonary artery, but was otherwise normal.
+
+Overall, we feel the most likely cause of your headache and neck 
+stiffness is from muscle spasm. We will prescribe you a muscle 
+relaxant. This medicine can make you tired, so you should avoid 
+driving when you first take it. 
+
+Your drooping right eyelid is likely an old finding, and is not 
+cause for concern.
+
+Best wishes,
+Your ___ team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,318 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril
+ 
+Attending: ___.
+ 
+Chief Complaint:
+weakness, confusion
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+ 
+___ ___ female with hx of DM (on insulin),
+migraines, HLD who presents with generalized weakness and
+confusion after recent admission in ___ for possible seizures
+and transient L facial droop.
+
+Pt is followed by Dr. ___ at ___ and was last seen ___
+for an intake visit (after transitioning care from prior PCP) 
+Dr.
+___. Patient is ___ speaking. History obtained with
+aid of granddaughter, ___, who also interprets at the
+patient's request.
+
+___ reports that the patient has had chronic migraines for
+the last ___s DM, for which she uses insulin.
+She was reportedly in her usual state of health, ambulating well
+without assistance, when she traveled to ___ to visit family 
+on
+___. Circumstances surrounding her condition while in
+___ are unclear, as the patient has little recollection of the
+events and the patient's family in ___ could not be reached by
+___ this evening. Reportedly, while in ___ the patient was
+noted by her son to have more difficulty ambulating, a transient
+L facial droop that resolved spontaneously, and "shaking
+episodes" without tongue-biting or B/B incontinence (unclear
+whether she was alert during these episodes; patient does not
+recall). She was admitted to a hospital in ___ patient nor ___ recall the name of the hospital) 
+and
+treated, ___ believes, for a urinary tract infection and
+"mini-seizures". Unclear what imaging, if any, was performed. An
+LP was reportedly recommended, which family declined for
+financial reasons. No new medications were prescribed on
+discharge. Discharge paperwork is not available at present, but
+___ will bring what she describes as a limited and "useless"
+summary tomorrow. Ms. ___ was discharged on ___ and
+immediately returned to ___, where she lives with her son. 
+
+Since her return, she has been less active (has mostly been
+"sitting on the couch," has required some assistance with
+ambulation) and mildly confused, both of which are highly 
+unusual
+for her. She was supposed to see her PCP today, but given her
+symptoms the family opted to bring her to the ED instead. When
+asked, Ms. ___ states that she has felt a bit fatigued the
+past few days but currently feels well. She does not recall
+weakness, a facial droop, or seizures in ___ and does not know
+why she was admitted to the hospital there. She endorses some
+urinary frequency but denies dysuria. No headaches since her
+return from ___, and no vision changes, neck stiffness, or
+fevers. In addition, she denies CP, SOB, cough, abdominal pain,
+N/V, diarrhea/constipation, melena/hematochezia, new rashes. She
+ran out of her insulin while in ___ and has not been using it
+reliably since her return. Family reports that she looks much
+better now than at home and is back to her sharp mental status
+baseline. 
+
+ED:
+AF, BP 136/80, HR 95, RR 16, 99% RA
+Exam: Systolic murmur RUSB, crackles at bases b/l, neuro exam
+intact
+Labs: CBC WNL, BMP notable for glu 334, K 3.6->3.2, INR 1.1, 
+LFTs
+WNL, lipase 30, alb 3.4, Trop <0.01, A1c 9.8%, VBG 7.39/47, lact
+1.5, UA with 42 WBCs, ___
+Imaging: NCHCT neg, CXR with streaky opacity L base, likely
+atelectasis
+Tx: CTX 1g, Insulin (total 47u), KCl 60meq
+
+On arrival to the floor, Ms. ___ states she feels well and 
+is
+currently without complaints.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative.
+ 
+Past Medical History:
+DM
+Cataracts
+Glaucoma
+ 
+Social History:
+___
+Family History:
+================
+Reviewed and found to be not relevant to this illness/reason for
+hospitalization.
+ 
+Physical Exam:
+VITALS: 
+T 99.3, BP 145/77, HR 97, RR 19, 96% RA
+GENERAL: NAD, lying comfortably in bed
+EYES: PERRL, anicteric sclerae
+ENT: OP clear
+CV: RRR, nl S1, S2, no M/R/G, no JVD
+RESP: faint crackles at bases b/l
+GI: + BS, soft, NT, ND, no rebound/guarding, no HSM
+GU: No suprapubic fullness or tenderness to palpation; no CVA
+tenderness
+SKIN: No rashes or ulcerations noted
+MSK: Lower extremities warm without edema
+NEURO: AOx3, CN II-XII intact, ___ strength in all extremities,
+mild L pronator drift, sensation grossly intact throughout, 2+
+achilles/patellar reflexes, downgoing toes b/l, negative 
+Romberg,
+neg Kernig's/Brudzinski's, tentative but nl gait
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+___ 06:00AM BLOOD WBC-5.7 RBC-4.39 Hgb-12.3 Hct-38.4 MCV-88 
+MCH-28.0 MCHC-32.0 RDW-13.2 RDWSD-42.7 Plt ___
+___ 11:40AM BLOOD WBC-6.9 RBC-4.35 Hgb-12.4 Hct-38.0 MCV-87 
+MCH-28.5 MCHC-32.6 RDW-13.3 RDWSD-42.5 Plt ___
+___ 11:20PM BLOOD WBC-6.9 RBC-4.52 Hgb-12.9 Hct-39.7 MCV-88 
+MCH-28.5 MCHC-32.5 RDW-13.2 RDWSD-42.8 Plt ___
+___ 11:20PM BLOOD Neuts-54.9 ___ Monos-10.3 Eos-1.2 
+Baso-0.4 Im ___ AbsNeut-3.77 AbsLymp-2.28 AbsMono-0.71 
+AbsEos-0.08 AbsBaso-0.03
+___ 11:20PM BLOOD ___ PTT-25.4 ___
+___ 06:00AM BLOOD Glucose-267* UreaN-7 Creat-0.5 Na-139 
+K-4.1 Cl-103 HCO3-27 AnGap-9*
+___ 11:40AM BLOOD Glucose-139* UreaN-7 Creat-0.6 Na-143 
+K-3.2* Cl-103 HCO3-28 AnGap-12
+___ 11:20PM BLOOD Glucose-334* UreaN-9 Creat-0.6 Na-136 
+K-3.6 Cl-96 HCO3-27 AnGap-13
+___ 11:40AM BLOOD CK(CPK)-82
+___ 11:20PM BLOOD ALT-13 AST-18 AlkPhos-103 TotBili-0.2
+___ 11:20PM BLOOD Lipase-30
+___ 11:20PM BLOOD cTropnT-<0.01
+___ 06:00AM BLOOD Calcium-8.6 Phos-3.3 Mg-1.9
+___ 11:40AM BLOOD Calcium-8.8 Phos-2.4* Mg-1.9 Cholest-206*
+___ 11:20PM BLOOD Albumin-3.4*
+___ 11:40AM BLOOD VitB12-849
+___ 11:40AM BLOOD %HbA1c-9.8* eAG-235*
+___ 11:40AM BLOOD Triglyc-133 HDL-35* CHOL/HD-5.9 
+LDLcalc-144*
+___ 11:40AM BLOOD TSH-1.3
+
+NCHCT (___):
+1. No evidence of acute large territorial infarction.  Please
+note that MRI is more sensitive in the detection of acute
+infarct. 
+2. Age-related involutional change and sequelae of chronic small
+vessel ischemic disease. 
+
+CXR (___):
+Streaky opacities in the left lung base are favored to represent
+atelectasis, however pneumonia is not excluded in the 
+appropriate
+clinical setting. 
+
+EKG (___):
+NSR at 92 bpm, nl axis, PR 125, QRS 70, QTC 455, no acute
+ischemic changes
+
+MRI brain:
+IMPRESSION: 
+1. No acute intracranial abnormality on noncontrast MRI head.  
+Specifically no acute intracranial hemorrhage or infarct. 
+2. Mild changes of chronic white matter microangiopathy. 
+3. Additional findings described above. 
+
+Carotids:
+IMPRESSION:  
+Less than 40% stenosis in the left internal carotid artery. 
+Normal right carotid artery ultrasound. 
+
+___ SEROLOGY/BLOOD RAPID PLASMA REAGIN 
+TEST-FINAL EMERGENCY WARD negative
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+EMERGENCY WARD 
+___ URINE URINE CULTURE-FINAL EMERGENCY WARD 
+mixed flora. 
+
+ 
+  
+
+ 
+Brief Hospital Course:
+___ ___ female with hx of DM (on insulin),
+migraines, HLD who presents with generalized weakness and
+confusion in setting of recent admission in ___ for possible
+seizures and transient L facial droop.
+
+# Generalized weakness:
+# Toxic metabolic encephalopathy:
+Patient presented with generalized weakness for approximately 1
+week and intermittent confusion in setting of possible TIA vs
+seizure (see below). Ddx includes UTI given report of urinary
+frequency (which may be attributable to glucosuria in absence of
+dysuria or fevers), positive UA, and improvement after
+antibiotics in the ED but uCX was mixed flora and abx were 
+discontinued. Pt also denied dysuria. Low suspicion for 
+meningitis in absence of
+fevers/headache/neck stiffness or meningismus on exam. Doubt PNA
+in absence of fevers/cough/SOB. No objective weakness on exam,
+and mental status quickly returned to baseline during admission. 
+CK WNL. ___ recommended a few visits and then pt was discharged 
+home with ___. Neuro w/u pursued below.
+
+# Possible L facial droop, now resolved:
+# Possible seizures:
+Family reports transient L-sided facial droop and "shaking
+events" while in ___, for which patient was hospitalized.
+Unclear what imaging, if any, was done during that admission. No
+focal neurologic findings on exam and NCHCT negative, but hx
+concerning for TIA vs seizure. Low suspicion for meningitis in
+absence of fevers/headache/neck stiffness or meningismus on 
+exam.
+NIHSS 0. b12, Rpr WNL. Head CT and carotid u/s unrevealing. 
+Continuous EEG did not show any evidence of seizure activity. 
+Brain MRI was overall unrevealing.  Neurology was consulted and 
+felt that presentation was most likely related to her diabetes 
+and not taking her insulin as prescribed. Tele did not reveal 
+any arrhythmic events. Pt worked with ___ and was dc'd home with 
+___.  
+
+# Hyperglycemia:
+# Diabetes mellitus:
+A1c 9.8% with hyperglycemia to 300s. Patient has been
+non-adherent to home insulin recently in setting of running out
+of insulin at home. She was continued on her home glargine 18u 
+QHS and Humalog 15u w/breakfast, 20u with lunch. She was given 
+insulin teaching. BS fairly well controlled during admission. 
+She will be dc'd with ___ and family was given additional 
+resources for home assistance after DC. 
+
+# HLD:
+LDL 144, Tchol 206. Given DM, would likely benefit from
+moderate-intensity statin. Initiated atorvastatin 20mg daily
+
+# Hypokalemia:
+improved.
+
+# Glaucoma:
+continued home latanoprost
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Glargine 18 Units Bedtime
+Novolog 15 Units Breakfast
+Novolog 20 Units Lunch
+2. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 20 mg PO DAILY 
+RX *atorvastatin 20 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+2.  Glargine 18 Units Bedtime
+Novolog 15 Units Breakfast
+Novolog 20 Units Lunch
+RX *insulin glargine [Lantus U-100 Insulin] 100 unit/mL AS DIR 
+18 Units before BED; Disp #*30 Vial Refills:*0
+RX *insulin lispro [Humalog U-100 Insulin] 100 unit/mL AS DIR 15 
+Units before BKFT; 20 Units before LNCH; Disp #*60 Vial 
+Refills:*0 
+3.  Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS  
+4.rolling walker 
+Rolling walker 
+dx: unsteady gait
+Px: good
+___: 13 months 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+confusion/encephalopathy
+unsteady gait
+diabetes 
+hyperlipidemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted for evaluation of confusion and unsteadiness. 
+For this, you had several studies such as a CT scan, MRI, xray, 
+EEG that were unrevealing and you were also seen by the 
+neurology team. The physical therapists worked with you and 
+recommended home physical therapy. Your symptoms at home may 
+have been due to poorly controlled blood sugars and not taking 
+your insulin properly. Therefore, we encourage you to continue 
+to take your insulin as prescribed. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,84 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+none
+
+attach
+ 
+Pertinent Results:
+___ 04:47PM BLOOD WBC-7.4 RBC-4.25 Hgb-11.6 Hct-35.3 MCV-83 
+MCH-27.3 MCHC-32.9 RDW-13.9 RDWSD-42.4 Plt ___
+___ 06:20AM BLOOD Glucose-92 UreaN-9 Creat-0.8 Na-140 K-4.2 
+Cl-103 HCO3-23 AnGap-14
+___ 04:47PM BLOOD ALT-18 AST-21 AlkPhos-59 TotBili-0.4
+___ 06:20AM BLOOD Calcium-9.3 Phos-4.6* Mg-2.1
+___ 08:22PM URINE Color-Yellow Appear-Hazy* Sp ___
+___ 08:22PM URINE Blood-SM* Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+___ 08:22PM URINE RBC-1 WBC-2 Bacteri-FEW* Yeast-NONE Epi-5
+___ 08:22PM URINE CastHy-1*
+___ 08:22PM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES: 
+none
+
+HOSPITAL COURSE: 
+#bipolar disorder with psychotic features: Acute decompensation 
+without clear provoking factors. No infectious signs. 
+Unremarkable basic labs. Pt started on abilify during her 
+prolonged ED holding (___), which was continued on the 
+floor. ___ continued in place. 1:1 sitter maintained. No 
+aggressive behavior noted or attempts at self-harm, but 
+continues to be disorganized in speech and minimally engaging in 
+answering questions. Generally answering questions in vague 
+generalities. Inpatient bed available on day 1 on the floor, and 
+transferred.
+
+<30 minutes spent on day of DC planning
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  ARIPiprazole 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Bipolar disorder with acute psychotic features
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted for an acute psychiatric decompensation. There 
+was not determined to be any underlying medical cause for this, 
+and you will now continue to inpatient psychiatric care to 
+further work on management of this issue.
+ 
+Followup Instructions:
+___

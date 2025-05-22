@@ -1,0 +1,361 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Headache, lightheadedness 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is an ___ year old right-handed woman with a remote history
+of breast cancer s/p ? lymph node resection and on tamoxifen for
+___ years, uterine cancer not otherwise specified and reportedly
+only treated symptomatically, ? basal cell carcinoma of skin s/p
+excision, and hypertension who initially presented to OSH after
+feeling off for several days and falling on the floor without
+head strike. She was ultimately found to have left temporal IPH
+and transferred to ___ for further workup where she was
+admitted to Neurosurgery out of concern for possible underlying
+mass. Neurology was consulted for transfer of patient care, as
+there was low suspicion for underlying mass by neurosurgical
+team. 
+
+History obtained on chart review and with supplementation by
+patient's children at bedside, as patient was unable to produce
+comprehensive speech output on exam.
+
+Per review, patient was in her usual state of health leading up
+to ___. On ___, she reportedly drove to church. On her way
+back from Church, she felt "off" and thought her car may have
+been veering. She drove home and decided to wear her "life line"
+device in case she continued to feel off. Her gait was 
+reportedly
+normal. In the following days, she felt weaker and felt as if 
+she
+had trouble walking. She ended up falling on ___ and
+couldn't get up. She pressed the button on her life line device
+and the assisted facility sent assistance. She was initially
+found talking and was reportedly able to provide a reliable
+history, noting that she fell on her stomach and did not hit her
+head. Further details unclear. At OSH, she subsequently 
+developed
+expressive aphasia resulting in ___ urgently and transfer to
+___ for further management of ___.
+
+Of note, patient was recently seen by her PCP on ___ and 
+___
+a clean ___ of health. No known changes to her blood pressure
+medications occurred at this time. Her PCP is ___
+___. 
+
+Her blood pressures have been well-controlled throughout
+admission and she has not been maintained on subq heparin. 
+Repeat
+imaging within 24 hrs showed stability of hemorrhage. 
+ 
+Past Medical History:
+hypertension
+history of breast cancer s/p lymph node resection and possible
+xRT on tamoxifen for ___ years and thought to be in remission ___
+years ago)
+history of uterine cancer ___ years ago) s/p biopsy and left
+untreated             
+ 
+Social History:
+___
+Family History:
+Formerly worked in ___, has PhD in ___ education.
+No tobacco exposure, <1 glass of wine a month, no IV drug
+exposure.
+Lives in independent assisted living facility, drives to church
+by herself, manages her own finances, cooks her own meals, walks
+without a cane                       
+ 
+Physical Exam:
+ON ADMISSION: 
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: Pupils: R>L ___    EOMs: Intact.
+Neck: Supple.
+Extrem: Warm and well-perfused.
+
+Date and Time of evaluation: ___ 0350am
+
+___ Coma Scale:
+ [X]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [X]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [X]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [ ]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [X]6 Obeys commands
+
+ _13_ Total
+
+ICH Score:
+
+GCS
+     [ ]2     GCS ___
+     [ ]1     GCS ___
+     [X]0     GCS ___
+     
+ICH Volume 
+     [ ]1     30 mL or Greater
+     [X]0     Less than 30 mL
+
+Intraventricular Hemorrhage
+     [ ]1     Present
+     [X]0     Absent
+
+Infratentorial ICH
+     [ ___     Yes
+     [X]0     No
+
+Age
+     [X]1     ___ years old or greater
+     [ ]0     Less than ___ years old
+
+Total Score: ___1___
+
+Neuro:
+Mental status: Awake and alert, cooperative with exam, normal
+affect.
+Orientation: Unable to appropriately assess due to expressive
+aphasia. Unable to state name/place or date.
+Language: Expressive aphasia with slight receptive aphasia.
+Unable to name objects.
+
+Cranial Nerves:
+I: Not tested
+II: Pupils R>L. Right 3mm, left 2mm, bilaterally reactive to
+light.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. No pronator drift.
+
+Sensation: Intact to light touch.
+
+Coordination: normal on finger-nose-finger. 
+
+Patient able to follow simple commands only. 
+
+AT DISCHARGE: 
+*************
+PHYSICAL EXAMINATION:
+
+24 HR Data (last updated ___ @ 1214)
+    Temp: 97.9 (Tm 98.2), BP: 129/65 (129-145/60-70), HR: 71 
+(71-78), RR: 16 (___), O2 sat: 96% (92-99), O2 delivery: RA  
+
+GEN: This is a well-developed, well nourished woman who appears
+stated age.
+HEENT:  Unremarkable.
+NECK: Neck movements are full range, non-tender.
+HEART: WWP
+RESP: no increased WOB, breathing comfortably on room air
+NEURO: 
+Mental status: Awake, alert, oriented to self, hospital, 
+___ but not date. 
+
+Non-fluent aphasia, responds appropriately to questions. 
+Difficulty saying "no if ands or buts", able to say "it's a 
+sunny day outside", naming improved, able to name watch, thumb, 
+but unable to name ring and key.
+
+Motor: 
+Right upper: antigravity at shoulder. Wrist extension 4+, finger 
+extension 4+, triceps 3 
+Left upper: antigravity, spontaneous 
+Right ___: IP antigravity, Quad 4+, Ham 4+, TA 1, ___ 3
+Left ___: antigravity, spontaneous movement
+
+Sensory: Intact to light touch throughout .
+
+Gait: Deferred
+
+ 
+Pertinent Results:
+Please refer to OMR for relevant imaging and lab results 
+___ 05:50AM BLOOD WBC-8.8 RBC-4.00 Hgb-12.7 Hct-37.4 MCV-94 
+MCH-31.8 MCHC-34.0 RDW-11.9 RDWSD-40.8 Plt ___
+___ 05:50AM BLOOD ___
+___ 05:50AM BLOOD Glucose-100 UreaN-18 Creat-0.9 Na-140 
+K-3.8 Cl-104 HCO3-23 AnGap-13
+___ 05:50AM BLOOD %HbA1c-5.6 eAG-114
+___ 05:50AM BLOOD Triglyc-125 HDL-44 CHOL/HD-4.6 
+LDLcalc-135*
+___ 05:50AM BLOOD TSH-1.9
+ 
+Brief Hospital Course:
+Ms. ___ is an ___ female with a history of breast 
+cancer s/p lymph node dissection and tamoxifen ___ years, Basal 
+cell carcinoma s/p excision, uterine cancer diagnosed on biopsy 
+___ years ago without subsequent treatment, HTN who present in 
+transfer from OSH for new onset mixed aphasia in the setting of 
+CT confirmed left temporal hemorrhagic stroke. 
+
+Acute medical/surgical issues addressed:
+- Left temporal hemorrhagic stroke. Pt with mixed aphasia and 
+R-sided paresis in upper and lower extremities. Blood pressures 
+were optimized during hospitalization <150 mmHg. Recommend 
+outpatient follow-up for blood pressure, cholesterol, and 
+further follow-up MRIs, as detailed below. 
+
+Chronic issues pertinent to admission:
+- Hypertension. Continued losartan 100mg daily. Increased 
+amlodipine to 10mg daily after HD2 due to SBPs >170 during the 
+day, which resolved with hydralazine. Hydralazine IV was given 
+for SBP>150 due to the patient's recent hemorrhagic stroke. 
+
+Transitional issues:
+- LDL cholesterol noted to be 135. Would appreciate primary care 
+follow-up to determine need for cholesterol-lowering medication. 
+
+- Please repeat MRI in ___ months to assess for possible 
+underlying brain parenchymal lesion that may have contributed to 
+hemorrhagic stroke
+- Please follow-up blood pressures on amlodipine 10 and losartan 
+100. Would recommend long-term SBP goal <130 for hemorrhagic 
+stroke prophylaxis. 
+
+AHA/ASA Core Measures for Intracerebral Hemorrhage 
+1. Dysphagia screening before any PO intake? (X) Yes - () No. If 
+no, reason why: 
+2. DVT Prophylaxis administered? () Yes - (X) No. If no, why not 
+(bleeding risk, hemorrhage, etc.) Held due to hemorrhagic 
+stroke. Sequential compression devices were used and early 
+ambulation was encouraged. 
+3. Smoking cessation counseling given? () Yes - (X) No [reason 
+(X) non-smoker - () unable to participate] 
+4. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given in written 
+form?
+(X) Yes - () No 
+5. Assessment for rehabilitation and/or rehab services 
+considered? (X) Yes - () No. If no, why not? (I.e. patient at 
+baseline functional status) 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Losartan Potassium 100 mg PO DAILY 
+3. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+4. Timolol Maleate 0.5% 1 DROP RIGHT EYE BID 
+5. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. amLODIPine 10 mg PO DAILY 
+2. Losartan Potassium 100 mg PO DAILY 
+3. Latanoprost 0.005% Ophth. Soln. 1 DROP BOTH EYES QHS 
+4. Timolol Maleate 0.5% 1 DROP RIGHT EYE BID 
+5. Aspirin 81 mg PO DAILY 
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left intraparenchymal hemorrhage 
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Mental Status: Confused - always.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the ___ 
+___ (Stroke) service because you developed difficulty 
+walking at home and then developed difficulty speaking at an 
+outside hospital. A CT scan at the outside hospital showed a 
+hemorrhagic stroke (bleeding from a blood vessel in your brain). 
+Repeat scans during this hospitalization showed that this did 
+not change in size. You did not develop any new neurological 
+symptoms while at the ___. You were evaluated by the physical 
+therapy team and were felt to be safe to be discharged to rehab 
+to continue your recovery. 
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+- High blood pressure. Please continue taking your high blood 
+pressure medications as prescribed. Your systolic blood pressure 
+should be below 150 to help prevent complications of your stroke 
+and help prevent future strokes. 
+- Please continue levetiracetam (Keppra) 500mg twice per day 
+until ___ (inclusive). This medication helps decrease 
+abnormal activity in the brain due to your recent stroke that 
+can lead to seizures.  
+- Please take your other medications as prescribed.  
+
+Additionally, you were found to have high cholesterol (LDL 135). 
+This can increase the risk of heart attacks and strokes over the 
+long term. Please follow-up with your primary doctor to 
+determine if starting a medication to lower your cholesterol (a 
+statin) might be helpful for your overall health goals. 
+
+Please follow up with Neurology and your primary care physician 
+as listed below.  
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+ 
+Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

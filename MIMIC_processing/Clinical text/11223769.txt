@@ -1,0 +1,223 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Patient recorded as having No Known Allergies to Drugs
+ 
+Attending: ___.
+ 
+Chief Complaint:
+muscle weakness, dark urine, elevated CK
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo M with history Meniere's disease who 
+presents with weakness and elevated CK. 
+.
+He has been feeling increased fatigue over the past year, but 
+was generally well until 6 days PTA, when he noted weakness in 
+his legs while waterskiing for almost an hour. He felt much 
+weaker in his legs after the exercise, but eventually felt 
+better and continued to exercise (jogging 1 mi, slow upper-body 
+rowing for 1 hr) more than his baseline over the next few days. 
+3d PTA, he noted muscle cramping in his inner thighs, persistent 
+weakness and stiffness, and amber/brown urine.  He drank more 
+water, saw his PCP, who stopped his HCTZ/Triamterene and had 
+labs ___.  Urine temporarily cleared but amber/brown urine 
+returned the following day, at which point PCP's labs returned 
+with an elevated CK of 65,000 with a normal chem panel, and he 
+was instructed to come to the ED for further workup and 
+management of possible rhabdomyolysis. 
+.
+Of note, his home dose of diuretic was doubled ~1 month ago for 
+a Menieres flare, returned to old dose 1 week ago. 
+.  
+In the ED initial VS were T 98.4, HR 90, BP 133/90, RR 16, Sat 
+100% RA. His CK was 93,000. He was given 1L NS and 1L D5W with 3 
+amps bicarb and transferred to the floor for further management. 
+
+.  
+ROS:  
+(+) Per HPI. + Pressure headaches unilateral, without N/V or 
+waking from sleep. + h/o congestion and "head heaviness" a few 
+weeks ago, resolved. +exposure to baby with viral illness a few 
+weeks prior to onset of symptoms.
+(-) Denies fever, chills, syncope, chest pain, cough, 
+rhinorrhea, nausea, vomiting, diarrhea, constipation, 
+parasthesias. All other review of systems negative.  
+ 
+Past Medical History:
+Meniere's disease 
+ 
+Social History:
+___
+Family History:
+Father: MI age ___  
+Grandfather: CAD  
+Uncle: CAD  
+Grandmother: DM ___  
+Cousin: ___ Aunt: ___ 
+Cousin: ___ disease
+ 
+Physical Exam:
+VS:  T 96.3, ___, BP 143/98, RR 18, O2 99% RA
+Gen: well appearing, NAD  
+HEENT: PERRLA, EOMI, no ptosis MMM,
+Neck: supple,  no LAD or thyromegaly
+CV: RRR S1 S2 no R/G/M  
+Chest: CTAB. No CVAT. 
+Abd: soft,+mild tenderness to palpation along R lateral costal 
+margin, nondistended, normoactive bowel sounds, no HSM or 
+masses. 
+Ext: no edema or tenderness to palpation, DP 2+ bilaterally. 
+Neuro: Patient alert, interactive. CN ___ intact and 
+symmetric bilaterally. Strength ___ in UEs, 4+/5 R hip flexion 
+and hip adduction, ___ L hip flexion and adduction, ___ in hip 
+abduction, knee flex/extension, plantar/dorsiflexion. Reflexes 
+3+ L patellar, 2+ R patellar, 1+ ankle bilaterally, toes 
+down-going bilaterally. Sensation to light touch grossly intact 
+bilaterally in all extremities.
+ 
+Pertinent Results:
+___ 04:00PM   ALT(SGPT)-196* AST(SGOT)-762* LD(LDH)-2232* 
+___ ALK PHOS-46 TOT BILI-0.8
+___ 04:00PM   UREA N-13 CREAT-1.2 SODIUM-145 POTASSIUM-3.3 
+CHLORIDE-100 TOTAL CO2-31 ANION GAP-17
+___ 04:00PM   ALBUMIN-4.4 CALCIUM-9.4 PHOSPHATE-3.5 
+MAGNESIUM-2.3
+___ 04:48PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 04:48PM URINE  RBC-<1 WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 07:45PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 07:45PM URINE  ___ BACTERIA-OCC YEAST-NONE 
+___ 07:45PM   WBC-7.9 RBC-4.87 HGB-14.4 HCT-41.0 MCV-84 
+MCH-29.5 MCHC-35.1* RDW-13.3
+___ 07:45PM   PLT COUNT-288
+___ 07:45PM   NEUTS-66.3 ___ MONOS-3.7 EOS-2.3 
+BASOS-0.8
+___ 07:45PM   TSH-3.9
+___ 07:45PM   ___
+___ 07:45PM   GLUCOSE-88 UREA N-11 CREAT-0.9 SODIUM-137 
+POTASSIUM-3.1* CHLORIDE-99 TOTAL CO2-28 ANION GAP-13
+___ 09:45PM   ALT(SGPT)-360* AST(SGOT)-1167* ___ 
+___ ALK PHOS-44 TOT BILI-1.0
+ 
+Brief Hospital Course:
+#. Rhabdomyolysis:  Most likely multifactorial, including trauma 
+(waterskiing), exertion (increased exercise recently), possibly 
+predisposing chronic hypokalemia and recent hypotension in 
+setting of diuretic use. CK was very elevated at 93K on 
+admission with a low potassium but otherwise normal chem panel 
+and UA notable only for RBCs.  His diuretic was held and he was 
+given aggressive IVF with bicarbonate.  CK, LDH, ALT, AST levels 
+trended down (CK at discharge was 22K), and he transitioned to 
+aggressive PO fluids. Throughout admission, renal function was 
+stable(Cr 0.9-1.0), there was no evidence of compartment 
+syndrome, and potassium remained low (3.1-3.8). EKG was 
+unchanged from prior. 
+  Regarding work-up for possible etiologies of rhabdomyolysis, 
+his serum tox and urine tox screens were negative; CMV panel was 
+consistent with cleared prior infection; CRP was normal at 2.8 
+and ___ was negative; TSH was normal at 3.9, lactate was 
+elevated at 2.0 but nonspecific. Neuro was consulted for recs on 
+additional workup of rhabdo etiologies and recommended 
+Acylcarnitine, Carnitine, Pyruvate labs and neuromuscular 
+follow-up for possible EMG or muscle biopsy. He was discharged 
+home with potassium supplement packets and labs follow-up for 
+___. Carnitine, Pyruvate, EBV, Lyme panels were pending at the 
+time of discharge. 
+.  
+# Hypokalemia: his hypokalemia was unexpected given his 
+rhabdomyolysis. K was repleted as needed. Further work-up of 
+hypokalemia/additional causes of renal potassium wasting such as 
+channelopathy, Bartter or Gitelman's syndromes, or 
+hyperaldosteronism were considered but deferred for outpatient 
+care.
+.
+# Anxiety: patient became increasingly anxious about his health 
+over the course of the hospitalization, in the setting of 
+multiple recent stressors at work and in medical settings. At 
+his request, he was started on Bupropion 150mg daily and was 
+discharged with lorazepam 0.5mg Q4-6h PRN anxiety.
+.
+#. Meinere's: home dose of HCTZ/Triamterene was held throughout 
+the admission as above and patient was discharged without 
+restarting it, with instructions to follow up with his PCP. 
+ 
+Medications on Admission:
+HCTZ/Triamterene 25 mg /37.5 mg daily (stopped by PCP one week 
+prior to admission)
+ 
+Discharge Medications:
+1. Bupropion HCl 150 mg Tablet Sustained Release 24 hr Sig: One 
+(1) Tablet Sustained Release 24 hr PO once a day.
+Disp:*30 Tablet Sustained Release 24 hr(s)* Refills:*1*
+2. Lorazepam 0.5 mg Tablet Sig: ___ Tablets PO every ___ hours 
+as needed for anxiety.
+Disp:*10 Tablet(s)* Refills:*0*
+3. Potassium Chloride 20 mEq Packet Sig: Two (2) packet PO once 
+a day for 4 days.
+Disp:*8 packets* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: Rhabdomyolysis
+Secondary: Meniere's Disease, diuretic use, anxiety
+ 
+Discharge Condition:
+Good. Good. afeb VSS, CV/lung/abd benign. Neuro exam with ___ 
+strength in all extremities. Mental status clear but anxious. 
+Ambulatory without assistance. 
+ 
+Discharge Instructions:
+It was a pleasure taking care of you at ___. 
+.
+You were admitted to the hospital with weakness and an injury to 
+your muscles called rhabdomyolysis.  You were given many liters 
+of intravenous fluids and fluids by mouth to prevent 
+complications from rhabdomyolysis. The markers of kidney 
+function remained stable throughout your hospitalization, 
+showing that you did not develop problems from your 
+rhabdomyolysis. After listening to your concerns about your 
+level of stress from your current illness and other recent 
+medical problems, we started a medication called bupriopion 
+(Wellbutrin) to help you feel better. We also gave you a 
+medication called lorazepam (Ativan) to take when you have 
+higher levels of anxiety. Do NOT take this medication if you are 
+driving or doing dangerous activities as it can make you very 
+sleepy. 
+.
+Your markers of rhabdomyolysis went down, there was no 
+significant change in the markers of your kidney function, and 
+you were sent home for follow-up with your hospital doctor, your 
+primary care physician, and the ___ clinic.  
+.
+Please continue to stay well-hydrated and take your medications 
+as prescribed. 
+.
+We made the following changes to your medication:
+STARTED Bupropion ER (also called Wellbutrin) 150mg by mouth 
+daily
+STARTED Lorazepam (also called Ativan) 0.5mg tablets, ___ 
+tablets by mouth every ___ hours as needed for anxiety
+STARTED Potassium Chloride supplements, 2 packets by mouth daily 
+for 4 days
+STOP taking hydrochlorothiazide and triamterene for the time 
+being. 
+ 
+Followup Instructions:
+___

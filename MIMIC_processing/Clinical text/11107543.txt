@@ -1,0 +1,354 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+GI bleed
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS:
+Mr. ___ is a ___ year old male with PMHx hemorrhoids s/p band
+ligation x 3 (___) and ___ who presents with 2.5 weeks of 
+dark
+blood per rectum.
+
+Over the ___, he had hemorrhoids banded with Dr. ___
+in ___ and had no further bleeding until 2.5 weeks ago when he
+started to notice bleeding with bowel movements. He describes
+that the blood seemed to coat his stool and filled the toilet
+bowel, making the water red. He describes no bleeding in between
+bowel movements. He has no rectal pain or urgency and denies
+abdominal pain. 
+
+Associated symptoms include general malaise.
+He presented to his PCP where he had labs drawn on ___ that
+showed an H&H of 6.4/21.7 and so was referred into the emergency
+department. 
+
+He reports no dizziness, lightheadedness, CP, or SOB. However,
+does note decreased exercise tolerance. 
+Positive for chills and malaise over ___ 2 weeks. 
+No fevers. No dysuria. 
+___ in ___ showing only large internal hemorrhoids.
+
+In the ED:
+- Initial vital signs were notable for: 
+T 97 HR 69 BP 107/72 RR 16 O2 Sat 100% RA
+
+- Exam notable for:
+GU: Skin tag perirectally. No external rectal lesions noted. No
+stool or blood produced on rectal exam.
+Otherwise unremarkable physical exam.
+
+- Labs were notable for:
+-- CBC: WBC 5.4, Hgb 6.0 with MCV 83 -> 7.7 (after 2U RBC), Plt
+251
+-- Chem panel: Unremarkable with Cr 0.8
+-- Coags: ___ 13.0, PTT 32.2, INR 1.2
+
+- Studies performed include:
+-- EKG showing NSR at 64
+-- No other studies done
+
+- Patient was given:
+-- 2U RBC
+
+- Consults:
+GI and and surgery were consulted.
+(1) GI: Consider diverticular bleed, angeioectasis and 
+malignancy
+but all of these are unlikely given recent negative studies and
+no symptoms to suggest inflammatory / infectious colitis. They
+suspect this is hemorrhoids and will consider flex sig on
+___. If the patient develops rapid overt bleeding and
+hemodynamic instability, get a CT angiography.
+
+(2) Surgery: No acute or emergent surgical interventions. He may
+benefit from elective hemorrhoidectomy as an outpatient. Admit 
+to
+medicine for resuscitation and workup of other causes of anemia.
+
+Vitals on transfer: 
+T 99.0 HR 64 BP 120/67 RR 16 O2 Sat 99% RA
+
+Upon arrival to the floor, he overall feels well and does not
+have any abdominal pain. His ___ bowel movement was this 
+morning
+and he did not notice any blood then.
+
+In terms of symptoms, he has stairs to basement at home and
+sometimes gets winded going up and down the stairs, which is 
+new.
+A couple weeks ago, he also walked up a hill and felt tired. On
+flat ground, he is able to ambulate without dizziness or
+lightheadedness. He does think that after his 2U RBC, his lungs
+feel better and he overall has more energy.
+
+He only rarely takes ibuprofen or aspirin for headache but
+usually takes no NSAIDs. He has been taking his iron pills
+regularly and has been warned about constipation, so he also 
+eats
+a high fiber diet with fruits and veggies. he does not take any
+bowel regimen meds at home (including miralax, senna, colace,
+Metamucil, or benefiber). He has a bowel movement once per day
+and does not feel that he strains much.
+ 
+Past Medical History:
+Hemorrhoids, internal s/p banding x 3
+Iron deficiency anemia
+Depression
+Obesity
+Right lobe liver mass (per OSH records)
+ 
+Social History:
+___
+Family History:
+other- alive, no significant history
+Father- alive, no significant history
+Two brothers alive
+___ aunt- brain cancer
+___ GM- Diabetes, Bipolar disorder
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: T 98.4 BP 110 / 67 HR 58 RR 18 O2 Sat 98 RA
+GENERAL: Alert and interactive. Obese gentleman in no acute
+distress.
+EYES: NCAT. PERRL, EOMI. Pale conjunctivae. Sclera anicteric and
+without injection. 
+ENT: MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. Normal work of breathing.
+ABDOMEN: Obese. Normal bowels sounds, non distended, non-tender
+to deep palpation in all four quadrants.
+RECTAL: External without fissure or hemorrhoids. Good tone.
+MSK: No lower extremity edema.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. Normal gait, able to ambulate without
+issue. A&O x 3.
+PSYCH: Appropriate mood and affect
+
+DISCHARGE PHYSICAL EXAM:
+PHYSICAL EXAM:
+VITALS: 24 HR Data ___ updated ___ @ 1146)
+    Temp: 98.0 (Tm 98.4), BP: 117/69 (110-121/63-69), HR: 61
+(56-66), RR: 20 (___), O2 sat: 98% (96-98), O2 delivery: Ra  
+GENERAL: Alert and interactive. Obese gentleman in no acute
+distress.
+EYES: NCAT. EOMI. Sclera anicteric and without injection. 
+ENT: MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. Normal work of breathing.
+ABDOMEN: Obese. Non distended, non-tender to deep palpation in
+all four quadrants.
+MSK: No lower extremity edema.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: Face symmetric. Speech fluent. Normal gait, able to
+ambulate without issue. A&O x 3.
+PSYCH: Appropriate mood and affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 01:30PM   PLT COUNT-251
+___ 01:30PM   NEUTS-66.8 ___ MONOS-10.1 EOS-1.7 
+BASOS-0.9 IM ___ AbsNeut-3.64 AbsLymp-1.08* AbsMono-0.55 
+AbsEos-0.09 AbsBaso-0.05
+___ 01:30PM   WBC-5.4 RBC-2.74* HGB-6.0* HCT-22.6* MCV-83 
+MCH-21.9* MCHC-26.5* RDW-15.4 RDWSD-46.0
+___ 01:30PM   calTIBC-404 VIT B12-789 FOLATE->20 
+___ FERRITIN-7.7* TRF-311
+___ 01:30PM   IRON-29*
+___ 01:30PM   LD(LDH)-146
+___ 01:30PM   estGFR-Using this
+___ 01:30PM   GLUCOSE-107* UREA N-10 CREAT-0.8 SODIUM-141 
+POTASSIUM-4.5 CHLORIDE-104 TOTAL CO2-25 ANION GAP-12
+___ 02:55PM   ___ PTT-32.2 ___
+___ 08:03PM   RET AUT-2.0 ABS RET-0.05
+___ 08:03PM   PLT SMR-NORMAL-WIT PLT COUNT-243
+___ 08:03PM   HYPOCHROM-2+* ANISOCYT-1+* POIKILOCY-2+* 
+MICROCYT-1+* POLYCHROM-1+* SPHEROCYT-2+* OVALOCYT-2+* TARGET-1+* 
+SCHISTOCY-1+* TEARDROP-1+* ACANTHOCY-1+* RBCM-SLIDE REVI
+___ 08:03PM   WBC-7.2 RBC-3.32* HGB-7.7* HCT-27.6* MCV-83 
+MCH-23.2* MCHC-27.9* RDW-15.5 RDWSD-46.8*
+
+DISCHARGE LABS:
+================
+
+___ 03:05PM BLOOD WBC-7.7 RBC-3.61* Hgb-8.4* Hct-30.0* 
+MCV-83 MCH-23.3* MCHC-28.0* RDW-15.2 RDWSD-45.9 Plt ___
+___ 07:30AM BLOOD ___
+___ 07:30AM BLOOD Glucose-92 UreaN-8 Creat-0.8 Na-143 K-4.6 
+Cl-106 HCO3-23 AnGap-14
+___ 07:30AM BLOOD Calcium-9.3 Phos-3.5 Mg-2.1
+
+MICRO:
+======
+None
+
+IMAGING:
+========
+None
+ 
+Brief Hospital Course:
+ Information for Outpatient Providers:SUMMARY STATEMENT:
+====================
+Mr. ___ is a ___ year old male with PMHx hemorrhoids s/p band
+ligation x 3 (___) and ___ who presents with 2.5 weeks of 
+dark
+blood per rectum, admitted for mildly symptomatic anemia with 
+Hgb
+6 now s/p 2u PRBC with improvement in symptoms and no further
+bleeding
+
+TRANSITIONAL ISSUES:
+=======================
+PCP:
+- ___ consider monitoring/follow-up on Hgb levels in the next 
+week. Patient has a prescription provided for labwork.
+- Patient should follow up with surgery regarding 
+hemorrhoidectomy given multiple banding attempts and still with 
+bleeding.
+- Please note incidental finding on CT scan dated ___: 
+"Ill-defined right hepatic lobe lesion corresponding to the 
+previously
+described hyperechoic mass on recent abdominal ultrasound is 
+likely compatible with a hemangioma, however further 
+characterization with dedicated abdominal MRI is recommended."
+
+ACUTE ISSUES:
+==============
+# Mildly symptomatic iron-deficiency anemia
+# Hemorrhodoidal bleeding
+# History of internal hemorrhoids, Grade ___: s/p banding RP/LL
+___ an RA/RP ___
+He is now presenting Hgb 6.0, from prior ___ known of 10.5 in
+___, which has now increased to 7.7 following 2U RBC in the ED.
+Coags overall unremarkable with a mildly elevated INR. He is
+admitted for ruling out other etiologies of anemia although of
+note, the patient has had anemia in the past (with extensive GI
+workup as above) and so this is likely iron deficiency anemia
+secondary to hemorrhoids. He was previously on PPI in the early
+___ while concerned for upper GI bleed but after his 
+endoscopy
+in ___ being normal, this was discontinued. He takes no 
+NSAIDs.
+Hgb stable in the AM with hemolysis labs negative. Folate, B12
+normal. Iron studies with low ferritin, iron, TSAT ~7% 
+suggesting
+iron-deficiency. Reticulocyte count inappropriately normal which
+could be ___ lack of iron for erythropoiesis. GI and surgery was 
+consulted who felt outpatient management of hemorrhoids was 
+indicated. The patient received IV ferric gluconate 125 mg x1 
+prior to discharge with repeat afternoon CBC stable. He was 
+continued on hydrocortisone cream and oral iron supplementation. 
+He was advised to follow a high fiber diet and to take stool 
+softeners daily to minimize risk of further hemorrhoidal 
+bleeding. He will need to schedule an appointment with Dr. ___ 
+___ surgeon) for follow-up.
+
+Discharge Hgb: 8.4
+
+CHRONIC ISSUES:
+===============
+# Depression:
+Well controlled, no evidence of SI. Continued on his home 
+escitalopram.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Escitalopram Oxalate 10 mg PO DAILY 
+2. Ferrous Sulfate 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+2.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram/dose 1 dose by mouth once 
+daily Refills:*0 
+3.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+4.  Ferrous Sulfate 325 mg PO EVERY OTHER DAY 
+Please take every other day to minimize side effects and 
+maximize GI iron absorption.  
+5.  Escitalopram Oxalate 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Internal hemorrhoidal bleeding
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You had a significant amount of bleeding that caused you to 
+feel short of breath when exerting yourself that required a 
+blood transfusion   
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You received 2 units of blood
+- Your blood counts were monitored and remained stable
+- Our GI and surgery teams saw you and recommended follow-up 
+with clinic visits for potentially another operation to treat 
+your hemorrhoids
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Please continue to take all of your medications as directed
+- Please check your Hgb in 1 week or sooner if you note 
+significant bleeding
+- Please return to the ED if you feel short of breath, 
+light-headed, or have chest pain which are all signs of 
+significantly low blood counts.
+- Please take stool softeners (Colace, Senna, Miralax) daily to 
+minimize the risk of hemorrhoid irritation and re-bleeding.
+- Please ensure adequate daily fiber intake to soften your 
+stools
+- Please take your iron supplements every other day to restore 
+your iron levels as they are low.
+- Please make a follow-up appointment with Dr. ___ to discuss 
+further treatments for your hemorrhoids
+- Please follow-up with your primary care provider so they can 
+monitor your blood counts closely
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+Your ___ Healthcare Team 
+ 
+Followup Instructions:
+___

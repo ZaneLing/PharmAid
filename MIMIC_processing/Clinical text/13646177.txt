@@ -1,0 +1,145 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fever
+
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with the past medical
+history noted below who been having recurrent fevers and chills
+for the last five days. Says highest temperature at home was 
+101,
+associated with vomiting. Says she thought it was her asthma
+acting up, but she didn't feel better so she went to her PCP
+yesterday, her WBC was 29 so she was sent to the ED after
+starting Tamiflu, unclear if there a documented positive flu
+test. Patient says had intermittent burning micturition, without
+change in urine color or smell, no flanks pain. She has lower 
+med
+mild abdominal pain that started today which she attributes to
+her menstrual cycle. Has mild cough productive of clear sputum
+few days ago that improved with use of albuterol inhaler. 
+No sore throat or ears pain, no diarrhea. 
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative.
+ 
+Past Medical History:
+asthma 
+ 
+Social History:
+___
+Family History:
+mother died of "kidney disease". 
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: ___ 1632 Temp: 98.9 PO BP: 113/72 HR: 95 RR: 18 O2
+sat: 98% O2 delivery: Ra 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, mildly tender to palpation.  
+GU: bilateral CVAT
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+EXAM ON DISCHARGE
+VITALS: Afebrile, HDS
+GENERAL: Alert and in no apparent distress
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, mildly tender to palpation.  
+GU: bilateral CVAT
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+
+ 
+Pertinent Results:
+___ 06:00AM BLOOD WBC-15.2* RBC-3.52* Hgb-10.2* Hct-27.9* 
+MCV-79* MCH-29.0 MCHC-36.6 RDW-15.3 RDWSD-43.9 Plt ___
+___ 04:00AM URINE Blood-MOD* Nitrite-NEG Protein-300* 
+Glucose-150* Ketone-10* Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-LG*
+ 
+Brief Hospital Course:
+___ w/ hx of asthma a/w severe sepsis secondary to E. coli UTI 
+and bacteremia.  She was initially treated with IV ceftriaxone 
+and transitioned to oral ciprofloxacin based on microbiology and 
+sensitivity data.  Repeat blood culture from ___ shows no 
+growth to date. She did well with this intervention and she is 
+being discharged home with plan to follow-up with PCP ___ 
+___ of discharge from the hospital.
+
+Severe sepsis, resolved 
+E. coli UTI
+E. coli bacteremia
+-Continue ciprofloxacin 500 mg twice daily, total of 10-day 
+course of antibiotics
+
+ 
+Medications on Admission:
+Albuterol inhaler as needed shortness of breath/wheezing
+ 
+Discharge Medications:
+1.  Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*21 Capsule Refills:*0 
+2.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth twice 
+a day Disp #*15 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Sepsis
+E. coli UTI
+E. coli bacteremia
+
+ 
+Discharge Condition:
+Discharge condition stable
+Alert and oriented x3
+Ambulatory
+
+ 
+Discharge Instructions:
+You were you were treated in the hospital for a urinary tract 
+infection as well as a blood infection.  You were treated with 
+IV antibiotics and you did well with this intervention.  Based 
+on the culture data, your transition to an oral antibiotic 
+regimen.  Please complete this oral antibiotic regimen as per 
+your discharge instructions.  You should follow-up with your 
+primary care physician ___ 1 week of discharge from the 
+hospital.
+ 
+Followup Instructions:
+___

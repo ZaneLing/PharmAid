@@ -1,0 +1,234 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / Latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+melena
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ history of HCV cirrhosis without known complications 
+presents
+with melena.
+
+The patient obtained HCV via blood transfusion and has
+subsequently developed cirrhosis. He has not yet undergone
+treatment for HCV. His cirrhosis has been uncomplicated without 
+a
+history of varices (last EGD ___ years ago), ascites or hepatic
+encephalopathy. 
+
+He states that he was in his usual state of health until three
+days ago when he started having multiple, black, sticky bowel
+movements a day. He denies any fevers/chills. No chest pain,
+dyspnea, or palpitations. No n/v/d. No abdominal pan. No ethanol
+or NSAID use. 
+
+He notes no vision changes or dizziness.
+
+ 
+Past Medical History:
+-Hepatitis C (Genotype 1A) pending initiation of treatment;
+acquired presumably via blood transfusion
+-HCV cirrhosis (no known varices or portal hypertension)
+-Hypertension
+-Obstructive sleep apnea (not on CPAP)
+-MVA in ___ c/b severe ___ trauma and bilateral femoral
+fractures with right femoral fracture repair
+-s/p IVF filter placement for PE ppx (during admission for ___)
+-Persistent RLE wound (likely ___ prior trauma) followed by
+plastic surgery
+-H/o tobacco abuse (with ongoing smoking)
+-Frequent ingrown toenails
+ 
+Social History:
+___
+Family History:
+Notable for DM, heart disease, lung disease, COPD, psoriasis,
+and arthritis
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS:  T 98.3 BP 139/95 HR 77 R 20 SpO2 96 Ra 
+GEN: NAD
+HEENT: Sclerae anicteric
+___: RRR, no MRG
+RESP: CTAB, no wheezing or rhonchi
+ABD: NTND no HSM. No caput
+EXT: Warm, no edema
+NEURO: No asterixis
+
+DISCHARGE PHYSICAL EXAM:
+Temp: 97.4 (Tm 98.3), BP: 135/89 (135-139/89-95), HR: 63 
+(63-77), RR: 18 (___), O2 sat: 96%, O2 delivery: Ra 
+GEN: NAD
+HEENT: EOMI, Sclerae anicteric
+___: RRR, no MRG
+RESP: CTAB, no wheezing or rhonchi
+ABD: Soft, NTND no HSM. 
+EXT: Warm, no edema
+SKIN: no rashes
+NEURO: AAOx3, moving all extremities. No asterixis
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 08:56PM BLOOD WBC-10.1* RBC-4.59* Hgb-14.4 Hct-42.7 
+MCV-93 MCH-31.4 MCHC-33.7 RDW-13.3 RDWSD-45.1 Plt ___
+___ 08:56PM BLOOD Neuts-51.9 ___ Monos-9.7 Eos-2.2 
+Baso-0.7 Im ___ AbsNeut-5.26 AbsLymp-3.56 AbsMono-0.98* 
+AbsEos-0.22 AbsBaso-0.07
+___ 08:56PM BLOOD Glucose-108* UreaN-17 Creat-0.6 Na-139 
+K-4.2 Cl-101 HCO3-25 AnGap-13
+___ 08:56PM BLOOD ALT-94* AST-83* AlkPhos-172* TotBili-0.4
+___ 08:56PM BLOOD Albumin-3.5 Calcium-9.3 Phos-4.3 Mg-1.9
+
+DISCHARGE LABS
+===============
+___ 09:04AM BLOOD WBC-7.8 RBC-4.53* Hgb-14.3 Hct-42.7 
+MCV-94 MCH-31.6 MCHC-33.5 RDW-13.3 RDWSD-45.7 Plt ___
+___ 09:04AM BLOOD ___ PTT-33.7 ___
+___ 09:04AM BLOOD Glucose-131* UreaN-15 Creat-0.8 Na-141 
+K-4.6 Cl-102 HCO3-24 AnGap-15
+___ 09:04AM BLOOD ALT-95* AST-83* AlkPhos-153* TotBili-0.7
+___ 09:04AM BLOOD Calcium-8.8 Phos-3.8 Mg-1.9
+
+IMAGING
+==========
+None
+
+MICRO
+=========
+None
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+================
+Mr. ___ is a ___ y/o man with PMH notable for HCV cirrhosis 
+(without known complications, but not yet initiated on HCV 
+treatment), HTN, OSA not on CPAP, and prior MVC c/b bilateral 
+femoral fractures ppx IVC filter placement and chronic RLE 
+wounds. He presented with 3d of asymptomatic melena, now 
+resolving, concerning for slow GIB. Patient remained 
+hemodynamically stable without any drop in hemoglobin, and 
+therefore was discharged on a PPI with outpatient hepatology 
+follow up. 
+
+ACUTE ISSUES: 
+============== 
+#Dark Stools
+#Concern for slow GI bleed ___ PUD or Gastritis
+Presents with melena in setting of cirrhosis without very small 
+varices on EGD in ___. Patient reports intermittent GERD, which 
+could be consistent with dyspepsia or gastritis. Of note, 
+patient is experiencing extreme stress recently over the estate 
+of his mother. Initially placed on Ceftriaxone and Octreotide, 
+but discontinued as patient remained hemodynamically stable, and 
+bleed appears to be resolved, with Hgb/Hct at baseline. He was 
+discharged on a trial of Omeprazole 40mg Daily for 4 weeks. 
+
+#Elevated transaminases: 
+Patient with mildly elevated transaminases consistent with 
+hepatocellular pattern though not significantly changed from 
+baseline. No pain on examination.
+
+#HCV cirrhosis: Childs A, HCV cirrhosis, no known 
+decompensation. Follow up with Dr. ___.
+
+CHRONIC ISSUES: 
+================ 
+#HTN: monitored in-house. remained normotensive off medications.
+
+#OSA: was on continuous O2 monitoring as not on CPAP at home
+
+#Chronic RLE ulcer: followed closely by plastics as outpatient
+
+TRANSITIONAL ISSUES:
+=====================
+# Suspected Gastritis vs PUD:
+[ ] 4 week trial of Omeprazole 40 mg daily, then taper
+[ ] Consider H pylori testing if symptoms do not resolve. 
+
+# HCV Cirrhosis
+[ ] F/u with Dr. ___ repeat EGD.
+[ ] Consider treatment of Hepatitis C.
+
+#CODE: Full (presumed)
+#CONTACT: ___ (Cousin) ___
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Omeprazole 40 mg PO DAILY 
+RX *omeprazole 40 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+===================
+Gastritis 
+
+SECONDARY DIAGNOSES
+=====================
+HCV Cirrhosis 
+HTN
+OSA
+Chronic RLE Ulcer
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking part in your care here at ___!
+
+Why was I admitted to the hospital?
+- You were admitted for dark stools concerning for bleeding from 
+your esophagus or stomach.
+
+What was done for me in the hospital?
+- You were monitored overnight.
+- Your blood levels were measured and were normal, as well as 
+stable. 
+- You were started on a medication to help lower the acid in 
+your stomach. 
+
+What should I do when I leave the hospital?
+- Please take all medicines as prescribed.
+- Please follow up with Dr. ___ your liver disease and 
+possible endoscopy. 
+
+We wish you the best of luck in your health!
+
+Sincerely,
+Your ___ Treatment Team
+
+ 
+Followup Instructions:
+___

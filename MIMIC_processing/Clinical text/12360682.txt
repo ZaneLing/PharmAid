@@ -1,0 +1,261 @@
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lightheadedness
+Chest/neck discomfort
+ 
+Major Surgical or Invasive Procedure:
+Electrophysiology diagnostic study without ablation
+
+ 
+History of Present Illness:
+___ YO M w/ PMH HTN, anxiety presented to the ___
+with 3 episodes of lightheadedness and throat/upper chest
+tightness today. Patient first had episode like this about 6
+weeks ago about 40 minutes into a walk with his wife. This went
+away after a few minutes of rest. This morning, he again was on 
+a
+walk and noted a sensation of LH accompanied by throat/upper
+chest tightness. This episode lasted "maybe 5 minutes." He then
+had second and third episodes like this which occurred during
+position changes at which point he decided to go in to the ___ for further evaluation.
+ 
+Past Medical History:
+HTN
+Multiple ortho procedures on shoulder, hip, knee
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS: 97.7 123/79 70 18 94% RA 
+GENERAL: Pleasant elderly gentleman in NAD
+HEENT: NCAT, MMM
+NECK: Supple. Neck veins flat sitting upright
+CARDIAC: RRR, no m/r/g
+LUNGS: CTAB
+ABDOMEN: Soft, NT/ND, BS+
+EXTREMITIES: WWP, no c/c/e
+SKIN: No significant skin lesions or rashes.
+PULSES: Distal pulses palpable and symmetric.
+
+DISCHARGE EXAM:
+Vital signs stable
+GENERAL: NAD. AAOx3. Comfortable.
+HEENT: NCAT, moist mucous membranes
+CARDIAC: RRR, faint S1, no murmurs
+LUNGS: CTAB
+ABDOMEN: Soft, NT/ND
+EXTREMITIES: Warm, well perfused, non-edematous
+ 
+Pertinent Results:
+PERTINENT STUDIES:
+
+___ EP DIAGNOSTIC STUDY:
+Conclusions:
+- Idiopathic VT, likely mid-myocardial to epicardial. - 
+Non-sustained atrial arrhythmias (AF/atypical AFL)
+
+___ CARDIAC MRI
+Please note that this report only pertains to extracardiac 
+findings.
+Severe left hydronephrosis with left cortical thinning 
+suggestive of chronic
+obstruction (101:14).  Crossing of the dorsal pancreatic duct 
+with the common
+bile duct consistent with pancreatic divisum spectrum (701: 
+51-60). Bilateral
+T2 hyperintense renal cystic lesions noted. 1.3 x 1.7 cm and 1.5 
+x 1.3 cm
+mildly T2 hyperintense lesions within the mid thoracic vertebral 
+bodies are
+most consistent with hemangiomas.  There are no additional 
+extracardiac
+findings.
+The entirety of this Cardiac MRI is reported separately in the 
+Electronic
+Medical Record (OMR) - Cardiovascular Reports.
+
+___ EXERCISE TOLERANCE TEST
+IMPRESSION: No anginal, presyncopal symptoms, or ischemic ECG 
+changes
+to achieved workload. Frequent isolated VPBs (multiple 
+morphologies) and
+three ventricular couplets without any sustained ventricular
+tachycardia.
+
+___ ECHOCARDIOGRAM
+MPRESSION: Mildly depressed left ventricular systolic function. 
+Unable to adequately assess for regional dysfunction in the 
+setting of suboptimal image quality. Moderately dilated aortic 
+root. Mildly dilated ascending aorta, aortic arch, and abdominal 
+aorta. No clinically significant valvular disease. Normal 
+pulmonary artery systolic pressure.
+
+The patient has a moderately dilated ascending aorta. Based on 
+___ ACCF/AHA Thoracic Aortic Guidelines, if not previously 
+known or a change, a follow-up echocardiogram is suggested in 6 
+months; if previously known and stable, a follow-up 
+echocardiogram is suggested in ___ year. 
+
+ADMISSION LABS:
+___ 06:00PM BLOOD WBC-7.1 RBC-4.66 Hgb-15.2 Hct-43.7 MCV-94 
+MCH-32.6* MCHC-34.8 RDW-11.9 RDWSD-41.0 Plt ___
+___ 06:00PM BLOOD Neuts-60.1 ___ Monos-10.6 Eos-1.5 
+Baso-0.8 Im ___ AbsNeut-4.26 AbsLymp-1.89 AbsMono-0.75 
+AbsEos-0.11 AbsBaso-0.06
+___ 06:00PM BLOOD ___ PTT-26.1 ___
+___ 06:00PM BLOOD Glucose-90 UreaN-16 Creat-0.9 Na-142 
+K-3.3 Cl-106 HCO3-24 AnGap-12
+___ 06:00PM BLOOD CK(CPK)-43*
+___ 06:00PM BLOOD CK-MB-2
+___ 06:00PM BLOOD cTropnT-<0.01
+___ 06:00PM BLOOD Calcium-9.0 Phos-2.7 Mg-1.6
+___ 06:00PM BLOOD TSH-1.5
+
+PERTINENT LABS:
+___ 06:00PM BLOOD cTropnT-<0.01
+___ 06:00PM BLOOD CK-MB-2
+___ 06:00PM BLOOD TSH-1.5
+
+DISCHARGE LABS:
+___ 07:15AM BLOOD WBC-7.8 RBC-4.88 Hgb-15.9 Hct-47.1 MCV-97 
+MCH-32.6* MCHC-33.8 RDW-12.0 RDWSD-42.5 Plt ___
+___ 07:15AM BLOOD Plt ___
+___ 07:15AM BLOOD Glucose-98 UreaN-20 Creat-1.0 Na-145 
+K-4.3 Cl-104 HCO3-29 AnGap-12
+___ 07:15AM BLOOD Calcium-10.3 Phos-3.0 Mg-1.7
+
+MICRO:
+(none)
+ 
+Brief Hospital Course:
+___ male with history of HTN and anxiety initially 
+presenting
+with lightheadedness with chest/neck discomfort found to have
+___ second run v-tach on telemetry at OSH. Underwent cardiac 
+workup including CMR and EP study (without ablation) found to 
+have structurally normal heart though with inducible v-tach of 
+unclear etiology.
+
+# Non-sustained ventricular tachycardia: Symptoms of dizziness 
+and chest/neck tightness seem to be correlated with onset of ___ 
+run v-tach at outside hospital. Underwent exercise stress test 
+that showed isolated ventricular premature beats and ventricular 
+couplets, though no ventricular tachycardia. TTE/Cardiac MRI 
+notable for EF 50% but CMR showed no significant structural 
+abnormalities to explain arrhythmia. Diagnostic EP study found 
+idiopathic VT, likely mid-myocardial to epicardial and 
+non-sustained atrial arrhythmias (AF/atypical AFL). No 
+indication for ablation. Started on metoprolol succinate 25 mg 
+daily. Zio patch placed for continuous monitoring follow 
+discharge. Continuous telemetry during admission was notable for 
+frequent PVCs though no further runs of v-tach; he remained 
+stable throughout admission. Plan to follow up with EP following 
+discharge (Dr. ___.
+
+#Hypertension: Stable. Continuing home lisinopril/HCTZ.
+
+#Anxiety: Stable. On home lorazepam.
+
+TRANSITIONAL ISSUES:
+[] Started metoprolol succinate 25 mg daily.
+[] Event monitor (Zio patch) placed on discharge.
+[] Incidental finding on cardiac MRI: Severe left hydronephrosis 
+with left cortical thinning suggestive of chronic obstruction. 
+Consider CT urogram for further assessment of left kidney.
+[] Incidental finding on TTE: Moderately dilated ascending 
+aorta. If not previously known or a change, a follow-up 
+echocardiogram is suggested in 6 months; if previously known and 
+stable, a follow-up echocardiogram is suggested in ___ year. 
+
+#CODE STATUS: full (confirmed)
+#CONTACT: Health care proxy chosen: Yes
+Name of health care proxy: ___
+Relationship: wife
+Phone number: ___
+___ on date: ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. lisinopril-hydrochlorothiazide ___ mg oral DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. LORazepam 0.5 mg PO Q8H:PRN Anxiety 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*60 Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  lisinopril-hydrochlorothiazide ___ mg oral DAILY  
+4.  LORazepam 0.5 mg PO Q8H:PRN Anxiety  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Idiopathic non-sustained ventricular tachycardia
+
+SECONDARY DIAGNOSES:
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you.
+
+Why were you in the hospital?
+ - You were having symptoms of an abnormal heart rhythm called 
+ventricular tachycardia
+
+What was done for you in the hospital?
+ - You had multiple studies performed including an 
+echocardiogram, a cardiac MRI, and a stress test.
+ - You had an electrophysiology study to determine the cause of 
+your arrhythmia.
+ - You were started on a new medication to help prevent future 
+episodes.
+ - We placed a patch that will monitor and record any 
+abnormalities in your heart beats and rhythm to obtain more 
+information that will help us with your management.
+
+What should you do when you get home?
+ - Continue wearing the Zio monitoring patch per the 
+instructions received. Be sure to mail it back as instructed.
+ - Continue to monitor for symptoms and call your doctor or 
+return to the ER if concerned.
+ - Take your medications as prescribed below.
+
+We wish you all the best.
+
+Sincerely,
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___

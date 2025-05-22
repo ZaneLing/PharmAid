@@ -1,0 +1,247 @@
+Name:  ___       ___ No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Protonix
+ 
+Attending: ___
+ 
+___ Complaint:
+Hematemesis
+ 
+Major Surgical or Invasive Procedure:
+Upper endoscopy ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with a PMHx of hemochromatosis c/b 
+MI (___) w/o known cirrhosis, alcohol abuse (currently ___ 
+drinks/day), recurrent PNA (most recently ___ treated with 
+azithromycin, levofloxacin, and 2 five-day pulses of steroid), 
+bronchiectasis (on last CT ___ w/ persistent cough and SOB 
+who presented overnight with 2 episodes of 500 cc coffee ground 
+hematemesis. The patient was initially brought to ___ 
+where she had another episode of hematemesis and was found to be 
+hypotensive to the ___ and tachycardic to the 150s. She was 
+given 2u pRBCs, octeotide gtt, and pantoprazole and was 
+transferred to ___ for further management as there were no ICU 
+beds available. 
+
+Regarding her diagnosis of hemochromatosis, the patient states 
+that she knew she had family history, but that she was only just 
+diagnosed ___. She undergoes therapeutic phlebotomy q3months. 
+States that she had an EGD ___ years ago that did not show 
+varices. 
+ 
+In the ___ ED, initial vitals: 98.9 79 ___ 96% RA. Exam 
+was notable for clear lungs and a soft, nontender abdomen. The 
+patient denied any abdominal pain, chest pain or SOB.
+
+Labs were notable for WBC 9.2, H/H 11.7/35.5 Plt 110
+Na 141 K 4.0 Cl 107 HCO3 19 BUN 32 Cr 0.5
+Lactate elevated to 3.7
+LFTs were WNL, albumin 3.3.
+INR 1.0 (___)
+
+GI/hepatology was consulted and recommended ICU admission. 
+
+On arrival to the MICU, patient is comfortable, AAOx3. Denies 
+any further episodes of hematemesis. Denies chest pain, SOB, 
+abdominal pain, hematochezia, melena, dysuria. 
+
+Review of systems:  
+(+) Per HPI
+ 
+Past Medical History:
+Hemochromatosis (heterozygous HFE ___
+Hx of panic attacks  
+Hx of non-cardiac chest pain  
+ 
+ 
+Social History:
+___
+Family History:
+Mother alive at ___, has breast cancer and restrictive lung 
+disease.  
+Father had CAD.  
+Sister alive at ___, had MI at age ___. Also has hemochromatosis.  
+
+Brother alive at ___. 
+ 
+Physical Exam:
+ADMISSION/DISCHARGE EXAM:
+=========================
+Vitals: T 99 BP 128/87 HR 93 R 16 SpO2 95%RA
+GENERAL: Well-appearing middle aged female resting comfortably 
+in bed in NAD, pleasant
+HEENT: Sclera anicteric, MMM, one 0.5 cm ulcer in L buccal 
+mucosa.
+NECK: supple, JVP not elevated  
+LUNGS: CTAB
+CV: RRR, normal S1 S2, no murmurs, rubs, gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN:  No jaundice, slightly hyperpigmented skin
+NEURO:  AAOx3, no asterixis
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 05:31AM   ___
+___ 05:31AM   LACTATE-3.7*
+___ 05:00AM   GLUCOSE-105* UREA N-32* CREAT-0.5 SODIUM-141 
+POTASSIUM-4.0 CHLORIDE-107 TOTAL CO2-19* ANION GAP-19
+___ 05:00AM   estGFR-Using this
+___ 05:00AM   ALT(SGPT)-23 AST(SGOT)-30 ALK PHOS-62 TOT 
+BILI-0.5
+___ 05:00AM   LIPASE-29
+___ 05:00AM   ALBUMIN-3.3* CALCIUM-7.4* PHOSPHATE-2.5* 
+MAGNESIUM-1.7
+___ 05:00AM   WBC-9.2 RBC-3.60* HGB-11.7 HCT-35.5 MCV-99* 
+MCH-32.5* MCHC-33.0 RDW-13.4 RDWSD-48.8*
+___ 05:00AM   NEUTS-78.7* LYMPHS-9.7* MONOS-11.0 EOS-0.0* 
+BASOS-0.2 IM ___ AbsNeut-7.21*# AbsLymp-0.89* AbsMono-1.01* 
+AbsEos-0.00* AbsBaso-0.02
+___ 05:00AM   PLT COUNT-110*
+
+DISCHARGE LABS:
+===============
+___ 12:07PM BLOOD WBC-7.6 RBC-3.65* Hgb-11.9 Hct-35.1 
+MCV-96 MCH-32.6* MCHC-33.9 RDW-14.7 RDWSD-52.0* Plt ___
+___ 04:26PM BLOOD ___ PTT-22.7* ___
+___ 12:07PM BLOOD %HbA1c-5.4 eAG-108
+___ 12:42PM BLOOD Lactate-1.8
+
+MICRO:
+=====
+
+IMAGING/STUDIES:
+================
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ with a PMHx of hemochromatosis c/b 
+MI (___) w/o known cirrhosis, alcohol abuse (currently ___ 
+drinks/day), recurrent PNA (most recently ___ treated with 
+azithromycin, levofloxacin, and 2 five-day pulses of steroid), 
+bronchiectasis (on last CT ___ w/ persistent cough and SOB 
+who presented overnight with 2 episodes of 500 cc coffee ground 
+hematemesis. She was placed on octreotide, IV PPI and underwent 
+endoscopy that showed GEJ erosions and multiple gastric ulcers 
+that were not actively bleeding. She had no further episodes of 
+emesis post procedure. We recommended staying for hemodynamic 
+monitoring overnight with CBC check but she decided to leave 
+AMA.
+
+# Hematemesis: Pt presented with a suspected upper GIB with 2 
+episodes of coffee ground emesis, concerning for variceal bleed 
+given the patient's history of hemochromatosis. Patient was 
+tachycardic at ___, given 2u pRBCs, and subsequently 
+transferred to ___ on octreotide gtt and protonix, which were 
+continued upon admission to the MICU. Upon arrival to ___, 
+patient was mildly tachycardic to HR 110, which responded to IV 
+fluid boluses, otherwise patient was hemodynamically stable. RUQ 
+ultrasound was significant for only mild hepatic steatosis. She 
+underwent endoscopy that showed GEJ erosions and multiple 
+gastric ulcers that were not actively bleeding.
+
+# Hemochromatosis: Heterozygous HFE ___, recently diagnosed 
+___. She receives therapeutic phlebotomy q3months. LFTs 
+unremarkable despite Alb 3.3, INR 1.0. Right upper quadrant 
+ultrasound showed mild steatosis. CXR without evidence of 
+cardiomegaly.
+
+# Cough/SOB: Patient reported significant cough and dysnea for 
+the past 2 months. She is s/p two courses of steroids and 
+antibiotics (azithromycin and levofloxacin) in ___. Patient 
+had CT on ___ that was significant for a left ninth rib 
+fracture and bronchiectasis, which could both be contributing to 
+the patient's symptoms. Her respiratory status was monitored 
+during the admission. She was intermittently treated with duoneb 
+nebulizer treatments and was never hypoxic.
+ 
+# Thrombocytopenia: The patient's platelets were 110 on 
+admission, likely from a consumptive process from her GI 
+bleeding. There was no evidence of splenomegaly on abdominal 
+ultrasound.
+
+# Anxiety:  Patient was treated with her home dose of Xanax 0.5 
+mg daily.
+
+***TRANSITIONAL ISSUES:***
+- Will need repeat endoscopy in ___ weeks for resolution of her 
+gastric ulcers.
+- Should continue pantoprazole 40mg BID until resolution of 
+ulcers.
+- Should undergo H. Pylori testing (Left AMA before obtaining 
+stool sample)
+- Should establish care with hepatologist given hepatic 
+steatosis seen on liver US and known hemochromatosis.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ALPRAZolam 0.5 mg PO DAILY 
+2. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+
+ 
+Discharge Medications:
+1. ALPRAZolam 0.5 mg PO DAILY 
+2. Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice daily Disp 
+#*60 Tablet Refills:*0
+3. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Upper GI Bleed
+Gastric Ulcer
+Hemochromatosis
+Hepatic Steatosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were admitted to the hospital for vomiting blood. You were 
+found to have ulcers in your stomach that had stopped bleeding. 
+You were placed on medications to help with the healing of your 
+ulcers.
+
+We recommended that you stay in the hospital overnight to 
+monitor your blood counts but you decided to leave against 
+medical advice.
+
+Please follow up with your PCP for the following:
+1. Set up an appointment with a GI doctor for ___ repeat endoscopy 
+in ___ weeks.
+2. You will need a liver doctor to monitor your liver given that 
+it looks like you have a "fatty liver" on US.
+
+You should also stay on the pantoprazole until you are told by 
+your doctor to stop.
+
+It was a pleasure taking care of you.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

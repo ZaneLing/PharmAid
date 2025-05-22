@@ -1,0 +1,347 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Right arm and leg weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Time/Date the patient was last known well: ___
+
+Pre-stroke mRS ___ social history for description): 0
+
+t-PA Administration
+[] Yes - Time given:
+[x] No - Reason t-PA was not given/considered: delay in patient
+arrival. 
+
+Endovascular intervention: []Yes [x]No
+
+I was present during the CT scanning and reviewed the images
+within 20 minutes of their completion.
+
+___ Stroke Scale - Total [0]
+
+1a. Level of Consciousness -0
+1b. LOC Questions -0
+1c. LOC Commands -0
+2. Best Gaze -0
+3. Visual Fields -0
+4. Facial Palsy -0
+5a. Motor arm, left -0
+5b. Motor arm, right -0
+6a. Motor leg, left -0
+6b. Motor leg, right -0
+7. Limb Ataxia -0
+8. Sensory -0
+9. Language -0
+10. Dysarthria -0
+11. Extinction and Neglect -0
+
+HPI: 
+Ms. ___ is a ___ yo right-handed woman with history of HTN, 
+HLD, preDM who presents with right arm and leg weakness and 
+numbness. 
+
+Ms. ___ was last known well yesterday evening when she 
+went to bed at approx. 2200. She woke at 0530 this morning and 
+walked to the restroom. She doesn't remember whether or not her 
+right side was normal when getting out of bed and ambulating to 
+the restroom. Once in the restroom, she noted that her right arm 
+and leg felt 'heavy' and numb. She was able to ambulate, but it 
+was
+more difficult and she felt off balance. She had difficulty 
+lifting her right leg over the wall of the tub when getting into 
+the shower. She had difficulty brushing her teeth with the 
+toothbrush held in her right hand. She had difficulty putting on 
+makeup as well. She thought about stroke and looked at her face 
+in the mirror, noting that her smile looked symmetric. 
+
+She went to work and had difficulty working on the computer and 
+generally felt 'off' and lightheaded. Denies vertigo and 
+disequilibrium.  She then presented to ___ ED. Approx on 
+arrival to ___, her symptoms improved. She currently feels 
+back at baseline. 
+ 
+
+ 
+Past Medical History:
+HTN
+HLD: previously off statin, started simvastatin 20 mg on ___
+after LDL that day was 166. 
+pre-diabetes: HbA1c previously 6.0, increased to 6.3 on ___
+RLE radicular pain with plan for outpt MRI L-spine. follows with
+ortho for this. 
+OSA- mild OSA by sleep study in ___ per Atrius records. Pt says
+she was told it was possible osa, and that she was never told to
+wear CPAP. Husband reports significant snoring. 
+Hyperprolactinemia
+urinary incontinence s/p urethral sling
+Family history of cerebral aneurysm - vessel imaging in ___
+showed 1.5mm outpouching from L M2, repeat MRA in ___ was
+normal. 
+ 
+Social History:
+___
+Family History:
+Mother passed away from cerebral aneurysm
+Father with CAD, PVD, HTN, Alzheimer dementia
+Sister with DM and strokes (first stroke at age ___
+Brother with diabetes
+___ with colon cancer
+ 
+Physical Exam:
+PHYSICAL EXAMINATION
+Vitals:  T: 97.7 HR: 69 BP: 156/76-> 164/85-> 138/76 RR: 17 
+SaO2:
+100 % RA
+General: Awake, cooperative, NAD.
+HEENT: no scleral icterus, MMM, no oropharyngeal lesions. 
+Pulmonary:Breathing comfortably, no tachypnea nor increased WOB
+Cardiac: RRR. Skin warm, well-perfused. 
+Abdomen: soft, ND
+Extremities: Symmetric, no edema. 
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Able to relate 
+history without difficulty. Attentive, able to name ___ backward 
+without difficulty. Speech is fluent with normal grammar and 
+syntax. No paraphasic errors. Naming intact to low frequency 
+words. Repetition intact. Comprehension intact to complex, 
+cross-body commands. Normal prosody. No extinction to DSS. 
+
+-Cranial Nerves: Anisicoria with R pupil 2->1, L pupil 1.5->1. 
+VFF to confrontation. EOMI with ___ beats of end-gaze nystagmus 
+to the right only. Facial sensation intact to light touch. Face 
+symmetric at rest and with activation. Hearing intact to 
+conversation. Palate elevates symmetrically. ___ strength in 
+trapezii bilaterally. Tongue protrudes in midline and moves 
+briskly to each side. No dysarthria. 
+
+- Motor:  Normal bulk and tone. No drift nor orbiting. No tremor
+nor asterixis.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA Gastroc         
+L  5    ___   ___  5   5    5  5                  
+R  5    ___   ___  4   5    5  5                 
+Pt states R IP weakness is chronic and thought related to her 
+lumbar radiculopathy. 
+
+-DTRs:
+   Bi Tri ___ Pat Ach Pec jerk   Crossed Abductors
+ L  2  2    2    2   2                        
+ R  2  2    2    2   2                           
+Plantar response was flexor bilaterally.
+
+-Sensory: Proprioception intact BLE. Intact to LT, temp
+throughout.
+
+- Coordination: No dysmetria with finger to nose testing 
+bilaterally. Good speed and intact cadence with gross and fine 
+rapid alternating movements.
+
+- Gait: deferred
+
+ 
+Pertinent Results:
+CT HEAD WITHOUT CONTRAST: 
+There is no evidence of infarction, hemorrhage, edema, or mass.  
+The 
+ventricles and sulci are normal in size and configuration.  
+There are 
+mild-to-moderate chronic small vessel ischemic changes.
+The visualized portion of the paranasal sinuses demonstrate a 
+retention cyst in the left maxillary sinus.  Trace mucosal 
+thickening right maxillary sinus floor.  Torus mandibularis, 
+developmental variant, benign bilaterally.  A the mastoid air 
+cells and middle ear cavities are unremarkable.  The visualized 
+portion of the orbits are unremarkable. 
+CTA HEAD: 
+The vessels of the circle of ___ and their principal 
+intracranial branches appear normal without stenosis, occlusion, 
+or aneurysm formation.  The dural venous sinuses are patent. 
+CTA NECK: 
+The carotid and vertebral arteries and their major branches 
+appear normal with no evidence of stenosis or occlusion. There 
+is no evidence of internal carotid stenosis by NASCET criteria. 
+OTHER: 
+The visualized portion of the lungs are clear.  The visualized 
+portion of the thyroid gland is within normal limits. There is 
+no lymphadenopathy by CT size criteria. 
+IMPRESSION: 
+1. No acute changes. 
+2. Mild-to-moderate chronic small vessel ischemic changes. 
+3. Normal CTA head, neck. 
+
+MRI HEAD W/O CONTRAST:
+There is a small acute infarct in the left pons, not definitely 
+seen on 
+comparison scan.  No hemorrhage.  There are mild-to-moderate 
+chronic small 
+vessel ischemic changes, with areas of confluence.  There 
+prominent 
+perivascular spaces.  Intracranial vascular flow voids are 
+preserved..  
+Submucosal retention cyst left maxillary sinus.  Mastoids are 
+clear.  There is no evidence of hemorrhage, edema, masses, mass 
+effect, midline shift.  The ventricles and sulci are normal in 
+caliber and configuration. 
+IMPRESSION: 
+1. Acute infarct left pons. 
+
+ECHO:
+The left atrium is normal in size. No atrial septal defect or 
+patent foramen ovale is seen by 2D, color Doppler or saline 
+contrast with maneuvers. Left ventricular wall thickness, cavity 
+size, and global systolic function are normal (LVEF>55%). Due to 
+suboptimal technical quality, a focal wall motion abnormality 
+cannot be fully excluded. Tissue Doppler imaging suggests a 
+normal left ventricular filling pressure (PCWP<12mmHg). Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets are mildly thickened (?#). 
+There is no aortic valve stenosis. No aortic regurgitation is 
+seen. The mitral valve leaflets are mildly thickened. Trivial 
+mitral regurgitation is seen. The estimated pulmonary artery 
+systolic pressure is normal. There is a trivial/physiologic 
+pericardial effusion. There is an anterior space which most 
+likely represents a prominent fat pad. 
+ IMPRESSION: Suboptimal image quality. No intracardiac source of 
+thromboembolism identified. Dynamic interatrial septum without 
+evidence of atrial septal defect.  
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with hypertension, 
+hyperlipidemia, pre-diabetes, obesity, and sleep apnea who is 
+admitted to the Neurology stroke service after right arm and leg 
+weakness lasting approximately 4 hours secondary to an acute 
+ischemic stroke in the left pons. Her stroke was either due to a 
+temporary occlusion of one of the perforator vessels coming off 
+the basilar artery or due to intrinsic disease in one of the 
+small vessels coming off one of the perforator vessels given her 
+risk factors (HTN, HL, pre-DM, obesity, lack of exercise, sleep 
+apnea) and the stroke's location. She was not on Aspirin 
+previously. Her deficits improved by the time she arrived in the 
+ED; the only notable weakness upon discharge from the hospital 
+was subtle pronator drift, as well as her chronic right hip 
+weakness. TTE was normal without a PFO. She will be discharged 
+home and follow up within the ___ system.
+
+ Her stroke risk factors include the following: 
+ 1) Pre-diabetes: A1c 6.3%
+ 2) Hypertension: on Chlorthalidone 
+ 3) Hyperlipidemia: recently started on Simvastatin, switched to 
+high intensity statin (Atorvastatin 80mg)
+ 4) Obesity 
+ 5) Sleep apnea - she has been previously diagnosed with this, 
+but does not use CPAP
+
+TRANSITIONAL ISSUES:
+-Recommend outpatient sleep study for evaluation of obstructive 
+sleep apnea
+-Outpatient physical/occupational therapy
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Chlorthalidone 25 mg PO DAILY 
+2. Simvastatin 20 mg PO QPM 
+3. Omeprazole 20 mg PO DAILY 
+4. Gabapentin 300 mg PO TID 
+5. Albuterol Inhaler 2 PUFF IH Q4H:PRN wheeze 
+6. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*3 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*3 
+3.  Albuterol Inhaler 2 PUFF IH Q4H:PRN wheeze  
+4.  Chlorthalidone 25 mg PO DAILY  
+5.  Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+6.  Gabapentin 300 mg PO TID  
+7.  Omeprazole 20 mg PO DAILY  
+8.Outpatient Occupational Therapy
+Evaluate and treat
+Diagnosis: stroke
+9.Outpatient Physical Therapy
+Evaluate and treat
+Diagnosis: stroke
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute ischemic stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+ You were hospitalized due to symptoms of right arm and leg 
+weakness resulting from an ACUTE ISCHEMIC STROKE, a condition 
+where a blood vessel providing oxygen and nutrients to the brain 
+is blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms. 
+ 
+ Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:  
+ High blood pressure
+ High cholesterol
+ Pre-diabetes
+ Obesity
+ Sleep apnea
+
+ We are changing your medications as follows:  
+ Stop Simvastatin
+ Start Aspirin 81mg daily
+ Start Atorvastatin 80mg daily
+
+ Please take your other medications as prescribed.  
+
+ Please follow up with Neurology and your primary care physician 
+as listed below.  
+
+ If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+ Sincerely,  
+ Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

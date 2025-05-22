@@ -1,0 +1,271 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain, Dyspnea 
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+ Mrs ___ is a pleasant ___ yo F with hx breast ca s/p 
+lumpectomy, chemotherapy and radiotherapy, PUD, recent hip fx 
+chronic low back pain, lumbar compression fractures s/p 
+kyphoplasty, and newly diagnosed metastatic lung cancer who 
+presents with CP and SOB.  Pt had a hip fracture in ___ 
+imaging during that hospitalization at ___ showed liver lesions, 
+pt had biopsy on ___ which showed metastatic poorly 
+differentiated carcinoma with tumor markers diagnostic for a SCC 
+of the lung.  She had plans to follow up with Dr ___ 
+week in regards to her lung cancer, but presented to the ED 
+today with two days of pleuritic chest and upper back pain after 
+walking excessively with her walker earlier this week. Patient 
+was feeling wel on ___, family visited from out of state, 
+excess activity and then patient developed pain which is now 
+worsening. Pain is worse with inspiring, pt states it is 
+constant ___ pain however increases intermittently to ___.  
+She states she only feels SOB because she has difficulty taking 
+deep inspirations ___ pain.  She has been taking Tylenol ___ 
+TID without improvement. No fever, shortness of breath, cough, 
+dyspnea. Denies n/v/d/hematuria/blood in stool.  Last BM was on 
+___.
+
+In the ED, initial vitals were: 98.5 87 116/68 18 100% RA.  Labs 
+were notable only for BNP of 1326.  CXR showed mild pulmonary 
+vascular congestion, likely post-radiation changes in the left 
+lateral mid lung field.  CT showed no PE, multiple metastatic 
+lesions throughout the liver, increased in size from ___, 
+interstitial lung disease. 
+
+On arrival to the floor, pt has no complaints.  She states she 
+attributed this to her increased activity and use of walker on 
+___, however when her ___ saw her later in the week they were 
+concerned and recommend that she present tot he ED.  She current 
+h as no pain at rest but pain increases with inspiration.  she 
+ahs never had this pain before.  
+
+Review of systems:
+(+) Per HPI
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough. Denies nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denies arthralgias or myalgias. 10 
+pt ros otherwise negative.
+
+ 
+Past Medical History:
+breast ca s/p lumpectomy chemotherapy and radiotherapy
+PUD
+chronic low back pain
+lumbar compression fractures s/p kyphoplasty
+metastatic lung cancer 
+
+surgical hx:
+L hip surgery
+R shoulder surger
+L2, L4, L5 kyphoplasty
+ 
+Social History:
+___
+Family History:
+no known
+ 
+Physical Exam:
+ADMISSION EXAM:
+===================
+Vitals: 97.7 PO 106 / 68 81 16 100 4LNC 
+Constitutional: Alert, oriented, no acute distress
+EYES: Sclera anicteric,  EOMI, PERRL
+ENMT: MMM, oropharynx clear, normal hearing, normal nares
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Respiratory: Diffuse crackles, no wheezing/rhonchi
+GI: Soft, mildly tender in lower quadrants, non-distended, bowel 
+sounds present, no organomegaly, no rebound or guarding
+GU: No foley
+EXT: Warm, well perfused, no CCE
+NEURO: aaox3 CNII-XII and strength grossly intact 
+SKIN: no rashes or lesions
+MSK: pain to palpation of chest where ribs meet sternum
+
+DISCHARGE EXAM:
+===================
+Vitals: Reviewed in eFlowsheet and stable. Afebrile. Desaturated 
+to high ___ with ambulation, which quickly normalized 
+with rest.
+General: Well appearing female in no acute distress
+Eyes: Sclera anicteric, no conjunctival injection
+CV: RRR, normal S1/S2, no m/r/g
+Chest: Severely tender to palpation over the stenum
+Back: Tenderness to palpation over the upper paraspinal muscles 
+but no spinous process tenderness
+Resp: Lungs CTA bilaterally, non-labored breathing, symmetric 
+chest expansion
+Abd: Soft, non-tender in all quadrants, non-distended, no 
+rebound or guarding
+EXT: WWP, no ___ edema
+PSYCH: Pleasant. Normal mood and affect.
+ 
+Pertinent Results:
+ADMISSION LABS:
+====================
+___ 06:53PM   K+-4.7
+___ 06:40PM   GLUCOSE-107* UREA N-9 CREAT-0.5 SODIUM-138 
+POTASSIUM-5.1 CHLORIDE-97 TOTAL CO2-30 ANION GAP-11
+___ 05:55PM   K+-7.5*
+___ 04:14PM   GLUCOSE-104* UREA N-9 CREAT-0.5 SODIUM-135 
+POTASSIUM-7.4* CHLORIDE-95* TOTAL CO2-24 ANION GAP-16
+___ 04:14PM   estGFR-Using this
+___ 04:14PM   cTropnT-<0.01 proBNP-1326*
+___ 04:14PM   CALCIUM-9.8 PHOSPHATE-4.3 MAGNESIUM-1.5*
+___ 04:14PM   WBC-7.5 RBC-3.49* HGB-11.0* HCT-34.7 MCV-99* 
+MCH-31.5 MCHC-31.7* RDW-12.8 RDWSD-45.6
+___ 04:14PM   NEUTS-61.8 ___ MONOS-7.5 EOS-1.1 
+BASOS-0.9 IM ___ AbsNeut-4.63 AbsLymp-2.12 AbsMono-0.56 
+AbsEos-0.08 AbsBaso-0.07
+
+DISCHARGE LABS:
+====================
+___ 07:25AM BLOOD WBC-6.1 RBC-3.19* Hgb-9.9* Hct-32.4* 
+MCV-102* MCH-31.0 MCHC-30.6* RDW-12.4 RDWSD-46.3 Plt ___
+___ 07:25AM BLOOD Glucose-96 UreaN-10 Creat-0.4 Na-141 
+K-4.6 Cl-99 HCO3-30 AnGap-12
+___ 06:40PM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 07:25AM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 07:25AM BLOOD Calcium-9.9 Phos-4.3 Mg-2.0
+
+STUDIES:
+====================
+CTA CHEST ___
+1. No evidence of pulmonary embolism or aortic abnormality.
+2. Re-demonstration of multiple hypoattenuating metastatic 
+lesions throughout the liver, some of which are bigger from ___.
+3. Diffuse lung interstitial thickening associated with 
+peripheral fibrosis is suggestive of interstitial lung disease.
+4. Rib deformities on the left are likely healed fractures.
+5. Sclerosis of the posterior aspect of the T7 vertebral body, 
+uncertain if this is degenerative or due to metastatic disease. 
+Consider bone scan.
+
+CXR ___
+1. Mild pulmonary vascular congestion. 
+2. Probable post radiation changes in the left lateral mid lung 
+field. 
+3. Bibasilar atelectasis. 
+
+ECG ___: Normal sinus rhythm without evidence of ischemia.
+ 
+Brief Hospital Course:
+Mrs ___ is a pleasant ___ yo F with remote hx breast 
+cancer, new dx of metastatic liver lesions, lung primary, who 
+presents with CP.
+
+# CP: Pain started after increased activity on ___. EKG and 
+CT chest are reassuring. Although her BNP is mildly elevated, 
+imaging showed only mild vascular congestion and exam not 
+consistent with CHF, will not give additional diuresis. Exam is 
+consistent with costochondritis. Pt states pain is currently 
+reasonably well controlled. Her oxygenation was in the low ___ 
+to high ___ with exertion, likely a combination of splinting and 
+her underlying lung disease. She was able to ambulate and 
+maintain O2 saturation > 88%. Her splinting should improve as 
+her pain resolves.
+-Ibuprofen 600 mg Q8H PRN and acetaminophen for pain control.
+-I counseled the patient and her husband on safe use of 
+ibuprofen, including taking with food, not more than prescribed, 
+and warning signs to seek care.
+
+Otherwise no changes were made to her home medications.
+
+TRANSITIONAL ISSUES:
+[ ] F/U with PCP to ensure resolution of symptoms
+[ ] Ambulatory O2 saturation at PCP follow up
+
+**Patient was seen and examined today and is stable for 
+discharge. Greater than 30 minutes were spent in discharge 
+planning and coordination.**
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+2. DULoxetine 60 mg PO DAILY 
+3. melatonin 5 mg oral DAILY 
+4. Cyanocobalamin 1000 mcg PO DAILY 
+5. Magnesium Citrate 400 mL PO ONCE 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+Take with food.  
+2.  Acetaminophen 1000 mg PO Q8H  
+3.  Cyanocobalamin 1000 mcg PO DAILY  
+4.  DULoxetine 60 mg PO DAILY  
+5.  Magnesium Citrate 400 mL PO ONCE  
+6.  melatonin 5 mg oral DAILY  
+7.  Omeprazole 20 mg PO DAILY  
+8.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+costochondritis
+chest pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted for chest and back pain. We think your pain is 
+from a musculoskeletal injury as a result of exerting yourself. 
+We did blood work, an EKG, and a CT scan of the chest to make 
+sure there was no serious damage or problem with your heart or 
+your lungs to cause the pain. We also did not see any acute bone 
+fractures.
+
+You can take ibuprofen 600 mg up to every 8 hours with food for 
+your pain. You should not take this for more than 1 week without 
+talking with your primary care doctor. If you notice abdominal 
+pain, or evidence of blood in your stool (either red or black), 
+you should stop taking ibuprofen and call your doctor. You can 
+also take acetaminophen for pain, no more than prescribed on the 
+bottle (a maximum of 3 gram per 24 hours). It is important that 
+you continue to take nice deep breaths and rest if you get out 
+of breath. If your breathing worsens, you should call your 
+doctor or return to the hospital.
+
+No other changes were made to your home medications.
+
+It was a pleasure taking care of you.
+
+Sincerely,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

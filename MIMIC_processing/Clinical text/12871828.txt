@@ -1,0 +1,266 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+hyponatremia 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ who has presented to her primary care physician
+earlier today for follow-up of a recent GI illness primarily
+including 2 days of vomiting who was found to have hyponatremia
+on a lab check to 127.
+
+Her illness started over a week ago when she described onset of
+low back pain after moving a box and she was prescribed
+cyclobenzaprine and ibuprofen which he took which relieved her
+low back pain.  She then experienced nausea and was assessed at
+urgent care with the CT scan performed showing no acute 
+abdominal
+pathology.  Then 6 days prior to today she developed nausea and
+vomiting that lasted 3 days.  She describes recovery of her
+appetite but that she is only been eating about a quarter of the
+usual amount of food for her.
+
+She then presented to the primary care office today and was 
+found
+to have hyponatremia and was referred to the emergency 
+department
+at ___ where her sodium was 128 and on recheck it was 
+129
+and the urine sodium was less than 20 she received 1 L of 
+saline.
+And nephrology was contacted who agreed with initial management
+with IV fluids and not continuing further administration of IV
+fluids and to avoid overcorrection by more than 6 mEq in 24
+hours.
+
+Any other notable finding that the patient mentions his 
+increased
+blurriness with close reading vision noticeable when she is 
+using
+the computer monitor or iPhone screen.
+
+she is not experiencing any pain currently she had a normal 
+bowel
+movement yesterday and her GI illness was not coinciding with 
+any
+abdominal pain or diarrhea or sick contacts or fever.
+
+ROS:
+Negative for 10 point review of systems unless mentioned in HPI
+
+ 
+Past Medical History:
+#Stage I right breast cancer managed with lumpectomy and 
+radiation therapy ___ years ago
+#Cardiomyopathy EF not currently known described that she 
+follows
+with a cardiologist annually and has had stable echo findings at
+that time
+
+ 
+Social History:
+___
+Family History:
+Hypertension
+
+ 
+Physical Exam:
+Admission Physical exam
+98.1 pulse 88 blood pressure 121/85 sat 98%
+This is a well-appearing adult female who came easily ambulate
+from the stretcher to her hospital bed
+She is not confused her speech is fluent
+Her mucous membranes are moist
+ breath sounds are clear
+Regular S1 and S2 appreciated
+Abdomen soft nontender nondistended
+No peripheral edema
+Not confused
+
+Discharge Exam:
+Physical exam
+___ ___ Temp: 98.4 PO BP: 151/96 L Sitting HR: 100 RR: 18
+O2 sat: 97% O2 delivery: RA 
+General:  in NAD
+HEENT:  OP moist, no LAD, thyroid not palpable to me.
+Resp CTA B, no rales, wheezes
+CV RRR without murmurs
+GI soft, NT, ND, NABS
+MS:  no edema
+Back without significant tenderness
+Neuro:  alert/oriented X3, moving all extremities.  able to
+approximate and read with glasses.  Otherwise normal neurologic
+exam
+
+ 
+Pertinent Results:
+Admission Labs
+___ 02:18PM   PLT COUNT-216
+___ 02:18PM   NEUTS-68.6 LYMPHS-18.2* MONOS-11.8 EOS-0.5* 
+BASOS-0.3 IM ___ AbsNeut-6.05 AbsLymp-1.60 AbsMono-1.04* 
+AbsEos-0.04 AbsBaso-0.03
+___ 02:18PM   WBC-8.8 RBC-4.73 HGB-14.9 HCT-41.2 MCV-87 
+MCH-31.5 MCHC-36.2 RDW-11.5 RDWSD-36.8
+___ 02:18PM   OSMOLAL-259*
+___ 02:18PM   estGFR-Using this
+___ 02:18PM   GLUCOSE-97 UREA N-11 CREAT-0.8 SODIUM-128* 
+POTASSIUM-3.8 CHLORIDE-90* TOTAL CO2-23 ANION GAP-15
+___ 02:25PM   NA+-127*
+___ 02:25PM   ___ COMMENTS-GREEN TOP
+___ 03:30PM URINE  RBC-3* WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-<1
+___ 03:30PM URINE  BLOOD-SM* NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 03:30PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 03:30PM URINE  UCG-NEGATIVE OSMOLAL-248
+___ 03:30PM URINE  HOURS-RANDOM SODIUM-<20 POTASSIUM-10 
+CHLORIDE-<20
+___ 07:00PM   OSMOLAL-263*
+___ 07:00PM   GLUCOSE-94 UREA N-9 CREAT-0.6 SODIUM-128* 
+POTASSIUM-3.7 CHLORIDE-93* TOTAL CO2-22 ANION GAP-13
+___ 07:05PM   NA+-129*
+___ 09:01PM   NA+-129*
+___ 11:09PM   NA+-131*
+___ 11:09PM   ___ COMMENTS-GREEN TOP
+___ 11:25PM URINE  OSMOLAL-103
+___ 11:25PM URINE  HOURS-RANDOM SODIUM-<20 POTASSIUM-3 
+CHLORIDE-<20
+
+Discharge Labs
+ 
+Brief Hospital Course:
+___ woman with a past medical history of hypertension, 
+recent back pain treated with cyclobenzaprine and ibuprofen, and 
+an acute self resolving GI illness leading to significant nausea 
+and vomiting, who presented with hyponatremia.
+
+Acute issues:
+
+#Mixed-etiology hyponatremia
+-the patient appeared to have components of both hypovolemic and 
+euvolemic hyponatremia, with hypothyroidism and likely SIADH 
+from pain and stress of hospitalization and illness.
+-cortisol was normal
+-TSH was elevated, see below
+-ultimately her sodium improved with both increased solute 
+intake and modest fluid restriction. 
+- advised to maintain 1500 cc - 2L fluid restriction and repeat 
+labs within the week.
+
+#Hypothyroidism
+-TSH 23, T4 and T3 normal.  Likely consistent with subclinical 
+hypothyroidism.
+-Consulted Endocrinology who recommended treatment with 
+levothyroxine 50 mcg and post discharge repeat tsh.
+-anti TPO pending.
+
+#Blurry vision
+-initially suspected to be due to the fluid shifts associated 
+with hyponatremia
+-ultimately improved, but not fully resolved by the time of 
+discharge.  Formal eye exam recommended, and if not resolved, 
+MRI to evaluate for intracerebral cause of both hypothyroidism 
+and visual changes.
+
+#Recent GI illness w/N/V
+-Symptoms resolved with conservative treatment.
+-counseled to use gatorade or similar with any future episodes
+
+Chronic issues:
+
+#Recent low back pain
+-was receiving cyclobenzaprine and ibuprofen, but used 
+acetaminophen in the hospital to avoid complicating the 
+diagnosis and management of hyponatremia
+
+#Stage I right breast cancer managed with lumpectomy, XRT ___ 
+years ago
+-Continued home tamoxifen
+
+#Cardiomyopathy
+-EF not currently known described that she follows with a 
+cardiologist annually and has had stable echo findings at that 
+time
+-Plan nonurgent outpatient follow-up
+
+#Hypertension
+-Continued enalapril
+
+#Anxiety
+-Continued lorazepam 0.5 mg twice daily as needed
+
+Transitional issues:
+blurry vision:  optometry for eye exam this week if not 
+resolved.
+hyponatremia: repeat labs within week of dc.  1.5-2L fluid 
+restriction for now.
+Hypothyrodism: repeat TSH in 1 week. Endocrinology follow up.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Tamoxifen Citrate 20 mg PO DAILY 
+2. Enalapril Maleate 5 mg PO DAILY 
+3. LORazepam 0.5 mg PO BID:PRN anxiety 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild  
+2.  Levothyroxine Sodium 50 mcg PO DAILY 
+RX *levothyroxine 50 mcg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Enalapril Maleate 5 mg PO DAILY  
+4.  LORazepam 0.5 mg PO BID:PRN anxiety  
+5.  Tamoxifen Citrate 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Mixed-etiology hyponatremia
+#Hypothyroidism
+ 
+Discharge Condition:
+Tolerating diet, sodium 135.
+ 
+Discharge Instructions:
+Why were you admitted? 
+Your sodium was low and you were feeling nauseated and with pain 
+as well as with the blurry vision.
+
+What did we find?
+We found that your sodium was probably from several factors.
+You may have a low thyroid which can cause low sodium.
+It is also possible that the pain and nausea made your sodium 
+low.
+
+What should you do at home?  
+Start the thyroid replacement medication.  Make sure you do not 
+take it with any other medications or food.
+See your primary care doctor in the next few days for repeat 
+sodium.  Also to have your vision rechecked.
+If your vision is not better, you should see an optometrist and 
+possibly an MRI of your brain.
+You will need to see an endocrinologist about your thyroid.  He 
+will also need to have your TSH rechecked in 1 week.
+Maintain a 1.5-2 L fluid intake.
+ 
+Followup Instructions:
+___

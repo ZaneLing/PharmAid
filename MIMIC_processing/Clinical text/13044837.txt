@@ -1,0 +1,310 @@
+Name:  ___            Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___               Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+vancomycin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+right arm pain 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ woman with a history of recent cellulitis who
+presents with right arm redness and pain on oral antibiotics
+concerning for outpatient failure of cellulitis treatment.  She
+was seen in our ED on ___ for cellulitis with lymphangitic
+spread.  She was treated with IV clindamycin overnight and
+discharged on p.o. clindamycin.  She had a recurrence of her
+symptoms after discharge and presented to ___ 
+___
+where she was admitted and treated with IV antibiotics.  She was
+discharged on doxycycline and cephalexin which she is still
+taking.  She followed up with her primary care doctor today who
+noted persistent cellulitis.  He was also concerned regarding
+palpable nodules from the area of the cellulitis.  She 
+reportedly
+has had an abnormal ultrasound with an enlarged supraclavicular
+lymph node.  She also notes a 20 pound unintentional weight loss
+over the last month.
+
+- In the ED, initial vitals were:
+T 98.4F HR 60 BP 81/65 RR 16 O2 99% RA 
+ 
+- Exam was notable for:
+"Area of erythema and tenderness on the volar aspect of the 
+right
+forearm with several firm palpable nodules, no lymphangitic
+spread noted at this time, no axillary lymphadenopathy 
+palpable."
+
+- Labs were notable for:
+CBC unremarkable. 
+BMP unremarkable. 
+Lactate 0.9. 
+UA overall unremarkable. 
+
+- Studies were notable for:
+RUE US
+No DVT in the right upper extremity. Mild edema in the soft
+tissues of the anterior cubital fossa.
+
+- The patient was given:
+1 L LR 
+
+On arrival to the floor, the patient and her mother endorsed the
+above story.  They note that she has had red painful areas
+streaking on her right arm initially in her axilla for about a
+month.  These have come and gone on various antibiotic regimens
+with no clear correlation.  She has never felt systemically ill
+or had any fevers or chills.  She had a right axillary node that
+was reportedly large at the outside hospital but this was
+transient and resolved on its own.  She currently feels well and
+notes that the rash is fading fairly rapidly.
+
+ 
+Past Medical History:
+ADHD
+ 
+Social History:
+___
+Family History:
+Cardiovascular disease in mother's family.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+===========================
+VITALS: T 98.0F PO BP 107/67 HR 57 RR 20 O2 99 Ra 
+___: Alert and interactive. In no acute distress.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. No cervical,
+axillary lymphadenopathy. 
+SKIN: Warm.  Faint erythematous rash on volar surface of right
+forearm with one area of nodularity.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. 
+
+DISCHARGE PHYSICAL EXAM
+============================
+24 HR Data (last updated ___ @ 555)
+    Temp: 98.0 (Tm 98.0), BP: 107/67, HR: 57, RR: 20, O2 sat:
+99%, O2 delivery: Ra, Wt: 140 lb/63.5 kg  
+___: Alert and interactive. In no acute distress.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. No cervical,
+axillary, or forearm lymphadenopathy.
+SKIN: Warm.  2 very small spots of faint erythematous rash 
+within
+the borders of previously marked areas.
+NEUROLOGIC: AOx3. Moving all 4 limbs spontaneously. 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+=========================
+___ 12:55AM BLOOD WBC-6.1 RBC-4.18 Hgb-12.8 Hct-38.5 MCV-92 
+MCH-30.6 MCHC-33.2 RDW-12.4 RDWSD-41.6 Plt ___
+___ 12:55AM BLOOD Neuts-40.7 ___ Monos-10.2 Eos-5.0 
+Baso-1.0 Im ___ AbsNeut-2.47 AbsLymp-2.60 AbsMono-0.62 
+AbsEos-0.30 AbsBaso-0.06
+___ 12:55AM BLOOD Glucose-101* UreaN-14 Creat-0.8 Na-141 
+K-4.6 Cl-103 HCO3-25 AnGap-13
+___ 12:55AM BLOOD ALT-8 AST-16 LD(LDH)-179 AlkPhos-56 
+TotBili-0.2
+___ 12:55AM BLOOD Calcium-9.5 Phos-4.6* Mg-2.1 UricAcd-4.7
+___ 12:55AM BLOOD TSH-4.4*
+___ 12:55AM BLOOD ___ Titer-1:80* CRP-3.0
+___ 01:00AM BLOOD Lactate-0.9
+
+MICROBIOLOGY
+===========================
+
+___ 3:19 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ENTEROCOCCUS SP..    10,000-100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |   
+AMPICILLIN------------   <=2 S
+NITROFURANTOIN--------  <=16 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------ <=0.5 S
+
+___ 1:20 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+IMAGING
+==================================
+Right upper extremity US ___ IMPRESSION:  
+No evidence of deep vein thrombosis in the right upper 
+extremity. 
+
+CXR ___ IMPRESSION:  
+No acute cardiopulmonary abnormality. 
+
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT:
+====================
+___ previously healthy woman with recurrent intermittent 
+right arm rash and unintentional weight loss. She was taking 
+cephalexin and doxycycline prior to admission. Here, the rash 
+resolved without antibiotics so no antibiotics were initiated. 
+Dermatology was consulted. Nontargeted work-up including CRP, 
+___, urine GC CT, and chest x-ray were negative. She was 
+discharged home with outpatient dermatology follow-up and 
+instructions to return to the hospital if any red flag signs 
+arose.
+
+TRANSITIONAL ISSUES:
+====================
+[] Patient will be connected with infectious disease clinic. She 
+is being discharged with 2 week supply of antibiotics, though 
+decision to continue beyond ___ clinic appointment will be 
+determined by ID team.
+
+ACTIVE ISSUES:
+==============
+# Right arm rash
+# Concern for cellulitis
+If cellulitis, treatment failure would be due to highly 
+resistant organism (unlikely given intermittent time course of 
+symptoms) or lymphatic obstruction, possibly due to underlying 
+malignancy (suggested by weight loss but no other symptoms). 
+Versus atypical organisms, but only suspicious exposure is to 
+aquarium water/starfish and rash had started beforehand. Sent 
+basic labs to rule out possible etiologies of symptoms including 
+LDH (normal, in case of malignancy), CRP 
+(autoimmune/inflammatory), ___ (pending at discharge), urine 
+GC/CT (pending at discharge). Dermatology was consulted and 
+determined rash to be consistent with lymphangitis, as the rash 
+can persist for weeks despite appropriate treatment. They 
+recommended a course of antibiotics. Plan is to discharge 
+patient on 2 weeks of cephalexin + doxycycline with follow-up 
+with ID near end of treatment course.
+
+# Unintentional weight loss
+In the setting of possible lymphadenopathy would be concerning 
+for malignancy or indolent infection. She had no other B 
+symptoms such as fevers or night sweats. Had no lymphadenopathy 
+on exam. Has not had cross sectional imaging but it was 
+determined not indicated. Chest x-ray without mediastinal 
+lymphadenopathy or mass. RUE DVT ultrasound negative but soft 
+tissue study not performed. Normal TSH, LDH.
+
+# Yeast infection
+Patient complained of yeast infection, was given 1 time dose of 
+fluconazole 150 mg.
+
+CHRONIC ISSUES:
+===============
+Continued home citalopram.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Apri (desogestrel-ethinyl estradiol) 0.15-0.03 mg oral DAILY 
+2. Doxycycline Hyclate 100 mg PO Q12H 
+3. Cephalexin 500 mg PO Q6H 
+4. Escitalopram Oxalate 10 mg PO DAILY 
+5. Concerta (methylphenidate HCl) 54 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Apri (desogestrel-ethinyl estradiol) 0.15-0.03 mg oral DAILY 
+ 
+2.  Cephalexin 500 mg PO Q6H 
+RX *cephalexin 500 mg 1 tablet(s) by mouth every six (6) hours 
+Disp #*56 Tablet Refills:*0 
+3.  Concerta (methylphenidate HCl) 54 mg oral DAILY  
+4.  Doxycycline Hyclate 100 mg PO Q12H 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*28 Tablet Refills:*0 
+5.  Escitalopram Oxalate 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES:
+Rash
+
+SECONDARY DIAGNOSES:
+Anxiety
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___ 
+___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital because of a painful rash on 
+your right arm.
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- In the hospital, you were evaluated by the ___ medicine 
+and dermatology teams, who determined that your rash could be 
+further managed as an outpatient. You had an ultrasound of your 
+arm which did not identify any blood clots. You had a normal 
+x-ray of your chest. It is likely that your rash is caused by a 
+infection of the lymphatic system, called lymphangitis. You were 
+treated for this in the past, but sometimes this take several 
+weeks to disappear, so you will continue antibiotic treatment 
+for now until you follow-up with the infectious disease clinic.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- Please take all of your medications exactly as prescribed and 
+attend all of your follow-up appointments listed below.
+
+- You are being discharged on a course of antibiotics (14 days 
+worth), which you should continued until you follow up in the 
+infectious disease clinic.
+
+- You should see a doctor to discuss your recent weight loss.
+
+- Please return to the hospital if you have any of the following 
+symptoms: fevers, chills, widespread worsening of your rash 
+without resolution, significant arm swelling, rash in any other 
+places besides your arm, shortness of breath
+
+We wish you the best!
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

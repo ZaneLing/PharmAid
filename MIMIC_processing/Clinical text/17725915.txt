@@ -1,0 +1,368 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+codeine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath, abdominal distention
+ 
+Major Surgical or Invasive Procedure:
+Right heart catheterization ___
+Coronary angiogram ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a past medical history
+of recently diagnosed HFrEF (36%) of uncertain etiology who
+presents with weight gain, abdominal distention, shortness of
+breath.
+
+The patient's history was obtained from her and from Dr. ___. The patient initially presented on ___ with six
+months of progressive DOE and two weeks of PND, ___ swelling, and
+abd bloating. She underwent workup with CTA chest, small
+bilateral pleural effusions, and symmetric prominent hilar and
+mediastinal LN thought to be reactive. NT-proBNP 3556 with
+negative trops. She was admitted to ___ in late ___ fro new
+EF. She was diursed with 20mg IV Lasix, started on lisinopril 
+and
+furosemide. She left against medical advice for child-care
+related issues on hospital day 2. She later established care 
+with
+HCA. She had low TSH and low free T4 and biotin was held. TTE on
+___ showed global LV hypokinesis with EF 36% with 1+ AI and 2+
+MR. ___ established care with Dr. ___ in ___. Her lisinopril 
+has
+been up-titrated and carvedilol and spironolactone. She was seen
+___ and was having bloating. Her lisinopril was increased to
+30, coreg to 12.5 BID and furosemide to 30 daily. She has not
+been able to complete evaluate for coronary artery disease yet 
+as
+an outpatient.
+
+On interview, the patient reports significant weight gain over
+the past three weeks. She reports her normal weight is 125-128
+and her weight was 150 at home. On our scale weight ___ was
+132 and ___ was 145.5 pounds. She is feeling tired since
+increasing the coreg. She endorses that she is able to walk one
+mile but has orthopnea, PND. Her biggest complaint is abdominal
+distention. 
+
+She was seen by Dr. ___ in clinic on ___ and referred in to 
+the
+inpatient service. 
+ 
+ 
+Past Medical History:
+PAST MEDICAL AND SURGICAL HISTORY:  
+Heart failure with reduced ejection fraction (36%)
+GERD 
+ADHD
+HYPOTHYROIDISM  
+-Appendectomy late ___ 
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  
+-grandfather with a heart problems, no other cardiac ___
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+============================
+VS:  24 HR Data (last updated ___ @ 1732)
+    Temp: 98.7 (Tm 99.0), BP: 132/84 (124-132/84-85), HR: 91
+(91-113), RR: 16 (___), O2 sat: 94% (94-97), O2 delivery: Ra,
+Wt: 145.5 lb/66 kg  
+
+GENERAL: Well developed, well nourished noin NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: Supple. JVP of 10 cm.  
+CARDIAC: Tachycardic rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. No thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, moderately distended. No 
+hepatomegaly.
+No splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis with
+trace
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL EXAMINATION:  
+============================
+VS: 
+24 HR Data (last updated ___ @ 845)
+    Temp: 97.6 (Tm 98.7), BP: 111/71 (94-115/56-77), HR: 58
+(55-68), RR: 18 (___), O2 sat: 91% (91-100), O2 delivery: Ra,
+Wt: 145.72 lb/66.1 kg  
+
+Fluid Balance (last updated ___ @ 321) 
+  Last 8 hours  Total cumulative -600ml
+    IN: Total 0ml
+    OUT:  Total 600ml, Urine Amt 600ml
+  Last 24 hours  Total cumulative -1120ml
+    IN: Total 1030ml, PO Amt 1030ml
+    OUT:  Total 2150ml, Urine Amt 2150ml  
+
+GENERAL: Well developed, well nourished noin NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic atraumatic. Sclera anicteric. PERRL. EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa.
+No xanthelasma.  
+NECK: Supple. JVP of 9-10 cm.  
+CARDIAC: Tachycardic rate and rhythm. Normal S1, S2. No murmurs,
+rubs, or gallops. No thrills or lifts.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No crackles, wheezes or
+rhonchi.  
+ABDOMEN: Soft, non-tender, mildly distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis with
+trace edema
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+ 
+Pertinent Results:
+Admission labs:
+=============
+___ 02:48PM BLOOD WBC-7.6 RBC-3.75* Hgb-13.5 Hct-37.4 
+MCV-100* MCH-36.0* MCHC-36.1 RDW-14.5 RDWSD-53.1* Plt ___
+___ 02:48PM BLOOD Neuts-66.5 ___ Monos-5.3 Eos-0.5* 
+Baso-0.7 Im ___ AbsNeut-5.06 AbsLymp-2.03 AbsMono-0.40 
+AbsEos-0.04 AbsBaso-0.05
+___ 02:48PM BLOOD ___ PTT-28.4 ___
+___ 04:23PM BLOOD UreaN-8 Creat-0.7 Na-137 K-3.6 Cl-93* 
+HCO3-22 AnGap-22*
+___ 02:48PM BLOOD ALT-15 AST-30 AlkPhos-75 TotBili-0.2
+___ 02:48PM BLOOD proBNP-68 discharge:
+
+___ 02:48PM BLOOD Albumin-4.7 Calcium-8.5 Phos-3.3 Mg-1.8
+___ 02:48PM BLOOD TSH-1.4
+___ 02:48PM BLOOD T3-110 Free T4-1.0
+
+Other pertinent labs:
+===============
+___ 09:28AM BLOOD Cortsol-22.8*
+
+Imaging/studies:
+============
+Right heart cath/coronary angiogram ___:
+Coronary Description
+The left main, left anterior descending, circumflex and right 
+coronary artery have no angiographically
+significant coronary abnormalities.
+Interventional Details
+Complications: There were no clinically significant 
+complications.
+Findings
+ Normal left and right heart filling pressures.
+ Preserved cardiac function.
+ No angiographically apparent coronary artery disease.
+
+Abdominal ultrasound ___:
+FINDINGS: 
+ 
+LIVER: The hepatic parenchyma appears within normal limits.  The 
+contour of
+the liver is smooth.  There is no focal liver mass.  There is a 
+geographic
+area of hyperechogenicity adjacent to the gallbladder fossa and 
+porta hepatis
+which likely represents focal steatosis, stable from prior exam. 
+The main
+portal vein is patent with hepatopetal flow.  There is no 
+ascites.
+ 
+BILE DUCTS: There is no intrahepatic biliary dilation.
+  CHD: 0.3 cm
+ 
+GALLBLADDER: The gallbladder is collapsed with no definite 
+evidence of stones
+or gallbladder wall thickening.
+ 
+PANCREAS: The pancreas is not well visualized, largely obscured 
+by overlying
+bowel gas.
+ 
+SPLEEN: Normal echogenicity.
+  Spleen length: 12.8 cm
+ 
+KIDNEYS: Normal cortical echogenicity and corticomedullary 
+differentiation is
+seen bilaterally.  There is no evidence of masses, stones, or 
+hydronephrosis
+in the kidneys.
+  Right kidney: 11.3 cm
+  Left kidney: 12.2 cm
+ 
+RETROPERITONEUM:  The visualized portions of aorta and IVC are 
+within normal
+
+X-ray (PA and lateral) ___:
+FINDINGS: 
+There is no focal consolidation, pleural effusion or 
+pneumothorax identified. 
+No evidence of pulmonary edema.
+
+Discharge labs:
+============
+___ 08:32AM BLOOD WBC-5.5 RBC-3.78* Hgb-13.6 Hct-38.4 
+MCV-102* MCH-36.0* MCHC-35.4 RDW-14.1 RDWSD-53.1* Plt ___
+___ 08:32AM BLOOD Glucose-90 UreaN-8 Creat-0.6 Na-137 K-4.7 
+Cl-99 HCO3-27 AnGap-11
+___ 08:32AM BLOOD Calcium-9.4 Phos-3.6 Mg-2.2
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a past medical history
+of recently diagnosed HFrEF (36%) of uncertain etiology who
+presents with weight gain, abdominal distention, shortness of
+breath suggestive of an acute heart failure exacerbation.
+
+# CORONARIES: Unknown
+# PUMP: EF 36% (___)
+# RHYTHM: Sinus
+
+ACTIVE ISSUES: 
+============== 
+# Acute heart failure with reduce ejection fraction:
+Recent diagnosis of heart failure in ___ of uncertain 
+etiology with NHBK and afterload up-titration as an outpatient. 
+Patient never received proper follow-up. Exam on admission 
+notable for volume overload, tachycardia, but warm, well 
+perfused. She was referred from clinic for diuresis and 
+expedited workup including RHC/LHC for evaluation of cardiac 
+output and to rule out coronary artery disease. proBNP only 68, 
+however patient with mildly elevated JVP and abdominal 
+distention on admission. Given lasix 40mg IV qd with adequate 
+response. Abdominal ultrasound was obtained given low BNP and 
+was negative for ascites or an acute process. RHC/LHC showed 
+normal filling pressures, no obstructive coronary disease. 
+Continued home lisinopril 30mg daily for afterload. Continued 
+home spironolactone at 25mg qd. Decreased carvedilol to 6.25 BID 
+(home 12.5mg bid), as patient was only taking once a day. 
+Discharge diuresis with PO lasix 40mg qd
+
+CHRONIC/STABLE ISSUES:
+===================
+# Hypothyroidism: 
+Low TSH and T4 on previous admission, indicating secondary
+hypothyroidism. TFTs have normalized after stopping biotin in 
+the
+past few months. Recommend follow-up as outpatient
+
+#Hypercortisolism - cortisol slightly high at 22.8. Likely ___
+stress response during admission, can f/u as outpt
+
+TRANSITION ISSUES: 
+================
+Discharge creatinine 0.6
+Discharge weight 145.72 lb
+
+[] Diuresis - monitor weights as outpatient with titration of 
+lasix as needed
+[] Hypothyroidism - f/u TFTs as patient with low TSH and T4 on 
+previous admission, which normalized after stopping biotin 
+[] Bloating - consider GI follow up if bloating persistent after 
+optimization of HF management
+[] Hypercortisolism - slightly high on admission, likely ___ 
+stress response. Would repeat as outpatient
+
+MEDICATION CHANGES
+[] increased furosemide 30mg daily to 40mg daily
+[] Decreased carvedilol from 12.5mg BID to 6.25 BID
+
+#CODE STATUS: Full 
+#CONTACT: ___ 
+___: friend Phone: ___ 
+
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 30 mg PO DAILY 
+2. Carvedilol 12.5 mg PO BID 
+3. Furosemide 30 mg PO DAILY 
+4. Spironolactone 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Carvedilol 6.25 mg PO BID 
+RX *carvedilol 6.25 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+2.  Furosemide 40 mg PO DAILY 
+RX *furosemide 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Lisinopril 30 mg PO DAILY  
+4.  Spironolactone 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+===============
+Acute on chronic heart failure with reduced ejection fraction
+
+Secondary diagnoses
+================
+Hypothyroidism
+Hypercortisolism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+Why were you admitted to the hospital?
+- You were admitted to the hospital because you were feeling 
+bloated, which we were concerned was due to your heart failure. 
+Please see below for more information on your hospitalization. 
+It was a pleasure participating in your care!    
+
+What happened while you were in the hospital?  
+- We gave you water pills to remove any extra fluid from your 
+heart. 
+-You had a procedure called a coronary angiogram to look at the 
+arteries in your heart.  This was normal, and did not show any 
+narrowing or blockages. You also had a procedure called a right 
+heart catheterization to measure the pressures heart.  This was 
+also normal, without any elevation in pressure.
+-You also received an abdominal ultrasound which did not show 
+any abnormalities
+-Given these normal tests and blood tests, we felt confident 
+your heart was no longer causing your abdominal symptoms.
+-Your pain improved with medications and you were ready to leave 
+the hospital.
+
+What should you do after leaving the hospital?  
+-  Please take your medications as listed in discharge summary 
+and follow up at the listed appointments. 
+
+-Your weight at discharge is 145.72 lb. Please weigh yourself 
+today at home and use this as your new baseline  
+-Please weigh yourself every day in the morning. Call your 
+doctor if your weight goes up by more than 3 lbs.  
+
+We wish you the best!
+- Your ___ Healthcare Team
+ 
+Followup Instructions:
+___

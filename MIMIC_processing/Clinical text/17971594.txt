@@ -1,0 +1,260 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ yo F with a history of ___ 
+___ disease, asthma (no hospitalizations or 
+intubations) who presents with 1 week of shortness of breath and 
+productive cough which has substantially worsened over the past 
+2 days. On ___, patient noted worsening cough and increased SOB 
+in the setting of recent sick contacts. She presented to urgent 
+care at ___ where she was prescribed Tylenol with 
+codeine and benzonatate. On ___, she went to an urgent care 
+center and was prescribed prednisone (40 mg x5 days) which she 
+took yesterday. She also reports using her albuterol rescue 
+inhaler ___ times during the day, and ___ times per night since 
+this date. Today she returned to urgent care and was given IV 
+solumedrol as well as respiratory treatments, and was 
+transferred to ___ for further workup. 
+
+ In the ED, initial vitals:  99.5, 150, 143/64, 16, 100% RA
+ - Exam notable for:  diffuse wheezing bilaterally
+ - Labs notable for: WBC 15.8 w/ left shift. gluc-140, HCO3- 20. 
+UA- with ketones of 30 without sign of acute infection. B-HCG 
+negative
+ - Imaging notable for: CXR showing no acute cardiopulmonary 
+process 
+ - Pt given:  2g Mg IV, 1 L NS, ipratropium neb
+ - Vitals prior to transfer:  98.2, 120/80 , 105, 20, 100% RA
+ On arrival to the floor, pt reports improved breathing on 1L 
+NC. She reports her baseline peak flow is 520. Measured to be 
+350 in ED. Improved to 375 after nebs.  
+ ROS:  
+ No fevers, chills, night sweats, or weight changes. No changes 
+in vision or hearing, no changes in balance. No chest pain. No 
+nausea or vomiting. No diarrhea or constipation. No dysuria or 
+hematuria. No hematochezia, no melena. No numbness or weakness, 
+no focal deficits.  
+ 
+
+ 
+Past Medical History:
+s/p appendectomy in ___
+___ Disease- Requires ddAVP for surgical procedures 
+
+asthma
+ 
+Social History:
+___
+Family History:
+Paternal grandmother- "hemophilia". No history of sudden cardiac 
+death. 
+ 
+Physical Exam:
+================================
+ADMISSION  PHYSICAL EXAM:  
+================================
+ Vitals:  98.2, 120/80, 105, 20, 100% 1L
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclerae anicteric, MMM, oropharynx clear  
+ Neck: supple, JVP not elevated, no LAD  
+ Lungs: diffuse ronchi with mild expiratory wheezing, poor air 
+movement
+ CV: tachycardic with regular rhythm, Nl S1, S2, No MRG  
+ Abdomen: soft, NT/ND bowel sounds present, no rebound 
+tenderness or guarding, no organomegaly  
+ GU: no foley  
+ Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CN2-12 intact, no focal deficits  
+
+================================
+DISCHARGE PHYSICAL EXAM:
+================================
+Vitals: 97.8, 129/82, 93, 18, 100% RA
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclerae anicteric, MMM, oropharynx clear  
+ Neck: supple, JVP not elevated, no LAD  
+ Lungs: Mild expiratory wheeze, improved air movement in 
+bilateral bases.
+ CV: RRR, Nl S1, S2, No MRG  
+ Abdomen: soft, NT/ND bowel sounds present, no rebound 
+tenderness or guarding, no organomegaly  
+ GU: no foley  
+ Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CN2-12 intact, no focal deficits 
+
+ 
+Pertinent Results:
+================================
+ADMISSION RESULTS
+================================
+___ 06:24PM URINE  UCG-NEGATIVE
+___ 06:24PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 06:24PM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-40 BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 06:24PM URINE  RBC-3* WBC-2 BACTERIA-FEW YEAST-NONE 
+EPI-2
+___ 06:24PM URINE  MUCOUS-RARE
+___ 03:00PM   GLUCOSE-140* UREA N-6 CREAT-0.6 SODIUM-140 
+POTASSIUM-3.4 CHLORIDE-106 TOTAL CO2-20* ANION GAP-17
+___ 03:00PM   WBC-15.8* RBC-3.99 HGB-11.7 HCT-35.5 MCV-89 
+MCH-29.3 MCHC-33.0 RDW-12.3 RDWSD-39.8
+___ 03:00PM   PLT COUNT-238
+
+================================
+PERTINENT RESULTS
+================================
+CXR ___  No acute intrathoracic process 
+___ 09:15AM BLOOD calTIBC-293 Ferritn-PND TRF-225
+
+================================
+DISCHARGE RESULTS
+================================
+___ 06:55AM BLOOD WBC-8.0 RBC-3.50* Hgb-10.0* Hct-32.1* 
+MCV-92 MCH-28.6 MCHC-31.2* RDW-13.0 RDWSD-42.9 Plt ___
+___ 06:55AM BLOOD Glucose-77 UreaN-13 Creat-0.7 Na-142 
+K-3.8 Cl-107 HCO3-23 AnGap-16
+___ 06:55AM BLOOD Calcium-9.1 Phos-3.9 Mg-2.1
+
+================================
+IMAGING
+================================
+CXR ___ 3:19 ___
+FINDINGS:  
+APportable upright view of the chest. 
+There is no focal consolidation, effusion, or pneumothorax. The 
+cardiomediastinal silhouette is normal. Imaged osseous 
+structures are intact. 
+IMPRESSION:  
+No acute intrathoracic process 
+
+================================
+URINE
+================================
+___ 06:24PM URINE Color-Yellow Appear-Clear Sp ___
+___ 06:24PM URINE Blood-LG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-40 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-NEG
+___ 06:24PM URINE RBC-3* WBC-2 Bacteri-FEW Yeast-NONE Epi-2
+___ 06:24PM URINE UCG-NEGATIVE
+___ 01:17AM URINE Color-Yellow Appear-Clear Sp ___
+___ 01:17AM URINE Blood-MOD Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 01:17AM URINE RBC-1 WBC-1 Bacteri-FEW Yeast-NONE Epi-1
+ 
+Brief Hospital Course:
+=================================
+PRIMARY REASON FOR ADMISSION:
+=================================
+___ with a history of asthma, iron deficiency and ___ 
+___ disease who presents with dyspnea for several days.
+
+=================================
+ACTIVE ISSUES:
+=================================
+#Asthma Exacerbation: Patient presented with dyspnea for several 
+days, peak flow down to 280-350 from 520, concerning for asthma 
+exacerbation. Dyspnea improved with standing nebulizers and 
+prednisone 40mg. She was also started on flovent and will be 
+discharged with longer oral steroid taper (40mg x total of 5 
+days, 30mg x 3 days, 20mg x 2 days, 10mg x 2 days). She is 
+scheduled to see her home ___ in ___ this week 
+and will establish care at ___ next month. 
+
+# Anemia: Patient diagnosed with iron-deficiency anemia in the 
+past and was anemic during admission. (Hgb 10.0 on discharge) 
+Would recommend repeating CBC as outpatient and consideration of 
+iron supplementation.
+
+# Sinus tachycardia: The patient was tachycardic to the 150s on 
+arrival to the ED, with improvement to low 100s at rest by 
+discharge.  Ambulatory heart rates ranged from 110s-130s, 
+improved mildly with IVF. Review of prior outpatient HR also 
+showed tachycardia from 100-120s. She was monitored on telemetry 
+and remained in sinus. Would recommend further outpatient workup 
+of her ongoing sinus tachycardia.
+
+# Hematuria: She has microscopic hematuria on urinalysis. Would 
+recommend repeating UA as an outpatient.
+
+=================================
+TRANSITIONAL ISSUES: 
+=================================
+- Patient noted to have asymptomatic hematuria on UA. Please 
+repeat urine testing as an outpatient
+- She also had anemia (discharge hgb 10.0). This should be 
+repeated as an outpatient. She may benefit from iron 
+supplementation
+- Discharged on prednisone taper (40mg x 5 total days, 30mg x 3 
+days, 20mg x2 days, 10mg x2) and flovent with plans to follow up 
+with home pulmonologist next week
+- She was tachycardic during admission 100s at rest, 130s with 
+ambulation, improving to 120s after IVF. Please monitor HR as an 
+outpatient
+- Full code
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amoxicillin 500 mg PO Q8H 
+2. Albuterol Inhaler ___ PUFF IH Q6H:PRN shortness of breath 
+3. Qsymia (phentermine-topiramate) ___ mg oral Q24H 
+4. Ortho Tri-Cyclen LO (28) (norgestimate-ethinyl estradiol) 
+0.18/0.215/0.25 mg-25 mcg oral Q24H 
+5. Guaifenesin ___ mL PO Q6H:PRN cough 
+
+ 
+Discharge Medications:
+1. Guaifenesin ___ mL PO Q6H:PRN cough 
+2. Ortho Tri-Cyclen LO (28) (norgestimate-ethinyl estradiol) 
+0.18/0.215/0.25 mg-25 mcg oral Q24H 
+3. Albuterol Inhaler ___ PUFF IH Q6H:PRN shortness of breath 
+4. Qsymia (phentermine-topiramate) ___ mg oral Q24H 
+5. PredniSONE 40 mg PO DAILY 
+RX *prednisone 10 mg 1 tablet(s) by mouth as directed Disp #*30 
+Tablet Refills:*0
+6. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+RX *fluticasone [Flovent HFA] 110 mcg/actuation 2 puff inhaled 
+twice a day Disp #*1 Inhaler Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Asthma exacerbation
+
+ 
+Discharge Condition:
+AOx3, ambulating without assistance, breathing comfortably on 
+room air. 
+
+ 
+Discharge Instructions:
+You were treated for an asthma exacerbation. Take your oral 
+prednisone daily as prescribed. Use your albuterol inhaler when 
+you have labored breathing as needed up to 6 times per day 
+(about once every 4 hours). After your oral prednisone course is 
+completed, use your Flovent inhaler daily to prevent future 
+asthma exacerbations. Please follow up with your new outpatient 
+pulmonologist, appointment information below. 
+ 
+Followup Instructions:
+___

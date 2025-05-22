@@ -1,0 +1,156 @@
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Gingival bleeding
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with the past
+medical history significant for prior ITP who presents with
+bruising and rash, found to have thrombocytopenia of 5,000
+plateltets. 
+
+The patient reports that two days ago he developed a diffuse
+pettechial rash which he has had in the past with prior ITP
+episodes. The rash was gradual in onset, and associated with LUQ
+abdominal pain, again typical for prior ITP flares. He denied 
+any
+bleeding except for gingival bleeding with teeth brushing. He
+reports that 5 days ago he had headache and mild myalgias, as
+well as nondescript lower abdominal pain but no dysuria, blood 
+in
+stool, diarrhea. He felt that something was wrong so he went to
+his hematologist Dr. ___ his platelets were 37,000 at that
+time. 
+I reviewed this record, and the hematology team felt that he was
+in a flare of his ITP and wanted to monitor clinically. 
+
+Of note, the patient was hospitalized in ___ for ITP, treated
+with Dexamethasone for 4 days.
+
+Due to his rash he presented to the ED at ___ on ___.
+In the ED, his vitals were stable
+Platelets were 5,000
+The ED providers spoke with hematology who recommended 40 mg
+dexamethasone, which he received. Decision was made to admit to
+medicine pending improvement of plts above 10,000.
+
+ 
+Past Medical History:
+ITP 
+Hypercholesterolemia
+? IBS
+
+ 
+Social History:
+___
+Family History:
+not relevant to the current admission
+ 
+Physical Exam:
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx with small petechial lesions on the roof, no major
+blood blisters.
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: On legs bilaterally, very fine, nonblanching, petechial
+rash.
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+By discharge, petechial rash had largely resolved. 
+
+ 
+Pertinent Results:
+___ 08:48PM BLOOD WBC-6.1 RBC-5.12 Hgb-15.1 Hct-44.0 MCV-86 
+MCH-29.5 MCHC-34.3 RDW-12.7 RDWSD-39.6 Plt Ct-5*
+___ 07:51AM BLOOD WBC-16.3* RBC-5.05 Hgb-14.9 Hct-42.6 
+MCV-84 MCH-29.5 MCHC-35.0 RDW-12.5 RDWSD-38.1 Plt Ct-51*
+___ 08:48PM BLOOD Glucose-139* UreaN-17 Creat-0.8 Na-139 
+K-3.9 Cl-101 HCO3-24 AnGap-14
+___ 05:35AM BLOOD Glucose-210* UreaN-16 Creat-0.8 Na-143 
+K-4.1 Cl-103 HCO3-23 AnGap-17
+___ 05:35AM BLOOD Calcium-9.7 Phos-2.0* Mg-2.1
+___ 07:51AM BLOOD Hapto-80
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with the past medical 
+history significant for prior ITP who presents with bruising and 
+rash, found to have thrombocytopenia of 5,000 platelets. 
+
+ACUTE/ACTIVE PROBLEMS:
+#Immune thrombocytopenic purpura:  Patient seen by hematology 
+who recommended 
+Dexamethasone 40 mg x4 days which he started in the hospital.  
+His petechiae resolved and his platelet count increased.  
+Hematology noted that he had a positive Coombs test and some 
+spherocytes on smear but his haptoglobin was 80.  They 
+recommended sending out flow cytometry, IgG subclasses, all of 
+which were pending at time of discharge.  Platelet count had 
+increased to 51K by time of discharge.  He will have close f/u 
+with hematology on discharge. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Dexamethasone 40 mg PO DAILY Duration: 3 Doses 
+Take this on ___ and ___  
+2.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ITP
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with low counts of your platelet cells (these 
+are the cells that help you clot) and you were evaluated by the 
+hematology service.  They feel that this is from your ITP, and 
+your platelet count improved with steroids.
+They recommend that you take dexamethasone (10 tablets of 4 mg) 
+tomorrow and on ___.  Please take it once a day, and take it 
+after you wake up from sleep.  
+I have faxed the prescription to your ___ pharmacy on 
+___ in ___.  
+ 
+Followup Instructions:
+___

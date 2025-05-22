@@ -1,0 +1,261 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fall, Confusion
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ female not on other medications who presents status
+post fall with right wrist, hip and groin pain. 
+
+Collateral from nurse:
+Patient normally has a commode next to her bed. It was removed
+and she was told so. But she got up later in the evening,
+forgetting it was removed and tried to sit down on it and landed
+on her bottom. She was put back in bed but shortly after wanted
+to get up and use the commode again. Feeling she was confused 
+she
+was brought to the ED.
+
+Patient denies any dysuria, fevers, chills, flank pain. Nurse
+accompanying patient from home does report patient complained
+recently of dysuria.
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Vitals-  98.0, 127/80, 101, 16, 96% RA
+GENERAL: AOx3, NAD
+HEENT: AT/NC, Left eye shut, blind in left eye (old)
+CV: irregularly irregular, no m/r/g
+PULM: good air movement, no w/r/c
+GI: S/ND/NT
+GU: No CVA tenderness, no suprapubic tenderness
+
+DISCHARGE PHYSICAL EXAM:
+========================
+Vitals- Afebrile, normotensive, mild tachycardia, satting well 
+RA
+GENERAL: AOx3, NAD
+HEENT: AT/NC, Left eye shut, blind in left eye (old)
+CV: irregularly irregular, no m/r/g
+PULM: good air movement, no w/r/c
+GI: S/ND/NT
+GU: No CVA tenderness, no suprapubic tenderness
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 04:50PM BLOOD WBC-10.8* RBC-5.36* Hgb-13.9 Hct-42.6 
+MCV-80* MCH-25.9* MCHC-32.6 RDW-15.8* RDWSD-44.5 Plt ___
+___ 04:50PM BLOOD Neuts-76.9* Lymphs-13.6* Monos-7.7 
+Eos-0.6* Baso-0.6 Im ___ AbsNeut-8.35* AbsLymp-1.47 
+AbsMono-0.83* AbsEos-0.06 AbsBaso-0.06
+___ 04:50PM BLOOD ___ PTT-32.4 ___
+___ 04:50PM BLOOD Plt ___
+___ 04:50PM BLOOD Glucose-101* UreaN-9 Creat-0.7 Na-139 
+K-4.5 Cl-102 HCO3-24 AnGap-13
+___ 04:50PM BLOOD cTropnT-<0.01
+
+DISCHARGE LABS:
+===============
+___ 05:10PM BLOOD WBC-9.9 RBC-5.50* Hgb-14.1 Hct-43.6 
+MCV-79* MCH-25.6* MCHC-32.3 RDW-15.9* RDWSD-45.2 Plt ___
+___ 05:10PM BLOOD Plt ___
+___ 05:10PM BLOOD Glucose-126* UreaN-10 Creat-0.7 Na-137 
+K-3.8 Cl-101 HCO3-22 AnGap-14
+___ 05:10PM BLOOD Calcium-8.8 Phos-3.1 Mg-2.1
+___ 01:32AM BLOOD Lactate-1.5
+
+IMAGING:
+========
+CTH: 1. No acute intracranial process. 
+2. No fracture. 
+
+CT Pelvis:
+1. Minimally displaced left inferior pubic ramus fracture.  No 
+associated 
+hematoma. 
+2. 1.1 cm nodule along the anterior bladder wall at the midline 
+is of unclear 
+etiology.  Recommend nonemergent bladder ultrasound to further 
+assess. 
+
+XR Wrist:
+Diffuse osteopenia without evidence of acute fracture
+
+CT C-spine:
+1. No acute fracture or traumatic malalignment. 
+2. Multilevel degenerative change of the cervical spine. 
+3. Mild compression deformity of the T4 vertebral body is likely 
+chronic. 
+4. 3 mm right upper lobe pulmonary nodule.  Optional chest CT in 
+12 months is recommended for high risk patients. 
+
+ 
+Brief Hospital Course:
+___ female with no notable past medical history presents 
+status post fall with a nonsurgical minimally displaced pelvic 
+fracture and urinary tract infection.
+
+# Left inferior pubic ramus fracture
+Patient fell on her gluteus, and no loss of consciousness, no 
+head trauma. Imaging showed left inferior pubic ramus fracture, 
+orthopedics was consulted who recommended no surgery and that 
+the patient was weightbearing as tolerated. She was offered pain 
+control which she refused. Physical therapy saw the patient who 
+recommended rehab. She was amenable to this plan and was 
+discharged to rehab.
+
+# Urinary tract infection
+Per nursing at her facility she was reporting urinary pain. 
+Urinalysis positive for urinary tract infection, no signs or 
+symptoms on exam or imaging of pyelonephritis or urosepsis. 
+Given goal of minimizing medications due to her beliefs, she was 
+treated with Bactrim for a 3 day course of antibiotics. Her 
+confusion was ultimately attributed to her urinary tract 
+infection. She was at baseline by the time she arrived on the 
+floor.
+
+# Fall
+Fall likely mechanical in the setting of confusion. She did not 
+remember that her commode had been moved and try to sit on it 
+when it was not there. No history imaging or exam findings 
+concerning for seizure or syncope.
+
+# Atrial fibrillation
+Patient noted to be irregularly irregular, EKG shows atrial 
+fibrillation. ChadsVasc 3. Discussion was held about the risks 
+and benefits of anticoagulation and the risk of stroke. which 
+the patient found acceptable and declined treatment.
+
+#Follow up
+Recommended strong that the patient establish care with a PCP 
+which she declined. Risks and benefits discussed, she 
+understood.
+
+# Ulceration on head
+Patient was noted to have a large 2" shallow ulceration with 
+surrounding induration, flaky skin concerning for basal cell 
+carcinoma or other malignancy. Options were presented for the 
+patient, including dermatology consult and likely biopsy of the 
+lesion. Extensive conversation was held about the next steps and 
+she requested to have a little time to think and follow up with 
+our team in clinic in ___ weeks to talk some more. Her rehab 
+facility was contacted who said they could provide 
+transportation for this appointment.
+
+====================
+TRANSITIONAL ISSUES:
+====================
+[ ] Please follow up with Dr. ___ your head skin lesion
+ -- You will get a call in the next ___ days for your 
+appointment. If you do not hear back, please call ___.
+
+[ ] Please follow up with a PCP
+ -- ___ up incidental lung nodule with 12 mo CT if high risk
+ -- Follow up incidental bladder nodule with ultrasound
+
+Treatment Plan:
+Progress functional mobility including bed mobility, transfers,
+gait and stairs as tolerated.
+Balance training
+Pt/caregiver education RE: fall risk
+D/C planning
+
+Frequency/Duration: ___ for 1 week
+
+Recommendations for Nursing:
+Pt is at high risk for deconditioning please encourage frequent
+mobility and maximize independence in ADLs.
+Amb with RW and CGA 3x/day.
+Assist of 1 for out of bed to chair with RW 3x/day.
+Limit sitting time to one hour on air cushion given patient's
+inability to effectively reposition in chair.
+Please use chair alarm when out of bed.
+Normalize sleep-wake cycle to decrease risk of delirium.
+
+=====================
+Full code
+HCP: ___ (Son)
+___
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Left Inferior Pubic Ramus Fracture
+Urinary Tract Infection
+Atrial Fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at ___. 
+
+WHY DID YOU COME TO THE HOSPITAL?
+- You came to the hospital because you had a fall and were more 
+confused.
+
+WHAT HAPPENED WHILE YOU WERE HERE?
+- You had images which showed a small fracture in your pelvis 
+which did not require surgery.
+
+- You were found to have a urinary tract infection which was the 
+cause of your confusion. You were given antibiotics to treat 
+your urinary tract infection. 
+
+- You were seen by physical therapy who recommended a rehab 
+facility to build back your strength.
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE THE HOSPITAL?
+- Please continue to take all of your medications as directed, 
+and follow up with all of your doctors. 
+
+Again, it was a pleasure taking care of you!
+
+Sincerely, 
+
+Your ___ Team
+ 
+Followup Instructions:
+___

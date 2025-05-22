@@ -1,0 +1,408 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+hydrochlorothiazide
+ 
+Attending: ___
+ 
+Chief Complaint:
+6 intermittent episodes of visual loss since ___
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ male with a PMHx of HTN, AVR ___ 
+insufficiency and aortic aneurysm, CAD s/p CABG ___, 
+hypertensive emergency, compartment syndrome s/p fasciotomy who 
+was sent in by ambulance from ___ ___ (___) for evaluation 
+of intermittent episodes of visual loss. 
+
+He presented to his PCP regarding right knee swelling, and the 
+PCP referred him to the ED after the following episodes were 
+described and requested a neurologic evaluation. He has had 6 
+episodes since ___ these episodes are characterized by 
+black spots in his periphery bilaterally followed by 
+lightheadedness, room-spinning vertigo, and diaphoresis followed 
+by vision going black. They last ___ minutes, and then he is 
+back to baseline. The first two episodes occurred while 
+standing; the others have been while seated or lying down. In 
+the first two episodes, the darkness came down like a curtain, 
+while his whole field went dark right away in the other four. 
+There is no clear trigger. He denies any antecedent illness, 
+trauma, or alcohol use. The most recent two episodes were 
+associated with some chest pain (per ED, he can also have SOB 
+with these episodes, although he denied this on my interview). 
+He has not fallen or lost consciousness, and the recalls the 
+episodes in full (no lost time); he does note that his gait is 
+unstable during these episodes. No associated headache.
+
++Double vision and blurry vision during prior MI; not recently; 
+intermittent hearing loss on left (not associated with above 
+episodes), 1 episode difficulty swallowing in ___ (not 
+associated with above), chronic RLE numbness after fasciotomy 
+for compartment syndrome, had one episode of urinary 
+incontinence in ___ where he had the urge to urinate but could 
+not make it to the bathroom in time, dropping objects since ___ 
+(e.g., cups of coffee)
+On neuro ROS, the pt denies headache, dysarthria, tinnitus. 
+Denies difficulties producing or comprehending speech.  Denies 
+focal weakness, parasthesiae. No bowel incontinence or 
+retention. 
+
++Fevers (1 in ___, twice in ___ associated with 
+above episodes, +nausea in ___ x 1 (not associated with 
+above ep)
+On general review of systems, the pt denies recent chills. No 
+night sweats or recent weight loss or gain. Denies cough, 
+shortness of breath.  Denies palpitations.  Denies vomiting, 
+diarrhea, constipation, or abdominal pain.  No recent change in 
+bowel habits. No dysuria. Denies arthralgias or myalgias. Denies 
+rash.
+
+ 
+Past Medical History:
+HYPERTENSION                                                    
+
+HYPERLIPIDEMIA                                                  
+
+CHRONIC RENAL INSUFFICIENCY                                     
+
+AORTIC INSUFFICIENCY                                            
+s/p bioprosthetic aortic valve repain ___                      
+
+ASCENDING AORTIC DILATION                                       
+s/p ascending aortic replacement ___                           
+
+SICKLE CELL TRAIT                                               
+
+NEPHROLITHIASIS                                                 
+
+CORONARY ARTERY DISEASE                                         
+s/p CABG ___                                                   
+
+ACUTE RENAL FAILURE                                             
+requiring HD while inpatient in ___, resolved             
+
+COMPARTMENT SYNDROME OF RIGHT LEG                               
+s/p lateral and medial fasciotomy  
+
+MI                             
+
+Surgical History:
+AORTIC VALVE REPLACEMENT                              ___   
+bioprosthetic valve placed in ___                     
+
+ASCENDING AORTA REPLACEMENT                           ___   
+
+CORONARY BYPASS SURGERY                               ___   
+3 vessel   
+
+Fasciotomy as above                            
+
+ 
+Social History:
+___
+Family History:
+Denies 
+ 
+Physical Exam:
+Admission Exam:
+Vitals: T: ___ P: 68 R: 19  BP: 130/76 SaO2: 100RA
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in 
+oropharynx
+Neck: Supple
+Pulmonary: no WOB
+Cardiac: WWP
+Abdomen: soft, ND
+Extremities: No C/C/E bilaterally
+
+Neurologic:
+Please see top of note for NIHSS.
+
+-Mental Status: Alert, oriented x 3. Able to relate history 
+without difficulty. Attentive, able to name ___ backward without 
+difficulty. Language is fluent with intact repetition and 
+comprehension. Normal prosody. There were no paraphasic errors. 
+Pt was able to name both high and low frequency objects.  Able 
+to read without difficulty. Speech was not dysarthric. Able to 
+follow both midline and appendicular commands. Pt was able to 
+register 3 objects and recall ___ at 5 minutes ___ with categ, 
+___ with MC prompts). There was no evidence of apraxia or 
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without 
+nystagmus. Normal saccades. To finger confrontation, he 
+initially made errors in RUQ with either eye (but ok with red 
+pin). Visual acuity ___ bilaterally with glasses on. 
+Fundoscopic exam revealed no papilledema, exudates, or 
+hemorrhages.
+V: Decreased sensation to LT and temp in left V1-3 (V1/2 60% of 
+normal to LT and temp; V3 30% of normal to LT and 60% of normal 
+to temp); splits midline when tested across forehead and also 
+with tuning fork
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk and tone. No pronation, no drift. No 
+orbiting with arm roll. No adventitious movements, such as 
+tremor, noted. No asterixis noted.  
+[___]  
+ [C5] [C5] [C7] [C6] [C7]  [T1][L2] [L3] [L5] [L4] [S1][L5]  
+ L *   5    *    5    5     5   5    5    5    5    5   5 
+ R *   5    5    5    5     5   5    5    5    5    5   5
+*Give-way but cannot exclude underlying weakness with overlay; 
+no ratcheting
+
+-Sensory: decreased sensation RLE lateral>medial (chronic per 
+patient, ___ fasciotomy) to LT and temp; decreased sensation to 
+temp but not LT in LUE (60% of normal), absent proprioception at 
+RLE, intact in LLE, no extinction
+
+-DTRs: diffusely down; no clonus; L toe equivocal, R toe mute
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Antalgic gait; favors LLE
+
+Discharge Exam:
+Vitals: T: 98.2F P: 73 R: 18  BP: 139/76 SaO2: 100RA
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in 
+oropharynx
+Neck: Supple
+Pulmonary: no WOB
+Cardiac: WWP
+Abdomen: soft, ND
+Extremities: No C/C/E bilaterally
+
+Neurologic:
+Please see top of note for NIHSS.
+
+-Mental Status: Alert, oriented x 3. Able to relate history 
+without difficulty. Attentive, able to name ___ backward without 
+difficulty. Language is fluent with intact repetition and 
+comprehension. Normal prosody. There were no paraphasic errors. 
+Pt was able to name both high and low frequency objects.  There 
+was no evidence of apraxia or neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without 
+nystagmus.
+VFF to finger wiggeling
+V: Decreased sensation to LT and temp in left V1-3 
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+-Motor: Normal bulk and tone. No pronation, no drift. No 
+orbiting with arm roll. No adventitious movements, such as 
+tremor, noted. No asterixis noted.  
+[___]  
+ [C5] [C5] [C7] [C6] [C7]  [T1][L2] [L3] [L5] [L4] [S1][L5]  
+ L 5   5    5     5     5     5   5     5    5    5    5   5 
+ R 5   5    5     5     5     5   4+    5    5    5    5   5
+
+-Sensory: decreased sensation RLE lateral>medial (chronic per 
+patient, ___ fasciotomy) to LT and temp; decreased sensation to 
+temp but not LT in LUE (60% of normal),no extinction
+
+-DTRs: diffusely down; no clonus; L toe equivocal, R toe mute
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted. 
+No dysmetria on FNF or HKS bilaterally.
+
+-Gait: deferred
+
+ 
+Pertinent Results:
+___ 06:33AM   GLUCOSE-76 UREA N-15 CREAT-1.6* SODIUM-140 
+POTASSIUM-3.6 CHLORIDE-103 TOTAL CO2-24 ANION GAP-17
+___ 06:33AM   ALT(SGPT)-11 AST(SGOT)-14 LD(LDH)-191 
+CK(CPK)-117 ALK PHOS-84 TOT BILI-0.9
+___ 06:33AM   GGT-51
+___ 06:33AM   CK-MB-2 cTropnT-<0.01
+___ 06:33AM   TOT PROT-7.0 ALBUMIN-4.1 GLOBULIN-2.9 
+CHOLEST-210*
+___ 06:33AM   %HbA1c-5.6 eAG-114
+___ 06:33AM   TRIGLYCER-227* HDL CHOL-30 CHOL/HDL-7.0 
+LDL(CALC)-135*
+___ 06:33AM   TSH-1.8
+___ 06:33AM   CRP-5.1*
+___ 06:33AM   WBC-5.8 RBC-4.72 HGB-13.9 HCT-41.2 MCV-87 
+MCH-29.4 MCHC-33.7 RDW-13.4 RDWSD-43.1
+___:33AM   NEUTS-56.4 ___ MONOS-12.5 EOS-3.0 
+BASOS-0.3 IM ___ AbsNeut-3.24 AbsLymp-1.58 AbsMono-0.72 
+AbsEos-0.17 AbsBaso-0.02
+___ 06:33AM   PLT COUNT-222
+___ 06:33AM   ___ PTT-35.0 ___
+___ 09:50PM   CRP-4.6
+___ 09:50PM   ASA-NEG ETHANOL-NEG ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 09:50PM URINE  HOURS-RANDOM
+___ 09:50PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 09:50PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 09:50PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-0.2 PH-6.0 
+LEUK-NEG
+___ 05:33PM   GLUCOSE-74 UREA N-16 CREAT-1.6* SODIUM-141 
+POTASSIUM-4.3 CHLORIDE-105 TOTAL CO2-20* ANION GAP-20
+___ 05:33PM   estGFR-Using this
+___ 05:33PM   ALT(SGPT)-12 AST(SGOT)-22 ALK PHOS-86 TOT 
+BILI-0.6
+___ 05:33PM   cTropnT-<0.01
+___ 05:33PM   WBC-6.7 RBC-4.93 HGB-14.7 HCT-42.8 MCV-87 
+MCH-29.8 MCHC-34.3 RDW-13.4 RDWSD-42.4
+___ 05:33PM   NEUTS-55.2 ___ MONOS-12.1 EOS-2.8 
+BASOS-0.4 IM ___ AbsNeut-3.70 AbsLymp-1.96 AbsMono-0.81* 
+AbsEos-0.19 AbsBaso-0.03
+___ 05:33PM   PLT COUNT-237
+
+CT head ___
+IMPRESSION:  
+No acute intracranial abnormality 
+
+MRI MRA head ___
+IMPRESSION:  
+  
+1.  A 0.7 cm T1/T2 hypointense lesion with intrinsic T1 
+peripheral 
+hyperintensity is seen within the left occipital lobe with 
+associated blooming artifact. 
+NOTE: Differential considerations include a cavernous 
+malformation or focus of chronic hemorrhage given the additional 
+foci of low signal on the 
+susceptibility weighted sequences in the left basal ganglia and 
+bilateral 
+thalami. Findings are also less likely to be secondary to a 
+hemorrhagic 
+neoplasm, given lack of associated edema.  Contrast enhanced MRI 
+may be 
+helpful for further characterization. 
+2.No evidence of recent hemorrhage or infarction. 
+3.Diminutive left vertebral artery, with a dominant right 
+vertebral artery.  Otherwise, unremarkable MRA of the head 
+without evidence of aneurysm or stenosis. 
+4.  No evidence of internal carotid artery stenosis by NASCET 
+criteria. 
+  
+
+EEG:
+Read not posted at time of discharge but per EEG fellow EEG 
+showed generalized slowing but no epileptiform discharges or 
+seizure activity.  
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ man who presents with multiple 
+stereotyped episodes of vision loss, lightheadedness, and 
+vertigo. These are paroxysmal and last minutes. On MRI there is 
+evidence of left occipital and left basal ganglia cavernous
+hemangiomas. No evidence of stroke and vessels patent. It is 
+possible that his episodes are due to simple partial seizures 
+originating from the occipital lobe. EEG was obtained and showed 
+generalized slowing, but no epileptiform activity or seizures. 
+Although his EEG was negative there is still possibility that 
+these episodes represent seizures. Anti- seizure prophylaxis was 
+discussed with patient, which he declined at this time. We also 
+discussed with the patient that he should avoid driving for the 
+next 6 month since he can put himself and others at risk should 
+an event occur while he is driving.  He was discharged home in 
+stable condition with outpatient follow up.  
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Gabapentin 300 mg PO QHS 
+3. Lisinopril 2.5 mg PO DAILY 
+4. Metoprolol Tartrate 50 mg PO BID 
+5. Simvastatin 10 mg PO QPM 
+6. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 10 mg PO DAILY  
+2.  Aspirin 81 mg PO DAILY  
+3.  Gabapentin 300 mg PO QHS  
+4.  Lisinopril 2.5 mg PO DAILY  
+5.  Metoprolol Tartrate 50 mg PO BID  
+6.  Simvastatin 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Simple Partial Seizures
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were admitted to ___ for evaluation of 6 intermittent 
+episodes of visual loss since ___ (unclear if monocular 
+or binocular) which were initially concerning for ameurosis 
+fugax (temporary loss of vision in one or both eyes due to a 
+lack of blood flow to the retina). You underwent MRI Brain and 
+vasculature and it did not show a stroke or any vessel 
+abnormality. However, it did show left occipital and left basal 
+ganglia cavernous
+hemangiomas. Based on your description of the events and the 
+imaging findings we are concerned for possible seizures that 
+could explain your events. You underwent an EEG which showed 
+generalized slowing but no epilpetiform activity or seizures. 
+Even though your EEG was negative for seizure activity, etiology 
+of your events could still be due to seizures as EEG does not 
+always pick up all seizure activity. We discussed with you the 
+possibility of starting you on anti seizure prophylaxis which 
+you declined at this time. We also encourage you to avoid 
+driving for the next 6 months since you could put yourself and 
+others at risk should you have an event while driving. 
+
+No changes to your medications was made. 
+Please take your medications as described.
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+
+ 
+Followup Instructions:
+___

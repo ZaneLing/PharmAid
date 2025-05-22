@@ -1,0 +1,326 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with history of depression,
+otherwise no significant past medical history, initially
+presenting to ___ with several day history of worsening
+shortness of breath, found to have submassive extensive 
+bilateral
+pulmonary emboli with evidence of right heart strain and
+infarction, transferred for MASCOT evaluation.
+
+Patient states he was in his usual state of health until
+approximately 5 days ago. He is an avid biker, normally able to
+bike >20 miles without difficulty. 5 days ago noted he had
+worsening shortness of breath on his bike ride. One day prior to
+presenting to ___ he became very acutely short of breath
+when walking approximately 3 blocks. Denied any chest pain. Did
+not notice any lower extremity swelling, no prior history or
+family history of DVT/PE. Of note, he recently had a long car
+ride to ___ on ___. 
+
+Subsequently presented to ___, initial VS Temp: 98.7 HR:
+72 BP: 140/91 Resp: 18 O(2)Sat: 90 Normal. Given high suspicion
+for PE, underwent CTA showing extensive PE in the right main
+pulmonary artery extending to all lobes as well as within lobar
+pulmonary arteries of the left upper and lower lobes. With
+evidence of flattening of intraventricular something suggesting
+right heart strain, also with evidence of wedge-shaped 
+infarction
+in right upper lobe and left lower lobe. No evidence of ischemia
+on EKG prior to transfer per discharge summary. Was started on 
+IV
+heparin and transferred for MASCOT evaluation. 
+
+ 
+Past Medical History:
+- Depression
+- Familial Mediterranean fever
+
+ 
+Social History:
+___
+Family History:
+No family history of PE or DVT.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: ___ 2208 Temp: 98.4 PO BP: 130/82 R Lying HR: 65 RR: 18
+O2 sat: 90% O2 delivery: Ra 
+GENERAL: Comfortable, NAD, beginning in full sentences
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD, no elevated JVD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: ___ 1123 Temp: 98.0 PO BP: 113/77 R Lying HR: 72 RR: 16
+O2 sat: 95% O2 delivery: Ra 
+GENERAL: Comfortable, NAD, beginning in full sentences
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD, no elevated JVD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 06:42PM BLOOD WBC-8.4 RBC-4.68 Hgb-14.7 Hct-43.5 MCV-93 
+MCH-31.4 MCHC-33.8 RDW-12.2 RDWSD-41.3 Plt ___
+___ 06:42PM BLOOD Neuts-51.4 ___ Monos-7.6 Eos-3.6 
+Baso-0.5 Im ___ AbsNeut-4.32 AbsLymp-3.05 AbsMono-0.64 
+AbsEos-0.30 AbsBaso-0.04
+___ 06:42PM BLOOD ___ PTT-150* ___
+___ 06:42PM BLOOD Glucose-97 UreaN-15 Creat-0.9 Na-142 
+K-4.1 Cl-102 HCO3-26 AnGap-14
+___ 06:42PM BLOOD proBNP-35
+___ 06:42PM BLOOD cTropnT-<0.01
+___ 05:30AM BLOOD Calcium-9.2 Phos-4.0 Mg-1.9 Cholest-198
+___ 05:30AM BLOOD Triglyc-103 HDL-55 CHOL/HD-3.6 
+LDLcalc-122
+
+DISCHARGE LABS:
+===============
+___ 07:23AM BLOOD WBC-7.1 RBC-5.09 Hgb-16.0 Hct-47.1 MCV-93 
+MCH-31.4 MCHC-34.0 RDW-12.1 RDWSD-41.1 Plt ___
+___ 07:23AM BLOOD Glucose-98 UreaN-14 Creat-0.8 Na-144 
+K-4.6 Cl-102 HCO3-24 AnGap-18
+___ 07:23AM BLOOD Calcium-9.3 Phos-3.9 Mg-2.0
+
+IMAGING STUDIES:
+================
+
+CXR ___ (@ OSH): IMPRESSION:  No acute cardiopulmonary 
+abnormality.
+
+CTA Chest ___ (@OSH):
+IMPRESSION:  Extensive pulmonary emboli bilaterally with 
+evidence
+of right heart strain and infarction. Presumably the lung
+findings aresecondary to infarction but follow-up chest CT in 3
+months is recommended. 
+
+LOWER EXTREMITY U/S (___):
+Deep venous thrombosis in the two left gastrocnemius veins.  No 
+evidence of
+deep venous thrombosis in the rightlower extremity veins.
+
+TTE (___):
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. There is mild symmetric left ventricular 
+hypertrophy with a normal cavity size. There is normal regional 
+and global left ventricular systolic function. The visually 
+estimated left ventricular ejection fraction is 55-60%. There is 
+no resting left ventricular outflow tract gradient. No 
+ventricular septal defect is seen. Tissue Doppler suggests a 
+normal left ventricular filling pressure (PCWP less than 
+12mmHg). Normal right ventricular cavity size with normal free 
+wall motion. The aortic sinus is moderately dilated with mildly 
+dilated ascending aorta. The aortic arch diameter is normal. 
+There is no evidence for an aortic arch coarctation. The aortic 
+valve leaflets (3) are mildly thickened. There is no aortic 
+valve stenosis. There is no aortic regurgitation. The mitral 
+valve leaflets are mildly thickened with no mitral valve 
+prolapse. There is trivial mitral regurgitation. The tricuspid 
+valve leaflets appear structurally normal. There is physiologic 
+tricuspid regurgitation. The pulmonary artery systolic pressure 
+could not be estimated. There is no pericardial effusion. 
+
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved biventricular systolic function. Moderately dilated 
+aortic root with mildly dilated aortic sinus. Indeterminate 
+pulmonary pressure. 
+
+CLINICAL IMPLICATIONS: The patient has a moderately dilated 
+aortic root. Based on ___ ACCF/AHA Thoracic Aortic Guidelines, 
+if not previously known or a change, a follow-up echocardiogram 
+is suggested in 6 months; if previously known and stable, a 
+follow-up echocardiogram is suggested in ___ year.
+
+PENDING LABS AT DISCHARGE:
+==========================
+___ 04:57PM BLOOD BETA-2-GLYCOPROTEIN 1 ANTIBODIES (IGA, 
+IGM, IGG)-PND
+___ 04:57PM BLOOD CARDIOLIPIN ANTIBODIES (IGG, IGM)-PND
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with history of depression, 
+otherwise no significant past medical history, initially 
+presenting to ___ with several day history of worsening
+shortness of breath, found to have submassive extensive 
+bilateral pulmonary emboli with evidence of right heart strain 
+on CT, transferred for ___ evaluation.
+
+ACUTE ISSUES:
+=============
+# Unprovoked Submassive PE
+Initially presented with several day history of worsening 
+shortness of breath to ___, ___ showing extensive PE in 
+the right main pulmonary artery extending to all lobes as well 
+as within lobar pulmonary arteries of the left upper and lower 
+lobes. Evidence of flattening of IV septum suggesting right 
+heart strain, also with wedge-shaped infarction in right upper 
+lobe and left lower lobe. TTE and EKG here, however without 
+right heart strain. Trops negative, proBNP 35. Lower extremity 
+U/S with evidence of L gastrocnemius DVT. Vascular medicine 
+consulted, recommending medical management. Has otherwise 
+remained hemodynamically stable during hospital course. 
+Initially hypoxemic on admission, requiring 2L O2, now weaned to 
+RA, with ambulatory O2 sats >92%. Treated with heparin gtt, then 
+transitioned to PO Apixaban on ___. Will take 10mg twice daily 
+for 7 days (___), followed by 5mg twice daily (starting 
+___. Would also recommend follow up with vascular medicine 
+(Dr. ___ as well as hematology as an outpatient. 
+Screening tests for APLS pending at discharge. 
+
+#Hypoxemic respiratory failure - Resolved
+Hypoxemic on admission, requiring 2L O2, now weaned to RA. 
+Ambulatory O2 sats 92-95% RA. Likely ___ PE. CXR otherwise 
+negative. 
+
+#Moderately dilated aortic root
+Found incidentally to have mildly dilated aortic root on TTE. 
+Based on ___ ACCF/AHA Thoracic Aortic Guidelines, a follow-up 
+echocardiogram is suggested in 6 months.
+
+#Hx of fever of unknown origin
+Patient expresses history of intermittent fevers in ___. Was 
+seen by rheumatology and ID with extensive workup, ultimately 
+treated with steroids. Believed to be attributed to Familial 
+Mediterranean fever. No fevers recently, but given new diagnosis 
+of unprovoked pulmonary embolism, could re-consider chronic 
+inflammatory process. Will have patient follow up with his PCP 
+as an outpatient for further workup. 
+
+CHRONIC ISSUES:
+===============
+#Depression - Continue home Citalopram 20 mg PO/NG daily
+
+TRANSITIONAL ISSUES:
+====================
+[] Started on PO Apixaban on ___. Will take 10mg twice daily for 
+7 days (___), followed by 5mg twice daily (starting ___.
+[] Incidentally noted to have mildly dilated aortic root on TTE. 
+Based on ___ ACCF/AHA Thoracic Aortic Guidelines, a follow-up 
+echocardiogram is suggested in 6 months.
+[] Please follow up screening tests for APLS (beta 2 
+glycoprotein, cardiolipin ABs) as results are pending at 
+discharge
+[] Please ensure follow up with hematology as an outpatient for 
+further hypercoagulability workup. Patient will call to make 
+appointment.
+[] Follow-up should also be arranged with Dr. ___ in 
+___ system for vascular medicine in 1 month from discharge 
+[] Please also follow up with PCP to ensure patient is up to 
+date on age-appropriate cancer screenings
+
+#CODE: Full Code
+#CONTACT:
+Name of health care proxy: ___ 
+___: wife 
+Cell phone: ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 2 tablet(s) by mouth twice a day 
+Disp #*90 Tablet Refills:*0 
+2.  Citalopram 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Submassive pulmonary embolism
+#Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+Why was I admitted to the hospital?  
+- You were admitted because you had shortness of breath, and 
+were found to have a pulmonary embolism (i.e. blood clot in your 
+lungs). The clot was relatively extensive on your CT scan, 
+involving your right lung, so you were transferred to ___ for 
+further management.
+
+What happened while I was in the hospital?  
+- When you were admitted we did blood tests to identify any 
+strain on your heart. These blood tests were negative. We also 
+did an echocardiogram which also was negative for heart strain. 
+- Given your clinical improvement and negative testing, our 
+interventionalist team decided to manage your blood clot 
+medically, rather than do a procedure.
+- You were initially treated with IV heparin, then transitioned 
+to Apixaban. You will need to take 10mg twice daily for 5 days 
+(___), followed by 5mg twice daily (starting ___. Your 
+follow up appointments with hematology and vascular medicine 
+will determine how long you will need the blood thinner.
+
+What should I do after leaving the hospital?  
+-  Please take your medications as listed in discharge summary 
+and follow up at the listed appointments. 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Sincerely,
+
+Your ___ Healthcare Team  
+ 
+Followup Instructions:
+___

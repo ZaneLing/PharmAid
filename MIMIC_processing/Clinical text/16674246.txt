@@ -1,0 +1,246 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+s/p PVI
+ 
+Major Surgical or Invasive Procedure:
+PVI
+ 
+History of Present Illness:
+___ year old male with PMH significant for OSA(compliant with 
+CPAP) hypertension, hyperlipidemia, atrial
+fibrillation/flutter who presents for scheduled pulmonary vein
+isolation.
+
+ 
+Past Medical History:
+afib
+OSA
+HTN
+HL
+
+ 
+Family History:
+non contributory
+ 
+Physical Exam:
+Discharge PE:
+T:98.5 BP:134/85 P:96 RR: 20 02 sat: 93% on room air Pain: ___ 
+General: in no acute distress
+Neuro: alert and oriented x3
+Resp: few rhonci that cleared with coughing otherwise clear 
+bilaterally
+CV: RRR, normal s1,s2, no murmurs
+ Pulses: 
+ DP:(+) ___
+ Abd: +bs, soft nontender
+Extremity: no edema
+Skin: ___ groin sites clean, intact. Small amount of red blood on 
+left dressing.
+
+ 
+Pertinent Results:
+___ 11:25PM   TYPE-ART TEMP-36.6 PO2-82* PCO2-59* PH-7.29* 
+TOTAL CO2-30 BASE XS-0 INTUBATED-NOT INTUBA COMMENTS-CPAP
+___ 11:25PM   O2 SAT-94
+___ 05:54PM   ___ PO2-56* PCO2-66* PH-7.24* TOTAL 
+CO2-30 BASE XS-0
+___ 04:32PM   ___ PO2-54* PCO2-61* PH-7.28* TOTAL 
+CO2-30 BASE XS-0
+___ 03:59PM   ___ PO2-55* PCO2-58* PH-7.28* TOTAL 
+CO2-28 BASE XS-0
+___ 03:17PM   ___ PO2-50* PCO2-57* PH-7.30* TOTAL 
+CO2-29 BASE XS-0
+___ 02:46PM   ___ PO2-58* PCO2-59* PH-7.29* TOTAL 
+CO2-30 BASE XS-0 INTUBATED-INTUBATED VENT-CONTROLLED 
+COMMENTS-JET
+___ 10:35AM   GLUCOSE-120* UREA N-14 CREAT-0.8 SODIUM-137 
+POTASSIUM-3.7 CHLORIDE-97 TOTAL CO2-26 ANION GAP-18
+___ 10:35AM   estGFR-Using this
+___ 10:35AM   estGFR-Using this
+___ 10:35AM   PLT COUNT-189
+___ 10:35AM   PLT COUNT-___trial fibrillation: s/p PVI. Now in SR. CHA2DS2-VASc risk 
+score 2
+-follow up with Dr. ___ as scheduled on ___
+-ASA 325mg daily for 1 month
+-PPI daily for 1 month
+-colchicine for 1 month
+- continue diltiazem
+- started flecainide 100mg PO BID
+-Lasix 20mg PO daily only for 2 doses : ___ and ___
+-continue Warfarin, monitored by ___ clinic. Pt 
+instructed to get INR level drawn on ___ per Dr. ___ 
+follow up with ___ clinic. 
+
+#Diabetes:diet controlled
+-continue ___
+
+#Sleep apnea:
+-continue CPAP
+
+#Asthma
+- continue albuterol PRN, Flovent, Spiriva
+
+# HTN
+- continue enalapril, diltiazem, HCTZ
+
+#HL
+- continue atorvastatin
+
+#Dispo: Home. Seen in rounds by Dr. ___. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Enalapril Maleate 10 mg PO DAILY 
+2. Hydrocortisone Cream 1% 1 Appl TP DAILY:PRN itchiness 
+3. mometasone 0.1 % topical 3X/WEEK 
+4. Fish Oil (Omega 3) Dose is Unknown  PO BID 
+5. Tiotropium Bromide 1 CAP IH DAILY 
+6. Diltiazem Extended-Release 120 mg PO DAILY 
+7. Warfarin 2.5 mg PO DAILY16 
+8. Atorvastatin 40 mg PO QPM 
+9. Multivitamins 1 TAB PO DAILY 
+10. Fluticasone Propionate 110mcg 1 PUFF IH DAILY 
+11. DULoxetine 60 mg PO QAM 
+12. DULoxetine 30 mg PO QPM 
+13. albuterol sulfate 90 mcg/actuation inhalation BID:PRN 
+14. Hydrochlorothiazide 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 325 mg PO DAILY Duration: 30 Days  
+2.  Colchicine 0.6 mg PO DAILY  
+3.  Flecainide Acetate 100 mg PO Q12H  
+4.  Furosemide 20 mg PO DAILY Duration: 2 Days 
+take 1 tablet on ___ and 1 tablet on ___ then stop  
+5.  Pantoprazole 40 mg PO Q24H  
+6.  Fish Oil (Omega 3) 1000 mg PO BID  
+7.  albuterol sulfate 90 mcg/actuation inhalation BID:PRN  
+8.  Atorvastatin 40 mg PO QPM  
+9.  Diltiazem Extended-Release 120 mg PO DAILY  
+10.  DULoxetine 60 mg PO QAM  
+11.  DULoxetine 30 mg PO QPM  
+12.  Enalapril Maleate 10 mg PO DAILY  
+13.  Fluticasone Propionate 110mcg 1 PUFF IH DAILY  
+14.  Hydrochlorothiazide 25 mg PO DAILY  
+15.  Hydrocortisone Cream 1% 1 Appl TP DAILY:PRN itchiness  
+16.  mometasone 0.1 % topical 3X/WEEK  
+17.  Multivitamins 1 TAB PO DAILY  
+18.  Tiotropium Bromide 1 CAP IH DAILY  
+19.  Warfarin 2.5 mg PO DAILY16  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+atrial fibrillation s/p PVI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+PE:
+T:98.5   BP:134/85    P:96    RR: 20   02 sat: 93% on room air   
+Pain: ___   
+General: in no acute distress
+Neuro: alert and oriented x3
+Resp:  few rhonci that cleared with coughing otherwise clear 
+bilaterally
+CV: RRR, normal s1,s2, no murmurs
+  Pulses: 
+    DP:(+)   ___
+    Abd: +bs, soft nontender
+Extremity: no edema
+Skin: ___ groin sites clean, intact. Small amount of red blood on 
+left dressing.
+
+Pertinent ___ Na 137 K 3.7 Cl 26 BUN 14 Cr 0.8 INR 2.9 
+WBC 7.9 Hct 47.2 Plts 189
+                      
+Telemetry: SR
+ 
+Assessment/Plan: ___ y/o male with PMH of diabetes type2,  OSA
+(compliant with CPAP) hypertension, hyperlipidemia, atrial
+fibrillation/flutter who presents for scheduled pulmonary vein
+isolation.
+
+#Atrial fibrillation: s/p PVI. Now in SR. CHA2DS2-VASc risk 
+score 2
+-follow up with Dr. ___ as scheduled on ___
+-ASA 325mg daily for 1 month
+-PPI daily for 1 month
+-colchicine for 1 month
+- continue diltiazem
+- started flecainide 100mg PO BID
+-Lasix 20mg PO daily only for 2 doses : ___ and ___
+-continue Warfarin, monitored by ___ clinic. Pt 
+instructed to get INR level drawn on ___ per Dr. ___ 
+follow up with ___ clinic. 
+
+#Diabetes:diet controlled
+-continue ___
+
+#Sleep apnea:
+-continue CPAP
+
+#Asthma
+- continue albuterol PRN, Flovent, Spiriva
+
+# HTN
+- continue enalapril, diltiazem, HCTZ
+
+#HL
+- continue atorvastatin
+   
+#Dispo: Home. Seen in rounds by Dr. ___.  
+
+ 
+Discharge Instructions:
+You had an pulmonary vein isolation to treat your atrial 
+fibrillation.
+
+Continue all your current medications with the following 
+changes:
+- We added: flecainide to help keep your heart rhythm normal. 
+Take this as instructed. Pantoprazole to help prevent irritation 
+to your stomach after your procedure. Aspirin 325mg daily for a 
+blood thinner, in addition to your Coumadin. You need to take 
+aspirin 1 tablet daily for 30 days. Colchicine daily to help 
+reduce inflammation and reduce the chances you will go back to 
+having an irregular heart rhythm. You only need to take this for 
+the next ___ days. Furosemide 20mg daily only for the next two 
+days ___ and ___ then stop. This will help get rid of 
+extra fluid. 
+
+Activity restrictions and care of the incision site are included 
+in your discharge instructions.
+
+Continue to use your CPAP machine as instructed nightly. 
+
+You have been given an updated list of current medications.
+
+It has been a pleasure to have participated in your care. If you 
+have any questions that are related to your recovery from your 
+procedure or are experiencing any symptoms that are concerning 
+to you, please call the ___ HeartLine at ___ to speak 
+to a cardiologist or cardiac nurse practitioner.
+If your followed at ___, then please call  
+___ or your Doctors office.
+ 
+Followup Instructions:
+___

@@ -1,0 +1,299 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Left subacute subdural hematoma
+ 
+Major Surgical or Invasive Procedure:
+None.
+ 
+History of Present Illness:
+___ is a ___ year old male who presented to the 
+Emergency Department on ___ as a transfer from an outside 
+facility after an outpatient MRI of the brain revealed at left 
+sided subacute subdural hematoma. Of note, the patient is 
+followed by a neurologist for a three year history of falls, 
+ataxia, and weakness. The neurologist ordered an MRI of the 
+brain for further evaluation of these symptoms. The patient was 
+referred to the Emergency Department at an outside facility 
+given the findings on the MRI of the brain. He was subsequently 
+transferred to ___ for 
+escalation of care. The Neurosurgery Service was consulted for 
+question of acute neurosurgical intervention.
+ 
+Past Medical History:
+- alcohol abuse
+- anxiety
+- ataxia
+- cocaine abuse
+- depression
+- gastroesophageal reflux disease
+- recent admission at ___ on ___ for 
+Wernicke-Korsakoff Syndrome
+ 
+Social History:
+___
+Family History:
+Noncontributory.
+ 
+Physical Exam:
+On Admission:
+-------------
+Physical Exam:
+
+Vital Signs: T 97.8F, HR 60, BP 141/81, RR 17, O2Sat 98% on room 
+air
+
+___ Coma Scale at the Scene: 15
+
+___ Coma Scale Upon Neurosurgical Evaluation: 15       
+
+Time of Neurosurgical Evaluation: ___ 15:00
+
+Airway: 
+[ ]Intubated   
+[x]Not intubated
+
+Eye Opening: 
+[ ]1 Does not open eyes
+[ ]2 Opens eyes to painful stimuli
+[ ]3 Opens eyes to voice
+[x]4 Opens eyes spontaneously
+
+Verbal:
+[ ]1 Makes no sounds
+[ ]2 Incomprehensible sounds
+[ ]3 Inappropriate words
+[ ]4 Confused, disoriented
+[x]5 Oriented
+
+Motor:
+[ ]1 No movement
+[ ]2 Extension to painful stimuli (decerebrate response)
+[ ]3 Abnormal flexion to painful stimuli (decorticate response)
+[ ___ Flexion/withdrawal to painful stimuli 
+[ ]5 Localizes to painful stimuli
+[x]6 Obeys commands
+
+Total: 15
+
+Exam:
+
+General: Well nourished, comfortable, no acute distress.
+Extremities: Warm and well perfused.
+
+Neurologic:
+Mental Status: Awake, alert, cooperative with exam, normal 
+affect.
+Orientation: Oriented to person, place, and date.
+Language: Speech is slow, slight dysarthria with pauses.
+
+Cranial Nerves:
+I: Not tested.
+II: Pupils equally round and reactive to light, 3-2mm, 
+bilaterally. 
+III, IV, VI: Extraocular movements intact bilaterally without 
+nystagmus.
+V, VII: Slight left facial droop. Sensation intact and 
+symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements, 
+tremors. Strength ___ throughout. No drift.
+
+Sensation: Intact to light touch.
+
+On Discharge:
+-------------
+Tmax 98, HR 50-70, BP 130-150/90-105, RR 15, 100% RA
+
+Bowel Regimen: [x]Yes [ ]No
+
+Exam:
+
+Opens Eyes: [x]Spontaneous [ ]To voice [ ]To noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows Commands: [ ]Simple [x]Complex [ ]None
+Pupils:  PERRL 3-2mm
+Extraocular Movements: [x]Full [ ]Restricted
+Face Symmetric: [ ]Yes [x]No - Slight left facial droop,
+activates symmetrically
+Tongue Midline: [x]Yes [ ]No
+Drift: [ ]Yes [x]No
+Speech Fluent: [ ]Yes [x]No - Slow, slightly dysarthric speech
+with pauses
+Comprehension Intact: [x]Yes [ ]No
+
+Motor:
+Trapezius   Deltoid   Biceps   Triceps   Grip
+Right5           5         5        5 5
+Left5           5         5        5         5 
+
+IP   Quadriceps   Hamstring   AT   ___   Gastrocnemius
+Right5    5            5           5    5     5
+Left5    5            5           5    5     5
+
+[x]Sensation intact to light touch
+
+Right Groin:
+Dressing intact with old staining. No hematoma noted. Distal
+pulses palpated. 
+
+ 
+Pertinent Results:
+Please see ___ Record for relevant laboratory and 
+imaging results.
+ 
+Brief Hospital Course:
+___ year old male found to have a left sided subacute subdural 
+hematoma.
+
+#Left Sided Subacute Subdural Hematoma
+The patient was admitted for close neurologic monitoring. Repeat 
+CT of the head was stable. The patient went to the angiography 
+suite on ___ for embolization of the left middle meningeal 
+artery. Patient tolerated the procedure well and was transferred 
+to the PACU post-procedure to recover. Once recovered patient 
+was transferred to the ___ for further care and neurological 
+monitoring. Patient was on bedrest for 2 hours post-procedure to 
+allow the right groin site to heal. Patient activity status was 
+liberated and patient without hematoma or complaints of pain. 
+Patient remained hemodynamically and neurologically stable and 
+was transferred to the floor. The patient was medically clear 
+for discharge home on ___ with 1 week follow-up in clinic with 
+CT.
+
+#Disposition
+Physical Therapy was consulted and recommend discharge home 
+without services; outpatient ___ script previously written from 
+___ per patient report.
+
+ 
+Medications on Admission:
+- fish oil
+- multivitamin
+- omeprazole 20mg PO BID
+- Topamax 25mg PO BID
+- Zoloft 75mg PO daily
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q4H:PRN Pain - Mild  
+2.  Docusate Sodium 100 mg PO BID  
+3.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 tablet(s) by mouth Q6hr Disp #*28 Tablet 
+Refills:*0 
+4.  Multivitamins 1 TAB PO DAILY  
+5.  Omeprazole 40 mg PO BID  
+6.  Sertraline 75 mg PO DAILY  
+7.  Topiramate (Topamax) 25 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Left subacute subdural hematoma
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Procedure- meningeal artery embolization:
+Care of the Puncture Site
+ You will have a small bandage over the site on your groin.
+ Remove the bandage in 24 hours by soaking it with water and 
+gently peeling it off.
+ Keep the site clean with soap and water and dry it carefully.
+ You may use a band-aid if you wish.
+
+What You ___ Experience:
+ Mild tenderness and bruising at the puncture site (groin).
+ Soreness in your arms from the intravenous lines.
+ Mild to moderate headaches that last several days to a few 
+weeks.
+ Fatigue is very normal
+ Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+
+Activity:
+ We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+ You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+ No driving while taking any narcotic or sedating medication. 
+ If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+ No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+ You were seen by the Physical Therapist while you were here at 
+___. They are recommending outpatient ___ you have already 
+received a prescription for outpatient ___ from ___.
+
+Medications:
+ Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+ You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+ You may have difficulty paying attention, concentrating, and 
+remembering new information.
+ Emotional and/or behavioral difficulties are common. 
+ Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+
+Headaches:
+ Headache is one of the most common symptoms after a brain 
+bleed. 
+ Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+ Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+ There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+When to Call Your Doctor at ___ for:
+ Severe pain, swelling, redness or drainage from the groin 
+site. 
+ Fever greater than 101.5 degrees Fahrenheit
+ Nausea and/or vomiting
+ Extreme sleepiness and not being able to stay awake
+ Severe headaches not relieved by pain relievers
+ Seizures
+ Any new problems with your vision or ability to speak
+ Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+ Sudden numbness or weakness in the face, arm, or leg
+ Sudden confusion or trouble speaking or understanding
+ Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+ Sudden severe headaches with no known reason
+ 
+Followup Instructions:
+___

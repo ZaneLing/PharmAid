@@ -1,0 +1,242 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___
+ 
+Chief Complaint:
+Acute left-sided weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is an ___ yo man with history remote infarct who
+presents with acute onset L sided weakness. 
+At 1:40 pm Mr. ___ developed acute onset L sided weakness.
+EMS was called and he presented to ___. stroke code was
+actived, NIHSS 6 (1 for age, 1 for motor LUE, 1 for motor LLE, 1
+L ataxia, 1 L sensory, 1 language). ___ showed R
+thalamocapsular IPH. 
+
+Regarding his prior infarct, he states it occurred approx ___
+years ago, and was on coumadin until ___ years ago. He has since
+been on ASA 81 mg daily. Family states he has no residual
+deficits. 
+ 
+Past Medical History:
+L frontal infarct
+cataracts
+HTN
+HLD
+preDM
+ 
+Social History:
+___
+Family History:
+No family history of stroke. 
+ 
+Physical Exam:
+ADMISSION EXAM
+Vitals:  T: 98.9 HR: 64 BP: 143/82 RR: 18 SaO2: 98% RA
+General: Awake, cooperative, NAD.
+HEENT: no scleral icterus, MMM, no oropharyngeal lesions. 
+Pulmonary: Breathing comfortably, no tachypnea nor increased WOB
+Cardiac: Skin warm, well-perfused. 
+Abdomen: soft, ND
+Extremities: Symmetric, no edema. 
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Able to relate
+history without difficulty. Attentive to exam. Speech is fluent
+with normal grammar and syntax. No paraphasic errors. Naming
+intact to high but not low frequency words. Repetition intact.
+Comprehension intact to appendicular commands. Unable to read.
+Normal prosody.
+
+-Cranial Nerves: PERRL 3->2. VFF to confrontation. EOMI without
+nystagmus. Facial sensation intact to light touch. Face 
+symmetric
+at rest and with activation except subtle orbicularis oculi
+weakess on L without L lower facial weakness. Hearing intact to
+conversation. Palate elevates symmetrically. ___ strength in
+trapezii bilaterally. Tongue protrudes in midline and moves
+briskly to each side. No dysarthria. 
+
+- Motor:  Normal bulk and tone. No tremor nor asterixis.
+  Delt Bic Tri WrE FFl FE IO IP Quad Ham TA Gastroc         
+L  4    ___  5  4+ ___    4  4                  
+R  5    ___   ___  5   5    5  5                 
+
+-DTRs:
+   Bi Tri ___ Pat Ach Pec jerk   Crossed Abductors
+ L  2  2    2    2   1                        
+ R  3  2    3    2   1                           
+Plantar response was withdrawal bilaterally.
+
+-Sensory:  Unable to distinguish sharp vs dull LUE, able to do 
+so
+in all other extremities. LT intact throughout. 
+
+- Coordination: L dysmetria with FTN, in proportion to weakness.
+No dysmetria on R. 
+
+- Gait: deferred
+
+DISCHARGE PHYSICAL EXAMINATION: 
+Vitals: 
+Temperature: 98.7 
+Heart rate: 52-66 
+Blood pressure: 97/62-125/59 
+Respiratory rate: ___
+Oxygen saturation: 96-98% 
+
+General physical examination: 
+General: Comfortable and in no distress 
+Head: No irritation/exudate from eyes, nose, throat 
+Neck: Supple with no pain to flexion or extension 
+Cardio: Regular rate and rhythm, warm, no peripheral edema 
+Lungs: Unlabored breathing 
+Abdomen: Soft, non tender, non distended 
+Skin: No rashes or lesions 
+
+Neurologic examination: 
+Mental status: 
+Patient is able to hold conversation without difficulty 
+expressing himself and following midline and appendicular 
+commands.  There is no deficit noted in speech. 
+
+Cranial Nerves:
+Pupils are equal, round, and reactive to light.  There is no 
+skew and eyes are midline.  EOM is intact and patient can bury 
+sclera.  Patient with intact facial sensation and no droop.  
+Patient with no difficulty eating.  Patient can hear without 
+difficulty.  Patient's tongue protrudes midline and trapezii are 
+elevated symmetrically.  
+
+Motor: 
+Patient with left upper pronation and drift with eyes closed.  
+Patient with bilateral deltoid 4+/5 and left interosseus muscles 
+are 4+/5. Patient with no other motor deficits. 
+
+Sensation: 
+Crude touch with no deficit in upper and lower extremities.      
+     
+
+DTRs:
+___
+
+___: 
+No difficulty with finger to nose in bilateral upper 
+extremities. 
+
+Gait: 
+Deferred
+
+ 
+Pertinent Results:
+MRI brain ___:
+
+Right thalamic intra parenchymal hematoma is again noted.  
+Minimal associated subarachnoid blood products present in the 
+occipital horns the lateral ventricles. 
+
+ 
+Brief Hospital Course:
+Patient is a ___ with history notable for remote left frontal 
+ischemic infarct (previously on warfarin) admitted with 
+acute-onset left-sided weakness, found to have acute right 
+thalamic intraparenchymal hemorrhage with associated surrounding 
+edema and mass effect upon the right basal ganglia and right 
+lateral ventricles on CT. Repeat imaging revealed small volume 
+intraventricular extension without ventricular enlargement 
+suggestive of hydrocephalus. MRI did not reveal underlying 
+vascular malformation, although follow-up study recommended in 
+___ weeks. Examination revealed subtle left-sided distal upper 
+extremity weakness and mild sensory disturbance, with physical 
+therapy evaluation recommending discharge to acute rehab. IPH 
+thought to be of likely hypertensive etiology.  
+
+AHA/ASA Core Measures for Intracerebral Hemorrhage  
+ 1. Dysphagia screening before any PO intake? (x) Yes - () No  
+ 2. DVT Prophylaxis administered? (x) Yes - () No  
+ 3. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]  
+ 4. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (x) Yes - () No  
+ 5. Assessment for rehabilitation and/or rehab services 
+considered? (x) Yes - () No  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. irbesartan 300 mg oral DAILY 
+4. MethylPHENIDATE (Ritalin) 10 mg PO DAILY 
+5. Simvastatin 80 mg PO QPM 
+6. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Heparin 5000 UNIT SC BID 
+Stop taking once discharged from rehabilitation.  
+RX *heparin (porcine) 5,000 unit/mL (1 mL) 1 ml 5000 SC Twice 
+daily Disp #*60 Cartridge Refills:*1 
+2.  Nicotine Patch 14 mg TD DAILY 
+RX *nicotine 14 mg/24 hour 1 patch Daily Disp #*30 Patch 
+Refills:*5 
+3.  irbesartan 300 mg oral DAILY  
+4.  MetFORMIN XR (Glucophage XR) 500 mg PO DAILY  
+5.  MethylPHENIDATE (Ritalin) 10 mg PO DAILY  
+6.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Right thalamocapsular stroke with intra parenchymal hemorrhage
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___, 
+
+During this admission, you were found to have a hemorrhage 
+(bleed) in your brain. Thankfully, you have minimal weakness as 
+a result of this. To put you in the best position to regain 
+maximum strength we are discharging you to ___ 
+rehabilitation.  As an outpatient, you will need to follow up 
+with an MRI in ___ weeks of the brain to ensure that this bleed 
+is stable and to help guide further management. Your main risk 
+factor for the bleed is high blood pressure, and this will need 
+to be monitored and treated carefully in the future. The MRI 
+that you will get might provide further insights into possible 
+causes of the bleed. For now, please stop taking your home 
+aspirin and simvastatin as these medications could lead to 
+increased risk of further bleeding in the brain. These may be 
+restarted at a future time.  
+
+Thank you for allowing us to care for you, 
+___ Stroke Team
+
+ 
+Followup Instructions:
+___

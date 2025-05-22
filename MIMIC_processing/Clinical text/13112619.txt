@@ -1,0 +1,188 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever, transaminitis
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+HPI/EVENTS:  ___ h/o IBS presented with 9days of fever, 
+headache, transaminitis.  She was in USOH until 9d ago developed 
+R postauricular lymph nodes and headache.  Subsequently, she 
+noted fevers - intermittent in nature up to 102 degrees.  Also 
+notes nausea (no vomiting), myalgia, diaphoresis, chills.  She 
+presented to her PCP ___ ___ - and was found to have mild 
+leukopenia, thrombocytopenia, and transaminitis.  Rapid flu, 
+strep, mono was negative.  She ultimately had babesia, Lyme, 
+anaplasma, CMV, EBV serologies sent on ___.  These were all 
+negative (except babesia serologies which is still pending).  Of 
+note, the CMV, EBV IgG were negative - indicating no prior 
+infection.   
+   She was given doxycycline - which she has taken over the past 
+4 days - with no clear sign of change in symptoms.  last night, 
+she developed temp to 103 and had N/V x1 this morning.  Due to 
+persistent symptoms, she was recommended to come to the ED.  She 
+does feeling better overall, however, otherwise.  
+   In the ED, she was afebrile, but signs of increasing 
+transaminitis. Thrombocytopenia and leukopenia had resolved. 
+
+ROS: Does note mild LUQ pain - worse with coughing.  No recent 
+travels or significant hiking trips.  per HPI, denies vision 
+changes, rhinorrhea, congestion, sore throat, cough, shortness 
+of breath, chest pain, abdominal pain, nausea, vomiting, 
+diarrhea, constipation, BRBPR, melena, hematochezia, dysuria, 
+hematuria.  A 10 pt review of sxs was otherwise negative.
+. 
+
+ 
+Past Medical History:
+# IBS
+# Anxiety/depression
+# Reactive hypoglycemia
+# Dysphagia
+# Internal hemorrhoids
+ 
+Social History:
+___
+Family History:
+___ in brother.
+___ "condition" in sister
+___ degeneration in father.
+Mother had breast cancer. She had a colectomy due to unspecified 
+problems.
+Father's sister and mother had breast cancer.
+Mother had SCC and basal cell, father had melanoma and basal 
+cell. 
+ 
+Physical Exam:
+Vital Signs: 98.0 106/60 77 16 99% RA 
+glucose: 
+. 
+GEN: NAD, well-appearing, lying in bed, alert, interactive
+EYES: PERRL, EOMI, conjunctiva clear, anicteric
+ENT: moist mucous membranes, no exudates, pharyngeal tonsil mild 
+enlargement - no exudate.  
+NECK: supple, LAD+ Cervical, post auricular, post cervical 
+CV: RRR s1s2 nl, no m/r/g
+PULM: CTA, no r/r/w 
+GI: normal BS, NT/ND, liver edge below R costal margin, no 
+splenomegaly  
+EXT: warm, no c/c/e, no synovitis, or knee effusion
+SKIN: no rashes 
+NEURO: alert, oriented x 3, answers ? appropriately, follows 
+commands, non focal
+PSYCH: appropriate
+ACCESS: PIV
+FOLEY: absent
+
+ 
+Pertinent Results:
+LABS: SEE BELOW
+(___): 6.9> 12.3/36.9<158  Atyp Lymph 19%
+BUN/Cr ___ Na 137 K 3.8 
+ALT 307 AST 279 LD 660 AP 549 TBili 1.9 IndBili 1.0 
+
+OTHER DATA: 
+# RUQ U/S (___): 1. The liver appears enlarged, extending to 
+the left upper quadrant and overlapping with the spleen, however 
+is otherwise normal in appearance with no focal lesions seen. 2. 
+Spleen is top-normal in size measuring 12 mm. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT & PLAN: ___ h/o IBS presented with 9days of fever, 
+headache, transaminitis. 
+
+# ID: Ms. ___ was admitted with constellation of symptoms 
+fever, headache, chills, N/V,  cervical ___, transaminitis, 
+atypical lymphocytosis, mild hepatomegaly most c/w acute EBV 
+infection.  Outpt tests included strep, Lyme, anaplasma 
+serologies which all returned negative.  
+    Given the high suspicion, Monospot was sent and returned 
+positive - consistent with acute EBV infection.  Recent 
+serologies obtained from the outpt showed no prior infection to 
+EBV, CMV - indicating her susceptibility to acute infection (as 
+noted  for this presentation).  She was treated with supportive 
+care: motrin/Tylenol PRN and she was able to tolerate regular 
+diet without difficulty.  Steroids and antivirals (acyclovir) 
+were considered unnecessary (and unlikely to help). 
+   Her LFTs were elevated but were stable.  RUQ U/S here showed 
+mild hepatomegaly, borderline increased spleen size - but no 
+significant splenic enlargement to suspect she was at risk of 
+rupture.  She was discharged in good condition. 
+
+# Depression/anxiety: cont Prozac
+
+# GERD/dysphagia: cont Prilosec
+
+# OTHER ISSUES AS OUTLINED. 
+. 
+#FEN:   [] IVF   [X] Oral   [] NPO   [] Tube Feeds   [] 
+Parenteral
+#DVT PROPHYLAXIS: ambulatory
+#LINES/DRAINS:   [X] Peripheral   [] PICC   [] CVL   [] Foley
+#PRECAUTIONS: None
+#COMMUNICATION: Pt
+#CONSULTS: None
+#CODE STATUS: [X]full code []DNR/DNI
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FLUoxetine 40 mg PO DAILY 
+2. Omeprazole 20 mg PO BID 
+3. Doxycycline Hyclate 100 mg PO Q12H 
+4. Orsythia (levonorgestrel-ethinyl estrad) 0.1-20 mg-mcg oral 
+DAILY 
+
+ 
+Discharge Medications:
+1.  FLUoxetine 40 mg PO DAILY  
+2.  Omeprazole 20 mg PO BID  
+3.  Orsythia (levonorgestrel-ethinyl estrad) 0.1-20 mg-mcg oral 
+DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute EBV infection
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+   It was a pleasure looking after you.  As you know, you were 
+admitted with fever, chills, nausea, and elevated liver function 
+tests.  Ultimately, it was discovered that your symptoms are 
+attributed to an acute EBV ___ Virus) infection - 
+acute mononucleosis.   As discussed, there is no clear medical 
+treatments for this and the best course of action is rest and 
+adequate oral/fluid intake.
+
+There are no changes to your medications.  You may take Tylenol 
+or Motrin as needed (Tylenol should be less than 2 gm total per 
+day to avoid insult to liver).  
+
+We wish you good health!
+
+Your ___ Team
+ 
+Followup Instructions:
+___

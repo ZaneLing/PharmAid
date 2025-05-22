@@ -1,0 +1,317 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+epinephrine / fluconazole
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abnormal labs
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with NAFLD, morbid
+obesity, and GERD who presented to the ED at the recommendation
+of her outpatient provider for evaluation/management of
+hyperglycemia and elevated transaminases. 
+
+She reports that in ___, she was treated for sinusitis and
+bronchitis with antibiotics. She developed a vulvovaginal yeast
+infection after receiving antibiotics that has been
+persistent/recurrent for the last 5 months. Her OB/GYN, Dr.
+___ her on suppressive treatment for ___
+vulvovaginitis in ___ (fluconazole 150 mg every other day for
+3 doses, then one tab weekly). He ordered Hgb A1c and
+transaminases which resulted earlier this week and were all
+markedly elevated. He advised she go to urgent care. There she
+was found to have a serum glucose of 447. She received 2L IVF 
+and
+10 units regular insulin and was advised to go to the ED for
+hyperglycemia by on-call Endocrinology. She was admitted to
+Medicine for diabetic education including insulin 
+administration.
+
+Today she reports that lately she has actually been feeling
+better than she had in a long time. She had been trying to lose
+weight, and was able to lose 34-38 lbs. With the weight loss, 
+she
+feels like she has more energy and her back feels much better.
+She had noticed a slightly dry mouth, but not excessively so. 
+She
+has been drinking more water as part of her weight loss 
+strategy,
+so she has been urinating more. No new headaches or changes in
+vision. No CP, SOB, or palpitations. No nausea, vomiting,
+abdominal pain, or diarrhea. No paresthesias or loss of
+sensation. 
+
+Her transaminases have been elevated in the past. She was
+diagnosed with NAFLD by her gastroenterologist, Dr. ___.
+Diabetes is a new diagnosis for her, although it does run in her
+family.
+
+ED course:
+VS: T 97.9, HR 91, BP 112/83, RR 16, SpO2 97% on RA
+Labs: Serum glucose 221, bicarb 23, AG 15, ALT 372, ALT 210, ALP
+178
+Imaging: RUQ US: Echogenic liver consistent with steatosis. 
+Interventions: Insulin 3 units sq
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+- GERD
+- Morbid obesity
+- Iron deficiency anemia
+- Recurrent vulvovaginal candidiasis
+- Shoulder impingement syndrome
+- NAFLD
+ 
+Social History:
+___
+Family History:
+Father - ___, DM2, stroke, CAD/PVD
+MGM - Cervical cancer
+Mother - thyroid disorder
+___ uncle - DM type ___
+PGM - DM type ___
+
+ 
+Physical Exam:
+Admission physical exam
+VITALS: T 97.8, HR 85, BP 122/81, RR 20, SpO2 95% on RA
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT:  Oropharynx without visible lesion, erythema or exudate
+CV: Normal rate, regular rhythm, heart sounds distant, no
+appreciable murmur.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored.
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.
+MSK: Moves all extremities, strength grossly full and symmetric
+bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+
+Discharge physical exam
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, obese abdomen, non-distended, non-tender to
+palpation.  Bowel sounds present
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted, no spider angioma
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+Admission labs
+___ 08:35PM BLOOD WBC-7.4 RBC-4.94 Hgb-14.5 Hct-42.4 MCV-86 
+MCH-29.4 MCHC-34.2 RDW-12.9 RDWSD-40.3 Plt ___
+___ 08:35PM BLOOD Neuts-52.7 ___ Monos-5.8 Eos-4.7 
+Baso-0.8 Im ___ AbsNeut-3.90 AbsLymp-2.64 AbsMono-0.43 
+AbsEos-0.35 AbsBaso-0.06
+___ 08:50AM BLOOD ___ PTT-28.0 ___
+___ 08:35PM BLOOD Glucose-185* UreaN-11 Creat-0.7 Na-141 
+K-3.7 Cl-103 HCO3-23 AnGap-15
+___ 08:35PM BLOOD ALT-372* AST-210* AlkPhos-178* 
+TotBili-0.3
+___ 05:00AM BLOOD Triglyc-276* HDL-36* CHOL/HD-6.7 
+LDLcalc-149*
+___ 10:15AM BLOOD HIV Ab-NEG
+___ 10:15AM BLOOD HCV Ab-NEG
+___ 12:40AM BLOOD Glucose-221* Lactate-1.2
+
+Discharge labs
+
+___ 06:55AM BLOOD WBC-6.2 RBC-4.91 Hgb-14.6 Hct-42.1 MCV-86 
+MCH-29.7 MCHC-34.7 RDW-13.0 RDWSD-40.3 Plt ___
+___ 06:55AM BLOOD Glucose-189* UreaN-11 Creat-0.7 Na-141 
+K-4.0 Cl-102 HCO3-25 AnGap-14
+___ 06:55AM BLOOD ALT-608* AST-407* LD(LDH)-347* 
+AlkPhos-162* TotBili-0.5
+___ 06:55AM BLOOD Calcium-9.2 Phos-4.0 Mg-2.0
+___ 05:00AM BLOOD Triglyc-276* HDL-36* CHOL/HD-6.7 
+LDLcalc-149*
+___ 10:15AM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG
+___ 10:15AM BLOOD HIV Ab-NEG
+___ 10:15AM BLOOD HCV Ab-NEG
+
+Imaging:
+___ liver ultrasound
+IMPRESSION:  
+1. Echogenic liver consistent with steatosis. Other forms of 
+liver disease and more advanced liver disease including 
+steatohepatitis or significant hepatic fibrosis/cirrhosis cannot 
+be excluded on this study. 
+2.  No focal hepatic mass on limited views. 
+3.  Normal gallbladder. 
+4.  No biliary ductal dilation. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with NAFLD, morbid obesity, 
+and GERD who presented with hyperglycemia and elevated 
+transaminases 
+
+# Hyperglycemia
+# Diabetes mellitus, new diagnosis: Hgb A1c was 12.7% with serum 
+glucose level >400 in urgent care prior to admission. Per chart 
+review A1c in Atrius ___ was 5.1. The patient reported she has 
+never had an elevated Hgb A1c or elevated serum glucose on chem 
+panels in the past. She had no evidence of DKA on admission. She 
+was evaluated by ___ and discharged on glargine 20units, 
+Humalog 3 units with each meal and ISS (1 unit for 150, 2 units 
+for 200, 3 units for 250 etc). She ___ or endocrine 
+referral by her PCP
+___ avoided in the setting of transaminitis
+
+# NAFLD
+# Elevated transaminases
+She has had chronically elevated transaminases since ___. They 
+have generally been in the ___ range with a couple values in 
+the ___. She had a very thorough work up at the time 
+including negative hepatitis A, B, and C serologies, negative 
+anti-mitrochrondial Ab, anti-smooth muscle Ab <20, high/normal 
+alpha 1-antitrypsin, normal ceruloplasmin, LKM-1 Ab <1:20, and 
+negative genetic workup for hereditary hemochromatosis. TSH and 
+TTG were also wnl. She also had a normal liver ultrasound in 
+___ but current ultrasound with evidence of steatosis. Likely 
+the elevation in transaminases is iatrogenic due to chronic 
+fluconazole (since ___ use in the setting 
+of NAFLD. Evaluated by the liver team who felt the same. 
+Discontinued fluconazole and placed on allergy list
+We recommended Liver or GI outpatient follow up for management 
+of NAFLD. Encouraged regular exercise, weight loss, improved 
+control of diabetes
+
+# Recurrent ___ vulvovaginitis 
+Still having minor discharge on admission. Likely related to 
+poorly controlled diabetes. Outpatient providers sent ___ repeat 
+yeast culture to rule out ___ species other than albicans 
+that would require alternate therapy and came back as ___ 
+___. She will need to follow up as outpatient for treatment 
+of this with likely boric acid
+
+# GERD - continued home esomeprazole and ranitidine
+
+TRANSITIONAL ISSUES
+========================
+- F/u with Gyn for treatment of ___
+- F/u with endocrinology for management of diabetes
+- Will need LFTs trended within ___ days of discharge
+- Will need Liver follow up as outpatient for management of 
+NAFLD
+
+>30 minutes was spent on discharge planning and coordination
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Esomeprazole 40 mg Other BID 
+2. Ranitidine 300 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Glargine 20 Units Breakfast
+Humalog 3 Units Breakfast
+Humalog 3 Units Lunch
+Humalog 3 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+RX *blood sugar diagnostic [OneTouch Ultra Test]  Use up to 3 
+times a day for checking fingersticks  Disp #*90 Strip 
+Refills:*0
+RX *insulin glargine [Lantus Solostar] 100 unit/mL (3 mL) AS DIR 
+20 Units before BKFT; Disp #*60 Syringe Refills:*0
+RX *blood-glucose meter  Use upto 3 times day for checking 
+fingersticks Use upto 3 times day for checking fingersticks Disp 
+#*1 Kit Refills:*0
+RX *insulin lispro [Humalog KwikPen] 100 unit/mL AS DIR Up to 5 
+Units QID per sliding scale 3 Units before LNCH; Units QID per 
+sliding scale 3 Units before DINR; Units QID per sliding scale 
+Disp #*90 Syringe Refills:*0 
+2.  Esomeprazole 40 mg Other BID  
+3.  Ranitidine 300 mg PO QHS  
+4.Outpatient Lab Work
+LFTs (ALT, AST, Alkphos, Tbili) on ___ and ___
+send to: Name: ___, Location: ___ 
+___ Address: ___  
+Phone: ___ Fax: ___ 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis
+Transaminitis
+Type 2 diabetes
+Vulva candidiasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Miss ___,
+
+You were admitted due to elevated sugars and were found to have 
+diabetes. You were also found to have elevated liver enzymes. As 
+we discussed inpatient, you will need close follow up for your 
+diabetes management and treatment. Please ensure healthy diet 
+and exercise. Please ensure you are referred to a diabetes 
+doctor by your PCP.
+
+You will be going home on Glargine 20 units daily. Humalog 3 
+units with every meal. You will also have a Humalog (short 
+acting) sliding scale that you can use
+1 unit if your sugar is above 150, 2 units if above 200, 3 units 
+if above 250, 4 units if above 300, 5 units if above 350, 6 
+units if above 400 (If above 400, also call your doctor 
+immediately)
+
+With respect to your liver enzymes. We felt this was most likely 
+due medication induced hepatitis. This should self resolve with 
+time but you will need close monitoring of your liver enzymes.
+
+Your labwork at ___ also showed your yeast 
+infection is ___ which is not affected by 
+fluconazole. As we discussed please follow up with your doctors 
+as outpatient for treatment of this despite 
+improvement/stability of your symptoms.
+
+It was a pleasure being part of your care.
+Your ___ Team
+ 
+Followup Instructions:
+___

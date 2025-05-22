@@ -1,0 +1,258 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+quinine / latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal/back/chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with no significant PMHx who presents w/ 
+upper/mid back pain since night ___. Around 9pm, upper back and 
+L shoulder pain, started under L flank/ribcage and traveled up 
+her back and down L shoulder. At 2am she woke up with tightness 
+in her upper abdomen that moved to L chest and L back. Burning 
+pain worse with inspiration across LUQ and RUQ. She had some 
+palpitations but has not experienced any shortness of breath or 
+dyspnea on exertion. She noted that ___ she did experience 
+some right calf cramping after exercise, but pain did not 
+persist. She has been on long term OCPs, h/o right leg 
+lymphedema of unknown cause to RLE diagnosed in ___ at the 
+___. She denies N/V/F/C, recent travel/long car rides, 
+h/o blood clots, h/o malignancy and family history is notable 
+for sickle cell trait in her mother and sickle cell disease in 
+her mother's sister.
+
+In ED:
+Vitals: 97.4 66 156/100  18 100% RA
+Meds given: famotidine, GI cocktail, heparin GTT at 8 am.
+Labs notable for: DDimer 1003, LFTs WNL, Chem 7 WNL, Troponin 
+<0.01, CBC WNL, ___ 12.0, PTT 25.4, INR 1.1.
+
+CXR: Cardiomediastinal silhouette WNL. Lungs clear. No pleural 
+effusion or pneumothorax. IMPRESSION: No acute intrathoracic 
+abnormality 
+
+CTA: Nonocclusive PEs present in segmental and subsegmental 
+branches of RUL and subsegmental branches of RLL. No evidence of 
+pulmonary infarction or R heart strain.
+
+On the floor, patient is comfortable, saturating 100% on room 
+air and VSS. 
+
+ 
+Past Medical History:
+Lymphedema: Rt ___- has had it since age ___. Diagnosis of 
+lymphedema was made in ___ after contrast study.
+Dysmennorhea: On ___. Has been on OCPs since her teenage 
+years.
+Submucosal leiomyoma of uterus
+herpes pregenitalis
+Congenital dislocation of the hip  
+
+ 
+Social History:
+___
+Family History:
+-Father Alive ___ 
+-___ Grandmother  ___ - Unknown Type 
+-Mother Alive ___ - Unknown Type; Hemoglobinopathy: Sickle 
+Trait; Hyperlipidemia 
+-Sister Alive iron def anemia  
+ 
+Physical Exam:
+ON ADMISSION
+Vital Signs: 98.2 70 137/91 16 100% RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Good air entry and clear to auscultation bilaterally, no 
+wheezes, rales, rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait deferred
+
+ON DISCHARGE
+Vital Signs:  98.4  131/72   74  18 100%RA
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Good air entry and clear to auscultation bilaterally, no 
+wheezes, rales, rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation, 2+ reflexes bilaterally, gait deferred
+ 
+Pertinent Results:
+PERTINENT LAB RESULTS
+___ 05:10AM BLOOD WBC-4.2 RBC-4.41 Hgb-12.4 Hct-38.1 MCV-86 
+MCH-28.1 MCHC-32.5 RDW-13.5 RDWSD-42.8 Plt ___
+___ 07:30AM BLOOD ___ PTT-25.4 ___
+___ 05:10AM BLOOD Glucose-95 UreaN-9 Creat-1.1 Na-136 K-4.2 
+Cl-101 HCO3-23 AnGap-16
+___ 05:10AM BLOOD ALT-12 AST-19 AlkPhos-57 TotBili-0.3
+___ 05:10AM BLOOD Lipase-24
+___ 05:10AM BLOOD cTropnT-<0.01
+___ 05:10AM BLOOD proBNP-48
+___ 05:10AM BLOOD Albumin-4.3 Calcium-11.0* Phos-5.0* 
+Mg-1.8
+___ 05:10AM BLOOD D-Dimer-1003*
+
+PERTINENT IMAGING
+
+___ LENIs
+IMPRESSION:  
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+  
+___ CTA
+IMPRESSION:  
+Nonocclusive pulmonary emboli in the segmental and subsegmental 
+branches of the right upper lobe and the subsegmental branches 
+of the right lower lobe. There is no evidence of pulmonary 
+infarction or right heart strain. 
+
+ 
+Brief Hospital Course:
+___ w/PMH of R leg lymphedema and OCP use presenting with 1 day 
+of abdominal and back pain. D-Dimer was elevated and 
+CTA-confirmed right sided PEs. Patient was started on heparin 
+drip in ED and transferred to floor where she was started on 
+lovenox. She was discharged on apixaban. 
+
+#) Multiple pulmonary emoboli. Most likely emboli provoked in 
+setting of chronic lymphedema and long term OCP use. Patient's 
+mother also has sickle cell trait, but patient does not recall 
+if she has been screened. Patient was started on heparin drip in 
+ED, and transitioned to lovenox on the floor. She is going to be 
+discharged on apixaban (insurance will cover her) and off of 
+birth control pills. Risk of OCPs discussed with patient, and 
+patient agrees to stopping birth control. She was instructed to 
+use barrier contraception until she discusses contraception with 
+her PCP. Team was in touch with her primary care physician who 
+she ___ follow up with on ___ at 1:40 pm. At___ 
+hematology was also FYI'd and will see patient at the discretion 
+of the PCP. ___ of Right ___ was negative (prelim read) on this 
+admission.
+
+#) Dysmenorrhea: Treated with estrogen/progesterone containing 
+birth control. Patient agrees with stopping OCPs and will 
+discuss other options with her PCP.
+
+#) Lymphedema: Stable RLE lymphedema since age ___. No treatment 
+during hospitalization. Negative right ___ US.
+
+TRANSITIONAL ISSUES
+===================
+[]patient being discharged on apixaban for a minimum of 3 to 6 
+months. Total treatment time can be determined by outpatient 
+PCP. She will be on 10 mg BID x 7 days; and then transition to 5 
+mg BID ongoing.
+[]patient is being discharged off of her estrogen containing 
+OCPs. Discussed with patient other options of starting 
+progesterone-only OCPs for dysmenorrhea.
+[]At___ hematology/oncology aware of patient during 
+hospitalization and will see patient in outpatient setting at 
+discretion of ___ PCP.
+# CODE: FULL
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ___ FE ___ (28) (norethindrone-e.estradiol-iron) 1 mg-20 
+mcg (21)/75 mg (7) oral DAILY 
+2. Clobetasol Propionate 0.05% Ointment 1 Appl TP BID 
+
+ 
+Discharge Medications:
+1. Apixaban 10 mg PO BID 
+Please take for the first 7 days ___ to ___ 
+RX *apixaban [Eliquis] 5 mg 2 tablet(s) by mouth twice a day 
+Disp #*14 Tablet Refills:*0
+2. Apixaban 5 mg PO BID 
+Start on ___, ongoing 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*0
+3. Clobetasol Propionate 0.05% Ointment 1 Appl TP BID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+Provoked Pulmonary embolism
+
+SECONDARY DIAGNOSIS
+===================
+Chronic Right leg lymphedema 
+Dysmenorrhea 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted to ___ for 
+abdominal and chest pain and were found to have pulmonary emboli 
+(clots in your lung). You were first treated with IV blood 
+thinner medication (heparin) and now you are on oral medications 
+to help thin your blood and prevent clot recurrence. Your oral 
+contraceptive pills may have contributed to the clots in your 
+lung.  You should stop taking these medications and you should 
+speak with your primary care physician regarding progesterone 
+only options for your menstrual symptoms as these do not 
+contribute to blood clots.
+
+We were in touch with your primary care provider during your 
+stay. Please follow up with Dr. ___ on ___ at 
+1:40PM. You will discuss at this time whether you need to see a 
+blood specialist (a hematologist).
+
+Your new blood thinner is called apixaban (also called Eliquis). 
+ It is very important that you take this medication every 12 
+hours.  You should take 10mg (2 pills) twice a day for the first 
+7 days (Day #1 ___, to be taken through ___.  Your 
+first dose of apixaban, 10 mg is due at 10:30 pm ___.  
+Again, It is extremely important for you to take the medication 
+every 12 hours.  After the first 7 days of treatment, please 
+take 5 mg every 12 hours ongoing beginning ___.
+
+It was a pleasure taking part in your care!
+
+We wish you a speedy recovery and all the best,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

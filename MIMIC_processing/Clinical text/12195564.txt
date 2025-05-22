@@ -1,0 +1,269 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Seizure
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with the past medical
+history of alcohol abuse, seizure disorder, who is being 
+admitted
+for alcohol withdrawal, seizure, and afib with RVR.
+
+Per patient and the ED report, he was seen in the ED with 
+alcohol
+intoxication on ___ and was discharged from the ED upon 
+sobering
+up on ___.  He then left his shelter today to go for a walk and
+remembers waking up in the ED (was brought in by ambulance) -
+denies any prodromal or preceding symptoms prior to the fall and
+LOC.  He re-presented today after being brought in by ambulance
+after a witnessed fall and hit his head.  He does not remember
+what happened today prior to the fall.  His last drink was
+yesterday, he thinks.  Drinks approximately ___ pint of vodka 
+per
+day.  
+
+He reports a history of seizure d/o for the last few years but
+unclear if this is a primary disorder or related to alcohol
+withdrawal.  He does not recall his last seizures.  He does
+experience hallucinations and withdrawal symptoms if he does not
+have a drink for a few days.  
+
+While in the ED, he was witnessed to have a likely seizure at
+approximately 11:50 am (moving around, then stopped responded to
+commands, and then tried to jump out of bed and was incontinent
+of urine.  He underwent a head CT (no acute findings) and
+received keppra.  At 1330 he triggered for hypotension and afib
+with RVR.  He received 30 mg IV dilt and 30 mg po dilt and went
+back into SR.  He received a total of 2 L NS and a total of 30 
+mg
+IV diazepam, last dose at 1420. 
+
+Currently he is resting comfortably without any symptoms.  He
+reports he had hallucinations and tremors earlier in the ED,
+which have since resolved.  No headache, LH/dizziness, chest
+pain, SOB, tremors, n/v/abd pain, diarrhea.  
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+Alcohol abuse
+Seizure disorder
+? afib (unclear why on BB)
+
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+ 
+Physical Exam:
+98.6F, 136 / 90 BP, 69 HR, 18 RR, 96% RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+CV: Heart regular, no murmur, no S3, no S4.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. 
+GI: Abdomen soft, non-distended, mildly tender to epigastrum
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities
+NEURO: Alert, oriented, no tremor, not restless
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+COMPLETE BLOOD COUNT WBC RBC Hgb Hct MCV MCH MCHC RDW RDWSD Plt 
+Ct 
+___ 07:46    4.9 3.50* 10.4* 32.4* 93 29.7 32.1 14.6 
+49.1* 278 
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+___ 07:46    ___ 1432 3.8 ___ 
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase 
+TotBili DirBili 
+___ 07:46    11 19     65   0.4   
+OTHER ENZYMES & BILIRUBINS Lipase 
+___ 21:59    25 
+CARDIAC MARKERS cTropnT 
+___ 12:50    <0.011 
+  WHOLE BLOOD, MISCELLANEOUS CHEMISTRY Lactate 
+___ 00:27    1.3 
+___ 14:13    3.0* 
+
+CT head without contrast on ___
+FINDINGS:  
+  
+There is encephalomalacia in the inferior aspect of the right 
+frontal lobe, 
+likely sequelae of a prior/remote insult.  There is no evidence 
+of acute 
+infarction,hemorrhage,edema,or new mass effect.  There is 
+prominence of the 
+ventricles and sulci suggestive of involutional changes.  
+Additionally, there 
+is slight ex vacuo dilatation of the frontal horn of the right 
+lateral 
+ventricle near the focus of encephalomalacia.  Scattered 
+bilateral foci of 
+periventricular deep white matter hypodensity are nonspecific 
+however 
+compatible with mild sequelae of chronic white matter 
+microangiopathy.  
+Senescent calcifications are seen in the globus pallidus 
+bilaterally. 
+  
+There is evidence of prior left parietal craniotomy, as well as 
+a left frontal 
+burr hole.  No evidence of acute fracture.  The visualized 
+portion of the 
+paranasal sinuses, mastoid air cells, and middle ear cavities 
+are clear.  
+Carotid siphon calcifications are noted. 
+
+IMPRESSION: 
+  
+1. No acute intracranial process.  No acute intracranial 
+hemorrhage. 
+2. Encephalomalacia in the inferior right frontal lobe likely 
+represents 
+sequelae of prior/remote insult. 
+3. Chronic findings include changes from prior left parietal 
+craniotomy and 
+left frontal burr hole, global involutional change, mild changes 
+of chronic 
+white matter microangiopathy, and vascular calcifications. 
+
+ 
+Brief Hospital Course:
+___ male with history of alcohol abuse and seizure
+disorder (unclear if distinct from prior alcohol withdrawal
+seizures), atrial fibrillation who was admitted for seizure on 
+___.
+
+The patient had negative blood alcohol levels on presentation. 
+He was in active generalized tonic clonic convulsions in the ED 
+and required diazepam, and found to have atrial fibrillation 
+with RVR requiring IV diltiazem. After ___, the next day he was 
+not scoring on CIWA, and was in sinus rhythm. No medications 
+were changed at time of discharge. He was not initiated on 
+anticoagulation for his atrial fibrillation (CHADS2VASC 1) due 
+to frequent falls and head trauma. 
+There was incidental finding of prior left frontal craniotomy on 
+the CTH.
+
+Patient was discharged with instructions to go to the ___ (as he is currently homeless) and to see his PCP 
+there as scheduled.
+
+Greater than 30 minutes was spent in discharge planning and 
+coordination.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LevETIRAcetam 1000 mg PO DAILY 
+2. Metoprolol Succinate XL 50 mg PO DAILY 
+3. Naltrexone 50 mg PO DAILY 
+4. Ferrous Sulfate 325 mg PO BID 
+5. FoLIC Acid 1 mg PO DAILY 
+6. MagOx (magnesium oxide) 400 mg oral DAILY 
+7. Multivitamins 1 TAB PO DAILY 
+8. Omeprazole 20 mg PO DAILY 
+9. PARoxetine 20 mg PO DAILY 
+10. Polyethylene Glycol 17 g PO DAILY 
+11. Cyanocobalamin 100 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Cyanocobalamin 100 mcg PO DAILY  
+2.  Ferrous Sulfate 325 mg PO BID  
+3.  FoLIC Acid 1 mg PO DAILY  
+4.  LevETIRAcetam 1000 mg PO DAILY  
+5.  MagOx (magnesium oxide) 400 mg oral DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY  
+7.  Multivitamins 1 TAB PO DAILY  
+8.  Naltrexone 50 mg PO DAILY  
+9.  Omeprazole 20 mg PO DAILY  
+10.  PARoxetine 20 mg PO DAILY  
+11.  Polyethylene Glycol 17 g PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Alcohol withdrawal seizures
+Atrial fibrillation with RVR
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Instructions: Dear Mr. ___,
+
+It was a pleasure to be a part of your care team at ___ 
+___.
+
+====================================
+Why did you come to the hospital? 
+====================================
+
+-You had a seizure and fast heart rate.
+
+====================================
+What happened at the hospital? 
+====================================
+
+-You were found to have seizures due to alcohol withdrawal. A CT 
+head scan showed no acute abnormality. You were treated with 
+anti-seizure medications and observed for 2 more days with no 
+more seizure evidence.
+-You also had a fast heart rate due to your alcohol withdrawal, 
+in atrial fibrillation rhythm. This became normal sinus rhythm 
+after treatment.
+
+==================================================
+What needs to happen when you leave the hospital? 
+
+==================================================
+
+-Your primary care doctor requests you go to ___ 
+where they would love to see you today immediately after 
+discharge. 
+
+-Take your medications every day as directed by your doctors 
+-___ attend all of your doctor appointments, this is 
+especially important to help with your seizure disorder and 
+atrial fibrillation. 
+-Avoid activities where a seizure could cause serious injury. 
+Examples include climbing, biking, and swimming alone. Do NOT 
+drive unless instructed by your PCP.
+
+It was a pleasure taking care of you during your stay! 
+
+Sincerely, 
+
+Your ___ team  
+
+ 
+Followup Instructions:
+___

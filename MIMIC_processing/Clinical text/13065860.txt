@@ -1,0 +1,151 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___               Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Benzodiazepines / Nembutal Sodium / vancomycin
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------
+___ 05:48AM BLOOD WBC-8.6 RBC-4.82 Hgb-12.5 Hct-38.9 
+MCV-81* MCH-25.9* MCHC-32.1 RDW-13.8 RDWSD-40.1 Plt ___
+___ 01:47PM BLOOD Neuts-60.1 ___ Monos-5.4 Eos-1.2 
+Baso-0.7 Im ___ AbsNeut-4.15 AbsLymp-2.23 AbsMono-0.37 
+AbsEos-0.08 AbsBaso-0.05
+___ 05:48AM BLOOD Glucose-194* UreaN-9 Creat-0.6 Na-140 
+K-4.4 Cl-100 HCO3-20* AnGap-20*
+
+IMAGING
+-------
+ECG on admission: sinus tachycardia
+
+ 
+Brief Hospital Course:
+___ female with developmental delay, bithalamic low 
+grade astrocytoma with a reported BRAF mutation now off therapy 
+who presents with suicidal ideation, hyperglycemia and 
+tachycardia. 
+
+# Tachycardia: - ECG demonstrates sinus tachycardia.  This 
+appears to be longstanding and was present during her outpatient 
+appointments.  She should have TTE at ___ for 
+further evaluation.  TSH normal.
+
+# Astrocytoma
+# Headache: Will need to touch base with her parents and 
+oncology to determine if further imaging needed at ___.  
+Patient is concerned with these symptoms, and it should be 
+re-evaluated at ___.
+
+# Diabetes, poorly controlled: unclear why this is poorly 
+controlled.  Home regimen was continued during stay.  Further 
+titration of insulin regimen will likely be needed at ___.
+
+# Depression
+# Suicidal ideation: continued amitriptyline/clonazepam PRN and 
+latuda (lurasidone) 60 mg.  Psychiatry followed while patient 
+was admitted, and she will be admitted to ___ facility at 
+___.  Family was notified.
+
+# Seizure disorder: continued Keppra and clonazepam prn 
+
+# Hypothyroidism: continued levothyroxine
+
+TRANSITIONS OF CARE
+-------------------
+# Follow-up: patient will be discharged to ___ for 
+further care.  TTE should be considered to look into 
+tachycardia.  Further titration of diabetes medications will be 
+needed.  Patient may need further brain imaging given headaches 
+and known astrocytoma.
+
+# Contacts/HCP/Surrogate and Communication:  Father - Dr. ___
+# Code Status/Advance Care Planning: Presumed FULL
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LevETIRAcetam 2500 mg PO BID 
+2. Levothyroxine Sodium 75 mcg PO DAILY 
+3. MetFORMIN (Glucophage) ___ mg PO QPM 
+4. Amitriptyline 20 mg PO QPM 
+5. Cetirizine 10 mg PO DAILY:PRN allergies 
+6. ClonazePAM 0.5 mg PO DAILY:PRN anxiety 
+7. ClonazePAM 0.25 mg PO DAILY:PRN seizure 
+8. Glargine 80 Units Breakfast
+Humalog 25 Units Breakfast
+Humalog 25 Units Lunch
+Humalog 25 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin
+9. Latuda (lurasidone) 60 mg oral QPM 
+
+ 
+Discharge Medications:
+1.  Glargine 80 Units Breakfast
+Humalog 25 Units Breakfast
+Humalog 25 Units Lunch
+Humalog 25 Units Dinner
+Insulin SC Sliding Scale using HUM Insulin 
+2.  Amitriptyline 20 mg PO QPM  
+3.  Cetirizine 10 mg PO DAILY:PRN allergies  
+4.  ClonazePAM 0.5 mg PO DAILY:PRN anxiety 
+RX *clonazepam 0.5 mg 1 tablet(s) by mouth once a day Disp #*3 
+Tablet Refills:*0 
+5.  ClonazePAM 0.25 mg PO DAILY:PRN seizure 
+RX *clonazepam 0.5 mg 0.5 (One half) tablet(s) by mouth once a 
+day Disp #*3 Tablet Refills:*0 
+6.  Latuda (lurasidone) 60 mg oral QPM  
+7.  LevETIRAcetam 2500 mg PO BID  
+8.  Levothyroxine Sodium 75 mcg PO DAILY  
+9.  MetFORMIN (Glucophage) ___ mg PO QPM  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Tachycardia
+Diabetes, uncontrolled
+Brain neoplasm
+Suicidal ideation
+Depression
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you during your recent 
+hospitalization.  You came to the hospital with fast heart rate, 
+as well as thoughts of hurting yourself.  You will continue 
+further work-up at ___.  You are now being 
+discharged.
+
+It is important that you continue to take your medications as 
+prescribed and follow up with the appointments listed below.
+
+Good luck!
+
+ 
+Followup Instructions:
+___

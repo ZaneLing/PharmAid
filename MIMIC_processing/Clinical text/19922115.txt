@@ -1,0 +1,290 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+leg pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with PMHx of asthma and chronic
+lower extremity venous stasis and DVT previously on rivaroxaban
+who is presenting with LLE pain
+
+Mr. ___ is currently homeless (for at least the last several
+months). He was admitted in ___ after a scrape on
+his leg became infected. On that admission, he was treated with
+Keflex for ___nd also diagnosed with a chronic LLE 
+DVT
+for which he was initiated on Rivaroxaban. He was discharged 
+with
+plans to hook into Health Care for the Homeless to establish
+primary care as he was not being followed outpatient at that
+time. Unfortunately, it appears that he did not establish care
+following this admission. 
+
+He was readmitted in ___ with persistent leg pain iso not
+taking prescribed rivaroxaban. His leg pen and swelling/skin
+changes were thought to be predominantly due to chronic venous
+stasis and poor wound care during that hospitalization. He did
+have ___ US that showed L superficial femoral vein and L 
+popliteal
+vein thrombosis without visualization of deep veins as pt did 
+not
+tolerate due to pain. He was restarted on rivaroxaban and pain
+and swelling improved with this and wound care. It was unclear 
+at
+that time if his DVT was provoked or not, and he was recommended
+to follow up with heme/onc outpatient for determination of AC
+duration. He was discharged to ___. 
+
+In the ED: afebrile, HR 95-108, BP 140/80-155/77, SpO2 98% RA
+labs notable for Hgb 11.6 (unknown bl), normal BMP, lactic acid
+wnl. 
+Imaging: LLE with nonocclusive mid and distal femoral vein
+thrombosis 
+Meds: Started on IV heparin gtt 
+
+On arrival to the floor today, pt provides limited history. He
+reports that his leg pain worsened over the last week. He is
+currently homeless and reports that he has not been doing
+anything for the current pain or skin changes. He denies any CP,
+SOB, f/c, or nausea. He did not answer further questions and
+reports being in severe leg pain. 
+
+ROS: 10 point review of systems is otherwise negative except as
+listed above
+
+ 
+Past Medical History:
+Asthma
+LLE DVT
+chronic venous stasis 
+ 
+Social History:
+___
+Family History:
+Denies known family history of blood clots
+ 
+Physical Exam:
+Admission Exam:
+=================
+VITALS: Afebrile HR 95-108, BP 140/80-155/77, SpO2 98% RA 
+(seeeFlowsheet)
+GENERAL: appears disheveled, alert, awake, NAD. 
+EYES: Anicteric, PERRL
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+MMM
+CV: RRR, no m/r/g.  
+RESP: no increased wob, lungs clear to auscultation in all 
+fields
+GI: +BS, abd soft, ND. no tenderness to palpation 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities.
+SKIN: bilateral ___ with chronic venous stasis changes L > R. LLE
+with swelling and pain to palpation. bilateral ___ to touch
+but no evidence of streaking erythema or fluid collection. No
+purulence or open drainage appreciated. Skin breakdown above L
+mid calf/knee
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout
+PSYCH: reserved
+
+Discharge Exam:
+================
+Vitals: 98.2 PO 114 / 74 R Lying 58 18 98 Ra  
+General: Dishevled but comfortable, lying in bed
+HEENT: Anicteric, eyes conjugate, MMM
+Cardiovascular: RRR no MRG, nl. S1 and S2
+Pulmonary: Lung fields clear to auscultation throughout
+Gastroinestinal: Soft, non-tender, non-distended, bowel sounds 
+present, no HSM
+MSK: No edema, significant muscle mass
+Skin: B/l lower extremities with chronic venous stasis changes, 
+much more significant on LLE with swelling and ttp along the 
+skin at the left lateral ankle with normal ROM without 
+significant pain, warm to touch but not hot, no evidence of 
+erythema. Skin breakdown just distal to the left knee medially 
+without purulence
+Neurological: Alert, interactive, speech fluent
+Psychiatric: tangential, intermittently paranoid
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 02:25PM BLOOD WBC-6.1 RBC-3.79* Hgb-11.6* Hct-36.0* 
+MCV-95 MCH-30.6 MCHC-32.2 RDW-14.7 RDWSD-51.1* Plt ___
+___ 02:25PM BLOOD Neuts-60.7 ___ Monos-12.6 Eos-2.3 
+Baso-0.3 Im ___ AbsNeut-3.70 AbsLymp-1.45 AbsMono-0.77 
+AbsEos-0.14 AbsBaso-0.02
+___ 02:25PM BLOOD Glucose-134* UreaN-17 Creat-1.0 Na-140 
+K-4.8 Cl-108 HCO3-24 AnGap-8*
+___ 02:40PM BLOOD Lactate-1.5
+
+Imaging:
+=========
+___ US ___:
+Nonocclusive deep venous thrombus in the left mid and distal
+femoral vein. Enlarged left groin lymph node, nonspecific.
+
+***Refused further labs this admission stating we had already 
+taken enough blood***
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ homeless gentleman with h/o asthma, LLE 
+cellulitis and DVT, chronic venous stasis who is presenting with 
+LLE pain and swelling likely progression of DVT iso medication 
+non-adherence.  
+
+ACUTE/ACTIVE ISSUES:
+====================
+# LLE Swelling, Pain
+# Non occlusive DVT in L mid and distal femoral vein 
+Patient with LLE swelling with skin changes consistent with 
+chronic venous stasis likely due to untreated DVT on the left. 
+Per discussion with patient, he took Xarelto in past but just 
+for short while because he didn't have refills on his script. On 
+exam, he had no erythema or purulence and no leukocytosis on 
+admission however he did have area of slight skin breakdown on 
+his left medial shin with some erythema so decision was made to 
+treat for possible overlying cellulitis with 5 day course of 
+Keflex. For his DVT, he was restarted on a dose pack of Xarelto 
+and given a prescription for Xarelto to fill in one month to 
+allow continued adherence to anticoagulation. He was seen by 
+pharmacy to fill out an application to receive Xarelto through 
+the drug company in the future (received voucher this admission) 
+and was discharged as below to establish care at ___ 
+with Health Care for the Homeless. He was seen by wound care 
+this admission and discharged with supplies to care for his leg. 
+
+
+# Psychosocial Determinants of health
+# Fixed beliefs around medical Care: Patient is homeless and has 
+been for several years. He declined to tell me exactly where he 
+stays and expressed some paranoid behavior this admission though 
+some spurs from prior psychiatric hospitalization here at ___ 
+against his will. During his hospitalization, he perseverated on 
+concerns about infection in his leg, particularly given that he 
+reports previously being prescribed abx but the script was 
+stolen. We discussed that this was most likely due to his blood 
+clot which he at times seemed to understand and at others was 
+not open to considering. Based on this and concern about his 
+possible fixed delusions and capacity, psych was consulted and 
+did not feel that he met criteria for axis 1 disorders and felt 
+he had capacity to disagree with the medical assessment. 
+Ultimately, patient was amenable to treatment with 
+anticoagulants long term and short term antibiotic course. He 
+was discharged with plan to go directly to ___ 
+to establish PCP at ___ care for the homeless given his lack 
+of insurance however patient declined to get in the Lyft to ___ 
+after leaving the hospital. 
+
+Transitional Issues:
+===================
+[ ]Given recurrent DVTs (vs non-healed DVT), would likely 
+benefit from lifelong anticoagulation however would favor repeat 
+imaging prior to stopping anticoagulation in the future if being 
+stopped to ensure resolution of current blood clot
+[ ]Noted to have enlarged left groin lymph nodes on US of ___. 
+Please follow-up as outpatient and consider additional imaging 
+to further evaluate
+
+[x]>30 minutes spent on discharge planning and care coordination 
+on day of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth every eight (8) 
+hours Disp #*60 Tablet Refills:*0 
+2.  Cephalexin 500 mg PO QID Duration: 5 Days 
+RX *cephalexin 500 mg 1 capsule(s) by mouth every six (6) hours 
+Disp #*18 Tablet Refills:*0 
+3.  Miconazole Powder 2% 1 Appl TP BID Duration: 7 Days 
+Apply to left leg 
+RX *miconazole nitrate 2 % Apply to left leg twice a day Disp 
+#*1 Spray Refills:*0 
+4.  Rivaroxaban 15 mg PO BID 
+RX *rivaroxaban [___] 15 mg (42)- 20 mg (9) As directed 
+tablet(s) by mouth As directed (Twice daily for 3 weeks then 
+daily) Disp #*1 Dose Pack Refills:*0
+RX *rivaroxaban [___] 20 mg 1 tablet(s) by mouth Daily at 
+dinner Disp #*30 Tablet Refills:*1 
+5.  Sarna Lotion 1 Appl TP QID:PRN pruritis 
+RX *camphor-menthol [Sarna Anti-Itch] 0.5 %-0.5 % Apply to left 
+daily as needed for itching Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+LLE DVT
+Chronic venous stasis changes ___ DVT
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital with worsening swelling and 
+pain in your left leg. You had an imaging study of your leg 
+which showed that you have a blood clot (also known as a DVT or 
+deep vein thrombosis) in your leg. This is causing your symptoms 
+of swelling and pain. It is VERY important that you continue to 
+take your Xarelto (rivaroxaban) as prescribed (indefinitely) to 
+prevent your clot from worsening. You should NOT skip a dose of 
+this medication. 
+
+We are also treating you with Keflex (cephalexin), an 
+antibiotic, for any infection in your leg. Please continue to 
+take this medication until the script finishes (in 5 days).
+
+Medication plan:
+=================
+Take Xarelto (rivaroxaban) 15mg Twice daily for 3 weeks 
+THEN
+Take xarelto (rivaroxaban) 20mg daily ongoing (Script for this 
+provided)
+
+Take Keflex (cephalexin) 500mg Every 6 hours for 5 days
+
+For the skin changes on your legs, you were seen by the wound 
+care nurses who recommended a cleanser and dressing plan to help 
+the swelling improve. Please continue with their recommendations 
+after discharge. 
+
+You are now ready for discharge. We are discharging you to 
+___ ___ to establish primary care with Health Care 
+for the Homeless. When you get there, Please tell them you are 
+there to set up care with a primary care doctor. It is VERY 
+important that you establish with a primary care doctor to 
+continue to prescribe your Xarelto for your DVT (blood clot). 
+
+It was a pleasure taking care of you,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

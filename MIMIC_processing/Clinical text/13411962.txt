@@ -1,0 +1,290 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: ___ 0746 Temp: 99.2 PO BP: 142/94 HR: 75 RR: 18 O2
+sat: 93% O2 delivery: Ra 
+Gen: Comfortable, in NAD
+HEENT: Traumatic superficial abrasions on right forehead with
+clotted blood, PERRL, EOMI
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, or
+rhonchi
+CV: RRR, no murmurs, rubs, or gallops
+Abd: Soft, distended, non-tender, normoactive bowel sounds
+Ext: 2+ peripheral pulses, no c/c/e. Warm. 
+Neuro: AOx3. Nonfocal exam
+Skin: Back with multiple benign appearing nevi. 
+
+ADMISSION LABS:
+===============
+___ 06:45PM BLOOD WBC-12.7* RBC-4.74 Hgb-13.7 Hct-42.4 
+MCV-90 MCH-28.9 MCHC-32.3 RDW-13.2 RDWSD-43.3 Plt ___
+___ 06:45PM BLOOD Neuts-80.7* Lymphs-9.9* Monos-8.6 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-10.23* AbsLymp-1.25 
+AbsMono-1.09* AbsEos-0.01* AbsBaso-0.02
+___ 06:45PM BLOOD ___ PTT-91.7* ___
+___ 06:45PM BLOOD Glucose-137* UreaN-25* Creat-1.3* Na-140 
+K-5.2 Cl-108 HCO3-18* AnGap-14
+___ 08:24PM BLOOD ALT-12 AST-20 AlkPhos-82 TotBili-1.1
+___ 06:45PM BLOOD cTropnT-0.16*
+___ 04:12AM BLOOD CK-MB-4 cTropnT-0.10*
+___ 06:45PM BLOOD Calcium-8.6 Phos-3.4 Mg-2.2
+___ 04:25AM BLOOD Lactate-1.6
+
+PERTINENT DISCHARGE LABS:
+=========================
+___ 07:53AM BLOOD WBC-7.0 RBC-4.38* Hgb-12.7* Hct-39.1* 
+MCV-89 MCH-29.0 MCHC-32.5 RDW-12.9 RDWSD-42.4 Plt ___
+___ 07:53AM BLOOD Glucose-100 UreaN-23* Creat-1.2 Na-145 
+K-4.4 Cl-109* HCO3-21* AnGap-15
+___ 07:53AM BLOOD Calcium-8.6 Phos-4.1 Mg-2.2
+
+MICRO:
+======
+None
+
+IMAGES:
+=======
+EKG: Sinus tachycardia rate 101, 1mm STD in lead I, II, V4-V6,
+TWI in V3-V6, otherwise normal intervals
+
+CT Head (___):
+IMPRESSION:
+1. No acute fractures or traumatic malalignment, with
+straightening of the normal cervical lordosis likely reflecting
+muscle spasm.
+2. Multifactorial, multilevel spondylosis, with neural foraminal
+compromise at several levels, as described.
+3.Atherosclerosis.
+
+CT C-Spine (___):
+IMPRESSION:
+1.No acute fractures or traumatic malalignment, with
+straightening of the normal cervical lordosis likely reflecting
+muscle spasm.
+___, multilevel spondylosis, with neural foraminal
+compromise at several levels, as described.
+3.Atherosclerosis
+
+CTA CHEST ___:
+1. Extensive pulmonary emboli within the right and left 
+pulmonary
+arteries, extending to segmental and subsegmental branches of 
+the
+right upper, right middle, right lower, left upper, and left
+lower lobes. No definite evidence
+of right heart strain. Hypoenhancing consolidation with
+surrounding ground-glass within the left lower lobe, concerning
+for pulmonary infarct.
+2. Small left pleural effusion.
+
+TTE ___:
+Estimated left ventricular ejection fraction is 55%
+IMPRESSION: Moderately dilated right ventricle with severe free 
+wall hypokinesis (minimal preservation of apical function 
+secondary to LV tethering (___ sign). Preserved left 
+ventricular systolic function. RV volume overload on the left 
+ventricle. Mild to moderate pulmonary hypertension. Mildly 
+dilated ascending aorta. ___ 0 AP oriented bicuspid aortic 
+valve without pathologic flow.
+
+CLINICAL IMPLICATIONS: The patient has a mildly dilated 
+ascending aorta. Based on ___ ACCF/AHA Thoracic Aortic 
+Guidelines, if not previously known or a change, a follow-up 
+echocardiogram is suggested in ___ year; if previously known and 
+stable, a follow-up echocardiogram is suggested in ___ years.
+
+BILAT LOWER EXT VEINS ___:
+Nonocclusive deep venous thrombosis involving the left popliteal 
+vein, both left peroneal veins, and one of the paired posterior 
+tibial veins. 
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE:
+======================
+Mr. ___ is a ___ history of HTN, HLD, who initially presented 
+to ___ with syncope and worsening shortness of breath, 
+there found to have NSTEMI, transferred here and found to have 
+unprovoked submassive PE on CTA chest. He was started on a 
+heparin gtt and remained HDS. Formal TTE with evidence of severe 
+right heart strain, and per discussion between ___ and 
+patient, felt bleeding risk outweighed benefit from tPA. Workup 
+for APLS pending. Transitioned briefly to enoxaparin while 
+inpatient and discharged on apixaban. Troponins downtrended and 
+___ improved at time of discharge. Initial syncopal episode 
+thought to be related to PE. 
+
+TRANSITIONAL ISSUES:
+====================
+PCP:
+[ ]Consider increasing atorvastatin to 40mg
+[ ]Consider alternative antihypertensive agent
+[ ]Will likely need CT chest w/o contrast in ___ months to 
+evaluate LLL infarct and for possible lung cancer
+
+Cardiology:
+[ ]Follow up anticardiolipin Ab and beta2-glycoprotein Ab
+[ ]Incidentally noted bicuspid aortic valve without pathologic 
+flow
+[ ]Incidentally noted mildly dilated ascending aorta on TTE, rec 
+follow up TTE in ___ year if not previously known or a change and 
+in ___ years if previously known and stable
+
+MEDICATIONS:
+New meds:
+-Apixaban 10mg BID for 7 days (___), then 5mg BID 
+Stopped meds: none
+Changed meds: none
+
+Relevant discharge data:
+O2 sat: 92% on RA
+Hgb: 12.7
+
+#CODE: FC confirmed
+#CONTACT: 
+Name of health care proxy: ___ 
+Phone number: ___ 
+
+ACUTE ISSUES:
+=============
+#Hypoxia:
+#Pulmonary embolism:
+Initially presented with syncopal episode ultimately found to 
+have submassive PE on CTA chest. Possible that initial syncopal 
+episode iso of cough may have been transient hypotension from 
+increased intrathoracic pressure. Bedside TTE in ED showing RV 
+dilation, CTA chest no evidence of right heart strain, but 
+likely with LLL pulmonary infarct. Formal TTE with evidence of 
+severe RV strain. Initially with 3L O2, likely from PE and LLL 
+infarct. Now off O2 with ambulation. Initial evidence of 
+end-organ damage as below. Case discussed with ___ in ED, no 
+role for acute intervention overnight. Unprovoked as no recent 
+surgeries, prolonged period of immobility and up to date on 
+cancer screenings (per patient had colonoscopy ___ years ago that 
+was normal, PCP has been doing regular prostate Ca screenings 
+that were normal, is a non-smoker, also recently saw 
+dermatologist 2 weeks ago for back nevi that he was told were 
+benign). Although unlikely, anticardiolipin Ab and 
+beta2-glycoprotein Ab sent as
+could potentially change management. LENIs with nonocclusive 
+DVTs. Plan for follow up with Dr. ___ in 1 month.
+[]TI: will likely need CT chest w/o contrast in ___ months to 
+evaluate LLL infarct and for possible lung cancer
+[]TI: f/u of incidental found mildly dilated ascending aorta on 
+TTE
+
+___, resolved:
+Cr 1.5 at OSH, now downtrending to normal s/p IVF. Likely 
+prerenal in setting of PE and transient hypotension. Unclear 
+baseline, has never been told has abnormal renal function. 
+
+#Troponin elevation, resolved:
+#NSTEMI, type II:
+Trop peak at 0.2 at OSH, now downtrending. EKG showing 1mm STD 
+in lead I, II, V4-V6, TWI in V3-V6. Likely demand ischemia ___ 
+PE. Unknown coronary anatomy, however low suspicion this is ACS. 
+
+
+#Syncope:
+Initially presenting with syncope iso of cough. Etiology is very 
+likely to be in setting of PE per above. Orthostatics negative. 
+No known valvular disease however will be able to assess with 
+TTE per above. No known prior history of arrhythmia. 
+
+#Cough:
+Endorsing ___ year history of cough, now improved. No prior 
+history of smoking. CTA chest with findings per above. Possibly 
+related to PE, given improvement in symptoms with AC.
+
+CHRONIC ISSUES:
+===============
+#HTN:
+Has remained hemodynamically stable. SBP ranging up to 150s in
+ED. Reportedly developed cough from lisinopril. Initially held 
+home verapamil, then restarted. 
+
+#HLD:
+Continued home atorvastatin 5mg daily
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 5 mg PO QPM 
+2. Verapamil SR 360 mg PO Q24H 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID Duration: 7 Days ; then Apixaban 5 mg 
+PO BID 
+2.  Atorvastatin 5 mg PO QPM  
+3.  Verapamil SR 360 mg PO Q24H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+==================
+Submassive pulmonary embolism
+
+Secondary diagnoses:
+====================
+Hypertension
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ 
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+-You were admitted for syncope.
+ 
+What was done for me while I was in the hospital?  
+-You had imaging of your head and neck which were reassuring.
+-You had imaging of your chest which showed large clots in the 
+blood vessels in your lungs.
+-You were started on blood thinners to help reduce the clots.
+
+What should I do when I leave the hospital?  
+-Take care to look for changes and blood in bowel movements as 
+well as to come into the hospital if you experience any falls or 
+trauma to the head as your new medication can make you bleed 
+more. 
+-Take all of your medications as prescribed (listed below).
+-Follow up with your doctors as listed below.
+-___ medical attention if you have new or concerning symptoms 
+listed below. 
+
+Sincerely,  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

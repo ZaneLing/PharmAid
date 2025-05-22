@@ -1,0 +1,319 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+right hemibody numbness/tingling 
+ 
+Major Surgical or Invasive Procedure:
+N/A 
+
+ 
+History of Present Illness:
+The patient is a ___ woman with history of hypertension
+and prior stroke at the age of ___ with unclear etiology with
+residual left lower face numbness who presents with acute onset
+right arm numbness and right hemibody weakness.
+Briefly, patient reports she was at work when she noticed that
+her right arm became acutely numb and she also experienced mild
+right hemibody weakness.  No other symptoms no nausea no emesis
+no gait difficulty no headache.  She was still able to walk. 
+Left work and went to a bar to get a drink then home. Then went
+to a friend's house who told her to go to the emergency room at
+___.  There she was found to be hypoglycemic to 
+73
+and was started on D5 normal saline.  Her ___ stroke scale of 2
+for right lower extremity drift and decreased sensation in the
+right upper extremity.  CT head was negative. she was 
+transferred
+here for further workup.  Upon arrival to ___ blood pressure was 166/119 Heart rate 90 and
+patient continued to have some right upper extremity numbness
+although she said it was improved and no longer complained of
+weakness.
+
+On neuro ROS, the pt denies headache, loss of vision, blurred
+vision, diplopia, dysarthria, dysphagia, lightheadedness,
+vertigo, tinnitus or hearing difficulty. Denies difficulties
+producing or comprehending speech. No bowel or bladder
+incontinence or retention. Denies difficulty with gait.
+
+On general review of systems, the pt denies recent fever or
+chills.  No night sweats or recent weight loss or gain. Denies
+cough, shortness of breath.  Denies chest pain or tightness,
+palpitations.  Denies nausea, vomiting, diarrhea, constipation 
+or
+abdominal pain.  No recent change in bowel or bladder habits.  
+No
+dysuria.  Denies arthralgias or myalgias. Denies rash.
+
+ 
+Past Medical History:
+none 
+ 
+Social History:
+___
+Family History:
+Family history of stroke. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+Physical Exam:
+General: Awake, cooperative, NAD.
+HEENT: NC/AT
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: CTAB, no increased work of breathing
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally
+Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Language is fluent with intact repetition 
+and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt was able to name both high and low frequency objects.  Able 
+to
+read without difficulty. Speech was not dysarthric. Able to
+follow both midline and appendicular commands. There was no
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk. VFF to confrontation. 
+III, IV, VI: EOMI without nystagmus. Normal saccades.
+V: Decreased sensation to light touch in left V3 chronic.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+- Motor - Normal bulk and tone. No drift. 
+   [Delt] [Bic] [Tri] [ECR] [IP] [Quad] [Ham] [TA] [Gas]
+    [C5]  [C5]  [C7]  [C6]  [L2]  [L3]  [L5]  [L4] [S1]
+ L   5     5     5     5     5    5     5     5     5    
+ R   5     5     5     5     5    5     5     5     5    
+
+-DTRs:  
+       [Bic] [Tri] [___] [Quad] 
+     L  2+    2+     2+      2+       
+     R  2+    2+     2+      2+         
+Plantar response flexor bilaterally. 
+
+-Sensory: Decreased sensation in right upper extremity from
+shoulder to fingertips.
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Able to walk in tandem without difficulty. Romberg
+absent.
+
+DISCHARGE PHYSICAL EXAM
+Vitals within normal limits 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity
+Pulmonary: CTAB, no increased work of breathing
+Cardiac: RRR, nl. S1S2, no M/R/G noted
+Abdomen: soft, NT/ND, normoactive bowel sounds, no masses or
+organomegaly noted.
+Extremities: No C/C/E bilaterally
+Skin: no rashes or lesions noted.
+
+Neurologic:
+
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Language is fluent with intact repetition 
+and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt was able to name both high and low frequency objects.  Able 
+to
+read without difficulty. Speech was not dysarthric. Able to
+follow both midline and appendicular commands. There was no
+evidence of apraxia or neglect.
+
+-Cranial Nerves:
+I: Olfaction not tested.
+II: PERRL 3 to 2mm and brisk. VFF to confrontation. 
+III, IV, VI: EOMI without nystagmus. Normal saccades.
+V: Decreased sensation to light touch in left V3, which patient 
+says is chronic.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii and SCM bilaterally.
+XII: Tongue protrudes in midline.
+
+- Motor - Normal bulk and tone. No drift. Very mild (4+/5) right 
+finger extensor weakness. 
+   [Delt] [Bic] [Tri] [ECR] [IP] [Quad] [Ham] [TA] [Gas]
+    [C5]  [C5]  [C7]  [C6]  [L2]  [L3]  [L5]  [L4] [S1]
+ L   5     5     5     5     5    5     5     5     5    
+ R   5     5     5     5     5    5     5     5     5    
+
+-DTRs:  
+       [Bic] [Tri] [___] [Quad] 
+     L  2+    2+     2+      2+       
+     R  2+    2+     2+      2+         
+Plantar response flexor bilaterally. 
+
+-Sensory: Decreased sensation in right upper extremity from
+shoulder to fingertips circumferentially to pinprick and light 
+touch, which is 80% of normal.  
+
+-Coordination: No intention tremor, no dysdiadochokinesia noted.
+No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Able to walk in tandem without difficulty. Romberg
+absent.
+
+ 
+Pertinent Results:
+LABORATORY STUDIES 
+___ 10:20AM BLOOD WBC-4.8 RBC-3.68* Hgb-12.0 Hct-35.6 
+MCV-97 MCH-32.6* MCHC-33.7 RDW-12.5 RDWSD-44.7 Plt ___
+___ 07:55AM BLOOD ProtCFn-125 ProtSFn-105
+___ 10:20AM BLOOD Glucose-84 UreaN-6 Creat-0.5 Na-136 K-3.5 
+Cl-98 HCO3-23 AnGap-19
+___ 11:05PM BLOOD ALT-14 AST-30 AlkPhos-56 TotBili-0.2
+___ 11:05PM BLOOD Lipase-28
+___ 11:05PM BLOOD cTropnT-<0.01
+___ 10:20AM BLOOD Phos-3.2 Mg-1.6 
+___ 03:27AM BLOOD %HbA1c-5.0 eAG-97
+___ 11:05PM BLOOD Triglyc-104 HDL-93
+___ 07:55AM BLOOD b2micro-0.9
+___ 11:05PM BLOOD HCG-<5
+___ 07:55AM BLOOD Free T4-1.3
+___ 10:20AM BLOOD TSH-2.1
+___:05PM BLOOD Triglyc-104 HDL-93
+___ 11:05PM BLOOD ASA-NEG Ethanol-86* Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+PENDING LABS:
+___ 07:55AM BLOOD Lupus anticoagulant-PND
+___ 10:20AM BLOOD BETA-2-GLYCOPROTEIN 1 ANTIBODIES (IGA, 
+IGM, IGG)-PND
+___ 10:20AM BLOOD CARDIOLIPIN ANTIBODIES (IGG, IGM)-PND
+___ 07:55AM BLOOD CARDIOLIPIN ANTIBODIES (IGG, IGM)-PND
+___ LDL pending 
+
+IMAGING STUDIES:
+MRI head w/o contrast ___:
+1. No new infarction or intracranial hemorrhage. 
+2. Chronic left parietal infarct. 
+  
+
+CTA Head/Neck
+1. Chronic left parietal infarct. 
+2. No acute vascular territorial infarct or hemorrhage. 
+3. Patent intracranial arterial vasculature without significant 
+stenosis, 
+occlusion, or aneurysm. 
+4. Patent cervical arterial vasculature without significant 
+stenosis, 
+occlusion, or dissection. 
+5. Multiple dental caries with periapical lucency specifically 
+surrounding 
+left mandibular molar. 
+
+ 
+Brief Hospital Course:
+___ year old woman with past medical history of stroke at the age 
+of ___ (unclear etiology, with residual left face 
+numbness/weakness) and HTN who presented with a 1 day history of 
+right arm numbness and right hemibody weakness. Initially, this 
+was in the setting of borderline low glucose levels (low ___ 
+but the symptoms did not improve with correction of sugar. 
+Neurological exam significant for persistent right arm numbness 
+and mild right finger extensor weakness, although improved on 
+repeat assessment. Given her history of prior stroke, the 
+patient was at risk for recurrent stroke. She had an MRI brain 
+w/o contrast which revealed new infarction or intracranial 
+hemorrhage, in addition to her chronic left parietal infarct. 
+The initial hypercoagulable workup was sent (lupus 
+anticoagulant, beta 2 glycoprotein, anti cardiolipin 
+antibodies), and cholesterol panel which was pending at time of 
+discharge. His thyroid studies and hemoglobin A1c were within 
+normal limits. 
+
+Etiology for symptoms was unclear- differential includes 
+atypical migraine, seizure and recrudescence of prior deficits 
+in the setting of recent stressors. 
+
+The patient strongly requested to leave the hospital early prior 
+to obtaining the results of the remainder of her labs, which we 
+said was reasonable as long as she obtains close neurology 
+follow up.
+
+******************
+TRANSITIONAL ISSUES:
+- Will need close outpatient neurology follow up. Provided with 
+contact information for neurology clinic. We will also work to 
+obtain an expedited appointment for the patient tomorrow during 
+business hours.
+- Will need outpatient routine EEG 
+- Will need outpatient genetic hypercoagulable testing, 
+including factor V leiden, prothrombin gene mutation. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right hemibody parasthesias 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were hospitalized due to symptoms of right sided weakness 
+and changes in sensation. Given that you had a stroke in the 
+past and a history of high blood pressure, you were at risk of 
+stroke. We admitted you to the hospital, and you obtained an MRI 
+of your brain which did not reveal any signs of stroke. The 
+cause of your symptoms is unclear at this time. Possibilities 
+include an atypical migraine, seizure, or a stress reaction.
+
+Moving forward, it will be important for you to follow up with a 
+neurologist closely. You also will need to obtain a brain wave 
+test (EEG) to see if you are prone to having seizures. You will 
+also need to complete a number of lab tests to see if you have 
+any underlying condition(s) that place you at high risk for 
+bleeding.
+
+It was a pleasure taking care of you.
+
+Sincerely,
+your ___ team 
+ 
+Followup Instructions:
+___

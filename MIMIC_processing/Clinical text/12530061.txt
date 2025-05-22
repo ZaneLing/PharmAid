@@ -1,0 +1,329 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+procainamide / propranolol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ episodes 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old F w/ a fib, mechanical AVR, 
+mechanical MVR, hx of MI, prior CVA, and possible TIAs 
+presenting with spells ___. 
+
+She has had these spells since she was in her ___ years, 
+before her valve replacements. They would only occur "now and 
+then" but she would get an overwhelming sense ___ and 
+dread. This was not associated with any weakness, numbness, 
+tingling, chills, sweats, chest pain, dyspnea, or confusion. 
+They would usually resolve on their on own. However, for the 
+past week they have been occurring daily and yesterday she had 
+three in a row while with family. There were multiple nurses in 
+the family there who told she should be evaluated, as they 
+checked her vitals and her heart rates were any where from the 
+___ and her SBP was "sky high" although she is unsure what 
+that means. She did not have any chest pain or shortness of 
+breath during this episode. She also did not have any vision 
+changes, hearing changes, weakness, numbness, or tingling. 
+
+In the ED, vitals were within normal limits. Exam and labs were 
+unremarkable. She went to an OSH ED where a head CT showed 
+"There are mild periventricular white matter hypodensities which 
+are nonspecific but can be seen in patients with small vessel 
+ischemic changes." She was seen by Neurology who felt she should 
+have seizures and tachy/brady syndrome ruled out. She was given 
+her home warfarin and aspirin 81 mg. 
+
+Upon arrival to the floor, she is accompanied by her daughter 
+and husband who help to give the history. They note she is "as 
+active as a ___ year old" and she would like to spend as little 
+time in the hospital as possible, but want her to get better. 
+She is not currently having any spells. 
+ 
+Past Medical History:
+Aortic aneurysm
+A fib
+AV/MV mechanical valve replacements
+MI
+Prior CVA/TIA
+Mild cognitive impairment 
+
+ 
+Social History:
+___
+Family History:
+Sister - epilepsy since childhood
+Brother - CVA 
+ 
+Physical ___:
+ADMISSION PHYSICAL EXAM 
+======================== 
+VS: 97.7 PO 131 / 73 70 16 94 Ra 
+GENERAL: Alert and interactive older woman, in no acute 
+distress.
+Appears younger than stated age. 
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM. 
+
+NECK: No cervical lymphadenopathy. No JVD. Supple. 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. Grade
+___ systolic ejection murmur heard throughout precordium. 
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.    
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.  
+SKIN: Warm. Cap refill <2s. No rash.  
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. AOx3.  
+
+DISCHARGE PHYSICAL EXAM 
+========================
+24 HR Data (last updated ___ @ 1433)
+    Temp: 97.9 (Tm 98.0), BP: 124/76 (100-161/59-94), HR: 82
+(64-96), RR: 17 (___), O2 sat: 94% (94-97), O2 delivery: ra  
+GENERAL: Alert and interactive older woman, in no acute 
+distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM. 
+
+NECK: No cervical lymphadenopathy. No JVD. Supple. 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. Grade 
+___ systolic ejection murmur heard throughout precordium. 
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or 
+rales. No increased work of breathing.    
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.  
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+ bilaterally.  
+SKIN: Warm. Cap refill <2s. No rash.  
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal 
+sensation. AOx3.   
+ 
+Pertinent Results:
+===============
+Admission labs
+===============
+___ 02:20AM BLOOD WBC-6.8 RBC-3.84* Hgb-11.8 Hct-34.8 
+MCV-91 MCH-30.7 MCHC-33.9 RDW-13.3 RDWSD-44.0 Plt ___
+___ 02:20AM BLOOD Neuts-62.0 ___ Monos-8.4 Eos-3.4 
+Baso-0.4 Im ___ AbsNeut-4.19 AbsLymp-1.72 AbsMono-0.57 
+AbsEos-0.23 AbsBaso-0.03
+___ 02:20AM BLOOD ___ PTT-45.7* ___
+___ 02:20AM BLOOD Glucose-96 UreaN-16 Creat-0.7 Na-142 
+K-3.6 Cl-105 HCO3-21* AnGap-16
+___ 02:20AM BLOOD ALT-20 AST-35 AlkPhos-38 TotBili-0.6
+___ 02:20AM BLOOD cTropnT-0.02*
+___ 10:53AM BLOOD cTropnT-<0.01
+___ 02:20AM BLOOD Lipase-54
+___ 02:20AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+===============
+Discharge labs
+===============
+___ 07:10AM BLOOD WBC-7.0 RBC-3.76* Hgb-11.8 Hct-35.6 
+MCV-95 MCH-31.4 MCHC-33.1 RDW-13.7 RDWSD-46.8* Plt ___
+___ 07:10AM BLOOD ___ PTT-50.4* ___
+___ 07:48AM BLOOD ___
+___ 02:20AM BLOOD ___ PTT-45.7* ___
+___ 07:10AM BLOOD Glucose-92 UreaN-20 Creat-0.7 Na-146 
+K-4.3 Cl-111* HCO3-24 AnGap-11
+
+===============
+Studies
+===============
+EEG:   
+IMPRESSION: This telemetry captured no pushbutton activations. 
+It showed a 
+normal background in wakefulness and in sleep. There were no 
+focal 
+abnormalities or epileptiform features. 
+
+===============
+Microbiology 
+===============
+___ Urine Culture = No growth 
+
+ 
+Brief Hospital Course:
+Outpatient Providers: ASSESSMENT/PLAN 
+=================
+Ms. ___ is a ___ year old F w/ a fib, mechanical AVR, 
+mechanical MVR, hx of MI, prior L temporal CVA, and possible 
+TIAs presenting with spells ___. She was monitored on EEG 
+without obvious seizure activity. 
+
+TRANSITIONAL ISSUES:
+====================
+[ ] Given that her history of episodes ___ could be 
+consistent with seizure activity, and that she presentd with a 
+transient increased frequency of these symptoms (7 episodes in 
+short period), may consider trial of anticonvulsant therapy for 
+diagnostic purposes. 
+
+[ ] Family member concerned for heart rate alternating between 
+40's and 120's during episode ___. Telemetry showed only 
+a 6 beat run of NSVT, some PVCs and otherwise heart rates that 
+were almost entirely between 60 and 110 in atrial fibrillation. 
+If there is further concern for abnormal heart rates, a long 
+term monitor could be considered. 
+
+ADVANCED CARE PLANNING:
+======================= 
+#CODE STATUS: Full, confirmed
+#CONTACT: Daughter, ___ ___
+
+ACUTE ISSUES 
+======================= 
+# ___ episodes:
+Given that she has had these episodes since she was a ___, 
+more concerning for partial seizures, which may have possibly 
+worsened in frequency due to a recent stroke in ___. Less 
+likely TIAs, as would be unlikely to land in same vessel 
+distribution. She was monitored on cvEEG which showed no obvious 
+seizure activity. Migraine also on ddx, but the cluster of seven 
+episodes prior to presentation makes this less likely. Telemetry 
+showed atrial fibrillation with PVCs without significant 
+bradycardia. She had a brief run of NSVT that was asymptomatic. 
+Neurology consulted who recommended that she meet with her 
+outpatient neurologist to discuss whether initiate a trial of 
+anticonvulsant therapy for diagnostic purposes. 
+
+# Concern for tachy-brady syndrome?:
+Pt's family members noted HRs from ___ during episodes of 
+___. Metoprolol held and then restarted on discharge. 
+Monitored on telemetry which showed a 6 beat run of asymptomatic 
+NSVT, some PVCs and otherwise no significant findings besides 
+PVCs. Discussed with patient's cardiologist, who will set 
+patient up with home event monitor.
+
+# Elevated troponin:
+Mild elevation to 0.02, which is not consistent with cardiac 
+ischemia. Resolved and EKG without changes. 
+
+CHRONIC ISSUES 
+======================= 
+# A fib
+# MVR, mechanical
+# AVR, mechanical 
+Held home metoprolol as above. Continued home warfarin for goal 
+INR 2.5-3.5. INR increased to 6's after she received two doses 
+approximately 14 hours apart. Warfarin held on ___ and ___ 
+and she will test on home monitor again on ___ and report to 
+her ___ clinic. 
+
+# Hx of CVA
+Continue home aspirin, statin, fish oil. Held fenofibrate given 
+non-formulary but restarted on discharge.
+
+# GERD: Continued home famotidine, magic mouthwash
+
+# HTN: Continued home lisinopril 20 mg PO daily 
+
+# Nutrition: Continued home MVI, vitamin D
+
+# Reactive airway disease: Held home Symbicort while inpatient 
+as she typically only uses in ___ anyway 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 12.5 mg PO DAILY 
+2. fenofibrate 21.5 mg oral DAILY 
+3. Warfarin 2.5 mg PO 1X/WEEK (WE) 
+4. Warfarin 5 mg PO 6X/WEEK (___) 
+5. Aspirin 81 mg PO DAILY 
+6. Rosuvastatin Calcium 10 mg PO QPM 
+7. Lisinopril 20 mg PO DAILY 
+8. calcium-magnesium-zinc 333-133-5 mg oral DAILY 
+9. Fish Oil (Omega 3) 1000 mg PO DAILY 
+10. Multivitamins 1 TAB PO DAILY 
+11. Vitamin D 1000 UNIT PO DAILY 
+12. Lotemax (loteprednol etabonate) 0.5 % ophthalmic (eye) 
+DAILY:PRN eye irritation 
+13. Maalox/Diphenhydramine/Lidocaine 15 mL PO TID:PRN GERD 
+14. Famotidine 20 mg PO DAILY 
+15. Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation DAILY:PRN dyspnea 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  calcium-magnesium-zinc 333-133-5 mg oral DAILY  
+3.  Famotidine 20 mg PO DAILY  
+4.  Fenofibrate 21.5 mg oral DAILY  
+5.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+6.  Lisinopril 20 mg PO DAILY  
+7.  Lotemax (loteprednol etabonate) 0.5 % ophthalmic (eye) 
+DAILY:PRN eye irritation  
+8.  Maalox/Diphenhydramine/Lidocaine 15 mL PO TID:PRN GERD  
+9.  Metoprolol Succinate XL 12.5 mg PO DAILY  
+10.  Multivitamins 1 TAB PO DAILY  
+11.  Rosuvastatin Calcium 10 mg PO QPM  
+12.  Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation DAILY:PRN dyspnea  
+13.  Vitamin D 1000 UNIT PO DAILY  
+14.  Warfarin 5 mg PO 6X/WEEK (___)  
+15.  Warfarin 2.5 mg PO 1X/WEEK (WE)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+___ Episodes 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+Why was I admitted to the hospital?  
+===================================
+- You were admitted because you had episodes ___ that 
+were concerning.    
+
+What happened while I was in the hospital?  
+==========================================
+- You were monitored on brain electrodes called an EEG that 
+monitored for seizures. This did not show any clear evidence of 
+seizure. 
+
+- You were monitored on the heart monitor for any abnormal heart 
+rates or rhythms which showed some scattered abnormal heart 
+beats, but nothing that would cause significant symptoms. 
+
+What should I do after leaving the hospital?  
+===========================================
+- Please take your medications as listed in discharge summary 
+and follow up at the listed appointments. 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Sincerely,
+
+Your ___ Healthcare Team  
+ 
+Followup Instructions:
+___

@@ -1,0 +1,260 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Motrin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Acute abdominal pain, irreducible umbilical hernia
+ 
+Major Surgical or Invasive Procedure:
+___: Umbilical hernia repair
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with a PMHx of umbilical hernia, HIV, and 
+HTN who presents with abdominal pain that began yesterday at 
+6pm. She has an umbilical hernia, first noted in ___, which is 
+typically reducible, but yesterday she noted severe abdominal 
+pain and was not able to reduce her umbilical hernia. She 
+endorses nausea, but no emesis. Her last BM was 2 days ago, and 
+is not sure whether she is passing flatus. She denies fevers or 
+chills. She states that she was supposed to see a surgeon for 
+repair of her umbilical hernia a year ago, but was not able to 
+get a ride to her appointment. 
+ 
+Past Medical History:
+Past Medical History: 
+- HIV
+- HTN
+- CKD ___ HIV medications
+
+Past Surgical History:  
+- C-section
+ 
+Social History:
+___
+Family History:
+Family History:  
+- HTN in mother and grandmother
+- diabetes in grandmother
+- denies family hx of cancer
+ 
+Physical Exam:
+Physical Exam:  
+Vitals:  99.0 89 172/100 18 100% RA
+GEN: A&O, laying in bed  
+HEENT: No scleral icterus
+CV: RRR
+PULM: Breathing comfortably on room air 
+ABD: Soft, nondistended, tender to palpation at the site of the
+umbilical hernia, no rebound or guarding. The hernia is not
+reducible.   
+
+Discharge Physical Exam:
+VS: 99.0 PO 138 / 81 L Lying 82 18 95 Ra  
+Gen: Awake, pleasant and interactive.
+HEENT: PERRL, EOMI. Mucus membranes pink/moist.
+CV: RRR
+PULM: Clear to auscultation bilaterally.
+Abd: Soft, obese, tender to palpation over umbilical surgical 
+site. Active bowel sounds. No palpable hernia.
+Ext: Warm and dry. 2+ ___ pulses. 
+ 
+Pertinent Results:
+___ 06:25AM BLOOD WBC-6.7 RBC-4.15 Hgb-12.5 Hct-39.0 MCV-94 
+MCH-30.1 MCHC-32.1 RDW-15.9* RDWSD-54.2* Plt ___
+___ 02:40AM BLOOD WBC-7.5 RBC-4.21 Hgb-12.8 Hct-39.5 MCV-94 
+MCH-30.4 MCHC-32.4 RDW-15.9* RDWSD-54.4* Plt ___
+___ 06:25AM BLOOD Glucose-75 UreaN-11 Creat-1.5* Na-139 
+K-4.2 Cl-103 HCO3-25 AnGap-15
+___ 02:40AM BLOOD Glucose-87 UreaN-19 Creat-1.7* Na-140 
+K-4.0 Cl-104 HCO3-23 AnGap-17
+
+___ 03:50AM URINE Color-Straw Appear-Clear Sp ___
+___ 03:50AM URINE Blood-NEG Nitrite-NEG Protein-300 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 03:50AM URINE RBC-0 WBC-0 Bacteri-NONE Yeast-NONE Epi-1
+___ 03:50AM URINE UCG-NEGATIVE
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo F admitted to the Acute Care Surgery 
+Service on ___ with an incarcerated hernia that is usually 
+reducible but now causing pain and discomfort. The patient was 
+afebrile, with no leukocytosis, and a lactate of .6. Informed 
+consent of obtained and she was taken to the operating room for 
+umbilical hernia repair. Please see operative report for 
+details. Post operatively she was extubated, taken to the PACU 
+in stable condition and transferred to the surgical flood once 
+recovered from anesthesia.
+
+On POD0 pain was controlled with IV and oral medication. She 
+tolerated a clear liquid diet and voided spontaneously without 
+problems. 
+On POD1 diet was advanced to regular with good tolerability. 
+Pain remained well controlled. Vital signs were routinely 
+monitored and remained stable. Intake and output were monitored. 
+Abdominal binder was recommended when out of bed. During this 
+hospitalization, the patient ambulated early and frequently, was 
+adherent with respiratory toilet and incentive spirometry, and 
+actively participated in the plan of care. The patient received 
+subcutaneous heparin and venodyne boots were used during this 
+stay.
+
+At the time of discharge, the patient was doing well, afebrile 
+with stable vital signs. The patient was tolerating a regular 
+diet, ambulating, voiding without assistance, and pain was well 
+controlled. The patient was discharged home without services. 
+The patient received discharge teaching and follow-up 
+instructions with understanding verbalized and agreement with 
+the discharge plan.
+
+ 
+Medications on Admission:
+- Lisinopril  
+- abacavir-lamivudine [Epzicom]  
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+Do not exceed 4 grams/ 24 hours 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth every six (6) 
+hours Disp #*50 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+Hold for diarrhea.  
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*60 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Severe 
+take lowest effective dose.  
+RX *oxycodone 5 mg ___ tablet(s) by mouth every four (4) hours 
+Disp #*30 Tablet Refills:*0 
+4.  Senna 8.6 mg PO BID:PRN constipation 
+RX *sennosides [senna] 8.6 mg 1 tab by mouth twice a day Disp 
+#*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Incarcerated umbilical hernia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the Acute Care Surgery Service on ___ 
+with pain related to a non-reducible hernia. You were taken to 
+the operating room and had the hernia repaired. You are now 
+doing better, tolerating a regular diet, pain is better 
+controlled, and you are ready to be discharged to home to 
+continue your recovery.
+
+Please note the following discharge instructions:
+ACTIVITY:
+o Wear your abdominal binder when out of bed to help support 
+your surgical incision. 
+o Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency.
+o You may climb stairs. 
+o  You may go outside, but avoid traveling long distances until 
+you see your surgeon at your next visit.
+o  Don't lift more than ___ lbs for 4 weeks. (This is about 
+the weight of a briefcase or a bag of groceries.) This applies 
+to lifting children, but they may sit on your lap.
+o You may start some light exercise when you feel comfortable.
+o You will need to stay out of bathtubs or swimming pools for a 
+time while your incision is healing. Ask your doctor when you 
+can resume tub baths or swimming.
+ 
+HOW YOU MAY FEEL: 
+o  You may feel weak or "washed out" for a couple of weeks. You 
+might want to nap often. Simple tasks may exhaust you.
+o  You may have a sore throat because of a tube that was in your 
+throat during surgery.
+o  You might have trouble concentrating or difficulty sleeping. 
+You might feel somewhat depressed.
+o  You could have a poor appetite for a while. Food may seem 
+unappealing.
+o  All of these feelings and reactions are normal and should go 
+away in a short time.  If they do not, tell your surgeon.
+ 
+YOUR INCISION:
+o Tomorrow (___) you may shower and remove the gauzes over 
+your incisions. Under these dressing you may have steristrip 
+which will fall off in ___ days on their own. If you have 
+dermabond glue it will gradually dissolve over time. If you have 
+staples they will be removed at your follow up appointment. Do 
+not apply any topical creams, lotions, or ointments.
+o Your incisions may be slightly red around the stitches. This 
+is normal.
+o You may gently wash away dried material around your incision.
+o Avoid direct sun exposure to the incision area.
+o Do not use any ointments on the incision unless you were told 
+otherwise.
+o You may see a small amount of clear or light red fluid 
+staining your dressing or clothes. If the staining is severe, 
+please call your surgeon.
+o You may shower. As noted above, ask your doctor when you may 
+resume tub baths or swimming.
+ 
+YOUR BOWELS:
+o Constipation is a common side effect of narcotic pain 
+medications. If needed, you may take a stool softener (such as 
+Colace, one capsule) or gentle laxative (such as milk of 
+magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription.
+o If you go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon.
+o Try not to strain to have bowel movements. We recommend that 
+you take prune juice to help your bowel stay soft and regular.  
+ 
+PAIN MANAGEMENT:
+o It is normal to feel some discomfort/pain following abdominal 
+surgery. This pain is often described as "soreness". 
+o Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon.
+o You will receive a prescription for pain medicine to take by 
+mouth. It is important to take this medicine as directed. o Do 
+not take it more frequently than prescribed. Do not take more 
+medicine at one time than prescribed.
+o Your pain medicine will work better if you take it before your 
+pain gets too severe.
+o Talk with your surgeon about how long you will need to take 
+prescription pain medicine. Please don't take any other pain 
+medicine, including non-prescription pain medicine, unless your 
+surgeon has said its okay.
+o If you are experiencing no pain, it is okay to skip a dose of 
+pain medicine.
+o Remember to use your "cough pillow" for splinting when you 
+cough or when you are doing your deep breathing exercises.
+If you experience any of the following, please contact your 
+surgeon:
+- sharp pain or any severe pain that lasts several hours
+- pain that is getting worse over time
+- pain accompanied by fever of more than 101
+- a drastic change in nature or quality of your pain
+ 
+MEDICATIONS:
+Take all the medicines you were on before the operation just as 
+you did before, unless you have been told differently.
+If you have any questions about what medicine to take or not to 
+take, please call your surgeon.
+
+ 
+Followup Instructions:
+___

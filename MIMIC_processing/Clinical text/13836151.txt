@@ -1,0 +1,343 @@
+Name:  ___.                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with a history of BPH, antithrombin
+deficiency who presented with acute onset of chest pain and
+subsequently found to have acute PE. 
+
+This morning he was eating breakfast when he developed left 
+sided
+dull chest pain and some brief lightheadedness, up to ___. He
+denied palpitations, N/V, fever, shortness of breath, or cough.
+He denied ___ pain, swelling, erythema. He travelled on a nonstop
+flight back from a 6 day trip to ___ 1 week prior to
+presentation. He smokes ___ cigarettes per day with a ___ pack
+year history. His mother and daughter both have a history of
+blood clots. He and his daughter both have antithrombin
+deficiency. He recently had a prostate biopsy through Urology
+Associates in ___ which per the patient showed BPH and no
+malignancy. He had a colonoscopy at age ___ years ago) which
+did not show any malignancy. He has no personal  history of
+malignancy.
+
+- In the ED, initial vitals were: 
+T 98.6F HR 67 BP 142/76 RR 16 O2 99% RA 
+
+- Labs were notable for:
+Normal CBC, BMP, coags, BNP. 
+Negative troponin x2. 
+D-dimer elevated at 4861, 4702
+
+- Studies were notable for: 
+CTA
+Multiple bilateral segmental pulmonary emboli. Peripheral 
+opacity
+in the lingula suspicious for an infarct. No evidence of right
+heart strain.
+
+- The patient was given:
+PO Aspirin 324 mg 
+SC Enoxaparin Sodium 70 mg 
+
+On arrival to the floor, the patient confirms the above history.
+He endorses ___ chest pain which is significantly improved from
+prior. He denies any other symptoms at this time.
+ 
+Past Medical History:
+BPH 
+Restless leg syndrome 
+ 
+Social History:
+___
+Family History:
+Mother with h/o VTE. Daughter w h/o VTE and antithrombin
+deficiency.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+___ 2223 Temp: 98.0 PO BP: 134/78 HR: 68 RR: 18 O2
+sat: 99% O2 delivery: ra Dyspnea: 0 RASS: 0 Pain Score: ___ 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+Discharge Exam
+VITALS:24 HR Data (last updated ___ @ 1154)
+    Temp: 98.3 (Tm 98.3), BP: 127/75 (111-138/64-78), HR: 59
+(59-69), RR: 18 (___), O2 sat: 97% (97-99), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. Moving all 4 limbs
+spontaneously. ___ strength throughout. Normal sensation.
+
+ 
+Pertinent Results:
+Admission Labs
+--------------
+
+___ 11:38AM BLOOD WBC-6.1 RBC-4.54* Hgb-13.7 Hct-43.1 
+MCV-95 MCH-30.2 MCHC-31.8* RDW-13.4 RDWSD-46.7* Plt ___
+___ 11:38AM BLOOD Neuts-68.6 ___ Monos-7.9 Eos-2.1 
+Baso-0.8 Im ___ AbsNeut-4.14 AbsLymp-1.23 AbsMono-0.48 
+AbsEos-0.13 AbsBaso-0.05
+___ 11:38AM BLOOD Glucose-99 UreaN-17 Creat-1.0 Na-143 
+K-5.2 Cl-105 HCO3-27 AnGap-11
+___ 11:38AM BLOOD proBNP-50
+___ 11:38AM BLOOD cTropnT-<0.01
+___ 03:32PM BLOOD cTropnT-<0.01
+
+Imaging
+==========
+
+#Admission CXR ___
+FINDINGS: 
+ 
+The lungs are clear.  There is no consolidation, effusion, or 
+pneumothorax. 
+The cardiomediastinal silhouette is within normal limits.  Mild 
+midthoracic
+dextroscoliosis is noted.
+ 
+IMPRESSION: 
+ 
+No acute cardiopulmonary process.
+
+#CTA CHESTStudy Date of ___ 4:05 ___
+
+FINDINGS: 
+ 
+HEART AND VASCULATURE: There are multiple filling defects in the 
+right lower
+lobe segmental arteries, lingular segmental artery (3:108), and 
+left lower
+lobe segmental arteries (3:155), consistent with pulmonary 
+emboli.  The
+thoracic aorta is normal in caliber without evidence of 
+dissection or
+intramural hematoma.  The heart, pericardium, and great vessels 
+are within
+normal limits. No pericardial effusion is seen.
+ 
+AXILLA, HILA, AND MEDIASTINUM: No axillary, mediastinal, or 
+hilar
+lymphadenopathy is present.  No mediastinal mass.
+ 
+PLEURAL SPACES: No pleural effusion or pneumothorax.
+ 
+LUNGS/AIRWAYS: Small ground-glass opacity identified the 
+periphery of the
+lingula, in the distribution of a abrupt described pulmonary 
+embolism.  Lungs
+are otherwise clear without masses or areas of parenchymal 
+opacification.
+ 
+BASE OF NECK: There is a 0.6 cm hypodense nodule in the left 
+lobe of the
+thyroid.
+ 
+ABDOMEN:  Included portion of the upper abdomen is unremarkable.
+ 
+BONES: No suspicious osseous abnormality is seen.? There is no 
+acute fracture.
+ 
+ 
+IMPRESSION: 
+ 
+Multiple bilateral segmental pulmonary emboli.  Peripheral 
+opacity in the
+lingula suspicious for an infarct.  No evidence of right heart 
+strain.
+
+#BILAT LOWER EXT VEINSStudy Date of ___ 8:01 AM
+
+IMPRESSION: 
+ 
+1.  Nonocclusive thrombus in the right popliteal vein and right 
+posterior
+tibial veins.
+2.  No evidence of deep venous thrombosis in the left lower 
+extremity.
+
+Discharge Labs
+---------------
+
+___ 06:00AM BLOOD WBC-5.3 RBC-3.97* Hgb-12.2* Hct-37.1* 
+MCV-94 MCH-30.7 MCHC-32.9 RDW-13.6 RDWSD-46.5* Plt ___
+___ 06:00AM BLOOD WBC-5.3 RBC-3.97* Hgb-12.2* Hct-37.1* 
+MCV-94 MCH-30.7 MCHC-32.9 RDW-13.6 RDWSD-46.5* Plt ___
+___ 06:00AM BLOOD Plt ___
+___ 06:00AM BLOOD Glucose-92 UreaN-19 Creat-1.1 Na-143 
+K-4.2 Cl-105 HCO3-25 AnGap-13
+ 
+Brief Hospital Course:
+This is a ___ year old male with past medical history of 
+antithrombin III deficiency, recent airline travel, admitted 
+___ with chest pain found to have acute pulmonary 
+embolism without signs of complication or to suggest high risk, 
+initiated on anticoagulation with apixaban, able to be 
+discharged home.  
+
+# Acute pulmonary embolism 
+# Acute R popliteal vein thrombosis 
+# Acute R posterior tibial vein thrombosis
+# Pleuritic chest pain 
+Patient with known anti-thrombin III deficiency and recent 
+airplane flight who presented with chest pain.  Given elevated 
+ddimer, he underwent CTA in ED that showed bilateral segmental 
+pulmonary embolism. Lower extremity ultrasound showed DVT in R 
+popliteal vein and R posterior tibial vein.  PESI scoring 
+placed him in class II low risk category; additionally, he was 
+found to have negative cardiac biomarkers, CT without signs of 
+R heart strain, and he was ambulating comfortably around 
+medical unit following his admission.  Telemetry was 
+unremarkable.  Given these findings, no additional workup or 
+intervention was indicated.  Patient initiated on apixaban 
+without issue.  Contributing factors to his pulmonary embolism 
+were felt to be ATIII deficiency, prolonged airplane flight and 
+tobacco use.  Counseled patient on tobacco cessation and age 
+appropriate cancer screening.  Confirmed copay and that patient 
+could afford apixaban.  Team counseled patient on lifestyle 
+modifications while on anticoagulation.  Team arranged for 
+outpatient hematology ___ given his ATIII deficiency.  Of 
+note patient had questions regarding getting a tattoo while on 
+anticoagulation (he has an appointment scheduled later this 
+week), and about airline travel. Advised patient re: lack of 
+data about approach to tattoos while anticoagulated, and 
+recommended that he not obtain a tattoo pending discussions 
+with his PCP and hematology ___.  Regarding his travel 
+plans, we reviewed the ___ guidelines regarding this--given his 
+O2 sat > 95% and lack of pulmonary comorbidities, guidelines do 
+not recommend supplemental oxygen for flight; however, 
+recommended that he discuss this at his primary care doctor 
+___ appointment to ensure his clinical status remains 
+unchanged.  Discharged on apixaban 10mg bid for 7 days followed 
+by 5mg BID--recommended he discuss duration of treatment with 
+PCP and hematology.  Details of admission including initiation 
+of antiocoagulation were communicated to ___ office.
+
+# Tobacco Abuse
+Counseled regarding cessation this admission.  Patient reported 
+he would quit as of this admission, but declined any 
+assistance. 
+
+#BPH
+-continued tamsulosin
+
+#Restless Leg Syndrome
+-continued ropinrole
+
+Transitional Issues
+- Discharged home with PCP and hematology ___ on new 
+anticoagulation 
+- Consider referral for age appropriate cancer screening
+- Would consider ongoing tobacco cessation suppport
+
+> 30 minutes spent on discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. rOPINIRole 0.25 mg PO TID 
+2. Tamsulosin 0.4 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Apixaban 10 mg PO BID Duration: 13 Doses 
+RX *apixaban [Eliquis] 5 mg 2 tablet(s) by mouth twice a day 
+Disp #*28 Tablet Refills:*0 
+2.  Apixaban 5 mg PO BID 
+RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*3 
+3.  rOPINIRole 0.25 mg PO TID  
+4.  Tamsulosin 0.4 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Acute pulmonary embolism 
+# Acute R popliteal vein thrombosis 
+# Acute R posterior tibial vein thrombosis
+# Pleuritic chest pain 
+# Tobacco Abuse
+# BPH
+# Restless Leg Syndrome
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,  
+ 
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+- You were admitted for a blood clot in your lungs.  
+ 
+What was done for me while I was in the hospital?  
+- We started you on a blood thinner medication to protect you 
+from any further clotting.  
+
+What should I do when I leave the hospital?  
+- Continue taking your medications as prescribed and keep all of 
+your appointments
+- We recommend that you not get a tattoo while you are on 
+anticoagulation
+- You are at risk for recurrent blood clots, even while 
+anticoagulated with the blood thinning medication. Take care 
+while on upcoming flights to remain mobile and consider wearing 
+compression stockings. If symptoms of shortness of breath, chest 
+pain, or leg swelling develop you should talk to your doctor.
+ 
+Sincerely,  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

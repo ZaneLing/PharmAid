@@ -1,0 +1,219 @@
+Name:  ___          Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+DISCHARGE EXAM:
+
+VS: BP 161 / 93 HR88RR 1802 94Ra
+GENERAL: Sitting up in bed with C-collar in place, NAD
+HEENT: anicteric sclera, PERRLA MMM  
+CV: RRR, no murmurs, gallops, or rubs  
+PULM: Distant breath sounds, no wheezing 
+GI: abdomen soft, NDNT, no rebound/guarding
+EXTREMITIES: no edema   
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric  
+DERM: Warm and well perfused, no rashes
+
+ADMISSION LABS:
+
+___ 06:05AM   GLUCOSE-96 UREA N-23* CREAT-0.7 SODIUM-139 
+POTASSIUM-4.3 CHLORIDE-101 TOTAL CO2-23 ANION GAP-15
+___ 06:05AM   estGFR-Using this
+___ 06:05AM   TSH-2.1
+___ 06:05AM   WBC-6.1 RBC-3.80* HGB-12.7 HCT-37.7 MCV-99* 
+MCH-33.4* MCHC-33.7 RDW-12.8 RDWSD-46.7*
+___ 06:05AM   PLT COUNT-181
+
+DISCHARGE LABS:
+
+___ 06:50AM BLOOD WBC-5.5 RBC-3.91 Hgb-13.2 Hct-38.7 
+MCV-99* MCH-33.8* MCHC-34.1 RDW-12.5 RDWSD-45.4 Plt ___
+___ 06:50AM BLOOD Glucose-99 UreaN-17 Creat-0.7 Na-138 
+K-4.1 Cl-103 HCO3-23 AnGap-12
+___ 06:50AM BLOOD Calcium-9.9 Phos-3.8 Mg-1.9
+___:05AM BLOOD TSH-2.1
+
+IMAGING:
+
+___
+
+CT CHEST:
+
+IMPRESSION:
+ 
+ 
+1. Chronic appearing compression deformities of L1 and L2.  No 
+significant
+retropulsion.  No definite acute fracture seen.
+2. Multilevel degenerative changes with ankylosis of the 
+thoracic spine.
+3. Severe centrilobular emphysematous changes.
+ 
+___
+CT C SPINE:
+
+ Final Report
+EXAMINATION:  Cervical spine radiographs, three views.
+ 
+INDICATION:  Dens fracture.
+ 
+COMPARISON:  CT from earlier on the same day.
+ 
+FINDINGS: 
+ 
+Type 3 dens fracture is not well depicted on radiography.  
+Alignment appears
+normal, however.  There is no spondylolisthesis.  Mild 
+degenerative changes
+affect the C4-C5 and C5-C6 interspaces, which are mildly 
+narrowed with
+medium-size anterior osteophytes.  Bones appear demineralized.
+ 
+IMPRESSION: 
+ 
+Nondisplaced C2 fracture, not well-visualized with radiography.
+
+ 
+Brief Hospital Course:
+Hospital Summary:
+=================
+
+___ is a ___ female past medical history of 
+hypertension admitted after mechanical fall from standing height 
+resulting in type III dens fracture.  Patient cleared by 
+orthospine but will require C collar for 2 weeks until can been 
+seen as an outpatient. She then developed hypoxia in the 
+emergency department which resolved on arrival to the floor.  
+Found to have COPD on imaging without excacerbation. Evaluated 
+by ___ with plan for ongoing home therapy. 
+
+Transitional Issues;
+=====================
+- Increased lisinopril to 10mg daily, please obtain BMP in 2 
+weeks for electrolytes check
+- started on Spiriva and albuterol PRN
+- Consider outpatient PFT testign for new diagnosis of emphysema 
+
+- added amlodipine 5mg daily for SBP in 150s despite increasing 
+her lisinopril 
+
+ACTIVE ISSUES:
+=================
+
+#Falls:
+#Type III dens fracture:
+History consistent with mechanical fall. C-collar placed (will 
+likely require for several weeks, final duration to be 
+determined in follow-up with ortho spine) and follow up with 
+ortho spine outpatient in 2 weeks. Discharged home with ___ 
+and ___.
+
+#Acute Hypoxia:
+#COPD:
+Patient admitted to medicine with acute hypoxia (93% on 2 L 
+nasal cannula), reported to desat to 85% when ambulating. 
+Resolved on arrival to the floor, satting comfortably on RA 
+without any dyspnea. EKG normal. CT consistent with emphysema 
+and patient continues to smoke. No evidence of exacerbation 
+currently. Started on LAMA and ___. Nicotine patches for 
+cessation prescribed. Walking O2 sats normal. 
+
+#Tobacco use disorder:
+Interested in nicotine patches now that aware of emphysema
+
+#Hypertension:
+Significant hypertension during stay. Increased home lisinopril 
+to 10mg daily and added amlodipine 5mg daily. Will need to f/u 
+w/ PCP for further changes in BP regimen.
+
+She was discharged to home with services on ___.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler 1 PUFF IH Q6H:PRN shortness of breath  
+RX *albuterol sulfate [Ventolin HFA] 90 mcg 1 puff inhalation 
+every six (6) hours Disp #*1 Inhaler Refills:*1 
+2.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth once daily Disp #*30 
+Tablet Refills:*0 
+3.  Nicotine Patch 21 mg/day TD DAILY 
+RX *nicotine 21 ___ one patch on shoulder area 
+replace daily (every 24 hours) Disp #*30 Patch Refills:*0 
+4.  Tiotropium Bromide 1 CAP IH DAILY 
+RX *tiotropium bromide [Spiriva with HandiHaler] 18 mcg 1 
+inhalation inhlation once daily Disp #*30 Capsule Refills:*0 
+5.  Lisinopril 10 mg PO DAILY 
+RX *lisinopril 10 mg 1 tablet(s) by mouth once daily Disp #*30 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Cervical dens fracture
+Chronic obstructive lung disease 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+Dear ___,   
+___ was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted after a fall that caused a neck fracture 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You were seen by the spine doctors and have a collar in place
+- You were diagnosed with chronic obstructive lung disease and 
+started on inhalers
+- We adjusted your  home blood pressure meds 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- You will need to attend all your follow up appointments as 
+below
+- Please continue on nicotine patches to help with quitting 
+smoking given significant lung disease and damage from smoking
+- Please use Tiotropium inhaler daily and you may use albuterol 
+inhaler as needed for shortness of breath 
+-Please continue to take all of your medications and follow-up 
+with your appointments as listed below.  
+
+We wish you the best!  
+Sincerely,  
+Your ___ Team 
+ 
+Followup Instructions:
+___

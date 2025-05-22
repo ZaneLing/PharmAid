@@ -1,0 +1,395 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea/vomiting
+
+ 
+Major Surgical or Invasive Procedure:
+TEE ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with no history H.pylori 
+gastritis and benign parotid tumor s/p resection who presents 
+for further evaluation of nausea, vomiting, and abdominal pain, 
+subsequently found to have evidence of splenic infarct on 
+imaging. 
+
+Last ___, the patient arrived to ___ for vacation and two 
+days later developed acute onset abdominal pain with associated 
+nausea and NBNB vomiting. She had no associated diarrhea or 
+fevers. Her vomiting continued for nearly two days every few 
+hours and then resolved while her abdominal pain persisted 
+shifting predominantly to her LUQ. No one in her travel party 
+developed similar symptoms. Upon returning to the ___, 
+her mother noticed that her eyes and skin appeared 
+faintly-yellow. Due to these constellation of symptoms, she 
+presented to the ED for further evaluation. 
+
+In the ED, patient afebrile with stable vitals. Labs notable for 
+stable BMP, slight leukocytosis of 11.4, stable Hg of 13.3, plt 
+142, indirect hyperbilirubinemia, INR 1.3, and elevated retic 
+count. hCG was negative. Imaging notable for CT a/p with 
+Multiple low-attenuation regions throughout the spleen likely 
+represent infarcts of unclear etiology as well as bilateral GGOs 
+in the lungs. She was given IVF, opioids, and antiemetics. She 
+was admitted to medicine for further evaluation. 
+
+Upon meeting the patient, she provides the above history and 
+states that she continues to have significant LUQ pain, but the 
+medication is helpful. On ROS, she denies dysuria, hematuria, 
+frequency. No vaginal discharge or bleeding. No fevers or 
+chills. No chest pain or shortness of breath.
+ 
+Past Medical History:
+- benign parotid tumor s/p resection
+- H. Pylori gastritis
+ 
+Social History:
+___
+Family History:
+PGF with thyroid Ca
+MGF with prostate Ca
+No h/o sickle cell disease
+ 
+Physical Exam:
+ADMISSION EXAM:
+___ 1422 Temp: 99.0 PO BP: 141/94 R Lying HR: 107 RR: 18 O2
+sat: 98% O2 delivery: RA 
+
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM:
+98.1 ___
+GENERAL: Alert and in no apparent distress
+EYES: Sclerae Anicteric, wearing eyeglasses
+ENT: Ears and nose without visible external erythema, masses, or 
+trauma. Oropharynx with MMM.
+CV: Heart RRR, no m/g/r.
+RESP: Lungs clear to auscultation with good air movement 
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender. Bowel sounds 
+present. 
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rash
+NEURO: Alert, oriented, face symmetric, speech fluent, 
+strength/sensation grossly in tact
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+===========
+___ 10:47PM BLOOD WBC-11.4* RBC-3.88* Hgb-13.3 Hct-37.3 
+MCV-96 MCH-34.3* MCHC-35.7 RDW-13.0 RDWSD-44.9 Plt ___
+___ 10:47PM BLOOD Neuts-75.3* Lymphs-15.6* Monos-7.7 
+Eos-0.3* Baso-0.7 Im ___ AbsNeut-8.62* AbsLymp-1.78 
+AbsMono-0.88* AbsEos-0.03* AbsBaso-0.08
+___ 02:04AM BLOOD ___ PTT-24.2* ___
+___ 10:47PM BLOOD Ret Aut-4.7* Abs Ret-0.19*
+___ 10:47PM BLOOD Glucose-121* UreaN-8 Creat-0.8 Na-136 
+K-4.3 Cl-98 HCO3-24 AnGap-14
+___ 10:47PM BLOOD ALT-12 AST-29 LD(LDH)-450* AlkPhos-54 
+TotBili-3.4* DirBili-0.3 IndBili-3.1
+___ 10:47PM BLOOD Hapto-50
+___ 10:47PM BLOOD Lipase-18
+___ 10:47PM BLOOD Albumin-4.6
+___ 10:28PM URINE Color-Straw Appear-Clear Sp ___
+___ 10:28PM URINE Blood-SM* Nitrite-NEG Protein-TR* 
+Glucose-NEG Ketone-40* Bilirub-NEG Urobiln-2* pH-6.5 Leuks-NEG
+___ 10:28PM URINE RBC-6* WBC-2 Bacteri-FEW* Yeast-NONE 
+Epi-3
+
+INTERVAL LABS:
+==========
+___ 07:50AM BLOOD Polychr-1+* Echino-1+* RBC Mor-WITHIN NOR
+___ 07:50AM BLOOD Hb A-DONE Hb S-PND Hb C-PND Hb A2-PND Hb 
+F-PND
+___ 07:50AM BLOOD ___ Thrombn-12.8
+___ 07:05AM BLOOD Parst S-NEGATIVE
+___ 09:25PM BLOOD Parst S-NEGATIVE
+___ 07:50AM BLOOD Sickle-POS*
+___ 06:14AM BLOOD Ret Aut-4.4* Abs Ret-0.15*
+___ 07:50AM BLOOD Lupus-NOTDETECTE dRVVT-S-1.10 SCT-S-1.02
+___ 07:05AM BLOOD ALT-8 AST-14 LD(LDH)-311* AlkPhos-42 
+TotBili-1.7* DirBili-0.3 IndBili-1.4
+___ 09:00AM BLOOD HBsAg-NEG HBsAb-POS HBcAb-NEG HAV Ab-POS* 
+IgM HAV-NEG
+___ 09:25PM BLOOD ___
+___ 07:50AM BLOOD CMV IgG-PND CMV IgM-PND CMVI-PND Trep 
+Ab-POS*
+___ 07:05AM BLOOD EBV IgG-POS* EBNA-POS* EBV IgM-NEG 
+EBVI-Results in
+___ 09:25PM BLOOD HIV Ab-NEG
+___ 07:50AM BLOOD PARVOVIRUS B19 ANTIBODIES (IGG & IGM)-PND
+___ 09:00AM BLOOD DENGUE FEVER ANTIBODIES (IGG, IGM)-PND
+___ 09:00AM BLOOD CHIKUNGUNYA ANTIBODIES W/ REFLEX(ES) TO 
+TITER-NEGATIVE      
+___ 09:25PM BLOOD BETA-2-GLYCOPROTEIN 1 ANTIBODIES (IGA, 
+IGM, IGG)-WNL     
+___ 09:25PM BLOOD CARDIOLIPIN ANTIBODIES (IGG, IGM)-WNL     
+ 
+
+MICROBIOLOGY:
+===========
+___ PLASMA REAGIN TEST (Final ___: 
+      NONREACTIVE. 
+      Reference Range: Non-Reactive. 
+      To ensure specificity, specimens positive by treponemal 
+EIA and
+      negative by RPR will be reflexed to the TP-PA (treponemal 
+pallidum
+      particle agglutination) test, performed at the ___ 
+___
+      ___, unless the patient had a prior reactive TP-PA 
+result. 
+
+   TREPONEMAL ANTIBODY TEST (Preliminary):    SENT TO STATE. 
+
+___- NEGATIVE by Latex Agglutination.
+___ Culture, Routine X2-PENDING
+___ (Malaria)Malaria Antigen Test- 
+NEGATIVE
+___ CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+IMAGING:
+======
+LIVER OR GALLBLADDER US (SINGLE ORGAN)Study Date of ___
+Normal abdominal ultrasound.
+
+CT ABD & PELVIS WITH CONTRASTStudy Date of ___
+1. Multiple low-attenuation regions throughout the spleen likely 
+represent infarcts of unclear etiology.
+2. Bibasilar ground-glass opacities within the lungs are likely 
+infectious or inflammatory, and could represent 
+aspiration/pneumonia in the setting of recent emesis, although 
+its appearance is atypical for such.
+3. Metallic foreign body within the cecum may represent a coin 
+or ring, or high density tablet.  If indicated, this could be 
+better evaluated or followed with abdominal radiographs.
+4. Moderate pelvic free fluid may be physiologic.
+
+ABD (SINGLE VIEW ONLY)Study Date of ___
+Dilated transverse colon, consistent with ileus.  No retained 
+metallic object
+
+CT CHEST W/CONTRASTStudy Date of ___
+Near complete resolution of the ground-glass opacities in both 
+lower lobes on the right middle lobe, most likely represents 
+resolved aspiration or atelectasis.  No new consolidations.
+
+TTE Study Date of ___
+Normal study. Normal biventricular cavity sizes and 
+regional/global biventricular
+systolic function. No valvular pathology or pathologic flow 
+identified. Bubble study negative at rest and with valsalva, 
+possible R-L shunt with cough, however image quality poor during 
+the cough.
+
+BILAT LOWER EXT VEINSStudy Date of ___
+No evidence of deep venous thrombosis in the right or left lower 
+extremity veins.
+
+TEE Study Date of ___
+No structural cardiac source of embolism (e.g.patent foramen 
+ovale/atrial septal
+defect, intracardiac thrombus, or vegetation) seen.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ with PMH H.pylori gastritis and 
+benign parotid tumor s/p resection who presented with acute 
+nausea/vomiting and abdominal pain, subsequently found to have 
+evidence of splenic infarcts on CT scan and hemolysis, 
+ultimately thought related to sickle cell trait.
+
+ACUTE/ACTIVE PROBLEMS:
+=======================
+# Splenic infarcts
+# Hemolysis 
+# Left upper quadrant pain
+# Nausea/vomiting
+Patient became acutely ill on vacation in ___ with acute 
+onset abdominal pain, nausea and NBNB vomiting. After return, 
+family noticed jaundice and she presented to the ED. During 
+workup of her abdominal pain, multiple low-attenuation regions 
+consistent with splenic infarcts were noted. Labs showed 
+evidence of hemolysis. Initial differential was broad, including 
+autoimmune (including G6PD, PNH), infectious, cardioembolic. 
+Hematology and Infectious Disease were consulted for assistance 
+with workup. 
+
+Hemolytic workup: Hb Electrophoresis showed positive Sickle Cell 
+Preparation, rest of panel pending on discharge, thought most 
+likely to be sickle cell trait (given absence of sickling on 
+peripheral smear), which could explain her hemolysis and 
+infarcts in the setting of the stress of her acute illness. 
+Hypercoagulable workup negative with Lupus Anticoagulant, dRVVT, 
+SCT, Beta-2-Glycoprotein 1 Antibodies (IgA, IgM, IgG), 
+Cardiolipin Antibodies (IgG, IgM), ___, Coombs all negative. 
+Thrombin was normal. 
+
+Infectious Disease workup: Negative for HIV, Chikungunya 
+Antibodies, Monospot, Malaria Antigen Test, 2 parasite smears. 
+EBV and HAV Abs indicated past exposure. Immune to HBV. 
+Treponemal Ab was positive, RPR negative, confirmatory testing 
+sent to state lab, but this was felt likely to be a false 
+positive so treatment was deferred. Urine culture contaminated. 
+Dengue Fever Antibodies (IgG, IgM), Parvovirus B19 Antibodies, 
+CMV IgG/IgM, Blood cultures were pending on discharge. 
+
+Cardioembolic source was considered, TTE overall normal but 
+given PFO could not be entirely ruled out on TTE with bubble, 
+TEE was pursued, completed ___ without abnormality. She had no 
+DVTs on U/S.
+
+Her abdominal pain improved with oxycodone, tylenol, n/v, 
+icterus resolved by discharge. Daily hemolysis labs were trended 
+per Hematology recommendation. She was instructed to stay well 
+hydrated to prevent sickling.
+
+# Cecal foreign body s/p passage 
+CT scan on admission with reported metallic foreign body in the 
+cecum noted incidentally. Specimen was passed in stool and it 
+did not appear metallic. KUB did not show retained contents. 
+Patient denied swallowing anything metallic. Did not seem 
+related to her abdominal pain.
+
+# Constipation/Ileus
+Likely in the setting of opioids. Some concern for ileus on KUB. 
+Patient was able to move her bowels with bowel regimen, 
+continued on discharge while on opioids.
+
+# Suspected aspiration pneumonitis, resolved 
+CT a/p captured GGOs at bilateral bases. Suspected due to recent 
+multiple vomiting episodes. Patient afebrile without productive 
+cough. CT Chest completed with resolution. Antibiotics were 
+deferred given clinical wellness.
+
+TRANSITIONAL ISSUES:
+====================
+[] Followup remaining workup: Dengue Fever Antibodies (IgG, 
+IgM), Parvovirus B19 Antibodies, CMV IgG/IgM, Blood cultures, 
+Syphilis testing
+[] State micro labs contact numbers for results of Syphilis 
+testing (should be ready in ___ days from ___: microbiology 
+supervisor: ___ ___ lab supervisor: ___.
+[] She will have followup with hematology and infectious 
+disease. ___ consider testing for G6PD at that time when no 
+longer hemolyzing, but seems less necessary based on positive 
+Sickle Preparation.
+[] Discharged with short course of oxycodone for abdominal pain.
+[] Unclear if patient's sexual partner monogamous based on 
+history, would encourage partner to be tested if concerns, 
+reinforce safe sex practices 
+
+This patient was prescribed, or continued on, an opioid pain 
+medication at the time of discharge (please see the attached 
+medication list for details). As part of our safe opioid 
+prescribing process, all patients are provided with an opioid 
+risks and treatment resource education sheet and encouraged to 
+discuss this therapy with their outpatient providers to 
+determine if opioid pain medication is still indicated.
+
+>30 minutes spent on coordination of care, counseling, and 
+discharge planning on day of discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H 
+RX *acetaminophen 500 mg 2 tablet(s) by mouth three times a day 
+Disp #*30 Tablet Refills:*0 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+a day Disp #*20 Capsule Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q6H:PRN Pain - 
+Moderate 
+may request partial fill, do not drive when taking this 
+medication 
+RX *oxycodone 5 mg ___ tablet(s) by mouth three times a day Disp 
+#*10 Tablet Refills:*0 
+4.  Senna 8.6 mg PO BID 
+RX *sennosides [Senokot] 8.6 mg 1 tab by mouth twice a day Disp 
+#*20 Tablet Refills:*0 
+5.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+# Splenic infarcts
+# Hemolysis 
+# Abdominal pain, nausea/vomiting
+# Cecal foreign body s/p passage 
+# Constipation/Ileus
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+We admitted you to the hospital after you had been very ill in 
+___. 
+
+We conducted a lot of tests while you were here, and have 
+concluded that it is possible that you have sickle cell trait or 
+sickle cell disease. This likely caused the blood to break apart 
+in the vessels (hemolysis) and the problem in your spleen.
+
+When you leave the hospital, please:
+ 
+**** PLEASE STAY WELL HYDRATED TO PREVENT ANOTHER EPISODE ****
+
+- see below for followup appointments and medicines
+- let your primary doctor know if you have any further yellowing 
+of the eyes or worsening of your abdominal pain
+- as we discussed, you can take oxycodone but be sure to not 
+drive and follow other instructions. Oxycodone can make you 
+constipated so please take a stool softener.
+
+We wish you the best with your health,
+___ Medicine
+ 
+Followup Instructions:
+___

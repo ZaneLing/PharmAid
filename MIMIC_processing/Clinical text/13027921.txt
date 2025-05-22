@@ -1,0 +1,278 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+___ angiography with deployment of 1 DES to the mid 
+RCA
+ 
+History of Present Illness:
+___ year old man with H/O chronic atrial fibrilation on 
+rivaroxaban (Xarelto) and dofetilide, CAD s/p prior MIs, PCIs 
+to LAD and RCA (most recently in ___ in ___ who presents 
+with chest pain. 
+
+Patient reported ___ weeks of intermittent chest pain with 
+activity as well as at rest. He developed chest pain while 
+golfing yesterday which persisted. After taking a nitroglycerin, 
+the chest pain resolved. This prompted him to proceed to the BID 
+___. He was found to be in atrial fibrillation with a 
+rapid ventricular rate that was subsequently controlled with 
+metoprolol. Troponin was negative x 3. On a stress 
+echocardiogram, he exercised for 6:16 minutes ___ METS) with 
+borderline ST changes, stopping for fatigue. At 1 minute into 
+recovery, patient developed ___ chest discomfort, low on the 
+left side of his chest. This persisted until 4 minutes of 
+recovery, at which point it resolved spontaneously. Resting 
+images demonstrated hypokinesis of the basal to distal inferior 
+wall, and basal to mid septal and inferolateral walls with LVEF 
+40%. Post-exercise images demonstrated new regional dysfunction 
+with new akinesis of the basal to distal inferior wall 
+(previously hypokinetic). There was improvement in function of 
+the basal septal wall, previously hypokinetic, however there was 
+otherwise an overall very subtle increased LV dilation with 
+stress. There was augmentation of right ventricular free wall 
+motion.
+
+Patient was currently pain free and NPO after MN. Last dose 
+Xarelto yesterday morning. VS prior to transfer: BP 120/65, VR 
+93, SaO2 96% on room air, afebrile, RR 16. Coronary angiography 
+showed in-stent re-stenosis in RCA. Patient had DES placed to 
+the mid RCA and was started on clopidogrel.
+
+On arrival to the cardiology ward, patient was chest pain free. 
+He denied shortness of breath or palpitations.
+
+ROS: positive as above; denied fevers, chills, shortness of 
+breath, palpitations, nausea, vomiting diarrhea, ___ edema
+ 
+Past Medical History:
+-atrial fibrillation on rivaroxaban (Xarelto)
+-atrial flutter s/p ablation
+-mild aortic stenosis
+-CAD s/p RCA stenting (most recently ___ in FL) and LAD 
+stenting
+-hypertension
+-hyperlipidemia
+-Prior pulmonary embolus
+-S/P bilateral knee surgery
+-GERD
+-sleep apnea (on CPAP)
+ 
+Social History:
+___
+Family History:
+Mother and father with MIs. Sister with ovarian cancer. Brother 
+with lung cancer.
+ 
+Physical Exam:
+On admission
+General: Well appearing elderly white man, pleasant, in NAD
+Vitals: T 97.4, BP 152/103, VR 91-107, Sao2 98% on RA
+HEENT: MMM, anicteric sclera, EOMI
+Neck: supple, JVP 2-3 cm above clavicle
+CV: irregularly irregular; no murmurs, rubs or gallops
+Lungs: CTAB--no wheezes, crackles or rhonchi
+Abdomen: +BS, soft, non-tender, not distended
+GU: no Foley
+Extr: Right TR band in place, trace ___ edema
+Skin: ___ with chronic venous stasis changes
+
+At discharge
+General: well appearing man, pleasant, in NAD
+Vitals: T 97.8, BP 121/62, VR 114, SaO2 95% on RA
+Tele: atrial fibrillation with VR ___ 
+Neck: supple, JVP 2-3 cm above clavicle
+CV: irregularly irregular; no murmurs, rubs or gallops
+Lungs: CTAB--no wheezes, crackles or rhonchi
+Abdomen: +BS, soft, non-tender, not distended
+GU: no Foley
+Extr: Right radial arteriotomy site clean, dry and intact; trace 
+___ edema
+Skin: ___ with chronic venous stasis changes
+ 
+Pertinent Results:
+___ 04:40PM BLOOD cTropnT-<0.01
+
+___ 05:20AM BLOOD WBC-7.3 RBC-4.59* Hgb-13.7 Hct-41.4 
+MCV-90 MCH-29.8 MCHC-33.1 RDW-14.6 RDWSD-47.4* Plt ___
+___ 05:20AM BLOOD Glucose-96 UreaN-21* Creat-0.9 Na-139 
+K-4.1 Cl-105 HCO3-23 AnGap-15
+___ 05:20AM BLOOD CK-MB-2 cTropnT-<0.01
+
+ECG ___ 5:35:34 ___
+Baseline artifact. Supraventricular tachycardia, possibly 
+atypical flutter at 300 beats per minute with predominantly 2:1 
+and occasional 3:1 and 4:1 conduction with a net ventricular 
+rate of 95 beats per minute. Q waves in leads III and aVF 
+consistent withe prior myocardial infarction. Non-specific 
+repolarization abnormalities in the inferolateral leads. 
+Compared to the previous tracing of ___ a supraventricular 
+tachycardia with predominatly 2:1 conduction has replaced sinus 
+bradycardia with P-R interval prolongation. Non-specific 
+repolarization abnormalities are more pronounced. Apical R wave 
+progression is worse, most likely due to differences in apical 
+elecrode placement rather than interval infarction. J point 
+elevation persists in leads V2-V4.
+
+Cardiac Catheterization ___
+Coronary Anatomy
+Dominance: Right
+* Left Main Coronary Artery: The LMCA is calcified with mild 
+diffuse disease.
+* Left Anterior Descending: The LAD is heavily calcified with 
+diffuse 40-50% stenosis.
+* Circumflex: The Circumflex is small and free of significant 
+disease.
+* Ramus: The Ramus has proximal 70% stenosis.
+* Right Coronary Artery: The RCA is very heavily calcified. 
+There is mid 90% in-stent restenosis.
+Interventional Details
+  Guide support and engagement were challenging. We could not 
+torque a AL 0.75 or AR 1 guide into position and a JR 4 provided 
+limited support. The lesion was wired with a CPT XS wire 
+positioned in the RPL. Balloon delivery was difficult but the 
+lesion was predilated with 2.5 x 12 and 3.0 x 12 NC balloon at 
+up to 14 ATM.  With use a Guideliner a 3.0 x 16 Promus DES was 
+delivered with moderate difficulty and just covered the lesion. 
+It was deployed at 14 ATM and post-dilated with 3.0 x 12 NC 
+balloon at 14 ATM x 2. Final angiography showed distal ___ 
+stenosis beyond the stent, no dissection and TIMI 3 flow without 
+evidence of dissection, rupture or perforation.
+Intra-procedural Complications: None
+Impressions:
+1. Two vessel CAD with severe RCA in-stent restenosis. 
+2. Successful ___.
+Recommendations
+1. ASA 81 mg daily. 
+2. Plavix 75 mg daily.
+3. ___ resume rivaroxaban. After 3 months consider stopping 
+aspirin or Plavix.
+ 
+Brief Hospital Course:
+___ year old man with H/O chronic atrial fibrillation on 
+rivaroxaban (Xarelto) and dofetilide, CAD s/p prior MIs, PCIs 
+to LAD and RCA who presents with chest pain consistent with 
+biomarker negative unstable angina and transferred to ___ 
+after a positive stress echocardiogram.
+
+ACTIVE MEDICAL ISSUES:
+# CAD: Patient S/P multiple PCIs to LAD and RCA, most recently 
+had in-stent restenosis treated in ___ in ___. Patient now 
+presented with chest pain, negative troponins and no EKG changes 
+but had a positive stress test with inducible inferior ischemia 
+on top of a prior infarct. Patient was transferred to ___ 
+where angiography showed in-stent restenosis in the RCA treated 
+with a DES. 
+
+Original plan had been for triple therapy with ASA, clopidogrel 
+and rivaroxaban but given unknown risk of bleeding on triple 
+therapy with novel anticoagulants, his rivaroxaban was switched 
+to warfarin. Given that patient was discharged over the weekend, 
+we were unable to confirm that his primary care doctor ___. 
+___ be able to manage his INR so referral to the ___ 
+___ was placed. Patient did state he had been 
+on warfarin in the past which was previously managed by Dr. 
+___. Patient discharged on warfarin 5 mg and given lab 
+script to have his INR on ___. He was continued on ASA and 
+clopodigrel. Home atorvastatin dose increased given severity of 
+CAD.
+
+# Atrial fibrillation: He presented to ___ with atrial 
+fibrillation with rapid ventricular rate. HR well controlled 
+while inpatient but remained in atrial fibrillation. He was 
+continued on dofetilide and metoprolol. Plan is for for future 
+admission to increase dofetilide to 375 mcg q12h while 
+monitoring the QT interval.
+
+CHRONIC MEDICAL ISSUES
+# GERD: Pt continued on home PPI
+
+# Hyperlipidemia: Patient's home statin regimen was increased 
+given his CAD.  
+
+# Hypertension: Patient continued on home moexapril 15 mg daily 
+in addition to metoprolol.
+
+TRANSITIONAL ISSUES:
+[] Clopidogrel started
+[] Rivaroxaban (Xeralto) switched to warfarin
+[] INR check on ___
+[] Atorvastatin dose increased
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 20 mg PO QPM 
+2. Dofetilide 250 mcg PO Q12H 
+3. Metoprolol Succinate XL 100 mg PO BID 
+4. Moexipril 15 mg PO DAILY 
+5. Pantoprazole 40 mg PO Q24H 
+6. Aspirin 81 mg PO DAILY 
+7. Rivaroxaban 20 mg PO DAILY 
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Dofetilide 250 mcg PO Q12H 
+3. Metoprolol Succinate XL 100 mg PO BID 
+4. Moexipril 15 mg PO DAILY 
+5. Pantoprazole 40 mg PO Q24H 
+6. Clopidogrel 75 mg PO DAILY 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+7. Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0
+8. Warfarin 5 mg PO DAILY16 
+RX *warfarin 5 mg 1 tablet(s) by mouth daily Disp #*15 Tablet 
+Refills:*0
+9. Outpatient Lab Work
+ICD-9 427.31 (AFIB).
+Responsible provider: ___
+Please draw INR on ___
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+-Coronary artery disease
+-In-stent restenosis
+-Atrial fibrillation, with
+-Long term use of anticoagulants
+-Tachycardia
+-Hypertension
+-Hyperlipidemia
+-Gastroesophageal reflux disease
+-Sleep apnea
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+___,
+It was a pleasure taking care of you during your stay at ___. 
+You were admitted with chest pain after you had a positive 
+stress test at ___. You had a cardiac catherization which 
+showed a blockage of the artery of your heart. You had a stent 
+that was placed and were started on plavix. It is important you 
+follow up with your cardiologist as an outpatient. We wish you 
+the best
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

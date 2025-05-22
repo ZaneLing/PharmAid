@@ -1,0 +1,215 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+environmental
+ 
+Attending: ___
+ 
+Chief Complaint:
+Cellulitis
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+___ is a ___ old woman with a history of GERD
+and sleep apnea presenting with cellulitis.
+
+Patient reports that three days prior to admission, her pet cat
+bit her while she was trying to get it into a carrier. The cat 
+is
+up-to-date on routine vaccinations, and was not exhibiting any
+abnormal behaviors. She saw her PCP, and the wound was cleaned
+and she was prescribed a 5-day prophylactic course of Augmentin.
+Subsequently she had increased right arm swelling and erythema.
+She presented to the ED and was initially obs'd for overnight
+antibiotics before ___ home. She then re-presented to the ED when
+she thought the puncture marks were becoming more swollen. No
+fevers, chills. The swelling and erythema of her arm is overall
+much improved. She reports taking antibiotics as directed.
+
+In the ED, initial vitals: T 97.6 HR 78 BP 124/73 RR 18 O2 sat
+100% RA 
+  
+- Exam notable for increased erythema of the dorsal right arm. 
+- Labs unremarkable. 
+- Patient was given unasyn prior to transfer to the floor. 
+
+On arrival to the floor, patient endorses the history above. She
+is overall much improved from prior. Denies pain or fevers.
+
+REVIEW OF SYSTEMS:  
+A complete 10-point review of systems was performed and was
+negative less otherwise noted in the HPI.  
+ 
+Past Medical History:
+OSA
+Actinic Keratosis 
+
+ 
+Social History:
+___
+Family History:
+Mother with depression, father with alcohol abuse.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: T 98.6 BP 131/78 HR 57 RR 16 O2 sat 97% RA 
+GENERAL: Pleasant, lying in bed comfortably  
+HEENT: Sclera anicteric, moist mucus membranes 
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly  
+EXT: Warm, well perfused, no lower extremity edema. Full range 
+of
+motion of right elbow. 
+PULSES: 2+ radial pulses, 2+ ___ pulses, 2+ DP pulses  
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact  
+SKIN: Right arm with 2 cm area of induration with 2 puncture
+marks, no tenderness to palpation, dorsal aspect with mild
+erythema extending outside previously demarcated borders 
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: ___ 0703 Temp: 98.0 PO BP: 121/78 L Lying HR: 61 RR: 18
+O2 sat: 96% O2 delivery: ra  
+GENERAL: Pleasant, lying in bed comfortably  
+HEENT: Sclera anicteric, moist mucus membranes 
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended, no
+hepatomegaly, no splenomegaly  
+EXT: Warm, well perfused, no lower extremity edema. Full range 
+of
+motion of right elbow. Slight reduction in right wrist
+flexion/extension compared to left. Able to grip and extend
+fingers without ___
+PULSES: 2+ radial pulses, 2+ ___ pulses, 2+ DP pulses  
+NEURO: Alert, oriented, CN II-XII intact, motor and sensory
+function grossly intact  
+SKIN: Right arm with 2 cm area of induration with 2 puncture
+marks, no tenderness to palpation, dorsal aspect with mild
+erythema greatly regressed from prior demarcated line
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 03:55PM BLOOD WBC-6.6 RBC-4.57 Hgb-14.8 Hct-43.2 MCV-95 
+MCH-32.4* MCHC-34.3 RDW-12.7 RDWSD-44.0 Plt ___
+___ 03:55PM BLOOD Neuts-69.9 ___ Monos-5.0 Eos-4.0 
+Baso-0.6 Im ___ AbsNeut-4.59 AbsLymp-1.33 AbsMono-0.33 
+AbsEos-0.26 AbsBaso-0.04
+___ 03:55PM BLOOD Glucose-134* UreaN-17 Creat-0.7 Na-141 
+K-4.1 Cl-103 HCO3-25 AnGap-13
+___ 04:13PM BLOOD Lactate-1.4
+
+DISCHARGE LABS:
+================
+___ 05:38AM BLOOD WBC-5.0 RBC-4.03 Hgb-13.0 Hct-38.8 MCV-96 
+MCH-32.3* MCHC-33.5 RDW-12.7 RDWSD-45.1 Plt ___
+___ 05:38AM BLOOD ___ PTT-27.8 ___
+___ 05:38AM BLOOD Glucose-96 UreaN-17 Creat-0.7 Na-143 
+K-4.5 Cl-105 HCO3-25 AnGap-13
+___ 05:38AM BLOOD Calcium-9.6 Phos-4.2 Mg-1.9
+
+MICROBIOLOGY:
+==============
+Blood Cultures X2 on ___ were pending at time of discharge 
+but negative to date
+
+IMAGING:
+=========
+___ FOREARM (AP & LAT) RIGHT
+No radiopaque foreign body
+ 
+Brief Hospital Course:
+___ old woman with a history of GERD and sleep apnea 
+presenting with cellulitis.
+
+ACUTE ISSUES: 
+============= 
+#Cellulitis secondary to cat bite:
+Mild erythema with extension outside previously-demarcated 
+borders; suspect that induration at site of bite is secondary to 
+tissue injury rather than developing abscess as is non-tender. 
+Overall appears to be improving without MRSA coverage though 
+resolution has been slow. No concern for joint infection on 
+exam. Patient was continued on unaysn overnight with improvement 
+in erythema the following day. She was subsequently transitioned 
+to Augmentin to finish 5 days of antibiotics. 
+
+TRANSITIONAL ISSUES
+====================
+[] Monitor for interval resolution of right upper extremity 
+cellulitis. 
+
+Agree with discharge summary and plan as documented. 35 minutes 
+spent on care coordination and preparation of discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sertraline 100 mg PO DAILY 
+2. Fluticasone Propionate NASAL 2 SPRY NU DAILY 
+3. Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H 
+Through ___.  
+2.  Fluticasone Propionate NASAL 2 SPRY NU DAILY  
+3.  Sertraline 100 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+Cellulitis secondary to cat bite 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure treating you at ___!
+
+Why was I admitted to the hospital?
+-You were admitted because you had an infection in your skin 
+that was not getting better with oral medication.
+
+What happened while I was admitted?
+-You received antibiotics intravenously, and your skin infection 
+improved.
+
+What should I do when I return home?
+-Please take the rest of the course of antibiotics, through 
+___. The antibiotic is called Augmentin and is the same one 
+that you were prescribed in the Emergency Department. 
+-Please monitor your arm for worsening of the redness of the 
+skin, which could be a sign that the infection is getting worse 
+again.
+
+We wish you the best! 
+Your ___ care providers
+ 
+___:
+___

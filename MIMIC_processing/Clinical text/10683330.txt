@@ -1,0 +1,272 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fatigue
+ 
+Major Surgical or Invasive Procedure:
+Blood transfusion x1
+Esophogastroduodenoscopy
+Colonoscopy 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___. without a significant PMH who presents 
+as
+a referral from her primary care physician ___ 3mo of fatigue,
+myalgias and dyspnea on exertion found to have anemia with a HgB
+of 6.0. She was recently evaluated at ___ for sore
+throat/ear pain and received a course of Penicillin with
+improvement.
+
+Several months ago, Ms. ___ reports visiting her physician
+who prescribed vitamin B12 (she subsequently ran out) as well as
+vitamin D. She then represented to her primary care physician 
+for
+ongoing myalgias, shortness of breath as well as fatigue for the
+past 3 months and was subsequently sent to ___ for a HgB of
+6.0. Patient states she gets tired doing chores around the house
+which is unusual for her, and she also had to stop working
+(previously worked at a ___) due to these symptoms. Her
+SOB is worse with activity, but has become largely persistent
+over the last month, as she now has intermittent SOB at rest. 
+She
+intermittently has palpitations and some leg swelling at the end
+of the work-day, but otherwise denies any CP or
+cough/wheezing/mucus production. She has BM's 3x/week which is
+normal for her and they have not had any hematochezia or
+black/tarry stools. She notes acid reflux, but otherwise denies
+any diarrhea, abdominal pain, N/V. She has chronic headaches
+which occur daily with some blurry vision that subsequently
+resolves. These are stable. She otherwise denies any fevers,
+chills, epistaxis, rashes, bruising or numbness/tingling.
+
+Ms. ___ last had her menstural period ___ years ago. She had
+an ovarian cyst removed, but she has never had any GI surgeries
+in the past. She reports eating a balanced meal with chicken,
+vegetables and rice two times/day although she does eat chips 
+and
+other snacks throughout the night. She has not yet had a
+colonoscopy, but she has regular pap smears. Her sister
+unfortunately passed away from stomach cancer. 
+ 
+Past Medical History:
+Ovarian cyst removal
+
+ 
+Social History:
+___
+Family History:
+- Father: heart disease (unknown)
+- Mother: lung disease (unknown)
+- Cancer: sister passed away from stomach cancer
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM.
+GENERAL: sitting on side of bed, pale but comfortable
+HEENT: PERRLA, EOMI, pale conjunctiva, MMM but discoloration of
+the hard palate
+NECK: supple without lymphadenopathy, no thyroid nodules
+CARDIAC: Normal S1/S2 with RRR, no MRG
+LUNG: no respiratory distress, clear to auscultation 
+bilaterally,
+no crackles, wheezes, or rhonchi  
+ABD: +BS, soft, mild tenderness to palpation below epigastrum,
+nondistended, no hepatosplenomegaly
+EXT: Warm, well perfused, no lower extremity edema, 2+/symmetric
+distal pulses
+NEURO: Awake, alert, oriented, CN II-XII intact, ___ strength
+bilaterally, intact sensation to light touch bilaterally
+SKIN: No significant rashes evident 
+
+DISCHARGE PHYSICAL EXAM.
+VS: T 98|BP 113/62|HR 76|RR 18|SpO2 97% RA
+GENERAL: standing in room NAD
+HEENT: PERRLA, EOMI, pale conjunctiva, MMM but discoloration of
+the hard palate
+NECK: supple without lymphadenopathy, no thyroid nodules
+CARDIAC: Normal S1/S2 with RRR, no MRG
+LUNG: no respiratory distress, clear to auscultation 
+bilaterally,
+no crackles, wheezes, or rhonchi  
+ABD: +BS, soft, non tender non distended, no hepatosplenomegally
+EXT: Warm, well perfused, no lower extremity edema, 2+/symmetric
+distal pulses
+NEURO: Awake, alert, oriented, CN II-XII intact, ___ strength
+bilaterally, intact sensation to light touch bilaterally
+SKIN: No significant rashes evident 
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 08:00PM BLOOD WBC-9.8 RBC-3.18* Hgb-6.0* Hct-22.0* 
+MCV-69* MCH-18.9* MCHC-27.3* RDW-20.8* RDWSD-50.8* Plt ___
+___ 08:00PM BLOOD Neuts-65.9 ___ Monos-6.4 Eos-1.5 
+Baso-0.8 Im ___ AbsNeut-6.44* AbsLymp-2.45 AbsMono-0.63 
+AbsEos-0.15 AbsBaso-0.08
+___ 11:33PM BLOOD ___ PTT-35.1 ___
+___ 08:00PM BLOOD Ret Aut-1.1 Abs Ret-0.04
+___ 08:00PM BLOOD Glucose-95 UreaN-15 Creat-0.5 Na-141 
+K-3.9 Cl-102 HCO3-23 AnGap-16
+___ 08:00PM BLOOD ALT-27 AST-50* LD(LDH)-186 CK(CPK)-54 
+AlkPhos-95 TotBili-0.3
+___ 08:00PM BLOOD calTIBC-729* VitB12-1339* Hapto-130 
+Ferritn-5.9* TRF-561*
+
+NOTABLE INTERVAL LABS
+=====================
+___ 07:03AM BLOOD TSH-0.86
+___ 07:03AM BLOOD Free T4-1.5
+___ 07:05AM BLOOD HBsAg-NEG HBsAb-POS HBcAb-NEG
+___ 07:03AM BLOOD IgA-475*
+___ 07:03AM BLOOD tTG-IgA-16
+___ 07:05AM BLOOD HCV Ab-NEG
+
+DISCHARGE LABS
+==============
+___ 07:05AM BLOOD WBC-7.9 RBC-4.04 Hgb-8.4* Hct-29.9* 
+MCV-74* MCH-20.8* MCHC-28.1* RDW-24.4* RDWSD-61.3* Plt ___
+___ 07:05AM BLOOD Glucose-106* UreaN-12 Creat-0.6 Na-144 
+K-4.1 Cl-105 HCO3-21* AnGap-18
+___ 07:05AM BLOOD ALT-32 AST-49* AlkPhos-80 TotBili-0.4
+___ 07:05AM BLOOD Calcium-10.3 Phos-4.2 Mg-1.9
+
+IMAGING
+=======
+___ RUQUS
+1. Echogenic liver consistent with steatosis. Other forms of 
+liver disease and more advanced liver disease including 
+steatohepatitis or significant hepatic fibrosis/cirrhosis cannot 
+be excluded on this study. 
+2. Normal gallbladder. 
+RECOMMENDATION(S):  Radiological evidence of fatty liver does 
+not exclude 
+cirrhosis or significant liver fibrosis which could be further 
+evaluated by ___. This can be requested via the Liver 
+Center (FibroScan), or the Radiology Department with MR 
+___, in conjunction with a GI/Hepatology consultation
+
+___ EGD
+Normal esophagus and duodenum, 5mm stomach polyp that was 
+biopsied
+
+___ Colonscopy
+Normal mucosa, single non bleeding polyp (biopsied) in rectum, 
+fair prep. Will need repeat colonscopy in ___ year. 
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+===============
+___ year old female with no significant PMH presented to outside 
+provider with fatigue, dyspnea, and weight loss, found to have 
+hgb of 6.0 and referred to ___ for blood transfusion with 
+appropriate rise in Hgb, now s/p unrevealing EGD and colonoscopy 
+discharged with plan for pill endsoscopy with GI in outpatient 
+setting and PCP follow up for iron deficiency anemia of unknown 
+etiology.
+
+TRANSITIONAL ISSUES
+===================
+[ ] f/u stomach and rectal polyp biopsy results
+[ ] will need pill endoscopy in outpatient setting with GI
+[ ] consider fibroscan to assess for cirrhosis
+[ ] f/u H pylori stool antigen, HBV and HCV serologies
+[ ] will need HLA DQ2 and DQ8
+[ ] colonoscopy here was inadequate for screening, she will need 
+a repeat colonoscopy in ___ year (___)
+
+ACUTE ISSUES
+============
+#Iron deficiency anemia
+Found to have hgb of 6 in outpatient setting after a few months 
+of fatigue. She denies any further menstrual bleeds or abnormal 
+uterine bleeding. She had appropriate increase in Hct to 8.6 in 
+the setting of pRBC transfusion and IV iron x3d. Patient 
+underwent EGD and colonoscopy that were not revealing for any 
+source of bleed or malignancy, however prep was moderate and 
+will require pill endoscopy in outpatient setting. IgA 475 and 
+tTG-IgA 16. H pylori stool antigen pending at time of discharge. 
+Current etiology remains unknown at this time. Discharged with 
+PO ferrous sulfate to take every other day.
+
+#Transaminitis
+#Elevated INR
+#Hepatic Steatosis
+AST 50 and ALT 27 on admission, INR of 1.2. RUQUS during 
+admission with steatosis but cannot exclude cirrhosis. Hemolysis 
+labs and CK unremarkable. No known risk factors for cirrhosis at 
+this time. Will need fibroscan in outpatient setting to rule out 
+cirrhosis.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Ferrous Sulfate 325 mg PO 4X/WEEK (___) 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+every other day Disp #*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+Iron deficiency anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+It was a privilege taking care of you at ___ 
+___.  
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+===================================
+- You were feeling fatigued 
+- You reported that you were loosing weight
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+==========================================
+- You received a blood transfusion because your blood levels 
+were low. This increased your blood levels
+- A gastroenterologist looked in your esophagus, stomach, and 
+colon for any signs of bleeding
+- They found a polyp in your stomach and rectum, but no evidence 
+of bleeding
+- You began to feel better and were ready to go home
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+============================================  
+- Please continue to take all your medications and follow up 
+with your doctors at your ___ appointments.
+- We prescribed you a new medication to help keep your iron 
+levels up. Please take this pill every other day.  
+
+We wish you all the best!
+
+Sincerely,  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

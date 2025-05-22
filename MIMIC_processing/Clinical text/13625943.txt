@@ -1,0 +1,269 @@
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Actonel / bupropion / Celexa / Pneumovax 23 / venlafaxine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea, vomiting, dizziness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year-old woman with Stage III, low-grade, high-risk by 
+FLIPI-1
+score Follicular Lymphoma (with FISH negative for t(14;18) and
+IgK/IgL rearrangements, but with gain of BCL2 and MYC) s/p
+chlorambucil/prednisone x 1 cycle, triple-negative Essential
+Thrombocythemia (previously on hydroxyurea and aspirin,
+hydroxyurea currently on hold), and chronic renal insufficiency
+of uncertain etiology, who presents with nausea.
+The patient states she started having severe nausea this
+afternoon followed by vomiting. She states she felt dizzy as 
+well
+but this is more likely lightheadedness as she states it is not
+like her previous vertigo with the room spinning but just a
+feeling with the nausea. She denies any abdominal pain. She
+denies any recent fevers, shortness of breath, cough, dysuria, 
+or
+rashes. She states until today she has been eating and drinking
+well. She thinks some of the nausea may be related to the
+allopurinol. 
+In the ED labwork was notable for a WBC of 15.1. A head CT was
+unremarkable and a chest x-ray showed a possible pneumonia. She
+was given IV fluids, Zofran, azithromycin, and ceftriaxone. 
+
+REVIEW OF SYSTEMS: A complete 10-point review of systems was
+performed and was negative unless otherwise noted in the HPI.
+ 
+Past Medical History:
+- Essential Thromobocythemia (negative for JAK2 V617F, CALR, and
+MPL mutations) 
+- Chronic renal insufficiency, etiology uncertain but patient 
+was
+told by other providers that this was secondary to risedronate 
+- Iron deficiency anemia
+- Pernicious anemia
+- Hypercholesterolemia
+- Hyperglycemia
+- Follicular lymphoma
+- Hypothyroidism
+- Osteoporosis
+- Tremor
+ 
+Social History:
+___
+Family History:
+Mother died of lung cancer at age ___. Father died
+of lung cancer at age ___ (had a long smoking history). Brother
+had a stroke. Sister had endometrial cancer in her ___. Another
+sister had a disease that might have been Essential
+Thrombocythemia, and was on hydroxyurea. Has two daughters, both
+healthy.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: T 98.1 BP 160/85 HR 64 RR 18 O2 96%RA
+GENERAL: NAD
+HEENT: Anicteric, EOMI, OP clear.
+CARDIAC: RRR, normal s1/s2.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally.
+ABD: Soft, non-tender, non-distended, no hepatomegaly, no
+splenomegaly.
+EXT: Warm, well perfused, no lower extremity edema, erythema or
+tenderness.
+NEURO: A&Ox3, no focal deficits.
+SKIN: No significant rashes
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: 98.3
+PO 140 / 72 59 18 97 RA 
+GENERAL: NAD
+HEENT: Anicteric, EOMI, OP clear.
+CARDIAC: RRR, normal s1/s2.
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally.
+ABD: Soft, non-tender, non-distended, no hepatomegaly, no
+splenomegaly.
+EXT: Warm, well perfused, no lower extremity edema, erythema or
+tenderness.
+NEURO: A&Ox3, no focal deficits.
+SKIN: No significant rashes.
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 01:00PM   GLUCOSE-150* UREA N-25* CREAT-1.4* SODIUM-135 
+POTASSIUM-4.1 CHLORIDE-99 TOTAL CO2-25 ANION GAP-15
+___ 01:00PM   ALT(SGPT)-21 AST(SGOT)-14 LD(LDH)-155 ALK 
+PHOS-43 TOT BILI-0.3
+___ 01:00PM   CALCIUM-8.3* PHOSPHATE-3.2 MAGNESIUM-2.1 URIC 
+ACID-2.7
+___ 01:00PM   WBC-8.8 RBC-3.56* HGB-12.4 HCT-36.5 MCV-103* 
+MCH-34.8* MCHC-34.0 RDW-13.5 RDWSD-51.1*
+___ 01:00PM   PLT COUNT-373
+___ 01:00PM   ___ PTT-27.6 ___
+___ 01:45AM   GLUCOSE-90 UREA N-31* CREAT-1.3* SODIUM-135 
+POTASSIUM-4.2 CHLORIDE-101 TOTAL CO2-21* ANION GAP-17
+___ 12:16AM   ___ COMMENTS-GREEN TOP
+___ 12:16AM   LACTATE-2.0
+___ 12:02AM   GLUCOSE-90 UREA N-32* CREAT-1.4* SODIUM-131* 
+POTASSIUM-6.2* CHLORIDE-98 TOTAL CO2-20* ANION GAP-19
+___ 12:02AM   estGFR-Using this
+___ 12:02AM   LD(LDH)-475*
+___ 12:02AM   ALT(SGPT)-33 AST(SGOT)-72* ALK PHOS-34* TOT 
+BILI-0.3
+___ 12:02AM   URIC ACID-2.5
+___ 12:02AM   ALBUMIN-3.5 CALCIUM-8.3* PHOSPHATE-3.5 
+MAGNESIUM-2.0
+___ 12:02AM   WBC-15.1* RBC-3.55* HGB-12.2 HCT-36.7 
+MCV-103* MCH-34.4* MCHC-33.2 RDW-13.5 RDWSD-51.7*
+___ 12:02AM   NEUTS-86.7* LYMPHS-2.2* MONOS-9.6 EOS-0.3* 
+BASOS-0.3 IM ___ AbsNeut-13.09* AbsLymp-0.33* 
+AbsMono-1.45* AbsEos-0.05 AbsBaso-0.05
+___ 12:02AM   PLT COUNT-382
+___ 11:32PM URINE  HOURS-RANDOM
+___ 11:32PM URINE  UHOLD-HOLD
+___ 11:32PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 11:32PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 11:32PM URINE  RBC-<1 WBC-4 BACTERIA-NONE YEAST-NONE 
+EPI-1
+___ 11:32PM URINE  MUCOUS-RARE
+
+IMAGING:
+___: IMPRESSION:  
+  
+No evidence of an acute intracranial abnormality. 
+
+CXR: IMPRESSION:  
+  
+Right lower lobe pneumonia more likely than atelectasis. 
+
+DISCHARGE LABS:
+==============
+___ 05:40AM BLOOD WBC-7.4 RBC-3.51* Hgb-12.2 Hct-36.2 
+MCV-103* MCH-34.8* MCHC-33.7 RDW-13.2 RDWSD-49.9* Plt ___
+___ 05:40AM BLOOD Plt ___
+___ 05:40AM BLOOD ___ PTT-33.3 ___
+___ 05:40AM BLOOD Glucose-102* UreaN-18 Creat-1.3* Na-135 
+K-4.4 Cl-101 HCO3-24 AnGap-14
+___ 05:40AM BLOOD ALT-21 AST-16 LD(LDH)-157 AlkPhos-45 
+TotBili-0.3
+___ 05:40AM BLOOD Calcium-8.6 Phos-4.1 Mg-2.2 UricAcd-3.___ yo female with a history of follicular lymphoma and essential
+thrombocythemia who is admitted with nausea/vomiting and 
+dizziness. 
+
+Lightheadedness/dizziness: NCHCT negative. No vertiginous 
+symptoms reported. Likely iso poor PO intake and resulting 
+orthostasis vs. medication induced. Orthostatics negative but 
+difficult to interpret in the setting of beta blockade. Offered 
+vestibular ___ but patient declined. Evaluated by neurology who 
+felt there was no evidence of vertigo or other CNS signs to 
+suggest a peripheral vestibular system pathology or central 
+posterior circulation stroke. TLS labs unremarkable. Allopurinol 
+dose reduced to 100 mg (patient preferred 50 mg BID) daily. 
+
+Nausea: Possibly due to recent follicular lymphoma treatment. 
+Could be
+due to infection but no other focal symptoms. Received IVF while 
+here. Resolved with Zofran and Compazine. Tolerating PO on 
+discharge.
+
+? Pneumonia: Patient denies symptoms but had a leukocytosis and 
+chest x-ray with possible evidence of infection. Leukocytosis 
+could be
+thought to be due to hemoconcentration vs. related to steroid 
+use. Received a 1x dose of CTX, azithro in the ED. Not continued 
+on the floor. Resolved on discharge. 
+
+Follicular Lymphoma: On obinutuzumab/chlorambucil. Continued 
+home allopurinol, but dose adjusted for renal function.
+
+Essential Thrombocythemia: Hydroxyurea being held while getting 
+treatment for follicular lymphoma.
+
+Hypothyroidism: TSH 9.0 on check, normal FT4. Levothyroxine 
+initially increased to 100mg daily but then discharged on home 
+dose of Levothyroxine at 75 mcg daily. 
+
+Tremors: Continued home atenolol. 
+
+TRANSITIONAL ISSUES
+===================
+[] Allopurinol reduced to 100 mg daily, on 50 mg BID as per 
+patient preference. Adjust as needed. 
+[] TSH 9.0. Levothyroxine dose to at 75 mcg. Please follow and 
+adjust dose as necessary. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Allopurinol ___ mg PO DAILY 
+2. Atenolol 12.5 mg PO DAILY 
+3. Levothyroxine Sodium 75 mcg PO DAILY 
+4. Ondansetron 8 mg PO Q8H:PRN Nausea 
+5. Cyanocobalamin Dose is Unknown  PO DAILY 
+6. Calcium 500 + D (calcium carbonate-vitamin D3) Dose is 
+Unknown  oral DAILY 
+
+ 
+Discharge Medications:
+1.  Allopurinol 50 mg PO BID 
+RX *allopurinol ___ mg 0.5 (One half) tablet(s) by mouth Half a 
+tablet daily Disp #*30 Tablet Refills:*0 
+2.  Calcium 500 + D (calcium carbonate-vitamin D3) unknown  oral 
+DAILY  
+3.  Cyanocobalamin unknown  PO DAILY  
+4.  Atenolol 12.5 mg PO DAILY  
+5.  Levothyroxine Sodium 75 mcg PO DAILY  
+6.  Ondansetron 8 mg PO Q8H:PRN Nausea  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis
+==================
+Nausea/vomiting
+Presyncope, dizziness
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ with dizziness and nausea. Your 
+nausea improved with medications. We reduced the dose of your 
+medications which we thought may be causing your dizziness. You 
+were evaluated by neurology who recommended staying hydrated. 
+You were also evaluated by physical therapy who felt you were 
+safe for home. It is now safe for you to go home. It was a 
+pleasure caring for you. 
+
+Wishing you the best,
+
+Your ___ Team
+ 
+Followup Instructions:
+___

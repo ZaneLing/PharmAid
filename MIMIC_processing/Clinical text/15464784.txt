@@ -1,0 +1,311 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Gallstone pancreatitis
+ 
+Major Surgical or Invasive Procedure:
+laparoscopic cholecystectomy 
+
+ 
+History of Present Illness:
+HMED Admission Note
+Date of note: ___, 23:00
+
+PCP:  ___
+
+CC: abdominal pain
+
+HPI: Ms. ___ is a ___ yo female here with abdominal pain, 
+found to have acute pancreatitis.
+
+She was feeling well until today, when she developed acute onset 
+abdominal pain.   She drank a lot of water, but then vomited.  
+She had no blood in her vomit.  The pain started diffusely, but 
+then became more focused in her epigastrium. She went to urgent 
+care, and was sent for CT scan at the ___, as her husband 
+works here as a ___.  The CT showed acute mild pancreatitis 
+and given continued abdominal pain she was sent to the ED.
+
+In the ED, she underwent RUQUS which showed gallbladder sludge 
+and a few stones, but no obstruction.  She received 1 L of NS, 4 
+mg of ondansetron and 4 mg of morphine sulfate IV.
+
+She also notes that she has lost 20 lbs since early ___, 
+after a GI illness with nausea, vomiting and diarrhea, and on 
+the current diet.  she started supplements called Yoli 
+supplements for weight loss 10 days ago.  While on the diet, she 
+noted that her stools were paler.
+
+ROS reviewed in 10 other systems and negative.
+
+ 
+Past Medical History:
+PMH: Chronic hepatitis C, in remission per most recent notes.
+ 
+Social History:
+___
+Family History:
+FH:  Gallstones in mother, died at ___ of colon cancer, but had 
+perforated cholecystitis.  Father died of multiple myeloma.
+ 
+Physical Exam:
+                                                   
+
+Physical exam
+afebrile, BP 126/45, HR 75, RR 19  98% RA
+Gen:  In NAD.
+HEENT:  PERRL, EOMI.  No scleral icterus.  No conjunctival 
+injection.   Mucous membranes moist.  No oral ulcers.
+Neck:  Supple, no LAD, no JVP elevation.
+Lungs: CTA bilaterally, no wheezes, rales, rhonchi.  Normal 
+respiratory effort.
+CV:  RRR, no murmurs, rubs, gallops.
+Abdomen:  soft, tender in epigastrium, normal bowel sounds, and 
+no rebound or guarding.
+Extremities:  warm and well perfused, no cyanosis, edema.
+Neurological:  alert and oriented X 3, CN II-XII intact.
+Skin:  No rashes or ulcers, no bruising.
+Psychiatric:  Appropriate.
+GU:  deferred.
+
+Exam on Discharge:
+98.5 71 119/47 18 96%RA
+Gen: NAD, A&Ox3
+CV: RRR
+Resp: NRD
+Abd: Incisions c/d/I w/o e/o erythema/induration. Abd soft, 
+NT/ND, w/o R/G
+
+ 
+Pertinent Results:
+___ 05:00PM   WBC-14.9* RBC-4.32 HGB-13.5 HCT-39.7 MCV-92 
+MCH-31.3 MCHC-34.0 RDW-12.0 RDWSD-40.6
+___ 05:00PM   NEUTS-89.7* LYMPHS-4.9* MONOS-4.7* EOS-0.0* 
+BASOS-0.2 IM ___ AbsNeut-13.41* AbsLymp-0.73* AbsMono-0.70 
+AbsEos-0.00* AbsBaso-0.03
+___ 05:00PM   PLT COUNT-167
+.
+
+___ 05:00PM   GLUCOSE-105* UREA N-11 CREAT-0.8 SODIUM-132* 
+POTASSIUM-4.9 CHLORIDE-101 TOTAL CO2-15* ANION GAP-21*
+___ 05:00PM   ALT(SGPT)-40 AST(SGOT)-56* ALK PHOS-62 TOT 
+BILI-0.4
+___ 05:00PM   LIPASE-4495*
+___ 05:00PM   ALBUMIN-3.9
+___ 05:04PM   LACTATE-1.6
+___ 05:04PM   PO2-204* PCO2-21* PH-7.55* TOTAL CO2-19* BASE 
+XS--1
+___ 05:57PM   ___ PTT-33.1 ___
+___ 08:40PM URINE  COLOR-Yellow APPEAR-Clear SP 
+___
+___ 08:40PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-40 BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+___ 08:40PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-40 BILIRUBIN-NEG UROBILNGN-NEG PH-6.5 
+LEUK-NEG
+
+Abdominal CT scan ___:
+IMPRESSION: 
+  
+  
+1. Early edematous pancreas with adjacent fat stranding, 
+concerning for mild acute pancreatitis. An right upper quadrant 
+ultrasound is recommended to rule out gallstones. 
+  
+RECOMMENDATION(S): A right upper quadrant ultrasound is 
+recommended to rule out gallstones. 
+
+RUQUS ___:
+IMPRESSION: 
+  
+  
+1. Cholelithiasis and gallbladder sludge without cholecystitis. 
+2. Several small hyperechoic hepatic lesions likely representing 
+benign 
+hemangiomas. 
+
+ 
+Brief Hospital Course:
+Assessment and Plan: Ms. ___ is a ___ yo female here with 
+abdominal pain, found to have acute pancreatitis.  The etiology 
+of the symptoms could be related to gallstone pancreatitis, or 
+related to her supplement.  She is hemodynamically stable, but 
+with significant metabolic derangements, with metabolic 
+alkalosis and possible gap acidosis.  It is hard to parse out 
+what of this is related to her supplements and what might be 
+related to the pancreatitis.  With the finding of gallstones, 
+she likely will require cholecystectomy, likely on this 
+admission.  She also needs to stop the supplements.
+
+The patient was managed on the medical team from ___ for 
+management of her pancreatitis.  Her metabolic derangements 
+resolved and subsequent to this, she was transferred to the 
+acute care surgery service to undergo cholecystectomy. She was 
+taken to the operating room and underwent a laparoscopic 
+cholecystectomy on ___. Please see operative report for 
+details of this procedure. She tolerated the procedure well and 
+was extubated upon completion. She was subsequently taken to the 
+PACU for recovery.
+
+She was transferred to the surgical floor hemodynamically 
+stable. Her vital signs were routinely monitored and she 
+remained afebrile and hemodynamically stable. She was initially 
+given IV fluids postoperatively, which were discontinued when 
+she was tolerating PO's. Her diet was advanced on the morning of 
+___ to regular, which she tolerated without abdominal pain, 
+nausea, or vomiting. She was voiding adequate amounts of urine 
+without difficulty. She was encouraged to mobilize out of bed 
+and ambulate as tolerated, which she was able to do 
+independently. Her pain level was routinely assessed and well 
+controlled at discharge with an oral regimen as needed.
+
+On ___, she was discharged home with scheduled follow up in 
+___ clinic in 2 weeks.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 20 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Citalopram 20 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 tablet(s) by mouth twice a day Disp 
+#*30 Tablet Refills:*0
+4. Ibuprofen 400 mg PO Q8H:PRN pain 
+5. OxycoDONE (Immediate Release)  ___ mg PO Q4H:PRN pain 
+RX *oxycodone 5 mg 1 tablet(s) by mouth q4hrs Disp #*25 Tablet 
+Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Gallstone pancreatitis s/p laparoscopic cholecystectomy 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with gallstone pancreatitis. 
+After your symptoms resolved you were  were taken to the 
+operating room and had your gallbladder removed 
+laparoscopically. You tolerated the procedure well and are now 
+being discharged home to continue your recovery with the 
+following instructions. 
+
+Please follow up in the Acute Care Surgery clinic.  Please call 
+___ on ___ to schedule your follow-up 
+appointment in two weeks. 
+
+ACTIVITY: 
+   
+ o Do not drive until you have stopped taking pain medicine and 
+feel you could respond in an emergency. 
+ o You may climb stairs.  
+ o  You may go outside, but avoid traveling long distances until 
+you see your surgeon at your next visit. 
+ o  Don't lift more than ___ lbs for 4 weeks. (This is about 
+the weight of a briefcase or a bag of groceries.) This applies 
+to lifting children, but they may sit on your lap. 
+ o You may start some light exercise when you feel comfortable. 
+ o You will need to stay out of bathtubs or swimming pools for a 
+time while your incision is healing. Ask your doctor when you 
+can resume tub baths or swimming. 
+   
+ HOW YOU MAY FEEL:  
+ o  You may feel weak or "washed out" for a couple of weeks. You 
+might want to nap often. Simple tasks may exhaust you. 
+ o  You may have a sore throat because of a tube that was in 
+your throat during surgery. 
+ o  You might have trouble concentrating or difficulty sleeping. 
+You might feel somewhat depressed. 
+ o  You could have a poor appetite for a while. Food may seem 
+unappealing. 
+ o  All of these feelings and reactions are normal and should go 
+away in a short time.  If they do not, tell your surgeon. 
+   
+ YOUR INCISION: 
+ o Tomorrow you may shower and remove the gauzes over your 
+incisions. Under these dressing you have small plastic bandages 
+called steri-strips. Do not remove steri-strips for 2 weeks. 
+(These are the thin paper strips that might be on your 
+incision.) But if they fall off before that that's okay). 
+ o Your incisions may be slightly red around the stitches. This 
+is normal. 
+ o You may gently wash away dried material around your incision. 
+
+ o Avoid direct sun exposure to the incision area. 
+ o Do not use any ointments on the incision unless you were told 
+otherwise. 
+ o You may see a small amount of clear or light red fluid 
+staining your dressing or clothes. If the staining is severe, 
+please call your surgeon. 
+ o You may shower. As noted above, ask your doctor when you may 
+resume tub baths or swimming. 
+   
+ YOUR BOWELS: 
+ o Constipation is a common side effect of narcotic pain 
+medications. If needed, you may take a stool softener (such as 
+Colace, one capsule) or gentle laxative (such as milk of 
+magnesia, 1 tbs) twice a day. You can get both of these 
+medicines without a prescription. 
+ o If you go 48 hours without a bowel movement, or have pain 
+moving the bowels, call your surgeon.  
+   
+ PAIN MANAGEMENT: 
+ o It is normal to feel some discomfort/pain following abdominal 
+surgery. This pain is often described as "soreness".  
+ o Your pain should get better day by day. If you find the pain 
+is getting worse instead of better, please contact your surgeon. 
+
+ o You will receive a prescription for pain medicine to take by 
+mouth. It is important to take this medicine as directed. o Do 
+not take it more frequently than prescribed. Do not take more 
+medicine at one time than prescribed. 
+ o Your pain medicine will work better if you take it before 
+your pain gets too severe. 
+ o Talk with your surgeon about how long you will need to take 
+prescription pain medicine. Please don't take any other pain 
+medicine, including non-prescription pain medicine, unless your 
+surgeon has said its okay. 
+ o If you are experiencing no pain, it is okay to skip a dose of 
+pain medicine. 
+ o Remember to use your "cough pillow" for splinting when you 
+cough or when you are doing your deep breathing exercises.
+
+If you experience any of the following, please contact your 
+surgeon: 
+ - sharp pain or any severe pain that lasts several hours 
+ - pain that is getting worse over time 
+ - pain accompanied by fever of more than 101 
+ - a drastic change in nature or quality of your pain 
+   
+ MEDICATIONS: 
+ Take all the medicines you were on before the operation just as 
+you did before, unless you have been told differently. 
+ If you have any questions about what medicine to take or not to 
+take, please call your surgeon.
+
+ 
+Followup Instructions:
+___

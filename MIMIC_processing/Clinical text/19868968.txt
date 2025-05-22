@@ -1,0 +1,120 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Pertinent Results:
+ADMISSION/SIGNIFICANT LABS:
+==========================
+___ 02:18AM BLOOD WBC-6.8 RBC-4.67 Hgb-14.3 Hct-42.2 MCV-90 
+MCH-30.6 MCHC-33.9 RDW-13.2 RDWSD-43.1 Plt ___
+___ 02:18AM BLOOD Glucose-99 UreaN-23* Creat-1.3* Na-140 
+K-4.3 Cl-107 HCO3-20* AnGap-13
+___ 02:18AM BLOOD CK-MB-5 cTropnT-0.05*
+___ 02:18AM BLOOD %HbA1c-5.3 eAG-105
+
+IMAGING/OTHER STUDIES: 
+====================
+MRI brain w/o contrast at ___: no stroke
+
+MRI L-spine w/o contrast at ___: 
+extensive lumbar disc disease bilaterally but worse on left 
+without involvement of the cord; multiple disc bulges and 
+narrowing of the nerve roots through the lumbar spine.
+
+Final read:
+1. Multilevel, degenerative disease of the lumbar spine.
+2. Foraminal disc protrusions on the right at L3-4 and L4-5.
+3. There is multilevel neural foraminal stenosis.
+
+LABS AT DISCHARGE: 
+=================
+___ 06:13AM BLOOD WBC-6.7 RBC-4.86 Hgb-14.8 Hct-44.7 MCV-92 
+MCH-30.5 MCHC-33.1 RDW-13.2 RDWSD-44.6 Plt ___
+___ 06:13AM BLOOD Glucose-95 UreaN-26* Creat-1.4* Na-141 
+K-4.7 Cl-103 HCO___ AnGap-___ with hx HTN who presents with right leg weakness found to 
+have L3-4 disc herniation. 
+
+# Right leg weakness: 
+# L3-L4 disc herniation: 
+Patient with isolated right hip flexion weakness, noted to have 
+L3-L4 disc herniation on MRI. No caude equine syndrome. He was 
+evaluated by ortho spine who felt that urgent surgical 
+intervention was not warranted. He was treated with three doses 
+of IV steroids with noted improvement in his strength. He was 
+seen by physical therapy and given a script for outpatient 
+treatment. He was provided a corsette brace to wear for comfort 
+and will follow up with ortho spine as an outpatient. 
+
+#CKD: 
+Baseline Cr per ___ records Cr 1.3-1.6. 
+
+#HLD:
+Patient with total cholesterol 197 (8 months ago) with LDL of 
+131. ASCVD Risk > 10%, started on high intensity statin. 
+
+> 30 mins spent coordinating care. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Atenolol 25 mg PO DAILY  
+4.Outpatient Physical Therapy
+ICD10: M51.9 l3 herniated disc
+prognosis: good
+no spine restrictions; brace for comfort
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Leg weakness secondary to severe DJD with L3 disc herniation: 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a priviliege to care for you at the ___ 
+___. You were admitted for leg weakness due to nerve 
+irritation from a herniated disc in your spine. You were seen by 
+the spine surgeons who do not feel that surgery is needed at 
+this time and will see you as an outpatient to reassess. While 
+you were here, you were given IV steroids to help with the 
+inflammation and noted improvement in your strength. You were 
+given a brace to wear as needed for comfort and you were seen by 
+___.  Lastly, 
+
+Please continue to take all medications as prescribed and follow 
+up with all appointments as detailed below. 
+
+We wish you the best! 
+
+Sincerely,
+
+Your ___ team
+
+ 
+Followup Instructions:
+___

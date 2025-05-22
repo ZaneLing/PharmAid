@@ -1,0 +1,257 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ 
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+___ is a ___ male who presents to ___ on
+___ with a mild TBI. He states he was riding his bike on a
+wide, but "fast" road, hugging the right edge of the bike ___,
+when the next thing he remembers is that he was laying on the
+ground in pain. He states he was wearing a helmet, which was
+"pretty scuffed up" on the left side. He thinks he was hit by a
+car, but isn't clear on the details. He denies 
+tingling/numbness,
+weakness, neck pain, nausea and vomiting, but endorses headache,
+left shoulder/arm pain, and right leg pain.
+ 
+Past Medical History:
+hypothyroid
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ON ADMISSION:
+GCS at the scene: 15 per EMS run sheet
+
+GCS upon Neurosurgery Evaluation:  15   Time of evaluation: 1430
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [x]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam:
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: PERRL ___, EOMI, no overt signs of trauma to head/neck
+Neck: Supple
+Extrem: warm and well perfused, multiple abrasions on left upper
+extremity
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to person, place, and date.
+
+Language: Speech is fluent with good comprehension. 
+
+If Intubated:
+  [ ]Cough  [ ]Gag  [ ]Over breathing the vent
+
+Cranial Nerves:
+I: Not tested
+II: Pupils equally round and reactive to light, 3 to 2
+mm bilaterally. Visual fields are full to confrontation.
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Strength full power ___ throughout. Right IP is full,
+although painful for patient. No pronator drift
+
+Sensation: Intact to light touch
+
+ON DISCHARGE: 
+Opens eyes spontaneously. 
+Orientated to person, place, and time. 
+Follows complex commands.
+Speech fluent, comprehension intact.  
+
+Pupils equal, round, reactive to light. EOM-I.
+Face Symmetric. Tongue Midline.
+
+No pronator drift. 
+Full strength in all muscle groups of upper and lower
+extremities.    
+Sensation grossly intact to light touch.
+
+ 
+Pertinent Results:
+Please refer to OMR for pertinent lab and imaging results. 
+ 
+Brief Hospital Course:
+Mr. ___ presented to the ___ ED after presumably being 
+struck while riding his bicycle. Head CT revealed a small left 
+traumatic SAH and he was admitted to ED Obs per TBI pathway. 
+
+#TBI
+While in the ED Obs a repeat CT head showed stable left tSAH 
+however there was a new right frontal SAH. His neurological exam 
+was stable however he did report worsened headache so he was 
+admitted to the neurosurgery service for close monitoring. 
+Another repeat head CT was completed and was stable. OT 
+evaluated the patient and recommended home with outpatient 
+cognitive neurology follow-up. He complained of dizziness and 
+nausea and vomited x1. He responded well to Zofran. On further 
+evaluation his symptoms improved. He reported symptoms 
+consistent with post-concussion while using electronics such as 
+his cell phone. He was educated on ways to avoid headache and 
+nausea triggers and was instructed to gradually return to normal 
+activity. He was OOB and tolerating POs on day of discharge. He 
+was referred to the ___ clinic for follow-up on discharge and 
+expressed understanding of this plan. 
+
+ 
+Medications on Admission:
+Synthroid ___ daily
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity
+Do not exceed 4GM acetaminophen in 24 hours  
+2.  Ondansetron ODT 4 mg PO Q8H:PRN nausea 
+RX *ondansetron 4 mg 1 tablet(s) by mouth q8h PRN Disp #*20 
+Tablet Refills:*0 
+3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
+Moderate 
+Do not drive while taking this medication  
+RX *oxycodone 5 mg 1 tablet(s) by mouth q8h PRN Disp #*10 Tablet 
+Refills:*0 
+4.  Levothyroxine Sodium 125 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Traumatic SAH
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Traumatic Brain Injury
+
+Activity
+We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+No driving while taking any narcotic or sedating medication. 
+If you experienced a seizure while admitted, you are NOT 
+allowed to drive by law. 
+No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+You may have difficulty paying attention, concentrating, and 
+remembering new information.
+Emotional and/or behavioral difficulties are common. 
+Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+Headaches:
+Headache is one of the most common symptoms after traumatic 
+brain injury. Headaches can be long-lasting. 
+Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+More Information about Brain Injuries:
+You were given information about headaches after TBI and the 
+impact that TBI can have on your family.
+If you would like to read more about other topics such as: 
+sleeping, driving, cognitive problems, emotional problems, 
+fatigue, seizures, return to school, depression, balance, or/and 
+sexuality after TBI, please ask our staff for this information 
+or visit ___
+
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the incision 
+site. 
+Fever greater than 101.5 degrees Fahrenheit
+Nausea and/or vomiting
+Extreme sleepiness and not being able to stay awake
+Severe headaches not relieved by pain relievers
+Seizures
+Any new problems with your vision or ability to speak
+Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+Sudden numbness or weakness in the face, arm, or leg
+Sudden confusion or trouble speaking or understanding
+Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

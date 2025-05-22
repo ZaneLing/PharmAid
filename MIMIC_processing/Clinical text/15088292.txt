@@ -1,0 +1,391 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins / Sulfa (Sulfonamide Antibiotics) / latex / 
+Amoxicillin / aspirin / Erythromycin Base / Betadine / iodine / 
+Novocain / red dye / sulfite / preservatives / egg / bee venom 
+(honey bee) / fish derived / Iodinated Contrast Media - Oral and 
+IV Dye / kiwi / passion fruit / Gadolinium-Containing Contrast 
+Media
+ 
+Attending: ___
+ 
+Chief Complaint:
+SOB, hypoxa
+ 
+Major Surgical or Invasive Procedure:
+___: liver biopsy
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with a h/o of TBI, endometriosis, 
+childhood asthma who comes for work up for her dyspnea as well 
+as her newly found liver and lung lesions.
+
+Cough: began in ___ with what she thought was a cold 
+with associated congestion. Other cold like symptoms went away 
+but cough persisted, non productive. Underwent evaluation at 
+that time for the cough and new right upper quadrant pain and 
+lump that was diagnosed as a muscle strain secondary to her 
+cough. Her cough progressively worsened which would trigger 
+abdominal pain not only in the RUQ but at other locations in her 
+abdomen and chest. Cough symptoms peaked in early ___ and 
+has since improved. 
+
+Abdominal lump: noticed in ___, persisted until 
+eventually seeing Dr. ___ PCP, in ___ who 
+subsequently ordered a U/S which revealed numerous liver 
+lesions, which led to the MRI liver which confirmed multiple 
+liver lesions. 
+
+SOB: began around the time of her cough. She says that her 
+abdominal pain which prevent her from taking deep breaths 
+leading to her perception of being short of breath. SOB peaked 
+in early ___ and has since improved. SOB is best when laying 
+flat, worse with exertion to the point where she could not speak 
+in complete sentences in early ___. Denied hemoptysis. 
+
+Denies: headache, vision changes, neck stiffness, hemoptysis, 
+diarrhea, constipation, focal muscle weakness, sensation 
+changes, h/o blood clots, h/o prolonged immobilization, h/o 
+recent estrogen use, leg swelling or pain
+
+Confirms: weight loss (unintentional) of 25 lbs since ___. 
+Abdominal fullness since ___. 
+
+Never had a colonoscopy. Had mammogram in past ___ years 
+(unremarkable per patient), pap smear in ___ (negative for 
+malignancy).
+ 
+Past Medical History:
+Asthma
+Concussion/traumatic brain injury from trip and fall
+Paroxysmal atrial fibrillation
+Thyroid nodule
+Endometriosis
+Concern for lupus
+ 
+Social History:
+___
+Family History:
+ - Mother: lymphoma, Factor V ___ 
+ - Father: prostate cancer, h/o CVA
+ - Sister: esophageal cancer 
+ - Has 4 other sisters: some have factor V leiden (3 of them)
+ 
+Physical Exam:
+Admission Exam:
+===============
+Vitals: 98.3  100 20 99 RA 
+GENERAL: nontoxic appearance, no apparent respiratory distress
+HEENT: PERRL, EOMI, anicteric sclera
+NECK: supple neck, no cervical/supraclavicular LAD 
+LUNGS: clear to auscultation bilaterally on posterior 
+auscultation
+CV: tachycardic but regular rhythm, normal s1 and s2, no g/r/m
+ABD: b/s present, tender to deep palpation in RUQ, liver edge 
+note 1-2cm below rib cage
+EXT: warm, no edema noted
+SKIN: no obvious skin lesions noted
+NEURO: CN2-12 intact, ___ muscle strength in U and L extremities 
+bilaterally
+ACCESS: PIV
+
+Discharge Exam:
+===============
+Vitals:  97.7 135 / 85 91 18 98 RA 
+GENERAL: nontoxic appearance, no apparent respiratory distress
+HEENT: EOMI, anicteric sclera
+NECK: supple neck
+LUNGS: clear to auscultation bilaterally on posterior 
+auscultation
+CV: tachycardic but regular rhythm, normal s1 and s2, no g/r/m
+ABD: b/s present, no tenderness in all quadrants on deep 
+palpation
+EXT: warm, no edema noted
+SKIN: no obvious skin lesions noted
+NEURO: moving all extremities with purpose against gravity
+ACCESS: PIV
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 09:10AM BLOOD WBC-7.1 RBC-4.84 Hgb-13.1 Hct-42.2 MCV-87 
+MCH-27.1 MCHC-31.0* RDW-15.4 RDWSD-48.9* Plt ___
+___ 09:10AM BLOOD Neuts-72.3* Lymphs-16.4* Monos-7.8 
+Eos-1.7 Baso-1.0 Im ___ AbsNeut-5.12 AbsLymp-1.16* 
+AbsMono-0.55 AbsEos-0.12 AbsBaso-0.07
+___ 06:15AM BLOOD ___ PTT-30.5 ___
+___ 06:15AM BLOOD Glucose-78 UreaN-5* Creat-0.6 Na-139 
+K-4.4 Cl-101 HCO3-28 AnGap-14
+___ 06:15AM BLOOD ALT-20 AST-49* LD(LDH)-264* AlkPhos-349* 
+TotBili-1.4
+___ 06:15AM BLOOD Albumin-3.5 Calcium-9.4 Phos-3.8 Mg-2.1 
+UricAcd-4.2
+
+Interim Labs:
+=============
+___ 06:35AM BLOOD calTIBC-190* Ferritn-1153* TRF-146*
+___ 06:15AM BLOOD HBsAg-Negative HBsAb-Negative
+___ 06:35AM BLOOD Smooth-POSITIVE *
+___ 06:35AM BLOOD ___ * Titer-1:40
+___ 06:15AM BLOOD CA125-183*
+___ 06:15AM BLOOD HCV Ab-Negative
+___ 06:35AM BLOOD ANTI-LIVER-KIDNEY-MICROSOME ANTIBODY-PND
+
+Discharge Labs:
+===============
+___ 06:50AM BLOOD Calcium-9.4 Phos-3.7 Mg-2.3
+___ 06:50AM BLOOD ALT-21 AST-52* LD(LDH)-288* AlkPhos-384* 
+TotBili-1.4
+___ 06:50AM BLOOD Glucose-91 UreaN-7 Creat-0.6 Na-139 K-3.9 
+Cl-100 HCO3-25 AnGap-18
+___ 06:50AM BLOOD ___ PTT-29.8 ___
+___ 06:50AM BLOOD WBC-7.0 RBC-4.99 Hgb-13.9 Hct-43.2 MCV-87 
+MCH-27.9 MCHC-32.2 RDW-15.4 RDWSD-48.4* Plt ___
+
+Micro:
+======
+URINE CULTURE (Final ___: negative
+
+Studies:
+========
+___ Liver biopsy pathology pending
+
+___ CT abdomen/pelvis without contrast
+1.  Innumerable hepatic metastases are better characterized on 
+MR dated ___.  Retroperitoneal adenopathy, omental deposits, 
+and trace 
+ascites are findings compatible with carcinomatosis.  Primary 
+malignancy is not elucidated on current examination.  
+2.  Splenomegaly. 
+3.  Partially imaged pericardial effusion appears stable. 
+4.  Moderate amount of ascites 
+
+___ V/Q: IMPRESSION:  Normal perfusion and ventilation.  No 
+evidence of pulmonary embolus. 
+
+___ TTE: The left atrium is normal in size. No atrial septal 
+defect is seen by 2D or color Doppler. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). There is no ventricular septal defect. Right 
+ventricular chamber size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) appear structurally normal 
+with good leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve appears structurally normal with 
+trivial mitral regurgitation. The estimated pulmonary artery 
+systolic pressure is normal. There is a moderate sized 
+pericardial effusion. The effusion appears circumferential. 
+There are no echocardiographic signs of tamponade.   
+
+___ CXR: Multiple nodular opacities bilaterally correlate with 
+nodule seen on recent CT, not significantly changed.  No new 
+focal consolidation. 
+
+ 
+Brief Hospital Course:
+Brief Summary:
+===========
+Ms. ___ is a ___ with a h/o TBI, asthma, endometriosis, 
+but with no prior malignancy history who was admitted for 
+hypoxia work up and for an expedited malignancy work up for her 
+new lung and liver lesions. Given her significant anaphylactic 
+history for both gadolinium and iodine contrast, a V/Q scan was 
+ordered and revealed a low likelihood of acute pulmonary edema; 
+anticoagulation was therefore not started. Her shortness of 
+breath was likely multifactorial: splinting ___ abdominal pain 
+and disease burden in lungs. An echocardiogram revealed moderate 
+sized pericardial effusion with no evidence of tamponade; her VS 
+remained stable during entirety of hospitalization. Given her 
+significant allergy list, we consulted allergy who gave 
+recommendations about testing her for reactions to anesthetics 
+prior to her liver biopsy. She was sent to the ICU for close 
+observation after chloroprocaine SC injection which she 
+tolerated well and subsequently moved forward with a liver 
+biopsy. No subsequent complications after the procedure were 
+noted. Given evidence of cirrhosis on a prior MRI liver, an 
+autoimmune work up was pursued. 
+
+Transitional Issues:
+[ ] Tolerated Chloroprocaine 3% SC injection for liver biopsy. 
+However, per allergy note, an allergic reaction can occur later 
+on despite prior tolerance. 
+
+Oncology Follow Up: Scheduled for ___ at 8:40 AM
+- Cytology of liver biopsy pending at the time of discharge
+- Further treatment to be determined in outpatient setting based 
+on results from pathology/cytology of liver biopsy specimens. 
+
+PCP ___: Scheduled for ___ at 9:00 AM
+- Recommend repeat TTE in ___ weeks to evaluation for resolution 
+of pericardial effusion. 
+- Recommend trending LFT elevation 
+- No prior colonoscopy. Should be assessed for utility of 
+colonoscopy 
+
+Liver Follow Up: To be arranged by Dr. ___ after 
+discharge
+- F/u Liver biopsy for etiology of cirrhosis
+- Lab values pending at the time of discharge: 
+Anti-Liver-Kidney-Microsome Antibody and Anti-Smooth Muscle 
+Antibody 
+
+Allergy Follow Up: Scheduled for ___ at 12:45 ___
+- Recommend continued evaluation of allergies listed and further 
+safety of obtained CT scan with IV contrast. 
+
+Acute Issues:
+=============
+#SOB
+#Hypoxia: in outpatient setting, satted at 90% RA on ambulation. 
+SOB symptoms with associated cough began in ___. On CT 
+chest w/o contrast on ___, was found to have numerous 
+peribronchovascular irregular pulmonary nodules bilaterally 
+measuring up to 13 mm, concerning for metastatic disease. Given 
+contrast anaphylactic reactions, V/Q scan was done which ruled 
+out acute pulmonary embolism. Bilateraly DVTs negative as well. 
+Likely etiology of SOB/hypoxia multifactorial including 
+significant disease burden in lungs and abdominal pain 
+restricting full inspiration. 
+
+#Lung masses
+#Liver masses: multiple lesions seen in lungs and liver on MRI 
+liver and CT chest w/o contrast prior to admission. Unclear 
+primary source and was referred to hospital for expedited work 
+up. CA ___ 3583H, CA-125 183. Liver biopsy done on ___ for 
+cytology/pathology. Given contrast allergy, CT abdomen/pelvis 
+without contrast done which did not reveal obvious source of 
+primary malignancy. Will need follow up regarding results on 
+outpatient basis. 
+
+#Cirrhosis: Noted on MRI liver in ___. ALT wnl, AST slightly 
+elevated, elevated AP, wnl tbili and wnl albumin on admission. 
+No evidence of cirrhosis decompensation such as HE, ascites. 
+Unclear etiology of cirrhosis. No significant drinking history. 
+Prior to admission, was not taking any medications. Not 
+overweight. Viral hepatitis panel negative. ___ positive to 
+1:40. TIBC 190 low, ferritin 1153 high, and iron 40 wnl 
+consistent with iron overload, likely ___ malignancy but 
+possibly hereditary hemochromatosis. Will need further work up 
+on etiology of cirrhosis. Anti smooth ab positive 1:40. Anti 
+liver/kidney ab pending at time of discharge. 
+
+#Pericardial effusion: noted on CT chest to be moderate in 
+amount. Pulsus upon arrival to floor was 6 and had stable vital 
+signs for duration of hospitalization. Etiology unclear but 
+includes viral and malignancy given liver/lung findings. 
+Echocardiogram revealed a circumferential moderate sized 
+pericardial effusion with no evidence of tamponade. Follow up 
+echocardiogram in ___ weeks with PCP.
+
+#Weight loss: has lost 25lbs since ___, not 
+intentionally. Likely due to underlying malignant process as 
+noted above. 
+
+#Multiple allergies: per patient, has history of reactions to 
+contrast study dyes. History of anaphylaxis from contrast dye 
+from an unknown study at age ___ requiring intubation (believes 
+this may have been with gadolinium).  CT study w/ contrast in 
+her ___ where she felt her throat was closing up. Allergy 
+consulted: recommended allergy testing with Chloroprocaine 3% SC 
+injection 10% dose and observation for 1 hour and 100% dose and 
+observation for 1 hour. This was done in the ICU without 
+complications. Went to ___ liver biopsy subsequently and once 
+again tolerated topical anesthesia well. Per allergy note, this 
+does not mean she would not develop a reaction to Chloroprocaine 
+3% SC injection in the future however. Has an appointment with 
+allergist on outpatient basis.
+
+#Coping: recent finding of liver mets and lung mets, with 
+initial abdominal ultrasound on ___ revealing liver 
+lesions, followed up with further work up as above. Recent 
+stressors at home as daughter has medical problems as well as a 
+recent move from ___ to ___. Was seen by social work team 
+while inpatient. 
+
+# HCP/Contact: ___ (___) - ___ no HCP 
+# Code:  Full code
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+==================
+ - Pericardial effusion
+ - Malnutrition
+ - Cirrhosis
+ - Hypoxia
+ - Multiple liver and lung lesions, pending biopsy
+
+Secondary Diagnoses:
+====================
+ - Multiple allergies
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to care for you at the ___ 
+___. 
+
+Why did you come to the hospital?
+ - Your lung doctor and cancer doctor were concerned about your 
+shortness of breath and your imaging findings. 
+
+What did you receive in the hospital?
+ - We imaged your lungs because you were short of breath. 
+Fortunately, the scan revealed you had a low likelihood of 
+having a blood clot in your lungs. Your shortness of breath was 
+likely due to you not taking deep breaths because of your 
+abdominal pain and also due to the lesions in your lungs. 
+ - Given the concern for the lesions that were seen in your 
+lungs and liver, we moved forward with taking a biopsy of one of 
+the liver lesions. 
+ - Before the liver biopsy, given that you have many allergies, 
+we gave you a small dose of the anesthetic that was later used 
+for your procedure. You did not have a reaction and was cleared 
+for the liver biopsy. The medications that you received were: 
+Midazolam, Fentanyl and Chloroprocaine 
+ - We imaged your abdomen and pelvis and did not identify a 
+source of the lesions you had in your lungs and liver. 
+ - We also did an ultrasound of your heart that revealed you had 
+some fluid around your heart but that it was not causing you 
+problems. 
+
+What should you do after you leave the hospital?
+ - You have an appointment with you cancer doctor on ___, 
+___ at 8:40 AM. Your cancer doctor ___ follow up with 
+you regarding the results of your biopsy results. 
+ - You have other appointments with your primary care physician, 
+___, and gastroenterologist as noted below. 
+ - Please follow up with your primary care physician who may do 
+more imaging of your heart as mentioned above. 
+ - Please return to the hospital if you begin feeling very short 
+of breath again or if you have other symptoms that cause you 
+distress. 
+ 
+We wish you the best,
+Your ___ Team 
+
+ 
+Followup Instructions:
+___

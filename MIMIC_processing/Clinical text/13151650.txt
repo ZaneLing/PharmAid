@@ -1,0 +1,362 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lightheadedness 
+ 
+Major Surgical or Invasive Procedure:
+Bone marrow biopsy 
+
+ 
+History of Present Illness:
+Ms. ___ is a pleasant ___ w/ IBS, anemia who presents with
+new diagnosis of waldenstrom's macroglobulinemia and serum
+viscosity 4.1. 
+
+Patient reports having a diagnosis of anemia for years for which
+she received iron pills. She was recently referred to heme/onc
+for further workup and saw Dr. ___ at ___. He was
+concerned about hyperviscosity and referred her to the ED for
+expedited inpatient management. 
+
+She endorses a history of lightheadedness that has been ongoing
+for the past few years, typically orthostatic in nature. However
+more recently she has become lightheaded more frequently, and it
+occurs with exercise as well and lasts several seconds before 
+she
+is able to gather herself. No presyncope/syncope. Denies changes
+in vision, nose bleeding. She is fairly active and denied any
+chest pain, SOB, DOE. Denied any N/V, no ___. She has IBS so
+bowel movements irregular but no abd pain. 
+ 
+Past Medical History:
+low BP (SBP ___
+lwo HR (resting HR ___
+depression
+IBS
+iron deficiency
+s/p tubal ligation
+s/p appendectomy
+ 
+Social History:
+___
+Family History:
+mother died of multiple myeloma
+her mother had NHL for ___ years before myeloma
+father had ___ disease
+
+ 
+Physical Exam:
+Admission Exam:
+=============
+VITAL SIGNS: 98.3 PO 147 / 80 67 18 99 RA
+General:  NAD, Resting in bed comfortably with family at bedside
+HEENT:  MMM, no OP lesions, no macroglossia, no thrush
+CV:  RR, NL S1S2 no S3S4 No MRG
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, NTND, no peritoneal signs 
+LIMBS: WWP, no ___, no tremors
+SKIN:  No notable rashes on extremities
+NEURO: CN III-XII intact, strength b/l ___ intact
+PSYCH: Thought process logical, linear, future oriented
+ACCESS: LUE PIV
+
+Discharge Exam:
+============
+98.4 131 / ___
+General:  NAD, Resting in bed comfortably with family at bedside
+HEENT:  MMM, no OP lesions, no macroglossia, no thrush
+CV:  RR, NL S1S2 with ___ systolic murmur
+PULM:  CTAB, No C/W/R, No respiratory distress
+ABD:  BS+, soft, NTND, no peritoneal signs 
+LIMBS: WWP, no ___, no tremors
+SKIN:  No notable rashes on extremities
+NEURO: CN III-XII intact, strength b/l ___ intact
+PSYCH: Thought process logical, linear, future oriented
+ACCESS: LUE PIV
+ 
+Pertinent Results:
+Admission Labs:
+============
+___ 11:15PM   GLUCOSE-92 UREA N-21* CREAT-0.9 SODIUM-137 
+POTASSIUM-4.0 CHLORIDE-100 TOTAL CO2-27 ANION GAP-10
+___ 11:15PM   ALT(SGPT)-9 AST(SGOT)-12 LD(LDH)-78* ALK 
+PHOS-109* TOT BILI-0.3
+___ 11:15PM   TOT PROT-9.1* ALBUMIN-3.3* GLOBULIN-5.8* 
+CALCIUM-9.4 PHOSPHATE-3.2 MAGNESIUM-2.0 IRON-37
+___ 11:15PM   calTIBC-239* VIT B12-730 FOLATE-15 
+HAPTOGLOB-207* FERRITIN-58 TRF-184*
+___ 11:15PM   TSH-3.9
+___ 11:15PM   HBsAg-NEG HBs Ab-NEG HBc Ab-NEG
+___ 11:15PM   PEP-ABNORMAL B b2micro-2.3* IgG-314* IgA-<5* 
+IgM-5720* IFE-MONOCLONAL
+___ 11:15PM   HIV Ab-NEG
+___ 11:15PM   HCV Ab-NEG
+___ 11:15PM   WBC-7.7 RBC-3.01* HGB-8.9* HCT-28.3* MCV-94 
+MCH-29.6 MCHC-31.4* RDW-12.6 RDWSD-43.5
+___ 11:15PM   NEUTS-57.8 ___ MONOS-13.7* EOS-2.5 
+BASOS-1.3* IM ___ AbsNeut-4.44 AbsLymp-1.86 AbsMono-1.05* 
+AbsEos-0.19 AbsBaso-0.10*
+___ 11:15PM   PLT COUNT-294
+___ 11:15PM   SERUM VIS-3.1*
+___ 04:48PM   LACTATE-1.1 K+-4.2
+___ 04:30PM   GLUCOSE-87 UREA N-21* CREAT-0.8 SODIUM-135 
+POTASSIUM-5.9* CHLORIDE-97 TOTAL CO2-26 ANION GAP-12
+___ 04:30PM   estGFR-Using this
+___ 04:30PM   ALT(SGPT)-12 AST(SGOT)-40 LD(LDH)-435* ALK 
+PHOS-118* TOT BILI-0.4
+___ 04:30PM   TOT PROT-10.5* ALBUMIN-3.6 GLOBULIN-6.9* 
+CALCIUM-9.5 PHOSPHATE-3.5 MAGNESIUM-2.1
+___ 04:30PM   Free K-226.4* Free ___ Fr K/L-33.29*
+___ 04:30PM   WBC-9.1 RBC-3.16* HGB-9.5* HCT-29.9* MCV-95 
+MCH-30.1 MCHC-31.8* RDW-12.7 RDWSD-43.8
+___ 04:30PM   NEUTS-63.7 ___ MONOS-13.1* EOS-2.0 
+BASOS-1.3* IM ___ AbsNeut-5.81 AbsLymp-1.79 AbsMono-1.20* 
+AbsEos-0.18 AbsBaso-0.12*
+___ 04:30PM   PLT COUNT-329
+___ 04:30PM   ___ PTT-41.7* ___
+
+Micro:
+=====
+___ 4:30 pm BLOOD CULTURE      #1. 
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+Studies:
+======
+SPECIMEN SUBMITTED: Immunophenotyping: bone marrow aspirate
+
+Procedure date    Tissue received    Report Date   Diagnosed 
+by
+___. ___/dxj
+DIAGNOSIS:
+ 
+FLOW CYTOMETRY REPORT
+FLOW CYTOMETRY IMMUNOPHENOTYPING
+ 
+The following tests (antibodies) were performed: Kappa, Lambda, 
+cKappa, cLambda, ___ ___ antigens 2, 3, 4, 5, 7, 8, 10, 
+11c, 13, 14, 16, 19, 20, 23, 33, 34, 38, 45, 56, 64, 117 and 
+138.
+ 
+RESULTS:
+10-color analysis is used to evaluate for leukemia/lymphoma.
+Approximately 68.3% of total acquired events are evaluable 
+non-debris events.
+The viability of the analyzed non-debris events, done by 7-AAD 
+is 96.3%.
+CD45-bright, low side-scatter gated lymphocytes comprise 16.6% 
+of total analyzed events.
+B cells represent 19.5% of lymphoid gated events.
+B cells demonstrate monoclonal kappa light chain restriction. 
+They co-express pan-B cell markers CD19 and CD20. They do not 
+express any other characteristic antigens including CD5, CD10, 
+CD11c and CD23.
+T cells comprise 59.8% of lymphoid gated events and express 
+mature lineage antigens (CD3, CD5, CD2 and CD7).
+A minor subset (8.5%) of T cells shows dim/variable loss of CD7 
+(non-specific finding).
+T cells have a CD4:CD8 ratio of 2.1.
+There is a population of double-negative (CD4 negative/CD8 
+negative) T cells comprising 10.1% of CD3 positive cells which 
+is of unclear significance.
+CD56 positive, CD3 negative natural killer cells represent 15.7% 
+of gated lymphocytes. They co-express CD2, CD7 and CD8 (subset).
+No abnormal events are identified in the blast gate.
+CD38 gated plasma cells represent 0.2% of total analyzed events. 
+By intracytoplasmic light chain analysis they are kappa light 
+chain restricted. They are positive for CD45, CD138, CD19 
+(majority), CD20 (dim subset), CD117 (dim subset) and negative 
+for CD56.
+ 
+INTERPRETATION
+Immunophenotypic findings consistent with involvement by a B 
+cell lymphoma with plasmacytic differentiation. Correlation with 
+clinical, morphologic (see separate pathology report ___), 
+cytogenetics (see separate cytogenetics report ___) and other 
+ancillary findings is recommended. Flow cytometry 
+immunophenotyping may not detect all abnormal populations due to 
+topography, sampling or artifacts of sample preparation.
+
+___ CT Abd/Pelvis:
+1. No evidence of acute abnormality identified within the 
+abdomen or pelvis. 
+Specifically, no lymphadenopathy or bony lesions identified.
+2. For complete description of intrathoracic findings, please 
+see dedicated
+report of CT chest performed concurrently the same day.
+
+___ CT Chest:
+No evidence of adenopathy in the chest.
+
+Discharge Labs:
+============
+___ 11:15PM BLOOD WBC-7.7 RBC-3.01* Hgb-8.9* Hct-28.3* 
+MCV-94 MCH-29.6 MCHC-31.4* RDW-12.6 RDWSD-43.5 Plt ___
+___ 11:15PM BLOOD Neuts-57.8 ___ Monos-13.7* 
+Eos-2.5 Baso-1.3* Im ___ AbsNeut-4.44 AbsLymp-1.86 
+AbsMono-1.05* AbsEos-0.19 AbsBaso-0.10*
+___ 11:15PM BLOOD Glucose-92 UreaN-21* Creat-0.9 Na-137 
+K-4.0 Cl-100 HCO3-27 AnGap-10
+___ 11:15PM BLOOD ALT-9 AST-12 LD(___)-78* AlkPhos-109* 
+TotBili-0.3
+___ 11:15PM BLOOD TotProt-9.1* Albumin-3.3* Globuln-5.8* 
+Calcium-9.4 Phos-3.2 Mg-2.0 Iron-37
+___ 11:15PM BLOOD calTIBC-239* VitB12-730 Folate-15 
+Hapto-207* Ferritn-58 TRF-184*
+___ 11:15PM BLOOD PEP-ABNORMAL B b2micro-2.3* IgG-314* 
+IgA-<5* IgM-5720* IFE-MONOCLONAL
+___ 04:48PM BLOOD Lactate-1.1 K-4.2
+ 
+Brief Hospital Course:
+==================
+SUMMARY STATEMENT:
+==================
+___ w/ anemia found to have elevated IgM monoclonal gammopathy 
+concerning for Waldenstrom's Macroglobulinemia with elevated 
+serum viscosity but no clinical symptoms of hyperviscosity. 
+
+==============
+ACTIVE ISSUES:
+==============
+# IgM monoclonal Gammopathy
+She is suspected to have Waldenstrom's macroglobulinemia,
+reassuringly without renal dysfunction, proteinuria,
+hypercalcemia, or skeletal lesions. There is concern about her
+lightheadedness and dyspnea with exertion as that can be a sign 
+of hyperviscosity but her symptoms have been ongoing for years 
+and are orthostatic in nature. Reassuringly she has no other 
+signs of hyperviscosity on admission (no vision changes, no 
+CP/SOB, epistaxis, lightheadedness at rest, or peripheral 
+neuropathy). Ophthalmic
+exam with small dot-blot hemorrhages in periphery that may be 
+associated with hyperviscosity but no notable vessel 
+tortuosity/dilation and thus no need for ophthalmic intervention 
+currently per ophthalmology. Her serum viscosity on discharge 
+was 3.1. CT chest without adenopathy and CT abd/pelvis was still 
+pending. She has pending labs including cold agglutinins, 
+cryoglobulins, coombs, SPEP and BMBx cytology at time of 
+discharge. 
+
+# Normocytic Anemia 
+She has been known to have low iron saturation and low-normal
+ferritin per her outpatient oncologist, which was confirmed on 
+repeat iron studies while inpatient. Waldenstroms tumor 
+infiltration in bone marrow can cause cytopenias as could her 
+low iron sat. In addition, last colonoscopy was ___ years ago, so 
+reasonable to repeat. 
+
+# IBS: Has been managed over past 5+ years with prune and 
+benefiber regimen in addition to healthy diet. Continued prunes 
+and fiber. 
+
+# Preventative: Aspirin held while inpatient and restarted on 
+discharge. 
+
+====================
+TRANSITIONAL ISSUES:
+==================== 
+[] Follow up pending ___ labs, scan, and bone marrow biopsy 
+[] Follow up with outpatient oncologist 
+[] Repeat CBC at follow up appointment 
+[] Consider outpatient colonoscopy once OK by outpatient 
+oncologist
+
+Discharge Hgb 8.9
+Discharge Cr 0.9
+
+CODE STATUS: Full code 
+CONTACT: ___ (Daughter) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO EVERY OTHER DAY 
+2. calcium carbonate-vitamin D3 600 mg calcium- 200 unit oral 
+DAILY 
+3. Vitamin D ___ UNIT PO DAILY 
+4. DICYCLOMine 20 mg PO TID 
+5. FLUoxetine 20 mg PO DAILY 
+6. Multivitamins 1 TAB PO DAILY 
+7. dextrin 1.5 g oral BID 
+8. Zolpidem Tartrate 5 mg PO QHS:PRN insomnia 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO EVERY OTHER DAY  
+2.  calcium carbonate-vitamin D3 600 mg calcium- 200 unit oral 
+DAILY  
+3.  dextrin 1.5 g oral BID  
+4.  DICYCLOMine 20 mg PO TID  
+5.  FLUoxetine 20 mg PO DAILY  
+6.  Multivitamins 1 TAB PO DAILY  
+7.  Vitamin D ___ UNIT PO DAILY  
+8.  Zolpidem Tartrate 5 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+==================
+IgM Monoclonal Gammopathy
+
+Secondary Diagnosis:
+====================
+Anemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___!
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted to the hospital for a workup for your anemia 
+and lightheadedness
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+- Your blood tests showed a high protein (IgM) level which is 
+likely from a type of lymphoma (cancer) called Waldenstroms 
+Macroglobulinemia 
+- This condition could also explain your anemia (low red blood 
+cell counts) and your fatigue
+- You also had a CT scan of your body and the final result is 
+still pending 
+- A bone marrow biopsy was done to confirm this diagnosis and 
+help guide treatment moving forward
+- You saw the eye doctor while in the hospital that saw some 
+findings that could be consistent with Waldenstroms, but nothing 
+that would need intervention currently 
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- You should follow up with your outpatient oncologist to 
+discuss the bone marrow biopsy results and the next steps moving 
+forward with treatment
+- You also should follow up with the ophthalmologist (eye 
+doctor) as this condition has the ability to affect your vision
+- You should also get a colonoscopy once your oncologist says it 
+is safe to do so
+
+We wish you the best,
+Your ___ care team
+
+ 
+Followup Instructions:
+___

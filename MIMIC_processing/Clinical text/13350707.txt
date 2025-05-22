@@ -1,0 +1,251 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old M w/ PMH HTN, HLD, DVT x 2 on
+lifelong coumadin who was brought in by EMS after a syncopal
+event.
+
+The patient reports he was in his normal state of health and
+passed out at home, was found by EMS and syncopized again when
+they tried to sit him up. EKG with multiple anterior leads with
+ST elevation, was activated as STEMI from EMS, and arrived with
+soft blood pressure with map in the low ___. Heart rate ___.
+
+In the ED, initial VS were: HR ___, BP 100s/50s. 
+
+Exam notable for:  No systolic murmur, clear lungs
+Bilateral radial pulses intact
+Strong left DP
+Nonpalpable right dp
+
+POC US was non-diagnostic.
+
+ECG:  sinus rhythm, V2-V6 STEs. Q wave in II, III, aVF.
+
+Labs showed:  INR 2.7, Cr 1.2, trop negative x1, ethanol 37,
+lactate 2.3.
+
+Imaging showed:  CT Head: 1. No fracture or acute intracranial
+process.
+2. Paranasal sinus disease as described.
+
+Patient received nothing.
+
+On arrival to the floor, patient reports that he is feeling 
+well.
+He reports that yesterday he went to the ___ gym and did a work
+out. He was in the steam room for a little bit after the work
+out. He drank a lot of water because he had been in the steam
+room. He had dinner with his fiancée at home and he drank 3
+glasses of wine. He also smoked marijuana. He did not feel 
+unwell
+during the day at all. He has been feeling his baseline. He went
+to stand from sitting after looking at a computer with his
+fiancée and syncopized, falling backwards. She says that he was
+alert immediately after the fall and could speak to her. He just
+kept his eyes closed and seemed a little "out of it." He reports
+that he does not remember feeling unwell, just a bit tired right
+as he stood up. He doesn't remember the fall. Denies chest
+pain/pressure, diaphoresis, nausea, SOB. His fiancée notes that
+he was very sweaty in bed 2 nights ago. She woke up and he had
+sweat through the sheets. He reports that he has not had that
+before.
+
+He has syncopized once before. He was sitting at a chair in the
+kitchen and slumped to the side. He felt fine afterward and saw
+the doctor in clinic who did a CT scan of his chest which was
+normal. He has never had a Holter monitor.
+
+ 
+Past Medical History:
+HTN
+HLD
+DVT x 2, on lifelong Coumadin
+Asthma
+
+ 
+Social History:
+___
+Family History:
+No family history of arrhythmia. Mother died of
+a heart attack in her ___ and father had CABG in his ___.
+
+ 
+Physical Exam:
+ADMISSION EXAM
+ 
+VS:  98.5 108 / 71 78 18 95 Ra 
+GENERAL: NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM  
+NECK: supple, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema. Has left wrist
+ganglion cyst.  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+
+DISCHARGE EXAM
+
+VS: 97.8, 136/76, 74, 17, 96 percent on RA
+General: comfortably laying in bed, no apparent distress
+Heart: rrr, no mrg
+Lungs: breathing comfortably, ctab
+Abdomen: soft, ntnd
+extremities: no ___ edema
+
+ 
+Pertinent Results:
+___ echo: IMPRESSION: Normal biventricular chamber size and 
+regional/global systolic function. No structural cause of 
+syncope identified. 
+
+___ CTA: 1. No evidence of pulmonary embolism or aortic 
+abnormality.
+2. Contour irregularities of the left lateral fifth, sixth and 
+seventh ribs,
+with some signs of healing, likely old, however superimposed 
+acute injury
+cannot be excluded.  Small opacity adjacent to these fractures 
+is likely
+atelectasis. 3. Mild diffuse bronchial wall thickening, may be 
+infectious or inflammatory nature.
+
+___ CT head: 1. No fracture or acute intracranial abnormality 
+on noncontrast head CT. Specifically no intracranial 
+hemorrhage.2. Paranasal sinus disease as described.3. No acute 
+displaced calvarial fracture.
+
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT
+========
+Mr. ___ is a ___ year old M w/ PMH HTN, HLD, DVT x 2 on 
+lifelong coumadin who was brought in by EMS after a syncopal 
+event. Blood pressures were found to be low (SBP in the ___ 
+with a negative echocardiogram. 
+
+ACUTE ISSUES: 
+========
+#Syncope: Most likely etiology is low blood pressures as patient 
+presented with SBP in the ___. Patient reports losing up to 50 
+pounds in the setting of stress with his late wife's passing due 
+to ovarian cancer, which likely led to increased effectiveness 
+of his home hypertension medications. Though his orthostatics in 
+the hospital were negative, this event occurred right when the 
+patient stood up so there is likely an orthostatic component as 
+well. Reassuringly, patient had a negative echo so structural 
+disease can be ruled out. Inside the hospital, his telemetry 
+showed normal sinus rhythm. He will get an outpatient monitor to 
+check for arrhythmias. His home amlodipine and valsartan were 
+held with the expectation that his PCP ___ check his blood 
+pressures in the outpatient setting and re-dose as necessary. 
+
+CHRONIC ISSUES: 
+======== 
+#HTN: hold home meds as above 
+#HLD: continue atorvastatin 
+#h/o DVT: continue warfarin 
+#Asthma: continue budesonide inhaler and albuterol as needed 
+
+TRANSITIONAL ISSUES
+========
+[] we held his home amlodipine and valsartan: please re-check 
+blood pressure in the outpatient setting and add on medications 
+as necessary
+[] please arrange to give him an event monitor and follow-up the 
+results of his event monitor to make sure he does not have 
+arrhythmias that may have caused this syncope
+[] we also held his home Coumadin dose given that his INR on 
+admission was supratherapeutic at 3.1. Per inpatient pharmacy 
+recs, we instructed him to skip his ___ dose and re-start his 
+usual home dosing on ___. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. budesonide 180 mcg/actuation inhalation DAILY 
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 
+3. amLODIPine 5 mg PO DAILY 
+4. Valsartan 160 mg PO DAILY 
+5. Atorvastatin 10 mg PO QPM 
+___  MD to order daily dose PO DAILY16 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB  
+2.  Atorvastatin 10 mg PO QPM  
+3.  budesonide 180 mcg/actuation inhalation DAILY  
+4. HELD- amLODIPine 5 mg PO DAILY  This medication was held. Do 
+not restart amLODIPine until SBP > 130
+5. HELD- Valsartan 160 mg PO DAILY  This medication was held. Do 
+not restart Valsartan until SBP > 130
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Syncope ___ hypotension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ It was a pleasure taking care of you at the ___ 
+___!  
+
+ WHY WAS I IN THE HOSPITAL?  
+ ==========================  
+ - You were admitted because you lost consciousness. 
+
+ WHAT HAPPENED IN THE HOSPITAL?  
+ ==============================  
+ - We measured your blood pressures, which were low and held 
+your HTN medications. 
+ - We did an echocardiogram which showed your heart was 
+structurally normal
+
+ WHAT SHOULD I DO WHEN I GO HOME?  
+ ================================  
+- Please hold your amlodipine and valsartan until you see your 
+PCP later this week. Please take your other medications as 
+directed. 
+- Please follow-up with your primary care doctor later this week
+
+___ you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

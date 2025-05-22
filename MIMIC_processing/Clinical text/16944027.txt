@@ -1,0 +1,202 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+neck pain, cervical stenosis 
+ 
+Major Surgical or Invasive Procedure:
+___ C5-6 ACDF 
+ 
+History of Present Illness:
+Mr. ___ is a ___ M with history of prior cervical fusion 
+who presented to the spine clinic with complaints of back pain, 
+difficulty walking and neck pain. He also had intermittent 
+paresthesias in his hands but denied numbness or weakness or 
+pain following the radicular distribution. He ambulates with a 
+cane. He has tried pain medication as well as physical therapy 
+with no improvement in his symptoms. On exam there appeared to 
+be signs of spinal cord dysfunction. His grip weakness was 
+attributed to spinal cord compression seen on his imaging. He 
+presents for elective C5-C6 ACDF. 
+
+ 
+Past Medical History:
+NECK PAIN 
+SHOULDER PAIN 
+HYPERCHOLESTEROLEMIA 
+HYPERTENSION 
+PROSTATE CANCER 
+LEG PAIN 
+
+PSHx:
+Transurethral prostatectomy
+SPINAL FUSION 
+ 
+Social History:
+___
+Family History:
+NC 
+ 
+Physical Exam:
+ON DISCHARGE: 
+=================
+Exam:
+
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+Orientation: [x]Person [x]Place [x]Time
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  PERRL                
+EOM: [x]Full [ ]Restricted
+
+Speech Fluent: [x]Yes [ ]No   
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+TrapDeltoidBicepTricepGrip
+Right5---------------->        4+     4+
+
+IPQuadHamATEHLGast
+
+[x]Sensation intact to light touch
+
+Wound: 
+          [x]Clean, dry, intact 
+
+ 
+Pertinent Results:
+Please refer to ___ for pertinent lab and imaging results. 
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with history spine funsion who 
+presensted to clinic with neck pain and tingling in his arm. He 
+presented for elective C5-C6 ACDF. 
+
+#Neck pain/cervical stenosis
+Patient presented to pre-op area on ___, was evaluated by 
+anesthesia and taken to the OR for C5-C6 ACDF. Procedure was 
+uncomplicated. Please refer to formal op-report in OMR for 
+further intra-operative details. He tolerated the procedure well 
+and was extubated in the OR. He was transferred to the PACU for 
+recovery where he remained neurologically stable, and was then 
+transferred to the floor for continued care. Post-op C-spine 
+xrays were obtained on POD1 which showed good placement of 
+hardware and normal post operative changes. Patient was 
+mobilized and physical therapy was consulted who recommended 
+rehab. 
+
+#Dispo
+The patient was discharged to acute rehab on ___.
+ 
+Medications on Admission:
+Lovastatin 40mg daily
+Tramadol ER 100mg daily 
+Hydrochlorothiazide 12.5mg daily 
+Bicalutamide 50mg daily
+Gabapentin 600mg TID 
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO TID  
+2.  Atorvastatin 10 mg PO QPM  
+3.  Chloraseptic Throat Spray 1 SPRY PO Q4H:PRN sore throat  
+4.  Docusate Sodium 100 mg PO BID  
+5.  Heparin 5000 UNIT SC BID  
+6.  Ondansetron 4 mg IV Q8H:PRN nausea  
+7.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN pain  
+8.  Sodium Chloride 0.9%  Flush ___ mL IV Q8H and PRN, line 
+flush  
+9.  Gabapentin 600 mg PO TID  
+10.  Hydrochlorothiazide 12.5 mg PO DAILY 
+This med was held, your blood pressure was low. Please follow up 
+with your PCP about restarting it.  
+11.  bicalutamide 50 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+cervical stenosis 
+neck pain 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+
+___
+
+Surgery
+
+ Your dressing may come off on the second day after surgery. 
+
+ Your incision is closed with dissolvable sutures underneath 
+the skin and steri strips. You do not need suture removal. Do 
+not remove your steri strips, let them fall off.
+
+ Please keep your incision dry for 72 hours after surgery.
+
+ Please avoid swimming for two weeks.
+
+ Call your surgeon if there are any signs of infection like 
+redness, fever, or drainage. 
+
+Activity
+
+ We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+
+ You make take leisurely walks and slowly increase your 
+activity at your own pace. ___ try to do too much all at once.
+
+ No driving while taking any narcotic or sedating medication. 
+
+ No contact sports until cleared by your neurosurgeon. 
+
+ Do NOT smoke. Smoking can affect your healing and fusion.
+
+Medications
+
+ Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+
+ Do not take any anti-inflammatory medications such as Motrin, 
+Advil, Aspirin, and Ibuprofen etc for 2 weeks.
+
+ You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+ It is important to increase fluid intake while taking pain 
+medications. We also recommend a stool softener like Colace. 
+Pain medications can cause constipation. 
+
+When to Call Your Doctor at ___ for:
+
+ Severe pain, swelling, redness or drainage from the incision 
+site. 
+
+ Fever greater than 101.5 degrees Fahrenheit
+
+ New weakness or changes in sensation in your arms or legs.
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,215 @@
+Name:  ___.               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 01:00PM BLOOD WBC-6.6 RBC-4.41* Hgb-14.0 Hct-42.4 
+MCV-96 MCH-31.7 MCHC-33.0 RDW-12.5 RDWSD-44.7 Plt ___
+___ 01:00PM BLOOD Neuts-76.4* Lymphs-10.2* Monos-11.4 
+Eos-1.2 Baso-0.2 Im ___ AbsNeut-5.02 AbsLymp-0.67* 
+AbsMono-0.75 AbsEos-0.08 AbsBaso-0.01
+___ 01:00PM BLOOD ___ PTT-28.3 ___
+___ 01:00PM BLOOD Glucose-152* UreaN-10 Creat-0.9 Na-136 
+K-3.9 Cl-100 HCO3-23 AnGap-13
+___ 07:04AM BLOOD ALT-15 AST-16 LD(LDH)-137 AlkPhos-49 
+TotBili-0.4
+___ 01:00PM BLOOD CK-MB-2 proBNP-131
+___ 01:00PM BLOOD cTropnT-<0.01
+___ 06:05PM BLOOD cTropnT-<0.01
+___ 01:00PM BLOOD Calcium-9.2 Phos-2.3* Mg-1.8
+___ 07:04AM BLOOD PSA-2.1
+
+DISCHARGE LABS
+___ 07:04AM BLOOD WBC-7.5 RBC-4.26* Hgb-13.4* Hct-41.4 
+MCV-97 MCH-31.5 MCHC-32.4 RDW-13.0 RDWSD-45.8 Plt ___
+___ 07:04AM BLOOD ___ PTT-28.0 ___
+___ 07:04AM BLOOD Glucose-90 UreaN-8 Creat-0.8 Na-144 K-4.2 
+Cl-106 HCO3-22 AnGap-16
+___ 07:04AM BLOOD Calcium-9.4 Phos-3.5 Mg-2.1
+
+IMAGING
+CTA Chest: 
+IMPRESSION: 
+1. No evidence of pulmonary embolism or acute aortic 
+abnormality. 
+2. Multiple pulmonary nodules are demonstrated throughout the 
+bilateral lungs 
+measuring up to 1.1 cm in the left upper lobe. 
+3. No evidence of intrathoracic lymphadenopathy. 
+4. A 1.3 cm right thyroid nodule. 
+  
+RECOMMENDATION(S):  Thyroid nodule.  No follow up recommended. 
+Absent suspicious imaging features, unless there is additional 
+clinical 
+concern, ___ of Radiology guidelines do not 
+recommend further 
+evaluation for incidental thyroid nodules less than 1.0 cm in 
+patients under 
+age ___ or less than 1.5 cm in patients age ___ or ___. 
+  
+___, et al, "Managing Incidental Thyroid Nodules Detected on 
+Imaging: White 
+Paper of the ACR Incidental Findings Committee". J ___ 
+___ ___ 
+12:143-150. 
+  
+For incidentally detected multiple solid pulmonary nodules 
+bigger than 8mm, a 
+CT follow-up in 3 to 6 months is recommended in a low-risk 
+patient, with an 
+optional CT follow-up in 18 to 24 months. In a high-risk 
+patient, both a CT 
+follow-up in 3 to 6 months and in 18 to 24 months is 
+recommended. 
+  
+See the ___ ___ Guidelines for the Management 
+of Pulmonary 
+Nodules Incidentally Detected on CT" for comments and reference: 
+
+___ 
+
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES: 
+=====================
+[ ] Patient planning to leave ___ for 2 months starting on 
+___. We are trying to schedule outpatient stress test prior 
+to departure. Please follow up. 
+[ ] New diffuse 1.1 cm pulmonary nodules noted on CTA: Please 
+follow up with interventional pulmonology, they are currently 
+working on scheduling an appointment for the patient 
+[ ] Per radiology, in a high-risk patient, both a CT follow-up 
+in 3 to 6 months and in 18 to 24 months is recommended for these 
+pulmonary nodules 
+[ ] Increased atorvastatin to 40 
+[ ] Discharged with famotidine prescription 
+[ ] please consider PFTs to assess for COPD
+
+#CODE: FULL, confirmed 
+#CONTACT: ___ ___
+
+PATIENT SUMMARY:
+==================
+___ with PMH bladder cancer s/p TURBT (low grade, ___, HTN, 
+HLD, significant smoking hx who p/w acute chest discomfort for 
+which was likely GERD. 
+
+ACUTE ISSUES:
+=============
+# Chest discomfort: Per history, most likely GERD however given 
+CVD risk factors, would opt for stress test. EKG no ischemic 
+changes, trop x2 negative. No chest pain while hospitalized. 
+Other factors ruled out such as PE, heart failure. Will need a 
+stress test as outpatient. Started on Famotidine 
+
+# NEW PULMONARY NODULES
+# HISTORY OF BLADDER CANCER
+History of bladder cancer, local/non-invasive, s/p TURBT in 
+___. Followed with Dr. ___ until ___ with 
+negative voided urines.  Per patient had follow-up last ___ 
+which was
+normal but unable to find those records. CT-A on admission 
+incidentally noted numerous pulmonary nodules up to 1.1cm, c/f 
+malignancy and potentially metastasis if recurred bladder ca. UA 
+here showing trace blood. Wil be scheduled interventional 
+pulmonology follow up as outpatient. 
+
+CHRONIC ISSUES:
+===============
+# HLD: increased atorvastatin to 40 
+# HTN: continue home amlodipine-benazepril 2.5-10mg daily
+# R LEG SCIATICA: continue home gabapentin 300mg qHS
+# Insomnia: cont home lorazepam 1mg PO qHS PRN 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine-benazepriL 2.5-10 mg oral DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Gabapentin 300 mg PO QHS 
+4. LORazepam 1 mg PO QHS:PRN sleep 
+
+ 
+Discharge Medications:
+1.  Famotidine 20 mg PO Q12H 
+RX *famotidine [Acid Controller] 20 mg 1 tablet(s) by mouth once 
+a day Disp #*30 Tablet Refills:*2 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*2 
+3.  amLODIPine-benazepriL 2.5-10 mg oral DAILY  
+4.  Gabapentin 300 mg PO QHS  
+5.  LORazepam 1 mg PO QHS:PRN sleep  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+Chest discomfort 
+Gastroesophageal reflux disease
+Pulmonary nodules 
+
+SECONDARY DIAGNOSES
+Bladder cancer
+Hyperlipidemia 
+Hypertension 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because you had chest discomfort 
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You had lab work and EKGs done to assess for heart attack. 
+- You did NOT have a heart attack. This chest discomfort is 
+likely from your GI reflux. 
+- You were also found to have lung nodules
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Please continue to take Famotidine and the increased 
+Atorvastatin 
+- Please follow up with your PCP. You will need a stress test 
+for which we are working on scheduling, however your PCP may 
+also be able to help 
+- Please follow up with the lung doctors, you will be called 
+with an appointment. 
+
+We wish you the best! 
+
+Sincerely, 
+Your ___ Team 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,386 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea, Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ gentleman with PMHx of HTN, OSA, afib 
+on coumadin who presented to the ED with chest pain and dyspnea. 
+He works as a ___ and was using his forklift in ___ 
+last night when he became short of breath and started having 
+chest pain. He had previously been experiencing a runny-nose, 
+cough, and feeling somewhat fatigued the day prior. His son had 
+been sick with similar symptoms for weeks prior to this. He went 
+home afterwards and was feeling progressively worse with 
+difficulty breathing so he was brought in by ambulance to the 
+emergency room.
+     The patient reports that he has never had previous symptoms 
+like this before. No history of heart attacks or heart failure. 
+He reported feeling sweaty during the episode. At presentation, 
+the patient denied any abdominal pain, nausea, vomiting, 
+paresthesias, dysuria. He sleeps flat on his side at home and 
+does not usually get short of breath with activity or have chest 
+pain with activity.
+
+In the ED, initial VS were: 97.9, 60, 124/70, 18, 95% RA    
+Exam notable for: Audible wheezing  
+Labs showed: CBC 8.8/13.3/40.2/224, Cr 2.3, BNP 1281, Trp <0.01 
+x2, Lactate 1.6   
+Imaging showed:
+
+CTA Chest 
+1. No evidence of pulmonary embolism or aortic abnormality.
+2. Subsegmental atelectasis in the right lower lobe.
+3. Mild bronchial wall thickening which is nonspecific and could 
+be seen in small airways disease.
+4. 4 mm nodule in the right middle lobe. If patient has elevated 
+risk factors for lung cancer, chest CT in 12 months can be 
+considered. If not, no additional imaging follow-up is 
+recommended. This is per ___ guidelines on 
+incidentally found pulmonary nodules.
+5. Dilated main pulmonary artery measuring 3.6 cm across maximal 
+diameter can be secondary to primary pulmonary hypertension. 
+ 
+Received: 
+___ 01:41 IH Albuterol 0.083% Neb Soln 1 NEB 
+___  
+___ 01:41 IH Ipratropium Bromide Neb 1 NEB ___ 
+ 
+___ 02:12 PO Aspirin 243 mg ___  
+___ 02:20 IVF  NS  ___ Started  
+___ 02:53 IV Atropine Sulfate .5 mg ___  
+___ 03:00 IVF  NS 500 mL ___ Stopped (___)  
+___ 04:55 IV MethylPREDNISolone Sodium Succ 125 mg 
+___  
+___ 05:15 IH Albuterol 0.083% Neb Soln 1 NEB 
+___  
+___ 05:15 IH Ipratropium Bromide Neb 1 NEB ___ 
+
+
+He was seen by Cardiology in the ED who felt that his chest pain 
+was atypical and unlikely to be ischemic but did recommend 
+stress testing on a non-urgent basis. He was also having 
+episodes of bradycardia in the ED that were felt to be related 
+to untreated OSA and vagal tone causing sinus arrest. 
+
+Transfer VS were: 98.2, 56, 123/58, 12, 94% RA   
+ 
+On arrival to the floor, patient confirms the story as above. He 
+states that he does not have any kidney problems that he knows 
+of but did have a problem ___ years ago when he got very 
+dehydrated in the setting of colonoscopy prep. Supposedly this 
+normalized afterwards. He does not currently have any chest pain 
+and feels his breathing has improved. He continues to have a 
+cough.
+
+REVIEW OF SYSTEMS:  
+(+)per HPI
+10-point review of systems otherwise negative.
+
+ 
+Past Medical History:
+Hypertension
+Atrial fibrillation on coumadin
+Obstructive sleep apnea (untreated, non-adherent with CPAP)
+ 
+Social History:
+___
+Family History:
+Sister and mother with diabetes.
+Son with asthma.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VS: 97.9 127/73 49 20 90% Ra 
+GENERAL: Obese gentleman in no apparent distress, laying in bed. 
+ 
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, mucous membranes 
+somewhat dry
+NECK: obese  
+HEART: Irregularly irregular, bradycardic, distant heart sounds 
+but normal S1, S2, no appreciable m/r/g
+LUNGS: CTAB, no wheezes, rales, rhonchi, occasional coughing
+ABDOMEN: obese, nontender in all quadrants, no rebound/guarding  
+
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no significant lesions on 
+visualized skin  
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals: 97.9 174/75 75 18 91% Ra 
+General: Well-appearing man, breathing slightly uncomfortable 
+with significant audible wheezing.
+HEENT: No conjunctival injection or scleral icterus.
+Neck: No cervical lymphadenopathy. No JVD.
+Lungs: Faint diffuse expiratory wheezing bilaterally, 
+significantly improved from yesterday. No crackles or rhonchi.
+CV: Regular rate and rhythm. Normal S1 and S2.
+Abdomen: Soft, nontender, obese.
+Ext: Warm and well-perfused. No cyanosis or edema.
+Neuro: Alert and oriented x3. Moving all extremities 
+spontaneously.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:19AM BLOOD WBC-8.8 RBC-4.49* Hgb-13.3* Hct-40.2 
+MCV-90 MCH-29.6 MCHC-33.1 RDW-12.5 RDWSD-41.1 Plt ___
+___ 01:19AM BLOOD Neuts-70.1 Lymphs-15.7* Monos-11.4 
+Eos-1.8 Baso-0.3 Im ___ AbsNeut-6.18* AbsLymp-1.39 
+AbsMono-1.01* AbsEos-0.16 AbsBaso-0.03
+___ 01:19AM BLOOD ___ PTT-26.3 ___
+___ 01:19AM BLOOD Glucose-113* UreaN-30* Creat-2.3* Na-135 
+K-4.5 Cl-97 HCO3-24 AnGap-19
+___ 03:54AM BLOOD CK(CPK)-78
+___ 01:19AM BLOOD proBNP-1281*
+___ 01:19AM BLOOD cTropnT-<0.01
+___ 03:54AM BLOOD cTropnT-<0.01
+___ 03:54AM BLOOD CK-MB-2
+___ 09:32AM BLOOD cTropnT-<0.01
+___ 01:19AM BLOOD Calcium-9.2 Phos-4.6* Mg-2.4
+___ 01:19AM BLOOD Lactate-1.6
+
+PERTINENT IMAGING
+=================
+CTA CHEST ___:
+1. No evidence of pulmonary embolism or aortic abnormality. 
+2. Subsegmental atelectasis in the right lower lobe. 
+3. Mild bronchial wall thickening which is nonspecific and could 
+be seen in small airways disease. 
+4. Multiple pulmonary nodules measuring up to 5 mm in the left 
+lower lobe 
+(3:169).  If patient has elevated risk factors for lung cancer, 
+chest CT in 12 months can be considered.  If not, no additional 
+imaging follow-up is recommended.  This is per ___ 
+___ guidelines on incidentally found pulmonary nodules. 
+5. Dilated main pulmonary artery measuring 3.6 cm across maximal 
+diameter  can be secondary to primary pulmonary hypertension. 
+
+DISCHARGE LABS
+==============
+___ 05:00AM BLOOD WBC-9.1 RBC-4.66 Hgb-13.9 Hct-42.2 MCV-91 
+MCH-29.8 MCHC-32.9 RDW-12.6 RDWSD-41.5 Plt ___
+___ 05:00AM BLOOD ___ PTT-25.9 ___
+___ 05:00AM BLOOD Glucose-98 UreaN-26* Creat-0.8 Na-140 
+K-4.1 Cl-101 HCO3-29 AnGap-14
+___ 05:00AM BLOOD Calcium-9.4 Phos-4.6* Mg-2.1
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ gentleman with a history of HTN, OSA, 
+Afib on Coumadin who presented to the ED with sudden onset chest 
+pain and dyspnea found to have likely acute bronchitis with 
+reactive airways. He was started on treatment with inhalers and 
+prednisone burst. He was significantly improving prior to 
+discharge. No evidence of acute coronary syndrome or heart 
+failure during this hospitalization. He had episodes of 
+asymptomatic bradycardia overnight in setting of severe OSA so 
+metoprolol and clonidine were discontinued with improvement in 
+heart rates. He was able to ambulate without desaturation and 
+had appropriate HR compensation with activity. As he was stable 
+and respiratory status was continuing to improve he was 
+medically cleared for discharge. He will follow up with primary 
+___ and has established ___ with Dr. ___ as his cardiologist.
+
+#Acute Bronchitis: Patient presented with dyspnea, wheezing, 
+chest pain in the setting of recent viral URI. Negative cardiac 
+workup while inpatient. He was treated with prednisone and 
+nebulized inhalers, and his respiratory status was significantly 
+improved prior to discharge. He will continue prednisone course 
+for total five days: Prednisone 40mg PO daily (___). He 
+was prescribed Albuterol inhaler and given a spacer. Patient can 
+continue Benzonatate 100mg PO TID for cough.
+
+#Sinus Bradycardia: Patient was having asymptomatic sinus 
+bradycardia of ___ bpm overnight, most likely secondary to 
+severe OSA as well as effects from Metoprolol and Clonidine. 
+When these medications were discontinued, his HR mostly 
+stabilized with rare bouts of sinus brady. Can consider holter 
+monitor for further evaluation as an outpatient.
+
+#Atrial Fibrillation: Patient has not been adherent with 
+Coumadin; his INR was 1.2 on admission. He was on telemetry and 
+off Metoprolol without any A fib. Given his CHADs VASc score of 
+1, we discussed with Dr. ___ agreed to discontinue Coumadin 
+and start Aspirin 81mg upon discharge.
+
+#Hypertension: Patient has been on aggressive antihypertensive 
+regimen of up to 5 medications in the past, but he has had poor 
+adherence to this regimen. During his hospitalization, we 
+discontinued Metoprolol and Clonidine given bradycardia and he 
+was having rebound hypertension up to SBP 190s. He was 
+discharged on Lisinopril and Amlodipine. He will follow up with 
+primary ___ and Dr. ___ further adjustments to 
+antihypertensive regimen.
+
+#Obstructive sleep apnea: Patient has tried CPAP in the past but 
+states that he could not tolerate the discomfort. While 
+hospitalized, his overnight O2 sats dropped to ___, 
+requiring temporary 2L O2. He will need follow-up sleep study 
+and mask re-fitting to find suitable CPAP vs. BiPAP.
+
+#Elevated BNP: BNP 1281 on admission, but patient had no 
+clinical or radiologic evidence of volume overload. Furthermore, 
+inpatient cardiac workup was negative for acute ischemia. 
+Patient will get TTE as outpatient with Dr. ___.
+
+#Acute Kidney Injury: Patient presented with Cr 2.3 likely 
+pre-renal from hypovolemia as it readily resolved after fluid 
+administration. Discharge Cr 0.8.
+
+#Nocturia: This is a chronic issue for the patient, likely 
+secondary to BPH. He was treated with Tamsulosin 0.4mg PO daily.
+
+TRANSITIONAL ISSUES
+===================
+#CODE: Full, limited trial
+#CONTACT: ___ (wife): ___
+[ ] Prednisone course: Prednisone 40mg PO daily (___)
+[ ] Incidental finding of multiple pulmonary nodules measuring 
+up to 5 mm in the left lower lobe (3:169).  If patient has 
+elevated risk factors for lung cancer, chest CT in 12 months can 
+be considered.  If not, no additional imaging follow-up is 
+recommended.  This is per ___ guidelines on 
+incidentally found pulmonary nodules. 
+[ ] Pleasure ensure follow up with sleep medicine for repeat 
+sleep study and mask fit given severe untreated OSA
+[ ] Patient will receive TTE as an outpatient with Dr. ___ to 
+evaluate for systolic or diastolic dysfunction
+[ ] Continue to monitor blood pressures, has history of 
+non-adherence, simplified regimen and discontinued unnecessary 
+medications, was hypertensive as inpatient following 
+discontinuation of clonidine; can consider adding HCTZ as 
+clinically indicated if still hypertensive
+[ ] Did not tolerate metoprolol due to bradycardia overnight, 
+would continue to monitor heart rates given prior paroxysmal 
+atrial fibrillation and consider rate control as clinically 
+indicated
+[ ] Consider holter monitor as outpatient given episodes of 
+asymptomatic bradycardia while asleep in setting of severe OSA
+[ ] Anticoagulation discontinued given CHADsVASC of 1, consider 
+restarting DOAC vs. Coumadin as clinically indicated; of note 
+patient has poor adherence
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Warfarin 7.5 mg PO DAILY16 
+2. Hydrochlorothiazide 50 mg PO DAILY 
+3. Metoprolol Succinate XL 50 mg PO DAILY 
+4. Doxazosin 1 mg PO HS 
+5. Lisinopril 40 mg PO DAILY 
+6. amLODIPine 10 mg PO DAILY 
+7. CloNIDine 0.2 mg PO TID 
+8. Famotidine 20 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler 1 PUFF IH Q6H:PRN shortness of breath 
+RX *albuterol sulfate [ProAir HFA] 90 mcg 1 puff IH Q6H:PRN Disp 
+#*1 Inhaler Refills:*0 
+2.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+3.  Benzonatate 100 mg PO TID 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*45 Capsule Refills:*0 
+4.  PredniSONE 40 mg PO DAILY Duration: 4 Days 
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*4 Tablet 
+Refills:*0 
+5.  Tamsulosin 0.4 mg PO DAILY 
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth at bedtime Disp #*30 
+Capsule Refills:*0 
+6.  amLODIPine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+7.  Famotidine 20 mg PO BID  
+8.  Lisinopril 40 mg PO DAILY 
+RX *lisinopril 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses:
+=================
+Acute Bronchitis
+Sinus bradycardia
+Hypertension
+Acute Kidney Injury
+
+Secondary Diagnoses:
+====================
+Benign Prostatic Hyperplasia
+Obstructive Sleep Apnea
+Atrial Fibrillation
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking ___ of you here at ___.
+
+Why you were admitted:
+- You were admitted after suddenly experiencing shortness of 
+breath and chest pain as well as several days of a cold. 
+- In our ED, you were found to have inflammation and irritation 
+of your airways, most likely from your cold.
+
+What we did while you were here:
+- We treated your symptoms with nebulizers and also started you 
+on a steroid to help reduce the inflammation and decrease your 
+wheezing.
+- Your heart rate was running slow while you were in the 
+hospital, and we stopped a couple medications that ___ have been 
+contributing to this.
+- We simplified and narrowed down many of the blood pressure 
+medications that you were taking at home. Please see the 
+discharge medication list for specific changes.
+
+Your next steps:
+- Please continue the Prednisone 40mg tablet daily through 
+___.
+- You have been discharged with an inhaler and a spacer, which 
+you should use if you are having shortness of breath or 
+wheezing.
+- Please take all your other medications as they have been 
+prescribed to you. Please make special note of the medications 
+we have stopped - including Coumadin, Metoprolol, and Clonidine.
+- Please keep your upcoming follow-up appointments with your PCP 
+and Dr. ___ will arrange for you to have an ultrasound of 
+your heart as an outpatient.
+- It is important that you speak with your primary ___ doctor 
+about scheduling a repeat sleep study and mask fitting to treat 
+your obstructive sleep apnea (OSA).
+
+We wish you well,
+Your ___ ___ Team
+ 
+Followup Instructions:
+___

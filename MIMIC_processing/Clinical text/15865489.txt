@@ -1,0 +1,792 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Morphine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Night sweats
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ s/p AV replacement with bioprosthetic aortic valve
+replacement, history of strep viridans endocarditis in ___, 
+HTN,
+HLD, who presents with 2 days of nightsweats and myalgias. 
+
+He reports that he had a head cold 1 week ago with myalgias,
+congestion, and cough though did not have a sore throat or 
+notice
+any swollen lymph nodes at the time. His son had similar 
+symptoms
+a week prior. His symptoms are associated with lightheadedness,
+poor PO intake, and watery diarrhea ___ times per day. Denies 
+any
+fevers. He initially felt like his symptoms were improving but
+then developed worsening malaise and muscle aches prompting him
+to present to his PCP ___ ___. Blood cultures and lyme serologies
+were obtained at that time, as well as a CXR which was
+reassuring. He then developed nightsweats the following day 
+which
+was very concerning to him as he had similar nightsweats during
+his prior episode of endocarditis. He subsequently presented to
+the ___ ED where repeat blood cultures were obtained. He
+was given a prescription for doxycycline and discharged to home.
+He continued to feel poorly and called into his primary care
+clinic where he was advised to present to the ED. 
+
+He spends time outdoors though denies any recent known tick
+bites. He had a dental cleaning 5 weeks ago, prior to which he
+took prophylactic amoxicillin. He denies any recent travel. 
+
+In the ED:
+Initial vital signs were notable for:
+Temp: 98 HR: 65 BP: 160/88 Resp: 20 O2 Sat: 100
+Exam notable for:
+
+Constitutional: Comfortable, well-appearing
+Head / Eyes: Normocephalic, atraumatic, Pupils equal, round and
+reactive to light, Extraocular muscles intact
+ENT / Neck: Oropharynx within normal limits
+Chest/Resp: Clear to auscultation
+Cardiovascular: Regular Rate and Rhythm, Normal first and second
+heart sounds. No carotid bruits.
+GI / Abdominal: Bowel sounds present throughout. , Soft,
+Nontender, Nondistended
+GU/Flank: No costovertebral angle tenderness
+Musc/Extr/Back: No cyanosis, clubbing or edema
+Skin: No rash, Warm and dry
+Neuro: Speech fluent. CN III-XII intact. UE and ___ strength ___
+and symmetric.
+
+Labs were notable for:
+AST 74 ALT 43
+CRP 98
+
+Studies performed include:
+TTE - no evidence of endocarditis
+
+Patient was given:
+IV Vancomycin
+
+Upon arrival to the floor, he reports malaise, weakness, all 
+over
+muscle aches, and lightheadedness. He denies any headache, sore
+throat, chest pain/pressure, shortness of breath or difficulty
+breathing, abdominal pain, nausea, vomiting, black or bloody
+stools, dysuria, leg pain or swelling. 
+
+ 
+Past Medical History:
+- Hypertension
+- Bicuspid aortic valve s/p recent human cadaver replacement 
+(___)
+- S. viridans paravalvular abscess s/p AVR
+- Right thorascopic partial lung decortication (___)
+- ___ ___ EnPulse DDD pacemaker placed (last interrogated 
+in ___ and functioning well)
+
+ 
+Social History:
+___
+Family History:
+Mr. ___ was adopted at a young age and the history of his
+parents are unknown.
+
+ 
+Physical Exam:
+========================
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: T97.8 BP155/84 HR60 RR18 O2-100
+GENERAL: Alert and interactive. In no acute distress. 
+Diaphoretic.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+NECK: No cervical lymphadenopathy. No JVD. 
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. 
+Systolic
+murmur best auscultated over R sternal border. Well-healed
+sternal incision. 
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No spinous process tenderness. No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No palpable organomegaly.
+Palpable pacemaker under R abdominal wall non-tender and without
+overlying erythema. 
+EXTREMITIES: No clubbing, cyanosis, or edema. No ___ lesions
+___ nodes.
+SKIN: Warm.  No rash.
+NEUROLOGIC: CN2-12 grossly intact. ___ strength throughout.
+Normal sensation. AOx3.
+
+========================
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 1521)
+    Temp: 97.8 (Tm 98.6), BP: 133/81 (107-133/69-85), HR: 60
+(59-76), RR: 18 (___), O2 sat: 98% (96-99), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress. 
+Diaphoretic.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. 
+Systolic
+murmur best auscultated over R sternal border. Well-healed
+sternal incision. 
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No spinous process tenderness. No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No palpable organomegaly.
+Palpable pacemaker under R abdominal wall non-tender and without
+overlying erythema. 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 10:53AM BLOOD WBC-4.5 RBC-4.96 Hgb-14.9 Hct-42.3 MCV-85 
+MCH-30.0 MCHC-35.2 RDW-12.2 RDWSD-37.5 Plt ___
+___ 10:53AM BLOOD Neuts-51.4 ___ Monos-9.0 Eos-1.1 
+Baso-0.9 Im ___ AbsNeut-2.33 AbsLymp-1.69 AbsMono-0.41 
+AbsEos-0.05 AbsBaso-0.04
+___ 10:53AM BLOOD Plt ___
+___ 10:53AM BLOOD Glucose-130* UreaN-15 Creat-0.9 Na-138 
+K-4.1 Cl-98 HCO3-24 AnGap-16
+___ 10:53AM BLOOD ALT-74* AST-43* AlkPhos-74 TotBili-1.3
+___ 10:53AM BLOOD Albumin-4.1
+___ 11:08AM BLOOD Lactate-1.5
+
+PERTINENT INTERVAL LABS:
+========================
+___ 06:30AM BLOOD Parst S-NEGATIVE
+___ 06:00AM BLOOD IPT-DONE
+___ 06:30AM BLOOD GGT-71*
+___ 06:30AM BLOOD TSH-1.2
+___ 06:30AM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG HAV Ab-NEG
+___ 06:00AM BLOOD AMA-NEGATIVE Smooth-NEGATIVE
+___ 06:30AM BLOOD ANCA-NEGATIVE B
+___ 06:00AM BLOOD ___
+___ 10:53AM BLOOD CRP-98.0*
+___ 06:00AM BLOOD IgG-964
+___ 05:59AM BLOOD C3-139 C4-34
+___ 06:30AM BLOOD HIV Ab-NEG
+___ 05:59AM BLOOD CMV VL-NOT DETECT
+___ 01:40PM BLOOD HIV1 VL-NOT DETECT
+
+Test                          Result              Reference 
+Range/Units
+SED RATE BY MODIFIED          38  H               < OR = 20 mm/h
+___                                        
+
+Test                          Result              Reference 
+Range/Units
+QUANTIFERON(R)-TB GOLD        NEGATIVE            NEGATIVE
+ 
+Negative test result. M. tuberculosis complex 
+infection unlikely.
+ 
+Test                          Result              Reference 
+Range/Units
+NIL                           0.03                IU/mL
+MITOGEN-NIL                   9.17                IU/mL
+TB-NIL                        <0.00               IU/mL
+ 
+The Nil tube value is used to determine if the patient
+has a preexisting immune response which could cause a 
+false-positive reading on the test. In order for a 
+test to be valid, the Nil tube must have a value of 
+less than or equal to 8.0 IU/mL.
+ 
+The mitogen control tube is used to assure the patient 
+has a healthy immune status and also serves as a 
+control for correct blood handling and incubation. It 
+is used to detect false-negative readings. The mitogen 
+tube must have a gamma interferon value of greater 
+than or equal to 0.5 IU/mL higher than the value of 
+the Nil tube.
+ 
+The TB antigen tube is coated with the M. tuberculosis
+specific antigens. For a test to be considered 
+positive, the TB antigen tube value minus the Nil tube 
+value must be greater than or equal to 0.35 IU/mL.
+
+Test                          Result              Reference 
+Range/Units
+Q FEVER IGG PHASE I SCR       NEGATIVE            
+ 
+REFERENCE RANGE: NEGATIVE
+ 
+Test                          Result              Reference 
+Range/Units
+Q FEVER IGG PHASE II SCR      NEGATIVE            
+ 
+REFERENCE RANGE: NEGATIVE
+ 
+Test                          Result              Reference 
+Range/Units
+Q FEVER IGM PHASE I SCR       NEGATIVE            
+ 
+REFERENCE RANGE: NEGATIVE
+ 
+Test                          Result              Reference 
+Range/Units
+Q FEVER IGM PHASE II SCR      NEGATIVE            
+ 
+REFERENCE RANGE: NEGATIVE
+ 
+Q Fever Antibody testing includes differentiation
+of antibodies to Phase I and Phase II antigenic
+variants. Coxiella burnetii, which causes Q Fever,
+undergoes transitions between Phase I and Phase II
+states. These phases are serologically
+distinguishable and useful in the serodiagnosis of
+acute and chronic disease.
+In some cases, the ratio of titer of Phase II to
+Phase I may indicate the stage of the disease.
+A ratio of greater than ___ indicate the acute
+stage; greater than or equal to 1, granulomatous
+hepatitis; and less than 1, the chronic stage or
+endocarditis.
+As with other infectious diseases, IgM antibodies
+are the first to appear. Usually they are
+detectable for a few weeks or, at the most, for a
+few months. IgG antibodies appear somewhat later
+but can persist for years, even for life.
+Although single Phase II IgG titers of 1:256 or
+greater are considered evidence of acute C.
+burnetii disease, the best criterion for a
+dependable diagnosis is still the demonstration of
+a fourfold or higher increase in antibody titer
+between the acute and convalescent serum samples.
+
+      
+Test                          Result              Reference 
+Range/Units
+MYCOPLASMA PNEUMONIAE         2.64  H             <=0.90
+ANTIBODY (IGG)                                    
+ 
+     
+Reference Range:
+             <=0.90     Negative
+          0.91-1.09     Equivocal
+             >=1.10     Positive
+ 
+ 
+A positive IgG result indicates that the patient has
+antibody to Mycoplasma. It does not differentiate
+between an active or past infection. The clinical
+diagnosis must be interpreted in conjunction with
+the clinical signs and symptoms of the patient.
+
+Test                          Result              Reference 
+Range/Units
+MYCOPLASMA PNEUMONIAE         115                 <770 U/mL
+ANTIBODY (IGM)                                    
+ 
+ 
+Reference Range:
+    <770 U/ml    Negative
+ 770-950 U/mL    Low positive
+    >950 U/mL    Positive
+ 
+ 
+A positive IgM antibody result is consistent with
+recent infection. However, a negative result does not
+necessarily rule out recent infection as some
+individuals may not mount another IgM response, if
+previously infected.
+ 
+A positive IgM antibody result with or without a
+positive IgG antibody result, is consistent with recent
+infection. However, a negative result does not
+necessarily rule out recent infection as some
+individuals may not mount another IgM response, if
+previously infected. A positive IgG antibody result in
+the absence of a positive IgM antibody result,
+indicates that the patient has antibody to Mycoplasma.
+It does not differentiate between an active or past
+infection. The clinical diagnosis must be interpreted
+in conjunction with the clinical signs and symptoms of
+the patient.
+
+Test                          Result              Reference 
+Range/Units
+B. HENSELAE AB (IGG), SCREEN  Negative            
+___ AB (IGG), SCREEN  Negative            
+B. ___ AB (IGM), SCREEN  Negative            
+___ AB (IGM), SCREEN  Negative            
+ 
+ 
+Reference Range: Negative
+ 
+Whereas sera from 10% of healthy controls exhibit
+Bartonella henselae and Bartonella ___ IgG titers
+of 1:64 - 1:128,none show titers of 1:256 or above.
+Sera from 95% of patients with clinically defined cat
+scratch disease show IgG titers of 1:64 and above; 79%
+exhibit titers of 1:256 and above. IgM titers at 1:20
+or higher have not been detected in the normal adult
+population.  Individuals infected with either B.
+henselae or ___ may not have initial IgG
+titers greater than or equal to 1:64; confirmation of
+infection with either organism may therefore require
+testing of serial specimens to detect increasing IgG
+titers or the presence of IgM. IgG crossreactivity
+between B. henselae and ___ may occur at any
+titer. Crossreactivity of IgM between the two species
+is limited, and typically is not seen.
+ 
+The two major clinical manifestations associated with
+___ infection are urban trench fever and
+endocarditis. Due to the acute nature of urban trench
+fever, both ___ IgG and IgM may be positive.
+In contrast, B. ___ endocarditis
+typically reflects chronic infection, and these
+patients nearly always exhibit an IgG positive but
+IgM negative result pattern.
+ 
+This test was developed and its analytical performance
+characteristics have been determined by ___, ___. It has
+not been cleared or approved by the ___. Food ___ Drug
+Administration. This assay has been validated pursuant
+to the ___ regulations and is used for clinical
+purposes.
+
+Test                          Result              Reference 
+Range/Units
+BRUCELLA ANTIBODY TITER       <1:80               <1:80
+ 
+The most reliable serologic indicator of
+brucellosis is a four-fold increase in antibody
+titer when testing acute and convalescent sera in
+parallel. In the absence of paired sera, a single
+specimen titer of 1:80 or greater is consistent
+with brucellosis in a patient with a compatible
+clinical history.
+ 
+Test                          Result              Reference 
+Range/Units
+ANAPLASMA PHAGOCYTOPHILUM     Not Detected        Not Detected
+DNA, QL REAL TIME PCR                             
+  
+Test                          Result              Reference 
+Range/Units
+A. PHAGOCYTOPHILUM IGG        <1:64               <1:64
+A. PHAGOCYTOPHILUM IGM        <1:20               <1:20
+     
+INTERPRETATION                Antibody Not Detected
+ 
+LABS PENDING AT DISCHARGE:
+==========================
+___ 10:26AM BLOOD BORRELIA MIYAMOTOI -PND
+___ 10:24AM BLOOD BORRELIA MIYAMOTOI, PCR-PND
+___ 05:59AM BLOOD EBV PCR, QUANTITATIVE, WHOLE BLOOD-PND
+___ 06:00AM BLOOD ANTI-LIVER-KIDNEY-MICROSOME ANTIBODY-PND  
+ 
+
+DISCHARGE LABS:
+===============
+___ 05:59AM BLOOD WBC-7.2 RBC-4.52* Hgb-13.6* Hct-39.2* 
+MCV-87 MCH-30.1 MCHC-34.7 RDW-12.3 RDWSD-38.9 Plt ___
+___ 06:00AM BLOOD Neuts-41.8 ___ Monos-6.7 Eos-1.6 
+Baso-0.9 Im ___ AbsNeut-3.19 AbsLymp-3.68 AbsMono-0.51 
+AbsEos-0.12 AbsBaso-0.07
+___ 05:59AM BLOOD Glucose-103* UreaN-13 Creat-0.9 Na-139 
+K-4.5 Cl-103 HCO3-23 AnGap-13
+___ 05:59AM BLOOD ALT-439* AST-245* AlkPhos-71 TotBili-0.6
+___ 05:59AM BLOOD Calcium-9.4 Phos-3.1 Mg-2.1
+
+IMAGING STUDIES:
+================
+CXR (___): No acute intrathoracic process.
+
+TTE (___): 
+CONCLUSION:
+The left atrial volume index is normal. The estimated right 
+atrial pressure is ___ mmHg. There is normal left ventricular 
+wall thickness with a normal cavity size. There is normal 
+regional and global left ventricular systolic function. 
+Quantitative biplane left ventricular ejection fraction is 67 %. 
+There is no resting left ventricular outflow tract gradient. No 
+ventricular septal defect is seen. Normal right ventricular 
+cavity size with normal free wall motion. The aortic sinus 
+diameter is normal for gender with normal ascending aorta 
+diameter for gender. The aortic arch diameter is normal. There 
+is no evidence for an aortic arch coarctation. An aortic valve 
+bioprosthesis is present. The prosthesis is well seated with 
+thickened leaflets but normal gradient. No masses or vegetations 
+are seen on the aortic valve. The effective orifice area index 
+is moderately reduced (0.65-0.90 cm2/m2). There is trace aortic 
+regurgitation. The mitral valve leaflets are mildly thickened 
+with leaflet straightening, but no frank systolic prolapse. No 
+masses or vegetations are seen on the mitral valve. There is 
+trivial mitral regurgitation. The tricuspid valve leaflets 
+appear structurally normal. No mass/vegetation are seen on the 
+tricuspid valve. There is mild [1+] tricuspid regurgitation. 
+There is mild pulmonary artery systolic hypertension. There is 
+no pericardial effusion.
+
+IMPRESSION: Well seated bioprosthetic aortic valve prosthesis 
+with normal gradient and trace aortic regurgitation. No 2D 
+echocardiographic evidence for endocarditis. If clinically 
+suggested, the absence of a discrete vegetation on 
+echocardiography does not exclude the diagnosis of endocarditis. 
+Compared with the prior TTE (images reviewed) of ___, the 
+findings are similar.
+
+RUQ U/S (___): No significant liver or biliary 
+abnormalities identified.
+
+CXR (___): Comparison to ___.  Stable alignment 
+of the sternal wires. Stable position of the pacemaker leads.  
+No pneumonia, no pulmonary edema, no pleural effusions.  No 
+pneumothorax. 
+
+CT CHEST (___):
+1. No evidence of intrathoracic malignancy or active infection. 
+2. Mild centrilobular and paraseptal emphysema. 
+3. Please see separately submitted Abdomen and Pelvis CT report 
+for 
+subdiaphragmatic findings. 
+
+CT ABD/PELVIS (___):
+1. No evidence of active infection or malignancy within the 
+abdomen or pelvis. 
+2. Mild splenomegaly. 
+3. Please see the separately submitted report of the same day CT 
+Chest for 
+findings above the diaphragm. 
+
+TEE (___):
+CONCLUSION:
+There is no evidence for an atrial septal defect by 2D/color 
+Doppler. Overall left ventricular systolic function is normal. 
+The right ventricle has normal free wall motion. There are no 
+aortic arch atheroma with no atheroma in the descending aorta. 
+An aortic valve bioprosthesis is present. The prosthesis is well 
+seated with normal disc motion. No masses or vegetations are 
+seen on the aortic valve. No abscess is seen. There is no aortic 
+regurgitation. The mitral valve leaflets appear structurally 
+normal with no mitral valve prolapse. No masses or vegetations 
+are seen on the mitral valve. No abscess is seen. There is no 
+mitral regurgitation. The tricuspid valve leaflets appear 
+structurally normal. No mass/vegetation are seen on the 
+tricuspid valve. No abscess is
+seen. There is no tricuspid regurgitation.
+
+IMPRESSION: Well seated bioprostethic aortic valve. No valvular 
+mass or vegetation seen. Normal biventricular systolic function.
+
+MICROBIOLOGY:
+=============
+__________________________________________________________
+___ 8:43 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, in
+      infected patients the excretion of antigen in urine may 
+vary. 
+__________________________________________________________
+___ 9:37 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 5:59 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 9:40 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 7:50 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 6:00 am SEROLOGY/BLOOD
+
+                            **FINAL REPORT ___
+
+   RAPID PLASMA REAGIN TEST (Final ___: 
+      NONREACTIVE. 
+      Reference Range: Non-Reactive. 
+__________________________________________________________
+___ 5:50 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 6:10 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 7:15 pm BLOOD CULTURE      #1. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 7:25 pm BLOOD CULTURE      #2. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 6:30 am Blood (EBV)
+
+                            **FINAL REPORT ___
+
+   ___ VIRUS VCA-IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+
+   ___ VIRUS EBNA IgG AB (Final ___:    POSITIVE 
+BY EIA. 
+
+   ___ VIRUS VCA-IgM AB (Final ___: 
+      NEGATIVE <1:10 BY IFA. 
+      INTERPRETATION: RESULTS INDICATIVE OF PAST EBV INFECTION. 
+      In most populations, 90% of adults have been infected at 
+sometime
+      with EBV and will have measurable VCA IgG and EBNA 
+antibodies.
+      Antibodies to EBNA develop ___ weeks after primary 
+infection and
+      remain present for life. Presence of VCA IgM antibodies 
+indicates
+      recent primary infection. 
+__________________________________________________________
+___ 6:30 am Blood (CMV AB)
+
+                            **FINAL REPORT ___
+
+   CMV IgG ANTIBODY (Final ___: 
+      NEGATIVE FOR CMV IgG ANTIBODY BY EIA. 
+      <4 AU/ML. 
+      Reference Range:  Negative < 4 AU/ml, Positive >= 6 AU/ml. 
+
+
+   CMV IgM ANTIBODY (Final ___: 
+      NEGATIVE FOR CMV IgM ANTIBODY BY EIA. 
+      INTERPRETATION:  NO ANTIBODY DETECTED. 
+      Greatly elevated serum protein with IgG levels ___ mg/dl 
+may cause 
+      interference with CMV IgM results. 
+__________________________________________________________
+___ 6:30 am SEROLOGY/BLOOD
+
+                            **FINAL REPORT ___
+
+   MONOSPOT (Final ___: 
+      NEGATIVE by Latex Agglutination. 
+           (Reference Range-Negative). 
+__________________________________________________________
+___ 5:30 pm BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 12:05 pm BLOOD CULTURE      #1. 
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 10:53 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 11:40 am BLOOD CULTURE
+
+                            **FINAL REPORT ___
+
+   Blood Culture, Routine (Final ___:    NO GROWTH. 
+
+FLOW CYTOMETRY:
+===============
+PENDING AT DISCHARGE
+ 
+Brief Hospital Course:
+SUMMARY:
+========
+___ s/p AV replacement with bioprosthetic aortic valve 
+replacement, history of strep viridans endocarditis in ___, 
+HTN, HLD, presenting with 7 days of drenching nightsweats and 
+transaminitis.
+
+ACUTE ISSUES ADDRESSED:
+=======================
+#Drenching nightsweats
+Presenting with 1 week of malaise and body aches and 2 days of 
+nightsweats which have continued since admission. No other 
+localizing symptoms. No recent travel. Works in ___. 
+No recent sick contacts, no pets at home. No bug/tick bites. 
+Labs on admission were notable for elevated inflammatory markers 
+and transaminitis. Infectious disease and hepatology were 
+consulted. Despite extensive workup as below, still unclear 
+etiology for his symptoms. Received 1 dose IV vancomycin on 
+admission, but antibiotics otherwise held given unclear source. 
+He will have follow-up in 2 weeks with infectious disease. We 
+will continue to monitor pending lab work at discharge.
+
+Workup notable for:
+- Blood cultures: no growth to date ___, 
+___
+- UA: no evidence of infection, UCx: no growth to date
+- C.Diff, stool cultures: negative
+- CXR: negative for PNA
+- Abdominal U/S: negative for ascites/gallbladder disease
+- TTE and TEE: negative for vegetation
+- Lyme titers: negative
+- Babesia, anaplasma serologies and PCR: negative
+- HIV: negative
+- Hepatitis serologies (HAV, HBV, HCV): negative
+- Parasite smear: negative
+- Monospot: negative
+- EBV, CMV: negative
+- ANCA: negative
+- Q fever: negative
+- Bartonella Ab: negative
+- TSH: within normal limits
+- IgG 964
+- C3 139 and C4 34 
+- CT torso with contrast: negative for occult infection/abscess, 
+no evidence of lymphadenopathy to suggest malignancy
+- Patient reporting otherwise up to date on age-related cancer 
+screenings 
+
+Workup pending at discharge:
+- ___
+- ___, AMA, anti-liver/kidney Ab (autoimmune hepatitis)
+- HIV VL
+- CMV VL, EBV PCR
+- RPR
+- Brucella Ab
+- Legionella
+- Mycoplasma pneumoniae Ab
+- Quant gold
+- Borrelia serology, PCR
+- Flow cytometry
+
+#Transaminitis: 
+Differential is broad and includes sequelae of infectious 
+etiology as above, versus medication effect (recently on 
+doxycycline). Otherwise, abdominal U/S negative, hepatitis 
+serologies negative. Autoimmune antibodies pending at discharge. 
+CK within normal limits. Held home statin. He should have repeat 
+LFTs 2 days after discharge.
+
+#Bioprosthetic AVR: 
+Continue home ASA. TTE and TEE negative for endocarditis as 
+above. 
+
+#HTN: 
+Continue home metoprolol.
+
+#DDD Pacemaker: 
+Placed in ___ for complete heart block in setting of LVOT 
+abscess and endocarditis. Follow up as scheduled in device 
+clinic.
+
+TRANSITIONAL ISSUES:
+====================
+[] Follow up pending workup as above, infectious portion to be 
+followed by ID
+[] Repeat LFTs in 2 days
+[] Held home statin given transaminitis, please restart once 
+transaminitis has resolved
+[] Follow up with infectious disease in 2 weeks and primary care 
+provider ___ 2 days
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Tartrate 25 mg PO BID 
+2. Simvastatin 20 mg PO QPM 
+3. Aspirin 81 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Metoprolol Tartrate 25 mg PO BID  
+3.  Multivitamins 1 TAB PO DAILY  
+4. HELD- Simvastatin 20 mg PO QPM  This medication was held. Do 
+not restart Simvastatin until speaking with your doctor
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Night sweats
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+Why was I admitted to the hospital?  
+-You were admitted because you had night sweats at home.  
+
+What happened while I was in the hospital?  
+- You had blood tests, a CT scan, and imaging of your heart. All 
+of which have resulted normal, with some tests still pending at 
+discharge.
+- You were monitored in the hospital, and your vital signs have 
+remained stable. 
+- While, we have not found a cause for your night sweats, we 
+feel comfortable discharging you from the hospital and having 
+you follow up with your outpatient providers.
+
+What should I do after leaving the hospital?  
+- Please take your medications as listed in discharge summary 
+and follow up at the listed appointments. 
+- Please call your primary care doctor ___ morning to make an 
+appointment and have liver function tests done on ___. 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Sincerely,
+
+Your ___ Healthcare Team  
+ 
+ 
+Followup Instructions:
+___

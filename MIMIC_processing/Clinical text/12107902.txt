@@ -1,0 +1,310 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+palpitations
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with a history of CAD
+(s/p PCI to LAD and pRCA), HFrEF (EF 30% s/p primary prevention
+AICD ___, HTN, HLD who presents with 
+lightheadedness/dizziness.
+
+Patient from ___ and in town at a an ___ and
+felt in his usual state of health until this morning. He began 
+to
+feel lightheaded and dizzy while at his hotel. He experienced
+some chest discomfort which was non focal, non radiating. 
+Patient
+reports some diaphoresis during episode. He took 2 sublingual
+nitroglycerin and acetaminophen with little response. This
+prompted to call EMS.
+
+On arrival to ___ patient noted to have SBPs in the ___ 
+and
+noted to be tachycardic to 150-160s consistent with
+supraventricular tachycardia. He received one dose of adenosine
+while in the ED as well as sublingual nitroglycerin. Following
+6mgadenosine, patient converted to normal sinus rhythm, although
+BPS remained in 70-80s.
+
+Cardiology evaluated the patient ___ in the ED who believed
+patient's hypotension likely in the setting of recent Entresto
+initiation and poor PO intake. Further recommendations were to
+hold Entresto, obtain TTE, and admit patient for further
+monitoring and ICD interrogation. 
+
+In the ED initial vitals were: afebrile, HR 76, BP 84/56, RR18,
+97% RA
+EKG:  Sinus rhythm, t wave inversions in V5, V6, submillimeter 
+ST
+elevations in V1, V2, V3. Q waves in II, III, aVF. 
+Labs/studies notable for: Normal CBC, Sr Cr elevated to 1.7,
+tropnonin negative, BNP 420, lactate 1.7, negative UA, CXR w/o
+acute process.
+Patient was given: 6mg Adenosine, 2 SL nitroglycerin, 2L IVF, 
+ASA
+325mg 
+Vitals on transfer: HR 58, 98/58, 98% RA
+
+On the floor patient reports he no longer has any palpitations 
+or
+chest discomfort. His symptoms resolved in the EMS. Additionally
+he reports a significant cardiac history including 2 previous 
+MIs
+one in ___, and again in ___. Had AICD placed in ___. Per
+report, pt EF approximately 30%, however pt does not believe he
+takes oral diuretics and denies history of hospitalizations for
+CHF exacerbations. Of note, patient reports he recently began
+Entresto, approximately 3 weeks ago.
+
+REVIEW OF SYSTEMS:  
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope, or presyncope.  
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: PCI to LAD and pRCA
+- HFrEF EF <30%
+- PACING/ICD: AICD ___ 
+3. OTHER PAST MEDICAL HISTORY  
+ 
+Social History:
+___
+Family History:
+Father: MI at age ___, non fatal
+Maternal Grandfather: MI in early ___  
+ 
+Physical Exam:
+ADMISSION PHYSICAL:
+===================
+VS: BP96/66 HR56 16 100 RA 
+GENERAL: WDWN no NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI.  
+NECK: Supple with JVD appreciable at clavicle at 90 degrees. 
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. RRR, normal S1, S2. No obvious murmurs on exam. 
+LUNGS: Good inspiratory effort, no crackles on exam, no wheezes
+or rales. Clear to auscultation  
+ABDOMEN: Soft, NTND. Normoactive bowel sounds
+EXTREMITIES: warm, well perfused, no edema.  
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE PHYSICAL EXAM
+VS: 97.8F, 59, 98/61, 18, 97% on RA.
+GENERAL: WDWN no NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI.  
+NECK: Supple with JVD appreciable at clavicle at 90 degrees. 
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. RRR, normal S1, S2. No obvious murmurs on exam. 
+LUNGS: Good inspiratory effort, no crackles on exam, no wheezes
+or rales. Clear to auscultation  
+ABDOMEN: Soft, NTND. Normoactive bowel sounds
+EXTREMITIES: warm, well perfused, no edema.  
+PULSES: Distal pulses palpable and symmetric  
+ 
+Pertinent Results:
+ADMISSION LABS:
+==================
+___ 07:30AM BLOOD WBC-7.2 RBC-4.85 Hgb-15.9 Hct-46.9 MCV-97 
+MCH-32.8* MCHC-33.9 RDW-13.5 RDWSD-48.1* Plt ___
+___ 07:30AM BLOOD Glucose-98 UreaN-21* Creat-1.7* Na-143 
+K-4.8 Cl-106 HCO3-19* AnGap-18
+___ 07:30AM BLOOD cTropnT-<0.01
+___ 04:00PM BLOOD cTropnT-0.04*
+___ 09:10PM BLOOD CK-MB-5 cTropnT-0.03*
+___ 07:30AM BLOOD proBNP-420*
+___ 07:30AM BLOOD Calcium-8.8 Phos-2.0* Mg-1.8
+___ 11:03AM BLOOD Lactate-1.6
+
+IMAGING/PROCEDURES:
+===================
+TTE ___
+The left atrial volume index is normal. Left ventricular wall 
+thicknesses and cavity size are normal. There is moderate to 
+severe regional left ventricular systolic dysfunction with near 
+akinesis of the distal half of the anterior septum and anterior 
+wall. The apex is akinetic and aneurysmal. The remaining 
+segments are mildly hypokinetic (LVEF = 25 %). No 
+intraventricular thrombus is seen. The estimated cardiac index 
+is depressed (<2.0L/min/m2). Tissue Doppler imaging suggests an 
+increased left ventricular filling pressure (PCWP>18mmHg). Right 
+ventricular cavity size and free wall motion are normal. The 
+diameters of aorta at the sinus, ascending and arch levels are 
+normal. The aortic valve leaflets (3) are mildly thickened but 
+aortic stenosis is not present. No aortic regurgitation is seen. 
+The mitral valve leaflets are structurally normal. Mild to 
+moderate (___) mitral regurgitation is seen. There is mild 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion. 
+
+IMPRESSION: Regional left ventricular systolic dysfunction in a 
+pattern most c/w CAD (mid-LAD distribution). Mild-moderate 
+mitral regurgitation. Mild pulmonary artery systolic 
+hypertension. Increased PCWP. 
+
+CLINICAL IMPLICATIONS: 
+The left ventricular ejection fraction is <40%, a threshold for 
+which the patient may benefit from a beta blocker and an ACE 
+inhibitor or ___.  
+
+ICD INTERROGATION ___
+· RV Capture Management: Actual safety margin (3.2 X) > 
+programmed margin (2.0 X).
+· 2 monitored VT episodes, longest was 17 min.
+- No electric discharges.
+
+CXR ___:
+No acute pulmonary process detected.  In particular, no evidence 
+of CHF.
+ 
+Probable nipple shadow left lung base.  Recommend further 
+assessment with PA lateral and both oblique views with nipple 
+markers in place, with the patient is stable.
+ 
+RECOMMENDATION(S):  Recommend further assessment with chest 
+x-ray exam
+comprised of PA, lateral and both oblique views, with nipple 
+markers in place,with the patient is stable.
+
+DISCHARGE LABS
+==============
+___ 05:34AM BLOOD WBC-7.3 RBC-4.21* Hgb-13.6* Hct-40.8 
+MCV-97 MCH-32.3* MCHC-33.3 RDW-13.8 RDWSD-49.3* Plt ___
+___ 05:34AM BLOOD Glucose-110* UreaN-19 Creat-1.2 Na-143 
+K-4.8 Cl-107 HCO3-22 AnGap-14
+___ 05:34AM BLOOD Calcium-8.7 Phos-3.7 Mg-1.9
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with a history of CAD 
+(s/p PCI to LAD and pRCA), HFrEF (EF 30% s/p primary prevention 
+AICD ___, HTN, HLD presenting with lightheadedness/dizziness 
+___ SVT resolved with adenosine.
+
+ACUTE ISSUES
+============
+#SUPRAVENTRICULAR TACHYCARDIA
+Presented with lightheadedness in setting of SVT to heart rates 
+of 150-160's. The rhythm was terminated with adenosine. His 
+course was complicated by SBP's in the ___, which improved 
+after his outpatient entresto discontinued and he received fluid 
+resuscitation. ACS ruled out, lactate was wnl, troponins peaked 
+at 0.04 in setting of demand. No further SVT episodes. His ICD 
+was interrogated, demonstrating an isolated event without 
+concern for repeat during travel home.
+
+#HFrEF
+Patient has a baseline EF of ~30%. His entresto was held given 
+his hypotension on admission. He was maintained on his home dose 
+of metoprolol separated to 12.5 mg BID. A TTE was performed that 
+demonstrated no significant changes from his baseline.
+
+___
+Elevated creatinine to 1.7 on admission in setting of 
+hypotension and poor PO intake. Improved after fluid 
+resuscitation and improvement of blood pressures.
+
+TRANSITIONAL ISSUES
+===================
+- Continue to hold entresto until re-evaluated by cardiologist.
+- Continue all other medications as prescribed.
+- Follow up with Cardiologist, Dr. ___, in the next ___ 
+days. ___.
+- Follow up with primary care provider, Dr. ___, in the next 
+___ days. ___.
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Clopidogrel 75 mg PO DAILY 
+3. Vitamin D 1000 UNIT PO DAILY 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. Atorvastatin 80 mg PO QPM 
+6. Sacubitril-Valsartan (24mg-26mg) 1 TAB PO BID 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 80 mg PO QPM  
+3.  Clopidogrel 75 mg PO DAILY  
+4.  Metoprolol Succinate XL 25 mg PO DAILY  
+5.  Vitamin D 1000 UNIT PO DAILY  
+6. HELD- Sacubitril-Valsartan (24mg-26mg) 1 TAB PO BID  This 
+medication was held. Do not restart Sacubitril-Valsartan 
+(24mg-26mg) until Evaluated by his cardiologist
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+=================
+Supraventricular Tachycardia, unspecified
+CAD
+Heart Failure with reduced Ejection Fraction
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+WHAT BROUGHT YOU INTO THE HOSPITAL?
+- You were admitted for a fast heart rate that needed medicine 
+to stop.  
+- Your blood pressure was low and was concerning for heart 
+issues.
+- Your dizziness and unwell feeling needed to be evaluated
+
+WHAT WAS DONE FOR YOU WHILE IN THE HOSPITAL?
+- Your fast heart beat was fixed with a medicine called 
+adenosine.  
+- A scan of your heart was done called a TTE, it showed no 
+changes from your last echo.
+- Our pacemaker specialists scanned your defibrillator, they 
+found that this was an isolated event that needed no further 
+intervention here.
+
+WHAT SHOULD YOU DO AFTER LEAVING THE HOSPITAL?
+- It is very important that you follow up with your cardiologist 
+regarding your entresto and this recent event
+- You need to follow up with your PCP.
+- Continue all of your other medications as prescribed.
+
+Return to a hospital if you experience any of the following:
+*Recurrence of feeling "unwell"
+*Palpitations that won't go away
+*Increased shortness of breath
+*Any symptoms that are concerning
+
+We wish you the best in your recovery!
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

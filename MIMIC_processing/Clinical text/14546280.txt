@@ -1,0 +1,230 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Augmentin / codeine / Cytotec
+ 
+Attending: ___.
+ 
+Chief Complaint:
+post ERCP
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+ 
+History of Present Illness:
+Patient is a ___ year old woman with history of recently 
+diagnosed ampullary mass, hypothyroidism, GERD, who is admitted 
+for observation post ERCP.
+
+Briefly, she initially developed abdominal pain about 2 months 
+ago and then on routine labwork was found to have abnormal labs 
+suggestive of biliary obstruction. This eventually led to a MRCP 
+which showed diffuse intra and extrahepatic biliary dilatation 
+with 8 x 9 mm focus of hypoenhancement at the sphincter ___ 
+concerning for an ampullary mass. An EUS on ___
+EUS was performed which shouwed biliiary dilation with the CBD 
+measuring up to 13.5 mm. There was a submucosal hypoechoic 
+lesion and 3 samples were taken. Biopsy showed benign tissue. 
+She continued to have ongoing abd pain prompting an ED visit. 
+Her imaging was reviewed at ___. Given the ampullary lesion, 
+planned for ERCP for tissue sampling. During this time, her LFTs 
+normalized but she continued to have ongoing symptoms of some 
+abdominal pain and diarrhea for which her GI MD Dr ___ 
+started her on dicyclomine and creon. She reports ongoing 
+diarrhea concurrent with abd pain, watery non bloody, usually 
+worse with meals, up to ___ times daily, often nocturnal. 
+
+Today, she underwent ERCP with sphincterotomy and brushing from 
+the intraampullary area. Due to the mild oozing a decision to 
+place a fully covered metal stent was made.  On arrival to 
+floor, c/o epigastric abdominal pain which had previously 
+responded to dilaudid given in PACU. Also reported substernal 
+burning discomfort, which she attributed to her GERD. Denies 
+nausea, vomiting, diarrhea, fever, chills, jaundice. ROS 
+otherwise negative.
+
+ 
+ 
+Past Medical History:
+GERD
+Hypothyroidism
+
+ 
+Social History:
+___
+Family History:
+did not obtain
+ 
+Physical Exam:
+ADMISSION
+VS: 97.5 150/74 69 18 100% RA   
+Gen: NAD, A&O x3
+HEENT: NCAT, EOMI
+CV: RRR, nl S1 S2, no m/r/g
+Lungs: CTA b/l
+Abd: soft, nt, nd, +BS
+Ext: No edema
+SKin: No rashes
+Psych: Full range of affect
+Neuro: CN II-XII intact, normal motor strength and sensation
+MSK: No effusions, synovitis
+
+DISCHARGE
+VS: 97.8 PO 144 / 96 70 18 98 RA  
+Gen: sitting up in bed, comfortable appearing; 
+Eyes - EOMI
+ENT - OP clear, MMM
+Heart - RRR no mrg
+Lungs - CTA bilaterally
+Abd - soft, mild RUQ tenderness to deep palpation, negative 
+___ sign; no rebound/guarding; normoactive bowel sounds
+Ext - no edema
+Skin - no rashes
+Vasc - 2+ DP/radial pulses
+Neuro - AOx3, moving all extremities
+Psych - appropriate
+ 
+Pertinent Results:
+ADMISSION 
+___ 11:34AM BLOOD WBC-7.0 RBC-4.78 Hgb-15.4 Hct-45.4* 
+MCV-95 MCH-32.2* MCHC-33.9 RDW-12.6 RDWSD-43.9 Plt ___
+___ 11:34AM BLOOD UreaN-11 Creat-0.8 Na-137 K-3.9 Cl-102 
+HCO3-20* AnGap-19
+___ 11:34AM BLOOD ALT-8 AST-11 AlkPhos-110* Amylase-25 
+TotBili-0.3
+
+DISCHARGE
+___ 01:43PM BLOOD WBC-7.9 RBC-4.04 Hgb-13.3 Hct-38.4 MCV-95 
+MCH-32.9* MCHC-34.6 RDW-12.2 RDWSD-42.4 Plt ___
+___ 07:20AM BLOOD Glucose-69* UreaN-10 Creat-0.8 Na-140 
+K-3.6 Cl-102 HCO3-20* AnGap-22*
+___ 07:20AM BLOOD ALT-7 AST-11 LD(LDH)-127 AlkPhos-91 
+TotBili-0.4
+
+ERCP:
+The scout film was normal and there was evidence of CCY clips.  
+A bulging of the major papilla was noted.  
+Cannulation of the biliary duct was successful and deep with a 
+sphincterotome using a free-hand technique.  
+Contrast medium was injected resulting in complete 
+opacification.  
+The common bile duct, common hepatic duct, right and left 
+hepatic ducts, biliary radicles and cystic duct were filled with 
+contrast and well visualized. The course and caliber of the 
+structures are normal with no evidence of extrinsic compression, 
+no ductal abnormalities, and no filling defects.  
+A sphincterotomy was performed in the 12 o'clock position using 
+a sphincterotome over an existing guidewire. There was evidence 
+of mild oozing post sphincterotomy.  
+Balloon sweeps reveled no evidence of sludge or stones.  
+Due to the suspicion of ampullary mass brushing were performed 
+from the intraampullary area.  
+Due to the mild oozing a decision to place a fully covered 
+metal stent was made.  
+A 10mm*60mm fully covered metal stent (REF ___, LOT 
+___ was placed successfully with excellent omeostasis.  
+Post stent placement there was good bile and contrast drainage 
+were noted endoscopically and fluoroscopically.  
+No defenitive cause for abdominal painidentified on this study 
+but will await brushing results 
+Otherwise normal ercp to third part of the duodenum
+
+ 
+Brief Hospital Course:
+This is a ___ year old female with past medical history of 
+hypothyroidism and GERD, with several months of abdominal pain 
+and prior concern for ampullary mass, now admitted ___ 
+after elective ERCP that did not show mass or source for pain, 
+course complicated by post-procedure pain that subsequently 
+resolved with conservative management
+
+# RUQ and Epigastric Abdominal pain
+Patient was admitted for elective ERCP for workup of prior 
+imaging that had showed a possible ampullary mass; on this ERCP, 
+no ampullary mass, biliary dilation or other causes for her 
+chronic abdominal pain symptoms were seen. Subsequent to 
+procedure patient had increased post-procedure pain without 
+signs of infection, pancreatitis, perforation or stent 
+migration.  She rapidly improved with conservative management.  
+She left against medical advice (as below) before being able to 
+demonstrate reliably tolerating a regular diet.  She was 
+discharged with prescription to complete 5d course of post-ERCP 
+cipro prophylaxis.  Regarding her chronic abdominal pain, she 
+was recommended to follow-up with her PCP and outpatient GI for 
+discussion of additional workup.  Continued home dicyclomine and 
+creon
+
+# Ampullary bleeding - ERCP with sphincterotomy was complicated 
+by oozing at sphincterotomy site, prompting placement of metal 
+stent over that area.  Patient was subsequently hemodynamically 
+stable without signs of bleeding.  Patient will need to 
+follow-up for repeat ERCP in 4 weeks for stent pull and 
+re-evaluation. 
+
+# Leaving Against Medical Advice - Before patient could 
+demonstrate tolerating a regular diet safely, she opted to leave 
+against medical advice--this occurred immediately following 
+getting caught smoking a cigarette in her room.  She was able to 
+verbalize the risks of leaving.  
+
+# Hypothyroidism - continued levothyroxine 
+
+# GERD - continued ranitidine 
+
+Transitional Issues
+- Left against medical advice
+- Discharged to complete 5 day course of post-ERCP ciprofloxacin
+- Cytology brushings sent, but no causes for her abdominal pain 
+were identified
+- Will need  week follow-up ERCP for stent pull and 
+re-evaluation
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. DICYCLOMine 20 mg PO TID:PRN abdominal spasm 
+2. Pancrelipase 5000 5 CAP PO TID W/MEALS 
+3. Ranitidine 150 mg PO BID 
+4. Levothyroxine Sodium 112 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 7 Doses  
+2.  DICYCLOMine 20 mg PO TID:PRN abdominal spasm  
+3.  Levothyroxine Sodium 112 mcg PO DAILY  
+4.  Pancrelipase 5000 5 CAP PO TID W/MEALS  
+5.  Ranitidine 150 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# RUQ and Epigastric Abdominal pain
+# Ampullary bleeding
+# Leaving Against Medical Advice
+# Hypothyroidism - continued levothyroxine 
+# GERD - continued ranitidine 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Patient was admitted after elective ERCP for abdominal pain with 
+placement of stent. On the evening of ___ she wished to 
+leave against medical advice. She understood the risks of 
+leaving, but was unwilling to discuss her exact reason for 
+wanting to leave. She took the prescription for ciprofloxacin 
+with her, but did not wish to wait for any further medical care.
+ 
+Followup Instructions:
+___

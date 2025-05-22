@@ -1,0 +1,413 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+peanuts
+ 
+Attending: ___.
+ 
+Chief Complaint:
+nausea/vomiting, diaphoresis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ from ___ w/ PMH of  CAD (s/p MI and PCI in ___, HLD, NAFLD,
+anxiety, hiatal hernia, who presented with chills/sweats,
+fatigue, generalized weakness, mild confusion, n/v, and a
+possible syncopal episode vs fall out of bed (she awoke on the
+floor next to her bed and did not recall how she got there). 
+
+Patient is visiting son from ___ and flew in
+approximately 48 hours ago. Day before admission, she was in her
+normal health, though noted to feeling tired at end of day due 
+to
+being very active. In the middle of the night she woke up
+sweating, SOB, nauseaous and vomited X1. She then went back to
+sleep. She woke up again feeling very cold and was shaking but
+fell back asleep. Next she awoke to find herself on the floor
+with generalized weakness. She was unable to get herself off the
+floor, and had difficulty grasping the bedside phone with her R
+hand (though felt weak in both arms). She called the hotel front
+desk who called ambulance and she was lifted into a stretcher.
+
+During this time she denied any chest pain, cough, fever,
+abdominal pain or diarrhea.
+
+In the ED, vital signs were notable for: 99.7F, 82, 128/60, 20, 
+96% on RA. Basic labs were fairly unremarkable other than lytes 
+with low magnesium and a suggestion of volume contracted state.
+Due to the somewhat vague history and the unclarity of what was 
+the inciting event, she underwent fairly broad workup as 
+follows: 
+- CXR showed a RML PNA, but unclear if she aspirated during her 
+vomiting and/or time on the floor, or if this was the root 
+problem. 
+- For possibility that the vomiting and ?syncope was a posterior 
+TIA or vertebrobasilar insufficiency, she was seen by neuro and 
+underwent a CTA head/heck, which was unremarkable.
+- For possibility of ACS, she had serial EKGs (which were 
+unremarkable) and serial troponins, which were downtrending with 
+no associated CK-MB elevation.
+
+She was given 3L NS, IV magnesium, ASA 324, CTX/azithro, and was 
+admitted to medicine. Upon arrival to the floor, she reports 
+feeling back to her normal
+baseline. She was able to ambulate without difficulty. She 
+denies
+any other weakness, SOB, diaphoresis, nausea/vomiting.
+
+ 
+Past Medical History:
+NSTEMI s/p PCI (___)
+HLD
+NAFLD
+Anxiety
+Hiatal hernia
+ 
+Social History:
+___
+Family History:
+Not contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+___ Temp: 98.5 PO BP: 93/60 HR: 78 RR: 20 O2
+sat: 96% O2 delivery: Ra 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+NECK: Thyroid is normal in size and texture, no nodules. No
+cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+BACK: No spinous process tenderness. No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation. Gait is normal. AOx3.
+
+DISCHARGE PHYSICAL EXAM: 
+======================
+VITALS: 24 HR Data (last updated ___ @ 1551)
+    Temp: 97.9 (Tm 99.0), BP: 121/56 (93-121/53-61), HR: 72 
+(68-82), RR: 18, O2 sat: 100% (92-100), O2 delivery: Ra  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection. MMM.
+NECK:  No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No 
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or 
+rales. No increased work of breathing.
+BACK: No spinous process tenderness. No CVA tenderness.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep 
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+ bilaterally.
+SKIN: Warm. No rash.
+NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal 
+sensation. Gait is normal. AOx3.
+ 
+Pertinent Results:
+ADMISSION LABS: 
+==============
+___ 10:00AM BLOOD WBC-5.3 RBC-3.61* Hgb-10.4* Hct-33.3* 
+MCV-92 MCH-28.8 MCHC-31.2* RDW-13.4 RDWSD-45.1 Plt ___
+___ 10:00AM BLOOD Neuts-86.7* Lymphs-5.4* Monos-6.7 
+Eos-0.6* Baso-0.2 Im ___ AbsNeut-4.63 AbsLymp-0.29* 
+AbsMono-0.36 AbsEos-0.03* AbsBaso-0.01
+___ 10:00AM BLOOD ___ PTT-24.0* ___
+___ 10:00AM BLOOD Glucose-89 UreaN-23* Creat-1.0 Na-141 
+K-3.9 Cl-105 HCO3-22 AnGap-14
+___ 10:00AM BLOOD ALT-53* AST-61* CK(CPK)-112 AlkPhos-88 
+TotBili-0.5
+___ 10:00AM BLOOD cTropnT-0.07*
+___ 10:00AM BLOOD CK-MB-3
+___ 10:00AM BLOOD Albumin-4.0 Calcium-10.3 Phos-2.5* 
+Mg-1.5*
+___ 10:00AM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG
+___ 10:00AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 10:00AM BLOOD HCV Ab-NEG
+___ 12:25PM URINE Blood-NEG Nitrite-POS* Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+___ 12:25PM URINE RBC-6* WBC-3 Bacteri-FEW* Yeast-NONE 
+Epi-0
+
+IMAGING: 
+=======
+RUQUS (___)
+Echogenic liver consistent with steatosis. Other forms of liver 
+disease
+including steatohepatitis, hepatic fibrosis, or cirrhosis cannot 
+be excluded
+on the basis of this examination
+
+2-VIEW CHEST X-RAY (___)
+Patchy opacities noted in the medial right lung base with likely 
+representing
+right lower lobe pneumonia.  When compared with same day CT head 
+and neck,
+subtle opacities also noted within the right upper lobe, not 
+well seen on this
+chest radiograph.  Findings suggest multifocal pneumonia.  Left 
+lung appears
+relatively clear.  No large pleural effusion or pneumothorax. 
+Cardiomediastinal silhouette is within normal limits.  Large 
+size hiatal
+hernia is noted.
+IMPRESSION: 
+Multifocal pneumonia most pronounced in the right middle lobe.  
+Large hiatal
+hernia.
+
+CTA HEAD AND CTA NECK  (___)
+1. No intracranial hemorrhage, mass effect, hydrocephalus or 
+midline shift. 
+No evidence of a large territorial infarct.
+2. Calcification at the carotid bifurcations with approximately 
+40% stenosis
+at both internal carotid arteries by NASCET criteria.
+3. Intracranial vascular calcifications but without evidence of 
+aneurysm,
+occlusion or high-grade stenosis.
+4. Ground-glass appearance and bronchial wall thickening in the 
+visualized
+right upper lung  due to pneumonia demonstrated on these chest 
+x-ray of the
+same day.
+5. Chronic left maxillary sinusitis.
+
+MICROBIOLOGY: 
+============
+___ 7:30 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 7:00 pm BLOOD CULTURE      2 OF 2. 
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+DISCHARGE LABS: 
+==============
+___ 01:22PM BLOOD WBC-10.1* RBC-3.07* Hgb-8.9* Hct-28.9* 
+MCV-94 MCH-29.0 MCHC-30.8* RDW-14.1 RDWSD-47.8* Plt ___
+___ 05:42AM BLOOD ___ PTT-26.6 ___
+___ 05:42AM BLOOD Glucose-82 UreaN-18 Creat-0.8 Na-142 
+K-3.9 Cl-109* HCO3-23 AnGap-10
+___ 02:35AM BLOOD cTropnT-0.02*
+___ 05:42AM BLOOD Calcium-8.6 Phos-3.1 Mg-2.1
+
+ 
+Brief Hospital Course:
+SUMMARY STATEMENT: 
+==================
+___ from MN w/ ___ of  CAD (s/p MI and PCI in ___, HLD, NAFLD, 
+anxiety, hiatal hernia, who presented with chills/sweats, 
+fatigue, generalized weakness, mild confusion, n/v, and a 
+possible syncopal episode vs fall out of bed (she awoke on the
+floor next to her bed and did not recall how she got there).  
+The only objective abnormalities found on her workup were 
+hypovolemia and a RML infiltrate on CXR. It is hypothesized that 
+she had a self-limited GI illness (viral or toxin-mediated 
+gastroenteritis) with resultant weakness/orthostasis and an 
+aspiration event.
+
+ACUTE ISSUES: 
+=============
+#Nausea/vomiting
+#Diaphoresis
+Patient presented with an episode of nausea/vomiting and 
+associated chills/rigors that resolved within 24 hours. Work up 
+was notable for an elevated troponin to 0.07 without signs of 
+ischemia on EKG. Additionally, WBC was elevated to ~11 and CXR 
+showed multiple opacities. Neurology was also consulted and 
+recommended CTA head given gait abnormalities, which showed 
+multiple areas of mild stenosis, though none in the posterior 
+circulation to suggest stroke as an etiology of her symptoms. 
+She was treated symptomatically and with intravenous fluids with 
+rapid resolution of her symptoms. Etiology was ultimately felt 
+to be a viral or toxin-mediated gastroenteritis resulting in an 
+aspiration pneumonitis/pneumonia, generalized weakness, and mild 
+demand ischemia. She should follow up with her PCP for further 
+evaluation. 
+
+#Generalized weakness and possible syncope
+Patient reported going to bed around 10:30PM and at 3AM 
+remembers waking up on the ground but she does not report any 
+memory of a fall, acute loss of consciousness, and is unclear as 
+to whether she may have sat down and fallen asleep on the ground 
+or fallen out of bed. Upon waking at 3AM, she had generalized 
+weakness and was unable to get up from the ground. Neurology 
+consulted in ED and felt her presentation was not concerning for 
+acute syncope, seizure like activity, or cervical injury. 
+Initial work up included EKG that showed no signs of massive MI 
+or PE and she had no evidence of AS or dynamic outflow tract 
+obstruction on careful cardiac exam. CT head without contrast 
+was negative for ischemia, hemorrhage, edema or mass. CTA neck 
+showed calcification of carotid bifurcations with approximately 
+40% stenosis at both ICA arteries. No evidence of aneurysms, 
+occlusion or high grade stenosis of intracranial vessels. Her 
+weakness resolved while in the ED and her gait was back to 
+baseline at time of discharge. Ultimately, history was felt to 
+be consistent with weakness iso systemic illness rather than 
+true syncope. 
+
+#Aspiration pneumonitis vs pneumonia 
+CXR on admission showed right middle lobe opacities and labs 
+notably with a leukocytosis, concerning for pneumonia vs 
+aspiration pneumonitis. She was asymptomatic prior to this 
+presentation. Her history of being down in the setting of a 
+significant hiatal hernia on CXR as well as the location in the 
+RML all consistent with an aspiration pneumonitis. However, 
+given that patient will not be able to followed closely in 
+___, we will treat her for community acquired pneumonia for a 
+total 5 day course. She was given ceftriaxone/azithromycin 
+initially and will be discharged with PO 
+cefpodoxime/azithromycin to end on ___. She should have a 
+follow up CXR in ___ weeks to ensure resolution of her PNA vs 
+pneumonitis. 
+
+#Type II MI
+#Hx of NSTEMI s/p stent (___)
+Patient presented with troponin T 0.07 on admission that 
+downtrended to 0.02 prior to discharge. EKG on admission was not 
+concerning for any ischemia and serial EKGs showed no concerning 
+changes. Initially concern was that nausea/vomiting/diaphoresis 
+was an anginal equivalent as she described similar symptoms 
+during her prior NSTEMI in ___ s/p stent placement. However, 
+overall history and work up more consistent with type II demand 
+NSTMEI iso acute illness rather than true plaque rupture. She 
+should follow up with her PCP for further management. Discharged 
+on home metoprolol, atorvastatin and aspirin. 
+
+#Transaminitis
+#steatosis 
+Noted to have mild transaminitis with AST 61, ALT 53, normal 
+Tbili. Also had steatosis on RUQUS, though steatohepatitis, 
+hepatic fibrosis and cirrhosis cannot be excluded. Patient 
+reports that she has been told by her doctors that ___ are 
+noted to be elevated at baseline. No history of significant 
+alcohol or acetaminophen use. ___ be in setting of NAFLD vs 
+statin use. She will need outpatient follow up with fibroscan to 
+evaluate for fibrosis.
+
+#Anemia 
+Patient presenting with normocytic anemia of 10.4 on admission 
+which downtrended to 8.4 though with no reported signs or 
+symptoms of acute bleeding. Likely that this was dilutional 
+given she received 1L NS while in the ED and her platelets also 
+downtrended. Repeat CBC on day of discharge showed stable Hgb of 
+8.9.
+
+CHRONIC ISSUES: 
+===============
+#Anxiety: continued on home citalopram 
+
+TRANSITIONAL ISSUES: 
+====================
+[] Should complete total 5 day course of 
+cefpodoxime/azithromycin on ___
+[] Recommend repeat CBC and LFTs at outpatient visit
+[] Consider repeat CXR in ___ weeks from discharge to ensure 
+resolution of her RML opacity 
+[] RUQ US with findings of steatosis, though unable to rule out 
+steatohepatitis, hepatic fibrosis or cirrhosis. Would follow up 
+with a fibroscan to further evaluate. 
+[]If not already done, consider anemia work up as an outpatient 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 80 mg PO QPM 
+2. Citalopram 40 mg PO DAILY 
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+4. Aspirin 81 mg PO DAILY 
+5. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO DAILY Duration: 3 Doses 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0 
+2.  Cefpodoxime Proxetil 400 mg PO Q12H Duration: 4 Days 
+RX *cefpodoxime 200 mg 2 tablet(s) by mouth twice a day Disp 
+#*14 Tablet Refills:*0 
+3.  Aspirin 81 mg PO DAILY  
+4.  Atorvastatin 80 mg PO QPM  
+5.  Citalopram 40 mg PO DAILY  
+6.  Metoprolol Succinate XL 25 mg PO DAILY  
+7.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: 
+==================
+Viral gastroenteritis 
+Type II NSTEMI 
+
+SECONDARY DIAGNOSIS: 
+====================
+Transaminitis 
+Normocytic anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure to care for you at the ___ 
+___.  
+
+Why did you come to the hospital?  
+-You had an episode of feeling sweaty, nauseous with vomiting, 
+and had weakness 
+
+What did you receive in the hospital?  
+-You underwent testing including a CT scan of the head which 
+showed no signs of stroke 
+-We did a chest x-ray which showed a possible pneumonia in your 
+right lung. It is more likely that this finding was because of 
+inflammation due to swallowing some stomach fluids when you were 
+lying down but as you will not be able to followed closely in 
+___, we treated you with antibiotics for possible pneumonia  
+-You improved and were ready to leave the hospital. 
+
+What should you do once you leave the hospital?  
+-Please call your primary care physician's office to follow up 
+within the next ___ weeks 
+-Please take your new antibiotics for the next 5 days as below 
+-If you begin to once again feel sweaty with severe nausea and 
+vomiting and are unable to keep food or liquids down or 
+accompanied by chest pain or trouble breathing - please call 
+your doctor and go to the nearest hospital. 
+
+We wish you the best!  
+Your ___ Care Team  
+ 
+Followup Instructions:
+___

@@ -1,0 +1,294 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+Transient left facial paresthesiae and left hand weakness
+
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is an ___ originally right-handed man with
+history notable for CAD, CHF, HLD, and asthma transferred from
+___ after presenting with transient left facial
+paresthesiae and left hand weakness.
+
+Mr. ___ reports onset of his symptoms shortly after lunch
+yesterday, around 14:00. He noticed a "tingling" sensation at 
+the
+left corner of his mouth, which was associated with some
+'slurring' of his speech, though he remained able to produce and
+understand speech. He also noticed decreased strength in the
+fingers of his left hand. The symptoms lasted for approximately
+1.5 hours prior to resolution. He was evaluated by tele-stroke 
+at
+___, where tPA administration was deferred; CTA
+demonstrated bilateral proximal ICA stenosis, however, prompting
+transfer for further evaluation.
+
+Mr. ___ denies a history of similar symptoms. He denies
+associated headaches or adventitious movements with this 
+episode,
+but does note chronic neck pain s/p cervical spinal fusion which
+has resulted in chronic right hand weakness and radicular pain 
+in
+his left arm.
+
+ 
+Past Medical History:
+CAD
+CHF
+HLD
+Asthma 
+
+ 
+Social History:
+Retired ___ ___ officer working in ___ unit. Denies
+tobacco or recreational drug use, reports drinking 4 alcoholic
+beverages per week.
+
+- Modified Rankin Scale:
+[] 0: No symptoms
+[] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+[] 3: Moderate disability: requires some help but able to walk
+unassisted
+[x] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+[] 6: Dead
+
+ 
+Family History:
+Non-contributory.
+
+ 
+Physical Exam:
+=======================
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals: T: 98.2  HR: 93  BP: 102/71  RR: 18  SpO2: 95% 2L NC
+General: NAD
+HEENT: NCAT, no oropharyngeal lesions, neck supple
+___: warm, well-perfused
+Pulmonary: no tachypnea or increased WOB
+Abdomen: soft, NT
+Extremities: warm, symmetric
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Attentive, able to
+name ___ backward without difficulty. Speech is fluent with full
+sentences, intact repetition, and intact verbal comprehension.
+Naming intact aside from "hammock" on stroke card. No 
+dysarthria.
+Able to follow both midline and appendicular commands.
+
+- Cranial Nerves: PERRL (3 to 2 mm ___. VF full to number
+counting. EOMI, no nystagmus. V1-V3 without deficits to light
+touch or PP bilaterally. No facial movement asymmetry. Hearing
+largely intact to conversation.  Palate elevation symmetric.
+Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor:  No pronator drift.
+  [Delt][Bic][Tri][ECR][FEx][IP][Quad][Ham][TA]
+L   5     5    5    5    4+  5    5     5   5  
+R   5     5    4+   5    1   5    5     5   5  
+ 
+- Reflexes: 
+   [Bic] [Tri] [___] [Quad] [Gastroc]
+ L  3+    3+     3+      0        1+
+ R  3+    3+     3+      1+       1+ 
+ Plantar response extensor bilaterally. 
+
+- Sensory: Slight hyperesthesia to PP in palmar fingertips on
+left, otherwise symmetric to LT and PP. No extinction to DSS.
+
+- Coordination: No dysmetria with finger-to-nose testing
+bilaterally.
+
+- Gait: Deferred.
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+General: NAD
+HEENT: NCAT, no oropharyngeal lesions, neck supple
+___: warm, well-perfused
+Pulmonary: no tachypnea or increased WOB
+Abdomen: soft, NT
+Extremities: warm, symmetric
+
+Neurologic Examination:
+- Mental status: Awake, alert, cooperative. Speech is fluent 
+with full
+sentences and intact verbal comprehension. No dysarthria. Able 
+to follow both midline and appendicular commands.
+
+- Cranial Nerves: PERRL (3 to 2 mm ___. EOMI, no nystagmus. 
+V1-V3 without deficits to light touch bilaterally. No facial 
+movement asymmetry. Hearing
+largely intact to conversation.  Palate elevation symmetric. 
+Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor:  No pronator drift.
+  [Delt][Bic][Tri][ECR][FEx][IP][Ham][TA]
+L   5     5    4+   5    4+  5    5   5  
+R   4+    5-   4    4    2   5    5   5  
+ 
+- Reflexes: Deferred.
+
+- Sensory: Symmetric to LT and PP. No extinction to DSS.
+
+- Coordination: No dysmetria with finger-to-nose testing 
+bilaterally.
+
+- Gait: Deferred.
+ 
+Pertinent Results:
+___ 06:15AM BLOOD WBC-11.3* RBC-4.08* Hgb-13.5* Hct-40.0 
+MCV-98 MCH-33.1* MCHC-33.8 RDW-13.2 RDWSD-47.9* Plt ___
+___ 06:15AM BLOOD ___ PTT-27.7 ___
+___ 06:15AM BLOOD Glucose-124* UreaN-28* Creat-0.9 Na-142 
+K-4.4 Cl-100 HCO3-27 AnGap-15
+___ 06:15AM BLOOD Calcium-8.9 Phos-4.2 Mg-2.2 Cholest-129
+___ 06:50AM BLOOD %HbA1c-PND
+___ 06:15AM BLOOD Triglyc-102 HDL-58 CHOL/HD-2.2 LDLcalc-51
+
+___ 6:15 ___ MR HEAD W/O CONTRAST 
+Tiny focus of diffusion abnormality in the right posterior 
+frontal lobe 
+indicates an acute infarct.  No evidence of micro hemorrhages or 
+acute blood products. 
+
+ 
+Brief Hospital Course:
+___ originally right-handed man with history notable for 
+CAD, CHF, HLD, and asthma transferred from ___ after 
+presenting with transient left facial paresthesiae and left hand 
+weakness.
+
+Patient has baseline b/l arm more than leg weakness right more 
+than left from cervical spondylosis. 
+
+His CTA head and neck showed left greater than right ICA 
+stenosis/plaque. While vascular surgery suggested dual 
+antiplatelet therapy, we felt that his more severe carotid 
+disease was on the asymptomatic side and felt that aspirin and 
+atorvastatin would be more appropriate for secondary prevention. 
+Carotid ultrasound showed <40% carotid stenosis bilaterally on 
+preliminary read. 
+
+He was started on aspirin 81mg daily. His Atorvastatin was 
+originally increased to 80mg daily but then LDL returned at 51 - 
+this was decreased back down to 40mg QHS. HBA1C pending at the 
+time of discharge. 
+
+MRI showed a punctate infarct in the right posterior frontal 
+lobe. He can receive an outpatient echocardiogram since he 
+wished to leave the hospital. This has been ordered in our 
+system. 
+
+TRANSITIONAL ISSUES
+- Continue Atorvastatinto 40mg daily
+- Started aspirin 81mg daily
+- Outpatient Echocardiogram - ordered
+- Outpatient follow-up with Vascular surgery
+ 
+Medications on Admission:
+1. Atorvastatin 40 mg PO QPM 
+2. Celebrex ___ mg oral DAILY 
+3. Furosemide 20 mg PO 3X/WEEK (___) 
+4. Pregabalin 75 mg PO DAILY 
+5. Sertraline 25 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin EC 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Atorvastatin 40 mg PO QPM  
+3.  Celecoxib 200 mg oral DAILY  
+4.  Furosemide 20 mg PO 3X/WEEK (___)  
+5.  Pregabalin 75 mg PO DAILY  
+6.  Sertraline 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Ischemic Stroke
+ 
+Discharge Condition:
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were hospitalized due to symptoms of left face and hand 
+weakness/numbness resulting from an ACUTE ISCHEMIC STROKE, a 
+condition where a blood vessel providing oxygen and nutrients to 
+the brain is blocked by a clot. You had a very small stroke on 
+MRI. The brain is the part of your body that controls and 
+directs all the other parts of your body, so damage to the brain 
+from being deprived of its blood supply can result in a variety 
+of symptoms.  
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are: 
+High blood pressure
+Diabetes
+High cholesterol
+ 
+We are changing your medications as follows:  
+- Starting aspirin 81mg daily
+
+Please continue to take your Atorvastatin. 
+
+An echocardiogram has been ordered for you - please call  Tel: 
+___ to schedule this study. It was ordered to occur 
+within 7 days. 
+
+Please take your other medications as prescribed.  
+
+Please follow up with Neurology and your primary care physician 
+as listed below.  
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+Sincerely,  
+Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

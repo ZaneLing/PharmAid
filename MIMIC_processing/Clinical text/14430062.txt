@@ -1,0 +1,209 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Demerol / hydrocodone / Penicillins / Reglan / fish oil
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+___ coronary catheterization 
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+
+___ 04:18PM BLOOD WBC-6.8 RBC-5.39* Hgb-13.4 Hct-42.4 
+MCV-79* MCH-24.9* MCHC-31.6* RDW-14.9 RDWSD-42.0 Plt ___
+___ 06:45AM BLOOD WBC-7.0 RBC-5.72* Hgb-14.3 Hct-45.6* 
+MCV-80* MCH-25.0* MCHC-31.4* RDW-15.0 RDWSD-43.0 Plt ___
+___ 04:18PM BLOOD Neuts-60.8 ___ Monos-6.9 Eos-2.4 
+Baso-0.6 Im ___ AbsNeut-4.13 AbsLymp-1.96 AbsMono-0.47 
+AbsEos-0.16 AbsBaso-0.04
+___ 04:18PM BLOOD Plt ___
+___ 04:18PM BLOOD Glucose-92 UreaN-15 Creat-0.7 Na-142 
+K-4.0 Cl-104 HCO3-24 AnGap-14
+___ 06:45AM BLOOD Glucose-98 UreaN-14 Creat-0.7 Na-141 
+K-4.5 Cl-105 HCO3-23 AnGap-13
+___ 04:18PM BLOOD Calcium-9.6 Phos-4.2 Mg-2.2
+___ 06:45AM BLOOD Calcium-9.9 Phos-4.1 Mg-2.0 Cholest-267*
+___ 06:45AM BLOOD %HbA1c-6.1* eAG-128*
+___ 06:45AM BLOOD Triglyc-70 HDL-58 CHOL/HD-4.6 
+LDLcalc-195*
+
+DISCHARGE LABS
+=============
+
+___ 05:50AM BLOOD WBC-6.6 RBC-5.36* Hgb-13.4 Hct-42.4 
+MCV-79* MCH-25.0* MCHC-31.6* RDW-14.8 RDWSD-42.3 Plt ___
+___ 06:45AM BLOOD Neuts-55.4 ___ Monos-6.0 Eos-3.2 
+Baso-0.9 Im ___ AbsNeut-3.86 AbsLymp-2.37 AbsMono-0.42 
+AbsEos-0.22 AbsBaso-0.06
+___ 05:50AM BLOOD Plt ___
+___ 05:50AM BLOOD Glucose-94 UreaN-17 Creat-0.8 Na-142 
+K-4.2 Cl-103 HCO3-24 AnGap-15
+___ 05:50AM BLOOD Calcium-9.3 Phos-4.7* Mg-2.0
+___ 08:44PM BLOOD CK-MB-1 cTropnT-<0.01
+___ 04:18PM BLOOD cTropnT-<0.01
+___ 04:18PM BLOOD CK(CPK)-69
+
+IMAGING
+==========
+STRESS
+
+IMPRESSION: 
+  
+1. Reversible, medium sized, moderate severity perfusion defect 
+involving the 
+RCA territory. 
+  
+2. Reversible, small, mild perfusion defect involving the LAD 
+territory. 
+
+CATH
+No angiographically apparent coronary artery disease.
+ Tortuous coronary arteries
+
+ 
+Brief Hospital Course:
+=======
+SUMMARY
+=======
+___ woman with PMH HTN, asthma, and sickle cell trait who 
+presents with chest tightness and pleuritic chest pain ___ 
+___ who was admitted after a positive pharmacologic stress MIBI 
+with concern for CAD. She had a cardiac catheterization ___ 
+and was not found to have any intervenable lesions.
+
+===================
+TRANSITIONAL ISSUES 
+===================
+New Medications: carvedilol 3.25mg BID, amlodipine 2.5mg daily
+Discontinued Medications: none
+
+[] Follow up with PCP regarding BP control.  Newly on carvedilol 
+3.25mg BID, resumed amlodipine 2.5mg daily after not regularly 
+taking.
+[] Follow up her A1C which is in the pre-diabetes 6.1%. 
+[] Follow up lipids: LDL is 195. 
+
+============
+ACUTE ISSUES
+============
+# Unstable Angina s/p coronary catheterization without CAD 
+Patient presenting for 2 days of concerning chest pain who was 
+found to have TWI V3-V6 in with troponins within normal limits.  
+Patient does not have a known history of coronary disease 
+although her brother had an MI at age ___.  PE not likely as 
+D-dimer not elevated, despite family history of a blood clot. 
+She had a Stress-MIBI which showed two reversible defects - 
+moderate in RCA distribution and small in LAD distribution. She 
+underwent cardiac catheterization ___ with no intervenable 
+lesions. 
+
+# HTN
+Patient is written for amlodipine 2.5mg daily at home in the 
+past which she did not take. Her blood pressure has been 
+elevated in the 160s prior to arrival and had improved on 
+carvedilol 3.25mg BID and amlodipine 2.5mg daily and was 
+discharged with these meds. Blood pressure medications should be 
+titrated and adjusted as an outpatient.
+
+# ASCVD Risk Factors
+# HLD
+# Pre-DM
+This admission Total Chol 267 Trig 70 HDL 58 LDL-calc 195. HA1C 
+of 6.1 shows pre-DM, had been in pre-DM range as an outpatient 
+in the past.  Statin therapy should be considered as an 
+outpatient given her LDL > 190 (195).  Exercise and diet 
+modifications should be encouraged. LFTs should be evaluated as 
+an outpatient for concern of non-alcoholic hepatic liver injury.
+
+==============
+CHRONIC ISSUES
+==============
+# Asthma
+She initially thought her chest tightness ___ was due to asthma 
+exacerbation however not controlled.  In ED was given prednisone 
+60mg PO x1.  She had not required any nebulizers nor steroid 
+treatment since then. This should be managed as an outpatient.
+
+# CODE STATUS:  full presumed
+# CONTACT : ___ (son) ___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Clobetasol Propionate 0.05% Cream 1 Appl TP BID 
+2. amLODIPine 2.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  CARVedilol 3.125 mg PO BID  
+2.  amLODIPine 2.5 mg PO DAILY  
+3.  Clobetasol Propionate 0.05% Cream 1 Appl TP BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY
+=======
+Chest pain concerning for unstable angina
+Hypertension
+
+SECONDARY
+=========
+Asthma
+Pre-Diabetes
+Hyperlipidemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure taking care of you at the ___ 
+___!
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because of shortness of breath and chest 
+pain
+ 
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You had a stress test that showed a possible blockage in the 
+arteries of your heart, however when the arteries were 
+investigated with a catheterization, it showed that you did not 
+have any blockages.
+
+- You were noted to have high blood pressure, so you were 
+started on medication to lower the blood pressure.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Please take your medications as prescribed and go to your 
+doctor appointments.
+ 
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Sincerely,
+Your ___ Healthcare Team  
+ 
+Followup Instructions:
+___

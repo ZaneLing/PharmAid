@@ -1,0 +1,307 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+LUNG ADENOCARCINOMA
+ 
+Major Surgical or Invasive Procedure:
+CHEST TUBE PLACEMENT
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS:
+Mr. ___ is a ___ y/o male with a history of HTN and prostate
+cancer s/p resection who presents from his PCP office after ___ 
+CXR
+showed a pleural effusion. 
+
+The patient reports five days of cough, dyspnea, trouble
+swallowing and decreased appetite. He notes that cough is
+non-productive and has become progressively worse. Additionally,
+he has had dyspnea, at times at rest though normally with
+exertion. Endorses rhinorrhea that stopped today without other
+URI symptoms or voice change. No chest pain, hemoptysis, fever 
+or
+chills. Additionally, he notes trouble swallowing the last ___
+days that has been associated with decreased appetite. He
+specifically has had more trouble swallowing solid foods, often
+requiring liquids for food to move. No odynophagia, voice
+changes, hematochezia, melena, or history of similar trouble
+swallowing. He feels he has last ~12 lbs since ___ (112->100
+lbs). Additionally, he describes ___ years of intermittent leg
+swelling that progresses throughout the day, resolves overnight.
+Feels his left leg may be more swollen recently. Within the last
+___ years, he reports a normal EKG, TTE, and holter monitor as
+part of a work up for syncope. Denies orthopnea, PND, abdominal
+pain, nausea, vomiting, diarrhea or constipation. Only personal
+history of cancer was prostate cancer s/p resection. No known TB
+contacts or recent travel abroad - last left the ___ in the
+___ to visit ___. No history of DVT/PE nor recent
+immobilization. Also denies any history of smoking, COPD or
+asthma.  
+
+ 
+Past Medical History:
+Hypertension
+Prostate cancer (___) s/p resection
+ 
+Social History:
+___
+Family History:
+Father had prostate cancer. Mother had lung cancer (non-smoker). 
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: Temp 97.9F BP 118/68 HR 89 RR 18 97% on RA 
+GENERAL: Elderly, cachetic male in NAD. Lying comfortably in 
+bed.
+Alert and interactive.
+HEENT: NCAT. PERRL. Sclera anicteric and without injection.
+Oropharynx clear. 
+NECK: Supple, no lymphadenopathy. 
+CARDIAC: RRR with normal S1 and S2. No m/r/g. 
+RESP: Normal respiratory effort. Decreased BS over lower ___ of
+left side, right CTAB without wheezes, rales or rhonchi. 
+ABDOMEN: Normoactive BS. Soft, NT/ND. No guarding or masses
+appreciated. 
+CHEST: Left-sided chest tube with bloody, serosanguineous
+drainage. Mild leaking around the site.  
+MSK: Warm, well perfused. Trace ___ edema, no erythema. 
+SKIN: Warm, dry. No rashes. 
+NEUROLOGIC: Alert and interactive. CN2-12 grossly intact. Moves
+all extremities. 
+PSYCH: Appropriate mood and affect.
+
+DISCHARGE PHYSICAL EXAM:
+VITALS: ___ ___ Temp: 98.0 PO BP: 121/72 L Sitting HR: 77 
+RR: 18 O2 sat: 98% O2 delivery: RA 
+GENERAL: nad, well-nourished appearing
+EYES no scleral icterus
+CV: Normal rate and rhythm; no peripheral edema
+RESP: Crackles through L lung, clear to auscultation R side
+ABD: Soft supple nondistended nontender
+SKIN: Venous stasis changes lower legs bilaterally
+NEURO: Cranial nerves II through XII intact
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===================
+___ 03:30PM BLOOD WBC-14.4* RBC-4.63 Hgb-14.5 Hct-44.1 
+MCV-95 MCH-31.3 MCHC-32.9 RDW-11.5 RDWSD-39.8 Plt ___
+___ 03:30PM BLOOD Neuts-78.0* Lymphs-15.0* Monos-6.5 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-11.24* AbsLymp-2.17 
+AbsMono-0.94* AbsEos-0.00* AbsBaso-0.02
+___ 11:26PM BLOOD ___ PTT-29.1 ___
+___ 03:30PM BLOOD Glucose-109* UreaN-28* Creat-1.1 Na-141 
+K-5.7* Cl-101 HCO3-21* AnGap-19*
+___ 03:30PM BLOOD Calcium-9.4 Phos-3.2 Mg-2.2
+
+PERTINENT PATH/MICRO:
+=======================
+
+SPECIMEN(S) SUBMITTED: PLEURAL FLUID
+DIAGNOSIS:
+Pleural fluid, left:
+POSITIVE FOR MALIGNANT CELLS.
+- Metastatic lung adenocarcinoma.
+- Immunohistochemical stains show the following profile in tumor 
+cells:
+Positive: TTF-1, Napsin-A, CK7, MOC31, CK20 (focal)
+Negative: CDX-2, NKX3.1, PSA
+Note: The prepared cell block shows only scant to low tumor 
+cellularity, likely insufficient for any
+ancillary molecular studies if needed.
+SPECIMEN DESCRIPTION:
+Received: 5 ml, cloudy, amber fluid.
+Prepared: 1 monolayer, ___ FFPE cell block
+CLINICAL HISTORY:
+Weight loss, large pleural effusion.
+
+CT CHEST WITH CONTRAST
+IMPRESSION: 
+1. Spiculated left upper lobe nodule suspicious for primary lung 
+neoplasm. 
+2. Persistent small volume left pleural effusion with chest 
+drain in situ. 
+3. Small left pneumothorax. 
+4. Multiple scattered pulmonary nodules measuring up to 3 mm, 
+which should be 
+followed on subsequent restaging study. 
+5. Small lucent vertebral body bone lesions measuring up to 5 
+mm, which are 
+too small to characterize.  MRI thoracic spine with contrast can 
+be performed 
+for further evaluation. 
+
+CXR
+IMPRESSION:  
+In comparison with the study of ___, there is little 
+overall change in the appearance of the left pneumothorax with 
+chest tube in place.  
+Opacification at the left base is consistent with residual 
+pleural effusion and atelectatic changes. The right lung is 
+clear and there is no evidence of vascular congestion. 
+
+LENIS
+IMPRESSION:    
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+
+DISCHARGE LABS:
+===================
+___ 07:20AM BLOOD WBC-13.7* RBC-4.66 Hgb-14.1 Hct-44.3 
+MCV-95 MCH-30.3 MCHC-31.8* RDW-11.6 RDWSD-40.0 Plt ___
+___ 07:20AM BLOOD Plt ___
+___ 07:20AM BLOOD Glucose-95 UreaN-23* Creat-0.9 Na-138 
+K-5.4 Cl-98 HCO3-24 AnGap-16
+___ 07:20AM BLOOD Albumin-3.1* Calcium-8.6 Phos-3.3 Mg-2.___RIEF HOSPITAL COURSE:
+===========================
+Mr. ___ is a ___ y/o male with a history of HTN, prostate
+cancer s/p resection with L sided exudative pleural effusion w/
+chest tube placement with cytology now consistent with lung
+adenocarcinoma. 
+
+He presented with dry cough, shortness of breath, and dysphagia. 
+CXR demonstrated a large left sided pleural effusion. A chest 
+tube was placed with exudative pleural fluid. His SOB, dry cough 
+and dysphagia improved with removal of 2L fluid. Cytology 
+confirmed adenocarcinoma but at the time of discharge there was 
+not enough sample for genetic analysis. 
+
+ACUTE ISSUES:
+=============
+#Lung cancer
+#Pleural effusion
+#Cough, weight loss 
+Describes several days of cough, dyspnea, and weight loss. CXR
+with large left-sided effusion. Pleural studies revealed an
+exudative pleural effusion. N.B. small left sided apical
+pneumothorax on CXR and CT as of ___. The patient had a CT 
+with
+contrast demonstrating a large spiculated nodule with other
+smaller nodules and 5 mm lesions of the spine. Cytology stains
+for prostate cancer were negative and furthermore the patient 
+had
+a PSA of 0 in ___ making metastatic prostate cancer
+unlikely. Preliminary cytology consistent with lung
+adenocarcinoma, insufficient sample for further molecular
+characterization. Will need outpatient f/u in IP and ___ 
+clinic
+
+CHRONIC/STABLE/RESOLVED ISSUES:
+===============
+#Hypertension: 
+-on home amlodipine 10mg
+
+#Ketonuria
+#AGMA (Resolved)
+#Decreased appetite/weight loss 
+Likely due to malnutrition in the setting of recent weight loss
+and malignancy. No signs of DKA. Lactate normal. Nutrition 
+consulted and recommend ordinary diet PO as tolerated, continue 
+Ensure Enlive, and multivitamins with minerals
+
+#Leukocytosis
+Suspect a stress response. Lower concern for pneumonia. Pleural
+fluid gram stain without microorganisms. Final fluid culture no
+growth as of ___, negative AFB smear. Preliminary anaerobic
+culture without growth. Will hold antibiotics and trend for now.
+F/u pleural fluid anaerobic and acid fast culture
+
+#Elevated d-dimer
+D-dimer 1700 in the ED, greater than age-adjusted cut off of 
+760.
+Borderline tachycardia but otherwise HD stable and on RA.
+Differential includes PE/DVT vs elevation iso
+inflammation/possible malignancy. DVT US ordered given
+worsening ___ swelling - ___ was negative. Will need to consider 
+CTA chest
+following drainage of effusion both to evaluate for PE.
+
+#Dysphagia (resolved)
+#Decreased appetite
+Described trouble swallowing solids, not liquids, for ___ days
+before admission. S&S consulted, safe for regular diet. After
+draining fluid reports he no longer was experiencing dysphagia
+thus it was most likely related likely was ___ to mass effect.
+
+TRANSITIONAL ISSUES:
+======================
+-Interventional pulm appointment on ___
+-Pt will need follow up with oncology for lung adenocarcinoma
+-F/u pleural fluid anaerobic and acid fast culture
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Multivitamins W/minerals 1 TAB PO DAILY  
+2.  amLODIPine 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+===================
+LUNG ADENOCARCINOMA
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear MR. ___,
+
+It was a privilege taking care of you at ___ 
+___.  
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+===================================
+- You had a dry cough and felt short of breath. You were found 
+to have fluid collecting in the space between your lung and 
+chest, called a pleural effusion
+
+WHAT HAPPENED WHILE I WAS IN THE HOSPITAL?
+==========================================
+
+-You had a tube placed in the chest to drain this fluid. 
+
+-Cancerous cells were found in the fluid and it appears there is 
+cancer in the lungs 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+============================================  
+- Please continue to take all your medications and follow up 
+with your doctors at your ___ appointments.  
+
+We wish you all the best!
+
+Sincerely,  
+Your ___ Care Team
+ 
+Followup Instructions:
+___

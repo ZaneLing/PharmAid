@@ -1,0 +1,297 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo M with a past medical history 
+significant for bronchiectasis, COPD, and hiatal hernia 
+presenting with dyspnea at rest x 1 day preceded by sore throat 
+x 5 days, cough x 3 days, and runny nose x 3 days. He was ___ his 
+usual state of health until developing a sore throat on ___. On 
+___ night, he developed bad nasal congestion and a cough 
+productive of clear sputum. On ___ he began feeling 
+dyspneic on exertion (after walking 100 ft, usually not 
+walking-limited). He stayed ___ bed on ___ to recover but became 
+increasingly dyspneic, and by late afternoon was gasping for air 
+and coughing up greenish sputum. He called his pulmonologist, 
+who told him to present to the ED for further evaluation.
+
+___ the ED, initial vitals were T 98, HR 62, BP 172/87, RR 26, O2 
+sat. 96% RA.
+
+Initial physical exam was notable for lungs with diffuse 
+rhonchorous sounds and wheezing.
+
+Labs were notable for WBC 11.7, Hgb 12.0, Na 131, Cr 1.1, UA 
+with 100 protein, 2RBC, 2WBC, and few bacteria, lactate 1.4
+
+CXR showed: Large hiatal hernia. Patchy bibasilar opacities 
+similar to previous studies, which "may reflect a combination of 
+bronchiectasis, chronic airway disease, and recurrent 
+aspiration." Trace bilateral pleural effusions.
+
+He was given albuterol nebs, vancomycin, and cefepime, upon 
+which he felt much better. However, O2 sat. dropped to 92% 
+(recent baseline 95-100% RA).
+
+On the floor this morning, Mr. ___ was no longer feeling 
+short of breath at rest. He continues to deny fever, chills, or 
+night sweats.
+
+ 
+Past Medical History:
+- Bronchiectasis on serevent and salmeterol
+- Hiatal hernia on pantoprazole
+- H/o pseudomonas pneumonia ___ yrs ago
+- Recurrent sinusitis s/p sinus surgery ___ yrs ago
+- Coronary artery disease c/b MI ___ yrs ago s/p CABG ___ yrs 
+ago
+- Tympanic membrane perforation  
+- Eustachian tube dysfunction  
+- Otitis externa and media infection  
+- Epistaxis   
+- Hyperlipidemia
+ 
+Social History:
+___
+Family History:
+Father died of aortic stenosis
+Mother died of cancer
+Brothers x2 have cardiac problems
+Sons x3 all healthy
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vitals: T 98.0, BP 114/71, HR 58, RR 23, O2 sat. 91% RA
+General: Alert, oriented, sitting comfortably ___ his chair 
+HEENT: Normocephalic, atraumatic. Sclerae anicteric, MMM, 
+oropharynx clear, EOMI, PERRL  
+Neck: Neck supple, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Diffuse wheezes and rhonchi throughout, no crackles, good 
+air movement 
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound or guarding
+Ext: No edema, erythema, or warmth of either leg bilaterally.  
+Neuro: Non-focal exam. Getting up and sitting back down with 
+ease.
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals: T 97.8, BP 130-140s/50-70s, HR 50-70s, RR 20, O2 sat. 
+92-94% General: Alert, oriented, sitting comfortably ___ his 
+chair 
+HEENT: Normocephalic, atraumatic. Sclerae anicteric, MMM, 
+oropharynx clear, EOMI, PERRL
+Neck: Neck supple, no LAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Lungs: Mild diffuse wheezes and rhonchi throughout, 
+mid-inspiratory bibasilar crackles, good air movement 
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound or guarding
+Ext: No edema, erythema, or warmth of either leg bilaterally.  
+Neuro: Non-focal exam. Getting up and sitting back down with 
+ease.
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 09:25PM   GLUCOSE-102* UREA N-24* CREAT-1.1 SODIUM-131* 
+POTASSIUM-4.3 CHLORIDE-95* TOTAL CO2-23 ANION GAP-17
+___ 01:23AM   LACTATE-1.4
+___ 09:25PM   WBC-11.7*# RBC-4.33* HGB-12.0* HCT-36.9* 
+MCV-85 MCH-27.7 MCHC-32.5 RDW-15.6* RDWSD-49.0*
+___ 09:25PM   PLT COUNT-152
+___ 09:25PM   ___ PTT-30.3 ___
+___ 03:59AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-100 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+
+NOTABLE LABS
+============
+___ 11:45PM BLOOD CK(CPK)-178
+___ 01:20PM BLOOD CK-MB-6 cTropnT-0.02* proBNP-4869*
+___ 11:45PM BLOOD CK-MB-5 cTropnT-0.01
+
+DISCHARGE LABS
+==============
+___ 07:08AM BLOOD WBC-8.3 RBC-4.13* Hgb-10.7* Hct-35.3* 
+MCV-86 MCH-25.9* MCHC-30.3* RDW-15.8* RDWSD-49.2* Plt ___
+___ 07:08AM BLOOD Glucose-94 UreaN-25* Creat-1.2 Na-133 
+K-4.4 Cl-97 HCO3-21* AnGap-19
+___ 07:08AM BLOOD Calcium-8.6 Phos-3.1 Mg-2.1
+
+MICROBIOLOGY
+============
+GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+      2+   ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CHAINS.
+ LEGIONELLA CULTURE (Preliminary):    NO LEGIONELLA ISOLATED. 
+Immunoflourescent test for Pneumocystis jirovecii (carinii) 
+(Final
+      ___:    NEGATIVE for Pneumocystis jirovecii 
+(carinii). 
+FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED.
+LEGIONELLA URINE ANTIGEN: NEGATIVE
+
+IMAGING
+=======
+___ CXR
+Large hiatal hernia.  Patchy bibasilar opacities, similar to the 
+previous 
+studies, which may reflect a combination of bronchiectasis, 
+chronic airways disease, and recurrent aspiration.  Trace 
+bilateral pleural effusions.
+
+___ CT CHEST WITH CONTRAST
+1. Moderate to severe bronchial wall thickening and 
+bronchiectasis with airway plugging throughout both lungs, 
+greater ___ the lower lobes, overall progressed with findings 
+suggestive of recurrent airway infection/ inflammation, 
+potentially related to aspiration. 
+2. Very large hiatal hernia, progressed from prior, with the 
+majority of the stomach being located within the chest.  This 
+likely predisposes the patient to aspiration. 
+3. Other baseline findings, including complex left upper pole 
+renal cyst 
+measuring up to 8.1 cm, as described above. 
+ 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with a past medical history 
+significant for bronchiectasis, COPD, and hiatal hernia 
+presenting with dyspnea at rest x 1 day preceded by sore throat, 
+cough, and rhinorrhea. He had a CXR that demonstrated patchy 
+bibasilar opacities. Initially with concern for possible 
+pneumonia, he was given vanc/cefepime while ___ the ED. 
+
+#Dyspnea: Clinically, he appeared well, so antibiotics were held 
+and he was monitored on the floor. Troponin was 0.02 on 
+admission and trended down to 0.01. EKG showed no ischemic 
+changes. He had an elevated BNP but with no pulmonary edema on 
+CT chest and no clinical signs of volume overload. He was given 
+chest ___ and standing ipratropium/albuterol nebulizers. CT chest 
+was performed that showed bronchiectasis ___ both lungs that 
+appeared progressed from prior images and worsening hiatal 
+hernia. Flu swab was negative. Sputum culture found gram 
+positive cocci and ___ consultation with infectious diseases the 
+patient was given a 5 day course of azithromycin for presumed 
+bacterial infection. Ambulatory saturation on discharge showed 
+92%. Blood cultures remained negative for any growth. He will 
+need close follow up with his pulmonologist. 
+
+#Hiatal hernia: Progression seen on CT. Continued pantoprazole
+
+#CAD s/p CABG and stent placement and hyperlipidemia: Continue 
+home aspirin, statin, and metoprolol. 
+
+#Hypertension: Continued on home losartan.
+
+======================
+TRANSITIONAL ISSUES
+- NEW MEDICATION: AZITHROMYCIN 4 days 250mg to complete a 5 day 
+course
+- Follow up with outpatient pulmonologist regarding worsening 
+bronchiectasis
+- Follow up with infectious diseases regarding recurrent, 
+resistant sinopulmonary infections
+- Contact: ___ (wife) ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q6H:PRN SOB 
+2. Atorvastatin 40 mg PO QPM 
+3. Ezetimibe 10 mg PO DAILY 
+4. Levothyroxine Sodium 50 mcg PO DAILY 
+5. Losartan Potassium 25 mg PO DAILY 
+6. Pantoprazole 20 mg PO Q12H 
+7. Metoprolol Tartrate 100 mg PO BID 
+8. Salmeterol Xinafoate Diskus (50 mcg) 1 INH IH Q12H 
+9. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO Q24H Duration: 4 Doses 
+RX *azithromycin 250 mg 1 tablet(s) by mouth Daily Disp #*4 
+Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Atorvastatin 40 mg PO QPM  
+4.  Ezetimibe 10 mg PO DAILY  
+5.  Levothyroxine Sodium 50 mcg PO DAILY  
+6.  Losartan Potassium 25 mg PO DAILY  
+7.  Metoprolol Tartrate 100 mg PO BID  
+8.  Pantoprazole 20 mg PO Q12H  
+9.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
+Q6H:PRN SOB  
+10.  Salmeterol Xinafoate Diskus (50 mcg) 1 INH IH Q12H  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary: 
+Upper Respiratory infection
+
+Secondary: 
+Coronary artery disease
+Bronchiectasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the ___ 
+for evaluation of your shortness of breath. You were given 
+nebulizers and were given one dose of antibiotics ___ the 
+emergency department. When you were admitted to the floor we 
+monitored you without giving antibiotics. We took samples of 
+your sputum to grow for culture. You had a CT scan that did not 
+show signs of a new infection causing your symptoms. Your 
+shortness of breath improved, and you were discharged on a 
+five-day course of Azithromycin. This was started while you were 
+___ the hospital.
+
+You should follow up with your pulmonary doctor.
+
+If you develop worsening shortness of breath, fevers, chills, or 
+worsening cough, you should call your doctor or return to the 
+emergency room. 
+
+It was a pleasure taking care of you. We wish you the best ___ 
+your health.
+
+Sincerely.
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,343 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+latex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Severe epigastric and chest pain 
+ 
+Major Surgical or Invasive Procedure:
+None. 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with hx of arrhythmia, known heart 
+murmur, and cholelithiasis s/p cholecystectomy on ___ who 
+presents as a transfer for epigastric and substernal chest pain 
+from ___.  
+
+The patient recently underwent a laparoscopic cholecystectomy at 
+___ for cholelithiasis diagnosed incidentally during evaluation 
+for nephrolithiasis. Was having intermittent nausea, so 
+underwent elective cholecystectomy on ___. Tolerated the 
+procedure well and recovered without difficulty. Since ___ 
+___, has had intermittent nausea, vomiting and nonbloody 
+diarrhea. Denies any fevers/chills. Initially without abdominal 
+pain. On ___ at 10 am developed acute onset ___ epigastric 
+pain with radiation to her mid chest. Associated with shortness 
+of breath. Has never had this kind of pain before. Pain started 
+after she was vomiting. Denies BRBPR or melena. No hematemesis. 
+Denies fevers. She presented to ___ for further 
+evaluation.  
+
+While at ___, labs were notable for Sodium 137, Cre 0.8, 
+Tbili 1.5, Dbili 0.5, AST/ALT 270/164, AP 103, Trop I 0.11, 
+Lipase 345, WBC 8.3, H/H 13.2/39.3. RUQ U/S with borderline 
+intrahepatic and extrahepatic bile ducts without definite 
+filling defect. She was given ertapenem 1g IV x 1, morphine IV x 
+1, and transferred to ___ for evaluation by possible ERCP to 
+look for retained stone.  
+
+In the ED, initial vitals were: 98.1 57 135/72 14 100% RA  
+ - Exam notable for: epigastric tenderness to palpation  
+ - Labs notable for: lactate 0.8, Cre 0.8, K 3.3, trop <0.01, 
+ALT/AST 221/227, AP 113, Tbili 0.7, WBC 4.5  
+ - Patient was given: 1L NS x 1, started on LR at 100cc/hr, and 
+given morphine 4mg IV x 1, and ondansetron 4mg IV x 1  
+ - Vitals prior to transfer: 3 97.8 58 124/71 15 98% RA  
+ 
+Upon arrival to the floor, patient reports that overall her pain 
+has improved. Continues to report ___ epigastric, SSCP. 
+Associated with nausea. No BRBPR or melena. No shortness of 
+breath.  
+ REVIEW OF SYSTEMS:  
+ (+) Per HPI  
+ (-) 10 point ROS reviewed and negative unless stated above in 
+HPI  
+ 
+Past Medical History:
+ Hypertension  
+ Hyperlipidemia  
+ Hypothyroidism  
+ Palpitations 
+ POTS followed by Dr. ___ at ___ q6 months
+ Cardiac murmur  
+ Nephrolithiasis  
+ s/p cholecystectomy for gallstones  (performed at ___ 
+ 
+Social History:
+___
+Family History:
+ Brother with lung cancer  
+ Brother with melanoma of the eye requiring resection  
+ Son died from ?colon/liver cancer in his ___ 
+ 
+Physical Exam:
+===========================
+ADMISSION PHYSICAL 
+===========================
+
+Vital Signs: 97.7PO 151 / 88 58 16 98 RA  
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclerae anicteric, dry mucous membranes, PERRL  
+ Neck: Supple. JVP not elevated. no LAD  
+ CV: Bradycardic, II/VI systolic murmur heard across precordium  
+
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, epigastric tenderness and chest wall tenderness 
+to palpation; no rebound or guarding; well-healed abdominal 
+incisions.  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CNII-XII grossly intact; moving all four extremities; 
+sensation intact  
+
+===========================
+DISCHARGE PHYSICAL 
+===========================
+
+Vitals: 97.5 ___ 18 100 RA 
+General: Alert, oriented, anxious appearing 
+HEENT: Sclerae anicteric  
+CV: RRR, II/VI systolic murmur heard across precordium  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, epigastric discomfort and chest wall tenderness 
+to palpation; no rebound or guarding; well-healed abdominal 
+incisions.   
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ 
+Pertinent Results:
+=====================================
+ADMISSION LABS 
+=====================================
+
+___ 11:14PM BLOOD WBC-4.5 RBC-3.75* Hgb-11.4 Hct-33.3* 
+MCV-89 MCH-30.4 MCHC-34.2 RDW-12.8 RDWSD-41.8 Plt ___
+___ 11:14PM BLOOD Neuts-47.7 ___ Monos-17.6* 
+Eos-2.7 Baso-0.2 Im ___ AbsNeut-2.15 AbsLymp-1.42 
+AbsMono-0.79 AbsEos-0.12 AbsBaso-0.01
+___ 11:14PM BLOOD Plt ___
+___ 11:14PM BLOOD Glucose-94 UreaN-12 Creat-0.8 Na-141 
+K-3.3 Cl-106 HCO3-22 AnGap-16
+___ 11:14PM BLOOD Glucose-94 UreaN-12 Creat-0.8 Na-141 
+K-3.3 Cl-106 HCO3-22 AnGap-16
+___ 11:14PM BLOOD ALT-221* AST-227* AlkPhos-113* 
+TotBili-0.7
+___ 11:14PM BLOOD Lipase-77*
+___ 11:14PM BLOOD cTropnT-<0.01
+___ 06:20AM BLOOD CK-MB-<1 cTropnT-<0.01
+___ 11:14PM BLOOD Albumin-3.7
+___ 06:20AM BLOOD HBsAg-Negative HBsAb-Negative 
+HBcAb-Negative HAV Ab-Negative IgM HAV-Negative
+___ 06:20AM BLOOD HCV Ab-Negative
+___ 11:20PM BLOOD Lactate-0.8
+
+___ 01:43AM URINE Color-Yellow Appear-Clear Sp ___
+___ 01:43AM URINE Blood-NEG Nitrite-NEG Protein-TR 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-2* pH-6.5 Leuks-TR
+___ 01:43AM URINE RBC-1 WBC-1 Bacteri-FEW Yeast-NONE Epi-1
+___ 01:43AM URINE CastHy-1*
+___ 01:43AM URINE Mucous-RARE
+
+=====================================
+DISCHARGE LABS 
+=====================================
+
+___ 07:25AM BLOOD WBC-5.3 RBC-4.08 Hgb-12.4 Hct-36.6 MCV-90 
+MCH-30.4 MCHC-33.9 RDW-12.8 RDWSD-41.5 Plt ___
+___ 06:15AM BLOOD Neuts-36.4 ___ Monos-13.0 Eos-4.6 
+Baso-0.7 Im ___ AbsNeut-1.57* AbsLymp-1.95 AbsMono-0.56 
+AbsEos-0.20 AbsBaso-0.03
+___ 07:25AM BLOOD Glucose-78 UreaN-12 Creat-0.7 Na-141 
+K-3.6 Cl-105 HCO3-26 AnGap-14
+___ 07:25AM BLOOD ALT-94* AST-22 AlkPhos-106* TotBili-0.5
+___ 07:25AM BLOOD Calcium-9.3 Phos-3.9 Mg-2.4
+
+=====================================
+PROCEDURES/STUDIES/IMAGING 
+=====================================
+
+___ CXR
+Lungs fully expanded and clear.  Normal cardiomediastinal and 
+hilar
+silhouettes.  No pneumothorax or pneumomediastinum.  Blunting of 
+the posterior
+pleural sulci could be due to very small pleural effusions, 
+probably unrelated
+to acute circumstances.
+
+___ ___ 
+-Status post cholecystectomy.  No biliary ductal dilatation.  No 
+filling
+defects are seen within the common duct.
+-Mild left renal collecting system dilatation of unknown 
+chronicity or
+etiology.  Correlate with prior imaging and history.  Consider 
+short interval
+follow up ultrasound in a few days to evaluate for transient 
+dilatation.
+
+=====================================
+MICRO 
+=====================================
+
+___ 1:43 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+__________________________________________________________
+___ 11:42 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 11:14 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+ 
+Brief Hospital Course:
+***TRANSITIONAL ISSUES***
+#To follow up with surgeon at ___ regarding possible need for 
+ERCP given concern for biliary stone/obstruction at 
+presentation (although ___ unrevealing in this regard)
+#To follow up with PCP regarding incidental ___ finding of 
+"Mild left renal collecting system dilatation of known 
+chronicity or etiology. Correlate with prior imaging and 
+history. Consider short interval follow up ultrasound in a few 
+days to evaluate for transient dilatation." 
+#Repeat labs on ___ for CBC and LFTs
+#Started on triamcinolone cream for contact dermatitis due to 
+EKG pads 
+#Discharged with Miralax PRN constipation given no bowel 
+movement during hospitalization  
+#Hep B and Hep A non immune
+
+BRIEF SUMMARY: 
+
+___ is a ___ year old women with a history of elective 
+cholecystectomy on ___ who was recovering well when on 
+___ described a sudden onset of diarrhea and vomiting. This 
+occurred in the setting of sick contacts with a similar GI 
+illness. On ___ she then developed acute onset ___ chest 
+and epigastric pain shortly after vomiting which was pleuritic 
+in nature, lasted for hours, and was associated with some 
+dyspnea. 
+
+She presented to ___ where labs indicated pancreatitis. 
+She was transferred to ___ for ERCP evaluation. 
+
+Upon arrival to ___, her abdominal pain improved and her WBC 
+count and LFTs spontaneously decreased. She tolerated a clear 
+liquid diet. We presumed a spontaneously cleared CBD stone as 
+the etiology of the pancreatitis. She may have also had a 
+gastroenteritis earlier in her course given her sick contacts, 
+it is unclear if this somehow pre-disposed her to stone 
+formation. ___ did not show evidence any evidence of residual 
+CBD stones. Additionally, given her chest pain, CXR, EKG, and 
+troponin x 2 were negative for an acute cardiopulmonary process. 
+
+
+Patient was instructed to follow up with her PCP and gallbladder 
+surgeon for follow up as above. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 100 mg PO BID 
+2. Levothyroxine Sodium 25 mcg PO DAILY 
+3. NIFEdipine CR 90 mg PO DAILY 
+4. Atorvastatin 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Polyethylene Glycol 17 g PO DAILY:PRN constipation  
+RX *polyethylene glycol 3350 17 gram/dose 17g powder(s) by mouth 
+daily Refills:*0 
+2.  Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID 
+RX *triamcinolone acetonide 0.1 % Aplpy to afffected area twice 
+a day Refills:*0 
+3.  Atorvastatin 20 mg PO DAILY  
+4.  Levothyroxine Sodium 25 mcg PO DAILY  
+5.  Metoprolol Succinate XL 100 mg PO BID  
+6.  NIFEdipine CR 90 mg PO DAILY  
+7.Outpatient Lab Work
+K85.9 Acute pancreatitis, unspecified
+
+To be collected on ___
+CBC w/ diff, AST, ALT, AlkPhos, TBili
+
+Please fax results to: Attn: ___  ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: 
+-pancreatitis presumed secondary to a spontaneously passed CBD 
+stone
+
+Secondary diagnosis: 
+-Hypertension 
+-History of POTS 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mrs. ___, 
+
+==================================================
+Why did you come to the hospital? 
+==================================================
+-You were having severe chest and abdominal pain
+
+==================================================
+What happened at the hospital? 
+==================================================
+-Your abdominal pain is most likely from inflammation of your 
+pancreas ("pancreatitis"). This was probably caused by a stone 
+in your bile duct that spontaneously passed.  
+-We discussed that even though your gallbladder was removed, 
+there is still a small chance to form stones in the main bile 
+duct, the tube that allows bile to flow from your liver to the 
+intestinal tract.  
+-An imaging study called ___ did not show any additional 
+stones in the bile duct, but did show a minor abnormality in 
+your urinary tract which can be followed up on a non-urgent 
+basis 
+
+==================================================
+What needs to happen when you leave the hospital? 
+==================================================
+-On ___ please call your PCP and surgeon.
+-Follow up with your surgeon at ___ to determine the need for 
+any additional studies or procedures to reduce the chances of 
+this happening in the future.  You may be referred for a 
+procedure known as ERCP. 
+-Follow up with your primary care doctor for labs and repeat 
+imaging of the urinary tract.
+
+It was a pleasure taking care of you! 
+
+Sincerely, 
+
+Your ___ medical team 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,447 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Falls
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo M with history of Alzheimer's dementia, depression, and
+HTN, who presents after multiple recent falls, as well as 
+concern
+for recent rapid progression of his neurological decline. 
+
+History was obtained from his family, as patient was not able to
+participate in conversation, as he is almost completely
+non-verbal. Per his wife and children, the patient has had a
+gradual cognitive decline over the past several years, but they
+noticed an acute change about 1 week prior. At his most recent
+baseline, they note that he had some progressive mobility issues
+and trouble getting around house, but that he was still able to
+walk around and would occasionally say a few words. He has been
+home bound since ___. In ___, he also fell and
+presented to ___, where he was thought to be dehydrated
+and given IVF, subsequently discharged to home. He subsequently
+was at his baseline, although of note, he was started on a trial
+of Sinemet given some Parkinsonian features on exam (shuffling
+gate, morning stiffness, hoarseness),although he only took this
+for ___ days and then stopped taking it. 1 week ago, his family
+reports that he began speaking much less and was getting less
+mobile. He then fell on ___, when he tried to sit and 
+"missed"
+the couch. He fell again on ___, when he fell backwards after
+standing from the toilet, reporting dizziness throughout. He
+presented to the ED after this fall, and was given IV
+rehydration, with sxs attributed to gait instability and
+dehydration; he was discharged with recommendation for home ___,
+with 24-hour care. He then he fell again on ___. Fall on
+___ was witnessed; he fell when standing from a seated
+position, landed on his buttocks and struck his head on a
+cabinet. No loss of consciousness. Family again brought patient
+to ED after this fall.
+
+In the ED, patient was noted to have a laceration to the
+posterior aspect of his scalp after the fall. He had CT spine,
+which showed no fracture, and CT head, which showed no evidence
+of acute intracranial process, but was limited by motion. CXR
+showed no definite pneumonia, low lung volumes,bilateral
+calcified pleural plaques suggestive of prior asbestos exposure.
+He became notably agitated in ED, tried to pull out IV, and
+received olanzapine and Ativan, after which he was heavily
+sedated and difficult to arouse. Also given 1L NS. He was
+evaluated by neurology given c/f stroke, and they recommended
+admission for ___ services; MRI was considered, but 
+was
+deferred, given that patient would likely not be able to 
+tolerate
+study. Orthostatics were noted to be wnl. Electrolytes were
+notable from trop <0.01, normal electrolytes, CBC notable only
+for Hgb 13.5, UA unremarkable, Flu swab negative. 
+
+Upon arrival to the floor, the family endorses the above 
+history.
+They feel that the patient's recent decline, especially his
+recurrent falls, seems to be acute change, much more pronounced
+than his prior gradual decline, although they note that even
+before this past week, he had been speaking very little at home,
+and had been spending all of his time watching television and
+sitting in his chair. He has reportedly been "locking" his legs
+more frequently when he stands, which seems to be related to his
+falls. He also has had very poor liquid PO intake, which they
+attribute to anxiety regarding dizziness and frequent falls
+whenever he uses the bathroom. His solid PO intake has been
+normal. Of note, family noted that he had not had a bowel
+movement in about 1 week prior to coming to hospital, but he did
+have a small BM overnight in ED, as well as a large BM shortly
+after arrival to floor. Has occasional urinary incontinence. 
+They
+wonder if any acute medical change could be contributing to 
+this,
+but also understand that he has severe underlying dementia, and
+that primary goal is to get him home and keep him comfortable,
+with 24-hour services. 
+
+REVIEW OF SYSTEMS:
+Complete ROS from family obtained and is otherwise negative.
+Patient unable to participate in discussion. 
+
+ 
+Past Medical History:
+ALZHEIMER'S DISEASE                                             
+DEPRESSION                                                      
+ASBESTOS EXPOSURE                                               
+B12 DEFICIENCY                                                  
+BENIGN PROSTATIC HYPERTROPHY                                    
+ELEVATED CHOLESTEROL                                            
+HYPERTENSION                                                    
+OSTEOARTHRITIS 
+ 
+Social History:
+___
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+GENERAL: Arousable to voice, somnolent. NAD. Frequent tremors in
+b/l upper extremities. 
+HEENT: Laceration on posterior scalp. Dry MM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation anteriorly and laterally. No
+wheezes, rhonchi or rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Wearing 
+compression
+boots and socks. 
+SKIN: Warm, dry skin on forearms, no rash.  
+NEUROLOGIC: Patient would not follow commands, so could not
+assess a full neurological exam. Moving all extremities with
+purpose. Unable to assess gait.
+
+DISCHARGE PHYSICAL EXAM:
+24 HR Data (last updated ___ @ 1200)
+    Temp: 97.6 (Tm 98.5), BP: 123/70 (123-183/70-80), HR: 66 
+(60-69), RR: 18 (___), O2 sat: 94% (91-97), O2 delivery: Ra 
+GENERAL: Arousable to voice, very somnolent. NAD. No tremors
+noted while sleeping.  
+HEENT: Laceration on posterior scalp. Dry MM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation anteriorly and laterally. No
+wheezes, rhonchi or rales. No increased work of breathing.
+EXTREMITIES: No clubbing, cyanosis, or edema. Wearing 
+compression
+boots and socks. 
+SKIN: Warm, dry skin on forearms, no rash.  
+NEUROLOGIC: Patient somnolent, would not verbalize, unable to 
+complete full neurological assessment
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 03:05PM BLOOD WBC-7.5 RBC-4.33* Hgb-13.5* Hct-41.9 
+MCV-97 MCH-31.2 MCHC-32.2 RDW-12.7 RDWSD-45.2 Plt ___
+___ 03:05PM BLOOD Neuts-71.2* Lymphs-13.5* Monos-11.6 
+Eos-3.1 Baso-0.3 Im ___ AbsNeut-5.33 AbsLymp-1.01* 
+AbsMono-0.87* AbsEos-0.23 AbsBaso-0.02
+___ 03:05PM BLOOD Glucose-102* UreaN-30* Creat-1.0 Na-141 
+K-4.7 Cl-106 HCO3-24 AnGap-11
+___ 03:05PM BLOOD Calcium-8.9 Phos-2.8 Mg-2.1
+___ 03:05PM BLOOD cTropnT-<0.01
+
+DID NOT CHECK LABS FOR REST OF ADMISSION
+
+Imaging: 
+___-SPINE W/O CONTRAST 
+IMPRESSION:  
+No acute fracture or traumatic malalignment. 
+ 
+___ Imaging CT HEAD W/O CONTRAST 
+IMPRESSION: 
+1. Mid portion portions of the brain and skull base are limited 
+for evaluation 
+due to motion. 
+2. No gross evidence of acute intracranial process.  No evidence 
+intracranial 
+hemorrhage or fracture. 
+
+___ Imaging CHEST (SINGLE VIEW) 
+IMPRESSION:  
+No definite pneumonia.  Low lung volumes.  Bilateral calcified 
+pleural plaques suggestive of prior asbestos exposure. 
+
+ 
+Brief Hospital Course:
+___ M with a history of progressive dementia, depression, and
+HTN, who presents after a fall. He was agitated in ED, and was
+admitted to medicine for work-up of failure to thrive, and for
+assistance with arranging 24-hour home services. 
+
+ACUTE ISSUES:
+=============
+# Recurrent Falls
+# Cognitive Decline/Alzheimer's Disease
+# Failure to Thrive 
+Patient presents after recurrent falls and dizziness, in the
+setting of gait instability and reduced liquid PO intake. Has
+progressive cognitive decline with recent concern for some
+Parkinsonian features on exam, but failed trial of Sinemet. No
+findings on imaging or labwork to suggest any acute metabolic or
+infectious process that could be contributing to his clinical
+picture. CT head in ED showed no acute intracranial process. 
+Neurology team evaluated the patient in the ED, and felt that a 
+stroke was unlikely; instead, his symptoms were likely 
+attributable to his underlying dementia, with a possible 
+concomitant viral URI contributing to his acute decline. We 
+discussed the utility of continuing the patient's home 
+medications of galantamine and memantine; ultimately, these were 
+felt very unlikely to change the patient's 
+clinical status/disease course, so they were discontinued with 
+the thought that risk of side effects outweighed potential 
+benefits (galantamine discontinued, memantine tapered). Patient 
+was seen by ___, who agreed with family's preferred plan of 
+getting patient home with 24-hr services. CM and SW teams worked 
+to ensure that the patient and family had access to various 
+services at home, including home ___, a hospital bed, and a 
+wheelchair.
+
+# Agitation 
+Agitation likely attributable to delirium, as patient at high
+risk of hospital-induced delirium and disorientation from his
+underlying dementia. Labwork unrevealing in ED, no evidence of
+any metabolic derangement or infectious process. Constipation 
+and
+urinary retention also possibly contributing (see below). 
+Overall, the patient's mental status imrpoved slightly, with 
+better management of his constipation and urinary retention. He 
+was maintained on delirium precuations, with frequent 
+reorientation. He was started on ramelteon as a sleep aid. He 
+did receive olanzapine and alprazolam in the ED, but these were 
+held after admission, out of concern for causing 
+over-somnolence. 
+
+# Oropharyngeal Dysphagia
+# Nutrition
+On admission, family noted concerns about patient difficulties 
+with swallowing.  Patient evaluated by speech and swallow team 
+on ___, and recommended to be made NPO, given his oropharyngeal 
+dysphagia, remarkable for absent bolus acceptance and initiation 
+of swallow. Discussed with family, who feel that he has made 
+progress over his time in the hospital, notable was able to eat 
+macaroni and Jell-O. They would prefer to accept aspiration 
+risks and allow him to eat and drink, and stated that being NPO 
+would not be within their goals of care. He was thus maintained 
+on a dysphagia diet, with pureed solids, nectar prethickened 
+liquids. Magic Cup was also started, for nutritional 
+supplementation. Speech and Swallow evaluated the patient again 
+on ___, when he was more awake; they noted persistent concerns 
+for risk of aspiration, but agreed with continuing diet of 
+nectar-thick liquids and pureed solids, with strict 1:1 assist 
+and precautions. 
+
+# Goals of Care 
+Had long discussion with family on ___ regarding patient's
+wishes. They confirmed that he would not want heroic measures. 
+If
+something medical is found to explain his recent decline, they
+would want that addressed, but otherwise understand that this is
+a progressive disease with no cure. Discussed that his prognosis
+is difficult to fully assess at this time, but that he would
+likely qualify for hospice benefits; they believe that this 
+would
+be within his wishes and would like to discuss this further.
+Confirmed DNR/DNI status, no escalation of care to ICU, but okay
+to hospitalize. Stated goal is to get him home as quickly as 
+possible,
+with 24-hr services. MOLST completed on ___ confirming these 
+wishes. Patient's family was able to arrange for him to have 
+24-hr care, starting on ___, He will also have a 
+visiting palliative nurse from ___ starting ___, ___. 
+
+# Constipation
+Suspected that constipation was likely contributing to patient's 
+decline, as he had not had a BM in 1 week prior to admission. 
+Started on aggressive bowel regimen, including Senna, Colace, 
+and MiraLax. Was having daily BMs by time of discharge. 
+
+# Urinary Retention
+Suspected that urinary retention from underlying, undiagnosed 
+BPH may have been playing a role in patient's AMS. Started on 
+tamsulosin, and required intermittent straight catheterization 
+while hospitalized. 
+
+CHRONIC ISSUES:
+===============
+# Depression
+Continue sertraline. 
+
+# HTN
+Patient's goal BP is < 150/90, given his age, frailty, and
+frequent falls. Given that his blood pressure would go as high 
+as 190 systolic overnight, his home medications (lisinopril 40mg 
+daily,  amlodipine 2.5mg daily) were continued.   
+
+44 minutes was spent seeing and examining the patient and 
+coordinating discharge.
+
+TRANSITIONAL ISSUES:
+==================
+[ ] Patient was taking memantine and galantamine at home. 
+Galantamine was discontinued, as it was felt it was unlikely to 
+significant affect patient's mental status, and that risk likely 
+outweighed benefit. Will also plan to taper off memantine, 
+decreasing dose to 10mg daily x 1 week (___), then 5mg 
+daily x1 week (___), then stop all together. 
+[ ] 4 staples placed on laceration on patient's head, which he 
+sustained during his fall on ___. These should be removed on 
+___ by ___. 
+[ ] Patient started on tamsulosin for suspected urinary 
+retention, which may have been contributing to his 
+confusion/delirium. 
+[ ] Patient discharged on dysphagia diet (pureed solids, nectar 
+thick liquids) given concerns for oropharyngeal dysphagia. 
+[ ] Patient required intermittent straight catheterization while 
+hospitalized (on average 1x daily), and may continue to require 
+this at home. 
+[ ] Patient was set up with wheelchair and hospital bed at home. 
+
+[ ] Consider transition to hospice going forward, if within 
+patient and family's stated GOC. 
+
+#CODE: DNR/DNI, MOLST completed. No escalation of care to ICU, 
+but okay to transfer back to hospital. 
+#CONTACT/HCP: 
+___ 
+___: Wife 
+Phone number: ___ 
+Cell phone: ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 2.5 mg PO DAILY 
+2. galantamine 16 mg oral QAM 
+3. Lisinopril 40 mg PO DAILY 
+4. Memantine 10 mg PO BID 
+5. Sertraline 150 mg PO DAILY 
+6. Cyanocobalamin 1000 mcg PO DAILY 
+7. Senna 17.2 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H 
+RX *acetaminophen 325 mg 2 tablet(s) by mouth up to 4 times 
+daily Disp #*120 Tablet Refills:*2 
+2.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium [Colace] 100 mg 1 capsule(s) by mouth twice 
+daily Disp #*60 Capsule Refills:*2 
+3.  Memantine 10 mg PO DAILY Duration: 7 Days 
+Take 10mg daily for 1 week (___), then take 5mg daily for 
+1 week (___), then stop   
+4.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line 
+RX *polyethylene glycol 3350 [Miralax] 17 gram/dose 17 g capful 
+by mouth once daily Refills:*0 
+5.  Ramelteon 8 mg PO QHS 
+RX *ramelteon [Rozerem] 8 mg 1 tablet(s) by mouth once daily at 
+bedtime Disp #*30 Tablet Refills:*0 
+6.  Tamsulosin 0.4 mg PO DAILY 
+RX *tamsulosin 0.4 mg 1 capsule(s) by mouth once daily Disp #*30 
+Capsule Refills:*2 
+7.  amLODIPine 2.5 mg PO DAILY  
+8.  Lisinopril 40 mg PO DAILY  
+9.  Senna 17.2 mg PO QHS  
+10.  Sertraline 150 mg PO DAILY  
+11.wheelchair
+Standard manual wheelchair, seat back, cushion, elevating leg 
+rests, and anti tip and break extensions
+
+Dx: Dementia/Alzheimer's ICD 10: 30.9
+Px: good, ___: 13 months 
+12.hospital bed
+Standard issue hospital bed
+
+Dx: Dementia/Alzheimer's ICD 10: 30.9
+Px: good, ___: 13 months 
+13.___ lift
+___ lift
+
+Dx: Dementia/Alzheimer's ICD 10: 30.9
+Px: good, ___: 13 months 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS 
+================= 
+Fall 
+Alzheimer's Dementia  
+ 
+SECONDARY DIAGNOSIS 
+=================== 
+Urinary Retention  
+Constipation  
+Hypertension 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Lethargic but arousable.
+Activity Status: Bedbound.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+Dear Mr. ___, 
+
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You fell at home, and came to the ER for evaluation
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You had a wound at the back of your head, so this was repaired 
+with staples. 
+- You were initially agitated and confused in the ER, so we gave 
+you some medications to help you calm down. 
+- We realized that you were constipated, and we started you on 
+medications to help you have more regular bowel movements. 
+- We realized that you were retaining urine, so we started you 
+on a new medication called Flomax to help you go to the 
+bathroom. 
+- We stopped two of your medications (galantamine and memantine) 
+that likely weren't helping your confusion at all.  
+- We started you on a new medication to help you sleep. 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,195 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ h/o EtOH abuse and HTN presented after a fall.  As per
+EMS reports a witness notes that patient fell backwards trying 
+to
+get onto the T with positive head strike without LOC. 
+
+Patient currently feels fine.  He knows that he was brought into
+the hospital because he got drunk and admitted because of
+pneumonia otherwise cannot remember anything that happened.   
+
+ROS: as above otherwise 10point ROS negative 
+ 
+Past Medical History:
+-head and neck cancer s/p 35 sessions of radiation that finished
+in ___.  He does not know his oncologist but notes that he
+received his care at the ___ in ___. 
+-prostate cancer s/p radiation ___ years ago
+-HTN
+-PCP is ___ in ___ 
+ 
+Social History:
+___
+Family History:
+-Sister: died age ___ colon cancer
+-Mother: ___ years old and healthy 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+-VS: reviewed 
+-General Appearance: pleasant, comfortable, no acute distress
+-Eyes: PERLL, EOMI, no conjuctival injection, anicteric
+-HENT: moist mucus membranes, some erythematous abrasions left
+face, normocephalic
+-Respiratory: clear b/l, no wheeze 
+-Cardiovascular: RRR, no murmur 
+-Gastrointestinal: nontender, nondistended, bowel sounds present
+-GU: no foley, no CVA/suprapubic tenderness 
+-Musculoskeletal: no pedal edema, no joint swelling. 
+-Skin: no rash, ulceration, or jaundice noted. Scabbed abrasions
+left elbow. 
+-Neurological: no focal neurological deficits, CN ___ grossly
+intact, AAOx3
+-Psychiatric: appropriate mood and affect 
+
+DISCHARGE PHYSICAL EXAM
+ 
+PHYSICAL EXAM:
+-VS: 98.1 136 / 67 50 18 94 RA 
+-General Appearance: pleasant, comfortable, no acute distress
+-Eyes: PERLL, EOMI, no conjuctival injection, anicteric
+-HENT: moist mucus membranes, some erythematous abrasions left
+face, normocephalic
+-Respiratory: clear b/l, no wheezes
+-Cardiovascular: RRR, no murmur 
+-Gastrointestinal: nontender, nondistended, bowel sounds present
+-Musculoskeletal: no pedal edema, no joint swelling. 
+-Skin: no rash, ulceration, or jaundice noted. Scabbed abrasions
+left elbow. 
+-Neurological: no focal neurological deficits, CN ___ grossly
+intact, AAOx3
+-Psychiatric: appropriate mood and affect 
+ 
+Pertinent Results:
+NOTABLE LABS
+============
+___ 05:57AM BLOOD WBC-5.1 RBC-4.33* Hgb-13.5* Hct-40.0 
+MCV-92 MCH-31.2 MCHC-33.8 RDW-13.2 RDWSD-45.1 Plt ___
+___ 12:40AM BLOOD Glucose-87 UreaN-14 Creat-0.9 Na-143 
+K-4.2 Cl-103 HCO3-26 AnGap-14
+___ 12:40AM BLOOD cTropnT-<0.01
+___ 06:25AM BLOOD cTropnT-<0.01
+___ 05:57AM BLOOD cTropnT-<0.01
+
+IMAGING
+=======
+___ CXR
+Probable right lower lobe aspiration or pneumonia. Trace right 
+pleural effusion. Prominence of the mediastinum could reflect a 
+dilated ascending aorta.  A dedicated CT of the chest may be 
+obtained for further evaluation. 
+
+___ CTA CHEST 
+
+ 
+Brief Hospital Course:
+This is a ___ year old man with a PMH of HTN, alcohol abuse, and 
+prostate cancer, who presented after a fall, found to have 
+pneumonia. 
+
+ACTIVE ISSUSE
+# Pneumonia: presented with SpO2 that dropped to 88% in ER, 
+though maintained SpO2
+>95% on room air after arriving to medical floor. CXR with 
+possible right upper lobe aspiration vs pneumonia, without any 
+SIRS criteria. Given Flagyl + ceftriaxone + azithromycin in ED, 
+transitioned to Augmentin + azithromycin. CTA did not show any 
+sign of pneumonia, so antibiotics stopped on discharge. 
+
+# Widened mediastinum: observed on CXR. CTA obtained, which 
+demonstrated no aortic aneurysm, borderline enlarged aorta.  
+
+# Fall: mechanical in nature, in setting of etOH 
+abuse/intoxication. CT head &
+C-spine without acute process.  
+
+# etOH abuse with intoxication: notes has been drinking less 
+than previously. Last drink, day of admission. Is aware of 
+alcohol cessation services near home, and is currently declining 
+any intervention or help from SW. No signs of withdrawal while 
+in house. Given thiamine, folate & MVI on discharge. Encouraged 
+cessation. 
+
+# T wave inversions: nonspecific EKG changes without previous 
+EKG to compare. Troponin negative x3. 
+
+# Sinus bradycardia: HR in ___. Stopped atenolol and HRs 
+improving. BPs stable as well. Stopped atenolol on discharge. 
+
+CHRONIC ISSUES
+# Hypertension: BPs in 130s, with holding of atenolol & 
+monotherapy with lisinopril. Stopped atenolol on discharge. If 
+BP elevated at follow up, would increase lisinopril.
+
+# Normocytic anemia: unclear baseline given paucity of labs 
+without acute bleeding. Likely marrow suppression from etOH. 
+
+# Insomnia: continued trazodone. 
+
+============================
+TRANSITIONAL ISSUES
+============================
+- Stopped atenolol for bradycardia
+- Watch BP; increase lisinopril PRN
+- Encourage etOH cessation
+
+I certify that 35 minutes were spent on coordination of care, 
+face-to-face counseling & discharge planning. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 50 mg PO QHS 
+2. TraZODone 100 mg PO QHS:PRN insomnia  
+3. Lisinopril 40 mg PO QHS 
+
+ 
+Discharge Medications:
+1.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+3.  Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*0 
+4.  Lisinopril 40 mg PO QHS  
+5.  TraZODone 100 mg PO QHS:PRN insomnia   
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Community-acquired pneumonia, alcohol abuse 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+                             ___ MD ___
+ 
+Completed by: ___

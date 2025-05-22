@@ -1,0 +1,298 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Prilosec
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fever of unknown origin
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old Male brought in for severe fevers of unknown origin. 
+Patient is a previously healthy male who presents with 2 weeks 
+of fevers and myalgias. The patient apparently went to ___ a 
+week prior to admission, where he presented with a fever to 106. 
+He was started on doxycycline for presumed lyme disease, got IV 
+fluids and ultimately was discharged. The patient reports one 
+week of anorexia, nausea, diarrhea, along with 3 days of 
+non-productive cough and some mild abdominal pain. The patient 
+came to the ___ today and while walking from the garage 
+was apparently too weak to continue so EMS transported him to 
+the ED. 
+
+Looking at his ___ ED notes, on ___ he was described as having 
+a maculopapular rash. On that exam his knees are tender on 
+lateral palpation bilaterally
+
+Initial vitals in the ___ ED were 103.9, 115, 122/86, 16, 99%. 
+He was given 2L of IV fluids, ondansetron, Tylenol and 
+ketorolac. With improvement in his fever curve. He underwent a 
+chest x-ray and CT abd/pelvis which were non-revealing for 
+cause.
+ 
+Past Medical History:
+No Past Medical History
+ 
+Social History:
+___
+Family History:
+Mother: healthy
+Father: healthy
+Grandmother: ___ CA
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+
+VSS: 101.1, 101/66, 92, 18, 99%
+ GEN: NAD
+ Pain: ___
+ HEENT: anicteric, non-injected, PERRLA EOMI, MMM, - OP Lesions
+ PUL: CTA B/L
+ COR: RRR, S1/S2, I/VI HSM, wide split S2
+ ABD: NT/ND, +BS, - CVAT
+ EXT: - CCE
+ NEURO: CAOx3, Motor: ___ ___ Spread Flex/Ext
+
+DISCHARGE PHYSICAL EXAM
+
+Gen: NAD
+HEENT: no icterus, PERRL, OP clear without erythema or lesions
+Neck: mild tender anterior cervical lymphagenopathy, no 
+posterior cervical adenopathy
+Chest: CTAB, normal WOB
+Cards: RR, no m/r/g
+Abd: S, ND, NT, BS+
+MSK: right elbow with limited aROM due to pain and is tender to 
+palpation between the olecranon and the medial epicondyle 
+without palpable effusion, without erythema, without warmth, 
+without induration or other overlying skin changes; other joints 
+with normal aROM/pROM
+Neuro: AAOx4, clear speech, conversant, tongue is midline, face 
+symmetric, has some lateral strabismus of right eye, otherwise 
+EOMI
+Skin: no rashes appreciated on face, chest, abdomen, back, and 
+legs
+ 
+Pertinent Results:
+=================================
+
+PERTINENT DATA
+WBC 8->6->8->10->13->13
+Hgb 11.7-12.9, MCV ___, RDW ___
+Plts 200s-300s
+INR 1.6->1.4->1.3->1.2
+
+Fibrinogen 300s-400s
+
+BMPs wnl
+
+ALT 28->134->236->166->110
+AST 80->241->275->112->60
+Alk Phos 80->117->138->134->121
+TB 0.4-0.6
+
+___ ___
+
+LDH 1015->1151
+
+Trig 141
+TSH 1.8
+
+Parasite smear + for anaplasma in neutrophils
+Anaplasma and babesia PCR negative
+Hep B nonimmune, hep A neg, Hep C serology neg, HIV neg
+CMV serology neg
+GC/CT neg from throat and urine
+Lyme neg
+___, ANCA, ___, RF neg
+RPR-prozone neg
+Strongyloides Ab neg
+Quant gold neg
+Parvo 
+Stool culture neg
+EBV IgG + IgM -
+
+PENDING STUDIES: O&P pending, soluble IL2 receptor, anaplasma 
+serology, CMV and HSV PCR, hep C viral load
+
+___ records:
+Erlichia, Babesia, and Lyme negative
+
+CT A/P ___. No focal abnormalities identified within the abdomen or 
+pelvis
+to correlate 
+with patient's symptoms. 
+2. Diverticulosis without diverticulitis. 
+  
+CT chest ___
+Mildly prominent bilateral axillary lymph nodes, likely 
+reactive;
+otherwise 
+unremarkable study of the chest. 
+
+RUQUS ___
+IMPRESSION:  
+No acute sonographic findings.  Stable left simple renal cyst. 
+Echogenic liver consistent with steatosis. Other forms of liver
+disease and more advanced liver disease including 
+steatohepatitis
+or significant hepatic fibrosis/cirrhosis cannot be excluded on
+this study. 
+
+=================================
+ 
+Brief Hospital Course:
+___ year old previously healthy man who initially presented to 
+___ on ___ with fevers, arthralgias, and maculopapular rash, 
+started empirically on doxycycline (although 'tick panel' sent 
+at ___ ultimately returned negative), who presented to ___ on 
+___ with persistent fevers to 102-103 range despite 9 days of 
+doxycycline, anorexia, and weight loss, found to have ferritin 
+of 37,000 and +anaplasma on blood smear. He defervesced early in 
+his admission and once anaplasma was discovered doxy was 
+restarted on ___. He had initially presented with mild isolated 
+AST elevation (also seen at ___) but subsequently developed 
+transaminase to 200s and alk phos elevation that peaked ___ and 
+then improved. Also developed worsening leukocytosis that peaked 
+at 13.3 on ___ and was 13.0 on ___.
+
+Ultimately it remained uncertain whether or not anaplasma 
+infection was the only process causing his constellation of 
+findings. Rash is not typically seen in anaplasma, ferritin is 
+not typically so high, and his very slow response to doxycycline 
+as well as late developing findings such as LFT surge, 
+leukocytosis, and persistent myalgias and borderline fever would 
+not be expected ~2 weeks into therapy. It is possible that he 
+experienced a secondary inflammatory process due to the 
+anaplasma or that the anaplasma was a red herring. Stills and 
+HLH were considered, but neither felt to be likely. It is 
+conceivable that he had HLH-like inflammation but not severe 
+enough to meet criteria for HLH. Soluble IL-2 receptor and 
+several other studies pending at discharge. One other 
+consideration would ___ Syndrome, which usually presents 
+with fevers, arthralgias (particularly with ankle involvement in 
+men), hilar adenopathy, and erythema nodosum. He did not present 
+with all of those findings, but did present with some of them 
+(fever, polyarthralgia involving ankles, and ?EN--reported 
+maculopapular rash on admission, but not reported on any exam 
+here at ___, so it would be something to consider if his 
+symptoms continue to smolder despite resolution of anaplasmosis.
+
+He will follow-up next week in infectious disease and also has 
+an establish care appointment in primary care at ___. He will 
+likely follow-up in ___ clinic as well. He will take 
+doxycycline through ___ to complete a total of 14 days of 
+therapy per the ID team recommendations.  He has close follow-up 
+scheduled in ___ clinic on ___. 
+
+Of note, anaplasma PCR was negative, but the pathologist who 
+read the smear felt that the findings on smear were sufficiently 
+specific to make the diagnosis. Anaplasma PCR is only a 
+moderately sensitive test, particularly given the patient had 
+already been on appropriate therapy for over a week by the time 
+the PCR specimen was obtained. 
+
+Problem list:
+#Anaplasmosis
+#Fevers - improving
+#Nausea - improved
+#Weight loss
+#Transaminitis - improving
+#Myalgias - improving
+#Polyarthralgias (migratory) - improving (b/l ankle pain has 
+resolved), though currently with right elbow pain
+#Leukocytosis - stable
+#Suspected hepatic steatosis
+#Coagulopathy (INR elevation) - improving
+#Severe ferritin elevation - improving
+
+===================================
+TRANSITIONAL ISSUES:
+- ID appointment on ___ at 10:00 AM
+- New PCP appointment on ___ at 2:40 ___
+- Pending studies at discharge: stool O&P pending; serum soluble 
+IL2 receptor, anaplasma serology, CMV and HSV PCRs, hep C viral 
+load, 
+- recheck CBC, BMP, LFT, ferritin as outpatient at either ___ 
+or ___ f/u appointment
+- restarted doxycycline ___ (had been treated ___, plan
+for treatment through ___ for total 14 days
+- outpatient RUQUS after recovery from illness given ?steatosis
+- will need outpatient vaccination for hepatitis B 
+===================================
+
+Time in care:
+[x] Greater than 30 minutes in discharge-related activities 
+today.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Ibuprofen 800 mg PO Q8H:PRN Pain - Moderate 
+2. Doxycycline Hyclate 100 mg PO Q12H 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q8H:PRN Pain  
+2.  Doxycycline Hyclate 100 mg PO Q12H 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*3 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Anaplasmosis
+# Elevated transaminases
+# Leukocytosis
+# Extreme elevation of ferritin
+# Fevers
+# Myalgias
+# Arthralgias (migratory polyarthralgia)
+# Coagulopathy
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted to the hospital with fevers, chills, nausea, 
+and weight loss. We sent many lab tests in an attempt to 
+diagnose the cause of your symptoms. We found evidence of an 
+infection called anaplasmosis, a tick-borne illness. At this 
+time we suspect this may be the cause of all of your symptoms. 
+However, anaplasmosis usually improves more quickly, and so we 
+are still considering the possibility that there could be 
+another process occurring, such as an inflammatory process 
+brought on by the anaplasma but which has continued despite 
+effective treatment. At this point most of your labs and 
+symptoms are improving, so it is safe to return home and 
+follow-up in clinic this week as noted below. Should you have 
+worsening symptoms or fever persistently > 101, please call Dr. 
+___ office to discuss or return to the ___ ED to be 
+evaluated.
+
+Please plan to take the antibiotics (doxycycline) through ___.
+
+Please plan to see Dr. ___ in ___ ___ Disease 
+clinic at your scheduled appointment on ___ at 10:00 AM.
+
+Please plan to establish care with your new primary care 
+physician, ___, at your scheduled appointment on 
+___ @ 2:40 ___.
+ 
+Followup Instructions:
+___

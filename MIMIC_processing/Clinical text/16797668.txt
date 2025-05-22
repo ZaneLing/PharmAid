@@ -1,0 +1,291 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Preservative / Aspirin / Enoxaparin / Sulfite / Bacitracin / 
+Aleve / soybean
+ 
+Attending: ___
+ 
+Chief Complaint:
+Planned admission for medication taper
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+CC: planned admission for medication change
+
+HPI:
+Ms. ___ is a ___ with history of focal epilepsy with impaired
+awareness on lamotrigine 50mg QAM and 75mg QPM, directly 
+admitted
+for medication adjustment. 
+
+History (per ___ clinic note and patient):
+Patient had first seizure in ___, described as "amnesia" and
+"phasing out" after significant emotional stressor of husband
+asking for divorce. Five days later, patient had another seizure
+with lip smacking and staring with impaired awareness. Patient
+was started on dilantin at that time, which was later changed to
+tegretol. When patient moved from ___ to ___ about ___
+years ago, she was changed to lamotrigine 50mg BID. 
+
+Patient's dose was changed from 50mg BID, to 25mg QAM/50mg QPM,
+and then in ___ back to 50mg BID. During these dose changes,
+the patient's seizures remained consistent at 1-2/year, 
+occurring
+between ___, with lip smacking and impaired awareness. She is
+unaware of these episodes, but her husband notices. Episodes
+always occur after emotional stressors. Other seizures events
+that the patient believes were distinct from her usual episodes
+include: her first seizure in the 1990s; "shaking" aware seizure
+in ___ in the setting of Lyme disease; "shaking" seizure in
+___ in the setting of high fever; and "stiff, clenched 
+teeth"
+seizure in ___ (detailed below). Her last EEG was in ___,
+with left temporal lobe seizure associated with lip smacking and
+hand automatisms.
+
+Patient's lamotrigine dose was increased to 175mg daily in
+___, and she was also switched to a different generic 
+version
+of lamotrigine (Teva lamotrigine tablets were discontinued). She
+felt that her side effects worsened significantly with this
+change, with stiff neck, headache, depressed mood, increased
+aggression, ataxia, blurry vision, and worsening of her baseline
+tinnitus. She had a seizure in ___ (her most recent seizure)
+with stiffness, clenched teeth, occurring at 4AM. Her 
+lamotrigine
+level was checked on ___ and was 4.1 (nl 4.0-18.0). Her dose
+has since been lowered to 75mg BID and then to 125mg daily (50mg
+QAM/75mg QPM). 
+
+Of note, patient has had "twitches" of muscles in fingers, arms,
+and legs since last ___. They are not bothersome, occur 
+daily,
+often while she is at rest ("playing solitaire"), sometimes
+without her noticing, and involve a few muscle twitches before
+resolving. 
+
+Also, patient has had difficulty sleeping for many years, and 
+has
+tried melatonin and Ambien. Uses Ambien and amitriptyline 
+rarely,
+sometimes Ambien is helpful. Also tries eating high-protein 
+snack
+with ___ lamotrigine, which also helps. 
+
+The patient would like to change medications due to her prior
+side effects as well as the cost of lamotrigine. 
+
+ROS: 
+Endorses mild cold (sore throat), baseline tinnitus, baseline
+anosmia. 
+Denies f/c, headache, lightheadedness, vertigo, vision changes,
+eye pain, hearing changes, dyspnea, chest pain/tightness, 
+nausea,
+vomiting, diarrhea, constipation, dysuria, frequency/urgency,
+muscle/bone/joint pain, numbness/tingling
+
+ 
+Past Medical History:
+Lyme disease (___)
+Shingles
+Benign liver mass s/p resection
+SCC
+BCC
+HTN
+Asthma
+Epilepsy
+ 
+Social History:
+___
+Family History:
+There is depression in her family. No history of seizures.
+Mother died when pt was ___ years old.
+History of dementia on both sides of family (brother, father, 
+grandparents)
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Vitals: ___ 1021 Temp: 97.3 PO BP: 156/68 HR: 85 RR: 16 O2
+sat: 100% O2 delivery: RA 
+
+PE: 
+General: Well-appearing, NAD
+HEENT: MMM
+CV: Warm and well-perfused
+Resp: Breathing comfortably on room air
+
+Neuro:
+- MSE: Alert, grossly oriented. Able to converse and give 
+history
+without difficulty. Slightly tangential. No dysarthria. Normal
+prosody. 
+- CN: PERRL 3->2mm. EOM intact without nystagmus. Sensation
+intact bilaterally. Symmetric facial muscles. Palate elevates
+symmetrically. Tongue protrudes midline. Deltoid and SCM full
+bilaterally. 
+- Motor: Normal muscle bulk and tone. No tremors or asterixis
+noted. 
+   tri   bi   WE   FE   IO   IP   quad   ham   FD   FP  
+L   5    5    5    5    5    5     5      5    5    5
+R   5    5    5    5    5    5     5      5    5    5
+- Reflexes:
+    bi   tri   ___   pat   AJ
+L   1            1      2
+R   1            1      2
+- Sensory: Intact to light touch on bilateral UE and ___. No
+pronator drift. 
+- Coordination: Intact FTN. 
+- Gait: Normal as observed when walking from bathroom to bed.
+
+DISCHARGE PHYSICAL EXAMINATION:
+===============================
+
+General: Well-appearing, NAD
+HEENT: MMM
+CV: Warm and well-perfused
+Resp: Breathing comfortably on room air
+
+Neuro:
+- MSE: Alert. Able to converse without difficulty. No 
+dysarthria.
+
+- CN: PERRL 3->2mm. EOM intact without nystagmus. Sensation
+intact bilaterally. Symmetric facial muscles. Palate elevates
+symmetrically. Tongue protrudes midline. Deltoid and SCM full
+bilaterally. 
+- Motor: Normal muscle bulk and tone. No tremors or asterixis
+noted. All extremities antigravity to command. No pronator 
+drift.
+
+- Sensory: Intact to light touch on bilateral UE and ___.
+- Coordination: Deferred
+- Gait: deferred
+
+ 
+Pertinent Results:
+___ 06:15AM BLOOD WBC-6.6 RBC-3.67* Hgb-11.4 Hct-34.5 
+MCV-94 MCH-31.1 MCHC-33.0 RDW-12.6 RDWSD-43.9 Plt ___
+___ 06:15AM BLOOD Plt ___
+___ 06:15AM BLOOD Glucose-92 UreaN-11 Creat-0.7 Na-138 
+K-4.4 Cl-104 HCO3-25 AnGap-9*
+___ 06:15AM BLOOD Calcium-9.2 Phos-3.6 Mg-1.9
+ 
+Brief Hospital Course:
+PATIENT SUMMARY:
+================
+Ms. ___ is a ___ with history of focal epilepsy with impaired
+awareness on lamotrigine 50mg QAM and 75mg QPM, directly 
+admitted
+for medication adjustment due to previous side effects and 
+excessive cost of medication. 
+
+Patient has been on lamotrigine for about ___ years, initially on 
+50mg BID. Patient has a history of significant side effects on 
+lamotrigine 175mg daily in ___, including headache, neck 
+stiffness, ataxia, blurry vision, increased aggression, and 
+depressed mood. Currently on 50mg QAM/75mg QPM without 
+significant side effects. Since first seizure in ___, has had 
+___ seizures/year, triggered by emotional stress, involving lip 
+smacking and impaired awareness, always in the early morning. 
+Last EEG was in ___, showing left temporal lobe epilepsy 
+associated with lip smacking and hand automatisms. 
+
+During this hospitalization, patient was tapered off lamotrigine 
+and started on vimpat. EKG did not show changes in interval 
+length. No side effects noted. Patient did have 1 electrographic 
+seizure captured on EEG without clinical correlate during this 
+admission which occurred at night during sleep in the middle of 
+the cross titration of drugs.
+
+TRANSITIONAL ISSUES:
+====================
+- continue lacosamide 100mg BID for now, uptitrate to 150 twice 
+daily on ___
+- follow up with outpatient neurology Dr. ___
+- ambulatory EEG to be coordinated by outpatient neurologist Dr. 
+___ at a later date
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Zolpidem Tartrate 2.5 mg PO QHS:PRN insomnia 
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB 
+3. LamoTRIgine 75 mg PO BID 
+4. Amitriptyline 25 mg PO DAILY:PRN insomnia 
+5. budesonide-formoterol 80-4.5 mcg/actuation inhalation BID 
+asthma exacerbation 
+6. Denosumab (Prolia) 60 mg SC EVERY 6 MONTHS 
+7. Mupirocin Ointment 2% 1 Appl TP DAILY:PRN blepharitis, 
+hordeolum 
+8. Fluocinolone Acetonide 0.01% Cream 1 Appl TP BID psoriasis 
+9. FoLIC Acid 0.8 mg PO DAILY 
+10. Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID itch 
+11. Calcium Soft Chew (calcium-vitamin D3-vitamin K) 500 mg oral 
+DAILY 
+12. vitamin B complex-folic acid 0.4 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  LACOSamide 100 mg PO BID  
+2.  Vitamin D 1000 UNIT PO DAILY  
+3.  Albuterol Inhaler 2 PUFF IH Q6H:PRN SOB  
+4.  Amitriptyline 25 mg PO DAILY:PRN insomnia  
+5.  budesonide-formoterol 80-4.5 mcg/actuation inhalation BID 
+asthma exacerbation  
+6.  Calcium Soft Chew (calcium-vitamin D3-vitamin K) 500 mg oral 
+DAILY  
+7.  Denosumab (Prolia) 60 mg SC EVERY 6 MONTHS  
+8.  Fluocinolone Acetonide 0.01% Cream 1 Appl TP BID psoriasis  
+9.  FoLIC Acid 0.8 mg PO DAILY  
+10.  Mupirocin Ointment 2% 1 Appl TP DAILY:PRN blepharitis, 
+hordeolum  
+11.  Triamcinolone Acetonide 0.1% Cream 1 Appl TP TID itch  
+12.  vitamin B complex-folic acid 0.4 mg oral DAILY  
+13.  Zolpidem Tartrate 2.5 mg PO QHS:PRN insomnia  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+History of seizures
+Insomnia
+History of asthma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You presented to ___ for planned admission to 
+taper down your home lamotrigine and start a new antiseizure 
+medication.
+
+While in the hospital, you are monitored on EEG.  Your home 
+lamotrigine was weaned off, and you were started on Vimpat [also 
+known as lacosamide].
+
+After you leave the hospital, make sure you follow-up with your 
+outpatient neurologist in clinic and take your medications as 
+prescribed.
+
+We wish you the best,
+Your neurology team
+ 
+Followup Instructions:
+___

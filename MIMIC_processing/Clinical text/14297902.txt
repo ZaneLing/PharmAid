@@ -1,0 +1,317 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac cath ___, DES in LCx
+ 
+History of Present Illness:
+Pt is a ___ yo F with a PMHx significant for HLD, HTN, CVA, and
+endometrial carcinoma (s/p hysterectomy) who presents with chest
+pain with exertion for 5 days.  Chest pain similar to ___ 
+when
+she went to ___ to be evaluated, CT angio at the time was
+negative per patient. 
+
+Chest pain started 5 days ago, located in upper chest region,
+radiates to neck, upper back, associated with nausea, shortness
+of breath, no diaphoresis or pain down the arm. Worsens with
+exertion, though occurs sporadically with exertion. Alleviated 
+by
+rest in ___ minutes. 
+
+No fevers, cough, abdominal pain, diarrhea, constipation,
+dysuria. Some leg swelling that waxes and wanes depending on
+sodium intake. 
+
+In the ED, initial VS were:
+98.0 59 174/58 14 98% RA
+Labs showed:
+Trop <.01, negative UA, unremarkable chem 10, BNP 177,
+unremarkable CBC  
+Imaging showed:
+CXR- no acute cardiopulmonary process 
+Patient received:
+___ 00:46 PO/NG Labetalol 25 mg 
+___ 00:47 PO DiphenhydrAMINE  
+___ 05:43 PO/NG Labetalol 25 mg   
+___ 08:14 PO/NG Aspirin 325 mg  
+___ 12:35 PO/NG Labetalol 25 mg   
+___ 18:43 PO/NG Labetalol 25 mg  
+
+Cardiology was consulted  
+"Dr. ___ spoke with patient at length. Ultimately, 
+decision
+made for patient to be admitted for cor angio on ___. Will
+place on White Board. Please admit to ___ 
+Transfer VS were:
+98.2 59 153/58 17 97% RA 
+
+ 
+Past Medical History:
+HYPERCHOLESTEROLEMIA                                            
+HYPERTENSION                                                    
+KNEE PAIN                                                       
+LEG EDEMA                                                       
+OBESITY                                                         
+FIBROID UTERUS                                                  
+ENDOMETRIAL CANCER   
+HEART MURMUR
+ 
+Social History:
+___
+Family History:
+mother had heart disease, TIA, pace maker. died ___ years ago. in
+her ___ with complcations. mother had ___ cancer 
+Fathers side had diabetes. chain smoker, emphysema, just died. 
+Younger sister heart attack at ___.
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+VS:  98.2 ___ R ___
+GENERAL: NAD , sitting up, appears well, conversing 
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva,
+MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, ___ systolic murmur heard best at LUSB, no rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, trace edema b/l shins 
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+
+DISCHARGE EXAM
+==============
+VS: 97.3  132 / 72 53 20 97 RA   
+GENERAL: NAD, appears well, conversing 
+HEENT: AT/NC
+HEART: RRR, ___ systolic murmur heard best at ___, no rubs
+LUNGS: CTAB, no wheezes, rales, rhonchi 
+ABDOMEN: Nondistended, nontender in all quadrants
+EXTREMITIES: No cyanosis, clubbing, trace edema b/l shins   
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: Warm and well perfused, no excoriations or lesions, no
+rashes  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 04:05PM BLOOD WBC-5.5 RBC-4.97 Hgb-14.7 Hct-45.7* 
+MCV-92 MCH-29.6 MCHC-32.2 RDW-12.4 RDWSD-41.8 Plt ___
+___ 04:05PM BLOOD Neuts-64.0 ___ Monos-6.4 Eos-4.0 
+Baso-0.7 Im ___ AbsNeut-3.50 AbsLymp-1.34 AbsMono-0.35 
+AbsEos-0.22 AbsBaso-0.04
+___ 04:05PM BLOOD Plt ___
+___ 04:05PM BLOOD Glucose-89 UreaN-22* Creat-0.9 Na-143 
+K-4.7 Cl-104 HCO3-25 AnGap-14
+
+NOTABLE LABS
+============
+___ 04:05PM BLOOD proBNP-177
+___ 04:05PM BLOOD cTropnT-<0.01
+___ 08:27PM BLOOD cTropnT-<0.01
+___ 06:30AM BLOOD CK-MB-2 cTropnT-<0.01
+
+IMAGING
+=======
+___ STRESS TEST
+INTERPRETATION: This is a ___ year old woman referred form the
+Emergency Room after negative serial markers and here for the 
+evaluation
+of chest pain. The patient exercised on a Modified ___ 
+treadmill
+protocol and stopped for ST elevation after the completion of 3 
+minutes.
+The peak estimated metabolic capacity was ___ METs, a low 
+functional
+capacity for age. There was chest and throat pain at rest (___) 
+which
+progressed to ___ with exercise. In recovery, there was back of 
+neck
+pain and upper back pain (___). Symptoms resolved by 10 minutes 
+of
+recovery. There were ischemic ECG changes (1-1.___levation 
+in
+AVR; 1-2mm horizontal ST depression in the inferolateral leads). 
+The
+rhythm was sinus with rare PACs. BLunted blood pressure and 
+heart rate
+responses to stress.
+ 
+IMPRESSION: Poor functional exercise capacity. Anginal symptoms 
+with
+ischemic ECG changes to the low workload achieved. Blunted 
+hemodynamic
+response to exercise.
+
+___ LEFT HEART CATH
+Coronary Anatomy
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is long without narrowing.
+* Left Anterior Descending
+The LAD has a 40-50% ___ lesion.
+The ___ Diagonal is minimally diseased.
+* Circumflex
+The Circumflex is Ostial 95%.
+The ___ Marginal is minimally diseased.
+* Right Coronary Artery
+The RCA is minimally diseased.
+The Right PDA is minimally diseased.
+Interventional Details
+Could not advance via radial approach despite long sheath. 
+Switched to femoral. JL4 guide. Lesion
+easily crossed. Pre-dilated with a 3.0. Stented with a 3.25 X 12 
+mm DES. Difficult to remove radial sheath
+afer intervention. Gave ntg, verapamil, nicardipine, papaverine, 
+nitroglide, heavy sedation, Local block
+block. Staightened sheath with wire and came out. Dr. ___ 
+___ sheath out.
+Impressions:
+1. Ostial LCx treated with 12 mm DES.
+Recommendations
+1. DAPT, short, given stroke in past
+
+Echo ___
+Conclusions   
+ The left atrial volume index is mildly increased. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). Doppler parameters are 
+most consistent with Grade I (mild) left ventricular diastolic 
+dysfunction. Right ventricular chamber size and free wall motion 
+are normal. The aortic arch is mildly dilated. The aortic valve 
+leaflets (3) are mildly thickened. There is mild aortic valve 
+stenosis (valve area 1.2-1.9cm2). No aortic regurgitation is 
+seen. The mitral valve appears structurally normal with trivial 
+mitral regurgitation. The estimated pulmonary artery systolic 
+pressure is normal. There is no pericardial effusion. 
+
+ IMPRESSION: Normal global and regional biventricular systolic 
+function. Mild calcific aortic stenosis.   
+
+DISCHARGE LABS
+==============
+
+___ 07:35AM BLOOD WBC-6.2 RBC-4.38 Hgb-13.3 Hct-39.9 MCV-91 
+MCH-30.4 MCHC-33.3 RDW-12.7 RDWSD-41.3 Plt ___
+___ 07:35AM BLOOD Plt ___
+___ 07:35AM BLOOD PTT-30.9
+___ 07:35AM BLOOD Glucose-98 UreaN-17 Creat-0.8 Na-142 
+K-3.7 Cl-104 HCO3-23 AnGap-15
+___ 07:35AM BLOOD Calcium-9.3 Phos-3.1 Mg-2.1
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ yo F with a PMHx significant for HLD, HTN, 
+CVA, and endometrial carcinoma (s/p hysterectomy) who presented 
+with chest pain with exertion for 5 days, positive stress test, 
+s/p cath with DES to LCx.
+
+ACTIVE ISSUES
+=============
+# Unstable angina: Worsening chest pain with exertion. No trop 
+leak. Positive stress test with EKG changes. Cath showed 95 % 
+occlusion of the LCX, drug eluting stent placed. Started on dual 
+antiplatelet therapy with aspirin, ticragelor. Patient had 
+hematoma at R radial artery site from angiography, but was 
+decreasing in size upon d/c, vascular and neurologically 
+remained intact. Given concerns for intolerance of statins in 
+the past, patient agreeable to starting rosuvastatin 10mg, can 
+be uptitrated as outpt. TTE after intervention demonstrated 
+preserved EF, mild aortic stenosis.
+
+# CVA: Work up at ___. No events in house. Continued ASA.
+
+TRANSITIONAL ISSUES
+===================
+[] patient should f/u with PCP, requested new cardiologist at 
+___ and appointment was scheduled
+[] started on rosuvastatin 10mg QHS (given intolerance to 
+statins in the past), can increase to high intensity if patient 
+tolerating well
+[] labetalol decreased from 25 q6 to q8 given often held for 
+bradycardia, asx, patient resistant to starting other anti-HTNs 
+given reactions to other meds in the past
+[] f/u R radial artery site, eval for worsening hematoma?
+[] should continue dual antiplatelet therapy until otherwise 
+instructed by cardiology
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Labetalol 25 mg PO Q6H 
+2. Aspirin 325 mg PO DAILY 
+3. Co Q-10 (coenzyme Q10) ___  ___ DAILY 
+4. Potassium Iodide Dose is Unknown  PO DAILY 
+
+ 
+Discharge Medications:
+1.  Rosuvastatin Calcium 10 mg PO QPM 
+RX *rosuvastatin [Crestor] 10 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*2 
+2.  TiCAGRELOR 90 mg PO BID to prevent stent thrombosis 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice per 
+day Disp #*60 Tablet Refills:*1 
+3.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*1 
+4.  Co Q-10 (coenzyme Q10) 1 1 oral DAILY  
+5.  Labetalol 25 mg PO Q8H  
+6.  Potassium Iodide 300 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+1. Coronary artery disease Left Circumflenx 95% occlusion status 
+post drug eluting stent
+
+Secondary Diagnosis
+2. Hypertension
+3. hx of Cerebral Vascular Accident
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital with chest pain. You had a 
+stress test which showed there may be some blockage in the 
+arteries supplying your heart. We performed a heart 
+catheterization to take a more detailed look, and this showed 95 
+% blockage of one of the arteries that feeds your heart. A stent 
+was placed to open up this blockage. It is VERY important that 
+you continue taking all of your medications to prevent the 
+artery from becoming blocked again. It was a privilege to care 
+for you in the hospital, and we wish you all the best.
+
+Sincerely,
+
+Your ___ Health Team
+ 
+Followup Instructions:
+___

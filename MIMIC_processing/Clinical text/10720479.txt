@@ -1,0 +1,272 @@
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+GI bleed
+ 
+Major Surgical or Invasive Procedure:
+EGD w/clipping and cautery ___
+
+ 
+History of Present Illness:
+___ male with remote hx ITP, remote hx of heavy ETOH use, and 
+recently ASA increased to daily who presents with 2 episodes of 
+melena. 
+
+Patient had 2 episodes of black tarry stools ___ while in 
+___ on vacation. Boarded flight feeling "unwell" and 
+made it back to home in ___; felt lightheaded starting to climb 
+stairs with luggage and had to sit down and rest; felt better 
+lying down. No fall, no LOC, no head strike. In this setting, he 
+presented to ___ ED. 
+
+In the ED, initial vitals: 78 127/70 16 100% RA 
+
+His H/H was 11.3/33.2, he had an EKG that did not show signs of 
+ischemia. His rectal exam was guaiac positive. He was started on 
+pantoprazole IV bolus 80 mg and drip at 8 mg/hr. Also 500 cc IV 
+NS.
+
+On arrival to the MICU,  98 149/74 94 31 99% RA. Patient was 
+asymptomatic, corroborated history above. He denies chest pain, 
+SOB, headache, nausea, vomiting, leg swelling. He recently 
+started taking 81mg ASA daily 2 weeks ago. No other NSAID use. 
+Remote history of alcohol use per pt.
+ 
+Past Medical History:
+Idiopathic thrombocytopenic purpura 
+Impaired fasting glucose 
+Carotid stenosis 
+Meibomitis 
+Congenital anomaly of optic disc 
+PVD (posterior vitreous detachment) 
+Pseudophakia 
+Cataract, secondary 
+Progressive high myopia 
+Choroidal nevus 
+Mild cognitive impairment 
+ 
+Social History:
+___
+Family History:
+Non-Contributory
+ 
+Physical Exam:
+=========================
+ADMISSION PHYSICAL EXAM
+=========================
+Vitals: 98 127/61 71 21 98% RA
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, no sublingual 
+icterus
+NECK: supple, JVP not elevated, no LAD
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, distended with tympany on percussion 
+diffusely, bowel sounds present, no rebound tenderness or 
+guarding, no organomegaly, neg fluid wave
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN:  no jaundice, spider angioma, or telangiectasia 
+NEURO:  CN ___ intact, no asterixis, ___ strength bilat, normal 
+sensation
+
+DISCHARGE EXAM
+==============
+Vitals: 98.2 102/41 69 16 99 RA 
+General: alert, oriented, no acute distress  
+HEENT: sclera anicteric, MMM, oropharynx clear  
+Neck: supple, JVP not elevated, no LAD  
+Lungs: clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding, no organomegaly  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema
+Neuro: CNs2-12 intact, motor function/sensation grossly normal  
+
+ 
+Pertinent Results:
+=================
+ADMISSION LABS
+=================
+___ 03:30PM BLOOD WBC-8.0 RBC-3.60* Hgb-11.3* Hct-33.2* 
+MCV-92 MCH-31.4 MCHC-34.0 RDW-13.0 RDWSD-43.6 Plt ___
+___ 03:30PM BLOOD Neuts-76.7* Lymphs-16.6* Monos-4.8* 
+Eos-0.8* Baso-0.6 Im ___ AbsNeut-6.12* AbsLymp-1.32 
+AbsMono-0.38 AbsEos-0.06 AbsBaso-0.05
+___ 03:30PM BLOOD Glucose-104* UreaN-37* Creat-0.7 Na-136 
+K-4.6 Cl-103 HCO3-26 AnGap-12
+___ 03:30PM BLOOD Albumin-4.3
+___ 03:30PM BLOOD ALT-36 AST-23 AlkPhos-52 TotBili-0.6
+___ 03:57PM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-NEG
+___ 03:57PM URINE RBC-1 WBC-<1 Bacteri-NONE Yeast-NONE 
+Epi-0
+
+DISCHARGE LABS
+==============
+___ 03:30PM BLOOD WBC-6.5 RBC-2.96* Hgb-9.6* Hct-26.9* 
+MCV-91 MCH-32.4* MCHC-35.7 RDW-13.2 RDWSD-43.0 Plt ___
+___ 06:30AM BLOOD ___ PTT-27.4 ___
+___ 06:30AM BLOOD Glucose-99 UreaN-16 Creat-0.9 Na-141 
+K-3.7 Cl-105 HCO3-27 AnGap-13
+___ 06:30AM BLOOD Calcium-8.5 Phos-3.0 Mg-2.2
+
+IMAGING/MICRO
+=============
+EGD (___)
+Impression: Erosions in the whole stomach
+Ulcer in the antrum (endoclip, thermal therapy)
+Otherwise normal EGD to third part of the duodenum 
+
+Recommendations: GI consult service to discuss with inpatient 
+primary team.
+Recommend checking stool Hpylori antigen.
+Repeat EGD in ___ weeks
+Recommend PPI 40mg twice daily until repeat EGD
+Nonbleeding adherent clot: risk of recurrent bleeding with 
+endoscopic hemostasis <5%. 
+
+___ 3:30 pm SEROLOGY/BLOOD
+
+                            **FINAL REPORT ___
+
+   HELICOBACTER PYLORI ANTIBODY TEST (Final ___: 
+      EQUIVOCAL BY EIA. 
+           (Reference Range-Negative). 
+      NOTE: Equivocal serologic test findings may be resolved 
+through use
+      of the alternative, H. pylori stool antigen test. 
+
+ 
+Brief Hospital Course:
+Mr ___ is a ___ w/remote hx of ITP, remote hx of heavy 
+ETOH use, and recently increased ASA to daily who p/w 2 episodes 
+of melena, Hb 11.3 on admission, decreased to 9.4 in 12 hrs. Was 
+briefly in MICU for monitoring, didn't require any pRBC 
+transfusions. EGD showed antral ulcer, s/p clip/cautery, H&H 
+remained stable over admission since EGD, DC Hb 9.6/26.9, and 
+was HDS as well. Transitioned from IV to PO PPI BID. 
+
+#GI Bleed: On admission, 2 episodes of melena with dizziness, 
+H/H was 11.3/33 down from 14.5/43 in ___. Hx suggestive of 
+UGIB, no hemetemsis. Etiology was unclear. Remote history of 
+alcohol abuse but LFTs were normal. Risk factors included ASA 
+(though low dose) and donepezil (which can increase gastric acid 
+secretion), but was without epigastric pain suggestive of 
+gastritis or PUD. He went for EGD on ___ that showed a 7 mm 
+ulcer in the antrum that was subsequently cauterized and 
+clipped. Melena stopped and the patient remained HD stable. Per 
+GI, he will have repeat EGD in ___ weeks and should continue 
+high dose bid PPI until that time. Serum H Pylori was negative. 
+Tolerated diet before DC.
+
+# ETOH use: Hx relatively unimpressive. LFTs normal and no signs 
+of cirrhosis. Thiamine/Folate continued. 
+
+# Thrombocytopenia: Remote hx of ITP. Platelets were stable over 
+admission.
+
+TRANSITIONAL ISSUES
+===================
+-Pt's H&H was 9.6/26.9 on DC, will need repeat CBC in ___ weeks 
+with PCP
+-___ started on pantoprazole 40mg BID, will need to be continued 
+until at least repeat EGD in ___ weeks
+-Pt had H Pylori serum Ab pending at ___ (was unable to get stool 
+Ag as w/o BMs over admission), PCP needs to ___ result. GI 
+recommends PCP initiate ___ treatment if returns 
+positive
+-GIB thought ___ ASA use (primary prevention), which was held 
+over admission, recommend not restarting until at least after 
+repeat EGD and with extreme caution even if repeat EGD improved
+
+#Code: presumed full 
+#Communication: Wife ___ ___ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sildenafil 20 mg PO DAILY:PRN intercourse 
+2. Pravastatin 20 mg PO QPM 
+3. Donepezil 10 mg PO QHS 
+4. melatonin 5 mg oral QHS 
+5. BuPROPion XL (Once Daily) 300 mg PO DAILY 
+6. Aspirin 81 mg PO DAILY 
+7. Vitamin D ___ UNIT PO DAILY 
+8. urea 40 % topical 2X/WEEK 
+9. Ascorbic Acid ___ mg PO DAILY 
+10. Zinc Sulfate 220 mg PO DAILY 
+11. Fish Oil (Omega 3) 1000 mg PO DAILY 
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q12H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+2.  Donepezil 10 mg PO QAM  
+3.  Ascorbic Acid ___ mg PO DAILY  
+4.  BuPROPion XL (Once Daily) 300 mg PO DAILY  
+5.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+6.  melatonin 5 mg oral QHS  
+7.  Pravastatin 20 mg PO QPM  
+8.  Sildenafil 20 mg PO DAILY:PRN intercourse  
+9.  urea 40 % topical 2X/WEEK  
+10.  Vitamin D ___ UNIT PO DAILY  
+11.  Zinc Sulfate 220 mg PO DAILY  
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY
+=======
+Antral ulcer/GIB
+
+SECONDARY
+=========
+Mild cognitive impairment
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr ___,
+
+You were admitted to ___ after you were found 
+to have bloody stools. We checked your blood counts in the ED 
+which were lower than before. You briefly went to the ICU for 
+close monitoring and then with stomach doctors for ___, 
+where they found an ulcer in your stomach that they filled. You 
+have done well since your endoscopy and haven't needed any 
+blood. We think the ulcer was from the aspirin that you were 
+taking, please stop taking this until you follow up with your 
+stomach doctors. You were also started on pantoprazole 40mg 
+twice a day to stop future bleeds. You will need a repeat 
+endoscopy in ___ weeks, which the stomach doctors are arranging 
+for you. You will also need your blood counts checked in the 
+next ___ weeks to ensure that they are stable.
+
+It was a pleasure taking care of you!
+
+Your ___ medical team
+ 
+Followup Instructions:
+___

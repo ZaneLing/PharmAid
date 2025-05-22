@@ -1,0 +1,382 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Mechanical Fall
+Right comminuted occipital condyle fracture
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS:  ___ year old female with 
+hyperlipidemia who was transferred to ___ after sustaining a 
+mechanical fall down 10 stairs, found to have right comminuted 
+occipital condyle fracture on imaging.
+
+Patient was in her usual state of healthy and tripped, resulting 
+in a fall down 10 stairs with head strike without LOC. She 
+presented to OSH, where CT head and spine revealed right 
+comminuted occipital condyle fracture without intracranial 
+hemorrhage. She was transferred to ___ for further management.
+
+In the ED, patient's vitals were notable for labile BPs ranging 
+___. Patient was afebrile and satting well on room 
+air. Labs were notable for WBC 12.5 (88.5% neutrophils) and UA 
+with >182 RBC.
+
+Spine and trauma surgery were consulted, who recommended ___ J 
+collar at all times and follow up in ___ clinic in 2 
+weeks. ___ evaluation of the patient was limited by hypertension 
+(216/100) and poor patient safety awareness. They recommended 
+discharge to rehab.
+
+During ED observation, patient was hypertensive and developed 
+vomiting. She was given 5mg PO amlodipine 1256 with some initial 
+though nonsustained response in her BP. She was given another 
+5mg PO amlodipine at 1813 when her BP rose again, this time 
+asymptomatically. At time of transfer from ED to medicine floor, 
+patient's BP had been 165/79 and 167/83 over the course of 2.5 
+hours. ED was concerned about discharging patient with recent 
+falls and labile blood pressures home without adequate 
+monitoring.
+
+Upon arrival to the floor, the patient confirms the above 
+history, though is notably a poor historian. She states she was 
+climbing up the stairs with laundry when she got to the top and 
+tried to make a turn. She then fell backwards down the stairs. 
+She denies preceding lightheadedness, dizziness, chest pain, and 
+shortness of breath. 
+
+ 
+Past Medical History:
+Hyperlipidemia
+?Melanoma resection with lymph node biopsy c/b chronic right 
+lower extremity lymphedema (per patient report, records not 
+available)
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS:  162 / 94   99   18   96 ra 
+General: Alert, no acute distress  
+HEENT: Bandage over left eye. Ecchymosis surrounding left eye. 
+Abrasion over right eye. ___ J collar in place. Sclerae 
+anicteric, MMM, oropharynx clear, EOMI, PERRL. 
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused. Significant RLE edema that patient 
+reports is chronic after surgery for a malignant mole. 
+Tenderness to palpation of the tibia just proximal to the ankle.
+Neuro: CNII-XII intact, moving all 4 extremities with purpose.
+
+DISCHARGE EXAM:
+Vitals: 24 HR Data (last updated ___ @ 1355)
+    Temp: 99.0 (Tm 99.1), BP: 156/73 (130-156/73-82), HR: 94 
+(85-107), RR: 18 (___), O2 sat: 95% (95-98), O2 delivery: RA 
+HEENT: Well-healing laceration over left eye. Ecchymosis beneath 
+both eyes. Abrasion over right eye. ___ J collar in place. 
+Sclerae anicteric, MMM, oropharynx clear
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused. Significant RLE edema, reportedly 
+chronic following melanoma resection with lymph node biopsy. 
+Tenderness to palpation of the tibia just proximal to the ankle.
+Neuro: alert, oriented only to self, conversant but response 
+time slow. Cannot follow commands. Moving all extremities, no 
+gross facial asymmetries. PERRL. EOMI.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 07:44AM BLOOD WBC-7.7 RBC-4.79 Hgb-13.6 Hct-42.9 MCV-90 
+MCH-28.4 MCHC-31.7* RDW-12.9 RDWSD-42.6 Plt ___
+___ 03:22PM BLOOD WBC-12.5* RBC-4.80 Hgb-13.7 Hct-43.4 
+MCV-90 MCH-28.5 MCHC-31.6* RDW-13.1 RDWSD-43.4 Plt ___
+___ 03:22PM BLOOD Neuts-88.5* Lymphs-5.0* Monos-5.5 
+Eos-0.1* Baso-0.3 Im ___ AbsNeut-11.08* AbsLymp-0.63* 
+AbsMono-0.69 AbsEos-0.01* AbsBaso-0.04
+___ 07:44AM BLOOD ___ PTT-26.8 ___
+___ 07:44AM BLOOD Glucose-106* UreaN-17 Creat-0.9 Na-136 
+K-4.5 Cl-100 HCO3-24 AnGap-12
+___ 07:44AM BLOOD Calcium-10.3 Phos-2.9 Mg-2.2
+
+DISCHARGE LABS:
+___ 07:23AM BLOOD WBC-10.0 RBC-4.54 Hgb-13.0 Hct-41.0 
+MCV-90 MCH-28.6 MCHC-31.7* RDW-13.5 RDWSD-44.4 Plt ___
+___ 07:23AM BLOOD Glucose-94 UreaN-25* Creat-0.9 Na-141 
+K-4.2 Cl-104 HCO3-26 AnGap-11
+___ 07:23AM BLOOD Calcium-10.4* Phos-2.7 Mg-2.2
+___ 08:55AM BLOOD PTH-124*
+___ 07:40AM BLOOD 25VitD-43
+
+MICRO:
+__________________________________________________________
+___ 1:30 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 12:35 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending):    No growth to date. 
+__________________________________________________________
+___ 12:33 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      STAPHYLOCOCCUS, COAGULASE NEGATIVE.    >100,000 CFU/mL. 
+__________________________________________________________
+___ 12:01 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+
+IMAGING & STUDIES:
+
+___ Imaging CT HEAD:
+Non-displaced RIGHT occipital condyle fracture without extension 
+to skull base. No other fractures or dislocations. 
+
+___ Imaging CT TORSO (CHEST, ABD & PELVIS)
+___ Imaging CT L-SPINE
+___ Imaging CT T-SPINE
+From outside facility, reports not available but reportedly 
+unremarkable.
+
+___ Imaging TIB/FIB (AP & LAT) LEFT:
+No acute bony injury seen.
+
+EKG ___
+Normal sinus rhythm
+Normal ECG
+When compared with ECG of ___ 15:26, No significant 
+change was found
+
+CXR ___ 
+Lungs are low volume with moderate cardiomegaly.  There is a 
+small left 
+pleural effusion.  No pneumothorax is seen. 
+  
+
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES:
+==========================
+FOR REHAB:
+[] Discharged on TMP/SMX x 5 days for possible UTI (last day 
+___
+[] Please monitor for urinary retention and straight cath as 
+needed.
+[] Would continue standing acetaminophen and aggressive bowel 
+regimen.
+
+FOR PCP:
+[] Consider MOCA and neurocognitive testing if mental status 
+does not improve after resolution of acute illness.
+[] Started amlodipine 5mg this hospitalization. Monitor BP and 
+titrate as needed. 
+[] Aspirin held in setting of fall and questionable 
+risk/benefit, would readdress at next PCP ___.
+[] Had microscopic hematuria in setting of foley placement and 
+possible UTI. Would repeat as outpatient to ensure resolved. 
+Could consider further workup if not.
+[] Noted to have mild hypercalcemia and elevated PTH with normal 
+VitD level, consistent with primary hyperparathyroidism. 
+Consider repeat testing and evaluation if symptomatic.
+
+Health Care Proxy: VERIFIED ON: ___ 
+ Proxy name: ___   
+ Relationship: son  Phone: ___  
+ Date on form: ___  Filed on date: ___ 
+ Proxy form in chart?: ___  
+ Pt's daughter, ___, is alternate: ___  
+
+BRIEF SUMMARY:
+=================
+___ yo woman with no major medical problems, admitted following 
+mechanical fall down 10 stairs resulting in right comminuted 
+occipital condyle fracture, managed non-operatively. Course 
+complicated by asymptomatic hypertension, delirium, and possible 
+UTI. Discharged to acute rehab.
+
+ACUTE ISSUES:
+=================
+# Mechanical fall
+# Occipital condyle fracture
+Right comminuted occipital condyle fracture sustained during 
+mechanical fall, initially seen at ___ with no 
+other fracture or acute injury on CT Head, Torso, T-Spine, 
+L-Spine, and X-ray L tib/fib. Transferred to ___ on ___ 
+for evaluation by trauma surgery and spine surgery. 
+Non-operative management plan with full-time ___ J collar in 
+place until neurosurgery follow-up on ___ (Dr. ___. 
+Pain well controlled with standing acetaminophen. Discharged to 
+rehab.
+
+# Hypertension
+BP in the ED was markedly elevated as high as 210/102. Patient 
+not on any antihypertensives at home and per PCP's office, has 
+been 130-160s/70s-80s over four office visits this past year. BP 
+remained persistently elevated to 170s-180s despite pain 
+control. Started on amlodipine 5mg daily.
+
+# Toxic-metabolic encephalopathy
+Developed waxing/waning confusion and inattention consistent 
+with delirium. Triggers included possible UTI (see below), 
+traumatic injury, pain, constipation, hospitalization. CT head 
+in ED was negative and patient had no focal deficits to suggest 
+ICH nor seizure-type symptoms. 
+
+# Leukocytosis
+# Possible UTI
+Leukocytosis resolved without intervention, likely reactive to 
+trauma and constipation. Initial infectious workup was negative 
+including UA without pyruia so antibiotics were initially 
+deferred. However, urine culture returned with >100,000 CFU on 
+coagulase negative staph so patient was started on TMP/SMX on 
+discharge in case contributing to ongoing delirium.
+
+# Intermittent urinary retention
+Likely due to constipation and immobility, required intermittent 
+straight cath.
+
+# Stool impaction
+Required manual disimpaction. Discharged on aggressive bowel 
+regimen.
+
+STABLE/CHRONIC ISSUES
+=========================
+# Primary hyperparathyroidism
+Noted to have mild hypercalcemia and elevated PTH with normal 
+VitD level, consistent with primary hyperparathyroidism. 
+Consider repeat testing and evaluation if symptomatic. Continue 
+home vitamin D 1000 units daily.
+
+# Microscopic hematuria:
+Likely due to foley trauma and possible UTI. Would repeat as 
+outpatient to ensure resolution. If persistent, could consider 
+cystoscopy given previous smoking history. 
+
+# Primary ASCVD prevention:
+- Continued home atorvastatin 20mg daily and fish oil
+- Held home aspirin given questionable risk/benefit in setting 
+of fall and advanced age
+
+# B12 deficiency
+Continue home supplements.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atorvastatin 20 mg PO QPM 
+2. Aspirin 81 mg PO DAILY 
+3. Cyanocobalamin 1000 mcg PO DAILY 
+4. Fish Oil (Omega 3) 1000 mg PO DAILY 
+5. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Bisacodyl 10 mg PO/PR DAILY  
+4.  Polyethylene Glycol 17 g PO DAILY  
+5.  Senna 17.2 mg PO BID  
+6.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 5 Days 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tab-cap by 
+mouth every twelve (12) hours Disp #*10 Tablet Refills:*0 
+7.  Atorvastatin 20 mg PO QPM  
+8.  Cyanocobalamin 1000 mcg PO DAILY  
+9.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+10.  Vitamin D 1000 UNIT PO DAILY  
+11. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until you speak with your primary care 
+doctor.
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+Mechanical fall
+Right comminuted occipital condyle fracture
+Hypertensive urgency
+Toxic-metabolic encephalopathy
+Possible urinary tract infection
+Stool impaction
+
+SECONDARY DIAGNOSES
+Primary hyperparathyroidism
+Microscopic hematuria
+Primary ASCVD prevention
+B12 deficiency
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane). Orthostatic (170-->140 with transfer from bed to 
+chair). Balance deficits.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___ 
+___.
+
+WHY WAS I IN THE HOSPITAL?
+- You had a fall down a flight of stairs and broke a bone in the 
+back of your skull
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+- You were seen by the surgeons in the emergency room who 
+decided you did not need surgery
+- You were given a brace to wear around your neck
+- We gave you medications to treat your pain and blood pressure
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medicines and keep your 
+appointments.
+- Wear your brace at all times day and night until you see the 
+neurosurgeons in about two weeks.
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

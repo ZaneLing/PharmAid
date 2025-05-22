@@ -1,0 +1,358 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Left heart catheterization s/p PCI on ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man
+with a history of hypertension, hyperlipidemia and prostate
+cancer s/p combination therapy with external beam and 
+radioactive
+seed implant boost with hormonal therapy (treatment completed
+___ who presents with chest pain. He reports left arm 
+pain
+with jogging two days ago that went away after completion of his
+2.5 mile walk/run. On the day of presentation he was again
+running and noticed the same left arm pain but this time it
+persisted and radiated to the chest. The pain did not go away
+with rest and he felt extremely lethargic. He completed the day
+at work and then presented to the ED for further evaluation. The
+pain was associated with nausea and diaphoresis. He denies
+vomiting, cough, fever, shortness of breath, chills, leg
+swelling. He did take a 5 hour long car trip over the weekend. 
+No
+personal history of blood clots.  
+
+On the floor he denies any chest pain. He says that he saw his
+PCP ___ ___ and was diagnosed with a chalazion and given
+erythromycin eye ointment. He was also given a script for
+cephalexin if redness got worse. He was still having pain and
+discomfort yesterday so he decided to start the antibiotics with
+hopes it would resolve more quickly. He has been running several
+times a week for the last 9 months without any episodes of chest
+pain/shortness of breath. 
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS
+- Pre-diabetes
+- Hypertension
+- Dyslipidemia
+2. CARDIAC HISTORY
+- CABG: None
+- PERCUTANEOUS CORONARY INTERVENTIONS: None
+- PACING/ICD: None
+3. OTHER PAST MEDICAL HISTORY
+- Prostate cancer 
+- Gout 
+- CKD 
+
+ 
+Social History:
+___
+Family History:
+Father had several MIs, first at age ___ and eventually died from
+an MI at age ___. Sister died from complications of a stroke at
+age ___. Mother is living and healthy. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:
+=============================
+VS: 98.2F, BP 126/80, HR 64, RR 18, 95% on RA
+GENERAL: NAD
+HEENT: AT/NC, anicteric sclera, MMM, chalazion present on lower
+lid of right eye with minimal surrounding erythema 
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, obese, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DISCHARGE PHYSICAL EXAMINATION
+===============================
+Vitals:   ___ 0353 Temp: 98.1 PO BP: 108/73 L Sitting HR: 
+66
+RR: 16 O2 sat: 97% O2 delivery: RA 
+General:  WDWN middle aged male in NAD, reclining in bed.
+Neck: JVP not elevated 
+Lungs:  Speaking in full sentences, normal WOB on RA. LCTAB. No
+wheezing, rhonchi, rales.
+CV:  RRR, distant heart sounds. Normal S1, S2. No murmurs
+appreciated.
+Abdomen:  Soft, nontender, nondistended.
+Ext:  Warm well-perfused. 2+ peripheral pulses. No ___ edema.
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 09:28PM BLOOD WBC-8.5 RBC-4.65 Hgb-12.9* Hct-40.9 
+MCV-88 MCH-27.7 MCHC-31.5* RDW-14.2 RDWSD-45.7 Plt ___
+___ 09:28PM BLOOD Neuts-89.4* Lymphs-6.3* Monos-3.9* 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-7.61* AbsLymp-0.54* 
+AbsMono-0.33 AbsEos-0.00* AbsBaso-0.02
+___ 09:28PM BLOOD ___ PTT-24.6* ___
+___ 09:28PM BLOOD Glucose-119* UreaN-20 Creat-1.4* Na-141 
+K-4.6 Cl-102 HCO3-29 AnGap-10
+___ 09:28PM BLOOD CK(CPK)-340*
+___ 09:28PM BLOOD CK-MB-31* MB Indx-9.1*
+___ 09:28PM BLOOD cTropnT-0.10*
+
+___ 05:55AM BLOOD CK-MB-83* cTropnT-0.59*
+
+DISCHARGE LABS
+==============
+___ 07:18AM BLOOD WBC-5.0 RBC-4.53* Hgb-12.9* Hct-39.5* 
+MCV-87 MCH-28.5 MCHC-32.7 RDW-14.2 RDWSD-45.2 Plt ___
+___ 07:18AM BLOOD ___ PTT-26.1 ___
+___ 07:18AM BLOOD Glucose-97 UreaN-19 Creat-1.3* Na-142 
+K-4.5 Cl-102 HCO3-26 AnGap-14
+___ 07:18AM BLOOD Calcium-9.3 Phos-3.7 Mg-2.0
+
+IMAGING
+=========
+___ CXR
+IMPRESSION:
+No acute cardiopulmonary process. 
+
+___ TTE
+CONCLUSION:
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. There is normal left ventricular wall thickness 
+with a normal cavity size. A left ventricular thrombus/mass 
+cannot be excluded. Overall left ventricular systolic function 
+is moderately depressed secondary to global hypokinesis with 
+focal akinesis of the inferior and posterior walls. The visually 
+estimated left ventricular ejection fraction is 35%. There is no 
+resting left ventricular outflow tract gradient. Mildly dilated 
+right ventricular cavity with SEVERE global free wall 
+hypokinesis. The aortic sinus is mildly dilated with mildly 
+dilated ascending aorta. The aortic arch diameter is normal. The 
+aortic valve leaflets (3) are
+mildly thickened. There is no aortic valve stenosis. There is no 
+aortic regurgitation. The mitral valve leaflets appear 
+structurally normal with no mitral valve prolapse. There is 
+trivial mitral regurgitation.
+The tricuspid valve leaflets appear structurally normal. There 
+is physiologic tricuspid regurgitation. The estimated pulmonary 
+artery systolic pressure is normal. There is no pericardial 
+effusion.
+IMPRESSION: probable multivessel obstructive coronary artery 
+disease
+
+___ CARDIAC CATH REPORT
+Coronary Description
+The coronary circulation is right dominant.
+- LM: The Left Main, arising from the left cusp, is a large 
+caliber vessel. This vessel bifurcates into the Left Anterior 
+Descending and Left Circumflex systems.
+- LAD: The Left Anterior Descending artery, which arises from 
+the LM, is a large caliber vessel. The Septal Perforator, 
+arising from the proximal segment, is a small caliber vessel. 
+The Diagonal, arising from the proximal segment, is a medium 
+caliber vessel.
+- Cx: The Circumflex artery, which arises from the LM, is a 
+large caliber vessel. The ___ Obtuse Marginal, arising from the 
+proximal segment, is a medium caliber vessel. The ___ Obtuse 
+Marginal, arising from the mid segment, is a medium caliber 
+vessel.
+- RCA: The Right Coronary Artery, arising from the right cusp, 
+is a large caliber vessel. There is a 5mm X 30mm drug-eluting 
+stent (___) in the proximal segment. There is a 100% 
+stenosis in the proximal segment. There is a moderate thrombus 
+in the proximal segment. The Acute Marginal, arising from the 
+proximal segment, is a small caliber vessel. The Right Posterior 
+Descending Artery, arising from the distal segment, is a medium 
+caliber vessel. The Right Posterolateral Artery, arising from 
+the distal segment, is a medium caliber vessel.
+
+ 
+Brief Hospital Course:
+PATIENT SUMMARY
+================
+Mr. ___ is a ___ man with a history of hypertension, 
+hyperlipidemia, sarcoidosis and prostate cancer who presented 
+with exertional chest pain and troponin elevation consistent 
+with type I NSTEMI. Echo showed reduced EF of 35% with 
+inferolateral akinesis and global hypokinesis. He underwent LHC 
+with PCI on ___ with DES to proximal RCA, which had 100% 
+occlusion. 
+
+ACUTE ISSUES
+===========
+#Type I NSTEMI
+#CHEST PAIN. Patient presents with chest pain on exertion and 
+elevation of cardiac enzymes to 0.59, no ischemic ECG changes. 
+Started on heparin gtt and maintained chest pain free until left 
+heart catheterization on ___. One DES was placed to the 
+proximal RCA without complication. He was started on ticagrelor, 
+aspirin, and atorvastatin.
+
+#HFrEF (35%)
+Newly discovered on TTE this admission, unknown baseline, but 
+suspected secondary to acute ACS. Echo noted SEVERE global free 
+wall hypokinesis. Normal left ventricular wall thickness with a 
+normal cavity size. Overall left ventricular systolic function 
+is moderately depressed secondary to global hypokinesis with 
+focal akinesis of the inferior and posterior walls. Likely 
+ischemic cardiomyopathy in the setting of proximal RCA 
+occlusion. Patient also had possible pulmonary sarcoidosis in 
+past, so cannot rule out cardiac sarcoid in addition to 
+ischemia. Patient was started on metoprolol, and continued home 
+lisinopril at reduced dose. 
+
+#Hordeolum(stye). 
+Diagnosed with a chalazion by PCP however on exam appears more 
+consistent with stye. Patient started PO antibiotics due to 
+ongoing pain and discomfort however on exam does not appear to 
+be secondarily infected. Conitnued Erythromycin drops BID and 
+warm compress to eye 4x daily.
+
+CHRONIC ISSUES
+===============
+#CKD. 
+Creatinine at baseline, 1.3-1.5. Gently hydrated pre/post cath.
+
+#Hypertension 
+Held ACEI prior to cath, then restarted on reduced dose as BP 
+was well controlled.
+
+TRANSITIONAL ISSUES
+===================
+Discharge weight: 118.7 kg
+Discharge Cr: 1.3
+
+[ ] Continue Ticagrelor (Brilinta) for 12 months minimum. Do not 
+hold for any procedure.
+[ ] Continue aspirin indefinitely 
+[ ] Continue atorvastatin 80 mg
+[ ] Discontinued PDE-5 inhibitor as SL nitro was prescribed PRN.
+[ ] Recommend repeat TTE in ___
+
+#CODE STATUS: full
+#CONTACT: wife ___ ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Erythromycin 0.5% Ophth Oint 0.5 in BOTH EYES BID 
+2. Lisinopril 10 mg PO DAILY 
+3. Simvastatin 20 mg PO QPM 
+4. Cialis (tadalafil) 20 mg oral ___ hours before sex 
+5. Cephalexin 1000 mg PO Q12H  START ONLY IF EYELID REDNESS 
+WORSENS  
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+3.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth daily Disp 
+#*30 Tablet Refills:*0 
+4.  Nitroglycerin SL 0.3 mg SL Q5MIN:PRN chest pain 
+RX *nitroglycerin 0.3 mg 1 tablet(s) sublingually every 5 
+minutes Disp #*1 Package Refills:*0 
+5.  TiCAGRELOR 90 mg PO BID to prevent stent thrombosis 
+Duration: 30 Days 
+RX *ticagrelor [Brilinta] 90 mg 1 tablet(s) by mouth twice daily 
+Disp #*60 Tablet Refills:*0 
+6.  Lisinopril 2.5 mg PO DAILY 
+RX *lisinopril 2.5 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+7.  Cephalexin 1000 mg PO Q12H  START ONLY IF EYELID REDNESS 
+WORSENS   
+8.  Erythromycin 0.5% Ophth Oint 0.5 in BOTH EYES BID  
+9. HELD- Cialis (tadalafil) 20 mg oral ___ hours before sex  
+This medication was held. Do not restart Cialis until you 
+discuss with your regular doctor
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+================
+Type I NSTEMI
+
+SECONDARY DIAGNOSES
+==================
+Ischemic Cardiomyopathy
+Hypertension
+Chronic Kidney Disease 
+Chalazion
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+  
+It was a pleasure taking care of you at the ___ 
+___! 
+ 
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because you had a heart attack  
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+-  Your heart arteries were examined (cardiac catheterization) 
+which showed a blockage of one of the arteries. This was opened 
+by placing a tube called a stent in the artery. You were given 
+medications to prevent future blockages.  
+- It is very important to take your aspirin and ticagrelor (also 
+known as Brilinta) every day.  
+- These two medications keep the stents in the vessels of the 
+heart open and help reduce your risk of having a future heart 
+attack.  
+- If you stop these medications or miss ___ dose, you risk causing 
+a blood clot forming in your heart stents and having another 
+heart attack  
+- Please do not stop taking either medication without taking to 
+your heart doctor.  
+- You are also on other new medications to help your heart, 
+including metoprolol and atorvastatin. 
+- You should also continue taking your lisinopril at a decreased 
+dose.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Please take all medicines as prescribed and follow up with 
+your doctors. 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+Your ___ Healthcare Team  
+ 
+Followup Instructions:
+___

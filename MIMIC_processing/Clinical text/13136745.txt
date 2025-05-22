@@ -1,0 +1,202 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nausea, vomiting
+s/p Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+This is a ___ with a history of frequent UTIs (q3-4months), 
+mild protein C deficiency, lymphoma ___ years ago and 
+hypertension who presents nausea, vomiting and fatigue. The 
+patient reports that she was in her USOH until ___ prior 
+to admission when she suffered a fall, which she believes was 
+mechanical. She reports that she was walking down the sidewalk 
+carrying two heavy bags of groceries when she suddenly fell. She 
+denies LOC however fell on her right side and hit her head. She 
+had significant epistaxis thereafter. She denies preceding CP, 
+palpitations, SOB, or weakness however does remember feeling 
+slightly fatigued. After falling she did not seek medical 
+attention. She continued feeling fatigued through ___ and 
+___ and reported headache. On day of presentation, she began 
+having nausea and vomiting and decided to present to the ED for 
+evaluation. She reports that she often feels this way prior to 
+have UTI. She noted malodorous urine and hematuria but denied 
+dysuria.
+
+In ED, initial VS were 97.6 90 193/93 18 100% RA. Labs showed 
+leukocytosis to 14, hyponatremia to 125 and +UA. She received 
+zofran x2, tylenol, CTX 1g and 1LNS. She underwent a CT 
+head/neck given fall which did not show an acute process. She 
+was then admitted to medical floor for further evaluation. 
+
+On encounter, she reports a dull headache across the front of 
+the head.
+
+ROS: A 10 point ROS was completed and otherwise negative.
+ 
+Past Medical History:
+Hypertension
+Protein C Deficiency - previously on Warfarin
+Non Hogdkins Lymphoma, treated ___ years with Rituximab
+ 
+Social History:
+___
+Family History:
+One son with epilepsy and one son with ___ C deficiency
+ 
+Physical Exam:
+VS: 97.4 136/80 73 20 97% RA
+Gen: tired appearing, NAD
+HEENT: bilateral infero-orbital ecchymoses
+CV: nls1s2 RRR, no m/r/g
+Pulm: CTAB
+Abd: soft, NT ND +BS
+Ext: wwp, no edema
+Neuro: grossly intact
+Skin: no obvious concerning lesions.
+ 
+Pertinent Results:
+Admission Labs:
+___ 11:24AM   GLUCOSE-116* UREA N-8 CREAT-0.6 SODIUM-125* 
+POTASSIUM-3.4 CHLORIDE-86* TOTAL CO2-24 ANION GAP-18
+___ 11:24AM   estGFR-Using this
+___ 11:24AM   WBC-14.0* RBC-4.29 HGB-13.2 HCT-38.3 MCV-89 
+MCH-30.8 MCHC-34.5 RDW-12.9 RDWSD-42.1
+___ 11:24AM   NEUTS-73.9* ___ MONOS-5.7 EOS-0.3* 
+BASOS-0.3 IM ___ AbsNeut-10.35* AbsLymp-2.72 AbsMono-0.80 
+AbsEos-0.04 AbsBaso-0.04
+___ 11:24AM   PLT COUNT-230
+___ 10:52AM URINE  HOURS-RANDOM
+___ 10:52AM URINE  UHOLD-HOLD
+___ 10:52AM URINE  COLOR-Yellow APPEAR-Hazy SP ___
+___ 10:52AM URINE  BLOOD-LG NITRITE-NEG PROTEIN-30 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-LG
+___ 10:52AM URINE  RBC->182* WBC-125* BACTERIA-FEW 
+YEAST-NONE EPI-<1
+___ 10:52AM URINE  MUCOUS-RARE
+
+Discharge Labs:
+___ 09:25PM   SODIUM-131* POTASSIUM-3.2* CHLORIDE-92*
+___ 01:30PM BLOOD Na-132* K-3.6 Cl-96
+___ 06:20AM BLOOD WBC-8.4 RBC-4.38 Hgb-13.7 Hct-38.8 MCV-89 
+MCH-31.3 MCHC-35.3 RDW-13.0 RDWSD-42.2 Plt ___
+
+Urine Culture:
+Time Taken Not Noted     Log-In Date/Time: ___ 8:35 am
+      URINE     Site: NOT SPECIFIED
+
+   URINE CULTURE (Preliminary): 
+      ESCHERICHIA COLI.    >100,000 ORGANISMS/ML.. 
+         PRESUMPTIVE IDENTIFICATION. 
+
+Imaging:
+- CT head: No acute intracranial process.
+- CT neck:
+1. No cervical spine fracture.
+2. Mild anterior disc widening at C6-7 and mild anterolisthesis 
+at multiple levels while likely degenerative, without prior 
+studies for comparison, ligamentous injury cannot be entirely 
+excluded.
+3. Enlarged and multinodular right thyroid lobe, nonemergent 
+thyroid
+ultrasound is recommended for further evaluation.
+ 
+RECOMMENDATION(S): Enlarged and multinodular right thyroid lobe, 
+nonemergent thyroid ultrasound is recommended for further 
+evaluation.\
+
+ 
+Brief Hospital Course:
+___ with history of HTN, ?Protein C deficiency and recurrent 
+UTI presenting with nausea vomiting and dysuria found to have 
+hyponatremia and positive UA.
+
+ACTIVE ISSUES:
+# Hyponatremia: Patient presented with fatigue, nausea and 
+vomiting and was found to be hyponatremic, which improved with 
+fluids suggesting pre-renal cause. Na on discharge was 132. 
+Patient was encouraged to continue drinking fluids
+
+# Acute Cystitis: Likely reason for fatigue, nausea and 
+vomiting. Had leukocytosis on admission which resolved with 
+initiation of antibiotics. Patient intially on ceftriaxone and 
+transitioned to cipro at discharge. Culture pending at 
+discharge. Will follow up and update patient if adjustment is 
+needed
+
+# Hypertension: Patient initially hypertension on admission 
+however she had not been taking home mediation because of 
+nausea/vomiting. Started her on amlopidine 10mg (as she takes 
+Lercandipine 10mg, which is non-formulary in US). Patient ran 
+out of medication and will be returning back to ___ on ___. 
+Given short Rx for amlopidine while she is here.
+
+# Recent Fall: Patient had mechanical fall. CT head and neck 
+were largely unremarkable though CT neck unable to fully rule 
+out ligamentous injury. Exam though was reassuring as she had 
+full ROM of neck without pain
+
+# Incident Finding: Patient found to have irregular, enlarged 
+thyroid on CT neck. TSH normal. Advised patient to have 
+ultrasound when she returns home.
+ 
+Medications on Admission:
+Lercandipine 10mg daily
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*8 Tablet 
+Refills:*0
+2. Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl [Cipro] 500 mg 1 tablet(s) by mouth twice 
+a day Disp #*10 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Urinary Tract Infection
+Hyponatremia
+Hypertension
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were admitted to hospital because you were feeling nauseated 
+and fatigued. You were found to have low sodium which is likely 
+the result of dehydration in the setting of a urinary tract 
+infeciton. You will need to take an antibiotic for 5 additional 
+days. In addition please be sure to take in extra fluids to 
+remain hydrated. 
+
+We are prescribing you a medication for your blood pressure 
+called amlopidine. This is closely related to your regular 
+medication, Lercandipine, which is not available in the US. 
+Please take this medication until you return back home and can 
+refill your own prescription.
+
+Lastly, the CAT scan of your neck showed that your thyroid was 
+slightly irregular and enlarged. You should visit your primary 
+care doctor when you return home to have an ultrasound of your 
+thyroid. We checked your thyroid function here and it normal.
+ 
+Followup Instructions:
+___

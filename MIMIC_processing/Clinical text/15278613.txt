@@ -1,0 +1,278 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Keflex
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dizzy
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+PCP: 
+Name: ___ 
+Location: ___ OF GERONTOLOGY 
+Address: ___, ___ 
+Phone: ___ 
+Fax: ___ 
+Email: ___ 
+
+CC:dizziness
+
+___ yo female admitted with acute onset of dizziness that started 
+on the morning of admission.  She reports that she awoke in the 
+morning with abdominal pain that she attributes to eating old 
+blue cheese the night before.  She then developed severe nausea 
+and reports that she had at least 15 episodes of emesis - 
+nonbloody.  She denies any chest pain, HA, SOB, numbness or 
+weakness. No hearing loss. No recent URI. No tinnitus.  She also 
+notes that she felt her L eye "spinning".  No recent headaches, 
+visual changes, numbness, weakness, weight loss.
+
+In ER: (Triage Vitals:96.8 60 131/86 18 100) Neurology was 
+called and requested a non-con head CT which was normal. ___ 
+___ positive.  Also noted to have asymptomatic tachycardia 
+to 120 that on EKG with a known h/o SVT.  She received 25mg of 
+metoprolol in the ED and her HR dropped into the high ___ on 
+the floor.  
+
+ROS:  
+-Constitutional: [x]WNL []Weight loss []Fatigue/Malaise []Fever 
+[]Chills/Rigors []Nightweats []Anorexia  
+-Eyes: []WNL []Blurry Vision []Diplopia []Loss of Vision 
+[]Photophobia  
+-ENT: [x]WNL []Dry Mouth []Oral ulcers []Bleeding gums/nose 
+[]Tinnitus []Sinus pain []Sore throat  
+-Cardiac: [x]WNL []Chest pain []Palpitations ___ edema 
+[]Orthopnea/PND []DOE  
+-Respiratory: []WNL []SOB []Pleuritic pain []Hemoptysis []Cough  
+
+-Gastrointestinal: []WNL []Nausea []Vomiting []Abdominal pain 
+[]Abdominal Swelling []Diarrhea []Constipation []Hematemesis 
+[]Hematochezia []Melena  
+-Heme/Lymph: []WNL []Bleeding []Bruising []Lymphadenopathy  
+-GU: []WNL []Incontinence/Retention []Dysuria []Hematuria 
+[]Discharge []Menorrhagia  
+-Skin: [x]WNL []Rash []Pruritus  
+-Endocrine: []WNL []Change in skin/hair []Loss of energy 
+[]Heat/Cold intolerance  
+-Musculoskeletal: [x]WNL []Myalgias []Arthralgias []Back pain  
+-Neurological: [x ]WNL []Numbness of extremities []Weakness of 
+extremities []Parasthesias []Dizziness/Lightheaded []Vertigo 
+[]Confusion []Headache  
+
+ 
+Past Medical History:
+borderline hyperlipidemia
+h/o atrial tachycardia confirmed on holter in ___
+Chronic low back pain
+ 
+Social History:
+___
+Family History:
+father had a possible heart attack, but died at ___
+from stomach cancer. Mother had a stroke at ___ of age, but died
+at ___ of other causes.  
+
+ 
+Physical Exam:
+VS: 96.9 122/74 51 16 99RA
+Gen: Well appearing, no acute distress, awake, alert, 
+appropriate, and oriented x 3 
+Skin: warm to touch, no apparent rashes. 
+HEENT: No conjunctival pallor, no scleral jaundice, PERRLA,  OP 
+clear, no cervical LAD 
+CV:  RRR no audible m/r/g, pulses 2+, no ___ edema
+Lungs: clear to auscultation 
+Abd: soft, NT, normal BS 
+Ext: No C/C/E
+Neuro: (neurology team)
+Neurologic:  
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Pt. was able to name both high and low frequency objects. Able 
+to
+read without difficulty. Speech was not dysarthric. Able to
+follow both midline and appendicular commands. There was no
+evidence of apraxia or neglect.  
+
+CN  
+I: not tested  
+II,III: VFF to confrontation, pupils 4mm->2mm bilaterally, fundi
+normal  
+III,IV,VI: EOMI, no ptosis. Right>left lateral gaze nystagmus  
+V: sensation intact V1-V3 to LT  
+VII: Facial strength intact/symmetrical, symm forehead wrinkling 
+
+
+VIII: hears finger rub bilaterally  
+IX,X: palate elevates symmetrically, uvula midline  
+XI: SCM/trapezeii ___ bilaterally  
+XII: tongue protrudes midline, no dysarthria  
+Motor: Normal bulk and tone; no asterixis or myoclonus. No
+pronator drift.  
+Delt Bi Tri WE FE Grip IO  
+C5 C6 C7 C6 C7 C8/T1 T1  
+L ___ 5  
+R ___ 5  
+ 
+IP Quad ___ PF  
+L2 L3 L4-S1 L4 L5 S1/S2  
+L ___  
+R ___  
+Reflex: No clonus  
+Bi Tri Bra Pat An Plantar  
+C5 C7 C6 L4 S1 CST  
+L ___ 2 ___ Flexor  
+R ___ 2 ___ Flexor  
+-Sensory: No deficits to light touch, pinprick. No extinction to
+DSS. 
+ 
+-Coordination: Mild action tremor bilaterally, NO
+dysdiadochokinesia noted. No dysmetria on FNF or HKS 
+bilaterally.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing. When she stands up she tends to lean backwards. ___ in
+place with slight retropulson component.
+
+-___ positive for her symptoms and presence of 
+nystagmus
+and head trust positive with symptoms resolving within 2 
+minutes.
+
+ 
+Pertinent Results:
+Admission labs:
+CBC 4.9 > 12.9/38.8 < 225
+Chem panel: 141 | 111 | 11 < 113
+            3.8 | 22 | 0.5
+LFTs 18 > 0.___ < 23
+Albumin 3.7
+UA negative
+
+CT head 
+IMPRESSION: No acute intracranial abnormality. Please note that 
+MRI is more sensitive in detecting acute ischemia and if 
+clinical concern persists, should be considered, if no 
+contraindication.  
+
+ECG:sinus brady RBBB. normal axis, not ST changes
+ECG with tachycardia: atrial tachycardia with rate 120. No ST 
+changes. 
+
+TTE:
+The left atrium is mildly elongated. Left ventricular wall 
+thickness, cavity size and regional/global systolic function are 
+normal (LVEF >55%). Transmitral and tissue Doppler imaging 
+suggests normal diastolic function, and a normal left 
+ventricular filling pressure (PCWP<12mmHg). Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic stenosis. Trace aortic 
+regurgitation is seen. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. There is no mitral 
+valve prolapse. The estimated pulmonary artery systolic pressure 
+is normal. There is no pericardial effusion. 
+
+IMPRESSION: Normal biventricular cavity sizes with preserved 
+global and regional biventricular systolic function. Trace 
+aortic regurgitation. Frequent bursts of SVT.
+
+ 
+Brief Hospital Course:
+___ yo female admitted with peripheral vertigo likely secondary 
+to BPPV. 
+
+* Benign positional vertigo - She was seen in the ED by 
+neurology who felt based on her positive ___, BPV was 
+the likely etiology of her vertigo.  Another possibility could 
+be vestibular neuronitis secondary to her gastroenteritis, but 
+less likely based on her exam.  She was given IVF, antiemetics 
+and meclizine PRN.  She was also instructed on the Epley 
+maneuver and given a handout on this to practice at home.  She 
+was seen by ___ and given instructions again re:vestibular 
+training.  On the day of discharge, she was able to ambulate 
+with a cane with only minimal dizziness.  Given the acuity of 
+her symptoms and that the most likely etiology is BPV, further 
+imaging with MRI was not pursued.  She did have a negative 
+noncontrast head CT.
+
+* Atrial tachycardia - She was noted to have atrial tachycardia 
+on her EKG.  She did have a Holter monitor in ___ that 
+documented this atrial rhythm and she was not placed on a beta 
+blocker or CCB at the time.  She has never had symptoms of chest 
+pain, shortness of breath, lightheadedness or dizziness.  She 
+reports that she only sometimes feels her tachycardia.  She had 
+a TTE which revealed normal biatrial systolic function.  Given 
+that she was asymptomatic, she was not started on beta blockers 
+and CCB given her acute episode of dizziness.  She was 
+instructed to follow up with her primary care doctor ___ was 
+emailed and made aware of this issue).  She was also instructed 
+to return to the ED if she experience any of the above symptoms 
+and she expressed understanding of this.  
+
+All other medical issues remain stable and no further medication 
+changes were made.
+ 
+Medications on Admission:
+none
+ 
+Discharge Medications:
+1. Meclizine 12.5 mg Tablet Sig: Two (2) Tablet PO Q8H (every 8 
+hours) as needed for dizzy.
+Disp:*20 Tablet(s)* Refills:*0*
+2. ZOFRAN ODT 4 mg Tablet, Rapid Dissolve Sig: One (1) Tablet, 
+Rapid Dissolve PO every eight (8) hours as needed for nausea.
+Disp:*15 Tablet, Rapid Dissolve(s)* Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Benign positional vertigo
+
+Atrial tachycardia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+You were admitted to the hospital with vertigo and were 
+diagnosed with BPPV.  You were seen by the neurologists and you 
+improved at the time of discharge.  I will give you a 
+prescription for meclizine and you should take then when you 
+feel dizzy.  You were also found to have atrial tachycardia, or 
+a fast HR.  You were given a medication in the emergency room, 
+but it decreased your heart rate.  You did not have chest pain, 
+shortness of breath with this.  You will need to follow up with 
+your primary care doctor regarding this issue.  If you notice 
+that your heart remains elevated or is associated with chest 
+pain, shortness of breath, lightheadedness or dizziness, then 
+you should come to the emergency room
+
+Medication changes:
+1. Meclizine (for your dizziness) was added
+2. Zofran was added for nausea
+ 
+Followup Instructions:
+___

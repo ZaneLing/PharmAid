@@ -1,0 +1,301 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+___
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ is a ___ male, on Plavix, who presents to ___ 
+___ on ___ with a mild TBI s/p fall with headstrike while
+intoxicated.
+
+Of note patient is a poor historian and still intoxicated at the
+time of examination. History is given primarily by ED resident,
+who obtained history from OSH. 
+
+Patient reportedly had a fall down the stairs earlier this
+evening while intoxicated. Patient is unable to recall the 
+event,
+and states that last thing he remembers is earlier in the day
+being at home. The patient states that his son passed away
+earlier in the month and since then he has been drinking
+excessively. Patient is unable to recall his fall or events at
+OSH. Patient denies headache, dizziness, nausea or vomiting. He
+denies visual changes, or difficulties speaking. He denies new
+weakness in extremities. He does endorse weakness in his RLE d/t
+prior stroke. He denies CP or SOB. 
+
+ 
+Past Medical History:
+- Prior stroke
+- HTN
+- GERD
+ 
+Social History:
+___
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+-------------
+On admission:
+-------------
+T:97.1     BP:126/76     HR:74    RR:20    O2 Sat:93% RA
+
+GCS at the scene: Unknown 
+
+GCS upon Neurosurgery Evaluation:  15      
+
+Time of evaluation: 2:00AM
+
+Airway: [ ]Intubated   [x]Not intubated
+
+Eye Opening: 
+ [ ]1 Does not open eyes
+ [ ]2 Opens eyes to painful stimuli
+ [ ]3 Opens eyes to voice
+ [x]4 Opens eyes spontaneously
+
+Verbal:
+ [ ]1 Makes no sounds
+ [ ]2 Incomprehensible sounds
+ [ ]3 Inappropriate words
+ [ ]4 Confused, disoriented
+ [x]5 Oriented
+
+Motor:
+ [ ]1 No movement
+ [ ]2 Extension to painful stimuli (decerebrate response)
+ [ ]3 Abnormal flexion to painful stimuli (decorticate response)
+ [ ___ Flexion/ withdrawal to painful stimuli 
+ [ ]5 Localizes to painful stimuli
+ [x]6 Obeys commands
+
+Exam:
+
+Gen: WD/WN, comfortable, NAD.
+HEENT: Superficial lacerations on scalp. Anasicoric R>L by .5mm,
+EOMI, ___, TM. 
+Neck: Supple
+Extrem: warm and well perfused
+
+Neuro:
+
+Mental Status: Awake, alert, cooperative with exam, normal
+affect.
+
+Orientation: Oriented to person, place, and date (patient able 
+to
+state month and ___, but seemed a but unsure about year)
+
+Language: Speech is fluent with good comprehension. 
+
+Cranial Nerves:
+I: Not tested
+II: Pupils slight anasicoric R>L, round and reactive to light.
+Right 4-3mm, and Left 3.5-5mm
+III, IV, VI: Extraocular movements intact bilaterally without
+nystagmus.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Not tested
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: 
+Normal bulk and tone bilaterally. No abnormal movements,
+tremors. Patient has right foot drop with ___ ___ 
+from
+prior stroke. Otherwise all else, Strength full power ___
+throughout. No pronator drift
+
+Sensation: Intact to light touch
+
+-------------
+On discharge:
+-------------
+Opens eyes: [x]spontaneous [ ]to voice [ ]to noxious
+
+Orientation: [x]Person [x]Place [x]Time
+
+Follows commands: [ ]Simple [x]Complex [ ]None
+
+Pupils:  PERRL
+
+EOM: [x]Full [ ]Restricted
+
+Face Symmetric: [x]Yes [ ]NoTongue Midline: [x]Yes [ ]No
+
+Pronator Drift [ ]Yes [x]No     Speech Fluent: [x]Yes [ ]No
+
+Comprehension intact [x]Yes [ ]No
+
+Motor:
+Deltoid    Bicep  Tricep  Grip
+
+IPQuadHamATEHLGast
+Right5        5       5       3       3        3
+
+*Right foot weakness baseline from prior stroke 
+
+[x]Sensation intact to light touch
+
+ 
+Pertinent Results:
+Please see OMR for pertinent results. 
+ 
+Brief Hospital Course:
+___ who presented s/p intoxicated fall with head strike and was 
+found to have a left parietal IPH. He was admitted for 
+monitoring and treatment. 
+
+#IPH
+Patient was admitted to the ___ for close monitoring. He was 
+started on CIWA protocol due to intoxicated nature of fall. He 
+was started on 1g Keppra for seizure prophylaxis. Head CT was 
+repeated on ___ and was stable. He remained at his neurologic 
+baseline and was discharged to home on ___.
+
+#Coping
+Social work was consulted for patient coping relating to the 
+recent death of his son. On ___ the patient acknowledged 
+willingness to speak with Social work but reported that he does 
+see a counselor at home who helps with coping.
+ 
+Medications on Admission:
+- Cialis 20mg tab (frequency unknown)
+- Zolpidem Tartrate 10mg tablet, 1 tab PO QHS prn 
+- Nifedipine ER 30mg tablet, take 1 tab PO daily
+- Ranitidine 300mg capsule, 1 cap BID
+- Pravastatin Sodium 40mg tablet, take 1 tab PO daily
+- Lisinopril 40mg tablet, take 1 tab PO daily
+- Clopidogrel 75mg tablet, take 1 tab PO daily
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+Do not exceed 4g/day.  
+2.  Bisacodyl 10 mg PO DAILY:PRN Constipation - First Line  
+3.  Docusate Sodium 100 mg PO BID  
+4.  FoLIC Acid 1 mg PO DAILY  
+5.  LevETIRAcetam 1000 mg PO BID Duration: 7 Days 
+Last dose ___. 
+RX *levetiracetam 1,000 mg 1 tablet(s) by mouth twice a day Disp 
+#*13 Tablet Refills:*0 
+6.  Senna 8.6 mg PO BID:PRN Constipation - First Line 
+  Reason for PRN duplicate override: Alternating agents for 
+similar severity 
+7.  Thiamine 100 mg PO DAILY  
+8.  Lisinopril 40 mg PO DAILY  
+9.  NIFEdipine (Extended Release) 30 mg PO DAILY  
+10.  Pravastatin 40 mg PO QPM  
+11.  Ranitidine 300 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+IPH
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Discharge Instructions
+
+Traumatic Brain Injury
+
+Activity
+We recommend that you avoid heavy lifting, running, climbing, 
+or other strenuous exercise until your follow-up appointment.
+You make take leisurely walks and slowly increase your 
+activity at your own pace once you are symptom free at rest. 
+___ try to do too much all at once.
+No driving while taking any narcotic or sedating medication. 
+No contact sports until cleared by your neurosurgeon. You 
+should avoid contact sports for 6 months. 
+
+Medications
+Please do NOT take any blood thinning medication (Aspirin, 
+Ibuprofen, Plavix, Coumadin) until cleared by the neurosurgeon. 
+You have been discharged on Keppra (Levetiracetam). This 
+medication helps to prevent seizures. Please continue this 
+medication as indicated on your discharge instruction. It is 
+important that you take this medication consistently and on 
+time. 
+You may use Acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+
+What You ___ Experience:
+You may have difficulty paying attention, concentrating, and 
+remembering new information.
+Emotional and/or behavioral difficulties are common. 
+Feeling more tired, restlessness, irritability, and mood 
+swings are also common.
+Constipation is common. Be sure to drink plenty of fluids and 
+eat a high-fiber diet. If you are taking narcotics (prescription 
+pain medications), try an over-the-counter stool softener.
+Headaches:
+Headache is one of the most common symptoms after traumatic 
+brain injury. Headaches can be long-lasting. 
+Most headaches are not dangerous but you should call your 
+doctor if the headache gets worse, develop arm or leg weakness, 
+increased sleepiness, and/or have nausea or vomiting with a 
+headache. 
+Mild pain medications may be helpful with these headaches but 
+avoid taking pain medications on a daily basis unless prescribed 
+by your doctor. 
+There are other things that can be done to help with your 
+headaches: avoid caffeine, get enough sleep, daily exercise, 
+relaxation/ meditation, massage, acupuncture, heat or ice packs. 
+
+
+More Information about Brain Injuries:
+You were given information about headaches after TBI and the 
+impact that TBI can have on your family.
+If you would like to read more about other topics such as: 
+sleeping, driving, cognitive problems, emotional problems, 
+fatigue, seizures, return to school, depression, balance, or/and 
+sexuality after TBI, please ask our staff for this information 
+or visit ___
+
+When to Call Your Doctor at ___ for:
+Severe pain, swelling, redness or drainage from the incision 
+site. 
+Fever greater than 101.5 degrees Fahrenheit
+Nausea and/or vomiting
+Extreme sleepiness and not being able to stay awake
+Severe headaches not relieved by pain relievers
+Seizures
+Any new problems with your vision or ability to speak
+Weakness or changes in sensation in your face, arms, or leg
+
+Call ___ and go to the nearest Emergency Room if you experience 
+any of the following:
+Sudden numbness or weakness in the face, arm, or leg
+Sudden confusion or trouble speaking or understanding
+Sudden trouble walking, dizziness, or loss of balance or 
+coordination
+Sudden severe headaches with no known reason
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,192 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with recent STEMI on ___ c/b cardiac arrest 
+out-of-hospital (now s/p emergent cath with DES x1 to LAD at 
+___, discharged ___, presenting for 
+evaluation of ___ chest discomfort over precordium. The patient 
+reports that he thinks this is from the chest compressions 
+during CPR. It has been present ever since that time (i.e. prior 
+to last discharge), however the sensation has not improved over 
+the past few days so he wanted to make sure it wasn't another 
+heart attack.  
+ Regarding the patient's recent STEMI:  
+ - Cardiac arrest out-of-hospital  
+ - Received thrombolytics in the field  
+ - Received rescue PCI post-thrombolytics at ___ 
+___ w/ DES x1 to LAD.  
+ - Echo showed inferior and inferolateral hypokinesis with 
+preserved LV systolic function (EF 55%).  
+ - Peak troponin was 11.53, CK-MB 382.8 (CK 5121)  
+ In the ED, initial vitals: T 98.5, 66, 110/70, 18, 99%RA  
+ - Labs notable for: TropT 0.56, MB 2, otherwise CBC and 
+chem-panel wnl, UA wnl.  
+ - Imaging notable for: bedside echo with no pericardial 
+effusion per ED attending note and a grossly preserved EF. CXR 
+with no acute intrathoracic process.  
+ On arrival to the floor, pt describes the discomfort as "like 
+feeling as if he needs to burp". Exacerbated by lying flat. 
+Relieved by sitting forward. No change with exertion (stairs, 
+walking). The discomfort has been stable since time of his cath. 
+He has been compliant with all of his cardiac medications.
+ 
+Past Medical History:
+- CAD s/p STEMI on ___ (c/b cardiac arrest; s/p 1x DES to 
+LAD at ___  
+- IBS  
+
+ 
+Social History:
+___
+Family History:
+Grandmother died at age ___ of a heart attack. Mother with CAD in 
+___. No other family history of heart problems.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+Vitals: T 98.1, 112/71, 66, 14, 99%RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, neck supple, JVP 
+not elevated  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2. No murmurs. No 
+friction rub present in either supine position or sitting 
+leaning forward.  
+Abdomen: soft, non-tender, non-distended  
+Ext: Warm, well perfused, no cyanosis or edema  
+Neuro: A&Ox3. Grossly intact.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+Vitals: Tmax=98.7 HR=65-70 BP=93-112/58-71 RR=16 O2=96-100% on 
+RA  
+I/O= 480/300 (8hrs), (24hrs)  
+
+General: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear, neck supple, JVP 
+not elevated  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 + S2. No murmurs. No 
+friction rub present in either supine position or sitting 
+leaning forward.  
+Abdomen: soft, non-tender, non-distended  
+Ext: Warm, well perfused, no cyanosis or edema  
+Neuro: A&Ox3. Grossly intact. 
+
+ 
+Pertinent Results:
+PERTINENT LABS:
+===============
+___ 07:30PM BLOOD WBC-6.5 RBC-4.91 Hgb-14.7 Hct-43.5 MCV-89 
+MCH-29.9 MCHC-33.8 RDW-13.0 RDWSD-42.1 Plt ___
+___ 07:30AM BLOOD Glucose-82 UreaN-17 Creat-1.0 Na-141 
+K-4.1 Cl-105 HCO3-24 AnGap-16
+___ 07:30PM BLOOD CK-MB-2
+___ 07:30PM BLOOD cTropnT-0.56*
+___ 07:30AM BLOOD CK-MB-2 cTropnT-0.61*
+ 
+Brief Hospital Course:
+___ year-old man s/p STEMI ___ c/b cardiac arrest, received 
+lytics and now s/p 1x DES to LAD, presenting with ongoing stable 
+low grade chest pain that is unchanged in quality since 
+discharge. ECG without any signs of ischemia or pericarditis. 
+His pain was intermittent while inpatient with only several 
+brief, isolated episodes w/ ___ pain w/o associated dyspnea, 
+radiation, nausea, or diaphoresis. Troponins were 0.56 -> 0.61 
+from reported peak of 11 during primary admission. CK-MB 2 x2. 
+Pain was felt to be primarily musculoskeletal with possible 
+component of mild post-infarct pericarditis. Bedside ultrasound 
+in the emergency room showed no pericardial effusion and intact 
+systolic function. Discharged home with cardiology follow-up as 
+schedueled.
+
+TRANSITIONAL ISSUES:
+[] Consider repeat TTE to evaluate systolic function
+[] On DAPT, please follow-up for at least 12 months
+
+# CONTACT: ___ (mother, ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 80 mg PO QPM 
+3. Clopidogrel 75 mg PO DAILY 
+4. DICYCLOMine 20 mg PO TID:PRN IBS 
+5. Famotidine 20 mg PO BID 
+6. Metoprolol Succinate XL 25 mg PO DAILY 
+7. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 80 mg PO QPM  
+3.  Clopidogrel 75 mg PO DAILY  
+4.  DICYCLOMine 20 mg PO TID:PRN IBS  
+5.  Famotidine 20 mg PO BID  
+6.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+7.  Metoprolol Succinate XL 25 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Musculoskeletal chest pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___  
+
+___ was a pleasure taking care of you at the ___ 
+___! 
+
+Why was I admitted to the hospital?
+-You were admitted because you had persistent chest pain.  
+
+What happened while I was in the hospital?
+-Your blood work showed you did not have another heart attack
+
+What should I do after leaving the hospital?
+-Avoid taking ibuprofen or naproxen for chest pain, you can take 
+Tylenol if needed
+-Please keep your follow-up appointment with Dr. ___ as 
+scheduled below
+-Moderate activity is fine, please call your doctor if you 
+experiences shortness of breath or chest pressure/pain with 
+activity
+-Continue taking all your medications as previously prescribed.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!
+
+Your ___ Healthcare Team
+ 
+Followup Instructions:
+___

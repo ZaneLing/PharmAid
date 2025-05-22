@@ -1,0 +1,347 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Acute liver failure
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ is a ___ year old woman with a history of
+depression, IV drug use (unclear when she last used), who
+presented with encephalopathy and found to be in acute liver
+failure. She had about 1 week of GI symptoms that were initially
+though to be from a viral GI illness or an issue with the
+patient's gallbladder (went to an urgent care 2 days prior).
+However, yesterday she was more confused and "unable to get
+herself dressed" so her family brought her to ___.
+There she was found to be in acute liver failure with lactate
+elevated above 6. She was given pip-tazo and 4L NS and sent to
+___ in ambulance. 
+
+In the ED, 
+- Initial Vitals: Afebrile, hemodynamically stable
+- Exam: Notable for AO to self, jaundiced, unsteady gait. No
+focal neurologic deficits. 
+- Labs: Lactate 2.2 / ALT 3200 / AST 2200 / Tbili 6.5 / INR 3.8 
+/
+BUN/Cr ___ / ASA, ETOH, APAP, TCA NEGATIVE
+- Imaging: RUQUS w/ normal liver texture, patent portal vein,
+marked gallbladder wall edema, mild splenomegaly. NO ascites.
+Non-con head CT performed, read pending. 
+- Consults: Hepatology recommended ICU admission w/ NAC infusion
+and Q1H neuro checks. Transplant surgery agreed with MICU
+admission, unclear if she would be a surgical candidate at this
+time given ?recent drug use. 
+- Interventions: Lactulose given, NAC ordered
+ 
+Speaking to the patient's father ___ on the phone, he adds the
+following: the urgent care physician did recommend that they
+bring the patient to an ED. He is unsure of when/if she last 
+used
+any illicit substances. 
+
+Upon arrival to the MICU, patient reports that she feels OK and
+is very tired, asking if she can go to sleep. 
+
+ROS: Positives as per HPI; otherwise negative.  
+
+ 
+Past Medical History:
+- Depression/anxiety
+- Trichitollomania
+- IV drug use
+- Knee surgery
+ 
+Social History:
+___
+Family History:
+ No family history of liver disease
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: T 97.8 HR 67 BP 123/82 O2 94% on room air
+GEN: Awake and alert, but confused. No acute distress.
+Cooperative. 
+EYES: PERRL, EOMI, scleral icterus
+HENNT: NC/AT, hair notable for short damage and sparse hairs on
+the top of the head with spots of gray hairs
+CV: RRR, no m/r/g
+RESP: Non-labored breathing. No cough. CTAB. No wheezes or rales
+GI: Soft, non-distended, with RUQ tenderness to palpation
+SKIN: No rashes. The skin over the patient's back appears older
+than that of someone for her age with multiple scattered spots
+that have the appearance of solar lentigines 
+NEURO: ___ and self. Confused about time and specific
+building. Speech is fluent but at times answers do not match
+questions asked of her, though she is relatively re-directable 
+PSYCH: Appears euthymic
+
+DISCHARGE PHYSICAL EXAM:
+VS: 24 HR Data (last updated ___ @ 934)
+    Temp: 97.8 (Tm 98.2), BP: 120/77 (100-126/63-81), HR: 53
+(47-59), RR: 16 (___), O2 sat: 98% (98-99), O2 delivery: Ra   
+GEN: in no acute distress
+HEENT: +scleral icterus, MMM
+CV: RRR, nl s1/s2, no mgr
+RESP: CTAB, no wrr
+ABD: NABS, soft, nondistended, nontender, no HSM
+EXT: wwp, no edema
+NEURO: A/Ox3, moves all extremities, no asterixis
+SKIN: warm, dry, mild jaundice
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 10:29PM BLOOD WBC-7.5 RBC-4.70 Hgb-13.5 Hct-41.3 MCV-88 
+MCH-28.7 MCHC-32.7 RDW-14.6 RDWSD-47.0* Plt ___
+___ 10:29PM BLOOD Neuts-63 ___ Monos-11 Eos-1 Baso-1 
+Atyps-2* AbsNeut-4.73 AbsLymp-1.80 AbsMono-0.83* AbsEos-0.08 
+AbsBaso-0.08
+___ 10:29PM BLOOD ___ PTT-47.1* ___
+___ 04:02AM BLOOD Fibrino-93*
+___ 10:29PM BLOOD Glucose-62* UreaN-10 Creat-0.6 Na-136 
+K-5.4 Cl-103 HCO3-21* AnGap-12
+___ 10:29PM BLOOD ALT-3238* AST-2267* AlkPhos-175* 
+TotBili-6.5*
+___ 10:29PM BLOOD Albumin-3.2* Calcium-8.2* Phos-2.1* 
+Mg-2.1
+___ 12:46AM BLOOD Ferritn-4009*
+___ 12:46AM BLOOD IgM HBc-PND IgM HAV-POS*
+___ 10:29PM BLOOD HCG-<5
+___ 10:29PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 12:46AM BLOOD HCV Ab-NEG
+___ 10:34PM BLOOD Lactate-2.2*
+
+DISCHARGE LABS:
+===============
+___ 05:09AM BLOOD WBC-5.1 RBC-4.31 Hgb-12.4 Hct-37.7 MCV-88 
+MCH-28.8 MCHC-32.9 RDW-14.9 RDWSD-47.3* Plt ___
+___ 05:09AM BLOOD ___ PTT-34.9 ___
+___ 05:09AM BLOOD Glucose-90 UreaN-6 Creat-0.7 Na-140 K-4.6 
+Cl-104 HCO3-25 AnGap-11
+___ 05:09AM BLOOD ALT-1069* AST-356* LD(LDH)-541* 
+AlkPhos-143* TotBili-7.7*
+___ 05:09AM BLOOD Calcium-8.7 Phos-2.9 Mg-2.2
+
+PERTINENT LABS:
+===============
+___ 05:13AM BLOOD Calcium-8.1* Phos-3.5 Mg-2.0 Iron-35
+___ 05:13AM BLOOD calTIBC-168* TRF-129*
+___ 12:46AM BLOOD Ferritn-4009*
+___ 05:13AM BLOOD HBsAg-NEG HBsAb-POS HBcAb-NEG
+___ 12:46AM BLOOD IgM HBc-POS* IgM HAV-POS*
+___ 12:46AM BLOOD Smooth-NEGATIVE
+___ 12:46AM BLOOD ___
+___ 12:46AM BLOOD HCV Ab-NEG
+___ 03:50PM BLOOD HBV VL-NOT DETECT
+___ 12:46AM BLOOD CMV VL-NOT DETECT
+___ 12:46AM BLOOD HCV VL-NOT DETECT
+
+IMAGING:
+========
+
+___ HEAD
+OSH - no report
+
+___ ABDOMEN
+OSH - no report
+
+___ US
+FINDINGS: 
+LIVER: The hepatic parenchyma appears within normal limits. The 
+contour of the
+liver is smooth. There is no focal liver mass. The main portal 
+vein is patent
+with hepatopetal flow. There is no ascites.
+BILE DUCTS: There is no intrahepatic biliary dilation.
+  CHD: 0.6 cm
+GALLBLADDER: There is no evidence of stones or gallbladder wall 
+thickening.
+PANCREAS: The imaged portion of the pancreas appears within 
+normal limits,
+without masses or pancreatic ductal dilation, with portions of 
+the pancreatic
+tail obscured by overlying bowel gas.  A 0.8 cm hypodensity 
+anterior to the
+pancreatic head likely represents a prominent periportal lymph 
+node.
+SPLEEN:  Normal echogenicity.
+  Spleen length: 13.1
+KIDNEYS:  Limited views of the right kidney show no 
+hydronephrosis.
+RETROPERITONEUM:  The visualized portions of aorta and IVC are 
+within normal
+limits.
+IMPRESSION:
+1. The liver echotexture is normal without focal liver lesions.  
+The main portal vein is patent.
+2. The gallbladder is not distended however is severely 
+edematous with wall thickening.  Nuclear medicine HIDA scan is 
+recommended for further evaluation for acute cholecystitis, 
+chronic cholecystitis, or sequela of gallbladder dysfunction.
+3. Mild splenomegaly.
+
+___ HEAD W/O CONTRAST
+There is no intra-axial or extra-axial hemorrhage, edema, shift 
+of normally
+midline structures, or evidence of acute major vascular 
+territorial
+infarction. Ventricles and sulci are normal in overall size and 
+configuration.
+The imaged paranasal sinuses are clear. Mastoid air cells and 
+middle ear
+cavities are well aerated. The bony calvarium is intact.
+
+___ X-RAY (PORTABLE AP)
+Lungs are fully expanded and clear.  Cardiomediastinal and hilar 
+silhouettes
+and pleural margins are normal.
+
+ 
+Brief Hospital Course:
+SUMMARY:
+===========
+
+___ is a ___ year old woman with a history of 
+depression and IV drug use who presented with acute fulminant 
+liver failure, found to be secondary to acute hepatitis A and B 
+infection. 
+
+===========
+
+#ACUTE LIVER FAILURE: 
+#ACUTE HEPATITIS: 
+#ENCEPHALOPATHY: 
+#COAGULOPATHY:
+Admitted with confusion, AST/ALT in ___, Tbili 6.5, INR 3.8.
+APAP levels normal, no hypotension to implicate shock as an 
+etiology of her liver failure. Concern for viral hepatitis was 
+high given history of injection drug use, hepatitis A IgM 
+returned positive. Her hepatitis Bc IgM antibody was positive as 
+well with a concomitant HBsAb positive indicating possible 
+recent acute infection (see below). There was concern for 
+___ given physical exam findings of possible progeric skin 
+on her back, premature gray hairs, in the setting of psychiatric 
+illness and presentation with acute liver failure. Her 
+ceruloplasmin was normal on the day of discharge. On imaging she 
+was also note to have incidental gall bladder wall edema likely 
+secondary to hepatitis. She completed treatment with NAC and 
+improved rapidly. Further studies for underlying hepatic disease 
+were pending at discharge. 
+
+# Hepatitis A infection:
+The patient was found to have positive HAV IgM consistent with 
+acute hepatitis A infection.
+
+# Hepatitis B infection:
+The patient was also found to have a positive HBc-IgM Positive 
+antibody indicating that she was recently acutely hepatitis B 
+infected. She did have a positive HBsAb positive indicating that 
+she is no longer infectious and hopefully in the initiation of 
+her recovery phase. Her above hepatic failure was demonstrating 
+improvement on the day of discharge. 
+
+# Substance use: 
+Patient with prior history of IVDU and some intermittent reports 
+by patient of intranasal drug use and was positive for ecstasy 
+on her toxicology screen at the outside hospital. She was 
+evaluated by addiction psychiatry who had set her up for a 
+follow up at the ___ ___ at 11am. 
+They were planning on starting her on suboxone as an inpatient 
+but the patient preferred to start at the clinic. 
+
+TRANSITIONAL ISSUES: 
+[] She will need follow up in Liver clinic to monitor her LFTs 
+as well as monitor for clearance of her hepatitis B infection 
+vs. need for treatment. 
+[] There was some concern for Wilsons disease as above. 
+Ceruloplasmin was wnl during this admission but may be falsely 
+elevated in the setting of acute inflammation. Consider 
+repeating as outpatient. 
+[] Ensure the patient has psych follow up (both addiction and 
+regular) 
+[] f/u hepatitis B VL (pending at time of discharge)
+[] her family members and any other household members will need 
+to complete their hepatitis B and A vaccination regimen
+
+DISCHARGE Hgb: 12.4
+DISCHARGE Cr: 0.7
+DISCHARGE INR: 1.2 Bili: 7.7
+DISCHARGE CODE STATUS: FULL CODE 
+CONTACT: Father (___) ___ 
+ 
+___ on Admission:
+No medications
+ 
+Discharge Medications:
+No medications
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute liver failure
+Acute hepatitis A infection 
+Acute hepatitis B infection
+Substance use
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you on this hospital stay at 
+___. 
+
+Why was I admitted to the hospital?
+
+-You were admitted to the ___ 
+ICU because you were diagnosed with acute liver failure. 
+
+What happened on this hospital stay?
+- You were found to have acute hepatitis A and hepatitis B 
+infections which likely caused your liver failure
+- Your liver tests were monitored and improved 
+- You were seen by the social work and addiction teams who 
+assisted with substance use treatment options 
+
+What do I need to do once I leave the hospital?
+
+- It is very important that you see your regular doctor
+- You should follow up in the liver clinic in 1 week
+- Your family should be vaccinated for hepatitis A and hepatitis 
+B
+- You should abstain from using recreational drugs as these 
+likely contributed to your illness 
+- Do not take more than 2 grams of Tylenol in 1 day 
+- Keep your appointment with ___ on ___ at 11:00 
+am
+
+We wish you the best!
+
+Sincerely, 
+
+Your ___ Care Team 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,313 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Isosorbide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization ___
+
+ 
+History of Present Illness:
+___ PMHx of CAD s/p DES to px LAD ___ on ASA/Plavix, HTN, who 
+is
+a transfer from ___ for further management
+of NSTEMI. 
+
+Around 2:45 ___ ___, the patient developed acute onset
+substernal chest pain radiation to his neck/left arm. Was
+evaluated at ___, initial EKG reassuring, repeat 
+EKG
+with T wave inversions in the inferior leads. Troponin elevation
+was also noted. Patient was given 2 doses of metoprolol, on the
+second IV push, the patient developed cognitive slowing and word
+finding difficulty. CT Noncon was performed, which was negative
+for intracranial hemorrhage. The patient was started on heparin
+GTT transferred here for further evaluation. Patient arrived to
+ED endorsing ___ chest pain, now up to ___.
+
+In the ED, Initial VS: 97.7 | 66 | 147/69 | 18, 97% RA 
+
+Exam:
+General: well appearing middle-aged male in NAD
+HEENT: NC, AT. Nares patent. IMMM
+Chest: CTAB
+CV: RRR, nrml s1/s2, no m/g/r.
+Abdomen: soft, non-tender, no HSM
+Ext: no edema
+Neuro: AOx3, cn2-12 intact, strength ___ in all extremities.
+
+EKG: TWI in III. 
+
+Labs notable for: 
+trop 0.25, MB: 29
+CPK: 238
+INR: 1.1.
+CBC, BMP, lytes unremarkable. 
+
+Studies notable for:
+None.
+
+Consults:
+Cardiology consulted in ED who recommended Aspirin 325,
+atorvastain 80, uptitrate nitro drip as BPs tolerate, can also
+initiate metoprolol 6.25 mg PO q6hr, trend trop/CKMB to peak, 
+and
+admit to ___. 
+
+Patient was given: 
+___ 22:26 SL Nitroglycerin SL .4 mg 
+___ 22:49 IV Heparin  800 units/hr 
+___ 22:49 IV DRIP Nitroglycerin 
+___ 22:56 PO Acetaminophen 1000 mg 
+___ 23:18 IV Morphine Sulfate 4 mg
+___ 23:29 IVF  NS 1000 mL  
+
+Vitals on transfer:  98.0 | 67 | 166/76 | 18, 98% Ra 
+ 
+
+On the floor, patient endorses HPI as above. Still having mild
+chest pain but improved from presentation. Denies any current
+SOB, palpitations. No recent orthopnea, PND, edema. 
+
+ 
+Past Medical History:
+CAD s/p DES to px LAD ___
+HTN
+Borderline HLD
+
+ 
+Social History:
+___
+Family History:
+Unknown
+ 
+Physical Exam:
+ADMISSON EXAM
+==============
+VS: 98.0 | 155/64 | 64 | 18, 98% Ra   
+GENERAL: WDWN. in NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCNAT. Sclera anicteric. PERRL. EOMI. 
+NECK: JVP of 8 cm.  
+CARDIAC: RRR. No murmurs, rubs, or gallops. no thrills or lifts. 
+
+
+LUNGS: CTAB. Respiration is unlabored with no accessory muscle
+use. No crackles, wheezes or rhonchi.  
+ABDOMEN: Mildly distended but soft, non-tender. 
+EXTREMITIES: WWP. No clubbing, cyanosis, or peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE EXAM
+===============
+T98.1, BP 113/66, HR68, RR20, PO2 98 RA  
+GENERAL: WDWN. in NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCNAT. Sclera anicteric. PERRL. EOMI. 
+NECK: JVP of 8 cm.  
+CARDIAC: RRR. No murmurs, rubs, or gallops. no thrills or lifts. 
+
+LUNGS: CTAB. Respiration is unlabored with no accessory muscle
+use. No crackles, wheezes or rhonchi.  
+ABDOMEN: Mildly distended but soft, non-tender. 
+EXTREMITIES: WWP. No clubbing, cyanosis, or peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 09:45PM BLOOD WBC-7.0 RBC-4.74 Hgb-13.6* Hct-41.6 
+MCV-88 MCH-28.7 MCHC-32.7 RDW-12.2 RDWSD-39.8 Plt ___
+___ 09:45PM BLOOD Neuts-61.6 ___ Monos-6.8 Eos-2.9 
+Baso-0.6 Im ___ AbsNeut-4.29 AbsLymp-1.93 AbsMono-0.47 
+AbsEos-0.20 AbsBaso-0.04
+___ 09:45PM BLOOD ___ PTT-150 ___
+___ 09:45PM BLOOD Glucose-103* UreaN-13 Creat-0.9 Na-145 
+K-4.2 Cl-107 HCO3-24 AnGap-14
+___ 09:45PM BLOOD CK(CPK)-238
+___ 09:45PM BLOOD Calcium-9.4 Phos-3.6 Mg-2.2
+
+OTHER PERTINENT LABS/MICRO
+===========================
+___ 09:45PM BLOOD CK-MB-29* MB Indx-12.2*
+___ 09:45PM BLOOD cTropnT-0.25*
+___ 07:15AM BLOOD CK-MB-29* cTropnT-0.22*
+___ 08:03AM BLOOD %HbA1c-6.0 eAG-126
+___ 07:15AM BLOOD Triglyc-109 HDL-40* CHOL/HD-2.8 
+LDLcalc-48
+
+IMAGING
+========
+LM
+The left main coronary artery. There is a 20% stenosis.
+
+LAD
+The left anterior descending coronary artery. There is a 30% 
+stenosis in the proximal LAD. The stent was widely patent in the 
+mid LAD and there were minor irregularities in the distal LAD. 
+There was an 80% stenosis of a medium sized diagonal branch that 
+was essentially unchanged from ___. There was a 90% stenosis of 
+the apical LAD.
+
+Circ
+The circumflex coronary artery. There is a 40% stenosis in the 
+ostium of the LCx. There was a large OMB with multiple 
+bifurcated branches. One small inferior branch was diffusely 
+disease with a 70% stenosis. The distal continuation of the 
+stent also had a 60% stenosis but the termination of the LCx 
+into the PLB was a small vessel.
+
+RCA
+The right coronary artery. There is a 90% stenosis with thrombus 
+in the proximal RCA but very diffuse disease in the mid and 
+distal RCA up to 80%, The RCA terminated in a medium sized PDA 
+with TIMI
+2 flow.
+
+DISCHARGE LABS
+===============
+___ 07:20AM BLOOD WBC-7.7 RBC-4.76 Hgb-13.8 Hct-41.9 MCV-88 
+MCH-29.0 MCHC-32.9 RDW-12.5 RDWSD-39.8 Plt ___
+___ 07:20AM BLOOD Glucose-96 UreaN-10 Creat-0.9 Na-142 
+K-4.0 Cl-107 HCO3-25 AnGap-10
+___ 07:20AM BLOOD Calcium-9.0 Phos-3.3 Mg-2.2
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES
+====================
+Discharge wt: 147.05 lb
+Discharge Cr: 0.9
+New medications: none
+Changed medications: atorvastatin 80mg qhs, metoprolol succinate 
+XL 50mg daily 
+Stopped medications: none
+
+[] consider TTE in one month to reassess EF if symptomatic 
+[] if patient is using sublingual nitro and becoming very dizzy, 
+would be concerned for inferior infarct given RCA lesion and 
+preload dependence; will likely get TTE as above but would stop 
+SL nitro if this is the case
+[] if having myalgias, consider decreasing atorvastatin dose 
+back down to 40mg as last lipid panel was at goal 
+[] will likely need to continue DAPT lifelong given complicated 
+anatomy with overlapping stents; no history of bleeding
+
+# CODE STATUS: FCC
+# CONTACT: ___, Wife, ___
+
+___ PMHx of CAD s/p DES to px LAD ___ on ASA/Plavix, HTN, who 
+is a transfer from ___ for further 
+management of NSTEMI now s/p DES to RCA x2. 
+
+# NSTEMI
+# CAD s/p DES to px LAD ___:
+Patient developed acute onset substernal chest pain radiating to 
+neck/left arm. Initial EKG reassuring, repeat EKG with T wave 
+inversions in the inferior leads. Received ASA 325. Maintained 
+on heparin gtt, nitro gtt started at ___ ED for persistent 
+chest pain. Continued heparin gtt, aspirin 81mg, Plavix 75mg 
+daily. Nitro gtt uptitrated but given persistent chest pain and 
+elevated biomarkers (trop T 0.25, MB 29, MB-I 12) patient was 
+taken to cath. Thrombus noted in RCA and s/p 2 overlapping DES. 
+Increased atorvastatin from 40 to 80mg qhs, and increased 
+metoprolol from 25 to 50mg daily. Of note has disease elsewhere 
+(30% pLAD. mid-LAD stent widely patent; minor irregularities in 
+distal LAD; 80% stenosis of diag branch unchanged; 90% stenosis 
+of apical LAD; 40% stenosis in ostium of LCx; inferior OM branch 
+70%
+stenosis. Will need outpatient TTE. 
+
+# HTN:
+Does not appear to be on any clear antihypertensives as home. 
+BPs have been stable and at goal off the nitro gtt. Increased 
+dose of metoprolol as above. 
+
+# HLD: 
+Lipids with TC 110, ___ 109, HDL 40, and LDL 48 so at goal. 
+However increased from 40 to 80mg atorvastatin on discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Clopidogrel 75 mg PO DAILY 
+3. Metoprolol Succinate XL 25 mg PO DAILY 
+4. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+5. Atorvastatin 40 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+2.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+3.  Aspirin 81 mg PO DAILY  
+4.  Clopidogrel 75 mg PO DAILY  
+5.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Non-ST elevation myocardial infarction
+
+SECONDARY DIAGNOSES
+====================
+Hypertension
+Hyperlipidemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+WHY YOU WERE HERE
+- You were having chest pain 
+
+WHAT WE DID FOR YOU 
+- You were found to have a heart attack
+- We controlled your pain with medications
+- You were taken for cardiac catheterization for which you had 
+stents placed in another artery from before
+
+WHAT YOU SHOULD DO WHEN YOU LEAVE
+- You will continue on aspirin + Plavix, likely lifelong, to 
+prevent blockages of the stents. Missing doses can cause heart 
+attack!!
+- If you have chest pain, please call your doctor immediately or 
+call ___. You can take your sublingual nitro but if you are 
+getting dizzy, please do not take any more and wait for 
+evaluation by a doctor in the emergency room. Please call your 
+doctor with any other concerning symptoms such as dizziness, 
+palpitations, shortness of breath, etc. 
+- Please follow up with your cardiologist and your primary care 
+doctor 
+
+It was a pleasure caring for you!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

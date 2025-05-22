@@ -1,0 +1,226 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+PE
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+that time showed non-bleeding
+esophageal ulcers which were thought to be the source and
+evidence of extrinsic compression in the gastric fundus from
+pancreatic mass. He required about 6 blood transfusions
+throughout that admission. His Eliquis has since been on hold. 
+He
+reports his last bloody BM was about 10 days ago. 
+
+In the ED, initial VS were: 97.7 81 167/98 16 97% RA 
+Exam notable for: guaic positive stool
+ECG: NA
+Labs showed: Hgb 11.0, discharge from ___ Hgb ~8, around ~12 on
+initial presentation at ___ 
+___ showed: CTAPE: PE in descending pulmonary artery 
+branches
+Consults: ___ for IVC filter placement
+Patient received: heparin gtt which was subsequently stopped as
+pt had guaiac positive stool on rectal exam, no actual episodes
+of  melena or hematochezia. 
+Transfer VS were: 98.1 75 157/77 16 99% RA 
+ 
+On arrival to the floor, patient endorses the story above. He
+reports since his last hospitalization he has recovered well
+without any further episodes of bloody stools. 
+
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as
+per HPI
+ 
+Past Medical History:
+HTN
+HLD
+pAfib
+Pancreatic adenocarcinoma, followed at ___ by Dr. ___ 
+___ vulgaris
+ 
+Social History:
+___
+Family History:
+Father: deceased htn, pneumonia ___
+Mother: deceased at ___ COPD
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: 97.8
+PO 178 / 80
+L Lying 74 18 98 Ra 
+GENERAL: NAD
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants
+EXTREMITIES: no cyanosis, clubbing, or edema
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DISCHARGE PHYSICAL EXAM:
+GENERAL: NAD
+HEENT: AT/NC, anicteric sclera, MMM
+NECK: supple, no LAD
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants
+EXTREMITIES: no cyanosis, clubbing, or edema
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 08:30PM BLOOD WBC-9.0 RBC-3.77* Hgb-11.0* Hct-35.8* 
+MCV-95 MCH-29.2 MCHC-30.7* RDW-16.5* RDWSD-56.2* Plt ___
+___ 08:30PM BLOOD ___ PTT-103.6* ___
+___ 08:30PM BLOOD Glucose-129* UreaN-10 Creat-1.3* Na-143 
+K-3.9 Cl-104 HCO3-25 AnGap-14
+___ 08:30PM BLOOD cTropnT-<0.01 proBNP-666
+___ 07:06AM BLOOD Calcium-8.8 Phos-3.3 Mg-1.9
+
+DISCHARGE LABS:
+___ 12:46AM BLOOD WBC-11.0* RBC-3.46* Hgb-10.4* Hct-32.3* 
+MCV-93 MCH-30.1 MCHC-32.2 RDW-16.2* RDWSD-55.2* Plt ___
+___ 01:49PM BLOOD Glucose-94 UreaN-16 Creat-1.3* Na-140 
+K-3.9 Cl-101 HCO3-26 AnGap-13
+___ 01:49PM BLOOD Calcium-9.0 Phos-3.4 Mg-1.8
+___ 01:49PM BLOOD LMWH-0.___ with PMH of afib (previously on Eliquis, on amio, metop), 
+HTN, HLD, and pancreatic cancer (currently undergoing FOLFOX at 
+___, s/p 19 completed cycles) presenting from OSH with PE. 
+Patient started on heparin gtt, and transitioned to lovenox. CBC 
+remained stable ~10 and he was stable for discharge.
+
+ACUTE ISSUES:
+===============
+#Pulmonary embolism:
+New right sided PEs noted on imaging. Likely in setting 
+ofunderlying malignancy, previously anticogulated on apixiban, 
+though now recently stopped due to recent large GI bleed. No 
+evidence of right heart strain, trop/BNP negative. LENIs 
+negative for DVT. Patient remained hemodynamically stable 
+without chest pain, dyspnea, or O2 requirement. Discussed 
+extensively of risk and benefits about starting anticoagulation 
+given his high risk of bleed and together ultimately decided to 
+start anticoagulation. He was monitored for 48 hours on heparin 
+gtt and was transitioned to ___ and monitored for additional 48 
+hours with stable CBC. Hematology was also consulted to assist 
+with decision making. Patient's oncologist Dr. ___ was also 
+made aware. Anti Xa level on day of discharge was 0.80. 
+
+CHRONIC ISSUES:
+===============
+
+#HTN: Continued metoprolol. Patient was hypertensive during this 
+hospitalization. We restarted amlodipine 5mg daily. Please 
+continue to monitor. 
+
+#Aflutter: Continue amiodarone and metoprolol. On 
+anticoagulation as above. 
+
+#HLD: Continue pravastatin 
+
+TRANSITIONAL ISSUES
+====================
+[]Please recheck CBC as outpatient
+[]Please check Creatinine as outpatient to ensure that it is not 
+rising while on Lovenox. Discharge creatinine was 1.3. 
+[]If patient bleeds, would recommend IVC filter
+[]Given re-initiation of amlodipine during this hospitalization, 
+please continue to monitor blood pressure. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amiodarone 200 mg PO MWF 
+2. Metoprolol Succinate XL 25 mg PO DAILY 
+3. Pravastatin 10 mg PO QPM 
+4. Omeprazole 40 mg PO BID 
+5. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Enoxaparin Sodium 80 mg SC Q12H 
+RX *enoxaparin 80 mg/0.8 mL 1 twice a day Disp #*14 Syringe 
+Refills:*0 
+3.  Amiodarone 200 mg PO MWF  
+4.  Metoprolol Succinate XL 25 mg PO DAILY  
+5.  Multivitamins 1 TAB PO DAILY  
+6.  Omeprazole 40 mg PO BID  
+7.  Pravastatin 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+Pulmonary Embolism
+
+SECONDARY:
+Pancreatic Cancer
+Atrial flutter
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you.
+
+Why you were admitted?
+- You were admitted because were found to have a pulmonary 
+embolism, or a blood clot in the vessels of your lung.
+
+What we did for you?
+- You were treated with blood thinning medications to help 
+stabilize the blood clots. The blood clots will eventually go 
+away with treatment.
+- We monitored you closely and your blood counts remained 
+stable.
+
+What should you do when you leave the hospital?
+- We started you on a new blood thinning medication, that you 
+inject into your skin called Lovenox. Please talk with your 
+oncologist about whether you should continue taking this 
+medication, or switch back to the blood thinning medication that 
+you were taking before. 
+- Please make sure your primary care doctor checks your blood 
+work again in a week to make sure that your kidney function is 
+still normal. 
+
+We wish you the best,
+Your ___ team.
+ 
+Followup Instructions:
+___

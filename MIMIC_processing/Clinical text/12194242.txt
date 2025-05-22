@@ -1,0 +1,287 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+AMS
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ who presented to the ED for substance 
+ingestion. Patient was highly agitated at arrival and actively 
+hallucination. Unable to obtain history from patient, but per 
+police he ingested an N-BOMB (25I-NBOMe). 
+
+In the ED, patient required restraints and sedation with 5mg 
+Haldol and lorazepam 2mg IM. He continued with agitation, 
+subsequently improved after administration of midazolam 4mg IM x 
+2.
+
+EKG notable for sinus tachycardia with QRS 84, QTc 466. Labs 
+notable for Cr 1.4, AG 26, and CK 690. WBC elevated  Repeat CK 
+increased to 3869. Urine notable for small blood, trace protein, 
+and ketones. Patient given 1L NS x 2, and 1L LR x 3. Cr 
+decreased to 1.1 with AG of 16. 
+
+Toxicology saw patient and recommended:
+-- close monitoring of exam (HR, BP, temperature, tone, 
+reflexes, clonus, etc) for worsening toxicity
+-- Supportive care with benzodiazepines
+-- avoiding further Haldol
+-- continued IVF for management ___ and CK
+-- Repeat labs q4h
+
+On the floor, patient lying comfortably in bed. Has no memory of 
+what happened the prior day, other than that he ingested 
+25I-NBOMe with group of fiends. Remembers nothing from ED stay 
+and was surprising to be in the hospital. Patient denies 
+headache, vision changes, changes
+
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. denies headache, sinus tenderness, rhinorrhea or 
+congestion. Denies cough, shortness of breath. Denies chest pain 
+or tightness, palpitations. Denies nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denies arthralgias or myalgias.  
+
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+No history of cardiac dishease in the family.
+ 
+Physical Exam:
+Admission Physical
+==================
+Vital Signs: 77 105/65 16 100% RA 
+General: Alert, oriented x 3, distracted with poor attention at 
+times
+HEENT: Mydriasis. Sclerae anicteric, MMM, oropharynx clear, 
+EOMI, PERRL, neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: CTAB, no wheezes, rales, rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: Condom catheter in place
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+normal sensation, 2+ reflexes bilaterally, ankle clonus present 
+bilaterally.
+
+Discharge Physical
+==================
+Vital Signs: 97.9 129/81 97 18 100|RA 
+General: Alert, oriented x 3, anxious to leave, difficulty 
+understanding consequences of CK elevation. 
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: CTAB, no wheezes, rales, rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: No foley
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+normal sensation, 2+ reflexes bilaterally, no ankle clonus. 
+ 
+Pertinent Results:
+Admission Labs
+==============
+___ 02:22AM BLOOD WBC-13.1* RBC-5.30 Hgb-15.8 Hct-45.0 
+MCV-85 MCH-29.8 MCHC-35.1 RDW-12.6 RDWSD-38.3 Plt ___
+___ 02:22AM BLOOD Neuts-85.7* Lymphs-8.0* Monos-4.3* 
+Eos-0.8* Baso-0.4 Im ___ AbsNeut-11.18* AbsLymp-1.05* 
+AbsMono-0.56 AbsEos-0.10 AbsBaso-0.05
+___ 02:22AM BLOOD Plt ___
+___ 02:22AM BLOOD Glucose-105* UreaN-13 Creat-1.4* Na-141 
+K-4.3 Cl-99 HCO3-20* AnGap-26*
+___ 02:22AM BLOOD CK(CPK)-690*
+___ 02:22AM BLOOD Calcium-10.1 Mg-2.8*
+___ 02:22AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+___ 04:01PM BLOOD ___ pO2-106* pCO2-46* pH-7.35 
+calTCO2-26 Base XS-0
+___ 04:01PM BLOOD Lactate-1.6
+
+Pertinent Interval Labs
+=======================
+___ 02:22AM BLOOD CK(CPK)-690*
+___ 07:45AM BLOOD CK(CPK)-3869*
+___ 03:15PM BLOOD CK(CPK)-5494*
+___ 07:55PM BLOOD CK(CPK)-4621*
+___ 11:43PM BLOOD CK(CPK)-3770*
+___ 07:35AM BLOOD CK(CPK)-3740*
+
+Discharge Labs
+==============
+___ 07:35AM BLOOD WBC-7.0 RBC-4.68 Hgb-13.7 Hct-41.0 MCV-88 
+MCH-29.3 MCHC-33.4 RDW-12.8 RDWSD-40.3 Plt ___
+___ 07:35AM BLOOD Plt ___
+___ 07:35AM BLOOD Glucose-74 UreaN-7 Creat-0.9 Na-139 K-3.3 
+Cl-99 HCO3-25 AnGap-18
+___ 07:35AM BLOOD CK(CPK)-3740*
+___ 07:35AM BLOOD Calcium-9.1 Phos-2.3* Mg-2.0
+
+Imaging & studies
+=================
+None
+
+Microbiology
+============
+None
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ who presented to the ED for AMS ___ 
+ingestion. Patient was highly agitated at arrival and actively 
+hallucinating, but responded to benzodiazepines and fluids with 
+improvement in mental status. Found to have ___ and ___, which 
+have resolved. Also found to have rhabdomyolysis, with CK 
+uptrending to 5494. Patient was started on continuous LR at 
+250cc/h with improvement in his kidney function and CK. Patient 
+at risk for type B lactic acidosis and multisystem organ failure 
+from 25I-NBOMe ingestion per other case reports, however 
+adamantly wants to leave the hospital at this time. He will need 
+to continue to drink copious fluids after discharge with follow 
+up labs performed in ___ days to assess for continued 
+improvement in Cr and CK. 
+
+# Toxic encephalopathy ___ intoxication: Initiating 
+with altered status due to ingestion of 25I-NBOMe. Patient 
+improved after administration of lorazepam IM and Haldol 5mg IV, 
+although more significant improvement after midazolam 5mg IM x 
+2. Patient initially with agitation, myhdriasis, and clonus. 
+Given Adderall and fluoxetine home medications possibility of 
+serotonin syndrome, however low concern given current presention 
+and stability. Resolved with time and IV fluids without 
+requirement for continued benzodiazepines. Remained medically 
+stable on the floor. Prior discharge, patient appeared to be at 
+baseline, ambulating, neurologically intact. 
+
+# Rhabdomyolysis: Developed rhabdomylosis in the setting of drug 
+ingestion. CK peaked at 5494 and downtrended to 3740 after 
+administration of LR continuous at 250cc/h. Patient will need to 
+continue to drink plenty of fluids after discharge and return to 
+the hospital urgently if he notices ___ colored urine, 
+muscle pain, muscle weakness, or other symptoms. Will need 
+recheck labs in ___ days and f/u with PCP. He was counseled on 
+the importance of aggressive fluid intake and need for follow 
+up, and he verbalized understanding and intent to adhere to 
+plan. 
+
+# ___ ___ hypovolemia/rhabdomyolysis: ___ with Cr of 1.6. Likely 
+due to combination of dehydration and rhabdomyolyis from toxic 
+ingestion. Patient with hyaline casts in the urine at admission, 
+suggesting hypovolemia. Improved after administration of 5L IVF, 
+downtrended to 1.0. Will need recheck Cr in ___ days to ensure 
+baseline and stability. 
+
+# ___: High anion gap metabolic acidosis, likely in the setting 
+of toxin ingestion. UTox negative for alcohol, may be due to 
+starvation ketoacidosis with elevated urine ketones ___ 
+decreased PO intake along with rhabdomyolysis releasing organic 
+anions. 25I-NBOMe has reported to cause type B lactic acidosis 
+associated with multiorgan system dysfunction ___ et al., 
+___, however patient appears stable at this time. Corrected 
+after administration of PO fluids.
+
+TRANSITIONAL ISSUES
+===================
+[] Continue drinking copious fluids (water and electrolyte-rich 
+fluids)
+[] Please have Chem 10 and CK drawn in ___ days and follow up 
+with your PCP to assess kidney function and resolving 
+rhabdomyolysis
+# Code: FULL
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Amphetamine-Dextroamphetamine 20 mg PO DAILY 
+2. FLUoxetine 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Amphetamine-Dextroamphetamine 20 mg PO DAILY  
+2.  FLUoxetine 40 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+-----------------
+Toxic encephalopathy
+Acute Kidney Injury
+Rhabdomyolysis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to ___ for altered mental status and 
+hallucinations after taking 25I-NBOMe. In the emergency 
+department, you were combative and required sedation with 
+intravenous benzodiazepines. You became less agitated and were 
+able to be sedated. 
+
+You kidney function worsened and we were concerned for breakdown 
+of muscles called rhabdomyolysis. We gave you copious fluids and 
+your kidney function improved, although your creatinine kinase 
+(CK) peaked and then started to decline. Your CK was still 
+highly elevated on ___, but stable and decreased from the peak 
+value. 
+
+You will need to monitor your symptoms very closely after you 
+leave the hospital. There have been numerous reports of organ 
+damage related to ingestion of 25I-NBOMe, which can occur ___ 
+hours after ingestion. However, you adamantly wanted to leave 
+the hospital and we have counseled you on the risks of leaving, 
+which include worsening kidney function, including the 
+possibility of requiring dialysis. It is critical that you drink 
+copious fluids in the next couple of days including water and 
+electrolyte-rich fluids, such as Gatorade and follow up for lab 
+tests on ___. 
+
+Please return to the hospital if you notice any worsening of 
+your symptoms, including but not limited to, muscle weakness, 
+muscle pain, fever, trouble thinking, palpitations, or 
+dark-colored urine. 
+
+It was a pleasure taking care of you and we wish you the best. 
+
+Sincerely, 
+
+Your ___ Medicine Team
+ 
+Followup Instructions:
+___

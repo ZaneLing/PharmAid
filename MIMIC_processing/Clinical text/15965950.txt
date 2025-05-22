@@ -1,0 +1,323 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+ILI, ___
+ 
+Major Surgical or Invasive Procedure:
+EGD (___)
+
+ 
+History of Present Illness:
+As per HPI by admitting MD:
+
+___ yo M with history of CAD s/p stenting and ICD presenting with
+melena and URI symptoms. Patient reports 4 days ago he began
+having generalized weakness, fatigue, cough, subjective fevers
+and chills. He has had decreased PO intake over the last 4 days
+and has been dizzy while standing. This evening he was sitting 
+on
+the couch and passed out for ___ seconds which was witnessed by
+his wife. No fall or headstrike. No chest pain, SOB, abd pain,
+urinary sx, diarrhea or hematochezia. He has been having melena
+over the past two days which is a new finding. No prior 
+___.
+He was taken to ___ where he was found to be flu
+positive and had guiac positive stool on rectal. He received IV
+PPI and had a trop I of .09 and was transferred here for further
+work up. Reports ibuprofen use over the last several days. Has
+had two episodes of melena total. 
+
+In the ED, initial vitals:  
+T98.3 HR62 BP118/82 RR18 O2-97 RA 
+- Exam notable for:  
+Well appearing in NAD
+RRR
+CTAB
+no ttp
+- Labs notable for:  
+H/H 9.9/30.2
+BUN 38 Cr 1.1
+INR 1.2
+- Imaging notable for:  
+- Pt given:  1L LR 
+
+Upon arrival to the floor, the patient reports that he is tired
+and fatigued by otherwise feels well. He continues to endorse
+some melena. Denies hematochezia, abdominal pain,
+lightheadedness, shortness of breath, or chest pain. He 
+otherwise
+endorses the above history. 
+
+ 
+Past Medical History:
+CAD s/p BMS to ___ in ___
+ICD 
+
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be non contributory to this illness.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS:  ___ 0701 Temp: 98.2 PO BP: 120/59 Sitting HR: 62
+RR: 20 O2 sat: 97% O2 delivery: Ra 
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, 2+ pulses, no edema  
+Skin: Warm, dry, no rashes or notable lesions on exposed skin.  
+Neuro: CNII-XII intact
+
+DISCHARGE PHYSICAL EXAM:
+========================
+24 HR Data (last updated ___ @ 1143)
+    Temp: 97.5 (Tm 98.8), BP: 97/55 (97-146/55-74), HR: 59 
+(59-60), RR: 16 (___), O2 sat: 96% (92-97), O2 delivery: Ra  
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, 2+ pulses, no edema  
+Skin: Warm, dry, no rashes or notable lesions on exposed skin.  
+Neuro: CNII-XII intact
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 10:10AM   WBC-5.4 RBC-3.17* HGB-9.6* HCT-29.8* MCV-94 
+MCH-30.3 MCHC-32.2 RDW-14.4 RDWSD-49.3*
+___ 10:10AM   PLT COUNT-133*
+___ 04:36AM   ___ PTT-23.3* ___
+___ 04:02AM   GLUCOSE-148* UREA N-38* CREAT-1.1 SODIUM-144 
+POTASSIUM-4.4 CHLORIDE-110* TOTAL CO2-22 ANION GAP-12
+___ 04:02AM   estGFR-Using this
+___ 04:02AM   ALT(SGPT)-20 AST(SGOT)-24 ALK PHOS-44 TOT 
+BILI-0.2
+___ 04:02AM   cTropnT-<0.01
+___ 04:02AM   ALBUMIN-3.6
+___ 04:02AM   WBC-5.7 RBC-3.26* HGB-9.9* HCT-30.2* MCV-93 
+MCH-30.4 MCHC-32.8 RDW-14.2 RDWSD-48.2*
+___ 04:02AM   NEUTS-76.0* LYMPHS-16.2* MONOS-6.9 EOS-0.0* 
+BASOS-0.4 IM ___ AbsNeut-4.33 AbsLymp-0.92* AbsMono-0.39 
+AbsEos-0.00* AbsBaso-0.02
+___ 04:02AM   PLT COUNT-144*
+
+DISCHARGE LABS:
+===============
+___ 04:07AM BLOOD WBC-4.5 RBC-2.73* Hgb-8.4* Hct-25.6* 
+MCV-94 MCH-30.8 MCHC-32.8 RDW-14.2 RDWSD-48.6* Plt ___
+___ 04:07AM BLOOD ___ PTT-24.8* ___
+___ 04:07AM BLOOD Glucose-102* UreaN-18 Creat-1.1 Na-142 
+K-4.0 Cl-107 HCO3-27 AnGap-8*
+___ 04:07AM BLOOD Calcium-8.1* Phos-2.9 Mg-1.9
+
+EKG ___
+sinus rhythm@62 bpm
+Q waves throughout
+T wave inversions in I and avL 
++pvc 
+
+EGD ___
+Normal mucosa in the whole esophagus. 
+Ulcers in the antrum.
+Normal mucosa in the whole examined duodenum. 
+
+ 
+Brief Hospital Course:
+___ yo M with history of CAD s/p stenting and ICD who presented 
+with  URI symptoms diagnosed with the flu and 2 days of melena 
+c/b syncope with EGD showing small antral ulcers concerning for 
+NSAID-induced PUD. 
+
+ACTIVE ISSUES:
+# UGI Bleed:
+# PUD: 
+# Anemia: 
+Patient presented with 2 days of melena and found to have anemia 
+with Hb 11.1 initially at OSH, and subsequently 9.9 upon arrival 
+to ___ ED. Labs otherwise notable for elevated BUN consistent 
+with UGI bleed. Of note patient reports recent excessive 
+ibuprofen use in the setting of URI. He is on home ASA/plavix 
+for CAD s/p stenting. No other evidence of bleeding. He was 
+started on IV pantoprazole BID and taken of DAPT. Hgb stabilized 
+at ~8. He underwent and EGD on ___ that showed a single 5 mm 
+superficial non-bleeding ulcer in the gastric antrum, as well as 
+a few superficial non-bleeding 1 mm ulcers. No biopsies were 
+taken and the patient did not require any interventions. GI 
+recommended high dose PPI BID for 8 weeks, stool H. pylori 
+antigen, and repeat EGD in 12 weeks to evaluate for healing of 
+ulcers. Discharge hemoglobin 8.4/25.6, and he has been 
+hemodynamically stable. 
+
+# Syncope: 
+Prior to arrival, he was noted to syncopize while sitting on the 
+couch with loss of consciousness for ___ seconds. No fall, 
+headstrike, or witnessed tonic-clonic movements. Likely 
+secondary to anemia vs orthostatic
+iso hypovolemia (decreased PO intake and GI bleed). s/p 1L LR on 
+arrival with improvement and resolution of symptoms therafter. 
+Telemetry did not have any pauses and although he had c/f 
+arrhythmia (below) he had no syncope during this time. 
+
+# Influenza positive: 
+Presents with 4 days ago of symptoms including cough, fevers, 
+chills. Found to be influenza positive at OSH. Started on 
+os___ 75mg BID for x5 days. Began ___ in ___ and will 
+need total 5 days. 
+
+# C/F Atrial fibrillation vs. MAT vs. sinus arrhythmia:
+Prior to discharge, the patient was noted to have an 11 second 
+run of tachycardia to 110s with some irregularity. Unclear if 
+atrial fibrillation vs. sinus arrhythmia vs. MAT. Did not recur. 
+CHA2DS2VASc 3. Given acute bleed, decided to defer 
+anticoagulation and discussed risks with family and patient. 
+Plan is to follow-up with outpatient cardiologist in the next 2 
+weeks to get pacer interrogated and see if he is having atrial 
+fibrillation and what his burden may be. At that time, they can 
+discuss anticoagulation. He was counseled on the risk of stroke 
+in the setting of possible AFib. As an outpatient he may have a 
+TSH checked and an echocardiogram. 
+
+CHRONIC/STABLE PROBLEMS:  
+========================
+#  CAD s/p stenting in ___ (___)
+Initially noted to have troponin of 0.09 that subsequently 
+stabilized; all troponin testing was negative at ___. EKG with 
+diffuse Q-waves suggestive of prior infarcts. His cardiologist 
+was contacted but unable to be reached and therefore his EKG 
+could not be compared to prior. Nonetheless, given his lack of 
+positive cardiac enzyme and chest pain, his EKG findings were 
+not felt to be in the setting of ACS. He will need close follow 
+up with his cardiologist. With regards to DAPT, his last cardiac 
+stent was ___ years ago, and he has been on aspirin 325mg and 
+plavix together. He does not recall specifically discussing if 
+plavix could be discontinued. Given his active bleeding, plavix 
+was stopped and he was continued on aspirin 325mg alone. He will 
+need to f/u with his cardiologist to discuss this. Additionally 
+can consider decreasing dose to 81mg daily. He was also continue 
+on his home metoprolol, lisinopril & statin. 
+
+TRANSITIONAL ISSUES:
+====================
+[ ] Patient requires 8 weeks of pantoprazole 40 mg BID for 
+treatment of antral ulcers.
+[ ] Please repeat CBC within ___ weeks to ensure improvement in 
+blood counts. Prior baseline Hgb ___.
+[ ] Patient requires follow-up with GI in 12 weeks for repeat 
+EGD to evaluate for ulcer healing.
+[ ] Ensure follow with cardiology within the next ___ weeks. 
+[ ] Patient should be on high intensity statin for secondary 
+prevention given his history of CAD.
+[ ] Discuss restarting DAPT if needed given his history of MVD. 
+Patient is ___ years out from ___, and now this has been 
+complicated by GIB. 
+[ ] See above regarding atrial fibrillation concern. Please 
+consider interrogating pacer at next visit to see if he truly 
+has pAF and requires anticoagulation for it.
+[ ] Patient requires colonoscopy as part of his age-appropriate 
+cancer screening.
+[ ] Consider decreasing aspirin to 81 mg daily. 
+[ ] To complete remained of 5 day course of tamiflu for 
+influenza treatment. 
+
+Time spent: 50 minutes 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 50 mg PO DAILY 
+2. Clopidogrel 75 mg PO DAILY 
+3. Simvastatin 40 mg PO QPM 
+4. Lisinopril 20 mg PO DAILY 
+5. Aspirin 325 mg PO DAILY 
+6. Fish Oil (Omega 3) 1000 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  OSELTAMivir 75 mg PO BID Duration: 3 Days 
+RX *oseltamivir 75 mg 1 capsule(s) by mouth twice a day Disp #*6 
+Capsule Refills:*0 
+2.  Pantoprazole 40 mg PO BID Duration: 8 Weeks 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth twice a day Disp 
+#*112 Tablet Refills:*0 
+3.  Aspirin 325 mg PO DAILY  
+4.  Fish Oil (Omega 3) 1000 mg PO DAILY  
+5.  Lisinopril 20 mg PO DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY  
+7.  Simvastatin 40 mg PO QPM  
+8. HELD- Clopidogrel 75 mg PO DAILY  This medication was held. 
+Do not restart Clopidogrel until your cardiologists tells you it 
+is safe to restart it.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Peptic Ulcer Disease
+Upper GI Bleeding
+NSAID-Induced Gastric Ulcers
+Influenza
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you at ___. You were admitted 
+to the hospital because you had bleeding from your 
+gastrointestinal tract. Your blood levels dropped and you were 
+having black stools. You had an endoscopy that showed small 
+ulcers in your stomach that are likely related to use of 
+anti-inflammatory medications like ibuprofen (Advil) and 
+naproxen (Aleve). These will hopefully resolve with time. We 
+have started you on treatment with acid suppressing medications 
+for the next 8 weeks. The plan is for you to have an endoscopy 
+in 12 weeks to ensure these have resolved. We have also stopped 
+your Plavix for now because of your risk of bleeding. you should 
+discuss restarting it with your cardiologist after your ulcers 
+resolve.
+
+You were also found to have the flu and you were started on 
+anti-flu medication called Tamiflu which you should take for 3 
+additional days after you leave the hospital.
+
+Please make sure that you keep all your appointments and take 
+your medications as prescribed. Avoid any non-steroidal 
+anti-inflammatory drugs (NSAIDs) such as ibuprofen and naproxen.
+
+Wishing you a speedy recovery,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

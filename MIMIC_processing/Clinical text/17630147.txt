@@ -1,0 +1,341 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status  
+ 
+Major Surgical or Invasive Procedure:
+NONE
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of 
+hypertension and osteoporosis, who is presenting with confusion. 
+Patient is unable to give a history due to confusion. Per review 
+of outpatient and ED records, patient recently returned from 
+___ after a 2 month trip with her daughter. She was in her 
+usual state of health until around 5 days ago, when she started 
+to seem confused. She lives with her family, who noted that she 
+was occasionally confused, slurring speech, disoriented, unable 
+to speak in full sentences. Also noted to have worsening 
+appetite. She is normally fully independent, with no speech 
+difficulties or memory issues. They report no trauma or falls, 
+no fevers, no CP SOB abd pn N/V/D dysuria, urinary urgency or 
+frequency. She was first taken to urgent care clinic at ___ 
+___, where workup was significant for a normal CBC, BMP, 
+CXR, and UA. Her blood pressure in clinic was 160/95. 
+
+Per Atrius review: daughter denies any home meds, has been in 
+___ for last two months. Stopped taking lisinopril "years 
+ago."
+
+ED course notable for:  
+
+-BP 203/89 on arrival, downtrended to 150s/80s and remained 
+stable for 7+ hours after bolus of 5mg IV diltiazem.  
+
+Exam: On initial exam patient oriented x1.significant word 
+finding difficulty, only able to speak in single or few word 
+sentences.
+No signs of trauma, No gaze deviation. PERRL CN ___ intact. No 
+nystagmus. ___ strength in distal and proximal extremities. RRR 
+no m/g/r lungs CTAB abd soft ntnd. Skin warm, well perfused.  
+
+-CBC, chem panel, LFTs, and urine tox unremarkable.  
+
+-CT head with likely chronic small vessel disease, no acute 
+process  
+
+-Neurology evaluated felt consistent with hypertensive 
+encephalopathy. Recommended 324 mg ASA which she received, 81mg 
+ASA daily starting ___, and nonurgent MRI brain w & w/o 
+contrast 
+
+ED course: mental status improved after 5mg dilt with BPs 160s 
+systolic. Patient able to speak in full sentences, oriented x2. 
+Neuro following as consult service
+
+On arrival to the floor, patient reports "I feel fine". When 
+asked what brought her to the hospital, states "I was confused." 
+States she does not take medications at home. Reports no pain. 
+
+REVIEW OF SYSTEMS: 10 point ROS reviewed and negative except as 
+per HPI  
+
+ 
+Past Medical History:
+- hypertension  
+- Osteoporosis  
+ 
+ 
+Social History:
+___
+Family History:
+- Sister - stroke 
+ 
+Physical ___:
+==============================
+EXAM ON ADMISSION 
+==============================
+VS: T 98.4, HR 62, BP 167/92, RR 18, 95% Ra  
+GENERAL: thin appearing, NAD 
+HEENT: AT/NC, anicteric sclera, MMM  
+NECK: supple with no meningismus, no LAD  
+CV: RRR, S1/S2, no murmurs, gallops, or rubs  
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+GI: abdomen soft, nondistended, nontender in all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ radial pulses bilaterally  
+NEURO: Alert, oriented to place, not to date. CN ___ intact. 
+Strength ___ in upper and lower extremities. Gait deferred 
+DERM: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+==============================
+EXAM ON DISCHARGE 
+==============================
+GENERAL: thin appearing, NAD 
+CV: RRR, S1/S2, no murmurs, gallops, or rubs  
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles  
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema  
+NEURO: Alert, oriented to place, date. CN ___ intact. Strength
+___ in upper and lower extremities. Gait deferred
+ 
+Pertinent Results:
+================================  
+LABS ON ADMISSION  
+================================  
+___ 08:20PM BLOOD WBC-5.2 RBC-4.61 Hgb-13.1 Hct-40.0 MCV-87 
+MCH-28.4 MCHC-32.8 RDW-13.8 RDWSD-43.6 Plt ___
+___ 08:20PM BLOOD Neuts-54.5 ___ Monos-12.1 Eos-2.5 
+Baso-1.3* Im ___ AbsNeut-2.84 AbsLymp-1.53 AbsMono-0.63 
+AbsEos-0.13 AbsBaso-0.07
+___ 08:20PM BLOOD Glucose-90 UreaN-21* Creat-1.0 Na-140 
+K-4.5 Cl-99 HCO3-27 AnGap-14
+___ 10:00AM BLOOD Calcium-9.2 Phos-3.7 Mg-2.0
+___ 08:20PM BLOOD ALT-14 AST-29 AlkPhos-77 TotBili-0.3
+___ 08:20PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+================================  
+PERTINENT INTERVAL LABS  
+================================  
+___ 08:20PM BLOOD TSH-1.3
+___ 08:38PM BLOOD %HbA1c-5.9 eAG-123
+___ 08:20PM BLOOD VitB12-722
+
+================================  
+LABS ON DISCHARGE  
+================================  
+___ 05:15AM BLOOD WBC-5.8 RBC-4.79 Hgb-13.2 Hct-41.4 MCV-86 
+MCH-27.6 MCHC-31.9* RDW-13.8 RDWSD-43.8 Plt ___
+___ 05:15AM BLOOD Glucose-90 UreaN-24* Creat-1.0 Na-140 
+K-4.6 Cl-99 HCO3-31 AnGap-10
+___ 05:15AM BLOOD Calcium-9.6 Phos-3.8 Mg-2.3
+
+================================  
+IMAGING  
+================================  
+ 
+___ CT head w/o contrast:
+1. No intracranial hemorrhage or acute territorial infarct. 
+2. Extensive periventricular white-matter changes likely reflect 
+chronic small vessel disease but are nonspecific.  Comparison 
+with prior imaging would be helpful.  If none is available, MRI 
+could be considered to evaluate for smaller areas of 
+ischemia/infarction.
+
+___ MR HEAD:
+1.  Acute infarcts are noted in the left internal capsule, 
+thalamus and body of the left corpus callosum. 
+2.  Severe white matter microangiopathic changes with associated 
+chronic 
+microhemorrhages are nonspecific, but in the differential 
+diagnosis consider hypertensive vasculopathy or cerebral amyloid 
+angiopathy with related inflammation (vasculopathy). 
+3.  Two punctate 1 mm foci of enhancement the posterior 
+subcortical white 
+matter of the frontal lobes, are nonspecific with a broad 
+differential 
+diagnosis, including but not limited to infective/inflammatory 
+disease, or 
+metastatic disease if the patient is known  a primary 
+malignancy.  Short-term interval follow-up advised. 
+
+___ CTA HEAD/NECK:
+1. Acute infarcts are again noted in the left internal capsule, 
+left thalamus 
+and body of left corpus callosum. 
+2. Marked white matter hypodense changes are most likely sequela 
+of 
+microangiopathy. 
+3. Multiple short-segment intracranial arterial narrowing 
+suggestive of 
+atherosclerotic disease as described above.  No evidence of 
+high-grade 
+stenosis or occlusion.  No aneurysm. 
+4. No proximal ICA stenosis by NASCET criteria.  The vertebral 
+arteries are 
+patent bilateral.  Essentially unremarkable CTA of the neck. 
+5. Additional chronic findings as described above, including C1 
+through C3 
+cervical fusion and 50% anterolisthesis of C2 on C3. 
+
+TTE ___
+The left atrium is normal in size. There is no evidence for an 
+atrial septal defect by 2D/color Doppler.
+The estimated right atrial pressure is ___ mmHg. There is normal 
+left ventricular wall thickness with a
+normal cavity size. There is normal regional and global left 
+ventricular systolic function. No thrombus
+or mass is seen in the left ventricle. Quantitative biplane left 
+ventricular ejection fraction is 56 %. There
+is no resting left ventricular outflow tract gradient. Normal 
+right ventricular cavity size with normal free
+wall motion. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for
+gender. The aortic valve leaflets (3) are mildly thickened. No 
+masses or vegetations are seen on the
+aortic valve. There is no aortic valve stenosis. There is no 
+aortic regurgitation. The mitral valve leaflets
+are mildly thickened with no mitral valve prolapse. No masses or 
+vegetations are seen on the mitral
+valve. There is mild [1+] mitral regurgitation. No 
+masses/vegetations are seen on the pulmonic valve.
+The tricuspid valve leaflets appear structurally normal. No 
+mass/vegetation are seen on the tricuspid
+valve. There is mild [1+] tricuspid regurgitation. The estimated 
+pulmonary artery systolic pressure is
+normal. There is a trivial pericardial effusion.
+IMPRESSION: No structural cardiac source of embolism (e.g.patent 
+foramen ovale/atrial septal defect,
+intracardiac thrombus, or vegetation) seen. Normal biventricular 
+wall thicknesses, cavity sizes, and
+regional/global systolic function. Mild mitral regurgitation. 
+Mild tricuspid regurgitation.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of 
+hypertension and osteoporosis, who presented with encephalopathy 
+due to hypertensive emergency. She was found to have acute 
+cerebral infarcts on MRI head. 
+
+#Acute cerebral infarcts
+#Encephalopathy, likely hypertensive encephalopathy
+Patient presenting with confusion in setting of high blood 
+pressures with systolics in the 200s. She was found to be 
+afebrile, and infectious workup and tox screen otherwise 
+negative. Neurology was consulted. ___ with no acute process. 
+No signs of increased ICP on exam. EEG showed slowing. On MRI, 
+she was found to have infarcts in the left internal capsule, 
+thalamus and body of the left corpus callosum (along with severe 
+white matter changes). This was attributed most likely to HTN. 
+CTA Head/Neck showed diffuse intracranial atherosclerotic 
+disease. Telemetry revealed no arrhythmia. TTE also unrevealing 
+for stroke workup. The patient was started on Aspirin 81mg, 
+amlodipine 5mg PO daily and atorvastatin 40mg. She should be 
+referred to a stroke neurologist (for continued consideration of 
+dual antiplatelet therapy changes). Recommend continued 
+titration of BP medications in clinic. 
+
+# Concern for Malnutrition
+BMI 18. Albumin found to be normal. Patient was seen by the 
+nutrition team, and discharged on a multivitamin. 
+
+TRANSITIONAL ISSUES 
+=============== 
+- The patient was started on amlodipine 5mg PO daily, Aspirin 
+81mg and atorvastatin 40mg. 
+- Patient should be referred to a stroke neurologist (for 
+continued consideration of antiplatelet therapy changes). 
+- Recommend continued titration of BP medications in clinic. 
+- Recommend short-term interval follow-up for MRI finding of two 
+punctate 1 mm foci of enhancement the posterior subcortical 
+white matter of the frontal lobes, which are nonspecific with a 
+broad differential diagnosis, including but not limited to 
+infective/inflammatory disease, or metastatic disease if the 
+patient is known a primary malignancy.
+
+#CODE: Full (presumed) 
+#CONTACT: ___ ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis 
+- hypertensive encephalopathy 
+- hypertensive cerebral infarct 
+
+Secondary Diagnoses
+- hypertension
+- osteoporosis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were very confused.  
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- We looked for reasons for your confusion. 
+- We found that you have a stroke on the left part of your 
+brain, this was probably from your blood pressure being too high
+- We added blood pressure medication
+- Your thinking improved
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Continue to take all your medicines and keep your 
+appointments.  
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+ 
+Followup Instructions:
+___

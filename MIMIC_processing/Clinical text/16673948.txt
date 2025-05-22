@@ -1,0 +1,347 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+shellfish derived
+ 
+Attending: ___.
+ 
+Chief Complaint:
+L1 compression fracture s/p fall
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with PMH of osteoporosis who
+presented to the ED after a mechanical fall found to have stable
+L1 compression fracture with failed ___ evaluation now admitted 
+to
+medicine for further management.
+
+The patient states that she was working in the garden earlier
+today when she slipped on a pack of leaves when trying to move
+her ladder and fell onto her back. She felt immediate pain her
+back, neck and left hip. She was unable to get herself off the
+ground due to the pain and called out to her neighbor for help.
+She was subsequently brought to ___ for further management. 
+
+In the ED, initial VS were: 
+99.6  80  162/99  20  99% RA   
+ 
+Labs showed:
+WBC-12.0   HgB-13.3  ___       AGap=17 
+--------------<130
+3.8  23  0.8  
+
+___: 10.9  PTT: 27.8  INR: 1.0 
+UA: relatively unremarkable 
+  
+Imaging showed:
+MR ___:
+1. No evidence of ligamentous injury.
+2. Disc bulge and ligamentum flavum thickening cause mild spinal
+canal
+stenosis at C4-5 and C6-7 without cord compression. No cord
+signal
+abnormalities.
+
+CT ___:
+1. Mild-to-moderate compression deformity of L1 vertebral body
+with fracture lucency through the superior endplate and slight
+sclerosis suggesting it is acute or subacute. No retropulsion.
+2. No evidence of acute visceral injury within the limitation of
+a noncontrast enhanced scan. 
+
+CT ___:
+1. No acute fracture or traumatic malalignment in the cervical
+___.
+2. Multilevel degenerative changes as described.
+
+CT Head:
+No acute intracranial process
+
+___ was consulted who recommended ___ brace for comfort and
+follow-up in clinic for further management. Patient was seen by
+___ in the ED and became dizzy with sitting up with positive
+orthostatics. It was therefore decided to admit for further
+management.
+ 
+Patient received:
+-HYDROmorphone (Dilaudid) .5 mg x2
+-Oxycodone 5mg x3
+-Ondansetron 4 mg 
+-1L NS 
+ 
+Transfer VS were: 
+98.8   87   155/90  16  98% RA  
+
+On arrival to the floor, patient reports pain in her lumbar 
+___
+more notable on the left. Denies any numbness, tingling. Able to
+move upper and lower extremities, however, movement is limited
+secondary to pain. She has been urinating without difficulty and
+denies saddle anesthesia. She states that she has not been 
+taking
+any of her prescribed medications including for her osteoporosis
+as they upset her stomach. She only takes Tylenol as needed for
+pain control.
+ 
+REVIEW OF SYSTEMS:  
+10 point ROS reviewed and negative except as per HPI 
+ 
+Past Medical History:
+-Osteoporosis 
+-Asthma
+-Seasonal allergies
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM 
+=======================
+VS: 99.2 PO 176 / 82  70 20 96 RA  
+GENERAL: Laying in bed with TLSO brace in place. Mildly
+uncomfortable appearing  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, MMM  
+NECK: supple, no LAD 
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs   
+LUNGS: CTAB, no wheezes, rales, rhonchi on anterior lung exam
+ABDOMEN: Soft, ND, NTTP, +BS
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, CNII-XII grossly intact. ___ strength in upper and
+lower extremities bilaterally however ROM limited ___ pain. Back
+examination deferred due to pain with movement.   
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes 
+
+DISCHARGE PHYSICAL EXAM
+=======================
+VS: 99.1 168/91 70 18 97 Ra  
+GENERAL: Laying in bed with TLSO brace in place. 
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, MMM  
+NECK: supple, no LAD 
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs   
+LUNGS: CTAB, no wheezes, rales, rhonchi on anterior lung exam
+ABDOMEN: Soft, ND, NTTP, +BS
+EXTREMITIES: no cyanosis, clubbing, or edema  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, CNII-XII grossly intact. ___ strength in upper and
+lower extremities bilaterally however ROM limited ___ pain. 
+Patient was in TLSO brace at the time of discharge. She was able 
+to ambulate with the help of ___.
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes 
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 03:06PM BLOOD WBC-12.0*# RBC-4.48 Hgb-13.3 Hct-39.6 
+MCV-88 MCH-29.7 MCHC-33.6 RDW-13.5 RDWSD-43.8 Plt ___
+___ 03:06PM BLOOD Neuts-87.6* Lymphs-7.3* Monos-3.3* 
+Eos-0.3* Baso-0.3 Im ___ AbsNeut-10.49* AbsLymp-0.87* 
+AbsMono-0.40 AbsEos-0.04 AbsBaso-0.04
+___ 03:06PM BLOOD ___ PTT-27.8 ___
+___ 03:06PM BLOOD Glucose-130* UreaN-14 Creat-0.8 Na-140 
+K-3.8 Cl-100 HCO3-23 AnGap-17
+
+DISCHARGE LABS
+==============
+___ 04:50AM BLOOD WBC-5.0# RBC-3.89* Hgb-11.4 Hct-34.7 
+MCV-89 MCH-29.3 MCHC-32.9 RDW-13.5 RDWSD-44.2 Plt ___
+___ 04:50AM BLOOD Glucose-93 UreaN-13 Creat-0.7 Na-142 
+K-3.7 Cl-105 HCO3-26 AnGap-11
+___ 04:50AM BLOOD Calcium-9.2 Phos-3.8 Mg-2.1
+
+MICRO
+=====
+
+___ 8:00 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION.
+
+IMAGING
+=======
+___ CT Chest/Abd/Pelvis
+1. Mild-to-moderate compression deformity of L1 vertebral body 
+with  fracture lucency through the superior endplate and slight 
+sclerosis suggesting it is  acute or subacute.  No retropulsion. 
+
+2. No evidence of acute visceral injury within the limitation of 
+a noncontrast enhanced scan. 
+
+___ CT ___ w/o contrast
+1. No acute fracture or traumatic malalignment in the cervical 
+___. 
+2. Multilevel degenerative changes as described. 
+
+___ CT head w/o contrast
+No acute intracranial process.
+
+___ MR cervical ___ w/o contrast
+No acute spinal fracture or ligamentous injury.  The cervical 
+cord is normal in signal and volume.  No epidural collections. 
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE
+=====================
+___ year old female with PMH of osteoporosis who presented to the 
+ED following a fall from standing height found to have stable L1 
+compression fracture with plans for TLSO brace. However, patient 
+failed ___ secondary to pain and orthostasis and was subsequently 
+admitted to medicine for further management.
+
+#L1 Compression Fracture
+#Mechanical Fall
+#Back Pain
+Patient presented after suffering from mechanical fall from 
+standing height found to have L1 compression fracture on CT L 
+___. Patient evaluated by ___ who recommended TLSO brace for 
+comfort with no indication for surgical intervention. Patient 
+admitted for ___ eval/clearance vs. rehab due to orthostasis vs. 
+vertigo. Pain was controlled with oxycodone PRN. She was seen by 
+___ who recommended continued ___ at home w/ services.
+
+#Orthostasis:
+#Vertigo
+Patient was orthostatic in the emergency department when working 
+with ___. Likely secondary to minimal PO intake and dehydration 
+vs. vagal response to pain when moving from laying to seated 
+position. The orthostasis improved s/p IVF. Patient was also 
+found to have positional vertigo believed to be due to
+BPPV. Epley maneuver performed x2 by ___ and improved by the time 
+of discharge.
+
+#Osteoporosis:
+Patient has known diagnosis of osteoporosis followed by Dr. 
+___ at ___. Was supposed to be on Prempro in addition to 
+vitamin D and, however she has not been taking it due to GI 
+side-effects (nausea). Now with L1 Compression fracture after 
+falling from standing height. Will need close follow-up with Dr.
+___ further management.
+
+CHRONIC ISSUES:
+===============
+#Asthma: Not taking home inhalers and currently asymptomatic
+
+TRANSITIONAL ISSUES: 
+- New Meds: Oxycodone Q8Hrs for 7 days, Senna, Colace
+- Stopped/Held Meds: None
+- Changed Meds: None
+- Post-Discharge Follow-up Labs Needed: None 
+
+Other issues:
+- Patient needs follow-up with ___ as an out-patient for 
+further management of her L1 compression fracture 
+- Patient needs follow-up with Dr. ___ with endocrinology to 
+likely resume
+vitamin D supplementation and prempro vs. zoledronic acid
+- Follow-up with PCP for ___ discharge follow-up 
+- Patient was discharged with a prescription for Oxycodone 5mg 
+Q6Hrs for 7 days (28 pills, no refills)
+- Patient needs to maintain a bowel regimen while taking 
+oxycodone
+
+# CODE: Full code
+# CONTACT: ___ ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*14 Capsule Refills:*0 
+2.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 capsule(s) by mouth Q6Hrs Disp #*28 Capsule 
+Refills:*0 
+3.  Senna 8.6 mg PO BID:PRN Constipation - First Line 
+RX *sennosides 8.6 mg 1 tablet by mouth twice a day Disp #*14 
+Tablet Refills:*0 
+4.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+=================
+L1 Compression Fracture   
+Back Pain 
+Orthostasis
+Vertigo
+
+Secondary Diagnosis
+===================
+Osteoporosis
+Asthma
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+It was a pleasure caring for you at ___ 
+___!
+
+WHY WERE YOU ADMITTED?
+You are admitted to the hospital after you fell and hurt your 
+back.
+
+WHAT HAPPENED IN THE HOSPITAL?
+We took images of your ___ and saw that you have a compression 
+fracture in your L1 vertebra. You were seen by ___ doctors who 
+recommended a ___ brace for your comfort. You were also seen by 
+physical therapy who recommended continued physical therapy at 
+home to help continue gain strength and lessen pain.
+
+WHAT SHOULD YOU DO AT HOME?
+You need to call and schedule an appointment with your PCP 
+___ ___ days after discharge. We tried to schedule one, but 
+due to insurance reasons we were not able to do that.
+You need to go to the follow-up appointment with Endocrine (Dr 
+___ on ___ and ___ (Dr ___ on ___.
+We discharged you with a prescription for narcotic pain 
+medication (3 oxycodone 5mg/day for 7 days). Please use this 
+medication if needed, but please do not drive while using it.
+Since you will be taking oxycodone, please use a bowel regimen 
+at the same time since this medication can cause constipation 
+(for example miralax over the counter).
+You can also take Tylenol ___ every 8 hours for pain control 
+(make sure you do not exceed 4000mg a day)
+
+Thank you for allowing us be involved in your care, we wish you 
+all the best!
+
+Your ___ Team
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,307 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fatigue, L sided pain/weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+This is an ___ yo F with a PMH of Alzheimer's who presents with 
+increasing fatigue and difficulty walking since ___, found to 
+have the flu.  
+
+Per daughter, the patient's fatigue started on ___ was 
+sleeping all day. Noticed her to being losing control of her 
+urine more than usual and having a hard time moving her left 
+leg, but was still walking. No diarrhea. No vomiting. No coughs. 
+Has felt warm but no documented fevers. Pt often complains of 
+body pain but it is always unclear where she is hurting.  
+
+Per family pt with L sided weakness, lists to L when walking. at 
+baseline MS. ___ report she is confused at baseline and has 
+trouble following commands.  
+
+In the ED, initial vitals were: 99.9 84 139/72 18 98% RA  
+ - Exam notable for: Not recorded  
+ - Labs notable for: + Flu.  
+ - Imaging was notable for: CT head with No acute intracranial 
+process.  
+ - Patient was given: Tamiflu, mirtazapine  
+
+Upon arrival to the floor, patient was asleep but arousable to 
+voice. She did not respond to questions in ___, or 
+___. She did speak angrily, rapidly, and unintelligibly 
+when an exam was attempted.  
+
+ 
+Past Medical History:
+Alzheimer's dementia
+Urinary incontinence
+Appendectomy  
+Total abdominal hysterectomy  
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vital Signs: 98/56, 59, 20, 93% RA
+General: Asleep but arousable to voice. Not responsive to 
+inquiries. Picking at sheets. 
+HEENT: NCAT. Otherwise unable to asses.  
+Neck: Supple.  
+CV: RRR, normal S1/S2, no m/r/g
+Lungs: CTAB in anterior lung fields, No respiratory distress, 
+breathing comfortably  
+Abdomen: Soft, thin, non-tender no rebound or guarding  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+Neuro: Pushes against hand in ___.  
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vital Signs: 97.8 ___ 61-66 17 ___
+General: Sleeping and snoring
+HEENT: NCAT.   
+Neck: Supple.  
+CV: RRR, normal S1/S2, no m/r/g
+Lungs: CTAB in anterior lung fields, No respiratory distress, 
+breathing comfortably  
+Abdomen: Soft, thin, non-tender no rebound or guarding  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+Neuro: Pushes against hand in ___.  
+ 
+Pertinent Results:
+ADMISSION LAB RESULTS
+=====================
+___ 07:15PM BLOOD WBC-4.0 RBC-3.71* Hgb-11.3 Hct-35.0 
+MCV-94 MCH-30.5 MCHC-32.3 RDW-13.6 RDWSD-47.1* Plt ___
+___ 07:15PM BLOOD ___ PTT-27.4 ___
+___ 07:15PM BLOOD Glucose-85 UreaN-18 Creat-0.6 Na-135 
+K-4.1 Cl-99 HCO3-25 AnGap-15
+___ 07:15PM BLOOD Calcium-8.6 Phos-3.9 Mg-2.3
+___ 07:35PM BLOOD Lactate-1.6
+
+DISCHARGE LAB RESULTS
+=====================
+___ 01:15PM BLOOD WBC-3.4* RBC-3.45* Hgb-10.7* Hct-32.6* 
+MCV-95 MCH-31.0 MCHC-32.8 RDW-13.7 RDWSD-47.1* Plt ___
+___ 07:15PM BLOOD Neuts-49.9 ___ Monos-17.5* 
+Eos-0.5* Baso-0.5 Im ___ AbsNeut-2.00 AbsLymp-1.26 
+AbsMono-0.70 AbsEos-0.02* AbsBaso-0.02
+___ 01:15PM BLOOD Plt ___
+___ 07:15PM BLOOD ___ PTT-27.4 ___
+___ 01:15PM BLOOD Glucose-105* UreaN-12 Creat-0.5 Na-137 
+K-4.3 Cl-100 HCO3-26 AnGap-15
+___ 01:15PM BLOOD Calcium-8.3* Phos-3.3 Mg-2.2
+___ 01:15PM BLOOD WBC-3.4* RBC-3.45* Hgb-10.7* Hct-32.6* 
+MCV-95 MCH-31.0 MCHC-32.8 RDW-13.7 RDWSD-47.1* Plt ___
+___ 07:15PM BLOOD Neuts-49.9 ___ Monos-17.5* 
+Eos-0.5* Baso-0.5 Im ___ AbsNeut-2.00 AbsLymp-1.26 
+AbsMono-0.70 AbsEos-0.02* AbsBaso-0.02
+___ 01:15PM BLOOD Plt ___
+___ 01:15PM BLOOD Glucose-105* UreaN-12 Creat-0.5 Na-137 
+K-4.3 Cl-100 HCO3-26 AnGap-15
+___ 01:15PM BLOOD Calcium-8.3* Phos-3.3 Mg-2.2
+
+IMAGING/STUDIES
+===============
+___ CXR:
+No acute cardiopulmonary process.
+
+___ CT Head without Contrast:
+1. No acute intracranial process. 
+2. Right inferior frontal encephalomalacia may reflect the 
+sequela of prior infarct. 
+3. Paranasal sinus disease. 
+
+___ Left Hip XRay:
+No fracture or dislocation
+
+___ Pelvis Xray:
+No fracture or dislocation
+
+___ Left knee Xray:
+No fracture or dislocation
+
+___ Left ankle Xray:
+No fracture or dislocation
+
+___ Bilateral Lower Extremity Ultrasound:
+No evidence of deep venous thrombosis in the right or left lower 
+extremity 
+veins. 
+
+MICROBIOLGY
+===========
+___ Blood culture: negative
+
+___ Urine culture: negative
+
+___ Urine culture:
+___ 5:15 pm URINE      Source: Catheter. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL.  PRESUMPTIVE 
+IDENTIFICATION. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------  <=16 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+ 
+Brief Hospital Course:
+Ms. ___ is an ___ yo ___ speaking F w/ hx 
+Alzheimer's and urinary incontinence who presented with 
+increasing fatigue and difficulty walking since ___, found to 
+have the flu. She completed 5 days of oseltamivir. Her hospital 
+course was complicated by a UTI, for which she was started on 
+Bactrim. 
+
+# Influenza: Flu A PCR positive. She was oxygenating well, and 
+breathing without difficulty. She was started on oseltamivir 
+30mg BID (renally dosed). She was continued on oseltamivir for 5 
+days. Day 1 = ___. Day 5 = ___.
+
+# Urinary incontinence/UTI
+Per the patient's family, the patient is incontinent of urine at 
+baseline. The patient was retaining urine overnight requiring 
+straight catheterization on ___. She also developed strongly 
+scented urine.  Urine culture grew E. Coli, so she was started 
+on Bactrim 1 tab DS BID, Day 1 = ___, Day 7 = ___. 
+
+# Alzheimer's: Per the patient's daughter, the patient is 
+confused at baseline. Per family members' reports, the patient 
+remained at her baseline mental status throughout the 
+hospitalization. Her home seroquel was decreased. She was 
+continued on her home mertazapine 
+ 
+# L-sided pain: On physical exam, the patient seemed to have 
+some pain on palpation of the left lower extremity. CT head was 
+negative for acute infarct. Imaging of pelvis, L knee, and ankle 
+were negative for fracture. Lower extremity ultrasound showed no 
+evidence of DVT. Physical therapy evaluated the patient and 
+recommended discharge to rehab. He pain improved throughout the 
+hospitalization. 
+
+TRANSITIONAL ISSUES
+==================
+- Continue Bactrim through ___ for UTI
+- Consider starting statin given history of stroke
+- As patient is on Bactrim, please encourage significant amount 
+of po fluid intake to avoid kidney injury
+
+# CONTACT: ___ (granddaughter) ___, home: ___
+# CODE: Full (confirmed)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. QUEtiapine Fumarate 50 mg PO QHS 
+2. Mirtazapine 15 mg PO QHS 
+3. melatonin 10 mg oral QHS 
+
+ 
+Discharge Medications:
+1.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 5 Days 
+End date ___ 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth twice a day Disp #*11 Tablet Refills:*0 
+2.  QUEtiapine Fumarate 25 mg PO QHS 
+RX *quetiapine 25 mg 1 tablet(s) by mouth at bedtime Disp #*14 
+Tablet Refills:*0 
+3.  melatonin 10 mg oral QHS  
+4.  Mirtazapine 15 mg PO QHS  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+___ Diagnosis:
+Primary Diagnosis 
+- Flu 
+-UTI 
+ 
+Secondary Diagnosis 
+- Alzheimer's Disease 
+- Urinary incontinence 
+
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+You were hospitalized at ___. 
+
+Why did you come to the hospital?
+=================================
+- You came to the hospital because you were having more pain in 
+your right leg, and you were more tired.
+
+What did we do for you?
+=======================
+- We sent some lab work, which showed that you had the flu. We 
+started you on a medication to help you fight the flu
+- You had an ultrasound of your legs, which showed that you do 
+not have a blood clot in your legs
+- You had Xrays of your left hip, knee, and ankle, which were 
+normal.
+- We started you on antibiotics for a urinary tract infection
+
+What do you need to do?
+=======================
+- It is important that you continue taking your antibiotics as 
+prescribed. 
+- It is important that you follow-up with your primary care 
+doctor. 
+
+It was a pleasure caring for you. We wish you the best!
+
+Sincerely,
+Your ___ Medicine Team
+ 
+Followup Instructions:
+___

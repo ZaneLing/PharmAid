@@ -1,0 +1,463 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+eye gtts
+ 
+Attending: ___
+ 
+Chief Complaint:
+Fall
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+As per HPI by admitting MD: 
+
+___ with history of COPD and hypertension, along with documented
+reports of dizziness and gait instability since ___ (per atrius
+records), arrives as a transfer from ___ for a
+neurosurgery evaluation after she fell at home and was found to
+have a C2 odontoid (dens) fracture. 
+
+Reportedly, patient was in her kitchen when she began to feel
+unsteady on her feet and fell to the ground. She endorses a
+possible head strike though denies loss of consciousness. She 
+did
+not have chest pain, shortness of breath or abdominal pain prior
+to the fall.
+Once on the ground, she crawled to the phone to call her
+neighbor, who then brought her to the hospital.
+
+At ___, the patient was found to be hypothermic and
+bradycardic for unknown reason, with HRs in the ___. She was
+asymptomatic and given a Bear Hugger. 
+
+In the ___ ED, she endorsed neck pain but had no other
+symptoms. She is not on blood thinners. She states that her last
+fall was in ___.  
+ 
+In the ___ ED:
+- Initial vitals: T 95.3, HR 50, BP 136/81, RR 18, O2 95% RA 
+- Exam: unremarkable 
+- Labs notable for: plt 147, TSH 6.3  
+- Imaging notable for:
+1. CT C-spine (OSH): fracture at the base of the odontoid with
+appearance most suggestive of subacute etiology. Type II/III.
+Appearance is nondisplaced although the anterior margin is a few
+millimeters wider than the posterior margin.
+2. CT-A neck: no vascular abnormalities (no stenosis, occlusion,
+aneurysm or dissection); redemonstrations of fracture through 
+the
+base of the dens; +pulmonary findings (see below)
+3. ECG with sinus bradycardia, Q waves in II/III/aVF, T wave
+flattening in V2-V3, ST depression in V4-V6, prolonged QTc
+
+- Pt given: nothing
+
+- Consults: Spine - noted type 3 dens fracture, appears
+subacute/chronic, unlikely related to current fall. Recommended
+the following:
+1. Medicine admission to evaluate hypothermia and bradycardia,
+fall etiology
+2. Continue ___ J collar at all time
+3. MRI C=spine as inpatient to determine chronicity of the
+fracture and to assess for ligamentous injury
+4. CT-A neck to evaluate for vertebral dissection (given
+mechanism, complains of worsening dizziness)
+5. ___ consider MRI brain and stroke consult if dissection
+
+- Vitals prior to transfer: 97.8, HR 56, BP 138/52, RR 12, O2 
+94%
+RA
+
+Upon arrival to the floor, the patient endorses the above
+history. She states that she has had some neck pain for the last
+few months, especially when she turns her head left and right,
+and thought it was due to a "stiff neck." She has no pain right
+now though is annoyed by the C-collar.
+
+With regard to other medical issues - pt reports low heart rate
+for several years which she thinks is related to her glaucoma
+medication. She had a procedure done on her right eye which
+helped a lot but her left eye continues to worsen. She has
+difficulty seeing peripherally though again this has been 
+stable.
+She denies chest pain or shortness of breath at rest but does
+feel winded going up the stairs. She is not using her Spiriva
+anymore because the new formulation (respimat) is difficult to
+use. She denies any abdominal pain, nausea, heart burn or
+constipation; in fact she endorses some loose stool recently.
+Denies dysuria or increased urinary frequency. Her lower
+extremity edema is stable and she does not use Lasix (used PRN
+occasionally this ___). ROS also notable for decreased
+appetite over the last ___ months. 
+
+ 
+Past Medical History:
+- "Dizziness" and gait instability since ___
+- Mild peripheral neuropathy of her feet
+- COPD  
+- Hypertension
+- Chronic lower extremity edema 
+- Glaucoma
+ 
+Social History:
+___
+Family History:
+- Glaucoma 
+- Esophageal CA
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+========================
+VITALS:  97.5 158/65 52 18 93 RA 
+General: Lying supine with a c-collar in place 
+HEENT: dry lips, PERRL 
+CV: bradycardic, regular rhythm, distant heart sounds but no
+audible murmurs
+Lungs: Clear anteriorly
+Abdomen: Soft, non-tender, non-distended
+GU: No foley  
+Ext: Warm, well perfused, 2+ non pitting lower extremity edema  
+Neuro: AOx3, facial symmetry, moving all extremities with 
+purpose
+
+DISCHARGE PHYSICAL EXAM:  
+========================
+VITALS: Notable for bradycardia in ______ but no pauses > 2 
+seconds
+GENERAL: NAD, in ___ J-collar
+HEENT: PERRL, oropharynx clear
+CV: Bradycardic, regular rhythm, distant heart sounds but no
+audible murmurs
+Lungs: Clear anteriorly
+Abdomen: Soft, non-tender, non-distended
+GU: No Foley  
+Ext: Warm, well perfused, 2+ non pitting lower extremity edema  
+Neuro: AOx3, facial symmetry, ___ strength throughout upper and
+lower extremities.
+ 
+Pertinent Results:
+ADMISSION LABS:
+==============
+___ 09:28PM BLOOD WBC-5.0 RBC-3.92 Hgb-11.5 Hct-35.8 MCV-91 
+MCH-29.3 MCHC-32.1 RDW-15.2 RDWSD-50.8* Plt ___
+___ 09:28PM BLOOD Neuts-76.6* Lymphs-15.1* Monos-6.7 
+Eos-0.8* Baso-0.6 Im ___ AbsNeut-3.86 AbsLymp-0.76* 
+AbsMono-0.34 AbsEos-0.04 AbsBaso-0.03
+___ 09:28PM BLOOD Glucose-85 UreaN-21* Creat-0.8 Na-137 
+K-4.9 Cl-100 HCO3-24 AnGap-13
+___ 09:28PM BLOOD Albumin-3.5 Calcium-9.3 Phos-3.3 Mg-1.8
+___ 09:28PM BLOOD ALT-19 AST-25 CK(CPK)-81 AlkPhos-73 
+TotBili-0.3
+___ 09:39PM BLOOD pO2-85 pCO2-38 pH-7.42 calTCO2-25 Base 
+XS-0
+___ 09:39PM BLOOD Lactate-0.9
+___ 09:28PM BLOOD cTropnT-<0.01
+___ 09:28PM BLOOD VitB12-452
+___ 09:28PM BLOOD TSH-6.3*
+___ 09:28PM BLOOD T4-5.5
+___ 08:55AM BLOOD Cortsol-19.0
+
+DISCHARGE LABS:
+==============
+___ 06:45AM BLOOD WBC-3.8* RBC-3.63* Hgb-10.9* Hct-33.6* 
+MCV-93 MCH-30.0 MCHC-32.4 RDW-15.4 RDWSD-52.2* Plt ___
+___ 06:45AM BLOOD Glucose-70 UreaN-16 Creat-0.7 Na-137 
+K-5.0 Cl-101 HCO3-24 AnGap-12
+___ 06:45AM BLOOD TotProt-5.7* Albumin-3.2* Globuln-2.5 
+Calcium-9.1 Phos-3.6 Mg-2.0
+
+IMAGING
+==============
+___ CTA neck with and without contrast
+IMPRESSION:
+1. No evidence of dissection.  No evidence of occlusion or ICA 
+stenosis by
+NASCET criteria.
+2. Known dens fracture is better evaluated on the CT C-spine 
+dated ___.
+3. Severe pleuroparenchymal scarring at the lung apices, some of 
+which appears
+nodular.  Solid nodules throughout the lungs bilaterally 
+measuring up to 12 mm
+at the left apex, for which follow-up is recommended.
+4. Central gland glass opacities within the lungs bilaterally, 
+likely
+reflecting volume overload.  Prominent mediastinal lymph nodes, 
+nonspecific,
+but likely reactive.
+5. 5 mm calcified nodule within the right lobe of the thyroid.
+ 
+RECOMMENDATION(S):  For incidentally detected multiple solid 
+pulmonary nodules
+bigger than 8mm, a CT follow-up in 3 to 6 months is recommended 
+in a low-risk
+patient, with an optional CT follow-up in 18 to 24 months. In a 
+high-risk
+patient, both a CT follow-up in 3 to 6 months and in 18 to 24 
+months is
+recommended.
+ 
+See the ___ ___ Guidelines for the Management 
+of Pulmonary
+Nodules Incidentally Detected on CT" for comments and reference:
+___
+ 
+ Thyroid nodule.  No follow up recommended.
+Absent suspicious imaging features, unless there is additional 
+clinical
+concern, ___ of Radiology guidelines do not 
+recommend further
+evaluation for incidental thyroid nodules less than 1.0 cm in 
+patients under
+age ___ or less than 1.5 cm in patients age ___ or ___.
+ 
+Suspicious findings include: Abnormal lymph nodes (those 
+displaying
+enlargement, calcification, cystic components and/or increased 
+enhancement) or
+invasion of local tissues by the thyroid nodule.
+ 
+___, et al, "Managing Incidental Thyroid Nodules Detected on 
+Imaging: White
+Paper of the ACR Incidental Findings Committee". J ___ 
+___ ___
+12:143-150.
+
+___ C spine XR
+FINDINGS: 
+ 
+C1 through T1 are demonstrated on the lateral view.  There is no 
+prevertebral
+swelling.  Cervical lordosis is preserved.  Re-demonstrated is a 
+type 3
+odontoid fracture, unchanged in alignment or position since 
+prior.  No
+additional fractures are identified.  There is multilevel facet 
+and
+uncovertebral arthropathy as well as disc height loss.  The 
+lateral masses are
+symmetric about the dens.
+ 
+IMPRESSION: 
+ 
+Type 3 odontoid fracture, unchanged in alignment or appearance 
+since prior. 
+The lateral masses are symmetric about the dens.
+ 
+Multilevel degenerative changes.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ living independently with history of 
+glaucoma, hypertension and COPD presenting as a transfer from 
+___ for a neurosurgery evaluation after she fell at 
+home and was found to have a subacute C2 odontoid (dens) 
+fracture. Hospital course complicated by bradycardia.
+
+# Unsteady gait: 
+# Bilateral peripheral neuropathy:
+Chronic issue for the last ___ years. Has been seen by 
+outpatient ENT and neurology. Etiology unclear though ddx 
+includes cardiac causes such as bradycardia or prolonged QTc and 
+metabolic causes including vitamin B12 deficiency and 
+hypothyroidism. Of note, recent outpatient head CT showed soft 
+tissue fullness in the sella and suprasellar region, and MRI of 
+the sella was suggested. Pt declined MRI during this admission 
+as she would not be interested in any surgeries and would prefer 
+to avoid unnecessary testing. RPR negative. B12 > 300 with 
+normal MMA. 
+
+# C2 dens fracture: likely subacute according to imaging 
+findings and spine consult. Pt reports neck pain for at least 2 
+months and thus this may have occurred after her initial fall in 
+___. Per Neurosurgery, likely needs 12 weeks in ___ 
+J collar for non-surgical management per pt preference. Deferred 
+MRI C spine at this time per pt preference as it would not 
+change management (pt declines surgical intervention). Started 
+vitamin D supplementation. Pain control with acetaminophen PRN. 
+___ evaluated and recommended ___ rehab. Baseline 
+AP/lateral/open-mouth-view C-spine XR obtained ___ as baseline 
+to compare to repeat XR in 6 weeks. 
+
+# Bradycardia
+# First degree heart block
+# Pauses
+Chronic asymptomatic bradycardia, noted in Atrius notes. Pt 
+believes this correlates with initiation of her glaucoma 
+medications. DDX also includes hypothyroidism, sick sinus 
+syndrome. Clinical significance is unclear but it is possible 
+that this is the cause of her sporadic falls and gait 
+instability. ECG with PR ~250 and Q waves in II, III, aVF 
+suggestive of old inferior infarct. Asymptomatic pauses up to 
+___ seconds seconds. No current or recent chest pain. 
+Discontinued timolol on ___ without significant increase in HR. 
+EP consulted, recommended non-urgent evaluation with Ziopatch 
+but no need for PPM at this time. The patient declined a monitor 
+and felt that if her heart were to stop she would not want 
+resuscitation or acute interventions. Furthermore she was not 
+keen on a pacemaker despite discussing with her that it is not 
+as invasive as other procedures, therefore a monitor was not set 
+up for her before discharge per her request. Timolol had been 
+stopped during hospitalization given c/f contribution to 
+bradycardia but bradycardia persisted without timolol, therefore 
+it was resumed before discharge. She was advised to follow up 
+with Atrius cardiology. One consideration from EP team is for 
+infiltrative disease such as amyloid; a full workup for this was 
+not pursued in the hospital and can be done as an outpatient if 
+indicated.
+
+# Hypothermia: pt was hypothermic on arrival to ___ 
+___. Etiology of this is not quite clear as patient was not 
+down on the ground for that long. TSH 6.3 with T4 5.5. Pt 
+remained normotensive throughout this admission.
+
+# Decreased appetite: reports subjective decrease in appetite 
+and 15 pound weight loss over the last ___ months. She denies 
+depressive symptoms but has no clear etiology for weight loss. 
+She will f/u with PCP. 
+
+# Incidental imaging findings:
+- Multiple airspace nodular opacities noted at both lung apices 
+with focal areas of ground-glass. Correlate with symptoms of 
+pneumonia. 
+- Mild bronchial wall thickening, areas of mucous plugging and 
+mild bronchial wall dilation likely secondary to chronic 
+bronchitis. 
+
+# Hypertension:
+Continued home lisinopril 10 mg daily.
+
+# COPD: pt with history of COPD though has not been using her 
+Spiriva Respimat due to difficulty with the device. Received 
+tiotropium while inpatient. 
+
+# Glaucoma:
+Continued latanoprost QHS, resumed timolol before discharge 
+given not likely contributing to bradycardia. 
+
+# Goals of care
+The patient expressed interest in discussing goals of care with 
+her PCP. She has talked to her children about GOC. She did note 
+that she would want no invasive procedures or testing done. She 
+may pursue a MOLST as needed as an outpatient. 
+
+TRANSITIONAL ISSUES
+===================
+[] Pt should remain in hard C-collar for 12 weeks for 
+non-operative management of dens fracture per Neurosurgery.
+[] Patient needs repeat AP/lateral/open-mouth-view C-spine Xrays 
+in 6 weeks (___) for Neurosurgery evaluation.
+[] Needs to schedule follow-up with Dr. ___ in ___ 
+clinic in 6 weeks (call ___ to make this appointment). 
+[] Should have non-urgent follow up with Atrius cardiology to 
+review bradycardia and consider a heart monitor. Can call 
+___ to make this appointment.
+[] F/u incidental imaging findings on CTA: multiple solid 
+pulmonary nodules bigger than 8mm, CT follow-up in 3 to 6 months 
+is recommended in a low-risk patient, with an optional CT 
+follow-up in 18 to 24 months. In a high-risk patient, both a CT 
+follow-up in 3 to 6 months and in 18 to 24 months is 
+recommended. 
+[] Consider utility of bisphosphonate 
+[] PCP to follow up repeat thyroid studies given slightly 
+elevated TSH
+[] Pursue goals of care discussion as outpatient 
+
+# CODE: DNR/DNI
+# CONTACT: ___ (daughter) - ___
+
+Time spent: 50 minutes 
+PCP notified of discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Latanoprost 0.005% Ophth. Soln. 1 DROP LEFT EYE QHS 
+2. Timolol Maleate 0.5% 1 DROP LEFT EYE BID 
+3. Lisinopril 10 mg PO DAILY 
+4. Spiriva Respimat (tiotropium bromide) 2.5 mcg/actuation 
+inhalation DAILY 
+
+ 
+Discharge Medications:
+1.  Vitamin D 1000 UNIT PO DAILY  
+2.  Latanoprost 0.005% Ophth. Soln. 1 DROP LEFT EYE QHS  
+3.  Lisinopril 10 mg PO DAILY  
+4.  Spiriva Respimat (tiotropium bromide) 2.5 mcg/actuation 
+inhalation DAILY  
+5.  Timolol Maleate 0.5% 1 DROP LEFT EYE BID  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Dens fracture
+Bradycardia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a privilege caring for you at ___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were brought to the hospital after having a fall at home. 
+Your temperature was also noted to be low at ___.
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- A CT scan of your neck showed that you have a C2 vertebral 
+fracture (dens fracture) that appears to have occurred in the 
+past, likely during a previous fall.
+- You were evaluated by Neurosurgery, and fit with a ___ J 
+collar to wear for neck stabilization. You decided you would 
+rather have non-operative than operative management of your dens 
+fracture. 
+- You were started on vitamin D to promote bone strength.
+- Lab tests showed that you have normal vitamin B12 levels. Your 
+thyroid stimulating hormone is slightly high and should be 
+followed up with repeat testing in the future.
+- Your heart was tested with an electrocardiogram and monitored 
+on telemetry. You were noted to have a slow heart rate 
+(bradycardia) and occasional pauses on telemetry.
+- The Electrophysiology Cardiology specialists evaluated you and 
+recommended ####.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Please continue to take all of your medications and follow-up 
+with your appointments as listed below.
+- You should continue to wear the ___ J collar until you 
+follow up with Neurosurgery specialists in clinic in 6 weeks. 
+Please make this appointment following the instructions below. 
+You will need a repeat x-ray of your neck in 6 weeks, before 
+this appointment.
+- You will likely have to wear the collar for about 12 weeks 
+while your vertebral fracture heals.
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,300 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest discomfort
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old man with past medical history
+of afib on apixiban, HTN, HLD, T2DM on medication, who presents
+to the ED with c/o chest tightness.  He reportedly woke up this
+morning with a headache, palpitations and a sense of chest
+tightness at 04:00. The chest tightness is poorly characterized
+but is reportedly intermittent, and he was chest pain free upon
+assessment in the ED. He denies any associated fever, shortness
+of breath, abdominal pain, nausea, vomiting or diarrhea. 
+
+In the ED initial vitals were: 
+T97.5 HR98 BP118/64 RR118 O2-98 RA 
+Exam:
+Head NC/AT
+HR 110-140s, irregularly irregular
+CTA bilaterally, no wheezes or crackles
+Abdomen soft and nontender
+Skin warm and dry
+No peripheral edema
+
+EKG:  afib RVR 
+Labs/studies notable for:
+Cr 1.5
+Trop <0.01
+
+CXR:
+No acute intrathoracic process. 
+
+Patient was given:
+He received 5mg IV Metoprolol x2, PO Metoprolol with no
+improvement. He was subsequently started on IV diltiazem with
+improvement of rates to ___. Received total of 3L IVF in ED. 
+ 
+___ 12:05 IV Metoprolol Tartrate 5 mg  
+___ 12:08 PO Aspirin 324 mg 
+___ 12:53 IV Metoprolol Tartrate 5 mg 
+___ 13:06 PO Metoprolol Succinate XL 12.5 mg  
+___ 14:21 IV Calcium Gluconate 1 g 
+___ 14:30 IV BOLUS Diltiazem 20 mg 
+___ 15:17 PO/NG Diltiazem 30 mg  
+
+On the floor, he endorses the above history. Interview performed
+with daughter and RN translating at bedside. He reports that the
+chest tightness and headache resolved once he received
+medications in the ED. He was diagnosed with afib last ___
+when he had a similar presentation in ___. He has not 
+had
+any similar episodes since then. Denies any recent medication
+changes. He is without chest tightness, palpitations, headache,
+or any other symptoms at this time. He denies any shortness of
+breath at any point, lightheadedness, dizziness, fevers, chills,
+cough, abdominal pain, nausea, vomiting, diarrhea, dysuria, leg
+swelling, orthopnea. At baseline he can climb >1 flight of 
+stairs
+and walk for over an hour without shortness of breath. 
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Diabetes  
+- Hypertension  
+- Dyslipidemia  
+2. CARDIAC HISTORY  
+- afib on apixaban 
+3. OTHER PAST MEDICAL HISTORY  
+-none
+
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or
+sudden cardiac death.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VS: 24 HR Data (last updated ___
+    Temp: 98.6 (Tm 98.6), BP: 126/65, HR: 71, RR: 16, O2 sat:
+95%, O2 delivery: RA  
+GENERAL: Well developed, well nourished in NAD. Oriented x3. 
+HEENT: Normocephalic atraumatic. Sclera anicteric.  EOMI.
+Conjunctiva were pink. No pallor or cyanosis of the oral mucosa. 
+
+NECK: Supple. JVP at clavicle.   
+CARDIAC: RRR. Normal S1, S2. No murmurs, rubs, or gallops.  
+LUNGS:  Respiration is unlabored with no accessory muscle use.
+CTAB, no crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, non-tender, non-distended. No hepatomegaly. No
+splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema.  
+SKIN: No significant skin lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: T 98.4 F, BP 128/65, HR 71, RR 18, 97% on RA
+GENERAL: Well developed, well nourished in NAD.  
+CARDIAC: RRR. Normal S1, S2. No murmurs, rubs, or gallops.  
+LUNGS: Respiration is unlabored with no accessory muscle use. 
+CTAB, no crackles, wheezes or rhonchi.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 11:49AM BLOOD WBC-7.9 RBC-4.06* Hgb-12.4* Hct-38.4* 
+MCV-95 MCH-30.5 MCHC-32.3 RDW-13.6 RDWSD-46.8* Plt ___
+___ 11:49AM BLOOD Neuts-61.3 ___ Monos-8.4 Eos-1.8 
+Baso-0.4 Im ___ AbsNeut-4.82 AbsLymp-2.18 AbsMono-0.66 
+AbsEos-0.14 AbsBaso-0.03
+___ 02:06PM BLOOD ___ PTT-36.5 ___
+___ 11:49AM BLOOD Glucose-154* UreaN-25* Creat-1.5* Na-138 
+K-4.7 Cl-101 HCO3-23 AnGap-14
+___ 11:49AM BLOOD Calcium-10.1 Phos-3.4 Mg-2.2
+___ 06:27PM BLOOD TSH-1.4
+___ 11:49AM BLOOD cTropnT-<0.01
+___ 06:27PM BLOOD cTropnT-<0.01
+___ 07:15AM BLOOD cTropnT-<0.01 proBNP-___
+
+PERTINENT IMAGING:
+===================
+___ CXR:
+No acute intrathoracic process.
+
+___ TTE:
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. The estimated right atrial pressure
+is ___ mmHg. There is normal left ventricular wall thickness 
+with a normal cavity size. There is normal
+regional and global left ventricular systolic function. 
+Quantitative biplane left ventricular ejection
+fraction is 75 %. Left ventricular cardiac index is normal (>2.5 
+L/min/m2). There is no resting left
+ventricular outflow tract gradient. Normal right ventricular 
+cavity size with normal free wall motion. Tricuspid
+annular plane systolic excursion (TAPSE) is normal. The aortic 
+sinus diameter is normal for gender with
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal with a normal descending
+aorta diameter. The aortic valve leaflets (3) appear 
+structurally normal. There is no aortic valve stenosis.
+There is mild to moderate [___] aortic regurgitation. The 
+mitral valve leaflets are mildly thickened with no
+mitral valve prolapse. There is trivial mitral regurgitation. 
+The pulmonic valve leaflets are normal. The
+tricuspid valve leaflets appear structurally normal. There is 
+mild to moderate [___] tricuspid regurgitation.
+There is mild pulmonary artery systolic hypertension. There is 
+no pericardial effusion.
+IMPRESSION: 1) Normal left ventricular wall thickness and 
+biventricular cavity sizes and regional/
+global systolic function. 2) Mild to moderate tricuspid 
+regurgitation in setting of mild pHTN and
+normal RV size/function. 3) Mild to moderate aortic 
+regurgitation.
+
+DISCHARGE LABS:
+===============
+___ 07:15AM BLOOD WBC-6.4 RBC-3.40* Hgb-10.4* Hct-32.3* 
+MCV-95 MCH-30.6 MCHC-32.2 RDW-14.0 RDWSD-48.3* Plt ___
+___ 07:15AM BLOOD Glucose-111* UreaN-23* Creat-1.5* Na-144 
+K-4.3 Cl-110* HCO3-23 AnGap-11
+___ 07:15AM BLOOD Calcium-8.6 Phos-4.0 Mg-2.___ year old man with past medical history of afib on apixiban, 
+HTN, HLD, T2DM on medication, who presents to the ED with c/o 
+chest tightness and headache, found to be in afib with RVR. S/p 
+IV metoprolol, IV diltiazem, and increase in home metoprolol. 
+Now back in sinus rhythm with rates controlled.
+
+===============  
+ACTIVE ISSUES:  
+===============  
+
+#Afib with RVR: 
+Presented with chest tightness and headache and found to have 
+afib with rates in 110s-130s. Given IV metop, IV diltiazem, and 
+3L NS in the ED with conversion back to NSR. Acute trigger 
+unclear. Unlikely ACS given EKG without ischemic changes and 
+troponin less than assay x2 in ED. TTE showed no RWMA, or e/o 
+CHF. TSH wnl. Pt was continued on home apixaban 5 mg BID, home 
+metoprolol was increased to 50 mg QD.
+
+___ vs. CKD: 
+Cr 1.5 on admission, which is likely baseline given review of 
+prior labs. Resumed home losartan-HCTZ prior to discharge.
+
+================  
+CHRONIC ISSUES:  
+================  
+
+#T2DM: Metformin restarted prior to discharge.
+
+#HTN: Blood pressures currently well-controlled. Continued home 
+amlodipine 5 mg QD, restarted home losartan-HCTZ prior to 
+discharge.  
+
+#HLD: Continued home atorvastatin 40 mg QD.
+
+TRANSITIONAL ISSUES:
+====================
+[ ] F/u BP, HR and adjust home BP/HR medications as below.
+[ ] Metoprolol increased to 50 mg QD.
+[ ] TTE with mild to moderate tricuspid regurgitation in setting 
+of mild pHTN and normal RV size/function. Mild to moderate 
+aortic regurgitation.
+
+================================================
+# LANGUAGE: ___ 
+# CODE STATUS:  full confirmed 
+# CONTACT: ___ (daughter) ___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 25 mg PO DAILY 
+2. Apixaban 5 mg PO BID 
+3. amLODIPine 5 mg PO DAILY 
+4. Atorvastatin 40 mg PO QPM 
+5. MetFORMIN (Glucophage) 850 mg PO BID 
+6. losartan-hydrochlorothiazide 100-12.5 mg oral DAILY 
+7. Aspirin EC 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Metoprolol Succinate XL 50 mg PO DAILY 
+Please start taking ___ when you arrive at home.  
+2.  amLODIPine 5 mg PO DAILY  
+3.  Apixaban 5 mg PO BID  
+4.  Aspirin EC 81 mg PO DAILY  
+5.  Atorvastatin 40 mg PO QPM  
+6.  losartan-hydrochlorothiazide 100-12.5 mg oral DAILY  
+7.  MetFORMIN (Glucophage) 850 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+Atrial Fibrillation
+
+SECONDARY DIAGNOSIS
+===================
+Diabetes Mellitus Type 2
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure to be part of your care. 
+
+You presented to the hospital with headache and chest discomfort 
+and were found to have elevated heart rates due to your abnormal 
+heart rhythm (atrial fibrillation). You underwent an 
+echocardiogram (ultrasound of your heart) which showed no 
+concerning abnormalities. 
+
+We increased your metoprolol (heart rate medication) to help 
+control your heart rates better.
+
+If you experience any recurrent chest discomfort or difficulty 
+breathing, then please seek medical attention. 
+
+We wish you the best,
+Your ___ Team
+ 
+Followup Instructions:
+___

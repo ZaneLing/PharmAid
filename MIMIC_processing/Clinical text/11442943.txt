@@ -1,0 +1,145 @@
+Name:  ___                        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fatigue x2 months, anemia
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ without significant PMH referred to ED by PCP for fatigue, 
+DOE, presyncope, anemia (___) on ___. She describes 
+fatigue since ___. Pt reports episode of weakness and 
+dizziness while taking just 3 steps at home 6 days prior to 
+presentation; presyncope was relieved by sitting down at edge of 
+tub. She denies LOC. She endorses DOE brought on by walking a 
+few steps. She went back to work on ___, and noted DOE just 
+walking up stairs at work, which is new for her. She denies 
+chest pain, SOB at rest. She denies any bloody or tarry stools, 
+hematuria. She does recall that she noted increased bruising 
+last year, which seems to have resolved. Denies increased 
+mucosal bleeding. Endorses chills over the past weekend, without 
+fevers. She has had hot flash-like episodes over the past 3 
+months, and notes that she is well beyond menopause. Denies 
+abdominal pain, chest pain. Endorses ___ years of progressive 
+reflux, for which she takes Pepcid or omeprazole. Denies weight 
+loss, night sweats. She "infrequently" takes NSAIDs for the past 
+___ years, maybe takes ibuprofen ___ times per month, ___ 
+tablets at a time.
+
+In the ___ ED:
+VS 97.5 HR: 78 BP: 177/90 Resp: 18 O(2)Sat: 100 - BP normalized 
+without intervention
+Guaiac positive
+
+GI consulted - anticipate EGD
+
+On arrival to the floor, she endorses headache, for which she 
+typically takes fiorinol. She received fioricet in ED with 
+incomplete relief. Headache is ___, retroorbital and at base of 
+her skull. She notes ongoing heartburn.
+
+ROS: All else negative
+ 
+Past Medical History:
+Osteopenia
+Depression
+ 
+Social History:
+___
+Family History:
+Brother had an MI at age ___, recovered well. Other brother had 
+polyps. Denies family history of malignancy, htn, DM.
+ 
+Physical Exam:
+VS 97.7 PO 136 / 62 R Lying 60 18 100 RA 
+Gen: Very pleasant, interactive, NAD
+HEENT: PERRL, EOMI, clear oropharynx, MMM, +conjunctival pallor
+Neck: Supple, no cervical or supraclavicular adenopathy
+CV: RRR, no m/r/g
+Lungs: CTAB, no wheeze or rhonchi
+Abd: soft, nontender, nondistended, no rebound or guarding, no 
+hepatomegaly, +bowel sounds
+GU: No foley
+Ext: WWP, trace bilateral pitting edema, no clubbing or cyanosis
+Neuro: grossly intact
+ 
+Pertinent Results:
+___ 07:03PM   WBC-5.5 RBC-2.46* HGB-7.8* HCT-23.4* MCV-95 
+MCH-31.7 MCHC-33.3 RDW-13.6 RDWSD-46.5*
+___ 07:03PM   PLT COUNT-259
+___ 02:00PM URINE  HOURS-RANDOM
+___ 02:00PM URINE  UHOLD-HOLD
+___ 02:00PM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 02:00PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-NEG 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-7.5 
+LEUK-NEG
+___ 11:05AM   COMMENTS-GREEN TOP 
+___ 11:05AM   LACTATE-1.0
+___ 10:59AM   GLUCOSE-96 UREA N-17 CREAT-0.8 SODIUM-139 
+POTASSIUM-4.1 CHLORIDE-104 TOTAL CO2-26 ANION GAP-13
+___ 10:59AM   estGFR-Using this
+___ 10:59AM   ALT(SGPT)-13 AST(SGOT)-17 LD(LDH)-164 ALK 
+PHOS-54 TOT BILI-0.4
+___ 10:59AM   cTropnT-<0.01
+___ 10:59AM   CALCIUM-8.9 PHOSPHATE-4.2 MAGNESIUM-2.3 
+IRON-69
+___ 10:59AM   calTIBC-313 ___ FERRITIN-26 TRF-241
+___ 10:59AM   WBC-7.4 RBC-2.59* HGB-8.0* HCT-24.8* MCV-96 
+MCH-30.9 MCHC-32.3 RDW-13.6 RDWSD-46.6*
+___ 10:59AM   NEUTS-70.7 LYMPHS-17.6* MONOS-6.8 EOS-4.2 
+BASOS-0.3 IM ___ AbsNeut-5.22 AbsLymp-1.30 AbsMono-0.50 
+AbsEos-0.31 AbsBaso-0.02
+___ 10:59AM   PLT COUNT-287
+___ 10:59AM   ___ PTT-27.9 ___ without significant PMH referred to ED by PCP for fatigue, 
+DOE, presyncope, anemia (___) on ___, found to be guaiac 
+positive, with likely upper GI source of bleeding.
+
+# Acute blood loss anemia, gastrointestinal bleeding: Pt was 
+seen by gastroenterology and they recommended discharge with 
+outpatient f/u at ___ for EGD/colonoscopy. She received 2u 
+pRBCs. She felt well on discharge.
+
+# Depression: paroxetine continued.
+
+# HSV suppression: Continued acyclovir.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PARoxetine 50 mg PO DAILY 
+2. Acyclovir 400 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+gastrointenstinal bleeding
+iron deficiency anemia
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+You were hospitalized with iron-deficiency anemia in the setting 
+of likely gastrointestinal blood loss. You were treated with 2 
+blood transfusions and the gastroenterology consults met with 
+you and recommended that you see a gastroenterologist at ___ 
+Vanguard for further evaluation.
+ 
+Followup Instructions:
+___

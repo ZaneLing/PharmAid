@@ -1,0 +1,207 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+simvastatin / Tetracyclines
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+PCI s/p DES to LAD ___
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 01:45PM BLOOD WBC-7.9 RBC-5.12 Hgb-15.0 Hct-43.6 MCV-85 
+MCH-29.3 MCHC-34.4 RDW-13.2 RDWSD-40.6 Plt ___
+___ 01:45PM BLOOD Neuts-85.7* Lymphs-10.3* Monos-3.1* 
+Eos-0.0* Baso-0.4 Im ___ AbsNeut-6.74* AbsLymp-0.81* 
+AbsMono-0.24 AbsEos-0.00* AbsBaso-0.03
+___ 01:45PM BLOOD ___ PTT-27.6 ___
+___ 01:45PM BLOOD Glucose-132* UreaN-22* Creat-0.8 Na-140 
+K-4.0 Cl-103 HCO3-22 AnGap-15
+___ 06:18AM BLOOD Calcium-9.2 Phos-2.5* Mg-2.0
+___ 01:45PM BLOOD Glucose-132* UreaN-22* Creat-0.8 Na-140 
+K-4.0 Cl-103 HCO3-22 AnGap-15
+___ 01:45PM BLOOD cTropnT-0.11*
+
+PERTINENT LABS
+==============
+___ 06:45AM BLOOD %HbA1c-8.5* eAG-197*
+___ 06:45AM BLOOD Triglyc-79 HDL-39* CHOL/HD-2.4 LDLcalc-39
+
+PERTINENT RESULTS
+=================
+___ Cath
+Findings
+ Single vessel coronary artery disease.
+ Successful primary PCI for STEMI of the LAD coronary artery.
+Recommendations
+ ASA 81mg per day.
+ Maximize medical therapy
+ Ticagrelorl 90 mg BID
+
+___ TTE
+LVEF 49%. IMPRESSION: 1) Moderate focal and mild global LV 
+systolic dysfunction c/w mid LAD myocardial infarction. 2) Mild 
+to moderate mitral regurgitation in setting of mild pulmonary 
+hypertension and normal RV systolic function.
+
+DISCHARGE LABS
+==============
+___ 06:45AM BLOOD WBC-5.5 RBC-4.73 Hgb-13.9 Hct-41.4 MCV-88 
+MCH-29.4 MCHC-33.6 RDW-13.2 RDWSD-41.5 Plt ___
+___ 06:45AM BLOOD Glucose-115* UreaN-19 Creat-0.8 Na-142 
+K-3.9 Cl-103 HCO3-23 AnGap-16
+___ 06:45AM BLOOD Calcium-9.1 Phos-3.3 Mg-2.1 Cholest-___ male with past medical history of hypertension, 
+hyperlipidemia, type 2 diabetes, who presented with chest pain 
+found to have STEMI now status post DES to LAD.
+
+CORONARIES: 100% stenosis in the proximal and mid segments of 
+LAD s/p ___: 49%
+RHYTHM: SR
+
+TRANSITIONAL ISSUES:
+[] Recommend outpatient cardiac rehabilitation per outpatient 
+cardiologist
+[] Repeat TTE in ___ weeks to assess EF and function
+[] Recommend outpatient management for improved glycemic control
+[] Repeat lipid panel in 1 month
+[] Monitor blood pressure and uptitrate antihypertensive regimen 
+as indicated (decreased amlodipine to increase metoprolol and 
+losartan)
+[] Ensure patient is up-to-date with all preventative health 
+screenings and vaccinations
+
+===============
+ACTIVE ISSUES:
+===============
+#STEMI
+Patient presented with acute onset left-sided crushing chest 
+pain with
+nausea and vomiting that initially developed 0700 on ___. He 
+presented to ED and was found to have anterolateral ST 
+elevations on ECG and trop 0.11 consistent with STEMI. Taken to 
+cath lab and found to have 100% occlusion of proximal to mid LAD 
+now s/p one DES. Received 80cc of contrast and 672cc for 
+post-cath hydration. Patient chest pain free and HD stable with 
+no evidence of heart failure on exam except chronic trace ___ 
+pitting edema which is chronic and thought to be in setting of 
+amlodipine and venous insufficiency. Post PCI TTE demosntrated  
+1) Moderate focal and mild global LV systolic dysfunction c/w 
+mid LAD
+myocardial infarction. 2) Mild to moderate mitral regurgitation 
+in setting of mild pulmonary hypertension and normal RV systolic 
+function.  EF 49%
+Patient discharged on aspirin, ticagrelor a ($5 co-pay), 
+rosuvastatin, metoprolol, home amlodipine, home losartan.
+
+#Type 2 Diabetes Mellitus
+Last A1c 9.4% (___). Nutrition consulted as inpatient. Home 
+oral hypoglycemics were held in the hospital and the patient was 
+placed on insulin sliding scale. Will need outpatient up 
+titration of diabetes regimen for his glycemic control.
+
+================
+CHRONIC ISSUES:
+================
+#Hypertension
+-as above
+
+#Hyperlipidemia
+-as above
+
+==================
+CORE MEASURES:
+==================
+# CODE STATUS: Full
+# CONTACT: Wife, see ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 100 mg PO DAILY 
+2. MetFORMIN XR (Glucophage XR) 500 mg PO BID 
+3. amLODIPine 10 mg PO DAILY 
+4. Rosuvastatin Calcium 20 mg PO QPM 
+5. empagliflozin 25 mg oral DAILY 
+6. glimepiride 4 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Metoprolol Succinate XL 50 mg PO DAILY  
+3.  TiCAGRELOR 90 mg PO BID  
+4.  amLODIPine 5 mg PO DAILY  
+5.  Rosuvastatin Calcium 40 mg PO QPM  
+6.  empagliflozin 25 mg oral DAILY  
+7.  glimepiride 4 mg oral DAILY  
+8.  Losartan Potassium 100 mg PO DAILY  
+9.  MetFORMIN XR (Glucophage XR) 500 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses
+=================
+STEMI
+
+Secondary Diagnoses
+===================
+HTN
+HLD
+DM2
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of you in the hospital!
+
+Why was I admitted to the hospital?
+-You came to the hospital because you had a heart attack
+
+What happened while I was admitted to the hospital?
+- Your heart arteries were examined (cardiac catheterization) 
+which showed a blockage of one of the arteries. This was opened 
+by placing a tube called a stent in the artery. You were given 
+medications to prevent future blockages.  
+- It is very important to take your aspirin and clopidogrel 
+(also known as Plavix)/ticagrelor (also known as Brilinta) every 
+day.  
+- These two medications keep the stents in the vessels of the 
+heart open and help reduce your risk of having a future heart 
+attack.  
+- If you stop these medications or miss ___ dose, you risk causing 
+a blood clot forming in your heart stents and having another 
+heart attack  
+- Please do not stop taking either medication without taking to 
+your heart doctor.  
+-Your lab numbers were closely monitored and you were given 
+medications to treat your medical conditions
+
+What should I do after I leave the hospital?
+-Please continue taking all of your medications as prescribed, 
+details below
+-Keep all of your appointments as scheduled 
+
+We wish you the very best! 
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

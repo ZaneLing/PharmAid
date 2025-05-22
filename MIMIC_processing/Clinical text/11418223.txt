@@ -1,0 +1,271 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+morphine / tetanus toxoid, adsorbed / formaldehyde / latex / 
+Codeine / Losartan
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with PMHx of cad s/p stening, afib on Coumadin, DM2, htn 
+presenting to the ED with dyspnea. Pt reports over past ___ 
+weeks he has been feeling short of breath. Worse with exertion. 
+Associated with a cough productive of sputum. No chest pain, 
+denies any N/V/D. No recent weight gain or diarrhea. Seen by 
+cards 3 days ago where he was started on amiodarone for his 
+afib. 
+
+In the ED initial vitals were: 97.8 | 80 | 124/73 | 19 | 98% RA 
+EKG:
+Labs/studies notable for: ___, proBNP=4369, INR=2.3, 
+Lactate=2.2, Tpn<0.01
+Patient was given: Lasix 20mg IV at 14:51 ___
+Vitals on transfer: 98.2 | 82 | 118/89 | 21 | 94% RA 
+ 
+On the floor, patient feeling well with no dyspnea, chest pain, 
+or lightheadedness. 
+
+ROS: +Paroxysmal nocturnal dyspnea x3-4 months. +Dyspnea on 
+exertion. Cardiac review of systems is notable for absence of 
+chest pain, orthopnea, ankle edema, palpitations, syncope or 
+presyncope.
+
+Denies any recent fevers, chills or rigors. All of the other 
+review of systems were negative. 
+
+ 
+Past Medical History:
+- CAD status post anterior MI
+- Atrial fibrillation on warfarin, metoprolol, amiodarone
+- HFrEF (LVEF=30%)
+- LV apical aneurysm, h/o of LV thrombus
+- Nephrolithiasis (___)
+- Diabetes mellitus
+- GI bleed
+- Hypertension.
+- Dyslipidemia.
+ 
+Social History:
+___
+Family History:
+No premature coronary artery disease, sudden cardiac death in 
+the family.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VS: T=98.0  BP=147/89 HR=81 RR=16 O2 sat=95% RA
+I/O: 120/475
+GENERAL: Elderly male in NAD. Alert and Oriented x3. Mood, 
+affect appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.
+NECK: Supple with JVP of 11-12 cm at 30 deg.
+CARDIAC: Irregular RR, normal S1/S2. No murmurs/rubs/gallops.
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.
+ABDOMEN: Soft, NTND. No HSM or tenderness.
+EXTREMITIES: Warm. No c/c/e. No femoral bruits.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.
+PULSES: Distal pulses palpable and symmetric
+
+DISCHARGE PHYSICAL EXAM:
+Vitals: T=98.2  ___  BP=134-142/91  RR=17 O2=94-95% on RA 
+I/O= 180/450 (8hrs), 240/900 (24hrs)
+Weight: 81.0 kg
+Weight on admission: 82.1 kg
+Telemetry: A-fib, with some stretches with conducted P waves, 
+possibly A-flutter
+General: Elderly male in NAD
+HEENT: PERRL. EOMI. MMM.
+Lungs: Clear without rales or wheezes
+CV: Irregular, S1/S2.
+Ext: Warm. No edema.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 12:05PM BLOOD WBC-7.2 RBC-4.51* Hgb-14.0 Hct-43.8 
+MCV-97 MCH-31.0 MCHC-32.0 RDW-14.9 RDWSD-53.1* Plt ___
+___ 12:05PM BLOOD Neuts-68.7 Lymphs-18.8* Monos-6.6 Eos-4.6 
+Baso-1.0 Im ___ AbsNeut-4.96 AbsLymp-1.36 AbsMono-0.48 
+AbsEos-0.33 AbsBaso-0.07
+___ 12:05PM BLOOD ___ PTT-40.7* ___
+___ 12:05PM BLOOD Glucose-175* UreaN-24* Creat-1.4* Na-139 
+K-5.7* Cl-106 HCO3-20* AnGap-19
+___ 12:05PM BLOOD proBNP-___*
+___ 12:05PM BLOOD Calcium-9.4 Phos-3.2 Mg-2.0
+___ 12:11PM BLOOD Lactate-2.2* K-4.5
+___ 09:50PM BLOOD Lactate-1.9
+
+DISCHARGE LABS:
+___ 06:15AM BLOOD WBC-6.0 RBC-4.52* Hgb-14.1 Hct-43.5 
+MCV-96 MCH-31.2 MCHC-32.4 RDW-14.8 RDWSD-52.7* Plt ___
+___ 06:15AM BLOOD ___ PTT-38.3* ___
+___ 06:15AM BLOOD Glucose-143* UreaN-25* Creat-1.4* Na-141 
+K-4.3 Cl-104 HCO3-26 AnGap-15
+___ 06:15AM BLOOD Calcium-9.7 Phos-3.6 Mg-1.7
+
+IMAGING:
+
+ECG ___: Baseline artifact. The rhythm appears to be atrial 
+fibrillation with some organized atrial activity. 
+Intraventricular conduction delay with left axis deviation. 
+Possible left anterior fascicular block. Poor R wave progression 
+in leads V1-V4. Cannot exclude an anteroseptal wall myocardial 
+infarction of indeterminate age. Possible left ventricular 
+hypertrophy. Minor ST segment depression in the lateral limb 
+leads with T wave inversion in leads I, aVL and
+leads V5-V6, this may be consistent with repolarization changes 
+seen in left ventricular hypertrophy, although cannot exclude 
+myocardial ischemia. Clinical correlation is suggested. Compared 
+to the previous tracing of ___ the rhythm now appears to be 
+atrial fibrillation. The ST-T wave changes are more pronounced. 
+Clinical correlation is suggested.
+
+___ Chest XR: Vascular congestion and mild pulmonary edema, 
+as well as mild cardiomegaly and small bilateral pleural 
+effusions.
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ with history of sCHF and A-fib presenting 
+with CHF exacerbation. 
+
+He had progressive DOE and orthopnea in the weeks prior to 
+admission. On arrival BNP was elevated to >4000. He received 
+20mg IV Lasix in the ED with good response. Subsequently 
+endorsed resolved orthopnea. He was discharged on 20mg PO 
+torsemide with plan for outpatient cardiology followup.
+
+# CORONARIES: ___ total occlusion of LAD, no 
+revascularization
+# PUMP: LVEF=30%
+# RHYTHM: A-fib, rate controlled
+
+==============
+ACTIVE ISSUES:
+==============
+
+# Acute on chronic systolic CHF exacerbation: LVEF=30% secondary 
+to ischemia, previous anterior MI. Patient presented with weeks 
+of progressive dyspnea on exertion and history concerning for 
+paroxysmal nocturnal dyspnea. BNP elevated >4000 in ED. Got 
+Lasix 20mg x1 in ED with good output. Patient stable on room air 
+and not feeling dyspneic even when lying flat at time of 
+admission. Recently started amiodarone, though this is unlikely 
+to be trigger. Possible triggers include a-fib with high rates, 
+dietary changes (though patient denies). Discharged on torsemide 
+20mg daily for volume maintenance.
+
+# Atrial fibrillation: On metoprolol and recently started on 
+amiodarone for rhythm control, preparation for possible 
+cardioversion. Undergoing amiodarone load, details above in home 
+meds. Rates acceptable on admission. Brief run of rapid rate in 
+130s, likely a-fib. Telemetry with some stretches showing P 
+waves, intermittently conducted--possibly atrial flutter. 
+Continued amiodarone load.
+
+# ___ on CKD: Presumed based on Cr elevated to 1.4 on admission, 
+last value in system is 1.1 in ___. Most likely cardiorenal. 
+___ be contribution of diabetic nephropathy, hypertension. 
+Discharged at Cr of 1.4. Encourage follow up by patient's usual 
+provider.
+
+================
+CHRONIC ISSUES:
+================
+
+# Hypertension: On valsartan and metoprolol. Held valsartan 
+while inpatient and at discharge due to concern for ___. 
+Continued metoprolol.
+
+# CAD with h/o anterior MI: Continued atorvastatin 80mg, 
+metoprolol. Valsartan held at discharge.
+
+# Diabetes mellitus: On metformin at home. HbA1c unknown.
+
+===================
+TRANSITIONAL ISSUES:
+===================
+- He was discharged on 20mg PO torsemide
+- He should have outpatient transthoracic ECHO to further 
+characterize his cardiac function
+- Please check Chem 7 at PCP followup appointment in setting of 
+new torsemide use
+- Valsartan was held due to elevated creatinine. Please restart 
+if appropriate at PCP followup
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Warfarin 5 mg PO DAILY16 
+2. Atorvastatin 80 mg PO QPM 
+3. Valsartan 80 mg PO DAILY 
+4. Metoprolol Succinate XL 50 mg PO DAILY 
+5. MetFORMIN (Glucophage) 500 mg PO BID 
+6. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES Frequency 
+is Unknown 
+7. Amiodarone 400 mg PO BID 
+
+ 
+Discharge Medications:
+1. Atorvastatin 80 mg PO QPM 
+2. Warfarin 5 mg PO DAILY16 
+3. Torsemide 20 mg PO DAILY 
+RX *torsemide 20 mg 1 tablet(s) by mouth Once a day Disp #*30 
+Tablet Refills:*0
+4. Amiodarone 400 mg PO BID 
+5. Brimonidine Tartrate 0.15% Ophth. 1 DROP BOTH EYES Q8H 
+6. MetFORMIN (Glucophage) 500 mg PO BID 
+7. Metoprolol Succinate XL 50 mg PO DAILY 
+8. Outpatient Lab Work
+Please check Chem 7 on ___.
+(ICD 10: I50.9)
+Fax results to ___ MD: ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Acute decompensated systolic heart failure
+
+SECONDARY DIAGNOSIS:
+Atrial fibrillation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure being part of your care at ___. You were 
+admitted to the ___ due to volume overload. You were given 
+diuretic medications and your symptoms improved.
+
+After discharge, please follow up with your doctors as directed.
+
+Weigh yourself every morning, call MD if weight goes up more 
+than 3 lbs.
+ 
+Followup Instructions:
+___

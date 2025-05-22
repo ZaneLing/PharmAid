@@ -1,0 +1,283 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abnormal labs
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a Type 2 diabetes (A1C 
+6.3 on ___, CKD Stage 3 (baseline Cr 1.3-1.5) who 
+presented to the ED after lab tests at routine visit showed 
+elevated creatinine. 
+
+Ms. ___ was in her usual state of health until ___, when 
+she underwent a colonoscopy at ___ for workup of 
+anemia. Following the procedure, patient noted two weeks of 
+non-bloody diarrhea, described as a green color. During this 
+time, she also endorsed loss of appetite, general malaise, and 
+low urine output. She also endorsed mid-epigastric pain when 
+eating, which she believes to be similar to her acid reflux pain 
+in the past. She continued all medications with no new 
+medications or NSAIDS. 
+
+On ___, Ms. ___ was directed to the ED after labs at routine 
+visit showed Cr 3.6. She was instructed to stop home Losartan, 
+Metformin, Prilosec at request of her PCP, for concern of kidney 
+function. She returned home and was taken to the ED by her 
+children on ___. 
+
+In the ED, initial vitals were:  T97.3, HR 70, BP 169/65, RR 20, 
+O2Sat:100RA. Labs notable for BUN48, Cr3.8, Glu151, H/h 
+38.4/9.4. Renal US revealed no hydronephrosis. 
+
+Ms. ___ has swelling in both lower extremities for the past 
+year, though she did not notice worsening swelling over the past 
+few weeks. She denies confusion, nausea, vomiting, shortness of 
+breath or weight loss.
+ 
+On the floor, Ms. ___ reports feeling well. Her diarrhea 
+subsided a week prior and she has since had normal bowel 
+movements. Her appetite has increased. She endorses high urine 
+output (light in color), feeling as though she needs to pee 
+every 5 min. 
+ 
+ROS (+) per HPI, all other ROS otherwise negative 
+
+ 
+Past Medical History:
+Chronic Kidney Disease stage 3
+Diabetes Mellitus Type 2- ___ years
+GERD
+Hypertension 
+Diverticulosis
+Anemia
+Obesity
+Hyperlipidemia
+Hyperparathyroidism 
+ 
+Social History:
+___
+Family History:
+Sister- Type 2 diabetes mellitus, end stage renal disease on 
+dialysis
+Brother- ___ Cancer, ___ cancer
+Brother- ___ Cancer
+Brother- ___ cancer
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+Vital Signs: Tmax:98.0, BP170s-190s/80s-90s, HR67-73, RR18, 
+O2sat100RA
+General: Alert, oriented, well appearing, NAD
+HEENT: Sclera anicteric, MMM, oropharynx clear, neck supple, no 
+LAD  
+CV: RRR, normal S1 + S2, systolic at RUSB/LUSB, and ?S4
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Distended, tender to deep palpation in LUQ and slight 
+pressure/tenderness in RLQ and LLQ, no rebound or guarding. 
+Bowel sounds present, no organomegaly.
+Ext: BLE ___ edema to knee, L>R, per patient stable, DP pulses 
+palpable, no foot ulcers
+Neuro: AOx3, moving all extrememties, no asterixis 
+
+DISCHARGE PHYSICAL EXAM:
+Vital Signs: 98.7 121-164/58-71 60-70 ___ 100%RA
+General: Alert, oriented, well appearing, NAD
+HEENT: Sclera anicteric, MMM, oropharynx clear, neck supple, no 
+LAD  
+CV: RRR, normal S1 + S2, S4, systolic at RUSB/LUSB
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Distended, no tenderness, rebound or guarding. Bowel 
+sounds present, no organomegaly.
+Ext: bilateral 1+ pitting edema in both lower extremeties (left> 
+right, per patient stable) DP pulses palpable, no foot ulcers
+Neuro: AOx3, moving all extremeties, no asterixis   
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 11:24AM BLOOD WBC-6.9 RBC-3.36* Hgb-9.4* Hct-28.4* 
+MCV-85 MCH-28.0 MCHC-33.1 RDW-13.9 RDWSD-42.5 Plt ___
+___ 11:24AM BLOOD Neuts-72.7* Lymphs-18.9* Monos-6.4 
+Eos-1.0 Baso-0.7 Im ___ AbsNeut-5.03 AbsLymp-1.31 
+AbsMono-0.44 AbsEos-0.07 AbsBaso-0.05
+___ 11:24AM BLOOD Plt ___
+___ 11:24AM BLOOD Glucose-151* UreaN-48* Creat-3.8* Na-137 
+K-3.8 Cl-99 HCO3-23 AnGap-19
+___ 11:24AM BLOOD Calcium-10.2 Phos-4.4 Mg-2.0
+___ 11:35AM URINE Color-Straw Appear-Clear Sp ___
+___ 11:35AM URINE Blood-NEG Nitrite-NEG Protein-30 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-NEG
+___ 11:35AM URINE RBC-1 WBC-1 Bacteri-FEW Yeast-NONE Epi-0
+___ 11:35AM URINE Mucous-RARE
+___ 11:35AM URINE
+___ 11:35AM URINE Hours-RANDOM Creat-49 Na-72 K-42 Cl-81 
+Albumin-11.7 Alb/Cre-238.8*
+
+DISCHARGE LABS:
+___ 07:01AM BLOOD WBC-4.5 RBC-2.74* Hgb-7.6* Hct-24.1* 
+MCV-88 MCH-27.7 MCHC-31.5* RDW-14.3 RDWSD-45.1 Plt ___
+___ 07:01AM BLOOD Glucose-100 UreaN-50* Creat-3.8* Na-142 
+K-3.7 Cl-105 HCO3-24 AnGap-17
+___ 07:01AM BLOOD Calcium-9.0 Phos-4.9* Mg-1.9
+
+IMAGING/DIAGNOSTICS:
+(___) Renal Ultrasound- Increased echogenicity of the renal 
+parenchyma bilaterally consistent with chronic medical renal 
+disease.  There is no hydronephrosis. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a type 2 diabetes (last 
+A1C 6.3 on ___, CKD Stage 3 (baseline Cr 1.3-1.5) who 
+presented with elevated Cr, consistent with acute on chronic 
+renal failure. 
+
+#Acute on Chronic Renal Failure: Patient presented with acute on 
+chronic renal failure, given prior 2 week history of oliguria 
+and Cr. of 3.8 on ED presentation (baseline 1.3-1.5). About a 
+month prior to hospitalization, she underwent a colonoscopy and 
+noted 2 weeks of diarrhea and low water/food intake following 
+the procedure. In the ED, renal US revealed no hydronephrosis. 
+Her labs and history were consistent with prerenal kidney injury 
+and subsequent ischemic ATN. Renal was consulted and agreed with 
+this diagnosis. There were no signs of uremic encephalopathy or 
+volume overload and electrolytes were stable. At admission, 
+patient's omeprazole, losartan, and metformin were put on hold. 
+Patient reported high urine output, suggesting recovery/diuresis 
+phase of ATN. She was given 2 L IV fluids and encouraged to 
+drink water. Her Cr levels stabilized with fluid challenge and 
+did not worsen during hospitalization. 
+
+#Hypertension: On admission to the floor, patient's blood 
+pressure was elevated at 170-190/80-90. Her losartan was put on 
+hold and her carvedilol was increased from daily to BID during 
+her stay. Her blood pressure decreased to 130s/50s following 
+these medication adjustments. Losartan was held upon discharge 
+given ___.
+
+#Anemia: As per patient, she is anemic at baseline and 
+colonscopy in ___ for anemia workup revealed diverticulosis, 
+with no obvious source of slow bleed or malignancy. One could 
+consider having an outpatient EGD for this patient given 
+longstanding GERD.
+
+#Diabetes Mellitus Type 2: metformin was discontinued in the 
+setting of ___. Her home trajenta was held in the hospital and 
+she was on insulin sliding scale. Of note, her glucose was in 
+the ___ while hospitalized. This may be secondary to ___, 
+but patient may also tolerate less aggressive diabetic regimen.
+
+***Transitional Issues***
+- Discharge creatinine: 3.8
+- Repeat creatinine in 1 week and fax results to Dr. ___ at 
+___:  ___ 
+- Carvedilol increased to BID for blood pressure control, 
+please f/u blood pressure after discontinuation of losartan
+- Losartan and metformin discontinued at discharge given renal 
+function
+- Patient's blood glucose was ___ while hospitalized, 
+please continue to follow and adjust diabetic management as 
+indicated
+- Patient was having an outpatient workup for anemia, and given 
+longstanding GERD, may consider an EGD as part of the workup 
+(no melena, no weight loss, no dysphagia). 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Losartan Potassium 100 mg PO DAILY 
+2. Januvia (sitaGLIPtin) 50 mg oral daily 
+3. Omeprazole 20 mg PO DAILY 
+4. MetFORMIN XR (Glucophage XR) 500 mg PO DAILY 
+5. Amaryl (glimepiride) 1 mg oral daily 
+6. Carvedilol 6.25 mg PO DAILY 
+7. Amlodipine 10 mg PO DAILY 
+8. Atorvastatin 20 mg PO QPM 
+9. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -200 unit oral daily 
+10. Fish Oil (Omega 3) 500 mg PO DAILY 
+11. Aspirin 81 mg PO DAILY 
+12. Centrum (multivit-iron-min-folic 
+acid;<br>multivit-mins-ferrous gluconat) 3,500-18-0.4 unit-mg-mg 
+oral daily 
+13. Vitamin E 400 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Amlodipine 10 mg PO DAILY 
+2. Atorvastatin 20 mg PO QPM 
+3. Carvedilol 6.25 mg PO BID 
+4. Aspirin 81 mg PO DAILY 
+5. Calcium 500 + D (calcium carbonate-vitamin D3) 500 
+mg(1,250mg) -200 unit oral daily 
+6. Centrum (multivit-iron-min-folic 
+acid;<br>multivit-mins-ferrous gluconat) 3,500-18-0.4 unit-mg-mg 
+oral daily 
+7. Fish Oil (Omega 3) 500 mg PO DAILY 
+8. Januvia (sitaGLIPtin) 50 mg oral daily 
+9. Omeprazole 20 mg PO DAILY 
+10. Vitamin E 400 UNIT PO DAILY 
+11. Outpatient Lab Work
+ICD 10 diagnosis: N17 Acute renal failure
+
+BMP
+
+Fax results to Dr. ___ at ___:  ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis: Acute on Chronic Renal Failure
+Secondary Diagnosis: Type II Diabetes Mellitus, Normocytic 
+anemia,GERD
+Hypertension, Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+Thank you for allowing us to participate in your care at ___! 
+You were admitted to the hospital after your routine labs showed 
+elevated creatinine, which means your kidneys were not working 
+as well as they were before. You were seen by the kidney team, 
+and it is likely this happened after having the prolonged 
+episodes of diarrhea and little oral intake. Your kidney 
+function will take time to improve, and will need to be followed 
+closely as an outpatient. If you notice your leg swelling is 
+getting worse, if you have trouble breathing, or if you have any 
+confusion, please seek medical attention immediately. 
+
+After discharge, you should follow up with your doctors at 
+___ for monitoring and evaluation. 
+
+We wish you the best! 
+Sincerely, 
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

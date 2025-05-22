@@ -1,0 +1,265 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+allopurinol / Ambien
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Vomiting and diarrhea
+ 
+Major Surgical or Invasive Procedure:
+None.
+
+ 
+History of Present Illness:
+HISTORY OF THE PRESENTING ILLNESS: ___ year old gentleman with 
+history of hypertension, renal artery stenosis, PAF, sarcoidosis 
+who initially presented to clinic today with diarrhea.
+
+In clinic he noted having diarrhea and vomiting for 10 days 
+prior to admission when he was at the airport (ate cheese and 
+grapes) with immediate onset vomiting. Since eating those items, 
+he has continued to have nausea, intermittent diarrhea (liquidy 
+brown but no blood), abdominal discomfort, and vomiting. Denies 
+any fevers but has lost at lest 5 pounds. 
+
+He works as a ___ and continues to see patients during 
+the daytime but denies any sick contacts. 
+
+In regard to his hypertension, he has been unable to take his 
+anti-hypertensive medications due to the nausea/vomiting 
+(normally on clonidine, lisinopril, metoprolol, 
+triamterene/HCTZ).     
+ 
+In the ED, initial vitals were: 96.7, 64, 193/82, 18, 100% on 
+RA.
+Labs were notable for H/H 11.9/37.5, LFT's normal except for 
+lipase of 98, chemistry was notable for creatinine 2.3 (baseline 
+1.6-1.8). 
+CT abdomen and pelvis performed which showed "no acute 
+intra-abdominal process. No free air or free fluid. Normal 
+appendix."
+Patient received 1 L normal saline, 4 mg Zofran.
+After 1 L normal saline, creatinine improved to 2.1.  
+
+On the floor, patient acknowledges the above history. Notes the 
+diarrhea and vomiting have stopped since yesterday. Currently 
+feels thirsty and dehydrated, but does believe he can take his 
+anti-hypertensives as he is feeling better.  Denies chest pain, 
+chest pressure, palpitations, headache, vision changes. 
+ 
+Past Medical History:
+-Hypertension
+-Renal artery stenosis
+-Paroxysmal atrial fibrillation
+-Sarcoidosis
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:
+Mother: ___ at ___ from aneurysm/stroke
+Father: ___ at ___: CAD, hypertension.
+Brother: Living: hypertension. 
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+Vital Signs: 97.7, 223/93, 60, 18, 99% on RA.   
+General: Alert, oriented in NAD.  
+HEENT: Sclerae anicteric, dry mucous membranes, no elevated JVD. 
+
+CV: RRR, systolic murmur appreciated. 
+Lungs: Clear to auscultation bilaterally, no wheezes.   
+Abdomen: soft, non-tender, non-distended, no rebound or 
+guarding, normoactive bowel sounds.  
+Ext: Warm, well perused, no lower extremity edema.  
+Neuro: moving arms and legs without difficulty.
+
+DISCHARGE EXAM
+==============
+Vital Signs: Tmax 97.7 BP 100-220s/60-90s HR 40-60s RR 18 ___ on RA 
+General: Alert, oriented in NAD.  
+HEENT: Sclerae anicteric, dry mucous membranes, no elevated JVD. 
+
+CV: RRR, systolic murmur appreciated. 
+Lungs: Clear to auscultation bilaterally, no wheezes.   
+Abdomen: Soft, non-tender, non-distended, no rebound or 
+guarding, normoactive bowel sounds.  
+Ext: Warm, well perused, no lower extremity edema.  
+Neuro: Moving arms and legs without difficulty. 
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 04:45PM BLOOD WBC-9.0 RBC-3.85* Hgb-11.9* Hct-37.5* 
+MCV-97 MCH-30.9 MCHC-31.7* RDW-12.3 RDWSD-44.5 Plt ___
+___ 04:45PM BLOOD Neuts-65.4 Lymphs-18.6* Monos-10.4 
+Eos-4.0 Baso-0.4 Im ___ AbsNeut-5.89 AbsLymp-1.68 
+AbsMono-0.94* AbsEos-0.36 AbsBaso-0.04
+___ 04:45PM BLOOD Plt ___
+___ 04:45PM BLOOD Glucose-122* UreaN-58* Creat-2.3* Na-133 
+K-6.6* Cl-103 HCO3-15* AnGap-22*
+___ 04:45PM BLOOD ALT-14 AST-34 AlkPhos-70 TotBili-0.3
+___ 04:45PM BLOOD Albumin-4.2
+
+MICRO
+=====
+___ 12:34 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+   FECAL CULTURE (Pending): 
+
+   CAMPYLOBACTER CULTURE (Pending): 
+
+   OVA + PARASITES (Pending): 
+
+   FECAL CULTURE - R/O VIBRIO (Pending): 
+
+   FECAL CULTURE - R/O YERSINIA (Pending): 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Pending): 
+
+IMAGING
+=======
+___ CT ABDOMEN PELVIS
+IMPRESSION: 
+1. No acute intra-abdominal process.  No bowel obstruction or 
+bowel wall 
+thickening.  No free fluid.  Normal caliber appendix with some 
+high density material within which may be ingested or 
+appendicolith. 
+
+DISCHARGE LABS
+==============
+___ 07:15AM BLOOD WBC-6.3 RBC-3.39* Hgb-10.5* Hct-33.5* 
+MCV-99* MCH-31.0 MCHC-31.3* RDW-12.3 RDWSD-45.2 Plt ___
+___ 07:15AM BLOOD Plt ___
+___ 07:15AM BLOOD Glucose-84 UreaN-46* Creat-1.9* Na-138 
+K-5.0 Cl-107 HCO3-16* AnGap-20
+___ 07:15AM BLOOD Calcium-9.0 Phos-3.3 Mg-1.7
+ 
+Brief Hospital Course:
+HOSPIAL COURSE
+==============
+Dr. ___ is a ___ year old gentleman with history of 
+hypertension, renal artery stenosis, paroxysmal atrial 
+fibrillation and sarcoidosis who initially presented to clinic 
+with diarrhea and vomiting for 10 days. Patient's diarrhea and 
+vomiting improved but admission labs were notable for 
+hyperkalemia and ___ to Cr 2.1 from baseline 1.7, improved to 
+1.9 with IVF. SBP 220s on floor initially in the setting of 
+missing his antihypertensives due to nausea/vomiting. His only 
+symptoms were facial flushing without visual disturbance, 
+headache, chest pain or urinary changes. Upon restarting 
+clonidine SBP dropped from 220's to 100-140's. Decreased 
+lisinopril dose at discharge to 5mg daily due to ___ and 
+hyperkalemia. Patient will follow up within 1 week with PCP.
+
+ACTIVE ISSUES
+=============
+# Nausea/vomiting/diarrhea: Likely gastroenteritis that is 
+resolving as patient has improved symptoms over the past two 
+days. ___ be secondary to food (as noticed the symptoms 
+immediately after eating) versus infectious process. Sent 
+norovirus, c. diff, stool cultures (campylobacter, salmonella, 
+shigella), E. coli ___:H7, Yersinia, vibrio, o and p. Resolved 
+by time of discharge.
+
+# Hypertension: SBP 223 on floor initially. Likely in the 
+setting of missing his antihypertensives in the setting of 
+nausea/vomiting. Completely asymptomatic at that blood pressure. 
+Restarted clonidine and SBP dropped from 220's to 100-140's, 
+also asymptomatic. Restarted all home medications (metoprolol 
+succinate, clonidine, triamterene-HCTZ) except for lisinopril 
+which was started at half dose (5mg) pending check with PCP.
+
+# ___: Baseline creatinine 1.6-1.8. Cr 2.1 on admission. Likely 
+in setting of volume depletion. Improving in setting of fluids 
+to 1.9 on discharge. Half dose lisinopril to 5mg until follows 
+up with PCP to ensure no ___.
+
+# Hyperkalemia: In setting ___ as well as lisinopril use. IVF 
+and improved. Half dose lisinopril to 5mg until follows up with 
+PCP to ensure no ___.
+
+# Anemia: Slightly below baseline. 
+ 
+TRANSITIONAL ISSUES
+===================
+[] Decreased lisinopril dose at discharge from 10mg daily to 5mg 
+daily due to ___ and hyperkalemia, to be increased by PCP if 
+deemed appropriate
+[] Patient with ___ at 9:00 AM appointment with 
+PCP, should have BMP checked at that time to ensure ___ has 
+resolved and follow electrolytes
+# CODE STATUS: Full Code (confirmed)
+# CONTACT INFORMATION: ___ (son): ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. CloNIDine 0.1 mg PO BID 
+2. Febuxostat 10 mg PO DAILY 
+3. Lisinopril 10 mg PO DAILY 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. Pravastatin 10 mg PO QPM 
+6. Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY 
+
+ 
+Discharge Medications:
+1.  Lisinopril 5 mg PO DAILY  
+2.  CloNIDine 0.1 mg PO BID  
+3.  Febuxostat 10 mg PO DAILY  
+4.  Metoprolol Succinate XL 25 mg PO DAILY  
+5.  Pravastatin 10 mg PO QPM  
+6.  Triamterene-HCTZ (37.5/25) 1 CAP PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis
+- Viral gastroenteritis
+Secondary diagnosis
+- Acute kidney injury
+- Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Dr. ___,
+ 
+___ were admitted to the hospital because ___ were having 
+vomiting and diarrhea causing kidney injury and inability to 
+take your blood pressure medications. The vomiting and diarrhea 
+improved, and your kidney function improved with IV fluids. Your 
+blood pressure normalized after re-starting your home 
+medications.
+ 
+We halved your lisinopril from 10mg daily to 5mg daily because 
+it can cause kidney damage and high potassium, which ___ had on 
+admission. When ___ see your PCP ___ may consider 
+putting ___ back on the higher dose and make repeat labs.
+ 
+It was a privilege to care for ___ in the hospital, and we wish 
+___ all the best.
+ 
+Sincerely,
+ 
+Your ___ Health Team
+ 
+Followup Instructions:
+___

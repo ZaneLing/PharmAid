@@ -1,0 +1,319 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lower extremity weakness
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Mr. ___ is an ___ gentleman with a history of memory 
+loss, hypertension, hyperlipidemia, presenting for increased 
+weakness. History is obtained by OMR/ED Dash given that patient 
+is unable to answer questions reliably. 
+
+Patient thinks he is here to have his blood checked and states 
+that over the past few days he has become increasingly weak. 
+Patient currently resides at the ___, and has had 
+increasing confusion over the past several months, inability to 
+ambulate, and ? fall about 2 weeks ago. Patient was seen at the 
+___ recently and had negative ___. 
+He returned from ___ about ___ days prior to his presentation at 
+___. During that time, the staff at the ___ notice 
+that the patient was remarkably weaker. He had previously been 
+able to ambulate with a walker at baseline, but since returning 
+from ___, he was requiring two people to transfer him, and help 
+him ambulate. The staff at the ___ sent him to ___ 
+for a second opinion and a further workup. 
+
+Patient was found to have difficulty standing up, inability to 
+ambulate, and subjectively felt lightheaded and dizzy in the 
+___ ED. 
+
+Upon review of ___, it seems that the patient has had a 
+20 pound weight loss over the past ___ years. His last 
+colonoscopy was in ___, and it was unremarkable. 
+
+The patient does not have any siblings or any family. 
+ 
+Past Medical History:
+Hypertension
+Hyperlipidemia 
+Memory loss
+ 
+Social History:
+___
+Family History:
+The patient states he has no brothers or
+sisters.  He states he is uncertain what his parents died from.
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM  
+======================
+VS: T 98.4, HR 67, BP 147/67, RR 18, SaO2 100% RA  
+GENERAL: Alert, oriented to self only, NAD  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM
+NECK: Supple
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB anteriorly
+ABDOMEN: +BS, nondistended, soft, nontender
+EXTREMITIES: No edema   
+PULSES: 2+ DP pulses bilaterally  
+NEURO: Alert, oriented to self only, CN ___ grossly intact, 
+upper extremity strength ___, moving right leg normally, unable 
+to assess strength due to ___, unable to assess 
+movement or strength of left leg  
+SKIN: Warm and well perfused 
+
+DISCHARGE PHYSICAL EXAM
+======================
+VS: T 98.1 BP 102/61 HR 93 RR 20 98% RA  
+GENERAL: AOx3
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM
+NECK: Supple
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: CTAB 
+ABDOMEN: +BS, nondistended, soft, nontender
+EXTREMITIES: No edema   
+PULSES: 2+ DP pulses bilaterally  
+NEURO: Alert, oriented ___. He thinks he is a hospital, can't 
+remember which, and knows the year
+SKIN: Warm and well perfused 
+ 
+Pertinent Results:
+ADMISSION LAB RESULTS
+===================
+___ 01:30PM BLOOD ___ 
+___ Plt ___
+___ 01:30PM BLOOD ___ 
+___ Im ___ 
+___
+___ 01:30PM BLOOD ___ 
+___
+
+PERTINENT LAB RESULTS
+==================
+___ 07:20AM BLOOD ___
+___ 09:02AM BLOOD CK(CPK)-45*
+___ 09:02AM BLOOD ___ 
+___
+___ 07:20AM BLOOD ___
+___ 09:02AM BLOOD ___
+
+DISCHARGE LABS
+==============
+___ 06:20AM BLOOD ___ 
+___ Plt ___
+___ 06:20AM BLOOD ___ 
+___
+
+MICROBIOLOGY
+============
+   RAPID PLASMA REAGIN TEST (Final ___: 
+      NONREACTIVE. 
+      Reference Range: ___
+
+IMAGING
+======
+CT Abdomen and Pelvis with Contrast (___):
+1. Heterogeneous prostate gland mass with extension outside of 
+the capsule and 
+involvement of the seminal vesicles.  No definite bladder 
+involvement is 
+identified, but difficult to evaluate for subtle extension on 
+this exam. 
+2. Innumerable sclerotic lesions throughout the visualized 
+bones, compatible 
+with osseous metastatic disease. 
+3. 5.1 x 6.8 x 5.9 cm right pelvic sidewall mass likely nodal 
+metastases. 
+4. Hyperdense nodule associated with a cystic lesion in the 
+interpolar region 
+of the left kidney.  Although this could represent a hemorrhagic 
+cystic 
+component, this is incompletely characterized on this exam. 
+5. Tubular hypodense structure in the pancreatic uncinate 
+process, most likely 
+a side branch IPMN. 
+6. Cholelithiasis, with gallbladder wall thickening but no 
+surrounding 
+inflammatory changes.  This is likely due to chronic 
+cholecystitis. 
+
+CT Head (___):
+1. No acute intracranial process.  Specifically, no intracranial 
+hemorrhage. 
+2. Global volume loss with ventriculomegaly perhaps out of 
+proportion to the sulcal size which raises the possibility of 
+NPH.  Recommend correlation with physical exam findings. 
+
+CXR (___):    
+No evidence of pneumonia.  Multiple chronic left posterior and 
+right anterior rib fractures. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is an ___ gentleman with a past medical history 
+of hypertension, hyperlipidemia, progressive cognitive decline 
+with memory loss, now presenting with worsening functional 
+status and gait disturbance. 
+
+# Metastatic Prostate Cancer: The patient was found to have an 
+elevated PSA and an elevated Alk Phos in the setting of normal 
+___ and normal GGT. Metastatic prostate cancer was suspected 
+given these lab results and the fact that the patient has slowly 
+been losing weight over the past ___ years. A CT scan of the 
+abdomen and pelvis was obtain and showed a prostatic mass 
+extending into the seminal vesicles with metastatic spread to 
+the bone. The patient was informed of his prostate cancer 
+diagnosis. The patient was informed of his prostate cancer 
+diagnosis, but despite repeat reminders does not remember his 
+diagnosis when prompted. ___ decided that she would like to be 
+his healthcare proxy, so he was discharged to rehab with close 
+outpatient heme/onc ___. 
+
+# Lower Extremity Weakness: When the patient first presented to 
+the hospital, the strength in his extremities was ___. However, 
+he was not able to roll in bed, transfer, or walk on his own. 
+Several days after admission, patient was able to ambulate using 
+a walker and transfer without assistance. CT scan of the head 
+revealed that the patient may have normal pressure 
+hydrocephalus. The neurology team evaluated the patient and 
+determined that the patient could follow up as an outpatient.
+
+# Normocytic Anemia: Iron studies ___ TIBC, high ferritin, 
+and low iron, which is consistent with an anemia of chronic 
+disease and iron deficiency anemia mixed picture. His most 
+recent colonoscopy was at ___ in ___, and was normal. The 
+patient is reporting normal bowel movements without melena. B12 
+and folate are normal. He was not started on iron 
+supplementation given the constipation side effects of the 
+medication
+
+#Encephalopathy: During the hospitalization, the patient's 
+mental status waxed and waned. At times he was AAOx3, and knew 
+that he was in ___. Other times, he thought that he was in his 
+home at the ___. When he first came the ___ ED, 
+he was evaluated by physical therapy, who recommended that he go 
+to rehab from the ED. He refused at that time, but during the 
+hospitalization he was amenable to rehab. He was started on 
+thiamine and a multivitamin. He had memory issues with his 
+prostate cancer diagnosis as detailed above.
+
+#Normal Pressure Hydrocephalus: The patient had a CT scan of the 
+head which was suggestive of normal pressure hydrocephalus. The 
+patient's lower extremity weakness gradually resolved. Neurology 
+evaluated the patient in the emergency department, and 
+determined that there was no inpatient intervention that was 
+needed for possible NPH and that he should follow up as an 
+outpatient. 
+
+# Hypertension: The patient came into the hospital on atenolol 
+for hypertension. His blood pressures ranged in the ___ 
+systolic, so his atenolol was stopped in the setting of his gait 
+disturbance. Orthostatic vitals obtained during the 
+hospitalization were negative. 
+
+# Hyperlipidemia: His simvastatin was continued
+
+TRANSITIONAL ISSUES
+=================
+- PATIENT IS FULL CODE CURRENTLY BUT LIKELY SHOULD NOT BE. 
+PLEASE HAVE CODE STATUS DISCUSSION WITH PCP
+- ___ atenolol
+- He was started on a multivitamin and thiamine during this 
+hospitalization
+- He will need to follow up with Dr. ___ of ___ 
+Heme/Onc for further workup and treatment of his prostate 
+cancer; contact information listed above. 
+- Neurology recommended ___ as an outpatient for normal 
+pressure hydrocephalus
+
+CODE: Full (confirmed) 
+COMMUNICATION: Patient 
+EMERGENCY CONTACT ___ Resident 
+Care Director, general number ___ is Healthcare proxy: h: ___, 
+___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO DAILY 
+2. Simvastatin 10 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Thiamine 100 mg PO DAILY 
+RX *thiamine HCl (vitamin B1) 100 mg 1 tablet(s) by mouth daily 
+Disp #*30 Tablet Refills:*0 
+3.  Simvastatin 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+- Metastatic Prostate Cancer
+
+Secondary Diagnosis
+- ___
+- Normocytic anemia
+- Encephalopathy
+- Hyperlipidemia
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were seen at ___.
+
+What did you come to the hospital?
+=========================
+- You came here because the staff at the ___ were 
+concerned about your ability to continue to care for yourself.
+
+What did we do for you?
+==================
+- While you were here, we got a CT scan of your belly which was 
+concerning for metastatic prostate cancer. 
+
+What do you need to do?
+==================
+- It is important that you follow up with ___ Heme/Onc for 
+management and treatment of your prostate cancer
+- It is also important that you follow up with your primary care 
+doctor within two weeks of discharge
+
+It was a pleasure caring for you while you were here. We wish 
+you the best!
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

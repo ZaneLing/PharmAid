@@ -1,0 +1,334 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Altered mental status
+ 
+Major Surgical or Invasive Procedure:
+NONE
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ y/o F with past medical history of HTN,
+HLD, multiple sclerosis, vitamin D deficiency who presents with
+altered mental status. 
+
+Per report, ___ was in his USOH until yesterday when ___ used
+zolpidem for the first time. ___ later told his wife ___ was tired
+and wanted to take a nap. Following this, she was unable to
+arouse him and ___ was brought to the ED for evaluation.
+
+___ was initially brought to the ___ ED where ___ had a CTA
+head and neck performed without acute abnormality. ___ was
+transferred to the ___ ED because there was no neurology team
+available at the ___. 
+
+In the ___ ED, ___ was noted to be afebrile, hemodynamically
+stable and satting 97% on RA. ___ subsequently was requiring 2 L
+NC overnight for desaturation to 93-94% in the ED. ___ was noted
+to be responsive to painful stimuli, although otherwise 
+somnolent
+on arrival. Labs were notable for WBC 13, otherwise 
+unremarkable.
+Serum tox screen positive for TCA. UA and CXR negative for
+infection. ___ was seen by the toxicology team who felt this was
+most likely related to a sedative-hypnotic syndrome, possibly
+related to concurrent use of zolpidem and tizanidine. EKG with
+borderline wide QRS, although stable over serial EKGs reassuring
+against TCA overdose. ___ was re-evaluated and noted to have some
+improvement in mental status overnight, however due to 
+persistent
+somnolence, ___ was planned for admission.
+ 
+Vitals prior to transfer: T 98.1 HR 65 BP 133/65 R 14 O2 96% on
+RA.
+
+On arrival to the floor, the patient is awake and alert. ___ is
+oriented to place and self, although believes it to still be
+___. ___ seems somewhat confused regarding the events over
+the past 24 hours, although believes that ___ did take zolpidem
+yesterday morning around 5 am. ___ reports that ___ was confused
+about the fact that this was a sleeping medication and thought 
+___
+was supposed to take it in the morning. Of note, ___ later
+confirmed that ___ was prescribed zolpidem for insomnia. ___ 
+denies
+intentional overdose or intent of self harm. ___ has difficulty
+remembering the events of the last 24 hours. 
+
+___ reports being in his USOH prior to this without fevers,
+chills, chest pain, SOB, cough, dysuria. ___ does endorse about 1
+week of diarrhea, which ___ cannot describe further as well as
+difficulty initiating a urinary stream. ___ otherwise endorses
+several months of feeling intermittently more tired or weak,
+however ___ is able to complete his normal activities. ___ denies
+depressed mood or anhedonia. 
+
+ 
+Past Medical History:
+Hypertension
+Hyperlipidemia
+Vitamin D deficiency 
+Questionable history of multiple sclerosis, details unknown 
+ 
+Social History:
+___
+Family History:
+Mother with colon cancer
+ 
+Physical Exam:
+ADMISSION EXAM
+============================
+VS: T 98.1 BP 133/85 HR 65 RR 14 O2 96% 
+GENERAL: Sitting up in bed, awake and alert
+HEENT:  NC/AT, EOMI, PERRL
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended
+EXT: Warm, well perfused, no lower extremity edema  
+NEURO: Alert, oriented to person and place (time: ___
+CN II-XII intact, motor and sensory function grossly intact.
+Significant amnesia to recent events, intact memory to events
+prior to 1 week ago. 
+SKIN: No significant rashes
+
+DISCHARGE EXAM
+============================
+GENERAL: standing in room upon entry
+HEENT:  NC/AT, EOMI, PERRL
+CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
+LUNG: Appears in no respiratory distress, clear to auscultation
+bilaterally, no crackles, wheezes, or rhonchi  
+ABD: Normal bowel sounds, soft, nontender, nondistended
+EXT: Warm, well perfused, no lower extremity edema  
+NEURO: Alert, OX3
+CN II-XII intact, motor and sensory function grossly intact.
+improved memory of events of day, intact memory to events
+prior to 1 week ago. 
+SKIN: No significant rashes
+ 
+Pertinent Results:
+ADMISSION LABS
+============================
+___ 10:26PM BLOOD WBC-13.2* RBC-4.84 Hgb-15.3 Hct-46.7 
+MCV-97 MCH-31.6 MCHC-32.8 RDW-12.8 RDWSD-45.8 Plt ___
+___ 10:26PM BLOOD Neuts-86.3* Lymphs-9.4* Monos-3.3* 
+Eos-0.2* Baso-0.3 Im ___ AbsNeut-11.36* AbsLymp-1.24 
+AbsMono-0.44 AbsEos-0.02* AbsBaso-0.04
+___ 10:26PM BLOOD ___ PTT-32.2 ___
+___ 10:26PM BLOOD Glucose-123* UreaN-15 Creat-0.8 Na-142 
+K-4.8 Cl-105 HCO3-23 AnGap-14
+___ 10:26PM BLOOD ALT-22 AST-20 AlkPhos-118 TotBili-0.3
+___ 10:26PM BLOOD Lipase-15
+___ 10:26PM BLOOD Albumin-4.2 Calcium-9.3 Phos-3.8 Mg-2.3
+___ 10:26PM BLOOD TSH-0.60
+___ 10:39PM BLOOD ___ pO2-45* pCO2-46* pH-7.39 
+calTCO2-29 Base XS-1
+___ 10:39PM BLOOD Lactate-1.3
+___ 10:39PM BLOOD O2 Sat-78
+
+PERTINENT LABS
+============================
+NONE
+
+DISCHARGE LABS
+============================
+___ 07:21AM BLOOD WBC-9.4 RBC-4.62 Hgb-14.6 Hct-45.5 
+MCV-99* MCH-31.6 MCHC-32.1 RDW-13.4 RDWSD-49.1* Plt ___
+___ 07:21AM BLOOD Plt ___
+___ 07:21AM BLOOD Glucose-98 UreaN-21* Creat-1.0 Na-145 
+K-4.3 Cl-105 HCO3-23 AnGap-17
+___ 07:21AM BLOOD Calcium-9.5 Phos-3.7 Mg-2.3
+
+STUDIES
+============================
+___ CXR
+IMPRESSION: 
+Low lung volumes with opacities at the bilateral lung bases, 
+which could be
+secondary to atelectasis however aspiration/infection cannot be 
+excluded.
+
+___ ___ W/O CONTRAST
+IMPRESSION: 
+There is no evidence of acute intracranial process or 
+hemorrhage.
+
+UA trace protein
+
+MICROBIOLOGY
+============================
+NONE
+ 
+Brief Hospital Course:
+SUMMARY: 
+=================== 
+This is a ___ y/o M with PMH HTN, HLD, ?history of MS who 
+presents with AMS of uncertain etiology, now almost completely 
+resolved. Seen by psychiatry and neurology who felt that this 
+episode was due to an unintentional overdose of ambien and 
+restarting his home antidepressants. 
+
+TRANSITIONAL ISSUES:
+======================
+[] Please evaluate for recent forgetfulness and fatigue.
+[] Holding zolpidem. Please optimize medications and avoid 
+deliorogenic formulations.
+[] Holding tizanidine and amitriptyline on discharge 
+[] Consider pill-box for his medications as doubling up on his 
+meds iso forgetfulness could have been contributory.
+[] Follow up with primary care provider ___ ___ days. 
+[] Recheck white blood cell count at ___ visit 
+
+Code status: Full Code
+
+ACUTE ISSUES: 
+============= 
+#Zolpidem Overdose 
+#Medication induced Encephalopathy 
+Mr. ___ presented with somnolence that improved, 
+however, with
+residual confusion and amnesia, particularly regarding recent 
+events leading to his hospitalization. The differential included 
+hypnotic effect from concurrent zolpidem and tizanidine use, 
+transient global amnesia, or new deficits related to MS. ___ had 
+a ___ leukocytosis that raised some concern 
+for bacterial infection, although UA and CXR were negative and 
+there was no localizing infectious source. Neurology was 
+consulted for possible atypical MS presentation given unclear 
+history and no MS medications as well as for amnestic episodes. 
+However, did not feel this was an acute MS flare and with 
+absence of focal neurological findings did not suggest further 
+interventions. On HD2 ___ was oriented X3 but still with no 
+recollection of events prior to coming to the hospital. 
+Additionally, did not remember conversations with physicians 
+that had occurred 1 hour prior. Psychiatry was consulted and 
+thought ___ had enough capacity to be able to go home if ___ so 
+wished. ___ was kept for observation and NCHCT showed no acute 
+intracranial processes. It was believed that this episode was a 
+medication induced delirium from which ___ was resolving with his 
+newly prescribed delayed release zolpidem being the culprit. ___ 
+exhibited improved memory later in the day and had recalled 
+conversations from the morning. It was determined that the 
+patient was able to to be discharged home. 
+
+#Leukocytosis
+___ had a WBC 13 on admission without localizing S/sx infection 
+aside from recent history of diarrhea. ___ was at risk for 
+aspiration in the setting of somnolence, although ___ never 
+endorsed respiratory symptoms and CXR was without infiltrate. ___ 
+remained afebrile and his leukocytosis resolved.
+
+CHRONIC ISSUES: 
+=============== 
+#Muscle spasms
+Held tizanidine upon admission as could have been contributory 
+towards delirium
+
+#Insomnia
+Held amitryptiline, zolpidem 
+
+#Hypertension
+Held verapamil given ___ was normotensive and had not filled 
+since ___
+
+#Hyperlipidemia
+Continued simvastatin
+
+#GERD
+Continued ranitidine, omeprazole 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amitriptyline 50 mg PO QHS 
+2. Simvastatin 20 mg PO QPM 
+3. Tizanidine 4 mg PO Q6H:PRN muscle spasms 
+4. Ranitidine (Liquid) 150 mg PO BID 
+5. Verapamil SR 360 mg PO Q24H 
+6. Zolpidem Tartrate 12.5 mg PO QHS 
+7. Omeprazole 20 mg PO DAILY 
+8. Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever 
+9. Diclofenac Sodium ___ 25 mg PO DAILY:PRN pain 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Diclofenac Sodium ___ 25 mg PO DAILY:PRN pain  
+3.  Omeprazole 20 mg PO DAILY  
+4.  Ranitidine (Liquid) 150 mg PO BID  
+5.  Simvastatin 20 mg PO QPM  
+6.  Verapamil SR 360 mg PO Q24H  
+7. HELD- Amitriptyline 50 mg PO QHS  This medication was held. 
+Do not restart Amitriptyline until you see your PCP 
+8. HELD- Tizanidine 4 mg PO Q6H:PRN muscle spasms  This 
+medication was held. Do not restart Tizanidine until you see 
+your PCP 
+9. HELD- Zolpidem Tartrate 12.5 mg PO QHS  This medication was 
+held. Do not restart Zolpidem Tartrate until you see your PCP 
+
+ 
+___:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+Medication-induced encephalopathy
+
+SECONDARY DIAGNOSIS
+====================
+HTN
+Insomnia
+GERD
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you here at ___ 
+___!
+
+WHY WAS I IN THE HOSPITAL?
+=================================
+- You came to the hospital because you were feeling extremely 
+tired and confused. You did not know the events that had led up 
+to you coming to the hospital.
+
+WHAT HAPPENED IN THE HOSPITAL?
+=================================
+- Tests were run to find a reason for your confusion and your 
+short-term memory loss. It is possible this could have been a 
+reaction to the zolpidem, or ambien, that you had taken.
+- You were monitored in the hospital for toxicity and were 
+cleared to go home 
+
+WHAT SHOULD I DO WHEN I LEAVE THE HOSPITAL?
+=================================
+-Please do not take more of your medications than you are 
+prescribed 
+-Please keep all of your follow up appointments 
+
+We wish you all the best!
+
+Your ___ care team
+ 
+Followup Instructions:
+___

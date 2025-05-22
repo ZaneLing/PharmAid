@@ -1,0 +1,327 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abnormal Labs, Transfer 
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+
+ 
+History of Present Illness:
+___ w/ no PMH p/w N/V/D and presents as a transfer elevated 
+LFTs,
+CBD dilation, and image findings of enterocolitis.
+
+Patient describes a 6-day history of nausea, vomiting and
+nonbloody diarrhea. She did not have any pain associated with 
+the
+symptoms. Given that her symptoms are improving yesterday, she
+went to ___ and was given Zofran with improvement. She
+was febrile of 102 and there are concerns for urinary tract
+infection. They sent off an urinalysis which was later called
+back stating that there was blood in her urine but no infection
+and that she should go to the emergency department for further
+evaluation. Patient went to the ED at ___ and there had
+blood work concerning for elevated T bili 2.5, hyponatremia 128,
+potassium 2.8. She had a CT scan done which showed dilation of
+the common bile duct and pancreatic ducts along with signs of
+cirrhosis. No stone or mass are seen. MRCP is recommended for
+further evaluation. CT also showed possible cystitis however UA
+at outside hospital with no evidence of UTI. CT scan also shows
+possible enteritis/proctocolitis. Patient was given Zosyn and
+transferred here for further care. Patient denies any chest pain
+or shortness of breath. Denies any abdominal pain. Denies any
+dysuria hematuria currently. No headache or vision changes.
+Denies any falls or trauma. Patient does admit to drinking
+alcohol on a nearly daily basis. Last drink 6 days ago. No
+history of withdrawal seizures. Denies any major weight loss.
+
+ 
+Past Medical History:
+None
+ 
+Social History:
+___
+Family History:
+Father w/ stomach/esophageal cancer, 
+MGM w/ colon cancer 
+Denies family history of MI/CVA/blood clots.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+======================
+Vital Signs:  T 98.5 BP 102 / 69 HR 91 RR 88 99% room air
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+GU: No foley  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally, gait 
+deferred.
+
+DISCHARGE PHYSICAL EXAM
+======================
+Vital Signs: ___ 1210 Temp: 98.2 PO BP: 98/66 HR: 91 RR: 16
+O2 sat: 99% O2 delivery: Ra 
+General: Alert, oriented, no acute distress  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, 
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+
+ 
+Pertinent Results:
+ADMISSION LAB RESULTS
+====================
+___ 05:33AM BLOOD WBC-15.8* RBC-2.24* Hgb-9.0* Hct-25.8* 
+MCV-115* MCH-40.2* MCHC-34.9 RDW-14.6 RDWSD-60.4* Plt ___
+___ 05:33AM BLOOD Glucose-145* UreaN-11 Creat-0.4 Na-138 
+K-3.8 Cl-97 HCO3-18* AnGap-23*
+___ 05:33AM BLOOD ALT-40 AST-50* AlkPhos-90 Amylase-76 
+TotBili-1.1 DirBili-<0.2 IndBili-1.1
+___ 05:33AM BLOOD Albumin-2.8* Calcium-7.9* Phos-2.7 Mg-1.9 
+Iron-148
+
+DISCHARGE LAB RESULTS
+===================
+___ 06:02AM BLOOD WBC-5.9 RBC-2.24* Hgb-8.6* Hct-25.6* 
+MCV-114* MCH-38.4* MCHC-33.6 RDW-14.1 RDWSD-58.0* Plt ___
+___ 06:02AM BLOOD Glucose-106* UreaN-4* Creat-0.3* Na-137 
+K-3.8 Cl-101 HCO3-26 AnGap-10
+___ 06:02AM BLOOD ALT-37 AST-64* LD(LDH)-172 AlkPhos-78 
+TotBili-0.3
+
+IMAGING
+=======
+MRCP ___:
+1. Marked decrease in hepatic and splenic signals with T2* 
+weighting suggesting iron overload. This pattern is more 
+suggestive of secondary than primary form of hemochromatosis. 
+2. Mild biliary dilatation, not necessarily significant 
+clinically however. No evidence for stones or solid masses. 
+Correlation with liver function tests is recommended. Spasm at 
+the sphincter of Oddi is not excluded.
+
+___ EGD:
+- No evidence of esophageal varices
+- Grade C esophagitis consistent with ___
+- Erythema in antrum which is non erosive gastritis
+- Evidence of duodenitis
+
+MICROBIOLOGY:
+==============
+___ 9:40 am STOOL     CONSISTENCY: FORMED      Source: 
+Stool. 
+
+                            **FINAL REPORT ___
+
+   C. difficile PCR (Final ___: 
+      Reported to and read back by ___ AT 1809 
+ON ___. 
+      POSITIVE. 
+         The C. difficile PCR is highly sensitive for toxigenic 
+strains of
+         C. difficile and detects both C. difficile infection 
+(CDI) and
+         asymptomatic carriage. Therefore, positive C. diff PCR 
+tests
+         trigger reflex C. difficile toxin testing, which is 
+highly
+         specific for CDI. 
+
+   C. difficile Toxin antigen assay (Final ___: 
+      NEGATIVE.              (Reference Range-Negative).  
+PERFORMED BY EIA. 
+         This result indicates a low likelihood of C. difficile 
+infection
+         (CDI). 
+
+___ 9:39 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+
+___ 9:40 am STOOL     CONSISTENCY: FORMED      Source: 
+Stool. 
+
+                            **FINAL REPORT ___
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   FECAL CULTURE - R/O VIBRIO (Final ___:    NO VIBRIO 
+FOUND. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      No E. coli O157:H7 found.
+
+ 
+Brief Hospital Course:
+Patient Summary for Admission:
+================================
+Ms. ___ is a ___ w/ no PMH p/w N/V/D and presents as a 
+transfer elevated LFTs, CBD dilation, and image findings of 
+enterocolitis consistent found to have C. Diff colitis and 
+likely new diagnosis of cirrhosis.
+
+ACUTE ISSUES ADDRESSED:
+#C diff colitis: Patient presented with nausea, vomiting and 
+diarrhea. She notably testing positive for the C. Diff PCR in 
+stool but negative for toxin. However on CT AP imaging she had 
+evidence of enteritis/proctocolitis. In the setting of active 
+diarrhea and imaging findings, patient started on a 14 day 
+course of PO Vancomcyin with end date ___.
+
+#CBD Dilation: CT AP completed ___ at ___ notable 
+for CBD dilation. In the setting of reported fever, initial 
+concern for sepsis related to this finding. Ms. ___ 
+received Vancomycin and Zosyn while at ___ however MRCP 
+completed ___ demonstrated only mild biliary dilatation, not 
+necessarily significant clinically and no obstructing stones, 
+however. She had no leukocytosis, fever, hypotension while at 
+___ as thus antibiotics were discontinued ___ and patient 
+remained stable.
+
+#Transaminitis
+#Concern for new diagnosis of Cirrhosis:
+CT imaging with findings concerning for cirrhosis of unclear 
+etiology. In the setting of CBD dilation detailed above, MRCP 
+was pursued. This was notable for evidence of iron overload. The 
+inpatient hepatology team was consulted and recommended 
+outpatient genetic testing for possible hemochromatosis. Ms. 
+___ has possible other etiologies for cirrhosis including 
+NASH vs ETOH use. Hepatitis serologies were negative while 
+inpatient. She underwent a screening EGD on ___ which 
+demonstrated no varices. She will require outpatient follow up 
+through the ___ gene testing and Hepatitis A and B 
+vaccinations as an outpatient.
+
+#Candidal Esophagitis: Patient underwent EGD ___ with evidence 
+of Grade C candidal esophagitis and started on Fluconazole 400mg 
+on ___ followed by 200mg daily for a 14 day course.
+
+#Macrocytic anemia: Likely in the setting of underlying liver
+disease. Hemoglobin remained stable between ___ during admission 
+with no active signs of bleeding. Low folate noted with level of 
+<2 and was started on folate supplementation. 
+
+#Thrombocytopenia: Likely from liver disease and remained stable 
+during admission.
+
+Transitional Issues:
+Pending Labs at Discharge
+___ 14:50 STOOL FECAL CULTURE; CAMPYLOBACTER CULTURE; FECAL 
+CULTURE - R/O VIBRIO; FECAL CULTURE - R/O YERSINIA
+___ 07:54 BLOOD CULTURE Blood Culture, Routine
+___ 05:38 BLOOD CULTURE Blood Culture, Routine
+
+[ ] Vancomycin to continue 125mg QID, end date ___
+[ ] Fluconazole course 200mg for 13 days, end date ___, 
+consider repeat EGD as outpatient
+[ ] HFE Genetic testing for hemochromatosis recommended
+[ ] Repeat folate level in 3 months time in setting of repletion
+[ ] Recommend Hepatitis A and B vaccination completed as an 
+outpatient
+[ ] Liver follow up required for new diagnosis of cirrhosis 
+based on imaging findings.
+
+Medication Changes:
+- New medications: Vancomycin 125mg QID, Fluconazole 200mg 
+daily, Folic Acid 1mg daily, Multivitamin 1 tablet daily
+- Stopped Medications: None
+- Changed Medications: None
+
+Code Status: Full Code
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Fluconazole 200 mg PO Q24H  
+2.  FoLIC Acid 1 mg PO DAILY 
+RX *folic acid 1 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+3.  Multivitamins 1 TAB PO DAILY 
+RX *multivitamin  1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+4.  Vancomycin Oral Liquid ___ mg PO QID 
+RX *vancomycin 125 mg 1 capsule(s) by mouth four times a day 
+Disp #*42 Capsule Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+===================
+New diagnosis of Cirrhosis
+C. Diff Colitis
+Candidal Esophagitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+Thank you for choosing ___ as your site of care!
+
+Why was I admitted?
+-You were admitted because you were having nausea, vomiting and 
+diarrhea.
+
+What was done for me while I was in the hospital?
+- We took multiple images of your abdomen including a CT scan 
+and MRCP. These scans showed some inflammation in your gut and 
+scarring in your liver called cirrhosis.
+- We found that you have an infection in your stool called C. 
+Difficile which is being treated with oral vancomycin.
+- Our liver team evaluated you for this new finding of a 
+condition called Cirrhosis.
+
+What should I do when I leave the hospital?
+- Please continue taking your Vancomycin, the last day of 
+antibiotics is ___.
+- You will follow up in the ___ ongoing care.
+
+We wish you the best
+ 
+Followup Instructions:
+___

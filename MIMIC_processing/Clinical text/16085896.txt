@@ -1,0 +1,435 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / atenolol
+ 
+Attending: ___.
+ 
+Chief Complaint:
+flank pain, bloody urine
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of
+hypothyroidism, hyperlipidemia, osteoporosis who presents with
+gross hematuria and right flank pain. 
+
+The patient was in her usual state of health when she developed
+gross hematuria on ___ with an increase in urinary frequency.
+She has a history of urinary tract infections in the past with
+similar symptoms of hematuria and urinary frequency. She did not
+have fever or chills, back or flank pain initially. She started
+taking nitrofurantoin on ___ in the ___. She presented to her 
+PCP
+office on ___ for evaluation as she is leaving for ___ on
+___ and wants this issue to be cleared up before she 
+leaves.
+She continued to take Macrobid and the blood in the urine had
+improved. She was advised to continue Macrobid. Later in the day
+on ___, she developed right sided flank pain with nausea and
+urinary hesitation but without fevers. The right lower back pain
+was severe and intermittent, radiating to the groin. She called
+the ___ office and was told to present to the ED. She has been
+feeling a little 'foggy' in her thinking over the twelve hours
+before she presented to the ED.
+
+In the ED, initial vitals:  
+T 97.4 HR 95 BP 140/75 RR 16 SaO2 100% RA
+
+- Exam notable for:  
+Confused, AOx2, RLQ tenderness, R CVAT
+
+- Labs notable for:  
+Na 142 K 4 Cl 104 HCO3 25 BUN 20 Cr 0.7 Gluc 119
+Trop Neg
+ALT 11 AST 16 AP 21 Bili 0.2 Lip 43 Alb 4.3
+INR 1 PTT 26.6
+CBC: 6.8>13.1/41<169
+Negative serum tox
+Urine: mod ___, Lg bld, Neg nitr, 100 prot, 151 WBC, RBC >182, 
+few
+bact
+Urine tox: pos barb, neg otherwise
+Lactate 3.4->0.7 after 1L IVF
+
+- Imaging notable for:  
+CT head: No acute intracranial process.
+CT abd/pelvis without contrast: No acute intra-abdominal or
+intrapelvic pathology. No evidence of nephrolithiasis.
+CXR: There is no focal consolidation, effusion, or pneumothorax.
+The
+cardiomediastinal silhouette is normal. A chronic fracture
+deformity of the
+left mid clavicle is noted. No acute osseous abnormality is 
+seen.
+
+- Pt given: 
+___ 00:33IVKetorolac 15 mg
+___ 02:36IVFLR 1000 mL
+___ 02:36IVCefTRIAXone
+
+- Vitals prior to transfer:  
+HR 76 BP 130/86 RR 18 SaO2 95% RA
+
+Upon arrival to the floor, the patient reports she is feeling
+improved. Her thinking is more clear, particularly compared to
+when she first came in. She is still having pain in the right
+lower back and ongoing discomfort with urination. she is having
+no fevers or chills.   
+
+REVIEW OF SYSTEMS:  
+A 10-point ROS was taken and is negative except otherwise stated
+in the HPI. 
+
+ 
+Past Medical History:
+Squamous cell skin cancer
+Thyroid nodule
+Hypothyroidism
+Colonic adenoma
+Osteoporosis
+Migraine headache
+Osteoarthritis
+Hyperlipidemia
+Renal cyst
+Liver cyst
+ 
+Social History:
+___
+Family History:
+Father: stroke age ___
+Mother: memory loss in her ___, died at age ___
+Maternal grandmother: ovarian cancer
+Nephew: colon cancer
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VITALS:  
+T 98.4 BP 131/75 HR 77 RR 17 SaO2 96% Ra
+General: Alert, oriented, no acute distress, lying flat in bed  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+neck supple, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+GU: Mild tenderness to palpation below the right flank
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or
+edema  
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: CNII-XII intact, ___ strength upper/lower extremities,
+grossly normal sensation, 2+ reflexes bilaterally.  
+
+DISCHARGE PHYSICAL EXAM:  
+VITALS:  
+24 HR Data (last updated ___ @ 1222)
+    Temp: 98.5 (Tm 98.8), BP: 136/67 (90-141/46-77), HR: 64 
+(58-76), RR: 17 (___), O2 sat: 96% (94-97), O2 delivery: Ra  
+General: Alert, oriented, no acute distress, lying flat in bed  
+HEENT: Sclerae anicteric, MMM, oropharynx clear
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+GU: no flank tenderness, no costovertebral tenderness
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: grossly intact 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 12:17AM BLOOD WBC-6.8 RBC-4.26 Hgb-13.1 Hct-41.0 MCV-96 
+MCH-30.8 MCHC-32.0 RDW-12.6 RDWSD-44.6 Plt ___
+___ 12:17AM BLOOD Neuts-55.8 ___ Monos-13.2* 
+Eos-3.0 Baso-0.6 Im ___ AbsNeut-3.77 AbsLymp-1.83 
+AbsMono-0.89* AbsEos-0.20 AbsBaso-0.04
+___ 12:17AM BLOOD Glucose-119* UreaN-20 Creat-0.7 Na-142 
+K-4.0 Cl-104 HCO3-25 AnGap-13
+___ 12:17AM BLOOD ALT-11 AST-16 AlkPhos-21* TotBili-0.2
+___ 09:20AM BLOOD Calcium-9.7 Phos-4.1 Mg-1.9
+___ 12:17AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 01:03AM BLOOD Lactate-3.4*
+
+DISCHARGE LABS:
+===============
+
+___ 06:09AM BLOOD WBC-6.9 RBC-3.70* Hgb-11.4 Hct-36.0 
+MCV-97 MCH-30.8 MCHC-31.7* RDW-12.8 RDWSD-45.6 Plt ___
+___ 06:09AM BLOOD Glucose-102* UreaN-11 Creat-0.9 Na-146 
+K-4.1 Cl-110* HCO3-28 AnGap-8*
+___ 06:09AM BLOOD Calcium-8.9 Phos-3.9 Mg-1.8
+___ 04:33AM BLOOD Lactate-0.7
+
+RELEVANT IMAGING:
+=================
+___ CXR
+FINDINGS:  
+  
+PA and lateral views of the chest provided. 
+  
+There is no focal consolidation, effusion, or pneumothorax. The 
+cardiomediastinal silhouette is normal.  Rightward deviation of 
+the trachea above the thoracic inlet is usually due to 
+enlargement of the left lobe of the thyroid.  Clinical 
+consideration should be given to medical abnormalities involving 
+the thyroid. 
+  
+A chronic fracture deformity of the left mid clavicle is noted.  
+No acute 
+osseous abnormality is seen. 
+  
+IMPRESSION:  
+  
+No acute intrathoracic process. 
+  
+Possible left thyroid mass with a without medical abnormality 
+involving 
+thyroid function. 
+
+___ CT head w/o contrast
+ 
+There is no evidence of acute territorial infarction, 
+hemorrhage, edema, or mass effect.  The ventricles and sulci are 
+mildly prominent in keeping with age-related involutional 
+change. 
+  
+No acute fractures are seen.  The paranasal sinuses, mastoid air 
+cells, and middle ear cavities are clear. The orbits are 
+unremarkable. 
+  
+IMPRESSION:  
+  
+No acute intracranial process. 
+
+___ CT ABD & PELVIS W/O CON
+LOWER CHEST: Aside from mild bibasilar dependent atelectasis, 
+the visualized 
+lung fields are within normal limits.  There is no evidence of 
+pleural or 
+pericardial effusion. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: The liver demonstrates homogeneous attenuation 
+throughout.  A  subcentimeter hypodensity in the anterior right 
+hepatic lobe is incompletely  characterized on the current study 
+may represent a hepatic cyst or biliary hamartoma.  There is no 
+evidence of intrahepatic or extrahepatic biliary dilatation.  
+The gallbladder is within normal limits. 
+  
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of focal lesions within the limitations of an 
+unenhanced scan.  There is no pancreatic ductal dilatation.  
+There is no peripancreatic stranding. 
+  
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without 
+evidence of focal lesions. 
+  
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size.  There is 
+no evidence of focal renal lesions within the limitations of an 
+unenhanced scan.  There is a simple appearing cortical cyst 
+measuring 1.4 cm in the left lower pole.  An additional cyst 
+measures 4.4 x 3.6 x 3.8 cm in the left upper pole and is 
+peripherally calcified (02:23).  The right collecting system is 
+mildly dilated.  There is also mild dilatation of the proximal 
+to mid ureter to the level of the mid pelvis (02:56).  However, 
+no stones are seen in the ureters or the bladder.  There is no 
+left-sided hydronephrosis.  There is no perinephric abnormality. 
+
+  
+GASTROINTESTINAL: The stomach is unremarkable.  Small bowel 
+loops demonstrate normal caliber and wall thickness throughout.  
+The colon and rectum are within normal limits. The appendix is 
+normal. 
+  
+PELVIS: The urinary bladder and distal ureters are unremarkable. 
+ There is no free fluid in the pelvis. 
+  
+REPRODUCTIVE ORGANS: The visualized reproductive organs are 
+unremarkable. 
+  
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There is no pelvic or inguinal 
+lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease is noted. 
+  
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture.  
+There are moderate to severe multilevel degenerative changes in 
+the visualized 
+thoracolumbar spine. 
+  
+SOFT TISSUES: The abdominal and pelvic wall is within normal 
+limits. 
+  
+IMPRESSION:  
+  
+1.  Mild right-sided hydroureteronephrosis without evidence of 
+stones.  The  mildly dilated right proximal to mid ureter can be 
+traced to the mid pelvis.  While there may be a stricture at 
+this level, evaluation is limited on this non contrast study.  
+Of note, no stones are seen within the bladder to suggest a 
+passed stone. 
+2.  Minimally complex cyst in the left kidney.  Recommend follow 
+up renal MRI in 6 months. 
+  
+RECOMMENDATION(S):  Renal MRI in 6 months. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of 
+hypothyroidism, hyperlipidemia, osteoporosis who presents with 
+gross hematuria and right flank pain with confusion, elevated 
+lactate consistent with a complicated urinary tract infection. 
+
+# Hematuria
+# Complicated Urinary tract infection, Pyelonephritis
+# Possible stone
+It is unclear at this time if her hematuria followed by 
+worsening flank pain is a stone that was passing and got stuck 
+in a possible stricture as read on the CT (no clear stone, but 
+possible stricture). Her renal function remains only mildly 
+elevated which is reassuring. She may have concurrent infection 
+with her lactate that was out of proportion to a simple stone 
+and she also had AMS which is also concerning for possible 
+infection > stone. We watched her overnight in setting of her 
+worsening renal function (baseline 0.7 -> 0.9) and initial AMS 
+and continued pain. She was given 2 L LR. She was treated with 
+ceftriaxone and transitioned to cefpodoxime for presumed upper 
+GU infection. PO antibiotics will continue 10 days after 
+discharge. Her pain had largely resolved by discharge, but she 
+did continue to have gross hematuria. It was felt this most 
+likely represents infection. It is possible she is susceptible 
+to infections w/ her vaginal dryness providing a nidus thus we 
+recommended on going discussion with her PCP regarding vaginal 
+estrogen. Additionally, if patient's hematuria gross or 
+microscopic does not resolve in 6 weeks time she will need 
+urology or nephrology.
+
+# Thyroid nodule/hypothyroidism - > Noted as large on CXR, she 
+should have repeat US if this has not been followed recently 
+- Continued Synthroid 25mcg daily
+
+# Osteoporosis
+- Continued Calcium and Vitamin D
+
+# Hyperlipidemia
+- Continued simvastatin
+
+# Hx of SCC
+- No acute issues
+
+# Migraine headache
+- No headache currently
+- Takes Butalbital/Acetaminophen/Caffeine (Fioricet) which
+explains the positive barbiturate in urine tox
+
+# B12 deficiency
+- Takes B12 at home, continued 
+
+TRANSITIONAL ISSUES:
+====================
+[] Please follow Cr to baseline (0.7), patient will benefit from 
+repeat CBC as well
+[] Please repeat UA in 6 weeks to ensure hematuria has cleared, 
+would benefit from nephrology or urology ___ if it is still 
+present
+[] Consider additional vaginal estrogen to decrease atrophy and 
+nidus for post-menopausal UTIs
+[] Consider outpatient thyroid US to further characterize her 
+nodule if not completed recently (reported as large by radiology 
+on her CXR)
+[] Patient w/ known left renal cyst, per radiology on her CT 
+abdomen, recommended repeat MRI in 6 months time
+ 
+#CONTACT: Husband ___, ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Simvastatin 20 mg PO QPM 
+2. Levothyroxine Sodium 25 mcg PO DAILY 
+3. Acetaminophen-Caff-Butalbital 1 TAB PO Q8H:PRN Headache 
+4. Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral DAILY 
+5. vitamin C-multivitamin-mineral 500 mg oral DAILY 
+6. biotin 1,000 mcg oral DAILY 
+7. Cyanocobalamin 1000 mcg PO DAILY 
+8. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Cefpodoxime Proxetil 400 mg PO Q12H Duration: 8 Days 
+Please start on ___ 
+RX *cefpodoxime 200 mg 2 tablet(s) by mouth every 12 hours Disp 
+#*16 Tablet Refills:*0 
+3.  Acetaminophen-Caff-Butalbital 1 TAB PO Q8H:PRN Headache  
+4.  biotin 1,000 mcg oral DAILY  
+5.  Calcium 600 + D(3) (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral DAILY  
+6.  Cyanocobalamin 1000 mcg PO DAILY  
+7.  Levothyroxine Sodium 25 mcg PO DAILY  
+8.  Simvastatin 20 mg PO QPM  
+9.  vitamin C-multivitamin-mineral 500 mg oral DAILY  
+10.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+- complicated urinary tract infection
+- Possible urinary stricture
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital because of right sided flank 
+pain and blood in your urine that was concerning for a 
+complicated urinary tract infection that may have involved your 
+kidney. 
+
+We treated you with IV antibiotics and fluids. You were feeling 
+better by the time of discharge but were still having bloody 
+urine. We still felt comfortable with you going home, but watch 
+for concerning symptoms on your trip and please go to a hospital 
+if you or your husband thinks you are "off". 
+
+It was a pleasure taking care of you!
+
+Your ___ Careteam! 
+ 
+Followup Instructions:
+___

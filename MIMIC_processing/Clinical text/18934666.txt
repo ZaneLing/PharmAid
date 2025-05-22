@@ -1,0 +1,241 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+back pain 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old F w/ type I DM, psoriasis, and hx of 
+pyelonephritis presenting with L-sided flank pain for two days. 
+She developed severe L-sided flank pain, chills, night sweats, 
+and fevers to 102.4 at home. She denies any dysuria or urinary 
+frequency, but notes that she did not have these symptoms last 
+time she had a UTI either. she has had poor PO intake during 
+this time. Denies any vaginal discharge or recent sexual 
+activity. She does feel mildly lightheaded, but denies any 
+pre-syncope or syncope. No cough, CP, SOB, N/V, diarrhea. 
+In the ED, she was febrile to 102.3 and tachycardic to 129 with 
+a BP of 111/69. She was given 1L NS. Her UA was grossly 
+inflammatory, she had a leukocytosis, and L CVA tenderness, so 
+she was started on ceftriaxone for presumed pyelonephritis. A 
+renal US was performed which showed a right-sided kidney stone, 
+but no obstructions. She was given phenazopyridine, IV morphine, 
+and IV ketorolac for pain. 
+Upon arrival to the floor, the patient reports that her pain is 
+feeling much better. She is requesting schedule pain medications 
+overnight, as she had to wait for over an hour in the ED and was 
+in an extreme amount of pain. 
+ 
+Past Medical History:
+Type I DM 
+ADD 
+Genital HSV 
+Psoriasis 
+Pyelonephritis 
+ 
+Social History:
+___
+Family History:
+Aunt and uncle with SLE 
+Multiple maternal family members with type I DM 
+Mother with nephrolithiasis 
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+VITALS: 98.5 PO 102 / 70 107 17 100 Ra 
+GENERAL: Young woman sitting up in bed in no acute distress 
+HEENT: PERRL. EOMI. Sclera anicteric. MMM. No oral lesions 
+CV: Tachycardic. Regular rhythm, normal S1 + S2, no murmurs, 
+rubs, gallops 
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi 
+ABDOMEN: Soft, non-tender, non-distended, normoactive BS, no 
+organomegaly, no rebound or guarding 
+BACK: Bilateral CVA tenderness (L>>R) 
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+SKIN: Warm, dry. Multiple scaly, red plaques on all extremities 
+NEURO: AAOx3, CNII-XII grossly intact, moves all four 
+extremities with purpose. 
+
+DISCHARGE EXAM
+==============
+VITALS: T 98.3, BP 92/64, RH 98, RR 16, SpO2 97/ RA
+GENERAL: Young woman lying in bed, NAD
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops 
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi 
+ABDOMEN: Soft, non-tender, non-distended, normoactive BS, no 
+organomegaly, no rebound or guarding 
+BACK: Mild bilateral CVA tenderness (L>>R) (reporting pain with 
+palpation but not flinching or jumping)
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema 
+SKIN: Warm, dry. Multiple scaly, red plaques on all extremities 
+NEURO: AAOx3, CNII-XII grossly intact, moves all four 
+extremities with purpose. 
+ 
+Pertinent Results:
+___ LABS
+=============
+___ 04:00PM   WBC-10.5* RBC-4.09 HGB-11.5 HCT-33.3* MCV-81* 
+MCH-28.1 MCHC-34.5 RDW-12.2 RDWSD-36.2
+___ 04:00PM   NEUTS-84.8* LYMPHS-6.9* MONOS-7.5 EOS-0.0* 
+BASOS-0.2 IM ___ AbsNeut-8.88* AbsLymp-0.72* AbsMono-0.78 
+AbsEos-0.00* AbsBaso-0.02
+___ 04:00PM   PLT COUNT-267
+___ 04:00PM   GLUCOSE-241* UREA N-10 CREAT-0.6 SODIUM-135 
+POTASSIUM-3.7 CHLORIDE-100 TOTAL CO2-21* ANION GAP-14
+___ 04:13PM   LACTATE-1.4
+___ 05:43PM URINE  RBC-6* WBC->182* BACTERIA-MOD* 
+YEAST-NONE EPI-0
+___ 05:43PM URINE  WBCCLUMP-MOD* MUCOUS-MANY*
+___ 05:43PM URINE  BLOOD-SM* NITRITE-POS* PROTEIN-30* 
+GLUCOSE-1000* KETONE-TR* BILIRUBIN-SM* UROBILNGN-2* PH-6.5 
+LEUK-LG*
+___ 05:43PM URINE  COLOR-AMBER* APPEAR-Cloudy* SP 
+___
+___ 05:43PM URINE  UCG-NEGATIVE
+
+MICRO
+=====
+__________________________________________________________
+___ 6:40 pm BLOOD CULTURE      2 OF 2. 
+
+   Blood Culture, Routine (Pending___: 
+__________________________________________________________
+___ 5:43 pm URINE
+
+   URINE CULTURE (Pending): 
+__________________________________________________________
+___ 4:00 pm BLOOD CULTURE      #1. 
+
+   Blood Culture, Routine (Pending): 
+
+DISCHARGE LABS
+==============
+___ 06:03AM BLOOD WBC-7.6 RBC-3.68* Hgb-10.3* Hct-30.5* 
+MCV-83 MCH-28.0 MCHC-33.8 RDW-12.3 RDWSD-37.7 Plt ___
+___ 06:03AM BLOOD Glucose-282* UreaN-10 Creat-0.6 Na-134* 
+K-4.3 Cl-99 HCO3-24 AnGap-11
+
+IMAGING/STUDIES
+===============
+___ Imaging RENAL U.S.
+1. 6 mm nonobstructing stone in the mid right kidney.
+2. No hydronephrosis.
+3. Intraluminal debris within the bladder may reflect cystitis.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old F w/ type I DM, psoriasis, and hx of
+pyelonephritis presenting with L-sided flank pain for two days,
+found to have findings concerning for sepsis ___ pyelonephritis. 
+
+
+ACUTE/ACTIVE PROBLEMS: 
+======================
+# Sepsis ___ pyelonephritis
+Patient with bilateral flank pain and grossly inflammatory UA on 
+presentation. Febrile to 102.3 with HR in 120s-130s on arrival 
+to ED - responsive to IVF and acetaminophen. Required several 
+doses of narcotic pain medication to achieve adequate pain 
+control. Started on IV ceftriaxone on ___ with rapid 
+improvement in symptoms and vital signs. Transitioned to 
+ciprofloxacin 500mg q12h with plan to complete ___nding ___. Continue outpatient pain control with 
+acetaminophen and ibuprofen. She is at risk for recurrent 
+infections give type I DM and nephrolithiasis, unfortunately. 
+
+CHRONIC/STABLE PROBLEMS: 
+========================
+# Type I DM
+Continued home insulin regimen.
+
+# ADD
+Home Vyvanse is non-formulary at ___ - can resume following 
+discharge.
+
+TRANSITIONAL ISSUES
+===================
+[ ] Discharged with ciprofloxacin 500mg q12h to complete 7-day 
+course of antibiotics (last day ___.
+[ ] Has 6mm R renal stone, non-obstructing.
+[ ] Consider urology follow-up as this is second episode of 
+pyelonephritis (in otherwise healthy ___ year-old).
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Vyvanse (lisdexamfetamine) 60 mg oral DAILY 
+2. Glargine 25 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H  
+2.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 6 Days  
+3.  Ibuprofen 400 mg PO Q8H:PRN Pain - Mild  
+4.  Glargine 25 Units Breakfast
+Insulin SC Sliding Scale using HUM Insulin 
+5.  Vyvanse (lisdexamfetamine) 60 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+=================
+Pyelonephritis
+Sepsis
+
+SECONDARY DIAGNOSIS
+===================
+Type I diabetes
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+WHY WERE YOU ADMITTED TO THE HOSPITAL?
+- You had a kidney infection (called pyelonephritis) and were 
+very dehydrated.
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?
+- You had an ultrasound of your kidney, which showed a small 
+stone in your right kidney (likely unrelated to your kidney 
+infection, which is on the left).
+- You were given IV fluid.
+- You were started on antibiotics to treat your kidney 
+infection.
+
+WHAT WILL HAPPEN WHEN YOU LEAVE THE HOSPITAL?
+- Continue to take your antibiotic, called ciprofloxacin, 
+through the end of the day on ___ - this will complete your 
+treatment for pyelonephritis.
+- Continue to eat and drink plenty of fluids.
+- You may take acetaminophen (two 500mg (extra strength) pills 
+three times a day) and ibuprofen (two 200mg pills three times a 
+day) over the next few days to help the pain; the pain should go 
+away as your infection resolves.
+ 
+Followup Instructions:
+___

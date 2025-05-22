@@ -1,0 +1,160 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+unknown BP med / cough / lisinopril
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+================
+___ 11:05AM BLOOD WBC-8.5 RBC-4.61 Hgb-14.5 Hct-44.9 MCV-97 
+MCH-31.5 MCHC-32.3 RDW-12.8 RDWSD-45.4 Plt ___
+___ 11:05AM BLOOD Neuts-69.2 ___ Monos-4.1* 
+Eos-0.1* Baso-0.8 Im ___ AbsNeut-5.85 AbsLymp-2.15 
+AbsMono-0.35 AbsEos-0.01* AbsBaso-0.07
+___ 11:05AM BLOOD Glucose-114* UreaN-18 Creat-1.0 Na-142 
+K-4.1 Cl-103 HCO3-22 AnGap-17
+___ 11:05AM BLOOD ALT-18 AST-24 AlkPhos-62 TotBili-0.6
+
+DISCHARGE LABS:
+===============
+___ 07:45AM BLOOD Glucose-107* UreaN-20 Creat-0.9 Na-140 
+K-4.1 Cl-105 HCO3-22 AnGap-13
+ 
+Brief Hospital Course:
+TRANSLATIONAL ISSUES:
+======================
+[ ] No new meds added for a-fib, given clear trigger and 
+baseline rhythm of sinus bradycardia (HR at home is sometimes in 
+the ___.
+[ ] Please follow up on other colon cancer screening options 
+[ ] Patient states that she would like additional help with 
+emotional management as she has noticed that she gets frustrated 
+easily by small annoyances, and that her BP increases with 
+stress. Consider SSRI trial and/or referral for CBT.
+[ ] Patient will likely need assistance in finding new live-in 
+assistance
+
+#CONTACT: son ___ ___
+
+PATIENT SUMMARY
+===================
+___ year old female with HTN, HLD, stroke in ___ w/ persistent L 
+sided weakness (on apixaban, suggesting they identified a-fib at 
+that time?), who presented in a-fib with RVR iso colonoscopy 
+prep, now back in sinus rhythm after fluid resuscitation and IV 
+Diltiazem. 
+
+ACUTE ISSUES:
+=============
+#Atrial fibrillation with RVR
+CHADS2VASC score is 6, was possibly diagnosed with a.fib in ___ 
+at the time of her stroke. Most likely trigger for her afib was 
+volume depletion in the setting of her colonoscopy prep. She had 
+a recent TSH that was normal, TTE in ___ did not show 
+significant left atrial dilation. Reverted back to sinus rhythm 
+after IV Diltiazem and fluid resuscitation. PLAN: Continue 
+continue home apixaban 5mg BID, continue home metop XL 25 daily. 
+Chose not to increase metoprolol dose because patient states 
+that when she check HR at home it is sometimes in the ___. 
+
+#Colon cancer screening
+She was initially at ___ for elective colonoscopy. She does 
+not wish to undergo colonoscopy now. Discussed with patient that 
+she can follow up with PCP for further screening 
+recommendations. FIT testing may be an option. 
+
+#HTN
+Seen in ___ clinic ___ when amlodipine was added to home 
+regimen. Blood pressure has been difficult to control and 
+patient states that she would like additional help with 
+emotional management as she has noticed that BP increases with 
+stress. PLAN: continue amlodipine 5mg, HCTZ 25mg, losartan 
+100mg, metop XL 25mg. Consider adding SSRI for emotional 
+management. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Apixaban 5 mg PO BID 
+3. Vitamin D 1000 UNIT PO DAILY 
+4. Hydrochlorothiazide 25 mg PO DAILY 
+5. Losartan Potassium 100 mg PO DAILY 
+6. Metoprolol Succinate XL 25 mg PO DAILY 
+7. Pravastatin 20 mg PO QPM 
+8. Senna 8.6 mg PO DAILY:PRN Constipation - First Line 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY  
+2.  Apixaban 5 mg PO BID  
+3.  Hydrochlorothiazide 25 mg PO DAILY  
+4.  Losartan Potassium 100 mg PO DAILY  
+5.  Metoprolol Succinate XL 25 mg PO DAILY  
+6.  Pravastatin 20 mg PO QPM  
+7.  Senna 8.6 mg PO DAILY:PRN Constipation - First Line  
+8.  Vitamin D 1000 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES: 
+===================
+Atrial fibrillation with rapid ventricular rate
+Colon cancer screening 
+Hypertension 
+
+SECONDARY DIAGNOSES: 
+====================
+Prior stroke
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+It was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because your heart was beating fast 
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- We gave you some medications to slow down your heart rate
+- You were given fluids through the IV 
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Be sure to take all your medications and attend all of your 
+appointments listed below. 
+
+We wish you the best! 
+
+Sincerely, 
+Your ___ Team 
+ 
+Followup Instructions:
+___

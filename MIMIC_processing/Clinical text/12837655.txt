@@ -1,0 +1,248 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chin abscess
+ 
+Major Surgical or Invasive Procedure:
+wick placement
+
+ 
+History of Present Illness:
+___ year old M with a PMH of depression, smoker who
+presents to ___ ED with a persistent abscess of his L chin. 
+
+Patient notes developing a pimple that he popped. He noted some
+redness, swelling, and discharge around the area and was seen at
+an OSH on ___. It was I&D'd, packed with a wick and he was
+started on Keflex QID. The following day he continued to have
+pain and re-presented to the ED. His wick was removed and he was
+started on Bactrim, but continued to have swelling/erythema. 
+
+Of note, he reports waking up near a spider (black/gray 1 inch)
+but doesn't think he was bitten by the spider and reports a
+pimple in the location of the abscess prior to seeing the 
+spider.
+No chin injuries, no known cavities, remote fillings. No recent
+tooth pain, discharge, oral injuries. Denies fevers, chills.
+Slight headache (similar to prior headaches) last night that
+resolved with no intervention. No dizziness, lightheadedness. No
+difficulty breathing or swallowing. Noted a swollen LN on his L
+chin. Reports some tingling over his L chin but no numbness. No
+nausea/vomiting. Good appetite. No chest pain, abd pain, 
+diarrhea
+or constipation. 
+
+In the ED he had ___ pain and the resident was able to I/D the
+abscess again with a small amount of purulent fluid was 
+expressed
+and sent for bacterial culture prelim gram positive cocci. In 
+the
+oral cavity, the lower lip inner mucosa had a 3mm raised fistula
+drainage site. Patient was evaluated by ENT - he was noted to
+have edema and erythema over his entire chin. His abscess was
+packed with 2cm of ___ inch wick in the tract that tracks
+superiorly and posteriorly. Patient started on Clindamycin and
+Vancomycin. Patient afebrile, HR ___ RR ___, BP 120s-130s/80s
+O2: 99% on RA. Labs notable for a WBC of 8.8, no lactate. 
+ 
+Past Medical History:
+Depression
+Wisdom teeth removed years prior
+
+ 
+Social History:
+___
+Family History:
+Father: cardiac disease, HTN, DMII
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS: T 98.9 HR 91 RR 20 BP 121/84 O2: 98% on RA
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: 1.5cm round abscess along L chin with erythema and packing
+with wick, swelling and erythema resolved from other areas of
+chin, 5mm LN under L mandible, 2-3mm erythematous area within L
+lip - small amount of pus 
+CV: RRR, no mrg
+RESP: CTAB
+GI: soft, NT/ND +BS
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs, no neck pain
+SKIN: No rashes or ulcerations noted
+NEURO: AOx3, face symmetric, gaze conjugate with EOMI, speech
+fluent, moves all limbs, sensation to light touch grossly intact
+throughout
+PSYCH: normal affect, normal mood
+
+DISCHARGE EXAM:
+Vitals reviewed. 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: 1.5cm round abscess along L chin with erythema and packing
+with wick, swelling and erythema, erythematous area within L
+lip - small amount of pus 
+CV: RRR, no mrg
+RESP: CTAB
+GI: soft, NT/ND +BS
+SKIN: No rashes or ulcerations noted
+PSYCH: normal affect, normal mood
+
+ 
+Pertinent Results:
+ADMISSION RESULTS:
+
+___ 07:28PM BLOOD WBC-8.8 RBC-4.48* Hgb-12.8* Hct-38.4* 
+MCV-86 MCH-28.6 MCHC-33.3 RDW-13.2 RDWSD-41.1 Plt ___
+___ 07:28PM BLOOD Neuts-77.3* Lymphs-15.8* Monos-6.2 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-6.79* AbsLymp-1.39 
+AbsMono-0.54 AbsEos-0.00* AbsBaso-0.02
+___ 07:28PM BLOOD Glucose-102* UreaN-10 Creat-0.8 Na-139 
+K-4.3 Cl-104 HCO3-22 AnGap-13
+___ 07:46PM BLOOD Lactate-1.0
+
+PERTINENT INTERVAL AND DISCHARGE RESULTS
+
+___ 07:55AM BLOOD WBC-6.5 RBC-4.62 Hgb-13.3* Hct-38.7* 
+MCV-84 MCH-28.8 MCHC-34.4 RDW-12.8 RDWSD-39.0 Plt ___
+___ 07:55AM BLOOD Neuts-50.1 ___ Monos-7.1 Eos-0.2* 
+Baso-0.5 Im ___ AbsNeut-3.26# AbsLymp-2.70 AbsMono-0.46 
+AbsEos-0.01* AbsBaso-0.03
+___ 07:55AM BLOOD Glucose-92 UreaN-13 Creat-0.8 Na-142 
+K-4.2 Cl-104 HCO3-23 AnGap-15
+___ 07:55AM BLOOD %HbA1c-5.2 eAG-103
+
+   FLUID CULTURE (Final ___: 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+         Oxacillin RESISTANT Staphylococci MUST be reported as 
+also
+         RESISTANT to other penicillins, cephalosporins, 
+carbacephems,
+         carbapenems, and beta-lactamase inhibitor combinations. 
+
+         RIFAMPIN should not be used alone for therapy. 
+      VIRIDANS STREPTOCOCCI.    RARE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------   0.5 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------     4 R
+OXACILLIN-------------   =>4 R
+RIFAMPIN-------------- <=0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+VANCOMYCIN------------     1 S
+
+   ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+ 
+Brief Hospital Course:
+___ year old M with a PMH of depression, smoker who presents to 
+___ ED with a persistent abscess of his L chin. Likely 
+infected pimple which failed o/p mgmt. due to either inadequate 
+drainage or inadequate antibiotics. Improving
+now with adequate drainage/antibiotics. 
+
+ACUTE/ACTIVE PROBLEMS:
+#L chin abscess: likely ___ infected popped pimple, higher risk 
+of developing infection and poor healing with active smoking. No 
+other known risk factors. Failed drainage at OSH and 
+Keflex-->Keflex/Bactrim. Most likely, this is adequate abx but 
+he needed more drainage. Now very well drained by ENT here, and 
+fistulous tract appears to be closing. No cultures drawn at OSH. 
+BCx NGTD, abscess drainage growing staph and viridans strep as 
+above. Was initially started on vanc/clinda in ED and 
+transitioned to Clindamycin and Keflex on discharge for total ___ourse. His exam improved throughout. He was advised 
+to stop smoking to aid healing and was amenable to using 
+nicotine patches in hospital. 
+
+CHRONIC/STABLE PROBLEMS:
+#Depression: continued Prozac 60 mg daily
+
+TRANSITIONAL ISSUES
+- f/u final BCx
+- patient to follow up with ENT after discharge.
+- will need ___ for wick mgmt
+- Contacts: Father ___, fiancee also at bedside
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FLUoxetine 60 mg PO DAILY 
+The Preadmission Medication list is accurate and complete.
+1. FLUoxetine 60 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Cephalexin 500 mg PO Q6H Duration: 5 Days 
+RX *cephalexin 500 mg 1 capsule(s) by mouth every six (6) hours 
+Disp #*20 Capsule Refills:*0 
+2.  Clindamycin 300 mg PO Q6H Duration: 5 Days 
+RX *clindamycin HCl 300 mg 1 capsule(s) by mouth every six (6) 
+hours Disp #*20 Capsule Refills:*0 
+3.  Ibuprofen 400 mg PO Q8H:PRN Pain - Moderate  
+4.  Nicotine Patch 14 mg TD DAILY 
+RX *nicotine 14 mg/24 hour 1 once a day Disp #*30 Patch 
+Refills:*0 
+5.  OxyCODONE--Acetaminophen (5mg-325mg) 1 TAB PO DAILY 
+Duration: 2 Doses 
+RX *oxycodone-acetaminophen 5 mg-325 mg 1 tablet(s) by mouth 
+once a day Disp #*2 Tablet Refills:*0 
+6.  FLUoxetine 60 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+abscess of face
+cellulitis of face
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+It was a pleasure caring for you. You were admitted for neck 
+swelling caused by an infection (an abscess). This got better 
+with repeat drainage and strong antibiotics. 
+We also advise you to quit smoking as smoking is a further risk 
+factor for your infection. 
+Call your doctor or seek immediate medical assistance if you 
+develop fevers, chills, nausea, vomiting, diarrhea, worsening 
+redness or swelling on your face, trouble breathing, trouble 
+swallowing spit, wheezing, numbness or weakness in your face, 
+discharge into your mouth, or any other symptom that concerns 
+you. 
+
+Please complete your course of antibiotics as prescribed.
+
+Please call the ENT doctors for follow up in ___ days. Dr.
+___ ___ for appointment.
+
+ 
+Followup Instructions:
+___

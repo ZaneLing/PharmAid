@@ -1,0 +1,300 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROSURGERY
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Cavernous malformation
+ 
+Major Surgical or Invasive Procedure:
+___ - Diagnostic cerebral angiogram - Negative for 
+cerebral aneurysm or cerebrovascular malformation
+ 
+History of Present Illness:
+___ is a ___ year old male who presented to the ED on 
+___ as a transfer from an outside facility with a new 
+onset seizure. Imaging was concerning for a cavernous 
+malformation. Neurosurgery was consulted for evaluation and 
+management recommendations.
+ 
+Past Medical History:
+- Hyperlipidemia
+- Hypertension
+- H/o kidney cancer s/p right nephrectomy in ___
+- Possible h/o MVC in young adulthood requiring some sort of 
+cranial surgery and possible plating
+ 
+Social History:
+___
+Family History:
+Noncontributory.
+ 
+Physical Exam:
+On Admission: 
+-------------
+Physical Exam:
+
+VS: T 97.5F, HR 75, BP 114/68, RR 18, O2Sat 99% on room air
+
+General: Well nourished. Comfortable. No acute distress.
+HEENT: PERRL, 3-2mm. EOMs full. No gaze deviation or nystagmus 
+noted.
+Extremities: Warm and well perfused.
+
+Date and Time of Evaluation: ___ at 12:30
+
+GCS: 
+[ ]Intubated
+[x]Not intubated
+
+Eye Opening: 
+[ ]1 Does not open eyes
+[ ]2 Opens eyes to painful stimuli
+[ ]3 Opens eyes to voice
+[x]4 Opens eyes spontaneously
+
+Verbal:
+[ ]1 Makes no sounds
+[ ]2 Incomprehensible sounds
+[ ]3 Inappropriate words
+[x]4 Confused, disoriented
+[ ]5 Oriented
+
+Motor:
+[ ]1 No movement
+[ ]2 Extension to painful stimuli (decerebrate response)
+[ ]3 Abnormal flexion to painful stimuli (decorticate response)
+[ ___ Flexion/withdrawal to painful stimuli 
+[ ]5 Localizes to painful stimuli
+[x]6 Obeys commands
+
+Total: 14
+
+ICH Score: 
+
+GCS: 
+[ ]2 GCS ___
+[ ]1 GCS ___
+[x]0 GCS ___
+     
+ICH Volume: 
+[ ]1 30 mL or greater
+[x]0 Less than 30 mL
+
+IVH:
+[ ]1 Present
+[x]0 Absent
+
+Infratentorial ICH:
+[ ___ Yes
+[x]0 No
+
+Age:
+[ ]1 ___ years old or greater
+[x]0 Less than ___ years old
+
+Total: 0
+
+Neurologic:
+
+Mental Status: Awake and alert, cooperative with exam, normal 
+affect.
+Orientation: Oriented to person. States that he is at "my house" 
+and that it is ___ States that he has a wedding to 
+cater this weekend, ___
+Language: Slurred speech.
+
+Cranial Nerves:
+I: Not tested.
+II: PERRL, 3-2mm.
+III, IV, VI: EOMs full. No gaze deviation or nystagmus noted.
+V, VII: Facial strength and sensation intact and symmetric.
+VIII: Hearing intact to voice.
+IX, X: Palatal elevation symmetrical.
+XI: Sternocleidomastoid and trapezius normal bilaterally.
+XII: Tongue midline without fasciculations.
+
+Motor: Normal bulk and tone bilaterally. No abnormal movements, 
+tremors noted. Strength ___ throughout. Left sided neglect 
+noted. Patient only able to follow commands with ___ steps, 
+unable to follow commands for drift.
+
+Sensation: Intact to light touch. 
+
+Toes downgoing bilaterally.
+
+Coordination: Bilateral dysmetria, left greater than right, on 
+finger to nose testing.
+
+Handedness: Right.
+
+On Discharge: 
+-------------
+General:
+
+VS: T ___, HR 76, BP 101/53, RR 14, O2Sat 95% on room air
+
+Exam:
+
+Opens Eyes: [x]Spontaneous [ ]To voice [ ]To noxious [ ]None
+Orientation: [x]Person [x]Place [x]Time
+Follows Commands: [ ]Simple [x]Complex [ ]None
+Pupils: PERRL
+EOMs: [x]Full [ ]Restricted
+Face Symmetric: [x]Yes [ ]No
+Tongue Midline: [x]Yes [ ]No
+Drift: [ ]Yes [x]No
+Speech Fluent: [x]Yes [ ]No
+Comprehension Intact: [x]Yes [ ]No
+
+Motor:
+
+        Trap   Deltoid   Biceps   Triceps   Grip
+Right5      5         5        5         5
+Left5      5         5        5         5
+
+        IP   Quad   Ham   AT   ___   ___
+Right5    5      5     5    5     5
+Left5    5      5     5    5     5
+
+Sensation: Intact to light touch.
+
+Right Wrist Site:
+- Dressing clean, dry, intact
+- Soft, no hematoma
+- Palpable pulses
+ 
+Pertinent Results:
+Please see OMR for relevant laboratory and imaging results.
+ 
+Brief Hospital Course:
+___ year old male found to have a cavernous malformation.
+
+#Cavernous malformation
+The patient presented to the ED on ___ as a transfer from 
+an outside facility and was evaluated by both Neurosurgery and 
+Neurology in the ED. Initial imaging at the outside facility was 
+concerning for a hemorrhagic stroke, however subsequent imaging 
+in the ED was consistent with a cavernous malformation. Given 
+this, the patient was admitted to Neurosurgery for further 
+evaluation and management. The patient was started on Keppra 
+given question of seizure activity prior to presentation. He was 
+taken for a diagnostic cerebral angiogram on ___, which 
+was negative for cerebral aneurysm or cerebrovascular 
+malformation. The procedure was uncomplicated. The patient 
+recovered from the procedure and was transferred to the step 
+down unit postprocedurally for close neurologic monitoring. He 
+remained neurologically stable. On ___, the patient was 
+afebrile with stable vital signs, mobilizing with assistance, 
+tolerating a diet, voiding and stooling without difficulty, and 
+his pain was well controlled with oral pain medications. He was 
+discharged home with home ___ on ___ in stable condition.
+
+#Renal insufficiency
+Nephrology was consulted for clearance prior to angiography 
+given his renal insufficiency. He was prehydrated per their 
+recommendations.
+
+#UTI 
+The patient had a urinalysis on presentation that was suspicious 
+for UTI. He received ceftriaxone. The urine culture came back 
+consistent with contamination, so the ceftriaxone was stopped. 
+The patient had a renal ultrasound, which was unremarkable. 
+
+#Disposition
+___ was consulted and recommended discharge home with home ___. He 
+was discharged home with home ___ on ___ in stable 
+condition.
+ 
+Medications on Admission:
+- lisinopril 10mg PO once daily
+- simvastatin 10mg PO QPM
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild/Fever 
+Do not exceed 3000mg in 24 hours.  
+2.  LevETIRAcetam 750 mg PO BID 
+RX *levetiracetam 750 mg 1 tablet(s) by mouth twice a day Disp 
+#*56 Tablet Refills:*3 
+3.  Lisinopril 10 mg PO DAILY  
+4.  Simvastatin 10 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+Cavernous malformation
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory with assistance.
+ 
+Discharge Instructions:
+Care Of The Puncture Site:
+- You will have a small bandage over the puncture site. 
+- Remove the bandage in 24 hours by soaking it with water and 
+gently peeling it off.
+- Keep the puncture site clean with water and soap and dry it 
+carefully.
+- You may cover the puncture site with a Band-Aid if you wish.
+
+Activity:
+- You may gradually return to your normal activities, but we 
+recommend that you take it easy for the next ___ hours to avoid 
+bleeding from your puncture site.
+- You may take leisurely walks and slowly increase your activity 
+at your own pace. ___ try to do too much all at once.
+- Heavy lifting, running, climbing, and other strenuous exercise 
+should be avoided for 10 days. This is to prevent bleeding from 
+the puncture site.
+- You may take a shower, but do not go swimming or submerge 
+yourself in water for 5 days after your procedure.
+
+Medications:
+- Resume your normal medications and begin new medications as 
+directed.
+- You may use acetaminophen (Tylenol) for minor discomfort if 
+you are not otherwise restricted from taking this medication.
+- Do not take any blood thinning medications such as aspirin, 
+clopidogrel (Plavix), ibuprofen, warfarin (Coumadin), etc. until 
+cleared by your neurosurgeon.
+
+What You ___ Experience:
+- Mild tenderness and bruising at the puncture site.
+- Soreness in your arms from the intravenous lines.
+- Mild to moderate headaches that last several days to a few 
+weeks.
+- Fatigue is very normal.
+- Constipation is common. Be sure to drink plenty of fluids and 
+eat a high fiber diet. You may also try an over-the-counter 
+stool softener if needed.
+
+Please Call Your Neurosurgeon At ___ For:
+- Fever greater than 101.4 degrees Fahrenheit.
+- Severe pain, redness, swelling, or drainage from the puncture 
+site.
+- Severe headaches not adequately relieved with prescribed pain 
+medications.
+- Extreme sleepiness or not being able to stay awake.
+- Any new problems with your vision or ability to speak.
+- Weakness or changes in sensation in your face, arms, or legs.
+- Nausea or vomiting.
+- Seizures.
+- Blood in your urine or stool.
+- Constipation.
+ 
+Followup Instructions:
+___

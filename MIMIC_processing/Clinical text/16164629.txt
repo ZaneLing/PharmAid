@@ -1,0 +1,324 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Fevers, chills and worsening cough
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year-old male with PMH of asthma and OSA (not on CPAP,
+controlled with mouth device) who presents with 3 days of
+worsening cough, fever, chills, and myalgias. Patient reports
+that 4 days prior to admission, developed slight cough that then
+got worse the following day and has been getting progressively
+worse since. Initially non-productive but with chest congestion,
+and then this AM was productive of yellow sputum. The day prior
+to admission, he then developed subjective fever, chills,
+headache, SOB, diffuse abd pain. He denies hemoptysis, night
+sweats, rhinorrhea, nasal congestion, nausea, vomiting, 
+diarrhea,
+urinary symptoms. He reports poor PO intake over the past few
+days. Denies sick contacts or recent travel. He has been using
+his albuterol inhaler every 4h for the past 3 days.
+
+In the ED:
+
+Initial vital signs were notable for:
+T 98.8F, HR 105, BP 108/57, RR 20, 93% RA
+
+Exam notable for:
+Gen: ill appearing, uncomfortable lying in bed, shivering
+HEENT: MMM
+CV: RRR
+LUNGS: rhonchi bilaterally, wheezing bilaterally 
+GI: NDNT, BS+ all 4 quadrants 
+
+Labs were notable for:
+No leukocytosis
+Flu A positive
+Urine legionella negative
+
+Studies performed include:
+Peak flow: 190 (pre) --> 226 (post)
+CXR - Mild left base atelectasis without focal consolidation
+seen.
+
+Patient was given:
+___ 00:01POAcetaminophen 650 mg
+___ 00:01IHAlbuterol 0.083% Neb Soln 1 NEB
+___ 00:25POPredniSONE 40 mg
+___ 00:27IHAlbuterol 0.083% Neb Soln 1 NEB
+___ 01:06IHAlbuterol 0.083% Neb Soln 1 NEB
+___ 01:58IVMagnesium Sulfate 2 gm
+___ 02:20PO/NGOSELTAMivir 75 mg
+___ 02:32IVCefTRIAXone1 gm
+___ 03:32IVAzithromycin 500 mg
+___ 08:17NEBIpratropium-Albuterol Neb 1 NEB
+___ 08:17IHTiotropium Bromide 1 CAP
+___ 11:56PO/NGOSELTAMivir 75 mg
+___ 13:37NEBIpratropium-Albuterol Neb 1 NEB
+
+Consults:
+None
+
+Vitals on transfer:
+T 100.0F,  BP 121/73, HR 94, RR 18, SpO2 93% on 4L NC
+
+Upon arrival to the floor, the patient endorses the above
+history. He is still complaining of cough and chest congestion.
+Reports that his breathing is comfortable and he is not 
+currently
+SOB. Denies current HA. Still still mild abdominal pain, no BM
+for the past few days.
+
+REVIEW OF SYSTEMS:
+Complete ROS obtained and is otherwise negative.
+ 
+Past Medical History:
+Asthma
+OSA
+HLD
+Gout
+OA
+BPH
+Psoriasis
+Glaucoma
+Hx TB (treated)
+ 
+Social History:
+___
+Family History:
+Positive for CAD, diabetes, hypertension, stroke, colon cancer
+and breast cancer.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+================================
+VITALS: 24 HR Data (last updated ___ @ ___)
+    Temp: 100.0 (Tm 100.0), BP: 121/73, HR: 94, RR: 18, O2 sat:
+93%, O2 delivery: 4L, Wt: 195.9 lb/88.86 kg  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: NCAT. PERRL, EOMI. Sclera anicteric and without 
+injection.
+MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Speaking full sentences, comfortable on NC without
+accessory muscle use. Diffuse rhonchi and scattered wheezes b/l.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to deep
+palpation in all four quadrants. 
+EXTREMITIES: No clubbing, cyanosis, or edema. 
+NEUROLOGIC: AOx3. Moving all extremities spontaneously.
+
+DISCHARGE PHYSICAL EXAM:
+================================
+___ 0738 Temp: 98.4 PO BP: 126/77 HR: 75 RR: 18 O2 sat:
+92% O2 delivery: 2L 
+GENERAL: Lying in bed, talking comfortably on room air. 
+PULM: Bilateral rhonchi throughout both lung fields. O2 sat
+unchanged on room air, to 89% when walking. 
+GI: abdomen soft, nondistended, nontender in all quadrants, with
+normal bowel sounds
+NEURO: Alert, face symmetric
+ 
+Pertinent Results:
+ADMISSION LABS
+===================================
+___ 01:20AM OTHER BODY FLUID  FluAPCR-POSITIVE* 
+FluBPCR-NEGATIVE
+___ 11:33PM   GLUCOSE-116* UREA N-14 CREAT-1.0 SODIUM-137 
+POTASSIUM-4.2 CHLORIDE-104 TOTAL CO2-19* ANION GAP-14
+___ 11:33PM   WBC-6.9 RBC-4.52* HGB-13.2* HCT-39.7* MCV-88 
+MCH-29.2 MCHC-33.2 RDW-15.2 RDWSD-48.6*
+___ 11:33PM   NEUTS-85.5* LYMPHS-7.4* MONOS-6.0 EOS-0.3* 
+BASOS-0.4 IM ___ AbsNeut-5.88 AbsLymp-0.51* AbsMono-0.41 
+AbsEos-0.02* AbsBaso-0.03
+___ 11:33PM   PLT COUNT-163
+
+IMAGING
+===================================
+___ CXR
+IMPRESSION: 
+Mild left base atelectasis without focal consolidation seen.
+
+OTHER PERTINENT LABS
+===================================
+___ BLOOD CULTURES: No growth to date
+
+DISCHARGE LABS
+===================================
+___ 06:55AM BLOOD WBC-8.6 RBC-4.66 Hgb-13.4* Hct-41.6 
+MCV-89 MCH-28.8 MCHC-32.2 RDW-15.7* RDWSD-51.0* Plt ___
+___ 06:55AM BLOOD Plt ___
+___ 06:55AM BLOOD UreaN-19 Creat-1.0 Na-144 K-3.8 Cl-111* 
+HCO3-20* AnGap-13
+___ 06:55AM BLOOD Calcium-9.4 Phos-3.1 Mg-2.___ year old male with PMH of asthma and OSA (not on CPAP, 
+controlled with
+mouth device) who presents with 3 days of worsening cough, 
+fever, chills, and myalgias found to be Flu A positive 
+complicated by asthma exacerbation on Tamiflu and prednisone.
+
+====================
+ACUTE/ACTIVE ISSUES:
+====================
+
+# Influenza
+# Asthma exacerbation
+Patient presenting with 3 days of nonproductive cough, fever, 
+chills, headaches, abdominal pain, myalgias. He had rhonchi and 
+wheezing on exam with an oxygen requirement up to 4L. He was 
+also febrile to 102.8F in the ED and found to be Flu A positive. 
+His blood cultures from ___ with no growth to date. He had no 
+leukocytosis and CXR without any focal consolidation. Peak flow 
+190 (pre) --> 226 (post), indicative of asthma exacerbation. He 
+received a dose of ceftriaxone/azithromycin in the ED, which was 
+discontinued given no consolidation on CXR. He was started on 
+Tamiflu for a 5 day course (___), prednisone 40mg for 5 day 
+burst and 5 day taper ___ at 40mg QD, 30mg on ___, 
+20mg on ___, 10mg on ___ and 5mg on ___. He was also 
+continued on montelukast, tiotropium and albuterol nebs.
+
+Curiously, review of his previous PFTs shows that they have 
+always been normal. He is also on max outpatient therapy with 
+seemingly no change in his symptoms, though this is his first 
+time being admitted. His IgE levels (checked in preparation for 
+possible biologics) were normal as well. He was weaned off 
+oxygen prior to discharge and his ambulatory sats were normal. 
+Please consider a methacholine challenge prior to starting 
+biologics.
+
+======================
+CHRONIC/STABLE ISSUES:
+======================
+
+# OSA
+Not on CPAP at home, uses mouth device. Continued home 
+Acetazolamide 250 mg PO QHS 
+
+# HLD
+Continued home Atorvastatin 40 mg PO QPM 
+
+# Glaucoma
+Continued home Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP LEFT 
+EYE BID 
+
+# Psoriasis
+Continued home Betamethasone Dipro 0.05% Lot. 1 Appl TP QHS 
+
+====================
+TRANSITIONAL ISSUES:
+====================
+
+[ ] Please consider methacholine challenge as an outpatient 
+given 
+[ ] Please continue Tamiflu for a ___
+[ ] Please continue steroids to finish a 5 day burst and 5 day 
+taper fot a total of 10 days (___)
+
+==========================================
+CODE STATUS: FULL CODE
+CONTACT: ___ ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Betamethasone Dipro 0.05% Lot. 1 Appl TP QHS 
+2. Tiotropium Bromide 1 CAP IH DAILY 
+3. Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP LEFT EYE BID 
+4. Montelukast 10 mg PO DAILY 
+5. Atorvastatin 40 mg PO QPM 
+6. Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation 2 puffs BID 
+7. AcetaZOLamide 250 mg PO QHS 
+8. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN severe asthma 
+9. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing/SOB 
+
+ 
+Discharge Medications:
+1.  OSELTAMivir 75 mg PO BID 
+RX *oseltamivir 75 mg 1 capsule(s) by mouth twice a day Disp #*7 
+Capsule Refills:*0 
+2.  PredniSONE 40 mg PO DAILY Duration: 3 Doses 
+Start: Tomorrow - ___, First Dose: First Routine 
+Administration Time 
+This is dose # 1 of 5 tapered doses
+RX *prednisone 10 mg AS DIR tablet(s) by mouth Daily Disp #*22 
+Tablet Refills:*0 
+3.  PredniSONE 30 mg PO DAILY Duration: 2 Doses 
+Start: After 40 mg DAILY tapered dose 
+This is dose # 2 of 5 tapered doses 
+4.  PredniSONE 20 mg PO DAILY Duration: 1 Dose 
+This is dose # 3 of 5 tapered doses 
+5.  PredniSONE 10 mg PO DAILY Duration: 1 Dose 
+Start: After 20 mg DAILY tapered dose 
+This is dose # 4 of 5 tapered doses 
+6.  PredniSONE 5 mg PO DAILY Duration: 1 Dose 
+Start: After 10 mg DAILY tapered dose 
+This is dose # 5 of 5 tapered doses 
+7.  AcetaZOLamide 250 mg PO QHS  
+8.  Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN severe asthma  
+9.  Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing/SOB  
+10.  Atorvastatin 40 mg PO QPM  
+11.  Betamethasone Dipro 0.05% Lot. 1 Appl TP QHS  
+12.  Dorzolamide 2%/Timolol 0.5% Ophth. 1 DROP LEFT EYE BID  
+13.  Montelukast 10 mg PO DAILY  
+14.  Symbicort (budesonide-formoterol) 160-4.5 mcg/actuation 
+inhalation 2 PUFFS BID  
+15.  Tiotropium Bromide 1 CAP IH DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+- Influenza
+- Asthma exacerbation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at the ___ 
+___.
+
+Why did you come to the hospital?
+- You came to the hospital because you had fevers, chills, 
+muscle aches and worsening cough. You were positive for 
+influenza. We also think you had an asthma exacerbation likely 
+due to your flu.
+
+What did you receive in the hospital?
+- We started you on Tamiflu to treat the flu. 
+- We also started you on prednisone for your asthma 
+exacerbation.
+
+What should you do once you leave the hospital?
+- Please take tamiflu 75mg twice a day. Last day is ___.
+- Please take prednisone 40mg daily till ___ then 30mg on 
+___, then 20mg on ___, 10mg on ___ and 5mg on ___.
+- Please follow-up with your doctors as below.
+
+We wish you all the ___!
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

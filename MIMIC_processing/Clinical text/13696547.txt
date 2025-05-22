@@ -1,0 +1,260 @@
+Name:  ___                        Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+ Ms. ___ is a ___ female with a past medical history
+of active cervical cancer on cisplatin chemotherapy (C1D15, last
+dose on ___ and concurrent radiation who presents with fever. 
+
+Apparently, she felt reasonably well, but was somewhat fatigued
+post-chemotherapy. She states she normally got this feeling 
+after
+chemotherapy, but her temperature never previously escalated
+above ___. At home, her temperature was ___. 
+
+Patient called her oncologist who recommended that she go to the
+hospital for evaluation. She presented to ___ who
+performed an initial evaluation. Patient was transferred to 
+___
+for continuity of care with primary oncologist. Patient was 
+given
+Cefepime and vancomycin enroute to ___. She had mild
+maculopapular rash that was diffuse and patient reports was
+present during febrile periods. She felt improved when fever 
+went
+away this afternoon, but then the fever returned this afternoon.
+Patient has been given acetaminophen for fevers with good
+response. Initial lactate 3.1 (___), but downward trend
+to 1.7 (___). Patient reports only chills and a mild headache
+with the fever. 
+
+Otherwise, no lightheadedness, chest pain, palpitations,
+shortness of breath, abdominal pain, nausea, burning or pain 
+with
+urination, blood in urine or stool, diarrhea or constipation.
+Patient reports no new medications other than antiemetics that
+she takes after chemotherapy. She takes no over the counter
+medications. No recent travel or sick contact. 
+
+ 
+Past Medical History:
+Recurrent cervical cancer
+Hyperlipidemia
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+ 
+Physical Exam:
+ADMISSION EXAM:
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Dry lips, but moist oropharynx without visible lesion, erythema
+or exudate
+CV: Heart regular, no murmur, no JVD. Radial and DP pulses
+present. 
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender.  Bowel sounds
+present.  
+GU: No suprapubic tenderness 
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: Tan skin. No rashes or ulcerations noted.
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM:
+VS: ___ 0710 Temp: 99.1 PO BP: 116/75 HR: 66 RR: 18 O2 sat: 
+98% O2 delivery: Ra 
+GENERAL: Alert and in no apparent distress, walking around room
+with IV pole
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Moist oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally. Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender.  Bowel sounds
+present.  
+GU: No suprapubic tenderness 
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: Tan skin. No rashes or ulcerations noted.
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 07:35AM BLOOD WBC-3.4* RBC-3.35* Hgb-10.4* Hct-30.5* 
+MCV-91 MCH-31.0 MCHC-34.1 RDW-13.1 RDWSD-43.1 Plt ___
+___ 07:35AM BLOOD Neuts-84* Bands-4 Lymphs-6* Monos-5 Eos-1 
+Baso-0 AbsNeut-2.99 AbsLymp-0.20* AbsMono-0.17* AbsEos-0.03* 
+AbsBaso-0.00*
+___ 07:35AM BLOOD Plt ___ ___
+___ 07:35AM BLOOD Glucose-89 UreaN-12 Creat-0.8 Na-138 
+K-3.9 Cl-106 HCO3-23 AnGap-9*
+___ 07:35AM BLOOD ALT-71* AST-48* LD(LDH)-210 AlkPhos-52 
+TotBili-0.4
+
+DISCHARGE LABS:
+
+___ 07:45AM BLOOD WBC-2.7* RBC-3.41* Hgb-10.5* Hct-30.9* 
+MCV-91 MCH-30.8 MCHC-34.0 RDW-13.1 RDWSD-42.6 Plt ___
+___ 07:45AM BLOOD Neuts-70.4 Lymphs-17.0* Monos-9.6 Eos-2.2 
+Baso-0.4 Im ___ AbsNeut-1.90 AbsLymp-0.46* AbsMono-0.26 
+AbsEos-0.06 AbsBaso-0.01
+___ 07:45AM BLOOD Glucose-86 UreaN-8 Creat-0.8 Na-140 K-4.1 
+Cl-105 HCO3-26 AnGap-9*
+___ 07:45AM BLOOD ALT-67* AST-35 AlkPhos-61 TotBili-0.3
+___ 07:45AM BLOOD Calcium-8.7 Phos-2.5* Mg-1.9
+
+MICRO:
+
+___ URINE CULTURE -
+
+  Urine Culture  Final                                           
+  ___
+
+     Organism 1                     Escherichia coli
+        Colony Count:               10,000 - 50,000 CFU/mL
+
+                      E coli          
+                      M.I.C. Inter    
+                      ------ -----    
+     Amox/Clav        4      S        
+     Ampicillin       8      S        
+     Aztreonam        <=1    S        
+     Cefazolin        <=4    S        
+     Cefepime         <=1    S        
+     Ceftriaxone      <=1    S        
+     Ciprofloxacin    <=0.25 S        
+     Ertapenem        <=0.5  S        
+     ESBL                    -        
+     Gentamicin       <=1    S        
+     Imipenem         <=0.25 S        
+     Levofloxacin     <=0.12 S        
+     Meropenem        <=0.25 S        
+     Nitrofurantoin   <=16   S        
+     Pip/Tazo         <=4    S        
+     Tetracycline     <=1    S        
+     Trimeth/Sulfa    <=20   S      
+
+___ Blood cultures NGTD (prelim) after 2 days
+
+IMAGING:
+
+___ RUQUS:
+1. No evidence of cholecystitis. 
+2. Similar severe right hydronephrosis with cortical thinning 
+and mild 
+prominence of the left collecting system. 
+3.   Nonobstructing 2 mm calculi in the left renal lower pole, 
+similar 
+compared to prior PET-CT done ___. 
+  
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with recurrent/metastatic 
+cervical cancer who presented for fever iso active chemotherapy 
+and radiation.
+
+ACUTE/ACTIVE PROBLEMS:
+
+# Fever: 
+Suspect chemotherapy-induced fever without localization of an 
+infection/source other than small amount of bacteria in urine 
+sample. However, this early cannot rule out bacteremia or 
+impending neutropenic fever and per patient's oncologist, this 
+is
+not a typical reaction to cisplatin. Parasite smear negative. 
+RUQUS negative. Started on empiric  IV cefepime and IV 
+vancomycin. Urine culture from ___ with pansensitive e 
+coli. Patient afebrile here, blood cultures negative x48 hours, 
+therefore de-escalated antibiotics to Bactrim to complete 7-day 
+course for UTI.
+
+# Squamous cell recurrence of cervical cancer to the left 
+adnexa:
+# Severe right hydronephrosis (reportedly known and unchanged
+radiographically):
+Status post radical excision on ___. On adjuvant external 
+beam radiation therapy daily to complete total of 30 sessions. 
+Also has been getting weekly cisplatin (___) x5 weeks, 
+completed 3 thus far. Patient will follow-up with oncologist 
+after discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ondansetron 8 mg PO COMPLEX 
+2. Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line NOT relieved by Ondansetron 
+
+ 
+Discharge Medications:
+1.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 5 Days 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth twice a day Disp #*10 Tablet Refills:*0 
+2.  Ondansetron 8 mg PO COMPLEX  
+3.  Prochlorperazine 10 mg PO Q6H:PRN Nausea/Vomiting - Second 
+Line NOT relieved by Ondansetron  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Fever
+Urinary tract infection
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___,
+
+You were admitted to the hospital for fever after chemotherapy. 
+You were found to have some e coli bacteria in your urine, for 
+which you were treated with antibiotics.
+
+You should discuss your chemo/treatment action plan further with 
+your oncologist.
+
+It was a pleasure taking care of you!
+
+Sincerely, 
+
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,223 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+body aches, urinary frequency
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old female with history of asthma, hyperlipidemia, 
+pulmonary embolism, hypertension, CKD (chronic kidney disease) 
+stage 3 presents with body aches, sent from PCP with acute renal 
+failure. 
+She reports 3 days of rhinorrhea, non-productive cough, 
+myalgias, and has had poor PO intake, weakness, and fatigue.  
+She also notes urinary frequency and mild dysuria.  She has had 
+headaches without neck stiffness, photophobia, which have been 
+responsive to acetaminophen.  She was sick in ___ with 
+similar symptoms, but notes the cough has not resolved since.  
+
+In the ED, initial vitals were 98.5 75 141/57 18 96% Nasal 
+Cannula.  She was noted to have dry MM.  Lungs had bilateral 
+crackles at the bases.  Labs showed creatinine 1.6 (baseline 
+1.0), calcium 10.6, bicarbonate 21.  UA showed 3 WBC, few 
+bacteria, positive nitrites.  Lactate was 1.4.  She received 
+ceftriaxone and azithromycin, as well as 1 liter NS.  CXR showed 
+left lower lobe retrocardiac opacity worrisome for pneumonia.  
+Flu swab was negative. 
+
+Currently, the patient feels a sense of malaise.  She has a 
+non-productive cough, and her most noted symptom is urinary 
+frequency with mild dysuria.
+ 
+Review of systems:  
+(+) Per HPI  
+(-) Denies fever, chills, night sweats, recent weight loss or 
+gain. Denies shortness of breath. Denies chest pain or 
+tightness, palpitations. Denies nausea, vomiting, diarrhea, 
+constipation or abdominal pain. No recent change in bowel or 
+bladder habits. No dysuria. Denies arthralgias or myalgias. Ten 
+point review of systems is otherwise negative. 
+ 
+Past Medical History:
+Hyperlipidemia
+Pulmonary embolism
+Hypertension
+Chronic kidney disease, stage 3
+Osteoarthritis  
+Asthma
+ 
+Social History:
+___
+Family History:
+Father: CAD/PVD; Cancer - Colon; Diabetes - Unknown Type; 
+Hypertension 
+Mother:  AutoImmune Disease; CAD/PVD; Cancer - Breast; Diabetes 
+- Unknown Type; Hypertension 
+ 
+Physical Exam:
+Admission exam:
+Vitals: T: 98.7 BP: 151/72 P: 79 R: 18 O2: 98% on RA  
+GEN: Alert, oriented to name, place and situation. Fatigued 
+appearing but comfortable, no acute signs of distress.  
+HEENT: NCAT, Pupils equal and reactive, sclerae anicteric, OP 
+clear, MM dry.  
+Neck: Supple, no JVD
+Lymph nodes: No cervical, supraclavicular LAD.  
+CV: S1S2, reg rate and rhythm, no murmurs, rubs or gallops.  
+RESP: Good air movement bilaterally, rales at bases, no rhonchi 
+or wheezing.  
+ABD: Soft, non-tender, non-distended, + bowel sounds.  
+EXTR: No lower leg edema
+DERM: No active rash.  
+Neuro:  non-focal.  
+PSYCH: Appropriate and calm. 
+
+Discharge exam:
+Vitals: 97.9, 167/73, 66, 18, 98% on RA
+Gen: NAD, sitting up in chair, appears comfortable
+Eyes: EOMI, sclerae anicteric  
+ENT: MMM, OP clear
+Cardiovasc: RRR, no MRG, no edema  
+Resp: normal effort, no accessory muscle use, lungs CTA ___.
+GI: soft, NT, ND, BS+
+MSK: No significant kyphosis. No palpable synovitis.
+Skin: No visible rash. No jaundice.
+Neuro: AAOx3. CNs II-XII intact. MAEE.
+Psych: Full range of affect
+
+ 
+Pertinent Results:
+Admission labs
+___ 07:19PM BLOOD WBC-6.7 RBC-4.28 Hgb-12.0 Hct-36.6 MCV-86 
+MCH-28.0 MCHC-32.8 RDW-14.7 RDWSD-45.6 Plt ___
+___ 07:19PM BLOOD Glucose-166* UreaN-37* Creat-1.6* Na-134 
+K-4.2 Cl-98 HCO3-21* AnGap-19
+___ 06:30AM BLOOD ALT-38 AST-28 LD(LDH)-206 AlkPhos-73 
+TotBili-0.4
+___ 07:19PM BLOOD Calcium-10.6* Phos-3.7 Mg-2.0
+___ 07:28PM BLOOD Lactate-1.4
+___ 06:45PM URINE Color-Yellow Appear-Hazy Sp ___
+___ 06:45PM URINE Blood-NEG Nitrite-POS Protein-TR 
+Glucose-NEG Ketone-TR Bilirub-NEG Urobiln-NEG pH-5.5 Leuks-TR
+___ 06:45PM URINE RBC-<1 WBC-3 Bacteri-FEW Yeast-NONE Epi-2
+___ 06:45PM URINE CastGr-3*
+
+Discharge labs
+___ 06:30AM BLOOD WBC-6.5 RBC-3.67* Hgb-10.4* Hct-31.9* 
+MCV-87 MCH-28.3 MCHC-32.6 RDW-14.8 RDWSD-47.6* Plt ___
+___ 07:19PM BLOOD Neuts-86.1* Lymphs-10.1* Monos-2.3* 
+Eos-0.2* Baso-0.5 Im ___ AbsNeut-5.75 AbsLymp-0.67* 
+AbsMono-0.15* AbsEos-0.01* AbsBaso-0.03
+___ 06:30AM BLOOD Glucose-133* UreaN-36* Creat-1.0 Na-137 
+K-3.9 Cl-104 HCO3-24 AnGap-13
+___ 06:30AM BLOOD Calcium-10.0
+
+Micro:
+Urine culture ___: negative
+blood cultures ___: no growth to date
+
+Imaging:
+CXR ___: Left lower lobe retrocardiac opacity is worrisome for
+pneumonia, less likely atelectasis.  Recommend followup to
+resolution. 
+ 
+Brief Hospital Course:
+___ with asthma, HLD, PE, HTN, CKD III, and OA who presented 
+with myalgias, cough, malaise, and ___ on labs. 
+
+# Pneumonia
+Patient was flu negative, but found to have a left lower lobe 
+pneumonia on chest x ray. She was treated for community acquired 
+pneumonia with IV ceftiaxone and azithromycin. She did not meet 
+any SIRS criteria and was satting well on room air. She was 
+transitioned to oral levofloxacin on discharge to complete a ___ on CKD
+Patient presented with a creatinine of 2.0 in clinic from 
+baseline of 1.0, improved after IV fluids and holding HCTZ and 
+losartan. 1.0 on discharge. Her home losartan was restarted.
+
+# Dysuria, polyuria
+Patient had a negative UA and urine culture. Nonetheless, 
+symptoms resolved with antibiotics and IV fluids. 
+
+# Hypercalcemia
+Improved with IV fluids and stopping HCTZ. Patient should have 
+outpatient follow up for repeat calcium and BP monitoring off 
+HCTZ. 
+
+# HLD, OA: home meds continued on discharge.
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Hydrochlorothiazide 12.5 mg PO DAILY 
+2. trospium 20 mg oral DAILY 
+3. Omeprazole 20 mg PO DAILY 
+4. Gabapentin 100 mg PO DAILY 
+5. Losartan Potassium 100 mg PO DAILY 
+6. Simvastatin 20 mg PO QPM 
+7. Diclofenac Sodium ___ 75 mg PO BID 
+8. Ferrous GLUCONATE 240 mg PO DAILY 
+9. Multivitamins 1 TAB PO DAILY 
+10. Aspirin 81 mg PO DAILY 
+11. Vitamin D 1000 UNIT PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Gabapentin 100 mg PO DAILY 
+3. Multivitamins 1 TAB PO DAILY 
+4. Omeprazole 20 mg PO DAILY 
+5. Simvastatin 20 mg PO QPM 
+6. Vitamin D 1000 UNIT PO DAILY 
+7. Levofloxacin 750 mg PO DAILY 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth daily Disp #*3 
+Tablet Refills:*0
+8. Diclofenac Sodium ___ 75 mg PO BID 
+9. Ferrous GLUCONATE 240 mg PO DAILY 
+10. Losartan Potassium 100 mg PO DAILY 
+11. trospium 20 mg oral DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Community acquired pneumonia
+Acute kidney injury
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___ were admitted to ___ for pneumonia. ___ received 
+antibiotics and IV fluids, and ___ improved. It is now safe for 
+___ to leave the hospital. 
+-Please continue take levofloxacin this evening for 3 more days 
+___ through ___
+-We stopped your hydrochlorothiazide, as your calcium levels 
+were found to be elevated. Please have your blood pressure 
+rechecked at your doctor's office to decide whether or not to 
+restart this medication.
+ 
+Followup Instructions:
+___

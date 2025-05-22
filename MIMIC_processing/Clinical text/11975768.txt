@@ -1,0 +1,111 @@
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+ERCP ___
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 05:44PM BLOOD WBC-8.3 RBC-5.03 Hgb-15.0 Hct-46.3 MCV-92 
+MCH-29.8 MCHC-32.4 RDW-12.1 RDWSD-40.2 Plt ___ ERCP 
+ERCP shows oozing of ampulla. Stopped with gold probe. FCMS was 
+placed.
+
+DISCHARGE LABS:
+___ 07:45AM BLOOD WBC-10.9* RBC-4.16* Hgb-12.5* Hct-39.5* 
+MCV-95 MCH-30.0 MCHC-31.6* RDW-12.1 RDWSD-42.1 Plt ___
+___ 07:45AM BLOOD Glucose-103* UreaN-5* Creat-0.6 Na-137 
+K-4.2 Cl-98 HCO3-26 AnGap-13
+___ 07:45AM BLOOD ALT-31 AST-15 AlkPhos-69 TotBili-2.3*
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ man with history of
+cholelithiasis s/p CCY (___) and choledocholithiasis s/p ERCP
+with sphincterotomy (___) who presented with melena due to
+bleeding at sphincterotomy site s/p repeat ERCP with ablation 
+and placement of
+FCMS on ___ ___/b post-ERCP pancreatitis.
+
+# Melena
+# Post-sphincterotomy bleeding
+He underwent ERCP on ___ for ablation of post-sphincterotomy 
+bleeding and placement of fully covered metal stent with 
+hemostasis. He had no further episodes of melena. Discharge hgb 
+was 12.5
+
+# Post-ERCP pancreatitis
+Developed worsening abd pain after ERCP. Lipase also elevated
+consistent with post-ERCP pancreatitis. He was given IVF and 
+pain control with IV dilaudid and PO oxycodone. Once abdominal 
+pain improved, his diet was advanced and he was tolerating 
+regular diet on day of discharge.
+
+# GERD: cont omeprazole
+
+TRANSITIONAL ISSUES
+[]patient needs repeat ERCP in ___ weeks for removal of biliary 
+stent
+[]please repeat hemoglobin at follow up appointment
+
+>30 minutes spent on discharge planning and coordination of care
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Senna 8.6 mg PO BID 
+RX *sennosides [senna] 8.6 mg 1 tablet by mouth twice a day Disp 
+#*30 Tablet Refills:*0 
+3.  Simethicone 120 mg PO QID:PRN Gas 
+RX *simethicone 125 mg 1 tablet by mouth four times a day Disp 
+#*60 Tablet Refills:*0 
+4.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Post-sphincterotomy bleeding
+Post-ERCP pancreatitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted because you began bleeding in the intestines 
+after your ERCP. They repeated the procedure and stopped the 
+bleeding. Unfortunately you developed pancreatitis after the 
+procedure, but that improved with fluids through your IV and 
+pain medications. We watched you to ensure the bleeding had 
+stopped and that your blood counts were stable.
+
+Please make sure to follow up with your doctors.
+
+___ wish you the best,
+Your ___ team
+
+ 
+Followup Instructions:
+___

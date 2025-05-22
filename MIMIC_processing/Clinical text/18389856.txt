@@ -1,0 +1,207 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abd pain, fever
+ 
+Major Surgical or Invasive Procedure:
+ERCP
+ 
+History of Present Illness:
+HPI/EVENTS: ___ h/o PSC, seizure d/o admitted with RUQ pain and 
+fever to 101.  Reports dark urine x 4 days, chills x 3 days and 
+became febrile to 101 degrees today.  Also noted RUQ ache/pain 
+occurring yesterday.  He contacted his outpt GI (Dr. ___ 
+who encouraged obtaining  blood tests).  He went to to ___ ED 
+where vitals were stable but labs were notable for WBC 6.3, 
+AST/ALT 89/221., AP 185, TBili 1.32.  As a result of his PSC and 
+need for ERCP, he was referred here to ___ for further 
+eval.
+    She went to ED and then taken to ___.  There strictures 
+were found c/w PSC.  There was sludge, small stones, and pus 
+removed.  Brush bxs were sent.  A CBD stent was placed.   He 
+denies cp/sob/n/v/d.  On transfer, No complaints other than 
+feeling hungry. 
+. 
+ROS: per HPI, denies headache, vision changes, rhinorrhea, 
+congestion, sore throat, cough, shortness of breath, chest pain, 
+nausea, vomiting, diarrhea, constipation, BRBPR, melena, 
+hematochezia, dysuria, hematuria.  A 10 pt review of sxs was 
+otherwise negative.
+
+ 
+Past Medical History:
+# PSC - intrahepatic/extrahepatic
+ - s/p ___ ERCP (Sphincterotomy and CBD stent placed which 
+migrated on its own) 
+# Juvenile Myoclonic Seizure
+ 
+Social History:
+___
+Family History:
+Father having PSC and ___ disease.  His father developed 
+colon cancer at age ___.
+ 
+Physical Exam:
+Vital Signs: 97.9 115/79 65 18 96% RA 
+glucose: 
+. 
+GEN: NAD, well-appearing, lying in bed, interactive, pleasant
+EYES: PERRL, EOMI, conjunctiva clear, mildly icteric
+ENT: moist mucous membranes, no exudates 
+NECK: supple 
+CV: RRR s1s2 nl, no m/r/g
+PULM: CTA, no r/r/w 
+GI: normal BS, NT/ND, no HSM, no RUQ tenderness  
+EXT: warm, no c/c/e
+SKIN: no rashes 
+NEURO: alert, oriented x 3, answers ? appropriately, follows 
+commands, non focal
+PSYCH: appropriate
+ACCESS: PIV
+FOLEY: absent
+. 
+
+ 
+Pertinent Results:
+___ 10:50PM   WBC-6.3 RBC-5.17 HGB-15.6 HCT-45.2 MCV-87 
+MCH-30.2 MCHC-34.5 RDW-12.8 RDWSD-40.9
+___ 10:50PM   PLT COUNT-199
+___ 10:50PM   GLUCOSE-100 UREA N-11 CREAT-0.8 SODIUM-140 
+POTASSIUM-3.7 CHLORIDE-102 TOTAL CO2-24 ANION GAP-18
+___ 10:50PM   ALT(SGPT)-286* AST(SGOT)-153* ALK PHOS-234* 
+TOT BILI-3.5*
+___ 10:50PM   LIPASE-41
+___ 11:04PM   LACTATE-1.1
+
+# ERCP (___): There was evidence of previous sphincterotomy 
+and it appeared widely opened. Careful contrast injection 
+revealed areas of short strictures and saccular dilation in the 
+distal CBD, bifurcation and intrahepatic bliary tree consistent 
+with patient's known history of PSC. The CBD was swept several 
+times with successful removal of stone fragments, sludge and 
+small amounts of pus material. Brushings were successfully 
+obtained from the strictures at the level of the bifurcation and 
+distal CBD for cytology and FISH. A ___ X 7cm ___ 
+plastic biliary stent was successfully placed across the 
+ampulla.  There was excellent spontaneous drainage of bile and 
+contrast material at the end of the procedure. The PD was not 
+injected or cannulated. 
+
+ 
+Brief Hospital Course:
+ASSESSMENT & PLAN: ___ h/o PSC, seizure d/o admitted with RUQ 
+pain and fever to 101 c/w acute cholangitis 
+
+# PSC
+# RUQ pain, fever, transaminitis with ERCP signs of pus c/w 
+cholangitis.  He went to ERCP where the stricture was dilated 
+and brush biopsy was done (sent for cytology).  There was 
+evidence of pus.  A sphincterotomy was performed with placement 
+of a CBD stent.  He tolerated the procedure well without 
+complications.
+   He was treated with ciprofloxacin 500 mg BID (to be completed 
+over 14 days).  He was kept NPO overnight - and the following 
+day, he had no pain, nausea or vomiting - and thus was placed on 
+clears and then quickly advanced to regular diet (which he 
+tolerated without difficulty).  He will need to return in 4 
+weeks for removal of the stent.  The brush bx cytology report 
+can be followed up (he was instructed to call Dr. ___ 
+___ for results).
+   He was also seen by hepatology for evaluation of the PSC.  He 
+was recommended to start ursodiol, and given an extra 
+prescription of cipro (in case of infection).  He will be seen 
+in liver clinic in 2 weeks.  
+
+# Seizure: non-active.  No antiepileptics needed now. 
+
+# OTHER ISSUES AS OUTLINED. 
+. 
+#FEN:   [X] IVF   [] Oral   [X] NPO   [] Tube Feeds   [] 
+Parenteral
+#DVT PROPHYLAXIS: None. Ambulatory
+#LINES/DRAINS:   [X] Peripheral   [] PICC   [] CVL   [] Foley
+#PRECAUTIONS: None
+#COMMUNICATION: pt and wife
+#CONSULTS: ERCP.  Await hepatology consult tomorrow
+#CODE STATUS: Full Code
+
+#DISPOSITION: home
+
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H Duration: 7 Days 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth every twelve 
+(12) hours Disp #*26 Tablet Refills:*2 
+2.  Ursodiol 300 mg PO BID 
+RX *ursodiol 300 mg 1 capsule(s) by mouth twice a day Disp #*60 
+Capsule Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute cholangitis
+Progressive sclerosing cholangitis
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear ___,
+
+   It was a pleasure looking after you. As you know, you were 
+admitted with pain, fever, and chills with elevated liver 
+function tests - which were consistent with an infected bile 
+duct.  You underwent a procedure called ERCP, where strictures 
+were found in your bile duct.  These strictures were dilated and 
+a plastic stent was placed to keep the bile duct flowing well. 
+   
+    For the infection, please complete the antibiotics 
+(Ciprofloxacin) for a total of 2 weeks.  You will also be 
+scheduled for a return visit in 4 weeks to have the plastic 
+stent removed.  Dr. ___ will contact you regarding 
+the follow up date.  Also, the bile ducts were brushed and sent 
+for pathology study to rule for cancer (occasionally, strictures 
+are associated with cancer, but this is considered unlikely 
+since the strictures are considered most attributable to the 
+sclerosing cholangitis).  Please call Dr. ___ office at 
+___ in 7 days for the pathology results.
+
+You were also seen by the liver specialists during this 
+hospitalization.  You are recommended to take Ursodiol twice a 
+day as prescribed.   You will also be given an extra supply of 
+ciprofloxacin (antibiotics), in the event you develop an 
+infection.  You will have a follow up with the hepatology (liver 
+specialist) clinic in 2 weeks for surveillance and management of 
+the progressive sclerosing cholangitis. 
+
+   We recommend to have your liver function test and blood cell 
+count checked in 1 week at the primary care doctor office.  The 
+results can be faxed to Dr. ___ Dr. ___ 
+___ office at ___. ___.
+   
+   We wish you the best of luck and good health.
+
+Your ___ Team
+ 
+
+ 
+Followup Instructions:
+___

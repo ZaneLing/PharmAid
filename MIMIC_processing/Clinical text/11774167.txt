@@ -1,0 +1,369 @@
+Name:  ___           Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with history of asthma 
+presenting with increasing dyspnea and cough. Patient had a 
+recent 6 week visit to ___ and ___ there was diagnosed 
+with a UTI. She was started on cipro on ___ for a 7 day 
+course, which was then re-prescribed 2 days ago for another 5 
+day course. Patient also saw a gynecologist ___ ___ on 
+___ and was noted to have tampon ___ place that had been left ___ 
+for 3 weeks. Tampon was removed and she was started on 
+metronidazole at that time. On ___, she also noted onset of 
+chills and shakes and went to ER ___ ___ on ___ and was 
+discharged on same day. She flew home overnight on ___ and went 
+to ER ___ ___ upon landing. At that time, she also c/o 
+dyspnea. She was treated for dehydration and migraine with no 
+imaging. On ___, she began to have increased dyspnea and cough. 
+She was picked up ___ ___ because unable to fly and driven 
+directly to ___, where CTA chest was performed and 
+revealed small L lower lobe filling defect thought to be more 
+consistent with chronic narrowing or chronic thrombus than acute 
+PE, hilar adenopathy, as well as patchy infiltrates, lower lobe 
+predominant, L>R, with associated effusions, c/f multifocal PNA. 
+
+
+Labs from OSH notable for AST 61, ALT 113, trop negative, INR 
+1.28, influenza negative. Treated with nebs, ceftriaxone, 
+azithromycin. Sent here for ? PNA vs PE vs sarcoid.
+ 
+Past Medical History:
+-Migraines
+-Asthma
+-Atopic dermatitis
+ 
+Social History:
+___
+Family History:
+-Mother: thyroid cancer
+-Father: CAD (MI at age ___
+-Maternal aunt: colorectal cancer
+-___ grandmother: lung cancer
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+VS 98.4, 110/61, 88, 16, 98% on 1.5L NC
+GENERAL: sitting comfortably ___ bed, ___ NAD 
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM with white patch present across surface of tongue, good 
+dentition  
+NECK: nontender supple neck, palpable submandibular 
+lymphadenopathy  
+CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNG: bilateral crackles, loudest at the bases. normal work of 
+breathing
+ABDOMEN: nondistended, +BS, nontender ___ all quadrants, no 
+rebound/guarding, no hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: AOx3, CN II-XII intact  
+SKIN: several ~2cm round erythematous macular lesions present 
+bilaterally on lower legs. Small erythematous papules <1cm 
+present across abdomen and chest
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Objective:  
+VS - Tmax 98.8 Tc 97.6 HR 58 BP 107/59 RR 18 97% 02 sat on RA  
+General: well appearing, NAD  
+HEENT: sclera anicteric, PERRL, pearly grey tympanic membranes 
+bilaterally, MMM with white patch across surface of tongue, 
+oropharynx clear, EOMI  
+Neck: supple, no JVD, palpable submandibular lymphadenopathy
+CV: regular rate and rhythm, no murmurs/rubs/gallops 
+Lungs: diminished breath sounds at the bases, otherwise clear to 
+auscultation bilaterally, normal work of breathing without use 
+of accessory muscles
+Abdomen: +BS, soft, nontender, nondistended, no HSM appreciated  
+
+GU: no Foley  
+Ext: warm and well perfused, 2+ pulses, no edema. 
+Neuro: AOx3, CNII-XII intact. Sensation intact with ___ strength 
+throughout, Romberg negative
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 03:30AM BLOOD WBC-8.9 RBC-3.66* Hgb-12.0 Hct-35.2 
+MCV-96 MCH-32.8* MCHC-34.1 RDW-12.0 RDWSD-42.0 Plt ___
+___ 03:30AM BLOOD Neuts-88.6* Lymphs-4.4* Monos-5.2 Eos-1.3 
+Baso-0.2 Im ___ AbsNeut-7.88* AbsLymp-0.39* AbsMono-0.46 
+AbsEos-0.12 AbsBaso-0.02
+___ 03:30AM BLOOD Plt ___
+___ 03:30AM BLOOD ___ PTT-25.1 ___
+___ 03:30AM BLOOD Glucose-106* UreaN-6 Creat-0.6 Na-137 
+K-4.2 Cl-105 HCO3-22 AnGap-14
+___ 03:30AM BLOOD ALT-111* AST-45* AlkPhos-97 TotBili-0.2
+___ 09:45PM BLOOD Calcium-8.4 Phos-2.1* Mg-2.1
+___ 03:30AM BLOOD Albumin-3.0*
+___ 03:30AM BLOOD D-Dimer-2311*
+___ 03:42AM BLOOD Lactate-0.8
+
+PERTINENT LABS
+==============
+___ 09:45PM BLOOD Parst S-NEGATIVE
+___ 09:45PM BLOOD HBsAg-NEGATIVE HBsAb-NEGATIVE 
+HBcAb-NEGATIVE HAV Ab-POSITIVE
+___ 09:45PM BLOOD HIV Ab-Negative
+___ 09:45PM BLOOD HCV Ab-NEGATIVE
+___ 07:40AM BLOOD B-GLUCAN-PND
+___ 12:55PM BLOOD EBV PCR, QUANTITATIVE, WHOLE BLOOD-PND
+
+DISCHARGE LABS
+==============
+___ 08:10AM BLOOD WBC-6.2 RBC-3.86* Hgb-12.6 Hct-37.1 
+MCV-96 MCH-32.6* MCHC-34.0 RDW-11.9 RDWSD-42.1 Plt ___
+___ 08:10AM BLOOD Neuts-43 Bands-2 ___ Monos-6 
+Eos-10* Baso-0 Atyps-2* ___ Myelos-0 AbsNeut-2.79 
+AbsLymp-2.42 AbsMono-0.37 AbsEos-0.62* AbsBaso-0.00*
+___ 08:10AM BLOOD Plt Smr-NORMAL Plt ___
+___ 08:10AM BLOOD Glucose-87 UreaN-7 Creat-0.7 Na-138 K-4.0 
+Cl-100 HCO3-29 AnGap-13
+___ 08:10AM BLOOD ALT-93* AST-90* LD(LDH)-223 AlkPhos-92 
+TotBili-0.2
+___ 08:10AM BLOOD Calcium-9.0 Phos-3.8 Mg-1.7
+
+MICROBIOLOGY
+============
+___ 12:55PM BLOOD EBV PCR, QUANTITATIVE, WHOLE BLOOD-Test  
+PND 
+___  CMV Viral Load (Final ___: CMV DNA PND
+___ SPUTUM GRAM STAIN-FINAL
+GRAM STAIN (Final ___: 
+<10 PMNs and <10 epithelial cells/100X field. 
+3+  ___ per 1000X FIELD):   GRAM POSITIVE ROD(S). 
+3+  ___ per 1000X FIELD):   GRAM POSITIVE COCCI. 
+                                    ___ PAIRS AND CLUSTERS. 
+1+    (<1 per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+FUNGAL CULTURE (Preliminary): NO FUNGUS ISOLATED. 
+ACID FAST CULTURE (Preliminary): pending
+ACID FAST SMEAR (Final ___: NO ACID FAST BACILLI SEEN ON 
+CONCENTRATED SMEAR. 
+MTB Direct Amplification (Pending): 
+___ Blood (CMV AB) CMV IgG ANTIBODY-FINAL; CMV IgM 
+ANTIBODY-FINAL: IgG pos, IgM neg 
+___ Blood (Toxo) TOXOPLASMA IgG ANTIBODY-FINAL; 
+TOXOPLASMA IgM ANTIBODY-FINAL: negative for IgG and IgM
+___ SPUTUM GRAM STAIN-FINAL; RESPIRATORY CULTURE-FINAL; 
+ACID FAST CULTURE-PRELIMINARY; ACID FAST SMEAR-PRELIMINARY: 
+CONTAMINATED
+___ Blood (Toxo) TOXOPLASMA IgG ANTIBODY-PENDING; 
+TOXOPLASMA IgM ANTIBODY-PENDING  
+___ URINE Legionella Urinary Antigen -negative 
+___ URINE URINE CULTURE-no growth
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+___ Blood (Malaria) Malaria Antigen Test-NEGATIVE 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+___ BLOOD CULTURE Blood Culture, Routine-PENDING 
+
+IMAGING
+=======
+___ Imaging CTA CHEST W&W/O C&RECON  
+1. No evidence of pulmonary embolism or aortic abnormality. 
+2. Diffuse predominately lower lobe airspace opacities and small 
+bilateral nonhemorrhagic pleural effusions most consistent with 
+multifocal pneumonia. 
+
+___ Imaging LIVER OR GALLBLADDER US-UNREAD
+IMPRESSION:    
+Normal abdominal ultrasound. 
+
+___ Imaging CHEST (PORTABLE AP) 
+Severe airspace consolidation is present ___ the mid and lower 
+lungs 
+bilaterally, and accompanied by moderate pleural effusions.  
+Heart size is difficult to assess due to partial obscuration of 
+part borders by the airspace disease.  Observed findings may be 
+due to clinical history of multifocal pneumonia, and also raise 
+the possibility of ARDS ___ the appropriate clinical setting. 
+
+  
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ woman with a history of asthma 
+presenting with dyspnea and cough following plane ride home from 
+___, s/p CTA from OSH showing multifocal infiltrates, 
+hilar adenopathy, and L lower lobe filling defect with repeat 
+CTA here suspicious for multifocal pneumonia, without PE. She 
+was treated with CAP therapy.
+
+ACTIVE ISSUES
+=============
+
+# Community Acquired Pneumonia: Patient had CTA at OSH, which 
+showed patchy infiltrates, lower lobe predominant, L>R. Upon 
+admission, she continued to have a mildly productive cough, 
+though remained afebrile without leukocytosis. Given atypical 
+presentation for community-acquired pneumonia and recent travel 
+history, a broad infectious workup was initiated. She was found 
+to be HIV negative. Urine legionella antigen was negative. Given 
+travel history and report of husband with productive cough and 
+unexplained weight loss, TB was also on the differential. 
+
+Patient had difficulty producing adequate sputum for acid fast 
+stain to rule out TB, and she improved rapidly on CAP treatment. 
+Clinical suspicion for TB was low on reevaluation, and a 
+definitive rule out was deemed not necessary. On hospital day 3, 
+patient was noted to have shift ___ WBC differential from 9.7% 
+lymphocytes to 37% with 4% atypicals. This change, ___ 
+conjunction with transaminitis, was suspicious for possible 
+EBV/CMV infection, so viral loads and serologies were sent and 
+were pending at discharge. 
+
+According to CTA read from outside hospital, patient also had 
+hilar adenopathy, and there was initially some concern for 
+sarcoidosis given erythematous macules on legs, though these 
+were more consistent with insect bites, and thus a broader 
+sarcoidosis workup was deemed unnecessary. She was treated 
+throughout her hospital stay with ceftriaxone and azithromycin 
+for presumed community acquired pneumonia. She had marked 
+improvement ___ her clinical status with resolution of pulmonary 
+rhonchi and was able to wean off of oxygen. She was discharged 
+on PO levofloxacin to finish a 7 day antibiotic course for 
+community acquired pneumonia. 
+
+# Question of Pulmonary Embolus: CTA from OSH showed L lower 
+filling defect thought to be more consistent with chronic 
+thrombus or chronic narrowing than acute PE. Patient had 
+recently taken a long plane flight, and she had been started on 
+Lovenox for possible PE at outside hospital. D-dimer was 
+elevaetd ___ setting of severe CAP. Attempts to obtain OSH CTA 
+images were unsuccessful, so decision was made on hospital day 3 
+to repeat CTA to evaluate for PE given uncertain nature of OSH 
+report. Repeat CTA confirmed multifocal infiltrates but showed 
+no evidence of PE. This was reviewed with radiology, who 
+confirmed no concern for chronic narrowing or need to work-up 
+for chronic thromboembolic disease. Pneumonia seemed to be most 
+likely etiology for symtoms, and patient was taken off of 
+Lovenox. 
+
+# Transaminitis: Patient was noted to have transaminitis on 
+admission with ALT 111, AST 45, Alk phos nl with no evidence of 
+cholestasis. Etiology of transaminitis was unknown. She had been 
+taking acetaminophen for headaches, which may have contributed. 
+She had no evidence of viral hepatitis on Hep A, B, and C labs. 
+She had a normal RUQ U/S with no evidence of hepatosteatosis. It 
+could not be excluded that the illness driving her pneumonia may 
+have also led to hepatocellular injury. Finally, given that she 
+developed 4% atypicals on smear, EBV/CMV viral loads were sent 
+off. Her transaminitis downtrended throughout her stay. 
+
+# Insect bites: On admission, she was noted to have bilateral 
+erythematous macular lesions on the lower legs, previously 
+pruritic, though had been asymptomatic for the last few days. 
+Given associated respiratory condition, there was initial 
+suspicion for erythema nodosum due to sarcoidosis. However, 
+lesions were not painful, and these were felt to be more 
+consistent with insect bites given preceding pruritus. She was 
+given sarna lotion for pruritus with resolution of the lesions. 
+
+# UTI/vaginal infection: She was on ciprofloxacin for a UTI 
+previously diagnosed ___ ___ followed by metronidazole 
+after pelvic exam revealed retained tampon for 3 weeks. She 
+continued to have mild discharge on admission with associated 
+pruritus and was continued on metronidazole for a full 7 day 
+course. Pelvic exam prior to discharge was notable for scant 
+vaginal discharge with a normal cervix, and she reported 
+improvement ___ her pruritus. 
+
+# Anxiety: She developed significant anxiety following 
+admission, asking the team several times if she was dying. She 
+was placed on low dose lorazepam prn anxiety and low dose 
+trazodone prn sleep. Social work was also consulted, and she 
+reported resolution of her anxiety with these interventions and 
+upon noticing her clinical improvement. She was encouraged to 
+follow-up with PCP and SW and agreed that this would be 
+beneficial, as she has been working through challenges ___ her 
+marriage. She feels safe at home. 
+
+TRANSITIONAL ISSUES
+===================
+# Multifocal pneumonia: She is currently on day 4 of CAP therapy 
+and will be discharged on PO levofloxacin which she should take 
+for 3 additional days to complete a full 7 day course for 
+community acquired pneumonia. She will also need a repeat chest 
+radiograph ___ 4 weeks to confirm resolution of infiltrates and 
+bilateral pleural effusions. 
+
+# Hep B non-immune: She was found to be negative for Hep B 
+surface antibody during transaminitis workup. She will need to 
+follow up with her primary care provider regarding the need for 
+vaccination. 
+
+# Other:
+- recommend establishing care with outpatient counselor/social 
+work 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ciprofloxacin HCl 500 mg PO Q12H 
+2. MetRONIDAZOLE (FLagyl) 500 mg PO TID 
+3. Fish Oil (Omega 3) 1000 mg PO BID 
+4. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheeze 
+
+ 
+Discharge Medications:
+1. Acetaminophen 650 mg PO Q6H:PRN pain 
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheeze 
+3. Fish Oil (Omega 3) 1000 mg PO BID 
+4. Levofloxacin 500 mg PO Q24H Duration: 3 Days 
+RX *levofloxacin [Levaquin] 500 mg 1 tablet(s) by mouth once 
+daily Disp #*3 Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Community-acquired pneumonia
+
+ 
+Discharge Condition:
+Discharge condition: stable, improved
+Mental status: AOx3
+Ambulatory status: ambulates without assist
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were admitted to ___ on 
+___ following worsening shortness of breath, cough, and 
+chills. You were placed on antibiotics for a suspected infection 
+and given a medication for a possible pulmonary embolism based 
+on the CT scan done at ___. During your stay, we did 
+a workup for possible viral, bacterial, or parasitic infections 
+that could be causing your symptoms, all of which were negative. 
+We also did a repeat CT scan, which did not show a pulmonary 
+embolus. Your breathing and cough improved on antibiotics, which 
+suggested that a bacterial pneumonia was the most likely cause 
+of your symptoms. You will be discharged with a prescription for 
+oral antibiotics, which you should take for the next three days 
+for the pneumonia. 
+It was a pleasure taking care of you during your stay. If you 
+have any questions or concerns about the quality of care that 
+you received, please do not hesitate to ask. 
+-Your ___ Care Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,281 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+lisinopril / codeine / Vicodin / metoprolol / Benadryl
+ 
+Attending: ___.
+ 
+Chief Complaint:
+lower extremity swelling
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ w/ HTN, a-fib (on Xarelto/proafenone), and prior PE, who had 
+spent the last 5 weeks hospitalized at ___ (over 3 
+hospitalizations) for R>LLE swelling, who now returns for 
+ongoing management of the same issue after an as of yet 
+inconclusive workup. 
+
+The ___ initially presented to ___ on ___ w/ 
+identical complaints. He was started on vancomycin & 
+piperacillin-tazobactam for presumed RLE ceullulitis. Course was 
+complicated by sepsis w/ ___ (creatinine to 3.2). The RLE 
+redness subsided with antibiotics but swelling did not. Other 
+workup during that hospitalization included: negative Doppler US 
+of RLE for DVT, RLE MRI showing nonspecific subcutaneous fluid 
+collections deep to the deep fascia w/ mild intramuscular edema. 
+The fluid was aspirated by ___ a few drops of blood were 
+obtained and bacterial culture of this was negative. Because of 
+the muscle edema at the base of the R gastrocnemius (which had 
+an unusual woody fullness on palpation) and because of a new 
+subcutaneous nodule overlying the tibial tuberosity, he was 
+suspected to have a rheumatologic condition. The nodule was 
+biopsied, which showed mixed inflammation with neutrophils, 
+plasma cells, & eosinophils consistent with panniculitis. He was 
+seen by rheum and a broad panel of autoimmune serologies was 
+negative. Of note, his BNP had been noted to be as high as 1400 
+at ___, but clinical CHF had not been felt to be a major 
+contributor to the swelling.  
+
+The ___ re-presented to ___ w/ continued RLE redness & 
+pain and continued b/l ___ swelling. Other presenting complaints 
+included palpitations and diaphoresis when he went into atrial 
+fibrillation. He otherwise denied fevers, chills, weight 
+changes, HAs, CP, SOB, cough, abdominal pain, N/V/D, arthralgias 
+or myalgias aside from legs, skin changes, focal neurological 
+complaints, or changes in mood. 
+ 
+Past Medical History:
+Paroxysmal atrial fibrillation
+Essential HTN
+HLD
+H/O PE
+Recent RLE cellulitis
+ 
+Social History:
+___
+Family History:
+Non-contributory.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+=======================
+98.3 133/87 73 14 97RA
+General: Obese middle-aged male lying in bed, NAD, A/Ox3.
+Head: NC/AT.
+Neck: Supple, difficult to assess JVD given obesity but appears
+at lower neck.
+Cardiac: Currently NSR, S1S2 w/ ___ systolic murmur heard at
+upper precordium.
+Respiratory: CTAB w/o w/r/c.
+Abdomen: Obese, soft, NT, +BS.
+MSK: No joint tenderness on palpation of wrists, elbows,
+shoulders, knees, ankles.
+Extremities: 2+ pitting edema of b/l lower extremities to lower
+thighs, no hair on shins, dry & cracked skin noted throughout 
+but
+prominent on underside of right foot, site of prior skin biopsy
+on right heel c/d/i, erythema and tenseness of right foot and
+heel, WWP.
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VS: 98.2 PO 140 / 90 L Lying 77 18 98 Ra 
+General: Obese pleasant and conversant male. lying in bed
+comfortably. NAD, A/Ox3.
+HEENT: EOMI, PERRLA. oropharynx clear. MMM. neck supple, JVP 
+10cm
+at 45cm
+Cardiac: RRR, +S1S2 w/ ___ systolic ejection murmur heard best 
+at
+LUSB
+Respiratory: CTAB. good effort. no c/w/r
+Abdomen: Obese, soft, NT, ND, normoactive BS.
+Extremities: 1+ peripheral edema in ___ b/l dry & cracked skin
+noted throughout site of prior skin biopsy on right heel c/d/i,
+WWP. Right foot dusky in coloration, pulses present bilaterally. 
+subcutaneous nodules on R calf and shin. non ttp.
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 10:55PM BLOOD WBC-9.3 RBC-3.36* Hgb-10.2* Hct-32.0* 
+MCV-95 MCH-30.4 MCHC-31.9* RDW-13.2 RDWSD-45.8 Plt ___
+___ 10:55PM BLOOD Neuts-69.1 ___ Monos-7.7 Eos-1.8 
+Baso-0.6 Im ___ AbsNeut-6.38* AbsLymp-1.88 AbsMono-0.71 
+AbsEos-0.17 AbsBaso-0.06
+___ 10:55PM BLOOD Glucose-88 UreaN-31* Creat-1.3* Na-135 
+K-5.2* Cl-99 HCO3-23 AnGap-13
+___ 06:35AM BLOOD ALT-7 AST-12 LD(LDH)-142 AlkPhos-54 
+TotBili-0.4
+___ 10:55PM BLOOD Calcium-9.5 Phos-4.1 Mg-1.9
+
+DISCHARGE LABS:
+===============
+___ 05:40AM BLOOD WBC-6.4 RBC-3.49* Hgb-10.6* Hct-33.1* 
+MCV-95 MCH-30.4 MCHC-32.0 RDW-13.2 RDWSD-45.2 Plt ___
+___ 05:40AM BLOOD Glucose-90 UreaN-18 Creat-0.8 Na-137 
+K-4.1 Cl-100 HCO3-27 AnGap-10
+
+IMAGING:
+========
+Echocardiogram ___:
+The left atrium is elongated. The right atrium is markedly 
+dilated. No atrial septal defect is seen by 2D or color Doppler. 
+There is moderate symmetric left ventricular hypertrophy. The 
+left ventricular cavity size is normal. Regional left 
+ventricular wall motion is normal. Overall left ventricular 
+systolic function is normal (LVEF>55%). Tissue Doppler imaging 
+suggests a normal left ventricular filling pressure 
+(PCWP<12mmHg). Right ventricular chamber size and free wall 
+motion are normal. The aortic root is mildly dilated at the 
+sinus level. The ascending aorta is mildly dilated. The aortic 
+arch is moderately dilated. The aortic valve leaflets (3) are 
+mildly thickened but aortic stenosis is not present. The mitral 
+valve appears structurally normal with trivial mitral 
+regurgitation. There is no mitral valve prolapse. Mild (1+) 
+mitral regurgitation is seen. The pulmonary artery systolic 
+pressure could not be determined. There is no pericardial 
+effusion. 
+
+IMPRESSION: Moderate symmetric left ventricular hypertrophy with 
+preserved global and regional biventricular systolic function. 
+Mild-moderately dilated thoracic aorta. Mild mitral 
+regurgitation.  
+
+MICROBIOLOGY:
+==============
+None
+
+ 
+Brief Hospital Course:
+Information for Outpatient Providers: ___ for 
+Admission:
+===============================
+___ w/ HTN, a-fib (on Xarelto/proafenone), and prior PE, who had 
+spent the last 5 weeks hospitalized at ___ (over 3 
+hospitalizations) for R>LLE swelling with an extensive but 
+inconclusive workup, who now returns for ongoing RLE redness & 
+pain and continued b/l ___ swelling. 
+
+# ___ swelling: 
+We feel that his lower extremity swelling is multifactorial. He 
+likely had cellulitis/panniculitis during his ___ admission 
+and based my clinical exam and my review of the recent MRI at 
+___, he still has some edema in the posterior superficial 
+fascial compartment of the leg. Despite this persistent 
+swelling, he has no clinical evidence of systemic inflammatory 
+response and - in light of his excellent micro workup at ___ 
+___ - clinical suspicion for ongoing deep tissue infection is 
+low. He was also on amlodipine, and may have had edema as a side 
+effect of this. Although his TTE was fairly normal, BNP of 1400 
+suggests a contribution of diastolic heart failure; he was 
+started on Lasix 20 mg daily. 
+
+# Acute-on-chronic diastolic heart failure
+As above, I suspect that this ___ with pedal edema and 
+elevated BNP has mild heart failure (although he has no 
+appreciable left-sided CHF symptoms). TTE obtained this 
+hospitalization demonstrated normal overall left ventricular 
+systolic function (LVEF>55%). He was started on Lasix 20 mg 
+daily. 
+
+# HTN: ___ amlodipine was stopped. ___ blood 
+pressure was stable off this medication. He continues on 
+diltiazem.
+
+Chronic Issues Pertinent to Admission:
+======================================
+
+# Paroxysmal Atrial Fibrillation: CHADSVASC 3. ___ continued 
+Diltiazem, Propafenone and Rivaroxaban.
+# H/o PE:continued rivaroxaban.
+# HLD:Continued home statin.
+
+Transitional Issues:
+=====================
+[ ] MEDICATION CHANGES:
+- start taking Lasix 20 mg daily
+- STOP taking amlodipine
+[ ] Follow up with PCP ___ at 2:30PM)
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rivaroxaban 20 mg PO DAILY 
+2. Simvastatin 20 mg PO QPM 
+3. LORazepam 0.5 mg PO DAILY:PRN anxiety 
+4. Ibuprofen 800 mg PO Q8H:PRN Pain - Moderate 
+5. Diltiazem Extended-Release 240 mg PO DAILY 
+6. amLODIPine 5 mg PO DAILY 
+7. Propafenone HCl 150 mg PO TID 
+
+ 
+Discharge Medications:
+1.  Furosemide 20 mg PO DAILY edema 
+RX *furosemide 20 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0 
+2.  Diltiazem Extended-Release 240 mg PO DAILY  
+3.  Ibuprofen 800 mg PO Q8H:PRN Pain - Moderate  
+4.  LORazepam 0.5 mg PO DAILY:PRN anxiety  
+5.  Propafenone HCl 150 mg PO TID  
+6.  Rivaroxaban 20 mg PO DAILY  
+7.  Simvastatin 20 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis
+lower extremity edema
+
+Primary Diagnosis
+lower extremity edema
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+Thank you for choosing to receive your care at ___.
+
+Why did you come to ___?
+-You came to ___ for evaluation of the swelling in your legs.
+
+What did we do for you while you were at ___?
+While you were in the hospital we checked labs and monitored for 
+fevers. You did not have any fevers and your labs did not look 
+like there was an infection. We also got an ultrasound of your 
+heart called an echocardiogram which some minor changes but 
+overall your heart function was stable. You were started on 
+Lasix (a water pill) 20mg daily for management of the edema in 
+your symptoms.
+
+What should you did once you leave the hospital?
+You should continue taking your medications including your new 
+prescription. You should follow up with your primary care 
+provider within ___ week of discharge from the hospital.
+
+Please see a list of your medications below.
+
+We wish you the best in feeling better.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

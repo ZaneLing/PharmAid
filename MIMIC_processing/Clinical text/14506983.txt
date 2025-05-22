@@ -1,0 +1,250 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+codeine
+ 
+Attending: ___
+ 
+Chief Complaint:
+Elevated Troponin, Transfer 
+ 
+Major Surgical or Invasive Procedure:
+Cardiac Catheterization ___
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ with PMH of asthma, anxiety, obesity s/p 
+cosmetic abdominoplasty, hyperlipidemia who presented to ___ 
+ED with chest and jaw pain, found to have elevated troponin now 
+s/p cardiac catheterization found to have no CAD but possible 
+microvascular disease. 
+
+Patient noted sudden onset of left sided jaw and shoulder pain 
+radiating to her back, which wake her from sleep at 
+approximately 2am. She reported associated nausea, but denied 
+dyspnea or diaphoresis. She reports no associated with exertion, 
+nor change in character with inhalation. She presented to OSH ED 
+where she was evaluated with CXR which was normal and CTA neck 
+which showed no evidence of dissection. Labs were notable for 
+troponin 0.036, CK 2894, MB 44.6. She was given SL NTG with 
+improvement, started on heparin and transferred to ___ ED for 
+further management.  
+
+In the ED initial vitals were: 98.4 71 140/88 14 97% RA  
+Labs/studies notable for: troponin 0.02, PTT 141.2 
+ECG: NSR, HR 62, NA, NI, no STE (unchanged from prior)
+Patient was given: heparin 1000U IV gtt, nitro gtt 
+Vitals on transfer: 98 58 118/66 14 100% RA 
+
+Patient was taken for cardiac catheterization in consultation 
+with ___ Cardiology and was found to have no angiographically 
+apparent CAD, but evidence of microvascular dysfunction. 
+ 
+Past Medical History:
+Asthma
+Anxiety
+Obesity s/p cosmetic abdominoplasty
+Hyperlipidemia 
+ 
+Social History:
+___
+Family History:
+- father: cancer
+- maternal grandmother: hyperlipidemia
+- mother: CAD/PVD, breast cancer, diabetes, hyperlipidemia  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: Mild tenderness over left jaw. NCAT. Sclera anicteric. 
+PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the 
+oral mucosa. No xanthelasma.  
+NECK: Supple with JVP of <8 cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No murmurs/rubs/gallops. No thrills, 
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE PHYSICAL EXAM: 
+VS: T 98 BP 133/73 HR 59 RR 18 O2 SAT 98% RA
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: Mild tenderness over left jaw. NCAT. Sclera anicteric. 
+PERRL, EOMI. Conjunctiva were pink, no pallor or cyanosis of the 
+oral mucosa. No xanthelasma.  
+NECK: Supple with JVP of <8 cm.  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RR, normal S1, S2. No murmurs/rubs/gallops. No thrills, 
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+ 
+Pertinent Results:
+ADMISSION LABS: 
+___ 07:25AM BLOOD WBC-6.3 RBC-4.23 Hgb-13.2 Hct-39.8 MCV-94 
+MCH-31.2 MCHC-33.2 RDW-11.8 RDWSD-40.7 Plt ___
+___ 07:25AM BLOOD Neuts-47.5 ___ Monos-5.5 Eos-3.0 
+Baso-0.3 Im ___ AbsNeut-3.00 AbsLymp-2.75 AbsMono-0.35 
+AbsEos-0.19 AbsBaso-0.02
+___ 07:25AM BLOOD ___ PTT-141.2* ___
+___ 07:25AM BLOOD Glucose-104* UreaN-17 Creat-0.7 Na-137 
+K-4.0 Cl-101 HCO3-24 AnGap-16
+___ 07:25AM BLOOD CK(CPK)-2948*
+___ 07:25AM BLOOD CK-MB-40* MB Indx-1.4
+___ 07:25AM BLOOD cTropnT-0.03*
+___ 07:25AM BLOOD Calcium-9.0 Phos-3.5 Mg-2.1
+
+PERTINENT INTERVAL LABS: 
+___ 04:25AM BLOOD CK(CPK)-1766*
+___ 04:25AM BLOOD CK-MB-16* MB Indx-0.9 cTropnT-0.02*
+___ 02:45AM BLOOD %HbA1c-5.4 eAG-108
+
+DISCHARGE LABS: 
+___ 04:25AM BLOOD WBC-5.2 RBC-4.18 Hgb-13.2 Hct-39.2 MCV-94 
+MCH-31.6 MCHC-33.7 RDW-11.9 RDWSD-40.8 Plt ___
+___ 04:25AM BLOOD Glucose-97 UreaN-13 Creat-0.7 Na-137 
+K-4.1 Cl-100 HCO3-28 AnGap-13
+___ 04:25AM BLOOD Calcium-9.1 Phos-4.7* Mg-2.0
+
+IMAGING/STUDIES: 
+
+TTE ___
+The left atrial volume index is normal. No atrial septal defect 
+is seen by 2D or color Doppler. The estimated right atrial 
+pressure is ___ mmHg. Mild symmetric left ventricular 
+hypertrophy with normal cavity size, and regional/global 
+systolic function (3D LVEF = 62 %). Transmitral and tissue 
+Doppler imaging suggests normal diastolic function, and a normal 
+left ventricular filling pressure (PCWP<12mmHg). There is no 
+ventricular septal defect. Right ventricular chamber size and 
+free wall motion are normal. The diameters of aorta at the 
+sinus, ascending and arch levels are normal. The aortic valve 
+leaflets (3) appear structurally normal with good leaflet 
+excursion and no aortic stenosis. Trace aortic regurgitation is 
+seen. The mitral valve appears structurally normal with trivial 
+mitral regurgitation. There is no mitral valve prolapse. The 
+estimated pulmonary artery systolic pressure is normal. There is 
+no pericardial effusion. 
+IMPRESSION: Mild symmetric left ventricular hypertrophy with 
+preserved regional and global biventricular systolic function.
+CLINICAL IMPLICATIONS: Based on ___ AHA endocarditis 
+prophylaxis recommendations, the echo findings indicate 
+prophylaxis is NOT recommended. Clinical decisions regarding the 
+need for prophylaxis should be based on clinical and 
+echocardiographic data.  
+
+CARDIAC CATH ___: 
+Dominance: Right
+The LMCA, LAD, Cx and RCA had no angiographically apparent CAD. 
+There was evidence of microvascular dysfunction.
+Impressions: 1. No epicardial coronary disease.
+ 
+Brief Hospital Course:
+___ with PMH of asthma, anxiety, obesity s/p cosmetic 
+abdominoplasty, hyperlipidemia who presented to ___ ED with 
+chest and jaw pain, found to have elevated troponin to 0.036 
+without ECG changes. She was evaluated with cardiac 
+catheterization which showed no epicardial coronary disease, but 
+some possible microvascular dysfunction. TTE showed some mild 
+symmetric LVH but otherwise no evidence of ventricular or 
+valvular dysfunction. Hgb A1c was within normal limits. The 
+patient was started on amlodipine 2.5mg daily for treatment of 
+possible microvascular induced vasospasm. 
+
+The patient reported some persistent jaw pain which was 
+suspected to be musculoskeletal, perhaps exacerbated by recent 
+stressors. She was treated with NSAIDs and home alprazolam with 
+improvement. She was noted to have slightly elevated CK, which 
+thought to be related to her myocardial injury vs. her 
+musculoskeletal strain. CK downtrending spontaneously. 
+
+Transitional Issues
+- f/u with PCP for further management and cardiac optimization. 
+- Patient with slight CK elevation while hospitalized to 1766 at 
+discharge, possibly related to MSK jaw strain symptoms vs. small 
+myocardial injury due to vasospasm. Recommend repeat CK after 
+discharge and start statin for cardioprotective benefit and for 
+treatment of hyperlipidemia
+- Continue to monitor BP given initiation of low dose amlodipine 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN cough, wheeze 
+2. Venlafaxine XR 150 mg PO DAILY 
+3. ALPRAZolam 1 mg PO QHS sleep, anxiety 
+4. beclomethasone dipropionate 40 mcg/actuation inhalation BID 
+5. Multivitamins 1 TAB PO DAILY 
+6. Calcium with Vitamin D (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral DAILY 
+7. phentermine 15 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 2.5 mg PO DAILY 
+RX *amlodipine 2.5 mg 1 tablet(s) by mouth every day Disp #*30 
+Tablet Refills:*0 
+2.  Albuterol Inhaler 2 PUFF IH Q6H:PRN cough, wheeze  
+3.  ALPRAZolam 1 mg PO QHS sleep, anxiety  
+4.  beclomethasone dipropionate 40 mcg/actuation inhalation BID  
+
+5.  Calcium with Vitamin D (calcium carbonate-vitamin D3) 600 
+mg(1,500mg) -400 unit oral DAILY  
+6.  Multivitamins 1 TAB PO DAILY  
+7.  phentermine 15 mg oral DAILY  
+8.  Venlafaxine XR 150 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS: musculoskeletal strain, microvascular disease 
+of the coronaries arteries 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+Thank you for allowing us to participate in your care at ___! 
+You were admitted to the hospital with chest pain. We evaluated 
+you with a cardiac catheterization which showed that you may 
+have some evidence of microvascular dysfunction in the small 
+arteries which supply your heart with blood. We started you on a 
+medicine called amlodipine to prevent spasm of these arteries. 
+
+We also believe that some of your jaw and shoulder pain may be 
+related to strained muscles, perhaps from clenching your teeth. 
+You may continue to take NSAIDs for this pain. 
+
+Please follow up with your primary care doctor in ___ weeks 
+after discharge for further monitoring. 
+
+We wish you the best!
+Sincerely, 
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

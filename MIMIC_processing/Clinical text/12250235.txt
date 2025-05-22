@@ -1,0 +1,292 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+fall, SAH
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ with hx of COPD, Alzhemer dementia, atrial fib not on 
+coumadin, recent recent M2 stroke (___), severe AS presented to 
+___ from ___ for unwitnessed fall and traumatic SAH. 
+History is difficult to gather secondary to dementia, 
+enecephalopathy. Per granddaughter, patient was generally 
+functional even 1 month ago (driving) before having a stroke on 
+___ presenting with left sided weakness. Stroke was thought to 
+be embolic from afib not on AC. Pt has had 3 falls at rehab, 
+including this one which was unwitnessed. Per patient, she was 
+walking to bathroom when fell backwards. Denies LOC, denies 
+chest pain, fever, shortness of breath, and palpitations. Per 
+granddaughter, patient is known to sundown after lunch. 
+
+In the ED, initial vitals:  97.8 102 106/53 18 95% RA 
+- Labs notable for: Cr 1.3->1.1, trop <0.01
+- Imaging notable for:
+Unremarkable CT spine and CT Abd/Pelvis at OSH
+CXR: No acute cardiopulmonary abnormality.
+CT head: 
+ 1. Mild persistent soft tissue swelling identified in the right 
+parietal  convexity. 
+ 2. Stable small subarachnoid hemorrhage within right posterior 
+parietal lobe,  probably posttraumatic in nature. 
+ 3. There is no evidence of new intracranial hemorrhage. 
+ 4. Expected layering of small left intraventricular hemorrhage. 
+
+ 5. Chronic changes 
+
+- Pt given: 
+___ 09:34 IV CeftriaXONE 1 g 
+___ 20:03 PO/NG Atorvastatin 40 mg  
+___ 22:02 PO OLANZapine (Disintegrating Tablet) 5 mg 
+___ 01:18 PO OLANZapine (Disintegrating Tablet) 5 mg 
+___ 11:30 IV CeftriaXONE 1 gm ___ Stopped  
+___ 11:30 IVF  NS  125 mL/hr 
+
+- Vitals prior to transfer:  98.9 89 94/65 16 94% RA 
+NSG consulted: 
+ - Hold aspirin 325mg x 1 week
+ - SBP < 160
+ - No keppra
+ - No neurosurgery follow-up indicated
+ - ___ follow up in ___ clinic if necessary
+
+On arrival to the floor, pt attempts to recount above story but 
+is at times distracted. Her long term memory seems much more 
+intact than short term. 
+
+ 
+Past Medical History:
+COPD, Alzhemer dementia, atrial fib not on coumadin, recent 
+recent M2 stroke (___), Aortic Stenosis
+ 
+Social History:
+___
+Family History:
+not reliably obtained, per ___ notes, noncontributory 
+ 
+Physical Exam:
+ADMISSION
+Vitals:  98.1 PO 110 / 70 96 20 92 Ra 
+General: Alert, oriented to self only, no acute distress, 
+pleasant
+HEENT: Sclerae anicteric, dry MM, oropharynx with only top row 
+of dentures
+Neck: supple, JVP not elevated, no LAD  
+Lungs: CTAB, poor air movement
+CV: ___  
+Abdomen: soft, NT/ND bowel sounds present, no rebound tenderness 
+or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CN2-12 intact, strength intact ___ UEs/LEs, FTN intact
+
+DISCHARGE
+Vitals:  97.7PO 148 / 95 83 16 95 RA 
+General: Alert, oriented to self only, no acute distress, 
+pleasant
+HEENT: Sclerae anicteric, MMM, oropharynx with only top row of 
+dentures
+Neck: supple, JVP not elevated, no LAD  
+Lungs: CTAB, poor air movement
+CV: ___  
+Abdomen: soft, NT/ND bowel sounds present, no rebound tenderness 
+or guarding, no organomegaly  
+GU: no foley  
+Ext: warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: CN2-12 intact, strength intact ___ UEs/LEs, FTN intact
+ 
+Pertinent Results:
+ADMISSION
+___ 05:23AM BLOOD WBC-8.3 RBC-4.22 Hgb-13.0 Hct-39.9 MCV-95 
+MCH-30.8 MCHC-32.6 RDW-12.4 RDWSD-42.9 Plt ___
+___ 05:23AM BLOOD Neuts-78.9* Lymphs-12.0* Monos-6.5 
+Eos-1.7 Baso-0.4 Im ___ AbsNeut-6.58* AbsLymp-1.00* 
+AbsMono-0.54 AbsEos-0.14 AbsBaso-0.03
+___ 05:23AM BLOOD ___ PTT-25.6 ___
+___ 05:23AM BLOOD Glucose-118* UreaN-24* Creat-1.3* Na-138 
+K-4.4 Cl-99 HCO3-27 AnGap-16
+___ 05:23AM BLOOD cTropnT-<0.01
+___ 06:00AM BLOOD Calcium-9.2 Phos-3.4 Mg-2.3
+
+DISCHARGE
+___ 05:50AM BLOOD WBC-5.3 RBC-3.74* Hgb-11.6 Hct-35.8 
+MCV-96 MCH-31.0 MCHC-32.4 RDW-12.4 RDWSD-43.2 Plt ___
+___ 05:50AM BLOOD Glucose-105* UreaN-24* Creat-1.2* Na-140 
+K-3.6 Cl-100 HCO3-29 AnGap-15
+
+CXR ___
+No acute cardiopulmonary abnormality. 
+Although no acute fracture or other chest wall lesion is seen, 
+conventional chest radiographs are not sufficient for detection 
+or characterization of most such abnormalities. If the 
+demonstration of trauma to the chest wall is clinically 
+warranted,  the location of any referrable focal findings  
+should be clearly marked and imaged with either bone detail 
+radiographs or Chest CT scanning. 
+
+CT Head ___.  Mild persistent soft tissue swelling identified in the right 
+parietal 
+convexity. 
+2.  Stable small subarachnoid hemorrhage within right posterior 
+parietal lobe, 
+probably posttraumatic in nature. 
+3.  There is no evidence of new intracranial hemorrhage. 
+4.  Expected layering of small left intraventricular hemorrhage. 
+
+5.  Chronic changes as above. 
+
+Previous imaging in ___ records reviewed
+
+ 
+Brief Hospital Course:
+___ with hx of COPD, Alzhemer dementia, atrial fib not on 
+coumadin, recent recent M2 stroke (___), severe AS presented to 
+___ from SNF for unwitnessed fall and traumatic SAH. 
+Neurosurgery recommended holding aspirin for 7 days. Patient was 
+admitted in setting of altered mental status. She was started on 
+standing 7PM olanzapine to normalize sleep-wake schedule and 
+prevent delirium. 
+
+#Toxic-Metabolic Encephalopathy
+#Alzheimer's Dementia
+#Recent CVA
+#Concussion
+#___
+Patient with multiple causes for altered mental status. Her CT 
+scan and exam are reassuring that this was not a new CVA. I 
+suspect the combination of recent stroke in setting of 
+___'s dementia had already set her mental status back. Now 
+with addition of head trauma and SAH, she became more 
+confused/lethargic. She became more alert throughout her 
+hospital course although was oriented only to self and had poor 
+safety awareness. Her aspirin should be restarted ___. Her 
+donepezil was held to avoid any anticholinergic side effects. 
+Atorvastatin was continued. Olanzapine 2.5mg was started q7PM, 
+but should be attempted to be weaned off as mental status 
+improves. On day of discharge, pt had no complaints. 
+
+# Fall, ?syncope
+Patient with unwitnessed fall(s) at rehab. She denied LOC and 
+any alarm symptoms, including no chest pain, palpitations, or 
+shortness of breath. Fall is likely due to recovery from stroke 
+and poor self/safety awareness. Troponin negative. CXR without 
+infection. Recent TTE with AS. Consider further cardiology 
+follow up, if intervention would be within patient and family 
+goals. Patient is asymptomatic. 
+
+# UTI: She was treated with ceftriaxone 1g q24h x5 days
+
+#COPD: continued home inhalers, used formulary substitute for 
+symbicort
+
+#HTN: Held lisinopril in setting of normotension
+
+#CODE: DNR/DNI per her granddaughter (HCP); ___ discussed over 
+phone and confirmed DNR/DNI by ___, witnessed by Drs. 
+___. 
+#COMMUNICATION: granddaughter ___ ___ 
+
+TRANSITIONAL ISSUES
+===================
+- Consider stopping olanzapine q7PM as mental status improves
+- Restart aspirin ___
+- Donepezil held I/s/o delirium; consider restarting if 
+improving
+- Restart Lisinopril 10mg if she becomes persistently 
+hypertensive
+- Encourage normal sleep/wake cycle
+- Delirium precautions
+- Continue physical therapy, occupational therapy for fall 
+safety
+- Consider repeat TTE vs cardiology follow for recent 
+___ TTE with aortic stenosis
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Tiotropium Bromide 1 CAP IH DAILY 
+2. Lisinopril 10 mg PO DAILY 
+3. Donepezil 5 mg PO QHS 
+4. Aspirin 325 mg PO DAILY 
+5. Atorvastatin 40 mg PO QPM 
+6. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+7. Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation BID 
+8. Cetirizine 10 mg PO DAILY 
+9. Senna 8.6 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  OLANZapine (Disintegrating Tablet) 2.5 mg PO Q7PM  
+2.  Acetaminophen 650 mg PO TID  
+3.  Atorvastatin 40 mg PO QPM  
+4.  Cetirizine 10 mg PO DAILY  
+5.  Senna 8.6 mg PO DAILY  
+6.  Symbicort (budesonide-formoterol) 80-4.5 mcg/actuation 
+inhalation BID  
+7.  Tiotropium Bromide 1 CAP IH DAILY  
+8. HELD- Aspirin 325 mg PO DAILY  This medication was held. Do 
+not restart Aspirin until ___. HELD- Donepezil 5 mg PO QHS  This medication was held. Do not 
+restart Donepezil until your doctor tells you to restart this
+10. HELD- Lisinopril 10 mg PO DAILY  This medication was held. 
+Do not restart Lisinopril until your doctor tells you to restart 
+this
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Fall
+Subarachnoid Hemorrhage 
+Toxic-Metabolic Encephalopathy
+Urinary Tract Infection
+ 
+Discharge Condition:
+Mental Status: Confused - always.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+You were admitted to ___ after a fall and hitting your head. 
+You were found to have small bleed around your brain. The 
+neurosurgeons evaluated you and held your aspirin. 
+
+WHAT WAS DONE
+=============
+- You were treated for a urinary tract infection
+- You were rehydrated with intravenous fluids
+- You worked with physical therapy
+
+WHAT TO DO NEXT
+===============
+- Restart your aspirin on ___
+- Take all your medications as prescribed
+- Follow up with your doctors as needed
+
+Wishing you the best of health moving forward,
+Your ___ team
+ 
+Followup Instructions:
+___

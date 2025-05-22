@@ -1,0 +1,217 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+shellfish derived / oranges, sesame, soy,chicken, ragweed, mold, 
+cats, dogs, pollen, horse hair / lisinopril
+ 
+Attending: ___
+ 
+Chief Complaint:
+Mouth Pain
+ 
+Major Surgical or Invasive Procedure:
+na
+
+ 
+History of Present Illness:
+This is a ___ yo M with stage III lung adenocarcinoma on 
+neo-adjuvant chemo who presents with mouth pain, sinus pressure, 
+and leg weakness.
+
+Per patient, has had progressive mouth pain since 5 days prior 
+to presentation, starting about 3 days after his ___ cycle of 
+chemotherapy. Started in posterior oropharynx and progressed to 
+roof of mouth. Has pain with eating, but no difficulty 
+swallowing. No fevers, chills, N/V, abd pain, or associated 
+changes in BM's. Able to take po's despite pain.
+
+Other problem is sinus pressure and post-nasal drip, which he 
+attributes to allergies. Taking Zyrtec. Symptoms are improving.
+
+Other problem is bilateral anterior thigh discomfort for past 
+few days. Describes as dull pain. Patient states that it mostly 
+bothers him when he moves, but intact strength, able to 
+ambulate, no changes in sensation or overlying skin changes. No 
+other muscle groups involved.
+
+On arrival to the floor, patient is fatigues but otherwise well. 
+ 
+
+REVIEW OF SYSTEMS:  Negative except per HPI
+ 
+Past Medical History:
+PAST ONCOLOGIC HISTORY 
+Oncology for T1N2M0 Stage IIIA NSCLC adenocarcinoma.  
+- ___:  Wheezing, cough, SOB concerning for PNA. 
+Unresponsive to treatment.
+- ___:  Abnormal CXR --> CT Chest showing spiculated right
+upper lobe nodule measuring 2.5 x 1.6 x 2.1 cm. Additional small
+nodules were seen in the RML, RLL and LLL.
+- ___:  PET noted a 2.7 cm right apical nodule FDG avid (SUV
+4.8), a 1.8 cm avid (SUV 4.0) subcarinal node
+- ___:  Brain MRI with no intracranial lesions, concern for
+small lesion in C3 vertebral body
+- ___:  MRI C-spine shows benign sclerotic lesion in C3
+- ___:  Bronchoscopy with TBNA.  Pathology shows NSCLC, 
+TTF-1
+positive and p63 negative (c/w adenocarcinoma), positive LN at 
+7,
+4R, 11R.
+- ___:  neoadjuvant chemotherapy with cisplatin/pemetrexed
+ 
+PAST MEDICAL HISTORY: 
+CVA in ___
+diabetes mellitus type 2
+GERD
+hyperlipidemia 
+status post excision of vocal cord nodules 
+ 
+ 
+Social History:
+___
+Family History:
+Mother: pancreatic ca, ___ Dr ___: prostate ca, cardiomyopathy ___ inhaled steroids 
+Cancers in the family:  
+- sister died of metastatic CR cancer 
+- brother colon cancer, thrombotic events post-op ___ Factor V 
+___, disabled living in ___ housing
+- brother prostate ca, ___ Dr ___ and clotting disorders in the family:  brother and 
+sister Factor V ___
+- Patient has been checked, no FVL (per his report)
+  
+ 
+Physical Exam:
+VS:  98.8, 134/80, 95, 20, 94% RA
+GENERAL: NAD  
+HEENT:  mild erythema of hard palate, no ulcers/lesions, thrush, 
+or tonsillar exudates
+CARDIAC:  RRR, no murmurs
+LUNG:   CTAB
+ABD:  soft, NT, ND, normal BS
+EXT:  No edema, strength intact, no change in sensation over 
+anterior thigh
+PULSES:  2+
+NEURO:  nonfocal
+SKIN:  dry, no rashes
+ 
+Pertinent Results:
+___ 08:49PM BLOOD WBC-9.7 RBC-4.34* Hgb-12.7* Hct-38.5* 
+MCV-89 MCH-29.3 MCHC-33.0 RDW-12.4 RDWSD-40.4 Plt ___
+___ 08:49PM BLOOD Glucose-226* UreaN-18 Creat-0.9 Na-137 
+K-4.5 Cl-97 HCO3-28 AnGap-17
+___ 08:49PM BLOOD Calcium-8.8 Phos-2.5* Mg-1.5*
+___ 09:02PM BLOOD Lactate-2.1*
+ 
+Brief Hospital Course:
+___ w/ ___ p/w mouth pain, sinus pressure, and leg weakness.
+
+# Mouth Pain
+This is most likely thrush as had small white patches on the 
+outer edges of his tongue, with possible mucositis. This is 
+improving spontaneously with magic mouthwash and was started on 
+nystatin swish and swallow. 
+
+# Sinus Pressure
+Likely allergic sinusitis. No focal deficits or symptoms to 
+suggest CNS disease. Continue Zyrtec and Flonase. 
+
+# Leg weakness
+This is a subjective Likely mild myopathy versus deconditioning. 
+CK is normal. Instructed to hold off on taking his simvastatin 
+for the next week while he convalesces. In addition, he has 
+hypomagnasemia and was discharged on a higher dose of his home 
+magnesium. 
+ 
+# IDDM: Continue home insulin. Patient takes above recommended 
+daily dose of Lantus, so U-500 may be more effective for him.
+
+# NSCLC: will f/u w/ Dr ___ Dr ___
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Cetirizine 10 mg PO DAILY 
+2. FoLIC Acid 1 mg PO DAILY 
+3. Glargine 110 Units Bedtime
+Insulin SC Sliding Scale using HUM InsulinMax Dose Override 
+Reason: this is what patient takes at home
+
+4. Victoza 3-Pak (liraglutide) 0.6 mg/0.1 mL (18 mg/3 mL) 
+subcutaneous DAILY 
+5. MetFORMIN (Glucophage) 1000 mg PO BID 
+6. Omeprazole 20 mg PO BID 
+7. Simvastatin 40 mg PO QPM 
+8. Aspirin 81 mg PO DAILY 
+9. Cyanocobalamin 500 mcg PO DAILY 
+10. Fluticasone Propionate NASAL 1 SPRY NU BID 
+11. Magnesium Oxide 280 mg PO BID 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Cetirizine 10 mg PO DAILY 
+3. Fluticasone Propionate NASAL 1 SPRY NU BID 
+4. FoLIC Acid 1 mg PO DAILY 
+5. Glargine 110 Units Bedtime
+Insulin SC Sliding Scale using HUM InsulinMax Dose Override 
+Reason: this is what patient takes at home
+
+6. Magnesium Oxide 800 mg PO BID 
+RX *magnesium oxide 400 mg 2 tablet(s) by mouth twice a day Disp 
+#*40 Tablet Refills:*0
+7. MetFORMIN (Glucophage) 1000 mg PO BID 
+8. Omeprazole 20 mg PO BID 
+9. Maalox/Diphenhydramine/Lidocaine ___ mL PO PRN mouth pain 
+10. Nystatin Oral Suspension 5 mL PO QID 
+RX *nystatin 100,000 unit/mL 5 ml by mouth four times a day Disp 
+#*480 Milliliter Milliliter Refills:*0
+11. Cyanocobalamin 500 mcg PO DAILY 
+12. Victoza 3-Pak (liraglutide) 0.6 mg/0.1 mL (18 mg/3 mL) 
+subcutaneous DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Oral thrush/mucositis
+Myalgias
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you in the hospital. You were 
+found to have early thrush and were started on a medication to 
+help treat this. 
+
+For your muscle weakness, it is best you take a holiday from 
+taking the simvastatin for a week or two until you feel better. 
+You should discuss with your doctors about taking a supplement 
+for co-enzyme q10 which may help prevent the weakness and pain 
+caused by the cholesterol medication. 
+
+In addition, you had a low magnesium level and this may 
+contribute to your symptoms of muscle weakness. High magnesium 
+foods include dark leafy greens, nuts, seeds, fish, beans, whole 
+grains, avocados, yogurt, bananas, dried fruit, dark chocolate, 
+and more. Please take an increased dose of magnesium for the 
+next ___ days and have your doctors follow up on your magnesium 
+level and adjust your home supplement. Cut back on the dose if 
+it gives you diarrhea
+
+  
+ 
+Followup Instructions:
+___

@@ -1,0 +1,151 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodinated Contrast Media
+ 
+Attending: ___
+ 
+Pertinent Results:
+MICRO: 
+=====
+___ Blood cultures no growth at time of discharge x2
+
+IMAGING/OTHER STUDIES: 
+====================
+
+RUQ/US ___. Status post cholecystectomy.
+2. Mild intrahepatic biliary dilation as well as extrahepatic 
+biliary dilation
+with a CBD measuring up to 1.2 cm containing mobile stones. 
+While an
+obstructing stone is not definitely seen in the most distal CBD, 
+this is
+highly suspected.  ERCP/MRCP is recommended.
+
+ERCP ___ 
+Full report available upon request, notable for extraction of 
+multiple CBD stones and sphincterotomy. 
+
+SIGNIFICANT LABS: 
+==============
+___ 06:55AM BLOOD WBC-6.8 RBC-3.99 Hgb-12.2 Hct-37.8 MCV-95 
+MCH-30.6 MCHC-32.3 RDW-13.2 RDWSD-45.9 Plt ___
+___ 06:10PM BLOOD WBC-7.2 RBC-4.60 Hgb-14.0 Hct-43.4 MCV-94 
+MCH-30.4 MCHC-32.3 RDW-13.4 RDWSD-46.8* Plt ___
+___ 06:55AM BLOOD Glucose-69* UreaN-11 Creat-0.7 Na-144 
+K-4.6 Cl-106 HCO3-25 AnGap-13
+___ 06:10PM BLOOD Glucose-99 UreaN-23* Creat-0.9 Na-142 
+K-3.8 Cl-103 HCO3-23 AnGap-16
+___ 06:55AM BLOOD ALT-43* AST-31 AlkPhos-107* TotBili-0.4
+___ 06:10PM BLOOD ALT-112* AST-82* AlkPhos-147* TotBili-0.5
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ woman with history of HLD, SSS s/p 
+PPM, eosinophilic esophagitis, s/p CCY who presents with 
+abdominal pain and subjective fevers and chills.
+
+# Choledocholithiasis: 
+Patient with history of cholecystectomy for ?calcified 
+gallbladder. She presented on this admission with abdominal 
+pain, found to have elevated transaminases and 
+choledocholithiasis with associated biliary ductal dilatation. 
+She underwent ERCP on ___ with extraction of multiple CBD 
+stones and sphincterotomy with mild bleeding that resolved with 
+local epinephrine. Following her procedure, she noted full 
+resolution of her symptoms and tolerated advancement of diet 
+without any issues. She was instructed to hold her aspirin for 
+five days following sphincterotomy due to bleeding risks as per 
+ERCP team recommendations. 
+
+CHRONIC/STABLE PROBLEMS: 
+
+# Hyperlipidemia: - Statin held in setting of LFT elevation from 
+suspected choledocholithiasis. Recommend repeat LFTs as 
+outpatient and resumption of statin if normalized. 
+
+# SSS s/p PPM: Placed in ___. ___ model 5826. 
+
+# Grave's disease s/p thyroidectomy: - Continued levothyroxine
+
+# Eosinophilic esophagitis: - Continued omeprazole
+
+# Neuropathy: - Continued gabapentin 
+
+TRANSITIONAL ISSUES:
+==================
+[] recommend repeat LFTs as outpatient and resumption of statin 
+if normalized.
+[] patient instructed to hold aspirin 5d following procedure. 
+Can resume ___. 
+
+> 30 mins spent coordinating discharge. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Gabapentin 600 mg PO QHS 
+2. Omeprazole 20 mg PO BID 
+3. Fluticasone Propionate 110mcg 2 PUFF IH BID 
+4. Levothyroxine Sodium 88 mcg PO DAILY 
+5. Atorvastatin 20 mg PO QPM 
+6. Aspirin 81 mg PO DAILY 
+7. Vitamin D ___ UNIT PO DAILY 
+8. Ibuprofen 600 mg PO Q8H:PRN Pain - Mild 
+
+ 
+Discharge Medications:
+1.  Fluticasone Propionate 110mcg 2 PUFF IH BID  
+2.  Gabapentin 600 mg PO QHS  
+3.  Levothyroxine Sodium 88 mcg PO DAILY  
+4.  Omeprazole 20 mg PO BID  
+5.  Vitamin D ___ UNIT PO DAILY  
+6. HELD- Aspirin 81 mg PO DAILY  This medication was held. Do 
+not restart Aspirin for at least 5 days from your procedure due 
+to risk of bleed.
+7. HELD- Atorvastatin 20 mg PO QPM  This medication was held. Do 
+not restart Atorvastatin until discussed with your PCP.
+8. HELD- Ibuprofen 600 mg PO Q8H:PRN Pain - Mild  This 
+medication was held. Do not restart Ibuprofen until at least 
+five days after your procedure due to risk of bleeding. 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# choledocholithiasis: 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+
+It was a privilege to care for you at the ___ 
+___. You were admitted with abdominal pain secondary 
+to bile stones in your biliary tract. You had a procedure called 
+ERCP with removal of these stones and your symptoms improved. It 
+is now safe to be discharged home. You have some very mild 
+bleeding during the procedure so you should NOT take any blood 
+thinning medications, such as NSAIDs (e.g. ibuprofen) for the 
+next 5 days. 
+
+Please continue to take all medications as prescribed and follow 
+up with all appointments as detailed below. 
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team 
+ 
+Followup Instructions:
+___

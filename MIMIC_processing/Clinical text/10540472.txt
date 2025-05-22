@@ -1,0 +1,384 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Foamy urine, presented with elevated Cr from PCP's office
+ 
+Major Surgical or Invasive Procedure:
+___: Renal biopsy
+
+ 
+History of Present Illness:
+___ with history of lymphadenopathy was referred by her ___
+primary care physician for acute renal failure. 
+
+Patient reports first noticing "bubbles in my pee" for several
+months before mentioning this to her PCP at ___ visit in ___. She
+was then found to have proteinuria and over the next month and
+was undergoing a workup for this. This week she had labs drawn
+which exhibited a Cr of 6.32 (no prior baseline in ___). 
+
+Patient reports worsening DOE for last ___ weeks, noting that 
+she
+gets SOB when climbing the ___ flights of stairs up to her
+apartment. She also notes fatigue when walking an uphill portion
+of her commute before getting on the T, which is a departure 
+from
+the norm for her. Denies fevers, CP, cough. Denies n/v/abd
+pain/diarrhea. Denies leg swelling. Denies
+dysuria/hematuria/change in UOP. She reports rash across legs a
+few months ago that resolved.  Denies any new medications or
+NSAID use. Denies history of IVDU. 
+
+AT___ LABS 
+___
+- SPEP/UPEP in process
+- 138  108  47
+  --------------
+  3.7  17   6.32   
+- 16.5 > 8.3/25.5 < ___ 
+UA: 2+ protein, 1+ glucose
+Spot UPro/Cr: 1.29
+
+24H urine: 
+TOTAL PROTEIN QUANTITATIVE 24 HR (U) mg/dL  46 
+TOTAL PROTEIN 24 HR (U) <150 mg/day         828 (H) 
+PROTEIN/GRAM CREATININE (U) <200 mg/g creat 1220 (H) 
+CREATININE (U) 20.0 - 320.0 mg/dL           37.7 
+URINE VOLUME ___ mL                  1800 (H) 
+
+___ - A1c 5
+
+In the ED, initial VS were: 98.6 72 126/65 18 100% RA 
+
+Exam notable for: Trace edema, well appearing, no HSM
+
+Labs showed:
+
+14.5 > 8.3/25.5 < ___       AGap=18 
+------------< 101  
+3.4  16  5.7  
+Ca: 9.0 Mg: 2.5 P: 4.9
+LFT wnl, lipase 67
+Hapto pending
+
+Urine lytes 
+Na: 23
+Creat 69
+UA: trace blood, RBC 1, few bact, 30 protein
+
+Imaging showed:
++ Renal U/S
+Slightly increased cortical echogenicity compatible with medical
+renal disease. Otherwise no solid renal mass, hydronephrosis, or
+stone. 
+
+Patient received: n/a
+
+Renal was consulted and recommended admission for workup of her
+renal failure. 
+
+Transfer VS were: 98.5 69 118/63 18 100% RA
+
+On arrival to the floor, patient endorses this history above and
+otherwise has no acute complaints.
+
+REVIEW OF SYSTEMS:  
+10 point ROS reviewed and negative except as per HPI 
+ 
+
+ 
+Past Medical History:
+Varicose veins
+Lymphadenopathy 
+ 
+Social History:
+___
+Family History:
+No family history of kidney disease. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:  
+VS: 97.4 117/73 60 18 99% RA   
+GENERAL: Pleasant F in NAD, lying comfortably in bed during
+interview  
+HEENT: NCAT, MMM
+NECK: supple, no LAD, no JVD  
+HEART: RRR, no m/r/g  
+LUNGS: CTAB 
+ABDOMEN: Soft, NT/ND, BS+
+EXTREMITIES: WWP, no c/c/e
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+
+DISCHARGE PHYSICAL EXAM:  
+VS: 98.1PO 118 / 72 R Lying 65 17 95 RA     
+GENERAL: Pleasant F in NAD, lying comfortably, conversational
+HEENT: NCAT, MMM, PERRL, no icterus, poor dentition
+NECK: supple, no LAD, no JVD  
+HEART: RRR, no m/r/g  
+LUNGS: CTAB , no crackles noted
+ABDOMEN: Soft, NT/ND, BS+
+EXTREMITIES: WWP, no c/c/e, not volume overloaded
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 04:44PM URINE  BLOOD-TR* NITRITE-NEG PROTEIN-30* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 04:44PM URINE  RBC-1 WBC-0 BACTERIA-FEW* YEAST-NONE 
+EPI-0
+___ 04:44PM URINE  OSMOLAL-211
+___ 04:44PM   WBC-14.5* RBC-2.72* HGB-8.3* HCT-25.5* MCV-94 
+MCH-30.5 MCHC-32.5 RDW-14.2 RDWSD-48.4*
+___ 04:44PM   NEUTS-57 BANDS-0 ___ MONOS-3* EOS-3 
+BASOS-0 ___ MYELOS-0 AbsNeut-8.27* AbsLymp-5.37* 
+AbsMono-0.44 AbsEos-0.44 AbsBaso-0.00*
+___ 04:44PM   GLUCOSE-101* UREA N-41* CREAT-5.7* SODIUM-143 
+POTASSIUM-3.4 CHLORIDE-109* TOTAL CO2-16* ANION GAP-18*
+___ 04:44PM   ALT(SGPT)-8 AST(SGOT)-9 LD(LDH)-145 ALK 
+PHOS-99 TOT BILI-0.2
+___ 04:44PM   ALBUMIN-4.3 CALCIUM-9.0 PHOSPHATE-4.9* 
+MAGNESIUM-2.5
+
+PERTINENT LABS:
+___ 09:28PM   LD(LDH)-149
+___ 09:28PM   ALBUMIN-4.4
+___ 09:28PM   HAPTOGLOB-223*
+___ 09:28PM   HBsAg-NEG HBs Ab-NEG HBc Ab-NEG IgM HAV-NEG
+___ 09:28PM   ANCA-NEGATIVE B
+___ 09:28PM   ___
+___ 09:28PM   C3-119 C4-27
+___ 09:28PM   HIV Ab-NEG
+___ 09:28PM   HCV Ab-NEG
+___ 07:30AM BLOOD Ret Aut-1.5 Abs Ret-0.03
+___ 07:50AM BLOOD calTIBC-259* Hapto-210* Ferritn-123 
+TRF-199*
+___ 07:50AM BLOOD TSH-1.0
+___ 07:50AM BLOOD T4-7.6
+___ 09:28PM BLOOD ANTI-GBM-PND
+
+DISCHARGE LABS:
+___ 08:00AM BLOOD WBC-20.6* RBC-3.11* Hgb-9.2* Hct-28.5* 
+MCV-92 MCH-29.6 MCHC-32.3 RDW-13.9 RDWSD-46.5* Plt ___
+___ 08:00AM BLOOD Plt ___
+___ 08:00AM BLOOD Calcium-8.9 Phos-4.2 Mg-1.9
+
+PERTINENT IMAGING/STUDIES
+
+___ Renal US
+Slightly increased cortical echogenicity compatible with medical 
+renal 
+disease.  Otherwise no solid renal mass, hydronephrosis, or 
+stone. 
+
+___ CXR
+There are no prior chest radiographs available for review. 
+Lungs are fully expanded and clear.  Cardiac and hilar 
+silhouettes and pleural surfaces are normal.  The trachea is 
+deviated markedly to the right in the lower neck down to the 
+thoracic inlet, and narrowed at least slightly, by what is 
+usually an enlarged thyroid.  Clinical correlation advised. 
+
+___ Renal Bx
+PATHOLOGIC DIAGNOSIS:
+KIDNEY (LEFT), CORE BIOPSY:
+CHRONIC ACTIVE INTERSTITIAL NEPHRITIS, SEE NOTE.
+
+___ CT A/P
+1. Small left perinephric hematoma status post renal biopsy.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with no significant PMH who 
+presents with foamy urine for one month and new dyspnea with 
+exertion. She was found ot be in acute renal failure with no 
+emergent need for dialysis.
+
+ACUTE ISSUES:
+=============
+#Acute renal failure
+#Chronic tubulointerstitial nephritis
+#Anion gap metabolic acidosis: 
+Ms. ___ had an admission Creatinine of 6.3, although it is 
+unclear what her prior baseline creatinine is. Her anion gap was 
+18. She had no evidence of hypervolemia or uremia on exam. Her 
+complement levels were normal, ___, ANCA, HBV/HC serologies, and 
+HIV were all negative. She had a renal biopsy performed on 
+___ which showed chronic interstitial nephritis with 
+significant tubular damage. It was thought that her renal 
+disease is likely related to a drug or medication she has taken 
+in the past, although the specific medication is unclear 
+(patient reported history of taking probiotic omega-3-fatty acid 
+supplements); she was advised to stop taking all supplements. 
+Unfortunately, the evidence is not clear whether steroid therapy 
+can help renal function. After careful discussion with the 
+patient, the nephrology team recommended starting a trial of 
+steroids for two weeks and assess for improvement in kidney 
+function. The patient was started on sodium bicarbonate as well 
+as daily vitamin D. She was also recommended a low sodium and 
+potassium diet. An application was faxed to the Transplant 
+Institute in ___ for kidney transplant referral. There was no 
+emergent need for dialysis at this time. Discharge BUN 36, Cr 
+4.8, anion gap 23. Her anti-GBM antibody was pending at 
+discharge.
+
+#Anemia: Patient had normocytic anemia of uncertain chronicity 
+but consistent with chronic disease. She likely has decreased 
+EPO production with her renal disease. She did have an acute 
+drop likely secondary to hematoma in left perinephric region, 
+which is expected after renal biopsy. This hematoma was stable 
+as seen on CT ___, and she was transfused one unit. Of note, 
+she had an elevated UPEP (free kappa chains) but normal SPEP at 
+her outside hospital prior to transfer, so consider any 
+hematologic abnormalities as an outpatient. Please check a CBC 
+at her follow up appointment. Discharge Hgb 9.2, Hct 28.5.
+
+#Leukocytosis: Patient presented with WBC 14.5 but was 
+clinically without evidence of infection. No source was 
+identified. It could be related to systemic disease causing 
+kidney injury, although the patient does have a history of 
+mysterious lymphadenopathy. On CXR, a large mediastinal mass 
+with tracheal deviation (no respiratory compromise) was noted. 
+Note that she had an elevated UPEP at OSH (see Atrius records), 
+so consider working up hematologic abnormalities and consider a 
+referral to hematology if indicated. Discharge WBC 20.6.
+
+# Enlarged neck mass with deviated trachea:
+# Posterior cervical lymphadenopathy: As above, patient had an 
+enlarged mediastinal mass on CXR. She also had lymphadenopathy 
+on exam. Her thyroid labs were normal. Consider a lymph node 
+biopsy as outpatient in setting of
+leukocytosis.
+
+TRANSITIONAL ISSUES:
+
+NEW MEDICATIONS
+- Prednisone
+- Sodium bicarbonate
+- Ranitidine 
+- Vitamin D
+
+STOPPED MEDICATIONS
+- Stop all supplements including omega-3-fatty acids and 
+probiotics
+
+[ ] Complete 2-week course of prednisone (complete ___
+[ ] Patient discharged with H2 blocker for stress ulcer 
+prophylaxis while on steroids
+[ ] Patient should avoid NSAIDs and other nephrotoxic agents
+[ ] Patient has no emergent need for dialysis at this time.
+[ ] Anti-GBM antibody was pending at discharge
+[ ] Please check CBC and Chem7 at discharge. Of note, she had 
+leukocytosis (WBC 20.6), anemia (Hgb 9.2, Hct 28.5, received 1U 
+PRBC on ___, elevated BUN (35), elevated Cr (4.8), and anion 
+gap (23).
+[ ] Recommend hematologic workup for leukocytosis, anemia, and 
+lymphadenopathy which appears chronic, especially in the setting 
+of elevated UPEP (although normal SPEP)
+[ ] Recommend CT chest to evaluate for mediastinal mass 
+[ ] An application was faxed to the Transplant Institute in 
+___ for kidney transplant referral
+
+#CODE: Full (presumed) 
+#CONTACT: ___ (friend) - ___
+ 
+Medications on Admission:
+No prescribed medications
+
+OTC:
+Omega 3 acid supplement
+Probiotic
+ 
+Discharge Medications:
+1.  PredniSONE 40 mg PO DAILY Duration: 14 Days 
+RX *prednisone 20 mg 2 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Ranitidine 150 mg PO BID 
+RX *ranitidine HCl 150 mg 1 tablet(s) by mouth twice a day Disp 
+#*30 Tablet Refills:*0 
+3.  Sodium Bicarbonate 650 mg PO DAILY 
+RX *sodium bicarbonate 650 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+4.  Vitamin D 1000 UNIT PO DAILY 
+RX *ergocalciferol (vitamin D2) 400 unit 2 tablet(s) by mouth 
+once a day Disp #*60 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+- Acute Renal Failure 
+- Chronic tubulointerstitial nephritis
+- Chronic Lymphadenopathy
+
+Secondary diagnosis:
+- Normocytic anemia
+- Leukocytosis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+Why were you admitted?
+- You were admitted for shortness of breath with activity
+- At your PCP's office, you were found to have elevated 
+creatinine, which is a measure of kidney damage
+- We think your kidney disease is related to a medication you 
+may have taken in the past. Although we are not sure what 
+medication this is, please stop all supplements including any 
+fatty acids as well as probiotics
+
+What happened in the hospital?
+- You received a renal biopsy on ___ which showed something 
+called "chronic tubulointerstitial nephritis." 
+- In other words, there is swelling and inflammation in the 
+tubes of your kidneys.
+- After the biopsy, your blood levels were low, so we gave you a 
+transfusion
+- You also received a scan of your kidneys to check for any 
+hematoma (pooling of blood) after your biopsy. There is a small 
+pool of blood around your biopsy site but it is stable and does 
+not need to be followed
+
+What should you do when you leave the hospital?
+- You have been started on a 2 week course of steroids. This may 
+help your kidney function, but your kidneys are unlikely to 
+recover from this. Therefore, we have also started the process 
+for a kidney transplant waitlist.
+- It is important for you to follow up with your doctors as 
+below. We would especially like your doctor to follow up on your 
+enlarged lymph nodes, so please remind your PCP at your next 
+appointment to see if anything needs to be done.
+- If you develop any bleeding, back pain, confusion, dizziness, 
+or any fainting, please call your doctor immediately.
+
+It was a pleasure taking care of you! We wish you the best.
+- Your ___ Team
+ 
+Followup Instructions:
+___

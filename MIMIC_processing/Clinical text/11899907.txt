@@ -1,0 +1,199 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: SURGERY
+ 
+Allergies: 
+Effexor / shellfish derived
+ 
+Attending: ___
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+ERCP ___
+Laparoscopic cholecystectomy
+ 
+History of Present Illness:
+Ms. ___ is a ___ female without a significant past
+medical history who presents with abdominal pain and is
+transfered from the ___ for further evaluation of
+possible gallstone pancreatitis.
+
+Patient started having symptoms about 10 days ago with 
+epigastric
+pain that came and went.  She notes that the pain first started
+after she had a meal of fried clams.  The pain progressively
+became stronger and more persistent, at times radiating to her
+back.  It was not associated with any nausea, vomiting, or
+diarrhea.  She recalls no fevers, chills, chest pain, or
+difficulty breathing.  She took omeprazole for about 6 days
+without any improvements.  The pain eventually got bad enough
+that she went to urgent care on ___.  At that time labs will
+order as well as abdominal CT.
+
+Her labs on ___ eventually came back showing elevated AST to
+320, elevated ALT to 545, elevated alkaline phosphatase to 298,
+normal total bilirubin at 1.0, and and elevated amylase at 869. 
+Her CT scan from ___ showed sludge and/or gallstones within the
+gallbladder with no CT findings of acute cholecystitis.
+
+Given these abnormalities and persistent pain, she was referred
+to the ED at ___.  There, labs were notable for AST 
+580,
+ALT 889, alkaline phosphatase 381, total bilirubin 1.2, and
+lipase 214.  She was given IV fluids there and transferred to
+___ for possible ERCP.
+
+In the ___ ED, her initial vitals were temp 98.2, heart rate
+72, blood pressure 116/72, O2 saturation 94% on room air.  Her
+labs are notable for normal coags, normal CBC, sodium 146, 
+normal
+renal function, ALT 724, AST 378, alkaline phosphatase 381, 
+total
+bilirubin 0.9, and lipase was 57.
+
+On arrival to the floor, patient reports that her abdominal pain
+had already resolved for the past 24 hours.  She feels 
+relatively
+well and is anxious about getting the ERCP.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative.
+ 
+Past Medical History:
+- Anxiety disorder 
+- Hyperlipidemia 
+- Reactive airway disease 
+- Osteoporosis 
+ 
+Social History:
+___
+Family History:
+No family history of any pancreatic or GI illnesses.
+ 
+Physical Exam:
+ADMISSION
+PHYSICAL EXAMINATION:
+VITALS: T 98.2, BP 145/79, HR 76, RR 18, O2 SAT 97 RA
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round and reactive
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, RUQ tender to palpation.  Bowel
+sounds present.  No HSM.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs.
+SKIN: No rashes or ulcerations noted.
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout.
+PSYCH: pleasant, appropriate affect.
+
+ADMISSION
+PHYSICAL EXAMINATION:
+VSS
+Gen: Comfortable, ambulating, concersant
+Resp: No increased work of breathing
+CV: RRR, no m/r/g
+Abd: Minimally distended, appropriately tender, no 
+rebound/guarding. Incisions, clean/dry/intact
+Ext: Warm, well perfused, no edema
+
+ 
+Pertinent Results:
+ADMISSION
+___ 01:09AM BLOOD WBC-10.5* RBC-4.82 Hgb-14.1 Hct-43.8 
+MCV-91 MCH-29.3 MCHC-32.2 RDW-13.4 RDWSD-45.1 Plt ___
+___ 01:09AM BLOOD Glucose-102* UreaN-9 Creat-0.6 Na-146* 
+K-3.8 Cl-107 HCO3-21* AnGap-18*
+___ 01:09AM BLOOD ALT-724* AST-378* AlkPhos-381* 
+TotBili-0.9
+___ 01:09AM BLOOD Lipase-157*
+
+DISCHARGE
+___ 07:15AM BLOOD ALT-355* AST-99* AlkPhos-265* TotBili-0.7
+
+ 
+Brief Hospital Course:
+This is a ___ year old female with past medical history of 
+anxiety, admitted ___ with gallstone pancreatitis, status 
+post ERCP with sphincterotomy and stone extraction, subsequently 
+improving and undergoing cholecystectomy with ACS
+
+# Gallstone Pancreatitis
+# Choledocholithiasis with obstruction
+# Transaminitis 
+Patient presented to ___ with abdominal pain, abnormal 
+LFTs (ALT 889, AST 580, AP 381, Tbili 1.2) and elevated lipase 
+(214).  Patient transferred to ___ for additional management, 
+where she underwent EUS and ERCP showing stone in CBD.  Patient 
+underwent sphincterotomy and stone extraction with subsequent 
+improvement in symptoms and lab values.  Patient was seen by 
+surgery service, who recommended same-hospitalization 
+laparoscopic cholescystectomy, and underwent the procedure on 
+___ with Dr. ___. She tolerated the procedure well and was 
+discharged to home from the PACU.
+
+GERD
+Continued PPI
+
+Transitional Issues 
+- Discharge LFTs were ALT 355, AST 99, AP 265, Tbili 0.7.  Would 
+consider recheck at follow-up visit. 
+- Patient noted to have cysts of pancreas seen on endoscopic 
+ultrasound; per advanced endoscopy 3 month follow--up with Dr. 
+___ GI was recommended for repeat evaluation of pancreas 
+cysts
+- Patient noted blood spotting in her underwear this admission; 
+not felt to be related to her current acute admission; would 
+consider outpatient workup 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Omeprazole 20 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Oxycodone 5 mg Q4H:PRN for severe pain
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Gallstone pancreatitis
+ 
+Discharge Condition:
+Alert, Ambulatory, Interactive. Good. 
+ 
+Discharge Instructions:
+Ms. ___: 
+
+It was a pleasure caring for you at ___.  You were admitted 
+with abdominal pain and found to have inflammation in your 
+pancreas (Pancreatitis).  You were seen by GI specialists and 
+underwent a special endoscopy ("ERCP") that showed your 
+pancreatitis was likely due to a gallstone.  The gallstone was 
+removed.
+
+You were seen by surgeons who recommended you have your 
+gallbladder removed.  You had it removed and it will be 
+important for you to follow up with Dr. ___ at the ___ ___ 
+Surgery Clinic. You may call the office at ___ to make 
+an appointment in the next 2 weeks.
+
+It will be important for you to see Dr. ___ GI 
+specialist) within 3 months to re-evaluate several cysts that 
+were seen in your pancreas.
+ 
+Followup Instructions:
+___

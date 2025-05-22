@@ -1,0 +1,334 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Shortness of breath, chest tightness 
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old with CKD stage III, hypertension, hyperlipidemia, 
+and obesity presenting with chest tightness and shortness of 
+breath and concerning EKG changes.  
+Pt initially presented to his PCP ___ with complaint of chest 
+tightness over the previous ___ weeks. His symptoms had 
+initially been treated as a COPD exacerbation with prednisone 
+and albuterol, however over the ___ days prior to seeing his PCP 
+his symptoms of chest tightness worsened and included shortness 
+of breath. During his PCP visit an EKG was performed and 
+demonstrated frequent PVCs in a bigeminal pattern and an 
+exercise stress echo was ordered. Pt returned to clinic to see 
+PCP ___ and ___, and per report, EKG from ___ demonstrated 
+new LBBB in the setting of continued chest tightness. Given 
+concern for possible CAD and ACS, pt was referred to the ED for 
+evaluation.  
+In the ED initial vitals were: 98.1 80 160/76 16 95% RA  
+EKG ___ 18:48: SR at 85 bpm, ventricular bigeminy  
+Labs/studies notable for: WBC 10, H/H 14.8/44, plts 202, Na 137, 
+BUN/Cr ___ from baseline Cr 1.2-1.4, D-Dimer 636, troponin 
+<0.01 x 2.  
+Pt underwent CTA Chest that did not demonstrate PE, but was 
+notable for upper lobe emphysema.  
+Pt had a CXR that did not demonstrate an acute intrathoracic 
+process.  
+Pt received 500cc of NS and BMP was redrawn demonstrating Na 
+135, K 4.3, BUN/Cr ___, and Mg 1.8.  
+Patient also received Aspirin 324mg PO x 1.  
+Pt was initially going to be ruled out for ACS with two sets of 
+troponins and then undergo an exercise stress tests in the AM, 
+but he developed bradycardia to the ___ with ventricular 
+bigeminy and it was determined in conjuction with Dr. ___ 
+Cardiology that admission to ___ for monitoring was warranted.  
+
+Vitals on transfer: 97.4 63 139/49 18 97% RA  
+ 
+On the floor, pt reports that he still feels somewhat short of 
+breath. He reports DOE with climbing stairs and reports 
+orthopnea. He denies PND. He states that he had a similar 
+constellation of symptoms last year when he developed a URI that 
+lingered for multiple weeks.  
+
+ 
+Past Medical History:
+Hypercholesteremia  
+ COLONIC POLYP  
+ Esophageal reflux  
+ SUBSTANCE ABUSE - IN REMISSION  
+ HELICOBACTER PYLORI INFECTION  
+ Hypertension, essential, benign  
+ ASTHMA, UNSPEC  
+ Obesity, morbid  
+ Tear meniscus knee  
+ Colonic adenoma  
+ Osteoarthritis of right knee  
+ S/P TKR (total knee replacement) Right ___  
+ PROGRAM - Asthma Adult(Not Dx, for prob list only)  
+ S/P THR (total hip replacement) Left ___  
+ Calculus of ureter  
+ PVC's (premature ventricular contractions)  
+ LBBB (left bundle branch block)  
+ Chronic kidney disease (CKD) stage G3a/A1, moderately decreased 
+glomerular filtration rate (GFR) between 45-59 mL/min/1.73 
+square meter and albuminuria creatinine ratio less than 30 mg/g  
+
+
+ 
+Social History:
+___
+Family History:
+Father - ___  
+Mother - No significant medical history  
+Sister - ___ cancer  
+
+ 
+Physical Exam:
+Admission Physical Exam: 
+========================
+VS: 97.8 158/64 48 21 96% on RA, Wt 149.6  
+GENERAL: NAD, AAOx3  
+HEENT: NCAT. Sclera anicteric.  
+NECK: Supple with difficult to assess JVP ___ habitus.  
+CARDIAC: Distant heart sounds, S1 S2, regularly irregular  
+LUNGS: Scattered end expiratory wheezes, no crackles  
+ABDOMEN: Obese, soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No edema  
+SKIN: No stasis dermatitis  
+PULSES: Distal pulses palpable and symmetric  
+
+Discharge Physical Exam: 
+========================
+VS: T=97.8 BP=158/64 HR=48 (77 on tele) RR=21 O2 sat= 96% RA   
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI.   
+NECK: Supple with no elevated JVP.   
+CARDIAC: Regularly irregular HR. 
+LUNGS: Decreased breath sounds throughout, no wheezing.  
+ABDOMEN: Soft, NTND. 
+EXTREMITIES: No pedal edema. 
+SKIN: No stasis dermatitis, ulcers.  
+PULSES:  DP pulses intact. 
+NEURO: ___ strength in UE and ___. CN II-XII intact. 
+
+ 
+Pertinent Results:
+Admission Labs: 
+===============
+___ 07:02PM BLOOD WBC-10.0 RBC-4.68 Hgb-14.8 Hct-44.0 
+MCV-94 MCH-31.6 MCHC-33.6 RDW-13.4 RDWSD-45.4 Plt ___
+___ 07:02PM BLOOD Neuts-57.2 ___ Monos-13.4* 
+Eos-2.4 Baso-0.9 Im ___ AbsNeut-5.71 AbsLymp-2.55 
+AbsMono-1.34* AbsEos-0.24 AbsBaso-0.09*
+___ 07:02PM BLOOD Plt ___
+___ 07:02PM BLOOD Glucose-116* UreaN-18 Creat-1.3* Na-137 
+K-5.0 Cl-99 HCO3-27 AnGap-16
+___ 07:02PM BLOOD cTropnT-<0.01
+___ 07:02PM BLOOD D-Dimer-636*
+
+Discharge Labs: 
+===============
+___ 06:40AM BLOOD WBC-8.7 RBC-4.72 Hgb-14.7 Hct-44.3 MCV-94 
+MCH-31.1 MCHC-33.2 RDW-13.3 RDWSD-45.5 Plt ___
+___ 06:40AM BLOOD Plt ___
+___ 06:40AM BLOOD Glucose-131* UreaN-14 Creat-1.2 Na-138 
+K-4.5 Cl-99 HCO3-27 AnGap-17
+___ 01:10AM BLOOD Glucose-147* UreaN-16 Creat-1.2 Na-135 
+K-4.3 Cl-100 HCO3-25 AnGap-14
+___ 06:40AM BLOOD proBNP-194
+___ 06:40AM BLOOD Calcium-9.4 Phos-3.0 Mg-2.5
+___ 01:10AM BLOOD cTropnT-<0.01
+
+Radiology: 
+==========
+___ CXR: 
+No acute intrathoracic process.
+
+___ CTA: 
+1. No evidence of pulmonary embolism or aortic abnormality. 
+2. Mild upper lobe predominant emphysema. 
+
+Testing: 
+========
+___ Cardiac stress test: 
+No ischemic EKG changes or anginal type symptoms at a high 
+cardiac demand and average functional capacity. Baseline 
+hypertension. 
+Exaggerated HR response to exercise. Dr. ___ for study
+
+EKGs:
+=====
+ECG Study Date of ___  6:48:52 ___ 
+Sinus rhythm. Ventricular bigeminy. Non-specific repolarization 
+abnormalities. No previous tracing available for comparison.  
+TRACING #1 
+R85 PR169 QRS134 QT410 QTc453/488 
+
+ECG Study Date of ___  12:02:38 AM 
+Sinus rhythm. Ventricular bigeminy. Non-specific repolarization 
+abnormalities. Compared to the previous tracing no diagnostic 
+change. 
+TRACING #2 
+R82 PR167 QRS136 QT441 QTc___/___ 
+
+ECG Study Date of ___  1:11:39 AM 
+Sinus rhythm. Ventricular bigeminy. Non-specific repolarization 
+abnormalities. Compared to the previous tracing no diagnostic 
+change. 
+TRACING #3 
+R81 PR___ QRS___ QT442 ___/___ 
+
+Microbiology: 
+=============
+NONE 
+
+ 
+
+ 
+Brief Hospital Course:
+___ year old with CKD stage III, hypertension, hyperlipidemia, 
+and obesity presenting with chest tightness and shortness of 
+breath, found to have negative troponins x 2 with bradycardia 
+and ventricular bigeminy on EKG.  
+
+ACUTE ISSUES: 
+=============
+#Chest tightness: Patient with exertional chest tightness per 
+atrium notes. Patient found to have negative troponins x 2 with 
+bradycardia and ventricular bigeminy on EKG.  CXR and CTA were 
+negative for acute process, including PE, and BNP was normal. 
+Patient underwent stress testing. No ischemic EKG changes or 
+anginal type symptoms at a high cardiac demand and average 
+functional capacity were noted. Baseline hypertension was noted 
+as well as an exaggerated HR response to exercise. 
+
+#Dizziness: Was felt to be secondary to frequent bigeminy due to 
+retrograde activation resulting in low perfusion. Beta blockers 
+can paradoxically improve bradycardia by helping suppress PVCs; 
+thus sotolol was considered but was not used due to prolonged 
+QTc, and metoprolol could not be used due to COPD/nebulizer use. 
+Home hydrochlorothiazide was also stopped and lisinopril was 
+increased to minimize risk of hypokalemia potentiating 
+ventricular ectopy
+
+#SOB, wheezing: Negative EKG and troponins x2, CXR without acute 
+process, and CTA without evidence of pulmonary embolus. Dyspnea 
+was attributed to an asthma/COPD exacerbation. Although last 
+PFTs in ___ showed no evidence of COPD, CTA chest showed upper 
+lobe emphysema and breath sounds noted to be decreased on exam. 
+Patient treated with duonebs Q6hrs, prednisone 40mg PO x 5 days, 
+and azithromycin 500mg PO daily x 5 days. 
+
+#HTN: Lisinopril increased to 40mg and started on amlodipine 
+5mg. Home hydrochlorothiazide was also stopped and lisinopril 
+was increased to minimize risk of hypokalemia potentiating 
+ventricular ectopy. Home diltiazem discontinued. 
+ 
+CHRONIC ISSUES: 
+===============
+# Chronic pain: Continue home gabapentin QHS  
+# GERD: Continue home omeprazole  
+
+TRANSITIONAL ISSUES:
+===================
+- needs electrolytes checked on ___
+- started on amlodipine 5mg
+- stopped diltiazem and HCTZ due to ventricular bigeminy
+- increased lisinopril from 20 to 40mg
+- needs TTE as an outpatient
+- further discussion re: antiarrhythmics, ___ of Hearts as an 
+outpatient
+- discharged on 40mg PO prednisone and 250mg azithromycin to 
+complete 5 day course finishing on ___. Consider repeating 
+PFTs as last performed in ___. 
+
+#Code status: Full 
+#Contact: ___ (wife) ___.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. lisinopril-hydrochlorothiazide ___ mg oral DAILY 
+2. Diltiazem Extended-Release 240 mg PO DAILY 
+3. Gabapentin 200 mg PO QHS 
+4. Naproxen 500 mg PO Q12H:PRN Pain 
+5. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+6. Ketoconazole 2%  1 Appl TP BID 
+7. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN Wheezing 
+8. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+9. Albuterol Inhaler 2 PUFF IH Q6H:PRN Wheezing 
+10. Omeprazole 20 mg PO BID 
+
+ 
+Discharge Medications:
+1. Gabapentin 200 mg PO QHS 
+2. Omeprazole 20 mg PO BID 
+3. Amlodipine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+4. Lisinopril 40 mg PO DAILY 
+RX *lisinopril 40 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+5. PredniSONE 40 mg PO DAILY Duration: 5 Days 
+RX *prednisone 20 mg 2 tablet(s) by mouth daily Disp #*8 Tablet 
+Refills:*0
+6. Albuterol 0.083% Neb Soln 1 NEB IH Q6H:PRN Wheezing 
+7. Albuterol Inhaler 2 PUFF IH Q6H:PRN Wheezing 
+8. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+9. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+10. Ketoconazole 2%  1 Appl TP BID 
+11. Naproxen 500 mg PO Q12H:PRN Pain 
+12. Azithromycin 250 mg PO Q24H Duration: 4 Days 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*4 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary:
+COPD exacerbation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You came in with shortness of breath. This may have been due to 
+your asthma/COPD. Sometimes people become short of breath when 
+their heart is not getting enough blood, but you had a stress 
+test which was normal. We are sending you home with prednisone 
+and an antibiotic called azithromycin to treat your COPD. You 
+should take these medications for four days starting tomorrow 
+(finish on ___.
+
+You also had an abnormal heart rhythm, which is probably why you 
+felt dizzy. You should see Dr. ___ at ___ on ___ to 
+discuss starting a medication to treat this rhythm. His office 
+will call you with an appointment.
+
+We also made some changes to your medications. You should stop 
+diltiazem and lisinopril-hydrochlorothiazide. We are starting 
+you on a new medication called amlodipine, which you should take 
+every morning. We also want you to take lisinopril by itself, 
+and we are increasing your dose from 20 to 40mg.
+
+It was a pleasure taking care of you.
+ 
+Followup Instructions:
+___

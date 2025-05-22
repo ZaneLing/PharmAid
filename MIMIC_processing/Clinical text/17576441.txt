@@ -1,0 +1,159 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Dilantin Kapseal / Iodine-Iodine Containing / Celexa
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Confusion
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms ___ is a ___ year old female with a history of repeated 
+syncopal events presenting with increasing confusion.   She 
+describes waking up on the morning of admission feeling very 
+confused - fully dressed in bed - unclear why she had slept in 
+her last evening's clothes.   She then reports over the next ___ 
+hours a sense of disorientation - on a trip to a museum, she had 
+to continuously ask for directions to get from one exhibit to 
+the next, experienced a sense of "dark vision" around her and an 
+overall sense of disorientation.   She denied numbness, 
+tingling, or weakness in any extremity.   No loss in balance.   
+She was recently evaluated by cognitive neurology for similar 
+previous instances of difficulty with attention and executive 
+function but no clear memory disorders were identified.    12 pt 
+ROS otherwise negative for fevers, chills, headache, vertigo, 
+numbness/tingling, falls, chest pressure, shortness of breath, 
+or syncope.     
+ 
+Past Medical History:
+Raynauds
+coronary artery disease
+
+ 
+Social History:
+___
+Family History:
+Mother recently passed away
+ 
+Physical Exam:
+ADMISSION
+VS: 97.2, 70, 20, 123/63, 100% RA
+Gen:  Caucasian female, sitting up in bed in NAD
+Cardiac: Nl s1/s2 RRR no m/r/g
+Pulm: clear bilaterally
+Abd: soft NT ND + BS
+Ext: no appreciable edema
+
+DISCHARGE
+VS: 97.5 89/55 58 18 97%RA
+Gen: sitting on edge of bed, comfortable
+Eyes - EOMI
+ENT - OP clear, MMM
+Heart - RRR no mrg
+Lungs - CTA bilaterally
+Abd - soft nontender, normoactive bowel sounds
+Ext - no edema
+Skin - no rashes
+Vasc - 2+ DP/radial pulses
+Neuro - AOx3, moving all extremities, gait wnl 
+Psych - tangential and odd 
+
+ 
+Pertinent Results:
+CT Head
+No acute intracranial process. 
+
+CXR
+No focal consolidations concerning for pneumonia identified. 
+
+Admission Labs
+___ 08:35PM BLOOD WBC-7.0 RBC-3.96 Hgb-11.9 Hct-36.6 MCV-92 
+MCH-30.1 MCHC-32.5 RDW-13.2 RDWSD-44.5 Plt ___
+___ 08:35PM BLOOD Glucose-88 UreaN-29* Creat-0.9 Na-139 
+K-3.7 Cl-100 HCO3-29 AnGap-14
+___ 08:44PM BLOOD Lactate-1.0
+ 
+Brief Hospital Course:
+This is a ___ year old female with history of traumatic brain 
+injury, history of disorganized behavior, admitted ___ 
+with reported episode of confusion, with course notable for 
+obtaining additional information from patient and PCP that chief 
+complaint was actually her baseline symptomatology for which she 
+is followed by her PCP and neurologist, assessed by psychiatry 
+and felt to have safe discharge home with close PCP and 
+outpatient psychiatry ___. 
+
+# Mild Cognitive Impairment / Disorganized Behavior - patient 
+initially presented with concerns of forgetfulness and visual 
+changes; spoke with patient and PCP further on morning after 
+admission---patient has reports of chronic "haziness of vision" 
+and "forgetfullness".  She denied recent syncope, vertigo, 
+dizziness, seizures, motor/sensory loss.  Given PCP concerns 
+regarding patient's bizarre disorganized behavior, she was 
+assessed by psych service.  They felt she might have had 
+potential worsening of her visuospatial and executive function 
+in the context of her known cognitive impairment.  However, they 
+did not feel she had evidence of a mood, anxiety, or psychotic 
+disorder, and did not have acute safety concerns. We reinforced 
+the importance of attending her psych outpatient appointment and 
+PCP ___.   
+ 
+# Raynauds Disease
+- continue amlodipine
+
+Transitional Issues
+- Discharged home 
+- Patient agreed to ___ at her previously scheduled 
+psychiatry appointment
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Amlodipine 5 mg PO QAM 
+2. Amlodipine 2.5 mg PO QPM 
+3. Clorazepate Dipotassium 7.5 mg PO TID 
+
+ 
+Discharge Medications:
+1. Amlodipine 5 mg PO QAM 
+2. Amlodipine 2.5 mg PO QPM 
+3. Clorazepate Dipotassium 7.5 mg PO TID 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Mild Cognitive Impairment
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you at ___.  You were 
+admitted after reporting confusion and haziness.  After 
+discussing this further, this has been going for several months. 
+ We spoke with your primary care doctor and psychiatry evaluated 
+you.  There are no signs of serious acute neurologic processes.  
+We believe you are safe for discharge.  
+
+It will be important for you to keep your upcoming outpatient 
+psychiatry appointment.  If you are looking for a referral to a 
+new neurologist, please discuss this with your primary care 
+physician
+ 
+___:
+___

@@ -1,0 +1,251 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Transferred from ___ for Afib w
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with HTN presents to ___ from ___ for new onset atrial 
+fibrillation and elevated troponin. The patient states that she 
+started having uncontrollable nausea, vomiting, and diarrhea on 
+___. She was also having intermittent, crampy 
+epigastric tenderness. She continued to have vomiting on 
+___ and ___, and went to the ___. At ___ her 
+HR was in 160s, she had a slightly elevated bilirubin but 
+unremarkable LFTs, negative abdominal US, troponin 0.1. She was 
+given full dose aspirin, PPI, Zofran, and started on Cardizem 
+drip at 5mg/hr. Upon arrival patient states she is having no 
+chest pain, palpitations, or SOB. Nausea is mild. Her dilt drip 
+was ___ and she was started on PO dilt and heparin ggt per 
+cardiology recommendations when she arrived to ___ ___. 
+
+Notably, she also reports having an episode of "flutter" in her 
+chest this AM but has had palpitations before. She states that 
+the palpitations have possibly been on and off for over a year 
+but in the last 6 weeks or so she noticed an increase in these 
+sensations. She states that she would usually notice them at 
+night before going to bed, attribute them to a stressful day and 
+when she woke up in the morning they were gone. The episodes are 
+associated with mild chest tightness and she thinks maybe SOB 
+but is not sure if she is just paying more attention to it now.
+
+ 
+Past Medical History:
+HTN
+HLD
+ 
+Social History:
+___
+Family History:
+Father- died of MI at ___, HTN
+Mother- peripheral vascular disease, HTN and DM
+Brother- DM
+ 
+Physical ___:
+ADMISSION EXAM:
+VS: 97.7PO, 143/97, 77, 18, 97% Ra 
+GENERAL: anxious and tearful but otherwise pleasant woman in 
+NAD.
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink 
+conjunctiva,MMM
+NECK: supple, no LAD, no JVD  
+HEART: irregular rhythm with normal rate, normal S1/S2, no 
+murmurs, gallops, or rubs  
+LUNGS: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, nontender in all quadrants, no 
+rebound/guarding, unable to appreciate hepatosplenomegaly  
+EXTREMITIES: no cyanosis, clubbing, or edema
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&Ox3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no excoriations or lesions, no
+rashes 
+
+DISCHARGE EXAM:
+VS: T 98.3 BP 136/67 HR 64 RR 18 O2 97% RA
+GENERAL: Wonderfully pleasant, well-kept woman, sitting up in 
+bed in NAD
+HEENT: NC/AT, EOMI, MMM
+NECK: No JVD
+HEART: Regular rate, irregularly irregular rhythm, no m/r/g 
+appreciated
+LUNGS: CTAB, breathing comfortably on RA without use of 
+accessory muscles
+ABDOMEN: Soft, non-tender to palpation, active bowel sounds, no 
+organomegaly
+EXTREMITIES: No clubbing or cyanosis
+SKIN: Warm and well-perfused
+NEURO: Moving all four extremities with purpose, alert and
+oriented x3 
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 11:04PM   cTropnT-0.10*
+___ 07:01PM   ___ PTT-27.2 ___
+___ 05:50PM   %HbA1c-5.3 eAG-105
+___ 05:15PM   GLUCOSE-110* UREA N-18 CREAT-0.7 SODIUM-137 
+POTASSIUM-3.3 CHLORIDE-99 TOTAL CO2-23 ANION GAP-15
+___ 05:15PM   estGFR-Using this
+___ 05:15PM   ALT(SGPT)-21 AST(SGOT)-30 CK(CPK)-109 ALK 
+PHOS-56 TOT BILI-1.3
+___ 05:15PM   CK-MB-2 cTropnT-0.08*
+___ 05:15PM   CHOLEST-191
+___ 05:15PM   TRIGLYCER-91 HDL CHOL-60 CHOL/HDL-3.2 
+LDL(CALC)-113
+___ 05:15PM   TSH-2.5
+___ 05:15PM   NEUTS-57.7 ___ MONOS-10.7 EOS-0.1* 
+BASOS-0.1 IM ___ AbsNeut-5.07 AbsLymp-2.73 AbsMono-0.94* 
+AbsEos-0.01* AbsBaso-0.01
+___ 05:15PM   PLT COUNT-215
+
+DISCHARGE LABS:
+___ 06:40AM BLOOD WBC-7.3 RBC-4.07 Hgb-12.8 Hct-37.8 MCV-93 
+MCH-31.4 MCHC-33.9 RDW-12.2 RDWSD-41.9 Plt ___
+___ 10:30AM BLOOD PTT-76.2*
+___ 06:40AM BLOOD Glucose-92 UreaN-14 Creat-0.7 Na-141 
+K-3.5 Cl-101 HCO3-26 AnGap-14
+___ 06:40AM BLOOD CK-MB-2 cTropnT-0.12*
+___ 06:40AM BLOOD Calcium-8.5 Phos-3.1 Mg-2.2
+
+MICROBIOLOGY:
+- None
+
+DIAGNOSTICS:
+___ ECG: Atrial fibrillation, no ST changes
+___ ECG: Atrial fibrillation, no ST changes, unchanged from 
+prior
+___ ECG: Atrial fibrillation, no ST changes, unchanged from 
+prior
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ with PMH of HTN presenting from ___ 
+with Afib.
+
+ACUTE ISSUES:
+# Atrial fibrillation 
+Unclear whether this is new-onset, as patient endorses prior 
+history of palpitations. This episode of Afib may have been 
+triggered by a possible viral gastroenteritis that seems to have 
+now resolved. CHADS2-VASc 2 (based on gender and HTN), so 
+anticoagulation should be considered. Patient was initially 
+started on heparin gtt and diltiazem gtt. Diltiazem gtt was 
+discontinued and she was started on PO diltiazem. Given her 
+normal kidney function and lack of contraindications to 
+anticoagulation, she was transitioned to Rivaraxoban. Regarding 
+cardioversion, it is unclear whether this is truly new-onset 
+Afib, but the patient remains hemodynamically stable and 
+asymptomatic. There is no need for immediate cardioversion at 
+this time, but this should be discussed during OP follow-up with 
+cardiology. A TTE was done in the hospital which revealed EF 60% 
+with considerable beat-to-beat variation and normal LV systolic 
+function
+
+# Nausea/vomiting/diarrhea
+Resolved without intervention. Likely ___ mild viral 
+gastroenteritis vs. food-borne toxin.
+
+CHRONIC ISSUES:
+# Hypertension
+BP well controlled during admission. Continued home lisinopril. 
+Home metoprolol was held and diltiazem was started (per above). 
+
+# Hyperlipidemia
+Continued home statin 
+
+TRANSITIONAL ISSUES:
+[ ] New medications: Rivaroxaban 20mg PO daily, Diltiazem LA 
+120mg PO daily
+[ ] Held medications: Metoprolol succinate 100mg PO daily 
+[ ] Follow-up with cardiology regarding possible cardioversion. 
+Should be anticoagulated for 3 weeks prior to cardioversion
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 100 mg PO DAILY 
+2. Lisinopril 20 mg PO DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. Fish Oil (Omega 3) 1000 mg PO BID 
+5. Atorvastatin 10 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Diltiazem Extended-Release 120 mg PO DAILY 
+RX *diltiazem HCl 120 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+2.  LORazepam 0.5 mg PO Q8H:PRN anxiety  
+RX *lorazepam 0.5 mg 1 tablet(s) by mouth qpm:PRN Disp #*3 
+Tablet Refills:*0 
+3.  Rivaroxaban 20 mg PO DINNER 
+RX *rivaroxaban [___] 20 mg 1 tablet(s) by mouth daily with 
+dinner Disp #*30 Tablet Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 10 mg PO QPM  
+6.  Fish Oil (Omega 3) 1000 mg PO BID  
+7.  Lisinopril 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+- Atrial fibrillation
+
+SECONDARY DIAGNOSIS:
+- Hypertension
+- Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mrs. ___,
+
+WHY WERE YOU ADMITTED TO THE HOSPITAL?
+- You were transferred to us from ___ because you were 
+found to have an abnormal heart rhythm, called atrial 
+fibrillation.
+
+WHAT WAS DONE FOR YOU WHILE YOU WERE IN THE HOSPITAL?
+- We did an ECG which showed that you continued to be in atrial 
+fibrillation.
+- We started you on a medicine called diltiazem to help control 
+your heart rate.
+- We started you on a blood thinner to help reduced your risk of 
+stroke from the abnormal heart rhythm. 
+- We did an ultrasound of your heart to make sure it was pumping 
+normally and to make sure a clot had not developed. 
+
+WHAT SHOULD YOU DO WHEN YOU LEAVE?
+- You should continue taking your new blood thinner, 
+Rivaroxaban, each day with your dinner.
+- You should follow-up with a cardiologist to discuss whether 
+cardioversion should be considered in the future. 
+- You should follow-up with your primary care doctor. 
+
+It was a pleasure meeting you and taking care of you!
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

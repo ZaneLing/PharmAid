@@ -1,0 +1,228 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+___ Complaint:
+Respiratory Distress
+ 
+Major Surgical or Invasive Procedure:
+Laryngoscopy with ENT.
+
+ 
+History of Present Illness:
+___ year old with history of OSA on CPAP and GERD presenting with 
+from home with acute onset respiratory distress in the setting 
+of recent URI symptoms.  Pt presented to his PCP's office ___ 
+with complaint of dry cough, body aches, headaches, stuffy nose 
+and feeling tired over the prior two days.  Given that his 
+mother was recently hospitalized at ___ with influenza, pt was 
+started on Tamiflu 75mg BID empirically with plans for a 5 day 
+course.  In addition, he was started on an albuterol MDI given 
+apparent improvement of symptoms in the office with nebs.  Pt 
+subsequently returned home, and in the evening developed acute 
+onset respiratory distress while watching TV.  He reports a 
+sensation of difficulty breathing and feeling that he was going 
+to die.  Pt reports that he has experienced this sensation 
+before, however it was in the setting of being inebriated.  Due 
+to his difficulty breathing, he presented to ___ ED.       
+  
+In the ED, initial vitals were 98.5 111 143/86 36 100% on NRB.  
+Initial exam was concerning for stridor.  Labs were notable for 
+WBC 5.1, H/H 14.6/40.8, plts 173, Na 137, HCO3 22, BUN 16, Cr 
+0.9, lactate 2.9, positive influenza A PCR, VBG 7.44/36/28, 
+clean UA, Chest X-ray did not demonstrate an acute process, and 
+CT Neck w/contrast was largely unremarkable. Pt was seen by ENT 
+in the ED, and fiberoptic exam demonstrated intermittent 
+inspiratory stridor with bilateral vocal fold hypomobility 
+without mass lesions.  Pt received racemic epinephrine, duonebs, 
+and was started on heliox.  In addition, he received benadryl 
+50mg IV x 1, famotidine 20mg IV x 1, methylprednisolone 125mg IV 
+x 1, and 1L NS.  Pt was subsequently transferred to the ICU for 
+airway monitoring.     
+   
+On arrival to the MICU, 98.9 97 137/78 18 97% on 3L.  Pt reports 
+continual cough with associated sore throat, however states that 
+he feels much better, and states that his breathing is much 
+improved.
+
+ 
+Past Medical History:
+OSA on CPAP
+GERD
+LBP
+Septoplasty
+Ulnar neuropathy
+Testicular pain
+Venous insufficiency
+Alcohol induced gastritis
+LPR
+
+ 
+Social History:
+___
+Family History:
+NC
+ 
+Physical Exam:
+ADMISSION PE:
+
+Vitals- 98.9 97 137/78 18 97% on 3L 
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, mildly tender to deep palpation, non-distended, bowel 
+sounds present, no rebound tenderness or guarding, no 
+organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema    
+
+DISCHARGE PE:
+
+Unchanged
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 12:00AM BLOOD WBC-5.1 RBC-4.68 Hgb-14.6 Hct-40.8 MCV-87 
+MCH-31.1 MCHC-35.6* RDW-12.6 Plt ___
+___ 12:00AM BLOOD Neuts-57.4 ___ Monos-11.9* 
+Eos-0.7 Baso-0.2
+___ 12:00AM BLOOD Glucose-107* UreaN-16 Creat-0.9 Na-137 
+K-3.8 Cl-101 HCO3-22 AnGap-18
+___ 12:08AM BLOOD ___ pO2-28* pCO2-36 pH-7.44 
+calTCO2-25 Base XS-0
+___ 12:08AM BLOOD Lactate-2.9*
+___ 12:08AM BLOOD O2 Sat-53
+___ 01:10AM URINE Color-Straw Appear-Clear Sp ___
+___ 01:10AM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-NEG
+
+DISCHARGE LABS:
+
+No New
+
+MICRO:
+FluA positive
+Blood Cx pending
+
+STUDIES/IMAGING:
+
+CT Neck:
+
+Evaluation of the aerodigestive tract demonstrates no exophytic 
+mass, nor 
+areas of focal mass effect. Evaluation of the cervical lymph 
+chains 
+demonstrate no pathologic lymphadenopathy by imaging criteria. 
+The visualized salivary glands are unremarkable in appearance. 
+No thyroid mass is seen. Neck vessels are patent. Upper lung 
+fields are clear. No bony abnormality is seen.  The imaged skull 
+base is unremarkable. Specifically, no evidence of enhancing 
+tumor near the jugular foramen is identified. 
+
+CXR:
+
+The lungs are well-expanded and clear. The cardiomediastinal 
+silhouette is unremarkable. There is no pleural effusion, 
+pulmonary edema, pneumothorax, or focal consolidation worrisome 
+for pneumonia. Bony spurring is noted at the bilateral AC 
+joints. 
+
+ 
+Brief Hospital Course:
+___ year old male with a history of OSA on CPAP and GERD 
+presenting with symptoms consistent with viral URI and stridor 
+on exam found to be flu positive with evidence of vocal cord 
+hypomotility on fiberoptic exam
+
+# Vocal cord hypomotility: Vocal cord hypomotility seen on 
+fiberoptic exam, however due to concern for possible bilateral 
+vocal cord paresis, pt was admitted to the ICU for airway 
+monitoring.  The patient's symptoms were completely resolved by 
+the time he reached the ICU. ENT repeated a fiberoptic exam 
+which was not notable for further vocal cord dysfunction and 
+they felt that should treat patient's underlying GERD. 
+
+# Influenza A:  Pt found to be flu A positive at ___'s office. 
+Continued Tamiflu 75mg PO BID x 5 days. Patient will complete 
+this course after discharge (last dose ___.
+
+# OSA: Continued home CPAP
+
+# GERD: Continued home omeprazole
+
+TRANSITIONAL:
+- continue tamiflu through ___
+- f/u with ENT within ___ weeks
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Albuterol Inhaler 2 PUFF IH Q6H:PRN Wheezing 
+2. clotrimazole-betamethasone ___ % topical BID 
+3. Omeprazole 20 mg PO BID 
+4. OSELTAMivir 75 mg PO Q12H 
+5. guaiFENesin 100 mg/5 mL oral Q6HRS:PRN Cough 
+
+ 
+Discharge Medications:
+1. Omeprazole 20 mg PO BID 
+2. OSELTAMivir 75 mg PO Q12H 
+3. Albuterol Inhaler 2 PUFF IH Q6H:PRN Wheezing 
+4. clotrimazole-betamethasone ___ % topical BID 
+5. guaiFENesin 100 mg/5 mL oral Q6HRS:PRN Cough 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+- Vocal Cord Dysfunction
+
+Secondary Diagnosis:
+- Influenza
+- Gastroesophageal Reflux Disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure taking care of you during your stay at ___.  
+You presented with cough and sore throat and were found to have 
+the flu.  In addition, there was some concern for vocal cord 
+dysfunction, and as a result you were hospitalized in the ICU. 
+ENT rescoped your vocal cords and did not see any further 
+dysfunction. We feel that your symptoms may be related to 
+reflux.
+
+Also, you also have the flu. You should consider yourself 
+contagious until you have been 24 hours without a fever. You 
+will also need to continue your tamiflu for 5 days as prescribed 
+by your primary care doctor.
+
+Sincerely, 
+
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,265 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfur-8
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Incontinence and lower back pain
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+HISTORY OF PRESENT ILLNESS:  
+ Ms. ___ is a ___ year old woman with history of herniated 
+disc in L4, L5, S1, hypothyroidism, and asthma, who is 
+presenting with two weeks of lower back pain and incontinence.  
+ The patient shares two weeks ago she was pushing a car, and 
+shortly after developed low back pain. She has constant lower 
+back pain that radiates down both legs, with no lower extremity 
+numbness or tingling. In addition, she has since been 
+incontinent of both urine and stool. She called PCP today, who 
+recommended ED evaluation for spinal cord issue. She has had no 
+fevers, chills, altered mental status. She has no history of 
+IVDU or known malignancy.  
+ In the ED, VS 96.9 82 149/107 18 99% RA. Her exam was notable 
+for 'mild lumbar spine tenderness to palpation, strength ___ all 
+extremities, sensation intact extremities, genital area, rectal 
+tone intact.' Labs were notable for WBC 8.3, Hb 13.8, Cr 0.6, UA 
+withtrace ___, 10 Epis. A code cord was called, and MRI L spine 
+showed: L4-L5 moderate to severe bilateral neural foraminal 
+narrowing secondary to disc bulge and L5-S1 central disc 
+protrusion without significant foraminal narrowing. Spine was 
+consulted and said no urgent or emergent neurosurgical 
+intervention indicated at this time; they recommended medicine 
+admission for pain control and further workup by neurology. They 
+added that she may need surgical intervention in the near 
+future. She was given 0.5 mg IV dilaudid in the ED, but was also 
+noted to be taking her own vicodin.  
+ On the floor, patient reports that she is still in significant 
+pain but is primarily concerned about her fecal incontinence as 
+it is emabarassing and has been an issue at work and home.  
+ 
+Past Medical History:
+- Hypothyroidism  
+- Anxiety  
+- HTN  
+- COPD v Asthma  
+- H/o left leg stress fracture  
+- Right sided lumbosacral radiculopathy ___ L5-S1 disc bulge, 
+followed in pain clinic, L4-L5 disc bulge with mild bilateral 
+neural foraminal narrowing  
+ 
+Social History:
+___
+Family History:
+- Mother with HTN, HCC, CAD and RA.
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+ VS: 98.2 118/82 66 18 96RA  
+ Gen: Very well appearing. No distress.  
+ HEENT: OP clear, PERRL.  
+ CV: RRR, normal S1/S2. No m/r/g  
+ Pulm: CTAB  
+ Abd: Soft, NT/ND  
+ GU: no foley. Normal anal sphincter tone  
+ Ext: warm, well perfused  
+ Skin: intact  
+ Spine: No stepoffs or focal vertebral tenderness. significant 
+paraspinal/sacral tenderness  
+ Neuro: MAE without significant pain while talking. Straight leg 
+rise with good effort and normal hip and knee ROM. ___ strength 
+and normal sensation. Normal coordination.  
+ Psych: Pleasant.  
+
+DISCHARGE EXAM
+==============
+VITALS: Tmax 98.2 BP 90-130/60-80s HR 60-70s RR 18 ___ on 
+RA
+Gen: Well appearing. No distress.  
+HEENT: OP clear, PERRL.  
+CV: RRR, normal S1/S2. No m/r/g  
+Pulm: CTAB  
+Abd: Soft, NT/ND  
+GU: No foley.   
+Ext: warm, well perfused  
+Skin: intact  
+Spine: No stepoffs or focal vertebral tenderness. significant 
+paraspinal/sacral tenderness  
+Neuro: 4+/5 strength and normal sensation bilaterally. Normal 
+coordination.  
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 08:30PM BLOOD WBC-8.3 RBC-4.67 Hgb-13.8 Hct-42.9 MCV-92 
+MCH-29.6 MCHC-32.2 RDW-13.1 RDWSD-44.1 Plt ___
+___ 08:30PM BLOOD Neuts-42.7 ___ Monos-8.0 Eos-5.3 
+Baso-1.0 Im ___ AbsNeut-3.53 AbsLymp-3.55 AbsMono-0.66 
+AbsEos-0.44 AbsBaso-0.08
+___ 08:30PM BLOOD Plt ___
+___ 08:30PM BLOOD Glucose-88 UreaN-9 Creat-0.6 Na-140 K-3.6 
+Cl-104 HCO3-24 AnGap-16
+___ 08:30PM BLOOD Calcium-9.3 Phos-4.1 Mg-2.1
+
+MICRO
+=====
+___ CULTURE-FINALEMERGENCY WARD
+
+IMAGING
+=======
+___ MR ___
+IMPRESSION: 
+Mild degenerative changes in the lumbar spine, with increased 
+left sided disc 
+protrusion in L5-S1 impinging on the left S1 nerve root.
+
+___ MR ___ and T SPINE 
+IMPRESSION:
+1. Mild degenerative changes in the cervical spine.
+2. Normal thoracic spine.
+
+DISCHARGE LABS
+==============
+___ 06:22AM BLOOD WBC-7.0 RBC-4.18 Hgb-12.9 Hct-39.7 MCV-95 
+MCH-30.9 MCHC-32.5 RDW-13.0 RDWSD-44.8 Plt ___
+___ 06:22AM BLOOD Plt ___
+___ 06:22AM BLOOD Glucose-93 UreaN-12 Creat-0.6 Na-137 
+K-4.0 Cl-104 HCO3-23 AnGap-14
+___ 06:22AM BLOOD Calcium-8.3* Phos-3.5 Mg-2.0
+ 
+Brief Hospital Course:
+HOSPITAL COURSE
+===============
+Ms. ___ is a ___ year old woman with history of herniated 
+disc in L4, L5, S1, hypothyroidism, and asthma, who presented 
+with two weeks of worsening lower back pain and fecal/urinary 
+incontinence after pushing her car along the road. MRI spine was 
+negative for any cord compression. She was evaluated by 
+neurosurgery who did not recommend acute intervention. She was 
+admitted for pain control. Her incontinence had resolved for the 
+past 2 days and her pain returned to her baseline ___. 
+Neurosurgery recommended she may follow up in clinic as needed. 
+Patient was able to ambulate and was discharged home and to 
+follow up with PCP for further outpatient workup.
+
+ACUTE ISSUES
+============
+# Acute on Chronic Back Pain: Patient with long standing history 
+of back pain since age ___, presenting with acute exacerbation 
+with associated shooting leg pain/parasthesias, fecal and 
+urinary incontinence in setting of pushing her car two weeks 
+prior to admission. Now s/p MRI spine in the ED without evidence 
+of acute cord or focal nerve compression. Per neurosurgery no 
+acute intervention required and no precautions required. She was 
+admitted for pain control. Her incontinence had resolved for the 
+past 2 days and her pain returned to her baseline ___. 
+Discharged with ibuprofen, gabapentin, lidocaine, and home 
+Vicodin.
+
+# Fecal/Urinary Incontinence: Patient presenting with acute back 
+pain and fecal/urinary incontinence. No acute nerve compression 
+identified on MRI to explain symptoms. At this point favor pain 
+and extra-axial nerve compression as etiology. None in past 48 
+hours prior to discharge. Patient to f/u with PCP for further 
+workup and treatment.
+
+CHRONIC ISSUES
+==============
+# Hypothyroidism: Continued levothyroxine. 
+
+# Anxiety/Depression: Continued sertraline, clonazepam. 
+
+TRANSITIONAL ISSUES
+===================
+[] New medications
+- Gabapentin 300 mg PO/NG TID 
+- Lidocaine 5% Patch 1 PTCH TD QPM 
+[] Follow up appointment with PCP and neurosurgery as above
+[] Patient to call PCP or return to ED if develops an worsening 
+pain, weakness, or incontinence
+# CODE: Full 
+# CONTACT: ___ /___ OR 
+___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ClonazePAM 0.5 mg PO Q8H:PRN anxiety 
+2. HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Q8H:PRN Pain - 
+Moderate 
+3. Levothyroxine Sodium 88 mcg PO DAILY 
+4. Sertraline 50 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Gabapentin 300 mg PO TID 
+RX *gabapentin 300 mg 1 capsule(s) by mouth Three times a day 
+Disp #*90 Capsule Refills:*0 
+2.  Lidocaine 5% Patch 1 PTCH TD QPM 
+RX *lidocaine [Lidoderm] 5 %  Daily Disp #*30 Patch Refills:*0 
+3.  HYDROcodone-Acetaminophen (5mg-325mg) 1 TAB PO Q4H:PRN Pain 
+- Moderate  
+4.  ClonazePAM 0.5 mg PO Q8H:PRN anxiety  
+5.  Levothyroxine Sodium 88 mcg PO DAILY  
+6.  Sertraline 50 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis
+- Urinary and fecal incontinence
+- Acute back pain
+Secondary diagnosis
+- Chronic back pain
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+ 
+Discharge Instructions:
+Dear Ms. ___,
+ 
+You were admitted to the hospital because you were having back 
+pain and incontinence for the past two weeks. We did an MRI of 
+your spine which did not show any compression of your spinal 
+cord or other dangerous causes for the incontinence. You were 
+able to walk and your incontinence improved. We treated your 
+pain and felt you were safe for discharge. 
+
+Continue taking your home Vicodin and ibuprofen. Do NOT take any 
+Tylenol, as that is contained in your Vicodin. You may take more 
+Vicodin (up to 6 times per day) if you need it to control your 
+pain. 
+ 
+Please contact your PCP (___) to arrange follow up and 
+to work up your symptoms within the next week. 
+ 
+If you develop any worsening leg pain, leg weakness, or 
+worsening incontinence, please call your PCP or return to the ER 
+immediately.
+ 
+Please call the spine clinic (___) to schedule an 
+appointment within the next two weeks.
+ 
+It was a privilege caring for you in the hospital, and we wish 
+you all the best.
+ 
+Sincerely,
+ 
+Your ___ Health Team
+ 
+Followup Instructions:
+___

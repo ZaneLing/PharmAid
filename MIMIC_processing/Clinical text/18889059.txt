@@ -1,0 +1,308 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodinated Contrast Media - IV Dye
+ 
+Attending: ___.
+ 
+Chief Complaint:
+thrombocytopenia
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ year old man with PMH of CAD s/p stent, MI, left carotid 
+endarectomy, is referred to ___ for thrombocytopenia due to 
+Dengue Fever. Patient was in the ___ for the last 
+few months and arrived in the ___ 3 days ago. The last 3 days 
+while in the ___ ___ fevers, chills, body aches and profuse 
+diarrhea. Went to the hospital in the ___ ___ an 
+injection, but does not know of what. He was bitten multiple 
+times by mosquitos while there. By the time he arrived in the 
+___, he felt well and was no longer having symptoms. He went to 
+his PCP who reportedly tested him for Dengue and per patient 
+report was positive. PCP is not in our system and do not have 
+access to medical records. Other labs showed thrombocytopenia 
+and patient was sent to the ED.
+
+In the ED, initial vitals were:  
+ - Labs were significant for 97.8 51 155/79 18 100% RA  
+ - Imaging revealed Left infrahilar opacity, in the appropriate 
+clinical setting, could be consistent with pneumonia.  
+ - The patient was given levofloxacin IV  
+
+Upon arrival to the floor he states that he has no symptoms or 
+signs of bleeding. Levofloxacin stopped. Patient reports having 
+had Dengue fever one time in the past, that self resolved. He 
+denies headaches, vision changes, shortness of breath, chest 
+pain, abdominal pain, abdominal swelling, lower extremity 
+swelling. Denies any rashes or bruising of his skin. Doesn't 
+think that he needs to be in the hospital. Would like to go 
+home. 
+
+ 
+Past Medical History:
+ CAD  
+ MI  
+ Left Carotid endarectomy  
+ HLD  
+ Left BKA due to accident in ___  
+ 
+___:
+___
+Family History:
+No family history of bleeding disorders.  
+ 
+Physical Exam:
+==================
+ADMISSION EXAM:
+==================
+ Vitals: 97.7 137/90 57 18 96%RA  
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclera anicteric, MMM, oropharynx clear, EOMI, PERRL  
+ Neck: Supple, JVP not elevated, no LAD  
+ CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no organomegaly, no rebound or guarding  
+ GU: No foley  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+ Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation  
+
+==================
+DISCHARGE EXAM:
+==================
+VITALS:  98, 132/43, 47, 16, 99RA
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear  
+NECK: Supple, JVP not elevated 
+RESP: Clear to auscultation bilaterally, no wheezes, rales, 
+ronchi  
+CV: bradycardic, normal S1 + S2, no murmurs, rubs, gallops  
+ABD: +BS, soft, nondistended, nontender to palpation. No 
+hepatomegaly.  
+GU: no foley  
+EXT: right leg with BKA, incision well healed. Extremities warm, 
+well perfused, 2+ pulses in left DP, no clubbing, cyanosis or 
+edema  
+NEURO: CNs2-12 intact, motor function grossly normal
+SKIN: No evidence of ecchymosis, petechiae anywhere on body.    
+ 
+Pertinent Results:
+==================
+ADMISSION LABS:
+==================
+
+___ 06:35PM   WBC-7.2 RBC-4.56* HGB-13.5* HCT-41.8 MCV-92 
+MCH-29.6 MCHC-32.3 RDW-14.3 RDWSD-47.8*
+___ 06:35PM   NEUTS-35.0 ___ MONOS-13.4* EOS-3.8 
+BASOS-0.6 IM ___ AbsNeut-2.50 AbsLymp-3.32 AbsMono-0.96* 
+AbsEos-0.27 AbsBaso-0.04
+___ 06:35PM   PLT SMR-LOW PLT COUNT-99*
+___ 06:35PM   ___ PTT-31.4 ___
+___ 06:35PM   ALT(SGPT)-57* AST(SGOT)-52* ALK PHOS-121 TOT 
+BILI-0.3
+___ 06:35PM   LIPASE-72*
+___ 06:35PM   ALBUMIN-3.4* CALCIUM-9.1 PHOSPHATE-2.9 
+MAGNESIUM-1.9
+___ 06:57PM   LACTATE-2.1*
+___ 06:35PM   GLUCOSE-90 UREA N-16 CREAT-1.1 SODIUM-141 
+POTASSIUM-4.8 CHLORIDE-104 TOTAL CO2-30 ANION GAP-12
+
+==================
+DISCHARGE LABS:
+==================
+
+___ 06:51AM BLOOD WBC-6.0 RBC-4.75 Hgb-13.7 Hct-42.8 MCV-90 
+MCH-28.8 MCHC-32.0 RDW-14.3 RDWSD-46.7* Plt ___
+___ 06:51AM BLOOD Glucose-87 UreaN-14 Creat-0.9 Na-138 
+K-4.8 Cl-104 HCO3-25 AnGap-14
+___ 06:51AM BLOOD ALT-48* AST-39 AlkPhos-112 TotBili-0.3
+___:51AM BLOOD Calcium-8.7 Phos-2.3* Mg-1.8
+
+===========
+IMAGING:
+===========
+RUQ US ___: Normal abdominal ultrasound.
+
+CXR ___: Streaky perihilar opacities, left greater than 
+right may represent an atypical infection though clinical 
+correlation is advised.  A nonemergent CT may be performed to 
+further evaluate. 
+ 
+Brief Hospital Course:
+___ with history of CAD s/p PCI, hx of Dengue fever, presents 
+with reported Dengue and thrombocytopenia, transaminitis. 
+
+# Dengue Fever, complicated by Thrombocytopenia and 
+transaminitis: Patient recently returned from prolonged stay in 
+the ___. Reports having 3 days of fever there, 
+was evaluated in ___ ___ unknown injection. No longer 
+having fevers. Sent in to ED for thrombocytopenia. At this 
+point, patient appears clinically stable with no signs of end 
+organ damage or hemorrhage. No evidence to support hemorrhagic 
+dengue fever. Only concerning feature is that patient reports 
+having Dengue in the past. RUQ US normal.  LFTs somewhat 
+normalized on repeat labs. Platelets improved, no signs of 
+anemia -- no ecchymosis or petichiae on exam. Remained afebrile 
+overnight. Patient felt well and wanted to go home. Since no 
+signs of concerning features of Dengue, patient discharged and 
+instructed to call PCP to make follow up appointment and have 
+labs checked on ___ to monitor thrombocytopenia and 
+transaminitis. Instructed to return to the hospital for evidence 
+of bleeding, bruising, petechial rash. 
+
+# Abnormal CXR finding: CXR in ED showed streaky perihilar 
+opacities that could represent atypical infection. Patient has 
+no shortness of breath, no sputum, no cough. Did have fever in 
+setting of diagnosis of dengue fever, which has since resolved. 
+Given levofloxacin in the ED, but clinically does not appear to 
+have pneumonia and antibiotics stopped. He will require follow 
+up with PCP and nonemergent CT scan to further evaluate. 
+
+CHRONIC ISSUES:
+#CAD: continued home ___, metop, atorvastatin  
+
+# Left carotid endarterectomy: continued aspirin, ___, 
+atorvastatin
+
+# Chronic pain secondary to right BKA: unable to confirm exact 
+dosages of home medications. Based on OMR history records, 
+should be on oxycodone-acetaminophen ___ q6h prn pain; 
+gabapentin 800mg TID. Told patient to continue home medications. 
+
+
+# Insomnia: cont trazodone 100mg daily
+
+# GERD: continue omeprazole 40mg daily 
+
+===========================
+TRANSITIONAL ISSUES:
+===========================
+- Patient needs repeat CBC and LFTs on ___ to 
+monitor thrombocytopenia and transaminitis
+- No signs of hemorrhage on exam, patient given specific 
+instructions of signs to return to the ED
+- Unable to confirm home medications completely, but no changes 
+made to medications. Please review home medications and 
+encourage patient to have a list of medications with him at all 
+time. 
+- Incidental finding: Streaky perihilar opacities, left greater 
+than right may represent an atypical infection though clinical 
+correlation is advised. A nonemergent CT may be performed to 
+further evaluate.
+- if hasn't been done, consider HIV test for fevers
+- FULL CODE
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Atorvastatin 10 mg PO QPM 
+2. Clopidogrel 75 mg PO DAILY 
+3. Gabapentin 800 mg PO TID 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. Paroxetine 20 mg PO DAILY 
+6. Aspirin 325 mg PO DAILY 
+7. TraZODone 100 mg PO QHS 
+8. Oxycodone-Acetaminophen (5mg-325mg) 2 TAB PO Q6H:PRN pain 
+9. Omeprazole 40 mg PO DAILY 
+10. Loratadine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1. Aspirin 325 mg PO DAILY 
+2. Atorvastatin 10 mg PO QPM 
+Unable to confirm home dose. Please confirm prior to giving new 
+script.  
+3. Clopidogrel 75 mg PO DAILY 
+4. Metoprolol Succinate XL 25 mg PO DAILY 
+5. TraZODone 100 mg PO QHS 
+6. Loratadine 10 mg PO DAILY 
+7. Omeprazole 40 mg PO DAILY 
+8. Oxycodone-Acetaminophen (5mg-325mg) 2 TAB PO Q6H:PRN pain 
+Unable to confirm home dose. Please confirm prior to giving new 
+script.  
+9. Paroxetine 20 mg PO DAILY 
+10. Gabapentin 800 mg PO TID 
+Unable to confirm home dose. Please confirm prior to giving new 
+script.  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+Dengue Fever
+Thrombocytopenia
+Transaminitis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure taking care of ___ at ___. 
+___ were sent to the hospital for low platelet levels thought to 
+be due to your Dengue fever. The concern was that some people 
+with Dengue Fever are at risk for bleeding. However, ___ have no 
+signs of bleeding on exam and your platelet levels improved. 
+
+It is important that ___ have repeat labs drawn on ___ 
+___ to monitor your platelet levels. ___ should call 
+your doctor to make an appointment. 
+
+Please return to the hospital if ___ have any concerning signs 
+of bleeding, bruising, rashes, as it may be a serious 
+complication of your Dengue Fever. 
+
+Also, your primary care doctor ___ evaluate ___ for any signs 
+of pneumonia, as your XRAY showed a possible pneumonia. 
+
+We wish ___ the best of health, 
+
+Your medical team at ___ 
+
+___ ___, 
+
+Usted fue ___ hospital para niveles bajos de plaquetas 
+porque tiene ___ del dengue. ___ preocupación era ___ algunas 
+personas con ___ del dengue están ___ de sangrado. 
+Ahora, usted no tiene signos de sangrado en el examen y sus 
+niveles de plaquetas mejoradas.
+
+Es importante ___ usted tenga mas laboratorios en lunes para 
+monitar sus niveles de ___. Usted debe ___ médico 
+para hacer una cita.
+
+Por favor ___ hospital si tiene alguna concerniente 
+signos de sangrado, moretones, erupciones del ___ puede 
+ser una complicación grave ___ del dengue.
+
+Además, ___ médico primaria lo evaluará para detectar cualquier 
+signo de neumonía, como ___ mostró una posible neumonía.
+
+___, 
+
+Sus medicos ___ Deaconess
+ 
+Followup Instructions:
+___

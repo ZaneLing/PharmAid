@@ -1,0 +1,257 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Syncope
+ 
+Major Surgical or Invasive Procedure:
+TTE ___
+No intracardiac source of syncope identified. Preserved 
+biventricular systolic function. No clinically significant 
+valvular disease. Mildly dilated ascending aorta. Normal 
+pulmonary artery systolic pressure.
+
+ 
+History of Present Illness:
+In brief, this patient is a  ___ with T2DM, HTN who presents 
+with syncope from standing height and bradycardia with RBBB. 
+Prior to fainting he was feeling dizzy, nauseous, and 
+diaphoretic. He began to dry heave. He then lost consciousness, 
+he thinks for about a minute, and had fallen to the ground on 
+his face/chest. He denies any palpitations during the episode, 
+or bowel/bladder incontinence. He has never experienced an 
+episode like this before. He recently started a diet (calorie 
+restriction) but feels he has been eating adequately. At 
+baseline he says his heart rate is 55 and that the RBBB was 
+discovered many years ago. He used to be followed by a 
+cardiologist but is no longer. He reports that he wore a holter 
+monitor ___ years ago he thinks for evaluation of arrhythmia but 
+does not recall any further details. 
+
+He has also been having 1 month of watery diarrhea (at least 1 
+episode/day, sometimes up to 3). He denies any recent travel 
+other than to ___ in ___. No sick contacts. Denies 
+abdominal pain, chills, fevers, hematochezia, melena. Last BM 
+was 1 day PTA, was well-formed. He started taking a magnesium 
+supplement 3 months ago. Patient has been eating dairy and wheat 
+for his whole life with no apparent issue.
+ 
+Past Medical History:
+-Type 2 Diabetes
+-Hypertension 
+-Seasonal Allergies
+
+ 
+Social History:
+___
+Family History:
+Father died of an MI at age ___, Mother had cancer. Prevalent 
+Type II DM in many family members. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+PHYSICAL EXAM:  
+VITALS: T: 98.3 HR: 52 BP: 145 / 73 RR: 18 Pox:96% Ra   
+GENERAL: NAD 
+EYES:PERRLA, no scleral icterus, nl conjuctiva   
+ENT: MMM, Lips don't appear overly dry. Significant bruising on
+inner surface of upper labial mucosa 
+CV: RRR no m/r/g 
+RESP:  CTAB
+GI: +BS, soft, no TTP, no HSM 
+EXT: No ___ Edema, +pedal pulses b/l
+SKIN: abrasions on nose, forehead 
+NEURO: AOx3, no focal defecits  
+PSYCH: Appropriate mood and affect 
+
+DISCHARGE PHYSICAL EXAM:
+======================
+VITALS - 98.8 BP: 134 / 66 HR: 54 RR: 18 O2Sat: 96 RA 
+GENERAL - No acute distress. 
+HEENT - Sclera anicteric, PERRL, MMM. 
+NECK - Supple.
+CARDIAC - Bradycardic with regular rhythm, no murmurs rubs or 
+gallops. PMI non-displaced. No carotid bruits.
+LUNGS - CTAB
+ABDOMEN - Non-tender, non-distended. Normal bowel sounds. No 
+HSM. 
+EXTREMITIES - 2+ pulses bilaterally. No edema.
+SKIN - No rashes, warm and well perfused. 
+NEUROLOGIC - A+Ox3, ___ strength bilaterally. 
+ 
+ 
+Pertinent Results:
+ADMISSION LABS:
+=============
+___ 01:05PM BLOOD WBC-9.6 RBC-5.15 Hgb-14.9 Hct-44.4 MCV-86 
+MCH-28.9 MCHC-33.6 RDW-12.9 RDWSD-40.3 Plt ___
+___ 01:05PM BLOOD Neuts-51.7 ___ Monos-6.4 Eos-2.6 
+Baso-0.4 Im ___ AbsNeut-4.95 AbsLymp-3.68 AbsMono-0.61 
+AbsEos-0.25 AbsBaso-0.04
+___ 01:05PM BLOOD ___ PTT-25.1 ___
+___ 01:05PM BLOOD Plt ___
+___ 01:05PM BLOOD Glucose-192* UreaN-29* Creat-1.1 Na-139 
+K-4.6 Cl-103 HCO3-23 AnGap-13
+___ 01:05PM BLOOD ALT-33 AST-29 AlkPhos-108 TotBili-0.6
+___ 01:05PM BLOOD cTropnT-<0.01
+___ 06:30PM BLOOD cTropnT-<0.01
+___ 01:18PM BLOOD Lactate-2.5*
+
+DISCHARGE LABS:
+=============
+___ 08:05AM BLOOD WBC-6.7 RBC-4.98 Hgb-14.3 Hct-43.1 MCV-87 
+MCH-28.7 MCHC-33.2 RDW-13.0 RDWSD-40.4 Plt ___
+___ 08:05AM BLOOD Plt ___
+___ 08:05AM BLOOD Glucose-148* UreaN-13 Creat-1.0 Na-145 
+K-4.4 Cl-105 HCO3-22 AnGap-18*
+___ 08:05AM BLOOD ALT-21 AST-20 AlkPhos-80 TotBili-0.8
+___ 08:05AM BLOOD Calcium-9.2 Phos-2.5* Mg-2.0
+___ 08:05AM BLOOD TSH-2.1
+___ 08:22AM BLOOD Lactate-1.1
+
+MICRO:
+=====
+FECAL CULTURE-PENDING; CAMPYLOBACTER CULTURE-PENDING; FECAL 
+CULTURE - R/O E.COLI 0157:H7-FINAL
+ 
+Brief Hospital Course:
+___ with a history of HTN and T2DM presenting with an episode of 
+syncope with head strike iso one month of diarrhea, found to 
+have sinus bradycardia upon admission. 
+
+ACUTE ISSUES:
+=============
+
+# Syncope: Likely ___ vasovagal reaction iso volume depletion 
+from one month of diarrhea. Other etiologies include cardiac 
+arrhythmia given sinus bradycardia and RBBB noted on EKG, no 
+other events noted on telemetry. No e/o ischemia given troponins 
+negative x2 and no wall motion abnormalities seen on TTE. 
+Negative orthostatics, TSH within normal limits, no history 
+concerning for seizure. No evidence of trauma on CT head, CT 
+C-spine or CT sinus/mandible/maxillary. 
+
+# Sinus bradycardia/RBBB: No evidence of AV delay or block on 
+EKG. Sinus bradycardia is possibly ___ medication effect iso 
+atenolol usage versus conduction delay given RBBB. Of note, no 
+prior EKG for comparison but pt reports RBBB is long-standing, 
+possibly ___ hypertension. Patient asymptomatic during 
+admission.
+
+# Diarrhea: Patient with 1 month of watery diarrhea, likely ___ 
+dietary changes/magnesium supplements vs. inflammatory reaction, 
+vs. less likely infectious. Stool cultures sent, pending upon 
+discharge.
+
+CHRONIC ISSUES:
+===============
+
+# Hypertension. On home amlodipine-benazepril ___ mg oral daily 
+and atenolol 100 mg QD. Blood pressures SBPs 130-160s during 
+admission, HRs 40-50s. Atenolol was held during admission and pt 
+received amlodipine 5 mg and lisinopril 10 mg QD. Discharged on 
+home amlodipine-benazepril ___ mg, home atenolol was held upon 
+discharge. 
+
+TRANSITIONAL ISSUES:
+====================
+[ ] Consider restarting atenolol pending PCP ___
+[ ] Continue outpatient diarrhea work up 
+[ ] Dilated ascending aorta seen on TTE ___. Follow-up 
+echocardiogram is suggested in ___ year; if previously known and 
+stable, a follow-up echocardiogram is suggested in ___ years. 
+[ ] Consider further work up for sinus bradycardia, including 
+___ of Hearts monitor to further evaluate for cardiac 
+arrhythmia
+[ ] Follow up stool cultures (___)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 100 mg PO DAILY 
+2. Januvia (SITagliptin) 100 mg oral DAILY 
+3. Fexofenadine 180 mg PO DAILY 
+4. Invokamet (canagliflozin-metformin) 50-1,000 mg oral BID 
+5. amlodipine-benazepril ___ mg oral DAILY 
+6. Pravastatin 80 mg PO DAILY 
+7. MetroNIDAZOLE 250 mg PO DAILY 
+8. Diphenoxylate-Atropine 1 TAB PO Frequency is Unknown 
+
+ 
+Discharge Medications:
+1.  Diphenoxylate-Atropine 1 TAB PO QD:PRN diarrhea  
+2.  amlodipine-benazepril ___ mg oral DAILY  
+3.  Fexofenadine 180 mg PO DAILY  
+4.  Invokamet (canagliflozin-metformin) 50-1,000 mg oral BID  
+5.  Januvia (SITagliptin) 100 mg oral DAILY  
+6.  Pravastatin 80 mg PO DAILY  
+7. HELD- Atenolol 100 mg PO DAILY  This medication was held. Do 
+not restart Atenolol until Discuss with PCP
+8. HELD- MetroNIDAZOLE 250 mg PO DAILY  This medication was 
+held. Do not restart MetroNIDAZOLE until Discuss with PCP
+
+ 
+___:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+Syncope
+Sinus Bradycardia
+Right Bundle Branch Block
+Diarrhea
+
+SECONDARY DIAGNOSIS:
+====================
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure being part of your care.
+
+You were admitted to the hospital for evaluation of a fainting 
+episode. You were also found to have a slow heart rate. 
+
+It is likely that your fainting episode was due to a "vasovagal" 
+episode where your nervous system overreacts and can cause you 
+to pass out. You received CT imaging of your head and spine 
+which showed no bone fractures or bleeding. 
+
+It is less likely that your fainting episode was due to a slowed 
+heart rate, though you should continue to monitor your slow 
+heart rate with your primary care doctor when you leave the 
+hospital. You received an echocardiogram (ultrasound image of 
+your heart) which did not show any possible cause for your 
+fainting. 
+
+You have also been having diarrhea for one month. This is 
+unlikely due to an infection and you should continue to manage 
+this with your primary care doctor as well.
+
+If you experience any chest pain, difficulty breathing, heart 
+palpitations, fevers, chills or worsening diarrhea. 
+
+We wish you the best,
+Your ___ Team 
+ 
+Followup Instructions:
+___

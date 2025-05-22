@@ -1,0 +1,403 @@
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Worsening cough, night sweats, hemoptysis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ M h/o well-controlled HIV (last VL = 0, 
+CD4 > 400) p/w 7 d of productive cough and more recently 1 
+episode of small volume hemoptysis. Pt developed a progressive 
+productive cough w/ green/yellow sputum beginning 7 d ago. After 
+seeing PCP, pt given inhaler and steroid burst, which he took 
+for 4 d, but symptoms worsened. No fevers, chills, but has been 
+having nightsweats, SOB, and some PND, in setting of coughing as 
+well. Pt denies any loss of energy, appetite, or unintentional 
+weight loss over past few months. He denies orthopnea or 
+increased ___ swelling. Despite some n/v in post-tussive setting, 
+he is still taking PO. He denies associated chest pain, 
+abdominal pain, diarrhea, dysuria. Yesterday, pt had a severe 
+bout of coughing w/ one episode of hemoptysis w/ quarter-sized 
+red clots, but no further hemoptysis since then. 
+
+His only sick contact has been a friend who was in the hospital 
+for skin and heart infection ___ "staph." He has had no 
+exposures to homeless shelters or prisons. He has no history of 
+DVT, no recent prolonged immobilization.
+ 
+Past Medical History:
+-HIV (Well controlled with last VL 0, CD4 >400
+-Anxiety
+-Tobacco Abuse
+-History nasal surgery
+ 
+Social History:
+___
+Family History:
+No h/o recurrent infections. Family history notable for 
+pancreatic cancer in mother.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+======================
+
+Vital Signs: 98.5 - 99.1, BP 101/67 - 105/61, HR 76, RR 18 - 20, 
+O2sat 93-94% on RA.
+General: Alert, oriented, no acute distress
+HEENT: Sclerae anicteric, MMM, oropharynx clear 
+Neck: Supple.
+CV: Regular rate and rhythm. Normal S1+S2, no murmurs, rubs, 
+gallops.  
+Lungs: Lungs with good air movement, no wheezing, crackles most 
+prominent in R upper and middle lobe, with some basilar crackles 
+bilaterally.
+Abdomen: Soft, non-tender, non-distended, bowel sounds present, 
+no rebound or guarding  
+Ext: WWP, 2+ pulses, no edema  
+Neuro: symmetric smile and eyebrow raise; ___ strength upper 
+extremities, able to lift both legs up against gravity; grossly 
+symmetric and normal sensation
+
+DISCHARGE PHYSICAL EXAM:
+======================
+
+PHYSICAL EXAM:  
+Vitals: 97.9-99.1 105/61-125/74 ___ 90-94% RA
+General: alert, oriented, no acute distress  
+HEENT: sclera anicteric, MMM, oropharynx clear  
+Neck: supple
+Lungs: Some faint crackles in R upper and middle lobes but 
+improved compared to yesterday. 
+CV: RRR, normal S1 + S2, no murmurs, rubs, gallops  
+Abdomen: soft, non-tender, non-distended, bowel sounds present, 
+no rebound tenderness or guarding
+Ext: WWP, 2+ pulses, no edema  
+Neuro: Motor function grossly normal  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 05:50PM BLOOD WBC-13.1*# RBC-4.38* Hgb-14.2 Hct-40.8 
+MCV-93 MCH-32.4* MCHC-34.8 RDW-13.9 RDWSD-47.8* Plt ___
+___ 05:50PM BLOOD Neuts-69.3 ___ Monos-8.9 Eos-0.5* 
+Baso-0.2 Im ___ AbsNeut-9.07* AbsLymp-2.66 AbsMono-1.16* 
+AbsEos-0.07 AbsBaso-0.03
+___ 05:50PM BLOOD Plt ___
+___ 05:50PM BLOOD ___ PTT-22.8* ___
+___ 05:50PM BLOOD Glucose-90 UreaN-20 Creat-1.0 Na-141 
+K-3.7 Cl-105 HCO3-25 AnGap-15
+___ 05:50PM BLOOD Calcium-8.9 Phos-2.4* Mg-2.1
+___ 06:27PM BLOOD Lactate-2.0
+
+DISCHARGE LABS:
+
+___ 08:53AM BLOOD WBC-7.8 RBC-4.70 Hgb-15.0 Hct-43.8 MCV-93 
+MCH-31.9 MCHC-34.2 RDW-13.9 RDWSD-47.2* Plt ___
+___ 08:53AM BLOOD Plt ___
+___ 08:53AM BLOOD Glucose-132* UreaN-17 Creat-1.1 Na-138 
+K-3.5 Cl-100 HCO3-29 AnGap-13
+___ 08:53AM BLOOD Calcium-8.8 Phos-2.6* Mg-2.3
+
+MICRO:
+
+___ RVP, flu, and legionella urine ag negative.
+
+___ blood cultures: pending
+
+___ 11:39 pm
+      SPUTUM      Source: Expectorated. 
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and >10 epithelial cells/100X field. 
+      Gram stain indicates extensive contamination with upper 
+respiratory
+      secretions. Bacterial culture results are invalid. 
+      PLEASE SUBMIT ANOTHER SPECIMEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+___ 6:23 am SPUTUM      Source: Induced. 
+
+   GRAM STAIN (Final ___: 
+      <10 PMNs and >10 epithelial cells/100X field. 
+      Gram stain indicates extensive contamination with upper 
+respiratory
+      secretions. Bacterial culture results are invalid. 
+      PLEASE SUBMIT ANOTHER SPECIMEN. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      TEST CANCELLED, PATIENT CREDITED. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+___ 3:09 pm SPUTUM      Source: Induced. 
+
+   GRAM STAIN (Final ___: 
+      >25 PMNs and <10 epithelial cells/100X field. 
+      2+   ___ per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+      SMEAR REVIEWED; RESULTS CONFIRMED. 
+
+   RESPIRATORY CULTURE (Final ___: 
+      MODERATE GROWTH Commensal Respiratory Flora. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON CONCENTRATED SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+IMAGING:
+
+___:
+
+EXAMINATION:  CHEST (PA AND LAT)
+ 
+INDICATION:  History: ___ with HIV+ and complaints of 
+hemoptysis//? any acute
+process
+ 
+TECHNIQUE:  Chest PA and lateral
+ 
+COMPARISON:  Chest radiograph ___hest ___
+ 
+FINDINGS: 
+ 
+Heart size is normal.  The mediastinal and hilar contours are 
+normal. The
+pulmonary vasculature is normal.  Streaky opacity in the 
+retrocardiac region
+suggests airway thickening and possible associated infection.  
+Minimal patchy
+right upper lobe opacity is also demonstrated.  No focal 
+consolidation.  No
+pleural effusion or pneumothorax is seen. There are no acute 
+osseous
+abnormalities.
+ 
+IMPRESSION: 
+ 
+Streaky retrocardiac and patchy right upper lobe opacities may 
+reflect areas
+of infection and airways disease.
+ 
+EXAMINATION:  CTA CHEST WITH CONTRAST
+ 
+INDICATION:  History: ___ with well-controlled HIV (VL 0, 
+CD4>400) presenting
+with hemoptysis, night sweats// hemoptysis, night sweats, ?TB 
+vs. malignancy
+vs. PE
+ 
+TECHNIQUE:  Axial multidetector CT images were obtained through 
+the thorax
+after the uneventful administration of intravenous contrast.  
+Reformatted
+coronal, sagittal, thin slice axial images, and oblique maximal 
+intensity
+projection images were submitted to PACS and reviewed.
+ 
+DOSE:  Acquisition sequence:
+   1) Stationary Acquisition 2.5 s, 0.5 cm; CTDIvol = 7.6 mGy 
+(Body) DLP = 3.8
+mGy-cm.
+   2) Spiral Acquisition 3.7 s, 29.1 cm; CTDIvol = 7.1 mGy 
+(Body) DLP = 204.9
+mGy-cm.
+ Total DLP (Body) = 209 mGy-cm.
+ 
+COMPARISON:  Chest radiograph from ___ at 1800, CT chest 
+___
+ 
+FINDINGS: 
+ 
+HEART AND VASCULATURE: Pulmonary vasculature is well opacified 
+to the
+segmental level without filling defect to indicate a pulmonary 
+embolus.  The
+thoracic aorta is normal in caliber without evidence of 
+dissection or
+intramural hematoma.  The heart, pericardium, and great vessels 
+are within
+normal limits. No pericardial effusion is seen.
+ 
+AXILLA, HILA, AND MEDIASTINUM: A right hilar lymph node is 
+mildly prominent
+measuring 10 mm in short axis (02:41) likely reactive.  No 
+axillary or
+mediastinal lymphadenopathy is present.  No mediastinal mass.
+ 
+PLEURAL SPACES: No pleural effusion or pneumothorax.
+ 
+LUNGS/AIRWAYS: The airways are patent to the level of the 
+segmental bronchi
+bilaterally.  Diffuse bronchial wall thickening is consistent 
+with airways
+disease.  Centrilobular emphysema is mild-to-moderate.  In the 
+right upper
+lobe, ground-glass opacities with ___ morphology are 
+concerning for
+small airways infection (02:42, 02:39, 02:32).
+ 
+BASE OF NECK: Visualized portions of the base of the neck show 
+no abnormality.
+ 
+ABDOMEN:  Included portion of the upper abdomen is unremarkable.
+ 
+BONES: No suspicious osseous abnormality is seen.? There is no 
+acute fracture.
+ 
+IMPRESSION:
+ 
+1. Right upper lobe ___ ground-glass nodular opacities 
+compatible with
+small airways infection.
+2. Diffuse airway wall thickening compatible with chronic 
+airways disease and
+mild to moderate centrilobular emphysema.
+3. No evidence of pulmonary embolism or aortic abnormality.
+4. No findings to suggest malignancy.
+ 
+Brief Hospital Course:
+In brief, Mr. ___ is a ___ M h/o well-controlled HIV (last 
+VL = 0, CD4 > 400) p/w 7 d of productive cough, night sweats, 
+and one recent episode of small volume hemoptysis, who was found 
+to have community-acquired pneumonia (which improved with 
+ceftriaxone/azithromycin and transitioned to cefpodoxime/azithro 
+on discharge). Patient ruled out for TB while inpatient.
+
+ACTIVE ISSUES: 
+==============
+# Hemoptysis: 
+Patient presented with one episode of small volume hemoptysis in 
+the setting of severe coughing, with no further episodes after 
+admission. CTA showed no evidence of PE and hemoglobin remained 
+stable during admission. During admission, patient was ruled out 
+for active tuberculosis with three negative concentrated AFB 
+smears. Hemoptysis likely secondary to underlying pneumonia or 
+trauma from coughing. Hemoptysis resolved on discharge.
+
+# Community-acquired pneumonia
+Patient presented with 7-days of productive cough and night 
+sweats. Laboratory studies showed leukocytosis and CT was 
+notable for right upper lobe ___ ground-glass nodular 
+opacities compatible with small airways infection, and workup 
+was otherwise unrevealing. Patient thought to have 
+community-acquired pneumonia. Treated with IV ceftriaxone and 
+azithromycin and transitioned to cefpodoxime and azithromycin 
+with plans to complete a 5-day course on discharge (projected 
+end date ___. 
+
+CHRONIC ISSUES:
+===============
+# HIV infection: Pt is currently well-controlled on home triumeq 
+and was maintained on abacavir, lamivudine, and dolutegravir 
+while hospitalized
+# Anxiety: Pt was maintained on his home clonazepam and 
+venlafaxine
+# Smoking cessation: Pt trying to quit and making progress - his 
+efforts were encouraged during his hospitalization
+
+TRANSITIONAL ISSUES:
+====================
+1. Pt needs to continue cefpodoxime and azithromycin to complete 
+a 5-day course (projected end date ___. Pt should follow up 
+with PCP to ensure resolution of pneumonia.
+
+CODE: full (presumed) 
+CONTACT: ___ (Friend ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. ClonazePAM 0.5-1 mg PO BID:PRN anxiety 
+2. abacavir-dolutegravir-lamivud 600-50-300 mg oral DAILY 
+3. Venlafaxine XR 37.5 mg PO DAILY 
+4. Albuterol Inhaler 2 PUFF IH Q6H:PRN shortness of breath, 
+wheezing 
+5. Venlafaxine XR 75 mg PO DAILY 
+6. Nicotine Patch 21 mg TD DAILY 
+7. Triamcinolone Acetonide 0.1% Cream 1 Appl TP BID 
+8. meloxicam 15 mg oral DAILY 
+9. PredniSONE 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO Q24H Duration: 3 Days 
+Last day ___ 
+RX *azithromycin 250 mg 1 tablet(s) by mouth daily Disp #*2 
+Tablet Refills:*0 
+2.  Cefpodoxime Proxetil 200 mg PO Q12H Duration: 3 Days 
+Last day ___ 
+RX *cefpodoxime 200 mg 1 tablet(s) by mouth every twelve (12) 
+hours Disp #*5 Tablet Refills:*0 
+3.  abacavir-dolutegravir-lamivud 600-50-300 mg oral DAILY  
+4.  Albuterol Inhaler 2 PUFF IH Q6H:PRN shortness of breath, 
+wheezing  
+5.  ClonazePAM 0.5-1 mg PO BID:PRN anxiety  
+6.  meloxicam 15 mg oral DAILY  
+7.  Nicotine Patch 21 mg TD DAILY  
+8.  Triamcinolone Acetonide 0.1% Cream 1 Appl TP BID  
+9.  Venlafaxine XR 37.5 mg PO DAILY  
+10.  Venlafaxine XR 75 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Community acquired pneumonia
+
+Secondary diagnosis:
+HIV infection
+Anxiety
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___. You were admitted for 
+worsening cough with one episode of coughing up blood. You were 
+found NOT to have tuberculosis, a potential cause of coughing up 
+blood.  But you were found to have pneumonia, for which you were 
+treated with antibiotics.  It is very important for you to 
+continue taking the cefpodoxime and azithromycin as indicated 
+and follow up with your providers.  The next dose of cefpodoxime 
+is due at 8pm on ___.  The next dose of azithromycin is due 
+8AM on ___.
+
+Please see below for your upcoming appointments.
+
+Sincerely,
+Your ___ team
+ 
+Followup Instructions:
+___

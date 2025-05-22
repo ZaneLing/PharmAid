@@ -1,0 +1,273 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+Cardiac catheterization
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ Yo M w/ history of primary hypothyroidism and 
+hypercholesterolemia who presented to the ED with chest pain 
+that has been intermittent over the summer. 
+
+Pt states he was running around a baseball diamond with his 
+children when he felt a "searing" pain in his chest that 
+radiates down his bilateral arms around a month ago. He reports 
+that ever since he has felt the same intermittent CP, that is 
+worse with exertion. This pain is substernal, described as 
+"burning" or "squeezing", rated as high as an 8, alleviated by 
+rest. The pain is not reproducible by palpation. These episodes 
+last a few minutes and have been increasing in frequency. They 
+are not accompanied by diaphoresis or dyspnea. These episodes 
+have been recently occurring at rest.   
+
+For the past 2 nights pt has woken up with the pain with 
+radiation down his L arm. 
+
+He states that a couple years ago his PCP noted an abnormal EKG, 
+so pt had a stress test that was irregular. From there he had a 
+stress echo which per report was unremarkable.  Of note he 
+occasionally suffers from reflux but his current chest pain is 
+different from pain from his reflux. 
+
+Pt denies recent travel. Pt denies diaphoresis, nausea, 
+difficulty breathing, cough, abd pain, leg pain, leg swelling, 
+dysuria, hematuria, and any other sxs at this time.
+
+In the ED initial vitals were: T 98.4 HR 79 BP 149/98 RR 18 SPo2 
+98% on RA
+EKG: NSR  
+Labs/studies notable for: Trop 0.06 
+Patient was given: Aspirin 324mg, heparin drip 
+
+On the floor patient appears well but anxious.  He denies chest 
+pain, shortness of breath, paroxysmal nocturnal dyspnea, 
+orthopnea, ankle edema, palpitations, syncope, or presyncope. He 
+was started on a heparin drip as well as metoprolol 12.5 Q6H, 
+atorvastatin 80mg, ASA 325. He was made NPO in preparation for 
+cath tomorrow.   
+
+ 
+Past Medical History:
+primary hypothyroidism/hypercholesterolemia
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death.  
+
+ 
+Physical Exam:
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect 
+appropriate.
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva pink, no 
+pallor or cyanosis of the oral mucosa. No xanthelasma.  
+NECK: Supple with no JVD  
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills, 
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+ 
+Pertinent Results:
+Admission Labs
+
+___ 07:40PM   CK-MB-3 cTropnT-0.08*
+___ 07:40PM   ___ PTT-74.0* ___
+___ 10:40AM   GLUCOSE-91 UREA N-17 CREAT-1.1 SODIUM-141 
+POTASSIUM-5.5* CHLORIDE-103 TOTAL CO2-26 ANION GAP-12
+___ 10:40AM   estGFR-Using this
+___ 10:40AM   CK(CPK)-149
+___ 10:40AM   cTropnT-0.06*
+___ 10:40AM   CK-MB-5
+___ 10:40AM   WBC-5.5 RBC-4.91 HGB-15.6 HCT-45.9 MCV-94 
+MCH-31.8 MCHC-34.0 RDW-12.5 RDWSD-42.6
+___ 10:40AM   NEUTS-50.8 ___ MONOS-9.7 EOS-1.3 
+BASOS-0.4 IM ___ AbsNeut-2.77 AbsLymp-2.04 AbsMono-0.53 
+AbsEos-0.07 AbsBaso-0.02
+___ 10:40AM   PLT COUNT-229
+
+Discharge Labs
+
+___ 11:10AM BLOOD WBC-6.1 RBC-4.65 Hgb-14.3 Hct-43.0 MCV-93 
+MCH-30.8 MCHC-33.3 RDW-12.4 RDWSD-42.2 Plt ___
+___ 11:10AM BLOOD Plt ___
+___ 11:10AM BLOOD Glucose-115* UreaN-15 Creat-1.1 Na-143 
+K-4.5 Cl-103 HCO3-26 AnGap-14
+___ 05:45AM BLOOD CK-MB-3 cTropnT-0.09*
+___ 11:10AM BLOOD Calcium-9.9 Phos-3.4 Mg-2.1
+
+Imaging
+
+Dominance: Right
+* Left Main Coronary Artery
+The LMCA is normal and non obstructive
+* Left Anterior Descending
+The LAD has serial proximal stenoses, 99% and 85% in series, the 
+distal LAD appears to suppply a
+significant portion of the R-PDA
+The ___ Diagonal is does not have ostial disease
+* Circumflex
+The Circumflex is moderate in size and overall non obstructive
+The ___ Marginal is non obstructive
+* Right Coronary Artery
+The RCA is small in caliber and is non dominant
+
+Cath ___
+Interventional Details
+A ___ XB LAD 3.5 guide provided adequate support
+ASA, Clopidogrel and Heparin were used for thromboprophylaxis
+The lesion(s) in the proximal LAD were crossed with a Prowater 
+wire into the distal vessel with relative
+ease
+___ dilation was performed with a 2.5 balloon
+A 3.0 x 22 Onyx drug eluting stent was deployed across the 
+lesion and post dilated with a 3.25 NC
+balloon at 22 ATM distally and 24 ATM proximally
+Final angiography revealed no evidence of dissection, 
+embolization or thrombus. There was TIMI III flow
+in the distal vessel.
+The second diagonal was slightly pinched but with intact distal 
+flow.
+The patient left the lab pain free and hemodynamically stable
+Impressions:
+1. Severe ostial/proximal LAD disease
+2. Successful PCI of the proximal LAD with with a 3 x 22 DES 
+(Onyx), posted with a 32.5 balloon up to 24
+ 
+Brief Hospital Course:
+HOSPITAL COURSE
+===============
+Mr. ___ is a ___ Yo M w/ history of primary hypothyroidism and 
+hypercholesterolemia who presented to the ED with CP that has 
+been intermittent over the past month. He was taken to the cath 
+lab which demonstrated a 99% proximal LAD lesion, stented with 
+___ 1.
+
+ACTIVE ISSUES
+=============
+# CAD
+# NSTEMI
+Patient presented with exertional anginal chest pain of 1 month 
+duration, which was beginning to occur at rest as well. Notably, 
+prior stress EKG test in ___ demonstrated ___epression in leads V4-V6, II, III; it was positive for 
+ischemia. He reports a follow-up stress echo which was negative, 
+and he had no further cardiac workup. No EKG changes during 
+admission, and trop was mildly elevated to peak of 0.09 prior to 
+cath. He was placed on a heparin drip and started on ASA 325mg 
+daily until cath. Cath on ___ showed a hazy, 99% proximal 
+LAD lesion, stented with ___ 1. Asymptomatic afterwards, 
+discharged on aspirin, statin, Plavix, metoprolol. He refused 
+follow-up with ___ cardiology and plans to change his primary 
+care physician outside the ___ system. Thus, he will be 
+referred to ___ for cardiology follow-up.
+
+CHRONIC ISSUES
+==============
+# Hypothyroidism
+Continued levothyroxine 150mcg daily.
+
+# Hyperlipidemia 
+Started atorvastatin 80mg QDAY.
+
+TRANSITIONAL ISSUES
+===================
+[] The cardiology department is working on an appointment, will 
+call patient with more information within 48 hours; will call 
+___ to book directly if does not hear
+
+# NEW MEDS
+- Aspirin 81 mg PO/NG DAILY 
+- Atorvastatin 80 mg PO/NG QPM 
+- Clopidogrel 75 mg PO/NG DAILY to prevent stent thrombosis 
+- Metoprolol Succinate XL 50 mg PO DAILY 
+
+Discharge weight: 178.1lb
+Discharge creatinine: 1.1
+Code status: Full (confirmed)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 150 mcg PO DAILY 
+2. Fish Oil (Omega 3) Dose is Unknown  PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth Daily Disp #*30 Tablet 
+Refills:*0 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+3.  Clopidogrel 75 mg PO DAILY to prevent stent thrombosis 
+RX *clopidogrel 75 mg 1 tablet(s) by mouth Daily Disp #*30 
+Tablet Refills:*0 
+4.  Metoprolol Succinate XL 50 mg PO DAILY 
+RX *metoprolol succinate 50 mg 1 tablet(s) by mouth Daily Disp 
+#*30 Tablet Refills:*0 
+5.  Fish Oil (Omega 3) unknown  PO DAILY  
+6.  Levothyroxine Sodium 150 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Coronary artery disease
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+Level of Consciousness: Alert and interactive.
+
+ 
+Discharge Instructions:
+Dear ___,  
+
+It was a pleasure taking care of you at the ___ 
+___!
+
+WHY WAS I IN THE HOSPITAL?
+==========================
+You were in the hospital because you were experiencing chest 
+pain
+
+WHAT HAPPENED IN THE HOSPITAL?
+==============================
+While in the hospital we performed a cardiac catheterization 
+where we were able to visualize the blood vessels in your heart 
+in an effort to localize any narrowed vessels. One of the main 
+vessels was very narrow, and we placed a stent to keep it open.
+
+WHAT SHOULD I DO WHEN I GO HOME?
+================================
+Please continue to take your medications as prescribed and 
+attend any follow up appointments scheduled for you.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Your ___ Healthcare Team  
+ 
+Followup Instructions:
+___

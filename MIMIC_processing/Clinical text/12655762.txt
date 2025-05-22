@@ -1,0 +1,303 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+fever, abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ woman with a history of lupus (c/p photosensitive
+rash over face and back and lupus nephritis), psoriasis and PsA
+who presents today with 24 hours of fever mild abdominal pain in
+the setting of recent renal biopsy.  
+
+Patient started notes that she had a fever yesterday to ___.
+Patient was concerned enough about her fevers possibly
+representing a lupus flare that she self-increased her 
+prednisone
+yesterday from normal dose of 10 mg to 20 mg. Patient notes
+symptoms of rash on her back and joint pain in her fingers. 
+
+She had a renal biopsy performed on ___ and notes fairly
+continuous LLQ pain since the biopsy. She describes a dull 
+aching
+pain with no radiation and no relation to p.o. intake. Her
+abdomen "hurts when she moves". The pain is unrelated to her
+fever. She denies any associated diarrhea, nausea, vomiting,
+constipation or obstipation. Denies associated dysuria or
+hematuria. Notes a swollen lymph node on the left side, which 
+has
+enlarged slightly over the last ___ weeks. It is currently 
+mildly
+tender.
+ 
+Her nephrologist is Dr. ___ main rheumatologist is 
+Dr.
+___. Was recently placed on prednisone 10 mg by Dr. ___ in
+rheumatology; she has failed multiple other regimens for her
+lupus due to drug intolerances including MTX, Ustekinumab and
+Humira. She took her first dose of Ustekinumab (___) and is
+to take the next dose in 4 weeks Plan is for MMF in the
+near-future once LFTs normalize (prior hepatotoxicity attributed
+to MTX). 
+ 
+Past Medical History:
+ SLE  
+ Psoriasis  
+ Psoriatic Arthritis  
+ Left Wrist surgery
+ 
+Social History:
+___
+Family History:
+ There is no family history of inflammatory arthritis or
+connective tissue disease.  
+ 
+Physical Exam:
+ADMISSION EXAM
+==================================
+ VITALS: 98.4 ___ 18 97|RA  
+ GENERAL: Sitting in bed comfortably. 
+ HEENT: PERRLA. EOMI. Sclera anicteric without injection. Small
+area of ulceration on anterior aspect of palate. No tonsilar
+exudates or cobblestoning. 
+ NECK: Thyroid is normal in size and texture, no nodules. Mildly
+enlarged left posterior auricular lymph node with mild TTP.  
+ CARDIAC: RRR. No murmurs/rubs/gallops.  
+ LUNGS: Clear to auscultation bilaterally w/appropriate breath
+sounds appreciated in all fields. No wheezes, rhonchi or rales.
+No increased work of breathing.  
+ BACK: No spinous process tenderness. No CVA tenderness.
+ ABDOMEN: Normal bowels sounds, non distended, minimal TTP in
+LLQ. Otherwise non-tender. 
+ EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial
+2+ bilaterally.  
+ SKIN: Malar rash present on face. Erythematous, macular rash on
+back.   
+ NEUROLOGIC: CN2-12 intact. ___ strength throughout. Normal
+sensation.
+ 
+DISCHARGE EXAM
+==================================
+Vital signs stable.
+General: Well appearing woman in no acute distress. Comfortable. 
+AAOx3.
+HEENT: Normocephalic, atraumatic. EOMI. MMM. Malar rash 
+improving.
+Cardiac: Regular rate & rhythm. Normal S1/S2. No murmurs, rubs, 
+or gallops.
+Pulmonary: Clear to auscultation bilaterally. Breathing 
+comfortably on room air.
+Abdomen: Soft, non-tender, non-distended.
+Extremities: Warm, well perfused, non-edematous. 
+Back: Rash improved, less erythematous. 
+ 
+Pertinent Results:
+ADMISSION LABS
+===========================
+___ 01:05PM BLOOD WBC-8.7# RBC-4.19 Hgb-12.7 Hct-38.3 
+MCV-91 MCH-30.3 MCHC-33.2 RDW-13.6 RDWSD-45.5 Plt ___
+___ 01:05PM BLOOD Neuts-78.8* Lymphs-15.8* Monos-4.6* 
+Eos-0.1* Baso-0.1 Im ___ AbsNeut-6.87*# AbsLymp-1.38 
+AbsMono-0.40 AbsEos-0.01* AbsBaso-0.01
+___ 01:05PM BLOOD Plt ___
+___ 01:05PM BLOOD Glucose-101* UreaN-9 Creat-0.5 Na-132* 
+K-4.1 Cl-100 HCO3-21* AnGap-11
+___ 01:05PM BLOOD ALT-32 AST-49* AlkPhos-65 TotBili-0.9
+___ 01:05PM BLOOD Albumin-3.6
+___ 02:46PM BLOOD CRP-32.2* dsDNA-POSITIVE*
+___ 02:46PM BLOOD C3-45* C4-3*
+___ 01:09PM BLOOD Lactate-1.2
+___ 04:22PM URINE Color-Straw Appear-Clear Sp ___
+___ 02:40PM URINE Color-Straw Appear-Hazy* Sp ___
+___ 12:55PM URINE Color-Straw Appear-Hazy* Sp ___
+___ 04:22PM URINE Blood-SM* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-SM*
+___ 02:40PM URINE Blood-TR* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-6.5 Leuks-LG*
+___ 12:55PM URINE Blood-TR* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-LG*
+___ 04:22PM URINE RBC-1 WBC-19* Bacteri-FEW* Yeast-NONE 
+Epi-3
+___ 02:40PM URINE RBC-3* WBC-40* Bacteri-FEW* Yeast-NONE 
+Epi-8
+___ 12:55PM URINE RBC-4* WBC-62* Bacteri-FEW* Yeast-NONE 
+Epi-14 TransE-1
+___ 04:22PM URINE Hours-RANDOM
+___ 02:40PM URINE Hours-RANDOM Creat-19 TotProt-117 
+Prot/Cr-6.2*
+___ 12:55PM URINE Hours-RANDOM Creat-22 TotProt-115 
+Prot/Cr-5.2*
+___ 02:40PM URINE UCG-NEGATIVE
+  
+PERTINENT LABS
+===========================
+___ 06:25AM BLOOD WBC-5.9 RBC-3.65* Hgb-11.1* Hct-33.6* 
+MCV-92 MCH-30.4 MCHC-33.0 RDW-13.6 RDWSD-45.3 Plt ___
+___ 06:25AM BLOOD Albumin-3.1* Calcium-8.1* Phos-3.6 Mg-1.8
+___ 02:46PM BLOOD CRP-32.2* dsDNA-POSITIVE*
+___ 02:46PM BLOOD C3-45* C4-3*
+___ 01:09PM BLOOD Lactate-1.2
+___ 12:55PM URINE RBC-4* WBC-62* Bacteri-FEW* Yeast-NONE 
+Epi-14 TransE-1
+___ 12:55PM URINE Blood-TR* Nitrite-NEG Protein-100* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-7.0 Leuks-LG*
+ 
+DISCHARGE LABS
+===========================
+___ 06:25AM BLOOD WBC-5.9 RBC-3.65* Hgb-11.1* Hct-33.6* 
+MCV-92 MCH-30.4 MCHC-33.0 RDW-13.6 RDWSD-45.3 Plt ___
+___ 06:25AM BLOOD Plt ___
+___ 06:25AM BLOOD Glucose-89 UreaN-12 Creat-0.5 Na-138 
+K-3.6 Cl-103 HCO3-23 AnGap-12
+___ 06:25AM BLOOD ALT-27 AST-34 LD(LDH)-206 AlkPhos-61 
+TotBili-0.5
+___ 06:25AM BLOOD Albumin-3.1* Calcium-8.1* Phos-3.6 Mg-1.8
+ 
+PERTINENT STUDIES
+===========================
+CT ABD/PELVIS (___)
+Left perinephric hematoma, small in overall volume, without 
+evidence of active bleeding or pseudoaneurysm formation.  Linear 
+hypodense tract in the lower pole of the left kidney reflects 
+sequelae of recent biopsy. 
+ 
+MICRO
+===========================
+UCx WITH MIXED BACTERIAL FLORA
+BCx NO GROWTH TO DATE
+ 
+Brief Hospital Course:
+___ woman with long standing history of lupus, 
+psoriasis, and psoriatic arthritis with DIP arthritis presented 
+for fever and left flank pain following recent left renal 
+biopsy. 
+
+# FEVER
+# LEFT FLANK PAIN
+Initially presented for fever and left flank pain after recent 
+left renal biopsy. Upon arrival was hemodynamically stable 
+without leukocytosis, though of note is immunosuppressed for 
+treatment of rheumatologic disorders. Underwent CT 
+abdomen/pelvis notable for left renal hematoma though without 
+evidence of infection. Received ceftriaxone x2 days, then 
+discontinued given improvement in symptoms and reassuring CT 
+abdomen findings. UCx with mixed bacterial flora. Pain was most 
+likely secondary to renal hematoma and was improved by time of 
+discharge.
+
+# SUBACUTE LUPUS FLARE
+Upon presentation was noted to have significant malar and back 
+rash typical for her lupus flares. Ongoing issue over past ___ 
+months though given new fever patient took additional 10 mg 
+prednisone at home (20 mg total). Evaluated by rheumatology who 
+recommended increasing to 30 mg daily and starting MMF 500 twice 
+daily as treatment for her subacute flare. Rash significantly 
+improved by second hospital day (discharge date). Plan for 
+outpatient rheumatology follow up with steroid taper to be 
+determined at that time.
+
+TRANSITIONAL ISSUES
+================================
+ [ ] Please re-check LFTs as patient had transaminitis, likely 
+from secukinumab, per outpatient rheumatology, which was 
+down-trending at time of discharge.
+ [ ] Please follow up blood cultures, urine cultures, dsDNA 
+(pending)
+ [ ] Please check for resolution of cervical lymphadenopathy
+ [ ] Regarding skin rash, patient has follow up with dermatology 
+
+ [ ] Please consider adding PCP prophylaxis ___ receive 
+prolonged high-dose steroids.
+
+#CONTACT: ___ (___) 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. PredniSONE 10 mg PO DAILY 
+2. Hydroxychloroquine Sulfate 100 mg PO DAILY 
+3. Ustekinumab 45 mg IV EVERY 4  WEEKS (FR) 
+4. FoLIC Acid 1 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Mycophenolate Mofetil 500 mg PO BID 
+RX *mycophenolate mofetil 500 mg 1 tablet(s) by mouth every 12 
+hours Disp #*60 Tablet Refills:*0 
+2.  PredniSONE 30 mg PO DAILY 
+RX *prednisone 10 mg 3 tablet(s) by mouth daily Disp #*42 Tablet 
+Refills:*0 
+3.  FoLIC Acid 1 mg PO DAILY  
+4.  Hydroxychloroquine Sulfate 100 mg PO DAILY  
+5.  Ustekinumab 45 mg IV EVERY 4  WEEKS (FR)  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+left renal hematoma
+
+SECONDARY DIAGNOSIS
+sub-acute lupus flare
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It has been a pleasure taking care of you during your admission 
+to ___.
+
+Why you were admitted to the hospital:
+==============================================
+- You had significant left sided abdominal and back pain, as 
+well as fevers to 102 degrees Fahrenheit at home. 
+
+What happened at the hospital:
+==============================================
+- You underwent a number of tests, including a physical exam, 
+laboratory tests, and imaging of your abdomen, and this showed a 
+very small area of bleeding near the left kidney, likely from 
+your recent kidney biopsy. This was very small and will likely 
+improve on its own.
+- You were seen by the rheumatology team, who recommended you 
+follow up with them as an outpatient for the ongoing management 
+of lupus. Your prednisone dose was increased and you were 
+started on a new medication called mycophenolate.
+- You received antibiotics for what was initially thought to be 
+a urinary tract infection, however this was stopped and you do 
+not need to take an antibiotic at home.
+
+What you should do when you go home:
+==============================================
+- Please take your medications as prescribed in the discharge 
+papers.
+- Please follow up with the appointments as listed below
+- Should you notice any new or concerning symptom, please seek 
+immediate medical attention.
+
+We wish you the best!
+- Your ___ care team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,237 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+ rash, R facial droop 
+ 
+Major Surgical or Invasive Procedure:
+Lumbar puncture
+
+ 
+History of Present Illness:
+___ h/o asthma, otherwise generally very healthy presents with 
+R facial droop.  Ms. ___ is a ___ and has traveled 
+extensively as a result.  Nearly 4 wks ago, she went to ___ to ___ and reportedly cut through some paths as short 
+cuts.  Subsequently, while she was in ___, she developed 
+exquisite meningisums, fever, night sweats, and chills lasting 
+reportedly for 1 week.  Approximately 2.5 weeks ago, she noted 
+rash on her L breast and patchy rash on her legs - which was 
+fleeting.  She had traveled to ___ nearly 2 weeks ago and 
+developed thigh myalgia, arthralgia/arthritis of R ankle and R 
+knee.  This resolved.  While in ___, she then developed R 
+facial droop which steadily worsened.  She was started on 
+prednisone 20 mg daily while there for presumed Bell's palsy.  
+Describes mild headache, persistent pain & soreness in R 
+ankle/knee and thigh, and sinus congestion for which she had 
+been using pseduofed.    
+   She returned and presented to ED due to worsening R facial 
+droop.  
+In ED, CSF was obtained showing mild pleocytosis, elevated RBC 
+and protein.  Concern was for neuro Lyme - less likely HSV 
+encephalitis - and thus given ceftriaxone, acyclovir and 
+admitted for further mgmt.
+
+ROS: per HPI, denies vision changes, rhinorrhea, sore throat, 
+cough, shortness of breath, chest pain, abdominal pain, nausea, 
+vomiting, diarrhea, constipation, BRBPR, melena, hematochezia, 
+dysuria, hematuria.  A 10 pt review of sxs was otherwise 
+negative.
+ 
+Past Medical History:
+# asthma
+# patella fracture ___
+
+ 
+Social History:
+___
+Family History:
+denies h/o neurological, cardiac family history
+
+ 
+Physical Exam:
+Vital Signs: 98.2 106/53 65 20 96% RA 
+GEN: NAD, well-appearing, somnolent and sleeping while talking, 
+otherwise alert
+EYES: PERRL, EOMI, conjunctiva clear, anicteric, R eye 
+incomplete closure
+ENT: moist mucous membranes, no exudates 
+NECK: supple, mild meningismus 
+CV: RRR s1s2 nl, no m/r/g
+PULM: CTA, no r/r/w 
+GI: normal BS, NT/ND, no HSM  
+EXT: warm, no c/c/e, no clear e/o synovitis
+SKIN: no rashes 
+NEURO: alert, oriented x 3, answers ? appropriately, follows 
+commands, R facial LMN weakness, asymmetric labial fold 
+PSYCH: appropriate
+ACCESS: PIV
+FOLEY: absent
+. 
+Discharge Exam: 
+97.6 ___
+Gen: NAD, lying in bed comfortably, speaking full sentences
+without accessory muscle use
+Eyes: EOMI, sclerae anicteric, R eye not blinking
+ENT: MMM, OP clear, obvious R sided facial droop with forehead
+involvement
+Cardiovasc: RRR, no MRG, full pulses, no edema  
+Resp: normal effort, no accessory muscle use, lungs CTA ___.
+GI: soft, NT, ND, BS+
+MSK: No significant kyphosis. No palpable synovitis.
+Skin: No visible rash. No jaundice. 
+Neuro: AAOx3. Facial droop as above. Gait narrow based and 
+steady, full strength except R droop.  
+Psych: Full range of affect
+GU: no foley, otherwise deferred
+
+ 
+Pertinent Results:
+(___): WBC 8.1  H/H 10.1/32.6 Plt 377
+Gluc 82 BUN/Cr ___ Na 140 K 3.7 Cl 106 HCO3 22 Lactate 1.2
+
+CSF: WBC 8 RBC 480 P8 L90 Mono2 Prot 65 Gluc 49
+
+___ 07:25AM BLOOD WBC-5.0 RBC-3.27* Hgb-9.4* Hct-29.3* 
+MCV-90 MCH-28.7 MCHC-32.1 RDW-14.6 RDWSD-47.0* Plt ___
+___ 07:25AM BLOOD WBC-4.2 RBC-3.31* Hgb-9.5* Hct-29.9* 
+MCV-90 MCH-28.7 MCHC-31.8* RDW-14.6 RDWSD-46.9* Plt ___
+___ 07:25AM BLOOD Glucose-88 UreaN-19 Creat-0.6 Na-139 
+K-4.3 Cl-107 HCO3-25 AnGap-11
+___ 07:25AM BLOOD calTIBC-250* Ferritn-64 TRF-192*
+___ 10:00PM CEREBROSPINAL FLUID (CSF) WBC-8 RBC-480* 
+Polys-8 ___ ___ 10:00PM CEREBROSPINAL FLUID (CSF) TotProt-65* 
+Glucose-49
+
+  
+
+Test Name                   Flag     Results        Unit    
+Reference Value
+---------                   ----     -------        ----    
+---------------
+Herpes Simplex Virus PCR
+   Specimen Source                   CSF
+   HSV 1, PCR                        Negative               
+Negative
+   HSV 2, PCR                        Negative               
+Negative  
+
+Test Requested        Flag      Result        Unit        
+Reference Value
+--------------        ----      ------        ----        
+---------------
+Lyme Disease Ab, Immunolot, S
+  IgG Immunoblot       AB      Positive       kDa         
+Negative          
+    IgG Band(s): p93, p66, p58, p45, p41, p39, p30, p23, p18
+ 
+  IgM Immunolot        AB      Positive       kDa         
+Negative         
+    IgM Band(s): p41, p39, p23
+
+___ BLOOD CULTURE Blood Culture, 
+Routine-PENDING 
+___ CSF;SPINAL FLUID GRAM STAIN-FINAL; FLUID 
+CULTURE-PRELIMINARY 
+___ BLOOD CULTURE Blood Culture, 
+Routine-PENDING 
+___ SEROLOGY/BLOOD LYME SEROLOGY-PRELIMINARY 
+
+ 
+Brief Hospital Course:
+___ with mild intermittent asthma presenting with cluster of 
+symptoms and history very suggestive of secondary vs CNS Lyme, 
+s/p LP, serologies confirming Lyme. 
+
+# Lyme disease: Cranial nerve involvement suggests CNS Lyme but 
+history alone suggests at least secondary Lyme disease. Given no 
+other neurologic involvement, negative HSV CSF, transitioned to 
+oral doxycycline from IV ceftriaxone/IV acyclovir. 
+EKG without conduction abnormalities. R eye pad given until able 
+to blink normally, artificial tears advised every ___ hours. 
+- doxycycline 100mg BID to complete 28 day total course
+- counseled on appropriate doxycycline use
+- no ID follow up necessary
+- ensure cranial nerve palsy improving in follow up
+- establish care with new PCP
+
+# Anemia: Likely in setting of infection, iron studies confirm 
+chronic inflammation. Patient reports history of anemia as well. 
+
+- repeat in follow up
+ 
+# Asthma: stable, does not take Flovent as directed, takes only 
+as needed, same as albuterol. 
+
+Medically stable for discharge home without services.
+>30 minutes spent on discharge day services, counseling and 
+coordination of care. 
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Albuterol Inhaler ___ PUFF IH Q6H:PRN wheezing, SOB 
+
+ 
+Discharge Medications:
+1.  Acetaminophen ___ mg PO Q8H:PRN Pain - Mild  
+2.  Artificial Tears ___ DROP RIGHT EYE Q1H:PRN dry eyes  
+3.  Doxycycline Hyclate 100 mg PO Q12H 
+avoid diary 1 hour before and after taking this medication.  
+RX *doxycycline hyclate 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*50 Capsule Refills:*0 
+4.  Ibuprofen 800 mg PO Q8H:PRN Pain - Severe  
+5.  Albuterol Inhaler ___ PUFF IH Q6H:PRN wheezing, SOB  
+6.  Fluticasone Propionate 110mcg 2 PUFF IH DAILY:PRN asthma  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Lyme disease
+Anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___, 
+
+___ were admitted to the hospital with Lyme disease. ___ were 
+started on IV antibiotics and switched to oral doxycycline, 
+which ___ should take for a total of 28 days. 
+
+With this medication, it is important to take with a glass of 
+water and sit up for ___ minutes after each dose. ___ should 
+AVOID milk/diary products, antacids/laxatives one hour BEFORE 
+and one hour AFTER taking your medication. 
+
+Please make sure to avoid the sun, wearing long sleeves and 
+sunscreen. Drink plenty of liquids to avoid dehydration. 
+
+Use your eye patch and artificial tears until your right eye is 
+able to blink and close normally. 
+
+Make sure ___ follow up with your new primary care doctor within 
+___ weeks. 
+
+We wish ___ the best. 
+
+ 
+Followup Instructions:
+___

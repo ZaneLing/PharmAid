@@ -1,0 +1,243 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Lethargy
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with dementia, CAD status post PCI x3 in 
+___, CVA in ___, and diet-controlled diabetes mellitus 
+who presents with lethargy. He is minimally communicative and 
+hard of hearing at baseline, and history is obtained in 
+discussion with his daughter ___ and ___. He was 
+reportedly in his usual state of health until 2.5 days prior to 
+admission, when his daughter, with whom he lives, noted him to 
+be more lethargic than usual with generalized weakness and 
+continuing to drink fluids, but eating essentially nothing. 
+According to his daughter, he has experienced an ongoing 
+nonproductive cough, but otherwise denies specific complaints, 
+including headache, URI symptoms, chest pain, shortness of 
+breath, nausea, abdominal pain, dysuria, or loose stools, though 
+his daughter speculates that perhaps he has been stooling less 
+frequently. He has not been confused per se. At baseline, he has 
+some lower extremity weakness without specific post-CVA deficits 
+and is able to ambulate slowly with a walker and/or cane. He 
+lives in a second-floor apartment with his daughter, but 
+reportedly has been safe by a physical and/or occupational 
+therapist. His appetite is variable, but he has been evaluated 
+by a speech and swallow therapist and is permitted to eat 
+"moistened" liquids and drink full liquids through a straw. He 
+is not incontinent of urine at baseline, but wears briefs at all 
+times in case he is unable to make it to the bathroom 
+expeditiously. His daughter notes that he is stoic in general 
+and rarely complains, but that lethargy is often a harbinger of 
+infection, including recent pansenstive Klebsiella urinary tract 
+infection in ___. When she contacted his Atrius providers 
+with her father's symptoms, she was advised to bring him to the 
+ED for evaluation.  
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+CAD status post BMS x3 in ___  
+Dementia  
+CVA in ___  
+Noninsulin-dependent diabetes mellitus  
+Hyperlipidemia  
+Presumed prostate cancer  
+Presumed renal cell carcinoma  
+Hearing loss  
+Depression  
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  
+Unable to elicit.  
+
+ 
+Physical Exam:
+Admission Physical Exam
+Vitals - 99.3, 122/66, 16, 95% RA  
+GENERAL: Sleeping, but easily rousable to voice, NAD  
+HEENT: EOM grossly intact, anicteric sclerae, pink conjunctivae, 
+patent nares, MM dry  
+NECK: nontender supple neck  
+CARDIAC: Distant heart sounds, no murmurs  
+LUNG: CTAB, no wheezes, rales, rhonchi, breathing comfortably 
+without use of accessory muscles  
+ABDOMEN: nondistended, +BS, nontender in all quadrants  
+EXTREMITIES: moving all extremities well, no edema  
+NEURO: Unable to engage in conversation (reportedly consistent 
+with baseline), moving all 4 extremities spontaneously and 
+symmetrically, withdraws to painful stimuli, face symmetric  
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes  
+
+Discharge Physical Exam
+Vitals:
+General: Alert, oriented to name and place, NAD
+HEENT: PERRL, Anicteric sclerae, moist mucosa, normal chewing 
+motion of mouth
+Neck: Supple, no elevated JVD
+Lungs: clear to auscultation bilaterally, no crackles or rales, 
+breathing comfortably without use of accessory muscles
+CV: regular rate and rhythm, normal heart sounds, no murmurs or 
+regurg
+Abdomen: no suprapubic tenderness, Bowel sounds present, not 
+tender to palpation, no organomegaly
+Ext: well perfused extermities, 2+ pulses, no pedal edema
+Neuro: able to engage in conversation using listening device, 
+cranial nerves ___ intact, no focal motor defecits
+
+ 
+Pertinent Results:
+Admission Labs
+___ 03:45PM BLOOD WBC-15.8* RBC-3.74* Hgb-12.3* Hct-38.0* 
+MCV-102* MCH-32.8* MCHC-32.3 RDW-13.9 Plt ___
+___ 03:45PM BLOOD Neuts-84.9* Lymphs-7.7* Monos-6.7 Eos-0.5 
+Baso-0.3
+___ 03:45PM BLOOD Glucose-179* UreaN-17 Creat-1.2 Na-140 
+K-4.0 Cl-101 HCO3-28 AnGap-15
+___ 04:49PM BLOOD Glucose-178* Lactate-2.7* K-4.1
+___ 06:20PM URINE  COLOR-Straw APPEAR-Hazy SP ___
+___ 06:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 LEUK-LG
+___ 06:20PM URINE  RBC-5* WBC-159* BACTERIA-FEW YEAST-NONE 
+EPI-0
+___ 06:20PM URINE  MUCOUS-RARE
+
+Discharge Labs
+___ 09:10AM BLOOD WBC-9.8 RBC-3.23* Hgb-10.2* Hct-33.5* 
+MCV-104* MCH-31.5 MCHC-30.3* RDW-14.3 Plt ___
+___ 09:10AM BLOOD Glucose-102* UreaN-16 Creat-0.9 Na-144 
+K-3.5 Cl-111* HCO3-23 AnGap-14
+___ 09:10AM BLOOD Calcium-8.6 Phos-2.5* Mg-2.0
+
+Micro
+URINE CULTURE (Preliminary): 
+      KLEBSIELLA PNEUMONIAE.    >100,000 ORGANISMS/ML.. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             KLEBSIELLA PNEUMONIAE
+                             |   
+AMPICILLIN/SULBACTAM--     8 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    ___ I
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+ 
+Brief Hospital Course:
+___ yo demented male with history of CAD s/p PCI x ___, CVA in 
+___, and diet controlled diabetes presented with lethargy
+
+Active Diagnoses
+
+#Urinary tract infection - patient has past history of 
+klebsiella pan-sensitive urinary tract infection and presented 
+with lethargy and increased combativeness as histoy provided by 
+daughter/caretaker.  WBC was elevated with predominant left 
+shift and UA was consistent with UTI.  Urine cultures were sent 
+and show >100K gram negative rods, speciated to Klebsiella 
+Pneumoniae and pan-sensitive except to nitrofurantoin.  Patient 
+was treated with 1g IV ceftriaxone q24h while inpatient.  
+Lethargy improved over the course of his stay and he returned to 
+baseline mental status. The patient was discharged on 1 tab 
+Bactrim DS q12h to complete antibiotic course x 7 days (until 
+___ requiring 7 additional doses).
+
+Chronic Diagnoses
+
+#Dementia- Delerium as above resolved to baseline dementia. 
+Dementia is also related to hard of hearing. Patient was 
+evaluated by physical therapy, cooperative with eval, and deemed 
+safe to go home with 24 hour assistance  
+
+#CAD s/p PCIx3 and CVA- Documented history of this issues since 
+___.  Patient remained clinically stable on his regimen of 81mg 
+ASA and pravastatin and with plans to followed by Drs. ___ 
+___ at ___ and ___ (Geriatrics at ___).
+
+Transitional issues
+- please continue Bactrim DS 1 tab BID for UTI until ___ (7 
+doses)
+- please follow up with blood cultures, pending 
+- please follow up regarding home services (to be setup by 
+patient's family)
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Pravastatin 40 mg PO DAILY 
+3. Nitroglycerin SL 0.4 mg SL PRN chest pain 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Pravastatin 40 mg PO DAILY 
+3. Nitroglycerin SL 0.4 mg SL PRN chest pain 
+4. Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 7 Doses 
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+1. Urinary tract infection
+
+Secondary diagnosis:
+1. CAD
+2. Hyperlipidemia
+
+ 
+Discharge Condition:
+Discharge condition: stable
+Mental status: alert to self only
+Ambulatory status: does not ambulate 
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted tot he hopsital because you had increasing 
+lethargy and altered mental status.  You were found to have 
+evidence of a urinary tract infection and were treated with 
+antibiotocs.  Your mental status improved during the course of 
+your stay.
+
+We wish you continued good health.
+
+Your ___ Team
+ 
+Followup Instructions:
+___

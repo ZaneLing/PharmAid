@@ -1,0 +1,282 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim
+ 
+Attending: ___
+ 
+Chief Complaint:
+rash
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ yo female presents from urgent care transferred for diffuse 
+rash developing 2 weeks after starting Bactrim for sinusitis.  
+ 2 days prior to admission developed diffuse rash that is 
+pruritic. Worse on stomach, thinks it started diffusely rather 
+than in one area and then spread. She also has had fever, nausea 
+with one episode of vomiting and lower abdominal ache.  
+ Went to urgent care for eval and sent over for possible drug 
+rxn eg dress.  
+
+ 
+Past Medical History:
+depression 
+ 
+Social History:
+Country of Origin: ___  
+ Marital status: Single  
+ Children: No  
+ Lives with: Parents  
+ Lives in: House  
+ Work: ___
+ Multiple partners: ___  
+ ___ activity: Present  
+ Sexual orientation: Male  
+ Sexual Abuse: Denies  
+ Domestic violence: Denies  
+ Contraception: Condoms - Male  
+ Tobacco use: Never smoker  
+ Alcohol use: Present  
+ drinks per week: 2  
+ Recreational drugs Denies  
+ (marijuana, heroin,  
+ crack pills or  
+ other):  
+ Depression: Based on a PHQ-2 evaluation, the patient  
+ does not report symptoms of depression  
+ Exercise: Activities: gym ___  
+ Diet: mod fat  
+ Seat belt/vehicle Always  
+ 
+Family History:
+Mother Living ___  
+ Father Living ___ THROMBOCYTOPENIA uncertain etiology  
+ Sister Living ___  
+
+ 
+Physical Exam:
+========================
+ADMISSION PHYSICAL EXAM
+========================
+GENERAL -well appearing  
+ HEENT - MMM no oral lesions  
+ NECK - supple no LAd  
+ CARDIAC - rrr no murmur  
+ LUNGS - ctab  
+ ABDOMEN - soft nontender nondistended  
+ EXTREMITIES - rash as below, no swelling  
+ NEUROLOGIC - a/o x3  
+ SKIN - diffuse maculopapular rash most coalescent over anterior 
+upper abdomen, less obvious but still present over extremities. 
+small area of involvement of R palm. No involvement of soles. No 
+oral lesions. No skin sloughing or ulcers.  
+
+===========================
+DISCHARGE PHYSICAL EXAM
+===========================
+Vitals:  97.8 PO 108 / 69 67 17 97 RA 
+ GENERAL -well appearing female, lying comfortably in bed 
+ HEENT - No oral ulcers/erosions, no facial edema  
+ NECK - small, tender, mobile right cervical lymph nodes. Neck 
+supple. 
+ CARDIAC - RRR, no mrg 
+ LUNGS - CTAB
+ ABDOMEN - Soft, NDNT. Liver edge non-palpable. No splenic 
+enlargement.
+ EXTREMITIES - skin exam as below, no lower extremity edema, 
+warm and well perfused 
+ NEUROLOGIC - AOx3, MAE w/ purpose 
+ SKIN - macular eruption resolved. 
+ 
+Pertinent Results:
+=======================
+ADMISSION LABS
+=======================
+___ 08:55PM BLOOD WBC-3.8* RBC-4.07 Hgb-12.2 Hct-35.7 
+MCV-88 MCH-30.0 MCHC-34.2 RDW-11.9 RDWSD-38.7 Plt ___
+___ 08:55PM BLOOD Neuts-47 Bands-2 ___ Monos-12 
+Eos-10* Baso-0 Atyps-3* ___ Myelos-0 AbsNeut-1.86 
+AbsLymp-1.10* AbsMono-0.46 AbsEos-0.38 AbsBaso-0.00*
+___ 08:55PM BLOOD Hypochr-NORMAL Anisocy-1+ Poiklo-NORMAL 
+Macrocy-NORMAL Microcy-1+ Polychr-NORMAL
+___ 08:55PM BLOOD ___ PTT-29.6 ___
+___ 08:55PM BLOOD Plt Smr-LOW Plt ___
+___ 08:55PM BLOOD Glucose-104* UreaN-9 Creat-0.7 Na-126* 
+K-3.7 Cl-90* HCO3-20* AnGap-20
+___ 08:55PM BLOOD ALT-174* AST-179* LD(___)-355* AlkPhos-96 
+TotBili-0.3
+___ 08:55PM BLOOD Albumin-4.4
+
+================
+IMAGING
+================
+None
+
+==========
+MICRO
+=========
+___ 8:59 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ENTEROCOCCUS SP..    10,000-100,000 CFU/mL. 
+         IDENTIFICATION AND SENSITIVITIES PERFORMED ON CULTURE # 
+___,
+         ___. 
+
+===================
+DISCHARGE LABS
+===================
+
+___ 05:16AM BLOOD WBC-4.2 RBC-3.95 Hgb-11.6 Hct-34.4 MCV-87 
+MCH-29.4 MCHC-33.7 RDW-11.9 RDWSD-38.5 Plt ___
+___ 05:16AM BLOOD Neuts-35.8 ___ Monos-18.9* 
+Eos-1.0 Baso-0.0 AbsNeut-1.06* AbsLymp-1.31 AbsMono-0.56 
+AbsEos-0.03* AbsBaso-0.00*
+___ 05:16AM BLOOD Plt ___
+___ 05:16AM BLOOD Glucose-106* UreaN-10 Creat-0.5 Na-136 
+K-4.2 Cl-98 HCO3-22 AnGap-20
+___ 05:16AM BLOOD ALT-178* AST-105* LD(___)-246 AlkPhos-104 
+TotBili-0.___ yo previously healthy F who was referred from urgent care for 
+new rash, transaminitis, and eosinophilia two weeks after 
+starting Bactrim for sinusitis. Dermatology was consulted who 
+felt that the patient's presentation was consistent w/ DRESS and 
+recommended starting patient on steroids: Solumedrol 1 mg/kG IV 
+transitioned to predniosone 1mg/kg on discharge (day 1: ___. 
+Patient to follow up with dermatology within 1 week of discharge 
+to determine steroid course/taper. Patient was also started on 
+omeprazole, Calcium, Vitamin D given plan for long steroid 
+taper. PCP PPX with atovaquone was held given persistent 
+transaminitis (and unable to prescribe Bactrim iso recent DRESS 
+reaction). Bactrim was added to patient's allergy list. Hospital 
+course complicated by vulvovaginal candidiasis, completed on 3 
+day course of miconazole intravaginal capsules w/ symptom 
+improvement.
+
+#DRESS: Patient referred from urgent care for new rash, 
+transaminitis, leukopenia and eosinophilia two weeks after 
+starting Bactrim for sinusitis. Dermatology was consulted who 
+felt that the patient's presentation was consistent w/ DRESS and 
+recommended starting patient on steroids: Solumedrol 1 mg/kG IV 
+transitioned to predniosone 1mg/kg on discharge (day 1: ___ w/ 
+resolution of macular eruption, leukopenia and eosinophilia. 
+Patient to follow up with dermatology within 1 week of discharge 
+to determine steroid course/taper. Patient was also started on 
+omeprazole, Calcium, Vitamin D given plan for long steroid 
+taper. PCP PPX with atovaquone was held given persistent 
+transaminitis (and unable to prescribe Bactrim iso recent DRESS 
+reaction). Once transaminitis resolves, patient to be started on 
+atovaquone as outpatient. Bactrim was added to patient's allergy 
+list. Of note viral etiologies for macular eruption were ruled 
+out: Hepatitis A, C negative. Hep B immune. HIV negative. RPR 
+non-reactive. CMV and EBV pending at time of discharge. 
+
+#Vulvo-vaginal Candidiasis: patient c/o vaginal pruritus, w/ 
+several weeks of abx use for recent sinusitis. Completed 
+miconazole intravaginal capsules x3 days w/ symptomatic 
+improvement. 
+
+#Asx Bacteruria: Urine Cx +Enterococcus. Asymptomatic, thus 
+antibiotics were not started. 
+
+Transitional Issues:
+===============================
+-Continue prednisone 60mg qday, course will be determined by 
+outpatient dermatology follow up appointment w/ Dr. ___. 
+___ 
+-___ given lab slip to re-check CBC, BMP, LFTs; If 
+resolution of tramsaminitis, please start patient on atovaquone 
+for PCP PPX
+-___/ urine CX +Enterococcus. Abx held given asymptomatic; 
+if patient begins to develop symptoms of UTI, please consider 
+treatment
+-CMV, EBV labs pending at time of discharge. Please follow up.
+
+# CODE: full code 
+# CONTACT: mother ___ ___ 
+ 
+ 
+___ on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Necon 0.5/35 (28) (norethindrone-ethin estradiol) 0.5-35 
+mg-mcg oral DAILY 
+2. Sulfameth/Trimethoprim DS 1 TAB PO BID 
+
+ 
+Discharge Medications:
+1.  Calcium Carbonate 500 mg PO Q24H 
+RX *calcium carbonate 500 mg calcium (1,250 mg) 1 tablet(s) by 
+mouth daily Disp #*30 Tablet Refills:*0 
+2.  Omeprazole 20 mg PO DAILY 
+RX *omeprazole 20 mg 1 capsule(s) by mouth daily Disp #*30 
+Capsule Refills:*0 
+3.  PredniSONE 60 mg PO DAILY 
+RX *prednisone 20 mg 3 tablet(s) by mouth daily Disp #*45 Tablet 
+Refills:*0 
+4.  Vitamin D 1000 UNIT PO DAILY 
+RX *ergocalciferol (vitamin D2) 2,000 unit 0.5 (One half) 
+tablet(s) by mouth daily Disp #*15 Tablet Refills:*0 
+5.  Necon 0.5/35 (28) (norethindrone-ethin estradiol) 0.5-35 
+mg-mcg oral DAILY  
+6.Outpatient Lab Work
+DX: Allergy, unspecified (DRESS). ___ 
+Please obtain CBC, BMP, AST, ALT, total bilirubin, LDH
+
+Please send results to ___, MD
+FAX: ___ 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+======================
+DRESS
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+It was a pleasure being involved in your care.
+
+Why you came in:
+-You came in because you were having a rash 
+
+What we found while you were here:
+-We evaluated your blood tests, and felt that you were having an 
+allergic reaction called DRESS to your Bactrim.
+-We stopped your Bactrim, and started you on steroids for your 
+DRESS. You will follow up with dermatology as an outpatient this 
+week to decide how much longer you will be continuing the 
+steroids.
+-We have added Bactrim on your allergy list. Please be aware 
+that you should not take Bactrim in the future. 
+
+Your next steps:
+-please take all your medications as indicated below
+-Please get your labs rechecked 1 day prior to your dermatology 
+appointment
+
+We wish you well,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

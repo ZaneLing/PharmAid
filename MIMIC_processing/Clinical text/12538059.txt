@@ -1,0 +1,231 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___
+ 
+Chief Complaint:
+hematemesis
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with a past medical history
+of heroin abuse, now in remission, who presented with
+hematemesis.
+
+He reports that several days ago he had several episodes of
+vomiting. He is unsure what caused the vomiting and is somewhat
+vague describing the episodes. He reports no other associated
+symptoms and just felt nauseous and unwell. After several
+episodes of vomiting he then had two episodes of vomiting bright
+red blood mixed with gastric contents. This then resolved and he
+did not seek medical care. However, on ___ he had an episode 
+of
+vomiting bright red blood without any proceeding emesis or dry
+heaves. He denies any abdominal pain, blood in his stool, or 
+dark
+stools/melena. He then presented to ___. Since there was
+no GI available over the weekend at ___ he was transferred
+to ___ for further management.
+
+Of note, he takes frequent ibuprofen, at least 800mg BID for
+tooth pain. This has been chronic and ongoing. He says that his
+teeth have been in poor condition for quite some time and he is
+unable to afford a dentist.
+
+He has a history of heroin abuse but says that he has been clean
+for ___ months. He takes monthly vivitrol.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+Heroin abuse, in remission for ___ months per patient
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate. Very 
+poor
+dentition
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM
+==============
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate. Very 
+poor
+dentition
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 10:34PM BLOOD WBC-10.4* RBC-5.89 Hgb-16.8 Hct-50.2 
+MCV-85 MCH-28.5 MCHC-33.5 RDW-13.2 RDWSD-41.2 Plt ___
+___ 10:34PM BLOOD Neuts-66.4 ___ Monos-8.0 Eos-1.3 
+Baso-0.4 Im ___ AbsNeut-6.93* AbsLymp-2.45 AbsMono-0.83* 
+AbsEos-0.14 AbsBaso-0.04
+___ 10:34PM BLOOD ___ PTT-31.9 ___
+___ 10:34PM BLOOD Glucose-81 UreaN-9 Creat-0.9 Na-142 K-4.2 
+Cl-101 HCO3-27 AnGap-14
+___ 10:34PM BLOOD ALT-247* AST-97* AlkPhos-100 TotBili-1.0
+___ 10:34PM BLOOD Calcium-9.6 Phos-4.3 Mg-2.2
+___ 10:34PM BLOOD HBsAg-NEG HBsAb-NEG HBcAb-NEG
+___ 10:34PM BLOOD HCV Ab-POS*
+
+DISCHARGE LABS:
+===============
+___ 06:55AM BLOOD WBC-9.3 RBC-5.82 Hgb-16.6 Hct-50.3 MCV-86 
+MCH-28.5 MCHC-33.0 RDW-13.3 RDWSD-41.8 Plt ___
+___ 06:55AM BLOOD Glucose-74 UreaN-12 Creat-1.0 Na-143 
+K-4.9 Cl-100 HCO3-29 AnGap-14
+___ 06:55AM BLOOD ALT-177* AST-50* AlkPhos-98 TotBili-1.2
+___ 06:55AM BLOOD Albumin-4.4 Calcium-9.3 Mg-2.4
+___ 06:55AM BLOOD HIV Ab-PND
+
+IMGAING:
+========
+RUQ US ___: 
+Splenomegaly.  Otherwise, unremarkable abdominal ultrasound. 
+Gallbladder sludge. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ male with a past medical history of 
+heroin abuse, now in remission, who presented with hematemesis.
+
+# Hematemesis: Pt presented with reports of ___ episodes of 
+blood streaked emesis that progressed to blood mixed in with 
+vomitus.  Pt unclear of volume of blood.  H/H largely stable on 
+admission and pt denied any further n/v, hematemesis since 
+admission.  Etiology of hematemesis felt to be M-W tear vs. 
+gastritis ___ recent NSAID use.  He was told to hold off on 
+further NSAID use for several weeks, abstain from ETOH and to 
+take a PPI x4 weeks.  He was seen by GI who did not feel that 
+urgent scope was necessary given his normal labs and lack of 
+recurrent episodes.
+
+# ELevated LFT's
+# Hepatitis C: Pt was noted to have mildly elevated LFT's this 
+admission.  Hepatitis serologies were checked and came back 
+positive for hepatitis C.  Pt reported no know history of HepC 
+positivity but likely contracted the virus while he was active 
+using IV drugs.  Pt was counseled extensively to speak with his 
+PCP regarding hepatology referral and subsequent treatment.  HCV 
+viral load and HIV ab's checked and are pending on discharge.
+
+Transitional:
+[ ] Please f/u HIV ab's and HCV viral load
+[ ] Referral to hepatology for further discussion of HCV 
+treatment if HCV VL elevated
+
+Billing: greater than 30 minutes spent on discharge counseling 
+and coordination of care.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ibuprofen 800 mg PO Q6H:PRN Pain - Moderate 
+2. Vivitrol (naltrexone microspheres) 380 mg injection QMONTH 
+
+ 
+Discharge Medications:
+1.  Pantoprazole 40 mg PO Q24H 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*0 
+2.  Vivitrol (naltrexone microspheres) 380 mg injection QMONTH  
+3. HELD- Ibuprofen 800 mg PO Q6H:PRN Pain - Moderate  This 
+medication was held. Do not restart Ibuprofen until at least ___ 
+weeks after discharge
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hematemesis, likely due to gastritis versus ___ tear
+Hepatitis C, likely chronic
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You came in with vomiting blood.  We found that your blood 
+counts were stable and you did not have any further episodes 
+while you were here.  This is likely due to irritation of your 
+stomach from taking ibuprofen.  Please avoid taking this for ___ 
+weeks after discharge and if you do take this in the future, 
+please take it with food and avoid drinking any alcohol while 
+you are taking this medication.  You can take up to 2 grams of 
+Tylenol daily for pain instead.  We are also sending you home 
+with an acid blocker.  Please take this for 4 weeks or unless 
+otherwise directed by your PCP.
+
+We also found that your liver tests were mildly elevated.  This 
+is likely due to hepatitis C.  Please discuss with your PCP 
+regarding ___ referral to a liver specialist so you can get this 
+treated.
+
+Please return if you have recurrent vomiting of blood, 
+intractable abdominal pain, notice your skin or eyes turning 
+yellow, or if you have any other concerns.
+
+It was a pleasure taking care of you at ___ 
+___.
+ 
+Followup Instructions:
+___

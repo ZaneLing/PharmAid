@@ -1,0 +1,278 @@
+Name:  ___             Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Tongue and throat swelling
+ 
+Major Surgical or Invasive Procedure:
+No major surgical or invasive procedures were done during this 
+hospitalization. 
+ 
+History of Present Illness:
+___ with history of HTN, hypothyroidism, presents with concern 
+for angioedema.
+
+She developed tongue and throat swelling on ___ at 8am while at 
+work at a school. She felt voice sounded different. No dyspnea, 
+sore throat, cough, or fevers. She has had slight runny nose 
+over past few days. No new foods or medicines. She had cashews 
+last night which she normally eats without any issues. Never had 
+this before. She initially presented to urgent care, noted to 
+have "hot potato voice", and referred to ___.  Exam 
+there notable for T97.6, HR 56, BP 207/86, RR 20, O2 98%ra, 
+"Swollen tongue with mild submandibular swelling, no stridor, no 
+trismus, handling all secretions". She received 
+methylprednisolone IV 125mg, IV benadryl, Pepcid with 
+improvement. She was transferred to ___ for possible ENT 
+evaluation.
+
+At ___ ED, she received IM epinephrine for subjective 
+worsening and admitted to ___.
+
+Vitals on transfer: 65 175/72 16 100% RA 
+
+On arrival to ___, she reports swelling in tongue and neck are 
+improving but not resolved. Her voice is normalizing but also 
+not completely back to normal. Son notes it is more "guttural". 
+Also has a new sore throat. Continues to deny cough, fevers, 
+chills, dyspnea.
+
+ 
+Past Medical History:
+HTN
+HLD
+Hx of Hashimoto thyroiditis
+Horner syndrome
+hypothyroidism
+Depression
+s/p CCY
+s/p tubal ligation
+ 
+Social History:
+___
+Family History:
+Son passed away from brain cancer in his ___. Parents both lived 
+into their ___. Father had a-fib and prostate cancer. Mom had 
+TIA. 
+ 
+Physical Exam:
+Admission Physical Exam:
+===========================
+VITALS:  98.8 58 169/89 14 98%
+GENERAL: Alert, oriented x3, no acute distress
+HEENT: R pupil > L pupil (chronic), sclera anicteric, MMM, 
+oropharynx clear, 
+NECK: submandibular swelling with mild tenderness most focal 
+under angle of mandible b/l, no lymphadenopathy, 
+LUNGS: Clear to auscultation bilaterally, no stridor, no 
+wheezes, rales, rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: no rash 
+NEURO: full strength in all extremities
+ACCESS:  PIV
+
+Discharge Physical Exam:
+===========================
+GENERAL: Alert, oriented x3, no acute distress
+HEENT: R pupil > L pupil (chronic) both reactive to light, 
+sclera anicteric, MMM, oropharynx clear, tongue appears 
+minimally larger in size on L
+NECK: submandibular swelling with mild tenderness most focal 
+under angle of mandible b/l, no lymphadenopathy, 
+LUNGS: Clear to auscultation bilaterally, no stridor, no 
+wheezes, rales, rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN: no rash 
+NEURO: full strength in all extremities
+ACCESS:  PIV
+
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 09:48PM BLOOD C4-<2*
+___ 09:48PM BLOOD CRP-6.9*
+___ 09:48PM BLOOD Albumin-4.5 Calcium-9.2 Phos-2.6* Mg-2.1
+___ 09:48PM BLOOD ALT-20 AST-23 LD(LDH)-236 AlkPhos-102 
+TotBili-0.8
+___ 09:48PM BLOOD Glucose-151* UreaN-19 Creat-0.7 Na-138 
+K-3.8 Cl-105 HCO3-22 AnGap-15
+___ 09:48PM BLOOD WBC-7.5 RBC-4.15 Hgb-12.2 Hct-34.4 MCV-83 
+MCH-29.4 MCHC-35.5 RDW-13.1 RDWSD-39.5 Plt ___
+___ 09:48PM BLOOD Neuts-88.4* Lymphs-9.8* Monos-1.3* 
+Eos-0.0* Baso-0.1 Im ___ AbsNeut-6.66* AbsLymp-0.74* 
+AbsMono-0.10* AbsEos-0.00* AbsBaso-0.01
+
+Imaging:
+========
+CXR ___:
+IMPRESSION:  
+  
+Heart size is top-normal.  Mediastinum is unremarkable.  Lungs 
+are overall 
+clear.  There is no pleural effusion.  There is no pneumothorax. 
+
+
+Micro:
+======
+___ 9:48 pm BLOOD CULTURE      Source: Venipuncture. 
+
+   Blood Culture, Routine (Pending)
+
+___ 9:47 pm MRSA SCREEN      Source: Nasal swab. 
+
+   MRSA SCREEN (Pending)
+
+___ 9:47 pm THROAT CULTURE
+
+   VIRAL CULTURE (Pending)
+
+___ 10:21 pm Rapid Respiratory Viral Screen & Culture
+      Source: Nasopharyngeal swab. 
+
+   Respiratory Viral Culture (Pending) 
+
+   Respiratory Viral Antigen Screen (Pending)
+
+Discharge Labs:
+==================
+___ 04:44AM BLOOD C1 INHIBITOR-PND
+___ 04:44AM BLOOD C1 ESTERASE INHIBITOR, FUNCTIONAL 
+ASSAY-PND
+___ 04:44AM BLOOD Calcium-9.2 Phos-2.9 Mg-2.2
+___ 04:44AM BLOOD Glucose-133* UreaN-20 Creat-0.6 Na-139 
+K-3.6 Cl-106 HCO3-22 AnGap-15
+___ 12:48PM BLOOD WBC-15.0*# RBC-4.04 Hgb-11.8 Hct-33.8* 
+MCV-84 MCH-29.2 MCHC-34.9 RDW-13.2 RDWSD-39.9 Plt ___ with hx of hypothyroidism, HTN, presents with acute tongue 
+and throat swelling w/o respiratory distress admitted to ___ 
+for respiratory monitoring.
+
+# Acute angioedema: unclear precipitant as no new foods, bites, 
+meds. etc. No hereditary angioedema. ___ have had transient 
+allergen exposure or bug bite, vs. viral pharyngitis/laryngitis. 
+Other precipitating factor may have been use of diclofenac 
+(NSAID) vs. allergy to nut products. Patient received one ___ 
+of IV methylprednisone at outside hospital and switched to 60 mg 
+PO prednisone with plan for 5-day taper. Patient additionally 
+received one ___ of 0.3 mg IM epinephrine x1 on day of 
+admission on ___ as patient reportedly felt throat was tighter. 
+C1 esterase inhibitor level was pending at time of discharge. 
+Patient's tongue and throat swelling significantly improved in 
+AM of ___. She was resumed on a regular diet and advised to 
+follow up with allergy and immunology as an outpatient to workup 
+possible precipitant of acute angioedema. 
+
+# HTN: patient was continued on home atenolol 100mg PO daily
+
+# Hypothyroidism: patient was continued on home levothyroxine 
+100mcg PO daily
+
+# Depression: patient was continued on home citalopram 20mg PO 
+daily 
+
+TRANSITIONAL ISSUES:
+====================
+[ ] please have patient follow up with allergy/immunology for 
+further workup of precipitant of acute angioedema
+[ ] please follow up C1 esterase inhibitor level
+[ ] Patient was prescribed an Epipen in case of recurrence 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 20 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY:PRN heartburn 
+3. Atenolol 100 mg PO DAILY 
+4. Levothyroxine Sodium 100 mcg PO DAILY 
+5. Diclofenac Sodium ___ ___ is Unknown  PO BID:PRN arthritis 
+6. Multivitamins 1 TAB PO DAILY 
+7. Calcium Carbonate ___ is Unknown  PO DAILY 
+
+ 
+Discharge Medications:
+1.  EPINEPHrine (EpiPEN) 0.3 mg IM ONCE MR1 Duration: 1 ___ 
+RX *epinephrine 0.3 mg/0.3 mL 0.3 mg once Disp #*2 Cartridge 
+Refills:*0 
+2.  PredniSONE 30 mg PO BID Duration: 3 Days 
+RX *prednisone 20 mg 1.5 tablet(s) by mouth twice a day Disp #*8 
+Tablet Refills:*0 
+3.  Calcium Carbonate unknown  PO DAILY  
+4.  Atenolol 100 mg PO DAILY  
+5.  Citalopram 20 mg PO DAILY  
+6.  Levothyroxine Sodium 100 mcg PO DAILY  
+7.  Multivitamins 1 TAB PO DAILY  
+8.  Omeprazole 20 mg PO DAILY:PRN heartburn  
+9. HELD- Diclofenac Sodium ___ ___ is Unknown  PO BID:PRN 
+arthritis  This medication was held. Do not restart Diclofenac 
+Sodium ___ ___ follow up with an allergist and your primary 
+care provider
+
+ 
+___:
+Home
+ 
+Discharge Diagnosis:
+Acute angioedema 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of at ___ 
+___.
+
+You were admitted to the hospital for symptoms of tongue and 
+throat swelling. You were given a ___ of intravenous steroids 
+and switched to oral steroids, in addition to a ___ of 
+epinephrine, which improved your breathing and significantly 
+reduced your tongue and throat swelling. You were re-started on 
+a regular diet and tolerated this well.
+
+While it is unclear what precipitated the cause of your 
+symptoms, it is possible this may have been due to use of 
+diclofenac or an allergy to nut products. Please avoid use of 
+medications known as non-steroidal anti-inflammatory drugs (such 
+as aspirin, celecoxib, diclofenac, diflunisal, etodolac, 
+ibuprofen, or indomethacin) or any nut products until you follow 
+up with an allergist for further workup of a potential cause of 
+your symptoms.
+
+If you experience any worsening shortness of breath, tongue or 
+throat swelling, difficulty swallowing or speaking, fevers, 
+chills, chest pain, cough, nausea, vomiting, abdominal pain, or 
+diarrhea, please return to the Emergency Department for further 
+care.
+
+We wish you all the best!
+
+Sincerely,
+Your ___ Team 
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,258 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics) / lisinopril / Sudafed
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+Flexible sigmoidoscopy ___
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 07:53PM BLOOD WBC-14.2* RBC-5.47* Hgb-16.5* Hct-47.5* 
+MCV-87 MCH-30.2 MCHC-34.7 RDW-14.4 RDWSD-43.9 Plt ___
+___ 07:53PM BLOOD Neuts-74* Bands-3 Lymphs-11* Monos-5 
+Eos-2 ___ Metas-5* AbsNeut-10.93* AbsLymp-1.56 AbsMono-0.71 
+AbsEos-0.28 AbsBaso-0.00*
+___ 09:01PM BLOOD ___ PTT-27.0 ___
+___ 08:08PM BLOOD Glucose-148* UreaN-9 Creat-0.9 Na-132* 
+K-4.6 Cl-95* HCO3-20* AnGap-17
+___ 08:08PM BLOOD ALT-29 AST-37 LD(LDH)-398* AlkPhos-72 
+TotBili-0.5
+___ 08:08PM BLOOD Albumin-3.1*
+___ 07:53PM BLOOD Lactate-2.9*
+
+IMPORTANT INTERIM RESULTS:
+
+___ 07:00AM BLOOD CRP-33.5*
+___ 08:08PM BLOOD Lactate-2.7*
+___ 05:25AM BLOOD Lactate-1.2
+
+MICRO:
+
+C diff PCR - NEGATIVE
+
+___ Blood Culture - NEGATIVE (FINAL)
+
+STOOL CULTURES -
+
+___ 9:01 pm STOOL     CONSISTENCY: NOT APPLICABLE
+      Source: Stool. 
+
+                            **FINAL REPORT ___
+
+   FECAL CULTURE (Final ___:    NO SALMONELLA OR SHIGELLA 
+FOUND. 
+
+   CAMPYLOBACTER CULTURE (Final ___:    NO CAMPYLOBACTER 
+FOUND. 
+
+   OVA + PARASITES (Final ___: 
+      NO OVA AND PARASITES SEEN. 
+      This test does not reliably detect Cryptosporidium, 
+Cyclospora or
+      Microsporidium. While most cases of Giardia are detected 
+by routine
+      O+P, the Giardia antigen test may enhance detection when 
+organisms
+      are rare. 
+      FEW POLYMORPHONUCLEAR LEUKOCYTES. 
+
+   FECAL CULTURE - R/O E.COLI 0157:H7 (Final ___: 
+      No E. coli O157:H7 found. 
+
+   FECAL CULTURE - R/O YERSINIA (Final ___:    NO YERSINIA 
+FOUND. 
+
+O and P x2 - Pending
+
+ Test                          Result              Reference 
+Range/Units
+HELICOBACTER PYLORI AG, EIA,  SEE NOTE            
+STOOL                                             
+ 
+  HELICOBACTER PYLORI AG, EIA, STOOL 
+  
+  Micro Number:      ___
+  Test Status:       Final
+  Specimen Source:   STOOL
+  Specimen Quality:  Adequate
+  H.pylori Ag:       Not Detected
+                      
+                     Antimicrobials, proton pump inhibitors, and
+                     bismuth preparations inhibit H. pylori and
+                     ingestion up to two weeks prior to testing 
+may
+                     cause false negative results. If clinically
+                     indicated the test should be repeated on a 
+new
+                     specimen obtained two weeks after 
+discontinuing
+                     treatment.
+THIS TEST WAS PERFORMED AT:
+___ LLC
+___ ___  ___ 
+___
+Comment: ___, ___
+
+IMAGING/STUDIES:
+
+___ CT ABD & PELVIS WITH CO
+1. Acute pancolitis which may be secondary to infection versus
+ischemia. 
+2. Multiple low-attenuation pancreatic lesions at the pancreatic
+body. Further evaluation with outpatient nonemergent MRCP is
+recommended. 
+3. Mild fat stranding surrounding the pancreatic head and
+descending duodenum region with duodenal wall thickening.  This
+may be secondary to mild duodenitis/ulcer disease. 
+4. Other chronic/incidental findings described as in above. 
+
+___ SIGMOIDOSCOPY
+Edema, decreased vascularity, congestion, marked erythema,
+exudate, friability and erosion in the [sic] extending beyond 
+the
+maximal point reached (25cm) compatible with ___ 2 disease.
+(Biopsy). Mild diverticulosis of the sigmoid colon.
+
+DISCHARGE LABS:
+___ 05:13AM BLOOD WBC-22.0* RBC-4.37 Hgb-13.0 Hct-40.1 
+MCV-92 MCH-29.7 MCHC-32.4 RDW-13.3 RDWSD-44.1 Plt ___
+___ 05:13AM BLOOD Glucose-147* UreaN-20 Creat-0.7 Na-141 
+K-4.9 Cl-102 HCO3-25 AnGap-14
+___ 05:13AM BLOOD Calcium-9.1 Phos-3.0 Mg-1.7
+___ 05:13AM BLOOD CRP-3.___ is a ___ healthy and functional female 
+with h/o HTN, who presents with subacute diarrhea for the past 
+few weeks, found with pan-colitis on CT s/p flex sig with 
+findings concerning for new diagnosis ulcerative colitis.
+
+TRANSITIONAL ISSUES:
+[ ] Multiple low-attenuation pancreatic lesions at the 
+pancreatic body. Further evaluation with outpatient non-emergent 
+MRCP is recommended. 
+[ ] No clear indication for aspirin identified, patient 
+encouraged to speak to PCP regarding risk/benefit ratio of 
+continuing this - for now patient elects to continue
+[ ] Repeat blood pressures, decision on titration of meds iso 
+steroid use (amlodipine is new meds this hospitalization)
+[ ] can discontinue PPI once off steroids
+[ ] GI ___ will be scheduled by GI department. 
+Consideration of biologic if ongoing symptoms despite steroids. 
+Eventually patient needs full colonoscopy, which she is aware of
+
+ACUTE/ACTIVE PROBLEMS:
+
+# Subacute diarrhea:
+# Pan-colitis:
+# Likely new diagnosis ulcerative colitis:
+Patient initially presented with frequent loose stools, without 
+any hematochezia/melena or cramping. CT abdomen with 
+pan-colitis. C diff negative. GI consulted; patient underwent 
+flex sig on ___ with significant ulcerations concerning for 
+new onset ulcerative colitis. She was started on IV SoluMedrol, 
+with significant improvement/decrease in stool frequency. On 
+___ switched to oral prednisone, with plan for taper (decrease 
+by 5mg every 3 days) and ___ in GI.  Final path report 
+from biopsies during flex sig still pending at discharge.
+
+# HTN: Initially held HCTZ, normotensive and with ongoing 
+diarrhea. Resumed when blood pressure going higher. BP still 
+elevated to 150s/160s despite HCTZ, likely due to steroids, 
+therefore patient provided prescription for amlodipine on 
+discharge.
+
+# Primary prevention: Continued home simvastatin 20, and 
+initially held spirin 81mg but patient then elected to resume 
+this, although no clear indication for aspirin therefore would 
+consider discussing this medication with PCP.
+
+# CODE STATUS = FULL
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Diphenoxylate-Atropine ___ TAB PO Q6H:PRN diarrhea 
+2. LOPERamide 2 mg PO Frequency is Unknown 
+3. Vitamin D ___ UNIT PO DAILY 
+4. Simvastatin 10 mg PO QPM 
+5. Hydrochlorothiazide 25 mg PO DAILY 
+6. turmeric root extract ___ mg oral ___ times per week 
+7. Fish Oil (Omega 3) Dose is Unknown  PO DAILY 
+8. flaxseed oil 0 mg oral DAILY 
+9. Multivitamins 1 TAB PO DAILY 
+10. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  amLODIPine 5 mg PO DAILY 
+RX *amlodipine 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Pantoprazole 40 mg PO Q24H 
+may discontinue this medication if stopping steroids 
+RX *pantoprazole 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+3.  PredniSONE 40 mg PO DAILY 
+Taper: decrease by 5mg every three days 
+Tapered dose - DOWN 
+RX *prednisone 10 mg 1 tablet(s) by mouth once a day Disp #*40 
+Tablet Refills:*0 
+4.  Fish Oil (Omega 3) 1000 mg PO DAILY 
+dose as previously prescribed  
+5.  flaxseed oil 1 mg oral DAILY 
+dose as previously prescribed  
+6.  Aspirin 81 mg PO DAILY  
+7.  Hydrochlorothiazide 25 mg PO DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Simvastatin 10 mg PO QPM  
+10.  turmeric root extract ___ mg oral ___ times per week  
+11.  Vitamin D ___ UNIT PO DAILY  
+12. HELD- Diphenoxylate-Atropine ___ TAB PO Q6H:PRN diarrhea  
+This medication was held. Do not restart Diphenoxylate-Atropine 
+until speak to GI
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+colitis, likely ulcerative
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+___,
+
+You were brought in for persistent diarrhea over the past couple 
+of months. Your CT of the abdomen showed inflammation of your 
+large intestine and so you underwent a colonoscopy on ___ 
+and was found to have likely ulcerative colitis. You were 
+started on IV steroids, and eventually tapered down to oral 
+steroids (prednisone).
+
+Upon discharge, prednisone taper plan as follows:
+
+Take 40mg (4 tablets daily) for two days, then 35 mg (3.5 
+tablets) x3 days, then continue to decrease by 5mg every 3 days. 
+If you have recurrent diarrhea, you have been instructed to 
+increase back up to 40mg of prednisone, and call your 
+gastroenterologist.
+
+It was a pleasure taking care of you!
+
+Sincerely, your ___ Team
+ 
+Followup Instructions:
+___

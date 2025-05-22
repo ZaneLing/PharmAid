@@ -1,0 +1,248 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+shellfish derived / avocado
+ 
+Attending: ___.
+ 
+Chief Complaint:
+back pain
+ 
+Major Surgical or Invasive Procedure:
+___ aspiration of para-vertebral fluid collection. 
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with history of injection 
+drug use who presented to an outside hospital with back pain and 
+was found to have sacroiliac osteomyelitis, transferred to ___ 
+for further management.
+
+The patient reports that he initially developed right lower back 
+pain on ___. He works for ___, and was lifting a box at work 
+when he developed the acute onset of severe right-sided lower 
+back pain that radiated down his right leg. The patient 
+progressively worsened that night and it was too painful to 
+walk. He presented to the ED that night and returned again on 
+___. He was treated with a solumedol dosepack and oxycodone. He 
+was then seen at an Urgent Care on ___ where he reports that he 
+was given an intramuscular injection of Toradol into his right 
+buttock. However, he continued to have ongoing right back pain 
+associated with weakness and difficulty bearing weight. No bowel 
+or bladder changes. No saddle anesthesia. No fevers or chills. 
+
+Given his persistent pain and inability to ambulate, he 
+presented again to ___ for evaluation on ___. 
+There, imaging demonstrated septic arthritis/osteomyelitis of 
+the right sacroiliac joint versus an inflammatory sacroiliitis. 
+Labs on ___ notable for: WBC 9.8, Hb 12.4, plt 426. Na 137, L 
+4.9, Cl 97, HCO3 31, BUN/Cr ___. ESR 53 (___). Patient was 
+initially on vancomycin/Zosyn and then switched to 
+Unasyn/gentamicin. It appears that blood cultures have had no 
+growth.
+
+On arrival to the floor, the patient reports that his back pain 
+is a ___, but overall he feels much improved since initiating 
+antibiotics. He denies any other complaints at this time. He 
+denies any injection drug use. Denies any rashes or skin 
+lesions.
+
+ROS: Pertinent positives and negatives as noted in the HPI. All 
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+- Depression
+- Prior injection drug use
+- Tobacco use
+ 
+Social History:
+___
+Family History:
+No known family history of recurrent infections.
+Mother with ___. Father with epilepsy.
+ 
+Physical Exam:
+Mr. ___ is a ___ man with history of injection 
+drug use who presented to an outside hospital with back pain and 
+was found to have sacroiliac osteomyelitis, transferred to ___ 
+for further management.
+
+ACUTE/ACTIVE PROBLEMS: # Sacroiliac osteomyelitis: # ? 
+Endocarditis (versus redundant triscuspid valve) Patient 
+presented to an outside hospital with back pain and found on 
+imaging (CT, MRI, bone scan) to have evidence septic 
+arthritis/osteomyelitis of the right sacroiliac joint with 
+inflammation of surrounding paraspinal muscles. ? vegetation on 
+triscupid versus redundant valve tissue. Aspiration culture 
+growing MSSA. Now s/p PICC with plan for home abx. 
+
+- Continue cefazolin 2g IV q8h for tentative 6 week course, will 
+follow up with ID to determine final duration. - Pain control 
+with Tylenol, Toradol, lidocaine patch - ID team consulted, 
+apprec recs (now with final OPAT recs in Chart) 
+
+CHRONIC/STABLE PROBLEMS: 
+# Nicotine dependence: - Patient declined nicotine replacement 
+therapy 
+ 
+Pertinent Results:
+ADMISSION/SIGNIFICANT LABS:
+========================
+___ 06:09AM BLOOD WBC-7.4 RBC-4.26* Hgb-12.1* Hct-39.0* 
+MCV-92 MCH-28.4 MCHC-31.0* RDW-13.5 RDWSD-45.1 Plt ___
+___ 06:09AM BLOOD Glucose-99 UreaN-25* Creat-0.7 Na-140 
+K-4.7 Cl-99 HCO3-26 AnGap-15
+___ 06:09AM BLOOD CRP-64.6*
+
+MICRO:
+======
+FLUID CULTURE (Preliminary): 
+      STAPH AUREUS COAG +.    SPARSE GROWTH. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             STAPH AUREUS COAG +
+                             |   
+CLINDAMYCIN-----------<=0.25 S
+ERYTHROMYCIN----------<=0.25 S
+GENTAMICIN------------ <=0.5 S
+LEVOFLOXACIN----------<=0.12 S
+OXACILLIN-------------   0.5 S
+TETRACYCLINE----------   <=1 S
+TRIMETHOPRIM/SULFA---- <=0.5 S
+
+IMAGING/OTHER STUDIES: 
+====================
+ECHO
+IMPRESSION: Moderate, mobile echodensity on the ?anterior 
+leaflet of the tricuspid valve in the setting of at least mild 
+tricuspid regurgitation consistent with redundant leaflets vs 
+vegetation thrombus. Clinical correlation is suggested. 
+Preserved biventricular systolic function. Normal pulmonary 
+pressure.
+
+OSH Imaging: 
+- Bone scan (___): Impression: Abnormal increased activity
+seen on vascular, blood pool, and delayed images of the right
+sacroiliac joint. This correlate to prior images that show a
+small amount of fluid within the right sacroiliac joint as well
+as extensive abnormal soft tissue edema of the right iliopsoas
+muscle and the right posterior paraspinal muscles. Findings are
+most consistent with septic arthritis/osteomyelitis of the right
+sacroiliac joint versus an inflammatory sacroiliitis.
+
+- CT Pelvis with contrast (___): Impression: Minimal initial
+transient focal enhancement in the right iliac this muscle
+without definable abscess or fluid collection by CT scan or
+persistence of enhancement on delayed imaging. Mild enlargement
+of the right iliopsoas muscle. Otherwise normal CT scan of the
+pelvis. Without a definable target, an aspiration is not
+attempted at this time.
+
+- CT Lumbar spine without contrast (___): Impression: The
+osseous structure of the lumbar spine are normal. Mild
+degenerative disk disease at L5-S1.
+
+- MRI Pelvis with and without contrast (___): Impression:
+Peripherally enhancing loculated fluid collection within the
+right iliacus muscle. Highly concerning for abscess. Possible
+hematoma. There is surrounding regional inflammation and
+enhancement with mild edema within the L5 and S1 vertebral 
+bodies
+as described. Possible extension to the sacroiliac joint.
+
+- MRI Lumbar spine without contrast (___): Impression:
+Partially visualized heterogeneous fluid collection with
+surrounding edema centered in the right iliacus muscle,
+concerning for hematoma or abscess.
+
+LABS AT DISCHARGE: 
+=================
+___ 05:10AM BLOOD WBC-7.1 RBC-3.85* Hgb-10.8* Hct-34.7* 
+MCV-90 MCH-28.1 MCHC-31.1* RDW-13.1 RDWSD-43.6 Plt ___
+___ 05:10AM BLOOD Glucose-92 UreaN-26* Creat-0.6 Na-137 
+K-4.9 Cl-100 HCO3-30 AnGap-7*
+___ 05:10AM BLOOD ALT-61* AST-68* AlkPhos-76 TotBili-0.2
+___ 06:09AM BLOOD CRP-64.6*
+___ 05:10AM BLOOD CRP-19.6*
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ man with history of injection 
+drug use who presented to an outside hospital with back pain and 
+was found to have sacroiliac osteomyelitis, transferred to ___ 
+for further management.
+
+ # Sacroiliac osteomyelitis: 
+# possible Endocarditis (versus redundant triscuspid valve):
+Patient presented to an outside hospital with back pain and 
+found on imaging (CT, MRI, bone scan) to have evidence septic 
+arthritis/osteomyelitis of the right sacroiliac joint with 
+inflammation of surrounding paraspinal muscles. He underwent 
+___ with cultures growing MSSA. ID was consulted and 
+he was discharged to complete six weeks of Cefazolin 2g IV q8h  
+(Projected End Date:  ___. He will be seen in the ___ 
+clinic, who will also oversee weekly labs while on home IV 
+antibiotics. 
+
+> 30 days spent on discharge planning
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q8H:PRN Pain - Mild/Fever  
+2.  CeFAZolin 2 g IV Q8H 
+RX *cefazolin in dextrose (iso-os) 2 gram/50 mL 2 g IV every 
+eight (8) hours Disp #*84 Intravenous Bag Refills:*0 
+3.  Ibuprofen 400-600 mg PO Q8H:PRN Pain - Mild  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+# S. aureus SI joint septic arthritis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a priviliege to care for you at the ___ 
+___. You were admitted for back pain due to a serious 
+bacterial infection. You will need to take a prolonged course of 
+IV antibiotics to properly clear this infection. It is now safe 
+to be discharged home to continue treatment. 
+
+Please continue to take all medications as prescribed and follow 
+up with all appointments as detailed below. 
+
+We wish you the best! 
+
+Sincerely,
+
+Your ___ team
+
+ 
+Followup Instructions:
+___

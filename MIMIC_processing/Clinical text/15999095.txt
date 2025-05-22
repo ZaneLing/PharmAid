@@ -1,0 +1,331 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+___
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+As per HPI in H&P by Dr. ___ ___:
+___ with hx of DM, htn, HLD, DM2 presenting with syncope. Pt
+describes dry cough several weeks ago, for which he received
+"pills" from his PCP. Review of OMR medications fill history
+reveals that he received oseltamivir on ___. Cough
+resolved, but then recurred, has now been present x1 week,
+nonproductive. He describes severe chills with rigors the night
+of ___, woke up feeling better on ___, had coffee in the
+morning. At around noon his wife suggested that he eat 
+something.
+He went into the kitchen, began chopping tomatoes, then felt
+globally unwell, which he describes not as true weakness but
+generalized sense of unwellness. He walked into the next room,
+sat in the chair, and does not recall falling from the chair. He
+denies preceding chest pain, SOB, palpitations, abdominal pain,
+and denies bowel/bladder incontinence. He believes that his LOC
+lasted about 2 minutes; his wife was in the kitchen, came
+immediately into the next room - "She thought I had died." He
+denies post-syncopal confusion. He does state that he had an
+episode of syncope 8 months prior, similar events, woke up
+immediately without deficits, and did not seek care for this
+event.
+
+In the ___ ED:
+VS 98.7, 60, 126/70, 96% RA
+Exam notable for:
+"Gen: no acute distress
+HEENT: C-collar in place; mild cervical tenderness to palpation
+Lungs: CTAB
+Cardiac: RRR
+Abd: S/NT/ND
+Ext: WWP, no edema
+Neuro: CN II-XII intact, no pronator drift, sensation intact to
+light touch diffusely, str ___ in BUE, str ___ in BLE"
+Labs notable for WBC 6.6, Hb 12.0, Plt 155, INR 1.2, LFTs WNL,
+BUN 21, Cr 1.7, TnT<0.01, lactate 2.2, flu negative, UA negative
+
+Imaging: 
+CT head and c-spine without acute findings
+CXR with RLL opacity concerning for pneumonia
+
+Received:
+Ceftriaxone
+Azithromycin 
+IVF
+
+On arrival to the floor, pt confirms above history in detail.
+Endorses ongoing dry cough, denies chest pain, SOB. He did check
+his temperature at home, and found it to be 100.0.
+
+ROS: 10 point review of system reviewed and negative except as
+otherwise described in HPI"
+ 
+Past Medical History:
+DM2
+HTN
+HLD
+Cervical spondylosis
+Melanoma s/p excision x 3 and skin graft on back ___ in ___
+
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this 
+hospitalization/illness
+ 
+Physical Exam:
+ADMISSION EXAM:
+VS: ___ ___ Temp: 98.6 PO BP: 159/69 R Lying HR: 65 RR: 18
+O2 sat: 96% O2 delivery: RA 
+GEN: delightful elderly male lying in bed, alert and 
+interactive,
+comfortable, no acute distress
+HEENT: PERRL, anicteric, conjunctiva pink, oropharynx without
+lesion or exudate, moist mucus membranes, ears without lesions 
+or
+apparent trauma
+LYMPH: no anterior/posterior cervical, supraclavicular 
+adenopathy
+CARDIOVASCULAR: Regular rate and rhythm without murmurs, rubs, 
+or
+gallops
+LUNGS: clear to auscultation bilaterally without rhonchi,
+wheezes, or crackles posteriorly
+GI: soft, nontender, without rebounding or guarding, 
+nondistended
+with normal active bowel
+sounds, no hepatomegaly
+EXTREMITIES: no clubbing, cyanosis, or edema
+GU: no foley
+SKIN: no rashes, petechia, lesions, or echymoses; warm to
+palpation
+NEURO: Alert and interactive, cranial nerves II-XII intact,
+strength ___ in UE and ___ bilaterally
+PSYCH: normal mood and affect
+
+DISCHARGE EXAM:
+VITALS: ___ ___ Temp: 98.5 PO BP: 153/72 L HR: 73 RR: 18 
+O2 sat: 93% O2 delivery: Ra 
+___ 0840 BP: 150/68 R Lying HR: 68 Dyspnea: 0 RASS: 0 Pain 
+Score: ___ 
+___ 0842 BP: 136/72 R Sitting HR: 79 
+___ 0844 BP: 135/71 R Standing HR: 85 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: MMM, OP clear
+CV: NR/RR, no m/r/g
+RESP: CTAB, no wheezes, crackles, or rhonchi
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel 
+sounds present.
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs
+PSYCH: pleasant, appropriate affect
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 02:40PM BLOOD WBC-6.6 RBC-3.68* Hgb-12.0* Hct-35.2* 
+MCV-96 MCH-32.6* MCHC-34.1 RDW-12.5 RDWSD-42.9 Plt ___
+___ 02:40PM BLOOD Neuts-67.8 Lymphs-12.7* Monos-17.4* 
+Eos-1.5 Baso-0.3 Im ___ AbsNeut-4.45 AbsLymp-0.83* 
+AbsMono-1.14* AbsEos-0.10 AbsBaso-0.02
+___ 02:40PM BLOOD Glucose-110* UreaN-21* Creat-1.7* Na-143 
+K-4.0 Cl-106 HCO3-22 AnGap-15
+___ 02:40PM BLOOD Albumin-4.1 Calcium-8.9 Phos-2.3* Mg-1.6
+___ 02:40PM BLOOD ALT-9 AST-14 CK(CPK)-67 AlkPhos-97 
+TotBili-1.0
+___ 02:40PM BLOOD cTropnT-<0.01
+___ 07:20AM BLOOD TSH-2.0
+___ 02:44PM BLOOD Lactate-2.2*
+
+DISCHARGE LABS:
+___ 07:20AM BLOOD WBC-6.2 RBC-3.67* Hgb-11.7* Hct-34.7* 
+MCV-95 MCH-31.9 MCHC-33.7 RDW-12.5 RDWSD-43.0 Plt ___
+___ 07:20AM BLOOD Glucose-112* UreaN-20 Creat-1.5* Na-143 
+K-3.5 Cl-106 HCO3-25 AnGap-12
+___ 07:20AM BLOOD Calcium-8.5 Phos-2.4* Mg-1.5*
+
+MICRO:
+UCx  - pending at the time of discharge
+BCx - pending at the time of discharge
+
+IMAGING:
+CXR PA/Lat (___):
+IMPRESSION:  
+Right lower lobe opacity compatible with pneumonia. 
+
+CT head (___):
+IMPRESSION:  
+No acute intracranial process. 
+
+CT-spine (___):
+IMPRESSION:  
+No cervical spine fracture or malalignment.  Right-sided thyroid 
+nodules within one measuring up to 2.3 cm.  Follow-up thyroid 
+ultrasound is recommended on a nonurgent basis. 
+  
+RECOMMENDATION(S): 
+Thyroid nodule.  Ultrasound follow up recommended. 
+___ College of Radiology guidelines recommend further 
+evaluation for 
+incidental thyroid nodules of 1.0 cm or larger in patients under 
+age ___ or 1.5 cm in patients age ___ or ___, or with suspicious 
+findings. 
+Suspicious findings include: Abnormal lymph nodes (those 
+displaying 
+enlargement, calcification, cystic components and/or increased 
+enhancement) or invasion of local tissues by the thyroid nodule. 
+
+
+EKG: NSR at 60 bpm, normal axis, 1st degree AVB, QTc 394, TW
+flattening in aVL, no ST segment changes, no pathologic Q waves,
+several apparent pacer spikes are artifact, pt does not have 
+PPM.
+No significant change compared to prior.
+
+ 
+Brief Hospital Course:
+SUMMARY:
+___ with hx of DM, htn, HLD, DM2 presenting with syncope, found 
+to have RLL pneumonia.
+
+# Syncope:
+# CAP
+Pt endorsed cough/chills and was found to have RLL infiltrate. 
+This was in the setting of recent oseltamivir course. Suspect 
+syncope was ___ orthostasis in setting of CAP. No concerning 
+features on EKG. No events on telemetry. The morning after 
+admission, orthostatic vitals were normal. In the absence of 
+leukocytosis or neutrophilia, it is possible that constellation 
+of symptoms reflect a new viral process, although infiltrate may 
+support bacterial pneumonia. CURB65was 2 based on age and 
+BUN>___. He was not hypoxic, tachypneic, and appeared well on 
+admission. Influenza negative in ED. He was started on 
+levofloxacin, anticipating a ___
+In setting of above process, likely prerenal. Unclear baseline, 
+Cr was 1.5 on ___, now 1.7. Received IVF in ED and 
+afterwards Cr improved to 1.5.
+
+# Hypertension:
+Held home amlodipine, olmesartan, and hctz in setting of 
+pneumonia and syncope. His home metoprolol was continued with 
+hold parameters. On discharge, his home amlodipine was resumed. 
+His HCTZ and olmesartan were held (given normotension) with 
+plans for the patient to follow up with his primary care doctor 
+within ___ few days to discuss resumption.
+
+# HLD: 
+Continued home atorvastatin.
+
+# DM2:
+Held metformin (resumed on discharge). Insulin sliding scale 
+used to control blood glucose.
+
+# GERD: Nexium was held inpatient as it is nonformulary.
+
+# BPH: 
+Continued home tamsulosin.
+
+# Thyroid nodules
+Incidentally discovered on CT chest. TSH was wnl (2) during this 
+hospital stay. He should have an outpatient thyroid ultrasound 
+to further characterize these lesions.
+
+TRANSITIONAL ISSUES:
+[ ] Non-urgent thyroid ultrasound recommended to evaluate 
+thyroid nodules
+[ ] Anti-hypertensives (olmesartan and HCTZ) were held in the 
+setting of pneumonia and normotension off these agents. Pt 
+instructed to follow up with outpatient providers and resume 
+these when instructed to do so.
+[ ] Home lorazepam was recommended to be discontinued due to 
+concern for delirium in the elderly; was given a prescription 
+for melatonin to use for insomnia
+
+>30 minutes spent on complex discharge
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Tartrate 25 mg PO BID 
+2. Nexium 20 mg Other DAILY 
+3. Aspirin 81 mg PO DAILY 
+4. amLODIPine 2.5 mg PO DAILY 
+5. olmesartan 40 mg oral DAILY 
+6. Tamsulosin 0.4 mg PO QHS 
+7. LORazepam 0.5 mg PO QHS:PRN insomnia 
+8. Hydrochlorothiazide 25 mg PO DAILY 
+9. MetFORMIN (Glucophage) 500 mg PO BID 
+10. Atorvastatin 40 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Levofloxacin 750 mg PO Q48H pneumonia 
+End date: ___ 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth ONCE Disp #*1 
+Tablet Refills:*0 
+2.  melatonin 1 mg oral QHS:PRN 
+RX *melatonin 1 mg 1 tablet(s) by mouth at bedtime Disp #*30 
+Tablet Refills:*0 
+3.  amLODIPine 2.5 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 40 mg PO QPM  
+6.  MetFORMIN (Glucophage) 500 mg PO BID  
+7.  Metoprolol Tartrate 25 mg PO BID  
+8.  Nexium 20 mg Other DAILY  
+9.  Tamsulosin 0.4 mg PO QHS  
+10. HELD- Hydrochlorothiazide 25 mg PO DAILY  This medication 
+was held. Do not restart Hydrochlorothiazide until your primary 
+care doctor tells you to restart it.
+11. HELD- olmesartan 40 mg oral DAILY  This medication was held. 
+Do not restart olmesartan until your primary care doctor 
+instructs you to resume it
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Community-acquired pneumonia
+Syncope
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were admitted to the hospital after having an episode of 
+syncope (losing consciousness). You were found to have 
+pneumonia. Most likely the syncope was caused by the pneumonia. 
+Your EKG, vital signs, exam, and telemetry did not indicate any 
+problems with your heart that lead to this episode. You should 
+continue to take the levofloxacin (antibiotic) as directed to 
+treat the pneumonia. Please call to make an appointment with 
+your primary care doctor in the next ___ weeks to follow up. 
+Best wishes for your continued healing.
+Take care,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

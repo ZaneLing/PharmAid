@@ -1,0 +1,282 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+Left arm tingling
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with DM2 and HLD who
+presents for speech changes and left arm tingling.  
+
+On ___, she was talking to a friend on the phone while driving
+when all of a sudden, she had difficulty speaking. She felt like
+her speech was slurred, but her friend said she just sounded
+tired. Of note, she had nt slept in the last 2 days because she
+was helping her son with his college papers. She arrived to the
+hairdresser where she felt like she was still not speaking
+correctly, but she was able to have an entire conversation with
+her hairdresser. Entire episode lasted ___ and subsequently
+resolved. 
+
+She was evaluated in clinic ___. A stroke workup was started. 
+MRI
+brain showed a possible punctate left parietal lobe postcentral
+gyrus acute infarct vs artifact. Carotid dopplers showed <40%
+stenosis bilaterally.  
+
+This morning, she woke up and while she was making coffee, she
+noticed some tingling in her left arm in a patchy distribution.
+Was not her whole arm, started at the shoulder and maybe 
+involved
+the medial forearm. No numbness, just tingling. This has 
+happened
+before in the setting of sleeping on her arm funny. Episode
+lasted 10 minutes. Denies any weakness. Came into the ED because
+PCP counseled her on stroke symptoms in the setting of her 
+recent
+speech difficulties. She took 160mg ASA this morning and came to
+the ED. Last night, she had taken 325mg ASA. 
+
+With regards to her stroke risk factors, she has been trying to
+lose weight to get her A1c better. It is currently 8.6, and she
+is on metformin, which was recently (this last week) increased 
+to
+1000mg BID, but this gave her constipation and diarrhea. She 
+also
+started atorvastatin 40mg and took it for the first time last
+night. The goal is to get her to 80mg. 
+
+ROS: On neurologic review of systems, the patient denies
+headache, lightheadedness, or confusion. Denies difficulty with
+producing or comprehending speech. Denies loss of vision, 
+blurred
+vision, diplopia, vertigo, tinnitus, hearing difficulty,
+dysarthria, or dysphagia. Denies focal muscle weakness, 
+numbness,
+parasthesia. Denies loss of sensation. Denies bowel or bladder
+incontinence or retention. Denies difficulty with gait.
+
+On general review of systems, the patient denies fevers, rigors,
+night sweats, or noticeable weight loss. Denies chest pain,
+palpitations, dyspnea, or cough. Denies nausea, vomiting,
+diarrhea, constipation, or abdominal pain.  No recent change in
+bowel or bladder habits.  Denies dysuria or hematuria. Denies
+myalgias, arthralgias, or rash.
+ 
+Past Medical History:
+DM2, HLD, dermatitis, eczema, obesity
+ 
+Social History:
+Husband died ___ years ago of pancreatic cancer,
+son graduating from ___ next ___ and she really
+wants to be at the graduation
+- works in ___, also a contributor to
+the ___
+- tobacco: denies
+- EtOH: denies
+- illicits: denies
+- MJ: denies
+
+- Modified Rankin Scale:
+ [X] 0: No symptoms
+ [] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+ [] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+ [] 3: Moderate disability: requires some help but able to walk
+unassisted
+ [] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+ [] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+ [] 6: Dead
+
+ 
+Family History:
+Sister with stroke
+ 
+Physical Exam:
+===========================
+ADMISSION PHYSICAL EXAM
+===========================
+Vitals:  T: 97.6F  HR: 114  BP: 140/86  RR: 16  SaO2: 98% RA
+General:  NAD
+HEENT: NCAT,  no oropharyngeal lesions, neck supple
+___: RRR
+Pulmonary: breathing comfortably on RA
+Abdomen: Soft, NT, ND
+Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, oriented x 3. Able to relate
+history without difficulty. Attentive, speech is fluent with 
+full
+sentences, intact repetition, and intact verbal comprehension.
+Able to describe cookie picture. Naming intact.  No paraphasias. 
+
+No dysarthria. Normal prosody. No apraxia. No evidence of
+hemineglect. No left-right confusion. Able to follow both 
+midline
+and appendicular commands.
+
+- Cranial Nerves: PERRL 3->2 brisk. VF full to number counting.
+EOMI, no nystagmus. V1-V3 without deficits to light touch
+bilaterally. No facial movement asymmetry. Hearing intact to
+finger rub bilaterally.  Palate elevation symmetric.
+SCM/Trapezius strength ___ bilaterally. Tongue midline.
+
+- Motor:  Normal bulk and tone. No drift. No tremor 
+   [___]
+ L   5     5    5    5    ___    5     5   5    5    5
+ R   5     5    5    5    ___    5     5   5    5    5  
+  
+- Reflexes: 
+    [Bic] [Tri] [___] [Quad] [Gastroc]
+  L  1+    1+     1+      0       0
+  R  1+    1+     1+      0       0  
+
+Plantar response mute on left, downgoing on right
+
+- Sensory: No deficits to light touch or pin throughout
+
+- Coordination: No dysmetria with finger to nose testing
+bilaterally. 
+
+- Gait: deferred
+
+===========================
+DISCHARGE PHYSICAL EXAM
+===========================
+ 
+Pertinent Results:
+======
+LABS
+======
+___ 07:20AM BLOOD WBC-8.5 RBC-4.32 Hgb-12.4 Hct-38.7 MCV-90 
+MCH-28.7 MCHC-32.0 RDW-14.7 RDWSD-48.7* Plt ___
+___ 03:58PM BLOOD ___ PTT-32.4 ___
+___ 07:20AM BLOOD Glucose-210* UreaN-12 Creat-0.7 Na-139 
+K-4.6 Cl-101 HCO3-25 AnGap-18
+___ 02:04PM BLOOD ALT-16 AST-49* AlkPhos-73 TotBili-0.2
+___ 02:04PM BLOOD cTropnT-<0.01
+___ 07:20AM BLOOD Calcium-9.6 Phos-3.8 Mg-2.0
+___ 02:04PM BLOOD Albumin-4.3
+___ 02:04PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Bnzodzp-NEG Barbitr-NEG Tricycl-NEG
+
+==========
+IMAGING
+==========
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ woman with multiple vascular risk factors 
+and a recent transient ischemic attack (transient speech 
+difficulty with outpatient MRI ___ revealing a L parietal 
+lobe punctate infarct vs artifact) who presented ___ with 10 
+minutes of patchy left arm tingling. She was admitted to the 
+stroke service for monitoring due to her recent TIA. She had a 
+CTA head and neck in the ED that revealed mild atherosclerosis 
+changes. ___ did not show any acute intracranial 
+abnormalities.
+
+While on the stroke service, she remained neurologically intact 
+and felt well. Her A1C was 8.9 and LDL 134. She did not have 
+atrial fibrillation on telemetry monitoring. For secondary 
+stroke prevention, she was continued on aspirin 81mg daily and 
+her atorvastatin was increased to 80mg daily. Her presenting 
+symptoms were ultimately felt to be due to cervical spondylosis 
+with radiculopathy vs. a compression neuropathy (these symptoms 
+occurred after sleeping on her arm). She was discharged with 
+plans for close neurological follow-up and outpatient 
+echocardiogram given her recent possible infarct (although the 
+finding on MRI was suspicious for artifact).
+
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Aspirin 81 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. MetFORMIN (Glucophage) 1000 mg PO DAILY 
+4. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 80 mg PO QPM  
+2.  Aspirin 81 mg PO DAILY  
+3.  MetFORMIN (Glucophage) 1000 mg PO DAILY  
+4.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: 
+Cervical spondylosis/radiculopathy versus compressive neuropathy
+
+Secondary diagnosis:
+Diabetes mellitus (type 2)
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to the hospital after experiencing transient 
+left arm tingling. This was in the setting of a recent episode 
+of difficulty speaking with MRI revealing possibly a small 
+stroke (versus artifact). We observed you in the hospital and 
+you did not have any recurrent neurologic symptoms. You have a 
+CT scan of your head and an CT angiogram of the blood vessels in 
+your head and neck which was reassuring (you only have mild 
+plaque, or atherosclerosis, in your blood vessels).
+
+The tingling in your left arm may have been due to your sleeping 
+position, you may have compressed an nerve. We do not have a 
+high concern that this represented a recurrent stroke.
+
+For stroke prevention, we recommend you continue to take aspirin 
+81mg daily and atorvastatin 80 mg daily. Please continue all of 
+your additional home medications including your diabetic 
+medications.
+
+Please followup with Neurology and your primary care physician.
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+We wish you all the best!
+ 
+Followup Instructions:
+___

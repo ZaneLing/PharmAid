@@ -1,0 +1,244 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+agitation
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ ___ year old woman with a history of three prior 
+overdose attempts, depression, anxiety, and hypothyroidism who 
+presents after overdosing on her prescribed duloxetine last 
+night. The patient reported in the ED that she took 1,000 mg of 
+her medication between ___ and 2200 last night and drank a 
+bottle of wine and one beer because she was feeling especially 
+anxious and wanted to "fall asleep and never wake up". However, 
+this morning, she woke up and noticed that she was very jittery, 
+agitated, nauseated, and that she had intermittent blurry vision 
+with dilated pupils. 
+
+In the ED, initial vitals: T 96.7 HR 131 BP 157/105 RR 16 O2 97% 
+RA
+
+Exam notable for beats of clonus in both lower extremities, 
+patellar hyperreflexia, and tachycardia. 
+
+Labs notable for:
+- Normal CK and electrolytes 
+- Normal CBC 
+- Negative urine hcg 
+- Urine tox negative 
+
+Imaging:
+None
+
+Patient received:
+2L NS
+1mg lorazepam
+
+Consults:
+- Both psychiatry and toxicology saw the patient in the ED. Per 
+psych, she is under section 12A and CANNOT LEAVE AMA. Toxicology 
+felt that her exam was consistent with serotonin effects, and 
+recommended that IV fluids be stopped, benzodiazepines be given 
+for agitation or tachycardia, consult psych, and obtain hcg and 
+toxicology studies. 
+
+Vitals on transfer: T 97.9, HR 102, BP 147/84, RR 18, SpO2 100% 
+RA 
+
+Upon arrival to ___, pt reports feeling well, though mildly 
+agitated. Much better than how she felt on presentation to the 
+ED this morning. Denies palpitations, SOB, N/V/D, cough, 
+restlessness. No current suicidal ideation. Reports feeling 
+guilty that her parents are flying in from ___.
+ 
+Past Medical History:
+___'s thyroiditis 
+Depression/Anxiety
+Prior suicide attempts
+ 
+Social History:
+___
+Family History:
+Older sister with depression, previous SA,alcohol dependence, 
+and prior diagnosis of BPD. 
+mGM with depression and addiction. 
+Maternal Aunt with depression. 
+ 
+Physical Exam:
+ADMISSION EXAM
+==============
+VITALS:  T 99.1, BP 136/103, HR 98, RR 24, SpO2 99/RA
+GENERAL:  well-appearing though eyes darting around during 
+interview, NAD. Pleasant.
+HEENT: Sclera anicteric, horizontal nystagmus. Pupils 5-6mm, 
+reactive to light. MM dry. 
+NECK: JVP not elevated, no LAD  
+LUNGS: CTAB, no W/R/C 
+CV: RRR, S1+S2, no M/R/G 
+ABD: non-distended, soft, non-tender. Hypoactive bowel sounds.
+EXT: WWP, no edema  
+SKIN:  no lesions or rashes, skin is dry and warm
+NEURO:  moving all 4 extremities with purpose, 2 beats of clonus 
+b/l in ___
+ACCESS: 1 PIV in LUE
+
+DISCHARGE EXAM
+==============
+VITALS: Afebrile, VSS.
+GENERAL: Alert and in no apparent distress
+EYES: MMM grossly nl OP
+CV: RRR nl S1/S2 no g/r/m
+RESP: Lungs clear to auscultation with good air movement b/l 
+EWOB
+GI: Abdomen soft, non-distended, non-tender NABS
+GU: No suprapubic fullness or tenderness to palpation
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, 
+PSYCH: pleasant, appropriate affect; no SI
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 02:37PM URINE  bnzodzpn-NEG barbitrt-NEG opiates-NEG 
+cocaine-NEG amphetmn-NEG oxycodn-NEG mthdone-NEG
+___ 09:07AM   LACTATE-2.3*
+___ 09:00AM   GLUCOSE-98 UREA N-10 CREAT-0.7 SODIUM-142 
+POTASSIUM-4.1 CHLORIDE-101 TOTAL CO2-25 ANION GAP-16
+___ 09:00AM   CK(CPK)-123
+___ 09:00AM   ASA-NEG ETHANOL-41* ACETMNPHN-NEG 
+bnzodzpn-NEG barbitrt-NEG tricyclic-NEG
+___ 09:00AM   WBC-5.8 RBC-4.24 HGB-12.8 HCT-39.3 MCV-93 
+MCH-30.2 MCHC-32.6 RDW-13.5 RDWSD-45.8
+___ 09:00AM   NEUTS-64.2 ___ MONOS-6.3 EOS-0.3* 
+BASOS-0.5 IM ___ AbsNeut-3.74 AbsLymp-1.66 AbsMono-0.37 
+AbsEos-0.02* AbsBaso-0.03
+___ 09:00AM   PLT COUNT-268
+
+PERTINENT LABS/MICRO
+====================
+N/A
+
+DISCHARGE LABS
+==============
+N/A
+
+IMAGING/STUDIES
+===============
+N/A
+
+ 
+Brief Hospital Course:
+___ with multiple previous overdose attempts, depression, 
+anxiety, and hypothyroidism who presents after overdosing on her 
+prescribed duloxetine last night. Placed on ___ by 
+psychiatry in the ED. Admitted to the ___ with concern for 
+serotonin syndrome. Monitored for 24 hours. Patient remained 
+tachycardic, but hemodynamically stable. Cyproheptadine not 
+indicated. Lorazepam PRN given for anxiety. Was called out to 
+the floor ___. Bed search initiated for inpatient psych 
+facility
+ 
+ACTIVE ISSUES  
+#SNRI OVERDOSE:
+#SEROTONERGIC EFFECT:
+Took 1000mg duloxetine with a bottle of wine and one beer. 
+Placed on ___ by psychiatry in the ED. Presenting with 
+low-grade temps, sinus tachycardia, nystagmus, hyperreflexia, 
+2-beat clonus. Seen by toxicology, who felt her presentation was 
+consistent with serotonergic effect, but not serotonin syndrome. 
+Continued to be tachycardic but has been hemodynamically stable 
+since arrival. Cyproheptadine not indicated at this time. Given 
+lorazepam 1mg IV PRN agitation. 1:1 sitter. After transfer to 
+floor, symptoms improved and patient's exam and mental status 
+returned to baseline. 
+
+#DEPRESSION:
+#ANXIETY: 
+Patient with ongoing personal and family history of depression, 
+substance use. Pt with prior suicide attempts. Denied SI 
+currently. Evaluated by psych in ED, who placed patient under 
+___ and on a 1:1 sitter. After SNRI overdose issues 
+completed, patient was declared medically stable for discharge. 
+Bed search for inpatient psych bed search was initiated and 
+patient discharged to ___. Held duloxetine while 
+hospitalized. Did not initiate further psychopharm without 
+psychiatry guidance while hospitalized.
+ 
+CHRONIC ISSUES   
+#HYPOTHYROIDISM: 
+Past medical history of ___'s thyroiditis. On 
+levothyroxine as an outpatient. Continued levothyroxine 100mcg 
+daily.
+
+TRANSITIONAL ISSUES
+# Held duloxetine; not continued through discharge.
+# Communication: parents (mother, ___, ___
+# Code: Full, confirmed
+
+> 30 minutes spent coordinating discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 100 mcg PO DAILY 
+2. DULoxetine 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Levothyroxine Sodium 100 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Medication Overdose
+Suicide attempt
+Depression
+Anxiety
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were treated for an intentional overdose of one of your 
+prescription depression medications CYMBALTA (DULOXETINE). This 
+initially required monitoring in the ICU. You are being 
+discharged to inpatient psychiatric care to help manage your 
+depression, anxiety and suicidal thinking.
+
+Please take all medications as prescribed and keep all scheduled 
+doctor's appointments. Seek medical attention if you develop a 
+worsening or recurrence of the same symptoms that originally 
+brought you to the hospital, experience any of the warning signs 
+listed below, or have any other symptoms that concern you.
+
+It was a pleasure taking care of you!
+
+Your ___ Care Team
+
+ 
+Followup Instructions:
+___

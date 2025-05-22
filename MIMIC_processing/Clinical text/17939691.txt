@@ -1,0 +1,293 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+___
+ 
+Attending: ___
+ 
+Chief Complaint:
+Aphasia, Right facial droop
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+Pt is an ___ yr F w/ PMH of HTN and HLD who presented for new 
+aphasia. Pt was LKW at 1pm by daughter. Daughter was later 
+called at 7pm by pt who appeared to not be making any sense. Out 
+of concern, daughter returned home and found pt to be severely 
+aphasia and to have abnormal gait. She brought pt to OSH ED 
+(___) where Code Stroke was called w/ NIHSS of 9. No tPA 
+was administered due to being outside of window but CTA as read 
+by radiologist suggested L MCA occlusion at bifurcation. She was 
+thus sent to ___ for endovascular evaluation. This procedure 
+was noted performed due to pt being out of standard window for 
+tPA, NIHSS<10 for ___ protocol, thrombus appearing more distal 
+than appropriate for intervention, and NIHSS improving on repeat 
+ED evaluations.
+ 
+ 
+Past Medical History:
+HTN
+HLD
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+ON ADMISSION
+============
+Vitals:  T: 97.2 HR: 72  BP: 168/72  RR: 18   SaO2: 94% RA
+General:  NAD
+HEENT: NCAT,  no oropharyngeal lesions, neck supple
+___: RRR, no M/R/G
+Pulmonary: CTAB, no crackles or wheezes
+Abdomen: Soft, NT, ND, +BS, no guarding
+Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, at least oriented to person. 
+Expressive aphasia noted w/ fluctuating degree of comprehension. 
+Naming and repetition impaired. Mild dysarthria noted. No 
+evidence of hemineglect. Pt following simple midline and 
+appendicular commands.  
+
+- Cranial Nerves: PERRL 4->2 brisk. VF full to threat. EOMI on 
+gross exam. Subtle R NLFF. Palate elevation symmetric. Tongue 
+midline.
+
+- Motor:  Normal bulk and tone. No tremor or asterixis. Able to 
+lift all extremities to antigravity spontaneously with mild 
+drift in RLE
+
+ 
+- Reflexes: 
+   [Bic] [Tri] [___] [Quad] [Gastroc]
+ L  2+    2+     2+      2+       1
+ R  2+    2+     2+      2+       1  
+
+Plantar response mute bilaterally 
+
+- Sensory: Grimaced to noxious in all extremities. 
+
+- Coordination/Gait: Deferred (pt unable to adequately 
+participate in ataxia exam)
+
+On discharge:
+===============
+
+General:  NAD
+HEENT: NCAT,  no oropharyngeal lesions, neck supple
+___: RRR, no M/R/G
+Pulmonary: CTAB, no crackles or wheezes
+Abdomen: Soft, NT, ND, +BS, no guarding
+Extremities: Warm, no edema
+
+Neurologic Examination:
+- Mental status: Awake, alert, at least oriented to person. No 
+expressive aphasia noted. Comprehension intact. Naming and 
+repetition were intact. No evidence of hemineglect. Pt following 
+simple midline and appendicular commands.  
+
+- Cranial Nerves: PERRL 4->2 brisk. VF full to threat. EOMI on 
+gross exam. Subtle R NLFF. Palate elevation symmetric. Tongue 
+midline.
+
+- Motor:  Normal bulk and tone. No tremor or asterixis. Able to 
+lift all extremities to antigravity spontaneously with mild 
+drift in RLE
+
+- Reflexes: 
+   [Bic] [Tri] [___] [Quad] [Gastroc]
+ L  2+    2+     2+      2+       1
+ R  2+    2+     2+      2+       1  
+
+Plantar response mute bilaterally 
+
+- Sensory: Grimaced to noxious in all extremities. 
+
+- Coordination/Gait: Deferred 
+
+ 
+Pertinent Results:
+Admission
+
+___ 10:20PM BLOOD WBC-10.2* RBC-4.41 Hgb-14.0 Hct-42.4 
+MCV-96 MCH-31.7 MCHC-33.0 RDW-13.6 RDWSD-48.4* Plt ___
+___ 10:20PM BLOOD Neuts-66.6 ___ Monos-7.2 Eos-0.5* 
+Baso-0.5 Im ___ AbsNeut-6.79* AbsLymp-2.54 AbsMono-0.73 
+AbsEos-0.05 AbsBaso-0.05
+___ 10:20PM BLOOD ___ PTT-29.4 ___
+___ 10:20PM BLOOD Glucose-106* UreaN-29* Creat-0.8 Na-138 
+K-3.9 Cl-96 HCO3-26 AnGap-16
+___ 10:20PM BLOOD Calcium-9.6 Phos-3.1 Mg-2.0
+
+Stroke Labs
+
+___ 05:25AM BLOOD Triglyc-95 HDL-36* CHOL/HD-4.1 LDLcalc-91
+___ 05:25AM BLOOD TSH-1.1
+___ 05:25AM BLOOD %HbA1c-5.4 eAG-108
+
+Discharge
+
+___ 05:25AM BLOOD WBC-9.1 RBC-4.19 Hgb-13.5 Hct-39.9 MCV-95 
+MCH-32.2* MCHC-33.8 RDW-13.8 RDWSD-48.4* Plt ___
+___ 05:25AM BLOOD Glucose-86 UreaN-17 Creat-0.5 Na-142 
+K-3.7 Cl-102 HCO3-28 AnGap-12
+___ 05:25AM BLOOD Calcium-9.1 Phos-2.6* Mg-2.1 Cholest-146
+
+CT brain perfusion ___
+Occlusion of the distal left M1 segment (on outside imaging) 
+with mild 
+hypodense changes noted in the in the left MCA distribution on 
+this current 
+CT.  No intracranial hemorrhage on the limited imaging. 
+
+MRI HEAD  ___
+1. Evidence of a few foci of early subacute infarcts left 
+insula. 
+2. FLAIR hyperintense signal within few left insular MCA 
+branches, may 
+indicate slow flow, possibly from more proximal narrowing. 
+3. Evidence of severe chronic small vessel ischemic changes. 
+
+ECHO ___
+No intracardiac source of thromboembolism identified. Preserved 
+biventricular systolic function. Mild mitral regurgitatoin. 
+Normal pulmonary artery systolic pressure.  
+
+ 
+Brief Hospital Course:
+Pt is an ___ year old female with past medical history of 
+hypertension and hyperlipidemia who presented as Code Stroke for 
+new symptoms of aphasia and mild right facial droop. 
+Neurological exam was remarkable for expressive aphasia, mild 
+right facial droop, right lower extremity drift, and incorrect 
+answers to orientation questions. on repeat testing, she had 
+right arm/leg hemiparesis in UMN pattern. No tPA was 
+administered due to being outside of window but CTA as read by 
+radiologist suggested left MCA occlusion at bifurcation. MRI 
+showed subacute appearing infarcts in the insula. During 
+hospitalization patient was started on clopidogrel and 
+atorvastatin to prevent further strokes. Patient was also 
+evaluated for physical therapy who recommended rehabilitation. 
+
+Transitional Issues 
+-Please call to set up the appointment for a Holter ___ 
+of Hearts (Instructions attached) 
+-Stroke and PCP ___ as above
+
+New Medications
+-Atorvastatin 40 mg
+-Clopidogrel 75 mg
+
+Stopped medications
+-Simvastatin 20 mg
+-Aspirin 81 mg
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Atenolol 25 mg PO BID 
+2. Aspirin 81 mg PO DAILY 
+3. Simvastatin 20 mg PO QPM 
+4. TraZODone 100 mg PO QHS:PRN insomnia 
+5. LORazepam 0.5-1 mg PO DAILY:PRN anxiety 
+6. valsartan-hydrochlorothiazide 160-12.5 mg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 40 mg PO QPM  
+2.  Clopidogrel 75 mg PO DAILY  
+3.  Heparin 5000 UNIT SC BID 
+To be taken while at ___ only if not mobilized. Does not 
+require on discharge from rehab.  
+4.  Atenolol 25 mg PO BID  
+5.  LORazepam 0.5-1 mg PO DAILY:PRN anxiety  
+6.  TraZODone 100 mg PO QHS:PRN insomnia  
+7.  valsartan-hydrochlorothiazide 160-12.5 mg oral DAILY  
+
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+-Stroke
+-Hyperlipidemia 
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+  
+You were hospitalized due to symptoms of facial droop and  
+trouble speaking resulting from an ACUTE ISCHEMIC STROKE, a 
+condition where a blood vessel providing oxygen and nutrients to 
+
+the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+ so damage to the brain from being deprived of its blood supply  
+can result in a variety of symptoms. 
+ 
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+ factors. Your risk factors are:  
+ High blood pressure
+ High cholesterol
+
+We are changing your medications as follows:  
+ We discontinued your Aspirin 81mg 
+ We started you on clopidogrel 75 mg to prevent your risk of 
+strokes
+ We discontinue your simvastatin 20mg daily
+ We started you on atorvastatin 40 mg
+
+We are providing you with an order for an exam called ___ of 
+Hearts" that is a monitor to look for an abnormal heart rhythm 
+called atrial fibrillation that can put you at risk for strokes 
+and will require treatment if identified. Please follow the 
+instructions below in the order to make the appointment. 
+  
+Please take your other medications as prescribed.  
+
+Please follow up with Neurology and your primary care physician  
+as listed below.  
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+you  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body 
+ 
+Sincerely,  
+Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

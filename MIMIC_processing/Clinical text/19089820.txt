@@ -1,0 +1,268 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+ERCP with sphincterotomy
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ male with the past medical history of
+HTN and nephrolithiasis who presents as a transfer from ___. Patient had an outpatient CT Abd/Pelvis this morning due
+to abdominal pain and was found to have a 6x8mm radiopaque
+obstructing stone in the CBD. Patient was transferred here for
+ERCP. He states that ___ days ago he experienced acute onset LUQ
+abdominal pain and lower back pain that was severe and 
+associated
+with 2 episodes of NBNB emesis several days ago. He also had ___
+episodes of loose watery diarrhea per day that have partially
+resolved. Patient no longer has abdominal pain, nausea, or
+vomiting. Patient has also noticed that his eyes have worsening
+yellow discoloration.
+
+Referral Note: conclusion:: 6 x 8 mm faint radiopaque distal
+common duct calculus causing biliary obstruction. MRCP may be
+helpful for further assessment, depending on clinical factors.
+Other nonacute findings as detailed. 
+
+In the ED: 
+PE: T 97.6 P 98 BP 155/76 R 16 O2 97% RA
+HEENT: NC/AT. PERRL, EOMI. +Scleral and sublingual icterus
+Lungs: Clear to auscultation b/l, no wheezes, rales, or rhonchi
+CV: +S1/S2, RRR, no murmurs, rubs, or gallops
+Abd: Soft, NT/ND. No rebound or guarding. No evidence of
+peritoneal signs. No organomegaly
+
+Labs (___):
+CBC: WBC 9, Hb 14, Hct 41.2, Plt 304
+Chem-7: Na 140, K 3.6, Cl 105, bicarb 16, BUN 34, Cr 1.5, glc 
+125
+T bili 9.2, Direct bili 6.3, ALT 119, AST 55, ALP 281
+Lactate 0.8
+Lipase 132
+
+ED Course/MDM:
+- UA, UCx, BCx x2
+- Famotidine 20 mg IV Q12H ordered for patient's indigestion
+- ___: Spoke with ERCP, will admit to ___, add on INR, keep 
+NPO
+and maintenance fluids 
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+Gout 
+HTN
+nephrolithiasis
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY: Reviewed and found to be not relevant to this
+illness/reason for hospitalization.
+ 
+Physical Exam:
+ADMISSION EXAM:
+VITALS: Afebrile, hypertensive to 180's systolic on arrival,
+otherwise vital signs stable(see eFlowsheet)
+GENERAL: Alert and in no apparent distress, anxious about
+procedure
+EYES: +scleral icterus, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended, non-tender to palpation.  Bowel
+sounds present.  No HSM
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: +jaundice, No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+discharge exam:
+
+well appearing, walking halls.
+BP slightly elevated at 161/52, HR in ___.
+abdomen soft, NT
+Skin slightly jaundiced.
+ 
+Pertinent Results:
+ENZYMES & BILIRUBIN ALT AST LD(LDH) CK(CPK) AlkPhos Amylase
+TotBili DirBili 
+___ 07:25    87* 45* 177   256* 65 6.7*   
+
+RENAL & GLUCOSE Glucose UreaN Creat Na K Cl HCO3 AnGap 
+___ 07:25    901 26* 1.5* 147* 3.8 112* 18* 17*2 
+
+ERCP on ___:
+The scout film was normal.  
+The bile duct was deeply cannulated with the sphincterotome.  
+Contrast was injected and there was brisk flow through the
+ducts. Contrast extended to the entire biliary tree. The CBD was
+10 mm in diameter.  
+Two filling defects consistent with biliary stones were
+identified in the CBD.  
+Opacification of the gallbladder was incomplete.  
+The left and right hepatic ducts and all intrahepatic branches
+were normal.  
+A biliary sphincterotomy was made with a sphincterotome.  
+There was no post-sphincterotomy bleeding.  
+The biliary tree was swept with a 9-12mm balloon starting at 
+the
+bifurcation.  
+Two stones were successfully removed.  
+The CBD and CHD were swept repeatedly until no further stones
+were seen.  
+The final occlusion cholangiogram showed no evidence of filling
+defects in the CBD.  
+Excellent bile and contrast drainage was seen endoscopically 
+and
+fluoroscopically.  
+Otherwise normal ercp to third part of the duodenum
+
+discharge labs:
+
+___ 07:00AM BLOOD WBC-5.3 RBC-3.66* Hgb-11.9* Hct-34.3* 
+MCV-94 MCH-32.5* MCHC-34.7 RDW-14.7 RDWSD-50.9* Plt ___
+___ 07:00AM BLOOD Glucose-98 UreaN-26* Creat-1.5* Na-144 
+K-3.8 Cl-110* HCO3-20* AnGap-14
+___ 07:00AM BLOOD ALT-69* AST-41* AlkPhos-226* TotBili-5.8*
+ 
+Brief Hospital Course:
+___ year old male with past medical history of gout, HTN and 
+nephrolithiasis who was admitted to ___ as transfer from ___ 
+___ on ___ for ERCP, as he was found to have 6 x 8 mm 
+radiopaque obstructing stone in the CBD on an outpatient CT
+Abd/Pelvis. 
+
+Choledocholithiasis with biliary obstruction and associated 
+jaundice:
+He was treated for choledocholithiasis with ERCP on ___ with 
+sphincterotomy and removal of stones obstructing CBD. No stent 
+placed. He will take cipro 500 mg BID q12h for 5 days (end date 
+___. We scheduled surgery follow up for the patient with Dr. 
+___ per patient discussion; they will discuss ?CCY
+as outpatient. He will need outpatient follow up on ___ to 
+recheck labs.
+
+Acute kidney injury:
+On presentation to ___, Cr 2.9, which improved with hydration 
+and holding of arbb and Lasix.  Restarted ___ at ___, held 
+furosemide at ___ pending PCP visit
+
+asymptomatic bradycardia:
+tolerated his home atenolol. 
+
+Hypertension:
+He was hypertensive, with holding of his home losartan.  He was 
+continued on amlodipine.  Restarted losartan at discharge.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 50 mg PO DAILY 
+2. Losartan Potassium 100 mg PO DAILY 
+3. amLODIPine 10 mg PO DAILY 
+4. Furosemide 20 mg PO DAILY 
+5. Allopurinol ___ mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q4H:PRN Pain  
+2.  Ciprofloxacin HCl 500 mg PO/NG Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice daily 
+Disp #*8 Tablet Refills:*0 
+3.  Allopurinol ___ mg PO DAILY  
+4.  amLODIPine 10 mg PO DAILY  
+5.  Atenolol 50 mg PO DAILY  
+6.  Losartan Potassium 100 mg PO DAILY  
+7. HELD- Furosemide 20 mg PO DAILY  This medication was held. Do 
+not restart Furosemide until you see Dr. ___ checks 
+your labs
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRINCIPAL: choledocholithiasis
+OTHER DIAGNOSES: 
+bradycardia, asymptomatic
+prerenal ___ - resolved
+hypernatremia - resolved
+HTN
+history of gout
+history of nephrolithiasis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Instructions: Dear Mr. ___, 
+
+It was a pleasure to be a part of your care team at ___ 
+___.
+
+====================================
+Why did you come to the hospital? 
+====================================
+
+-You had a blockage in your gall bladder ducts causing you a lot 
+of symptoms of abdominal discomfort. You were admitted to 
+undergo a procedure to relieve this blockage.
+
+====================================
+What happened at the hospital? 
+====================================
+
+-You underwent a successful procedure (ERCP) to clear out the 
+biliary duct blockage.
+-You did have some laboratory abnormalities (kidney test and 
+electrolyte tests) that were due to your initial condition, 
+which resolved.
+
+==================================================
+What needs to happen when you leave the hospital? 
+==================================================
+
+-Take your medications every day 
+-Please attend all of your doctor appointments, this is 
+especially important to help with treating your biliary duct 
+obstruction definitively (such as surgery to remove the 
+gallbladder).
+- go see Dr. ___ on ___ to have your blood checked again.
+- ask Dr. ___ there is a surgeon he would like you to see 
+locally.
+
+It was a pleasure taking care of you during your stay! 
+
+Sincerely, 
+
+Your ___ team  
+
+ 
+Followup Instructions:
+___

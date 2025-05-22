@@ -1,0 +1,218 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Nausea, Vomiting
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+ 
+History of Present Illness:
+___ year old male with eating disorder (purging) and 
+depression/anxiety presented to ED with 1 day of nausea, 
+vomiting, and diarrhea, found to be profoundly hypophosphatemic 
+and hypomagnesemic. Patient reports being in his usual state of 
+health until around ___ ___ on day of presentation, when he began 
+feeling nauseous. His symptoms then progressed to vomiting and 
+diarrhea, both of which were significant. He then began feeling 
+diffuse body tingling and weakness, prompting him to come to the 
+ED.
+
+ 
+Past Medical History:
+- Eating disorder (purging)
+- Anxiety/depression
+- Asthma
+ 
+Social History:
+___
+Family History:
+Noncontributory
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+======================== 
+VITALS:  98.5.  115 / 70  ___
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, non-tender, non-distended, bowel sounds present,
+no organomegaly, no rebound or guarding  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: CNII-XII grossly intact, ___ strength throughout
+
+DISCHARGE PHYSICAL EXAM
+=======================
+
+VITALS: ___ 1128 Temp: 98.3 PO BP: 115/69 L Lying HR: 80 
+RR:
+18 O2 sat: 97% O2 delivery: Ra 
+
+General: Alert, oriented, no acute distress  
+HEENT: NC/AT, Sclera anicteric, MMM, oropharynx clear. No
+conjunctival injection. 
+CV: Regular rate and rhythm, no murmurs, rubs, gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi. No increased work of breathing. 
+Abdomen: Soft, non-tender, non-distended, +bowel sounds, no
+rebound or guarding  
+Ext: Warm, well perfused, no clubbing, cyanosis or edema  
+Skin: Warm, dry, no rashes or notable lesions.  
+Neuro: CNII-XII grossly intact, ___ strength throughout
+
+ 
+Pertinent Results:
+DISCHARGE LABS
+==============
+___ 04:50AM BLOOD WBC-5.3 RBC-5.23 Hgb-15.9 Hct-47.8 MCV-91 
+MCH-30.4 MCHC-33.3 RDW-13.0 RDWSD-43.3 Plt ___
+___ 04:50AM BLOOD Plt ___
+___ 04:50AM BLOOD Glucose-88 UreaN-10 Creat-1.0 Na-140 
+K-4.3 Cl-103 HCO3-25 AnGap-12
+___ 04:50AM BLOOD Calcium-8.9 Phos-2.4* Mg-1.9
+
+ADMISSION & PERTINENT 
+======================
+___ 06:09AM BLOOD Amylase-50
+___ 08:54PM BLOOD WBC-15.9* RBC-5.75 Hgb-17.6* Hct-51.7* 
+MCV-90 MCH-30.6 MCHC-34.0 RDW-12.7 RDWSD-41.9 Plt ___
+___ 08:54PM BLOOD Neuts-88.0* Lymphs-3.8* Monos-6.5 
+Eos-0.2* Baso-0.4 Im ___ AbsNeut-14.03* AbsLymp-0.61* 
+AbsMono-1.04* AbsEos-0.03* AbsBaso-0.06
+___ 08:54PM BLOOD Plt ___
+___ 08:54PM BLOOD Glucose-125* UreaN-17 Creat-1.0 Na-137 
+K-4.4 Cl-101 HCO3-20* AnGap-16
+___ 08:54PM BLOOD ALT-19 AST-28 AlkPhos-71 TotBili-0.8
+___ 08:54PM BLOOD Albumin-4.6 Calcium-10.0 Phos-1.0* 
+Mg-1.1*
+___ 08:54PM BLOOD TSH-1.0
+
+IMAGING: 
+CXR ___: Lungs are well expanded and clear.  
+Cardiomediastinal silhouette and hila are normal.  No 
+pneumothorax or pleural effusion.  No pneumomediastinum or 
+pneumoperitoneum detected. IMPRESSION: No acute process. 
+  
+
+ 
+Brief Hospital Course:
+This is a ___ year old male with a past medical history 
+significant for an eating disorder who presented to the ED with 
+nausea, vomiting, diarrhea and found to be severe 
+hypophosphatemic and hypomagnesemic.
+
+ACUTE ISSUES
+# Nausea, vomiting, diarrhea 
+# Norovirus
+Likely caused by viral gastroenteritis. His Norovirus PCR came 
+back positive while in the hospital. His electrolyte 
+abnormalities that resulted from his vomiting and diarrhea were 
+treated as detailed below. He tolerated a PO diet prior to 
+discharge. 
+
+# Hypophosphatemia 
+# Hypomagnesaemia 
+The patient presented with severe electrolyte abnormalities (Mg: 
+1.1, PO4: 1.0) likely secondary to vomiting and diarrhea. He was 
+given IV and PO electrolyte repletion in the ED and upon arrival 
+to the medicine floor and his electrolyte abnormalities 
+resolved. 
+
+# Eating Disorder/Purging 
+Patient with history of purging though has cut back 
+significantly in recent months (now only once per week). Per PCP 
+notes, patient has gained 12 lbs in the past few months. He 
+follows with a psychiatrist and nutritionist. ECG was 
+unremarkable. Orthostatic vital signs were negative. He was 
+continued on Telemetry. He received MVI with minerals, 
+neutra-phos, and Thiamine 100mg daily. 
+
+CHRONIC ISSUES: 
+# Anxiety/depression - Continued sertraline 150mg daily
+
+# Asthma - Continued albuterol prn 
+
+TRANSITIONAL ISSUES:
+===================
+[] Follow up with PCP-- ___ have electrolytes and CBC checked 
+at next visit
+[] Continue to follow with psych for eating disorder 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Sertraline 150 mg PO DAILY 
+2. Albuterol Inhaler 2 PUFF IH Q6H:PRN Wheezing 
+
+ 
+Discharge Medications:
+1.  Ondansetron 4 mg PO Q8H:PRN Nausea/Vomiting - First Line 
+RX *ondansetron 4 mg 1 tablet(s) by mouth every eight (8) hours 
+Disp #*9 Tablet Refills:*0 
+2.  Albuterol Inhaler 2 PUFF IH Q6H:PRN Wheezing  
+3.  Sertraline 150 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypomagnesemia 
+Hypophosphatemia 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+======================  
+DISCHARGE INSTRUCTIONS  
+======================  
+Dear Mr. ___,  
+
+It was a pleasure caring for you at ___ 
+___.  
+
+WHY WAS I IN THE HOSPITAL?  
+- You were admitted to the hospital because you were having 
+diarrhea and nausea and were found to have very low magnesium 
+and phosphate levels
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+- You were found to have Norovirus 
+- You were given IV magnesium and phosphate 
+- Your nausea and diarrhea improved while you were in the 
+hospital 
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+- Please take your medications and go to your follow up 
+appointments as described in this discharge summary.  
+- If you experience any of the danger signs listed below, please 
+call your primary care doctor or go to the emergency department 
+immediately.  
+
+We wish you the best!  
+
+Sincerely,  
+Your ___ Team  
+
+ 
+Followup Instructions:
+___

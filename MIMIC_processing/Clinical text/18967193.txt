@@ -1,0 +1,385 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Simvastatin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, vomiting, bloody diarrhea.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: Mr. ___ is a ___ year-old male with a history of 
+hypertension,
+hyperlipidemia who presented with abdominal pain, nausea, and 
+vomiting that started on ___ when he came to the ED. Patient 
+reports multiple episodes of vomiting that he reports as a 
+pinkish color without blood. Patient also endorses lower 
+abdominal pain that constant and crampy, and worsens with 
+movement as well as one loose stool that was slightly bloody. 
+
+Additionally patient endorses feeling lightheaded. He denies 
+chest pain, shortness of breath, leg swelling, rash, dysuria, 
+history of similar symptoms. He denies history of abdominal 
+surgery.
+
+In the ED, initial vitals: 96.9 71 154/69 16 100% RA 
+
+- Exam notable for:  Tender throughout lower abdomen. Guaiac 
+positive orange stool.
+
+- Labs notable for: Normal CBC, ___, PTT and INR wnl, negative
+trop, LFTs wnl.
+UA notable for: trace proteins, trace ketones, with hyaline 
+casts
+
+- Imaging notable for: CT ABD & PELVIS WITH CO  
+  
+1.  12 cm segment of descending colon exhibiting mucosal 
+hyperemia, wall thickening/edema, and mild adjacent fat 
+stranding, compatible with descending colitis.  No evidence of 
+an adjacent drainable fluid collection or free intraperitoneal 
+air. 
+  
+2.  Normal appendix. 
+
+- Pt given:  Ciprofloxacin 400 mg IV, MetroNIDAZOLE 500 mg IV, 
+Ondansetron 4 mg IV ONCE, NS 100 ml as fluid bolus
+
+- Vitals prior to transfer:  HR 76 BP 130/64 RR 18 O2 100
+
+On the floor, patient endorses the above history. He reports 
+another episode of loose bloody stool in addition to persistent 
+abdominal cramping. Reports that nausea and vomiting have 
+improved as has the lightheadedness.
+
+ 
+Past Medical History:
+- Malignant schwannoma status post chemotherapy (cytoxan and
+adriamycin)
+- left arm amputation above the elbow.
+- HTN
+- Hyperlipidemia
+
+ 
+Social History:
+___
+Family History:
+Notable for a father who died of an MI at age ___.  Mother died 
+of lung cancer in her ___.  Brother who had a brain aneurysm in 
+his ___ with resultant stroke and surgery.  A sister died of 
+lung cancer at age ___.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+
+VITALS: 98.6 PO 161 / 82 R Lying 83 20 98 RA  
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs,
+gallops  
+Lungs: Clear to auscultation bilaterally, no wheezes, rales,
+rhonchi  
+Abdomen: Soft, tender, bowel sounds present, no organomegaly, no 
+rebound or guarding, reducible umbilical hernia noted
+GU: No foley  
+Ext: Warm, well perfused, left arm amputation above the elbow
+Skin: Warm, dry, no rashes or notable lesions.   
+Neuro: CNII-XII intact, ___ strength upper/lower extremities, 
+grossly normal sensation 
+
+DISCHARGE PHYSICAL EXAM:
+
+VITALS: T 98.4 BP 124/85 HR 66 RR 18 Sa 98 RA 
+General: Alert, oriented, no acute distress  
+HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL,
+LUNGS: CTAB, no c/w/rhonchi appreciated
+HEART: RRR s1+s2 normal, no m/r/g appreciated
+ABDOMEN: bs+ in all 4q, NTND. No rebound tenderness or guarding. 
+
+EXTREMITIES: No edema appreciated.
+NEURO: A&O x3
+
+ 
+Pertinent Results:
+ADMISSION LABS
+--------------------
+___ 12:52PM   LACTATE-1.9
+___ 12:40PM   ___ PTT-28.4 ___
+___ 07:30AM   GLUCOSE-140* UREA N-15 CREAT-0.9 SODIUM-139 
+POTASSIUM-4.9 CHLORIDE-98 TOTAL CO2-23 ANION GAP-18
+___ 07:30AM   estGFR-Using this
+___ 07:30AM   ALT(SGPT)-20 AST(SGOT)-28 ALK PHOS-83 TOT 
+BILI-0.7
+___ 07:30AM   LIPASE-32
+___ 07:30AM   cTropnT-<0.01
+___ 07:30AM   ALBUMIN-4.9
+___ 07:30AM   ETHANOL-NEG
+___ 07:30AM   WBC-9.8# RBC-5.10 HGB-15.0 HCT-45.7 MCV-90 
+MCH-29.4 MCHC-32.8 RDW-14.1 RDWSD-46.5*
+___ 07:30AM   NEUTS-88.7* LYMPHS-9.1* MONOS-1.7* EOS-0.0* 
+BASOS-0.2 IM ___ AbsNeut-8.66* AbsLymp-0.89* AbsMono-0.17* 
+AbsEos-0.00* AbsBaso-0.02
+___ 07:30AM   PLT SMR-UNABLE TO  PLT COUNT-UNABLE TO 
+___ 07:30AM   ___ PTT-UNABLE TO  ___
+___ 03:56AM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 03:56AM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-TR* BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 03:56AM URINE  RBC-1 WBC-<1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+___ 03:56AM URINE  HYALINE-3*
+___ 03:56AM URINE  MUCOUS-RARE*
+
+IMAGING
+---------------
+CT ABD AND PELVIS WITH CONTRAST 
+  
+INDICATION:  ___ man with nausea, vomiting, diarrhea, 
+and abdominal pain.  Evaluate for diverticulitis. 
+  
+TECHNIQUE:   Single phase split bolus contrast: MDCT axial 
+images were 
+acquired through the abdomen and pelvis following intravenous 
+contrast 
+administration with split bolus technique. 
+Oral contrast was not administered. 
+Coronal and sagittal reformations were performed and reviewed on 
+PACS. 
+  
+DOSE:  Acquisition sequence: 
+   1) Stationary Acquisition 7.5 s, 0.5 cm; CTDIvol = 36.1 mGy 
+(Body) DLP = 18.1 mGy-cm. 
+   2) Spiral Acquisition 5.3 s, 57.9 cm; CTDIvol = 15.3 mGy 
+(Body) DLP = 886.3 mGy-cm. 
+ Total DLP (Body) = 904 mGy-cm. 
+  
+COMPARISON:  CT abdomen pelvis of ___. 
+  
+FINDINGS:  
+  
+LOWER CHEST: There is minimal bibasilar atelectasis without 
+evidence of 
+pericardial or pleural effusions. 
+  
+ABDOMEN: 
+  
+HEPATOBILIARY: A 1.8 cm hypodensity in the left hepatic lobe is 
+unchanged 
+since the prior study, likely representing a hepatic cyst or 
+biliary 
+hamartoma.  The liver otherwise demonstrates homogenous 
+attenuation 
+throughout.  There is no evidence of intrahepatic or 
+extrahepatic biliary 
+dilatation.  The gallbladder is within normal limits. 
+  
+PANCREAS: The pancreas has normal attenuation throughout, 
+without evidence of focal lesions or pancreatic ductal 
+dilatation.  There is no peripancreatic stranding. 
+  
+SPLEEN: The spleen shows normal size and attenuation throughout, 
+without 
+evidence of focal lesions. 
+  
+ADRENALS: The right and left adrenal glands are normal in size 
+and shape. 
+  
+URINARY: The kidneys are of normal and symmetric size with 
+normal nephrogram.  Bilateral simple renal cysts measure up to 
+1.7 cm on the right and 1.6 cm on the left.  Other subcentimeter 
+renal hypodensities are too small to characterize, but are 
+statistically also likely cysts.  There is fullness of both 
+renal pelves, as seen on the prior study, without evidence of 
+ureteral stones or bladder stones.  There is no perinephric 
+abnormality. 
+  
+GASTROINTESTINAL: The stomach is unremarkable.  Small bowel 
+loops demonstrate normal caliber, wall thickness, and 
+enhancement throughout.  There is a segment of descending colon 
+measuring approximately 11-12 cm, which is collapsed, but 
+exhibits mucosal hyperemia, wall thickening/edema, and mild 
+adjacent fat stranding, compatible with descending colitis.  
+There is no adjacent drainable fluid collection or free 
+intraperitoneal air.  There are multiple sigmoid diverticula.  
+The appendix is normal. 
+  
+PELVIS: The urinary bladder is distended, but otherwise 
+unremarkable.  The 
+distal ureters are unremarkable.  There is no free fluid in the 
+pelvis. 
+  
+REPRODUCTIVE ORGANS: The prostate is mildly enlarged. 
+  
+LYMPH NODES: There is no retroperitoneal or mesenteric 
+lymphadenopathy.  There is no pelvic or inguinal 
+lymphadenopathy. 
+  
+VASCULAR: There is no abdominal aortic aneurysm.  Mild 
+atherosclerotic disease is noted.  Incidental note is made of a 
+circumaortic left renal vein. 
+  
+BONES: There is no evidence of worrisome osseous lesions or 
+acute fracture. Degenerative changes in the lumbar spine are 
+mild, most pronounced at L5-S1, where there are marginal spurs 
+and vacuum disc phenomenon. 
+  
+SOFT TISSUES: An umbilical hernia containing fat is noted. 
+  
+IMPRESSION:  
+  
+1.  12 cm segment of descending colon exhibiting mucosal 
+hyperemia, wall 
+thickening/edema, and mild adjacent fat stranding, compatible 
+with descending colitis.  No evidence of an adjacent drainable 
+fluid collection or free intraperitoneal air. 
+  
+2.  Normal appendix. 
+
+Micro:
+-----------
+C diff negative
+FECAL CULTURE (Pending): 
+
+CAMPYLOBACTER CULTURE (Pending): 
+
+OVA + PARASITES (Pending): 
+
+FECAL CULTURE - R/O VIBRIO (Pending): 
+
+FECAL CULTURE - R/O YERSINIA (Pending): 
+
+FECAL CULTURE - R/O E.COLI ___:H7 (Pending)
+
+DISCHARGE LABS
+--------------------
+
+___ 06:50AM BLOOD WBC-8.6 RBC-4.23* Hgb-12.5* Hct-38.2* 
+MCV-90 MCH-29.6 MCHC-32.7 RDW-14.3 RDWSD-47.1* Plt ___
+___ 06:50AM BLOOD ___ PTT-28.7 ___
+___ 06:50AM BLOOD Glucose-96 UreaN-12 Creat-0.9 Na-139 
+K-4.0 Cl-103 HCO3-25 AnGap-11
+___ 06:50AM BLOOD Calcium-8.6 Phos-3.6 Mg-1.9
+ 
+Brief Hospital Course:
+This is a ___ year old male with past medical history of 
+hypertension, admitted ___ with abdominal pain and bloody 
+diarrhea, thought to have been infectious enterocolitis, 
+clinically improved with antibiotics and able to be discharged 
+home
+
+# Infectious Enterocolitis
+Patient was admitted with abdominal pain, nausea, vomiting and 
+bloody diarrhea.  CT abdomen and pelvis showed 12 cm segment of 
+descending colon that exhibited mucosal hyperemia, wall 
+thickening/edema and mild adjacent fat stranding compatible 
+with descending colitis. He was given IV fluids, and started on 
+cipro/flagyl with subsequent slow clinical improvement.  His 
+diet was able to be advanced over subsequent 72 hours.  He was 
+able to tolerate a regular diet and was able to be discharged 
+home to complete 10 day course of cipro/flagyl.
+
+#BPH
+Patient had been recently diagnosed with BPH as an outpatient, 
+but had been noncompliant with tamsulosin; counseled him 
+regarding compliance with tamsulosin and to discuss further 
+with his outpatient provider(s). 
+
+#HTN
+Continued on home amlodipine.
+
+# CAD
+Continued on home ASA, atorvastatin 
+
+TRANSITIONAL ISSUES: 
+[ ] would consider discussing outpatient colonoscopy to ensure 
+resolution of area of colitis seen on imaging and ensure there 
+are no other contributing etiologies  
+ 
+- New Meds: Ciprofloxacin 500mg BID, metronidazole 500mg TID. 
+Last day ___  
+- Stopped/Held Meds: none
+- Changed Meds:  none
+- Post-Discharge Follow-up Labs Needed: none
+- Incidental Findings:  none
+- Discharge weight:  92.76 kg
+
+# CODE:  Full
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. amLODIPine 10 mg PO DAILY 
+2. Atorvastatin 40 mg PO QPM 
+3. Aspirin 81 mg PO DAILY 
+4. Tamsulosin 0.4 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*13 Tablet Refills:*0 
+2.  MetroNIDAZOLE 500 mg PO Q8H 
+RX *metronidazole 500 mg 1 tablet(s) by mouth every eight (8) 
+hours Disp #*20 Tablet Refills:*0 
+3.  amLODIPine 10 mg PO DAILY  
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 40 mg PO QPM  
+6.  Tamsulosin 0.4 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Infectious Enterocolitis
+# BPH
+# HTN
+# CAD
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure caring for you at ___ 
+___!
+
+WHY WERE YOU ADMITTED?
+1) You were admitted because you were having belly pain, nausea, 
+vomiting and loose stools.
+
+WHAT HAPPENED IN THE HOSPITAL?
+1) You had a CT scan that showed some inflammation in your 
+colon.
+2) You were started on two oral antibiotics called ciprofloxacin 
+and metronidazole.
+
+WHAT SHOULD YOU DO AT HOME?
+1) You should continue taking your antibiotics until ___.
+2) You should follow up with your primary care doctor the week 
+of ___.
+3) You should continue to take your other medications as before.
+
+Thank you for allowing us be involved in your care, we wish you 
+all the best!
+
+Your ___ Team
+ 
+Followup Instructions:
+___

@@ -1,0 +1,242 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Detrol / Indocin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dysuria, Anorexia
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with a history of pelvic floor dysfunction, possible 
+interstitial cystitis, who presents for dysuria and anorexia. 
+She was in her usual state of health until four days ago, when 
+she noted dysuria, decreased appetite, and generalized weakness. 
+Her husband has kept track of her intake and she has had only a 
+third of a cup of rice since ___. She states she has had 
+urinary frequency for the past ___ years and attempts to void 10+ 
+times a day, frequently spending 20 minutes on the toilet at a 
+time. She does not endorse abdominal pain, fevers, chills, 
+nausea or vomiting in this time frame. 
+ 
+In the ED, initial vital signs were: T 98.2 P 85 BP 143/73 RR 18 
+O2 sat 95% RA  
+- Exam notable for: R CVA tenderness, suprapubic tenderness
+- Labs were notable for UA: >182 WBC/lg leuks/neg nit/mod blood, 
+lactate 1.2, Na to 131, Cr 0.9, largely normal LFTs (AP 133), no 
+leukocytosis  
+- Studies performed include CXR: no acute cardiopulm process. 
+Blood and urine cultures sent off.
+- Patient was given IV ceftriaxone 1 g, 1 L NS 
+- Vitals on transfer: T 97.7 HR 73 BP 127/61 RR 16 O2Sat 98% RA
+
+Upon arrival to the floor, the patient feels fatigued and 
+sleepy. She denies fevers, chills, night sweats, unintentional 
+weight loss, visual changes, headache, shortness of breath, 
+dyspnea on exertion, chest pain, abdominal pain, nausea, 
+vomiting, muscle weakness, loss of sensation.
+ 
+Review of Systems:  
+(+) per HPI  
+(-) as above
+ 
+ 
+Past Medical History:
+Interstitial cystitis, history of ___ UTIs
+ 
+Social History:
+___
+Family History:
+Maternal side - Diabetes. Father - passed away at ___ y/o from 
+cancer of unclear primary.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+Vitals- T 97.8 BP 151/72 HR 84 RR 18 O2Sat 96RA  
+GENERAL: AOx3, NAD
+HEENT: Normocephalic, atraumatic.  Pupils equal, round, and 
+reactive bilaterally, extraocular muscles intact.  No 
+conjunctival pallor or injection, sclera anicteric and without 
+injection. Moist mucous membranes, good dentition.  Oropharynx 
+is clear.
+CARDIAC: Regular rhythm, normal rate, no murmurs/rubs/gallops.  
+LUNGS: Clear to auscultation bilaterally w/appropriate breath 
+sounds appreciated in all fields.  No wheezes, rhonchi or rales.
+BACK: No CVA tenderness. 
+ABDOMEN:  Normal bowels sounds, non distended, non-tender to 
+deep palpation in all four quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema, no sign of 
+atrophy/hypertrophy. Pulses DP/Radial 2+ bilaterally.
+SKIN: No evidence of ulcers, rash or lesions suspicious for 
+malignancy
+NEUROLOGIC: ___ strength throughout.  Normal sensation.  
+
+DISCHARGE PHYSICAL EXAM
+Vitals- T 98.6 BP 118-151/59-78 HR ___ RR 18 O2Sat 91-95RA  
+GENERAL: AOx3, NAD
+HEENT: Normocephalic, atraumatic.  No conjunctival pallor or 
+injection, sclera anicteric and without injection. Moist mucous 
+membranes. Oropharynx is clear.
+CARDIAC: Regular rhythm, normal rate, no murmurs/rubs/gallops.  
+LUNGS: Clear to auscultation bilaterally w/appropriate breath 
+sounds appreciated in all fields. 
+ABDOMEN:  Normal bowels sounds, non distended, non-tender to 
+deep palpation in all four quadrants. 
+EXTREMITIES: No clubbing, cyanosis, or edema
+ 
+Pertinent Results:
+ADMISSION LABS
+-----------------
+___ 08:47AM BLOOD WBC-8.9# RBC-4.58 Hgb-12.6 Hct-38.7 
+MCV-85 MCH-27.5 MCHC-32.6 RDW-12.8 RDWSD-39.6 Plt ___
+___ 08:47AM BLOOD Neuts-76.1* Lymphs-11.2* Monos-9.7 
+Eos-1.2 Baso-0.3 Im ___ AbsNeut-6.73* AbsLymp-0.99* 
+AbsMono-0.86* AbsEos-0.11 AbsBaso-0.03
+___ 08:47AM BLOOD Plt ___
+___ 08:47AM BLOOD Glucose-80 UreaN-26* Creat-0.9 Na-131* 
+K-4.9 Cl-94* HCO3-21* AnGap-21*
+___ 08:47AM BLOOD ALT-33 AST-38 AlkPhos-133* TotBili-0.7
+___ 09:03AM BLOOD Lactate-1.2
+___ 08:10AM URINE Color-Yellow Appear-Cloudy Sp ___
+___ 08:10AM URINE Blood-MOD Nitrite-NEG Protein-100 
+Glucose-NEG Ketone-10 Bilirub-NEG Urobiln-NEG pH-6.0 Leuks-LG
+___ 08:10AM URINE RBC-28* WBC->182* Bacteri-FEW Yeast-NONE 
+Epi-0
+___ 08:10AM URINE WBC Clm-MANY Mucous-MOD
+
+MICROBIOLOGY
+----------------
+___ 8:10 am URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      ESCHERICHIA COLI.    >100,000 CFU/mL. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------  =>32 R
+AMPICILLIN/SULBACTAM--  =>32 R
+CEFAZOLIN-------------    16 R
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------<=0.25 S
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+NITROFURANTOIN--------    32 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----  =>16 R
+
+IMAGING
+---------
+CXR ___ acute cardiopulmonary process.
+
+DISCHARGE/INTERVAL LABS
+___ 06:38AM BLOOD WBC-7.3 RBC-4.20 Hgb-11.7 Hct-36.1 MCV-86 
+MCH-27.9 MCHC-32.4 RDW-13.1 RDWSD-40.7 Plt ___
+___ 06:38AM BLOOD Glucose-80 UreaN-20 Creat-0.8 Na-133 
+K-3.5 Cl-97 HCO3-23 AnGap-17
+___ 06:38AM BLOOD Calcium-8.8 Phos-3.6 Mg-2.___ y/o F with a history of pelvic floor dysfunction and 
+interstitial cystitis, admitted for poor oral intake and urinary 
+tract infection. 
+
+#Urinary tract infection: UA with >182 WBC/lg leuks. Patient 
+endorsing dysuria prior to admission, now resolved. She is 
+afebrile, without leukocytosis, or other systemic symptoms 
+making pyelonephritis unlikely. She received Ceftriaxone 1 gram 
+in the ED and was transitioned to Bactrim DS BID for 7 day 
+course prior to discharge. 
+** After discharge, sensitivities returned and E coli was 
+resistant to Bactrim.  A presription for ciprofloxacin was 
+called in to her pharmacy, and the patient was notified via 
+telephone **
+
+CHRONIC AND STABLE ISSUES
+#Hyponatremia: Likely hypovolemic hyponatremia in the setting of 
+poor po intake x 4 days prior to admission. Received 1 L NS in 
+ED with resolution of her low Na. 
+
+#Anorexia: Poor po intake in the days prior to admission, likely 
+in the setting of her urinary tract infection. Patient reported 
+improvement in appetite prior to discharge.
+
+TRANSITIONAL ISSUES
+[]Advise urology referral and workup for urinary frequency. Of 
+note, patient reports longstanding history of increased urinary 
+frequency (voiding up to 14 times per day) causing disruptive 
+lifestyle changes
+[]Treating complicated UTI given requirement for inpatient 
+admission and systemic symptoms suggestive of possible 
+pyelonephritis, started on ciprofloxacin ___ (two days after 
+discharge) given resistance to bactrim
+
+#Code Status: Full code 
+#Emergency contact/HCP: Husband: H ___, C ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 7 Days 
+RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 1 tablet(s) by 
+mouth twice a day Disp #*12 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis: Complicated urinary tract infection
+
+Secondary diagnoses: Pelvic floor dysfunction, interstitial 
+cystitis with increased urinary frequency
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were hospitalized at ___ out of concern for a urinary 
+tract infection. You were treated with antibiotics in the ED and 
+will be discharged on a seven day course of antibiotics.
+
+If you develop worsening fever, chills, flank pain, or nausea, 
+you should return to the ED.
+
+It is very important that you attend your follow-up appointment 
+with your PCP (Please call ___ to set up an appointment 
+within the week).
+
+It was a pleasure taking care of you!
+
+We wish you the best,
+
+Your ___ Team
+ 
+Followup Instructions:
+___

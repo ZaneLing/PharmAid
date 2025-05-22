@@ -1,0 +1,249 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Statins-Hmg-Coa Reductase Inhibitors / varenicline
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None performed 
+
+attach
+ 
+Pertinent Results:
+RELEVANT LABS
+=========================
+
+___ 06:05PM BLOOD WBC-7.0 RBC-4.64 Hgb-15.3 Hct-46.6 
+MCV-100* MCH-33.0* MCHC-32.8 RDW-12.7 RDWSD-47.1* Plt ___
+___ 06:16AM BLOOD WBC-7.3 RBC-3.91* Hgb-12.8* Hct-39.0* 
+MCV-100* MCH-32.7* MCHC-32.8 RDW-12.9 RDWSD-47.2* Plt ___
+___ 06:05PM BLOOD Neuts-50.2 ___ Monos-12.8 
+Eos-12.6* Baso-1.1* Im ___ AbsNeut-3.53 AbsLymp-1.62 
+AbsMono-0.90* AbsEos-0.89* AbsBaso-0.08
+___ 06:05PM BLOOD Glucose-92 UreaN-35* Creat-7.1* Na-139 
+K-4.6 Cl-92* HCO3-26 AnGap-21*
+___ 06:16AM BLOOD Glucose-97 UreaN-72* Creat-9.1* Na-141 
+K-4.5 Cl-101 HCO3-19* AnGap-21*
+___ 06:03AM BLOOD Calcium-9.6 Phos-7.3* Mg-2.8*
+___ 06:16AM BLOOD Calcium-9.7 Phos-7.7* Mg-2.6
+___ 06:03AM BLOOD HBsAg-NEG HBsAb-POS HBcAb-POS*
+___ 01:10PM BLOOD HAV Ab-POS*
+___ 06:03AM BLOOD HCV Ab-POS*
+___ 01:10PM BLOOD HCV VL-PND
+
+IMAGING
+======================
+
+CXR
+IMPRESSION:  
+  
+Hyperinflated lungs without signs of pneumonia. 
+
+MICROBIOLOGY
+=====================
+None ordered or pending. 
+ 
+Brief Hospital Course:
+SUMMARY
+========
+Mr. ___ is a ___ man with a history of end-stage 
+renal disease on hemodialysis and COPD, presenting with a 
+one-week history of increasing shortness of breath and dyspnea 
+on exertion concerning for COPD exacerbation. He was initially 
+started on O2 nasal cannula and then was rapidly successfully 
+weaned to room air with 90-95% on room air, 90-91% with 
+ambulation. He was started on a 5 day burst of prednisone for 
+treatment of COPD exacerbation. His current exacerbation (and 
+some of the others this year) are likely due to medication 
+non-adherence, given his inability to afford his medications. He 
+was helped by our prescription assistance team to help apply for 
+Mass Health and secure ___ year free/subsidized prescriptions for 
+ProAir (albuterol sulfate), Advair (fluticasone-salmeterol), and 
+Spiriva (tiotropium bromide). In addition, patient received 1x 
+HD session during this hospitalization. He also tested positive 
+for Hepatitis C, of which he was aware.
+
+TRANSITIONAL ISSUES
+============================
+[] Patient has severe COPD, with difficulty affording the 
+required ___ treatments. During this admission, the 
+prescription assistance team helped him apply for ___ year 
+subsidized medications and ___. This may likely continue 
+to be an issue.
+[] He would like to consolidate his care at ___, starting with 
+PCP. He will likely need to be connected to nephrology and 
+pulmonology.
+[] Patient may benefit from outpatient PFTs to evaluate COPD.
+[] He was found to test positive for Hepatitis C antibody; 
+Hepatitis C viral load pending at discharge. Patient was aware 
+of this diagnosis from the past. Consider referring to 
+hepatology for hepatitis C treatment.
+
+ACUTE ISSUES:
+=============
+#COPD Exacerbation
+Patient's current exacerbation is likely due to medication 
+non-adherence, given his inability to afford his medications. He 
+has responded well to DuoNebs. O2 sat 90-95% on room air, 90-91% 
+with ambulation. Patient was seen by social work regarding 
+issues with insurance and barriers to affording his medications. 
+Prescription assistance team will be helping patient apply for 
+Mass Health and secure ___ year free/subsidized of ProAir 
+(albuterol sulfate), Advair (fluticasone-salmeterol), and 
+Spiriva (tiotropium bromide). He was started on prednisone 40mg 
+burst for 5 days, which will end ___. We would recommend 
+outpatient PFTs when patient is better established with primary 
+care doctor/pulmonologist.
+
+#ESRD on HD
+On ___ schedule. He denies any swelling or symptoms of fluid 
+overload. No history of kidney transplant.
+
+#Hepatitis C
+HCV antibody positive. Labs pending on discharge: Hep C viral 
+load
+
+CHRONIC ISSUES:
+===============
+#Hypertension
+Continued home amlodipine and labetalol.
+
+#Constipation
+Continue home bowel regimen.
+
+#Hypothyroidism
+Continue home levothyroxine.
+
+Contact: None on file
+Code: Full Code, presumed
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 10 mg PO DAILY 
+2. Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheezing 
+3. Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing 
+4. Aspirin 81 mg PO DAILY 
+5. Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+6. Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN wheezing 
+7. Labetalol 100 mg PO BID 
+8. Levothyroxine Sodium 50 mcg PO DAILY 
+9. Omeprazole 20 mg PO DAILY 
+10. Ranitidine 150 mg PO BID 
+11. Tiotropium Bromide 1 CAP IH DAILY 
+12. Velphoro (sucroferric oxyhydroxide) 500 mg oral DAILY 
+13. Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line 
+14. Visine Dry Eye Relief (peg 400-hypromellose-glycerin) 
+___ % ophthalmic (eye) DAILY 
+15. Nicotine Patch 21 mg/day TD DAILY 
+16. LOPERamide 2 mg PO QID:PRN diarrhea 
+17. Bisacodyl 10 mg PO DAILY:PRN Constipation - Second Line 
+18. Docusate Sodium 100 mg PO BID:PRN Constipation - Second Line 
+
+19. Calcitriol 0.25 mcg PO DAILY 
+
+ 
+Discharge Medications:
+1.  PredniSONE 40 mg PO DAILY Duration: 3 Doses 
+RX *prednisone 20 mg 2 tablet(s) by mouth once a day Disp #*6 
+Tablet Refills:*0 
+2.  Albuterol 0.083% Neb Soln 1 NEB IH Q4H:PRN wheezing 
+RX *albuterol sulfate [ProAir HFA] 90 mcg 1 neb Q4H:PRN Disp #*1 
+Inhaler Refills:*3 
+3.  Albuterol Inhaler 2 PUFF IH Q6H:PRN wheezing 
+RX *albuterol sulfate 90 mcg 1 inhaler q6H:PRN Disp #*1 Inhaler 
+Refills:*0 
+4.  amLODIPine 10 mg PO DAILY  
+5.  Aspirin 81 mg PO DAILY  
+6.  Bisacodyl 10 mg PO DAILY:PRN Constipation - Second Line  
+7.  Calcitriol 0.25 mcg PO DAILY  
+8.  Docusate Sodium 100 mg PO BID:PRN Constipation - Second Line 
+ 
+9.  Fluticasone-Salmeterol Diskus (250/50)  1 INH IH BID 
+RX *fluticasone propion-salmeterol [Advair Diskus] 250 mcg-50 
+mcg/dose 1 package twice a day Disp #*1 Disk Refills:*3 
+10.  Ipratropium-Albuterol Neb 1 NEB NEB Q6H:PRN wheezing 
+RX *ipratropium-albuterol 0.5 mg-3 mg (2.5 mg base)/3 mL 1 
+package every 6 hours as necessary Disp #*1 Ampule Refills:*0 
+11.  Labetalol 100 mg PO BID  
+12.  Levothyroxine Sodium 50 mcg PO DAILY  
+13.  LOPERamide 2 mg PO QID:PRN diarrhea  
+14.  Nicotine Patch 21 mg/day TD DAILY  
+15.  Omeprazole 20 mg PO DAILY  
+16.  Polyethylene Glycol 17 g PO DAILY:PRN Constipation - Third 
+Line  
+17.  Ranitidine 150 mg PO BID  
+18.  Tiotropium Bromide 1 CAP IH DAILY 
+RX *tiotropium bromide [Spiriva Respimat] 1.25 mcg/actuation 1 
+package 1 cap daily Disp #*1 Package Refills:*3 
+19.  Velphoro (sucroferric oxyhydroxide) 500 mg oral DAILY  
+20.  Visine Dry Eye Relief (peg 400-hypromellose-glycerin) 
+___ % ophthalmic (eye) DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+========================
+COPD
+ESRD on HD 
+Hepatitis C
+
+CHRONIC ISSUES
+===================
+Hypertension
+Constipation
+Hypothyroidism
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you here at ___!
+
+WHY WAS I IN THE HOSPITAL?
+- You were feeling short of breath. 
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+- You were treated with nebulizers and inhalers.
+- You were weaned off of oxygen back to room air. 
+- You were started on steroids for 5 days to help with your 
+COPD. 
+- You will be connected with ___ for assistance with 
+affording your medications for the next year. 
+
+WHAT SHOULD I DO WHEN I GO HOME?
+- You should continue to take your medications.
+- We have set you up with a new primary care doctor here at 
+___. We would recommend that you continue with your current 
+nephrologist (kidney doctor) and dialysis ___ now; if you 
+would like to switch your kidney care to ___, please mention 
+this to your primary care doctor, and he can help arrange this.
+- You should ask your primary care doctor about being referred 
+to a liver doctor to cure your hepatitis C. 
+- You should work with physical therapy to modify day to day 
+routines to prevent acute shortness of breath given your COPD. 
+
+We wish you the best!
+YOUR ___ CARE TEAM 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,217 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ibuprofen
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+___ w/ no significant medical history presents w/ abdominal pain 
+and bloating x 4 days described as mild-moderate epigastric 
+abdominal pain that started soon after eating a large meal at a 
+buffet. That night it was associated with diarrhea that has not 
+recurred. Symptoms persisted but didn't interfere with his day 
+to day activities. He eventually noticed yellowing of his skin 
+and pale stools and starting having subjective fevers, prompting 
+him to see his PCP. Labs revealed abnormal LFTs (TBili 5.5, 
+direct bili 3.6, ap 391. ast 160, alt 410) and he was instructed 
+to come to the ED. He had 2 similar episodes in the past w/ the 
+most recent one year ago that prompted workup for H.pylori w/ 
+negative urea breath test and eventual resolution of his 
+symptoms. 
+
+No reported sick contacts. No one else got sick from the buffet 
+meal. Never had hepatitis. Vaccinated against hepatitis A + B 
+virus. Drinks one drink/month. Never has binge-drank. No new 
+medications including over the counter. Denies unprotected sex 
+but tells me he gets tested frequently for STDs as recently as 
+yesterday at his PCPs office. HIV screen ___ negative. He 
+does have outdoor exposure. 
+
+In the ED, initial VS were:  T99, HR 81, BP 124/76, RR 16, 99% 
+RA. ED labs were notable for: INR/Hct/Plt - Labs: INR 1, Hct 
+46.1, plt 229, ALT 376, AST 148, AP 383, TB 4.8, DB 3.9, lip 
+108, UA +WBC. Imaging showed: RUQUS (___): No cholelithiasis or 
+cholecystitis. Gallbladder polyps measuring up to 3 mm. OSH CT: 
+no signs of obstruction, no stone. ERCP team was consulted and 
+recommended admitting to medicine and obtaining an MRCP. 
+ 
+Past Medical History:
+none
+ 
+Social History:
+___
+Family History:
+Father had remote h/o "liver problems" but reportedly healthy 
+now.
+ 
+Physical Exam:
+-Vitals: reviewed in OMR, afebrile 
+-General: NAD, laying comfortably in bed 
+-HENT: atraumatic, normocephalic, moist mucus membranes
+-Eyes: PERRL, EOMi, no icterus 
+-Cardiovascular: RRR, no murmur 
+-Pulmonary: clear b/l, no wheeze 
+-GI: soft, nontender, nondistended, bowel sounds presents - 
+overall improved from yesterday back to baseline  
+-GU: no foley, no CVA/suprapubic tenderness 
+-MSK: No pedal edema, no joint swelling 
+-Skin: No rashes or ulcerations.  no appreciable jaundice. 
+-Neuro: no focal neurological deficits, CN ___ grossly intact 
+-Psychiatric: appropriate mood and affect 
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 02:49AM BLOOD WBC-7.4 RBC-5.03 Hgb-15.2 Hct-46.1 MCV-92 
+MCH-30.2 MCHC-33.0 RDW-12.0 RDWSD-40.4 Plt ___
+___ 02:49AM BLOOD Neuts-78.0* Lymphs-9.4* Monos-7.9 Eos-3.8 
+Baso-0.4 Im ___ AbsNeut-5.80 AbsLymp-0.70* AbsMono-0.59 
+AbsEos-0.28 AbsBaso-0.03
+___ 02:49AM BLOOD ___ PTT-36.9* ___
+___ 02:49AM BLOOD Glucose-104* UreaN-5* Creat-0.7 Na-140 
+K-3.6 Cl-99 HCO3-25 AnGap-16
+___ 02:49AM BLOOD ALT-376* AST-148* AlkPhos-383* 
+TotBili-4.8* DirBili-3.9* IndBili-0.9
+___ 02:49AM BLOOD Lipase-108*
+___ 02:49AM BLOOD Albumin-4.6 Calcium-9.2 Phos-2.5* Mg-2.1
+___ 02:49AM BLOOD Lactate-1.2
+
+MRCP: IMPRESSION: Normal MRI appearance of the liver and biliary 
+system.  No MRCP explanation for elevated LFTs.
+
+RUQ US IMPRESSION: No findings of biliary obstruction. No 
+cholelithiasis or cholecystitis.
+
+DISCHARGE LABS
+___ 05:52AM BLOOD WBC-9.7 RBC-4.64 Hgb-14.2 Hct-42.5 MCV-92 
+MCH-30.6 MCHC-33.4 RDW-12.0 RDWSD-40.0 Plt ___
+___ 05:52AM BLOOD ___
+___ 05:52AM BLOOD Glucose-86 UreaN-7 Creat-0.6 Na-137 K-4.1 
+Cl-95* HCO3-25 AnGap-17
+___ 05:35AM BLOOD ALT-280* AST-91* AlkPhos-412* TotBili-1.5
+___ 05:52AM BLOOD Calcium-9.4 Mg-2.2
+___ 06:00AM BLOOD Triglyc-159* HDL-35* CHOL/HD-5.2 
+LDLcalc-114
+___ 01:10PM BLOOD Smooth-NEGATIVE
+___ 01:10PM BLOOD IgG-1370 IgM-134
+___ 01:10PM BLOOD HIV Ab-NEG, HIV1 VL-NOT DETECT
+___ 06:10AM BLOOD HBsAg-NEG HBsAb-POS HBcAb-NEG HAV Ab-POS*
+___ 06:10AM BLOOD HCV Ab-NEG
+___ 01:10PM BLOOD IgM HAV-NEG
+___ 01:10PM BLOOD tTG-IgA-14 
+___ 05:20AM BLOOD QUANTIFERON-TB GOLD- negative  
+___:10PM BLOOD LYME DISEASE ANTIBODY: IgM positive, IgG 
+negative
+___ 01:10PM BLOOD LEPTOSPIRA ANTIBODY- negative 
+___ 06:00AM BLOOD ANAPLASMA PHAGOCYTOPHILUM (HUMAN 
+GRANULOCYTIC EHRLICHIA AGENT) IGG/IGM- negative     
+___ 05:20AM BLOOD BRUCELLA ANTIBODY, AGGLUTINATION-PND
+ 
+Brief Hospital Course:
+___ w/ no significant medical history presents with 4 days of 
+abdominal pain and nausea/vomiting found to have transaminitis 
+and cholestasis. 
+
+1. Lyme disease
+-IgM positive and initiated doxycycline treatment ___, which 
+will be continued for 2 weeks through ___.
+
+2. Transaminitis, cholestasis, hyperbilirubinema (conjugated), 
+and abdominal pain
+-Mixed picture with unclear etiology in setting of normal MRCP.  
+As per ERCP team no indication for ERCP at this time.  Initial 
+diagnosis broad including infectious, autoimmune, and 
+infiltrative process.  Lyme IgM resulted positive ___, which 
+is likely cause of lab abnormities and liver biopsy not 
+indicated at this time.  He will follow up w/ GI/hepatology 
+outpatient follow w/ Dr. ___ to ensure LFTs normalize 
+following lyme treatment.   
+
+3. Constipation and ileus 
+-Unclear etiology potentially related to decreased activity, 
+decreased PO intake, and acute illness.  There is not a common 
+association with lyme and ileus but may be related. Patient will 
+good response to suppository and will continue w/ docusate & 
+senna outpatient.  
+
+4. Asymptomatic pyuria
+-Urine culture with 10,000-100,000 alpha hemolytic strep without
+indication for treatment. Gonorrhea and chlamydia negative. 
+
+5. GERD, hiccups
+-Patient with good response to Chlorpromazine.  At discharge 
+patient requests short course of antacid and antinausea meds 
+given prescriptions for ranitidine and metoclopramide PRN. 
+
+>30 minutes spent on discharge planning 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID:PRN constipation RX *docusate 
+sodium 100 mg 1 tablet(s) by mouth BID PRN Disp #*30 Tablet 
+Refills:*0 
+2.  Doxycycline Hyclate 100 mg PO Q12H  take through ___ RX 
+*doxycycline hyclate 100 mg 1 tablet(s) by mouth twice a day 
+Disp #*25 Tablet Refills:*0 
+3.  Metoclopramide 10 mg PO TID:PRN nausea/vomiting RX 
+*metoclopramide HCl 10 mg 1 tab by mouth TID PRN Disp #*15 
+Tablet Refills:*0 
+4.  Ranitidine 75 mg PO BID:PRN indigestion  Duration: 14 Days 
+take before eating  RX *ranitidine HCl 75 mg 1 tablet(s) by 
+mouth BID PRN Disp #*28 Tablet Refills:*0 
+5.  Senna 17.2 mg PO DAILY RX *sennosides [senna] 8.6 mg ___ tab 
+by mouth daily PRN Disp #*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abnormal liver testing, elevated bilirubin
+Lyme disease
+Constipation, Ileus 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+You were admitted with elevated bilirubin and abnormal liver 
+testing.  Your imaging was normal and lab tests positive for 
+lyme disease and you were started on doxycycline, which you 
+should continue for 14 days.  You will continue outpatient 
+follow up with gastroenterology to ensure your liver numbers 
+have resolved.  
+
+Your hospital course was complicated by ileus, which improved 
+with aggressive bowel regimen. You can continue a bowel regimen 
+as needed to ensure you have 1 soft bowel movement every ___ 
+days. 
+
+It was a pleasure taking care of you.
+-Your ___ team
+ 
+Followup Instructions:
+___

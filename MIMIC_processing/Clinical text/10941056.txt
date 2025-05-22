@@ -1,0 +1,274 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___.
+ 
+Chief Complaint:
+___ guided uterine artery embolization 
+ 
+Major Surgical or Invasive Procedure:
+___ guided uterine artery embolization 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year-old woman with a history of uterine
+fibroids and iron-deficiency anemia, who presents for
+post-procedure monitoring and pain-control status post ___
+uterine artery embolization.
+
+The patient's menses last 7 days with ___ days of heavy 
+bleeding,
+during which she has to change a pad every hour, which has 
+caused
+lifestyle modification.
+
+On ___ in referral, reviewed options, and was given a trial
+of meclomen without improvement. 
+
+The patient is relatively asymptomatic from the anemia. She
+does not report fatigue.  She has been taking iron 3 times 
+daily.
+
+Patient is s/p operative hysteroscopy for submucous myoma on
+___. This is second resection of submucous myoma, previously
+also done ___. Her symptoms originally improved after her
+myomectomies.
+
+The patient underwent a L radial artery approach uterine artery
+embolization without complications and was transferred to the
+medicine floor for post-procedure monitoring.
+
+Upon arrival to the floor, the patient states that she has ___
+pain in her lower abdomen and back that is similar to menstrual
+cramping but stronger. She also notes mild nausea. Otherwise,
+does not report fevers, chills, chest pain, shortness of breath,
+vomiting, and changes in bowel habits. Noted some spotting with
+urination.
+
+ 
+Past Medical History:
+Uterine fibroids
+Iron deficiency anemia
+
+ 
+Social History:
+___
+Family History:
+Sister has uterine fibroids.
+
+ 
+Physical Exam:
+=======================
+ADMISSION PHYSICAL EXAM
+=======================
+VITALS: T 98.3 PO, BP 151 / 84, HR 77, RR 18, O2 sat 97% on RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: Normocephalic, atraumatic. Extraocular muscles intact.
+Sclera anicteric and without injection. Moist mucous membranes.
+Oropharynx is clear.
+NECK: Supple. No LAD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally w/appropriate breath
+sounds appreciated in all fields. No wheezes, rhonchi or rales.
+No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, tenderness to deep
+palpation in the bilateral lower quadrants. No organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses Radial 2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rash.
+NEUROLOGIC: A&Ox3, moving all 4 extremities with purpose. Intact
+sensation of L hand near radial access site.
+
+=======================
+DISCHARGE PHYSICAL EXAM
+=======================
+24 HR Data (last updated ___ @ 819) Temp: 98.5 (Tm 98.5),
+BP: 111/71 (111-151/71-84), HR: 64 (55-77), RR: 18, O2 sat: 96%
+(96-97), O2 delivery: Ra, Wt: 230 lb/104.33 kg  
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: Normocephalic, atraumatic. Extraocular muscles intact.
+Sclera anicteric and without injection. Moist mucous membranes.
+Oropharynx is clear.
+NECK: Supple. No LAD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally w/appropriate breath
+sounds appreciated in all fields. No wheezes, rhonchi or rales.
+ABDOMEN: Normal bowels sounds, non distended, mild tenderness to
+deep palpation in the bilateral lower quadrants. No 
+organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses Radial 2+
+bilaterally.
+NEUROLOGIC: A&Ox3, moving all 4 extremities with purpose. 
+
+ 
+Pertinent Results:
+==============
+ADMISSION LABS
+==============
+___ 07:35AM BLOOD WBC-6.9 RBC-3.72* Hgb-11.2 Hct-34.7 
+MCV-93 MCH-30.1 MCHC-32.3 RDW-13.3 RDWSD-45.6 Plt ___
+___ 07:35AM BLOOD ___
+___ 07:35AM BLOOD Creat-0.6
+
+==============
+DISCHARGE LABS
+==============
+___ 06:20AM BLOOD WBC-12.8* RBC-3.51* Hgb-10.7* Hct-33.1* 
+MCV-94 MCH-30.5 MCHC-32.3 RDW-13.2 RDWSD-45.1 Plt ___
+ 
+Brief Hospital Course:
+========
+SUMMARY
+========
+Ms. ___ is a ___ year-old woman with a history of uterine 
+fibroids and iron-deficiency anemia, who underwent successful 
+___
+uterine artery embolization admitted overnight for 
+post-procedure monitoring and pain-control.
+
+=====================
+Acute Medical Issues
+===================== 
+# Uterine fibroids s/p uterine artery embolization: The patient 
+underwent uncomplicated uterine artery embolization with ___ and
+is admitted for post-procedure monitoring and pain-control. The
+patient was monitored overnight and received PRN oxycodone 5mg 
+with good control of pain. Hgb was stable overnight. Will be 
+discharged today. Will continue pain control with oxycodone 5mg 
+q6h PRN and ibuprofen 600mg q8hrs PRN. Will continue home iron 
+supplementation
+
+# LEUKOCYTOSIS
+Likely reactive in setting of recent procedure. No other signs 
+of
+infection: afebrile, no cough, dysuria, diarrhea, N/V.
+
+====================
+Transitional Issues
+====================
+[ ] Patient has a follow-up pelvic MRI in 3 months and 
+appointment with Dr. ___ in ___ clinic after that.
+
+[ ] Patient discharged on short 3 day course of oxycodone. 
+Please follow-up pain control as outpatient.
+
+#CODE: FULL CODE (presumed)
+#CONTACT: Next of Kin: ___ 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Ferrous Sulfate 325 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Docusate Sodium 100 mg PO BID 
+RX *docusate sodium 100 mg 1 capsule(s) by mouth twice a day 
+Disp #*30 Capsule Refills:*0 
+2.  Naproxen 500 mg PO Q12H pain Duration: 7 Days 
+RX *naproxen 500 mg 1 tablet(s) by mouth every twelve (12) hours 
+Disp #*14 Tablet Refills:*0 
+3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
+Moderate 
+RX *oxycodone 5 mg 1 capsule(s) by mouth one tablet every 6 
+hours as needed Disp #*12 Capsule Refills:*0 
+4.  Polyethylene Glycol 17 g PO DAILY 
+RX *polyethylene glycol 3350 17 gram 1 packet by mouth once 
+daily Disp #*30 Packet Refills:*0 
+5.  Ferrous Sulfate 325 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+=================
+Primary Diagnosis
+=================
+Uterine Fibroids and menorrhagia s/p uterine artery embolization
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+======================
+DISCHARGE INSTRUCTIONS
+======================
+
+Dear Ms. ___,
+
+It was a pleasure caring for you at ___.
+
+WHY WAS I IN THE HOSPITAL?
+- You had a procedure called a uterine artery embolization. You 
+tolerated the procedure well and were cleared to go home
+
+WHAT HAPPENED TO ME IN THE HOSPITAL?
+- You were given some medication for pain and were watched 
+overnight to make sure you did not have any complications.
+
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?
+- Continue to take all your medicines and keep your 
+appointments.
+- You are scheduled to have a pelvic MRI and follow up at ___ 
+clinic with Dr. ___ in 3 months as scheduled.
+- We will send you home with a short course of oxycodone and 
+ibuprofen for pain. Please take the ibuprofen for mild 
+pain/cramping and oxycodone as prescribed for severe pain.
+
+WHAT TO EXPECT:
+Symptoms typically include:
+Pelvic pain / cramping
+Nausea / vomiting
+Feeling tired
+Low-grade fever
+Poor appetite
+Flu-like symptoms
+Light spotting (can last up to 1 month)
+
+These symptoms usually last ___ days and may be more severe in 
+some women than others. Often times, patients feel better ___ 
+days after the procedure and then experience additional episodes 
+of pain and cramping. For this reason we recommend taking your 
+medications as prescribed for the first ___ days.
+
+WHAT TO WATCH FOR:
+Call the interventional radiology office if any of the following 
+occur:
+Fever greater than 102.5&#730; or fever associated with sweating 
+and chills 
+Abnormal foul-smelling vaginal discharge 
+Heavy bright red vaginal bleeding, different from your normal 
+menstrual flow 
+Pain or burning with urination
+Pelvic pain unrelieved by pain medication, and/or pain which 
+lasts longer than two weeks
+
+TAKE THE FOLLOWING MEDICATIONS FOR YOUR PAIN:
+PO Naproxen 500mg twice daily for 7 days
+PO Oxycodone 5mg ___ tab every ___ hours as needed, max 12 tabs 
+daily
+PO Colace 100mg daily (to prevent constipation)
+PO Miralax 17g daily (to prevent constipation)
+
+We wish you the best!
+
+Sincerely,
+Your ___ Team
+
+ 
+Followup Instructions:
+___

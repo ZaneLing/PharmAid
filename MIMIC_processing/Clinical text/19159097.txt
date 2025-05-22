@@ -1,0 +1,83 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+attach
+ 
+Pertinent Results:
+CBC w/ diff:
+___ 01:00AM BLOOD WBC-52.8* RBC-6.93* Hgb-20.0* Hct-60.1* 
+MCV-87 MCH-28.9 MCHC-33.3 RDW-17.8* RDWSD-49.0* Plt ___
+___ 01:00AM BLOOD Neuts-78.5* Lymphs-1.7* Monos-16.5* 
+Eos-0.2* Baso-0.4 Im ___ AbsNeut-41.46* AbsLymp-0.92* 
+AbsMono-8.71* AbsEos-0.10 AbsBaso-0.20*
+
+Coags:
+___ 02:11AM BLOOD ___ PTT-64.3* ___
+
+Chemistry:
+___ 01:00AM BLOOD Glucose-164* UreaN-53* Creat-1.7* Na-136 
+K-6.2* Cl-99 HCO3-20* AnGap-17
+___ 01:00AM BLOOD Calcium-10.1 Phos-3.0 Mg-2.2
+
+Cardiac markers:
+___ 01:00AM BLOOD ___
+
+Blood gas/lactate:
+___ 10:03PM BLOOD ___ Temp-38.3 pO2-56* pCO2-18* 
+pH-7.12* calTCO2-6* Base XS--21
+___ 01:04AM   LACTATE-3.1* K+-5.___ year old female transferred from ___ with acute 
+encephalopathy and nausea for 1 day. Her EKG at ___ showed ST 
+elevations in the ___ leads and she was transferred 
+to ___. In the ED, she was cool on exam with BP ___, heart 
+rate 110s, RR ___ with O2 saturation in the mid ___. 
+Labs showed Hb 20, WBC 50, Creat 1.7, Trop 0.37, BNP 47868. CT 
+head showed hypodensity that is suspicious for subacute stroke.
+Taken together, she presented with a mixed cardiogenic and 
+septic shock with concern for possible mechanical complication 
+from a late presenting STEMI. The patient's goals of care were 
+discussed with her niece, nephew and younger sister. It was 
+explained that she was not a good candidate for mechanical 
+circulatory support and that the risks of revascularization 
+would likely outweigh the benefits. It was also explained that 
+it was not likely that she would survive this hospitalization 
+and return to her previous quality of life if vasopressor and 
+inotropic support were pursued. Her family understood this 
+information and the decision was made to pursue comfort measures 
+only. She died on ___ at 0400. Her family was notified and 
+declined an autopsy. The attending Dr. ___ was 
+notified. Her PCP ___ was notified. 
+ 
+Medications on Admission:
+No home meds on file. On pharmacy review not on any home meds
+that would improve comfort.
+ 
+Discharge Medications:
+N/A
+ 
+Discharge Disposition:
+Expired
+ 
+Discharge Diagnosis:
+ST elevation myocardial infarction complicated by cardiogenic 
+shock. 
+ 
+Discharge Condition:
+N/A
+ 
+Discharge Instructions:
+N/A
+ 
+Followup Instructions:
+___

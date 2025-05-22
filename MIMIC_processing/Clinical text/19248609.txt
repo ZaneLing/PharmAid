@@ -1,0 +1,335 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+hydrochlorothiazide / lisinopril / nifedipine
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea and abnormal ECG
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+================================   
+___ ADMISSION NOTE
+================================   
+OUTPATIENT CARDIOLOGIST:  ___, MD 
+PCP:  Dr. ___ 
+CC: dyspnea and abnormal ECG (new onset heart block/A.fib.??)
+
+HISTORY OF PRESENTING ILLNESS: ___ M with hx/chronic right
+pleural effusion, HFpEF diastolic heart failure, NYHA class 2,
+hospitalized in ___ with NSTEMI, CHF, and RF requiring BiPAP
+who presents with dyspnea on exertion and diaphoresis morning of
+___. Patient states he went out for his usual morning walk,
+but he felt too out of breath and couldn't walk more than a few
+feet. He also noticed anorexia that was new since the prior
+evening. He used his home oxygen (NC), which relieved his SOB 
+and
+anorexia. (He was given home oxygen after PNA at ___ 
+___
+___ years ago.) 
+
+He denies any recent fevers, cough, abdominal pain, chest pain,
+orthopnea, edema (takes his weight often at home, always 117 
+lbs)
+
+He was evaluated by his PCP who found patient to have a 
+prolonged
+PR interval (questionable afib?), 3 second pause? He was sent in
+for further evaluation.
+
+REVIEW OF SYSTEMS:  
+On further review of systems, denies any prior history of 
+stroke,
+TIA, deep venous thrombosis, pulmonary embolism, bleeding at the
+time of surgery, myalgias, joint pains, cough, hemoptysis, black
+stools or red stools. Denies exertional buttock or calf pain.
+Denies recent fevers, chills or rigors. All of the other review
+of systems were negative.  
+
+In the ED initial vitals were:  
+97.2 HR 118 BP 169/67 RR16 96% RA 
+EKG:  wandering atrial pacemaker 
+Labs/studies notable for:  
+proBNP: 5983
+Na 127
+CK: 75  MB: 7  
+Trop-T: 0.08 ___ @ 20:35) --> Trop-T: 0.07 ___
+@23:44)
+Hb 12.7 (13 baseline) 
+
+CXR Moderate to large right pleural effusion with overlying
+atelectasis, underlying consolidation or pulmonary lesion not
+excluded. Pulmonary vascular congestion. Suggestion of possible
+underlying COPD. 
+
+Patient was given: home dose Lasix 20mg oral, extra Lasix IV 
+20mg
+
+ 
+Past Medical History:
+1. CARDIAC RISK FACTORS  
+- Diabetes  
++ Hypertension  (per patient, at home, SBPs 150)
++ Dyslipidemia  
+2. CARDIAC HISTORY  
+- CABG: None  
+- PERCUTANEOUS CORONARY INTERVENTIONS: None  
+- PACING/ICD: None  
+3. OTHER PAST MEDICAL HISTORY  
+-carotid endarterectomy 
+-seizure disorder, complex partial (per patient, ___ years ago,
+fist?)
+-BPH
+-Macular degeneration 
+-Ocular hypertension 
+-SCC
+-inguinal hernia
+-Pancytopenia 
+-Cervical spondylosis with myelopathy 
+-Multiple pulmonary nodules 
+
+ 
+Social History:
+___
+Family History:
+Non-contributory 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+VS: T 97.2, BP 162/54 - 205/86 HR 81 RR 16 O2 SAT  94 Ra 
+GENERAL: NAD sitting in chair. Oriented x3. Mood, affect
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple with JVP approx. 20cm (near mandible at 90 degrees) 
+
+CARDIAC: PMI located in ___ intercostal space, midclavicular
+line. RRR, normal S1, S2. No murmurs/rubs/gallops. No thrills,
+lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp
+were unlabored, no accessory muscle use. Decreased breath sounds
+at R base. No crackles, wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c. 1+ pitting edema bilaterally. No femoral
+bruits.  
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+DISCHARGE PHYSICAL EXAM:
+97.2 149/70 HR69 RR20 O2 Sat 97% RA 
+GENERAL: NAD sitting in chair. Oriented x3. Mood, affect 
+appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva 
+werepink, no pallor or cyanosis of the oral mucosa. No 
+xanthelasma.  
+NECK: Normal JVP
+CARDIAC: PMI located in ___ intercostal space, midclavicular 
+line. RRR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills,lifts.  
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. CTAB. No 
+crackles,wheezes or rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/edema.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+PULSES: Distal pulses palpable and symmetric  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+Notable for proBNP-___ and Na 125
+
+___ 08:35PM BLOOD WBC-6.2 RBC-4.19* Hgb-12.4* Hct-36.4* 
+MCV-87 MCH-29.6 MCHC-34.1 RDW-13.9 RDWSD-44.2 Plt ___
+___ 08:35PM BLOOD Neuts-66.8 ___ Monos-12.0 
+Eos-0.6* Baso-0.3 Im ___ AbsNeut-4.12 AbsLymp-1.22 
+AbsMono-0.74 AbsEos-0.04 AbsBaso-0.02
+___ 08:35PM BLOOD ___ PTT-28.6 ___
+___ 08:35PM BLOOD Glucose-121* UreaN-28* Creat-0.9 Na-125* 
+K-5.6* Cl-87* HCO3-21* AnGap-17*
+___ 08:35PM BLOOD CK(CPK)-75
+___ 08:35PM BLOOD CK-MB-7 proBNP-5983*
+___ 06:42AM BLOOD Calcium-8.8 Phos-3.5 Mg-2.1
+___ 10:00PM BLOOD K-5.___XR ___: 
+Moderate to large right pleural effusion with overlying 
+atelectasis, 
+underlying consolidation or pulmonary lesion not excluded.  
+Pulmonary vascular congestion.  Suggestion of possible 
+underlying COPD. 
+  
+
+DISCHARGE LABS: 
+Notable for Na 131 
+
+___ 07:15AM BLOOD WBC-6.2 RBC-4.29* Hgb-12.7* Hct-37.1* 
+MCV-87 MCH-29.6 MCHC-34.2 RDW-13.8 RDWSD-43.3 Plt ___
+___ 07:15AM BLOOD Plt ___
+___ 03:05PM BLOOD Glucose-68* UreaN-28* Creat-0.9 Na-131* 
+K-4.7 Cl-89* HCO3-27 AnGap-15
+___ 03:05PM BLOOD Calcium-8.8 Phos-4.3 Mg-2.___ male with hx/chronic right pleural effusion, HFpEF 
+diastolic
+heart failure (___ class 2), NSTEMI who presents with dyspnea 
+on
+exertion and diaphoretic episode found to have pro-BNP >5,000 
+(baseline BNP approx. 400s), a large right pleural effusion on 
+CXR, and SBPs to 200's. 
+
+On ECG and tele, patient appeared to have sick sinus syndrome. 
+We discontinued the metoprolol given this syndrome. He did not 
+appear to be in afib at any point. He had no evidence of 
+ischemia on serial ECGs and his trops were negative. He will 
+likely need 24hr outpatient Holter monitor in a few weeks to 
+assess for any more pauses. He understands that the sick sinus 
+syndrome will likely progress, and he is agreeable to having a 
+pacemaker placed in the future. 
+
+He also appeared to be volume overloaded on presentation. He 
+received 20mg IV Lasix in addition to his home dose of 20mg oral 
+Lasix in the ED with unknown urine output. On the floor, he also 
+received 20mg IV Lasix in the morning and 40mg IV Lasix in the 
+evening. He was about net negative 500cc over 24 hours. The 
+pitting edema present on his bilateral lower extremities on 
+admission resolved before discharge. On discharge, we increased 
+his home dose of oral Lasix to 40mg on ___ and 
+___ (continuing 20mg oral Lasix the rest of the week.) 
+His BMP was not checked on the day of discharge. Please recheck 
+it. 
+
+His SBPs were elevated during his hospital stay, ranging from 
+145/63 - 205/86. On discharge, we increased his amlodipine to 
+10mg from 7.5mg and are hopeful that decreased afterload may 
+help with the CHF. 
+
+TRANSITIONAL ISSUES:
+Weight: 50.4kg (patient wearing shoes)
+Cr: 0.7
+Na: 131
+Hb: 12.7
+Platelets: 145
+proBNP on admission: >5,000
+
+MEDICATIONS CHANGED:
+amlodipine 7.5mg --> 10mg daily
+oral Lasix 20mg daily --> 40mg oral lasix(M,T,W), 20mg oral 
+lasix (Th, Fr, ___ 
+
+MEDICATIONS DISCONTINUED:
+metoprolol
+[ ] Please repeat BMP in clinic at next visit, increased 
+furosemide at discharge
+[ ] Please follow up large right pleural effusion with CXR.
+[ ] Please repeat BNP as outpatient, proBNP elevated while 
+admitted
+[ ] Patient's amlodipine was increased due to increased BPs to 
+160s while admitted. Monitor for worsening ___ edema. 
+[ ] Monitor sick sinus syndrome (in setting of discontinuing 
+metoprolol). Patient will likely need 24hour Holter Monitoring 
+in a few weeks to assess for disease progression and to catch 
+any more pauses. Patient understands that he may need a 
+pacemaker in the future, and he is agreeable to this procedure. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Metoprolol Succinate XL 25 mg PO DAILY 
+2. Losartan Potassium 50 mg PO BID 
+3. amLODIPine 7.5 mg PO DAILY 
+4. Furosemide 20 mg PO DAILY 
+5. Aspirin 81 mg PO DAILY 
+6. Atorvastatin 40 mg PO QPM 
+7. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest 
+8. Finasteride 5 mg PO DAILY 
+9. Tamsulosin 0.4 mg PO QHS 
+10. Phenytoin Sodium Extended 300 mg PO DAILY 
+11. FoLIC Acid 1 mg PO DAILY 
+12. Betaxolol Ophth Susp  0.25% 1 DROP BOTH EYES BID 
+
+ 
+Discharge Medications:
+1.  Furosemide 40 mg PO 3X/WEEK (___) 
+Please take 40mg oral Lasix on ___, and 
+___.   
+2.  amLODIPine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*2 
+3.  Furosemide 20 mg PO 4X/WEEK (___) 
+Please take 20mg on ___, and ___.  
+
+RX *furosemide 20 mg ___ tablet(s) by mouth daily Disp #*45 
+Tablet Refills:*0 
+4.  Aspirin 81 mg PO DAILY  
+5.  Atorvastatin 40 mg PO QPM  
+6.  Betaxolol Ophth Susp  0.25% 1 DROP BOTH EYES BID  
+7.  Finasteride 5 mg PO DAILY  
+8.  FoLIC Acid 1 mg PO DAILY  
+9.  Losartan Potassium 50 mg PO BID  
+10.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest  
+11.  Phenytoin Sodium Extended 300 mg PO DAILY  
+12.  Tamsulosin 0.4 mg PO QHS  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Acute on chronic diastolic heart failure 
+
+ 
+Discharge Condition:
+Mental status: clear and coherent 
+Ambulatory status: independent 
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+Why were you in the hospital?
+=============================
+You were in the hospital because you had shortness of breath 
+during your normal morning walk and decreased exercise 
+tolerance. You were also found to have some conduction 
+abnormality that your doctor wanted to assess. 
+
+What was done for you in the hospital?
+======================================
+You had blood tests that suggested fluid was backing up into 
+your lungs. You also had a chest X-ray that showed fluid around 
+your lungs. We gave you extra lasix to help you get rid of the 
+extra fluid. We increased your home Lasix dose slightly to help 
+prevent fluid re-accumulation. We noticed your blood pressures 
+were consistently elevated in the hospital, and we increased 
+your dose of amlodipine slightly to better control your 
+pressures. We also monitored your heart to determine if there 
+were any irregularities. We did not see any dangerous rhythms. 
+We did notice some conduction variability in one part of your 
+heart that may be contributing to the extra fluid that 
+accumulated in your lungs. We stopped your metoprolol because it 
+may worsen these conduction irregularities. We will have your 
+primary care doctor continue to monitor. 
+
+What should you do when you leave the hospital?
+===============================================
+Please follow-up with your primary care physician within one 
+week of discharge. Please also take your medications exactly as 
+prescribed, and continue to weigh yourself everyday. Call your 
+primary care doctor if your weight increases by more than 3 lbs. 
+You're in amazing shape. Keep it up! 
+
+It was a pleasure taking care of you.
+
+Best wishes,
+Your ___ Care Team 
+ 
+Followup Instructions:
+___

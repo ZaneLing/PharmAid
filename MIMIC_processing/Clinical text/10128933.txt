@@ -1,0 +1,138 @@
+Name:  ___.                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Adhesive Bandage
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 04:30PM BLOOD WBC-10.4* RBC-4.54* Hgb-13.8 Hct-41.1 
+MCV-91 MCH-30.4 MCHC-33.6 RDW-12.3 RDWSD-41.0 Plt ___
+___ 04:30PM BLOOD Neuts-83.9* Lymphs-4.3* Monos-10.4 
+Eos-0.1* Baso-0.2 Im ___ AbsNeut-8.71* AbsLymp-0.45* 
+AbsMono-1.08* AbsEos-0.01* AbsBaso-0.02
+___ 04:30PM BLOOD Glucose-93 UreaN-13 Creat-1.1 Na-131* 
+K-4.5 Cl-94* HCO3-23 AnGap-14
+
+DISCHARGE LABS:
+___ 07:00AM BLOOD WBC-5.6 RBC-4.93 Hgb-14.6 Hct-44.9 MCV-91 
+MCH-29.6 MCHC-32.5 RDW-12.4 RDWSD-41.4 Plt ___
+___ 07:00AM BLOOD Glucose-84 UreaN-10 Creat-1.0 Na-141 
+K-4.5 Cl-103 HCO3-25 AnGap-13
+___ 07:00AM BLOOD Calcium-9.7 Phos-3.5 Mg-2.2
+
+MICRO:
+BCx (___): pan-sensitive Klebsiella
+BCx (___): no growth to date
+BCx (___): no growth to date
+
+UCx (___): pan-sensitive Klebsiella (intermediate to 
+nitrofurantoin)
+
+UCx (___): no growth
+
+IMAGING:
+IMPRESSION: 
+No acute cardiopulmonary process.
+
+DISCHARGE EXAM:
+VITALS: ___ ___ Temp: 998.1 PO BP: 123/77 R Sitting HR: 67 
+RR: 18 O2 sat: 99% O2 delivery: RA 
+GENERAL: Alert, NAD
+EYES: Anicteric, PERRL
+ENT: mmm, OP clear
+RESP: breathing room air comfortably
+ABD/GI: Soft, ND, NTTP, normoactive bowel sounds
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+VASC/EXT: No ___ edema, 2+ DP pulses
+SKIN: No rashes or lesions noted on visible skin
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, moves all limbs 
+PSYCH: pleasant, appropriate affect
+ 
+Brief Hospital Course:
+SUMMARY: ___ yo M with recent prostate biopsy who presented with 
+fever and dysuria and was found to have Klebsiella bacteremia 
+and a Klebsiella UTI. 
+
+# Klebsiella bacteremia
+# Klebsiella UTI
+# Recent prostate biopsy
+In the ED, received vanco/cefepime.  On admission, he was 
+initially treated broadly with vanco/cefepime/metronidazole 
+pending culture data. His antibiotics were changed to PO 
+ciprofloxacin once cultures and sensitivities returned. He will 
+be treated with a 14 day course. 
+He was seen by urology throughout this hospital stay who did not 
+feel he needed any urologic intervention.
+
+# Asymptomatic IPMN
+He was seen by GI/Pancreas inpatient since he had an outpatient 
+appointment with Dr. ___ while he was in-house. 
+They recommended annual MRCP monitoring.
+
+TRANSITIONAL ISSUES: 
+[ ] Repeat MRCP in ___ year for monitoring of IPMN
+
+>30 minutes spent on complex discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Multivitamins 1 TAB PO DAILY 
+2. Glucosamine Chondroitin (glucos sul 2KCl-msm-chond-C-Mn) 
+550-30-1 mg oral DAILY 
+3. methylcellulose (with sugar) 2 gram/19 gram oral DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Ciprofloxacin HCl 500 mg PO BID 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*23 Tablet Refills:*0 
+3.  Glucosamine Chondroitin (glucos sul 2KCl-msm-chond-C-Mn) 
+550-30-1 mg oral DAILY  
+4.  methylcellulose (with sugar) 2 gram/19 gram oral DAILY  
+5.  Multivitamins 1 TAB PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Klebsiella bacteremia
+Klebsiella urinary tract infection
+Sepsis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+You were admitted with fever/chills and pain urinating and were 
+found to have a urinary tract infection and bacteremia. You were 
+treated with antibiotics. You should continue to take the 
+antibiotics at home as directed.
+Follow up with your primary care doctor as detailed below.
+Best wishes for your continued healing.
+Take care,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

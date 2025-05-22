@@ -1,0 +1,181 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None 
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 04:10PM BLOOD cTropnT-<0.01
+___ 04:10PM BLOOD WBC-10.1* RBC-5.26 Hgb-15.9 Hct-49.8 
+MCV-95 MCH-30.2 MCHC-31.9* RDW-13.2 RDWSD-46.0 Plt ___
+___ 04:10PM BLOOD Glucose-96 UreaN-15 Creat-1.1 Na-141 
+K-5.2 Cl-104 HCO3-22 AnGap-15
+___ 05:30AM BLOOD Calcium-8.6 Phos-3.5 Mg-2.4 Cholest-179
+___ 05:30AM BLOOD %HbA1c-5.8 eAG-120
+___ 05:30AM BLOOD Triglyc-104 HDL-47 CHOL/HD-3.8 
+LDLcalc-111
+
+DISCHARGE LABS: 
+===============
+___ 08:13AM BLOOD WBC-8.7 RBC-5.26 Hgb-15.8 Hct-49.5 MCV-94 
+MCH-30.0 MCHC-31.9* RDW-13.3 RDWSD-45.6 Plt ___
+___ 08:13AM BLOOD Glucose-105* UreaN-16 Creat-1.1 Na-143 
+K-5.0 Cl-106 HCO3-23 AnGap-14
+___ 08:13AM BLOOD Calcium-9.2 Phos-3.4 Mg-2.3
+
+IMAGING: 
+========
+STRESS PERFUSION IMAGES - ___ 
+1. Reversible, medium sized, moderate severity perfusion defect 
+involving the RCA territory. 
+2. Normal left ventricular cavity size.  Normal systolic 
+function at rest with mild global hypokinesis after stress. 
+Compared with report of the study of ___, these findings 
+are new. 
+  
+EKG STRESS - ___ 
+INTERPRETATION: This ___ year old man with h/o HTN was referred 
+to 
+the lab for evaluation of chest discomfort. He exercised for 12 
+minutes 
+on modified ___ protocol and stopped for fatigue. The peak 
+estimated 
+MET capacity is 10.1, which represents an excellent exercise 
+tolerance 
+for his age. No chest, arm, neck or back discomfort reported. In 
+the 
+setting of baseline ST-T wave abnormality, the EKG is 
+uninterpretable 
+for ischemia. Rhythm was sinus with frequent isolated APBs, rare 
+atrial 
+couplets, rare isolated VPBs, rare ventricular couplets and 
+multiple 
+runs of narrow complex tachycardia most likely atrial 
+tachycarida with 
+highest HR of ~ 150 bpm. Appropriate BP response to exercise and 
+
+recovery with blunted HR response in the setting of beta 
+blockade. 
+IMPRESSION : No anginal symptoms with uninterpretable EKG for 
+ischemia. 
+Nuclear report sent separately. 
+
+ 
+Brief Hospital Course:
+Mr. ___ is a pleasant ___ year-old gentleman with history of 
+hypertension, hyperlipidemia, arthritis, presenting as a 
+transfer from ___ with chest discomfort, found to have TWI 
+in I, II, III, aVF, V3-V6, with negative troponin concerning for 
+unstable angina. Nuclear stress test showed perfusion defect 
+involving the RCA territory. 
+
+CORONARIES: Moderate severity perfusion defect involving the RCA 
+territory on perfusion imaging. 
+RHYTHM: NSR, 1st degree AV delay 
+
+DISCHARGE WEIGHT: 95.3 Kg (210.1 lbs) 
+DISCHARGE Cr: 1.1 
+DISCHARGE H/H: 15.8/49.5 
+
+TRANSITIONAL ISSUES: 
+=====================
+[] Follow-up HbA1c in one year as it was 5.8% during this 
+admission. 
+[] Consider increasing atorvastatin to 80mg if tolerating lower 
+dose. 
+[] Continue to monitor chest pain, if symptomatic, would 
+consider coronary angiography. 
+
+=============== 
+ACTIVE ISSUES: 
+=============== 
+# Chest discomfort
+Patient with atypical chest pain that is brought by exertion but 
+also at rest. EKG without new changes. Troponins were negative 
+x3. EKG stress test: patient exercised on modified ___ 
+protocol for 12 minutes, MET capacity of 10.1, aymptomatic with 
+baseline ST-T wave changes. Patient achieved 78% of maximal HR. 
+Nuclear stress test with Reversible, medium sized, moderate 
+severity perfusion defect involving the RCA territory. During 
+his hospital stay, metoprolol was started but patient had 
+bradycardia. His ___ ASCVD is 24.5%, which is substantially 
+high and driven by age. We will start him on atorvastatin 40mg. 
+Patient was continued on ASA and lisinopril. 
+
+================ 
+CHRONIC ISSUES: 
+================ 
+# HTN
+- Continue lisinopril 20mg daily. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Lisinopril 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Lisinopril 10 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS:
+==================
+Chest pain
+
+SECONDARY DIAGNOSIS:
+====================
+Hypertension  
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you at ___ 
+___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were having chest pain, shortness of breath and there was 
+concern for blockages in the blood vessels that supply your 
+heart.
+
+WHAT WAS DONE IN THE HOSPITAL?
+- You underwent cardiac stress test with imaging, which showed 
+narrowing of your right coronary artery. 
+
+WHAT SHOULD I DO WHEN I GET HOME FROM THE HOSPITAL?
+- Please follow-up with your doctors as ___. 
+- Please take all your medications as prescribed. 
+
+Sincerely,
+Your ___ Treatment Team
+ 
+Followup Instructions:
+___

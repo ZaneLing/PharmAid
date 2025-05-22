@@ -1,0 +1,303 @@
+Name:  ___                      Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Dyspnea, fever
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ year old woman with a history of IPF on pirfenidone, GERD and 
+HTN presenting with cough and fever. She has had a cough which 
+is intermittently productive for 2 days. She can normally take 
+off her oxygen intermittently but now is requiring oxygen all 
+the time or her levels dropped into the ___. She denies any 
+chest pain, nausea, vomiting. She missed a step on a curb on 
+___ and did have a fall and has had some mild right hip pain. 
+She has been able to ambulate with no issues. She denies any 
+head strike, loss of consciousness.
+ 
+Past Medical History:
+- Idiopathic Pulmonary Fibrosis
+- Hypertension
+- GERD 
+ 
+Social History:
+___
+Family History:
+Mother: ___, died of breast CA age ___
+Father: No known issues
+Siblings: Elder brother died from hepatic cancer
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+================
+VS: 99.6 121/62 97 18 96% 3L 
+GENERAL: Elderly woman in NAD
+HEENT: anicteric sclera, PERRL, cataracts, MMM, OP clear
+NECK: nontender supple neck, no LAD, no JVD  
+HEART: RRR, S1/S2, no murmurs, gallops, or rubs  
+LUNGS: NLB on 2L, scattered expiratory coarse crackles in bases 
+with milder rales in upper fields
+ABDOMEN: nondistended, +BS, nontender in all quadrants, no 
+rebound/guarding
+EXTREMITIES: no cyanosis, clubbing or edema, moving all 4 
+extremities with purpose  
+PULSES: 2+ DP pulses bilaterally  
+NEURO: A&O, face symmetric, MAE, gait not assessed
+SKIN: warm and well perfused, no excoriations or lesions, no 
+rashes 
+
+DISCHARGE EXAM:
+================
+VS: Tmax 98.3 Tc 97.4 BP 136/74 HR 84 ___ 85/RA 
+GENERAL: Elderly ___ woman in NAD
+HEENT: Nasal congestion. No sinus tenderness. No icterus or 
+injection. MMM, OP clear.
+HEART: RRR, no murmurs  
+LUNGS: NLB on 2.5L. Fine inspiratory crackles at bases. No 
+egophony or dullness to percussion.
+ABDOMEN: Soft, NDNT.
+GU: No suprapubic tenderness.
+EXTREMITIES: Warm, no clubbing, cyanosis or edema.
+NEURO: Normal mental status, strength, and coordination.
+SKIN: no rashes or lesions.
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+=================================
+___ 04:00AM BLOOD WBC-10.5* RBC-3.33* Hgb-11.1* Hct-32.9* 
+MCV-99* MCH-33.3* MCHC-33.7 RDW-13.2 RDWSD-48.2* Plt ___
+___ 04:00AM BLOOD Neuts-76.9* Lymphs-12.8* Monos-6.6 
+Eos-3.1 Baso-0.3 Im ___ AbsNeut-8.09*# AbsLymp-1.35 
+AbsMono-0.69 AbsEos-0.33 AbsBaso-0.03
+___ 04:00AM BLOOD ___ PTT-29.3 ___
+___ 04:00AM BLOOD Glucose-118* UreaN-9 Creat-0.7 Na-132* 
+K-3.3 Cl-97 HCO3-22 AnGap-16
+___ 04:10AM BLOOD Lactate-1.7
+___ 04:00AM BLOOD Osmolal-279
+
+PERTINENT INTERVAL LABS:
+=================================
+PROCALCITONIN  <0.10 ng/mL
+Diagnosis of lower respiratory tract infections:
+   <0.10 ng/mL: Bacterial infection very unlikely
+For more information on this test, go to
+___
+
+DISCHARGE LABS:
+=================================
+___ 08:20AM BLOOD WBC-7.5 RBC-3.44* Hgb-11.5 Hct-34.2 
+MCV-99* MCH-33.4* MCHC-33.6 RDW-12.7 RDWSD-46.1 Plt ___
+___ 08:20AM BLOOD Neuts-62.3 ___ Monos-9.8 Eos-0.3* 
+Baso-0.4 Im ___ AbsNeut-4.66 AbsLymp-2.00 AbsMono-0.73 
+AbsEos-0.02* AbsBaso-0.03
+___ 08:20AM BLOOD Glucose-115* UreaN-16 Creat-0.6 Na-138 
+K-4.0 Cl-100 HCO3-24 AnGap-18
+___ 08:20AM BLOOD Calcium-9.4 Phos-4.4 Mg-2.4
+
+MICRO:
+==================================
+Influenza PCR - declined by patient
+Respiratory Virus Screen - declined by patient
+__________________________________________________________
+___ 10:01 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 4:43 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+Time Taken Not Noted     Log-In Date/Time: ___ 6:14 am
+      URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+__________________________________________________________
+___ 4:07 am BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+
+IMAGING & STUDIES
+=================================
+___  CXR (PA/LAT)
+Asymmetric retrocardiac opacity, may represent pneumonia 
+superimposed on mild progression of diffuse interstitial lung 
+disease, though difficult to evaluate due to reticular 
+opacities. 
+__________________________________________________________
+
+___ HIP XR RT
+No acute fracture or dislocation.
+__________________________________________________________
+
+___ CT CHEST W/O CONTRAST  
+  
+Mild interval progression of the fibrotic interstitial lung 
+disease with the radiological appearance of UIP. 
+  
+No superimposed airspace consolidation to suggest pneumonia. 
+  
+Please note that although there is no pulmonary parenchymal 
+evidence of and ILD flare, but the interval increase in size of 
+mediastinal lymph nodes suggests an increase in inflammatory 
+response (which anecdotally may be seen in the setting of an ILD 
+flare) 
+  
+Mild to moderate aortic valve calcifications suggest aortic 
+stenosis. Mild relative hypodensity of the blood pool suggesting 
+anemia. Both of these findings may result in shortness of 
+breath. 
+  
+Suspected pulmonary hypertension. 
+  
+5 mm nodule in the left upper lobe (302, 58) Is indeterminate 
+but new. This may represent a true pulmonary nodule or confluent 
+fibrosis. ___ CT chest in ___ months advised. 
+  
+RECOMMENDATION(S): For incidentally detected single solid 
+pulmonary nodule smaller than 6 mm, no CT ___ is 
+recommended in a low-risk patient, and an optional CT in 12 
+months is recommend in a high-risk patient. 
+
+ 
+Brief Hospital Course:
+___ year old woman with IPF on pirfenidone and intermittent home 
+O2, admitted for several days of fever, cough, and worsening 
+hypoxemia. Pulmonology was consulted and she was treated 
+empirically for possible CAP and IPF flare. Antibiotics were 
+discontinued when procalcitonin returned <0.10. At discharge she 
+was afebrile and clinically improving, though still with an 
+increased O2 requirement from baseline. Close PCP and ___ 
+___ were arranged.
+
+TRANSITIONAL ISSUES:
+=========================
+- Discharged on prednisone 40 mg x 7 days for possible IPF flare
+- Pirfenidone and all other medications were continued.
+- Consider outpatient TTE to eval for pulmonary hypertension.
+- PPI: Prescribed but not currently taking. GERD has been 
+hypothesized to contribute to IPF; would encourage use if 
+benefits outweigh risks.
+- Diarrhea: likely iatrogenic from stool softeners and/or abx. 
+Consider further workup if not improving.
+- Pulmonary nodule: radiology recommends f/u CT in ___ months
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. pirfenidone 801 mg oral TID 
+2. Zolpidem Tartrate 10 mg PO QHS:PRN insomnia 
+3. Multivitamins 1 TAB PO DAILY 
+4. Pantoprazole 20 mg PO Q24H 
+5. Albuterol Inhaler 2 PUFF IH Q6H 
+6. Cetirizine 10 mg PO DAILY 
+7. Benadryl Itch Cooling (diphenhydramine-zinc acetate) ___ % 
+topical BID 
+8. Loratadine 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+2.  PredniSONE 40 mg PO DAILY 
+RX *prednisone 20 mg 2 tablet(s) by mouth every morning Disp 
+#*14 Tablet Refills:*0 
+3.  Sodium Chloride Nasal ___ SPRY NU BID:PRN nasal congestion  
+4.  Albuterol Inhaler 2 PUFF IH Q6H  
+5.  Benadryl Itch Cooling (diphenhydramine-zinc acetate) ___ % 
+topical BID  
+6.  Cetirizine 10 mg PO DAILY  
+7.  Loratadine 10 mg PO DAILY  
+8.  Multivitamins 1 TAB PO DAILY  
+9.  Pantoprazole 20 mg PO Q24H  
+10.  pirfenidone 801 mg oral TID  
+11.  Zolpidem Tartrate 10 mg PO QHS:PRN insomnia  
+12.Home Oxygen
+Dx: Idiopathic pulmonary fibrosis (516.31 / J84.112)
+Length of Need: Lifelong
+Concentrator and Portable
+Via N/C
+3L on ambulation
+2L at rest
+
+Saturation
+At rest on RA: 83%
+Amb on RA: 74%
+Amb on O2: > 89%
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+======================
+Acute on chronic hypoxemic respiratory failure
+Idiopathic pulmonary fibrosis
+Possible viral pneumonitis
+
+SECONDARY DIAGNOSES
+=======================
+Iatrogenic diarrhea
+Gastroesophageal reflux disease
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure taking care of you at ___ 
+___.
+
+WHY YOU WERE ADMITTED:
+- You were having fevers and shortness of breath.
+
+WHAT WE DID WHILE YOU WERE HERE:
+- We did many tests to figure out the cause of your symptoms, 
+including blood tests and a CT scan.
+- We gave you antibiotics to treat a possible infection in your 
+lungs (pneumonia).
+- We also gave you a medicine (prednisone) to treat your lung 
+disease (IPF).
+
+WHAT TO DO WHEN YOU LEAVE THE HOSPITAL:
+
+* START taking these medications:
+- prednisone (steroid - 6 more days)
+
+We did not change any of your other medications.
+
+* Follow up with your primary care and lung doctors to make sure 
+you are getting better.
+
+* Don't hesitate to call your doctors ___ return to the hospital 
+if you notice any of the "Danger Signs" listed below.
+
+We wish you all the best!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

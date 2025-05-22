@@ -1,0 +1,121 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: SURGERY
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+___ abscess
+ 
+Major Surgical or Invasive Procedure:
+___ Incision & Drainage
+
+ 
+History of Present Illness:
+___ otherwise healthy with new onset Right ___ abscess
+x 5 days. Lesion started as a "pimple" that became larger, more
+swollen, and worsening tenderness over the last few days. There
+has been intermittent drainage of pus from the site. The patient
+denies any fevers/chills, but did endorse nausea last night. The
+patient had a similar abscess on his left lateral thigh last
+year, which was treated with I&D and antibiotics.
+
+ 
+Past Medical History:
+none
+
+ 
+Social History:
+___
+Family History:
+non-contributory
+ 
+Physical Exam:
+V/S: T 98 P 88 BP 140/88 RR 18 O2 98RA
+GEN: NAD, AOx3
+CV: RRR
+Lungs: CTAB
+ABD: soft, NT/ND
+Right Buttock: 2x3 cm ___ collection that is erythematous
+and tender to palpation, minimal drainage of cloudy liquid from
+the site, does not appear to communicate with the rectum on DRE.
+EXT: warm, well perfused
+
+ 
+Pertinent Results:
+___ 07:10AM BLOOD WBC-8.0 RBC-4.96 Hgb-15.3 Hct-43.9 MCV-89 
+MCH-30.8 MCHC-34.9 RDW-12.7 Plt ___
+___ 12:00PM BLOOD WBC-8.5 RBC-4.78 Hgb-15.0 Hct-42.0 MCV-88 
+MCH-31.4 MCHC-35.7* RDW-13.0 Plt ___
+___ 09:30PM BLOOD Na-138 K-3.8 Cl-100
+___ 12:00PM BLOOD Glucose-114* UreaN-15 Creat-1.0 Na-137 
+K-7.7* Cl-102 HCO3-27 AnGap-16
+ 
+Brief Hospital Course:
+Mr. ___ presented to the ED with worsening tenderness over 
+his R ___ abscess. He underwent an incision and drainage 
+in the ED for an approximately 2.5x2cm abscess. The wound was 
+packed wet to dry. There was initially concern for bleeding and 
+he was admitted to the ACS service overnight to monitor his 
+hematocrit. It remained stable the next day (42->43.9). He was 
+started on Bactrim because a prior abscess in the region had 
+grown MRSA sensitive to Bactrim. His dressing was removed and a 
+dry gauze was placed over his wound. He was ready for discharge 
+to home on ___, with instructions for daily dressing 
+changes. 
+ 
+Medications on Admission:
+multivitamin
+ 
+Discharge Medications:
+1. oxycodone 5 mg Tablet Sig: ___ Tablets PO Q4H (every 4 hours) 
+as needed for pain. Disp:*40 Tablet(s)* Refills:*0*
+2. sulfamethoxazole-trimethoprim 800-160 mg Tablet Sig: One (1) 
+Tablet PO BID (2 times a day) for 6 days. Disp:*12 Tablet(s)* 
+Refills:*0*
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+perianal abscess
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the ___ surgery service for ___ 
+abscess.
+ 
+General Discharge Instructions:
+Please resume all regular home medications, unless specifically 
+advised not to take a particular medication.  Please take any 
+new medications as prescribed.
+Please take the prescribed analgesic medications as needed.  You 
+may not drive or heavy machinery while taking narcotic analgesic 
+medications.  You may also take acetaminophen (Tylenol) as 
+directed, but do not exceed 4000 mg in one day.
+
+Please also follow-up with your primary care physician.
+ 
+Incision Care:
+*Please call your surgeon or go to the emergency department if 
+you have increased pain, swelling, redness, or drainage from the 
+incision site.
+*Please change dressings over your ___ would once a day 
+with dry gauze and tape over the incision. 
+ 
+Followup Instructions:
+___

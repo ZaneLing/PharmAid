@@ -1,0 +1,236 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+There were no major surgical or invasive procedures during 
+hospitalization. 
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ lady with a PMH notable for 
+dementia, blindness, CKD, and hypertension, who presented to the 
+___ office for evaluation of cough and dyspnea with activity. 
+She was sent to the ED due to concern for pneumonia.  
+ 
+Given the patient's dementia, the history was obtained from the 
+patient's daughter. The patient started feeling ill about a few 
+weeks ago when she had a sore throat and congestion. The 
+symptoms improved, but ever since then, she has been eating less 
+and appeared more fatigued. She also had a cough and some 
+dyspnea. Because of these concerns, she went to see her PCP. 
+During the episodic visit, she was found to be somnolent with 
+abnormal lung exam. She was sent to the ED for evaluation.  
+ 
+In the ___ ED, she was diagnosed with a left lower lobe 
+pneumonia on chest x-ray. She was given ceftriaxone and 
+azithromycin and admitted to the medicine service.  
+
+On arrival to the floor, patient reports feeling ok, though she 
+was unable to provide any history or participate in a full 
+review of systems, which was obtained through her daughter, with 
+whom she lives.
+ 
+Past Medical History:
+- Dementia  
+- CKD  
+- Hypertension  
+- Hypercholesterolemia  
+- Blindness, since childhood 
+ 
+Social History:
+___
+Family History:
+Non-contributory. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+=======================
+Vital Signs: T 100.0, BP 141/68, HR 94, RR 24, SAT 95% RA  
+General: Alert, not oriented to place or time, no acute distress 
+ 
+HEENT: Sclerae anicteric, MMM, oropharynx clear, wearing dark 
+sunglasses, patient is blind, neck supple, JVP not elevated  
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops  
+Lungs: Clear to auscultation bilaterally, normal work of 
+breathing  
+Abdomen: Soft, non-tender, non-distended   
+Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+Neuro: Grossly nonfocal  
+
+DISCHARGE PHYSICAL EXAM
+=======================
+Vitals: 98.6, 133/77, 89, 22, 94% on RA. 
+General: Alert, oriented to self.  
+HEENT: Sclerae anicteric, MMM, oropharynx clear.
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs.  
+Lungs: Clear to auscultation, no wheezing.  
+Abdomen: Soft, non-tender, non-distended  
+Ext: Warm, well perfused, no lower extremity edema. 
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 09:43PM BLOOD WBC-11.9* RBC-3.60* Hgb-10.9* Hct-33.7* 
+MCV-94 MCH-30.3 MCHC-32.3 RDW-12.8 RDWSD-44.2 Plt ___
+___ 09:43PM BLOOD Neuts-55.2 ___ Monos-10.6 
+Eos-0.8* Baso-0.8 Im ___ AbsNeut-6.55*# AbsLymp-3.80* 
+AbsMono-1.26* AbsEos-0.09 AbsBaso-0.09*
+___ 09:43PM BLOOD Glucose-105* UreaN-21* Creat-1.3* Na-135 
+K-4.8 Cl-99 HCO3-23 AnGap-18
+___ 09:43PM BLOOD Calcium-8.8 Phos-3.2 Mg-2.5
+___ 10:01PM BLOOD Lactate-0.9
+
+DISCHARGE LABS
+==============
+___ 05:40AM BLOOD WBC-10.2* RBC-3.58* Hgb-11.1* Hct-33.9* 
+MCV-95 MCH-31.0 MCHC-32.7 RDW-13.0 RDWSD-45.0 Plt ___
+___ 05:40AM BLOOD Glucose-92 UreaN-18 Creat-1.3* Na-134 
+K-4.1 Cl-97 HCO3-25 AnGap-16
+___ 05:40AM BLOOD Calcium-8.6 Phos-3.0 Mg-2.3
+
+MICROBIOLOGY
+============
+___: BLOOD CULTURE X 2: PENDING.
+___ 8:22 am URINE      Source: ___. 
+                            **FINAL REPORT ___
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+
+IMAGING
+=======
+___: CHEST X-RAY (PA AND LATERAL)
+FINDINGS: 
+New opacity is identified in the left lower lobe.  Enlarged 
+cardiomediastinal silhouette is similar to before.  There is no 
+pneumothorax or pleural effusion. Dextroscoliosis of the 
+thoracic spine is noted.
+ 
+IMPRESSION: 
+New left lower lobe opacity may be pneumonia.
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ lady with a PMH notable for 
+dementia, blindness, CKD, and hypertension, who presented with 
+anorexia and cough, found to have a pneumonia.
+
+# Community acquired pneumonia: presented with decreased PO 
+intake, sedation, with CXR showing pneumonia. She was treated 
+with ceftriaxone and azithromycin during hospitalization. After 
+receiving two doses of ceftriaxone and azithromycin, she 
+significantly improved. Her appetite increased and she was able 
+to ambulate the hallway on room air. After discussion with 
+family, family believed Ms. ___ was back to her baseline 
+and agreed with discharge home. She was discharged with an 
+additional 5 days of levofloxacin at the time of discharge.
+
+She was continued on benzonatate and guaifenesin for cough 
+suppression. 
+
+# Hypertension: Continued labetalol 100 mg PO BID and amlodipine 
+5 mg PO daily.
+
+# History of Blindness: Ms. ___ may benefit from use of 
+melatonin as an outpatient given history of sundowning with her 
+history of blindness. 
+
+TRANSITIONAL ISSUES
+===================
+[] Please repeat CXR as an outpatient in 6 weeks to assess for 
+resolution of new left lower lobe opacity. 
+[] Please continue levofloxacin with end date ___ 
+(500 mg EVERY OTHER DAY, take on ___. 
+[] Consider use of melatonin for sleep given patient's 
+blindness.
+[] Contact Information: ___ (daughter, ___  
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. amLODIPine 5 mg PO DAILY 
+2. Furosemide 20 mg PO DAILY:PRN ankle swelling 
+3. Labetalol 100 mg PO BID 
+4. Aspirin 81 mg PO DAILY 
+5. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild 
+6. Aspercreme (trolamine salicylate) 10 % topical DAILY:PRN 
+
+ 
+Discharge Medications:
+1.  Benzonatate 100 mg PO TID:PRN cough 
+RX *benzonatate 100 mg 1 capsule(s) by mouth three times a day 
+Disp #*28 Capsule Refills:*0 
+2.  GuaiFENesin ER 600 mg PO Q12H 
+RX *guaifenesin 600 mg 1 tablet(s) by mouth every twelve (12) 
+hours Disp #*28 Tablet Refills:*0 
+3.  Levofloxacin 500 mg PO Q48H 
+RX *levofloxacin 500 mg 1 tablet(s) by mouth EVERY OTHER DAY 
+Disp #*3 Tablet Refills:*0 
+4.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
+5.  amLODIPine 5 mg PO DAILY  
+6.  Aspercreme (trolamine salicylate) 10 % topical DAILY:PRN  
+7.  Aspirin 81 mg PO DAILY  
+8.  Furosemide 20 mg PO DAILY:PRN ankle swelling  
+9.  Labetalol 100 mg PO BID  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+=================
+-Community Acquired Pneumonia
+-Dementia
+-CKD
+-Hypertension
+-Blindness
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Confused - sometimes.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+You were admitted to ___ due to 
+shortness of breath. You were diagnosed with a pneumonia. You 
+were treated with intravenous antibiotics which were 
+transitioned to oral antibiotics.
+
+Please take levofloxacin 500 milligrams by mouth EVERY OTHER 
+DAY. Please take on ___. 
+
+You will require a repeat chest x-ray in 6 weeks to ensure 
+resolution of the pneumonia.
+
+Please follow up with your primary care physician within one 
+week of discharge from the hospital.
+
+It was a pleasure taking care of your during your 
+hospitalization! We wish you all the best!
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

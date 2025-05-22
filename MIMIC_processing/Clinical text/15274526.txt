@@ -1,0 +1,283 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+PCP:  ___
+CHIEF COMPLAINT:  Chest pain
+
+ 
+Major Surgical or Invasive Procedure:
+___ Cardiac Catheterization with 1 DES to LAD
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ with a PMHx notable for tobacco abuse, HCV 
+(s/p treatment), who is presenting with sudden onset chest pain. 
+
+
+Patient reports that symptoms started around 630PM today while 
+lying in bed. The pain was tight and intermittent, but then 
+became constant. He presented to ___ where he was found 
+to have prominent T wave in early precordial leads and was sent 
+to ___ for further management. Of note, at the OSH, his 
+D-Dimer was negative. He was placed on a heparin gtt and a nitro 
+gtt and was transferred to ___ for further evaluation. 
+
+ED COURSE
+In the ED intial vitals were: 97.8 60 126/81 16 99% RA.
+EKG: incomplete RBBB with PAC's. <1mm STE V2-V3
+Labs/studies notable for: Trop-T 0.12 (22:50) -> 0.34 (02:58) -> 
+0.36 (09:04) -> 0.29 (1500)
+Patient was given: nitroglycerin drip, heparin drip, 
+atorvastatin 80 mg.
+Vitals on transfer: 
+
+The patient was sent directly to the catheterization lab, where 
+he was found to have a tight mid-LAD lesion, which was fixed 
+with a DES. Plans were reported for him to have his tirofiban 
+stopped 2 hours after arrival to the floor and for him to start 
+ticagrelor next day 90mg BID. It was not documented if the 
+ticagrelor was loaded in the lab so it was reloaded the 
+following day 180mg. 
+
+Currently, patient feels very good without any current chest 
+pain, shortness of breath or palpitations. Denies any nausea, 
+vomiting, abdominal pain. 
+
+REVIEW OF SYSTEMS: Per HPI, otherwise negative
+
+ 
+Past Medical History:
+- HCV (s/p Interferon/Ribavirin in ___, cured. Acquired from 
+prison tattoos)
+- Tobacco abuse
+- Hx of drug abuse (cocaine, EtoH)
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death; otherwise non-contributory.  Has a brother 
+and sister who are healthy without cardiac disease. 
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+================================
+VS: 97.9 109/64 65 15 98% on RA
+Weight: 85.8 kg
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple with JVP flat
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills, lifts. 
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: Multiple tattoos on his chest and arms
+PULSES:  Distal pulses palpable and symmetric
+ACCESS: PIV and right radial line
+
+DISCHARGE PHYSICAL EXAM:
+================================
+Vitals:  97.9 ___ 90-112/50-60
+Tele: no alarms, NSR
+Last 24 hours I/O: 300/800
+Last 8 hours I/O:  114/300
+Weight on admission: 85.8
+Today's weight: 85.8
+GENERAL: NAD. Oriented x3. Mood, affect appropriate.  
+HEENT: NCAT. Sclera anicteric. PERRL, EOMI. Conjunctiva were 
+pink, no pallor or cyanosis of the oral mucosa. No xanthelasma.  
+
+NECK: Supple with JVP flat
+CARDIAC: RRR, normal S1, S2. No murmurs/rubs/gallops. No 
+thrills, lifts. 
+LUNGS: No chest wall deformities, scoliosis or kyphosis. Resp 
+were unlabored, no accessory muscle use. No crackles, wheezes or 
+rhonchi.  
+ABDOMEN: Soft, NTND. No HSM or tenderness.  
+EXTREMITIES: No c/c/e. No femoral bruits.  
+SKIN: Multiple tattoos on his chest and arms
+PULSES:  Distal pulses palpable and symmetric
+ 
+Pertinent Results:
+ADMISSION LABS:
+=========================
+___ 10:50PM BLOOD WBC-9.6 RBC-4.36* Hgb-14.3 Hct-40.8 
+MCV-94 MCH-32.8* MCHC-35.0 RDW-12.7 RDWSD-43.6 Plt ___
+___ 10:50PM BLOOD Neuts-59.9 ___ Monos-5.3 Eos-2.3 
+Baso-0.5 Im ___ AbsNeut-5.77 AbsLymp-3.04 AbsMono-0.51 
+AbsEos-0.22 AbsBaso-0.05
+___ 11:04PM BLOOD ___ PTT-150* ___
+___ 10:50PM BLOOD Glucose-104* UreaN-12 Creat-0.9 Na-138 
+K-3.9 Cl-106 HCO3-21* AnGap-15
+___ 10:50PM BLOOD cTropnT-0.12*
+___ 10:50PM BLOOD CK-MB-10 MB Indx-5.0
+___ 07:27AM BLOOD Calcium-8.6 Phos-3.5 Mg-1.9 
+
+TROPONIN TREND: 
+=========================
+___ 10:50PM BLOOD cTropnT-0.12*
+___ 02:58AM BLOOD CK-MB-18* cTropnT-0.34*
+___ 09:04AM BLOOD CK-MB-20* cTropnT-0.36*
+___ 03:00PM BLOOD CK-MB-16* cTropnT-0.29*
+___ 07:27AM BLOOD cTropnT-0.18*
+
+OTHER LABS:
+=========================
+___ 07:27AM BLOOD Triglyc-96 HDL-37 CHOL/HD-4.2 LDLcalc-100
+___ 07:27AM BLOOD %HbA1c-5.5 eAG-111
+
+IMAGING/STUDIES:
+=========================
+# EKG:  Incomplete RBBB with PAC's. <1mm STE V2-V3
+
+# 2D-ECHOCARDIOGRAM (___):  The left atrium is elongated. 
+Left ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). Right ventricular 
+chamber size and free wall motion are normal. The diameters of 
+aorta at the sinus, ascending and arch levels are normal. The 
+aortic valve leaflets (3) appear structurally normal with good 
+leaflet excursion and no aortic stenosis or aortic 
+regurgitation. The mitral valve appears structurally normal with 
+trivial mitral regurgitation. The pulmonary artery systolic 
+pressure could not be determined. There is no pericardial 
+effusion. IMPRESSION: Normal global and regional biventricular 
+systolic function.  
+
+# CARDIAC CATH (___): Tight mid-LAD lesion s/p DES. 
+Coronary Anatomy
+Dominance: Right
+The LMCA had no angiographically apparent CAD. The LAD had 
+proximal ulcerated, 70% stenosis.with normal flow. The Cx had 
+mild luminal irregularities. The RCA had mild luminal 
+irregularities.
+
+Interventional Details
+Percutaneous Coronary Intervention: Percutaneous coronary 
+intervention (PCI) was performed on an adhoc basis based on the 
+coronary angiographic findings from the diagnostic portion of 
+this procedure.
+
+Percutaneous Coronary Intervention: A 6 ___ XBLAD3.5 guiding 
+catheter was used to engage the LMCA and provided good support. 
+A 180 cm Prowater guidewire was then successfully delivered 
+across the lesion. Predilated with a 2.0 mm balloon. Deployed a 
+3.25 x 12 mm Xience stent that was postdilated to 3.5 mm. Final 
+angiography revealed normal flow, no dissection and 0% residual 
+stenosis.
+
+# HEAD CT (___): No acute intracranial process.
+
+DISCHARGE LABS:
+=========================
+___ 07:27AM BLOOD WBC-8.3 RBC-4.32* Hgb-13.8 Hct-40.6 
+MCV-94 MCH-31.9 MCHC-34.0 RDW-12.6 RDWSD-43.9 Plt ___
+___ 07:27AM BLOOD Plt ___
+___ 07:27AM BLOOD Glucose-95 UreaN-10 Creat-1.0 Na-142 
+K-4.0 Cl-108 HCO3-28 AnGap-10
+___ 07:27AM BLOOD Calcium-8.6 Phos-3.5 Mg-1.___RIEF ___ STATEMENT:
+============================
+___ with a h/o tobacco abuse and HCV (s/p treatment), who 
+presented with sudden onset of chest pain, found to have an 
+NSTEMI, s/p DES x1 to the LAD. He received a heparin gtt 
+initially, which was discontinued after the procedure. He 
+received Tirofiqan in the lab and was loaded with ticgrelor and 
+started on 90mg BID. He was not taking any medications at home, 
+and was started on ASA 81 mg daily, Atorva 80 mg daily, 
+Ticagrelor 90 mg BID, Metoprolol 12.5 mg BID. At time of 
+discharge, he was chest pain free and ambulating without 
+assistance.
+
+TRANSITIONAL ISSUES:
+============================
+Discharge Weight: 85.8
+Discharge Cr 1.0
+
+# MEDICATIONS: New medications include Aspirin 81mg daily, 
+Ticagrelol 90mg BID, Atorvastatin 80mg daily, and Metoprolol 
+12.5 BID. Please ensure medication adherence and consider 
+switching Metoprolol to XL 25mg daily as an outpatient.
+# ___: Patient was referred to cardiac physical therapy
+# SMOKING CESSATION: Patient was counseled on smoking cessation 
+and was contemplative of quitting. He received nicotine gum. 
+Please continue discussions as an outpatient.
+ 
+Medications on Admission:
+None
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+IT IS VERY IMPORTANT THAT YOU TAKE THIS EVERY DAY. 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*0
+2. Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*3
+3. TiCAGRELOR 90 mg PO BID 
+IT IS VERY IMPORTANT THAT YOU TAKE THIS EVERY DAY. 
+RX *ticagrelor [BRILINTA] 90 mg 1 tablet(s) by mouth twice a day 
+Disp #*60 Tablet Refills:*3
+4. Nicotine Polacrilex 2 mg PO Q1H:PRN cigarette cravings 
+RX *nicotine (polacrilex) 2 mg  q1-2 hours Disp #*10 Gum 
+Refills:*4
+5. Metoprolol Tartrate 12.5 mg PO BID 
+RX *metoprolol tartrate 25 mg 0.5 (One half) tablet(s) by mouth 
+twice a day Disp #*60 Tablet Refills:*3
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY: Acute coronary syndrome 
+SECONDARY: Tobacco abuse
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you. You were admitted to ___ 
+for chest pain, which was caused by a heart attack. While you 
+were here, you received a cardiac cath, and had a stent placed 
+in a blocked vessel in your heart. You were monitored overnight, 
+and did very well.
+
+When you leave the hospital, it will be very important that you 
+take all of your medications as prescribed, especially your 
+ASPIRIN and BRILINTA (AKA- TICAGRELOR). You need to take these 
+meds every day to prevent your stent from clotting. If you skip 
+any doses of ticagrelor, you risk having a massive heart attack 
+and death.
+
+It will also be important that you attend all of your follow-up 
+appointments, which are listed below. You should see Dr. ___ 
+___ cardiologist who took care of you here) at ___.
+
+We wish you all the best in the future.
+
+Sincerely,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

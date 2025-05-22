@@ -1,0 +1,225 @@
+Name:  ___                     Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+amoxicillin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Abdominal pain, fever, transaminitis
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with history of HTN, HLD, s/p ___ ___ who presents from 
+___ with transaminitis, fever, abdominal pain, URI 
+symptoms. Patient was in usual state of health until 5 days ago 
+when he developed "flu-like symptoms." He has fevers, chills, 
+cough, runny nose, nausea. He had 2 episodes of sharp epigastric 
+abdominal pain that reminded him of the pain he had prior to 
+having his gallbladder removed. He went to his PCP's office who 
+thought he was mildly jaundiced and checked labs which were 
+notable for elevated LFTs (ALT 159, AST 143, Tbili 1.6, dbili 
+0.7, AP 79). He was referred to ___ for further 
+evaluation. At ___, patient had temperature to 101. CXR 
+negative for acute process. CT A/P also without acute process. 
+Given elevated LFTs, abdominal pain and fever there was concern 
+for biliary infection and patient was given a dose of 
+cipro/flagyl and transferred to ___ for possible ERCP.
+
+In the ___ ___, CT scan from ___ was reviewed with radiology 
+and showed no CBD dilation, no intrahepatic dilation or 
+pancreatic cysts or fluid per report. AST/ALT elevation 
+consistent with OSH but tbili normal. There was felt to be no 
+indication for ERCP based on these findings. Patient admitted 
+for further evaluation.
+
+On arrival, patient reports some low grade nausea but abdominal 
+pain has improved. He feels much better and denies fever, 
+chills, SOB, diarrhea, dysuria. He feels that he still has chest 
+congestion but overall improved.
+
+ROS: Per HPI, otherwise 10 point ROS negative
+ 
+Past Medical History:
+HTN
+HLD
+S/p ___ in ___ ___
+GERD
+ 
+Social History:
+___
+Family History:
+Mother passed of heart disease. Father died of lung cancer.
+ 
+Physical Exam:
+Admission exam:
+98.7PO 131 / 72 96 18 95 RA 
+GEN: Well appearing male sitting in bed in NAD
+HEENT: PERRL, sclera anicteric, MMM
+CV: RRR, no MRG
+Lungs: CTAB no wheezes or rales
+ABD: Soft, NT, ND, +BS
+Extrem: Warm, well perfused, no edema
+Neuro: A&O x3, non-focal
+Psych: Full range of affect
+Skin: No rashes
+
+Discharge exam:
+T97.9 BP 112/66 P93 RR16 O2 sat 95%RA
+GEN: Well appearing male sitting in bed in NAD
+HEENT: PERRL, sclera anicteric, MMM
+CV: RRR, no MRG
+Lungs: CTAB no wheezes or rales
+ABD: Soft, NT, ND, +BS
+Extrem: Warm, well perfused, no edema
+Neuro: A&O x3, non-focal
+Psych: Full range of affect
+Skin: No rashes
+ 
+Pertinent Results:
+___ 01:43AM BLOOD WBC-7.2 RBC-4.25* Hgb-12.8* Hct-38.6* 
+MCV-91 MCH-30.1 MCHC-33.2 RDW-13.1 RDWSD-43.3 Plt ___
+___ 01:43AM BLOOD Neuts-76.6* Lymphs-14.2* Monos-8.3 
+Eos-0.1* Baso-0.4 Im ___ AbsNeut-5.53 AbsLymp-1.03* 
+AbsMono-0.60 AbsEos-0.01* AbsBaso-0.03
+___ 01:43AM BLOOD ___ PTT-30.1 ___
+___ 01:43AM BLOOD Glucose-123* UreaN-15 Creat-1.0 Na-137 
+K-3.7 Cl-100 HCO3-25 AnGap-16
+___ 01:43AM BLOOD ALT-151* AST-120* LD(LDH)-249 AlkPhos-83 
+TotBili-0.9 DirBili-0.4* IndBili-0.5
+___ 01:43AM BLOOD Albumin-3.8 Calcium-8.9 Phos-2.2* Mg-2.4
+___ 01:49AM BLOOD Lactate-1.___/P:
+1. No acute abnormality
+2. Fatty liver infiltrate
+3. No pancreatic abnormality
+4. S/p ___
+
+___ CXR:
+No acute abnormality
+___ 06:35AM BLOOD WBC-8.4 RBC-4.38* Hgb-12.8* Hct-39.5* 
+MCV-90 MCH-29.2 MCHC-32.4 RDW-12.9 RDWSD-42.7 Plt ___
+___ 06:35AM BLOOD Glucose-103* UreaN-15 Creat-1.0 Na-141 
+K-4.1 Cl-102 HCO3-30 AnGap-13
+___ 06:35AM BLOOD ALT-146* AST-94* AlkPhos-81 TotBili-0.6
+___ 06:35AM BLOOD Calcium-8.9 Phos-3.4 Mg-2.6
+___ 01:43AM BLOOD HBsAg-Negative HBsAb-Negative 
+HBcAb-NEGATIVE
+___ 01:43AM BLOOD HCV Ab-Negative
+___ 01:49AM BLOOD Lactate-1.2
+
+Discharge Labs:
+
+___ 06:35AM BLOOD WBC-8.4 RBC-4.38* Hgb-12.8* Hct-39.5* 
+MCV-90 MCH-29.2 MCHC-32.4 RDW-12.9 RDWSD-42.7 Plt ___
+___ 06:35AM BLOOD Glucose-103* UreaN-15 Creat-1.0 Na-141 
+K-4.1 Cl-102 HCO3-30 AnGap-13
+___ 06:35AM BLOOD ALT-146* AST-94* AlkPhos-81 TotBili-0.6
+___ 06:35AM BLOOD Calcium-8.9 Phos-3.4 Mg-2.6
+___ 01:43AM BLOOD HBsAg-Negative HBsAb-Negative 
+HBcAb-NEGATIVE
+___ 01:43AM BLOOD HCV Ab-Negative
+ 
+Brief Hospital Course:
+___ with history of HTN, HLD, s/p ___ ___ who presents from 
+___ with transaminitis, fever, abdominal pain, URI 
+symptoms. 
+
+# Transaminitis/Acute liver injury: Patient found to have 
+elevated AST/ALT and minimally elevated tbili on outpatient labs 
+in setting of abdominal pain, fevers, URI symptoms. Baseline 
+normal LFTs in ___. In the setting of fever and abdominal 
+pain, there was concern for cholangitis, however patient without 
+leukocytosis, abdominal pain now resolved and CT A/P negative 
+for signs of biliary obstruction or infection. Has URI symptoms 
+so may have viral related hepatitis. Monospot negative. Drug 
+related liver injury is possible. Only recent new med was 
+gemfibrozil which can cause liver injury however was started 
+last ___ so timing seems delayed. CT showed fatty infiltrate 
+but given acute elevation less likely related. Received 
+cipro/flagyl in ___ which were then stopped given lower suspicion 
+for cholangitis and suspect viral URI. LFTs downtrended with 
+supportive care. Will need LFTs rechecked at outpatient follow 
+up. 
+
+# ?Melena: patient c/o black stools on AM of discharge. Stool 
+was guaiac negative and HCT remained stable while in patient.
+
+# Fever: Patient endorses URI symptoms and cough that felt like 
+the flu, now resolving. Likely viral URI/bronchitis. Monospot 
+negative. CXR negative for pneumonia. UA negative. Lower 
+suspicion for cholangitis as above. 101 at ___, Tmax at ___ 
+100.6. Received cipro/flagyl in ___ which were then stopped and 
+patient remained afebrile.  Blood cultures were negative at time 
+of discharge.
+
+# Abdominal Pain/Nausea: Patient had 2 transient episodes of 
+sharp epigastric pain associated with nausea that reminded him 
+of his prior pain prior to having his gallbladder removed. Pain 
+now resolved, nausea improved. Lipase normal. CT A/P 
+unremarkable. Possible gastritis v PUD. Continued home PPI.
+
+# HLD: Hold atorvastatin, gemfibrozil given liver injury
+
+# HTN: Continue atenolol
+
+TRANSITIONAL ISSUES:
+- Please recheck LFTs at f/u appointment.
+- restart Atorvastatin, gemfibozil when LFTs normalize
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 25 mg PO DAILY 
+2. Omeprazole 20 mg PO BID 
+3. Aspirin 81 mg PO DAILY 
+4. Finasteride 1 mg PO QHS 
+5. Gemfibrozil 600 mg PO QHS 
+6. PARoxetine 10 mg PO DAILY 
+7. Atorvastatin 10 mg PO QPM 
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+2. Atenolol 25 mg PO DAILY 
+3. Finasteride 1 mg PO QHS 
+4. Omeprazole 20 mg PO BID 
+5. PARoxetine 10 mg PO DAILY 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Transaminitis
+Fever
+Viral URI
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted with fever, abdominal pain, upper respiratory 
+tract symptoms and elevated liver tests most consistent with a 
+viral infection. Your symptoms improved with supportive care and 
+your antibiotics were stopped. You can continue to take Tylenol 
+as needed for fever, but if your fevers worsen (greater than 
+101) or you have worsening upset stomach, nausea or vomiting you 
+should be re-evaluated by a Physician.  It was a pleasure caring 
+for you and we wish you a speedy recovery!
+ 
+Followup Instructions:
+___

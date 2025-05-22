@@ -1,0 +1,358 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Penicillins
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Jaw claudication
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: The patient is a ___ male w/PMHx significant anxiety and
+depression presenting with several days of jaw claudication.  
+The
+patient was in his usual state of health until several weeks ago
+when he began to develop a bit of left posterior neck 
+discomfort.
+He attributed this to his head positioning when working on his
+computer (with his head turned just slightly to the right).  
+With
+acetaminophen and Aleve, this pain had been improving, and he 
+had
+discussed it with his psychiatrist Dr. ___, which
+seemed to help.  He also began to notice a little bit of
+discomfort over his left temple, and on his left lower jaw.  He
+attributed these pains to the left neck pain that he had
+developed.  The left neck pain also seemed to improve with a
+muscle rub.
+
+Then, in the last few days he developed symptoms of a common 
+cold
+(dry cough, sore throat, nasal congestion).  He denies any
+fevers, chills, sweats, myalgias, shortness of breath, or chest
+pain.  He denies sick contacts, and did not receive the flu shot
+this year.  As the symptoms evolved, he was somewhat more
+bothered by the discomfort on his left temple, and begin to rub
+the area, initially noting no abnormalities there, however with
+more rubbing noted a bit of a "bump."  At that point the rubbing
+began to hurt more than help.  He noted that it does hurt in 
+that
+area when eating, he denies any visual changes.  He does note a
+bit of bilateral shoulder discomfort, although no obvious
+weakness.  He did some searching on the Internet, and learned
+about temporal arteritis, and became somewhat concerned about
+this, so came into the hospital.
+
+When asked what he is most worried about, specifically in 
+regards
+to his health, he begins by talking about his living situation
+and his roommate.  His roommate, ___, is a ___ man 
+whom
+he has known for at least ___ years.  He has lived with them for
+the last ___ years, and within the last year ___ health has
+worsened, he has had some falls, and he has been sick.  Mr.
+___ is found this stressful, and feels a sense of
+responsibility to help care for this man, as he does not have a
+lot of ___ people involved in his care.  They share an
+apartment in an apartment complex.  Patient also notes that he
+has struggled with depression anxiety for quite some time, and
+has actually been on disability for the last ___ years because of
+this.  He used to live with his parents, however they passed 
+away
+approximately ___ years ago.  His prior work was for a ___ in a ___.  He used to be on higher doses of
+medications for depression and anxiety, and "tranquilizers", as
+well as Adderall.  Then he met Dr. ___ psychiatrist, 
+who
+he sees monthly, and has been doing okay.  He rarely needs to
+take his clonazepam, last dose was yesterday, but prior to that
+had been 6 months earlier, in preparation for a doctor's
+appointment.  He acknowledges that at the moment he is fairly
+anxious.
+
+In the ED: He was swabbed for influenza, which was negative,
+blood testing and imaging were unremarkable, but he was noted to
+have an elevated WBC and lactate, and was quite tachycardic (160
+on triage).  There was some concern for sepsis, thought likely
+due to a viral syndrome, and he was given IV fluids. He was also
+given cefepime for unclear reasons, as well as prednisone 60 mg
+(presumably for empiric treatment for temporal arteritis), as
+well as aspirin 324 mg p.o.  A repeat lactate was normal,
+troponins were normal, his heart rate improved, and an
+echocardiogram in the ED was negative for pericardial effusion. 
+He was admitted for evaluation and treatment.
+
+ROS: [x] As per above HPI, otherwise reviewed and negative in 
+all
+systems
+
+Primary Care Provider: ___, MD
+
+___ providers: 
+Dr. ___, Psychiatry
+Dr. ___, ___, in ___ (for
+the Androgel)
+
+ 
+Past Medical History:
+PMHx:
+Anxiety
+Depression
+Hyperhidrosis
+Hypogonadism
+Irritable bowel syndrome
+Obsessive-compulsive disorder
+Osteoporosis of the spine, osteopenia of the hips
+Vitamin D insufficiency
+Hyperlipidemia
+Insomnia
+Chronic constipation
+
+PSHx:
+Deviated septum surgery in ___
+Denies ___ procedures
+ 
+Social History:
+___
+Family History:
+FHx:
+Maternal grandmother died at age ___, used sublingual
+nitroglycerin occasionally.  Father died of lung cancer
+approximately ___ years ago.  Mother died with multiple sclerosis
+approximately ___ years ago.
+
+ 
+Physical Exam:
+Admission Physical Exam:
+T 98.9, BP 123/79, HR 111, RR 18, O2 sat 97% on room air.  
+Review
+of heart rates in web OMR spanning back approximately ___ years
+shows rates ranging from 76-120, with 3 out of 10 values greater
+than 110.  The dates of those 3 values correspond with 3
+outpatient clinic visits, one for a cerumen impaction, one for 
+an
+annual wellness visit, and one for a follow-up visit.
+Middle-aged man lying in bed, alert, cooperative, NAD, although
+he is somewhat diaphoretic and pale appearing.  Anicteric, MMM,
+PERRL.  Upon palpation of his bilateral temporal regions, he has
+no obvious lesions or bumps on the right side, the left side 
+does
+have a slightly raised area that is nontender, nonpulsatile, and
+feels slightly rubbery in consistency.  Equal chest rise, CTAB
+posteriorly, no WOB or cough.  Heart tachycardic, but regular, 
+no
+obvious murmurs.  Abdomen soft, NT ND.  Extremities slightly 
+cool
+but not cold, and no pitting edema.  No rashes noted on limited
+exam.  No obvious joint abnormalities.  Cranial nerves II-XII
+intact, strength bilaterally 5 out of 5, sensation to light 
+touch
+intact throughout, reflexes symmetric and 1+ bilaterally in the
+knees, and difficult to elicit in the biceps tendon.  Gait and
+___ neurological testing deferred.  Affect is slightly 
+anxious,
+although we are able to have a good conversation.
+
+Discharge Exam
+Vital Signs: 98.0PO 104 / 60 73 18 98 RA 
+Glucose: 90s-130s
+GEN: Alert, NAD, mildly anxious
+HEENT: NC/AT, PERRL, face symmetric, mild TTP over the L TMJ, no 
+pain on palpation of L temporal region, no swelling/masses in 
+the L temporal region
+CV: tachycardic, otherwise RRR, no m/r/g
+PULM: CTA B 
+GI: S/NT/ND, BS present
+EXT: no ___ or calf tenderness
+NEURO: Alert; EOMI; face symmetric; equal facial sensation 
+bilaterally; tongue midline; ___ strength in all 4 extremities
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 10:15PM BLOOD WBC-16.4*# RBC-5.15 Hgb-16.2 Hct-47.0 
+MCV-91 MCH-31.5 MCHC-34.5 RDW-12.6 RDWSD-42.4 Plt ___
+___ 10:15PM BLOOD Neuts-83.6* Lymphs-8.6* Monos-6.3 
+Eos-0.2* Baso-0.9 Im ___ AbsNeut-13.71* AbsLymp-1.41 
+AbsMono-1.03* AbsEos-0.03* AbsBaso-0.14*
+___ 10:15PM BLOOD ___ PTT-29.6 ___
+___ 10:15PM BLOOD Glucose-204* UreaN-13 Creat-0.9 Na-143 
+K-3.3 Cl-101 HCO3-22 AnGap-23*
+___ 10:15PM BLOOD ALT-17 AST-19 CK(CPK)-86 AlkPhos-112 
+TotBili-0.6
+___ 10:15PM BLOOD Albumin-4.8
+
+___ 10:15PM BLOOD cTropnT-<0.01
+___ 04:35AM BLOOD cTropnT-<0.01
+
+___ 10:57AM BLOOD %HbA1c-5.0 eAG-97
+
+___ 10:15PM BLOOD TSH-2.1
+
+___ 10:15PM BLOOD Cortsol-20.1*
+___ 04:35AM BLOOD Cortsol-3.6
+___ 09:55AM BLOOD Cortsol-1.6*
+
+___ 10:15PM BLOOD CRP-2.5
+
+___ 10:29PM BLOOD Lactate-4.6*
+___ 01:20AM BLOOD Lactate-2.0
+
+___ 09:55AM BLOOD SED RATE-6      
+
+___ 11:30PM URINE Color-Yellow Appear-Clear Sp ___
+___ 11:30PM URINE Blood-NEG Nitrite-NEG Protein-NEG 
+Glucose-100 Ketone-NEG Bilirub-NEG Urobiln-2* pH-7.0 Leuks-NEG
+
+___ 11:30PM ___ BODY FLUID FluAPCR-NEGATIVE 
+FluBPCR-NEGATIVE
+
+URINE CULTURE (Final ___:    NO GROWTH.
+
+BLOOD CX x 1 PENDING, NGTD
+
+CXR - IMPRESSION: No acute cardiopulmonary process.
+
+DISCHARGE LABS:
+___ 07:40AM BLOOD WBC-8.8 RBC-4.33* Hgb-13.3* Hct-40.5 
+MCV-94 MCH-30.7 MCHC-32.8 RDW-12.9 RDWSD-44.2 Plt ___
+___ 07:40AM BLOOD Glucose-99 UreaN-17 Creat-0.6 Na-145 
+K-3.6 Cl-110* HCO3-26 AnGap-___ man with past medical history of significant 
+anxiety, depression, hyperhidrosis, hypogonadism, 
+obsessive-compulsive disorder, now presenting with several days 
+of possible upper respiratory tract infection, and left temporal 
+discomfort with left jaw claudication.  Also found to have 
+significant tachycardia and leukocytosis.
+
+#Leukocytosis: Etiology not entirely clear, as his initial 
+leukocytosis was noted prior to him receiving steroids. He did
+also receive cefepime in the ED; however, he has no clear 
+localizing evidence of bacterial infection on evaluation
+(negative UA, CXR). He does have symptoms c/w a viral URI; 
+however, not sure that this would cause a reactive leukocytosis. 
+Nevertheless, he remained afebrile, and WBC normalized. He will 
+have close ___ with his PCP.
+
+#Jaw Pain: While there was initial concern for temporal 
+arteritis, further history not consistent with this. He has no
+pain on palpation of the temporal region on exam, and his 
+ESR/CRP are not elevated. Jaw pain seems more related to 
+muscular spasm, as patient also endorses muscular tightness in 
+the L neck / shoulder. Acetaminophen, Naprosyn as needed for 
+discomfort. Pt will ___ closely with PCP as above.
+
+#Hyperglycemia: Noted on initial lab work but resolved 
+spontaneously.
+
+#Anxiety, Depression, Obsessive-compulsive disorder: On home 
+regimen of buspirone and duloxetine as well as PRN clonazepam. 
+Of note, his tachycardia on presentation was likely related to 
+anxiety, as he has had tachycardia during prior appointments. 
+Furthermore, HR noted to rise significantly during MD exam, and 
+patient endorsed anxiety at the time. Pt should ___ closely with 
+PCP and psychiatrist.
+
+#Vitamin A usage: He was unaware of what dose of vitamin A he 
+takes. Out of concern (although lower probability) that some of 
+his symptoms could be related to vitamin A toxicity, his vitamin 
+A was held on discharge. He should further discuss this with his 
+PCP at ___ appointment.
+
+#Hypogonadism
+- will resume home androgel on discharge
+
+#Osteoporosis of the spine, osteopenia of the hips, and Vitamin 
+D insufficiency
+- continued home vitamin D
+
+#Hyperlipidemia
+- continued home statin 
+
+#Insomnia
+- continued home zolpidem
+
+TRANSITIONAL ISSUES:
+- pt with close PCP ___ to ensure improvement in symptoms
+- would repeat glucose and WBC at ___ appointment
+- consider sending vitamin A level if symptoms persisting
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. AndroGel (testosterone) 1 % (50 mg/5 gram) transdermal DAILY 
+2. DULoxetine 30 mg PO DAILY 
+3. Atorvastatin 20 mg PO DAILY 
+4. BusPIRone 2.5 mg PO DAILY 
+5. ClonazePAM 0.5 mg PO DAILY:PRN anxiety 
+6. Zolpidem Tartrate 6.6 mg PO QHS:PRN insomnia 
+7. Naproxen 250 mg PO Q12H:PRN Pain - Mild 
+8. Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild 
+9. Vitamin A Dose is Unknown  PO DAILY 
+10. Vitamin D ___ UNIT PO DAILY 
+11. Bisacodyl ___AILY:PRN constipation 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 325-650 mg PO Q6H:PRN Pain - Mild  
+2.  AndroGel (testosterone) 1 % (50 mg/5 gram) transdermal DAILY 
+ 
+3.  Atorvastatin 20 mg PO DAILY  
+4.  Bisacodyl ___AILY:PRN constipation  
+5.  BusPIRone 2.5 mg PO DAILY  
+6.  ClonazePAM 0.5 mg PO DAILY:PRN anxiety  
+7.  DULoxetine 30 mg PO DAILY  
+8.  Naproxen 250 mg PO Q12H:PRN Pain - Mild  
+9.  Vitamin D ___ UNIT PO DAILY  
+10.  Zolpidem Tartrate 6.6 mg PO QHS:PRN insomnia  
+11. HELD- Vitamin A Dose is Unknown  PO DAILY  This medication 
+was held. Do not restart Vitamin A until you discuss this with 
+your primary care physician.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+#Leukocytosis, tachycardia
+#Temporal Pain
+#Anxiety, Depression, Obsessive-compulsive disorder
+#Vitamin A usage
+#Hypogonadism
+#Osteoporosis of the spine, osteopenia of the hips, and Vitamin 
+D insufficiency
+#Hyperlipidemia
+#Insomnia
+#Chronic constipation
+#Hyperhidrosis
+#Irritable bowel syndrome
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with an elevated white cell count, and 
+tachycardia, and left temporal pain.  We evaluated you with 
+careful examinations, lab tests, x-rays, and monitoring on 
+telemetry.  Ultimately, it was felt that many of your symptoms 
+were likely related to a viral illness with a component of 
+muscular spasm as well.
+
+It is very important that you follow up with your primary care 
+physician as instructed.
+
+It is important to follow-up as noted below.
+ 
+Followup Instructions:
+___

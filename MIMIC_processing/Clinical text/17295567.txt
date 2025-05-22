@@ -1,0 +1,394 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest Pain
+ 
+Major Surgical or Invasive Procedure:
+___ cardiac catheterization:
+LM: The left main coronary artery. There is a 50% stenosis in 
+the distal segment prior to a trifurcation of the LAD, ramus, 
+and LCx.
+LAD: The left anterior descending coronary artery. The vessel is 
+fills from right coronary artery collaterals. There is a ostial 
+100% stenosis.
+RI: The ramus intermedius. There is a 40% stenosis. It is a 
+large vessel that supplies the lateral wall.
+Circ: The circumflex coronary artery. There is a ostial 40% 
+stenosis and the LCx terminated in a large OMB that supplied the 
+lateral wall.
+RCA: The right coronary artery. There is a 40% stenosis and the 
+distal RCA terminated in smaller PDA and posterolateral branches 
+with minor disease.
+
+Interventional Details
+Percutaneous Coronary Intervention: Percutaneous coronary 
+intervention (PCI) was performed on an ad hoc basis based on the 
+coronary angiographic findings from the diagnostic portion of 
+this procedure. Cardiac surgery was paged by the surgeon was 
+detained in the operating room. Using a ___ Fr 70 ___ sheath 
+due to subclavian tortuosity, the LCA was cannulated using a 6 
+Fr JCL3.0 guiding catheter and the diagonal branch was crossed 
+using a 0.014 BMW wire. Using a 2.0 mm balloon and 0.014 ___ 
+graphic intermediate and Pilot 50 wire - the LAD could not be 
+crossed due to extensive calcification. It appeared that this 
+was a chronic total occlusion and the infarct related artery was 
+the diagonal branch. The diagonal branch was dilated with a 2.0 
+mm 30 mm balloon for two minutes x 2. This resulted in a 20% 
+residual stenosis and TIMI 3 flow into the distal vessel. The 
+patient became pain free and the EKG improved.
+
+Complications: There were no clinically significant 
+complications.
+Findings
+ Two vessel coronary artery disease.
+ Lateral wall STEMI
+ Successful PCI of the diagonal branch without stenting
+ Consider PCI of the chronic occlusion of the LAD with
+
+ 
+History of Present Illness:
+___ year old man with a history of elevated blood pressures but 
+has not seen a doctor in years who presented to the ER on ___ 
+with a 1 week history of viral illness with sore throat, cough, 
+and shortness of breath over the
+last 2 days. He acutely developed chest pressure at around 
+midnight in the ED.
+
+In the ED,  
+ - Initial vitals were:  
+T: 96.6 HR:86 BP: 190/147 RR:20 Sat: 98% RA 
+
+ - Exam notable for:  benign exam 
+ - Labs notable for:  
+
+140 \ 102 / 17 /
+----------------  179
+4.___  \ 1.0\
+
+Trop 0.30. 
+WBC: 11
+H/H: 15.5/46.6 
+Plts: 300 
+
+ - Studies notable for:  EKG: STEMI with elevation in I, aVL, V2
+and reciprocal decpressions in II, III, aVF. 
+
+ - Patient was given:  IV heparin, 243mg aspirin, SL nitro. 
+
+The patient went the cath lab which showed proximal LAD CTO and 
+acute occlusion of the diagonal which was ballooned. He was 
+loaded with brillinta and aspirin. 
+
+On arrival to the CCU, reported the patient the chest pain has 
+improved. Reports having a cough for 2 weeks but improving.
+Denies significant SOB though is visibly dyspneic with movement, 
+denies
+nausea, vomiting, abdominal pain. 
+
+ 
+Past Medical History:
+- white coat hypertension 
+- HLD
+- small vessel disease 
+
+ 
+Social History:
+___
+Family History:
+- Mother passed from sepsis
+- Father passed aircraft crash 
+ 
+Physical Exam:
+ADMISSION EXAM:
+================  
+VS:  REVIEWED IN METAVISION 
+GENERAL: Well developed, well nourished in NAD. Oriented x3.
+Mood, affect appropriate.  
+HEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL. EOMI. 
+
+NECK: Supple. JVD hard to visualize due to habitus 
+CARDIAC: Normal rate, regular rhythm. No murmurs, rubs, or
+gallops.  
+LUNGS: No chest wall deformities or tenderness. Respiration is
+unlabored with no accessory muscle use. No adventitious breath
+sounds.  
+ABDOMEN: Soft, non-tender, non-distended. No palpable
+hepatomegaly or splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema. R radial access is non-tender and not bleeding 
+
+SKIN: No significant lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+NEURO:  alert and oriented 
+
+DISCHARGE EXAM:
+===============
+VS: 97.8 PO 126 / 77 74 20 97 RA 
+Weight:  100.5 kg   (221.56 lb)
+GENERAL: Well developed, well nourished in NAD. Mood, affect
+appropriate.  
+HEENT: Normocephalic, atraumatic. Sclera anicteric. PERRL. EOMI. 
+
+NECK: Supple.  No JVP
+CARDIAC: Normal rate, regular rhythm. No MRG 
+LUNGS: LS CTA bilaterally 
+ABDOMEN: Soft, non-tender, non-distended. No palpable
+hepatomegaly or splenomegaly.  
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or
+peripheral edema. 
+Access site: R radial access is soft, no hematoma, mild
+ecchymosis, +radial pulse, +CSM
+SKIN: No significant lesions or rashes.  
+PULSES: Distal pulses palpable and symmetric.  
+NEURO:  alert and oriented
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+
+___ 10:10AM BLOOD WBC-11.0* RBC-5.08 Hgb-15.5 Hct-46.6 
+MCV-92 MCH-30.5 MCHC-33.3 RDW-12.8 RDWSD-42.7 Plt ___
+___ 10:10AM BLOOD Neuts-75.9* ___ Monos-3.2* 
+Eos-0.1* Baso-0.4 Im ___ AbsNeut-8.32* AbsLymp-2.18 
+AbsMono-0.35 AbsEos-0.01* AbsBaso-0.04
+___ 10:10AM BLOOD ___ PTT-24.8* ___
+___ 10:10AM BLOOD Glucose-179* UreaN-17 Creat-1.0 Na-140 
+K-4.8 Cl-102 HCO3-19* AnGap-19*
+___ 10:10AM BLOOD ALT-61* AST-62* AlkPhos-47 TotBili-0.3
+___ 10:10AM BLOOD cTropnT-0.30*
+___ 10:10AM BLOOD Albumin-4.8 Calcium-9.3 Phos-3.2 Mg-1.9
+
+DISCHARGE LABS:
+==============
+___ 07:32AM BLOOD WBC-9.2 RBC-4.26* Hgb-13.0* Hct-39.4* 
+MCV-93 MCH-30.5 MCHC-33.0 RDW-13.1 RDWSD-43.8 Plt ___
+___ 07:32AM BLOOD Glucose-103* UreaN-21* Creat-0.9 Na-144 
+K-4.6 Cl-111* HCO3-22 AnGap-11
+___ 07:32AM BLOOD cTropnT-5.41*
+___ 07:32AM BLOOD Mg-2.0
+
+IMAGING:
+========
+Cath ___
+LM: The left main coronary artery. There is a 50% stenosis in 
+the
+distal segment prior to a trifurcation of the LAD, ramus, and
+LCx.
+LAD: The left anterior descending coronary artery. The vessel is
+fills from right coronary artery collaterals. There is a ostial
+100% stenosis.
+RI: The ramus intermedius. There is a 40% stenosis. It is a 
+large
+vessel that supplies the lateral wall.
+Circ: The circumflex coronary artery. There is a ostial 40%
+stenosis and the LCx terminated in a large OMB that supplied the
+lateral wall.
+RCA: The right coronary artery. There is a 40% stenosis and the
+distal RCA terminated in smaller PDA and posterolateral branches
+with minor disease
+
+CXR ___
+No previous images. The cardiac silhouette is at the upper 
+limits
+of normal. There is engorgement of ill defined pulmonary 
+vessels,
+consistent with pulmonary vascular congestion.  No evidence of
+acute focal consolidation. However, in the appropriate clinical
+setting, would be difficult to exclude 
+superimposed aspiration/pneumonia, especially in the absence of 
+a
+lateral view. 
+
+CXR ___
+Heart size is upper limits of normal.  There has been resolution
+of the interstitial densities at the lung bases since the prior
+study suggestive of pulmonary edema.  Lungs are now clear.  
+There
+is no focal consolidation, large pleural effusions, or
+pneumothoraces. 
+
+EKG  
+___: SR 82 bpm, Resolving ST segments, Q wave in III, aVF
+___: SR 81 bpm, STE in I, aVL, V2 and reciprocal depressions
+in II, III, aVF. 
+
+TTE ___:
+CONCLUSION:
+Poor image quality. The left atrium is dilated. No thrombus or
+mass is seen in the left ventricle. Overall left ventricular
+systolic function is mildly-to-moderately depressed secondary to
+hypokinesis of the anterior septum and anterior free wall and
+akinesis of the apex. The visually estimated left ventricular
+ejection fraction is 40%. There is no resting left ventricular
+outflow tract gradient. Normal right ventricular cavity size 
+with
+normal free wall motion. The aortic sinus diameter is normal for
+gender. The aortic valve is not well seen. There is no aortic
+valve stenosis. There is no aortic regurgitation. The
+mitral valve leaflets appear structurally normal with no mitral
+valve prolapse. There is trivial mitral regurgitation. The
+pulmonic valve leaflets are normal. The tricuspid valve leaflets
+appear structurally normal. There is physiologic tricuspid
+regurgitation. The estimated pulmonary artery systolic pressure
+is normal. There is no pericardial effusion.  
+
+ 
+Brief Hospital Course:
+BRIEF HOSPITAL COURSE:
+======================
+___ with history of HTN who presented with chest pain found to
+have a STEMI with coronary angio showing acute diagonal 
+occlusion
+and previous LAD CTO. s/p balloon angioplasty of the diagonal
+occlusion 
+
+ #CORONARIES:  2vd; LAD CTO and diagonal 100% stenosis s/p POBA.
+40% RI, 40% LCx. 
+ #PUMP:  >55% in ___
+ #RHYTHM:  sinus 
+
+ACUTE ISSUES:  
+=============  
+#STEMI
+#CAD
+Patient presented with chest pain and was found to have STEMI
+Patient with trop elevated to 0.30 with STEMI elevation in I,
+aVL, V2 with coronary angio showing a LAD CTO and acute diagonal
+occlusion s/p POBA. Now chest pain free. 
+- Trended trops to peak
+- Continue aspirin and brilinta 90mg BID for at least ___ year 
+- Will continue discussion regarding opening the LAD CTO
+- start atorvastatin 80mg daily. 
+- start metoprolol succinate
+
+#Dyspnea 
+Patient with CXR showing bilateral cephalization and pulmonary
+edema. Likely developed pulmonary edema iso ischemia. 
+- Lasix IV 20mg x1 with goal net negative ___ 
+- CAD medications as above. 
+
+#Elevated blood pressure: 
+Patient presented with BP >200s. history of elevated BP
+attributed to white coat hypertension. 
+- Started Lisinopril 
+
+TRANSITIONAL ISSUES: 
+====================
+- Cardiology (___) and PCP ___ scheduled for ___
+
+#CODE:  FULL CODE 
+#CONTACT/HCP:  Name of health care proxy: ___
+Phone number: ___
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Atorvastatin 80 mg PO QPM  
+2.  Lisinopril 10 mg PO DAILY  
+3.  Metoprolol Succinate XL 50 mg PO DAILY  
+4.  TiCAGRELOR 90 mg PO BID  
+5.  Aspirin 81 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+ST elevation MI
+Hypertension
+Hyperlipidemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+ You were admitted after experiencing chest pain, changes on 
+your EKG, and abnormal cardiac enzyme values indicating that you 
+have had a heart attack.  You had a cardiac catheterization that 
+showed significant coronary artery disease. One of your coronary 
+arteries was opened by angioplasty. Another one of your coronary 
+arteries, the left anterior descending (LAD) is completely 
+blocked and probably has been for quite some time, so there was 
+no intervention.
+
+ Instructions regarding care of the access site (your right 
+wrist) are included with your discharge information. 
+ 
+The following medication changes have been made: 
+- Aspirin 81mg daily, you should take this for life. 
+- Ticagrelor (Brilinta) 90 mg twice daily- you should take this 
+for at least ___ year. ONLY stop when told by a cardiologist 
+specifically. Brilinta and Aspirin are extremely important 
+medications taken to prevent blood clots from forming in the 
+stents in your heart. Stopping either of these medications too 
+early can put you at risk for a life threatening heart attack. 
+- Atorvastatin (Lipitor) 80mg daily. This medication not only 
+reduces cholesterol, but has been shown to help decrease risk of 
+heart attack in the future for people who have coronary artery 
+(heart) disease. 
+- Metoprolol Succinate XL 50 mg - This medication belongs to a 
+class of medications known as Beta Blockers.  Beta blockers slow 
+the heart down and can lower blood pressure. They help reduce 
+the amount of work the heart has to do, and can reduce risk of 
+future heart attack. 
+- Lisinopril 10 mg daily - This medication belongs to a class of 
+medications known as Ace Inhibitors. Ace Inhibitors help to 
+reduce blood pressure and decrease the amount of resistance that 
+the heart needs to pump against, which decreases strain on the 
+heart muscle.
+- Start nitroglycerin as needed for chest pain. Take 1 tab under 
+the tongue as needed for chest pain. You may repeat this every 5 
+mintues for continued chest pain for a TOTAL OF 3 DOSES. If 
+chest pain persists after 3 doses, call ___. MAKE SURE YOU LIE 
+DOWN IF YOU NEED TO TAKE THIS MEDICATION. 
+ 
+ It is very important to take all of your heart healthy 
+medications. In particular, aspirin and Brilinta keep the stents 
+in the vessels of the heart open and help reduce your risk of 
+having a future heart attack. If you stop these medications or 
+miss ___ dose, you risk causing a blood clot forming in your heart 
+stents, and you may die from a massive heart attack. Please do 
+not stop taking either medication without taking to your heart 
+doctor, even if another doctor tells you to stop the 
+medications. 
+ 
+ It is strongly recommended that you attend a cardiac rehab 
+program in the near future. A referral form was provided to you 
+that lists the locations of these programs. Please bring this 
+with you to your follow up visit with your cardiologist, and 
+they will inform you when it is safe to begin a program.
+  
+ If you have any urgent questions that are related to your 
+recovery from your hospitalization or are experiencing any 
+symptoms that are concerning to you and you think you may need 
+to return to the hospital, please call the ___ HeartLine at 
+___ to speak to a cardiologist or cardiac nurse 
+practitioner.
+
+ It has been a pleasure to have participated in your care and we 
+wish you the best with your health!  
+
+ Your ___ Cardiac Care Team  
+ 
+Followup Instructions:
+___

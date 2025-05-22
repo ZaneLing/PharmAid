@@ -1,0 +1,285 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___
+ 
+Chief Complaint:
+PNA
+ 
+Major Surgical or Invasive Procedure:
+N/A
+
+ 
+History of Present Illness:
+Patient is ___ woman with a history of hypertension and 
+asthma who presents with malaise, generalized weakness, and 
+fever. She states she has been feeling weak since she had a 
+dental procedure one month ago and subsequently aspirated a good 
+amount of blood. She developed a fever earlier in the week but 
+had no localized symptoms. She was seen at ___ urgent 
+care on ___ and was diagnosed with a pneumonia, currently 
+on day 3 of levofloxacin. Patient represented to the ED due to 
+ongoing fevers (101-103) and general malaise. Since starting 
+levofloxacin, she has had diarrhea and several episodes of 
+emesis. She denies abdominal pain or urinary symptoms. She 
+denies shortness of breath or chest pain. She now is coughing up 
+yellow sputum. No recent hospital exposures.  
+ In the ED, initial VS were T 97.8, HR 102, BP 140/84, RR 16, 
+SaO2 97% RA.  
+ Labs showed WBC 13.2 (83.1% PMNs), Na 135, K 3.5, Cl 94, HCO3 
+25, BUN 13, Cr 0.9, lactate 1.7.  
+ Imaging: CXR showed LUL opacity consistent with LUL/linguar 
+pneumonia, right apical parenchymal opacity (?overlapping 
+shadows).  
+ Patient received 1L NS and 600 mg IV clindamycin.  
+ Transfer VS were T 98.2, HR 92, BP 143/71, RR 20, SaO2 100% RA. 
+ 
+ Decision was made to admit to medicine for further management 
+of pneumonia.  
+ On arrival to the floor, patient feels generally unwell. She 
+denies shortness of breath. She has been coughing up yellow 
+sputum.  
+ REVIEW OF SYSTEMS:  
+ Denies chest pain, abdominal pain, hemoptysis, BRBPR, melena, 
+hematochezia, dysuria, hematuria.  
+ All other 10-system review negative in detail.  
+ 
+Past Medical History:
+Asthma  
+Hypertension 
+ 
+Social History:
+___
+Family History:
+Mother: COLON CANCER, ALZHEIMER'S DISEASE  
+Father: ALCOHOLISM  
+Aunt: INTESTINAL CANCER  
+Aunt: BREAST CANCER  
+ 
+Physical Exam:
+ADMIT EXAM
+========
+ VS: T 98.0, HR 97, BP 169/81, RR 18, SaO2 100% RA.  
+ GENERAL: AAOx3, unwell-appearing but NAD  
+ HEENT: AT/NC, EOMI, PERRL, anicteric sclera, pink conjunctiva, 
+MMM  
+ NECK: Supple  
+ CARDIAC: RRR, S1/S2, no murmurs, gallops, or rubs  
+ LUNG: Breathing comfortably, lungs CTAB, no wheezing, rales, or 
+rhonchi  
+ ABDOMEN: +BS, nondistended, soft, nontender  
+ EXTREMITIES: No edema, moving all 4 extremities with purpose  
+ PULSES: 2+ DP pulses bilaterally  
+ NEURO: CN II-XII grossly intact  
+ SKIN: Warm and well perfused, no rashes, no splinter 
+hemorrhages
+
+DISCHARGE EXAM
+===========
+VS: 98.7 137/74 82 16 97 RA   
+GENERAL: AAOx3, NAD  
+HEENT: NCAT, anicteric sclera, MMM  
+CARDIAC: RRR, S1/S2, mild ___ sys murmur, no gallops, or rubs  
+LUNG: ctabl
+ABDOMEN: +BS, nondistended, soft, nontender  
+EXTREMITIES: No ___ edema, wwp   
+NEURO: grossly non-focal  
+SKIN: no rashes
+ 
+Pertinent Results:
+ADMIT LABS
+========
+___ 10:50PM BLOOD WBC-13.2* RBC-4.58 Hgb-14.1 Hct-42.6 
+MCV-93 MCH-30.8 MCHC-33.1 RDW-13.1 RDWSD-44.5 Plt ___
+___ 10:50PM BLOOD Neuts-83.1* Lymphs-7.9* Monos-7.9 
+Eos-0.4* Baso-0.4 Im ___ AbsNeut-11.00* AbsLymp-1.04* 
+AbsMono-1.05* AbsEos-0.05 AbsBaso-0.05
+___ 06:52AM BLOOD ___ PTT-29.2 ___
+___ 10:50PM BLOOD Glucose-110* UreaN-13 Creat-0.9 Na-135 
+K-3.5 Cl-94* HCO3-25 AnGap-20
+___ 06:52AM BLOOD Calcium-8.1* Phos-2.2* Mg-1.9
+___ 11:12PM BLOOD Lactate-1.7
+___ 07:50AM URINE Blood-SM  Nitrite-NEG Protein-100 
+Glucose-NEG Ketone-40 Bilirub-NEG Urobiln-2* pH-6.5 Leuks-NEG
+___ 07:50AM URINE RBC-8* WBC-10* Bacteri-FEW Yeast-NONE 
+Epi-7 TransE-<1
+
+DISCHARGE LABS
+===========
+___ 06:30AM BLOOD WBC-6.9 RBC-4.03 Hgb-12.1 Hct-38.1 MCV-95 
+MCH-30.0 MCHC-31.8* RDW-13.1 RDWSD-45.9 Plt ___
+___ 06:30AM BLOOD ___ PTT-28.9 ___
+___ 06:30AM BLOOD Glucose-107* UreaN-7 Creat-0.7 Na-139 
+K-4.2 Cl-103 HCO3-25 AnGap-15
+___ 06:30AM BLOOD ALT-82* AST-87* LD(LDH)-230 AlkPhos-161* 
+TotBili-0.5
+
+IMAGING
+======
+CXR ___ 
+Interval development of parenchymal opacities in the left lung 
+suspicious for pneumonia.  Followup suggested after treatment to 
+document resolution.
+
+Abd U/S ___
+Normal US appearance of the liver. No acute intraabdominal 
+process.
+
+MICRO
+=====
+__________________________________________________________
+Time Taken Not Noted     Log-In Date/Time: ___ 1:10 pm
+      URINE      TAKEN SPECIMEN ___ @ 1310. 
+
+                            **FINAL REPORT ___
+
+   Legionella Urinary Antigen  (Final ___: 
+      NEGATIVE FOR LEGIONELLA SEROGROUP 1 ANTIGEN. 
+           (Reference Range-Negative). 
+      Performed by Immunochromogenic assay. 
+      A negative result does not rule out infection due to other 
+L.
+      pneumophila serogroups or other Legionella species. 
+Furthermore, in
+      infected patients the excretion of antigen in urine may 
+vary. 
+__________________________________________________________
+___ 7:50 am URINE      Source: ___. 
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    NO GROWTH. 
+__________________________________________________________
+___ 10:56 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 10:50 pm BLOOD CULTURE
+
+   Blood Culture, Routine (Pending): 
+__________________________________________________________
+___ 12:30 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___:    < 10,000 CFU/mL. 
+
+ 
+Brief Hospital Course:
+___ woman with a history of hypertension and asthma who 
+presents with malaise, generalized weakness, and fever. 
+Failed/unable to tolerate levaquin. Started on IV CTX and Z-pack 
+for CAP, transitioned to PO Cefpodoxime with improvement in Sx. 
+Found to have elevated LFTs over admission, none prior in 
+system. Abd U/S wnl.
+
+# Pneumonia/CAP: CXR showed LUL/lingular pneumonia and right 
+apical opacity (potentially overlapping shadows), concerning for 
+multifocal pneumonia. Possible aspiration pneumonia given report 
+of aspiration of blood one month ago after dental procedure. 
+Patient with leukocytosis, fever, and productive cough. She did 
+not improve on two days of levofloxacin, possibly due to 
+nausea/vomiting of pills rather than treatment failure. No 
+hospitalizations to suggest need for HCAP coverage. Started on 
+Ceftriaxone/azithromycin, transitioned to PO cefpodoxime/zithro 
+for ___ total course. Given albuterol, guaifenesin prn cough  
+
+# Fever/leukocytosis: Most likely secondary to pneumonia. DDx 
+also included gastroenteritis given nausea/vomiting and diarrhea 
+(though most likely side effect from levofloxacin) and 
+endocarditis (given recent dental procedure, known heart murmur 
+w/o previous valvular Dz on prior TTE but no sequelae on exam). 
+Pt only had one Duke's minor criteria for prior fever. BCx w/o 
+any growth. 
+
+CHRONIC ISSUES
+========== 
+# Asthma:  Continued home prn albuterol  
+# Hypertension: Continued home lisinopril  
+
+TRANSITIONAL ISSUES
+===================
+-started on cefpodoxime 200mg bid to finish 7d course on ___. 
+also started on Z-pack to finish 5d course on ___
+-found to have elevated lfts over admission, abd u/s wnl. would 
+recommend rechecking lfts, consider hepatitis serologies
+-pt had around 1 mo of malaise associated with dental procedure, 
+no stigmata of endocarditis and pt w/prior known heart murmur. 
+please monitor going forward
+
+CODE: Full (presumed) 
+EMERGENCY CONTACT HCP: ___ (ex-wife) 
+___, alternate HCP: ___ (son) 
+___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 20 mg PO DAILY 
+2. Albuterol Inhaler ___ PUFF IH Q6H:PRN SOB 
+
+ 
+Discharge Medications:
+1.  Azithromycin 250 mg PO Q24H Duration: 4 Doses 
+please take until ___ 
+RX *azithromycin 250 mg 1 tablet(s) by mouth once a day Disp #*3 
+Tablet Refills:*0 
+2.  Cefpodoxime Proxetil 200 mg PO Q12H 
+please take until ___ 
+RX *cefpodoxime 200 mg 1 tablet(s) by mouth twice a day Disp 
+#*10 Tablet Refills:*0 
+3.  Albuterol Inhaler ___ PUFF IH Q6H:PRN SOB  
+4.  Lisinopril 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY
+=======
+CAP
+
+SECONDARY
+=========
+Asthma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___, 
+
+___ were admitted to ___ after ___ were found 
+to have a pneumonia at urgent care that wasn't getting better on 
+oral antibiotics. We started ___ on IV antibiotics and your 
+infection got better. Your liver blood tests were mildly 
+abnormal, so we checked an ultrasound of your abdomen which 
+showed ###.
+
+Please follow up closely with your pcp to ensure that ___ are 
+feeling better, as we were concerned that ___ have been feeling 
+ill for some time.
+
+It was a pleasure taking care of ___!
+
+Your ___ Team
+
+It was a pleasure taking care of ___!
+
+Your ___ Team
+ 
+Followup Instructions:
+___

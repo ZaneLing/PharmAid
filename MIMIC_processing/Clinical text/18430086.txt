@@ -1,0 +1,370 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Lipitor
+ 
+Attending: ___
+ 
+Chief Complaint:
+Dizziness, fatigue
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with MI, HTN, CHF sent from ___ earlier today after being
+found to be in atrial fibrillation in the setting of 2 weeks of
+dizziness and fatigue. 
+
+Patient states this started about 2 weeks ago she had episodes 
+of
+dizziness/pre-syncope that have occurred when she is walking
+around. She denies any falls. She had not been evaluated until
+she went to ___ earlier today to obtain a letter for housing
+placement.
+
+She was sent from ___ to ___ ED after her PCP found her to
+be in new Afib. 
+
+Patient denies current dizziness, but is feeling tired. She has
+had increased bilateral ankle swelling over the past few days. 
+
+Her Lasix dose was increased from 40 to 80 daily last week for
+"worsening heart failure", but she has not taken it for 3 days
+because of the dizziness she experienced. She denies any chest
+pain or heart palpitations. She denies any cough or SOB. She did
+have a UTI and viral infection a few weeks ago, for which she
+took 7 days of antibiotics. 
+
+She is not having urinary symptoms currently, but her daughter
+states that she mentioned some dysuria a few days ago. 
+
+She endorses some chills, dry skin, and constipation. She has
+also had some mild abdominal pain starting in the past few days,
+___ in severity and constant. She describes it as a dull ache,
+not crampy.
+
+In the ED, initial vitals:  
+97.1, 96, 155/106, 18, 97% RA
+
+- Exam notable for:  
+2+ pitting edema b/l ___
+
+- Labs notable for:  
+proBNP 2.5k
+
+- Imaging notable for:  
+CXR:
+Increased pleural based opacity at the right apex, could
+represent pleural thickening/scarring, though not fully
+characterized. Consider nonemergent CT of the chest to further
+assess.
+
+- Pt given:  
+IV lasix 40mg
+
+While in the ED patient spontaneously reverted to sinus rhythm.
+
+Upon arrival to the floor, the patient reports slightly improved
+lower extremity edema, although still present. Is not currently
+lightheaded or dizzy. She denies any chest pain or heart
+palpitations. She denies any cough or SOB. Denies orthopnea.
+Denies dysuria. 
+
+PAST MEDICAL HISTORY:  
+ CHF
+ HTN
+ MI x2 (___)
+ gout
+
+SOCIAL HISTORY: ___
+FAMILY HISTORY: father had cardiac complications, sister has
+breast cancer 
+
+MEDICATIONS: Lasix 80 daily, metoprolol 25mg daily, allopurinol
+___ daily, Potassium chloride 10mEq PO BID
+ 
+ALLERGIES/ADVERSE DRUG REACTIONS: Lipitor
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+1. ? CAD, pt reports having had ___ MIs in the past. First one 
+here at ___ in ___ where she was ruled out and had a normal 
+stress test. Second was at ___ in ___ where she had another 
+stress test with unknown result. She never had cardiac cath.  
+2. Hyperlipidemia.  
+3. HTN  
+4. Noncompliance with medications complaining of intolerance  
+.  
+PAST SURGICAL HISTORY: Surgical repair left ankle fracture  
+
+ 
+Social History:
+___
+Family History:
+Father with CAD and fam hx of DMII.  
+
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS:  24 HR Data (last updated ___ @ 1633)
+    Temp: 98.5 (Tm 98.5), BP: 142/82, HR: 62, RR: 18, O2 sat:
+95%, O2 delivery: RA  
+
+GEN: well-appearing, NAD, ordering dinner
+HEENT: anicteric sclera, no cervical lymphadenopathy, no
+thyromegaly
+Cardiac: RRR, audible S1 S2, no m/r/g
+Pulm: CTAB, no increased work of breathing
+Abd: Normoactive bowel sounds, nontender, nondistended, no
+organomegaly
+Ext: 2+ bilateral lower extremity edema
+Neuro: A&Ox3, no gross deficits
+  
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS:  24 HR Data (last updated ___ @ 1516)
+    Temp: 98.4 (Tm 98.9), BP: 135/81 (123-135/76-82), HR: 73
+(64-73), RR: 18 (___), O2 sat: 93% (92-96), O2 delivery: RA  
+GEN: well-appearing, NAD, appears her stated age
+HEENT: anicteric sclera, MMM
+Neck: No JVP
+Cardiac: RRR, audible S1 S2, no m/r/g
+Pulm: CTAB, no increased work of breathing
+Abd: Normoactive bowel sounds, nontender, nondistended, no HSM
+Ext: 1+ edema to the mid-calf bilaterally
+Neuro: A&Ox3, no gross deficits
+ 
+Pertinent Results:
+ADMISSION LABS:
+===============
+___ 06:15PM   PLT COUNT-293
+___ 06:15PM   NEUTS-60.0 ___ MONOS-8.9 EOS-2.8 
+BASOS-0.5 IM ___ AbsNeut-6.95* AbsLymp-3.16 AbsMono-1.03* 
+AbsEos-0.33 AbsBaso-0.06
+___ 06:15PM   WBC-11.6* RBC-3.87* HGB-11.8 HCT-37.3 MCV-96 
+MCH-30.5 MCHC-31.6* RDW-16.0* RDWSD-55.7*
+___ 06:15PM   TSH-1.2
+___ 06:15PM   CALCIUM-9.6 PHOSPHATE-4.6* MAGNESIUM-2.0
+___ 06:15PM   cTropnT-<0.01 proBNP-2525*
+___ 06:15PM   estGFR-Using this
+___ 06:15PM   GLUCOSE-101* UREA N-14 CREAT-0.9 SODIUM-142 
+POTASSIUM-4.3 CHLORIDE-107 TOTAL CO2-26 ANION GAP-9*
+___ 10:52PM URINE  MUCOUS-RARE*
+___ 10:52PM URINE  RBC-4* WBC-8* BACTERIA-FEW* YEAST-NONE 
+EPI-2
+___ 10:52PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR* 
+GLUCOSE-NEG KETONE-NEG BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-MOD*
+___ 10:52PM URINE  COLOR-Yellow APPEAR-Clear SP ___
+___ 10:52PM URINE  HOURS-RANDOM
+___ 10:52PM URINE  UHOLD-HOLD
+___ 07:00PM   CALCIUM-9.1 PHOSPHATE-4.6* MAGNESIUM-1.9
+___ 07:00PM   GLUCOSE-115* UREA N-15 CREAT-0.9 SODIUM-142 
+POTASSIUM-4.1 CHLORIDE-101 TOTAL CO2-28 ANION GAP-13
+========================
+PERTINENT INTERVAL LABS:
+========================
+___ 06:15PM BLOOD cTropnT-<0.01 proBNP-2525*
+___ 06:15PM BLOOD TSH-1.2
+
+===============
+DISCHARGE LABS:
+===============
+___ 07:09AM BLOOD WBC-10.0 RBC-4.19 Hgb-12.7 Hct-38.9 
+MCV-93 MCH-30.3 MCHC-32.6 RDW-15.8* RDWSD-53.4* Plt ___
+___ 07:09AM BLOOD Plt ___
+___ 07:09AM BLOOD Glucose-90 UreaN-21* Creat-0.9 Na-144 
+K-4.1 Cl-104 HCO3-25 AnGap-15
+___ 07:09AM BLOOD Calcium-9.3 Phos-3.9 Mg-2.1
+
+========
+IMAGING:
+========
+
+___ TTE
+
+ Quantitative biplane left
+ventricular ejection fraction is 69 % (normal 54-73%).
+
+IMPRESSION: Suboptimal image quality. Mild symmetric left 
+ventricular hypertrophy with normal
+cavity size and regional/global biventricular systolic function. 
+High normal estimated pulmonary
+systolic pressure.
+Compared with the prior TTE (images reviewed) of ___ , 
+the findings are similar(trace aortic
+regurgitation now present).
+
+CXR ___
+
+IMPRESSION:  
+  
+Increased pleural based opacity at the right apex, could 
+represent pleural 
+thickening/scarring, though not fully characterized.  Consider 
+nonemergent CT of the chest to further assess. 
+
+MICROBIOLOGY:
+=============
+
+None
+
+ 
+Brief Hospital Course:
+SUMMARY:
+=====================
+___ with MI, HTN, CHF sent from ___ after being found to be 
+in
+atrial fibrillation after not taking her Lasix for two weeks 
+with
+symptoms of 2 weeks of dizziness and fatigue
+
+TRANSITIONAL ISSUES:
+====================
+[ ] CXR with increased pleural based opacity at the right apex,
+could represent pleural thickening/scarring, though not fully
+characterized. Consider nonemergent CT of the chest to further
+assess; unfortunately patient has been to many different 
+providers in the area so reviewing records is difficult
+[ ] Consider spironolactone for long-term management of ___ to 
+reduce hospitalizations
+[ ] Social issues
+Patient has housing approved as of ___ and has many 
+questions
+about this. However, it is only a 1 bedroom so her daughter may
+not be able to stay. Apparently was going to ___ to get
+housing approval but was found to be dizzy in ___ which 
+prompted
+hospitalization. Her 1 bedroom house is in ___. She will 
+be returning to a shelter with her daughter in the meantime; 
+they attest that they have consistent room and board there.
+
+ACTIVE ISSUES:
+==============
+
+# Paroxysmal Atrial Fibrillation
+CHADS2VASC = 5. Unknown duration, likely at least a few weeks.
+Afib may have been caused by increased atrial stretch from
+worsening CHF. Improved with diuresis. Patient with persistent
+bradycardia to 50's with several dips to low 40's/high 30's on
+Metoprolol. Patient asymptomatic and no evidence of poor
+perfusion. Metoprolol succinate was decreased from 25 mg to 12.5 
+mg with patient maintaining HR in the ___ afterwards without 
+further drops. She had no more evidence of atrial fibrillation 
+during her hospitalization.
+A TTE revealed:
+
+Rate control: Metoprolol XL 12.5 mg daily
+Anticoag: Rivaroxaban 20 mg daily with a large meal
+
+# CHF exacerbation, likely non-ischemic HFpEF
+# CAD
+___ have been triggered by her UTI or viral URI within the last
+month. BNP was 2525 on admission. Received 40 mg IV Lasix x2 
+days and then transitioned to 80 mg PO furosemide. A TTE on 
+___ showed:
+
+# Dizziness
+Generally happens when she is walking around; no chest pain,
+nausea, or dyspnea associated. Likely caused by her Afib. EKG 
+and troponin in the ED were normal. Other
+possibilities include cardiac ischemia or orthostatic 
+hypotension, though no
+orthostasis on admission or on the first two days of 
+hospitalization. She had no further episodes of exertional 
+symptoms, so an inpatient ischemic work-up was deferred. No 
+further episodes of dizziness during her hospital stay.
+
+CHRONIC ISSUES:
+
+#Code status
+Discussed code status with patient and daughter. ___ 
+completed.
+Patient is full-code. HCP form completed; see chart for full
+details. Daughter is HCP.
+
+#Gout
+Continue allopurinol
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Furosemide 80 mg PO DAILY 
+2. Metoprolol Succinate XL 25 mg PO DAILY 
+3. Allopurinol ___ mg PO DAILY 
+4. Albuterol Inhaler 1 PUFF IH Q4H:PRN wheeze 
+5. Potassium Chloride 10 mEq PO BID 
+6. Omeprazole 20 mg PO DAILY 
+7. Fluticasone Propionate NASAL 1 SPRY NU DAILY 
+
+ 
+Discharge Medications:
+1.  Rivaroxaban 20 mg PO DINNER  
+2.  Metoprolol Succinate XL 12.5 mg PO DAILY  
+3.  Albuterol Inhaler 1 PUFF IH Q4H:PRN wheeze  
+4.  Allopurinol ___ mg PO DAILY  
+5.  Fluticasone Propionate NASAL 1 SPRY NU DAILY  
+6.  Furosemide 80 mg PO DAILY  
+7.  Omeprazole 20 mg PO DAILY  
+8.  Potassium Chloride 10 mEq PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Paroxysmal atrial fibrillation
+Heart failure with preserved ejection fraction, decompensation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,  
+___ was a pleasure taking care of you at the ___ 
+___!  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted of dizziness and fatigue related to your 
+heart rate was going too fast and extra fluid in your legs
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+- You received IV medicine to help remove extra fluid
+- Your heart returned back to its regular rhythm after extra 
+fluid was removed
+- You had a scan of your heart that showed a normal functioning 
+heart.
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Be sure to take all your medications and attend all of your 
+appointments listed below. 
+- Monitor your weight daily. If you notice >3 lb weight gain, 
+please call your doctor or go to the Emergency Department
+- If you notice further dizziness, weakness, numbness, 
+difficulty speaking, chest/jaw/arm pain, shortness of breath, or 
+increased swelling please call your doctor or go to the 
+Emergency Department.
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+
+Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

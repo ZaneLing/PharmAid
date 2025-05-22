@@ -1,0 +1,266 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+unwitnessed fall
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+Ms. ___ is a ___ female with dementia, CAD, HTN, 
+poorly characterized history of valvular heart disease and 
+possible hx of CABG (given sternotomy wires on CXR) who presents 
+after an unwitnessed fall concerning for syncope of unclear 
+etiology. 
+
+Per report, patient had returned from daycare to her apartment 
+where she lives alone. Her neighbor heard a loud noise and found 
+her outside in the hallway. The patient does not remember any of 
+the circumstances surrounding her fall and only reports a memory 
+of being dizzy with standing prior to this event. In the ED, she 
+denied any pain, including chest pain, shortness of breath, 
+weakness, numbness.
+  
+In the ED, initial VS were: 98.6 64 161/91 16 100% RA. 
+  
+Exam was notable for: dementia, fourth heart sound, systolic 
+murmur, no mid-line tenderness, mild pain with lateral head 
+movements   
+
+Labs showed: WBC 9.6, H/H 13.3/40.1, PLT 173, K 4.5, CR 0.6, 
+TROP <0.01 X 1.
+ 
+Imaging including CT of the Head, CT of the C-spine and CXR were 
+performed. CT Head showed " 1. No acute intracranial process. 2. 
+Prominence of ventricles is likely central predominant 
+involutional changes, although NPH is difficult to rule out in 
+the absence prior comparison." CT of the C-spine showed "1. No 
+fracture is identified. 2. Multilevel severe degenerative 
+changes of the cervical spine, notable for severe bilateral 
+neural foraminal narrowing at C7-T1." CXR showed Midline 
+sternotomy wires and mediastinal clips as well as a prosthetic 
+cardiac valve noted. Lung volumes are low though lungs appear 
+clear. No focal consolidation, large effusion, pneumothorax or 
+signs of congestion or edema. Cardiomediastinal silhouette 
+appears normal."  
+
+Consults: No consults were requested.
+
+Patient received: no medications.
+ 
+Transfer VS were: 98.3 87 146/81 98% RA. 
+  
+On arrival to the floor, patient only reports ongoing dizziness 
+with standing. She denies headache, chest pain, SOB or abdominal 
+pain.   
+ 
+REVIEW OF SYSTEMS: 10-point ROS reviewed and negative except as 
+per HPI  
+
+ 
+Past Medical History:
+HYPERTENSION
+VALVULAR HEART DISEASE
+HX OF TOTAL HIP REPLACEMENT 
+ 
+Social History:
+___
+Family History:
+None reported.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM
+==========================
+VS: 98.3 PO 150 / 88 6616 97% on RA  
+GENERAL: well-appearing, NAD, lying in bed  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera  
+NECK: supple
+HEART: regular, I/VI systolic murmur
+LUNGS: CTAB, no wheezes, rales, rhonchi anteriorly
+ABDOMEN: +bowel sounds, non-distended, non-tender in all
+quadrants, no rebound/guarding
+EXTREMITIES: no appreciable ___ edema  
+NEURO: A&O x 3, moving all 4 extremities with purpose  
+SKIN: warm and well perfused, no rashes  
+
+DISCHARGE PHYSICAL EXAM
+========================
+VS: ___ 0813 Temp: 97.3 PO BP: 158/83 HR: 61 RR: 18 O2 sat:
+95% O2 delivery: Ra FSBG: 95 
+TELE: unremarkable
+ORTHOSTATICS: BP 158/97 --> 168/93; HR 76 --> 76
+GENERAL: well-appearing, NAD, lying in bed  
+HEENT: AT/NC, EOMI, PERRL, anicteric sclera  
+NECK: supple
+HEART: RRR, I/VI systolic murmur
+LUNGS: CTAB, no wheezes, rales, rhonchi
+ABDOMEN: soft, nontender, nondistended, no rebound or uarding
+EXTREMITIES: no cyanosis, clubbing, edema 
+NEURO: A&O x 3, nonfocal, unsteady getting up from bed
+SKIN: warm and well perfused, no rashes  
+
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 04:50PM BLOOD WBC-9.6 RBC-4.50 Hgb-13.3 Hct-40.1 MCV-89 
+MCH-29.6 MCHC-33.2 RDW-12.5 RDWSD-41.0 Plt ___
+___ 04:50PM BLOOD Neuts-82.5* Lymphs-10.4* Monos-4.7* 
+Eos-1.3 Baso-0.4 Im ___ AbsNeut-7.88* AbsLymp-0.99* 
+AbsMono-0.45 AbsEos-0.12 AbsBaso-0.04
+___ 04:50PM BLOOD Plt ___
+___ 04:50PM BLOOD Glucose-134* UreaN-25* Creat-0.6 Na-144 
+K-4.5 Cl-106 HCO3-24 AnGap-14
+___ 04:50PM BLOOD cTropnT-<0.01
+
+DISCHARGE LABS
+================
+___ 05:51AM BLOOD WBC-7.2 RBC-4.65 Hgb-13.7 Hct-40.9 MCV-88 
+MCH-29.5 MCHC-33.5 RDW-12.7 RDWSD-40.5 Plt ___
+___ 05:51AM BLOOD Plt ___
+___ 05:51AM BLOOD Glucose-89 UreaN-21* Creat-0.6 Na-144 
+K-4.2 Cl-103 HCO3-23 AnGap-18
+___ 05:51AM BLOOD Calcium-9.0 Phos-3.9 Mg-1.8
+
+IMAGING
+========
+
+___ TTE
+==============
+The left atrium and right atrium are normal in cavity size. Left 
+ventricular wall thickness, cavity size and regional/global 
+systolic function are normal (LVEF >55%). Diastolic function 
+could not be assessed. Right ventricular chamber size and free 
+wall motion are normal. The number of aortic valve leaflets 
+cannot be determined. There is mild aortic valve stenosis (valve 
+area 1.2-1.9cm2). No aortic regurgitation is seen. The mitral 
+valve leaflets are moderately thickened. No mitral regurgitation 
+is seen. The pulmonary artery systolic pressure could not be 
+determined. There is no pericardial effusion. 
+ IMPRESSION: 
+ 1) Normal biventricular regional/global systolic function.
+ 2) Mild aortic stenosis.
+ 3) Moderate mitral annular calcification without functional 
+mitral stenosis.
+ 4) Stage II systolic arterial hypertension.  
+
+CT Head
+==========
+1. No acute intracranial process. 
+2. Prominence of ventricles may reflect central involutional 
+changes, although NPH is difficult to rule out in the absence 
+prior comparison.  Please correlate clinically. 
+
+CT C Spine
+==============
+1. No fracture is identified. 
+2. Multilevel severe degenerative changes of the cervical spine, 
+notable for severe bilateral neural foraminal narrowing at 
+C7-T1. 
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ female with CAD, HTN, poorly 
+characterized history of valvular disease, demenia who presents 
+after an unwitnessed fall, most concerning for syncope of 
+unclear etiology. 
+
+#UNWITNESSED FALL: unwitnessed fall at home, heard by neighbor. 
+___ dizziness prior to event, however this is chronic, 
+otherwise a full ROS was negative and patient asymptomatic on 
+admission at baseline mental status. Syncopal workup in-house 
+unremarkable, including normal orthostatics, unremarkable 
+telemetry, troponins <0.01, no evidence of infectious process, 
+no evidence of TIA/stroke with normal neuro exam and head CT, 
+TTE with only moderate aortic stenosis. Vital signs remained 
+stable. Evaluated by physical therapy, will be discharged with 
+home ___ services.
+
+#HYPERTENSION + CAD: continued home metoprolol tartrate, 
+pravastatin, aspirin.
+
+#DEMENTIA: continued home donepezil
+
+TRANSITIONAL ISSUES:
+========================
+[ ] consider uptitration of Donepezil or addition of SSRI as 
+dementia worsening per family members, has had significant 
+psychosocial stress at home after recent death of her grandson 
+this year ___ overdose
+[ ] continue to address goals of care (full code at time of 
+discharge)
+
+>30 minutes spent on discharge 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Donepezil 5 mg PO QHS 
+2. Metoprolol Tartrate 25 mg PO BID 
+3. Aspirin 81 mg PO DAILY 
+4. Pravastatin 40 mg PO QPM 
+5. linaclotide 290 mcg oral DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Donepezil 5 mg PO QHS  
+3.  linaclotide 290 mcg oral DAILY  
+4.  Metoprolol Tartrate 25 mg PO BID  
+5.  Pravastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___ 
+ 
+Discharge Diagnosis:
+PRIMARY
+Unwitnessed fall
+
+SECONDARY
+CAD
+HTN
+Dementia
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to care for you at ___. 
+
+You came to the hospital because you fell at home. You do not 
+remember falling and you did not have any symptoms before your 
+fall. We evaluated you in the hospital with blood tests, a heart 
+ultrasound, and heart monitoring. The results of the tests we 
+performed were normal. We believe you most likely fell from 
+tripping or as a result of dehydration. A physical therapist 
+will come to your home and work with you to felt prevent falls 
+in the future.
+
+Please continue to take your home medications and to follow-up 
+with your doctors as ___.
+
+We wish you all the best,
+Your ___ care team
+ 
+Followup Instructions:
+___

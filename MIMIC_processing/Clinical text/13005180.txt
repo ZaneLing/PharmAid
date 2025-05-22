@@ -1,0 +1,290 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+ACE Inhibitors / Aleve / aspirin / codeine / lisinopril / 
+morphine / Motrin / Percocet / shellfish derived / tramadol / 
+Keflex
+ 
+Attending: ___
+ 
+Chief Complaint:
+chest pain, difficulty swallowing
+ 
+Major Surgical or Invasive Procedure:
+EGD ___
+
+ 
+History of Present Illness:
+___ with PMH of HTN and hypothyroidism who presented to outside
+hospital with chest pain and difficulty swallowing found to have
+a food bolus with potential microperforation of the mid 
+esophagus
+on CT scan. 
+
+She states that she was eating an "overcooked" hamburger on ___
+when she swallowed a large bite and was unable to get the food
+down.  It now feels stuck in her throat, causing her pain and
+discomfort. She was initially able to swallow liquids, but this
+is becoming increasingly difficult. She had a CT at an outside
+hospital which showed micro perf in esophagus, for which she
+received Ceftriaxone and was given glucagon with no improvement.
+She was referred to ___ for further management. She states she
+still having mild chest pain and difficulty swallowing, but has
+had no acute worsening. She denies fevers, chills, nausea,
+vomiting, diarrhea, change in appetite.
+ 
+Past Medical History:
+HTN
+Hypothyroidism
+Dementia
+Arthritis
+ 
+Social History:
+___
+Family History:
+Not pertinent to this admission.
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM: 
+========================
+VS: BP 182 / 87 HR 64 RR 16 SpO2 99% on Ra 
+GENERAL: NAD
+HEENT: AT/NC, anicteric sclera, MMM, uvula midline
+NECK:  no LAD, no palpable masses
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing. Mild 1+ peripheral edema of
+the left lower extremity
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities, oriented to person but
+not to place or time
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+DISCHARGE PHYSICAL EXAM:
+=========================
+VS: Temp: 97.5 PO BP: 174/88 HR: 63 O2 sat: 99% 
+GENERAL: NAD
+HEENT: AT/NC, anicteric sclera, MMM, uvula midline
+NECK:  no LAD, no palpable masses
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, no wheezes, rales, rhonchi, breathing comfortably
+without use of accessory muscles
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding, no hepatosplenomegaly
+EXTREMITIES: no cyanosis, clubbing. Mild 1+ peripheral edema of
+the left lower extremity
+PULSES: 2+ radial pulses bilaterally
+NEURO: Alert, moving all 4 extremities, oriented to person but
+not to place or time
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+ 
+Pertinent Results:
+ADMISSION LABS
+==============
+___ 08:15PM BLOOD WBC-11.9* RBC-4.64 Hgb-14.1 Hct-43.3 
+MCV-93 MCH-30.4 MCHC-32.6 RDW-12.5 RDWSD-42.9 Plt ___
+___ 08:15PM BLOOD Neuts-68.3 ___ Monos-7.3 Eos-1.2 
+Baso-0.5 Im ___ AbsNeut-8.09* AbsLymp-2.64 AbsMono-0.87* 
+AbsEos-0.14 AbsBaso-0.06
+___ 08:15PM BLOOD ___ PTT-28.6 ___
+___ 08:15PM BLOOD Glucose-113* UreaN-17 Creat-0.8 Na-140 
+K-4.2 Cl-101 HCO3-22 AnGap-17
+___ 08:26PM BLOOD Lactate-1.7
+
+IMAGING:
+=======
+___ CT CHEST W PO CONTRAST (ESOPHAGRAM)
+IMPRESSION:
+1. Although mildly limited by streak artifact from the oral 
+contrast agent, impacted esophageal food bolus is grossly 
+unchanged extending from the level of the thoracic inlet to the 
+carina without evidence of esophageal perforation or 
+obstruction.
+2. Cholelithiasis without evidence of cholecystitis.
+
+___ CT CHEST
+1. Dense oral contrast is present in the esophagus from 
+approximately the 
+level of the thoracic inlet to the carina, and small residual 
+fluid bolus 
+difficult to exclude at this level.  Oral contrast passes into 
+the stomach.  
+No evidence of esophageal perforation or obstruction. 
+2. Mild bibasilar interstitial edema. 
+3. Cholelithiasis without evidence of cholecystitis. 
+4. Nodular contour of the liver raises the possibility of 
+cirrhotic change. 
+
+DISCHARGE LABS
+==============
+___ 07:10AM BLOOD WBC-9.4 RBC-4.35 Hgb-13.5 Hct-40.4 MCV-93 
+MCH-31.0 MCHC-33.4 RDW-12.6 RDWSD-42.6 Plt ___
+___ 07:10AM BLOOD Glucose-103* UreaN-13 Creat-0.8 Na-142 
+K-3.9 Cl-101 HCO3-26 AnGap-15
+___ 07:10AM BLOOD ALT-12 AST-16 LD(LDH)-167 AlkPhos-87 
+TotBili-0.5
+___ 07:10AM BLOOD Albumin-4.1 Calcium-9.5 Phos-3.7 Mg-1.___ with a PMH of hypothyroidism,hypertension who presented to 
+an OSH with impacted esophageal food bolus and transferred to 
+___ for further workup. 
+
+ACUTE ISSUES:
+===============
+#Dysphagia
+#Concern for esophageal microperforation
+Impacted esophageal food bolus visualized on CT esophagram. 
+Initial concern for microperforation at OSH, but no evidence of 
+perforation or obstruction on CT scan at ___. Thoracics were 
+made aware of the patient, but there was no need for urgent 
+surgery. Upon arrival to floor, patient reported that symptoms 
+had resolved entirely. GI was consulted and performed an upper 
+endoscopy, which showed food bolus in the esophagus 
+(nonobstructive). This was gently pushed into the stomach and no 
+other abnormalities were noted to explain the patient's 
+symptoms. The patient was able to eat after the procedure 
+without dysphagia or frank aspiration. 
+
+#Bacteremia
+Blood cultures from the ED grew gram positive cocci in pairs and 
+clusters. She was started on vancomycin but this was 
+discontinued as she was afebrile, had a resolved leukocytosis, 
+and appeared clinically well. Therefore, her bacteremia was 
+likely a contaminant. Cultures speciated to Coag negative staph 
+which is c/w contaminant.
+
+#Leukocytosis:
+No localizing symptoms, afebrile. Likely reactive in the setting 
+of food bolus. This resolved by day of discharge.
+
+CHRONIC ISSUES:
+===============
+#Hypertension:
+Blood pressures elevated to 160s-180s, which appears to be 
+baseline. Denies changes in vision, headache. Continued 
+Amlodipine 10mg daily 
+
+#Peripheral edema:
+Per OSH records, BNP was 1114, but the patient has no history of 
+heart failure. She was breathing comfortably on room air. She 
+was continued on her home Lasix 20mg PO daily. 
+
+#Hypothyroidism:
+Continued Synthroid 75 mcg daily
+
+#Bladder spasm:
+Continued Oxybutynin 2.5mg BID while in house (Oxybutynin ER not 
+on formulary)
+
+#Confusion
+Patient confused about location and time on admission. Possible 
+component mild cognitive impairment vs early dementia. Able to 
+relate key elements of history and longterm memory intact. She 
+is able to state that she wants to go home and return to her 
+daily
+schedule.
+
+TRANSITIONAL ISSUES
+-------------------
+[] Consider echocardiogram as an outpatient (BNP elevated during 
+this admission).
+[] Follow up on liver nodularity seen on CT scan.
+[] Follow up with GI regarding swallowing issues, consider 
+esophageal motility study.
+[] Encourage small meals and provide mechanical soft diet.
+[] follow up surveillance blood cultures
+[] Monitor for infectious symptoms given bacteremia 
+
+#CODE: Full (presumed)
+___ ___ @ ___.
+#CONTACT: Niece, ___ (HCP) h. ___ 
+___
+
+Billing: greater than 30 minutes spent on discharge counseling 
+and coordination of care.
+ 
+Medications on Admission:
+1. Acetaminophen 1000 mg PO BID 
+2. amLODIPine 10 mg PO DAILY 
+3. Docusate Sodium 100 mg PO BID 
+4. Senna 8.6 mg PO QHS constipation 
+5. Furosemide 20 mg PO DAILY 
+6. Levothyroxine Sodium 75 mcg PO DAILY 
+7. Vitamin D3 (cholecalciferol (vitamin D3)) 1,000 unit oral 
+DAILY 
+8. oxybutynin chloride 5 mg oral DAILY 
+9. Salonpas (methyl salicylate-menthol) ___ % topical DAILY 
+10. Hydrocortisone Cream 1% 1 Appl TP DAILY:PRN itching 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 1000 mg PO BID  
+2.  amLODIPine 10 mg PO DAILY  
+3.  Docusate Sodium 100 mg PO BID  
+4.  Furosemide 20 mg PO DAILY  
+5.  Hydrocortisone Cream 1% 1 Appl TP DAILY:PRN itching  
+6.  Levothyroxine Sodium 75 mcg PO DAILY  
+7.  oxybutynin chloride 5 mg oral DAILY  
+8.  Salonpas (methyl salicylate-menthol) ___ % topical DAILY  
+9.  Senna 8.6 mg PO QHS constipation  
+10.  Vitamin D3 (cholecalciferol (vitamin D3)) 1,000 unit oral 
+DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnoses: 
+#Dysphagia
+#Impacted food bolus in esophagus
+#Bacteremia (may be contaminant)
+
+Secondary Diagnoses:
+#Hypertension
+#Hypothyroidism
+#Bladder spasm
+
+ 
+Discharge Condition:
+Mental Status: Confused - sometimes.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear Ms ___,
+
+You presented to ___ because you felt like food 
+was stuck in your throat.
+
+-While in the hospital, you had a CT scan which showed that 
+there was food in your esophagus (swallowing tube).
+-You had a procedure where a camera was inserted into your 
+swallowing tube. The food that was stuck was pushed into your 
+stomach. 
+-Your symptoms improved.
+
+We advise that from now on, you take smaller bites and chew your 
+food thoroughly before swallowing.
+
+After leaving the hospital, make sure to follow up with your 
+doctors in ___.
+
+We wish you the best,
+
+Your ___ medicine team
+ 
+Followup Instructions:
+___

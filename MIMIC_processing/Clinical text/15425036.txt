@@ -1,0 +1,371 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Bactrim / Sulfa (Sulfonamide Antibiotics)
+ 
+Attending: ___
+ 
+Chief Complaint:
+abdominal pain, diarrhea, vomiting
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old female with history of Ulcerative
+Colitis on balsalazide who presents with abdominal pain, 
+vomiting
+and diarrhea.
+
+She was in her usual state of health until 10:30AM when she
+developed two hours of diarrhea and vomiting, accompanied by
+epigastric pain. She reports that two weeks ago, she had similar
+symptoms for about two days, which self-resolved.
+
+She presented to urgent care at ___, where she was
+given 2L IVF. She had a CT scan showed diffuse active
+inflammation of the transverse colon as well as question of
+hyperenhancement of the small bowel in the left lateral abdomen
+that suggests enteritis, possibly inflammatory versus infectious
+but unable to exclude ischemic cause. She was referred into the
+ED after this workup.
+
+Regarding her chronic UC, which she has had for 13+ years, she
+has occasional flares treated with increasing her dose of
+balsalazide. She has had annual colonoscopies, with the most
+recent on ___ showing mild inflammation throughout much of
+the colon.
+
+She is currently taking balsalazide 3g once daily (vs. 1.5g 
+twice
+daily). In her past flares, she has had some diarrhea but
+generally not pain or vomiting. In the last few years, she
+endorses about 1 or 2 flares a year. In the past with flares she
+simply watches what she eats and they tend to resolve within a
+few days.
+
+Currently she feels tired and thirsty. No pain at the moment
+except for discomfort of IV.
+
+On review of systems, she endorsed feeling weak and dehydrated
+with bilateral lower extremity myalgias and cramping. She also
+endorsed fatigue for the past two weeks but attributed this to
+returning back to her job as a ___ ___.
+She endorses feeling cold with rigors.
+She denied black or bloody stool, fever, or dizziness.
+Her history is significant for recent travel to ___
+
+In the ED:
+- Initial vital signs were notable for:
+T 98.6  HR 85  BP 129/73 RR 20  O2 Sat 96% RA 
+
+- Exam notable for:
+NAD
+Moist mucous membranes
+RRR, no m/r/g
+Lungs clear
+Abdomen soft, nondistended, nontender
+Extremities no edema, warm and well perfused
+
+- Labs were notable for:
+At urgent care---
+-- Chem panel: Cr 1.5, otherwise unremarkable; P 5.0
+-- LFTs: AP 109, Albumin 5.4, otherwise unremarkable
+-- CRP 2.2
+-- CBC: WBC 14.1, Hgb 15.9, Plt 255 (88.6% PMNs)
+
+Here:
+-- Lactate 2.6
+-- CRP 16.1
+-- UA with 30 protein
+
+No imaging performed other than the ___ CT which shows:
+
+CT A/P with contrast
+1. Suggestion of diffuse submucosal fat deposition throughout 
+the
+large bowel, consistent with chronic history of ulcerative
+colitis. Mild diffuse submucosal hyperenhancement, particularly
+of the transverse colon, without significant pericolonic
+stranding, suggestive of mild diffuse active inflammation. 
+
+2. Questionable hyperenhancement of small bowel in the left
+lateral abdomen with mild mesenteric stranding suggests
+enteritis, inflammatory versus infectious, with ischemic 
+etiology
+not excluded given the segmental distribution. 
+
+- Patient was given:
+2L LR (second liter running on transfer)
+
+- Consults:
+GI: Recommended checking C. diff and stool studies; if C. diff 
+is
+negative, recommend starting IV methylprednisone 20mg q8h; plan
+for colonoscopy on ___
+
+Vitals on transfer:  
+T 98.1  HR 62  BP 104/64  RR 18  O2 Sat 96% RA 
+
+Upon arrival to the floor, she reports no pain or discomfort.
+Unfortunately, she had a bowel movement right after arrival 
+which
+was not saved. She will give us her next stool sample. She
+reports she is very tired and wants to sleep but otherwise 
+denies
+any other concerns.
+
+REVIEW OF SYSTEMS: Complete ROS obtained and is otherwise
+negative.
+
+ 
+Past Medical History:
+- Ulcerative colitis, diagnosed ___
+- ___
+- Ankle surgery last year
+ 
+Social History:
+___
+Family History:
+Mother- deceased at ___, had diabetes, CAD s/p CABG
+Father- deceased at ___, had HTN, colon polyps
+Sister- living, colon polyps
+Health brothers x 2 
+___- deceased at ___, colon cancer
+PGM- deceased at ___, colon cancer
+PGM- deceased at ___, stroke
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+VITALS: T 97.8 BP 117 / 70 HR 68 RR 18 O2 Sat 94 RA 
+GENERAL: Alert and interactive. In no acute distress.
+EYES: NCAT. PERRL, EOMI. 
+ENT: MMM.
+CARDIAC: Regular rhythm, normal rate. No murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. Normal work of 
+breathing
+ABDOMEN: Normal bowels sounds, non distended, non-tender.
+MSK: No edema.
+SKIN: Warm. No significant rash. Slight rosacea overlying
+eyelids.
+NEUROLOGIC: Nonfocal. Grossly normal neuro exam.
+PSYCH: appropriate mood and affect
+
+DISCHARGE PHYSICAL EXAM
+GENERAL: Alert and interactive. In no acute distress.
+EYES: NCAT. PERRL, EOMI. 
+ENT: MMM.
+CARDIAC: Regular rhythm, normal rate. No murmurs/rubs/gallops.
+RESP: Clear to auscultation bilaterally. Normal work of 
+breathing
+ABDOMEN: Normal bowels sounds, non distended, non-tender.
+MSK: No edema.
+SKIN: Warm. No significant rash. Slight rosacea overlying
+eyelids.
+NEUROLOGIC: Nonfocal. Grossly normal neuro exam.
+PSYCH: appropriate mood and affect
+ 
+Pertinent Results:
+ADMISSION LABS
+___ 03:03PM BLOOD WBC-14.1* RBC-5.31* Hgb-15.9* Hct-47.1* 
+MCV-89 MCH-29.9 MCHC-33.8 RDW-12.9 RDWSD-41.9 Plt ___
+___ 03:03PM BLOOD Neuts-88.6* Lymphs-4.5* Monos-5.5 
+Eos-0.5* Baso-0.4 Im ___ AbsNeut-12.48* AbsLymp-0.63* 
+AbsMono-0.77 AbsEos-0.07 AbsBaso-0.05
+___ 03:03PM BLOOD Glucose-120* UreaN-17 Creat-1.5* Na-141 
+K-4.9 Cl-99 HCO3-24 AnGap-18
+___ 03:03PM BLOOD ALT-15 AST-26 AlkPhos-109* TotBili-0.7
+___ 03:03PM BLOOD Lipase-26
+___ 03:03PM BLOOD Albumin-5.4* Calcium-10.6* Phos-5.0* 
+Mg-1.9
+___ 03:03PM BLOOD CRP-2.2
+___ 01:07AM BLOOD Lactate-2.6*
+
+IMAGING
+
+CT ABD WITH CONTRAST ___. Suggestion of diffuse submucosal fat deposition throughout 
+the large bowel, 
+consistent with chronic history of ulcerative colitis.  Mild 
+diffuse 
+submucosal hyperenhancement, particularly of the transverse 
+colon, without 
+significant pericolonic stranding, suggestive of mild diffuse 
+active 
+inflammation. 
+2. Questionable hyperenhancement of small bowel in the left 
+lateral abdomen 
+with mild mesenteric stranding suggests enteritis, inflammatory 
+versus 
+infectious, with ischemic etiology not excluded given the 
+segmental 
+distribution. 
+
+CTA ABD AND PELVIS ___
+  
+1. There is no evidence of ischemic bowel. Vessels of the 
+abdomen pelvis are 
+unremarkable. 
+2. The bowel is nonobstructed. There are no findings on CT to 
+explain the 
+patient's nausea and vomiting. 
+3. There is mild edema of the descending colon and rectum which 
+could be 
+secondary to ulcerative colitis. 
+
+DISCHARGE LABS
+
+___ 10:19AM BLOOD WBC-4.8 RBC-4.09 Hgb-12.0 Hct-37.0 MCV-91 
+MCH-29.3 MCHC-32.4 RDW-13.1 RDWSD-43.2 Plt ___
+___ 10:19AM BLOOD Glucose-93 UreaN-12 Creat-0.9 Na-142 
+K-3.7 Cl-108 HCO3-23 AnGap-11
+___ 10:19AM BLOOD Albumin-3.8 Calcium-8.9 Phos-2.6* Mg-1.9
+___ 01:16AM BLOOD CRP-16.1*
+___ 10:19AM BLOOD CRP-17.6*
+___ 06:35AM BLOOD Lactate-0.9
+___ 10:42AM BLOOD Lactate-1.___RIEF HOSPITAL COURSE
+=====================
+Dr. ___ is a ___ year old woman with history of ulcerative 
+colitis on balsalazide who presented on ___ with abdominal 
+pain, vomiting, and diarrhea for several hours with CT imaging 
+concerning for colitis and labs showing acute kidney injury. 
+Symptoms resolved over the next ___ hours and acute kidney injury 
+resolved with IV fluids. Patient was seen by the GI service. 
+Given the course of this illness, unlikely to be due to 
+ulcerative colitis flare. CTA abdomen and pelvis was performed 
+which ruled out ischemic bowel but showed some mild edema of the 
+descending colon and rectum that could be secondary to 
+ulcerative colitis. On discharge she feels well and has an 
+appointment with GI Dr. ___ follow up on ___.
+
+TRANSITIONAL ISSUES
+===================
+[] Please ensure patient keeps follow up with Dr. ___ on ___
+[] patient has a flow murmur
+[] CRP 17.6 on discharge, please repeat to ensure normalization
+
+ACUTE ISSUES:
+=============
+# Colitis:
+# History of ulcerative colitis, long-standing.
+Patient presented with mild epigastric pain associated with 
+vomiting and diarrhea for 1 day, with CT findings showing 
+concern for UC flare vs. infection. Her most recent colonoscopy 
+performed on ___ shows congestion, edema, erythema, 
+friability, and mucoid exudate, punctate mucoid apthae 
+suggesting chronic inactive vs. mildly active colitis. By the 
+time she was admitted, her symptoms were almost fully resolved. 
+C. diff and stool studies were sent off and are pending. She was 
+seen by GI who felt this is not consistent with ulcerative 
+colitis flare due to short time course, vomiting, non-bloody 
+stools. Chose to rule out bowel ischemia with CTA abdomen and 
+pelvis given history of some post-prandial discomfort recently 
+and elevated lactate the day prior when she presented to urgent 
+care. CTA was negative for bowel ischemia. Symptoms are fully 
+resolved on discharge and the patient will follow up with Dr. 
+___ on ___. Patient is instructed to continue balsalazide 3 g 
+daily as usual.
+
+# Leukocytosis: WBC 14 with neutrophilic predominance.
+# Lactic acidosis: Lactate 2.6. Could be elevated in setting of
+colitis (whether ischemic or infectious, as above). Resolved 
+following fluid repletion. CTA abdomen and pelvis ruled out 
+bowel ischemia. Encouraged increased PO intake as she got 
+contrast and had ___ on admission.
+
+# ___: Cr 1.5, with no known prior history of CKD. Likely 
+prerenal in setting of significant GI losses via diarrhea and 
+emesis; concentrated urine. Resolved on labs the following 
+morning with creatinine 0.9, following fluid repletion. Received 
+IV contrast for CTA afterwards, however. Encouraged to drink 
+plenty of fluids in the coming days.
+
+CHRONIC ISSUES:
+===============
+# Rosacea: Diagnosed ___ years ago
+Held topicals. Okay to restart.
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. balsalazide 3000 mg oral DAILY 
+2. Vitamin D ___ UNIT PO DAILY 
+3. Fluocinolone Acetonide 0.01% Solution 1 Appl TP BID:PRN 
+rash/pruritis 
+4. Ketoconazole Shampoo 1 Appl TP ASDIR 
+5. tacrolimus 0.1 % topical BID 
+
+ 
+Discharge Medications:
+1.  balsalazide 3000 mg oral DAILY  
+2.  Fluocinolone Acetonide 0.01% Solution 1 Appl TP BID:PRN 
+rash/pruritis  
+3.  Ketoconazole Shampoo 1 Appl TP ASDIR  
+4.  tacrolimus 0.1 % topical BID  
+5.  Vitamin D ___ UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+-----------------
+Gastroenteritis
+Acute kidney injury
+
+SECONDARY DIAGNOSIS
+-------------------
+Ulcerative colitis 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Dr. ___,
+  
+ ___ was a pleasure taking care of you at the ___ 
+___!  
+
+ WHY WAS I IN THE HOSPITAL?  
+ ==========================  
+ - You came to the hospital because you had vomiting, diarrhea, 
+and abdominal pain that caused dehydration requiring intravenous 
+fluids and there was concern for an ulcerative colitis flare.   
+
+ WHAT HAPPENED IN THE HOSPITAL?  
+ ==============================  
+ -  In the hospital you received IV fluids
+ -  You were seen by the gastroenterologists who determined that 
+your symptoms were probably not related to ulcerative colitis
+ -  You underwent a CT scan with contrast that showed that your 
+symptoms were not due to bowel ischemia 
+ -  It was determined that your symptoms were probably due to 
+infectious gastroenteritis 
+
+ WHAT SHOULD I DO WHEN I GO HOME?  
+ ================================  
+ - Please continue to take all of your medications as directed
+ - Please follow up with all the appointments scheduled with 
+your doctor
+ - You have an appointment scheduled with Dr. ___ on ___ at 
+9:15AM. Please call to confirm at ___.
+ - Please drink lots of fluids!
+
+ Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+ Your ___ Healthcare Team  
+
+ 
+Followup Instructions:
+___

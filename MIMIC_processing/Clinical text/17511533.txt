@@ -1,0 +1,279 @@
+Name:  ___                Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+aspirin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+eye pain
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ female who was transferred
+from ___ for fever of unknown origin. She
+initially developed symptoms of fever, myalgia/arthralgia and
+headache 2 weeks prior to admission to ___.
+She was seen by her PCP ___ was thought to be ___ to a
+viral illness. However, her symptoms persisted which led her to
+go to ___. On admission, she was found to
+have anemia, mild transaminases with significant inflammatory
+markers as well as + cannabinoid and cocaine. Her hospital 
+course
+was complicated by ___. Infectious disease, rheumatology,
+nephrology, GI and Heme/onc was consulted. Infectious Work up 
+was
+negative for RPR, lyme, CMV, EBC serology, HIV, Hepatitis panel,
+cold agglutinin, urine ___, and blood cultures. Pending ___
+and mycoplasma serology. She was initially treated with
+ceftriaxone but was discontinuted given the negative workup.
+Rheumatological work up was negative for ___, DsDNA, Rheumatoid
+factor/CCP, ANCA. Other work up included a CT head w/o contrast
+was negative to explain her headache and blurry vision.
+Unfortunately, MRI is contraindicated due to a metal piercing in
+the patient's genital. CT abdomen on ___ volume overload. In
+addition, she continues to have persistent anemia with a low
+reticulocyte count leading to consultation of heme/onc who
+ultimately recommended a bone marrow biopsy at ___. She was
+transferred to use for further workup of recurrent fever and
+possible bone marrow biopsy.
+
+On presentation, the patient appeared to be agitated given her
+prolong hospital stay. She remained uncooperative with questions
+and exam. ROS was difficult to obtain. However, the patient's
+mother was concern that the patient is having blurry vision.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+- left knee arthroscopy, plantar fasciitis, pharyngitis,
+tonsillitis and UTI
+
+ 
+Social History:
+___
+Family History:
+Grandfather with kidney stones, lupus in cousins.
+
+ 
+Physical Exam:
+ADMISSION
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress, appeared to be
+agitated.
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, + holosystolic murmur, no S3, no S4. no JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is ___
+GI: Abdomen soft, distended but ___ to palpation.  Bowel
+sounds present.  
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted, no splinter hemorrhage or
+___ lesion. 
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE
+VS: ___ 0730 Temp: 98.4 PO BP: 142/87 HR: 62 RR: 18 O2 sat:
+99% O2 delivery: RA 
+Gen - sitting up in bed, comfortable
+Eyes - EOMI; sclera injected; PERRL; 
+ENT - OP clear, MMM; 
+Heart - RRR no mrg
+Lungs - CTA bilaterally
+Abd - soft nontender; normal bowel sounds 
+Ext - no edema
+Skin - no rashes
+Vasc - 2+ DP/radial pulses
+Neuro - AOx3, moving all extremities
+Psych - appropriate
+ 
+Pertinent Results:
+ADMISSION 
+___ 06:30AM BLOOD ___ 
+___ Plt ___
+___ 06:30AM BLOOD ___ 
+___
+___ 06:30AM BLOOD ___
+___ 06:16AM BLOOD ___
+___ 06:30AM BLOOD ___
+___ 01:00PM BLOOD ___
+___ 06:30AM BLOOD ___
+
+DISCHARGE
+___ 06:41AM BLOOD ___ 
+___ Plt ___
+___ 06:41AM BLOOD ___ 
+___
+___ 06:41AM BLOOD ___
+
+CT Chest
+No CT findings to suggest sarcoidosis.
+
+ 
+Brief Hospital Course:
+This is a ___ year old female with past medical history of 
+recurrent vaginitis, prior left knee arthroscopy, recent complex 
+course notable for nausea, fevers, joint pains, eye pain, ___, 
+anemia, all of unclear etiology, transferred to ___ on 
+___, found to have severe bilateral anterior uveitis, 
+subsequently started on eye drops, with additional extensive 
+workup without signs of autoimmune process, with OSH mycoplasma 
+serologies returning positive, thought to have potentially had a 
+reactive uveitis to this infection, started on doxycycline, and 
+able to be discharged home.
+
+# Eye pain secondary to 
+# Acute Bilateral Uveitis 
+At time of transfer to ___, patient's biggest concern was her 
+eye pain. Exam with significant injection and light sensitivity, 
+concerning for acute uveitis.  Patient was seen by ophthalmology 
+and diagnosed with acute anterior uveitis.  She was started on 
+steroid and atropine eye drops. Underlying cause was felt to be 
+inflammatory vs infectious process, prompting evaluation by ID 
+and rheum consult services.  Extensive workup was notable for a 
+positive Mycoplasma pneumonia serology IgG and IgM, which 
+returned from ___.  Otherwise notable for equivocal 
+lyme serologies (confirmatory immunoassay pending at discharge). 
+ Remainder of workup including chest CT and multiple infectious 
+serologies, basic rheumatology panel were negative at ___ or 
+___.  Patient felt to have had reactive uveitis 
+secondary to mycoplasma pneumoniae infection.  For this, 
+infectious disease consult service recommended 1 week of PO 
+doxycycline.  Rheumatology service recommended no further 
+workup. Ophthalmology consult recommended PrednisoLONE 1% and 
+tropicamide eye drops pending further outpatient evaluation.  
+Patient scheduled for rapid ophthalmology ___ on ___.  
+Counseled patient on not driving until cleared by PCP or 
+___ verbalized agreement. 
+
+# ___ 
+On transfer, noted to have ___ to Cr 1.2 from baseline 0.6.  Had 
+peaked at 1.8 at OSH, then trended down to 1.0 by time of 
+discharge.  UA without proteinuria.  Patient euvolemic.  
+Suspected to be insult in setting of her initial acute illness, 
+with subsequent slow improvement.  Would consider creatinine 
+recheck at ___ to ensure continued improvement. 
+
+# Anemia
+Transfer to ___ had been initiated due to OSH concern patient 
+required bone marrow biopsy.  Patient was seen by ___ 
+hematology consult service who felt anemia was likely reactive 
+to above systemic process, as well as iron deficiency.  Patient 
+received 1 dose of IV iron, and was discharged on every other 
+day iron.  Per hematology recommendations, she was scheduled for 
+outpatient ___ clinic ___.  Would consider repeat 
+Hgb check at ___ to ensure improvement. 
+
+# Transaminitis 
+Mild and stable through this admission.  Unclear if chronic vs 
+part of above acute process.  At discharge ALT 72 AST 38 AP 172, 
+Tbili 0.5.  Would consider repeat LFTs at ___ and 
+consideration of additional workup if not normalized. 
+
+# Abnormal TTE 
+TTE incidentally showed "Mild symmetric left ventricular 
+hypertrophy with normal cavity size and regional/global 
+biventricular systolic function. Mild mitral
+regurgitation."
+
+Transitional issues: 
+- Discharged home
+- Patient counseled on not driving until cleared by 
+ophthalmology or primary care physician
+- ___ with rapid ophthalmology, primary care, hematology 
+___ 
+- Discharge Hgb 8.2, would recheck at ___ visit to ensure 
+stability/improvement 
+- Discharge Cr 1.0, would recheck at ___ visit to ensure 
+improvement
+- Per ID recommendations, would repeat M. pneumoniae serologies 
+as outpatient ___ increase in IgG would further support 
+diagnosis of mycoplasma pneumoniae)
+diagnosis
+- Eye drops to continue until otherwise instructed by 
+ophthalmology
+- Last day of 7day course of doxycycline = ___
+
+> 30 minutes spent on this discharge
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Doxycycline Hyclate 100 mg PO Q12H Duration: 6 Days 
+last day = ___ 
+RX *doxycycline hyclate 100 mg 1 tablet(s) by mouth twice a day 
+Disp #*13 Tablet Refills:*0 
+2.  Ferrous Sulfate 325 mg PO EVERY OTHER DAY 
+RX *ferrous sulfate 325 mg (65 mg iron) 1 tablet(s) by mouth 
+every other day Disp #*14 Tablet Refills:*0 
+3.  PrednisoLONE Acetate 1% Ophth. Susp. 1 DROP BOTH EYES Q4H 
+RX *prednisolone acetate [Pred Forte] 1 % 1 drop ophth every 
+four (4) hours Disp ___ Milliliter Milliliter Refills:*0 
+4.  Tropicamide 1 % 1 DROP BOTH EYES BID 
+RX *tropicamide 1 % 1 drop ophth twice a day Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# Acute Bilateral Anterior Uveitis 
+# ___ 
+# Anemia
+# Elevated LFTs
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___: 
+
+It was a pleasuring caring for you at ___.  You were 
+transferred here with eye pain.  You were seen by eye doctors 
+who ___ with a condition called "anterior uveitis".  
+This can be caused by the body's response to an infection or 
+inflammation.  You were started on eye drops and your eyes 
+improved.  
+
+You were seen by infection doctors and ___.  
+Your testing showed that you might have recently had an 
+infection called mycoplasma pneumoniae--this might have caused 
+your eye condition to develop.  You were started on antibiotics 
+to treat this infection.
+
+It will be important for you to keep your ophthalmology (eye 
+doctor), primary care doctors, and hematology (blood doctor) 
+appointments. 
+
+As we discussed, you should not be driving until you are cleared 
+by your primary care doctor or ophthalmologist. 
+
+You are now ready for discharge home. 
+ 
+Followup Instructions:
+___

@@ -1,0 +1,206 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+Iodinated Contrast- Oral and IV Dye
+ 
+Attending: ___
+ 
+Chief Complaint:
+Presyncope 
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ with history of a-fib, HTN, presents with light headedness
+and bradycardia.
+
+He was at ___ waiting for optometry appointment for 2.5 hours
+and unwell, reported light headedness. The patient claims that 
+his symptoms happened immediately after standing up. First Aid 
+response was
+called and he had bradycardia to ___, hypertensive to 150s
+systolic. FSBS ___. Denies any syncope. He was referred to ED 
+for
+evaluation. Lightheadedness resolved during the ambulance ride.
+Notably, he started taking furosemide 40mg day prior (unclear
+indication).
+ 
+
+In the ED initial vitals were: 
+- 98.0 52 (49-55) 166/98 16 95% RA FSBS 114  
+- exam notable for bradycardia, clear lungs, and 1+ ___ edema
+- labs notable for BNP 1485, Trop T < 0.01, BMP wnl
+- CXR with no acute process
+
+EKG:  a-fib, 43VBPM. TWI in lateral leads. 
+ 
+On the floor he reports feeling well aside form chronic neck 
+pain
+which is more severe than usual. 
+ 
+REVIEW OF SYSTEMS:  
+Cardiac review of systems is notable for absence of chest pain,
+dyspnea on exertion, paroxysmal nocturnal dyspnea, orthopnea,
+ankle edema, palpitations, syncope.
+ 
+Otherwise, full 10 point ROS is negative.
+ 
+
+ 
+Past Medical History:
+HTN
+Afib
+Cirrhosis ? (HCV treated in ___ 
+HFpEF 
+ 
+Social History:
+___
+Family History:
+Father with MI at age ___.
+Mother with alcoholism.
+ 
+
+ 
+Physical Exam:
+On admission:
+VITALS: 97.9 187/119 60 22 95 ra  
+GENERAL: Well-developed, well-nourished. NAD. Mood, affect
+appropriate.  
+HEENT: PERRL, EOMI, MMM
+NECK: Supple, JVP not elevated  
+CARDIAC: irreg irreg, S1, S2, no MRG
+LUNGS: bibasilar rales  
+ABDOMEN: obese, s, nt, nd
+EXTREMITIES: No c/c/e. wwp. 2+ radial pulses. Trace lower shin
+edema.
+SKIN: No stasis dermatitis, ulcers, scars, or xanthomas.  
+NEURO: full strength in all extremities
+
+At discharge: 
+24 HR Data (last updated ___ @ 1130)
+    Temp: 98.3 (Tm 98.3), BP: 147/89 (147-187/84-119), HR: 67
+(60-75), RR: 20 (___), O2 sat: 93% (91-97), O2 delivery: RA,
+Wt: 207.45 lb/94.1 kg (207.45-212.0)  
+
+Same findings on physical exam 
+
+ 
+Pertinent Results:
+___ 06:10AM BLOOD Glucose-91 UreaN-19 Creat-1.2 Na-147 
+K-4.3 Cl-108 HCO3-23 AnGap-16
+___ 03:18PM BLOOD proBNP-1485*
+___ 06:10AM BLOOD Calcium-9.4 Phos-3.5 Mg-2.2
+___ 03:18PM BLOOD TSH-1.3
+ 
+Brief Hospital Course:
+Patient remained in the hospital less than 24 hours for 
+monitoring. 
+He denied any chest pain, light headedness, palpitations. 
+
+Regarding his presyncope episode, it is most consistent with 
+orthostatic hypotension or a vasovagal event in setting of 
+prolonged sitting, possibly exacerbated by hypovolemic state 
+from starting Lasix day prior, and unable to ___
+response due to beta blocker. Symptoms and bradycardia now 
+resolved.
+
+The patient has done a TTE in ___ in the STEWARD system: 
+EF 65%, some WMAs, no valvulopathies. 
+A TEE was done in ___ which showed EF 65%, no
+valvulopathies, no LVH and no thrombus in the ___. 
+
+- Patient advised to stay hydrated (1.5 - 2 L of water daily). 
+He will follow up with the PCP and ___ 
+- Metoprolol dose was reduced from 50 mg daily to 25 mg. 
+
+Regarding his uncontrolled hypertension. The patient claims that 
+his sBP is 180 mmHg at home in AM and 150s in the afternoon. He 
+is compliant with his lisinopril. He was advised to start 
+amlodipine by his cardiologist but it seems the patient did not 
+take it. Since it would be better to have 1 medication to ensure 
+better medication compliance, we will increase his Lisinopril to 
+80 mg 
+
+Regarding his Atrial fibrillation, the patient is not on 
+anticoagulation since Eliquis was making him nauseous. 
+CHA2DS2-VASc = 2- 3 (HTN, age ___) + possible CAD 
+Currently rate controlled, his Metoprolol was decreased to 25 mg 
+since he had that episode of syncope and some pauses overnight. 
+He was advised that he should be on it and he prefers to discuss 
+that with Dr. ___. 
+
+Transitional issues:
+- Metoprolol Succinate was decreased to 25 mg daily since he was 
+not able to mount a tachycardic response during the syncope. 
+Moreover, he had 2.6 seconds pauses ( not a conversion pause) 
+during his sleep. This should be looked at in outpatient.
+- Restart anticoagulation for the patient's Afib.
+- Blood pressure is uncontrolled at home, we increased his 
+lisinopril to 80 mg daily 
+- He will need a BMP in 2 to 3 weeks 
+- Regarding his polycythemia, a work-up should be done. This 
+would include assessing for primary causes (polycythemia ___ 
+with a JAK 2 mutation), secondary (such as HCC since he is known 
+to have cirrhosis, OSA or other).
+- 1.2cm left lung nodule on CXR ==> Will be readdressed by the 
+primary care doctor in the outpatient setting (CT chest would be 
+a reasonable option or a comparison to a previous X ray )
+ 
+Medications on Admission:
+The Preadmission Medication list may be inaccurate and requires 
+futher investigation.
+1. Furosemide 20 mg PO DAILY 
+2. Lisinopril 40 mg PO DAILY 
+3. Metoprolol Succinate XL 50 mg PO DAILY 
+4. Cyclobenzaprine 5 mg PO TID:PRN back spasm 
+
+ 
+Discharge Medications:
+1.  Lisinopril 80 mg PO DAILY 
+RX *lisinopril 40 mg 2 tablet(s) by mouth daily Disp #*60 Tablet 
+Refills:*0 
+2.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate [Toprol XL] 25 mg 1 tablet(s) by mouth 
+daily Disp #*30 Tablet Refills:*0 
+3.  Cyclobenzaprine 5 mg PO TID:PRN back spasm  
+4.  Furosemide 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Orthostatic hypotension vs. Vasovagal syncope
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+It was a pleasure taking care of you. 
+You were admitted to ___ after feeling light headed which was 
+mainly after standing up. Moreover, you were sweating and felt 
+nauseous. This is in favor of orthostatic hypotension or 
+vasovagal syncope, both of which are benign. One of the main 
+causes of this is dehydration, therefore we would recommend that 
+you stay hydrated and drink around 2 L of water daily. 
+
+You should decrease the dose of Metoprolol Succinate to 25 mg 
+daily instead of 50 mg daily. 
+Continue taking the Lasix as usual but in case you feel this 
+light headedness again, please call your primary care doctor or 
+your cardiologist and hold the dose of that day. 
+
+ 
+Followup Instructions:
+___

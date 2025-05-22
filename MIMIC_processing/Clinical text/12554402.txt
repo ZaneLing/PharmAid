@@ -1,0 +1,418 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HPI: Mr. ___ is a ___ man with recent history of
+right navicular fracture non-operatively managed complicated by
+DVT on rivaroxaban who presents with shortness of breath.
+
+Per review of the records, the patient was in his usual state of
+health until three weeks ago when he had a mechanical fall
+(rolled his ankle while at work as a ___),
+resulting in a right navicular fracture. Of additional note, he
+also recently had a mild trauma to the back of his right knee 
+(he
+was hit by a hockey puck). He was seen by an outside orthopedist
+(Dr. ___ at ___, who recommended a walking boot. 
+
+He was initially doing well at home, but 10 days prior to
+admission, he developed severe right calf cramping and pain, as
+well as right foot discoloration. He had an outpatient 
+ultrasound
+that demonstrated a right posterior tibial vein DVT, and he
+presented to ___ where he was started on a heparin
+gtt. Due to concern for possible ischemia of the limb, he
+underwent CTA that was nondiagnostic and was subsequently
+transferred to ___ for further care on ___. Here, he was
+seen by vascular surgery who felt that the patient did not have
+limb threat, and was discharged home on rivaroxaban 15 mg BID. 
+
+The patient tells me that he missed the first scheduled evening
+dose of rivaroxaban due to insurance issues, but otherwise has
+been taking it as prescribed, 15 mg twice daily with at least 
+500
+calories. He has not missed any other doses. He did take one 
+dose
+during a subsequent ER visit that was not with food.
+
+He was seen in the outpatient setting on ___ by vascular
+medicine and underwent ABI/PVRs that were largely normal, and 
+who
+felt that the explanation for the patient's cool and discolored
+foot was not perfectly clear (paradoxical embolism vs. increased
+vasoreactivity) but agreed with continuation of anticoagulation. 
+
+
+However, the patient had increased pain and discoloration
+overnight so presented again to the ED on ___.
+He was seen by vascular surgery who recommended repeat CTA, 
+which
+showed patent arterial vasculature. 
+
+He tells me that since he fracture his foot, he has felt 
+slightly
+breathless when using his crutches to ambulate. This is
+particularly unusual for him as he is physically fit (he is a
+___ and ___). However, one day prior 
+to
+admission, he developed severe shortness of breath at rest and
+with exertion. He also felt a cold sensation in the ___ 
+his
+chest, as well as palpitations and tingling in his bilateral
+hands and mouth. He felt dizzy when he stood. He used a pulse
+oximeter at home and reports that his oxygen saturation was
+normal. He reports that the pain and discoloration in his right
+lower extremity has slowly improved. He spoke with his
+orthopedist, who recommended that he discontinue the walking 
+boot
+and begin weight bearing with the crutches as tolerated, and he
+has been able to bear about 20% of his weight. He reports that 
+he
+still gets the sensation that his right lower extremity up to 
+the
+knee has been dipped in ice water, but this sensation primarily
+occurs when his leg has been in the dependent position for a
+prolonged period of time.
+
+Given his symptoms, a visiting nurse suggested that he present 
+to
+the ED for further evaluation. 
+
+Initial vitals: 98.7 78 145/85 24 100% RA 
+Labs notable for: CBC wnl; PTT39.9, INR 1.6; BUN/Cr ___
+trop<0.01x2, proBNP 25
+Imaging: CTA with PE
+Patient given: Heparin gtt
+
+On arrival to the floor, the patient recounts the above history.
+He feels that his shortness of breath is somewhat worse, but
+attributes this to prolonged speaking. When he speaks, he feels
+tingling in his bilateral hands. His right ankle at the site of
+the fracture is sore.
+
+ROS: Pertinent positives and negatives as noted in the HPI.  All
+other systems were reviewed and are negative. 
+
+ 
+Past Medical History:
+- Right navivular fracture
+- Right lower extremity DVT
+- S/p removal of bone spur on right heel
+ 
+Social History:
+___
+Family History:
+No known family history of blood clots. Cousin
+with history of CVA in his ___ in setting of car accident. 
+Mother
+with RA, ___. Uncle with MI in his ___.
+ 
+Physical Exam:
+ADMISSION:
+=========
+VITALS: 97.9 116/72 72 20 98 RA 
+GENERAL: Alert and mildly uncomfortable appearing
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur
+RESP: Tachypneic. Lungs clear to auscultation with good air
+movement bilaterally. 
+GI: Abdomen soft, non-distended, non-tender to palpation. Bowel
+sounds present.  
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs; right leg slightly 
+cooler
+than left; ___ pulses intact
+SKIN: Port wine stain birthmark over right knee; no 
+discoloration
+of right foot; no petechiae or bruising
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: Very pleasant, appropriate affect
+
+DISCHARGE:
+==========
+Standing: 127 / 79, 76; Sitting: 117 / 75, 67, Lying: 133/75, 
+HR: 66, RR: 16, O2 98% RA, T: 98.0 
+GENERAL: NAD
+EYES: sclera anicteric, EOMI
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: NS1/S2, RRR
+RESP: CTAB
+GI: Abdomen soft, non-distended, non-tender to palpation. Bowel
+sounds present.  
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs;  ___ pulses intact, 
+___
+strength in LLE, ___ strength in RLE secondary to calf pain,
+unable to flex right lower extremity ankle secondary to recent
+fracture 
+SKIN: Port wine stain birthmark over right knee; no 
+discoloration
+of right foot; no petechiae or bruising
+NEURO: CN II-XII grossly intact 
+PSYCH: appropriate affect
+___: no edema, +1 DP pulses palpated in RLE and LLE 
+
+ 
+Pertinent Results:
+ADMISSION:
+==========
+___ 12:19PM BLOOD WBC-4.6 RBC-5.13 Hgb-16.2 Hct-46.3 MCV-90 
+MCH-31.6 MCHC-35.0 RDW-12.3 RDWSD-40.8 Plt ___
+___ 12:19PM BLOOD ___ PTT-39.9* ___
+___ 12:19PM BLOOD Glucose-103* UreaN-21* Creat-1.3* Na-138 
+K-4.2 Cl-102 HCO3-23 AnGap-13
+___ 04:36PM BLOOD cTropnT-<0.01
+___ 12:19PM BLOOD cTropnT-<0.01 proBNP-25
+___ 12:19PM BLOOD Calcium-10.2 Phos-1.9* Mg-2.0
+
+DISCHARGE:
+==========
+___ 08:16AM BLOOD WBC-4.6 RBC-4.93 Hgb-15.6 Hct-46.2 MCV-94 
+MCH-31.6 MCHC-33.8 RDW-12.2 RDWSD-42.5 Plt ___
+___ 06:43AM BLOOD WBC-5.2 RBC-4.81 Hgb-15.2 Hct-45.1 MCV-94 
+MCH-31.6 MCHC-33.7 RDW-12.3 RDWSD-42.8 Plt ___
+___ 12:19PM BLOOD Neuts-42.3 ___ Monos-11.4 Eos-2.0 
+Baso-1.1* Im ___ AbsNeut-1.94 AbsLymp-1.97 AbsMono-0.52 
+AbsEos-0.09 AbsBaso-0.05
+___ 08:16AM BLOOD Plt ___
+___ 08:16AM BLOOD ___ PTT-37.3* ___
+___ 08:16AM BLOOD Glucose-79 UreaN-16 Creat-1.4* Na-141 
+K-4.2 Cl-103 HCO3-25 AnGap-13
+___ 06:43AM BLOOD Glucose-80 UreaN-16 Creat-1.4* Na-143 
+K-4.8 Cl-104 HCO3-25 AnGap-14
+___ 05:15AM BLOOD Glucose-89 UreaN-16 Creat-1.3* Na-141 
+K-4.0 Cl-105 HCO3-24 AnGap-12
+___ 06:43AM BLOOD ALT-19 AST-19 CK(CPK)-193 AlkPhos-75 
+TotBili-0.7
+___ 08:16AM BLOOD Calcium-10.0 Phos-4.2 Mg-2.0
+___ 06:43AM BLOOD Calcium-9.8 Phos-4.8* Mg-2.1
+___ 06:43AM BLOOD TSH-2.7
+
+IMAGING:
+========
+EKG (___):
+NSR at 68bpm, nl axis, PR 368, QRS 100, QTC 416, no ischemic
+changes or RV strain pattern, 1st degree AV block and likely 2nd
+degree block type I (although no clear P preceding possible
+dropped beat)
+
+TTE (___):
+Nl BiV systolic function (EF 57%). Mild MR with mild anterior
+leaflet systolic prolapse. Mild TR. No e/o R->L intracardiac
+shunt at rest or with maneuvers.
+
+R ___ (___):
+Persistent deep venous thrombosis of a mid right posterior 
+tibial
+vein, improved from prior.  No additional deep venous 
+thrombosis.
+
+  
+EKG (___):
+NSR at 69 bpm, nl axis, PR 206 (1st degree block), QRS 103, QTC
+430, borderline LVH, no ischemic changes or clear RV strain
+pattern
+
+CTA chest (___):
+Single focus of subsegmental pulmonary embolism in the right
+lower lobe, with no prior for comparison. 
+  
+Prior:
+-------
+ABI/TBI (___):
+On the right side, triphasic Doppler waveforms are seen in the
+posterior tibial and dorsalis pedis arteries. The right TBI was
+0.65 
+On the left side, triphasic Doppler waveforms are seen at the
+left femoral, superficial femoral, popliteal, posterior tibial
+and dorsalis pedis arteries.  The left ABI was 1.22. 
+Pulse volume recordings showed symmetric amplitudes in the toes 
+IMPRESSION: Limited study. Normal distal Doppler waveforms. No
+evidence of arterial insufficiency. 
+
+CTA lower extremities with and without contrast (___):    
+1. Partial, segmental opacification of the dorsalis pedis artery
+bilaterally, this can be seen in vasospasm 
+2. Otherwise patent right lower extremity arterial vasculature. 
+3. Delayed opacification of the distal left posterior tibial and
+anterior tibial arteries. 
+
+Right lower extremity ultrasound (___):
+Deep vein thrombosis of a right posterior tibial
+vein. Cannot assess for progression of clot given absence of
+prior for comparison. No additional deep venous thrombosis,
+specifically no clot within the popliteal vein. 
+
+ 
+Brief Hospital Course:
+___ man with recent history of right navicular fracture 
+non-operatively managed complicated by RLE DVT on rivaroxaban 
+who presents with acute onset shortness of breath, found to have 
+subsegmental PE.
+
+# Subsegmental pulmonary embolism:
+# Right lower extremity DVT:
+Patient with recent diagnosis of provoked DVT in setting of 
+orthopedic fracture and immobility, started appropriately on 
+rivaroxaban 15 mg BID on ___ to which he had been faithfully 
+adherent. Recent ED visits with pain and discoloration of the R 
+foot, for which multiple CT angiograms were performed and 
+vascular surgery was involved, without evidence of arterial 
+insufficiency, likely vasospasm. R foot appeared to be 
+improving, with no e/o hypoperfusion. Presented this admission 
+with acute onset shortness of breath, found to have RLL 
+subsegmental PE without hypoxia or evidence of RV strain on 
+echocardiogram. Unclear chronicity, but assume acute given onset 
+of symptoms 1-day prior to admission. If so, concerning for 
+rivaroxaban failure. R ___ showed some improvement in DVT, but 
+could simply represent embolization of portion of that clot to 
+the pulmonary bed. He was started initially on a heparin gtt and 
+was seen by vascular medicine. At their recommendation, was 
+transitioned to lovenox bridge to Coumadin. His shortness of 
+breath and dyspnea on exertion gradually improved, and he was 
+ambulating without significant difficulty or hypoxia at the time 
+of discharge.  He will be discharged on lovenox and coumadin 5 
+mg, with goal INR ___, to be managed by his primary care doctor 
+Dr. ___ next INR to be drawn on ___. Lovenox 
+should be continued concurrent with coumadin until INR 
+therapeutic x ___. He will f/u with Vascular Medicine in ___ 
+for consideration of a thrombophilia w/u.  
+
+# Possible early ___: 
+Baseline Cr ~1.2-1.3 (Cr likely underestimates GFR given muscle 
+mass), up to 1.4 on ___. Suspect mild CIN due to multiple 
+recent contrast loads ___, and ___ vs pre-renal 
+etiology, improved and now back to baseline after IVFs. Lower 
+suspicion for paradoxical embolism given absence of PFO on TTE. 
+On discharge, creatinine was 1.4, UA was negative. Patient 
+reporting urinating well. Discussed to recheck chemistries in 
+one week after discharge and further evaluation if creatinine 
+continues to rise, consideration of renal ultrasound as 
+outpatient if needed.
+
+# Right navicular fracture:
+Followed by orthopedic surgery at ___. Walking boot was 
+recently continued, and he was instructed to WBAT with crutches. 
+Tylenol was continued PRN for pain. NSAIDs should likely be 
+avoided given possible ___ as above.
+
+# 1st degree AV block:
+# Possible 2nd degree AV block, type I:
+Noted on telemetry and EKG to have 1st degree and intermittent 
+2nd degree type I AV block. Discussed with vascular medicine, 
+who felt these rhythms to be benign and unrelated to his PE. No 
+intervention needed.
+
+#Derm:
+Patient with port wine stain on his right knee, he also stated 
+his grandmother also had similar port wine stain. Discussed to 
+follow-up with PCP and discuss with vascular as outpatient 
+regarding evaluation of vascular malformation/port wine stain 
+and its possible relationship with neurofibromatosis or another 
+neurocutaneous syndrome and relationship to possible increased 
+risk for DVT.
+
+Patient also reported recent hike to mountains in ___ 
+several weeks ago, he states ongoing history of joint pain that 
+has been present for several months, however he is also 
+athletic. Denies rashes, fevers. Does not recall removing tick. 
+Given history and patient's concern for 1st degree and 
+intermittent 2nd degree AV block, have sent lyme titers pending 
+at discharge. 
+
+** TRANSITIONAL **
+[ ] continue lovenox bridge to coumadin until INR >2 for ___ 
+hours, f/u INR testing on ___
+[ ] f/u with vascular medicine for consideration of 
+thrombophilia w/u and consideration of port wine statin/vascular 
+malformation involvement with a possible neurocutaneous syndrome 
+linked to risk for DVT
+
+No services were provided on discharge. Patient will follow-up 
+with physical therapy as outpatient and obtain INR testing on 
+___. Follow-up with PCP and vascular medicine as outpatient.
+
+Greater than 30 minutes were spent in coordination of discharge 
+management. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Rivaroxaban 15 mg PO BID 
+
+ 
+Discharge Medications:
+1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+2.  Enoxaparin Sodium 90 mg SC Q12H 
+RX *enoxaparin 100 mg/mL 90 mg SC every twelve (12) hours Disp 
+#*14 Syringe Refills:*0 
+3.  Warfarin 5 mg PO DAILY16 
+RX *warfarin [Coumadin] 5 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Pulmonary embolism
+Right leg deep vein thrombosis
+Heart block, second-degree type I
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were admitted to the hospital with shortness of breath and 
+were found to have a blood clot in your lungs.  This clot seems 
+to have occurred while on the blood thinner Xarelto for your 
+right leg clot.  Given this, the vascular medicine team was 
+involved and recommended transitioning you from Xarelto to a 
+medication called Coumadin.  While initiating Coumadin, you are 
+at risk for further clots, and therefore you are being 
+discharged on a medicine called Lovenox that should be taken 
+concurrently with Coumadin until your Coumadin blood levels are 
+therapeutic.  Please be sure to take Lovenox reliably twice a 
+day.  You should have your blood checked at your primary care 
+doctor's office on ___ for Coumadin titration; your primary 
+care doctor ___ future checks going forward.  Please 
+also be sure to follow-up with vascular medicine doctors at your 
+___ appointment.
+
+You will need follow-up labs including INR and chemistries at 
+your next PCP appointment and ___ also see an assistant on 
+___ for Coumadin titration.
+
+With best wishes for a speedy recovery,
+___ medicine
+ 
+Followup Instructions:
+___

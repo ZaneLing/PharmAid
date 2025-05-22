@@ -1,0 +1,301 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+chest pain
+ 
+Major Surgical or Invasive Procedure:
+___: Cardiac catherization with no apparent CAD
+
+ 
+History of Present Illness:
+Ms. ___ is a ___ year old woman with a history of
+thyroidectomy and osteoporosis who presents with chest pain. 
+
+Ms. ___ was in her usual state of health until around
+10:30AM on ___ when she was in exercise class which she attends
+twice every week. She felt diaphoretic and was laboring
+throughout the class and decided to sit down. She then felt like
+she had a pulled muscle in her chest which persisted throughout
+the day. She took one baby aspirin and continued on with her 
+day,
+but continued to feel diaphoretic with a chest tightness. She
+took a second aspirin. The pain resolved spontaneously at 7:30pm
+yesterday evening. 
+
+She presented to ___ this morning and was
+found to have an elevated troponin with T wave inversions and an
+ST elevation in a single isolated lead. She was chest pain free
+at that time. She was therefore transferred to ___. 
+
+EMERGENCY DEPARTMENT COURSE
+Initial vital signs were notable for:  
+- T 98.7, HR 91, BP 136/85, RR 18, O2 97% RA 
+ 
+Exam notable for: 
+- General: in NAD
+- Chest: Clear to auscultation bilaterally
+- Cardiac: Systolic murmur appreciated
+- Abdomen: Soft, nondistended, nontender
+- Extremities: No pedal edema
+
+Labs were notable for: 
+- Trop-T 0.23 -> 0.20.  
+- proBNP 3534
+- TSH 0.35
+
+Patient was given:  
+- Heparin gtt
+- Atorvastatin 80mg
+- Metoprolol tartrate 6.25mg 
+- Clopidogrel 300mg 
+
+Consults: Cardiology
+
+Vital signs prior to transfer: 
+- T 98.2, HR 77, BP 119/78, RR 18, O2 96% Ra 
+
+Upon arrival to the floor: She is asymptomatic. 
+ 
+================= 
+REVIEW OF SYSTEMS 
+================= 
+Complete ROS obtained and is otherwise negative.  
+
+ 
+Past Medical History:
+- Thyroid cancer s/p total thyroidectomy
+- Schwanommatosis s/p removal of multiple benign spine lesions 
+- Osteoporosis
+- Chronic heart murmur 
+ 
+Social History:
+___
+Family History:
+- Sister had MI in early ___. Had a second MI around age ___.
+Similarly had no apparent risk factors. 
+- Father had MI late in life. Also had aortic aneurysm. 
+ 
+Physical Exam:
+=======================  
+ADMISSION PHYSICAL EXAM 
+=======================  
+VITALS: T 98.2, BP 119/78, HR 77, RR 18, O2 96 RA  
+GENERAL: Well appearing, sitting up in bed in no distress
+HEENT: Pupils equal and reactive. No scleral icterus. Moist
+mucous membranes. 
+NECK: No JVD 
+CARDIAC: S1/S2 regular with ___ systolic murmur throughout
+precordium with preserved S2. Strong pedal and radial pulses. 
+LUNGS: Clear bilaterally. 
+ABDOMEN: Soft, non-tender. 
+EXTREMITIES: Warm. No edema. 
+SKIN: Warm and dry. 
+NEUROLOGIC: A+Ox3. Appropriate affect.
+
+=======================  
+Discharge PHYSICAL EXAM 
+=======================  
+GENERAL: Well appearing, sitting up in bed in no distress
+HEENT: Pupils equal and reactive. No scleral icterus. Moist
+mucous membranes. 
+NECK: No JVD  
+LUNGS: Clear bilaterally. 
+ABDOMEN: Soft, non-tender. 
+EXTREMITIES: Warm. No edema. 
+SKIN: Warm and dry. 
+NEUROLOGIC: A+Ox3. Appropriate affect. 
+ 
+Pertinent Results:
+Labs:
+
+___ 11:51AM BLOOD WBC-6.0 RBC-4.99 Hgb-14.5 Hct-44.1 MCV-88 
+MCH-29.1 MCHC-32.9 RDW-13.8 RDWSD-44.4 Plt ___
+___ 06:55AM BLOOD WBC-4.2 RBC-4.82 Hgb-13.8 Hct-42.2 MCV-88 
+MCH-28.6 MCHC-32.7 RDW-13.9 RDWSD-44.5 Plt ___
+___ 11:51AM BLOOD ___ PTT-150* ___
+___ 06:55AM BLOOD PTT-65.6*
+___ 11:51AM BLOOD Glucose-108* UreaN-14 Creat-0.6 Na-139 
+K-3.9 Cl-102 HCO3-24 AnGap-13
+___ 06:55AM BLOOD Glucose-90 UreaN-13 Creat-0.7 Na-139 
+K-3.6 Cl-101 HCO3-23 AnGap-15
+___ 11:51AM BLOOD proBNP-3534*
+___ 11:51AM BLOOD cTropnT-0.23*
+___ 01:50PM BLOOD cTropnT-0.20*
+___ 11:51AM BLOOD Calcium-9.5 Phos-3.4 Mg-2.2 Cholest-215*
+___ 06:55AM BLOOD Calcium-9.2 Phos-3.9 Mg-2.2
+___ 02:48PM BLOOD %HbA1c-5.4 eAG-108
+___ 11:51AM BLOOD Triglyc-56 HDL-69 CHOL/HD-3.1 
+LDLcalc-135*
+___ 11:51AM BLOOD TSH-0.35
+
+___ CXR:
+IMPRESSION: 
+No evidence of focal consolidation, pulmonary edema or pleural 
+effusions.
+
+___ TTE:
+CONCLUSION:
+The left atrial volume index is mildly increased. There is no 
+evidence for an atrial septal defect by 2D/color
+Doppler. The estimated right atrial pressure is ___ mmHg. There 
+is normal left ventricular wall thickness with
+a normal cavity size. Overall left ventricular systolic function 
+is mildly-to-moderately depressed secondary to
+extensive circumferential apical hypokinesis sparing only the 
+basal segments. The visually estimated left
+ventricular ejection fraction is 40%. There is a mild (peak 19 
+mmHg) resting left ventricular outflow tract
+gradient with an increase to 29 mmHg (peak) with Valsalva. 
+Normal right ventricular cavity size with normal
+free wall motion. Tricuspid annular plane systolic excursion 
+(TAPSE) is normal. The aortic sinus diameter is
+normal for gender with normal ascending aorta diameter for 
+gender. The aortic arch diameter is normal with a
+normal descending aorta diameter. The aortic valve leaflets (3) 
+appear structurally normal. There is no aortic
+valve stenosis. There is trace aortic regurgitation. The mitral 
+valve leaflets appear structurally normal with no
+mitral valve prolapse. There is valvular systolic anterior 
+motion (___). There is mild [1+] mitral regurgitation.
+The pulmonic valve leaflets are normal. The tricuspid valve 
+leaflets appear structurally normal. There is
+physiologic tricuspid regurgitation. The pulmonary artery 
+systolic pressure could not be estimated. There is no
+pericardial effusion.
+
+IMPRESSION: extensive apical hypokinesis
+
+___ Cardiac Cath:
+Findings
+ No angiographically apparent coronary artery disease.
+ Normal LVEDP.
+
+ 
+Brief Hospital Course:
+Ms. ___ is a ___ year old woman with a history of 
+thyroidectomy and osteoporosis who presents with chest pain and 
+was found to have an NSTEMI with complete resolution of 
+symptoms. Coronary cath was non-obstructive.
+
+TRANSITIONAL ISSUES:
+[] Repeat TTE in ___ to reassess for improvement in apical 
+hypokinesis
+[] Patient discharged on aspirin 81mg and clopidogrel. Reassess 
+in ___ months (___) if patient should continue these 
+medications
+[] Started on atorvostatin, metoprolol during admission for CAD. 
+Will need follow-up for these medications--including appropriate 
+lab follow up and verification that patient is tolerating the 
+medications
+[] patient hypotensive on Lisinopril 2.5mg PO daily, continue to 
+assess if patient can restart medication 
+
+ACUTE ISSUES:
+
+#NSTEMI: 
+Presented with typical chest pain and found to have mild 
+troponin elevation consistent with NSTEMI. Her sister similarly 
+had no risk factors and had a MI in her early ___. Started on 
+heparin drip. TTE demonstrated LVEF 40% with extensive apical 
+hypokinesis. Cardiac cath demonstrated mid LAD with focal 30% 
+stenosis vs normal variant appearance. Started during admission 
+on atorvostatin, and metoprolol. Discharged on these medications 
+in addition to clopidogrel and aspirin. She could not tolerate 
+2.5mg PO Lisinopril due to hypotension. 
+
+#Hyperlipidemia
+Total cholesterol 215, LDL 135, HDL 69. 
+- Atorvastatin 80mg 
+
+#Hypotension
+after cath patient had bleeding at incision site. BP decreased 
+to ___ while working with ___ otherwise has had normal BPs. We 
+discontinued her Lisinopril 2.5mg PO daily and decreased her 
+metoprolol to 12.5mg PO daily. Monitored overnight with no 
+issues and discharged with stable BP.
+
+CHRONIC ISSUES: 
+#Thyroidectomy
+- Continued Synthroid
+- Continued Alednronate 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Levothyroxine Sodium 175 mcg PO DAILY 
+2. Alendronate Sodium 70 mg PO QSUN 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Atorvastatin 80 mg PO QPM  
+3.  Clopidogrel 75 mg PO/NG DAILY  
+4.  Metoprolol Succinate XL 12.5 mg PO DAILY  
+5.  Alendronate Sodium 70 mg PO QSUN  
+6.  Levothyroxine Sodium 175 mcg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis:
+NSTEMI
+
+Secondary Diagnosis:
+Hyperlipidemia 
+Hypothyroidism 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,  
+
+WHY WAS I IN THE HOSPITAL?  
+==========================  
+- You were admitted because you had a heart attack.  
+
+WHAT HAPPENED IN THE HOSPITAL?  
+==============================  
+-  You were given medications for your heart
+-  You underwent a procedure to evaluate the blood flow to your 
+heart. You did not have significant narrowing of the blood 
+vessels to your heart. 
+
+WHAT SHOULD I DO WHEN I GO HOME?  
+================================  
+- Be sure to take all your medications and attend all of your 
+appointments listed below. 
+- It is very important to take your aspirin and clopidogrel 
+(also known as Plavix) 
+- These two medications keep the stents in the vessels of the 
+heart open and help reduce your risk of having a future heart 
+attack.  
+- You are also given other new medications to help your heart
+- Please do not take Lisinopril and take metoprolol succinate 
+12.5mg PO daily.
+
+It was a pleasure taking care of you at the ___ 
+___! 
+
+Thank you for allowing us to be involved in your care, we wish 
+you all the best!  
+Your ___ Team 
+ 
+Followup Instructions:
+___

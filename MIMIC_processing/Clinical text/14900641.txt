@@ -1,0 +1,280 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+clarithromycin / Neosporin AF
+ 
+Attending: ___.
+ 
+Chief Complaint:
+DOE
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ with hx double mastectomy/BSO for BRACA2 with no hx cancer 
+presenting as a transfer from ___ with bilateral PEs. 
+She has had 3 months of worsening shortness of breath and 
+dyspnea on exertion. She denies any chest pain, leg swelling or 
+cough. No fevers or chills. She notes that when she tried to 
+walk up the stairs yesterday she was increasingly short of 
+breath and at the top was extremely dizzy and presyncopal to the 
+point that she had to lie down. She presented to be ___ 
+where she was found to have bilateral PEs and was transferred 
+for specialty care after being started on a heparin drip. Per 
+report her oxygen saturation was in the ___ on room air and was 
+put on 4 L nasal cannula.  
+ 
+ -In the ED, initial vitals were: T 96.0 HR 74 BP 142/88 RR 22 
+Spo2 95% Nasal Cannula.  
+ -Her exam was notable for being asymptomatic at rest, no other 
+abnormalities on exam  
+ -Labs most notable for WBC 5.7, H/H 8.1/28.0, PTT 150, INR 1.1, 
+Cr 0.8, trop 0.03, proBNP 444, lactate 1.3  
+ -No further imaging performed at ___, but OSH CTA chest 
+demonstrated: Bilateral pulmonary emboli involving all the 
+pulmonary artery segment. No pulmonary emboli identified in the 
+main or central pulmonary arteries. However the RV LV ratio is 
+greater than one and there is possible slight flattening of the 
+intraventricular septum, findings which indicate mild right 
+heart strain.  
+ -MASOCT/PE was consulted in ED and given current stability and 
+overall low-risk features of their presentation with regards to 
+pulmonary embolism, it was not deemed of sufficient complexity 
+to warrant activation of the multi-disciplinary team (MASCOT)  
+ -The patient was continued on heparin gtt in ED and decision 
+was made to admit to medicine for further management  
+ -Transfer VS were: T 97.0 RR 80 BP 105/72 RR 23 SpO2 97% RA  
+ On arrival to the floor, patient reports improve dyspnea. She 
+denies any pleuritic chest pain, abdominal pain, calf 
+tenderness, fevers, chills, nausea, or vomiting. She was 
+continued on heparin gtt and her home medications.  
+ Review of systems:  
+ As per HPI, otherwise negative in detail  
+
+ 
+Past Medical History:
+PAST MEDICAL HISTORY:  
+ - Anemia; scheduled for endoscopy for workup  
+ - GERD  
+ - Sciatica  
+ - Depression  
+ - BRCA2 positive s/p bilateral mastectomy and BSO  
+
+ 
+Social History:
+___
+Family History:
+FAMILY HISTORY:  
+ - Sister - died of metastatic breast cancer  
+ - 2 cousins - cancer  
+ - Father - unspecified heart condition  
+ - No family history of thrombosis of coagulopathy  
+
+ 
+Physical Exam:
+ADMISSION EXAM:
+ VS T 97.5 HR 81 BP 128/78 R 18 SpO2 92% 4L NC  
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+ CV: RRR, normal S1 + S2, no murmurs, rubs, gallops  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Obese, otherwise soft, non-tender, non-distended, 
+bowel sounds present,  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema.. No calf tenderness bilaterally  
+ Neuro: Moving all extremities with purpose, no facial 
+asymmetry, gait deferred.  
+ 
+DISCHARGE EXAM:
+VS -  97.5, 143/91, 56, 20, 98%, 1lnc
+ General: Alert, oriented, no acute distress  
+ HEENT: Sclerae anicteric, MMM, oropharynx clear, EOMI, PERRL, 
+neck supple, JVP not elevated, no LAD  
+ CV: RRR, normal S1 + S2, no murmurs, rubs, gallops  
+ Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+ Abdomen: Obese, otherwise soft, non-tender, non-distended, 
+bowel sounds present,  
+ Ext: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema. No calf tenderness bilaterally  
+ Neuro: Moving all extremities with purpose, no facial 
+asymmetry, gait deferred.  
+
+ 
+Pertinent Results:
+ADMISSION LABS:
+==================
+___ 09:58PM   ___ PTT-150* ___
+___ 09:58PM   PLT COUNT-223
+___ 09:58PM   NEUTS-76.7* LYMPHS-14.8* MONOS-6.1 EOS-1.4 
+BASOS-0.5 IM ___ AbsNeut-4.39 AbsLymp-0.85* AbsMono-0.35 
+AbsEos-0.08 AbsBaso-0.03
+___ 09:58PM   WBC-5.7 RBC-3.09* HGB-8.1* HCT-28.0* MCV-91 
+MCH-26.2 MCHC-28.9* RDW-24.7* RDWSD-81.8*
+___ 09:58PM   proBNP-444*
+___ 09:58PM   cTropnT-0.03*
+___ 09:58PM   estGFR-Using this
+___ 09:58PM   GLUCOSE-104* UREA N-18 CREAT-0.8 SODIUM-138 
+POTASSIUM-4.3 CHLORIDE-102 TOTAL CO2-22 ANION GAP-18
+___ 10:37PM   LACTATE-1.3
+___ 11:20PM URINE  MUCOUS-RARE
+___ 11:20PM URINE  RBC-1 WBC-4 BACTERIA-FEW YEAST-NONE 
+EPI-3
+___ 11:20PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 LEUK-SM 
+
+___ 11:20PM URINE  COLOR-Straw APPEAR-Clear SP ___
+
+Imaging:
+=============
+TTE ___: The left atrium is normal in size. No atrial septal 
+defect is seen by 2D or color Doppler. The estimated right 
+atrial pressure is ___ mmHg. Left ventricular wall thickness, 
+cavity size, and global systolic function are normal (LVEF>55%). 
+Due to suboptimal technical quality, a focal wall motion 
+abnormality cannot be fully excluded. Right ventricular chamber 
+size is normal with borderline normal free wall function. The 
+aortic valve leaflets (?#) appear structurally normal with good 
+leaflet excursion. There is no aortic valve stenosis. No aortic 
+regurgitation is seen. The mitral valve appears structurally 
+normal with trivial mitral regurgitation. There is mild-moderate 
+pulmonary artery systolic hypertension. There is no pericardial 
+effusion.
+
+IMPRESSION: Verys suboptimal image quality. Normal right 
+ventricular cavity size with low normal free wall motion. 
+Mild-moderate pulmonary artery systolic hypertension. Normal 
+left ventricular cavity size with preserved global systolic 
+function.  
+
+DISCHARGE LABS:
+===================
+___ 08:15AM BLOOD WBC-4.5 RBC-2.89* Hgb-7.8* Hct-26.7* 
+MCV-92 MCH-27.0 MCHC-29.2* RDW-24.1* RDWSD-79.8* Plt ___
+___ 08:15AM BLOOD Plt ___
+___ 08:15AM BLOOD Glucose-106* UreaN-16 Creat-0.8 Na-142 
+K-4.5 Cl-107 HCO3-24 AnGap-___ y.o. woman with history of double mastectomy/BSO for BRACA2 
+with no hx cancer presenting as a transfer from ___ with 
+bilateral submassive PE.  
+
+ # Submassive PE: Patient initially presenting with dyspnea 
+found to have submassive bilateral PE with elevated trop and 
+evidence of R heart strain on CTA but LV/RV ratio > 0.9. Patient 
+otherwise hemodynamically stable. MASCOT consulted in ED, did 
+not recommended thrombolytic therapy. Although patient BRCA2 
+positive, no personal history of malignancy. She denies any 
+recent injuries, immobilization, long flights, smoking, or 
+hormonal therapy. PE possibly unprovoked. Patient denies any 
+family history of thrombosis.  TTE was obtained given CT 
+findings of possible right heart strain. It showed mild-moderate 
+pulmonary hypertension but normal biventricular 
+function and normal RA pressure. She was started on heparin gtt 
+and then transitioned to rivaroxaban which should likely be 
+continued indefinitely for unprovoked PE. Outpatient 
+age-appropriate cancer screening and hypercoagulability workup 
+should be considered.
+
+#SVT: had several episodes of SVT ___ min during her admission. 
+All resolved with vagal maneuvers. She was feeling palpitations 
+and feeling lightheaded during these episodes but normotensive. 
+Upon discussion with patient she feels this has been happening 
+intermittently throughout her whole life. Should have 
+consideration for outpatient cardiology referral and possible 
+___ monitoring
+
+ CHRONIC ISSUES  
+ # Depression:  Continue home Citalopram 20 mg PO QDaily  
+ # GERD:  Continue home Omeprazole 20 mg PO QDaily  
+ # Anxiety: Continue home Lorazepam 0.5 mg PO BID PRN anxiety  
+ # Iron Deficiency Anemia: EGD & c-scope scheduled ___. 
+Continue home Ferrous Sulfate 325 mg PO QDaily  
+ #insomnia: given ramelteon as an outpatient. counseled she can 
+take melatonin for sleep after discharge
+ 
+===========================================
+TRANSITIONAL ISSUES
+-Age-appropriate cancer screening and consideration of 
+hypercoagulability workup
+   - EGD and colonoscopy ___
+-Echo with PA systolic HTN, please f/u with repeat echo in ___ 
+months
+-Melatonin may be started for insomnia
+-Dc'ed with home O2 for ambulatory sats in the mid-___ on room 
+air, can be weaned as tolerated
+-SVT: noted to have several episodes that resolved with vagal 
+maneuvers. Please consider cardiology referral as outpatient if 
+continues to have palpitations and lightheadedness.
+  -please consider outpatient ___
+- Patient started on rivaroxaban 15 mg PO BID for PE. Dose 
+should be changed to rivaroxaban 20 mg once daily in 21 days 
+(___). Will need script for this
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Citalopram 20 mg PO DAILY 
+2. Omeprazole 20 mg PO DAILY 
+3. Ferrous Sulfate 325 mg PO DAILY 
+4. LORazepam 0.5 mg PO BID:PRN Anxiety 
+
+ 
+Discharge Medications:
+1.  Rivaroxaban 15 mg PO BID 
+RX *rivaroxaban [___] 15 mg 1 tablet(s) by mouth twice a day 
+Disp #*40 Tablet Refills:*0 
+2.  Citalopram 20 mg PO DAILY  
+3.  Ferrous Sulfate 325 mg PO DAILY  
+4.  LORazepam 0.5 mg PO BID:PRN Anxiety  
+5.  Omeprazole 20 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary diagnosis:
+Pulmonary embolism
+
+Secondary diagnoses:
+Iron deficiency anemia
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___,
+
+It was a pleasure to take care of you at ___ 
+___.
+
+Why did I have to stay?
+   You had to stay in the hospital because of lung clots in both 
+of your lungs (aka pulmonary embolism).
+
+What was done for me?
+  You were given blood thinners so that the blood  clots would 
+not get larger. You were given oxygen to help with your 
+breathing.
+
+What should I do after discharge?
+  You should take your medications as prescribed. You should 
+follow up with your regular doctor.
+
+Sincerely,
+Your ___ Team
+ 
+Followup Instructions:
+___

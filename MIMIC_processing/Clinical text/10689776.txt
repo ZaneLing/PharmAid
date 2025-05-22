@@ -1,0 +1,389 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+latex / aspirin
+ 
+Attending: ___
+ 
+Chief Complaint:
+Left sided weakness c/w acute ischemic stroke
+ 
+Major Surgical or Invasive Procedure:
+Intra-arterial thrombolysis ___
+ 
+History of Present Illness:
+Ms. ___ is a ___ woman with a history of migraines 
+who presented to OSH with left-sided hemiparesis and was 
+transferred to ___ for further care. Briefly, pt was 
+reportedly flying in from ___ where she lives to visit 
+___. An hour after arrivalto ___ she reportedly developed 
+acute onset left facial and left UE and ___ weakness. LKW 13:50. 
+She was brought to OSH were code stroke was called. NIHSS 15. CT 
+head without acute process. CTA showed proximal right M1 cut off 
+and distal ICA aneurysm. After discussion with patient and 
+husband tPA was given at 14:20. Patient was transferred via med 
+flight to ___. In route patient had soft blood pressures and 
+was started on Levophed. At ___ ED NIHSS was 10. Patient went 
+to ___ suite and underwent thrombectomy at 15:20 with TICI 3 
+after first pass. 
+
+Of note she is on oral contraceptive therapy for migraines.
+
+Labs at ___:
+WBC 8.0, Hb 11.2, HCT 33.2, PLT 299
+INR 1.0, PTT 23
+NA 134, K4.4, CL 104, CO2 20, glucose 102, BUN 13, creatinine
+0.8, calcium 8.5
+ 
+Past Medical History:
+Migraine headaches
+Vertigo
+
+ 
+Social History:
+Works as a ___ in ___. Married to husband ___, no 
+children. Independent in all ADLs. Former smoker, quit ___ years 
+ago after approx. 45 pack year history. Drinks 1 alcoholic 
+drink/week. No illicit drug use.
+
+modified Rankin score:
+[x] 0: No symptoms
+[] 1: No significant disability - able to carry out all usual
+activities despite some symptoms
+[] 2: Slight disability: able to look after own affairs without
+assistance but unable to carry out all previous activities
+[] 3: Moderate disability: requires some help but able to walk
+unassisted
+[] 4: Moderately severe disability: unable to attend to own
+bodily needs without assistance and unable to walk unassisted
+[] 5: Severe disability: requires constant nursing care and
+attention, bedridden, incontinent
+[] 6: Dead
+ 
+Family History:
+Grandmother had a stroke in her ___. Father had an MI in his 
+early ___. Several family members with diabetes. 
+ 
+Physical Exam:
+ON ADMISSION (after thrombolysis)
+============
+General: Awake, alert, well appearing 
+HEENT: NCAT, moist mucous membranes
+Neck: Supple
+CV: RRR, no murmurs
+Lungs: Clear bilaterally
+Abdomen: Soft, non-tender, non-distended
+GU: deferred
+Ext: Warm and well perfused. Groin site with intact pulses
+Skin: No rashes/lesions
+
+Neuro:  
+MS- Awake, alert, interactive. Oriented x3. Language with intact 
+naming, repetition, comprehension
+CN- Slight anisocoria with L>R, both reactive. EOMs intact, 
+Visual fields full. L facial droop. No dysarthria. Tongue 
+midline
+Sensory/Motor- Slight left pronator drift. Orbiting on left. ___ 
+weakness of left deltoid and wrist extensors, otherwise full. In 
+left leg, IP 4+/5, hamstring ___ otherwise full. Sensation 
+intact.
+Coordination- Finger to nose intact b/l.
+
+===============
+DISCHARGE EXAM:
+===============
+
+General: Awake, cooperative, NAD.
+HEENT: No scleral icterus, MMM, no lesions noted in oropharynx
+Neck: Supple
+Pulmonary: Breathing comfortably on room air
+Extremities: No peripheral lower extremity edema
+
+Neurologic:
+
+-Mental Status: Alert, oriented x 3. Language is fluent. Normal
+prosody. There were no paraphasic errors. Speech was not
+dysarthric. 
+
+-Cranial Nerves:
+V: decreased sensation in left lower face
+VII: Left lower facial droop, asymmetric smile on the left, left
+NLFF
+
+-Motor: Normal bulk, tone throughout. Finger-tapping slightly
+clumsy on the left side. L delt, finger ext, and IP ___. 
+Triceps
+___ bilaterally.         
+
+-Sensory: numbness/tingling on left lower face
+
+-Gait: Good initiation. Small stride length. Walks well with
+one-person assistance.
+ 
+Pertinent Results:
+___ 03:22PM BLOOD %HbA1c-5.1 eAG-100
+___ 03:22PM BLOOD Triglyc-117 HDL-57 CHOL/HD-3.6 
+LDLcalc-128
+___ 03:25PM BLOOD D-Dimer-306
+___ 07:33AM BLOOD CARDIOLIPIN ANTIBODIES (IGG, 
+IGM)-negative    
+
+CTA HEAD/NECK ___ (___):
+There is no intracranial hemorrhage or mass effect. There is a 
+high density right MCA involving the M1 segment suggesting a 
+thrombus. CTA of the neck and brain demonstrate the thrombus 
+within the M1
+segment of the right MCA with occlusion measuring 1.1 cm in 
+length. There is an aneurysm off the internal carotid artery 
+with 1 component measuring 11 mm projecting anteriorly off the 
+internal carotid artery just above the sella and a smaller 
+component or area confluence posteriorly measuring 3.___arotid arteries and extracranial internal carotid  
+arteries appear unremarkable as are the vertebral arteries. The 
+basilar artery appears within normal limits and there is 
+opacification of each anterior cerebral artery and left middle 
+cerebral artery.
+
+MRI and MRA Brain and MRA Neck s/p tPA and thrombectomy (___):
+ "1. Acute/subacute right basal ganglia and periventricular 
+lenticulostriate territory infarct.  Small amount of hemorrhage 
+is seen at the posterior aspect of the infarct.
+2. 7 mm right internal carotid artery ophthalmic segment 
+aneurysm.  No vascular occlusion or stenosis.
+3. Normal MRA of the neck."
+
+TTE: "Adequate image quality. No intracardiac source of 
+thromboembolism identified."
+ 
+ 
+Brief Hospital Course:
+================
+PATIENT SUMMARY:
+================
+Ms ___ is a ___ year old woman with no known medical history 
+with the exception of migraines and vertigo, who presented to an 
+outside hospital after acute onset of left face, arm, and leg 
+weakness on ___. CTA revealed a dense MCA sign in the right M1 
+segment. She was given tPA at 2:20 on ___ and transferred to 
+___, where she underwent thrombectomy with TICI III 
+reperfusion. NIHSS on arrival to ___ was 11 (for facial 
+weakness, left arm and leg weakness, gaze deviation, and 
+neglect). After thrombolysis, she was admitted to the NeuroICU 
+for close monitoring. NIHSS on arrival to the ICU was 1 (for 
+facial weakness). Although she had been started on Levophed en 
+route to ___, this was weaned prior to arrival in the ICU. She 
+remained stable in the ICU and was transferred to the stroke 
+service for further management.
+
+=====================
+ACUTE MEDICAL ISSUES:
+=====================
+#Ischemic stroke:
+MRI post-thrombectomy demonstrated a right basal ganglia and 
+periventricular lenticulostriate infarct with a small amount of 
+hemorrhagic conversion. Exam was only notable for left facial 
+numbness, mild left facial weakness, and very subtle left-sided 
+weakness in an UMN pattern.
+
+Stroke work-up included lower extremity Doppler ultrasound 
+(negative for DVT bilaterally), echocardiogram which was 
+negative for an ASD or PFO, with no intra-cardiac source of 
+thromboembolism identified, lipid panel (cholesterol 208, HLD 
+57, LDL 128), hgbA1c (5.1%), B2 glycoprotein negative and 
+anti-cardiolipin antibodies negative, lupus anti-coagulant 
+pending, D-dimer was normal at 306. She was monitored on 
+telemetry with no evidence of atrial fibrillation; she was 
+discharged home with aspirin 81mg and atorvastatin. Overall, the 
+etiology of her stroke was felt to be embolic in nature, 
+although etiology is still unclear given her otherwise benign 
+medical history. Ms. ___ could have undetected atrial 
+fibrillation, or an underlying hypercoagulability. Her d-dimer 
+is normal, making an occult malignancy less likely. Patient does 
+have a known diagnosis of migraine and has been on an 
+estrogen-containing OCP. Moreover, her stroke could have been 
+related to the aneurysms in her left MCA. A paradoxical embolism 
+from a DVT is unlikely given no findings on TTE. She endorsed a 
+history of snoring which could also represent undiagnosed atrial 
+fibrillation.
+
+For treatment, her oral contraceptive was stopped. She was 
+started on aspirin 81 mg daily and atorvastatin 40 mg. Her home 
+propranolol was also restarted.
+
+She was evaluated by the physical therapy and occupational 
+therapy, who recommended acute rehab. She was discharged home to 
+___ where she was recommended to attend an ___ 
+rehabilitation program.
+
+#Right ICA Aneurysm: 
+Imaging was also notable for a multiple aneurysms, including a 
+large right ICA aneurysm, for which neurosurgery was consulted 
+regarding long-term management. They recommended follow-up at a 
+neurosurgery center closer to her home once her acute ischemic 
+stroke was stabilized. She is being sent home with a disk of her 
+radiological images. 
+
+====================
+TRANSITIONAL ISSUES:
+====================
+
+[ ] Please refer patient to Vascular Neurosurgery/Neurology for 
+treatment of her large carotid aneurysm. Our Neurosurgery team 
+recommended ___ Clinic group; if patient is interested in 
+traveling there, we recommend an opinion from Dr. ___, 
+an excellent stroke neurologist. She was provided a copy of a 
+disc with all relevant imaging upon discharge.
+
+[ ] Consider the following next steps to evaluate etiology of 
+her stroke:
+
+- cardiac monitoring for ___ weeks to look for occult arrhythmia
+
+- consider a transesophageal echocardiogram to evaluate for 
+possible PFO that was not seen on the transthoracic 
+echocardiogram
+
+- referral for sleep study to evaluate for possible obstructive 
+sleep apnea
+
+- consider further lab testing for hypercoagulability such as: 
+factor V leiden, antithrombin and prothrombin gene mutations, 
+protein C and S deficiencies (unfortunately these tests are 
+unable to be sent inpatient)
+
+========================================================
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+========================================================
+1. Dysphagia screening before any PO intake? (X) Yes, confirmed 
+done 
+2. DVT Prophylaxis administered? (X) Yes - boots, SC heparin
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(X) Yes - aspirin
+4. LDL documented? (X) Yes (LDL = 128) 
+5. Intensive statin therapy administered? (X) Yes - atorvastatin 
+40 
+6. Smoking cessation counseling given?(X) No [reason (X) 
+non-smoker] 
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given (verbally or 
+written)? (X) Yes 
+8. Assessment for rehabilitation or rehab services considered? 
+(X) Yes - () No. If no, why not? (I.e. patient at baseline 
+functional status)
+9. Discharged on statin therapy? (X) Yes - () No [if LDL >70, 
+reason not given: 
+ [ ] Statin medication allergy 
+ [ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist 
+ [ ] LDL-c less than 70 mg/dL 
+10. Discharged on antithrombotic therapy? () Yes [Type: () 
+Antiplatelet - () Anticoagulation] - () No 
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - If no, why not (I.e. 
+bleeding risk, etc.) () N/A 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Propranolol 80 mg PO BID 
+2. magnesium 250 mg oral DAILY 
+3. Cyclafem ___ (28) (norethindrone-ethin estradiol) ___ 
+mg-mcg oral daily 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth daily Disp #*30 Tablet 
+Refills:*5 
+2.  Atorvastatin 40 mg PO QPM 
+RX *atorvastatin 40 mg 1 tablet(s) by mouth daily Disp #*30 
+Tablet Refills:*5 
+3.  magnesium 250 mg oral DAILY  
+4.  Propranolol 80 mg PO BID  
+5.Outpatient Physical Therapy
+Stroke 434.91
+PCP: Dr. ___
+
+ 
+___ Disposition:
+Home
+ 
+Discharge Diagnosis:
+acute ischemic stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - requires assistance or aid (walker 
+or cane).
+
+ 
+Discharge Instructions:
+Dear ___, 
+
+___ were hospitalized due to symptoms of left-sided weakness 
+resulting from an ACUTE ISCHEMIC STROKE, a condition where a 
+blood vessel providing oxygen and nutrients to the brain is 
+blocked by a clot. The brain is the part of your body that 
+controls and directs all the other parts of your body, so damage 
+to the brain from being deprived of its blood supply can result 
+in a variety of symptoms. Fortunately, ___ presented to the 
+hospital very quickly after the onset of your symptoms, and ___ 
+received therapy to break up the clot (tissue plasminogen 
+activator), and ___ underwent a procedure to remove the clot 
+(thrombectomy). This was successful, although ___ do have some 
+on-going weakness and sensory deficits in your left face and 
+weakness in your left arm and leg. We expect these symptoms to 
+improve over time with physical and occupational therapy.
+
+Stroke can have many different causes, so we assessed ___ for 
+medical conditions that might raise your risk of having stroke. 
+This work-up included an echocardiogram to look at your heart 
+which was normal. We also sent a panel of tests to look for 
+reasons why ___ might be hypercoagulable (more likely to form 
+clots than the average person), which was negative. 
+
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are: use of an estrogen-containing 
+oral contraceptive, history of migraine headaches, and 
+hyperlipidemia.
+
+We are changing your medications as follows:  
+- We stopped your oral contraceptive, as estrogen-containing 
+medications increase your risk of clotting. ___ can consider 
+other options for your migraine management.
+- We started ___ on atorvastatin for high cholesterol.
+- We started ___ on aspirin 81mg to prevent further clotting.   
+
+Please take your other medications as prescribed.  
+
+Please follow up with Neurology and your primary care physician 
+as listed below, as there may still be tests that can be done as 
+an outpatient to assess the reason for your stroke.  
+
+If ___ experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:  
+ - Sudden partial or complete loss of vision  
+ - Sudden loss of the ability to speak words from your mouth  
+ - Sudden loss of the ability to understand others speaking to 
+___  
+ - Sudden weakness of one side of the body  
+ - Sudden drooping of one side of the face  
+ - Sudden loss of sensation of one side of the body  
+
+Sincerely,  
+Your ___ Neurology Team  
+
+ 
+Followup Instructions:
+___

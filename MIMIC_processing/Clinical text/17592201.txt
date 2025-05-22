@@ -1,0 +1,261 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain, nausea, vomiting 
+ 
+Major Surgical or Invasive Procedure:
+ERCP with stone and sludge removal ___
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ man with PMH notable for CVA, HTN, 
+CAD s/p PCI, who presented initially to ___ with 
+N/V, abdominal pain, subsequently found to have cholestatic LFT 
+derangements with 1cm CBD stone on US, now transferred for 
+consideration of ERCP. 
+
+At approximately 6pm last evening, the patient developed the 
+acute onset of severe abdominal pain with associated NBNB 
+vomiting. Denies fevers and no mental status change per family. 
+Given these symptoms, he presented initially to ___ 
+___ were work up was notable for leukocytosis with a WBC of 
+14, 274 AST 182 Alk phos 267 T Bili 2.9, Direct Bili 2.1. RUQ-US 
+demonstrated a 1cm obstructing CBD stone. He was subsequently 
+transferred to ___ for consideration of ERCP. 
+
+Upon arrival to the ___ ED, initial vitals notable for T98.0, 
+HR 96, BP 112/65, RR 16, 91% on RA. Labs notable for lactate of 
+3.1, worsening leukocytosis with WBC now 17, and rising tbili of 
+4.2. Due to soft BPs (98/50), the patient was given 1L LR and 
+4.5g Zosyn x1. Vitals stable on transfer. 
+
+On arrival to the floor, the patient confirms the above history 
+and states that his abdominal pain is much improved and 
+responded to morphine given in the ED. He does report 
+intermittent rigors both at home and the outside hospital, but 
+does not recall having any actual fevers. No further vomiting 
+since arrival. 
+
+ROS: Pertinent positives and negatives as noted in the HPI. All 
+other systems were reviewed and are negative. 
+ 
+Past Medical History:
+CAD s/p PCI 
+HTN 
+HLD 
+remote CVA without residual deficits
+ 
+Social History:
+___
+Family History:
+Reviewed and found to be not relevant to this illness/reason for
+hospitalization.
+ 
+Physical Exam:
+ADMISSION: 
+VITALS: Afebrile and vital signs stable (see eFlowsheet)
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs diminished at bilateral bases, otherwise clear to 
+auscultation with good air movement bilaterally.  Breathing is 
+non-labored
+GI: Abdomen soft, non-distended, mildly tender to palpation in 
+upper quadrants and epigastric region.  Bowel sounds hypoactive. 
+
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted; tattoos on upper 
+extremities
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE: 
+VS: Temp: 98.3 PO BP: 136/70 L Sitting HR: 71 RR: 18 O2 sat: 93% 
+RA 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs diminished at bilateral bases, otherwise clear to 
+auscultation with good air movement bilaterally.  Breathing is 
+non-labored
+GI: Abdomen soft, non-distended, mildly tender to palpation in 
+upper quadrants and epigastric region.  Bowel sounds hypoactive. 
+
+GU: No suprapubic fullness or tenderness to palpation
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted; tattoos on upper
+extremities
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI, speech fluent, moves all limbs, sensation to light touch 
+grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION/SIGNIFICANT LABS: 
+==========================
+___ 03:57AM BLOOD WBC-17.1* RBC-4.32* Hgb-14.1 Hct-40.9 
+MCV-95 MCH-32.6* MCHC-34.5 RDW-13.4 RDWSD-46.7* Plt ___
+___ 03:57AM BLOOD Neuts-91.2* Lymphs-1.9* Monos-5.9 
+Eos-0.0* Baso-0.2 Im ___ AbsNeut-15.58* AbsLymp-0.32* 
+AbsMono-1.00* AbsEos-0.00* AbsBaso-0.03
+___ 03:57AM BLOOD Glucose-167* UreaN-16 Creat-1.2 Na-144 
+K-3.7 Cl-105 HCO3-22 AnGap-17
+___ 04:08AM BLOOD Lactate-3.2*
+
+LFT trend
+---------
+___ 03:57AM BLOOD ALT-225* AST-173* AlkPhos-216* 
+TotBili-4.2*
+___ 06:20AM BLOOD ALT-189* AST-133* AlkPhos-166* 
+TotBili-6.0*
+___ 07:05AM BLOOD ALT-163* AST-100* AlkPhos-192* 
+TotBili-2.8*
+
+MICRO: 
+=====
+___ 3:57 am BLOOD CULTURE      #1 SOURCE: VENIPUNCTURE. 
+   Blood Culture, Routine (Pending):    No growth to date. 
+
+IMAGING/OTHER STUDIES: 
+=====================
+Please contact ___ for ultrasound and CT abdomen. 
+
+___ ERCP (full report available upon request)
+Procedure notable for removal of stones and sludge from CBD. 
+
+LABS AT DISCHARGE: 
+==================
+___ 07:05AM BLOOD WBC-6.4 RBC-4.07* Hgb-13.0* Hct-38.6* 
+MCV-95 MCH-31.9 MCHC-33.7 RDW-13.2 RDWSD-46.5* Plt ___
+___ 07:05AM BLOOD Glucose-108* UreaN-14 Creat-1.0 Na-143 
+K-4.1 Cl-105 HCO3-28 AnGap-10
+___ 07:05AM BLOOD ALT-163* AST-100* AlkPhos-192* 
+TotBili-2.8*
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ man with ___ notable for CVA, HTN, 
+CAD s/p PCI, who presented initially to ___ with 
+N/V, abdominal pain, subsequently found to have cholestatic LFT 
+derangements with 1cm CBD stone on US, now transferred for 
+consideration of ERCP.
+
+ACUTE/ACTIVE PROBLEMS:
+# Acute Cholangitis: 
+Presented with acute onset abdominal pain, nausea, vomiting, and 
+intermittent rigors with marked leukocytosis on labs. OSH 
+imaging with 1 cm stone obstructing CBD. Patient given IV Zosyn 
+at OSH and again in ED. Cultures pending. Underwent ERCP on 
+___ with removal of stones/sludge. Initially treated with 
+Zosyn 4.5g q8h and transitioned to PO cipro/flagyl to complete a 
+total 5 days following ERCP. Patient HD stable without fevers or 
+recurrent rigors. Labs with resolved leukocytosis and 
+downtrending tbili on discharge. Offered patient surgical 
+evaluation for cholecystectomy this admission but patient 
+preferred to defer CCY until early ___. He was given the 
+phone number to arrange an appointment with our general surgeons 
+for outpatient evaluation. 
+
+# Acute hypoxemic respiratory failure: 
+Developed oxygen requirement in setting of inability to take 
+deep breaths due to abdominal pain and IVF resuscitation. No hx 
+of CHF or COPD. Able to wean to room air with assistance of 
+incentive spirometer. 
+
+CHRONIC/STABLE PROBLEMS: 
+# HTN: held home agents in setting of acute cholangitis; resumed 
+___. 
+
+# CAD: continued statin; metop initially held in setting of 
+hypotension, resumed prior to discharge. 
+
+# hx of CVA: Remote; no residual deficits. Continued ASA 325mg
+
+TRANSITIONAL ISSUES: 
+===================
+[] discharged to complete a course of antibiotics (cipro, 
+flagyl) for cholangitis (last day ___. 
+[] strongly recommended surgical follow up for elective 
+cholecystectomy. Contact information for ___ general surgery 
+provided. 
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain 
+2. Aspirin 325 mg PO DAILY 
+3. Metoprolol Succinate XL 50 mg PO DAILY 
+4. Lisinopril 20 mg PO DAILY 
+5. Atorvastatin 20 mg PO QPM 
+6. Multivitamins 1 TAB PO DAILY 
+
+ 
+Discharge Medications:
+1.  Ciprofloxacin HCl 500 mg PO Q12H 
+RX *ciprofloxacin HCl 500 mg 1 tablet(s) by mouth twice a day 
+Disp #*9 Tablet Refills:*0 
+2.  MetroNIDAZOLE 500 mg PO Q8H 
+RX *metronidazole 500 mg 1 tablet(s) by mouth three times a day 
+Disp #*14 Tablet Refills:*0 
+3.  Aspirin 325 mg PO DAILY  
+4.  Atorvastatin 20 mg PO QPM  
+5.  Lisinopril 20 mg PO DAILY  
+6.  Metoprolol Succinate XL 50 mg PO DAILY  
+7.  Multivitamins 1 TAB PO DAILY  
+8.  Nitroglycerin SL 0.4 mg SL Q5MIN:PRN chest pain  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+# acute cholangitis
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a privilege to care for you at the ___ 
+___. You were treated for a very serious infection of 
+your bile duct, known as cholangitis. Fortunately, you responded 
+very well to treatment with antibiotics and a procedure called 
+ERCP. We recommended removal of your gallbladder and you decided 
+to pursue this as an elective procedure. It is very important 
+that you make an appointment with the surgeons by calling the 
+number below. 
+
+Please take all medications as prescribed and follow up with all 
+appointments. 
+
+We wish you the best! 
+
+Sincerely,
+Your ___ Team 
+ 
+Followup Instructions:
+___

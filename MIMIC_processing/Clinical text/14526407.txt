@@ -1,0 +1,212 @@
+Name:  ___                       Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+abdominal pain
+ 
+Major Surgical or Invasive Procedure:
+none
+ 
+History of Present Illness:
+___ intperpreter assisted via telephone)
+Ms. ___ is a ___ year old woman with a history of cholelithiasis
+and HL who presented to the ED today with 2 days of epigastric
+pain, nausea, and vomiting. She notes that when she lived in
+___ several years ago she developed similar symptoms and was
+diagnosed with cholelithiasis. However she reports that no
+surgery was performed and that she took ___ medicines for 
+the
+pain, which subsequently improved. She has been well until two
+days ago when her symptoms recurred. She states that her pain is
+primarily epigastric without radiation, although when it 
+occurred
+in the past there was radiation to the shoulder. The pain is
+fluctuating and worse after eating. She has vomited twice, most
+recently last night. Vomit was NBNB. Normal bowel movements. She
+has not taken anything for the pain. She denies other symptoms,
+denies a history of Hep B and states she was vaccinated against
+hep B. No recent travel, no pets, no history of blood
+transfusions, no sick contacts. She lives in ___ with her
+sister, daughter, husband, and parents, and works as a ___. She does not use alcohol, tobacco, or drugs. 
+
+In the ED the patient was noted to have ALT 315 and AST 167 but
+otherwise normal labs. Ultrasound showed cholelithiasis and 1 cm
+CBD with possible mild intrahepatic ductal dilatation. Also mild
+hepatosteatosis. She received IV NS and 2 mg IV morphine. Her
+pain and nausea improved in the ED and she is currently pain and
+nausea free. 
+
+ROS: As per HPI, and 10 point ROS completed and otherwise
+negative.
+ 
+Past Medical History:
+HL
+cholelithiasis
+ 
+Social History:
+___
+Family History:
+No GI, liver, autoimmune diseases
+ 
+Physical Exam:
+Admission EXAM
+VITALS: Afebrile and vital signs stable
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended.  Bowel sounds present.  No HSM.
+Mild epigastric TTP. Negative ___
+GU: No CVA or suprapubic tenderness
+MSK: No erythema or swelling of joints
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+Discharge EXAM
+VITALS: Afebrile and vital signs stable 
+GENERAL: Alert and in no apparent distress
+EYES: Anicteric, pupils equally round
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx without visible lesion, erythema or exudate
+CV: Heart regular, no murmur, no S3, no S4.  No JVD.
+RESP: Lungs clear to auscultation with good air movement
+bilaterally.  Breathing is non-labored
+GI: Abdomen soft, non-distended.  Bowel sounds present.  No HSM.
+No TTP
+GU: No CVA or suprapubic tenderness
+MSK: No erythema or swelling of joints
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+========================================
+
+Notable labs:
+
+Normal CBC, BMP, INR, lipase, trop
+
+AST: 315 -> 258
+ALT 167 ->102
+Alk phos 98 ->93
+Tbili 0.9->0.8
+DBili <0.02
+Alb 4.6
+
+HAV Ab neg
+HBsAg neg
+HBsAb pos
+HBcAb neg
+HCV neg
+HIV neg
+
+RUQ US ___. Cholelithiasis without evidence of acute cholecystitis. 
+2. The common bile duct is dilated measuring up to 1.0 cm.  
+There is mild 
+intrahepatic dilatation.  No evidence of choledocholithiasis, 
+however the 
+distal CBD is obscured by bowel gas.  Recommend MRCP to evaluate 
+for distal common bile duct stone. 
+3. Mild hepatic steatosis. 
+
+========================================
+
+ 
+Brief Hospital Course:
+___ year old with cholelithiasis who presented with 2 days of 
+epigastric pain and n/v similar to prior biliary colic, found to 
+have mild CBD dilatation and elevated transaminases. Her nausea, 
+vomiting, and abdominal pain improved with symptomatic treatment 
+and she tolerated a diet on the second day of the admission. The 
+differential was felt to include biliary colic with a separate 
+cause of the transaminase elevation (such as fatty liver), 
+choledocholithiasis, possibly with a passed stone or with 
+concomitant hepatocellular process, or a nongallstone related 
+cause. Due to the concern for choledocholithiasis MRCP was 
+recommended by the ___ team. However patient had metal IUD 
+placed in ___ with unknown MRI safety so this was not 
+performed. The ___ surgical service consulted to consider 
+cholecystectomy with intraoperative cholangiogram but the 
+patient declined this or an EUS while inpatient and preferred to 
+return home. Given her improving transaminases, lack of 
+symptoms, and otherwise normal findings, this was felt to be 
+safe. She will ___ with her PCP for repeat LFTs this week 
+and with the ___ service in clinic. 
+
+Transitional issues:
+
+(1) recommended cholecystectomy with intraoperative 
+cholangiogram to evaluate for choledocholithiasis
+(2) recommended PCP ___ this week with repeat LFTs
+(3) noted to have likely steatosis on ultrasound concerning for 
+fatty liver, which will need to be addressed as outpatient with 
+weight loss, and possibly further evaluation hepatology referral
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Cholelithiasis
+Suspected choledocholithiasis
+Transaminase elevation
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with pain, nausea, and vomiting, which we 
+suspect were due to gallstones. These symptoms can occur when 
+the gallstones cause a blockage, either in the gallbladder or 
+the bile duct. We recommend that you have your gallbladder 
+removed, which is a surgery called "cholecystectomy". Below you 
+will find the contact information for our surgery department so 
+you can set this up.
+We also noted that you had abnormal blood tests of the liver. 
+This may have been caused by the gallstones but may have been 
+caused by something else, such as "fatty liver disease". Your 
+ultrasound showed some evidence of this, so you should discuss 
+this further with your primary care doctor. Typically the 
+primary treatment of fatty liver disease is weight loss. 
+
+Specific instructions once you leave the hospital:
+(1) call the ___ clinic tomorrow to set up an 
+appointment : ___ 
+(2) call your primary care doctor tomorrow to set up an 
+appointment and blood work check. We recommend that your primary 
+care doctor checks your liver tests sometime this week
+(3) should your pain worsen again we recommend returning to care 
+for further evaluation. Low doses of Tylenol (no more than 2 
+grams daily) or an over-the-counter acid reducing medication 
+such as zantac or Pepcid may also help reduce discomfort.
+ 
+Followup Instructions:
+___

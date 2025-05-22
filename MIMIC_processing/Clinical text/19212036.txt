@@ -1,0 +1,336 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+sleepiness
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ yo man with cerebral palsy s/p VP shunt placement, presenting 
+as transfer from ___ with c/f increased drainage from 
+ventricular shunt based on CT head obtained when patient was 
+noted to be increasingly sleepy. Patient was noted at group home 
+to be more "sleepy" than baseline. Otherwise no focal localizing 
+signs or symptoms, but patient is notably nonverbal at baseline. 
+Denies pain, but difficult to assess further in-depth.
+Pt was initially sent to ___, where CT showed "bilateral 
+parietal approach ventriculostomy catheters in place as 
+described above. The left ventriculostomy catheter terminates 
+within the right basal ganglia. This appearance is stable 
+compared to prior exam in ___. The ventricles are slitlike in 
+appearance with bilateral subdural hygromas raising concern for 
+over shunting." Patient is followed at ___ for his ventricular 
+shunt, but was directed to ___ because they were not accepting 
+pts.
+In the ED, initial vitals:
+98.0; 105; 133/80; 18; 96% RA
+- Labs notable for:
+CBC: 11.4>13.5/41.5<284
+INR: 1.2
+Cr: 0.8
+Bicarb: 21
+- Imaging notable for:
+Shunt series:
+IMPRESSION:
+No evidence of discontinuity along the course of the shunts.
+CXR:
+IMPRESSION:
+No definite acute cardiopulmonary process.
+- Patient given: No additional medications
+- Vitals prior to transfer:
+97.4; 97; 122/83; 16; 100% RA
+On arrival to the floor, pt was nonverbal. He did not 
+consistently follow commands or nod in response to questions, 
+either in ___ or ___. No records from outside facilities 
+were sent with patient. I attempted to contact his group home, 
+but the overnight staff member I spoke with was unable to 
+provide additional information, and her manager did not answer 
+the phone when called. I did have a discussion with neurosurgery 
+who did not feel that the collapsed ventricles or associated 
+bilateraly subdural hygromas could account for his symptoms, as 
+they were not compressing any brain structures. They recommended 
+discussion with his primary neurosurgical team. They also 
+recommended possible neurology consult in case pt was having 
+seizures.
+ 
+Past Medical History:
+Cerebral palsy s/p VP shunt at ___ (unclear date)
+Spina bifida
+Mental retardation
+Constipation
+Urinary incontinence due to severe physical disability
+Vitamin D deficiency
+
+ 
+Social History:
+___
+Family History:
+Patient not able to inform us
+ 
+Physical Exam:
+======================
+ADMISSION EXAM:
+======================
+Vitals: 97.9; 123/81; 77; 18; 98 RA
+General: Pt tracks with eyes. Nonverbal. Does not consistently 
+follow commands
+HEENT: Sclera anicteric, MMM, oropharynx clear, neck supple, JVP 
+not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Abdomen: soft, non-tender, mildly-distended, bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly
+Ext: Poorly developed arms and legs. Warm, well perfused, no 
+cyanosis or edema
+Skin: Warm and dry
+Neuro: Unable to fully assess. ___ strength in Right hand.
+
+======================
+DISCHARGE EXAM:
+======================
+Vitals: 97.3 144 / 92 88 18 99 ra 
+General: Alert ___ year old man in NAD. Spontaneoulsy moving 
+right arm, otherwise does not move other limbs much at baseline. 
+Pt tracks with eyes. Nonverbal. Following commands for this 
+provider, including squeezing his right hand when asked. Program 
+manager at bedside.
+HEENT: Sclera anicteric, MMM, oropharynx clear, neck supple, JVP 
+not elevated, no LAD
+Lungs: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi
+CV: Regular rate and rhythm, normal S1 + S2, no murmurs, rubs, 
+gallops
+Abdomen: soft, non-tender, mildly-distended, bowel sounds 
+present, no rebound tenderness or guarding, no organomegaly
+Ext: Poorly developed arms and legs. Warm, well perfused, no 
+cyanosis or edema
+Skin: Warm and dry
+Neuro:  ___ strength in right hand. EOMI, follows provider's 
+finger with both eyes and hand. No dysmetria noted
+ 
+Pertinent Results:
+=============================
+ADMISSION LABS:
+=============================
+
+___ 06:55PM   WBC-11.4* RBC-4.76 HGB-13.5* HCT-41.5 MCV-87 
+MCH-28.4 MCHC-32.5 RDW-13.6 RDWSD-42.9
+___ 06:55PM   NEUTS-71.1* ___ MONOS-6.4 EOS-0.4* 
+BASOS-0.6 IM ___ AbsNeut-8.07* AbsLymp-2.41 AbsMono-0.73 
+AbsEos-0.05 AbsBaso-0.07
+___ 06:55PM   PLT COUNT-284
+___ 06:55PM   ___ PTT-28.3 ___
+
+___ 09:19PM URINE  BLOOD-NEG NITRITE-NEG PROTEIN-TR 
+GLUCOSE-NEG KETONE-80 BILIRUBIN-NEG UROBILNGN-NEG PH-6.0 
+LEUK-NEG
+___ 09:19PM URINE  RBC-6* WBC-<1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+
+___ 09:30PM   GLUCOSE-75 UREA N-14 CREAT-0.8 SODIUM-139 
+POTASSIUM-4.2 CHLORIDE-102 TOTAL CO2-21* ANION GAP-20
+
+==========================
+DISCHARGE LABS:
+==========================
+
+___ 10:45AM BLOOD WBC-10.0 RBC-5.56 Hgb-15.7 Hct-49.6 
+MCV-89 MCH-28.2 MCHC-31.7* RDW-13.1 RDWSD-43.1 Plt ___
+___ 10:45AM BLOOD Glucose-100 UreaN-14 Creat-0.9 Na-140 
+K-6.6* Cl-102 HCO3-28 AnGap-17  **** GROSSLY HEMOLYZED -- NOT 
+REPEATED AS DISTRESSING FOR PATIENT TO HAVE LABS DRAWN ****
+___ 10:45AM BLOOD Calcium-9.2 Phos-2.9 Mg-2.4
+
+=================
+IMAGING:
+=================
+CXR ___:
+IMPRESSION:
+No definite acute cardiopulmonary process.
+
+SHUNT SERIES ___: 
+FINDINGS:  Bilateral parietal approach ventriculostomy catheters 
+are noted.  There is no discontinuity along the course of the 
+catheters.  The left-sided catheter terminates in the upper mid 
+abdomen.  On the right, the catheter terminates in the right mid 
+abdomen.  Abandoned shunt catheter seen in the right neck and 
+chest wall. Lumbar levoscoliosis is noted.  No acute osseous 
+abnormalities. 
+  
+IMPRESSION:  No evidence of discontinuity along the course of 
+the shunts. 
+
+CT Head ___ (from ___
+Bilateral parietal approach ventriculostomy catheters in place 
+as described above. The left ventriculostomy catheter terminates 
+within the right basal ganglia. This appearance is stable 
+compared to prior exam in ___. The ventricles are slitlike in 
+appearance with bilateral subdural hygromas raising concern for 
+over shunting.
+
+ 
+Brief Hospital Course:
+Mr. ___ is a very pleasant ___ yo man with cerebral palsy s/p 
+VP shunt placement and history of seizures who presented with 1 
+day of increased somnolence and decreased interaction per 
+caretakers.  
+
+# ENCEPHALOPATHY: Per discussion patient woke up on the morning 
+of ___ and seemed somnolent, with notable "shivering." The 
+original plan was to send Mr. ___ to ___ 
+___ where his primary neurologist and neurosurgeons are but 
+ambulance had to be redirected as the hospital was on divert. 
+Overnight on hospital day 1 patient was seen by our 
+neurosurgeons who noted bilateral hygromas and worried that Mr. 
+___ VP shunt may be over-draining, but they did not feel 
+that this would account for acute lethargy. Infectious work-up 
+including blood cultures and urine cultures were negative and 
+patient did not have a fever while here. WBC was 11, but 
+decreased to 10 at time of discharge without intervention. 
+Electrolytes were all stable on presentation and vitals were all 
+within normal limits. By the morning of ___ patient was felt 
+to be at his baseline per the manager at his group home. In 
+discussion with patient's outpatient neurologist, Dr. ___, 
+___ Keppra dose was increased to 1000 mg BID and plan was made 
+for close outpatient primary care and neurology follow up.
+
+# Cerebral Palsy:
+- Trend MS
+- Increased keppra dose to 1000mg BID 
+
+# VP shunt: Needs follow up with neurology as outpatient and 
+plan for anesthasized evaluation of VP shunt by neurosurgery at 
+___. 
+
+#Constipation:
+-Continue home constipation regimen
+
+TRANSITIONAL ISSUES
+==============
+- Patient has follow up with Dr. ___ on ___ at 10:30am
+- Please ensure that patient has follow up with Dr. ___ in 
+1 week after discharge. Per neurosurgery evaluation at ___, he 
+needs follow up closely after discharge. 
+- Increased home keppra from 750 mg BID to ___ mg BID with aid 
+of Dr. ___, patient's neurologist. He should remain on 
+this dose until neurology follow up.
+- Head CT this hospital stay showed bilateral hygromas and was 
+concerning for over shunting. The hygromas are small and are not 
+causing mass effect; it was deemed that this was not the likely 
+cause of his lethargy, but he should follow up on these findings 
+within one week with outpatient neurology. 
+- Per manager at patient's group home, he is overdue to have his 
+VP shunt examined by his neurosurgery team at ___. This 
+will likely require general anesthesia. In light of recent 
+hospitalization we feel that this should be done relatively 
+soon.
+- Please resume prior physical activity. No new restrictions 
+placed. 
+
+# CONTACT: ___ ___ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. LevETIRAcetam 750 mg PO BID 
+2. GuaiFENesin 10 mL PO Q4H:PRN Cough 
+3. Docusate Sodium 100 mg PO DAILY 
+4. Senna 8.6 mg PO DAILY 
+5. Polyethylene Glycol 17 g PO BID:PRN Constipation 
+6. Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever 
+7. Milk of Magnesia 30 mL PO PRN constipation 
+8. Ketoconazole 2%  1 Appl TP BID 
+9. Miconazole Powder 2% 1 Appl TP QHS:PRN Rash 
+10. LORazepam ___ mg PO PRN 1 hour prior to dental work or lab 
+draws 
+11. PeriGuard (vit A-D3-E-aloe ___ Small amount  topical 
+PRN 
+12. Bacitracin Ointment 1 Appl TP BID:PRN Infection/cuts/sores 
+
+ 
+Discharge Medications:
+1.  LevETIRAcetam 1000 mg PO BID 
+RX *levetiracetam 1,000 mg 1 tablet(s) by mouth twice a day Disp 
+#*60 Tablet Refills:*0 
+2.  PeriGuard (vit A-D3-E-aloe ___ 1  application topical 
+PRN rash  
+3.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
+4.  Bacitracin Ointment 1 Appl TP BID:PRN Infection/cuts/sores  
+5.  Docusate Sodium 100 mg PO DAILY  
+6.  GuaiFENesin 10 mL PO Q4H:PRN Cough  
+7.  Ketoconazole 2%  1 Appl TP BID  
+8.  LORazepam ___ mg PO PRN 1 hour prior to dental work or lab 
+draws  
+9.  Miconazole Powder 2% 1 Appl TP QHS:PRN Rash  
+10.  Milk of Magnesia 30 mL PO PRN constipation  
+11.  Polyethylene Glycol 17 g PO BID:PRN Constipation  
+12.  Senna 8.6 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home With Service
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Primary
+=====
+Encephalopathy 
+Epilepsy
+
+Secondary
+======
+Cerebral palsy with VP shunt
+Spina Bifida
+Constipation
+
+ 
+Discharge Condition:
+Mental Status: Tracks providers, follows basic commands. 
+Non-verbal.
+Level of Consciousness: Alert and interactive.
+Activity Status: Out of Bed with assistance to chair or 
+wheelchair.
+
+ 
+Discharge Instructions:
+Mr. ___,
+
+It was a pleasure caring for you here at the ___ 
+___. You came to us after staff at your 
+group home felt that you looked sleepier and did not seem like 
+your normal cheerful self. We sent several tests to rule out 
+possible causes of altered mental status including blood 
+cultures and chest x-ray to rule out infection and a CT scan of 
+your head to make sure your shunt was not blocked. Everything 
+came back reassuring and you quickly returned to your normal 
+self. We spoke to your neurologist, who recommended that we 
+increase your keppra dose to 1000mg twice a day. 
+
+Please take all of your medications as described in this 
+discharge summary. If you experience any of the danger signs 
+below, call your primary care doctor or come to the emergency 
+department immediately.
+
+Best Wishes,
+
+Your ___ Care Team
+ 
+Followup Instructions:
+___

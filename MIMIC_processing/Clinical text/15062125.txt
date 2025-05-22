@@ -1,0 +1,261 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Lithium overdose
+ 
+Major Surgical or Invasive Procedure:
+None
+ 
+History of Present Illness:
+___ y/o M with PMH of bipolar disorder presenting to ED 
+approximately 8 hours after taking up to 18 g of lithium. Per 
+review of medication history, written for extended release 
+formulation. Patient denies any other co-ingestions. Patient 
+stated that he vomited 3 hours after ingesting. Patient denies 
+numbness, weakness, tingling, chest pain. Patient endorses mild 
+abdominal pain without nausea.
+
+In ED initial VS: T 97.7, BP 153/90, HR 91, RR 18, 100% RA 
+ 
+Labs significant for: Ca ___
+U-tox negative
+
+Patient was given: 
+1 L IVF 
+Go-lytley 
+ 
+Imaging notable for:
+EKG - Sinus rhythm at 86, STE V1/V2, Brugada type pattern, LVH, 
+no STEMI  
+ 
+Consults: Toxocology 
+___ go lightly per hour w/ narrowest bore ng tube until stool 
+clear
+ivf
+sx to watch for: ams, htn, bradycardia, ataxia, nystagmus, 
+clonus, tremor
+labs:lithium/chem 7 q2h
+ 
+VS prior to transfer: 97.7 67 136/74 16 99% RA 
+ 
+On arrival to the FICU, patient had a large BM. Reports GI upset 
+from large volume of Golytely. Otherwise he is asymptomatic. 
+Reports he consumed approximately 12 tablets, 300mg ER. He 
+denies any other consumption. Follows with psychiatrist here in 
+___, Dr. ___. Saw psychiatrist last week. Reports he was 
+feeling poorly at that time but did not notify his psychiatrist. 
+His diagnosis of bipolar disorder is rather recent per patient 
+and he was started on medication over the summer. Current 
+stressor that triggered this episode was social anxiety per 
+patient. Reports fall classes have not yet started and he is not 
+anxious about school work. His parents live in ___ they 
+are aware of his diagnosis of bipolar but do not know he is in 
+the hospital. He does not want me to call them at this time, but 
+gave me his mothers contact information in case of emergency. 
+
+ 
+Past Medical History:
+Bipolar disorder
+Factor V Leiden Deficiency, H/O ___ DVT
+ 
+Social History:
+___
+Family History:
+Father with DM. Denies family history of psychiatric illness or 
+sudden cardiac death.  
+ 
+ 
+Physical Exam:
+ADMISSION EXAM
+VITALS: Reviewed in metavision  
+GENERAL: Alert, oriented, no acute distress  
+HEENT: Sclera anicteric, MMM, oropharynx clear  
+NECK: supple, JVP not elevated, no LAD  
+LUNGS: Clear to auscultation bilaterally, no wheezes, rales, 
+rhonchi  
+CV: Regular rate and rhythm, normal S1 S2, no murmurs, rubs, 
+gallops  
+ABD: soft, non-tender, non-distended, bowel sounds present, no 
+rebound tenderness or guarding, no organomegaly  
+EXT: Warm, well perfused, 2+ pulses, no clubbing, cyanosis or 
+edema  
+SKIN:  
+NEURO: CN II-XII intact, sensation to light touch intact over 
+bilateral upper and lower extremities. Strength ___ in bilateral 
+upper and lower extremities. Patellar reflexes 2+ bilaterally.   
+
+
+DISHCARGE EXAM
+VS: 24 HR Data (last updated ___ @ 938)
+Temp: 97.6 (Tm 98.9), BP: 125/79 (116-148/70-79), HR: 74 
+(54-74), RR: 18, O2 sat: 97% (97-100), O2 delivery: Ra  
+GEN: Alert, NAD
+HEENT: NC/AT, PERRL, EOMI, no nystagmus
+CV: RRR, no m/r/g appreciated
+PULM: CTA B, breathing appears comfortable
+GI: S/NT/ND, BS present 
+NEURO: PERRL, EOMI, no nystagmus, moving all extremities equally 
+and with purpose with ___ strength, no tremor noted, FNF WNL 
+bilaterally, no clonus
+PSYCH: Calm, appropriate affect today
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 03:56AM BLOOD WBC-7.8 RBC-4.98 Hgb-14.5 Hct-42.6 MCV-86 
+MCH-29.1 MCHC-34.0 RDW-11.6 RDWSD-35.8 Plt ___
+___ 03:56AM BLOOD Neuts-74.6* Lymphs-15.6* Monos-6.8 
+Eos-2.2 Baso-0.3 Im ___ AbsNeut-5.84 AbsLymp-1.22 
+AbsMono-0.53 AbsEos-0.17 AbsBaso-0.02
+___ 02:55AM BLOOD Glucose-85 UreaN-7 Creat-0.9 Na-140 K-3.9 
+Cl-100 HCO3-28 AnGap-12
+___ 02:55AM BLOOD ALT-38 AST-24 AlkPhos-102 TotBili-0.5
+___ 05:00AM BLOOD CK(CPK)-454*
+___ 02:55AM BLOOD Albumin-5.1 Calcium-10.6* Phos-2.7 Mg-2.0
+___ 02:55AM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+
+OTHER PERTINENT LABS:
+___ 08:18AM BLOOD Lactate-1.0
+___ 02:55AM BLOOD Lithium-2.7*
+___ 05:00AM BLOOD Lithium-2.6*
+___ 07:28AM BLOOD Lithium-2.2*
+___ 11:25AM BLOOD Lithium-1.8*
+___ 03:00PM BLOOD Lithium-2.0*
+___ 08:46PM BLOOD Lithium-1.3
+___ 11:28PM BLOOD Lithium-1.1
+___ 03:59AM BLOOD Lithium-1.0
+___ 06:00AM BLOOD Lithium-0.6
+___ 08:13AM BLOOD Lithium-0.3*
+
+___ 02:55AM BLOOD TSH-1.5
+
+___ 05:00AM BLOOD CK-MB-2 cTropnT-<0.01
+___ 11:25AM BLOOD cTropnT-<0.01
+___ 03:00PM BLOOD cTropnT-<0.01
+
+___ 05:00AM BLOOD CK(CPK)-454*
+___ 11:25AM BLOOD CK(CPK)-393*
+___ 03:00PM BLOOD CK(CPK)-349*
+___ 06:00AM BLOOD CK(CPK)-166
+
+DISCHARGE LABS:
+___ 08:13AM BLOOD WBC-7.9 RBC-4.94 Hgb-14.5 Hct-43.0 MCV-87 
+MCH-29.4 MCHC-33.7 RDW-11.9 RDWSD-37.6 Plt ___
+___ 08:13AM BLOOD Glucose-91 UreaN-11 Creat-1.2 Na-143 
+K-4.1 Cl-100 HCO3-30 AnGap-13
+___ 08:13AM BLOOD Calcium-10.2 Phos-4.4 Mg-1.9
+
+URINE STUDIES:
+___ 02:55AM URINE Color-Straw Appear-Clear Sp ___
+___ 02:55AM URINE Blood-NEG Nitrite-NEG Protein-TR* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NEG pH-8.5* Leuks-NEG
+___ 02:55AM URINE RBC-0 WBC-4 Bacteri-NONE Yeast-NONE 
+Epi-<1
+___ 02:55AM URINE bnzodzp-NEG barbitr-NEG opiates-NEG 
+cocaine-NEG amphetm-NEG oxycodn-NEG mthdone-NEG
+
+KUB - IMPRESSION: 
+No radiopaque foreign bodies identified in the abdomen or 
+pelvis. Normal bowel gas pattern.  No free intraperitoneal air.
+ 
+Brief Hospital Course:
+___ yo M with PMH of bipolar disorder, factor V leiden defiency, 
+presenting to ED approximately 8 hours after taking up to 18 g 
+of lithium. 
+
+# LITHIUM OVERDOSE
+Patient with history of bipolar disorder, ingested 18g of 
+Lithium ER 300mg tablets. Lithium peaked at 2.7. Had episode of 
+vomiting after ingestion. Afterwards he was asymptomatic with 
+unremarkable labs. EKGs showed no QTc prolongation, flat T 
+waves, bradycardia. He had no ataxia, AMS, nystagmus, clonus, 
+tremor. Toxicology was consulted and recommended Golytlely until 
+stools clear and IV fluids. He was admitted to the ICU for close 
+monitoring and his lithium was checked every ___ hours and 
+down-trended. Lithium was in the subtherapeutic range (0.3) at 
+the time of discharge.
+
+# BIPOLAR DISORDER
+# SUICIDE ATTEMPT
+Patient with suicide attempt as above. On ___. He had a 
+1:1 sitter and psychiatry was consulted, recommended inpatient 
+psychiatric stay once medically cleared. Outpatient psychiatrist 
+Dr. ___ ___. Lithium was held while 
+inpatient.
+
+# STE V2/V3 
+Patient with ST elevations in V2/V3. Given lack of chest pain, 
+age and negative Tn x 3, unlikely to represent ACS. Given 
+concern for Brugada pattern, cardiac electrophysiology was 
+consulted. Assessment as per cardiac electrophysiology: "ECGs 
+not classic for Brugada although clinical context ___ toxicity 
+could be compatible with a sodium channel interaction. No 
+personal or family history of syncope/presyncope. No need for 
+urgent cardiac testing or a change of therapy at this
+time, as clearly the goals of his current acute care are more 
+focused on his psychiatric health. As he is covered in the MIT 
+health network, which generally
+refers subspecialty care to ___, I would recommend that he be 
+connected with the cardiac genetics ___ clinic there with 
+Dr. ___, whom I will notify via email.  Long-term 
+follow-up of his ECGs, with further testing as needed, can be
+coordinated there.  This may also be useful for consideration of 
+his psychiatric regimen going forward."
+
+# FACTOR V LEIDEN DEFICIENCY: With history rt calf, ___ dvt. S/p 
+3 months of Xarelto, now not on AC. No clinical evidence of VTE 
+during admission, and he was maintained on heparin SQ ppx.
+
+TRANSITIONAL ISSUES:
+- The patient should follow up with cardiology as above.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. lithium carbonate 300 mg oral DAILY 
+2. LORazepam 1 mg PO BID:PRN anxiety
+ 
+Discharge Medications:
+None
+ 
+Discharge Disposition:
+Extended Care
+ 
+Facility:
+___
+ 
+Discharge Diagnosis:
+Lithium Overdose
+Bipolar Disorder
+Suicide Attempt
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted to the hospital after you took a large amount 
+of lithium. You were monitored closely until your lithium levels 
+returned to normal. You were seen by the psychiatry team and are 
+now being discharged to an inpatient psychiatric unit.
+
+Of note, your ECG's were notable to have an abnormal pattern. 
+You were seen by the cardiologists who felt that this likely 
+represents a normal variant. However, you should follow up with 
+cardiology as below.
+ 
+Followup Instructions:
+___

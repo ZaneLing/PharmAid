@@ -1,0 +1,355 @@
+Name:  ___               Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+Zithromax Z-Pak
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Right eye decreased visual acuity
+ 
+Major Surgical or Invasive Procedure:
+No
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ year old male with DM2, HTN, HLD and h/o
+idiopathic ___ ___ who presents with partial vision loss for
+three weeks. He was playing golf when he realized he had trouble
+tracking his ball on the right. He closed his left eye and
+noticed a grey crescent shape obscuring his vision in the right
+upper quadrant, resolved when closing the right eye. He reported
+mild eye pain that first day, but none since. Vision loss has
+been constant or improving since. No headache. Denies 
+dysarthria,
+aphasia, confusion, weakness, numbness. Reports longstanding
+balance problems which he attributes to his peripheral 
+neuropathy
+___ DM. Scheduled ophthalmology appointment for this, concern 
+for
+retinal artery occlusion, sent to ___
+
+In the ED, evaluated by ophtho: 
+hemiretinal inferior arteriolar occlusion of the right eye with
+severe attenuation of the inferior retinal
+arterioles and presence of an arteriolar plaque on the optic
+nerve head. However, exam does not reveal any significant 
+retinal
+whitening (though patient does have a relatively blonde fundus),
+nor a cherry-red spot.
+
+Not a code stroke
+Time/Date the patient was last known well: 3 weeks ago
+I was not present during the CT scanning as the patient was not 
+a
+code stroke
+
+___ Stroke Scale Score:0
+
+t-PA administered: 
+[] Yes - Time given: __
+[x] No - Reason t-PA was not given or considered: NIHSS 0, LKW 3
+weeks ago
+
+Thrombectomy performed: 
+[] Yes 
+[x] No - Reason not performed or considered: retinal artery, no
+LVO, LKW 3 weeks ago
+
+NIHSS performed within 6 hours of presentation at: ___
+NIHSS Total: 0
+1a. Level of Consciousness: 0
+1b. LOC Question: 0
+1c. LOC Commands: 0 
+2.  Best gaze: 0
+3.  Visual fields: 0
+4.  Facial palsy: 0
+5a. Motor arm, left: 0
+5b. Motor arm, right: 0
+6a. Motor leg, left: 0
+6b. Motor leg, right: 0
+7.  Limb Ataxia: 0
+8.  Sensory: 0
+9.  Language: 0
+10. Dysarthria: 0
+11. Extinction and Neglect: 0
+ 
+ 
+Past Medical History:
+hypercholesterolemia
+DM 2
+ 
+Social History:
+___
+Family History:
+Sister with stroke in ___
+ 
+Physical Exam:
+Physical exam at the day of admission ___
+
+Vitals reviewe in ED dash
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac:  warm, well-perfused.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands. There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. Right ptosis. EOMI
+without nystagmus. Normal saccades. VFF to confrontation. Visual
+acuity ___ bilaterally. Fundoscopic exam revealed no
+papilledema, exudates, or hemorrhages.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    5
+R    5    5    5    5    5    5   5    5    5   5    5    5
+
+-Sensory: No deficits to light touch  vibration, or
+proprioception throughout. Reduced temperature in the feet,
+unable to distinguish pinprick in feet L>R. No extinction to 
+DSS.
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     1
+R   2     2      2      2     1 
+Plantar response was flexor bilaterally.
+
+-Coordination: Intention tremor bilaterally L>R. No dysmetria.
+Some trouble with HKS.
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing. Difficulty with tandem gait 
+
+Physical exam at the day of discharge ___
+
+Vitals reviewe in ED dash
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Neck: Supple, no carotid bruits appreciated. No nuchal rigidity.
+Pulmonary: Normal work of breathing.
+Cardiac:  warm, well-perfused.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+ 
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive, able to name ___ backward without
+difficulty. Language is fluent with intact repetition and
+comprehension. Normal prosody. There were no paraphasic errors.
+Able to name both high and low frequency objects.  Able to read
+without difficulty. No dysarthria. Able to follow both midline
+and appendicular commands. There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. Right ptosis. EOMI
+without nystagmus. Normal saccades. VFF to confrontation. Right 
+upper quadrant decreased vision acuity, able to identify finger 
+wiggling.  Fundoscopic exam revealed no
+papilledema, exudates, or hemorrhages.
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions. Strength
+full with tongue-in-cheek testing.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    5
+R    5    5    5    5    5    5   5    5    5   5    5    5
+
+-Sensory: No deficits to light touch  vibration, or
+proprioception throughout. Reduced temperature in the feet,
+unable to distinguish pinprick in feet L>R. No extinction to 
+DSS.
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     1
+R   2     2      2      2     1 
+Plantar response was flexor bilaterally.
+
+-Coordination: Intention tremor bilaterally L>R. No dysmetria.
+Some trouble with HKS.
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing. Difficulty with tandem gait 
+
+ 
+Pertinent Results:
+___ 06:25AM BLOOD WBC-6.6 RBC-3.92* Hgb-12.0* Hct-35.5* 
+MCV-91 MCH-30.6 MCHC-33.8 RDW-12.5 RDWSD-40.5 Plt ___
+___ 04:16PM BLOOD WBC-7.6 RBC-3.99* Hgb-12.1* Hct-35.8* 
+MCV-90 MCH-30.3 MCHC-33.8 RDW-12.4 RDWSD-40.5 Plt ___
+___ 04:16PM BLOOD Neuts-53.6 ___ Monos-9.4 Eos-2.1 
+Baso-0.8 Im ___ AbsNeut-4.09 AbsLymp-2.57 AbsMono-0.72 
+AbsEos-0.16 AbsBaso-0.06
+___ 06:25AM BLOOD Plt ___
+___ 06:25AM BLOOD ___ PTT-31.5 ___
+___ 04:16PM BLOOD Plt ___
+___ 04:16PM BLOOD ___ PTT-30.8 ___
+___ 06:25AM BLOOD Glucose-208* UreaN-20 Creat-1.0 Na-141 
+K-4.4 Cl-103 HCO3-26 AnGap-12
+___ 04:16PM BLOOD Glucose-190* UreaN-21* Creat-1.1 Na-139 
+K-4.1 Cl-102 HCO3-24 AnGap-13
+___ 06:25AM BLOOD ALT-26 AST-26 AlkPhos-39* TotBili-0.4
+___ 04:16PM BLOOD ALT-30 AST-32 AlkPhos-41 TotBili-0.3
+___ 06:25AM BLOOD Calcium-9.4 Phos-3.0 Mg-1.6 Cholest-161
+___ 04:16PM BLOOD Albumin-4.6
+___ 06:25AM BLOOD %HbA1c-9.3* eAG-220*
+___ 06:25AM BLOOD Triglyc-208* HDL-36* CHOL/HD-4.5 
+LDLcalc-83
+___ 04:16PM BLOOD ASA-NEG Ethanol-NEG Acetmnp-NEG 
+Tricycl-NEG
+___ 06:25AM BLOOD TSH-2.4
+___ 04:16PM BLOOD CRP-2.7
+___ 04:16PM BLOOD GreenHd-HOLD
+___ 06:25AM BLOOD
+___ 04:16PM BLOOD
+___ 04:24PM BLOOD SED RATE-Test      
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old male with DM2, HTN, HLD and h/o 
+perimesencephalic SAH in ___ who presented with painless right 
+monocular vision loss 3 weeks ago and admitted for stroke 
+work-up. 
+He reported sudden onset decreased vision in the upper quadrant 
+of right eye. On dilated eye exam by optho there was no retinal 
+whitening or cherry red spot but inferior arcade arterioles 
+severely attenuated, presence of plaque in inferior arteriole on 
+optic nerve head was seen. The remainder of the neurologic exam 
+was normal. CTA showed atheromatous 30% stenosis of the 
+bilateral proximal internal carotid arteries by NASCET criteria 
+and moderate stenosis at the origin of the left vertebral 
+artery, otherwise patent bilateral cervical carotid and 
+vertebral arteries without evidence of stenosis, occlusion, or 
+dissection, paranasal sinus mucosal thickening. MRI showed no 
+areas of ischemia. TTE showed no definite structural cardiac 
+source of embolism identified. Normal left ventricular wall 
+thickness and left ventricular cavity sizes and regional/global 
+biventricular
+systolic function. Mild right ventricular dilatation. Stroke 
+risk factors: A1c 9.3, LDL 83. ESR/CRP was normal. Etiology was 
+felt to be atheroembolic. Aspirin 81 mg daily was started after 
+approval by neurosurgery given prior non-aneurysmal SAH. 
+Atorvastatin was increased to 80 mg daily. His cardiologist 
+office was contacted for report of loop recorder but had not 
+sent report at time of discharge. Will follow-up ILR recordings 
+to see if patient has atrial fibrillation. If he does have afib, 
+would recommend discontinuation of aspirin 81 mg daily and 
+initiation of apixaban 5 mg bid.
+
+ 
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Atenolol 50 mg PO DAILY 
+2. Citalopram 20 mg PO DAILY 
+3. Fenofibrate 200 mg PO DAILY 
+4. Atorvastatin 20 mg PO QPM 
+5. Lisinopril 5 mg PO DAILY 
+6. MetFORMIN (Glucophage) 1000 mg PO BID 
+7. GlipiZIDE XL 5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*3 
+2.  Atorvastatin 80 mg PO QPM 
+RX *atorvastatin 80 mg 1 tablet(s) by mouth once a day Disp #*90 
+Tablet Refills:*3 
+3.  Atenolol 50 mg PO DAILY  
+4.  Citalopram 20 mg PO DAILY  
+5.  Fenofibrate 200 mg PO DAILY  
+6.  GlipiZIDE XL 5 mg PO DAILY  
+7.  Lisinopril 5 mg PO DAILY  
+8.  MetFORMIN (Glucophage) 1000 mg PO BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right retinal artery branch occlusion
+
+ 
+Discharge Condition:
+Level of Consciousness: Alert and interactive.
+Mental Status: Clear and coherent.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+You were hospitalized due to symptoms of decreased visual right 
+eye acuity resulting from right retinal artery branch occlusion, 
+a condition where a blood vessel providing oxygen and nutrients 
+to the brain is blocked by a clot. The brain is the part of your 
+body that controls and directs all the other parts of your body, 
+so damage to the brain from being deprived of its blood supply 
+can result in a variety of symptoms.
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are - diabetes
+- high cholesterol
+- high blood pressure
+
+We are changing your medications as follows:
+- start aspirin 81 mg daily
+- increase atorvastatin to 80 mg daily 
+
+Please take your other medications as prescribed.
+
+Please followup with Neurology and your primary care physician.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+
+ 
+Followup Instructions:
+___

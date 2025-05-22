@@ -1,0 +1,283 @@
+Name:  ___.                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+tramadol
+ 
+Attending: ___.
+ 
+Major Surgical or Invasive Procedure:
+None
+
+attach
+ 
+Pertinent Results:
+ADMISSION LABS
+===============
+___ 10:10PM URINE Color-Straw Appear-CLEAR Sp ___
+___ 10:10PM URINE Blood-SM* Nitrite-NEG Protein-30* 
+Glucose-NEG Ketone-NEG Bilirub-NEG Urobiln-NORMAL pH-7.0 
+Leuks-MOD*
+___ 10:10PM URINE RBC-16* WBC-69* Bacteri-NONE Yeast-NONE 
+Epi-<1
+___ 11:20PM OTHER BODY FLUID FluAPCR-NEG FluBPCR-NEG
+___ 12:30AM BLOOD WBC-7.4 RBC-4.23 Hgb-12.5 Hct-38.9 MCV-92 
+MCH-29.6 MCHC-32.1 RDW-13.3 RDWSD-45.0 Plt ___
+___ 12:30AM BLOOD ___ PTT-29.4 ___
+___ 12:30AM BLOOD Glucose-115* UreaN-19 Creat-0.7 Na-140 
+K-4.3 Cl-99 HCO3-26 AnGap-15
+___ 12:30AM BLOOD Calcium-9.7 Phos-3.3 Mg-1.2*
+
+OTHER RELEVANT LABS
+===================
+___ 10:10 pm URINE
+
+                            **FINAL REPORT ___
+
+   URINE CULTURE (Final ___: 
+      MIXED BACTERIAL FLORA ( >= 3 COLONY TYPES), CONSISTENT 
+WITH SKIN
+      AND/OR GENITAL CONTAMINATION. 
+      ENTEROCOCCUS SP..    >100,000 CFU/mL. 
+         PREDOMINATING ORGANISM INTERPRET RESULTS WITH CAUTION. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ENTEROCOCCUS SP.
+                             |   
+AMPICILLIN------------   <=2 S
+NITROFURANTOIN--------  <=16 S
+TETRACYCLINE----------  =>16 R
+VANCOMYCIN------------     2 S
+
+IMAGING/STUDIES
+================
+TTE ___
+CONCLUSION:
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect by 2D/color
+Doppler. The estimated right atrial pressure is ___ mmHg. There 
+is focal non-obstructive hypertrophy of
+the basal septum with a normal cavity size. There is normal 
+regional and global left ventricular systolic
+function. Quantitative biplane left ventricular ejection 
+fraction is 67 % (normal 54-73%). Left
+ventricular cardiac index is high (>4.0 L/min/m2). There is no 
+resting left ventricular outflow tract
+gradient. No ventricular septal defect is seen. Normal right 
+ventricular cavity size with normal free wall
+motion. Tricuspid annular plane systolic excursion (TAPSE) is 
+normal. The aortic sinus diameter is
+normal for gender with a normal ascending aorta diameter for 
+gender. The aortic arch diameter is normal
+with a normal descending aorta diameter. There is no evidence 
+for an aortic arch coarctation. The aortic
+valve leaflets (3) are mildly thickened. There is no aortic 
+valve stenosis. The increased velocity is due to
+high stroke volume. There is no aortic regurgitation. The mitral 
+valve leaflets are mildly thickened with
+no mitral valve prolapse. There is mild [1+] mitral 
+regurgitation. The pulmonic valve leaflets are normal.
+The tricuspid valve leaflets appear structurally normal. There 
+is physiologic tricuspid regurgitation. The
+estimated pulmonary artery systolic pressure is normal. There is 
+no pericardial effusion.
+IMPRESSION: Focal left ventricular basal septal hypertrophy with 
+normal cavity size and
+regional/global biventricular systolic function. Mild mitral 
+regurgitation. Normal estimated PASP.
+No structural cardiac cause of syncope identified. Unable to 
+perform valsalva due to language
+barrier.
+
+DISCHARGE LABS
+===============
+___ 04:59AM BLOOD WBC-5.4 RBC-3.79* Hgb-11.2 Hct-35.1 
+MCV-93 MCH-29.6 MCHC-31.9* RDW-13.2 RDWSD-45.1 Plt ___
+___ 04:59AM BLOOD Glucose-104* UreaN-20 Creat-0.6 Na-142 
+K-4.0 Cl-97 HCO3-30 AnGap-15
+___ 04:59AM BLOOD Calcium-9.1 Phos-3.8 Mg-1.5*
+ 
+Brief Hospital Course:
+BRIEF SUMMARY OF ADMISSION 
+==========================
+Ms. ___ is an ___ yo ___ woman with a past 
+medical history of hypertension, gout, and nephrolithiasis who 
+presented with acute on chronic changes in mental status, likely 
+___ UTI superimposed on dementia. 
+
+TRANSITIONAL ISSUES
+===================
+[] Complete 3 day course of antibiotics (cefpodoxime) on ___ 
+[] If having recurrent UTI symptoms, would treat for 
+enterococcus (is ampicillin, nitrofurantoin, and vancomycin 
+sensitive)
+[] Consider referral for cognitive testing given concerns about 
+dementia
+[] ___ recommending ___ monitoring given concerns about 
+cognitive functioning, consider evaluation for placement in a 
+facility where she can be monitored ___ 
+[] Ensure up to date with age appropriate cancer screening given 
+report of weight loss
+[] Unfortunately due to insurance status we were unable to set 
+up the patient with home services. Please help family get 
+insurance which covers services in ___.
+
+ACUTE ISSUES:
+=============
+# Suspected uncomplicated cystitis 
+# Altered Mental Status
+Patient presented with increased confusion according to family, 
+in the setting of subacute decline over last several months as 
+well as Ativan administration prior to arrival. On exam patient 
+without focal neurologic deficits and CT imaging of head without 
+evidence of lesions, bleeding to explain change in mental 
+status. However there is evidence of microangiopathic changes 
+which raises concern for vascular dementia given chronic changes 
+noted by family or stroke pathology. UA notable for leukocyte 
+esterase, WBC but no nitrites present. Overall suspect given 
+history of declining memory she likely has underlying dementia 
+and acute change in mentation related to underlying infection or 
+lorazepam use. Patient was treated with 3 doses of CTX in house 
+(Received 2x ___, 1x ___. She was given cefpodoxime for 1 
+additional day to complete 3 day course for uncomplicated 
+cystitis. UCx was contaminated with mixed flora, and also 
+growing enterococcus. Given clinical improvement in CTX, it was 
+felt that it was adequately covering pathogen and that 
+completing course with cefpodoxime was appropriate. Patient back 
+to baseline prior to discharge. 
+
+# s/p unwitnessed fall
+Unclear details surrounding recent fall at home prior to 
+admission. Trauma evaluation without evidence of intracranial 
+bleeding, neck injury. Suspect likely mechanical fall. Patient 
+noted to have poor PO intake so hypovolemia and vasovagal 
+pathology on differential. Orthostatic vital signs were normal, 
+now back on home BP meds. Telemetry was without evidence of 
+arrhythmia. TTE was obtained given unknown hx and murmur on 
+exam, but was unrevealing for etiology of syncope. ___ evaluated 
+patient but unfortunately due to insurance status we were unable 
+to set up the patient with home services. 
+
+# Abnormal Weight Loss
+Family reports 30lb weight loss since ___. Likely poor PO 
+intake in setting of patient's increasing difficulty with ADLs. 
+Should ensure that she is up to date on all cancer screening as 
+an outpatient. Home mirtazapine was initially held but restarted 
+prior to discharge. 
+
+# Left arm edema
+No fracture noted on x-ray, arm soft but mildly edematous, 
+suspect related to fall at home. No focal tenderness noted. 
+Acetaminophen for pain control PRN.
+
+CHRONIC ISSUES:
+===============
+# Hypertension: Initially held home Losartan, HCTZ but restarted 
+prior to discharge 
+
+# Chronic Pain: Continued home gabapentin
+
+CORE MEASURES
+=============
+#CODE: Full code presumed
+#CONTACT: 
+Name of health care proxy: ___ 
+___: grandaughter 
+Cell phone: ___ 
+
+>30 minutes spent on discharge planning and coordination of care
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Allopurinol ___ mg PO DAILY 
+2. Aspirin 81 mg PO DAILY 
+3. Calcium Carbonate 600 mg PO DAILY 
+4. Vitamin D 400 UNIT PO DAILY 
+5. Gabapentin 300 mg PO TID 
+6. Ferrous Sulfate 325 mg PO DAILY 
+7. Mirtazapine 15 mg PO QHS 
+8. Denosumab (Prolia) 60 mg SC Q6 MONTHS 
+9. Valsartan 160 mg PO DAILY 
+10. Hydrochlorothiazide 12.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Cefpodoxime Proxetil 200 mg PO Q12H Duration: 1 Day 
+RX *cefpodoxime 200 mg 1 tablet(s) by mouth twice a day Disp #*2 
+Tablet Refills:*0 
+2.  Allopurinol ___ mg PO DAILY  
+3.  Aspirin 81 mg PO DAILY  
+4.  Calcium Carbonate 600 mg PO DAILY  
+5.  Denosumab (Prolia) 60 mg SC Q6 MONTHS  
+6.  Ferrous Sulfate 325 mg PO DAILY  
+7.  Gabapentin 300 mg PO TID  
+8.  Hydrochlorothiazide 12.5 mg PO DAILY 
+RX *hydrochlorothiazide 12.5 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+9.  Mirtazapine 15 mg PO QHS  
+10.  Valsartan 160 mg PO DAILY 
+RX *valsartan 160 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+11.  Vitamin D 400 UNIT PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSES
+==================
+Urinary tract infection 
+Toxic Metabolic Encephalopathy 
+
+SECONDARY DIAGNOSES
+=====================
+Vascular Dementia 
+HTN
+Gout
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Ms. ___, 
+ 
+It was a pleasure caring for you at ___ ___ 
+___.  
+ 
+WHY WAS I IN THE HOSPITAL?  
+ - You were admitted for confusion and a fall at home 
+ 
+WHAT HAPPENED TO ME IN THE HOSPITAL?  
+ - While you were in the hospital, we found that you had a 
+urinary tract infection that we treated you for 
+
+ - We did x-rays of your wrist and did not find any fractures 
+
+ - You were improved so we felt it was safe for you to go home 
+with your family 
+ 
+WHAT SHOULD I DO AFTER I LEAVE THE HOSPITAL?  
+ - Continue to take all your medicines and keep your 
+appointments.  
+ 
+We wish you the best!  
+ 
+Sincerely,  
+Your ___ Team 
+ 
+Followup Instructions:
+___

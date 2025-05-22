@@ -1,0 +1,468 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+venom-honey bee
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Shortness of breath
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+___ year old man with no significant
+past medical history who presented to the ED with progressive
+dyspnea x 3 days. 
+
+Patient reports onset of symptoms 3 days prior to admission with
+subjective fevers, chills, and cough. He had a severe prolonged
+coughing fit at that time after which he subsequently developed
+progressive dyspnea with difficulty swallowing and chest
+tightness, pleuritic in nature. Denies any recent travel or sick
+contacts. No prior history of similar episodes though does
+endorse a history of panic attacks with transient chest
+discomfort that resolves with relaxation. No history of trauma.
+No known history lung disease. Denies any wheezing or 
+respiratory
+symptoms triggered for exercise, cold air, or allergens to
+suggest an underlying history of asthma.  He reports the dyspnea
+was preventing him from sleeping at night which prompted him to
+call EMS to come to the ED. 
+
+ 
+Past Medical History:
+Depression
+ 
+Social History:
+___
+Family History:
+Non-contributory
+ 
+Physical Exam:
+Admission Physical Exam:
+========================
+VS: 98.1 ___
+GENERAL: NAD
+HEENT: PERRLA, EOMI, MMM
+NECK: crepitus in the lower base of the neck
+CV: RRR, S1/S2, no murmurs, gallops, or rubs
+PULM: CTAB, decreased BS at the bases 
+GI: abdomen soft, nondistended, nontender in all quadrants, no
+rebound/guarding
+EXTREMITIES: no cyanosis, clubbing, or edema
+NEURO: Alert, moving all 4 extremities with purpose, face
+symmetric
+DERM: warm and well perfused, no excoriations or lesions, no
+rashes
+
+Discharge Physical Exam:
+========================
+Physical Examination:
+VS: ___ ___ Temp: 98.6 PO BP: 120/74 L Lying HR: 76 RR: 18
+O2 sat: 97% O2 delivery: RA 
+GENERAL: NAD, A&Ox3, lying in bed comfortably 
+EYES: Sclera clear, anicteric, PERRL
+Neck: no JVD
+CV: RRR, normal s1/s2, no MRG 
+Chest: palpable crepitus across right chest into the lower right
+anterior neck 
+RESP: Decreased air entry to bases. No accessory muscle usage
+ABD: Bowel sounds normoactive, soft and NTND, no HSM. No
+guarding/rebound tenderness. 
+Ext: No clubbing/cyanosis. Pulses 2+ bilaterally. Normal 
+strength
+and ROM in all extremities. 
+SKIN:No rashes/lesions. No jaundice. Warm. No evidence of skin
+breakdown. 
+NEURO: No gross deficits, ___ 
+PSYCH: Mood/affect appropriate. 
+
+ 
+Pertinent Results:
+Admission Labs:
+===============
+___ 08:45AM BLOOD WBC-16.0* RBC-5.50 Hgb-16.2 Hct-50.0 
+MCV-91 MCH-29.5 MCHC-32.4 RDW-11.9 RDWSD-39.7 Plt ___
+___ 08:45AM BLOOD Neuts-81.9* Lymphs-7.7* Monos-7.1 Eos-2.5 
+Baso-0.2 Im ___ AbsNeut-13.11* AbsLymp-1.24 AbsMono-1.13* 
+AbsEos-0.40 AbsBaso-0.04
+___ 08:45AM BLOOD ___ PTT-31.3 ___
+___ 08:45AM BLOOD Glucose-95 UreaN-12 Creat-1.0 Na-144 
+K-4.6 Cl-99 HCO3-27 AnGap-18
+___ 04:35AM BLOOD Calcium-10.1 Phos-3.1 Mg-2.0
+___ 08:56AM BLOOD Lactate-2.2*
+
+Discharge Labs:
+===============
+___ 04:45AM BLOOD WBC-15.9* RBC-4.89 Hgb-14.8 Hct-43.6 
+MCV-89 MCH-30.3 MCHC-33.9 RDW-12.4 RDWSD-40.8 Plt ___
+___ 04:45AM BLOOD Plt ___
+___ 04:45AM BLOOD Glucose-95 UreaN-16 Creat-1.0 Na-142 
+K-4.4 Cl-102 HCO3-26 AnGap-14
+___ 04:45AM BLOOD Calcium-10.0 Phos-4.1 Mg-2.1
+
+Imaging:
+========
+CXR: ___
+Final Report
+EXAMINATION:  CHEST (PA AND LAT)
+ 
+INDICATION:  History: ___ with sob, cough// r/o acute process
+ 
+TECHNIQUE:  PA and lateral chest
+ 
+COMPARISON:  None available.
+ 
+FINDINGS: 
+ 
+The lungs are clear.  No pleural effusion.  No pneumothorax.  
+The cardiac size
+and mediastinal contour are within normal limits. Bony 
+structures are
+unremarkable.
+There is air seen along the right chest wall, as well as a 
+linear thickness
+along the anterior mediastinum, which may represent air tracking 
+consistent
+with pneumomediastinum.
+ 
+IMPRESSION: 
+ 
+Foci of air along the right chest wall and anterior mediastinum, 
+concerning
+for pneumomediastinum. No pneumothorax.
+
+CT Chest ___
+
+Final Report
+EXAMINATION:  CT CHEST W/O CONTRAST
+ 
+INDICATION:  History: ___ with dyspnea// eval for 
+penumomediastinum
+ 
+TECHNIQUE:  Multi-detector helical scanning of the chest was 
+performed without
+intravenous iodinated contrast agent and reconstructed as 5 and 
+1.25 mm thick
+axial, 2.5 mm thick coronal and sagittal, and 8 mm MIP axial 
+images.
+ 
+DOSE:  Acquisition sequence:
+   1) Spiral Acquisition 5.1 s, 40.0 cm; CTDIvol = 7.8 mGy 
+(Body) DLP = 311.5
+mGy-cm.
+ Total DLP (Body) = 312 mGy-cm.
+ 
+COMPARISON:  Chest radiograph from ___.
+ 
+FINDINGS: 
+ 
+NECK, THORACIC INLET, AXILLAE, CHEST WALL: The imaged thyroid is 
+unremarkable.
+There is no supraclavicular or axillary lymphadenopathy.  The 
+esophagus is
+unremarkable. Large volume pneumomediastinum communicates with 
+the imaged base
+of the neck and the right chest wall.
+ 
+UPPER ABDOMEN: Small foci of air are seen around the gastric 
+fundus, for
+example (4:211), likely secondary to pneumomediastinum.
+ 
+MEDIASTINUM: There is large volume pneumomediastinum.  No 
+mediastinal fluid is
+seen.  There is no mediastinal mass or lymphadenopathy.
+ 
+HILA: There is no hilar mass or lymphadenopathy.
+ 
+HEART and PERICARDIUM: Heart size is normal. There are no 
+significant coronary
+artery or valvular calcifications.  The thoracic aorta is normal 
+in caliber.
+There is no pericardial effusion.  Large volume 
+pneumopericardium is noted.
+ 
+PLEURA: No pleural effusion or pneumothorax.
+ 
+LUNG:
+ 
+1. PARENCHYMA:  There are a few scattered areas of ground-glass 
+opacities
+bilaterally.  No focal consolidations or suspicious pulmonary 
+nodules.  No
+definite blebs are seen.
+2. AIRWAYS:  The central airways are patent.  There is diffuse, 
+severe,
+chronic appearing airways disease, as evidence by abnormal 
+dilatation of
+airways without appropriate tapering, for example in the right 
+upper lobe
+(4:82), irregular, heterogeneous caliber of airways, and 
+multiple areas mucous
+plugging bilaterally, for example in the left lower lobe 
+(4:162).
+3. VESSELS:  Main pulmonary artery diameter is within normal 
+limits.
+CHEST CAGE: No suspicious osseous lesions are identified. There 
+is no acute
+fracture.
+ 
+IMPRESSION:
+ 
+ 
+1. Large volume pneumomediastinum and pneumopericardium, with 
+air tracking
+into the base of the neck, right thoracic wall and upper 
+abdomen.
+2. Severe, diffuse, chronic-appearing airways irregularity, mild 
+wall
+thickening and scattered ground-glass opacities in the bilateral 
+lungs.
+3. Overall, this constellation of findings may be explained by 
+an acute
+exacerbation of underlying chronic asthma, possibly precipitated 
+by an
+atypical infection.
+
+Barium Swallow ___
+========================
+Final Report
+EXAMINATION:  Esophagram
+ 
+INDICATION:  ___ year old man with pneumomediastinum// Evaluate 
+for esophageal
+perforation
+ 
+TECHNIQUE:  Barium esophagram.
+ 
+DOSE:  Acc air kerma: 4 mGy; Accum DAP: 97.65 uGym2; Fluoro 
+time: 00:52
+ 
+COMPARISON:  CT chest ___
+ 
+FINDINGS: 
+ 
+Streaky linear soft tissue air consistent with known 
+pneumomediastinum is
+noted.
+ 
+The esophagus was not dilated.  There was no stricture within 
+the esophagus.
+There was no esophageal mass on this limited evaluation.  There 
+was no
+extraluminal contrast or evidence of esophageal perforation.
+ 
+IMPRESSION: 
+ 
+No evidence of esophageal perforation.
+
+Chest X ray (___)
+====================
+Final Report
+EXAMINATION:  CHEST (PORTABLE AP)
+ 
+INDICATION:  ___ year old man with SPM// interval change in 
+pneumomediastinum
+ 
+TECHNIQUE:  Portable chest radiograph
+ 
+COMPARISON:  ___
+ 
+FINDINGS: 
+ 
+There has been interval worsening of subcutaneous emphysema with 
+stable
+pneumomediastinum.  Small left apical pneumothorax is seen.  
+There is no focal
+consolidation.  There is no pleural effusion.  No focal 
+consolidation. 
+Cardiac silhouette is normal.
+ 
+IMPRESSION: 
+ 
+1.  Interval progression of subcutaneous emphysema with stable
+pneumomediastinum.
+2.  Small left apical pneumothorax.
+ 
+
+TTE ___
+=============
+CONCLUSION:
+The left atrial volume index is normal. There is no evidence for 
+an atrial septal defect by 2D/color
+Doppler
+. The estimated right atrial pressure is ___ mmHg. There is 
+normal regional and global left
+ventricular systolic function. Quantitative biplane left 
+ventricular ejection fraction is 59 %. There is no
+resting left ventricular outflow tract gradient. T
+issue Doppler suggests a normal left ventricular filling
+pressure (PCWP less than 12mmHg). Normal right ventricular 
+cavity size with normal free wall motion.
+The aortic valve is not well seen. There is no aortic valve 
+stenosis. There is no aortic regur
+gitation. The
+mitral valve leaflets appear structurally normal with no mitral 
+valve prolapse. There is trivial mitral
+regur
+gitation. The tricuspid valve leaflets appear structurally 
+normal. There is physiologic tricuspid
+regur
+gitation. The pulmonary artery systolic pressure could not be 
+estimated. There is no pericardial
+effusion.
+IMPRESSION:
+Preserved biventricular systolic function. No clinically 
+significant valvular
+regur
+gitation or stenosis. Indeterminate pulmonary pressure.
+
+CXR ___
+Final Report 
+EXAMINATION:  CHEST (PA AND LAT) 
+  
+INDICATION:  ___ year old man with pneumomedias// ?change in 
+pneumomediastinum 
+and pneumothorax      ?change in pneumomediastinum and 
+pneumothorax 
+  
+IMPRESSION:  
+  
+Comparison to ___.  The relatively extensive 
+pneumomediastinum and 
+pneumopericardium, together with air extension into the soft 
+tissues of the 
+neck in the chest wall, is unchanged.  The pre-existing small 
+left apical 
+pneumothorax has improved and is now millimetric.  Stable normal 
+appearance of 
+the heart.  Normal structure and transparent see of the lung 
+parenchyma. 
+
+ 
+Brief Hospital Course:
+Assessment:
+===========
+___ yo M PMHx depression here with spontaneous 
+pneumomediastinum/pneumopericardium.
+
+Active Issues:
+==============
+#Pneumomediastinum
+#Pneumipericardium 
+#Atypical pneumonia
+Patient presented with dyspnea and chest pain for 3 days prior 
+to presentation. Imaging in the ED was revealing for large 
+volume pneumomediastrium and pneumopericardium. Also noted 
+likely atypical pneumonia and changes consistent with asthma, 
+though the patient does not hold a diagnosis of such. He 
+endorses feeling ill for 5 days before presentation with 
+subjective fevers and fatigue, but denied productive cough. 
+Received zoysn and IV methylpred in ED, which was then 
+descalated to azithro/ceftriaxone and PO pred while on the 
+medical floor. He was evaluated by thoracic surgery in the ED 
+who deferred surgical intervention and recommended conservative 
+management. He remained afebrile and without productive cough. 
+Repeat CXR showed small apical pneumothorax which we treated 
+with supplemental oxygen via nasal canula. We monitored the 
+patient with continuous oxygen telemetry which showed no major 
+desaturations. We also continued the patient treated the patient 
+with duonebs q6hrs. He was transitioned to levofloxacin and 
+discharged him with 3 days to complete a 5 day course. We are 
+concerned that the patient may have undiagnosed and untreated 
+asthma which may have been a major contributor to this 
+presentation. We discharged the patient with a prescription for 
+an albuterol rescue inhaler. He was stable on room air with 
+ambulatory saturations in the high ___. He will need follow up 
+with a PCP to continue to monitor his recovery. 
+
+CHRONIC/STABLE PROBLEMS:
+========================
+#Depression
+-We continued the patients home fluoxetine 
+
+Transitional Issues:
+====================
+[] Will need further evaluation for asthma (consider PFTs)
+[] Patient should not fly until there is resolution of his 
+pneumomediastinum/pneumopericardium.
+[] To complete 5 day course of antibiotics for CAP on ___
+[] Will complete a 5 day course of steroids for possible asthma 
+exacerbation on ___
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FLUoxetine 40 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Albuterol Inhaler 2 PUFF IH Q6H:PRN Shortness of breath 
+RX *albuterol sulfate [ProAir HFA] 90 mcg 2 puffs q6hrs PRN Disp 
+#*1 Inhaler Refills:*3 
+2.  Levofloxacin 750 mg PO DAILY Duration: 3 Days 
+RX *levofloxacin 750 mg 1 tablet(s) by mouth Daily Disp #*3 
+Tablet Refills:*0 
+3.  PredniSONE 40 mg PO DAILY Duration: 3 Days 
+RX *prednisone 20 mg 2 tablet(s) by mouth Daily Disp #*6 Tablet 
+Refills:*0 
+4.  FLUoxetine 40 mg PO DAILY  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Primary Diagnosis 
+=================
+1)Pneumomediastinum
+2)Pnuemopericardium
+3)Pneumothorax
+4)Community acquired pneumonia
+
+Secondary Diagnosis 
+===================
+1) ?Asthma
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,  
+ 
+It was a pleasure taking part in your care here at ___!  
+
+Why was I admitted to the hospital?  
+-You were admitted for shortness of breath
+ 
+What was done for me while I was in the hospital?  
+-You had a CT scan which showed that you had air outside your 
+lungs
+-We gave you breathing treatments and oxygen 
+-We repeated a chest x ray which showed the air outside your 
+lungs was not worsening
+
+What should I do when I leave the hospital?  
+-Please follow up with your new primary care provider 
+-___ all of your medications as prescribed.
+-Do not fly until you are cleared to do so by your primary care 
+doctor.
+ 
+Sincerely,  
+Your ___ Care Team  
+
+ 
+Followup Instructions:
+___

@@ -1,0 +1,208 @@
+Name:  ___                  Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+headache
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+PCP:
+Name: ___ MD 
+Location: ___ 
+Address: ___, ___ 
+Phone: ___ 
+Fax: ___ 
+
+HOSPITALIST ADMISSION NOTE
+
+HPI:
+Mr. ___ is a ___ yo M with poorly controlled DM2, HTN, HL, 
+with CKD who presents with headache, mild confusion, 
+uncontrolled HTN, and hyperglycemia.  He states that for various 
+work reasons he has not taken his medications or his blood sugar 
+for the past ___ months.  Over the last week, he has felt 
+fatigued, "woozy", confused, and has had an intermittent frontal 
+HA with blurriness of vision.  He went to work yesterday and was 
+not even able to ___ to his computer.  He felt confused and 
+his coworkers took him into the hospital.  In addition to the 
+above, he reports urinary frequency.  He denies F/C, double 
+vision, sore throat, CP, SOB, cough, n/v/d, bloody/black stool, 
+leg pain or swelling.  He reports good appetite.  He reports 
+numbness in his feet, but otherwise denies any focal weakness.
+
+In the ED, SBP 200s requiring labetalol, FSBG 500s.  Labs, CXR, 
+and CT head performed.  ___ was consulted and patient was 
+initiated on glargine and Humalog insulin.
+
+PCP is ___ ___
+
+10 point review of systems reviewed, otherwise negative except 
+as listed above
+ 
+Past Medical History:
+type 2 diabetes mellitus, last A1C ___ 8.9%
+HTN
+HL
+CKD stage II-III
+
+ 
+Social History:
+___
+Family History:
+___.  Mother with diabetes
+ 
+Physical Exam:
+VS: T 98.7, BP 157/81, HR 85, RR 18, 100%RA
+GEN: well appearing talkative in NAD
+HEENT: MMM, OP clear, anicteric sclera, poor dentition
+NECK: supple no LAD
+HEART: RRR no mrg
+LUNG: CTAB no wheezes or crackles
+ABD: sfot NT/ND +BS no rebound or guarding
+EXT: warm well perfused no pitting edema, skin dry and cracked
+SKIN: skin dry and cracked over feet no bruising
+NEURO: CNII-XII intact.  strength ___ symmetric.  gross 
+sensation intact.  no dysmetria.  ? mild R pronator drift.  
+Proprioception intact bilateral ___ toe
+ 
+Pertinent Results:
+___ 07:37PM   GLUCOSE-286* UREA N-27* CREAT-1.9* SODIUM-135 
+POTASSIUM-3.9 CHLORIDE-100 TOTAL CO2-24 ANION GAP-15
+___ 07:37PM   cTropnT-0.02*
+___ 11:19AM   ___ PO2-40* PCO2-42 PH-7.38 TOTAL CO2-26 
+BASE XS-0
+___ 11:00AM   GLUCOSE-510* UREA N-27* CREAT-2.0* 
+SODIUM-129* POTASSIUM-4.7 CHLORIDE-93* TOTAL CO2-22 ANION GAP-19
+___ 11:00AM   estGFR-Using this
+___ 11:00AM   CK(CPK)-231
+___ 11:00AM   cTropnT-0.02*
+___ 11:00AM   CK-MB-4
+___ 11:00AM URINE  HOURS-RANDOM
+___ 11:00AM URINE  HOURS-RANDOM
+___ 11:00AM URINE  UHOLD-HOLD
+___ 11:00AM URINE  GR HOLD-HOLD
+___ 11:00AM   WBC-11.2* RBC-4.07* HGB-12.1* HCT-35.9* 
+MCV-88 MCH-29.7 MCHC-33.7 RDW-11.7 RDWSD-37.5
+___ 11:00AM   NEUTS-92.1* LYMPHS-6.1* MONOS-1.0* EOS-0.1* 
+BASOS-0.3 IM ___ AbsNeut-10.35* AbsLymp-0.68* AbsMono-0.11* 
+AbsEos-0.01* AbsBaso-0.03
+___ 11:00AM   PLT COUNT-220
+___ 11:00AM URINE  COLOR-Straw APPEAR-Clear SP ___
+___ 11:00AM URINE  BLOOD-SM  NITRITE-NEG PROTEIN-300 
+GLUCOSE-1000 KETONE-TR BILIRUBIN-NEG UROBILNGN-NEG PH-7.0 
+LEUK-NEG
+___ 11:00AM URINE  RBC-10* WBC-1 BACTERIA-NONE YEAST-NONE 
+EPI-0
+
+EKG, my review: NSR, LAD, LVH with repolarization changes.  
+Similar to prior EKG reviewed.
+
+CXR, my review: No infiltrate or edema or acute processes
+
+CT head x2: negative
+
+DC LABS:
+
+___ 08:00AM BLOOD WBC-6.3 RBC-3.86* Hgb-11.6* Hct-38.0* 
+MCV-98# MCH-30.1 MCHC-30.5* RDW-11.9 RDWSD-42.9 Plt ___
+___ 08:00AM BLOOD Glucose-321* UreaN-35* Creat-2.1* Na-136 
+K-4.1 Cl-100 HCO3-23 AnGap-17
+___ 09:23AM BLOOD %HbA1c-13.4* eAG-338*
+ 
+Brief Hospital Course:
+___ yo M with poorly controlled DM2, HTN, HL, presents with 
+subacute fatigue, lethargy/confusion, and HA, found to have 
+hypertensive urgency, ARF, and hyperglycemia.
+
+Lethargy/Encephalopathy
+Poorly controlled DM2 with nephropathy/neuropathy
+Hypertensive urgency/Malignancy hypertension
+The patient' symptoms were consistent with uncontrolled DM2 and 
+HTN causing hypertensive urgency and encephalopathy.  He also 
+had ARF.  There was no evidence of infection, cardiac ischemia, 
+or acute stroke.  The above were likely exacerbated by poor 
+adherence to his medication for the last year.  Clinically he 
+improved with blood pressure and FSBG control.  ___ was 
+involved.  He was placed on Lantus monotherapy at 25 units qHS 
+as well as Glipizide 10mg BID.  Metformin was held due to his 
+renal failure.  His A1c was found to be >13.  He will follow up 
+with ___ for his diabetes.
+
+Hi blood pressure improved markedly with initiation of his 
+amlodipine.  His HCTZ and ACEi were not restarted due to his 
+renal failure.  Further titration will be necessary.
+- of note he had microscopic hematuria on UA.  This requires 
+follow up 
+
+HL:
+Resumed statin.  LFTs normal.
+
+ 
+Medications on Admission:
+HAS NOT TAKEN IN LAST 10 MONTHS:
+amlodipine 5 qd
+atrova 10 qhs
+glipizide 5 qd
+hctz 50 qd
+lisinopril 40 qd
+metformin 500 BID
+ASA 81mg daily
+
+ 
+Discharge Medications:
+1. Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*90 
+Tablet Refills:*0
+2. Atorvastatin 10 mg PO QPM 
+RX *atorvastatin 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+3. Glargine 25 Units Bedtime
+RX *insulin glargine [Lantus Solostar] 100 unit/mL (3 mL) AS DIR 
+25 Units before BED; Disp #*3 Syringe Refills:*0
+4. Amlodipine 10 mg PO DAILY 
+RX *amlodipine 10 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0
+5. GlipiZIDE 10 mg PO BID 
+RX *glipizide 10 mg 1 tablet(s) by mouth twice a day Disp #*60 
+Tablet Refills:*0
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Hypertensive urgency
+Type 2 diabetes mellitus with nephropathy
+Acute kidney injury
+CKD stage III
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+You were admitted with very high blood pressure and high blood 
+sugars causing headache and fatigue.  This improved with 
+medication and IV fluids.  It is very important that you take 
+your medications every day and as prescribed.  Please also check 
+your blood sugars ___ times per  day and keep a log for when you 
+see your diabetes doctor.
+ 
+Followup Instructions:
+___

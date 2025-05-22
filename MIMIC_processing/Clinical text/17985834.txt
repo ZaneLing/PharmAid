@@ -1,0 +1,307 @@
+Name:  ___              Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Pre-syncope
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+HISTORY OF PRESENTING ILLNESS:  Mr. ___ is a 
+___
+male with active tobacco use and presumptive history of a
+cardiomyopathy/chronic systolic heart failure, albeit without
+collateral documentation or point-of-care echocardiogram,
+presents with lightheadedness and coordination of cardiology
+care. ___ emigrated from ___ some years ago,
+then moved from ___ on ___ to join his wife and two
+children in ___. He is ill informed, and less forthcoming 
+this
+evening, but, per other providers, apparently reported a
+cardiomyopathy with an left ventricular ejection fraction on the
+order of ___. He does tell me he was hospitalized about ___
+years ago under unclear circumstances and was diagnosed at that
+time. They seemingly never uncovered the cause of his
+cardiomyopathy. He described what might be an unrevealing
+coronary angiogram. He was drinking "a lot" then, meaning "pints
+of vodka," so might have attributed his cardiomyopathy to this.
+He admits to alcohol consumption since, but his report is
+inconsistent among providers here. He does not have an ICD. He
+cannot recall the name of his cardiologist, his medications, or
+dry weight. I called his wife, who was in transit, so could not
+recite his medications. She thinks he has a cardiologist by the
+name ___ in ___, ___), but he is seemingly an emergency department
+physician. ___ has not taken any medications for at least 
+four
+weeks, which, in part, prompted him to seek care. He, moreover,
+was "dizzy" at work today, meaning lightheadedness, prompting 
+him
+to seek care. This has since resolved and he is entirely
+asymptomatic now. He works in ___ at ___, but
+could not describe any activities temporally related to his
+spell. He likewise cannot comment on nutrition or hydration. He
+syncopized about year ago and this sensation was somewhat akin 
+to
+that. He felt "weak" all over but had no preceding chest pain,
+shortness of breath, or palpitations. These spells probably 
+occur
+weekly. He is afebrile and hemodynamically stable with normal
+oxygenation here. Labs are notable for a normal CBC, renal
+function, and hypokalemia to 3.4. Liver function tests are 
+within
+normal limits. Lactate is 2.4. Troponin is undetectable. proBNP
+is 88. ECG is NSR. Telemetry is unrevealing. There is no chest
+x-ray. He received lisinopril 10 mg and Lopressor 12.5 mg. He 
+was
+hypoglycemic once or twice to 50-range, despite glucose gel, so
+received dextrose-containing fluid. It is not clear if he was
+ever symptomatic while hypoglycemic. 
+
+REVIEW OF SYSTEMS: Constitutionally, he otherwise feels well. He
+has not documented a fever at home and denies rigors, anorexia,
+or recent illnesses. He is not certain about changes to his
+weight. He has detected decreased visual acuity on other
+occasions of lightheadedness. He is not dyspneic when ambulating
+or performing other strenuous occupational maneuvers. He denies
+orthopnea or PND. He has no chest pain, lower extremity edema, 
+or
+abdominal distention. He might have appreciated a fast heart 
+rate
+in the past. He denies gastrointestinal distress or lower 
+urinary
+tract symptoms.
+
+ 
+Past Medical History:
+-Presumptive cardiomyopathy/chronic systolic heart failure.
+-Alcohol use of unclear significance. 
+
+ 
+Social History:
+___
+Family History:
+He learned from a paternal uncle today that
+"everyone" has "heart problems" and diabetes, but he cannot
+elaborate.  
+
+ 
+Physical Exam:
+============================
+ADMISSION PHYSICAL EXAM
+============================
+VITALS: T 97.6 HR 67 127/82
+GENERAL: Young male in no apparent physical distress.
+HEENT: Anicteric sclerae. Oropharynx clear.
+NECK: JVP is 8-10 cm. There is no HJR.
+CV: Regular rate and rhythm. S1/S2. No murmur or gallop. PMI is
+not displaced.
+PULM: Comfortable. Lungs clear.
+ABDOMEN: Soft. Non-distended. Non-tender. No hepatomegaly.
+EXTREMITIES: Warm. No edema. Pulses palpable and symmetric.
+NEURO: Non-focal.
+SKIN: Within normal limits.
+
+===========================
+DISCHARGE PHYSICAL EXAM
+===========================
+ 
+Pertinent Results:
+==========================
+ADMISSION LAB RESULTS
+==========================
+___ 10:40AM BLOOD WBC-6.2 RBC-4.81 Hgb-15.7 Hct-42.2 MCV-88 
+MCH-32.6* MCHC-37.2* RDW-12.4 RDWSD-39.9 Plt ___
+___ 10:40AM BLOOD Neuts-53.6 ___ Monos-8.7 Eos-1.0 
+Baso-0.5 Im ___ AbsNeut-3.33 AbsLymp-2.23 AbsMono-0.54 
+AbsEos-0.06 AbsBaso-0.03
+___ 10:40AM BLOOD ___ PTT-29.3 ___
+___ 10:40AM BLOOD Glucose-71 UreaN-9 Creat-1.0 Na-145 
+K-3.4* Cl-106 HCO3-23 AnGap-16
+___ 10:40AM BLOOD ALT-10 AST-16 AlkPhos-79 TotBili-0.4
+___ 10:40AM BLOOD proBNP-88
+___ 10:40AM BLOOD cTropnT-<0.01
+___ 10:40AM BLOOD Albumin-4.6 Calcium-9.1 Phos-3.2 Mg-2.0
+___ 10:54AM BLOOD Lactate-2.4*
+
+==========================
+DISCHARGE LAB RESULTS
+==========================
+___ 06:23AM BLOOD WBC-5.2 RBC-4.80 Hgb-15.8 Hct-42.6 MCV-89 
+MCH-32.9* MCHC-37.1* RDW-12.5 RDWSD-40.8 Plt ___
+___ 06:23AM BLOOD Glucose-89 UreaN-11 Creat-1.0 Na-142 
+K-4.3 Cl-107 HCO3-21* AnGap-14
+___ 06:23AM BLOOD Calcium-9.4 Phos-3.2 Mg-2.0 Iron-246* 
+Cholest-136
+___ 06:23AM BLOOD calTIBC-389 Ferritn-142 TRF-299
+___ 06:23AM BLOOD %HbA1c-4.9 eAG-94
+___ 06:23AM BLOOD Triglyc-53 HDL-58 CHOL/HD-2.3 LDLcalc-67
+___ 10:40AM BLOOD TSH-1.3
+
+==========================
+IMAGING AND REPORTS
+==========================
+ADMISSION CHEST X-RAY ___
+IMPRESSION:  
+No pneumonia or acute cardiopulmonary process. 
+
+TRANSTHORACIC ECHO ___
+The left atrial volume index is normal. The right atrium is 
+mildly enlarged. There is no evidence for an atrial septal 
+defect by 2D/color Doppler. The estimated right atrial pressure 
+is ___ mmHg. There is
+normal left ventricular wall thickness with a normal cavity 
+size. There is mild global left ventricular hypokinesis. 
+Quantitative biplane left ventricular ejection fraction is 44 % 
+(normal 54-73%). Left ventricular cardiac index is normal (>2.5 
+L/min/m2). There is no resting left ventricular outflow tract 
+gradient. Tissue Doppler suggests a normal left ventricular 
+filling pressure (PCWP less than 12mmHg).
+Normal right ventricular cavity size with normal free wall 
+motion. Tricuspid annular plane systolic excursion (TAPSE) is 
+normal. The aortic sinus diameter is normal for gender with 
+normal ascending aorta diameter for gender. The aortic arch 
+diameter is normal with a normal descending aorta diameter. The 
+aortic valve leaflets (3) appear structurally normal. There is 
+no aortic valve stenosis. There is no aortic regurgitation. The 
+mitral valve leaflets appear structurally normal with no mitral 
+valve prolapse. There is mild [1+] mitral regurgitation. The 
+pulmonic valve leaflets are normal. The tricuspid valve leaflets 
+appear structurally normal. There is an eccentric, interatrial 
+sepal directed jet of mild [1+] tricuspid regurgitation. There 
+is mild pulmonary artery systolic hypertension. There is no 
+pericardial effusion.
+IMPRESSION: 
+Normal left ventricular wall thickness and biventricular cavity 
+sizes. Mild global left ventricular hypokinesis. Normal right 
+ventricular free wall systolic function. Mild mitral and 
+tricuspid regurgitaiton. Mild pulmonary hypertension.
+
+  
+
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man originally from ___ who 
+recently moved to ___, history of tobacco and alcohol use, 
+possibly previous diagnosis of cardiomyopathy presented with 
+light-headedness. He underwent TTE which showed reduced EF of 
+44%. He will follow up with cardiology outpatient.
+
+ACUTE PROBLEMS:
+===============
+# Heart failure borderline reduced ejection fraction
+Patient reported that he had previously been admitted for heart 
+failure with ejection fraction around 15%. This occurred in 
+___ prior to his move to ___. He is not sure what caused 
+his heart failure and is overall a poor historian. He took 
+medications after this event including metoprolol, Lasix, 
+lisinopril but reported that he hasn't taken them in at least a 
+year. He did not present with symptoms of HF exacerbation but 
+did complain of light-headedness while at work. He did not have 
+any evidence of arrhythmia on telemetry. He was euvolmeic 
+without orthostatic vital signs. A TTE showed borderline reduced 
+ejection fraction of 44% without significant valvular disease. 
+It was presumed that he may have had a diagnosis of HFrEF in the 
+past from which he has now recovered. The most likely culprit 
+would be alcohol-induced given that the patient reported 
+drinking pints of vodka but has been quite variable with his 
+story. He will be discharged with metoprolol succinate and 
+lisinopril. Dr. ___ will see him in clinic, and he will also 
+be set up with a new PCP.
+
+# Light-headedness 
+# Hypoglycemia
+When patient presented to the ED he was found to be hypoglycemic 
+to the ___. He received dextrose solutions but subsequently 
+became hypoglycemic again. After admission this did not recur. 
+This is most likely explanation for his complaints of 
+light-headedness. He will be setup with new PCP for continued 
+workup. Would consider insulinoma in the setting of recurrent 
+hypoglycemia. 
+
+# Alcohol use
+His report of alcohol consumption is inconsistent among various 
+providers. He admits that he used to drink quite a bit but has 
+since cut down. Would continue ongoing discussion with patient 
+to encourage reduced alcohol consumption. 
+
+=========================
+TRANSITIONAL ISSUES
+=========================
+[ ] Follow up episodes of hypoglycemia. Occurred several times 
+in the ED and recurred despite administration of dextrose. Could 
+be a likely explanation for his presenting light-headedness.
+[ ] New medications: lisinopril and metoprolol succinate
+[ ] Follow up with Dr. ___ in clinic
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. FoLIC Acid 1 mg PO DAILY 
+2. Lisinopril 5 mg PO BID 
+3. Metoprolol Succinate XL 50 mg PO BID 
+4. Furosemide 80 mg PO DAILY 
+5. Spironolactone 12.5 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Lisinopril 5 mg PO DAILY 
+RX *lisinopril 5 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*0 
+2.  Metoprolol Succinate XL 25 mg PO DAILY 
+RX *metoprolol succinate 25 mg 1 tablet(s) by mouth once a day 
+Disp #*30 Tablet Refills:*0 
+3. HELD- Spironolactone 12.5 mg PO DAILY  This medication was 
+held. Do not restart Spironolactone until instructed by your new 
+cardiologist.
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY:
+-Heart failure borderline reduced ejection fraction 
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+You were admitted to the hospital because of feeling 
+light-headed. Please see below for more information on your 
+hospitalization. It was a pleasure participating in your care!  
+ 
+We wish you the best!
+- Your ___ Healthcare Team  
+
+What happened while you were in the hospital?  
+- You were evaluated by the cardiology team.
+- You had a study done of your heart which showed that the pump 
+function of your heart was slightly reduced around 44%.
+- You were started on medications to help your heart disease.
+- You were improved significantly and were ready to leave the 
+hospital.
+
+What should you do after leaving the hospital?  
+-  Please take your medications as listed in discharge summary 
+and follow up at the listed appointments. 
+
+ 
+Followup Instructions:
+___

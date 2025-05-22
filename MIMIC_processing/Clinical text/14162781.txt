@@ -1,0 +1,268 @@
+Name:  ___                   Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+hydrochlorothiazide
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Headache
+ 
+Major Surgical or Invasive Procedure:
+None
+
+ 
+History of Present Illness:
+Mr. ___ is a ___ yo ___ man with recent 
+diagnosis of HTN who is presenting as a transfer for 
+hyponatremia. Four days ago, he presented to an OSH with a 
+headache for four days. He also was having significant nausea 
+and vomiting causing poor PO intake. At the OSH, he labs were 
+notable for Na was 115 --> 119 after 1L NS, K 2.8, Urine SG 
+1.010, urine osm 393, urine Na 132, and serum osm 246. Na on ___ 
+was 126. CT head and neck were normal. Of note, he was 
+previously on chlorthalidone which was changed to lisinopril on 
+___. 
+
+In the ED, vitals were notable for normotension and bradycardia 
+at 58-60 beats per minute. Exam was notable for flat neck veins. 
+Labs showed Na 123 --> 126 and K 3.5, which was repleted. Renal 
+was consulted who felt his hyponatremia was consistent with 
+SIADH although noted his high UNa could be in the setting of
+chlorthalidone. His urine Na are now consistent with normal ADH, 
+so he is at high risk fo overcorrection and was placed on ddAVP. 
+He was given 250 cc NS. 
+
+On arrival to the floor, he reports his headache is a ___ right 
+now and his nausea is much better. He has had bad headaches for 
+over ___ years that are always associated with nausea/vomiting. 
+He used to take ibuprofen for this but was told by his PCP to 
+switch to Tylenol. His son also had migraines and died suddenly 
+at age ___ from a severe headache, so he is very concerned about 
+his own
+headaches. He currently has some bad taste in his month for the 
+past few days, but denies any heartburn symptoms at baseline. He 
+denies any new vision changes, weakness, neck pain, CP, SOB, arm 
+pain, hematemesis, coffee ground emesis, hematochezia, melena, 
+leg swelling, rashes, or lightheadedness. 
+
+REVIEW OF SYSTEMS:
+==================
+Per HPI, otherwise, 10-point review of systems was within normal 
+limits.
+
+ 
+Past Medical History:
+HTN
+Severe headaches for the past ___ years
+
+ 
+Social History:
+___
+Family History:
+Son - migraines, died after severe headache of unknown causes at 
+age ___
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAM:
+========================
+VITALS: 97.5 118/74 60 18 100%RA 
+GENERAL: Alert and interactive. In no acute distress.
+HEENT: PERRL, EOMI. Sclera anicteric and without injection. MMM.
+NECK: No cervical lymphadenopathy. No JVD.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, mild tenderness in
+epigastrum without guarding or rebound tenderness. No masses. No
+organomegaly.
+EXTREMITIES: No clubbing, cyanosis, or edema. Pulses DP/Radial 
+2+
+bilaterally.
+SKIN: Warm. Cap refill <2s. No rashes.
+NEUROLOGIC: AOx3. CN2-12 intact. ___ strength x4 extremities.
+Normal sensation x4 extremities. 
+
+DISCHARGE PHYSICAL EXAM:
+========================
+VITALS: 
+___ 0726 Temp: 97.6 PO BP: 128/77 R Lying HR: 51 RR: 18 O2
+sat: 97% O2 delivery: Ra 
+GENERAL: Alert and interactive. In no acute distress. Sitting up
+in bed. Family member in chair next to bed.
+HEENT: Sclera anicteric and without injection. MMM.
+CARDIAC: Regular rhythm, normal rate. Audible S1 and S2. No
+murmurs/rubs/gallops.
+LUNGS: Clear to auscultation bilaterally. No wheezes, rhonchi or
+rales. No increased work of breathing.
+ABDOMEN: Normal bowels sounds, non distended, non-tender to
+palpation. 
+EXTREMITIES: Warm, no edema b/l.
+ 
+Pertinent Results:
+ADMISSION LABS:
+___ 04:26PM BLOOD WBC-8.9 RBC-4.09* Hgb-13.1* Hct-35.2* 
+MCV-86 MCH-32.0 MCHC-37.2* RDW-11.8 RDWSD-36.5 Plt ___
+___ 04:26PM BLOOD Neuts-72.6* Lymphs-17.9* Monos-7.7 
+Eos-1.1 Baso-0.5 Im ___ AbsNeut-6.43* AbsLymp-1.59 
+AbsMono-0.68 AbsEos-0.10 AbsBaso-0.04
+___ 04:26PM BLOOD Glucose-97 UreaN-7 Creat-0.9 Na-123* 
+K-3.5 Cl-88* HCO3-23 AnGap-12
+___ 04:26PM BLOOD Albumin-4.3
+___ 04:26PM BLOOD Osmolal-248*
+
+SODIUM TREND:
+___ 05:07PM BLOOD Na-123*
+___ 06:53PM BLOOD Na-126*
+___ 11:44PM BLOOD Na-123* K-3.5
+___ 03:50AM BLOOD Na-128*
+___ 08:51AM BLOOD Na-123*
+___ 10:22AM BLOOD Na-124*
+___ 03:05PM BLOOD Na-122*
+___ 06:45PM BLOOD Na-125*
+___ 11:00PM BLOOD Na-125*
+___ 03:24AM BLOOD Na-125*
+___ 07:15AM BLOOD Na-127*
+___ 11:07AM BLOOD Na-125*
+___ 01:34PM BLOOD Na-129*
+___ 05:40PM BLOOD Na-130*
+___ 09:20PM BLOOD Na-132*
+___ 12:40AM BLOOD Na-134*
+___ 07:12AM BLOOD Glucose-97 UreaN-13 Creat-0.9 Na-136 
+K-4.0 Cl-97 HCO3-23 AnGap-16
+___ 02:55PM BLOOD Na-135
+
+DISCHARGE LABS:
+___ 07:19AM BLOOD Glucose-101* UreaN-19 Creat-0.9 Na-139 
+K-4.2 Cl-102 HCO3-24 AnGap-13
+ 
+Brief Hospital Course:
+TRANSITIONAL ISSUES:
+====================
+[ ] He came in with hyponatremia which we believe was due to 
+receiving chlorthalidone prior to admission. He should not 
+receive a thiazide diuretic in the future.
+[ ] He presented with tension headaches, which were worrisome to 
+him because his son died suddenly after a headache. Should his 
+insurance allow him to follow with a neurologist, he should be 
+referred to see one to help manage his headaches.
+[ ] He complained of insomnia, which can be further evaluated in 
+the outpatient setting.
+[ ] Although he was prescribed lisinopril after the 
+chlorthalidone was discontinued in the outpatient setting, he 
+was not treated with any blood pressure medications in the 
+hospital and remained normotensive. His blood pressure should be 
+monitored as an outpatient to determine if he needs an 
+antihypertensive agent.
+[ ] Please check his sodium at his follow-up appointment. Should 
+he become hyponatremic again in the future, he will need to see 
+nephrology.
+
+# CODE: Full, presumed
+# CONTACT: Nephew, ___ ___
+
+SUMMARY:
+========
+Mr. ___ is a ___ yo ___ man with recent 
+diagnosis of HTN who is presenting as a transfer for 
+hyponatremia. 
+
+ACUTE/ACTIVE ISSUES:
+====================
+#Hyponatremia
+Likely initially hypovolemic hyponatremia that responded to IVF 
+resuscitation. Patient then started to overcorrect with free 
+water excretion. Started on ddAVP in the ED at ___. ddAVP was 
+then stopped and he was started on salt tabs with fluid 
+restriction. He responded appropriately and the salt tabs and 
+fluid restriction were discontinued prior to discharge. His Na 
+on discharge was 139.
+
+#Epigastric tenderness
+Patient presented with some epigastric tenderness that resolved 
+after one day. Likely due to vomiting episodes.
+
+#Headaches
+Appeared to be tension-type headaches associated with stress. 
+Reassuringly, CTA Head at hospital in ___ was 
+negative for aneurysm. 
+
+#ST segment changes on ECG
+#1st degree heart block 
+No chest pain or anginal equivalents. Likely normal 
+repolarization. Troponins were negative.
+
+CHRONIC/STABLE ISSUES:
+======================
+#HTN
+Per conversation with pharmacist at Stop and Shop in ___, 
+patient was started on chlorthalidone 25 mg QD on ___. He then 
+was switched from chlorthalidone to lisinopril 10 mg QD on ___. 
+His lisinopril was held while inpatient and he remained 
+normotensive. It was not restarted at discharge.
+
+#Insomnia 
+Endorses over the past 8 months. Unclear trigger. This can be 
+further evaluated as an outpatient.
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Lisinopril 10 mg PO DAILY 
+
+ 
+Discharge Medications:
+No discharge medications
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+PRIMARY DIAGNOSIS
+==================
+Hyponatremia
+Tension type headache
+
+SECONDARY DIAGNOSIS
+====================
+Hypertension
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___,
+
+It was a pleasure taking care of you here at ___ 
+___.
+
+WHY WAS I ADMITTED TO THE HOSPITAL?
+- You were admitted because your sodium levels were dangerously 
+low.
+
+WHAT WAS DONE WHILE I WAS HERE?
+- We gave you fluids and medications to help safely correct your 
+sodium levels.
+- Your sodium levels were monitored very closely.
+
+WHAT DO I NEED TO DO ONCE I LEAVE?
+- Please take your medications as prescribed.
+- Please keep your appointments.
+- If you get confused or feel more sleepy than usual, you should 
+go to the Emergency Room to get your sodium level checked.
+
+Best wishes,
+Your ___ Care Team
+ 
+Followup Instructions:
+___

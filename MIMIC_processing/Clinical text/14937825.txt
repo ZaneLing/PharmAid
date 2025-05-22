@@ -1,0 +1,348 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: NEUROLOGY
+ 
+Allergies: 
+No Allergies/ADRs on File
+ 
+Attending: ___.
+ 
+Chief Complaint:
+dizzy, left facial droop, left arm weakness
+ 
+Major Surgical or Invasive Procedure:
+none
+
+ 
+History of Present Illness:
+HPI: 
+___ PMH HTN, HLD who presents with acute onset dizziness, left
+facial droop and LUE paresis at 1600.
+
+Patient reports that he was sitting down and started to feel
+light-headed so he walked to his kitchen to get a glass of water
+and then sat down on the couch. He then noticed that his left 
+arm
+was weak and he had trouble drinking the water so he called for
+help. He thought his speech was slightly off, but otherwise did
+not have any other symptoms. He denied headache, visual changes,
+difficulty with comprehension, parasthesias, gait disturbances.
+
+Initial SBP in 200s, with NIHSS 4 that went to 140s and 0
+respectively in 20 minutes. CTA at OSH showed non-occlusive clot
+in right distal M1. Due to rapid improvement of symptoms, tPA 
+was
+not given and he was loaded with ASA. He was transferred to 
+___
+for further observation/management should he become symptomatic
+again and require EVT. 
+
+He has a history of HTN and was previously on amlodipine, but
+then had lost a significant amount of weight so was then taken
+off. He has never had an episode like this before. He was never
+told that he had AFIB or an arrhythmia in the past. There is no
+FH of clotting or bleeding disorders, early MIs or early 
+strokes.
+ 
+
+ 
+Past Medical History:
+hypertension
+hyperlipidemia
+ 
+Social History:
+___
+Family History:
+no neurologic family history
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION: 
+Vitals:  HR 73 BP 176/123 RR 18 O2 97% RA 
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive; Language is fluent with intact
+repetition and comprehension. Normal prosody. There were no
+paraphasic errors. Able to name both high and low frequency
+objects. No dysarthria. Able to follow both midline and
+appendicular commands. There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+
+  [___]
+L    5    5    5    5-   5    5   5    5    5   5    5    
+R    5    5    5    5    5    5   5    5    5   5    5    
+
+-Sensory: No deficits to gross touch throughout. No extinction 
+to
+DSS. 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     1
+R   2     2      2      2     1 
+
+Plantar response was flexor bilaterally.
+
+-Coordination: No dysmetria on FNF or HKS bilaterally.
+
+-Gait: Good initiation. Narrow-based, normal stride and arm
+swing.  Able to walk in tandem without difficulty.
+
+DISCHARGE PHYSICAL EXAMINATION
+VITALS: ___ 1659 - T97.6, HR65, BP127/86, O2 99% RA
+General: Awake, cooperative, NAD.
+HEENT: NC/AT, no scleral icterus noted, MMM, no lesions noted in
+oropharynx.
+Pulmonary: Normal work of breathing.
+Cardiac: RRR, warm, well-perfused.
+Abdomen: Soft, non-distended.
+Extremities: No ___ edema.
+Skin: No rashes or lesions noted.
+
+Neurologic:
+-Mental Status: Alert, oriented x 3. Able to relate history
+without difficulty. Attentive; Language is fluent with intact
+repetition and comprehension. Normal prosody. There were no
+paraphasic errors. Able to name both high and low frequency
+objects. No dysarthria. Able to follow both midline and
+appendicular commands. There was no evidence of apraxia or
+neglect.
+
+-Cranial Nerves:
+II, III, IV, VI:  PERRL 3 to 2mm and brisk. EOMI without
+nystagmus. Normal saccades. VFF to confrontation. 
+V: Facial sensation intact to light touch.
+VII: No facial droop, facial musculature symmetric.
+VIII: Hearing intact to finger-rub bilaterally.
+IX, X: Palate elevates symmetrically.
+XI: ___ strength in trapezii bilaterally.
+XII: Tongue protrudes in midline with good excursions.
+
+-Motor: Normal bulk and tone throughout. No pronator drift. No
+adventitious movements, such as tremor or asterixis noted.
+
+  [___]
+L    5    5    5    5    5    5   5    5    5   5    5    
+R    5    5    5    5    5    5   5    5    5   5    5    
+
+-Sensory: No deficits to light touch throughout. No extinction 
+to
+DSS. 
+
+-Reflexes:
+  [Bic] [Tri] [___] [Pat] [Ach]
+L   2     2      2      2     1
+R   2     2      2      2     1 
+
+Plantar response was flexor bilaterally.
+
+-Coordination: No dysmetria on FNF or HKS bilaterally.
+
+-Gait: normal stance, normal stride
+ 
+Pertinent Results:
+MRI-B ___ -   
+IMPRESSION:  
+1. Acute infarcts of the right putamen, adjacent to the trigone 
+of the right 
+lateral ventricle and within the right occipital and posterior 
+temporal lobes. 
+2. No acute intracranial hemorrhage, mass effect or midline 
+shift. 
+3. Mild cerebellar tonsillar ectopia measuring up to 4 mm below 
+the foramen 
+magnum without evidence of syrinx or other stigmata to suggest 
+Chiari I 
+malformation. 
+
+___ 06:25AM BLOOD WBC-7.5 RBC-4.43* Hgb-12.8* Hct-38.2* 
+MCV-86 MCH-28.9 MCHC-33.5 RDW-12.0 RDWSD-38.1 Plt ___
+___ 07:05PM BLOOD Neuts-85.3* Lymphs-7.5* Monos-6.0 
+Eos-0.5* Baso-0.2 Im ___ AbsNeut-11.08* AbsLymp-0.97* 
+AbsMono-0.78 AbsEos-0.06 AbsBaso-0.03
+___ 06:25AM BLOOD ___ PTT-28.4 ___
+___ 06:25AM BLOOD Glucose-104* UreaN-16 Creat-1.0 Na-139 
+K-4.2 Cl-100 HCO3-26 AnGap-13
+___ 06:25AM BLOOD ALT-33 AST-17
+___ 07:05PM BLOOD cTropnT-<0.01
+___ 06:25AM BLOOD Calcium-9.7 Phos-3.9 Mg-2.1
+___ 07:05PM BLOOD %HbA1c-5.2 eAG-103
+___ 07:05PM BLOOD Triglyc-366* HDL-39* CHOL/HD-6.2 
+LDLcalc-130*
+___ 06:25AM BLOOD TSH-5.2*
+ 
+Brief Hospital Course:
+Mr. ___ is a ___ year old man with a medical history 
+notable for obesity, hypertension, and hyperlipidemia who 
+presented to the hospital with acute onset of dizziness, and 
+left face and arm hemiparesis. His initial SBP was >200. His 
+hypertension was treated and his deficits resolved. He underwent 
+MRI which revealed multifocal right sided infarcts in the 
+internal capsule, corpus callosum and posterior parietal lobe. 
+He had vessel imaging initially, which was unremarkable. He 
+underwent transthoracic echocardiogram followed by 
+transesophageal echocardiography which were both unremarkable 
+(there was no PFO). Hypercoaguable labs for arterial thrombosis 
+were sent (LAC, b2 glycoprotein, cardiolipin ab). Homocysteine 
+should be sent as an outpatient. His exam was initially notable 
+for left face and arm weakness, but by the end of his 
+hospitalization he had no residual focal neurologic deficits. He 
+was loaded with aspirin 325mg and then started on aspirin 81mg 
+daily as well as atorvastatin 20mg daily. He was counseled to 
+avoid alcohol use. He was discharged home in hemodynamically 
+stable condition. Etiology of stroke was embolic, but underlying 
+reason for this was unclear at time of discharge. Will need 
+further follow up outpatient.
+
+TRANSITIONAL ISSUES
+- follow up hypercoagulable labs, obtain homocysteine level as 
+an outpatient (unable to draw inpatient)
+- consider antihypertensive medication to be added as outpatient
+
+================================
+
+AHA/ASA Core Measures for Ischemic Stroke and Transient Ischemic 
+Attack
+1. Dysphagia screening before any PO intake? (x) Yes, confirmed 
+done - () Not confirmed () No. If no, reason why:
+2. DVT Prophylaxis administered? (x) Yes - () No. If no, why not 
+(I.e. bleeding risk, hemorrhage, etc.)
+3. Antithrombotic therapy administered by end of hospital day 2? 
+(x) Yes - () No. If not, why not? (I.e. bleeding risk, 
+hemorrhage, etc.)
+4. LDL documented? (x) Yes (LDL =130 ) - () No
+5. Intensive statin therapy administered? (simvastatin 80mg, 
+simvastatin 80mg/ezetemibe 10mg, atorvastatin 40mg or 80 mg, 
+rosuvastatin 20mg or 40mg, for LDL > 70) () Yes - (x) No [if LDL 
+>70, reason not given:
+[ ] Statin medication allergy
+[ x] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ] LDL-c less than 70 mg/dL
+6. Smoking cessation counseling given? () Yes - (x) No [reason 
+(x) non-smoker - () unable to participate]
+7. Stroke education (personal modifiable risk factors, how to 
+activate EMS for stroke, stroke warning signs and symptoms, 
+prescribed medications, need for followup) given in written 
+form? (x) Yes - () No
+8. Assessment for rehabilitation or rehab services considered? 
+(x) Yes - () No. If no, why not? (I.e. patient at baseline 
+functional status)
+9. Discharged on statin therapy? (x) Yes - () No [if LDL >70, 
+reason not given:
+[ ] Statin medication allergy
+[ ] Other reasons documented by physician/advanced practice 
+nurse/physician ___ (physician/APN/PA) or pharmacist
+[ ] LDL-c less than 70 mg/dL
+10. Discharged on antithrombotic therapy? (x) Yes [Type: (x) 
+Antiplatelet - () Anticoagulation] - () No 
+11. Discharged on oral anticoagulation for patients with atrial 
+fibrillation/flutter? () Yes - () No - If no, why not (I.e. 
+bleeding risk, etc.) (x) N/A
+
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. This patient is not taking any preadmission medications
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY 
+RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*6 
+2.  Atorvastatin 20 mg PO QPM 
+RX *atorvastatin 20 mg 1 tablet(s) by mouth once a day Disp #*30 
+Tablet Refills:*5 
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Right sided multifocal embolic stroke
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear ___,
+
+You were hospitalized due to symptoms of acute onset dizziness, 
+left facial droop, and left arm weakness resulting from an ACUTE 
+ISCHEMIC STROKE, a condition where a blood vessel providing 
+oxygen and nutrients to the brain is blocked by a clot. The 
+brain is the part of your body that controls and directs all the 
+other parts of your body, so damage to the brain from being 
+deprived of its blood supply can result in a variety of 
+symptoms.
+
+Your strokes were relatively small, and you were asymptomatic 
+from your stroke by the time of discharge.
+
+We checked blood work and you had ultrasounds of the heart to 
+assess for reasons for stroke. Some of the blood work was still 
+pending at the time of discharge.
+
+Stroke can have many different causes, so we assessed you for 
+medical conditions that might raise your risk of having stroke. 
+In order to prevent future strokes, we plan to modify those risk 
+factors. Your risk factors are:
+high blood pressure
+high cholesterol
+
+We are changing your medications as follows:
+START Aspirin 81mg
+START Atorvastatin 20mg
+
+Please take your other medications as prescribed.
+
+Please follow up with Neurology and your primary care physician 
+as listed below.
+
+If you experience any of the symptoms below, please seek 
+emergency medical attention by calling Emergency Medical 
+Services (dialing 911). In particular, since stroke can recur, 
+please pay attention to the sudden onset and persistence of 
+these symptoms:
+- Sudden partial or complete loss of vision
+- Sudden loss of the ability to speak words from your mouth
+- Sudden loss of the ability to understand others speaking to 
+you
+- Sudden weakness of one side of the body
+- Sudden drooping of one side of the face
+- Sudden loss of sensation of one side of the body
+
+Sincerely,
+Your ___ Neurology Team
+ 
+Followup Instructions:
+___

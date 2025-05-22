@@ -1,0 +1,302 @@
+Name:  ___                    Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   F
+ 
+Service: MEDICINE
+ 
+Allergies: 
+levofloxacin
+ 
+Attending: ___.
+ 
+Chief Complaint:
+syncope
+ 
+Major Surgical or Invasive Procedure:
+Abdominal abscess aspiration ___
+ 
+History of Present Illness:
+___ is a ___ w/ HTN who presents for an episode of
+syncope and several episodes of emesis, found to have imaging
+findings c/f a possible abscess near the gallbladder fossa.
+
+Ms. ___ was in her USOH until ___ in the ___. Patient
+states that during the day she went to a picnic where she ate 
+new
+foods (including cow heart); in the evening she felt uneasy and
+had some leg cramps; she repositioned herself to another chair,
+and shortly thereafter lost consciousness. Per husband who
+witnessed, patients LOC lasted approximately 1 minute, and was
+not accompanied by shaking. Ms. ___ denies CP, palpitations,
+SOB, tongue biting, urinary or fecal incontinence. She states
+that she occasionally faints when she feels unwell. 
+After she regained consciousness she went to sleep, but woke up
+one hour later with the urge to defecate- as she stood up she
+became extremely lightheaded, at which point her husband called
+___. On the way to ___ she developed several
+episodes of non-bloody emesis. 
+At the OSH she had a CT of her abdomen that showed a 2.8cm
+possible fluid collection near the gallbladder fossa that is c/f
+potential liver abscess, so she was transferred here for further
+workup. 
+
+Currently, Ms. ___ feels well- she states that she no longer
+feels nauseous or lightheaded. She denies recent sick contacts,
+recent travel (though she and her husband went to ___ from
+___, recent freshwater swimming. Denies F/C,
+diarrhea, constipation, melena, hematochezia. The only other
+notable is that she recently started taking turmeric supplement
+again over the last few weeks (from ___.
+ 
+Past Medical History:
+HTN
+elevated intraocular pressure
+ 
+Social History:
+___
+Family History:
+arrhythmia in her sister
+HTN in her mother
+ 
+Physical ___:
+ADMISSION EXAM:
+============
+VITALS: 24 HR Data (last updated ___ @ 715) Temp: 98.5 (Tm 
+98.5), BP: 118/77, HR: 66, RR: 20, O2 sat: 93%, O2 delivery: RA, 
+Wt: 222.4 lb/100.88 kg
+GENERAL: Alert and in NAD
+EYES: Anicteric, PERRLA, EOMI
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx: without visible lesion, erythema or exudate
+CV: RRR, no murmurs/rubs/gallops. No JVD or hepatojugular reflux
+RESP: Lungs CTAB, no crackles/rhonchi/wheezes, breathing
+non-labored
+GI: Abdomen soft, ND, NTTP, +BS, no HSM
+GU: No suprapubic or CVA TTP
+MSK: Neck supple, moves all extremities, strength grossly full
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly
+intact throughout
+PSYCH: pleasant, appropriate affect
+
+DISCHARGE EXAM
+============
+
+Vitals: ___ 1224 Temp: 97.9 PO BP: 110/60 HR: 59 RR: 18 O2 
+sat: 97% O2 delivery: Ra 
+GENERAL: Alert and in NAD
+EYES: Anicteric, PERRLA, EOMI
+ENT: Ears and nose without visible erythema, masses, or trauma. 
+Oropharynx: without visible lesion, erythema or exudate
+CV: RRR, no murmurs/rubs/gallops. No JVD
+RESP: Lungs CTAB, no crackles/rhonchi/wheezes, breathing 
+non-labored
+GI: Abdomen soft, ND, NTTP, +BS, no HSM
+GU: No suprapubic or CVA TTP
+MSK: Neck supple, moves all extremities, strength grossly full 
+and symmetric bilaterally in all limbs
+SKIN: No rashes or ulcerations noted
+NEURO: Alert, oriented, face symmetric, gaze conjugate with 
+EOMI,
+speech fluent, moves all limbs, sensation to light touch grossly 
+intact throughout
+PSYCH: pleasant, appropriate affect
+ 
+Pertinent Results:
+ADMISSION LABS:
+
+___ 08:20PM BLOOD WBC-11.7* RBC-4.67 Hgb-13.9 Hct-41.5 
+MCV-89 MCH-29.8 MCHC-33.5 RDW-12.7 RDWSD-41.3 Plt ___
+___ 08:20PM BLOOD Neuts-76.9* Lymphs-13.5* Monos-8.2 
+Eos-0.6* Baso-0.5 Im ___ AbsNeut-9.01* AbsLymp-1.58 
+AbsMono-0.96* AbsEos-0.07 AbsBaso-0.06
+___ 08:20PM BLOOD ___ PTT-33.8 ___
+___ 08:20PM BLOOD Glucose-99 UreaN-7 Creat-0.7 Na-139 K-3.6 
+Cl-105 HCO3-24 AnGap-10
+___ 08:20PM BLOOD Lactate-1.4
+
+IMPORTANT INTERIM LABS:
+
+___ 05:56AM BLOOD ALT-18 AST-15 AlkPhos-77 TotBili-0.4
+
+MICRO:
+
+___ 3:20 pm ABSCESS      Source: ___ drainage of fluid 
+collection. 
+      LIVER ABSCESS. 
+
+   GRAM STAIN (Final ___: 
+      Reported to and read back by ___. ___ (___) @ 
+___ ON
+      ___. 
+      3+  ___ per 1000X FIELD):   POLYMORPHONUCLEAR 
+LEUKOCYTES. 
+      2+   ___ per 1000X FIELD):   GRAM NEGATIVE ROD(S). 
+
+   FLUID CULTURE (Preliminary): 
+      ESCHERICHIA COLI.    MODERATE GROWTH. 
+         Cefazolin interpretative criteria are based on a dosage 
+regimen of
+         2g every 8h. 
+
+                              SENSITIVITIES: MIC expressed in 
+MCG/ML
+                      
+_________________________________________________________
+                             ESCHERICHIA COLI
+                             |   
+AMPICILLIN------------     4 S
+AMPICILLIN/SULBACTAM--   <=2 S
+CEFAZOLIN-------------   <=4 S
+CEFEPIME--------------   <=1 S
+CEFTAZIDIME-----------   <=1 S
+CEFTRIAXONE-----------   <=1 S
+CIPROFLOXACIN---------   =>4 R
+GENTAMICIN------------   <=1 S
+MEROPENEM-------------<=0.25 S
+PIPERACILLIN/TAZO-----   <=4 S
+TOBRAMYCIN------------   <=1 S
+TRIMETHOPRIM/SULFA----   <=1 S
+
+   ANAEROBIC CULTURE (Preliminary):    NO ANAEROBES ISOLATED. 
+
+   FUNGAL CULTURE (Preliminary):    NO FUNGUS ISOLATED. 
+
+   ACID FAST SMEAR (Final ___: 
+      NO ACID FAST BACILLI SEEN ON DIRECT SMEAR. 
+
+   ACID FAST CULTURE (Preliminary): 
+
+IMAGING:
+
+___ U/S ABD:
+IMPRESSION: 
+Complex collection measuring up to 3.1 cm in the gallbladder 
+fossa, concerning
+for abscess in the setting of leukocytosis.
+
+___ Second Opinion Read CT ABD/PEL
+IMPRESSION:
+1. 2.7 cm fluid collection adjacent to the cholecystectomy 
+clips.
+2. 1.1 cm left adrenal nodule is indeterminate however 
+statistically most
+likely represents an adenoma
+3. Subcentimeter angiomyolipoma in the left kidney
+4. 4 mm lung nodule in the left lower lobe please see 
+recommendations below
+ 
+RECOMMENDATION(S):  For incidentally detected single solid 
+pulmonary nodule
+smaller than 6 mm, no CT ___ is recommended in a low-risk 
+patient, and
+an optional CT in 12 months is recommended in a high-risk 
+patient.
+ 
+See the ___ ___ Guidelines for the Management 
+of Pulmonary
+Nodules Incidentally Detected on CT" for comments and reference:
+___
+
+DISCHARGE LABS:
+
+___ 06:22AM BLOOD WBC-9.0 RBC-4.64 Hgb-13.8 Hct-40.7 MCV-88 
+MCH-29.7 MCHC-33.9 RDW-12.7 RDWSD-40.4 Plt ___
+___ 06:22AM BLOOD Glucose-116* UreaN-13 Creat-0.8 Na-144 
+K-4.0 Cl-105 HCO3-25 AnGap-14
+___ 06:22AM BLOOD Calcium-9.6 Phos-4.1 Mg-2.0
+ 
+Brief Hospital Course:
+___ is a ___ female with medical history of HTN 
+and recent cholecystectomy in ___, who presents for an 
+episode of syncope and several episodes of emesis, found to have 
+liver abscess in gallbladder fossa adjacent
+to cholecystectomy clips.
+
+ACUTE/ACTIVE PROBLEMS:
+
+#Abscess in gallbladder fossa:
+Upon arrival to floor she was asymptomatic. Put on empiric 
+ceftriaxone and metronidazole. U/S confirmed 3cm complex fluid 
+collection in gallbladder fossa. She underwent CT-guided 
+aspiration by ___ on ___. Culture grew e. coli, resistant to 
+ciprofloxacin but otherwise pansensitive. After consultation 
+with ID, switched to directed therapy with Augmentin BID, with 
+course likely ___ weeks, to be determined after ID ___ and 
+repeat imaging. It is not entirely clear when this abscess 
+started, possibly current presentation of nausea/vomiting was 
+incidental and this is a result of prior gallbladder surgery in 
+___ as it is adjacent to the surgical clips.
+
+#Syncope: Likely ___ neurocardiogenic or orthostatic syncope in 
+s/o emesis and lightheadedness, as has happened to her in the 
+past. Seizure unlikely given history; cardiac etiology is 
+certainly possible as she is overweight and has never had a 
+stress test, and her sister has a h/o arrhythmia. No events on 
+telemetry over 24 hours. Orthostatic vital signs negative.
+
+CHRONIC/STABLE PROBLEMS:
+
+#HTN: Continued home chlorthalidone 25mg qd, monitor BP.
+
+#Elevated intraocular pressures: Continued home timolol.
+
+TRANSITIONAL ISSUES:
+[]4 mm lung nodule in the left lower lobe; For incidentally 
+detected single solid pulmonary nodule smaller than 6 mm, no CT 
+___ is recommended in a low-risk patient, and an optional
+CT in 12 months is recommended in a high-risk patient. 
+[] 1.1 cm left adrenal nodule is indeterminate however 
+statistically most likely represents an adenoma 
+[] Recommend outpatient TTE to complete ?syncope work-up
+[] Consider stress test as outpatient
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Chlorthalidone 25 mg PO DAILY 
+2. Timolol Maleate 0.5% 1 DROP BOTH EYES BID 
+3. Aspirin 81 mg PO DAILY 
+
+ 
+Discharge Medications:
+1.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H Duration: 3 Weeks 
+
+RX *amoxicillin-pot clavulanate 875 mg-125 mg 1 tablet(s) by 
+mouth twice a day Disp #*63 Tablet Refills:*0 
+2.  Aspirin 81 mg PO DAILY  
+3.  Chlorthalidone 25 mg PO DAILY  
+4.  Timolol Maleate 0.5% 1 DROP BOTH EYES BID  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Abdominal abscess
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Ms. ___,
+
+You were admitted for vomiting, and found to have a collection 
+of infection in your right upper abdomen, just next to your 
+liver. This was drained and you were started on antibiotics.
+
+It was a pleasure taking care of you!
+
+Sincerely, your ___ Team
+
+ 
+Followup Instructions:
+___

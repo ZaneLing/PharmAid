@@ -1,0 +1,251 @@
+Name:  ___                 Unit No:   ___
+ 
+Admission Date:  ___              Discharge Date:   ___
+ 
+Date of Birth:  ___             Sex:   M
+ 
+Service: MEDICINE
+ 
+Allergies: 
+No Known Allergies / Adverse Drug Reactions
+ 
+Attending: ___.
+ 
+Chief Complaint:
+Chest pain
+ 
+Major Surgical or Invasive Procedure:
+___ Coronary Angiography (no CAD)
+
+ 
+History of Present Illness:
+Mr ___ is a ___ year old man with a history of hypertension, 
+hyperlipidemia and carotid stenosis, who presents to ___ after 
+referral from his primary care physician after ___ positive 
+nuclear stress test suggesting anterior wall ischemia performed 
+two days prior. Patient endorses intermittent substernal chest 
+"pressure" over the last month, with episodes lasting ___ 
+minutes in length. Episodes occur almost daily. Not associated 
+with exertion, not relieved by rest. Able to climb stairs at 
+work without any pain. Not associated with nausea, diaphoresis, 
+dyspnea. Pain does not radiate anywhere. He has not taken 
+anything for the pain. The pain prompted his PCP to obtain ___ 
+stress test, for which he is now referred to ___.
+
+Denies any personal or family cardiac history.
+
+Attempts made in the ED to obtain stress report from PCP were 
+unsuccessful. 
+
+In the ED:  
+Initial VS:  
+Temp 98.0 | HR 79 | BP 132/111 | RR 17 | SpO2 99% RA 
+
+Exam:  
+Generally unremarkable
+
+EKG:  
+NSR, normal axis, isolated T wave flattening in III, no STE or 
+STD
+
+Labs notable for:  
+Trop <0.01 x2
+BNP with HCO3 of 19 and AG of 19
+
+Studies notable for:  
+Normal CXR
+
+Consults:  
+Cardiology was consulted who recommended treatment for ACS 
+without heparin gtt given negative troponin, and admission to 
+___ service.
+
+Patient was given:  
+Atorvastatin 80mg
+Aspirin 324mg
+Metoprolol tartrate 6.25mg
+
+Vitals on transfer:  
+Temp 97.8 | HR 68 | BP 166/82 | RR 16 | SpO2 98% RA 
+
+On the floor patient reports he is feeling well. Endorses still 
+some very mild chest pressure.
+
+REVIEW OF SYSTEMS:  
+Positive per HPI, otherwise negative.
+ 
+Past Medical History:
+- Hypertension  
+- Dyslipidemia  
+- Carotid stenosis
+ 
+Social History:
+___
+Family History:
+No family history of early MI, arrhythmia, cardiomyopathies, or 
+sudden cardiac death.  
+ 
+Physical Exam:
+ADMISSION PHYSICAL EXAMINATION:  
+=======================  
+VS: Temp: 97.7 PO BP: 177/70 R Lying HR: 69 RR: 17 O2 sat: 97% 
+O2 delivery: Ra 
+GENERAL: Lying comfortably in bed, in no acute distress.
+HEENT: Sclera anicteric. Pink conjunctiva.
+NECK: Faint right-sided carotid bruit.
+CARDIAC: Normal rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops.
+LUNGS: Clear to auscultation bilaterally without wheezes, 
+rhonchi, or rales. No increased work of breathing.
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema.
+
+DISCHARGE PHYSICAL EXAMINATION:  
+=======================  
+T 98.0, BP 122/65, HR 59, RR 18, O2 98 RA
+GENERAL: Lying comfortably in bed, in no acute distress.
+HEENT: Sclera anicteric. Pink conjunctiva.
+NECK: Faint right-sided carotid bruit.
+CARDIAC: Normal rate and rhythm. Normal S1, S2. No murmurs, 
+rubs, or gallops.
+LUNGS: Clear to auscultation bilaterally without wheezes, 
+rhonchi, or rales. No increased work of breathing.
+ABDOMEN: Soft, non-tender, non-distended.
+EXTREMITIES: Warm, well perfused. No clubbing, cyanosis, or 
+peripheral edema. Radial access site with strong pulse. 
+ 
+Pertinent Results:
+============================
+ADMISSION LABORATORY STUDIES
+============================
+___ 04:31PM BLOOD Glucose-108* UreaN-17 Creat-1.2 Na-140 
+K-4.5 Cl-102 HCO3-19* AnGap-19*
+___ 04:31PM BLOOD WBC-7.5 RBC-4.21* Hgb-13.3* Hct-40.5 
+MCV-96 MCH-31.6 MCHC-32.8 RDW-12.4 RDWSD-43.8 Plt ___
+
+==========================================
+DISCHARGE AND PERTINENT LABORATORY STUDIES
+==========================================
+___ 04:31PM BLOOD cTropnT-<0.01
+___ 07:50PM BLOOD cTropnT-<0.01
+
+===========================
+REPORTS AND IMAGING STUDIES
+===========================
+___ Coronary Angiography 
+The coronary circulation is right dominant.
+LM: The Left Main, arising from the left cusp, is a medium 
+caliber vessel. This vessel bifurcates into the Left Anterior 
+Descending and Left Circumflex systems.
+LAD: The Left Anterior Descending artery, which arises from the 
+LM, is a medium caliber vessel. There are mild irregularities in 
+the proximal segment. The Diagonal, arising from the proximal 
+segment, is a medium caliber vessel.
+Cx: The Circumflex artery, which arises from the LM, is a large 
+caliber vessel. The ___ Obtuse Marginal, arising from the 
+proximal segment, is a medium caliber vessel. The ___ Obtuse 
+Marginal, arising from the mid segment, is a medium caliber 
+vessel.
+RCA: The Right Coronary Artery, arising from the right cusp, is 
+a large caliber vessel. The Right Posterior Descending Artery, 
+arising from the distal segment, is a medium caliber vessel. The 
+Right Posterolateral Artery, arising from the distal segment, is 
+a medium caliber vessel.
+
+============
+MICROBIOLOGY
+============
+None
+ 
+Brief Hospital Course:
+=================
+SUMMARY STATEMENT
+=================
+Mr. ___ is a ___ year old man with hypertension, 
+hyperlipidemia and carotid stenosis who presents with chest pain 
+and an outpatient nuclear stress test with ischemia in the LAD 
+territory. He had a coronary angiography that showed no 
+significant CAD. 
+
+===================
+TRANSITIONAL ISSUES
+===================
+- New Meds: None
+- Stopped/Held Meds: None
+
+[ ] Should have ongoing evaluation for atypical chest pain. He 
+reports a history of GERD and this could be contributing to his 
+symptoms. 
+
+====================
+ACUTE MEDICAL ISSUES
+====================
+#Atypical chest pain
+#CAD with positive nuclear stress test
+Endorses about a month of non-exertional chest pressure that 
+occurred on almost a daily basis. This was non-radiating and not 
+associated with other symptoms. His physical activity was not at 
+all limited. His PCP ordered an stress nuclear perfusion test 
+that reportedly showed abnormality in LAD territory. He was 
+therefore admitted for further evaluation. Troponin was negative 
+x2. There were no ischemic ECG changes. A coronary angiography 
+showed no angiographically apparent coronary artery disease. His 
+chest pressure was therefore presumed to be non-cardiac. 
+
+#Gap metabolic acidosis
+Found to have very mild gap metabolic acidosis on admission with 
+no obvious etiology. Resolved spontaneously by morning lab draw. 
+
+
+Discharge time 20 min
+ 
+Medications on Admission:
+The Preadmission Medication list is accurate and complete.
+1. Aspirin 81 mg PO DAILY 
+2. Lisinopril 20 mg PO DAILY 
+3. Simvastatin 40 mg PO QPM 
+
+ 
+Discharge Medications:
+1.  Aspirin 81 mg PO DAILY  
+2.  Lisinopril 20 mg PO DAILY  
+3.  Simvastatin 40 mg PO QPM  
+
+ 
+Discharge Disposition:
+Home
+ 
+Discharge Diagnosis:
+Atypical chest pain
+
+ 
+Discharge Condition:
+Mental Status: Clear and coherent.
+Level of Consciousness: Alert and interactive.
+Activity Status: Ambulatory - Independent.
+
+ 
+Discharge Instructions:
+Dear Mr. ___, 
+
+It was a pleasure caring for you while you were admitted to ___ 
+___ ___ ___. 
+
+WHY WERE YOU ADMITTED TO THE HOSPITAL?
+You were having chest pain and the stress test your primary care 
+doctor ordered looked abnormal. 
+
+WHAT HAPPENED WHILE YOU WERE IN THE HOSPITAL?
+We examined the arteries in the heart (coronary angiography) and 
+found there were no blockages. 
+
+WHAT SHOULD YOU DO WHEN YOU GO HOME?
+- See your primary care doctor to discuss what may have been 
+causing your chest pain. 
+
+Sincerely, 
+Your ___ Care Team 
+ 
+Followup Instructions:
+___
