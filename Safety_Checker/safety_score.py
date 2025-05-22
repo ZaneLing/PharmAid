@@ -3,6 +3,8 @@ import sys
 import os
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
+from weight_update import dynamic_weight_update
+
 def calculate_safety_score(json_file_path):
     # 读取JSON文件
     with open(json_file_path, 'r') as file:
@@ -18,12 +20,12 @@ def calculate_safety_score(json_file_path):
     
     # 按照权重计算总分
     weights = {
-        "Conflict_score": 0.3,
-        "Dosage_score": 0.2,
-        "Duplication_score": 0.2,
-        "Context_score": 0.1,
-        "Physical_score": 0.1,
-        "Coverage_score": 0.1
+        "Conflict_score": w[0],
+        "Dosage_score": w[1],
+        "Duplication_score": w[2],
+        "Context_score": w[3], 
+        "Physical_score": w[4],
+        "Coverage_score": w[5]
     }
     
     total_score = (

@@ -88,7 +88,7 @@ def load_prescription(file_path):
         print(f"[Error] 无法加载处方文件 {file_path}: {e}")
         return {}
 
-def run(id):
+def run_safety_checker():
     patient_id = str(id)
     input_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
     prescription = load_json_as_text(input_prescription_file) if os.path.exists(input_prescription_file) else ""
@@ -150,4 +150,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
     id = sys.argv[1]
-    run(id)
+    run_safety_checker(id)
