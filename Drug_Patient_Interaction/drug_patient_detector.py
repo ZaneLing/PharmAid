@@ -114,7 +114,7 @@ def extract_revised_trace(input_file, output_folder):
     except Exception as e:
         print(f"[Error] Failed to extract revised trace: {e}")
 
-def run(id):
+def run_dpi(id):
 
     patient_id = str(id) 
     input_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
@@ -186,4 +186,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
     id = sys.argv[1]
-    run(id)
+    run_dpi(id)

@@ -116,7 +116,7 @@ def extract_retro(input_file, output_folder):
     except Exception as e:
         print(f"[Error] Failed to extract guidance: {e}")   
 
-def run(id):
+def run_retrospector(id):
     patient_id = str(id)
 
     standard_prescription_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/discharge_medications.txt")

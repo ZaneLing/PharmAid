@@ -48,7 +48,6 @@ class SafetyCheckerCrew():
             config=self.agents_config['safety_checker_agent'],
             verbose=True,
             llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434")
-
         )
 
     @task

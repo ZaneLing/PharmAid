@@ -135,7 +135,7 @@ def extract_revised_trace(input_file, output_folder):
     except Exception as e:
         print(f"[Error] Failed to extract revised trace: {e}")
 
-def run(id):
+def run_ddi(id):
         patient_id = str(id)
         
         input_diagnose_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/discharge_diagnosis.txt")
@@ -201,7 +201,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     id = sys.argv[1]
-    run(id)
+    run_ddi(id)
  
 
 

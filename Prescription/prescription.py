@@ -113,40 +113,19 @@ def load_json_as_text(file_path):
         print(f"[Error] 无法加载输入文件 {file_path}: {e}")
         return ""
 
-def run(id):
+def run_prescription(id):
     patient_id = str(id)
 
+    #pre-processing
     input_diagnose_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/discharge_diagnosis.txt")
-    # input_diagnose_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
-    # input_demo_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/social_history_and_family_history.txt")
-    # input_moa_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/medications_on_admission.txt")
-    # input_pmh_file = os.path.join(PROJECT_ROOT, f"CCMDataset/CCMD/{patient_id}/past_medical_history.txt")
-
     diagnosis = open(input_diagnose_file, 'r', encoding='utf-8').read() if os.path.exists(input_diagnose_file) else ""
-    # demo_info = open(input_demo_file, 'r', encoding='utf-8').read()
-    # medications_on_admission = open(input_moa_file, 'r', encoding='utf-8').read()
-    # past_medical_history = open(input_pmh_file, 'r', encoding='utf-8').read()
-
-    # 构造输入文件路径
-    #input_file = f"../BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint_and_Discharge_Diagnoses.json"
-    #chief_complaint_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Chief_complaint.json")
-    # diagnoses_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Patient_Info/Discharge_Diagnose.json")
-    # #cc_content = load_json_as_text(chief_complaint_file)
-    # diagnoses_content = load_json_as_text(diagnoses_file)
-
     previous_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
     DDI_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Drug_Drug_Interaction/DDI.json")
     DPI_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Drug_Patient_Interaction/DPI.json")   
-    
     previous_prescription = load_json_as_text(previous_prescription_file) if os.path.exists(previous_prescription_file) else ""
     DDI = load_json_as_text(DDI_file) if os.path.exists(DDI_file) else ""
     DPI = load_json_as_text(DPI_file) if os.path.exists(DPI_file) else ""
-
-    # previous_prescription = load_json_as_text(previous_prescription_file)
-    # DDI = load_json_as_text(DDI_file)
-    # DPI = load_json_as_text(DPI_file
     
-
     print(f"--------{patient_id}---------")
     print("diagnosis: ",diagnosis)
 
@@ -162,14 +141,14 @@ def run(id):
         'DPI': DPI,
     }
 
-    # 执行 Crew
+    #crew
     print(f"[Prescription] patient processing...: {patient_id}")
     result = PrescriptionCrew().crew().kickoff(inputs=inputs)
 
     print("\n-------FINAL REPORT------\n")
     print(result)
 
-    # 创建目标文件夹
+    #post-processing
     target_folder = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Prescription")
     os.makedirs(target_folder, exist_ok=True)
 
@@ -193,4 +172,4 @@ if __name__ == "__main__":
         sys.exit(1)
 
     id = sys.argv[1]
-    run(id)
+    run_prescription(id)
