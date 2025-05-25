@@ -16,9 +16,9 @@ warnings.filterwarnings(
     category=DeprecationWarning,
     module="httpx._models"
 )
-# load_dotenv()
-# oak = os.getenv("OPENAI_API_KEY")
-# os.environ["OPENAI_API_KEY"] = oak
+load_dotenv()
+oak = os.getenv("OPENAI_API_KEY")
+os.environ["OPENAI_API_KEY"] = oak
 
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
@@ -47,7 +47,7 @@ class SafetyCheckerCrew():
         return Agent(
             config=self.agents_config['safety_checker_agent'],
             verbose=True,
-            llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434")
+            # llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434")
         )
 
     @task
@@ -87,7 +87,7 @@ def load_prescription(file_path):
         print(f"[Error] 无法加载处方文件 {file_path}: {e}")
         return {}
 
-def run_safety_checker():
+def run_safety_checker(id):
     patient_id = str(id)
     input_prescription_file = os.path.join(PROJECT_ROOT, f"BlackBoard/Contents/{patient_id}/Prescription/Prescription.json")
     prescription = load_json_as_text(input_prescription_file) if os.path.exists(input_prescription_file) else ""
@@ -145,7 +145,7 @@ def run_safety_checker():
 
 if __name__ == "__main__":
     if len(sys.argv) != 2:
-        print("[Error] 请提供病人编号作为参数，例如: python prescription.py 1055")
+        print("[Error] lack patient id: python prescription.py 1055")
         sys.exit(1)
 
     id = sys.argv[1]

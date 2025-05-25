@@ -1,6 +1,6 @@
 import os
 import json
-from Safety_Checker.safety_score import calculate_safety_score
+from Safety_Checker.safety_score import calculate_safety_score, extract_scores, extract_weighs, dynamic_weight_update, update_weights_file
 from Safety_Checker.safety_checker import run_safety_checker
 from Patient_Info_Cleaner.patient_info_cleaner import patient_info_clean_process
 from Prescription.prescription import run_prescription
@@ -99,8 +99,27 @@ def main():
                     run_safety_checker(patient_id)
 
                     safety_score_file = os.path.join(PROJECT_ROOT, f"Blackboard/Contents/{patient_id}/Safety_Check/safety_check.json")
-                    patient_prescription_score = calculate_safety_score(safety_score_file)
+                    # patient_prescription_score = calculate_safety_score(safety_score_file)
+                    # print(f"[INFO] Score: {patient_prescription_score}")
+
+                    json_path = os.path.join(PROJECT_ROOT, "output/prescription_safety_evaluation.json")
+                    json_score = json.load(open(json_path, 'r'))
+                    current_score = extract_scores(json_score)
+
+                    print("[INFO] current score:", current_score)   
+
+                    weights_path = os.path.join(PROJECT_ROOT, "Safety_Checker/weights.json")
+                    current_weights = extract_weighs(weights_path)
+
+                    print("[INFO] current weights:", current_weights)
+
+                    safety_score = calculate_safety_score(json_path, current_weights)
                     print(f"[INFO] Score: {patient_prescription_score}")
+                    w = dynamic_weight_update(current_weights, current_score)
+                    print(f"Updated Weights: {w}")
+                    update_weights_file(weights_path, w)
+                    print(f"Final Evaluation Score: {safety_score}")
+
                 except RuntimeError as e:
                     print(f"[ERROR] error: {e}")
                     print(f"[INFO] Pass {patient_id} iteration.")

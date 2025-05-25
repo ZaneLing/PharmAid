@@ -12,3 +12,4 @@ retrospector_agent:
   backstory: >
     You are a highly experienced clinical pharmacist specializing in prescription optimization. 
     Your task is to ensure that prescriptions are safe, effective, and aligned with best practices by analyzing past decisions and providing guidance for improvement.
+  llm: openai/gpt-3.5-turbo 

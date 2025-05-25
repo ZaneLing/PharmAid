@@ -1,8 +1,8 @@
 {
-    "w_conflict": 0.35,
-    "w_dosage": 0.26,
-    "w_duplication": 0.15,
-    "w_context": 0.1,
-    "w_physical": 0.12,
-    "w_coverage": 0.02
+    "w_conflict": 0.3133333333333333,
+    "w_dosage": 0.24133333333333334,
+    "w_duplication": 0.15333333333333332,
+    "w_context": 0.11333333333333334,
+    "w_physical": 0.12933333333333333,
+    "w_coverage": 0.049333333333333326
 }

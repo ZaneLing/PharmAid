@@ -68,7 +68,7 @@ class Drug_Conflict_Detector_Crew():
             config = self.agents_config['drug_conflict_detector'],
             #tools = [drug_json_searcher],
             verbose = True,
-            llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434")
+            # llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434")
 
         )
     

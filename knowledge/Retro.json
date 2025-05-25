@@ -196,5 +196,15 @@
         "Guidance": [
             "[\"If a patient has diverticulitis and renal cyst, consider adding Torsemide to manage fluid overload.\", \"When modifying medications for patients with diverticulitis, prioritize reducing inflammation and controlling pain and infection with Prednisone and Meloxicam.\", \"For patients with renal cysts, ensure that kidney function is protected by maintaining Lisinopril therapy at 10 mg orally once a day.\"]"
         ]
+    },
+    {
+        "timestamp": "2025-05-23 11:41:08",
+        "Guidance": [
+            "Trigger condition: Presence of hypovolemia and hyponatremia, Recommended action: Consider mannitol as an osmotic diuretic, Expected outcome: Effective management of hypovolemia and hyponatremia",
+            "Trigger condition: Diagnosis of hypertension, Recommended action: Start lisinopril for blood pressure management, Expected outcome: Control of blood pressure and organ protection",
+            "Trigger condition: Chronic sciatica with neuropathic pain, Recommended action: Initiate gabapentin for pain management, Expected outcome: Reduction of neuropathic pain associated with chronic sciatica",
+            "Trigger condition: Hypovolemia and hypertension, Recommended action: Consider metolazone for diuresis and hypertension management, Expected outcome: Enhanced diuresis in hypovolemia and control of hypertension",
+            "Trigger condition: NSAID use with risk of ulcers or bleeding, Recommended action: Prescribe ranitidine for gastrointestinal protection, Expected outcome: Reduced risk of NSAID-induced ulcers or bleeding"
+        ]
     }
 ]
