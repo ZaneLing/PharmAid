@@ -35,7 +35,7 @@ poetry install
 This will install all required packages and set up a virtual environment.
 
 ### 3. Set OpenAI API Key
-Open .env file and set your OpenAI API key as an environment variable:
+Open `.env` file and set your OpenAI API key as an environment variable:
 ```bash
 OPENAI_API_KEY = 'your_api_key'
 ```
