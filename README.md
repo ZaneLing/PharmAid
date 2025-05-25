@@ -4,10 +4,10 @@
 
 ## A multi-agent architecture leveraging patient statements and clinical knowledge for prescription risk inspection. 
 
-- <b>Prism Mapping Layer</b> for information extraction and classification from patient input.
-- <b>Refraction Iteration Layer</b> where multiple agents (e.g., DDI Detector, DPI Detector) collaboratively refine a prescription based on extracted information and clinical rules.
-- <b>Prism Focusing Layer</b> for final safety checks and interpretability analysis. 
-- <b>Retrospection mechanism</b> enables continuous learning and improvement of the system.
+Medication prescribing errors remain a critical challenge in clinical practice, often stemming from incomplete patient understanding, ambiguous documentation, and suboptimal decision support. 
+In this paper, we propose PRISMATIC, a 3-layer multi-agent prescription risk mitigation framework designed to generate safe, interpretable, and traceable drug regimens by analyzing unstructured patient clinical note texts.
+To enhance adaptability and safety, PRISMATIC integrates two mechanisms: (1) Dynamic Self-updating Weight Adjustment (DSWA), which tunes risk factor weights over time, and (2) Differential Feedback Calibration Mechanism (DFCM), which learns from discrepancies with gold-standard prescriptions to improve future outputs.
+Evaluated on a curated dataset from MIMIC-IV, PRISMATIC outperforms raw LLM outputs and prompting-based baselines (Few-Shot, Chain-of-Thought, ReAct, Tree-of-Thoughts) in reducing prescription risks. These results highlight the potential of multi-agent systems for improving clinical medication decision support.
 
 ## Setup Instructions
 
