@@ -1,8 +1,0 @@
-___
-M: HTN
-F: HTN
- 
-Physical Exam:
-ADMISSION PHYSICAL EXAM:
-=======================
-VS: Temp: 98.0 BP: 163/84 HR: 61 RR: 16 SaO2 100% RA

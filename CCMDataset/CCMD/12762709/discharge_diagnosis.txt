@@ -1,7 +1,0 @@
-PRIMARY:
-Palpitations
-
-SECONDARY:
-Hypertension
-Hyperlipidemia
-Glaucoma

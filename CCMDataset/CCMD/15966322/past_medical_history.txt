@@ -1,6 +1,0 @@
-PMH:hypertension
-diabetes
-hyperparathyroidism
-hypothyroidism
-
-PSH:C-section in ___

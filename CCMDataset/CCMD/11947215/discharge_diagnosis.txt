@@ -1,7 +1,0 @@
-PRIMARY:
-# Transaminitis
-
-SECONDARY:
-# Primary syphilis
-# Anemia
-# Chronic prostatitis

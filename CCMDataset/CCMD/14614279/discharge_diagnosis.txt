@@ -1,6 +1,0 @@
-PRIMARY DIAGNOSIS
-- Acute hemoglobin drop, possible GI bleed 
-- Acute kidney injury
-
-SECONDARY DIAGNOSIS
-- Mechanical fall

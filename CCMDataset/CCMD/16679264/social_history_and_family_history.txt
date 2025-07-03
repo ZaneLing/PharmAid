@@ -1,7 +1,0 @@
-___
-- mother: CHF and rheumatoid arthritis
-- father: HTN
-- sister: rheumatoid arthritis
- 
-Physical Exam:
-On admission:

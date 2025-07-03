@@ -1,9 +1,0 @@
-PRIMARY:
-Migraine headache
-
-SECONDARY:
-Pituitary adenoma
-Hyperprolactinemia
-Hypothyroidism
-Adrenal insufficiency
-Transaminitis

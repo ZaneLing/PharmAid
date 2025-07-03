@@ -1,9 +1,0 @@
-- Breast Cancer ___: in remission  
-- GERD  
-- HTN  
-- Inflammatory Arthropathy  
-- Microscopic hematuria  
-- Migraine  
-- NASH  
-- Thyroid nodule  
-- Sjogren's

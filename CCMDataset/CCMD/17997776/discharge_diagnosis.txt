@@ -1,7 +1,0 @@
-PRIMARY DIAGNOSIS
--Crohn's disease
-SECONDARY DIAGNOSIS
--Anal fistula
--Anemia
--s/p laparoscopic gastric bypass
-Import Discharge Diagnosis

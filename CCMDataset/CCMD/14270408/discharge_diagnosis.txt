@@ -1,9 +1,0 @@
-PRIMARY DIAGNOSES: 
-==================
-Pulmonary Embolism
-Deep Vein Thrombosis
-
-SECONDARY DIAGNOSES: 
-====================
-HYPERTENSION
-GERD

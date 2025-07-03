@@ -1,8 +1,0 @@
-PRIMARY DIAGNOSIS:
-==================
-# Upper GI bleed, gastric ulcer
-# Acute blood loss anemia
-
-SECONDARY DIAGNOSIS:
-====================
-# Coronary artery disease

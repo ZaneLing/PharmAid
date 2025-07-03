@@ -1,9 +1,0 @@
-1. Acetaminophen ___ mg PO Q8H:PRN pain 
-RX *acetaminophen 500 mg ___ tablet(s) by mouth every six (6) 
-hours Disp #*20 Tablet Refills:*0
-2. Ibuprofen 600 mg PO Q8H:PRN pain 
-RX *ibuprofen 600 mg 1 tablet(s) by mouth every six (6) hours 
-Disp #*20 Tablet Refills:*0
-3. DiCLOXacillin 500 mg PO Q6H 
-RX *dicloxacillin 500 mg 1 capsule(s) by mouth every six (6) 
-hours Disp #*38 Capsule Refills:*0

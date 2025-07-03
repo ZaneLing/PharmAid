@@ -1,9 +1,0 @@
-- Syncope
-- Non-ST segment elevation myocardial infarction
-- Coronary artery disease
-- Aortic stenosis, moderate
-- Diabetes mellitus
-- Hyperlipidemia
-- Hypertension
-- Gout
-- Pulmonary emphysema

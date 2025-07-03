@@ -1,7 +1,0 @@
-1.  Acetaminophen 1000 mg PO Q6H  
-2.  Calcium Carbonate 1000 mg PO BID  
-3.  Levothyroxine Sodium 125 mcg PO DAILY 
-RX *levothyroxine 125 mcg 1 tablet(s) by mouth once a day Disp 
-#*30 Tablet Refills:*3 
-4.  Atorvastatin 5 mg PO QPM  
-5.  Metoprolol Tartrate 25 mg PO BID

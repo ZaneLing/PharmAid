@@ -1,9 +1,0 @@
-1.  Tamsulosin 0.4 mg PO QHS 
-RX *tamsulosin [___] 0.4 mg 1 capsule(s) by mouth at bedtime 
-Disp #*30 Capsule Refills:*3 
-2.  LevETIRAcetam 2500 mg PO BID  
-3.  PHENObarbital 64.8 mg PO QPM  
-4.  PHENObarbital 129.6 mg PO QAM  
-5.  Phenytoin Sodium Extended 200 mg PO QPM  
-6.  Phenytoin Sodium Extended 300 mg PO QAM  
-7.  Warfarin ___ mg PO DAILY16

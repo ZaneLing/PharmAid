@@ -1,8 +1,0 @@
-PRIMARY:
-Syncope
-Left Ventricular Outflow Tract Obstruction 
-Leukocytosis 
-
-SECONDARY:
-Temporal Arteritis
-Hypertension

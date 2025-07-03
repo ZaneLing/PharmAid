@@ -1,7 +1,0 @@
-ACTIVE 
-#Angioedema
-
-CHRONIC 
-#HTN
-#HIV
-#DM

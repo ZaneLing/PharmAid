@@ -1,9 +1,0 @@
-VSS
-GEN: NAD
-CV: RRR
-PULM: No respiratory distress
-GI: Soft, NT, ND
-RLE: C/D/I dressing to R foot. Cap refill <3 seconds to all 
-digits. Patient able to flex and extend all toes and ankle. 
-Gross sensation is intact
-NEURO: A&Ox3

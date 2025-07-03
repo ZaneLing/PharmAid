@@ -1,4 +1,0 @@
-#Alcohol Withdrawal 
-#Chest Pain 
-#Hematemesis 
-#Hemoptysis

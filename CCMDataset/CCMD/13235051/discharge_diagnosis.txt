@@ -1,7 +1,0 @@
-PRIMARY
-#Hypertensive Urgency
-
-SECONDARY
-#Left Hyperacusis
-#Tinnitus, Dizziness, Nausea
-#Cervical Spondylosis

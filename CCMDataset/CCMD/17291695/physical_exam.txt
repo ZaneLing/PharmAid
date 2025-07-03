@@ -1,7 +1,0 @@
-At discharge:
-V.S: 98.6, 62, 110/50, 20, 96 RA
-Gen: a and o x3, NAD
-CV: RRR, no m/r/g
-Resp: lscta bilat
-Abd: soft, nt, nd, +bs
-Ext: no c/c/e

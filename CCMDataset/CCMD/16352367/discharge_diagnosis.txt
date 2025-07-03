@@ -1,7 +1,0 @@
-PRIMARY:
--Bacterial pneumonia
--Hemoptysis
-
-SECONDARY:
--Leukopenia
--Multiple sclerosis

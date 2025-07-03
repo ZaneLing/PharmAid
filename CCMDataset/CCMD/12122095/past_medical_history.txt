@@ -1,7 +1,0 @@
--Diabetes (NIDDM)
--Hypertension  
--Dyslipidemia  
--Gout
--Obesity
--Alcoholism-Binge Drinking Type
--Smoking (2 ppd x ___ yr = 60 pyh)

@@ -1,8 +1,0 @@
-PMH: 
--hypothyroid
--HTN
--HLD
--GERD
-
-PSH: 
--breast biopsy

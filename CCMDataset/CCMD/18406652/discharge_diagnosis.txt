@@ -1,6 +1,0 @@
-PRIMARY DIAGNOSIS
-- pulmonary embolism with pulmonary infarction
-
-SECONDARY DIAGNOSES
-- ___ use
-- lung nodule

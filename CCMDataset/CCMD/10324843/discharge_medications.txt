@@ -1,8 +1,0 @@
-1.  Acetaminophen 1000 mg PO Q8H  
-2.  Aspirin 325 mg PO DAILY  
-3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - Mild 
-
-  Reason for PRN duplicate override: Alternating agents for 
-similar severity 
-4.Outpatient Physical Therapy
-NWB RLE. Evaluate and treat.

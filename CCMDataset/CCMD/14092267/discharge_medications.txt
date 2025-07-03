@@ -1,9 +1,0 @@
-1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
-2.  Enoxaparin Sodium 90 mg SC Q12H 
-Start: Today - ___, First Dose: Next Routine Administration 
-Time 
-RX *enoxaparin 100 mg/mL ___very twelve (12) hours Disp 
-#*60 Syringe Refills:*0 
-3.  Warfarin 5 mg PO ONCE Duration: 1 Dose 
-RX *warfarin [Coumadin] 1 mg 5 tablet(s) by mouth daily Disp 
-#*90 Tablet Refills:*0

@@ -1,7 +1,0 @@
-PRIMARY DIAGNOSES
-- chronic pain
-- complex regional pain syndrome
-
-SEOCNDARY DIAGNOSES
-- anemia
-- asthma

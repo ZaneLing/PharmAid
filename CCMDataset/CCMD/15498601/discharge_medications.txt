@@ -1,9 +1,0 @@
-1.  ARIPiprazole 10 mg PO QHS 
-RX *aripiprazole 10 mg one tablet(s) by mouth at bedtime Disp 
-#*14 Tablet Refills:*0 
-2.  Vitamin D 1000 UNIT PO DAILY vitamin D deficiency 
-RX *ergocalciferol (vitamin D2) 2,000 unit one tablet(s) by 
-mouth daily Disp #*14 Tablet Refills:*0 
-3.  Venlafaxine 150 mg PO DAILY 
-RX *venlafaxine [Effexor XR] 150 mg one capsule(s) by mouth in 
-the morning Disp #*14 Capsule Refills:*0

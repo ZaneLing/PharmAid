@@ -1,8 +1,0 @@
-#Primary:
-Acute hemoperitoneum 
-Liver mass
-
-#Secondary:
-Prior HCV infection 
-Hypertension 
-Gout

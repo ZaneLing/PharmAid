@@ -1,8 +1,0 @@
-1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild  
-2.  Ibuprofen 400 mg PO Q8H:PRN Pain - Moderate  
-3.  Lidocaine 5% Patch 1 PTCH TD QPM Topical Local Anesthetic  
-4.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Mild 
-  Reason for PRN duplicate override: Patient is NPO or unable to 
-tolerate PO
-RX *oxycodone [Oxaydo] 5 mg 1 tablet(s) by mouth every four (4) 
-hours Disp #*20 Tablet Refills:*0

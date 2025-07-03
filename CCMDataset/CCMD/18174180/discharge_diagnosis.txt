@@ -1,7 +1,0 @@
-Primary: 
-Stable Coronary Artery Disease
-.
-Secondary: 
-Hypercholesterolemia
-Gastroesophageal reflux disease
-Hypertension

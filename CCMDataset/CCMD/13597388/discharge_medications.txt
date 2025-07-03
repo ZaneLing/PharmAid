@@ -1,6 +1,0 @@
-1.  Acetaminophen 1000 mg PO Q6H  
-2.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
-Moderate 
-  Reason for PRN duplicate override: Patient is NPO or unable to 
-tolerate PO 
-3.  Thyroid ___ mg PO DAILY

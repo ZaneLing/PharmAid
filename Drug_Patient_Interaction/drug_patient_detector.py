@@ -47,6 +47,10 @@ class Drug_Patient_Interaction_Crew():
             config=self.agents_config['drug_patient_interaction_analyzer'],
             verbose=True,
             # llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434")
+            llm=LLM(model="ollama/qwen3:8b", base_url="http://localhost:11434"),
+            #llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434"),
+            #llm=LLM(model="ollama/deepseek-r1:8b", base_url="http://localhost:11434"),
+
 
         )
     

@@ -1,6 +1,0 @@
-- Shingles
-- Latent TB 
-- H. Pylori 
-- Cardiomegaly 
-- Hypertension 
-- Pre-Diabetes

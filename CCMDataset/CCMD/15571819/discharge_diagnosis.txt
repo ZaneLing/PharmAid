@@ -1,7 +1,0 @@
-PRIMARY 
-- Mechanical fall 
-- Gastrointestinal bleed
-
-SECONDARY
-- History of stroke
-- Atrial fibrillation

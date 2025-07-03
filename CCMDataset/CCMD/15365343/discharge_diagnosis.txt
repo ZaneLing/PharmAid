@@ -1,8 +1,0 @@
-PRIMARY DIAGNOSIS
-#Symptomatic Anemia
-#Iron Deficiency Anemia
-
-SECONDARY DIAGNOSIS
-#Menorrhagia
-#Uterine Fibroid
-#Concern for Acute Coronary Syndrome

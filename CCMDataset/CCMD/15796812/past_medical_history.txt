@@ -1,9 +1,0 @@
-s/p PAKT ___
-s/p LRRT ___
-h/o ESRD
-h/o IDDM
-hypothyroidism
-HTN
-retinopathy
-s/p ___ arthroscopy
-s/p RIH ___ with recurrence

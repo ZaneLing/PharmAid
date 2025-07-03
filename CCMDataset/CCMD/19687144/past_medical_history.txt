@@ -1,7 +1,0 @@
-PMH: 
--GERD
--breast cancer
--dementia
-
-PSH: 
--bilateral mastectomies

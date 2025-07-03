@@ -1,8 +1,0 @@
-PRIMARY:
-#Chest pain
-
-SECONDARY:
-#GERD
-#HTN
-#HLD
-#History of influenza A

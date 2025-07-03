@@ -1,9 +1,0 @@
-1.  LORazepam 0.5 mg PO BID:PRN anxiety, agitation, imsomnia 
-RX *lorazepam [Ativan] 0.5 mg 1 tablet by mouth twice per day as 
-needed Disp #*14 Tablet Refills:*0 
-2.  RisperiDONE 0.5 mg PO QHS 
-RX *risperidone 0.5 mg 1 tablet(s) by mouth every night Disp 
-#*14 Tablet Refills:*0 
-3.  Sertraline 50 mg PO DAILY 
-RX *sertraline [Zoloft] 50 mg 1 tablet(s) by mouth daily Disp 
-#*14 Tablet Refills:*0

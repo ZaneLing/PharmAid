@@ -1,6 +1,0 @@
-1.  LORazepam 0.5 mg PO Q8H:PRN anxiety 
-RX *lorazepam 0.5 mg 1 tab by mouth every eight (8) hours Disp 
-#*30 Tablet Refills:*0 
-2.  Sertraline 100 mg PO DAILY 
-RX *sertraline 100 mg 1 tablet(s) by mouth daily Disp #*30 
-Tablet Refills:*0

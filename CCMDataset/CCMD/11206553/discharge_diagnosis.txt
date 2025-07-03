@@ -1,6 +1,0 @@
-PRIMARY:
-- Acute diastolic heart failure
-
-SECONDARY:
-- Atrial fibrillation
-- Polycystic kidney disease

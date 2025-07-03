@@ -1,7 +1,0 @@
-PRIMARY DIAGNOSIS:
-- Chronic obstructive pulmonary disease
-- Thoracic aortic aneurism
-- Bicuspid aortic valve
-
-SECONDARY DIAGNOSIS:
-- Hypertension

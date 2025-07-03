@@ -1,9 +1,0 @@
-Vitals:
-T: 99.8, HR: 90, BP:151/75, RR:18, Sat: 93% on RA
-GEN: A&O, NAD
-HEENT: No scleral icterus, mucus membranes moist
-CV: RRR, Normal S1 and S2
-PULM: Clear to auscultation b/l, No W/R/R
-ABD: Soft, non-distended, appropriately tender, incisions clean, 
-dry and intact
-Ext: No ___ edema, ___ warm and well perfused

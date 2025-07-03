@@ -1,8 +1,0 @@
-PRIMARY:
-Bronchiectasis
-Non-tuberculosis mycobacterium infection
-
-SECONDARY:
-Hypertension
-History of tachycardia
-Thyroid nodules

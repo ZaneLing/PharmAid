@@ -1,8 +1,0 @@
-Active:
-- Non-ST Segment Elevation Myocardial Infarction
-- Coronary Artery Disease s/p Cardiac Catherization
-  
-Chronic:
-- DM II non-insulin dependent
-- HTN
-- HLD

@@ -1,8 +1,0 @@
-PRIMARY:
--Syncope
-
-SECONDARY:
--Facial trauma
--Right wrist injury
--CAD
--HLD

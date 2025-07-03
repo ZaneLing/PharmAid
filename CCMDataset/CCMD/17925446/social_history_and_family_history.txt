@@ -1,8 +1,0 @@
-___
-Mother: healthy
-Father: died of lung cancer, was ___
-Children: 
-- sickle cell anemia in daughter
-- son had TB, hepatitis C and hepatitis B, endocarditis 
-No DMII, HTN HLD that runs in the family 
-No cancers that run in the family

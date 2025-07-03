@@ -1,8 +1,0 @@
-1.  Aspirin 81 mg PO DAILY 
-RX *aspirin [Adult Aspirin Regimen] 81 mg 1 tablet(s) by mouth 
-daily Disp #*30 Tablet Refills:*3 
-2.Outpatient Physical Therapy
-3.rolling walker
-diagnosis: acute infarct
-prognosis: fair
-length of need: 12 months

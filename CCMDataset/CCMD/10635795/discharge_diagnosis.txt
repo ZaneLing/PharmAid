@@ -1,5 +1,0 @@
-Primary: Pulmonary Embolism
-
-Secondary:
--Deep Vein Thrombosis
--Tachycardia

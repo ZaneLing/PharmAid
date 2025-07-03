@@ -1,6 +1,0 @@
-Gen: NAD, A&Ox3
-CV: RRR
-Resp: breathing comfortably
-Abd: Soft, minimal tenderness, nondistended, no rebound or
-guarding
-GU: No foley

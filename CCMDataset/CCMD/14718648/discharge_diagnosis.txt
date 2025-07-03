@@ -1,6 +1,0 @@
-Primary:
-- Pericarditis, likely viral in etiology
-
-Secondary:
-- Pericardial effusion without tamponade
-- Anemia

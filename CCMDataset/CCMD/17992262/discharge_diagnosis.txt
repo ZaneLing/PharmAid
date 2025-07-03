@@ -1,6 +1,0 @@
-primary diagnoses:
-# supraventricular tachycardia
-# chest pain
-
-secondary diagnoses:
-# soft tissue infection of knee (s/p L knee arthtoplasty)

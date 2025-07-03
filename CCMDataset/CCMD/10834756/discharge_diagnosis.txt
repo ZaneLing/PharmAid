@@ -1,4 +1,0 @@
-PRIMARY: E. coli urinary tract infection; Alzheimer's Dementia; 
-end stage dementia.
-SECONDARY: Hypertension; atrial fibrillation; congestive heart 
-failure.

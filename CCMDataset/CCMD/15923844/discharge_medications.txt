@@ -1,7 +1,0 @@
-1.  Acetaminophen 1000 mg PO Q8H  
-2.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
-Moderate 
-  Reason for PRN duplicate override: Alternating agents for 
-similar severity
-RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp 
-#*10 Tablet Refills:*0

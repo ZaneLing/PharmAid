@@ -1,8 +1,0 @@
--Biomarker negative unstable angina
--Coronary artery disease with prior myocardial infarction and 
-stenting, but no angiographically apparent flow-limiting disease 
-identified during this admission
--Hyperlipidemia
--Gastroesophageal reflux disease
--Sleep apnea
--Depression

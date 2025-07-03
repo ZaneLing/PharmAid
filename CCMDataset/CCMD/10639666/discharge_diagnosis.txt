@@ -1,9 +1,0 @@
-Primary: 
-Lower Gastrointestinal Bleed
-Sigmoid Diverticulosis
-
-Secondary: 
-Atrial Fibrillation
-Hypertension
-Myocardial Infarction in ___
-Transient Ischemic Attack in ___.

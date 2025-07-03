@@ -1,7 +1,0 @@
-PRIMARY DIAGNOSIS
-- non-ischemic chest pain
-
-SECONDARY DIAGNOSES
-- non-obstructive coronary artery disease
-- obstructive sleep apnea
-- hypertension

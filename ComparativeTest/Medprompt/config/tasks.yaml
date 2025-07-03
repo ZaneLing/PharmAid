@@ -1,0 +1,35 @@
+You are an experienced clinician. Based on the patient's medical record below, write a recommended prescription.
+
+Follow this reasoning process:
+1. Analyze the patient's symptoms and clinical findings.
+2. Infer the most probable diagnosis or set of differential diagnoses.
+3. Determine the treatment goals based on the diagnosis.
+4. Select appropriate medications and specify dosage, route, and frequency.
+5. Justify each prescription choice briefly.
+
+The final output should be a structured prescription list in the format:
+[Drug Name] - [Dosage] - [Route] - [Frequency]
+
+Example:
+
+Patient Record:
+- Age: 62, Gender: Male
+- Chief complaint: Chest pain, shortness of breath
+- Medical history: Hypertension, Type 2 Diabetes
+- Lab findings: Elevated troponin, abnormal ECG
+- Impression: Acute Coronary Syndrome (suspected)
+
+Reasoning:
+1. Symptoms and troponin suggest myocardial infarction.
+2. Need to reduce cardiac workload, prevent clot progression.
+3. Prescribe antiplatelets, anticoagulants, statins, and beta-blockers.
+
+Prescription:
+- Aspirin 100mg oral once daily
+- Clopidogrel 75mg oral once daily
+- Atorvastatin 40mg oral once daily
+- Metoprolol 25mg oral twice daily
+
+Now, generate a prescription for the following patient:
+
+<<Insert New Patient Record Here>>

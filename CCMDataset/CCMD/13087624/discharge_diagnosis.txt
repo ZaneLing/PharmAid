@@ -1,7 +1,0 @@
-Primary diagnoses
-#Fatigue
-#Leukopenia
-
-Secondary diagnoses
-#Chronic inactive gastritis
-#h/o H. pylori

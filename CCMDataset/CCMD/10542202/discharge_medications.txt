@@ -1,9 +1,0 @@
-1.  Gabapentin 400 mg PO TID 
-RX *gabapentin 400 mg 1 capsule(s) by mouth three times a day 
-Disp #*90 Capsule Refills:*6 
-2.  Vitamin D ___ UNIT PO 1X/WEEK (FR) 
-RX *ergocalciferol (vitamin D2) [Drisdol] 50,000 unit 1 
-capsule(s) by mouth Every ___ Disp #*4 Capsule Refills:*6 
-3.  Vitamin E 400 UNIT PO DAILY 
-RX *vitamin E 400 unit 1 capsule by mouth once a day Disp #*30 
-Capsule Refills:*6

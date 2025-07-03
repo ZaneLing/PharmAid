@@ -1,9 +1,0 @@
-1.  Nicotine Polacrilex 1 STCK PO Q1H:PRN tobacco cravings 
-RX *nicotine (polacrilex) [Nicorette] 2 mg 1 stick q1h Disp 
-#*100 Gum Refills:*0 
-2.  RisperiDONE 0.25 mg PO QHS anxiety/mood 
-RX *risperidone 0.25 mg 1 tablet(s) by mouth at bedtime Disp 
-#*14 Tablet Refills:*0 
-3.  Sertraline 25 mg PO DAILY depression 
-RX *sertraline 25 mg 1 tablet(s) by mouth daily Disp #*14 Tablet 
-Refills:*0

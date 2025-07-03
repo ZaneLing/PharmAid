@@ -1,9 +1,0 @@
-VS:  T:99.0 HR:90 BP:129/69 RR:20 Sat:99% RA 
-HEENT: Head is atraumatic, no C-spine tenderness  
-CV: RRR, normal S1+S2, no mrg
-PULM: CTAB, GBAE
-ABD: Soft, NT/ND
-DRE: normal tone, no blood in the vault
-PELIVS: lef hip tenderness
-EXT: Warm, well-perfused. restricted ROM of left lower limb.
-NEURO: A/O x3. Strength and sensation intact throughout.

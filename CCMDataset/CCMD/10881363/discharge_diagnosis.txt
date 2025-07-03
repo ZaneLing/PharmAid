@@ -1,6 +1,0 @@
-PRIMARY
-- Coronary artery disease
-- Retroperitoneal hemorrhage
-
-SECONDARY
-- Hypothyroidism

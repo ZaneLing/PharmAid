@@ -1,7 +1,0 @@
-PRIMARY:
-Acute Coronary Syndrome Rule-Out
-Episodic Dizziness
-
-SECONDARY:
-Hypertension
-Type II Diabetes Mellitus

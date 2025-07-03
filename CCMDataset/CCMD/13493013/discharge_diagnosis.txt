@@ -1,7 +1,0 @@
-Primary:
-- Complicated E. Coli UTI +/- Pyelonephritis
-- Urethral stricture and urinary retention
-
-Secondary:
-- Atrial fibrillation
-- Prostate cancer s/p radiotherapy

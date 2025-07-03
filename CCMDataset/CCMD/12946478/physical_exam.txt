@@ -1,5 +1,0 @@
-LLE:
-Splint C/D/I
-SILT S/S/SP/DP/T
-Firing ___
-+2 pulses distally

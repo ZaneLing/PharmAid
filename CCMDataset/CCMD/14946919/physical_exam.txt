@@ -1,5 +1,0 @@
-GEN: NAD
-RESP: respirations non-labored on room air
-CARD: regular rate
-ABD: soft, non-tender, non-distended, incisions 
-dressed/clean/dry

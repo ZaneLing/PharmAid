@@ -1,6 +1,0 @@
-Gen: NAD, AxOx3
-Card: RRR
-Pulm: CTAB, no respiratory distress
-Abd: Soft, non-tender, non-distended, no rebound or guarding 
-Wounds: c/d/i
-Ext: No edema, warm well-perfused

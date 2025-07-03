@@ -1,8 +1,0 @@
-AFVSS
-Gen: NAD, AOx3
-Head: Braces in place, jaw closed
-neck: no TTP, trachea midline
-Lungs: CTAB, no distress
-Heart: RRR, no JVD
-abdomen: Soft, NT, ND
-Ext: WWP, Full ROM, no TTP

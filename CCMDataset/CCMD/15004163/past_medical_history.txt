@@ -1,7 +1,0 @@
-HTN
-HLD
-Glaucoma
-Gout
-Cervical spinal stenosis
-Note: OMR incorrectly states that patient has a heart murmur and 
-history of Echo, which he does NOT.

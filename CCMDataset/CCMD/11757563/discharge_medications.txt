@@ -1,9 +1,0 @@
-1.  Nicotine Patch 14 mg/day TD DAILY 
-RX *nicotine [Nicoderm CQ] 14 mg/24 hour 1 patch once a day Disp 
-#*30 Patch Refills:*0 
-2.  Sulfameth/Trimethoprim SS 1 TAB PO DAILY 
-RX *sulfamethoxazole-trimethoprim [Bactrim] 400 mg-80 mg 1 
-tablet(s) by mouth once a day Disp #*30 Tablet Refills:*0 
-3.  Bictegrav-Emtricit-Tenofov Ala 1 TAB PO DAILY  
-4.  Tamsulosin 0.4 mg PO QHS  
-5.  ValACYclovir 500 mg PO Q24H

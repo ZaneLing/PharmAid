@@ -1,8 +1,0 @@
-PRIMARY DIAGNOSIS
-=================
-NSTEMI
-
-SECONDARY DIAGNOSIS
-===================
-HLD
-HTN

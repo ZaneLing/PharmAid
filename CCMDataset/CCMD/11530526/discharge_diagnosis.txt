@@ -1,6 +1,0 @@
-PRIMARY DIAGNOSES:
-- AVF Stenosis at venous end
-- AVF Pseudoaneurysm at arterial end
-
-SECONDARY DIAGNOSES:
-- ESRD on HD

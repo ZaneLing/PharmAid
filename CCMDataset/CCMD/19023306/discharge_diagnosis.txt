@@ -1,7 +1,0 @@
-PRIMARY
-=======
-CAP
-
-SECONDARY
-=========
-Asthma

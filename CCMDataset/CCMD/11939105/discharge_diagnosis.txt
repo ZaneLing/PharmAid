@@ -1,8 +1,0 @@
-PRIMARY:
--Upper GI bleed due to gastric ulcer
-SECONDARY:
--Acute blood loss anemia
--Hypothyroidism
--Atrial fibrillation on anticoagulation 
--Transaminitis 
--Chronic dysuria

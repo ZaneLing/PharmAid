@@ -1,9 +1,0 @@
-1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
-2.  Docusate Sodium 100 mg PO BID:PRN Constipation - First Line 
-  Reason for PRN duplicate override: Alternating agents for 
-similar severity 
-3.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - 
-Moderate 
-RX *oxycodone 5 mg 1 tablet(s) by mouth every six (6) hours Disp 
-#*6 Tablet Refills:*0 
-4.  Senna 8.6 mg PO BID:PRN Constipation - First Line

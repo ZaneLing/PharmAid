@@ -1,9 +1,0 @@
-1.  Aspirin 81 mg PO DAILY 
-RX *aspirin [Aspir-81] 81 mg 1 tablet(s) by mouth DAILY Disp 
-#*90 Tablet Refills:*3 
-2.  Atorvastatin 20 mg PO QPM 
-RX *atorvastatin 20 mg 1 tablet(s) by mouth DAILY Disp #*90 
-Tablet Refills:*3 
-3.  Cyanocobalamin 1000 mcg PO DAILY  
-4.  Multivitamins 1 TAB PO DAILY  
-5.  Vitamin D ___ UNIT PO 1X/WEEK (FR)

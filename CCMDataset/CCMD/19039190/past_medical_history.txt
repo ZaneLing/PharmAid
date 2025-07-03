@@ -1,6 +1,0 @@
-- diabetes 
-- HTN 
-- erectile dysfunction
-- obesity
-- hypokalemia
-- back surgery

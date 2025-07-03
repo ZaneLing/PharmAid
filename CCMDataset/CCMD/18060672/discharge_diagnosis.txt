@@ -1,8 +1,0 @@
-PRIMARY DIAGOSES:
-- Post-obstructive pneumonia
-- Right upper lobe lung mass
-- Pituitary stalk mass
-
-SECONDARY DIAGNOSES:
-- Hypercalcemia
-- Hyperlipidemia

@@ -1,9 +1,0 @@
-PRIAMRY DIAGNOSIS:
-==================
-- Non ST-segment Elevation Myocardial Infarction
-
-SECONDARY DIAGNOSIS:
-====================
-- Hypertension
-- Dyslipidemia
-- Coronary artery disease

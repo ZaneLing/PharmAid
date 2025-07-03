@@ -1,9 +1,0 @@
-Primary:
-Syncope
-Supraventricular tachycardia
-Urinary Tract Infection
-Hyperbilirubinemia
-Anemia
-
-Secondary:
-Idiopathic pulmonary fibrosis

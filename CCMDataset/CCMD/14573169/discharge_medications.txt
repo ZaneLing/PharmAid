@@ -1,8 +1,0 @@
-1.  Apixaban 5 mg PO BID 
-RX *apixaban [Eliquis] 5 mg 1 tablet(s) by mouth twice a day 
-Disp #*60 Tablet Refills:*0 
-2.  Nicotine Patch 21 mg/day TD DAILY:PRN Tobacco withdrawal 
-RX *nicotine 21 mg/24 hour one patch to skin once a day Disp 
-#*30 Patch Refills:*0 
-3.  Atenolol 25 mg PO BID  
-4.  MethIMAzole 10 mg PO BID

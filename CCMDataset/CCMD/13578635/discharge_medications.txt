@@ -1,9 +1,0 @@
-1.  Glycopyrrolate 1 mg PO BID 
-RX *glycopyrrolate 1 mg 1 tablet(s) by mouth twice a day Disp 
-#*42 Tablet Refills:*0 
-2.  LamoTRIgine 25 mg PO DAILY 
-RX *lamotrigine 25 mg 1 tablet(s) by mouth Daily Disp #*21 
-Tablet Refills:*0 
-3.  BuPROPion XL (Once Daily) 450 mg PO DAILY 
-RX *bupropion HCl 450 mg 1 tablet(s) by mouth once a day Disp 
-#*21 Tablet Refills:*0

@@ -1,9 +1,0 @@
-___
-n/a
- 
-Physical Exam:
-General Evaluation Exam
-Sensorium:           Awake (x) Awake impaired () Unconscious ()
-Airway:              Intubated () Not intubated (x)
-Breathing:           Stable (x) Unstable ()
-Circulation:         Stable (x)   Unstable ()

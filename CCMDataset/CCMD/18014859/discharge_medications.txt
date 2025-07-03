@@ -1,9 +1,0 @@
-1.  Escitalopram Oxalate 10 mg PO DAILY 
-RX *escitalopram oxalate 10 mg 1 tablet(s) by mouth daily Disp 
-#*5 Tablet Refills:*0 
-2.  QUEtiapine Fumarate 50 mg PO QHS 
-RX *quetiapine 50 mg 1 tablet(s) by mouth at bedtime Disp #*5 
-Tablet Refills:*0 
-3.  QUEtiapine Fumarate 25 mg PO BID PRN sleep/anxiety 
-RX *quetiapine 25 mg 1 tablet(s) by mouth bid prn Disp #*10 
-Tablet Refills:*0

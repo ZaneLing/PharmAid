@@ -1,7 +1,0 @@
-1. Amlodipine 10 mg PO DAILY 
-2. Rivaroxaban 20 mg PO DINNER 
-RX *rivaroxaban [___] 20 mg 1 tablet(s) by mouth daily Disp 
-#*30 Tablet Refills:*2
-3. Metoprolol Tartrate 100 mg PO BID 
-RX *metoprolol tartrate 100 mg 1 tablet(s) by mouth twice daily 
-Disp #*60 Tablet Refills:*0

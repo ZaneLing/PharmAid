@@ -1,7 +1,0 @@
-PMHx:
-Asthma
-COPD
-Bronchitis
-HTN
-Anxiety 
-Depression

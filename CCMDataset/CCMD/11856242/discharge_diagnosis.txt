@@ -1,7 +1,0 @@
-PRIMARY:
-Unstable angina 
-
-SECONDARY:
-CAD s/p CABG 
-HTN
-HLD

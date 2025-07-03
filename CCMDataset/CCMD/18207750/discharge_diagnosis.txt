@@ -1,5 +1,0 @@
--Non-ST segment elevation myocardial infarction
--Coronary artery disease
--Hypertension with hypertensive emergency
--Abnormal liver function tests
--Non-alcoholic steatohepatitis

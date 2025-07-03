@@ -1,6 +1,6 @@
 import os
 import shutil
-from crewai import Agent, Crew, Task, Process
+from crewai import Agent, Crew, Task, Process, LLM
 from crewai.project import CrewBase, agent, task, crew, before_kickoff, after_kickoff
 from langchain_openai import ChatOpenAI
 from textwrap import dedent
@@ -12,9 +12,9 @@ import json
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 
 
-load_dotenv()
-oak = os.getenv("OPENAI_API_KEY")
-os.environ["OPENAI_API_KEY"] = oak
+# load_dotenv()
+# oak = os.getenv("OPENAI_API_KEY")
+# os.environ["OPENAI_API_KEY"] = oak
 
 from crewai_tools import (
     DirectoryReadTool,
@@ -58,7 +58,11 @@ class Patient_Info_Crew():
     def Patient_Info_Cleaner(self) -> Agent:
         return Agent(
             config=self.agents_config['Patient_Info_Cleaner'],
-            verbose=True
+            verbose=True,
+            llm=LLM(model="ollama/qwen3:8b", base_url="http://localhost:11434"),
+            #llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434"),
+            #llm=LLM(model="ollama/deepseek-r1:8b", base_url="http://localhost:11434"),
+
         )
     
     @task

@@ -1,7 +1,0 @@
-Primary:
-NSTEMI
-Acute on chronic systolic congestive heart failure
-
-Secondary:
-Hypertension
-Depression

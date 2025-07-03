@@ -28,9 +28,10 @@ warnings.filterwarnings(
     category=DeprecationWarning,
     module="httpx._models"
 )
-load_dotenv()
-oak = os.getenv("OPENAI_API_KEY")
-os.environ["OPENAI_API_KEY"] = oak
+
+# load_dotenv()
+# oak = os.getenv("OPENAI_API_KEY")
+# os.environ["OPENAI_API_KEY"] = oak
 
 # 定义输出数据模型
 class PrescriptionOutput(BaseModel):
@@ -43,8 +44,11 @@ class PrescriptionCrew():
         return Agent(
             config=self.agents_config['doctor_pharmacist_agent'],
             #knowledge_sources=[json_source],
-            verbose=True
-            # llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434")
+            verbose=True,
+            #llm=LLM(model="ollama/qwen3:8b", base_url="http://localhost:11434"),
+            #llm=LLM(model="ollama/llama3.1:8b-instruct-q4_0", base_url="http://localhost:11434"),
+            llm=LLM(model="ollama/deepseek-r1:8b", base_url="http://localhost:11434"),
+
         )
 
     @task

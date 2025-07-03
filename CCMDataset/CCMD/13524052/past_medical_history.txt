@@ -1,3 +1,0 @@
-PMH: HTN, BPH
-
-PSH: None

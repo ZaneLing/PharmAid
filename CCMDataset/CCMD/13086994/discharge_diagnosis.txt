@@ -1,9 +1,0 @@
-PRRIMARY
-- E. Coli UTI
-- E. Coli blood stream infection 
-- Hyponatremia
-
-SECONDARY
-- Failure to thrive
-- HTN
-- Fall

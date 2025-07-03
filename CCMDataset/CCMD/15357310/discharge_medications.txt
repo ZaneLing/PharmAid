@@ -1,8 +1,0 @@
-1.  Acetaminophen 650 mg PO Q6H:PRN Pain - Mild/Fever  
-2.  Amoxicillin-Clavulanic Acid ___ mg PO Q12H  
-3.  OxyCODONE (Immediate Release) 5 mg PO Q6H:PRN Pain - 
-Moderate 
-  Reason for PRN duplicate override: Alternating agents for 
-similar severity 
-4.  Scopolamine Patch 1 PTCH TD ONCE Duration: 72 Hours  
-5.  Pantoprazole 40 mg PO Q24H

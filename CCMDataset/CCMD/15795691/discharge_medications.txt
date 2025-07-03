@@ -1,7 +1,0 @@
-1.  Acetaminophen 650 mg PO Q4H:PRN pain or temp > ___ 
-RX *acetaminophen 500 mg ___ capsule(s) by mouth Q8H:PRN Disp 
-#*90 Capsule Refills:*0 
-2.  Aspirin 81 mg PO DAILY 
-RX *aspirin [Adult Low Dose Aspirin] 81 mg 1 tablet(s) by mouth 
-daily Disp #*30 Tablet Refills:*3 
-3.  Levothyroxine Sodium 75 mcg PO DAILY

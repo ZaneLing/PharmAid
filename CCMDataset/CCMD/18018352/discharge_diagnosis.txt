@@ -1,7 +1,0 @@
-PRIMARY DIAGNOSIS
-- Chest pain secondary to demand ischemia
-
-SECNDARY DIAGNOSES
-- Aortic stenosis
-- Lung carcinoma with metastasis to multiple lymph nodes
-- Anemia

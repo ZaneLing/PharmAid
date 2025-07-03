@@ -1,9 +1,0 @@
-PRIMARY:
-# Myopericarditis
-# Likely nonischemic cardiomyopathy
-# Acute heart failure with reduced ejection fraction 
-# Sinus tachycardia
-# Troponinemia
-# Transaminitis
-# Coagulopathy
-# Elevated TSH

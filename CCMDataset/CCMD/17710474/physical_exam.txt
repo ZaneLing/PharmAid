@@ -1,7 +1,0 @@
-PE: 
-VS: 98.4  100  126/88  12 99% RA 
-gen: NAD 
-CV: RR, mild tachycardia 
-pulm: CTA b/l 
-abdomen: obese, soft, + BS, ND/NT 
-extremities: no edema

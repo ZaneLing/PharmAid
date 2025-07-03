@@ -1,6 +1,0 @@
-Primary:
-- community acquired pneumonia
-- hepatitis C infection
-
-Secondary:
-history of hypertension

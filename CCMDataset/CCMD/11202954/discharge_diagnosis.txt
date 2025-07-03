@@ -1,7 +1,0 @@
-PRIMARY:
--Acute hepatitis B infection
-
-SECONDARY:
--Hepatitis C
--Opioid use disorder, on methadone 
--Anxiety

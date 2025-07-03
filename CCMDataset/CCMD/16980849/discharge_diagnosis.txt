@@ -1,6 +1,0 @@
-PRIMARY:
-- Lymphadenopathy
-- Abscess
-
-SECONDARY:
-- HIV on HAART

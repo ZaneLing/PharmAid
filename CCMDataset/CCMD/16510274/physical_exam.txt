@@ -1,7 +1,0 @@
-VSS
-Gen: NAD
-CV: RRR
-Lungs: CTA
-Abd: soft, non-tender
-GU: minimal vaginal bleeding
-Ext: no edema, tenderness

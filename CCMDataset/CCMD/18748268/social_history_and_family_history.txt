@@ -1,4 +1,0 @@
-___
-[ ] Breast Cancer [ ] Ovarian Cancer [ ] Melanoma [ X] High BP
-[ ] Depression [ ] Heart disease [ ] Stroke [ ] Diabetes
-[ ] Kidney disease [ ] DVTs (Blood clots)

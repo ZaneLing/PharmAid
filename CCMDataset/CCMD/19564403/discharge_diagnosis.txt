@@ -1,7 +1,0 @@
-PRIMARY:
-- Chest pain
-- Hypertensive emergency
-
-SECONDARY:
-- Right bundle branch block
-- Headaches

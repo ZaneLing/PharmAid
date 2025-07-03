@@ -1,8 +1,0 @@
-1.  Acetaminophen 650 mg PO Q6H  
-2.  OxyCODONE (Immediate Release) 5 mg PO Q4H:PRN Pain - Severe 
-  Reason for PRN duplicate override: for floor
-RX *oxycodone 5 mg ___ tablet(s) by mouth every six (6) hours 
-Disp #*10 Tablet Refills:*0 
-3.  BuPROPion XL (Once Daily) 300 mg PO DAILY  
-4.  Escitalopram Oxalate 20 mg PO DAILY  
-5.  Testosterone Cypionate 60 mg IM WEEKLY

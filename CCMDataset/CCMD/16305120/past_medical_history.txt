@@ -1,5 +1,0 @@
-- Diastolic CHF/Heart failure with preserved ejection fraction
-- Hypertension  
-- Diabetes Mellitus type 2  
-- Obstructive sleep apnea
-- Osteoporosis

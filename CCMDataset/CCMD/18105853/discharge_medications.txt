@@ -1,7 +1,0 @@
-1.  Multivitamins W/minerals 1 TAB PO DAILY 
-RX *multivitamin,tx-minerals  1 tablet(s) by mouth once a day 
-Disp #*30 Tablet Refills:*3 
-2.  Nicotine Patch 21 mg/day TD DAILY Duration: 6 Weeks 
-RX *nicotine 21 mg/24 hour replace current patch with new one 
-each day once a day Disp #*42 Patch Refills:*0 
-3.  losartan-hydrochlorothiazide 100-25 mg oral DAILY

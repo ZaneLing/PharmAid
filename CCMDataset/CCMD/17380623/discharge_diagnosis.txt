@@ -1,6 +1,0 @@
-Primary:
-- Abdominal pain, unspecified
-- Subtherapeutic INR
-
-Secondary:
-- Hypothyroidism

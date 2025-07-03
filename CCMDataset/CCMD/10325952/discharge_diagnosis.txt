@@ -1,5 +1,0 @@
-PRIMARY:
-Pyelonephritis
-
-SECONDARY: 
-Nephrolithiasis

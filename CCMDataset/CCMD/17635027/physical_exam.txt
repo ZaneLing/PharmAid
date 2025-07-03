@@ -1,8 +1,0 @@
-on discharge:
-afebrile, vital signs stable
-Gen: NAD, AxO
-CV: RRR
-Resp: CTAB
-Abd: +BS, soft, nondistended, appropriate tenderness to 
-palpation, incisions c/d/i 
-Ext: calves NT

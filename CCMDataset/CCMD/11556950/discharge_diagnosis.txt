@@ -1,7 +1,0 @@
-PRIMARY:
-========
-Leukocytosis
-Lymphocytosis
-Fever
-Lymphadenopathy
-Malaise

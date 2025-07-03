@@ -1,8 +1,0 @@
-GENERAL: lying in bed comfortably    
-CARDIAC: Regular rate and rhythm, no murmurs, rubs, or gallops  
-LUNG: clear to auscultation bilaterally, no crackles, wheezes, 
-or
-rhonchi  
-ABD: soft, ND, TTP of epigastric region 
-EXT: Warm, well perfused, no lower extremity edema  
-NEURO: Alert, oriented, face symmetric, moving all extremities

@@ -1,8 +1,0 @@
-PRIMARY:
--Non-ST Elevation Myocardial Infarction
-
-SECONDARY:
--Non-ischemic cardiomyopathy
--Left neck mass
--Hypertension
--Dyslipidemia

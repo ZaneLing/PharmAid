@@ -1,6 +1,0 @@
-PRIMARY DIAGNOSIS: 
-- Urinary tract infection 
-- Nephrolithiasis 
- 
-SECONDARY DIAGNOSIS: 
-- ___ Disease

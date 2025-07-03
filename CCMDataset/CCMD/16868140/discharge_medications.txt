@@ -1,9 +1,0 @@
-1.  Acetaminophen (Liquid) 650 mg PO Q4H:PRN Pain - Mild 
-  Reason for PRN duplicate override: Patient is NPO or unable to 
-tolerate PO 
-2.  Chlorhexidine Gluconate 0.12% Oral Rinse 15 mL ORAL BID 
-Duration: 14 Days 
-RX *chlorhexidine gluconate 0.12 % 15 ml twice a day Refills:*0 
-3.  OxycoDONE Liquid 5 mg PO Q4H:PRN Pain - Moderate 
-RX *oxycodone 5 mg/5 mL 5 ml by mouth every six (6) hours 
-Refills:*0

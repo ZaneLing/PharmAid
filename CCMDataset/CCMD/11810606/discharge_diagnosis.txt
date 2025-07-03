@@ -1,8 +1,0 @@
-Primary diagnoses:
-#Unstable angina
-#CAD s/p PCI in ___
-___
-
-Secondary diagnoses:
-#Hypertension
-#Non-insulin dependent diabetes mellitus

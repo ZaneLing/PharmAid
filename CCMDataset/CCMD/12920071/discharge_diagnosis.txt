@@ -1,6 +1,0 @@
-Primary: 
-Non ST Elevation Myocardial Infarction
-
-Secondary: 
-Hypertension
-Hyperlipidemia

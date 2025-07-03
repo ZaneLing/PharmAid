@@ -1,7 +1,0 @@
-primary:
-esophagitis
-upper gastrointestinal bleeding
-
-secondary:
-gastroesophageal reflux disease
-hiatal hernia

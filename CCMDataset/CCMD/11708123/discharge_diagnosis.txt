@@ -1,9 +1,0 @@
-PRIMARY DIAGNOSIS:
-- influenza
-- hypovolemia
-- syncope
-
-SECONDARY DIAGNOSIS:
-- hypertension
-- hyperlipidemia
-- benign prostatic hypertrophy

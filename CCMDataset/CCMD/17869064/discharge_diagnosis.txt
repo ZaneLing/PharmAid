@@ -1,9 +1,0 @@
-Primary:
-Thrombocytopenia
-Leukopenia
-Anemia
-Mycobacterium Avium complex infection
-
-Secondary:
-Depression
-Hypertension

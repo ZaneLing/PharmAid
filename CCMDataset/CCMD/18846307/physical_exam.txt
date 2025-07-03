@@ -1,7 +1,0 @@
-VITALS: 98.0 88 115/66 18 96%RA
-GEN: No acute distress
-CARD:regular rate rhythm
-PULM:clear, no stridor
-ABD:soft, NT/ND
-INC:neck soft, steris c/d/i, no erythema/edema
-Ext:warm well perfused, no ___ edema

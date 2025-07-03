@@ -1,8 +1,0 @@
-1.  Bacitracin Ointment 1 Appl TP BID  
-2.  Ezetimibe 10 mg PO DAILY  
-3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
-Moderate 
-  Reason for PRN duplicate override: admission order 
-4.  Rosuvastatin Calcium 40 mg PO QPM  
-5.  Sertraline 50 mg PO DAILY  
-6.  Thyroid 60 mg PO DAILY

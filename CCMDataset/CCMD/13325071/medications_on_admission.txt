@@ -1,8 +1,0 @@
-Medications: (patient unable to state medications. List below is
-per Medication history tab in OMR, needs confirmation with
-assisted living facility and/or PCP)
-atorvastatin 40 mg daily 
-Lasix 20 mg daily
-citalopram 20 mg daily 
-clopidogrel 75 mg daily
-metoprolol ER 25 mg daily

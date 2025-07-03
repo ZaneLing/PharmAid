@@ -1,7 +1,0 @@
-Primary:
-Melena
-Anemia
-Peptic ulcer disease
-
-Secondary:
-Gastroesophageal reflux disease

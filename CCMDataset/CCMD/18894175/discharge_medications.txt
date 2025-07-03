@@ -1,9 +1,0 @@
-1.  Acetaminophen 1000 mg PO Q6H:PRN pain or temp > ___ 
-RX *acetaminophen 500 mg 2 tablet(s) by mouth every six (6) 
-hours Disp #*60 Tablet Refills:*3 
-2.  Aspirin 81 mg PO DAILY 
-RX *aspirin 81 mg 1 tablet(s) by mouth once a day Disp #*30 
-Tablet Refills:*3 
-3.  Atorvastatin 20 mg PO QPM 
-RX *atorvastatin 20 mg 1 tablet(s) by mouth Every night Disp 
-#*30 Tablet Refills:*3

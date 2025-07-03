@@ -1,4 +1,0 @@
-General: NAD
-Respir: non-labored
-Incisions: CDI
-Extremities: WWP

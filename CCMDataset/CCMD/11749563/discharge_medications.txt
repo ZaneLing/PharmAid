@@ -1,8 +1,0 @@
-1.  Acetaminophen ___ mg PO Q6H:PRN Pain - Mild 
-  Reason for PRN duplicate override: Alternating agents for 
-similar severity 
-2.  Ibuprofen 600 mg PO Q6H:PRN Pain - Moderate 
-  Reason for PRN duplicate override: Alternating agents for 
-similar severity 
-3.  OxyCODONE (Immediate Release) ___ mg PO Q4H:PRN Pain - 
-Severe

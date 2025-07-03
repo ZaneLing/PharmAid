@@ -1,6 +1,0 @@
-#Primary:
-Viral upper respiratory infection
-
-#Secondary:
-Leukocytosis
-Lactic acidosis

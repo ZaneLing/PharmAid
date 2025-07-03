@@ -1,7 +1,0 @@
-1.  Multivitamins W/minerals 1 TAB PO DAILY 
-RX *multivitamin,tx-minerals  1 tablet(s) by mouth daily Disp 
-#*30 Tablet Refills:*0 
-2.  Tenofovir Disoproxil (Viread) 300 mg PO DAILY 
-RX *tenofovir disoproxil fumarate 300 mg 1 tablet(s) by mouth 
-daily Disp #*30 Tablet Refills:*1 
-3.  Buprenorphine-Naloxone Tablet (8mg-2mg) 1 TAB SL BID

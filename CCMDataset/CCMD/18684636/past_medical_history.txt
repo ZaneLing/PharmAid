@@ -1,7 +1,0 @@
-- Breast cancer (BRCA positive, diagnosed in ___ with 
-recurrence in ___ s/p bilateral mastectomy, chemotherapy)
-- Ovarian cancer (Diagnosed ___ history of colectomy, 
-hysterectomy and BSO, chemotherapy end of ___ 
-- HTN
-- CKD
-- Sarcoidosis

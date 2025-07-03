@@ -1,5 +1,0 @@
-#Atrial Fibrillation with bradycardia 
-#Hypertension
-#Heart failure with preserved ejection fraction
-#Hyperlipidemia
-#Gout

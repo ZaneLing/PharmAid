@@ -1,9 +1,0 @@
-PRIMARY
-===============
-Severe LLL Pneumonia
-Severe Sepsis 
-Acute Hypoxic Respiratory Failure 
-
-SECONDARY
-===============
-Asthma

@@ -1,9 +1,0 @@
-1.  Acetaminophen 1000 mg PO Q6H:PRN Pain - Mild/Fever  
-2.  Cephalexin 500 mg PO Q6H 
-RX *cephalexin 500 mg 1 capsule(s) by mouth every 6 hours Disp 
-#*24 Capsule Refills:*0 
-3.  Sulfameth/Trimethoprim DS 2 TAB PO BID 
-RX *sulfamethoxazole-trimethoprim 800 mg-160 mg 2 tablet(s) by 
-mouth twice daily Disp #*11 Tablet Refills:*0 
-4.  ProAir HFA (albuterol sulfate) 90 mcg/actuation inhalation 
-DAILY

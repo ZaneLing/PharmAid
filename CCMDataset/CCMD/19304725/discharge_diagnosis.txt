@@ -1,6 +1,0 @@
-PRIMARY:
--Sick sinus syndrome
--Sinoatrial arrest
-
-SECONDARY:
--Hepatic cysts

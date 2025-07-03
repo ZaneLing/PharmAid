@@ -1,9 +1,0 @@
-DYSPHAGIA                                                       
-CORONARY ARTERY DISEASE                                         
-HYPERLIPIDEMIA                                                  
-HYPERTENSION                                                    
-DIABETES MELLITUS                                               
-ECZEMATOUS DERMATITIS                                           
-ERYTHRODERMA                                                    
-SQUAMOUS CELL CANCER 
-ITP

@@ -1,9 +1,0 @@
-1.  Multivitamins W/minerals 1 TAB PO DAILY 
-RX *multivitamin,tx-minerals [Vitamins and Minerals]  1 
-tablet(s) by mouth daily Disp #*30 Tablet Refills:*0 
-2.  Sulfameth/Trimethoprim DS 1 TAB PO BID Duration: 2 Days 
-RX *sulfamethoxazole-trimethoprim [Bactrim DS] 800 mg-160 mg 1 
-tablet(s) by mouth twice a day Disp #*4 Tablet Refills:*0 
-3.  TraZODone 25 mg PO QHS 
-RX *trazodone 50 mg 0.5 (One half) tablet(s) by mouth at bedtime 
-Disp #*15 Tablet Refills:*0
